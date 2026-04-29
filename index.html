@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Academic Hub - 学术前沿资讯聚合平台</title>
+  <meta name="description" content="汇聚生物信息学、临床研究、计算机科学、气象地质学等多学科前沿学术资讯">
+
+  <!-- 样式 -->
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- Favicon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎓</text></svg>">
+
+  <style>
+    /* 页面加载动画 */
+    .page-loader {
+      position: fixed;
+      inset: 0;
+      background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #a855f7 100%);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+      transition: opacity 0.6s ease-out, visibility 0.6s ease-out;
+    }
+    .page-loader.hidden {
+      opacity: 0;
+      visibility: hidden;
+    }
+    .loader-icon {
+      font-size: 4rem;
+      animation: loaderPulse 1.5s ease-in-out infinite;
+    }
+    .loader-text {
+      color: white;
+      font-size: 1.35rem;
+      margin-top: 1rem;
+      font-weight: 700;
+      letter-spacing: 3px;
+    }
+    .loader-bar {
+      width: 200px;
+      height: 4px;
+      background: rgba(255,255,255,0.25);
+      border-radius: 2px;
+      margin-top: 1.5rem;
+      overflow: hidden;
+    }
+    .loader-bar-inner {
+      width: 0%;
+      height: 100%;
+      background: white;
+      border-radius: 2px;
+      animation: loaderProgress 2.2s ease-out forwards;
+    }
+    @keyframes loaderPulse {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.12); }
+    }
+    @keyframes loaderProgress {
+      0% { width: 0%; }
+      100% { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <!-- 阅读进度条 -->
+  <div class="reading-progress" id="readingProgress"></div>
+
+  <!-- 页面加载动画 -->
+  <div class="page-loader" id="pageLoader">
+    <div class="loader-icon">🎓</div>
+    <div class="loader-text">Academic Hub</div>
+    <div class="loader-bar">
+      <div class="loader-bar-inner"></div>
+    </div>
+  </div>
+
+  <!-- 粒子背景 -->
+  <canvas id="particles-canvas"></canvas>
+
+  <!-- 导航栏 -->
+  <nav class="navbar" id="navbar">
+    <div class="navbar-content">
+      <div class="logo" onclick="window.app.switchSection('latest')">
+        <div class="logo-icon">🎓</div>
+        <span>Academic Hub</span>
+      </div>
+
+      <ul class="nav-links">
+        <li><a href="#" data-section="latest" class="active">最新资讯</a></li>
+        <li><a href="#" data-section="history">历史推送</a></li>
+        <li><a href="#" data-section="favorites">我的收藏</a></li>
+      </ul>
+
+      <div class="nav-actions">
+        <button id="batchModeBtn" class="sound-toggle" title="批量选择模式">
+          ☑️
+        </button>
+        <button id="soundToggle" class="sound-toggle" title="切换音效">
+          🔊
+        </button>
+        <button id="themeToggle" class="theme-toggle" title="切换主题">
+          🌙
+        </button>
+        <button id="favoritesBtn" class="theme-toggle" title="收藏夹">
+          💝
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- 主内容 -->
+  <main class="main-content">
+    <!-- Hero 区域 -->
+    <section class="hero">
+      <h1 class="hero-title">探索学术前沿</h1>
+      <p class="hero-subtitle">
+        汇聚生物信息学、临床研究、计算机科学、气象地质学等多学科最新科研成果
+      </p>
+
+      <!-- 搜索框 -->
+      <div class="search-container" style="position: relative;">
+        <span class="search-icon">🔍</span>
+        <input
+          type="text"
+          id="searchBox"
+          class="search-box"
+          placeholder="搜索论文标题、作者、关键词... 按 / 快速聚焦"
+          autocomplete="off"
+        >
+        <div class="search-history" id="searchHistory"></div>
+      </div>
+
+      <!-- 内容类型筛选 -->
+      <div class="discipline-tags" style="margin-bottom: 0.75rem;">
+        <button class="discipline-tag all active" data-filter="all">全部内容</button>
+        <button class="discipline-tag" data-filter="paper" style="background: linear-gradient(135deg, #6366f1, #8b5cf6); color: white;">📄 学术论文</button>
+        <button class="discipline-tag" data-filter="news" style="background: linear-gradient(135deg, #f472b6, #fb7185); color: white;">📰 资讯新闻</button>
+      </div>
+
+      <!-- 学科标签 -->
+      <div class="discipline-tags">
+        <button class="discipline-tag all active" data-discipline="all">全部学科</button>
+        <button class="discipline-tag bio" data-discipline="bio">🧬 生物信息学</button>
+        <button class="discipline-tag clinical" data-discipline="clinical">🏥 临床研究</button>
+        <button class="discipline-tag cs" data-discipline="cs">💻 计算机科学</button>
+        <button class="discipline-tag geo" data-discipline="geo">🌍 气象地质</button>
+      </div>
+    </section>
+
+    <!-- 统计面板 -->
+    <section class="stats-section">
+      <div id="statsContainer">
+        <!-- 动态加载统计 -->
+      </div>
+    </section>
+
+    <!-- 今日推荐 -->
+    <section class="today-pick-section">
+      <h2 class="section-title">
+        <span class="icon">⭐</span>
+        <span>今日推荐</span>
+      </h2>
+      <div id="todayPick">
+        <!-- 动态加载推荐 -->
+      </div>
+    </section>
+
+    <!-- 关键词云 -->
+    <section class="keyword-section">
+      <h2 class="section-title">
+        <span class="icon">🏷️</span>
+        <span>热门关键词</span>
+      </h2>
+      <div id="keywordCloud" class="keyword-cloud">
+        <!-- 动态加载关键词 -->
+      </div>
+    </section>
+
+    <!-- 内容区域 -->
+    <section class="content-section">
+      <div class="section-header">
+        <h2 class="section-title">
+          <span class="icon">📰</span>
+          <span id="sectionTitle">最新内容</span>
+        </h2>
+        <div class="section-actions">
+          <div class="view-toggle">
+            <button class="view-btn active" data-view="grid">⊞ 网格</button>
+            <button class="view-btn" data-view="list">☰ 列表</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- 批量操作栏 -->
+      <div class="batch-bar" id="batchBar">
+        <span id="batchCount" style="font-weight: 700; color: var(--text-primary);">已选 0 项</span>
+        <button class="batch-btn" id="batchFavorite">❤️ 批量收藏</button>
+        <button class="batch-btn" id="batchExport">📥 批量导出</button>
+        <button class="batch-btn" id="batchCopy">📋 复制链接</button>
+        <button class="batch-btn" id="batchCancel" style="margin-left: auto;">✕ 取消</button>
+      </div>
+
+      <!-- 论文容器 -->
+      <div id="papersContainer" class="papers-grid">
+        <!-- 动态加载 -->
+      </div>
+    </section>
+  </main>
+
+  <!-- 页脚 -->
+  <footer class="footer">
+    <p>🎓 Academic Hub · 学术前沿资讯聚合平台 · 每日 10:00 自动更新</p>
+    <p style="margin-top: 0.5rem; font-size: 0.78rem;">
+      数据来源：PubMed、arXiv、bioRxiv、Nature 等学术数据库
+    </p>
+    <p id="lastUpdatedLine" style="margin-top: 0.4rem; font-size: 0.72rem; color: var(--text-tertiary);">
+      <!-- 最后更新时间由 JS 动态写入 -->
+    </p>
+    <div style="margin-top: 1.25rem; display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap;">
+      <button id="manualUpdate" class="read-more" style="font-size: 0.78rem; padding: 0.5rem 1rem;">
+        🔄 立即更新数据
+      </button>
+      <button id="openDataFolder" class="read-more" style="font-size: 0.78rem; padding: 0.5rem 1rem; background: var(--accent-gradient);">
+        📂 数据管理
+      </button>
+      <button id="clearHistory" class="read-more" style="font-size: 0.78rem; padding: 0.5rem 1rem; background: var(--warm-gradient);">
+        🧹 清除阅读记录
+      </button>
+    </div>
+  </footer>
+
+  <!-- 收藏夹侧边栏 -->
+  <div id="sidebarOverlay" class="modal-overlay" style="z-index: 1400;"></div>
+  <aside id="favoritesSidebar" class="sidebar">
+    <div class="sidebar-header">
+      <h3 class="sidebar-title">
+        <span>💝</span>
+        <span>我的收藏</span>
+      </h3>
+      <button id="sidebarClose" class="sidebar-close">✕</button>
+    </div>
+    <div class="sidebar-content">
+      <div id="sidebarFavorites">
+        <!-- 动态加载 -->
+      </div>
+      <button id="exportFavorites" class="read-more" style="width: 100%; margin-top: 1rem; justify-content: center;">
+        📥 导出所有收藏
+      </button>
+    </div>
+  </aside>
+
+  <!-- 模态框 -->
+  <div id="modalOverlay" class="modal-overlay">
+    <div class="modal">
+      <div class="modal-header">
+        <h3 id="modalTitle" class="modal-title"></h3>
+        <button id="modalClose" class="modal-close">✕</button>
+      </div>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+
+  <!-- Toast 提示 -->
+  <div id="toast" class="toast"></div>
+
+  <!-- 回到顶部 -->
+  <button class="back-to-top" id="backToTop" title="回到顶部">↑</button>
+
+  <!-- 脚本 -->
+  <script src="js/audio.js"></script>
+  <script src="js/data-json.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

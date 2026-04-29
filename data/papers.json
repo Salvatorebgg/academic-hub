@@ -1,0 +1,3124 @@
+{
+  "papers": [
+    {
+      "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
+      "authors": "Zhihuan Wei, Yang Hu, Xinhang Chen, Yiming Zhang, Jie Liu, Wei Wang",
+      "abstract": "arXiv:2604.22777v1 Announce Type: new \nAbstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fault signatures. This paper proposes an intelligent fault diagnosis framework based on multi-fidelity digital twin, integrating four modules: high-fidelity flight dynamics simulation, FMEA-driven fault injection,...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.22777",
+      "keywords": [
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.22777.pdf",
+      "id": "cs-paper-48efd9"
+    },
+    {
+      "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
+      "authors": "Tanmay Parekh, Ella Hofmann-Coyle, Shuyi Wang, Sachith Sri Ram Kothur, Srivas Prasad, Yunmo Chen",
+      "abstract": "arXiv:2604.22934v1 Announce Type: new \nAbstract: LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the cost of latency or vice versa. We reformulate text-to-SQL generation within the lens of software test coverage where the original query is prepared with a suite of test cases with simpler, atomic SQLs that are executed in...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.22934",
+      "keywords": [
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.CL",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.22934.pdf",
+      "id": "cs-paper-8a65e8"
+    },
+    {
+      "title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
+      "authors": "Zixuan Wang, Xingyu Dang, Jason D. Lee, Kaifeng Lyu",
+      "abstract": "arXiv:2604.22951v1 Announce Type: new \nAbstract: Natural language data follows a power-law distribution, with most knowledge and skills appearing at very low frequency. While a common intuition suggests that reweighting or curating data towards a uniform distribution may help models better learn these long-tail skills, we find a counterintuitive result: across a wide range of compositional...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.22951",
+      "keywords": [
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.CL",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.22951.pdf",
+      "id": "cs-paper-8e7f28"
+    },
+    {
+      "title": "On the Existence of an Inverse Solution for Preference-Based Reductions in Argumentation",
+      "authors": "Alessio Zaninotto, Bruno Yun, Nir Oren, Srdjan Vesic",
+      "abstract": "arXiv:2604.22958v1 Announce Type: new \nAbstract: Preference-based argumentation frameworks (PAFs) extend Dung's approach to abstract argumentation (AAFs) by encoding preferences over arguments. Such preferences control the transformation of attacks into defeats, and different approaches to doing so result in different reductions from a PAF to an AAF. In this paper we consider a PAF inverse...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.22958",
+      "keywords": [
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.22958.pdf",
+      "id": "cs-paper-11baff"
+    },
+    {
+      "title": "Towards Causally Interpretable Wi-Fi CSI-Based Human Activity Recognition with Discrete Latent Compression and LTL Rule Extraction",
+      "authors": "Luca Cotti, Luca Lavazza, Marco Cominelli, Liying Han, Gaofeng Dong, Francesco Gringoli, Mani B. Srivastava, Trevor Bihl, Erik P. Blasch, Daniel O. Brigham, Kara Combs, Lance M. Kaplan, Federico Cerutti",
+      "abstract": "arXiv:2604.22979v1 Announce Type: new \nAbstract: We address Human Activity Recognition (HAR) utilizing Wi-Fi Channel State Information (CSI) under the joint requirements of causal interpretability, symbolic controllability, and direct operation on high-dimensional raw signals. Deep neural models achieve strong predictive performance on CSI-based HAR (CHAR), yet rely on continuous latent...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.22979",
+      "keywords": [
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.22979.pdf",
+      "id": "cs-paper-4813f0"
+    },
+    {
+      "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
+      "authors": "Jordan Meadows, Lan Zhang, Andre Freitas",
+      "abstract": "arXiv:2604.23002v1 Announce Type: new \nAbstract: Formalising informal mathematical reasoning into formally verifiable code is a significant challenge for large language models. In scientific fields such as physics, domain-specific machinery (\\textit{e.g.} Dirac notation, vector calculus) imposes additional formalisation challenges that modern LLMs and agentic approaches have yet to tackle. To aid...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.23002",
+      "keywords": [
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.CL",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.23002.pdf",
+      "id": "cs-paper-d2968e"
+    },
+    {
+      "title": "A Systematic Approach for Large Language Models Debugging",
+      "authors": "Basel Shbita, Anna Lisa Gentile, Bing Zhang, Sungeun An, Shailja Thakur, Shubhi Asthana, Yi Zhou, Saptha Surendran, Farhan Ahmed, Rohan Kulkarni, Yuya Jeremy Ong, Chad DeLuca, Hima Patel",
+      "abstract": "arXiv:2604.23027v1 Announce Type: new \nAbstract: Large language models (LLMs) have become central to modern AI workflows, powering applications from open-ended text generation to complex agent-based reasoning. However, debugging these models remains a persistent challenge due to their opaque and probabilistic nature and the difficulty of diagnosing errors across diverse tasks and settings. This...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.23027",
+      "keywords": [
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.23027.pdf",
+      "id": "cs-paper-28c381"
+    },
+    {
+      "title": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows",
+      "authors": "Edward Cheng, Jeshua Cheng",
+      "abstract": "arXiv:2604.23049v1 Announce Type: new \nAbstract: AI agents are increasingly deployed to execute tasks and make decisions within agentic workflows, introducing new requirements for safe and controlled autonomy. Prior work has established the importance of human oversight for ensuring transparency, accountability, and trustworthiness in such systems. However, existing implementations of...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.23049",
+      "keywords": [
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.23049.pdf",
+      "id": "cs-paper-837e17"
+    },
+    {
+      "title": "Don't Make the LLM Read the Graph: Make the Graph Think",
+      "authors": "Yuqi Sun, Tianqin Meng, George Liu, Yashraj Panwar, Lakshya Chaudhry, Munasib Ilham, Aman Chadha",
+      "abstract": "arXiv:2604.23057v1 Announce Type: new \nAbstract: We investigate whether explicit belief graphs improve LLM performance in cooperative multi-agent reasoning. Through 3,000+ controlled trials across four LLM families in the cooperative card game Hanabi, we establish four findings. First, integration architecture determines whether belief graphs provide value: as prompt context, graphs are...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.23057",
+      "keywords": [
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.23057.pdf",
+      "id": "cs-paper-aa8d83"
+    },
+    {
+      "title": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
+      "authors": "Junyan Cheng, Kyle Richardson, Peter Chin",
+      "abstract": "arXiv:2604.23072v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly tasked with complex real-world analysis (e.g., in financial forecasting, scientific discovery), yet their reasoning suffers from stochastic instability and lacks a verifiable, compositional structure. To address this, we introduce Analytica, a novel agent architecture built on the principle of Soft...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.23072",
+      "keywords": [
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.23072.pdf",
+      "id": "cs-paper-fc9c04"
+    },
+    {
+      "title": "Elderly-Contextual Data Augmentation via Speech Synthesis for Elderly ASR",
+      "authors": "Minsik Lee, Seoi Hong, Chongmin Lee, Sieun Choi, Jian Kim, Jua Han, Jihie Kim",
+      "abstract": "arXiv:2604.24770v1 Announce Type: new \nAbstract: Despite recent progress in automatic speech recognition (ASR), elderly ASR (EASR) remains challenging due to limited training data and the distinct acoustic and linguistic characteristics of elderly speech. In this work, we address data scarcity in EASR through a data augmentation pipeline that combines large language model (LLM)-based transcript...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24770",
+      "keywords": [
+        {
+          "term": "cs.CL",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.SD",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24770.pdf",
+      "id": "cs-paper-f0596b"
+    },
+    {
+      "title": "Large Language Models Explore by Latent Distilling",
+      "authors": "Yuanhao Zeng, Ao Lu, Lufei Li, Zheng Zhang, Yexin Li, Kan Ren",
+      "abstract": "arXiv:2604.24927v1 Announce Type: new \nAbstract: Generating diverse responses is crucial for test-time scaling of large language models (LLMs), yet standard stochastic sampling mostly yields surface-level lexical variation, limiting semantic exploration. In this paper, we propose Exploratory Sampling (ESamp), a decoding approach that explicitly encourages semantic diversity during generation....",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24927",
+      "keywords": [
+        {
+          "term": "cs.CL",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24927.pdf",
+      "id": "cs-paper-ed3dc3"
+    },
+    {
+      "title": "GAIA-v2-LILT: Multilingual Adaptation of Agent Benchmark beyond Translation",
+      "authors": "Yunsu Kim, Kaden Uhlig, Joern Wuebker",
+      "abstract": "arXiv:2604.24929v1 Announce Type: new \nAbstract: Agent benchmarks remain largely English-centric, while their multilingual versions are often built with machine translation (MT) and limited post-editing. We argue that, for agentic tasks, this minimal workflow can easily break benchmark validity through query-answer misalignment or culturally off-target context. We propose a refined workflow for...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24929",
+      "keywords": [
+        {
+          "term": "cs.CL",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24929.pdf",
+      "id": "cs-paper-b624b9"
+    },
+    {
+      "title": "ADE: Adaptive Dictionary Embeddings -- Scaling Multi-Anchor Representations to Large Language Models",
+      "authors": "Orhan Demirci, Sezer Aptourachman",
+      "abstract": "arXiv:2604.24940v1 Announce Type: new \nAbstract: Word embeddings are fundamental to natural language processing, yet traditional approaches represent each word with a single vector, creating representational bottlenecks for polysemous words and limiting semantic expressiveness. While multi-anchor representations have shown promise by representing words as combinations of multiple vectors, they...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24940",
+      "keywords": [
+        {
+          "term": "cs.CL",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24940.pdf",
+      "id": "cs-paper-edc2f5"
+    },
+    {
+      "title": "Independent-Component-Based Encoding Models of Brain Activity During Story Comprehension",
+      "authors": "Kamya Hari, Taha Binhuraib, Jin Li, Cory Shain, Anna A. Ivanova",
+      "abstract": "arXiv:2604.24942v1 Announce Type: new \nAbstract: Encoding models provide a powerful framework for linking continuous stimulus features to neural activity; however, traditional voxelwise approaches are limited by measurement noise, inter-subject variability, and redundancy arising from spatially correlated voxels encoding overlapping neural signals. Here, we propose an independent component...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24942",
+      "keywords": [
+        {
+          "term": "cs.CL",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "q-bio.NC",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24942.pdf",
+      "id": "cs-paper-1317c9"
+    },
+    {
+      "title": "BenchGuard: Who Guards the Benchmarks? Automated Auditing of LLM Agent Benchmarks",
+      "authors": "Xinming Tu (Minta), Tianze Wang (Minta),  Yingzhou (Minta),  Lu, Kexin Huang, Yuanhao Qu, Sara Mostafavi",
+      "abstract": "arXiv:2604.24955v1 Announce Type: new \nAbstract: As benchmarks grow in complexity, many apparent agent failures are not failures of the agent at all - they are failures of the benchmark itself: broken specifications, implicit assumptions, and rigid evaluation scripts that penalize valid alternative approaches. We propose employing frontier LLMs as systematic auditors of evaluation infrastructure,...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24955",
+      "keywords": [
+        {
+          "term": "cs.CL",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.SE",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24955.pdf",
+      "id": "cs-paper-7b6397"
+    },
+    {
+      "title": "Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases",
+      "authors": "Jun Li, Mingxuan Liu, Jiazhen Pan, Che Liu, Wenjia Bai, Cosmin I. Bercea, Julia A. Schnabel",
+      "abstract": "arXiv:2604.24972v1 Announce Type: new \nAbstract: Clinical abnormality grounding for rare diseases is often hindered by data scarcity, making supervised fine-tuning impractical and single-pass inference highly unstable. We propose Dynamic Decision Learning (DDL), a framework that enables frozen large vision-language models (LVLMs) to refine their decisions across both language and visual spaces by...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24972",
+      "keywords": [
+        {
+          "term": "cs.CL",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24972.pdf",
+      "id": "cs-paper-2bedb0"
+    },
+    {
+      "title": "A Survey on LLM-based Conversational User Simulation",
+      "authors": "Bo Ni, Leyao Wang, Yu Wang, Branislav Kveton, Franck Dernoncourt, Yu Xia, Hongjie Chen, Reuben Leura, Samyadeep Basu, Subhojyoti Mukherjee, Puneet Mathur, Nesreen Ahmed, Junda Wu, Li Li, Huixin Zhang, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Zhengzhong Tu, Alexa Siu, Zichao Wang, David Seunghyun Yoon, Nedim Lipka, Namyong Park, Zihao Lin, Trung Bui, Yue Zhao, Tyler Derr, Ryan A. Rossi",
+      "abstract": "arXiv:2604.24977v1 Announce Type: new \nAbstract: User simulation has long played a vital role in computer science due to its potential to support a wide range of applications. Language, as the primary medium of human communication, forms the foundation of social interaction and behavior. Consequently, simulating conversational behavior has become a key area of study. Recent advancements in large...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24977",
+      "keywords": [
+        {
+          "term": "cs.CL",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.HC",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24977.pdf",
+      "id": "cs-paper-50a63c"
+    },
+    {
+      "title": "Don\\'t Stop Early: Scalable Enterprise Deep Research with Controlled Information Flow and Evidence-Aware Termination",
+      "authors": "Prafulla Kumar Choubey, Kung-Hsiang Huang, Pranav Narayanan Venkit, Jiaxin Zhang, Vaibhav Vats, Yu Li, Xiangyu Peng, Chien-Sheng Wu",
+      "abstract": "arXiv:2604.24978v1 Announce Type: new \nAbstract: Enterprise deep research often fails to produce decision-ready reports due to uneven information coverage, context explosion, and premature stopping. We propose a scalable Enterprise Deep Research (EDR) architecture to address these failures. Our system (i) decomposes requests into coverage-driven objectives via outline generation with reflection,...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24978",
+      "keywords": [
+        {
+          "term": "cs.CL",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.SE",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24978.pdf",
+      "id": "cs-paper-6a6ae6"
+    },
+    {
+      "title": "Why Does Reinforcement Learning Generalize? A Feature-Level Mechanistic Study of Post-Training in Large Language Models",
+      "authors": "Dan Shi, Zhuowen Han, Simon Ostermann, Renren Jin, Josef van Genabith, Deyi Xiong",
+      "abstract": "arXiv:2604.25011v1 Announce Type: new \nAbstract: Reinforcement learning (RL)-based post-training often improves the reasoning performance of large language models (LLMs) beyond the training domain, while supervised fine-tuning (SFT) frequently leads to general capabilities forgetting. However, the mechanisms underlying this contrast remain unclear. To bridge this gap, we present a feature-level...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.25011",
+      "keywords": [
+        {
+          "term": "cs.CL",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.25011.pdf",
+      "id": "cs-paper-21b262"
+    },
+    {
+      "title": "GCA-BULF: A Bottom-Up Framework for Short-Term Load Forecasting Using Grouped Critical Appliances",
+      "authors": "Yunhao Yao, Jinwei Fang, Puhan Luo, Zhiqiang Wang, Jiahui Hou, Xiang-Yang Li",
+      "abstract": "arXiv:2604.24766v1 Announce Type: new \nAbstract: With the rise of time-of-use and tiered electricity pricing, energy consumers are encouraged to adopt peak-shifting strategies by automatically controlling high-power appliances. These help lower energy costs while enhancing the power grid's stability. To support such energy management with high resilience and responsiveness, reliable short-term...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24766",
+      "keywords": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "eess.SP",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24766.pdf",
+      "id": "cs-paper-6b0a1e"
+    },
+    {
+      "title": "Automated detection of pediatric congenital heart disease from phonocardiograms using deep and handcrafted feature fusion",
+      "authors": "Abdul Jabbar, Ethan Grooby, Yang Yi Poh, Khawza I. Ahmad, Md Hassanuzzaman, Raqibul Mostafa, Ahsan H. Khandoker, Faezeh Marzbanrad",
+      "abstract": "arXiv:2604.24767v1 Announce Type: new \nAbstract: Congenital heart disease (CHD) is the most common type of birth defect, impacting about 1% of live births worldwide. Echocardiography, the gold-standard diagnostic method, is costly and inaccessible in low-resource settings. Diagnosis is delayed due to limited skilled experts, whose ability to interpret pathological patterns varies significantly,...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24767",
+      "keywords": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.CV",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24767.pdf",
+      "id": "cs-paper-c01cdd"
+    },
+    {
+      "title": "Comparative Study of Bending Analysis using Physics-Informed Neural Networks and Numerical Dynamic Deflection in Perforated nanobeam",
+      "authors": "Ramanath Garai, Iswari Sahu, S. Chakraverty",
+      "abstract": "arXiv:2604.24768v1 Announce Type: new \nAbstract: In this chapter, we investigate the bending behavior of a perforated nanobeam subjected to sinusoidal loading using an efficient and computationally robust Physics-Informed Functional Link Constrained Framework with Domain Mapping (DFL-TFC) method. Our aim is to determine the relationship between static bending response and dynamic deflection of a...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24768",
+      "keywords": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "physics.comp-ph",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24768.pdf",
+      "id": "cs-paper-cb6ee0"
+    },
+    {
+      "title": "Liquid Neural Network Models for Natural Gas Spot Price Time-Series Forecasting",
+      "authors": "Yiqian Liu, Jiayi Niu, Adam Kelleher, Subhabrata Das",
+      "abstract": "arXiv:2604.24788v1 Announce Type: new \nAbstract: Natural gas is undoubtedly an essential component of the global energy system. Accurate short-term forecasting of natural gas price is challenging due to pronounced volatility driven by seasonal demand patterns, geopolitical developments, and shifting macroeconomic conditions. The nonlinear dynamics and frequent regime changes can limit the...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24788",
+      "keywords": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24788.pdf",
+      "id": "cs-paper-832a9f"
+    },
+    {
+      "title": "Architecture Determines Observability in Transformers",
+      "authors": "Thomas Carmichael",
+      "abstract": "arXiv:2604.24801v1 Announce Type: new \nAbstract: Autoregressive transformers make confident errors, but activation monitoring can catch them only if the model preserves an internal signal that output confidence does not expose. This preservation is determined by architecture and training recipe. We define observability as the linear readability of per-token decision quality from frozen mid-layer...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24801",
+      "keywords": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24801.pdf",
+      "id": "cs-paper-82493b"
+    },
+    {
+      "title": "Query-Efficient Quantum Approximate Optimization via Graph-Conditioned Trust Regions",
+      "authors": "Molena Huynh",
+      "abstract": "arXiv:2604.24803v1 Announce Type: new \nAbstract: In low-depth implementations of the Quantum Approximate Optimization Algorithm (QAOA), the dominant cost is often the number of objective evaluations rather than circuit depth. We introduce a graph-conditioned trust-region method for reducing this query cost. A graph neural network predicts a Gaussian distribution N(mu, Sigma) over QAOA angles. The...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24803",
+      "keywords": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "quant-ph",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24803.pdf",
+      "id": "cs-paper-3aa409"
+    },
+    {
+      "title": "Intrinsic Mutual Information as a Modulator for Preference Optimization",
+      "authors": "Peng Liao, Peijia Zheng, Lingbo Li, Shangsong Liang, Lin Chen",
+      "abstract": "arXiv:2604.24804v1 Announce Type: new \nAbstract: Offline preference optimization methods, such as Direct Preference Optimization (DPO), offer significant advantages in aligning Large Language Models (LLMs) with human values. However, achieving optimal performance with these methods typically involves additional hyperparameter tuning, resulting in substantial time overhead. Although prior work has...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24804",
+      "keywords": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.CL",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24804.pdf",
+      "id": "cs-paper-545886"
+    },
+    {
+      "title": "minAction.net: Energy-First Neural Architecture Design -- From Biological Principles to Systematic Validation",
+      "authors": "Martin G. Frasch",
+      "abstract": "arXiv:2604.24805v1 Announce Type: new \nAbstract: Modern machine learning optimizes for accuracy without explicitly accounting for internal computational cost, even though physical and biological systems operate under intrinsic energy constraints. We evaluate energy-aware learning across 2,203 experiments spanning vision, text, neuromorphic, and physiological datasets, using 10 seeds per...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24805",
+      "keywords": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "q-bio.QM",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24805.pdf",
+      "id": "cs-paper-0509f1"
+    },
+    {
+      "title": "Nautile-370M: Spectral Memory Meets Attention in a Small Reasoning Model",
+      "authors": "Maixent Chenebaux",
+      "abstract": "arXiv:2604.24809v1 Announce Type: new \nAbstract: We present Nautile-370M, a 371-million-parameter small language model designed for efficient reasoning under strict parameter and inference budgets. Nautile-370M uses a hybrid backbone in which two SeqCond Attention (SCA) layers, a linear-time spectral sequence operator inspired by SeqCondenser, alternate with one transformer layer. This design...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24809",
+      "keywords": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24809.pdf",
+      "id": "cs-paper-dcd8e8"
+    },
+    {
+      "title": "A Comparative Analysis on the Performance of Upper Confidence Bound Algorithms in Adaptive Deep Neural Networks",
+      "authors": "Grigorios Papanikolaou, Ioannis Kontopoulos, Konstantinos Tserpes",
+      "abstract": "arXiv:2604.24810v1 Announce Type: new \nAbstract: Edge computing environments impose strict constraints on energy consumption and latency, making the deployment of deep neural networks a significant challenge. Therefore, smart and adaptive inference strategies that dynamically balance computational cost or latency with predictive accuracy are critical in edge computing scenarios. In this work, we...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24810",
+      "keywords": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24810.pdf",
+      "id": "cs-paper-726b36"
+    },
+    {
+      "title": "ESICA: A Scalable Framework for Text-Guided 3D Medical Image Segmentation",
+      "authors": "Yu Xin, Gorkem Can Ates, Jun Ma, Sumin Kim, Ying Zhang, Kaleb E Smith, Kuang Gong, Wei Shao",
+      "abstract": "arXiv:2604.24876v1 Announce Type: new \nAbstract: Text guided 3D medical image segmentation offers a flexible alternative to class based and spatial prompt based models by allowing users to specify regions of interest directly in natural language. This paradigm avoids reliance on predefined label sets, reduces ambiguous outputs, and aligns more naturally with clinical workflows. However, existing...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24876",
+      "keywords": [
+        {
+          "term": "cs.CV",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24876.pdf",
+      "id": "cs-paper-8510a7"
+    },
+    {
+      "title": "Learning Illumination Control in Diffusion Models",
+      "authors": "Nishit Anand, Manan Suri, Christopher Metzler, Dinesh Manocha, Ramani Duraiswami",
+      "abstract": "arXiv:2604.24877v1 Announce Type: new \nAbstract: Controlling illumination in images is essential for photography and visual content creation. While closed-source models have demonstrated impressive illumination control, open-source alternatives either require heavy control inputs like depth maps or do not release their data and code. We present a fully open-source and reproducible pipeline for...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24877",
+      "keywords": [
+        {
+          "term": "cs.CV",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "eess.IV",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24877.pdf",
+      "id": "cs-paper-722f87"
+    },
+    {
+      "title": "VibeToken: Scaling 1D Image Tokenizers and Autoregressive Models for Dynamic Resolution Generations",
+      "authors": "Maitreya Patel, Jingtao Li, Weiming Zhuang, Yezhou Yang, Lingjuan Lv",
+      "abstract": "arXiv:2604.24885v1 Announce Type: new \nAbstract: We introduce an efficient, resolution-agnostic autoregressive (AR) image synthesis approach that generalizes to arbitrary resolutions and aspect ratios, narrowing the gap to diffusion models at scale. At its core is VibeToken, a novel resolution-agnostic 1D Transformer-based image tokenizer that encodes images into a dynamic, user-controllable...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24885",
+      "keywords": [
+        {
+          "term": "cs.CV",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24885.pdf",
+      "id": "cs-paper-75469b"
+    },
+    {
+      "title": "Interactive Episodic Memory with User Feedback",
+      "authors": "Nikesh Subedi, Loris Bazzani, Ziad Al-Halah",
+      "abstract": "arXiv:2604.24893v1 Announce Type: new \nAbstract: In episodic memory with natural language queries (EM-NLQ), a user may ask a question (e.g., \"Where did I place the mug?\") that requires searching a long egocentric video, captured from the user's perspective, to find the moment that answers it. However, queries can be ambiguous or incomplete, leading to incorrect responses. Current methods ignore...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24893",
+      "keywords": [
+        {
+          "term": "cs.CV",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24893.pdf",
+      "id": "cs-paper-60aae9"
+    },
+    {
+      "title": "Agentic AI for Remote Sensing: Technical Challenges and Research Directions",
+      "authors": "Muhammad Akhtar Munir, Muhammad Umer Sheikh, Akashah Shabbir, Muhammad Haris Khan, Fahad Khan, Xiao Xiang Zhu, Begum Demir, Salman Khan",
+      "abstract": "arXiv:2604.24919v1 Announce Type: new \nAbstract: Earth Observation (EO) is moving beyond static prediction toward multi-step analytical workflows that require coordinated reasoning over data, tools, and geospatial state. While foundation models and vision-language models have expanded representation learning and language-grounded interaction for remote sensing, and agentic AI has demonstrated...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24919",
+      "keywords": [
+        {
+          "term": "cs.CV",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24919.pdf",
+      "id": "cs-paper-01e5b6"
+    },
+    {
+      "title": "Subjective Portrait Region Cropping in Landscape Videos with Temporal Annotation Smoothing",
+      "authors": "Cheng-Han Lee, Maniratnam Mandal, Neil Birkbeck, Yilin Wang, Balu Adsumilli, Alan C. Bovik",
+      "abstract": "arXiv:2604.24947v1 Announce Type: new \nAbstract: With the rise of mobile video consumption on diverse handheld display resolutions and orientation modes, altering videos to aspect ratios poses challenges. Static cropping and border padding often compromises visual quality, while warping may distort a video's intended meaning. Here we advocate for a more effective approach: cropping significant...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24947",
+      "keywords": [
+        {
+          "term": "cs.CV",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24947.pdf",
+      "id": "cs-paper-1166ee"
+    },
+    {
+      "title": "Learning from Noisy Preferences: A Semi-Supervised Learning Approach to Direct Preference Optimization",
+      "authors": "Xinxin Liu, Ming Li, Zonglin Lyu, Yuzhang Shang, Chen Chen",
+      "abstract": "arXiv:2604.24952v1 Announce Type: new \nAbstract: Human visual preferences are inherently multi-dimensional, encompassing aesthetics, detail fidelity, and semantic alignment. However, existing datasets provide only single, holistic annotations, resulting in severe label noise: images that excel in some dimensions but are deficient in others are simply marked as winner or loser. We theoretically...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24952",
+      "keywords": [
+        {
+          "term": "cs.CV",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24952.pdf",
+      "id": "cs-paper-3df3c8"
+    },
+    {
+      "title": "ViPO: Visual Preference Optimization at Scale",
+      "authors": "Ming Li, Jie Wu, Justin Cui, Xiaojie Li, Rui Wang, Chen Chen",
+      "abstract": "arXiv:2604.24953v1 Announce Type: new \nAbstract: While preference optimization is crucial for improving visual generative models, how to effectively scale this paradigm remains largely unexplored. Current open-source preference datasets contain conflicting preference patterns, where winners excel in some dimensions but underperform in others. Naively optimizing on such noisy datasets fails to...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24953",
+      "keywords": [
+        {
+          "term": "cs.CV",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24953.pdf",
+      "id": "cs-paper-103463"
+    },
+    {
+      "title": "A New Kind of Network? Review and Reference Implementation of Neural Cellular Automata",
+      "authors": "Martin Spitznagel, Janis Keuper",
+      "abstract": "arXiv:2604.24990v1 Announce Type: new \nAbstract: Stephen Wolfram proclaimed in his 2003 seminal work \"A New Kind Of Science\" that simple recursive programs in the form of Cellular Automata (CA) are a promising approach to replace currently used mathematical formalizations, e.g. differential equations, to improve the modeling of complex systems. Over two decades later, while Cellular Automata have...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24990",
+      "keywords": [
+        {
+          "term": "cs.CV",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24990.pdf",
+      "id": "cs-paper-6e7078"
+    },
+    {
+      "title": "DouC: Dual-Branch CLIP for Training-Free Open-Vocabulary Segmentation",
+      "authors": "Mohamad Zamini, Diksha Shukla",
+      "abstract": "arXiv:2604.24997v1 Announce Type: new \nAbstract: Open-vocabulary semantic segmentation requires assigning pixel-level semantic labels while supporting an open and unrestricted set of categories. Training-free CLIP-based approaches preserve strong zero-shot generalization but typically rely on a single inference mechanism, limiting their ability to jointly address unreliable local tokens and...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24997",
+      "keywords": [
+        {
+          "term": "cs.CV",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24997.pdf",
+      "id": "cs-paper-0ef67d"
+    },
+    {
+      "title": "A Combinatorial Optimisation Approach to Multi-factorial Gap-filling in Genome-scale Metabolic Models (GEMs)",
+      "authors": "Philip Kilby, Sevvandi Kandanaarachchi, Matthew J. Morgan, Amy M. Paten, Mariana Velasque, Andrew C. Warden, Juan P. Molina Ortiz",
+      "abstract": "arXiv:2604.25233v1 Announce Type: cross \nAbstract: Genome-Scale Metabolic Models (GEMs) describe the interactions between genes, proteins, and the biochemical reactions that underpin an organism's metabolism aiming to computationally simulate functions at the cellular level. While many metabolic reactions can be inferred from genome analysis, constructing GEMs often involves incorporating...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.25233",
+      "keywords": [
+        {
+          "term": "math.OC",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "q-bio.GN",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.25233.pdf",
+      "id": "bio-paper-941cd4"
+    },
+    {
+      "title": "Simultaneous Fragment Docking for Geometrically Linkable Pose Pairs",
+      "authors": "Jiyun Lee, You Kyoung Chung, Joonsuk Huh",
+      "abstract": "arXiv:2604.24773v1 Announce Type: new \nAbstract: Computational molecular design requires binding arrangements that are not only energetically favorable but also chemically realizable. However, computational methods remain limited in directly recovering fragment pose pairs that can later be connected into a single molecule. To address this problem, we formulated the simultaneous placement of two...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.24773",
+      "keywords": [
+        {
+          "term": "q-bio.BM",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "quant-ph",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.24773.pdf",
+      "id": "bio-paper-8594bc"
+    },
+    {
+      "title": "Learning Structure, Energy, and Dynamics: A Survey of Artificial Intelligence for Protein Dynamics",
+      "authors": "Haocheng Tang, Liang Shi, Ya-Shi Zhang, Xixian Liu, Jian Tang, Jiarui Lu",
+      "abstract": "arXiv:2604.25244v1 Announce Type: new \nAbstract: Protein dynamics underlie many biological functions, yet remain difficult to characterize due to the high computational cost of molecular dynamics simulations and the scarcity of dynamic structural data. This survey reviews recent advances in artificial intelligence for protein dynamics from three perspectives: learning from structural ensembles...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.25244",
+      "keywords": [
+        {
+          "term": "q-bio.BM",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.25244.pdf",
+      "id": "bio-paper-14413a"
+    },
+    {
+      "title": "Bayesian Rate Inference for Sequence Motif Dynamics in Systems of Reactive Nucleic Acids",
+      "authors": "Johannes Harth-Kitzerow, Ulrich Gerland, Torsten A. En{\\ss}lin",
+      "abstract": "arXiv:2604.25701v1 Announce Type: cross \nAbstract: The RNA world hypothesis suggests a pathway of how life emerged on early earth. It assumes that life started with RNA based systems, capable of storing, transmitting and replicating information, envisioning that monomers and short RNA oligomers interact to form longer strands, eventually becoming catalytically active ribozymes. Key reactions in...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2604.25701",
+      "keywords": [
+        {
+          "term": "physics.bio-ph",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "physics.data-an",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "q-bio.BM",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "q-bio.MN",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "q-bio.PE",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2604.25701.pdf",
+      "id": "bio-paper-eba1c6"
+    },
+    {
+      "title": "Actively induced supercoiling can slow down plasmid solutions by trapping the threading entanglements",
+      "authors": "Roman Sta\\v{n}o, Ren\\'ata Ruskov\\'a, Du\\v{s}an Ra\\v{c}ko, Jan Smrek",
+      "abstract": "arXiv:2506.22842v2 Announce Type: replace-cross \nAbstract: Harnessing the topology of ring polymers as a design motif in functional nanomaterials is becoming a promising direction in the field of soft matter. For example, the ring topology of DNA plasmids prevents the relaxation of excess twist introduced to the polymer, instead resulting in helical supercoiled structures. In equilibrium...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2506.22842",
+      "keywords": [
+        {
+          "term": "cond-mat.soft",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cond-mat.mes-hall",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cond-mat.stat-mech",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "physics.bio-ph",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "q-bio.BM",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2506.22842.pdf",
+      "id": "bio-paper-613365"
+    },
+    {
+      "title": "Curriculum-guided multimodal representation learning enables generalizable prediction of nanomaterial-protein interactions",
+      "authors": "Hengjie Yu, Kenneth A. Dawson, Haiyun Yang, Shuya Liu, Yan Yan, Yaochu Jin",
+      "abstract": "arXiv:2507.14245v2 Announce Type: replace-cross \nAbstract: Nanomaterial-protein interactions (NPI) are pivotal to realizing the therapeutic and diagnostic potential of nanomaterials. Although AI promises to accelerate mechanistic understanding and enable rational nanomaterial design, robust generalization to unseen nanomaterials or proteins remains unresolved. Here, we present CuMMI...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2507.14245",
+      "keywords": [
+        {
+          "term": "cs.LG",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cond-mat.mtrl-sci",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.AI",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cs.CE",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "q-bio.BM",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2507.14245.pdf",
+      "id": "bio-paper-6c6194"
+    },
+    {
+      "title": "Maximum-Entropy Model of Colored Noise in Superdiffusive Axonal Growth",
+      "authors": "Julian Sutaria, Cristian Staii",
+      "abstract": "arXiv:2506.11272v2 Announce Type: replace-cross \nAbstract: We develop a coarse-grained stochastic theory for axonal growth on micropatterned substrates using the Shannon--Jaynes maximum entropy principle. Starting from a Langevin description of growth cone motion, we infer the effective distribution of traction force relaxation rates from experimentally motivated constraints rather than...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "arXiv",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2506.11272",
+      "keywords": [
+        {
+          "term": "physics.bio-ph",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "cond-mat.soft",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "nlin.AO",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "q-bio.CB",
+          "scheme": null,
+          "label": null
+        },
+        {
+          "term": "q-bio.QM",
+          "scheme": null,
+          "label": null
+        }
+      ],
+      "readTime": "3 min",
+      "source": "arXiv",
+      "doi": "",
+      "pdfUrl": "https://arxiv.org/pdf/2506.11272.pdf",
+      "id": "bio-paper-3ff6db"
+    },
+    {
+      "title": "Efforts to eliminate hepatitis delivers gains but more action needed to meet 2030 targets",
+      "authors": "WHO News",
+      "abstract": "Global efforts to combat viral hepatitis are delivering measurable progress in reducing infections and deaths, but the disease remains a major global health challenge, according to a new World Health Organization (WHO) <a href=\"https://www.who.int/publications/i/item/9789240122383\">report</a> released today at the World Hepatitis Summit.\nViral...",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "WHO News",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://www.who.int/news/item/28-04-2026-efforts-to-eliminate-hepatitis-delivers-gains-but-more-action-needed-to-meet-2030-targets",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "WHO News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "clinical-news-24c984"
+    },
+    {
+      "title": "Practicing today for tomorrow’s emergencies – WHO convenes countries and partners to simulate response to major disease outbreak",
+      "authors": "WHO News",
+      "abstract": "The World Health Organization (WHO) wrapped up Exercise Polaris II, a 2-day high-level simulation exercise, based around an outbreak of a fictional new bacterium spreading across the world. Bringing together 26 countries and territories, 600 health emergency experts and over 25 partners, the exercise, which took place on 22 and 23 April, allowed...",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "WHO News",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://www.who.int/news/item/27-04-2026-practicing-today-for-tomorrow-s-emergencies-who-convenes-countries-and-partners-to-simulate-response-to-major-disease-outbreak",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "WHO News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "clinical-news-0f002f"
+    },
+    {
+      "title": "WHO prequalifies first-ever malaria treatment for newborns and infants, adds new diagnostic tests",
+      "authors": "WHO News",
+      "abstract": "Ahead of World Malaria Day on 25 April, the World Health Organization (WHO) has announced a significant step forward in the fight against malaria with the prequalification of the first treatment developed specifically for newborns and young infants weighing between two and five kilograms. The prequalification designation indicates that the...",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "WHO News",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://www.who.int/news/item/24-04-2026-who-prequalifies-first-ever-malaria-treatment-for-newborns-and-infants-adds-new-diagnostic-tests",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "WHO News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "clinical-news-ffb1a6"
+    },
+    {
+      "title": "Largest catch-up initiative delivers over 100 million childhood vaccinations",
+      "authors": "WHO News",
+      "abstract": "<ul><li>The Big Catch-Up, launched during World Immunization Week 2023, has delivered over 100&nbsp;million vaccine doses to an estimated 18.3&nbsp;million children across 36 countries</li><li>Around 12.3&nbsp;million were &ldquo;zero-dose children&rdquo; who had not previously received any vaccines and 15&nbsp;million who had never received a...",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "WHO News",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://www.who.int/news/item/24-04-2026-largest-catch-up-initiative-delivers-over-100-million-childhood-vaccinations",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "WHO News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "clinical-news-c0a18a"
+    },
+    {
+      "title": "Algeria eliminates trachoma as a public health problem",
+      "authors": "WHO News",
+      "abstract": "The World Health Organization (WHO) has validated Algeria as having eliminated trachoma as a public health problem, making it the 10th country in WHO’s African Region and the 29th country globally to achieve this significant milestone.",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "WHO News",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://www.who.int/news/item/23-04-2026-algeria-eliminates-trachoma-as-a-public-health-problem",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "WHO News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "clinical-news-0bcbcd"
+    },
+    {
+      "title": "Fires Rage in Georgia",
+      "authors": "NASA News",
+      "abstract": "Firefighters are battling two destructive blazes in the southern part of the state as drought grips the U.S. Southeast.",
+      "discipline": "geo",
+      "type": "news",
+      "journal": "NASA News",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "NASA News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "geo-news-aa6777"
+    },
+    {
+      "title": "NASA Connects Little Red Dots with Chandra, Webb",
+      "authors": "NASA News",
+      "abstract": "A newly discovered object may be a key to unlocking the true nature of a mysterious class of sources that astronomers have found in the early universe in recent years. A “X-ray dot” found by NASA’s Chandra X-ray Observatory could explain what the hundreds or potentially thousands of these objects are. A paper describing the […]",
+      "discipline": "geo",
+      "type": "news",
+      "journal": "NASA News",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://science.nasa.gov/missions/chandra/nasa-connects-little-red-dots-with-chandra-webb/",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "NASA News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "geo-news-9dbaf2"
+    },
+    {
+      "title": "There’s No Place Like NASA’s New X-59 Hangar Home",
+      "authors": "Jim Banke",
+      "abstract": "There’s no sign reading “home sweet home” in the hangar where the X‑59 now sits, but the sentiment is unmistakable among those tending to the quiet supersonic aircraft. Located at NASA’s Armstrong Flight Research Center in Edwards, California, the X-59 hangar was built in 1968 but looks like new thanks to a full renovation and [&#8230;]",
+      "discipline": "geo",
+      "type": "news",
+      "journal": "NASA News",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/new-x-59-hangar-home/",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "NASA News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "geo-news-634f4b"
+    },
+    {
+      "title": "Nighttime Imaging Grows Landsat’s Science Value",
+      "authors": "NASA News",
+      "abstract": "By Earth Resources Observation and Science (EROS) Center  For more than 50 years, Landsat has imaged Earth’s land and near-shore surfaces as the satellites descend in midmorning orbit, when daily sunlight is optimal. That’s just what they’ve always done.  Currently, Landsat 8 and Landsat 9 circle the globe while also making better use of their...",
+      "discipline": "geo",
+      "type": "news",
+      "journal": "NASA News",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://science.nasa.gov/missions/landsat/nighttime-imaging-grows-landsats-science-value/",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "NASA News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "geo-news-e56218"
+    },
+    {
+      "title": "Curiosity Captures a 360-Degree View at ‘Nevado Sajama’",
+      "authors": "NASA News",
+      "abstract": "Description NASA’s Curiosity Mars rover captured this 360-degree view of a region filled with low ridges called boxwork formations between Nov. 9 and Dec. 7, 2025 (the 4,714th to 4,741st Martian days, or sols, of the mission). At 1.5 billion pixels, this is one of the largest panoramas Curiosity has ever taken (the rover’s largest […]",
+      "discipline": "geo",
+      "type": "news",
+      "journal": "NASA News",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://science.nasa.gov/photojournal/curiosity-captures-a-360-degree-view-at-nevado-sajama/",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "NASA News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "geo-news-45fea7"
+    },
+    {
+      "title": "Swept-source optical coherence tomography angiography may predict diabetic nephropathy",
+      "authors": "Medical Xpress",
+      "abstract": "Nonperfusion area detected by swept-source optical coherence tomography angiography (OCTA) may predict diabetic nephropathy (DN) severity, according to a study published in the July issue of the American Journal of Ophthalmology.",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "Medical Xpress",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://medicalxpress.com/news/2026-04-swept-source-optical-coherence-tomography.html",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "Medical Xpress",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "clinical-news-1cb56e"
+    },
+    {
+      "title": "Independent, academic cancer trials are vital to improve patient outcomes worldwide",
+      "authors": "Medical Xpress",
+      "abstract": "Independent, academic clinical cancer trials are essential to improving patient outcomes, reducing inequalities in care, and strengthening health care systems worldwide, according to a new initiative published in The Lancet Oncology. The paper, \"Academic clinical cancer trials to improve patient outcomes,\" announces the launch of a Lancet Oncology...",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "Medical Xpress",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://medicalxpress.com/news/2026-04-independent-academic-cancer-trials-vital.html",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "Medical Xpress",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "clinical-news-06f623"
+    },
+    {
+      "title": "Deterioration in cognitive function precedes cardiovascular disease events in seniors",
+      "authors": "Medical Xpress",
+      "abstract": "For older adults, deterioration in cognitive function is seen prior to cardiovascular disease (CVD) events, according to a study published online April 20 in JAMA Network Open.",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "Medical Xpress",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://medicalxpress.com/news/2026-04-deterioration-cognitive-function-cardiovascular-disease.html",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "Medical Xpress",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "clinical-news-e4f93d"
+    },
+    {
+      "title": "Statement highlights how brain health is shaped by lifetime mental, physical, environmental and lifestyle factors",
+      "authors": "Medical Xpress",
+      "abstract": "Brain health isn't determined only by genetics or what happens later in life. A growing body of research shows that a range of factors—from mental health and sleep to the environment, lifestyle and social conditions—play a powerful role in shaping how the brain functions and ages.",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "Medical Xpress",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://medicalxpress.com/news/2026-04-statement-highlights-brain-health-lifetime.html",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "Medical Xpress",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "clinical-news-d2db47"
+    },
+    {
+      "title": "How the immune system battles lifelong viral infections acquired at birth",
+      "authors": "Medical Xpress",
+      "abstract": "Millions of people worldwide carry viral infections they acquired at birth, often for life. For a long time it was assumed that the immune system hardly fights these pathogens. Researchers from the University of Basel show now that the body's defenses do indeed act against the virus. This could be a useful starting point for future therapies.",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "Medical Xpress",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://medicalxpress.com/news/2026-04-immune-lifelong-viral-infections-birth.html",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "Medical Xpress",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "clinical-news-d035d2"
+    },
+    {
+      "title": "At his OpenAI trial, Musk relitigates an old friendship",
+      "authors": "Connie Loizos",
+      "abstract": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "TechCrunch AI",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "TechCrunch AI",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-dbe3fa"
+    },
+    {
+      "title": "Amazon is already offering new OpenAI products on AWS",
+      "authors": "Julie Bort",
+      "abstract": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "TechCrunch AI",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "TechCrunch AI",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-119196"
+    },
+    {
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+      "authors": "Lauren Forristal",
+      "abstract": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "TechCrunch AI",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "TechCrunch AI",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-5dd43a"
+    },
+    {
+      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+      "authors": "Julie Bort",
+      "abstract": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "TechCrunch AI",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "TechCrunch AI",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-9e894a"
+    },
+    {
+      "title": "Lovable launches its vibe-coding app on iOS and Android",
+      "authors": "Sarah Perez",
+      "abstract": "The app allows developers to vibe code web apps and websites on the go.",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "TechCrunch AI",
+      "date": "2026-04-29",
+      "year": 2026,
+      "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "TechCrunch AI",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-a59954"
+    },
+    {
+      "title": "PRMT7 restricts CD8+ T cells expansion via the NF-κB pathway.",
+      "authors": "Srour, N.; Luo, K.; Allard, D.; Xiong, Y.; Yu, Z.; Papadopoulos, T.; Santinon, F.; Hsieh, C.-H.; Stagg, J.; Barsyte-Lovejoy, D.; del Rincon, S. V.; Jin, J.; Richard, S.",
+      "abstract": "Abstract New therapeutics are needed to enhance cytotoxic T lymphocyte (CTL) expansion and effector function for effective tumor control. Here, we show that T cell specific deletion of Prmt7 using CD4-Cre mice increases CD8+ effector differentiation, cytokine secretion, cytolytic activity, and anti-tumor responses. Prmt7 deficiency transcriptionally reprogrammed CD8+ T cells by activating the...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Biorxiv",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.25.720790",
+      "keywords": [],
+      "readTime": "3 min",
+      "source": "Biorxiv",
+      "doi": "10.64898/2026.04.25.720790",
+      "pdfUrl": "https://www.biorxiv.org/content/early/2026/04/28//2026.04.25.720790.source.pdf",
+      "id": "bio-paper-71588d"
+    },
+    {
+      "title": "Whole-genome sequencing of a mid-20th-century femur from central Israel in an open missing-person case",
+      "authors": "Vol, E.; Waldman, S.; Lomes, A.; Brielle, E. S.; Appel, N.; Dolin, B.; Asif, S.; Nagar, Y.; Marco, E.; Bergman, N.; Khaner, O.; Raviv, D.; Oliel, J.; Lewis, R. Y.; Carmi, S.",
+      "abstract": "Genome-wide technologies can generate investigative leads in cold cases by determining the genetic ancestry of the forensic sample. Increasingly, DNA extraction and whole-genome sequencing or genotyping are being used to analyze early or middle-20th century skeletal remains. Here, we present the first case, to our knowledge, of whole-genome sequencing of a middle-20th-century bone sample from the...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Biorxiv",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.24.720291",
+      "keywords": [],
+      "readTime": "3 min",
+      "source": "Biorxiv",
+      "doi": "10.64898/2026.04.24.720291",
+      "pdfUrl": "https://www.biorxiv.org/content/early/2026/04/28//2026.04.24.720291.source.pdf",
+      "id": "bio-paper-19c5c4"
+    },
+    {
+      "title": "Population analysis and host-disease associations of Shiga toxin-producing Escherichia coli from various sources across eleven European countries using whole genome sequencing",
+      "authors": "Tozzoli, R.; Schadron, T.; Knijn, A.; De Sabato, L.; Morabito, S.; Montalbano Di Filippo, M.; Fiskebeck, E.; Johannessen, G.; Antony-Samy, J. K.; Good, L.; Soderlund, R.; van Hoek, A.; Mughini Gras, L.; Franz, E.; Wieczorek, K.; Scavia, G.; Moro, O.; Chiani, P.; Michelacci, V.; Burgess, C. M.; Duffy, G.; Rodgers, J.; Kirchner, M.; Pista, A.; Silveira, L.; Amaro, A.; Clemente, L.; Chattaway, M. A.; Jenkins, C.; Dallman, T.; Schjorring, S.; Scheutz, F.; Byrne, B.; Gutierrez, M.; Lopez-Chavarrias, V.; Ugarte-Ruiz, M.; Brandal, L.; Naseer, U.; Kolackova, I.; Zomer, A. L.; Wagenaar, J. A.; Pires, S",
+      "abstract": "Shiga toxin-producing Escherichia coli (STEC) are important foodborne pathogens, able to cause severe disease in humans. In the DiSCoVeR project (https://onehealthejp.eu/jrp-discover/) a STEC inventory from human and non-human sources from 11 European countries was set up and [&ge;] 3500 strains were sequenced to perform comparative genomics analysis. We used this dataset to assess STEC...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Biorxiv",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.27.721056",
+      "keywords": [],
+      "readTime": "3 min",
+      "source": "Biorxiv",
+      "doi": "10.64898/2026.04.27.721056",
+      "pdfUrl": "https://www.biorxiv.org/content/early/2026/04/28//2026.04.27.721056.source.pdf",
+      "id": "bio-paper-ac81b9"
+    },
+    {
+      "title": "Connecting polygenic disease risk to cell states and regulatory programs through single-cell chromatin accessibility",
+      "authors": "Yu, L.; Deary, L. T.; Liu, Q.; Zhang, Q.; Zhao, S.",
+      "abstract": "Single-cell ATAC-sequencing enables high-resolution mapping of cell states and their putative regulatory elements. The enrichment of genome-wide association study (GWAS) signals within context-specific regulatory regions can reveal disease-relevant cell populations. We present Single-Cell ATAC-seq Disease Score (SCADS), a computational framework that integrates GWAS summary statistics with...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Biorxiv",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.27.721080",
+      "keywords": [],
+      "readTime": "3 min",
+      "source": "Biorxiv",
+      "doi": "10.64898/2026.04.27.721080",
+      "pdfUrl": "https://www.biorxiv.org/content/early/2026/04/28//2026.04.27.721080.source.pdf",
+      "id": "bio-paper-42269d"
+    },
+    {
+      "title": "Chromosome-scale genome assemblies of duckweeds provide insights into genomic plasticity, aquatic adaptation and morphological reduction",
+      "authors": "Tek, M. I.; Boyle, B.; Normandeau, E.; Lecomte, L.; Sabri, M.; Torkamaneh, D.",
+      "abstract": "Duckweeds (Lemnaceae) present a striking example of convergent genome evolution following the return from land to water. As the smallest and fastest-growing angiosperms, they exhibit extreme morphological reduction yet retain remarkable genomic plasticity through recurrent interspecific hybridisation, chromosomal rearrangements, and selective gene-family remodelling. The genomic mechanisms that...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Biorxiv",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.27.721116",
+      "keywords": [],
+      "readTime": "3 min",
+      "source": "Biorxiv",
+      "doi": "10.64898/2026.04.27.721116",
+      "pdfUrl": "https://www.biorxiv.org/content/early/2026/04/28//2026.04.27.721116.source.pdf",
+      "id": "bio-paper-4b45aa"
+    },
+    {
+      "title": "Optimal Reference Panel Design in Ancient DNA Imputation from Coalescent Theory, Simulation, and Real Data Application with an Ancient Reference Panel",
+      "authors": "Sousa da Mota, B.; Kumar, K.; Reich, D. E.; Zoellner, S.",
+      "abstract": "Imputation is widely used in the ancient DNA (aDNA) field to determine which phenotypically important alleles ancient individuals carried, to study natural selection, and to detect segments of the genome that are shared between individuals identical by descent. However, rare variant imputation is less accurate, and rare variants tend to be excluded from downstream analyses. State-of-the-art...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Biorxiv",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.27.721163",
+      "keywords": [],
+      "readTime": "3 min",
+      "source": "Biorxiv",
+      "doi": "10.64898/2026.04.27.721163",
+      "pdfUrl": "https://www.biorxiv.org/content/early/2026/04/28//2026.04.27.721163.source.pdf",
+      "id": "bio-paper-e87749"
+    },
+    {
+      "title": "Genome-wide association study of morphometric and metabolic characteristics in the European populations of the sugar kelp Saccharina latissima",
+      "authors": "MAUGER, S.; AVIA, K.; JAUGEON, L.; RUGGERI, P.; NEHR, Z.; SALIA, O. I.; COUDRET, J.; GOUHIER, E.; BAUD, A.; LOISEL, S.; FORT, A.; SULPICE, R.; DESTOMBE, C.; POTIN, P.; COCK, J. M.; VALERO, M.",
+      "abstract": "The sugar kelp Saccharina latissima is a promising candidate for sustainable aquaculture in the North Atlantic and North-East Pacific but genetic improvement has been hindered by limited understanding of the genetic basis of economically important traits. We conducted the first genome-wide association study (GWAS) for this species using 202 self-fertilised pseudo-F1 individuals derived from 12...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Biorxiv",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.27.720995",
+      "keywords": [],
+      "readTime": "3 min",
+      "source": "Biorxiv",
+      "doi": "10.64898/2026.04.27.720995",
+      "pdfUrl": "https://www.biorxiv.org/content/early/2026/04/28//2026.04.27.720995.source.pdf",
+      "id": "bio-paper-2756e1"
+    },
+    {
+      "title": "Fetal exposure to paracetamol is associated with altered markers of ovarian development and reduced uterine volume in girls: the COPANA study",
+      "authors": "Fischer, M. B.; Mola, G.; Sundberg, K.; Scheel, L.; Wraae, K. B.; Rom, A. L.; Frederiksen, H.; Anderson, R. A.; Assens, M.; Andersson, A.-M.; Priskorn, L.; Petersen, J. H.; Hegaard, H. K.; Main, K. M.; Kristensen, D. M.; Juul, A.; Hagen, C. P.",
+      "abstract": "Study question; is fetal exposure to paracetamol associated with markers of ovarian function in infancy? Summary answer; Mild to moderate doses of prenatal paracetamol exposure, assessed by detailed maternal reports and urinary measurements, is associated with ovarian morphology and activity as well as reduced size of estrogen-responsive tissues in infant girls. What is known already; Maternal...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Medrxiv",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.23.26351576",
+      "keywords": [],
+      "readTime": "3 min",
+      "source": "Medrxiv",
+      "doi": "10.64898/2026.04.23.26351576",
+      "pdfUrl": "https://www.medrxiv.org/content/early/2026/04/28//2026.04.23.26351576.source.pdf",
+      "id": "bio-paper-b56919"
+    },
+    {
+      "title": "Spatiotemporal Tau Accumulation and Its Clinical Impact on PSP: Longitudinal Florzolotau (18F) PET",
+      "authors": "Chishiki, Y.; Tagai, K.; Kataoka, Y.; Goto, R.; Osawa, K.; Oyama, A.; Matsumoto, H.; Ichihashi, M.; Momota, Y.; Kamada, T.; Seki, C.; Matsuoka, K.; Hirata, K.; Kurose, S.; Moriguchi, S.; Komatsu, Y.; Kato, H.; Yamamoto, Y.; Nakano, Y.; Hirano, S.; Shinoto, H.; Shimada, H.; Tokuda, T.; Kawamura, K.; Zhang, M.-R.; Takahata, K.; Higuchi, M.; Endo, H.",
+      "abstract": "[Background] Florzolotau (18F) positron emission tomography (florzolotau PET) enables high-contrast in vivo detection of four-repeat tau pathology in progressive supranuclear palsy (PSP), but whether longitudinal tau imaging reflects disease progression remains unclear. [Objectives] To explore longitudinal tau accumulation using florzolotau PET and evaluate its association with clinical...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Medrxiv",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.26.26350467",
+      "keywords": [],
+      "readTime": "3 min",
+      "source": "Medrxiv",
+      "doi": "10.64898/2026.04.26.26350467",
+      "pdfUrl": "https://www.medrxiv.org/content/early/2026/04/28//2026.04.26.26350467.source.pdf",
+      "id": "bio-paper-f309b5"
+    },
+    {
+      "title": "A Hybrid Framework for Accurate Melanoma Diagnosis: Leveraging Generative AI with Enhanced CNN+ Architectures",
+      "authors": "Wu, Y.; Zhang, B.; Yan, Y.; Li, J.; Wu, Y.; Kim, S. S.; Huang, K.; Ye, Q.; Yu, Y.; Tong, G.",
+      "abstract": "Melanocytes become cancerous, forming tumors that may invade and destroy the surrounding tissues. When melanocytes acquire invasive characteristics, the anchored melanoma begins to damage the normal cells. Therefore, early intervention and diagnosis are essential to avoid high morbidity and mortality in malignant melanoma. However, It is challenging to distinguish the difference between malignant...",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "Medrxiv",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.27.26351813",
+      "keywords": [],
+      "readTime": "3 min",
+      "source": "Medrxiv",
+      "doi": "10.64898/2026.04.27.26351813",
+      "pdfUrl": "https://www.medrxiv.org/content/early/2026/04/28//2026.04.27.26351813.source.pdf",
+      "id": "cs-paper-07f762"
+    },
+    {
+      "title": "Co-expressed MicroRNAs Associated with An Elevated Psychometabolic Risk Phenotype in Women during Midlife",
+      "authors": "Longoria, K. D.; Stroebel, B.; Gadgil, M.; Perez, N.; Lewis, K. A.; Weiss, S. J.; Flowers, E.",
+      "abstract": "Introduction The bidirectional relationship between depression and type 2 diabetes (T2D) is well-established. Women are disproportionately affected by their co-occurrence, particularly during midlife, yet sex- and age-specific studies on phenotypic and mechanistic factors underlying risk for their co-occurrence are limited. The purpose of this study was to identify combined risk profiles (i.e.,...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Medrxiv",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.27.26351846",
+      "keywords": [],
+      "readTime": "3 min",
+      "source": "Medrxiv",
+      "doi": "10.64898/2026.04.27.26351846",
+      "pdfUrl": "https://www.medrxiv.org/content/early/2026/04/28//2026.04.27.26351846.source.pdf",
+      "id": "bio-paper-b3295a"
+    },
+    {
+      "title": "Reconciling neurocognitive and behavioral impulsivities through ecological assessment and multivariate modelling of cognitive control dynamics",
+      "authors": "imparato, a.; Reich, N.; Riviere, G.; Eliez, S.; Graser, C.; Schneider, M.; Sandini, C.",
+      "abstract": "Impulsivity is a core dimension of ADHD and a transdiagnostic vulnerability factor for a wide range of adverse psychiatric and somatic outcomes, that could be mitigated through more effective screening of at-risk individuals. However, laboratory-based measures of impulsivity show weak convergence across paradigms and limited prediction of real-world behavior, constraining their utility. We tested...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Medrxiv",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.27.26351677",
+      "keywords": [],
+      "readTime": "3 min",
+      "source": "Medrxiv",
+      "doi": "10.64898/2026.04.27.26351677",
+      "pdfUrl": "https://www.medrxiv.org/content/early/2026/04/28//2026.04.27.26351677.source.pdf",
+      "id": "bio-paper-ae9d76"
+    },
+    {
+      "title": "Identifying autism in women diagnosed with borderline personality disorder: Clinician and lived experience perspectives.",
+      "authors": "Parker, J. A.; Thompson, E.; Mandy, W.; McCabe, R.; Stark, E.; Barnicot, K.",
+      "abstract": "Background. Growing numbers of people with a borderline personality disorder (BPD) diagnosis are realising they may have undiagnosed autism. Previous qualitative research has not focused on identifying barriers and facilitators to this diagnostic journey, did not explore the perspectives of clinicians, and did not include the experiences of people who are unsure whether they are autistic or not....",
+      "discipline": "clinical",
+      "type": "paper",
+      "journal": "Medrxiv",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.27.26351287",
+      "keywords": [],
+      "readTime": "3 min",
+      "source": "Medrxiv",
+      "doi": "10.64898/2026.04.27.26351287",
+      "pdfUrl": "https://www.medrxiv.org/content/early/2026/04/28//2026.04.27.26351287.source.pdf",
+      "id": "clinical-paper-cae4fe"
+    },
+    {
+      "title": "Lactoferrin and lysozyme for Kenyan children presenting with wasting and diarrhea: A 2 x 2 factorial randomized controlled trial",
+      "authors": "Tickell, K. D.; Tiwari, R.; Trehan, I.; Otieno, J.; Okello, M.; Shah, A.; Keter, L.; Yoshioka, E.; Ochola, E.; Nyabinda, C.; Rwigi, D.; Njunge, J. M.; Houpt, E.; Platts-Mills, J. A.; Liu, J.; Richardson, B. A.; McGrath, C. J.; Means, A. R.; Diakhate, M. M.; Stewart, G. J.; Walson, J. L.; Singa, B. O.; Pavlinac, P. B.",
+      "abstract": "Introduction: Lactoferrin and lysozyme are milk derived proteins with antimicrobial and anti-inflammatory properties. We tested if these supplements improved time-to-nutritional-recovery and reduced the incidence of new moderate or severe diarrhea (MSD) among children presenting to hospital with wasting and diarrhea. Methods: Medically-stable children aged 6-24 months with diarrhea and wasting...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Medrxiv",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.medrxiv.org/content/10.64898/2026.04.27.26351844",
+      "keywords": [],
+      "readTime": "3 min",
+      "source": "Medrxiv",
+      "doi": "10.64898/2026.04.27.26351844",
+      "pdfUrl": "https://www.medrxiv.org/content/early/2026/04/28//2026.04.27.26351844.source.pdf",
+      "id": "bio-paper-667625"
+    },
+    {
+      "title": "Author Correction: Quantum error correction below the surface code threshold",
+      "authors": "Nicholas Zobrist",
+      "abstract": "Nature, Published online: 28 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10559-8\">doi:10.1038/s41586-026-10559-8</a>\nAuthor Correction: Quantum error correction below the surface code threshold",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "Nature News",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.nature.com/articles/s41586-026-10559-8",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "Nature News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-fbbc15"
+    },
+    {
+      "title": "The equity paradox of environmental DNA for biodiversity monitoring",
+      "authors": "Marina Fleury",
+      "abstract": "Nature, Published online: 28 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01349-3\">doi:10.1038/d41586-026-01349-3</a>\nThe equity paradox of environmental DNA for biodiversity monitoring",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "Nature News",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.nature.com/articles/d41586-026-01349-3",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "Nature News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-a95b5f"
+    },
+    {
+      "title": "To hire good scientists, look at their peer-reviewing records",
+      "authors": "David Comerford",
+      "abstract": "Nature, Published online: 28 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01368-0\">doi:10.1038/d41586-026-01368-0</a>\nTo hire good scientists, look at their peer-reviewing records",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "Nature News",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.nature.com/articles/d41586-026-01368-0",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "Nature News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-5e67a9"
+    },
+    {
+      "title": "Gulf states must move from efficiency to resilience",
+      "authors": "Abrar Al-Hasan",
+      "abstract": "Nature, Published online: 28 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01366-2\">doi:10.1038/d41586-026-01366-2</a>\nGulf states must move from efficiency to resilience",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "Nature News",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.nature.com/articles/d41586-026-01366-2",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "Nature News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-50fc45"
+    },
+    {
+      "title": "The politics of playful primates",
+      "authors": "Nature News",
+      "abstract": "Nature, Published online: 28 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01352-8\">doi:10.1038/d41586-026-01352-8</a>\nApes, monkeys and their relatives that live in despotic societies are less likely to clown around as adults.",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "Nature News",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.nature.com/articles/d41586-026-01352-8",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "Nature News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-b89d39"
+    },
+    {
+      "title": "Fauci aide indicted over federal records violations related to COVID-19",
+      "authors": "Jon Cohen",
+      "abstract": "David Morens could face prison time for allegedly concealing back-channel efforts to help nonprofit accused of starting pandemic",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "Science News",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.science.org/content/article/fauci-aide-indicted-over-federal-records-violations-related-covid-19",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "Science News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-ebde4a"
+    },
+    {
+      "title": "Famed Brazilian dinosaur fossil finally heads home",
+      "authors": "Taylor Mitchell BrownRodrigo Pérez Ortega",
+      "abstract": "Germany and Brazil reach agreement over controversial spinosaurid fossil, heralding new collaboration between the two nations",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "Science News",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.science.org/content/article/famed-brazilian-spinosaurus-fossil-finally-heads-home",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "Science News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-27f464"
+    },
+    {
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "authors": "OpenAI Blog",
+      "abstract": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "OpenAI Blog",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://openai.com/index/openai-on-aws",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "OpenAI Blog",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-c229b2"
+    },
+    {
+      "title": "Our commitment to community safety",
+      "authors": "OpenAI Blog",
+      "abstract": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "OpenAI Blog",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "OpenAI Blog",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-2339cb"
+    },
+    {
+      "title": "High-resolution global recombination mapping in C. elegans reveals sexual dimorphisms shaped by meiotic chromosomal features and structures",
+      "authors": "Bush, Z. D.; Conery, J. S.; Wilson, H. R.; Naftaly, A. F.; Dinwiddie, D.; Hillers, K. J.; Libuda, D. E.",
+      "abstract": "Crossover recombination events during meiosis repair double-strand DNA breaks and ensure accurate chromosome segregation in most organisms. For many species, the genomic distribution of crossovers is nonrandom and sexually dimorphic. While many species evolved kilobase-scale 'hotspots' for crossover formation, the Caenorhabditis elegans genome lacks hotspots, and crossovers are enriched across...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Biorxiv",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.25.720830",
+      "keywords": [],
+      "readTime": "3 min",
+      "source": "Biorxiv",
+      "doi": "10.64898/2026.04.25.720830",
+      "pdfUrl": "https://www.biorxiv.org/content/early/2026/04/28//2026.04.25.720830.source.pdf",
+      "id": "bio-paper-e386a6"
+    },
+    {
+      "title": "Human Gut Phageome Analysis Uncovers Thousands of Highly Modular Endolysins",
+      "authors": "Niloy, R. K.; Jewel, N. A.; Karim, D.; Rolin, M. H.; Khan, T.; Akter, A.; Mondal, S. I.",
+      "abstract": "The escalating threat of antimicrobial resistance has renewed global interest in bacteriophages as precise and powerful tools for controlling bacterial populations in the human gut. These viruses owe much of their antibacterial potential to phage-encoded endolysins, enzymes capable of rapidly degrading bacterial cell walls with high specificity and low potential for resistance development....",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Biorxiv",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.25.720813",
+      "keywords": [],
+      "readTime": "3 min",
+      "source": "Biorxiv",
+      "doi": "10.64898/2026.04.25.720813",
+      "pdfUrl": "https://www.biorxiv.org/content/early/2026/04/28//2026.04.25.720813.source.pdf",
+      "id": "bio-paper-9dc14a"
+    },
+    {
+      "title": "Connecting multiway enhancer-promoter interactions to changes in gene expression in cancer",
+      "authors": "Kumari, K.; Shin, S.; Shi, G.; Reed, K. S.; Misteli, T.; Thirumalai, D.",
+      "abstract": "Hi-C, and more recently Micro-C, experiments suggest that genome organization is altered as normal cells become cancerous, often resulting in aberrant gene expression. In prostate cancer, there is evidence that large topologically associating domains in normal cells split and are accompanied by shifts in the epigenetic marks from inactive to active states. However, it is unclear whether changes...",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Biorxiv",
+      "date": "2026-04-28",
+      "year": 2026,
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.25.720760",
+      "keywords": [],
+      "readTime": "3 min",
+      "source": "Biorxiv",
+      "doi": "10.64898/2026.04.25.720760",
+      "pdfUrl": "https://www.biorxiv.org/content/early/2026/04/28//2026.04.25.720760.source.pdf",
+      "id": "bio-paper-2ae880"
+    },
+    {
+      "title": "Bizarre Hawking radiation may smooth the jagged hearts of black holes",
+      "authors": "Adrian Cho",
+      "abstract": "Hawking’s signature prediction may prevent vexing singularities from forming",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "Science News",
+      "date": "2026-04-27",
+      "year": 2026,
+      "url": "https://www.science.org/content/article/bizarre-hawking-radiation-may-smooth-jagged-hearts-black-holes",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "Science News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-a2ebdb"
+    },
+    {
+      "title": "How an HIV/AIDS tragedy spurred human evolution",
+      "authors": "Jon Cohen",
+      "abstract": "Before antiretroviral drugs reached South Africa, high death toll shaped immune system genes",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "Science News",
+      "date": "2026-04-27",
+      "year": 2026,
+      "url": "https://www.science.org/content/article/how-hiv-aids-tragedy-spurred-human-evolution",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "Science News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-bca6d0"
+    },
+    {
+      "title": "OpenAI available at FedRAMP Moderate",
+      "authors": "OpenAI Blog",
+      "abstract": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "OpenAI Blog",
+      "date": "2026-04-27",
+      "year": 2026,
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "OpenAI Blog",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-908827"
+    },
+    {
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "authors": "OpenAI Blog",
+      "abstract": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "OpenAI Blog",
+      "date": "2026-04-27",
+      "year": 2026,
+      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "OpenAI Blog",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-2d9035"
+    },
+    {
+      "title": "An open-source spec for orchestration: Symphony",
+      "authors": "OpenAI Blog",
+      "abstract": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "OpenAI Blog",
+      "date": "2026-04-27",
+      "year": 2026,
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "OpenAI Blog",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-83b064"
+    },
+    {
+      "title": "Trump fires all 24 members of the U.S. National Science Foundation’s governing body",
+      "authors": "Jeffrey Mervis",
+      "abstract": "Dismissal of the National Science Board is widely seen as latest move to erase NSF’s independence",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "Science News",
+      "date": "2026-04-25",
+      "year": 2026,
+      "url": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "Science News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "cs-news-f52958"
+    },
+    {
+      "title": "Turkana Food Inc. Recalls Aleppo Tahini Sesame Paste 1lb (16oz) Because of Possible Health Risk",
+      "authors": "CDC News",
+      "abstract": "Turkana Food Inc. Kenilworth, NJ is recalling 858 cases OF Aleppo Tahini Sesame Paste because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened immune system",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "CDC News",
+      "date": "2025-02-06",
+      "year": 2025,
+      "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=404952&c=757822",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "CDC News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "clinical-news-561617"
+    },
+    {
+      "id": "geo-news-002",
+      "title": "NASA confirms 2024 as hottest year on record, part of accelerating warming trend",
+      "authors": "NASA Goddard Institute for Space Studies",
+      "abstract": "NASA and NOAA analyses confirm that 2024 was the warmest year since global records began in 1880, continuing a decade-long trend of accelerating global temperature rise driven by greenhouse gas emissions.",
+      "discipline": "geo",
+      "type": "news",
+      "journal": "NASA",
+      "date": "2025-01-14",
+      "year": 2025,
+      "doi": "",
+      "url": "https://www.nasa.gov/news-release/nasa-confirms-2024-hottest-year-on-record/",
+      "keywords": [
+        "NASA",
+        "global warming",
+        "temperature",
+        "climate",
+        "2024"
+      ],
+      "readTime": "5 min",
+      "source": "NASA"
+    },
+    {
+      "id": "geo-news-001",
+      "title": "Copernicus: 2024 is the first year to exceed 1.5C above pre-industrial levels",
+      "authors": "Copernicus Climate Change Service",
+      "abstract": "2024 was the warmest year on record globally and the first year exceeding 1.5C above the pre-industrial average, according to ERA5 data from Copernicus Climate Change Service and World Meteorological Organization.",
+      "discipline": "geo",
+      "type": "news",
+      "journal": "Copernicus",
+      "date": "2025-01-10",
+      "year": 2025,
+      "doi": "",
+      "url": "https://climate.copernicus.eu/copernicus-2024-first-year-exceed-15c-above-pre-industrial-levels",
+      "keywords": [
+        "climate change",
+        "temperature record",
+        "global warming",
+        "Copernicus",
+        "2024"
+      ],
+      "readTime": "5 min",
+      "source": "Copernicus"
+    },
+    {
+      "id": "cs-news-001",
+      "title": "OpenAI o3 and o3-mini: Pushing the boundaries of AI reasoning",
+      "authors": "OpenAI Research Team",
+      "abstract": "OpenAI announces o3 and o3-mini models, demonstrating significant advances in reasoning capabilities through deliberative alignment and chain-of-thought approaches, achieving breakthrough results on ARC-AGI benchmark.",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "OpenAI Blog",
+      "date": "2024-12-20",
+      "year": 2024,
+      "doi": "",
+      "url": "https://openai.com/research/deliberative-alignment",
+      "keywords": [
+        "o3",
+        "AI",
+        "reasoning",
+        "alignment",
+        "ARC-AGI"
+      ],
+      "readTime": "8 min",
+      "source": "OpenAI"
+    },
+    {
+      "id": "geo-news-003",
+      "title": "UNEP Emissions Gap Report 2024: No more hot air... please!",
+      "authors": "United Nations Environment Programme",
+      "abstract": "The 2024 Emissions Gap Report finds that current national climate commitments would reduce projected global warming to 2.6-2.8C, far above the Paris Agreement's 1.5C goal, urging immediate action.",
+      "discipline": "geo",
+      "type": "news",
+      "journal": "UNEP",
+      "date": "2024-10-24",
+      "year": 2024,
+      "doi": "",
+      "url": "https://www.unep.org/resources/emissions-gap-report-2024",
+      "keywords": [
+        "UNEP",
+        "emissions gap",
+        "climate action",
+        "Paris Agreement",
+        "CO2"
+      ],
+      "readTime": "8 min",
+      "source": "UNEP"
+    },
+    {
+      "id": "cs-news-002",
+      "title": "Google DeepMind's AlphaProof achieves silver-medal level in mathematical olympiad",
+      "authors": "DeepMind Team",
+      "abstract": "AlphaProof, a new AI system combining language models with reinforcement learning, has achieved silver-medal standard solving complex mathematical problems at the International Mathematical Olympiad level.",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "DeepMind Blog",
+      "date": "2024-07-25",
+      "year": 2024,
+      "doi": "",
+      "url": "https://deepmind.google/discover/blog/alphaproof-achieves-silver-medal-level-in-mathematical-olympiad/",
+      "keywords": [
+        "AlphaProof",
+        "mathematics",
+        "AI",
+        "DeepMind",
+        "IMO"
+      ],
+      "readTime": "6 min",
+      "source": "DeepMind"
+    },
+    {
+      "title": "Living with Long COVID",
+      "authors": "CDC News",
+      "abstract": "People with post-COVID conditions and those who support them can find ways to help, ways to cope with stress, and additional resources and support groups.",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "CDC News",
+      "date": "2024-06-11",
+      "year": 2024,
+      "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=404952&c=749981",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "CDC News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "clinical-news-0f7d19"
+    },
+    {
+      "title": "Long COVID Basics",
+      "authors": "CDC News",
+      "abstract": "Learn about the potential COVID-19 long-term effects, including fatigue, shortness of breath, brain fog, chest pain, headache, and other symptoms.",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "CDC News",
+      "date": "2024-06-11",
+      "year": 2024,
+      "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=404952&c=749980",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "CDC News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "clinical-news-b2f1af"
+    },
+    {
+      "id": "bio-news-001",
+      "title": "AlphaFold 3 predicts structures of nearly every molecule in biology",
+      "authors": "DeepMind / Isomorphic Labs",
+      "abstract": "Google DeepMind releases AlphaFold 3, expanding protein structure prediction to DNA, RNA, and small molecules, opening new avenues for drug discovery and biological research.",
+      "discipline": "bio",
+      "type": "news",
+      "journal": "Nature News",
+      "date": "2024-05-08",
+      "year": 2024,
+      "doi": "",
+      "url": "https://www.nature.com/articles/d41586-024-01383-z",
+      "keywords": [
+        "AlphaFold 3",
+        "protein",
+        "AI",
+        "drug discovery"
+      ],
+      "readTime": "5 min",
+      "source": "Nature News"
+    },
+    {
+      "title": "COVID-19 Testing: What You Need to Know",
+      "authors": "CDC News",
+      "abstract": "Learn about testing for COVID-19, including the types of tests, who should get tested, how to get tested, and print resources in English and Spanish.",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "CDC News",
+      "date": "2024-05-02",
+      "year": 2024,
+      "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=404952&c=748550",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "CDC News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "clinical-news-185ca1"
+    },
+    {
+      "id": "cs-news-003",
+      "title": "Meta releases Llama 3: Most capable openly available LLM to date",
+      "authors": "Meta AI",
+      "abstract": "Meta announces Llama 3, the latest version of its open large language model, featuring significant improvements in reasoning, code generation, and multilingual capabilities across 8B and 70B parameter models.",
+      "discipline": "cs",
+      "type": "news",
+      "journal": "Meta AI Blog",
+      "date": "2024-04-18",
+      "year": 2024,
+      "doi": "",
+      "url": "https://ai.meta.com/blog/meta-llama-3/",
+      "keywords": [
+        "Llama 3",
+        "Meta",
+        "LLM",
+        "open source",
+        "AI"
+      ],
+      "readTime": "7 min",
+      "source": "Meta"
+    },
+    {
+      "title": "COVID-19 Vaccines for People Who Are Moderately or Severely Immunocompromised",
+      "authors": "CDC News",
+      "abstract": "Learn CDC recommendations for COVID-19 vaccines for moderately to severely immunocompromised people. An additional dose is recommended.",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "CDC News",
+      "date": "2024-03-07",
+      "year": 2024,
+      "url": "https://tools.cdc.gov/api/embed/downloader/download.asp?m=404952&c=750544",
+      "keywords": [],
+      "readTime": "5 min",
+      "source": "CDC News",
+      "doi": "",
+      "pdfUrl": "",
+      "id": "clinical-news-38e661"
+    },
+    {
+      "id": "clinical-news-003",
+      "title": "CDC updates respiratory virus guidance for COVID-19, flu, and RSV",
+      "authors": "Centers for Disease Control and Prevention",
+      "abstract": "The CDC issued updated respiratory virus guidance that brings a unified approach to addressing risks from COVID-19, flu, and RSV, emphasizing core prevention strategies.",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "CDC",
+      "date": "2024-03-01",
+      "year": 2024,
+      "doi": "",
+      "url": "https://www.cdc.gov/respiratory-viruses/prevention/index.html",
+      "keywords": [
+        "CDC",
+        "respiratory virus",
+        "COVID-19",
+        "flu",
+        "RSV",
+        "prevention"
+      ],
+      "readTime": "5 min",
+      "source": "CDC"
+    },
+    {
+      "id": "bio-news-003",
+      "title": "FDA approves first CRISPR-based gene editing therapy for sickle cell disease",
+      "authors": "U.S. Food and Drug Administration",
+      "abstract": "The FDA approved Casgevy, the first CRISPR/Cas9 genome-edited cell therapy for the treatment of sickle cell disease in patients 12 years and older.",
+      "discipline": "bio",
+      "type": "news",
+      "journal": "FDA News",
+      "date": "2023-12-08",
+      "year": 2023,
+      "doi": "",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease",
+      "keywords": [
+        "FDA",
+        "CRISPR",
+        "gene therapy",
+        "sickle cell",
+        "Casgevy"
+      ],
+      "readTime": "4 min",
+      "source": "FDA"
+    },
+    {
+      "id": "clinical-news-002",
+      "title": "WHO declares end of COVID-19 as a global health emergency",
+      "authors": "World Health Organization",
+      "abstract": "The WHO Director-General declares the end of COVID-19 as a public health emergency of international concern (PHEIC), marking a transition in the global response to the pandemic.",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "WHO News",
+      "date": "2023-05-05",
+      "year": 2023,
+      "doi": "",
+      "url": "https://www.who.int/news/item/05-05-2023-statement-on-the-fifteenth-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-coronavirus-disease-(covid-19)-pandemic",
+      "keywords": [
+        "COVID-19",
+        "WHO",
+        "pandemic",
+        "public health",
+        "PHEIC"
+      ],
+      "readTime": "6 min",
+      "source": "WHO"
+    },
+    {
+      "id": "clinical-news-001",
+      "title": "Hypertension: Key facts and latest statistics from WHO",
+      "authors": "World Health Organization",
+      "abstract": "Key facts about hypertension worldwide: 1.28 billion adults aged 30-79 years have hypertension, and two-thirds live in low- and middle-income countries. It is a major cause of premature death worldwide.",
+      "discipline": "clinical",
+      "type": "news",
+      "journal": "WHO Fact Sheet",
+      "date": "2023-03-16",
+      "year": 2023,
+      "doi": "",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/hypertension",
+      "keywords": [
+        "hypertension",
+        "WHO",
+        "statistics",
+        "cardiovascular",
+        "health"
+      ],
+      "readTime": "5 min",
+      "source": "WHO"
+    },
+    {
+      "id": "geo-paper-001",
+      "title": "Climate change 2021: The physical science basis",
+      "authors": "IPCC Working Group I",
+      "abstract": "The Working Group I contribution to the Sixth Assessment Report addresses the most up-to-date physical understanding of the climate system and climate change, bringing together the latest advances in climate science from over 200 authors.",
+      "discipline": "geo",
+      "type": "paper",
+      "journal": "Cambridge University Press",
+      "date": "2021-08-09",
+      "year": 2021,
+      "doi": "10.1017/9781009157896",
+      "url": "https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf",
+      "pdfUrl": "https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf",
+      "keywords": [
+        "IPCC",
+        "climate change",
+        "global warming",
+        "projections",
+        "AR6"
+      ],
+      "readTime": "30 min",
+      "source": "IPCC"
+    },
+    {
+      "id": "bio-paper-001",
+      "title": "Highly accurate protein structure prediction with AlphaFold",
+      "authors": "Jumper J, Evans R, Pritzel A, et al.",
+      "abstract": "AlphaFold achieves atomic accuracy in protein structure prediction, solving a 50-year-old grand challenge in biology. The method uses a novel deep learning architecture incorporating evolutionary features and structure-based representations.",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Nature",
+      "date": "2021-07-15",
+      "year": 2021,
+      "doi": "10.1038/s41586-021-03819-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34265844/",
+      "pdfUrl": "https://www.nature.com/articles/s41586-021-03819-2.pdf",
+      "keywords": [
+        "AlphaFold",
+        "protein structure",
+        "deep learning",
+        "biology"
+      ],
+      "readTime": "20 min",
+      "source": "Nature"
+    },
+    {
+      "id": "clinical-paper-004",
+      "title": "Effect of Colchicine on Cardiovascular Outcomes in Patients with Chronic Coronary Disease",
+      "authors": "Nidorf SM, Fiolet ATL, Mosterd A, et al.",
+      "abstract": "In the LoDoCo2 trial, colchicine at a dose of 0.5 mg daily led to a significantly lower risk of cardiovascular events than placebo in patients with chronic coronary disease.",
+      "discipline": "clinical",
+      "type": "paper",
+      "journal": "New England Journal of Medicine",
+      "date": "2020-11-05",
+      "year": 2020,
+      "doi": "10.1056/NEJMoa2021372",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32865380/",
+      "pdfUrl": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2021372",
+      "keywords": [
+        "colchicine",
+        "cardiovascular",
+        "coronary disease",
+        "inflammation"
+      ],
+      "readTime": "14 min",
+      "source": "NEJM"
+    },
+    {
+      "id": "bio-news-002",
+      "title": "Nobel Prize in Chemistry 2020 awarded to CRISPR pioneers Doudna and Charpentier",
+      "authors": "Nobel Prize Organization",
+      "abstract": "Emmanuelle Charpentier and Jennifer A. Doudna have been awarded the Nobel Prize in Chemistry 2020 for the development of a method for genome editing using CRISPR-Cas9.",
+      "discipline": "bio",
+      "type": "news",
+      "journal": "Nobel Prize",
+      "date": "2020-10-07",
+      "year": 2020,
+      "doi": "",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2020/summary/",
+      "keywords": [
+        "Nobel Prize",
+        "CRISPR",
+        "Doudna",
+        "Charpentier",
+        "genome editing"
+      ],
+      "readTime": "3 min",
+      "source": "Nobel Prize"
+    },
+    {
+      "id": "clinical-paper-001",
+      "title": "An mRNA Vaccine against SARS-CoV-2 - Preliminary Report",
+      "authors": "Jackson LA, Anderson EJ, Rouphael NG, et al.",
+      "abstract": "This landmark study describes the first clinical trial of an mRNA vaccine (BNT162b1) against SARS-CoV-2, demonstrating safety and robust immunogenicity, paving the way for the Pfizer-BioNTech COVID-19 vaccine.",
+      "discipline": "clinical",
+      "type": "paper",
+      "journal": "New England Journal of Medicine",
+      "date": "2020-07-14",
+      "year": 2020,
+      "doi": "10.1056/NEJMoa2022483",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32663912/",
+      "pdfUrl": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2022483",
+      "keywords": [
+        "COVID-19",
+        "mRNA vaccine",
+        "SARS-CoV-2",
+        "clinical trial",
+        "BNT162b1"
+      ],
+      "readTime": "15 min",
+      "source": "NEJM"
+    },
+    {
+      "id": "clinical-paper-003",
+      "title": "A Trial of Liraglutide for Obesity in Adolescents",
+      "authors": "Kelly AS, Auerbach P, Barrientos-Perez M, et al.",
+      "abstract": "In this randomized trial, liraglutide plus lifestyle therapy resulted in a significantly greater reduction in BMI than placebo plus lifestyle therapy among adolescents with obesity.",
+      "discipline": "clinical",
+      "type": "paper",
+      "journal": "New England Journal of Medicine",
+      "date": "2020-03-05",
+      "year": 2020,
+      "doi": "10.1056/NEJMoa1916038",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32115535/",
+      "pdfUrl": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1916038",
+      "keywords": [
+        "liraglutide",
+        "obesity",
+        "adolescents",
+        "GLP-1",
+        "clinical trial"
+      ],
+      "readTime": "12 min",
+      "source": "NEJM"
+    },
+    {
+      "id": "cs-paper-003",
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "authors": "Devlin J, Chang MW, Lee K, Toutanova K",
+      "abstract": "We introduce a new language representation model called BERT, which stands for Bidirectional Encoder Representations from Transformers. BERT is designed to pre-train deep bidirectional representations from unlabeled text.",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "NAACL",
+      "date": "2019-05-24",
+      "year": 2019,
+      "doi": "10.48550/arXiv.1810.04805",
+      "url": "https://arxiv.org/abs/1810.04805",
+      "pdfUrl": "https://arxiv.org/pdf/1810.04805.pdf",
+      "keywords": [
+        "BERT",
+        "NLP",
+        "transformer",
+        "pre-training",
+        "language model"
+      ],
+      "readTime": "18 min",
+      "source": "arXiv"
+    },
+    {
+      "id": "bio-paper-004",
+      "title": "Single-cell transcriptomics of 20 mouse organs creates a Tabula Muris",
+      "authors": "Tabula Muris Consortium",
+      "abstract": "We have created a compendium of single-cell transcriptomic data from the model organism Mus musculus comprising more than 100,000 cells from 20 organs and tissues, representing a new resource for cell biology.",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Nature",
+      "date": "2018-10-11",
+      "year": 2018,
+      "doi": "10.1038/s41586-018-0590-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30283141/",
+      "pdfUrl": "https://www.nature.com/articles/s41586-018-0590-4.pdf",
+      "keywords": [
+        "single-cell",
+        "transcriptomics",
+        "mouse",
+        "atlas"
+      ],
+      "readTime": "18 min",
+      "source": "Nature"
+    },
+    {
+      "id": "cs-paper-001",
+      "title": "Attention Is All You Need",
+      "authors": "Vaswani A, Shazeer N, Parmar N, et al.",
+      "abstract": "We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. This has become the foundation of modern NLP and large language models including GPT and BERT.",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "NeurIPS",
+      "date": "2017-06-12",
+      "year": 2017,
+      "doi": "10.48550/arXiv.1706.03762",
+      "url": "https://arxiv.org/abs/1706.03762",
+      "pdfUrl": "https://arxiv.org/pdf/1706.03762.pdf",
+      "keywords": [
+        "transformer",
+        "attention",
+        "deep learning",
+        "NLP",
+        "LLM"
+      ],
+      "readTime": "20 min",
+      "source": "arXiv"
+    },
+    {
+      "id": "geo-paper-004",
+      "title": "Global warming and recurrent mass bleaching of corals",
+      "authors": "Hughes TP, Kerry JT, Alvarez-Noriega M, et al.",
+      "abstract": "During 2015-2016, record temperatures triggered a pan-tropical episode of coral bleaching. The frequency of severe bleaching events has increased dramatically, threatening the future of coral reefs worldwide.",
+      "discipline": "geo",
+      "type": "paper",
+      "journal": "Nature",
+      "date": "2017-03-16",
+      "year": 2017,
+      "doi": "10.1038/nature21707",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28300282/",
+      "pdfUrl": "https://www.nature.com/articles/nature21707.pdf",
+      "keywords": [
+        "coral bleaching",
+        "global warming",
+        "ocean",
+        "climate change",
+        "reef"
+      ],
+      "readTime": "15 min",
+      "source": "Nature"
+    },
+    {
+      "id": "clinical-paper-002",
+      "title": "Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes",
+      "authors": "Marso SP, Bain SC, Consoli A, et al.",
+      "abstract": "The SUSTAIN-6 trial demonstrated that semaglutide, a GLP-1 receptor agonist, significantly reduced the risk of cardiovascular events in patients with type 2 diabetes at high cardiovascular risk.",
+      "discipline": "clinical",
+      "type": "paper",
+      "journal": "New England Journal of Medicine",
+      "date": "2016-11-10",
+      "year": 2016,
+      "doi": "10.1056/NEJMoa1607141",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27633186/",
+      "pdfUrl": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1607141",
+      "keywords": [
+        "semaglutide",
+        "GLP-1",
+        "diabetes",
+        "cardiovascular",
+        "SUSTAIN-6"
+      ],
+      "readTime": "15 min",
+      "source": "NEJM"
+    },
+    {
+      "id": "cs-paper-002",
+      "title": "Deep Residual Learning for Image Recognition",
+      "authors": "He K, Zhang X, Ren S, Sun J",
+      "abstract": "We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously. Our residual networks (ResNet) won the ImageNet 2015 competition with 152 layers.",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "CVPR",
+      "date": "2016-06-27",
+      "year": 2016,
+      "doi": "10.1109/CVPR.2016.90",
+      "url": "https://arxiv.org/abs/1512.03385",
+      "pdfUrl": "https://arxiv.org/pdf/1512.03385.pdf",
+      "keywords": [
+        "ResNet",
+        "deep learning",
+        "CNN",
+        "computer vision",
+        "ImageNet"
+      ],
+      "readTime": "15 min",
+      "source": "arXiv"
+    },
+    {
+      "id": "geo-paper-003",
+      "title": "The Paris Agreement and the New Logic of International Climate Politics",
+      "authors": "Falkner R",
+      "abstract": "The 2015 Paris Agreement represents a turning point in international climate governance, introducing a hybrid architecture of binding and non-binding elements, and a new logic of norm evolution in global environmental politics.",
+      "discipline": "geo",
+      "type": "paper",
+      "journal": "International Affairs",
+      "date": "2016-05-01",
+      "year": 2016,
+      "doi": "10.1111/1468-2346.12569",
+      "url": "https://academic.oup.com/ia/article/92/5/1107/2555536",
+      "pdfUrl": "",
+      "keywords": [
+        "Paris Agreement",
+        "climate politics",
+        "international relations",
+        "governance"
+      ],
+      "readTime": "20 min",
+      "source": "Oxford Academic"
+    },
+    {
+      "id": "cs-hist-002",
+      "title": "Mastering the game of Go with deep neural networks and tree search",
+      "authors": "Silver D, Huang A, Maddison CJ, et al.",
+      "abstract": "We describe the AlphaGo program that defeated the human European Go champion and the world champion Lee Sedol. AlphaGo combines deep neural networks with Monte Carlo tree search using policy and value networks.",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "Nature",
+      "date": "2016-01-28",
+      "year": 2016,
+      "doi": "10.1038/nature16961",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26818742/",
+      "pdfUrl": "https://www.nature.com/articles/nature16961.pdf",
+      "keywords": [
+        "AlphaGo",
+        "deep learning",
+        "reinforcement learning",
+        "Go",
+        "game AI"
+      ],
+      "readTime": "20 min",
+      "source": "Nature"
+    },
+    {
+      "id": "cs-paper-004",
+      "title": "Generative Adversarial Networks",
+      "authors": "Goodfellow IJ, Pouget-Abadie J, Mirza M, et al.",
+      "abstract": "We propose a new framework for estimating generative models via an adversarial process, in which we simultaneously train two models: a generative model G that captures the data distribution, and a discriminative model D that estimates the probability that a sample came from the training data.",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "NeurIPS",
+      "date": "2014-06-10",
+      "year": 2014,
+      "doi": "10.48550/arXiv.1406.2661",
+      "url": "https://arxiv.org/abs/1406.2661",
+      "pdfUrl": "https://arxiv.org/pdf/1406.2661.pdf",
+      "keywords": [
+        "GAN",
+        "generative model",
+        "deep learning",
+        "adversarial"
+      ],
+      "readTime": "16 min",
+      "source": "arXiv"
+    },
+    {
+      "id": "cs-hist-001",
+      "title": "ImageNet Classification with Deep Convolutional Neural Networks",
+      "authors": "Krizhevsky A, Sutskever I, Hinton GE",
+      "abstract": "We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes. Our model (AlexNet) achieved top-1 and top-5 error rates of 37.5% and 17.0%.",
+      "discipline": "cs",
+      "type": "paper",
+      "journal": "NeurIPS",
+      "date": "2012-12-03",
+      "year": 2012,
+      "doi": "10.1145/3065386",
+      "url": "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html",
+      "pdfUrl": "https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf",
+      "keywords": [
+        "AlexNet",
+        "deep learning",
+        "CNN",
+        "computer vision",
+        "ImageNet"
+      ],
+      "readTime": "15 min",
+      "source": "NeurIPS"
+    },
+    {
+      "id": "geo-paper-002",
+      "title": "A Reconciled Estimate of Ice-Sheet Mass Balance",
+      "authors": "Shepherd A, Ivins ER, Geruo A, et al.",
+      "abstract": "We combined an ensemble of satellite altimetry, interferometry, and gravimetry data sets to estimate the mass balance of Earth's polar ice sheets, finding significant ice loss contributing to sea-level rise.",
+      "discipline": "geo",
+      "type": "paper",
+      "journal": "Science",
+      "date": "2012-11-30",
+      "year": 2012,
+      "doi": "10.1126/science.1228102",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23197528/",
+      "pdfUrl": "https://www.science.org/doi/pdf/10.1126/science.1228102",
+      "keywords": [
+        "ice sheet",
+        "Antarctica",
+        "Greenland",
+        "sea level",
+        "climate",
+        "mass balance"
+      ],
+      "readTime": "12 min",
+      "source": "Science"
+    },
+    {
+      "id": "bio-paper-002",
+      "title": "A Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity",
+      "authors": "Jinek M, Chylinski K, Fonfara I, et al.",
+      "abstract": "We report the programmable dual-RNA-guided DNA endonuclease Cas9 from Streptococcus pyogenes. Our findings reveal a family of endonucleases that can be directed to cut specific DNA sequences, enabling genome engineering applications.",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Science",
+      "date": "2012-06-28",
+      "year": 2012,
+      "doi": "10.1126/science.1225829",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22745249/",
+      "pdfUrl": "https://www.science.org/doi/pdf/10.1126/science.1225829",
+      "keywords": [
+        "CRISPR",
+        "Cas9",
+        "genome editing",
+        "bacterial immunity"
+      ],
+      "readTime": "15 min",
+      "source": "Science"
+    },
+    {
+      "id": "bio-paper-003",
+      "title": "The Human Genome Project: A Perspective",
+      "authors": "Green ED, Guyer MS, National Human Genome Research Institute",
+      "abstract": "A retrospective on the Human Genome Project, describing the strategies, technologies, and lessons learned from sequencing the first complete human reference genome, and its transformative impact on biomedical research.",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Nature",
+      "date": "2011-10-06",
+      "year": 2011,
+      "doi": "10.1038/nature10484",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21998527/",
+      "pdfUrl": "https://www.nature.com/articles/nature10484.pdf",
+      "keywords": [
+        "human genome",
+        "sequencing",
+        "genomics",
+        "HGP"
+      ],
+      "readTime": "25 min",
+      "source": "Nature"
+    },
+    {
+      "id": "geo-hist-001",
+      "title": "A safe operating space for humanity",
+      "authors": "Rockstrom J, Steffen W, Noone K, et al.",
+      "abstract": "We propose a framework based on 'planetary boundaries' that defines a safe operating space for humanity with respect to the Earth system and are associated with the planet's biophysical subsystems or processes.",
+      "discipline": "geo",
+      "type": "paper",
+      "journal": "Nature",
+      "date": "2009-09-24",
+      "year": 2009,
+      "doi": "10.1038/461472a",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19779433/",
+      "pdfUrl": "https://www.nature.com/articles/461472a.pdf",
+      "keywords": [
+        "planetary boundaries",
+        "sustainability",
+        "Earth system",
+        "environment",
+        "ecology"
+      ],
+      "readTime": "12 min",
+      "source": "Nature"
+    },
+    {
+      "id": "geo-hist-002",
+      "title": "Climate Change 2007: Synthesis Report",
+      "authors": "IPCC Core Writing Team",
+      "abstract": "The Synthesis Report of the IPCC Fourth Assessment Report integrates findings from the three Working Groups on the physical science basis, impacts and adaptation, and mitigation of climate change.",
+      "discipline": "geo",
+      "type": "paper",
+      "journal": "IPCC",
+      "date": "2007-11-17",
+      "year": 2007,
+      "doi": "",
+      "url": "https://www.ipcc.ch/report/ar4/syr/",
+      "pdfUrl": "https://www.ipcc.ch/site/assets/uploads/2018/02/ar4_syr_full_report.pdf",
+      "keywords": [
+        "IPCC",
+        "AR4",
+        "climate change",
+        "synthesis",
+        "assessment"
+      ],
+      "readTime": "25 min",
+      "source": "IPCC"
+    },
+    {
+      "id": "bio-hist-001",
+      "title": "Initial sequence of the chimpanzee genome and comparison with the human genome",
+      "authors": "Chimpanzee Sequencing and Analysis Consortium",
+      "abstract": "We present a draft genome sequence of the common chimpanzee (Pan troglodytes). Through comparison with the human genome, we have generated a largely complete catalogue of genetic differences between humans and chimpanzees.",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Nature",
+      "date": "2005-09-01",
+      "year": 2005,
+      "doi": "10.1038/nature04072",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16136131/",
+      "pdfUrl": "https://www.nature.com/articles/nature04072.pdf",
+      "keywords": [
+        "chimpanzee",
+        "genome",
+        "evolution",
+        "comparative genomics",
+        "human"
+      ],
+      "readTime": "20 min",
+      "source": "Nature"
+    },
+    {
+      "id": "clinical-hist-002",
+      "title": "Cardiac-Resynchronization Therapy with or without an Implantable Defibrillator in Advanced Chronic Heart Failure",
+      "authors": "Bristow MR, Saxon LA, Boehmer J, et al.",
+      "abstract": "In the COMPANION trial, cardiac-resynchronization therapy (CRT) with or without a defibrillator reduced the risk of death and hospitalization from heart failure in patients with advanced heart failure and intraventricular conduction delays.",
+      "discipline": "clinical",
+      "type": "paper",
+      "journal": "New England Journal of Medicine",
+      "date": "2004-05-20",
+      "year": 2004,
+      "doi": "10.1056/NEJMoa032423",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15152059/",
+      "pdfUrl": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa032423",
+      "keywords": [
+        "heart failure",
+        "CRT",
+        "defibrillator",
+        "cardiac resynchronization",
+        "COMPANION"
+      ],
+      "readTime": "16 min",
+      "source": "NEJM"
+    },
+    {
+      "id": "clinical-hist-001",
+      "title": "Reduction in the Incidence of Type 2 Diabetes with Lifestyle Intervention or Metformin",
+      "authors": "Diabetes Prevention Program Research Group",
+      "abstract": "The Diabetes Prevention Program is a randomized clinical trial to determine whether diet and exercise or metformin can prevent or delay the onset of type 2 diabetes in persons with impaired glucose tolerance.",
+      "discipline": "clinical",
+      "type": "paper",
+      "journal": "New England Journal of Medicine",
+      "date": "2002-02-07",
+      "year": 2002,
+      "doi": "10.1056/NEJMoa012512",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11832527/",
+      "pdfUrl": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa012512",
+      "keywords": [
+        "diabetes prevention",
+        "metformin",
+        "lifestyle intervention",
+        "clinical trial",
+        "DPP"
+      ],
+      "readTime": "18 min",
+      "source": "NEJM"
+    },
+    {
+      "id": "bio-hist-002",
+      "title": "The sequence of the human genome",
+      "authors": "Venter JC, Adams MD, Myers EW, et al.",
+      "abstract": "A report from Celera Genomics on the draft sequence of the human genome generated using whole-genome shotgun sequencing, providing an alternative to the public Human Genome Project approach.",
+      "discipline": "bio",
+      "type": "paper",
+      "journal": "Science",
+      "date": "2001-02-16",
+      "year": 2001,
+      "doi": "10.1126/science.1058040",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11181995/",
+      "pdfUrl": "https://www.science.org/doi/pdf/10.1126/science.1058040",
+      "keywords": [
+        "human genome",
+        "sequencing",
+        "Celera",
+        "whole-genome shotgun"
+      ],
+      "readTime": "30 min",
+      "source": "Science"
+    }
+  ],
+  "updatedAt": "2026-04-29T13:44:36.972029"
+}
