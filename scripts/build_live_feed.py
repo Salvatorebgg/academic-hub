@@ -543,22 +543,19 @@ def deduplicate(items: Iterable[Dict[str, Any]]) -> List[Dict[str, Any]]:
 def write_payload(items: List[Dict[str, Any]], limit: int) -> None:
     OUT_JSON.parent.mkdir(parents=True, exist_ok=True)
     OUT_JS.parent.mkdir(parents=True, exist_ok=True)
+    selected = items[:limit]
+    sources = list(
+        dict.fromkeys(
+            clean_text(item.get("sourceApi") or item.get("source"))
+            for item in selected
+            if clean_text(item.get("sourceApi") or item.get("source"))
+        )
+    )
     payload = {
         "generatedAt": now_utc().isoformat(),
-        "total": min(len(items), limit),
-        "sources": [
-            "OpenAlex",
-            "arXiv",
-            "PubMed",
-            "Nature News",
-            "Science News",
-            "Medical Xpress",
-            "TechCrunch AI",
-            "MIT News",
-            "NOAA",
-            "NASA Climate",
-        ],
-        "papers": items[:limit],
+        "total": len(selected),
+        "sources": sources,
+        "papers": selected,
     }
     OUT_JSON.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     OUT_JS.write_text(
