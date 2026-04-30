@@ -39,7 +39,7 @@ class AcademicHub {
       if (loader) loader.classList.add('hidden');
     }, 1800);
 
-    console.log('🎓 Academic Hub v3.0 initialized');
+    console.log('🎓 Academic Hub v4.0 live feed initialized');
   }
 
   /* ========== 主题管理 ========== */
@@ -427,10 +427,10 @@ class AcademicHub {
     // 手动更新
     document.getElementById('manualUpdate')?.addEventListener('click', () => {
       this.audio.playClick();
-      this.showToast('正在刷新热门内容...', 'info');
+      this.showToast('正在联网抓取新的论文与资讯...', 'info');
       this.refreshWithHotContent().then(() => {
         this.render();
-        this.showToast('已刷新最新热门内容！', 'success');
+        this.showToast('已换成一批新的实时前沿内容！', 'success');
         this.audio.playSuccess();
       });
     });
@@ -667,6 +667,8 @@ class AcademicHub {
     const typeNames = { paper: '论文', news: '资讯' };
     const hotBadge = paper._isDynamicHot
       ? '<span style="font-size:0.68rem;padding:0.15rem 0.45rem;border-radius:4px;background:linear-gradient(135deg,#f43f5e,#f97316);color:#fff;margin-left:0.3rem;font-weight:700;">🔥 热门</span>' : '';
+    const liveBadge = paper._live
+      ? '<span class="live-badge">⚡ 实时</span>' : '';
     const readBadge = isRead
       ? '<span style="font-size:0.65rem;padding:0.1rem 0.4rem;border-radius:4px;background:var(--bg-tertiary);color:var(--text-tertiary);margin-left:0.3rem;font-weight:600;">已读</span>' : '';
     const newBadge = paper.date && paper.date.startsWith('2026')
@@ -687,7 +689,7 @@ class AcademicHub {
           <div style="display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
             <span class="discipline-badge ${paper.discipline}">${disciplineLabels[paper.discipline]}</span>
             <span style="font-size: 0.72rem; padding: 0.2rem 0.5rem; border-radius: 6px; background: var(--bg-secondary); color: var(--text-secondary); font-weight: 600;">${typeLabels[paper.type || 'paper']} ${typeNames[paper.type || 'paper']}</span>
-            ${yearBadge}${newBadge}${hotBadge}${readBadge}
+            ${yearBadge}${newBadge}${liveBadge}${hotBadge}${readBadge}
           </div>
           <div class="card-actions">
             <button class="card-btn favorite-btn ${isFav ? 'favorited' : ''}" data-id="${paper.id}" title="${isFav ? '取消收藏' : '收藏'}">
@@ -703,12 +705,14 @@ class AcademicHub {
         </div>
         <h3 class="paper-title">${title}</h3>
         <p class="paper-authors">${paper.authors}</p>
+        ${paper._live ? `<div class="source-line">来源：${paper.sourceApi || paper.source || paper.journal} · 已校验可访问链接</div>` : ''}
         <p class="paper-abstract">${abstract}</p>
         <div class="card-footer">
           <div class="paper-meta">
             <span>📅 ${paper.date}</span>
             <span>📖 ${paper.journal}</span>
             <span>⏱️ ${paper.readTime}</span>
+            ${paper.citedBy ? `<span>🔎 ${paper.citedBy} 引用</span>` : ''}
           </div>
           <a href="javascript:void(0)" class="read-more" data-id="${paper.id}">
             ${paper.type === 'news' ? '阅读资讯 →' : '阅读全文 →'}
@@ -726,6 +730,8 @@ class AcademicHub {
     const typeLabels = { paper: '📄', news: '📰' };
     const hotBadge = paper._isDynamicHot
       ? '<span style="font-size:0.65rem;padding:0.1rem 0.35rem;border-radius:4px;background:linear-gradient(135deg,#f43f5e,#f97316);color:#fff;margin-left:0.3rem;font-weight:700;">🔥</span>' : '';
+    const liveBadge = paper._live
+      ? '<span class="live-badge compact">⚡ 实时</span>' : '';
     const readBadge = isRead
       ? '<span style="font-size:0.6rem;padding:0.08rem 0.3rem;border-radius:4px;background:var(--bg-tertiary);color:var(--text-tertiary);margin-left:0.2rem;font-weight:600;">已读</span>' : '';
 
@@ -736,9 +742,9 @@ class AcademicHub {
       <div class="paper-list-item slide-in-right ${isRead ? 'read' : ''}" data-id="${paper.id}" style="animation-delay: ${index * 0.04}s">
         <div class="list-item-number">${index}</div>
         <div class="list-item-content">
-          <div class="list-item-title">${title}${hotBadge}${readBadge}</div>
+          <div class="list-item-title">${title}${liveBadge}${hotBadge}${readBadge}</div>
           <div class="list-item-meta">
-            ${typeLabels[paper.type || 'paper']} ${disciplineLabels[paper.discipline]} · ${paper.authors} · ${paper.date}
+            ${typeLabels[paper.type || 'paper']} ${disciplineLabels[paper.discipline]} · ${paper.authors} · ${paper.sourceApi || paper.source || paper.journal} · ${paper.date}
           </div>
         </div>
         <div class="card-actions">
@@ -855,6 +861,8 @@ class AcademicHub {
     const typeNames = { paper: '学术论文', news: '资讯新闻' };
     const hotBadge = paper._isDynamicHot
       ? '<span style="font-size:0.75rem;padding:0.2rem 0.6rem;border-radius:4px;background:linear-gradient(135deg,#f43f5e,#f97316);color:#fff;margin-left:0.4rem;font-weight:700;">🔥 热门</span>' : '';
+    const liveBadge = paper._live
+      ? '<span class="live-badge" style="margin-left:0.4rem;">⚡ 实时抓取</span>' : '';
     const url = this.dataManager.getBestUrl(paper);
 
     const content = `
@@ -866,7 +874,7 @@ class AcademicHub {
           <span style="font-size: 0.8rem; padding: 0.3rem 0.7rem; border-radius: 6px; background: var(--bg-card); color: var(--text-primary); border: 1px solid var(--glass-border); font-weight: 700; margin-left: 0.4rem;">
             ${typeNames[paper.type] || '论文'}
           </span>
-          ${hotBadge}
+          ${liveBadge}${hotBadge}
         </div>
 
         <h2 style="font-size: 1.35rem; font-weight: 800; margin-bottom: 0.85rem; line-height: 1.4; color: var(--text-primary); letter-spacing: -0.01em;">${paper.title}</h2>
@@ -879,8 +887,16 @@ class AcademicHub {
           <span>📅 <strong>${paper.date}</strong></span>
           <span>📖 <strong>${paper.journal}</strong></span>
           <span>⏱️ <strong>${paper.readTime}</strong></span>
+          <span>🔎 <strong>${paper.sourceApi || paper.source || '来源'}</strong></span>
+          ${paper.citedBy ? `<span>📈 <strong>${paper.citedBy} 引用</strong></span>` : ''}
           ${paper.year ? `<span>📆 <strong>${paper.year}</strong></span>` : ''}
         </div>
+
+        ${paper._live ? `
+        <div style="margin-bottom: 1.25rem; padding: 0.75rem 1rem; border-radius: 10px; background: rgba(16,185,129,0.08); border: 1px solid rgba(16,185,129,0.22); color: var(--text-secondary); font-size: 0.86rem; font-weight: 600;">
+          该条目来自开放数据源实时抓取，保留原始来源链接，可直接跳转查看完整内容。
+        </div>
+        ` : ''}
 
         <div style="margin-bottom: 1.25rem;">
           <h3 style="font-size: 1.05rem; font-weight: 800; margin-bottom: 0.55rem; color: var(--text-primary);">摘要</h3>
@@ -1163,6 +1179,7 @@ class AcademicHub {
     const totalPapers = papers.filter(p => p.type === 'paper').length;
     const totalNews = papers.filter(p => p.type === 'news').length;
     const totalFavorites = this.dataManager.favorites.length;
+    const liveCount = papers.filter(p => p._live).length;
 
     const disciplineCount = {};
     papers.forEach(p => { disciplineCount[p.discipline] = (disciplineCount[p.discipline] || 0) + 1; });
@@ -1188,9 +1205,9 @@ class AcademicHub {
           <div class="stat-label">我的收藏</div>
         </div>
         <div class="stat-card" data-counter="${papers.length}">
-          <div class="stat-icon">📚</div>
-          <div class="stat-number counter-anim" data-target="${papers.length}">0</div>
-          <div class="stat-label">总内容数</div>
+          <div class="stat-icon">⚡</div>
+          <div class="stat-number counter-anim" data-target="${liveCount}">0</div>
+          <div class="stat-label">实时抓取</div>
         </div>
       </div>
     `;
@@ -1203,6 +1220,13 @@ class AcademicHub {
 
     // 用 insertAdjacentHTML 追加，避免重建已有 DOM
     container.insertAdjacentHTML('beforeend', `
+      <div class="source-strip">
+        <div>
+          <strong>实时源</strong>
+          <span>${(this.dataManager.liveMeta.sources || []).slice(0, 6).join(' · ') || 'OpenAlex · arXiv · PubMed · GDELT'}</span>
+        </div>
+        <button class="mini-refresh" onclick="window.app.refreshWithHotContent().then(() => window.app.render())">换一批</button>
+      </div>
       <div class="discipline-chart">
         <div class="chart-title">学科分布</div>
         <div class="chart-bars">
@@ -1251,7 +1275,7 @@ class AcademicHub {
   renderLastUpdated() {
     const el = document.getElementById('lastUpdatedLine');
     if (!el) return;
-    const stored = localStorage.getItem('academic-hub-last-updated');
+    const stored = this.dataManager.lastUpdated || localStorage.getItem('academic-hub-last-updated');
     const lastUpdated = stored ? new Date(stored) : null;
     if (!lastUpdated || isNaN(lastUpdated.getTime())) { el.textContent = ''; return; }
 
@@ -1269,7 +1293,8 @@ class AcademicHub {
     else if (diffDay < 7) timeText = `${diffDay} 天前`;
     else timeText = lastUpdated.toLocaleDateString('zh-CN');
 
-    el.innerHTML = `⏱️ 最后更新：<span style="color: var(--text-primary); font-weight: 700;">${timeText}</span> · 共 ${this.dataManager.papers.length} 条内容`;
+    const liveCount = this.dataManager.papers.filter(p => p._live).length;
+    el.innerHTML = `⏱️ 最后更新：<span style="color: var(--text-primary); font-weight: 700;">${timeText}</span> · 实时内容 ${liveCount} 条 · 每次刷新随机换批`;
   }
 
   /* ========== 今日推荐 ========== */
@@ -1278,14 +1303,15 @@ class AcademicHub {
     if (!container) return;
 
     const now = new Date();
-    // 优先推荐2026年内容，其次2025年
+    const livePool = this.dataManager.papers.filter(p => p._live && p.verified !== false);
+    // 优先推荐实时抓取内容，其次2026年内容，再次2025年
     const y2026 = this.dataManager.papers.filter(p => p.date && p.date.startsWith('2026'));
     const y2025 = this.dataManager.papers.filter(p => p.date && p.date.startsWith('2025'));
-    const pool = y2026.length > 0 ? y2026 : (y2025.length > 0 ? y2025 : this.dataManager.papers);
+    const pool = livePool.length > 0 ? livePool : (y2026.length > 0 ? y2026 : (y2025.length > 0 ? y2025 : this.dataManager.papers));
 
     if (pool.length === 0) return;
 
-    const dayIndex = now.getDate() % pool.length;
+    const dayIndex = (now.getDate() + this.dataManager.rotationSeed) % pool.length;
     const pick = pool[dayIndex];
     if (!pick) return;
 
@@ -1294,7 +1320,7 @@ class AcademicHub {
 
     container.innerHTML = `
       <div class="today-pick-card" data-id="${pick.id}">
-        <div class="today-pick-badge">⭐ 今日推荐</div>
+        <div class="today-pick-badge">⭐ 今日推荐 ${pick._live ? '· 实时抓取' : ''}</div>
         <div class="today-pick-content">
           <div class="today-pick-meta">
             <span class="discipline-badge ${pick.discipline}">${disciplineLabels[pick.discipline]}</span>
@@ -1329,34 +1355,16 @@ class AcademicHub {
     });
   }
 
-  /* ========== 即时刷新：从现有2026年数据中随机推荐 ========== */
+  /* ========== 即时刷新：联网抓取并切换随机批次 ========== */
   async refreshWithHotContent() {
-    // 清除旧的动态内容
-    this.dataManager.papers = this.dataManager.papers.filter(p => !p._isDynamicHot);
-
-    // 只从现有2026年数据中随机选择推荐
-    const y2026 = this.dataManager.papers.filter(p => p.year >= 2026 && !p._isDynamicHot);
-    if (y2026.length === 0) return 0;
-
-    const shuffled = y2026.slice();
-    for (let i = shuffled.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    const count = await this.dataManager.loadLiveData({ force: true });
+    if (count === 0) {
+      this.dataManager.rotateSeed();
     }
-    const pickCount = Math.min(Math.floor(Math.random() * 3) + 4, shuffled.length);
-    const selected = shuffled.slice(0, pickCount);
-
-    const now = new Date();
-    const newContents = selected.map((item, idx) => {
-      const ts = Date.now() + idx;
-      return { ...item, id: `hot-ts-${ts}-${idx}`, _isDynamicHot: true };
-    });
-
-    this.dataManager.papers.unshift(...newContents);
     const updateTime = new Date().toISOString();
     this.dataManager.lastUpdated = updateTime;
     localStorage.setItem('academic-hub-last-updated', updateTime);
-    return newContents.length;
+    return count;
   }
 
   /* ========== 渲染历史（历史推送：2026年以前） ========== */
@@ -1431,11 +1439,12 @@ class AcademicHub {
     let bannerText = '';
 
     if (section === 'latest') {
-      title = '🆕 2026年最新';
+      title = '⚡ 实时前沿';
       bannerClass = 'latest-banner';
       bannerIcon = '🚀';
       const count = this.dataManager.getLatestPapers().length;
-      bannerText = `2026年最新前沿 · 共 ${count} 条高质量内容`;
+      const liveCount = this.dataManager.papers.filter(p => p._live).length;
+      bannerText = `实时换批前沿 · 当前展示 ${count} 条 · 来源池 ${liveCount || this.dataManager.papers.length} 条`;
     } else if (section === 'history') {
       title = '📚 经典归档';
       bannerClass = 'history-banner';

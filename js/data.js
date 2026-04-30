@@ -12,6 +12,11 @@ class DataManager {
     this.searchQuery = '';
     this.currentUser = null;
     this.favorites = this.loadFavorites();
+    this.lastUpdated = null;
+    this.liveMeta = { total: 0, sources: [] };
+    this.liveCount = 0;
+    this.latestBatchSize = 48;
+    this.rotationSeed = this.createRotationSeed();
   }
 
   setCurrentUser(username) {
@@ -39,15 +44,93 @@ class DataManager {
         }
       }
       await this.loadMoreData();
+      await this.loadLiveData();
     } catch (error) {
       console.warn('Failed to load papers, using mock data:', error);
       this.papers = this.getMockData();
+      await this.loadLiveData();
     }
     return this.papers;
   }
 
-  getFilteredPapers() {
-    let filtered = this.papers;
+  createRotationSeed() {
+    return Math.floor(Date.now() / 1000) + Math.floor(Math.random() * 100000);
+  }
+
+  rotateSeed() {
+    this.rotationSeed = this.createRotationSeed();
+  }
+
+  normalizePaper(paper) {
+    if (!paper || !paper.title) return null;
+    const date = paper.date || new Date().toISOString().slice(0, 10);
+    const year = Number(paper.year || String(date).slice(0, 4)) || new Date().getFullYear();
+    const url = paper.url || (paper.doi ? `https://doi.org/${paper.doi}` : '');
+    return {
+      ...paper,
+      id: paper.id || `item-${Math.random().toString(36).slice(2)}`,
+      title: String(paper.title || '').trim(),
+      authors: String(paper.authors || paper.source || 'Source').trim(),
+      abstract: String(paper.abstract || paper.title || '').trim(),
+      discipline: paper.discipline || 'cs',
+      type: paper.type || 'paper',
+      journal: paper.journal || paper.source || paper.sourceApi || 'Academic source',
+      source: paper.source || paper.journal || paper.sourceApi || 'Academic source',
+      url,
+      date,
+      year,
+      keywords: Array.isArray(paper.keywords) ? paper.keywords : [],
+      readTime: paper.readTime || '3 min',
+      qualityScore: Number(paper.qualityScore || (paper._live ? 72 : 50)),
+      verified: paper.verified === true || paper._live === true || /^https?:\/\//i.test(url)
+    };
+  }
+
+  mergePapers(incoming = []) {
+    const merged = [];
+    const seen = new Set();
+    const add = (paper) => {
+      const item = this.normalizePaper(paper);
+      if (!item) return;
+      const key = (item.doi || item.url || item.title).toLowerCase().replace(/\/$/, '');
+      if (!key || seen.has(key)) return;
+      seen.add(key);
+      merged.push(item);
+    };
+    incoming.forEach(add);
+    this.papers.forEach(add);
+    this.papers = merged;
+  }
+
+  async loadLiveData(options = {}) {
+    if (!window.AcademicLiveFeed || typeof window.AcademicLiveFeed.load !== 'function') return 0;
+    try {
+      const data = await window.AcademicLiveFeed.load({
+        seed: options.force ? this.createRotationSeed() : this.rotationSeed,
+        network: options.force === true
+      });
+      const livePapers = (data.papers || []).map(p => ({ ...p, _live: true, verified: p.verified !== false }));
+      if (livePapers.length) {
+        this.mergePapers(livePapers);
+        this.liveCount = this.papers.filter(p => p._live).length;
+        this.liveMeta = {
+          total: livePapers.length,
+          sources: data.sources || [],
+          generatedAt: data.generatedAt
+        };
+        this.lastUpdated = data.generatedAt || new Date().toISOString();
+        localStorage.setItem('academic-hub-last-updated', this.lastUpdated);
+        if (options.force) this.rotateSeed();
+      }
+      return livePapers.length;
+    } catch (error) {
+      console.warn('Live feed load failed:', error);
+      return 0;
+    }
+  }
+
+  applyActiveFilters(papers) {
+    let filtered = papers;
     if (this.typeFilter !== 'all') {
       filtered = filtered.filter(p => p.type === this.typeFilter);
     }
@@ -57,12 +140,31 @@ class DataManager {
     if (this.searchQuery) {
       const query = this.searchQuery.toLowerCase();
       filtered = filtered.filter(p =>
-        p.title.toLowerCase().includes(query) ||
-        p.authors.toLowerCase().includes(query) ||
-        p.abstract.toLowerCase().includes(query) ||
-        p.keywords?.some(k => k.toLowerCase().includes(query))
+        (p.title || '').toLowerCase().includes(query) ||
+        (p.authors || '').toLowerCase().includes(query) ||
+        (p.abstract || '').toLowerCase().includes(query) ||
+        p.keywords?.some(k => String(k).toLowerCase().includes(query))
       );
     }
+    return filtered;
+  }
+
+  seededShuffle(items, seed = this.rotationSeed) {
+    const shuffled = [...items];
+    let value = seed || 1;
+    const random = () => {
+      value = (value * 1664525 + 1013904223) >>> 0;
+      return value / 4294967296;
+    };
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
+  }
+
+  getFilteredPapers() {
+    let filtered = this.applyActiveFilters(this.papers);
     filtered.sort((a, b) => new Date(b.date) - new Date(a.date));
     return filtered;
   }
@@ -72,23 +174,19 @@ class DataManager {
 
   /* ========== 年份筛选：最新资讯 (2026年及以后) ========== */
   getLatestPapers() {
-    let filtered = this.papers.filter(p => p.year >= 2026);
-    if (this.typeFilter !== 'all') {
-      filtered = filtered.filter(p => p.type === this.typeFilter);
+    const currentYear = new Date().getFullYear();
+    const livePool = this.papers.filter(p => p._live && p.verified !== false);
+    const recentPool = this.papers.filter(p => p.year >= currentYear || p.year >= 2026);
+    const basePool = livePool.length >= 12 ? livePool : recentPool;
+    let filtered = this.applyActiveFilters(basePool);
+    if (!this.searchQuery && filtered.length > this.latestBatchSize) {
+      filtered = this.seededShuffle(filtered).slice(0, this.latestBatchSize);
     }
-    if (this.currentFilter !== 'all') {
-      filtered = filtered.filter(p => p.discipline === this.currentFilter);
-    }
-    if (this.searchQuery) {
-      const query = this.searchQuery.toLowerCase();
-      filtered = filtered.filter(p =>
-        p.title.toLowerCase().includes(query) ||
-        p.authors.toLowerCase().includes(query) ||
-        p.abstract.toLowerCase().includes(query) ||
-        p.keywords?.some(k => k.toLowerCase().includes(query))
-      );
-    }
-    filtered.sort((a, b) => new Date(b.date) - new Date(a.date));
+    filtered.sort((a, b) => {
+      const dateDiff = new Date(b.date) - new Date(a.date);
+      if (dateDiff !== 0) return dateDiff;
+      return (b.qualityScore || 0) - (a.qualityScore || 0);
+    });
     return filtered;
   }
 

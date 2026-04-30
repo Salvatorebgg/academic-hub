@@ -28,3 +28,4 @@ Thumbs.db
 # Temp
 temp_*.py
 *.tmp
+*.baiduyun.*

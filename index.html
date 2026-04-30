@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Academic Hub - 学术前沿资讯聚合平台 v3.3</title>
-  <meta name="description" content="汇聚生物信息学、临床研究、计算机科学、气象地质学等多学科前沿学术资讯，148条真实内容，2026年最新">
+  <title>Academic Hub - 实时学术前沿资讯聚合平台 v4.0</title>
+  <meta name="description" content="汇聚生物信息学、临床研究、计算机科学、气象地质学等多学科前沿学术资讯，实时抓取高质量论文和新闻">
 
   <!-- 样式 -->
   <link rel="stylesheet" href="css/style.css">
@@ -90,7 +90,7 @@
       </div>
 
       <ul class="nav-links">
-        <li><a href="#" data-section="latest" class="active">最新资讯</a></li>
+        <li><a href="#" data-section="latest" class="active">实时前沿</a></li>
         <li><a href="#" data-section="history">历史推送</a></li>
         <li><a href="#" data-section="favorites">我的收藏</a></li>
       </ul>
@@ -125,9 +125,9 @@
   <main class="main-content">
     <!-- Hero 区域 -->
     <section class="hero">
-      <h1 class="hero-title">探索学术前沿</h1>
+      <h1 class="hero-title">探索实时学术前沿</h1>
       <p class="hero-subtitle">
-        汇聚生物信息学、临床研究、计算机科学、气象地质学等多学科最新科研成果
+        从开放学术索引和高质量新闻源抓取真实可访问内容，每次刷新都会换一批新的前沿论文与资讯
       </p>
 
       <!-- 搜索框 -->
@@ -195,7 +195,7 @@
       <div id="sectionBanner" class="section-banner latest-banner">
         <div class="banner-content">
           <span class="banner-icon">🆕</span>
-          <span class="banner-text" id="bannerText">2026年最新前沿 · 共 30 条</span>
+          <span class="banner-text" id="bannerText">实时前沿 · 正在加载新内容</span>
         </div>
       </div>
 
@@ -239,16 +239,16 @@
 
   <!-- 页脚 -->
   <footer class="footer">
-    <p>🎓 Academic Hub · 学术前沿资讯聚合平台 · 每日 10:00 自动更新</p>
+    <p>🎓 Academic Hub · 实时学术前沿资讯聚合平台 · 每 6 小时自动更新</p>
     <p style="margin-top: 0.5rem; font-size: 0.78rem;">
-      数据来源：PubMed、arXiv、bioRxiv、Nature 等学术数据库
+      数据来源：OpenAlex、arXiv、PubMed、GDELT、Nature、Science、NASA、NOAA 等开放来源
     </p>
     <p id="lastUpdatedLine" style="margin-top: 0.4rem; font-size: 0.72rem; color: var(--text-tertiary);">
       <!-- 最后更新时间由 JS 动态写入 -->
     </p>
     <div style="margin-top: 1.25rem; display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap;">
       <button id="manualUpdate" class="read-more" style="font-size: 0.78rem; padding: 0.5rem 1rem;">
-        🔄 立即更新数据
+        🔄 立即抓取新内容
       </button>
       <button id="openDataFolder" class="read-more" style="font-size: 0.78rem; padding: 0.5rem 1rem; background: var(--accent-gradient);">
         📂 数据管理
@@ -366,6 +366,8 @@
   <!-- 脚本 -->
   <script src="js/audio.js"></script>
   <script src="js/data-json.js"></script>
+  <script src="js/live-feed-data.js"></script>
+  <script src="js/live-feed.js"></script>
   <script src="js/data.js"></script>
   <script src="js/app.js"></script>
 </body>

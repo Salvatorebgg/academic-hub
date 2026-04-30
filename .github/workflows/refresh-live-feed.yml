@@ -1,0 +1,36 @@
+name: Refresh live academic feed
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build live feed snapshot
+        run: python scripts/build_live_feed.py --limit 180
+
+      - name: Commit refreshed feed
+        run: |
+          if [[ -n "$(git status --porcelain data/live-feed.json js/live-feed-data.js)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/live-feed.json js/live-feed-data.js
+            git commit -m "Refresh live academic feed"
+            git push
+          else
+            echo "Live feed already up to date."
+          fi
