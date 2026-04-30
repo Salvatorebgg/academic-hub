@@ -70,8 +70,47 @@ class DataManager {
   getNewsPapers() { return this.papers.filter(p => p.type === 'news'); }
   getAcademicPapers() { return this.papers.filter(p => p.type === 'paper'); }
 
-  getHistoricalPapers() {
-    const filtered = this.getFilteredPapers();
+  /* ========== 年份筛选：最新资讯 (2026年及以后) ========== */
+  getLatestPapers() {
+    let filtered = this.papers.filter(p => p.year >= 2026);
+    if (this.typeFilter !== 'all') {
+      filtered = filtered.filter(p => p.type === this.typeFilter);
+    }
+    if (this.currentFilter !== 'all') {
+      filtered = filtered.filter(p => p.discipline === this.currentFilter);
+    }
+    if (this.searchQuery) {
+      const query = this.searchQuery.toLowerCase();
+      filtered = filtered.filter(p =>
+        p.title.toLowerCase().includes(query) ||
+        p.authors.toLowerCase().includes(query) ||
+        p.abstract.toLowerCase().includes(query) ||
+        p.keywords?.some(k => k.toLowerCase().includes(query))
+      );
+    }
+    filtered.sort((a, b) => new Date(b.date) - new Date(a.date));
+    return filtered;
+  }
+
+  /* ========== 年份筛选：历史推送 (2026年以前) ========== */
+  getHistoryPapers() {
+    let filtered = this.papers.filter(p => p.year < 2026);
+    if (this.typeFilter !== 'all') {
+      filtered = filtered.filter(p => p.type === this.typeFilter);
+    }
+    if (this.currentFilter !== 'all') {
+      filtered = filtered.filter(p => p.discipline === this.currentFilter);
+    }
+    if (this.searchQuery) {
+      const query = this.searchQuery.toLowerCase();
+      filtered = filtered.filter(p =>
+        p.title.toLowerCase().includes(query) ||
+        p.authors.toLowerCase().includes(query) ||
+        p.abstract.toLowerCase().includes(query) ||
+        p.keywords?.some(k => k.toLowerCase().includes(query))
+      );
+    }
+    filtered.sort((a, b) => new Date(b.date) - new Date(a.date));
     const grouped = {};
     filtered.forEach(paper => {
       const date = new Date(paper.date);
@@ -80,6 +119,10 @@ class DataManager {
       grouped[key].push(paper);
     });
     return Object.entries(grouped).sort((a, b) => b[0].localeCompare(a[0])).map(([month, papers]) => ({ month, papers }));
+  }
+
+  getHistoricalPapers() {
+    return this.getHistoryPapers();
   }
 
   toggleFavorite(paperId) {

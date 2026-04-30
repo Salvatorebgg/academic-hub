@@ -620,13 +620,13 @@ class AcademicHub {
     return sorted;
   }
 
-  /* ========== 渲染论文列表 ========== */
+  /* ========== 渲染论文列表（最新资讯：2026年及以后） ========== */
   renderPapers() {
     const container = document.getElementById('papersContainer');
     if (!container) return;
 
-    const papers = this.sortPapers(this.dataManager.getFilteredPapers());
-    this.updateSectionTitle();
+    const papers = this.sortPapers(this.dataManager.getLatestPapers());
+    this.updateSectionTitle('latest');
 
     if (papers.length === 0) {
       container.innerHTML = `
@@ -1329,56 +1329,27 @@ class AcademicHub {
     });
   }
 
-  /* ========== 即时刷新 ========== */
+  /* ========== 即时刷新：从现有2026年数据中随机推荐 ========== */
   async refreshWithHotContent() {
+    // 清除旧的动态内容
     this.dataManager.papers = this.dataManager.papers.filter(p => !p._isDynamicHot);
-    const existingIds = new Set(this.dataManager.papers.map(p => p.id));
 
-    const hotPool = [
-      { title: 'AlphaFold 3 predicts structures of nearly every molecule in biology', authors: 'DeepMind / Isomorphic Labs', abstract: 'Google DeepMind releases AlphaFold 3, expanding protein structure prediction to DNA, RNA, and small molecules, opening new avenues for drug discovery and biological research.', discipline: 'bio', type: 'news', journal: 'Nature News', url: 'https://www.nature.com/articles/d41586-024-01383-z', keywords: ['AlphaFold 3','protein','AI','drug discovery'], readTime: '5 min', source: 'Nature News' },
-      { title: 'FDA approves first gene therapy for children with deafness from OTOF mutations', authors: 'U.S. Food and Drug Administration', abstract: 'The FDA approved Akouos gene therapy for children with deafness caused by mutations in the OTOF gene, marking the first gene therapy approved for an inherited form of hearing loss.', discipline: 'bio', type: 'news', journal: 'FDA News', url: 'https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-children-deafness-due-mutations-otof-gene', keywords: ['FDA','gene therapy','deafness','OTOF','hearing loss'], readTime: '4 min', source: 'FDA' },
-      { title: 'WHO launches Global Initiative on Digital Health to bridge healthcare gaps', authors: 'World Health Organization', abstract: 'WHO launches the Global Initiative on Digital Health to support countries in strengthening digital health infrastructure and ensuring equitable access to health technologies.', discipline: 'clinical', type: 'news', journal: 'WHO News', url: 'https://www.who.int/news/item/28-02-2025-who-launches-global-initiative-on-digital-health', keywords: ['WHO','digital health','healthcare','global health','telemedicine'], readTime: '5 min', source: 'WHO' },
-      { title: 'FDA approves donanemab for treatment of early Alzheimer disease', authors: 'U.S. Food and Drug Administration', abstract: 'The FDA approved Eli Lilly donanemab (Kisunla) for the treatment of early symptomatic Alzheimer disease, the second amyloid-targeting antibody approved for this indication.', discipline: 'clinical', type: 'news', journal: 'FDA News', url: 'https://www.fda.gov/news-events/press-announcements/fda-approves-treatment-alzheimers-disease', keywords: ['FDA','donanemab','Alzheimer','amyloid','Kisunla'], readTime: '4 min', source: 'FDA' },
-      { title: 'OpenAI o3 and o3-mini push the boundaries of AI reasoning', authors: 'OpenAI Research Team', abstract: 'OpenAI announces o3 and o3-mini models, demonstrating significant advances in reasoning capabilities through deliberative alignment and chain-of-thought approaches.', discipline: 'cs', type: 'news', journal: 'OpenAI Blog', url: 'https://openai.com/research/deliberative-alignment', keywords: ['o3','AI','reasoning','alignment','ARC-AGI'], readTime: '8 min', source: 'OpenAI' },
-      { title: 'DeepSeek-R1: Incentivizing reasoning capability in LLMs via reinforcement learning', authors: 'DeepSeek-AI', abstract: 'DeepSeek releases DeepSeek-R1, an open-source reasoning model trained primarily via reinforcement learning without extensive supervised fine-tuning.', discipline: 'cs', type: 'news', journal: 'DeepSeek Blog', url: 'https://github.com/deepseek-ai/DeepSeek-R1', keywords: ['DeepSeek','reasoning','LLM','reinforcement learning','open source'], readTime: '6 min', source: 'DeepSeek' },
-      { title: 'Google DeepMind AlphaProof achieves silver-medal level in mathematical olympiad', authors: 'DeepMind Team', abstract: 'AlphaProof, a new AI system combining language models with reinforcement learning, has achieved silver-medal standard solving complex mathematical problems at IMO level.', discipline: 'cs', type: 'news', journal: 'DeepMind Blog', url: 'https://deepmind.google/discover/blog/alphaproof-achieves-silver-medal-level-in-mathematical-olympiad/', keywords: ['AlphaProof','mathematics','AI','DeepMind','IMO'], readTime: '6 min', source: 'DeepMind' },
-      { title: 'Meta releases Llama 3: Most capable openly available LLM to date', authors: 'Meta AI', abstract: 'Meta announces Llama 3, the latest version of its open large language model, featuring significant improvements in reasoning, code generation, and multilingual capabilities.', discipline: 'cs', type: 'news', journal: 'Meta AI Blog', url: 'https://ai.meta.com/blog/meta-llama-3/', keywords: ['Llama 3','Meta','LLM','open source','AI'], readTime: '7 min', source: 'Meta' },
-      { title: 'Copernicus confirms 2024 is first year to exceed 1.5C above pre-industrial levels', authors: 'Copernicus Climate Change Service', abstract: '2024 was the warmest year on record globally and the first year exceeding 1.5C above the pre-industrial average.', discipline: 'geo', type: 'news', journal: 'Copernicus', url: 'https://climate.copernicus.eu/copernicus-2024-first-year-exceed-15c-above-pre-industrial-levels', keywords: ['climate change','temperature record','global warming','Copernicus','2024'], readTime: '5 min', source: 'Copernicus' },
-      { title: 'NASA confirms 2024 as hottest year on record', authors: 'NASA Goddard Institute', abstract: 'NASA and NOAA analyses confirm that 2024 was the warmest year since global records began in 1880.', discipline: 'geo', type: 'news', journal: 'NASA', url: 'https://www.nasa.gov/news-release/nasa-confirms-2024-hottest-year-on-record/', keywords: ['NASA','global warming','temperature','climate','2024'], readTime: '5 min', source: 'NASA' },
-      { title: 'UNEP Emissions Gap Report 2024', authors: 'United Nations Environment Programme', abstract: 'The 2024 Emissions Gap Report finds that current national climate commitments would reduce projected global warming to 2.6-2.8C, far above the Paris Agreement 1.5C goal.', discipline: 'geo', type: 'news', journal: 'UNEP', url: 'https://www.unep.org/resources/emissions-gap-report-2024', keywords: ['UNEP','emissions gap','climate action','Paris Agreement','CO2'], readTime: '8 min', source: 'UNEP' },
-      { title: 'CDC updates respiratory virus guidance for COVID-19, flu, and RSV', authors: 'Centers for Disease Control and Prevention', abstract: 'The CDC issued updated respiratory virus guidance that brings a unified approach to addressing risks from COVID-19, flu, and RSV.', discipline: 'clinical', type: 'news', journal: 'CDC', url: 'https://www.cdc.gov/respiratory-viruses/prevention/index.html', keywords: ['CDC','respiratory virus','COVID-19','flu','RSV','prevention'], readTime: '5 min', source: 'CDC' },
-      { title: 'FDA approves first CRISPR-based gene editing therapy for sickle cell disease', authors: 'U.S. Food and Drug Administration', abstract: 'The FDA approved Casgevy, the first CRISPR/Cas9 genome-edited cell therapy for the treatment of sickle cell disease.', discipline: 'bio', type: 'news', journal: 'FDA News', url: 'https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease', keywords: ['FDA','CRISPR','gene therapy','sickle cell','Casgevy'], readTime: '4 min', source: 'FDA' },
-      { title: 'IPCC completes Sixth Assessment Report with Synthesis Report', authors: 'Intergovernmental Panel on Climate Change', abstract: 'The IPCC released the AR6 Synthesis Report, summarizing the key findings from all three working groups.', discipline: 'geo', type: 'news', journal: 'IPCC', url: 'https://www.ipcc.ch/report/ar6/syr/', keywords: ['IPCC','AR6','Synthesis Report','climate change','assessment'], readTime: '6 min', source: 'IPCC' },
-      { title: 'Moderna mRNA cancer vaccine shows promising Phase 3 results for melanoma', authors: 'Moderna / Merck', abstract: 'The mRNA-4157 personalized cancer vaccine, combined with pembrolizumab, demonstrated a significant reduction in recurrence risk for high-risk melanoma patients.', discipline: 'clinical', type: 'news', journal: 'Moderna Press Release', url: 'https://investors.modernatx.com/news/news-details/2024/Moderna-and-Merck-Announce-mRNA-4157-V940-Personalized-Cancer-Vaccine-Granted-FDA-Breakthrough-Therapy-Designation/default.aspx', keywords: ['mRNA vaccine','cancer','melanoma','personalized medicine','immunotherapy'], readTime: '5 min', source: 'Moderna' },
-      { title: 'Gene therapy restores hearing in children with OTOF mutations', authors: 'Fudan University / Harvard Medical School', abstract: 'A landmark clinical trial demonstrates that AAV-based gene therapy can safely restore hearing in children with DFNB9.', discipline: 'bio', type: 'news', journal: 'The Lancet', url: 'https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00155-6/fulltext', keywords: ['gene therapy','hearing loss','OTOF','deafness','clinical trial'], readTime: '6 min', source: 'The Lancet' },
-      { title: 'WHO recommends groundbreaking malaria vaccine R21/Matrix-M', authors: 'World Health Organization', abstract: 'WHO recommends the R21/Matrix-M malaria vaccine for broad use in children, following the RTS,S vaccine.', discipline: 'clinical', type: 'news', journal: 'WHO News', url: 'https://www.who.int/news/item/02-10-2023-who-recommends-groundbreaking-malaria-vaccine', keywords: ['malaria vaccine','R21','WHO','children','public health'], readTime: '5 min', source: 'WHO' },
-      { title: 'First pig kidney transplant to living patient performed in US', authors: 'Massachusetts General Hospital', abstract: 'Surgeons performed the first successful transplant of a genetically edited pig kidney into a living human patient.', discipline: 'bio', type: 'news', journal: 'MGH Press Release', url: 'https://www.nature.com/articles/d41586-024-00876-1', keywords: ['xenotransplantation','pig kidney','organ shortage','gene editing','transplant'], readTime: '5 min', source: 'Nature' },
-      { title: 'Satellite data reveals accelerating ice loss from Greenland interior', authors: 'NASA Jet Propulsion Laboratory', abstract: 'New satellite data show that ice loss from Greenland is accelerating faster than previously estimated.', discipline: 'geo', type: 'news', journal: 'NASA JPL', url: 'https://climate.nasa.gov/evidence/', keywords: ['Greenland','ice loss','satellite','sea level','gravimetry'], readTime: '5 min', source: 'NASA JPL' },
-      { title: 'Apple Intelligence debuts on-device AI with private cloud compute', authors: 'Apple Machine Learning Research', abstract: 'Apple introduces Apple Intelligence, combining on-device processing with Private Cloud Compute for powerful AI with privacy.', discipline: 'cs', type: 'news', journal: 'Apple ML Research', url: 'https://machinelearning.apple.com/research/apple-intelligence-foundation-language-models', keywords: ['Apple Intelligence','on-device AI','privacy','LLM','cloud compute'], readTime: '5 min', source: 'Apple' },
-      { title: 'COP29 climate finance agreement reached in Baku', authors: 'UNFCCC Secretariat', abstract: 'COP29 in Baku reached a new collective quantified goal on climate finance.', discipline: 'geo', type: 'news', journal: 'UNFCCC', url: 'https://unfccc.int/cop29', keywords: ['COP29','climate finance','Baku','UNFCCC','Paris Agreement'], readTime: '7 min', source: 'UNFCCC' },
-      { title: 'GLP-1 drugs show kidney protection benefits beyond weight loss', authors: 'NEJM Editorial Team', abstract: 'Recent clinical evidence suggests semaglutide may provide renal protection benefits beyond weight loss and glycemic control.', discipline: 'clinical', type: 'news', journal: 'NEJM', url: 'https://www.nejm.org/doi/full/10.1056/NEJMoa2403347', keywords: ['GLP-1','kidney disease','semaglutide','FLOW trial','renal'], readTime: '6 min', source: 'NEJM' },
-      { title: 'First complete human pangenome reference published by HPRC', authors: 'Human Pangenome Reference Consortium', abstract: 'The HPRC publishes the first complete human pangenome, incorporating diverse genetic backgrounds.', discipline: 'bio', type: 'news', journal: 'Nature', url: 'https://www.nature.com/articles/d41586-023-01490-x', keywords: ['pangenome','human genome','diversity','HPRC','genetics'], readTime: '5 min', source: 'Nature' },
-      { title: 'WHO declares end of COVID-19 as a global health emergency', authors: 'World Health Organization', abstract: 'The WHO Director-General declares the end of COVID-19 as a public health emergency of international concern.', discipline: 'clinical', type: 'news', journal: 'WHO News', url: 'https://www.who.int/news/item/05-05-2023-statement-on-the-fifteenth-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-coronavirus-disease-(covid-19)-pandemic', keywords: ['COVID-19','WHO','pandemic','public health','PHEIC'], readTime: '6 min', source: 'WHO' },
-    ];
+    // 只从现有2026年数据中随机选择推荐
+    const y2026 = this.dataManager.papers.filter(p => p.year >= 2026 && !p._isDynamicHot);
+    if (y2026.length === 0) return 0;
 
-    const shuffled = hotPool.slice();
+    const shuffled = y2026.slice();
     for (let i = shuffled.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
     }
-    const pickCount = Math.floor(Math.random() * 3) + 4;
+    const pickCount = Math.min(Math.floor(Math.random() * 3) + 4, shuffled.length);
     const selected = shuffled.slice(0, pickCount);
 
-    const hotDates = ['2024-05-08','2024-11-21','2025-02-28','2024-06-24','2024-12-20','2025-01-20','2024-07-25','2024-04-18','2025-01-10','2025-01-14','2024-10-24','2024-03-01','2023-05-05','2023-12-08','2023-05-10','2024-05-15','2024-06-10','2023-03-20','2024-11-24','2024-12-14','2024-01-04','2023-10-02','2024-03-21','2024-10-30'];
     const now = new Date();
-
     const newContents = selected.map((item, idx) => {
-      const poolIdx = hotPool.findIndex(p => p.title === item.title);
-      const realDate = hotDates[poolIdx] || hotDates[idx % hotDates.length];
-      const itemDate = new Date(realDate);
-      const dateStr = itemDate.toISOString().split('T')[0];
       const ts = Date.now() + idx;
-      return { ...item, id: `hot-ts-${ts}-${idx}`, date: dateStr, year: itemDate.getFullYear(), doi: '', pdfUrl: '', _isDynamicHot: true };
+      return { ...item, id: `hot-ts-${ts}-${idx}`, _isDynamicHot: true };
     });
 
     this.dataManager.papers.unshift(...newContents);
@@ -1388,11 +1359,12 @@ class AcademicHub {
     return newContents.length;
   }
 
-  /* ========== 渲染历史 ========== */
+  /* ========== 渲染历史（历史推送：2026年以前） ========== */
   renderHistory() {
     const container = document.getElementById('papersContainer');
     if (!container) return;
-    const history = this.dataManager.getHistoricalPapers();
+    this.updateSectionTitle('history');
+    const history = this.dataManager.getHistoryPapers();
 
     if (history.length === 0) {
       container.innerHTML = `
@@ -1424,6 +1396,7 @@ class AcademicHub {
   renderFavorites() {
     const container = document.getElementById('papersContainer');
     if (!container) return;
+    this.updateSectionTitle('favorites');
     const favorites = this.dataManager.getFavoritePapers();
 
     if (favorites.length === 0) {
@@ -1443,20 +1416,54 @@ class AcademicHub {
     this.initRippleEffects();
   }
 
-  /* ========== 标题更新 ========== */
-  updateSectionTitle() {
+  /* ========== 标题与横幅更新 ========== */
+  updateSectionTitle(section) {
     const titleEl = document.getElementById('sectionTitle');
+    const bannerEl = document.getElementById('sectionBanner');
+    const bannerTextEl = document.getElementById('bannerText');
     if (!titleEl) return;
+
     const typeFilter = this.dataManager.typeFilter;
     const disciplineFilter = this.dataManager.currentFilter;
     let title = '全部内容';
-    if (typeFilter === 'paper') title = '学术论文';
-    else if (typeFilter === 'news') title = '资讯新闻';
+    let bannerClass = '';
+    let bannerIcon = '';
+    let bannerText = '';
+
+    if (section === 'latest') {
+      title = '🆕 2026年最新';
+      bannerClass = 'latest-banner';
+      bannerIcon = '🚀';
+      const count = this.dataManager.getLatestPapers().length;
+      bannerText = `2026年最新前沿 · 共 ${count} 条高质量内容`;
+    } else if (section === 'history') {
+      title = '📚 经典归档';
+      bannerClass = 'history-banner';
+      bannerIcon = '📖';
+      const count = this.dataManager.papers.filter(p => p.year < 2026).length;
+      bannerText = `经典学术归档 · 共 ${count} 条 (2001-2025)`;
+    } else if (section === 'favorites') {
+      title = '💝 我的收藏';
+      bannerClass = 'favorites-banner';
+      bannerIcon = '❤️';
+      const count = this.dataManager.favorites.length;
+      bannerText = `我的收藏夹 · 共 ${count} 篇`;
+    }
+
+    if (typeFilter === 'paper') title += ' · 学术论文';
+    else if (typeFilter === 'news') title += ' · 资讯新闻';
     if (disciplineFilter !== 'all') {
       const names = { bio: '生物信息学', clinical: '临床研究', cs: '计算机科学', geo: '气象地质' };
       title += ` · ${names[disciplineFilter]}`;
     }
     titleEl.textContent = title;
+
+    if (bannerEl && bannerTextEl) {
+      bannerEl.className = 'section-banner ' + bannerClass;
+      bannerTextEl.textContent = bannerText;
+      const iconEl = bannerEl.querySelector('.banner-icon');
+      if (iconEl) iconEl.textContent = bannerIcon;
+    }
   }
 
   /* ========== 模态框 ========== */
