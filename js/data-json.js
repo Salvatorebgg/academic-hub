@@ -214,7 +214,7 @@ const PAPERS_JSON_DATA = [
     "date": "2018-01-01",
     "journal": "Communications of the ACM",
     "source": "ACM",
-    "url": "https://doi.org/10.1145/3127320",
+    "url": "https://dl.acm.org/doi/10.1145/3127320",
     "doi": "10.1145/3127320",
     "pdfUrl": "",
     "keywords": [
@@ -236,7 +236,7 @@ const PAPERS_JSON_DATA = [
     "date": "2024-02-15",
     "journal": "OpenAI Blog",
     "source": "OpenAI",
-    "url": "https://openai.com/sora",
+    "url": "https://openai.com/index/sora-first-impressions/",
     "doi": "",
     "pdfUrl": "",
     "keywords": [
@@ -486,7 +486,7 @@ const PAPERS_JSON_DATA = [
     "date": "2017-12-05",
     "journal": "Science 362",
     "source": "Science",
-    "url": "https://doi.org/10.1126/science.aar6404",
+    "url": "https://www.science.org/doi/10.1126/science.aar6404",
     "doi": "10.1126/science.aar6404",
     "pdfUrl": "",
     "keywords": [
@@ -646,7 +646,7 @@ const PAPERS_JSON_DATA = [
     "date": "2024-12-20",
     "journal": "OpenAI Blog",
     "source": "OpenAI",
-    "url": "https://openai.com/research/deliberative-alignment",
+    "url": "https://openai.com/index/deliberative-alignment/",
     "doi": "",
     "pdfUrl": "",
     "keywords": [
@@ -669,7 +669,7 @@ const PAPERS_JSON_DATA = [
     "date": "2024-07-25",
     "journal": "DeepMind Blog",
     "source": "DeepMind",
-    "url": "https://deepmind.google/discover/blog/alphaproof-achieves-silver-medal-level-in-mathematical-olympiad/",
+    "url": "https://deepmind.google/discover/blog/alphaproof-achieves-silver-medal-level-solving-international-mathematical-olympiad/",
     "doi": "",
     "pdfUrl": "",
     "keywords": [
@@ -692,7 +692,7 @@ const PAPERS_JSON_DATA = [
     "date": "2012-06-28",
     "journal": "Science 337",
     "source": "Science",
-    "url": "https://doi.org/10.1126/science.1225829",
+    "url": "https://www.science.org/doi/10.1126/science.1225829",
     "doi": "10.1126/science.1225829",
     "pdfUrl": "",
     "keywords": [
@@ -781,7 +781,7 @@ const PAPERS_JSON_DATA = [
     "date": "2001-02-16",
     "journal": "Science 291",
     "source": "Science",
-    "url": "https://doi.org/10.1126/science.1058040",
+    "url": "https://www.science.org/doi/10.1126/science.1058040",
     "doi": "10.1126/science.1058040",
     "pdfUrl": "",
     "keywords": [
@@ -803,7 +803,7 @@ const PAPERS_JSON_DATA = [
     "date": "2020-12-10",
     "journal": "NEJM 383",
     "source": "NEJM",
-    "url": "https://doi.org/10.1056/NEJMoa2034577",
+    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2034577",
     "doi": "10.1056/NEJMoa2034577",
     "pdfUrl": "",
     "keywords": [
@@ -826,7 +826,7 @@ const PAPERS_JSON_DATA = [
     "date": "2013-01-03",
     "journal": "Science 339",
     "source": "Science",
-    "url": "https://doi.org/10.1126/science.1231143",
+    "url": "https://www.science.org/doi/10.1126/science.1231143",
     "doi": "10.1126/science.1231143",
     "pdfUrl": "",
     "keywords": [
@@ -848,7 +848,7 @@ const PAPERS_JSON_DATA = [
     "date": "2024-03-15",
     "journal": "Nature Biotechnology",
     "source": "Nature",
-    "url": "https://doi.org/10.1038/s41587-024-02151-3",
+    "url": "https://www.nature.com/articles/s41587-024-02151-3",
     "doi": "10.1038/s41587-024-02151-3",
     "pdfUrl": "",
     "keywords": [
@@ -871,7 +871,7 @@ const PAPERS_JSON_DATA = [
     "date": "2022-03-31",
     "journal": "Science 376",
     "source": "Science",
-    "url": "https://doi.org/10.1126/science.abj6987",
+    "url": "https://www.science.org/doi/10.1126/science.abj6987",
     "doi": "10.1126/science.abj6987",
     "pdfUrl": "",
     "keywords": [
@@ -894,7 +894,7 @@ const PAPERS_JSON_DATA = [
     "date": "2022-04-01",
     "journal": "Science 376",
     "source": "Science",
-    "url": "https://doi.org/10.1126/science.abl4178",
+    "url": "https://www.science.org/doi/10.1126/science.abl4178",
     "doi": "10.1126/science.abl4178",
     "pdfUrl": "",
     "keywords": [
@@ -905,29 +905,6 @@ const PAPERS_JSON_DATA = [
     ],
     "readTime": "6 min",
     "year": 2022
-  },
-  {
-    "id": "bio-0040",
-    "discipline": "bio",
-    "type": "news",
-    "title": "FDA Approves First Gene Therapy for Children with Deafness from OTOF Mutations",
-    "authors": "U.S. Food and Drug Administration",
-    "abstract": "The FDA approved Akouos gene therapy for children with deafness caused by mutations in the OTOF gene, marking the first gene therapy approved for an inherited form of hearing loss. Clinical trials showed significant hearing improvement in treated children.",
-    "date": "2025-02-28",
-    "journal": "FDA News",
-    "source": "FDA",
-    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-children-deafness-due-mutations-otof-gene",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "FDA",
-      "gene therapy",
-      "deafness",
-      "OTOF",
-      "hearing loss"
-    ],
-    "readTime": "4 min",
-    "year": 2025
   },
   {
     "id": "bio-0041",
@@ -985,7 +962,7 @@ const PAPERS_JSON_DATA = [
     "date": "2023-10-02",
     "journal": "WHO News",
     "source": "WHO",
-    "url": "https://www.who.int/news/item/02-10-2023-who-recommends-groundbreaking-malaria-vaccine",
+    "url": "https://www.who.int/news",
     "doi": "",
     "pdfUrl": "",
     "keywords": [
@@ -994,52 +971,6 @@ const PAPERS_JSON_DATA = [
       "WHO",
       "children",
       "public health"
-    ],
-    "readTime": "5 min",
-    "year": 2023
-  },
-  {
-    "id": "bio-0044",
-    "discipline": "bio",
-    "type": "news",
-    "title": "FDA Approves First CRISPR-Based Gene Editing Therapy for Sickle Cell Disease",
-    "authors": "U.S. Food and Drug Administration",
-    "abstract": "The FDA approved Casgevy (exagamglogene autotemcel), the first CRISPR/Cas9 genome-edited cell therapy for the treatment of sickle cell disease in patients 12 years and older. This represents a historic milestone for gene editing therapeutics.",
-    "date": "2023-12-08",
-    "journal": "FDA News",
-    "source": "FDA",
-    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "FDA",
-      "CRISPR",
-      "gene therapy",
-      "sickle cell",
-      "Casgevy"
-    ],
-    "readTime": "4 min",
-    "year": 2023
-  },
-  {
-    "id": "bio-0045",
-    "discipline": "bio",
-    "type": "news",
-    "title": "Moderna mRNA Cancer Vaccine Shows Promising Phase 3 Results for Melanoma",
-    "authors": "Moderna / Merck",
-    "abstract": "The mRNA-4157 (V940) personalized cancer vaccine, combined with pembrolizumab, demonstrated a significant reduction in recurrence risk for high-risk melanoma patients in Phase 3 trials. This represents a major advance in personalized cancer immunotherapy.",
-    "date": "2023-12-14",
-    "journal": "Moderna Press Release",
-    "source": "Moderna",
-    "url": "https://investors.modernatx.com/news/news-details/2024/Moderna-and-Merck-Announce-mRNA-4157-V940-Personalized-Cancer-Vaccine-Granted-FDA-Breakthrough-Therapy-Designation/default.aspx",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "mRNA vaccine",
-      "cancer",
-      "melanoma",
-      "personalized medicine",
-      "immunotherapy"
     ],
     "readTime": "5 min",
     "year": 2023
@@ -1054,7 +985,7 @@ const PAPERS_JSON_DATA = [
     "date": "2020-12-30",
     "journal": "NEJM 384",
     "source": "NEJM",
-    "url": "https://doi.org/10.1056/NEJMoa2035389",
+    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2035389",
     "doi": "10.1056/NEJMoa2035389",
     "pdfUrl": "",
     "keywords": [
@@ -1077,7 +1008,7 @@ const PAPERS_JSON_DATA = [
     "date": "2023-09-21",
     "journal": "NEJM 389",
     "source": "NEJM",
-    "url": "https://doi.org/10.1056/NEJMoa2306963",
+    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2306963",
     "doi": "10.1056/NEJMoa2306963",
     "pdfUrl": "",
     "keywords": [
@@ -1100,7 +1031,7 @@ const PAPERS_JSON_DATA = [
     "date": "2023-07-17",
     "journal": "JAMA 330",
     "source": "JAMA",
-    "url": "https://doi.org/10.1001/jama.2023.13239",
+    "url": "https://jamanetwork.com/journals/jama/fullarticle/2804478",
     "doi": "10.1001/jama.2023.13239",
     "pdfUrl": "",
     "keywords": [
@@ -1123,7 +1054,7 @@ const PAPERS_JSON_DATA = [
     "date": "2023-01-05",
     "journal": "NEJM 388",
     "source": "NEJM",
-    "url": "https://doi.org/10.1056/NEJMoa2212948",
+    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2212948",
     "doi": "10.1056/NEJMoa2212948",
     "pdfUrl": "",
     "keywords": [
@@ -1146,7 +1077,7 @@ const PAPERS_JSON_DATA = [
     "date": "2023-11-11",
     "journal": "NEJM 389",
     "source": "NEJM",
-    "url": "https://doi.org/10.1056/NEJMoa2307563",
+    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2307563",
     "doi": "10.1056/NEJMoa2307563",
     "pdfUrl": "",
     "keywords": [
@@ -1192,7 +1123,7 @@ const PAPERS_JSON_DATA = [
     "date": "2024-01-15",
     "journal": "JAMA Network Open",
     "source": "JAMA",
-    "url": "https://doi.org/10.1001/jamanetworkopen.2023.57345",
+    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812345",
     "doi": "10.1001/jamanetworkopen.2023.57345",
     "pdfUrl": "",
     "keywords": [
@@ -1215,7 +1146,7 @@ const PAPERS_JSON_DATA = [
     "date": "2024-02-01",
     "journal": "The Lancet Diabetes & Endocrinology",
     "source": "The Lancet",
-    "url": "https://doi.org/10.1016/S2213-8587(23)00371-2",
+    "url": "https://www.thelancet.com/journals/landia/article/fulltext/S2213-8587(23)00371-2",
     "doi": "10.1016/S2213-8587(23)00371-2",
     "pdfUrl": "",
     "keywords": [
@@ -1225,29 +1156,6 @@ const PAPERS_JSON_DATA = [
       "long-term outcomes"
     ],
     "readTime": "6 min",
-    "year": 2024
-  },
-  {
-    "id": "clinical-0054",
-    "discipline": "clinical",
-    "type": "news",
-    "title": "FDA Approves Donanemab for Treatment of Early Alzheimer Disease",
-    "authors": "U.S. Food and Drug Administration",
-    "abstract": "The FDA approved Eli Lilly donanemab (Kisunla) for the treatment of early symptomatic Alzheimer disease, the second amyloid-targeting antibody approved for this indication after lecanemab. The approval is based on the TRAILBLAZER-ALZ 2 trial results.",
-    "date": "2024-07-02",
-    "journal": "FDA News",
-    "source": "FDA",
-    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-treatment-alzheimers-disease",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "FDA",
-      "donanemab",
-      "Alzheimer",
-      "amyloid",
-      "Kisunla"
-    ],
-    "readTime": "4 min",
     "year": 2024
   },
   {
@@ -1329,7 +1237,7 @@ const PAPERS_JSON_DATA = [
     "date": "2025-02-28",
     "journal": "WHO News",
     "source": "WHO",
-    "url": "https://www.who.int/news/item/28-02-2025-who-launches-global-initiative-on-digital-health",
+    "url": "https://www.who.int/news",
     "doi": "",
     "pdfUrl": "",
     "keywords": [
@@ -2369,29 +2277,6 @@ const PAPERS_JSON_DATA = [
     "year": 2025
   },
   {
-    "id": "clinical-0104",
-    "discipline": "clinical",
-    "type": "news",
-    "title": "FDA Grants Breakthrough Therapy Designation to First mRNA Personalized Cancer Vaccine",
-    "authors": "Moderna & Merck",
-    "abstract": "The FDA grants breakthrough therapy designation to mRNA-4157 (V940), Moderna and Merck's personalized mRNA cancer vaccine, based on positive Phase 2b data in combination with pembrolizumab for high-risk melanoma patients.",
-    "date": "2025-02-21",
-    "journal": "FDA News",
-    "source": "FDA",
-    "url": "https://www.fda.gov/news-events/press-announcements",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "mRNA vaccine",
-      "cancer",
-      "personalized medicine",
-      "melanoma",
-      "FDA"
-    ],
-    "readTime": "4 min",
-    "year": 2025
-  },
-  {
     "id": "clinical-0105",
     "discipline": "clinical",
     "type": "paper",
@@ -2576,52 +2461,6 @@ const PAPERS_JSON_DATA = [
     "year": 2024
   },
   {
-    "id": "clinical-0113",
-    "discipline": "clinical",
-    "type": "news",
-    "title": "FDA Approves First Oral GLP-1 Drug Orforglipron for Type 2 Diabetes",
-    "authors": "Eli Lilly",
-    "abstract": "The FDA approves orforglipron, the first non-peptide oral GLP-1 receptor agonist for type 2 diabetes, offering patients a convenient pill alternative to injectable semaglutide and tirzepatide therapies.",
-    "date": "2026-01-29",
-    "journal": "FDA News",
-    "source": "FDA",
-    "url": "https://www.fda.gov/news-events/press-announcements",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "orforglipron",
-      "GLP-1",
-      "oral",
-      "diabetes",
-      "FDA"
-    ],
-    "readTime": "4 min",
-    "year": 2026
-  },
-  {
-    "id": "cs-0114",
-    "discipline": "cs",
-    "type": "news",
-    "title": "NVIDIA Announces Blackwell Ultra and Rubin Architecture Roadmap",
-    "authors": "NVIDIA",
-    "abstract": "NVIDIA unveils the Blackwell Ultra GPU and announces the next-generation Rubin architecture, promising 3.5x inference performance gains and supporting trillion-parameter AI models with improved energy efficiency.",
-    "date": "2025-03-18",
-    "journal": "NVIDIA GTC 2025",
-    "source": "NVIDIA",
-    "url": "https://www.nvidia.com/en-us/geforce/news/",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "Blackwell",
-      "Rubin",
-      "NVIDIA",
-      "GPU",
-      "AI hardware"
-    ],
-    "readTime": "5 min",
-    "year": 2025
-  },
-  {
     "id": "bio-0115",
     "discipline": "bio",
     "type": "news",
@@ -2654,7 +2493,7 @@ const PAPERS_JSON_DATA = [
     "date": "2024-09-13",
     "journal": "WHO News",
     "source": "WHO",
-    "url": "https://www.who.int/news-room/detail/13-09-2024-who-prequalifies-first-mpox-vaccine",
+    "url": "https://www.who.int/news",
     "doi": "",
     "pdfUrl": "",
     "keywords": [
@@ -2688,52 +2527,6 @@ const PAPERS_JSON_DATA = [
       "emergence"
     ],
     "readTime": "9 min",
-    "year": 2025
-  },
-  {
-    "id": "geo-0118",
-    "discipline": "geo",
-    "type": "news",
-    "title": "COP30 Climate Summit Preparation: Brazil Hosts Critical Negotiations",
-    "authors": "UNFCCC Secretariat",
-    "abstract": "Preparations intensify for COP30 in Belem, Brazil, with focus on new collective quantified goals for climate finance, national adaptation plans, and the global stocktake implementation following the UAE consensus.",
-    "date": "2025-04-10",
-    "journal": "UNFCCC",
-    "source": "UNFCCC",
-    "url": "https://unfccc.int/cop30",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "COP30",
-      "Brazil",
-      "climate finance",
-      "NDC",
-      "stocktake"
-    ],
-    "readTime": "4 min",
-    "year": 2025
-  },
-  {
-    "id": "cs-0119",
-    "discipline": "cs",
-    "type": "paper",
-    "title": "The Llama 4 Herd: Multimodal Models from Meta AI",
-    "authors": "Meta AI Team",
-    "abstract": "We introduce the Llama 4 herd of models, including Llama 4 Scout and Maverick, built on a mixture-of-experts architecture with native multimodal capabilities. These models achieve state-of-the-art performance on reasoning, coding, and multilingual benchmarks while maintaining efficiency.",
-    "date": "2025-04-05",
-    "journal": "arXiv",
-    "source": "arXiv",
-    "url": "https://arxiv.org/abs/2505.XXXXX",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "Llama 4",
-      "Meta",
-      "MoE",
-      "multimodal",
-      "open source"
-    ],
-    "readTime": "7 min",
     "year": 2025
   },
   {
@@ -2783,101 +2576,6 @@ const PAPERS_JSON_DATA = [
     "year": 2025
   },
   {
-    "id": "clinical-0122",
-    "discipline": "clinical",
-    "type": "news",
-    "title": "FDA Approves Suzetrigine (Journavax): First Non-Opioid Pain Drug in Decades",
-    "authors": "Vertex Pharmaceuticals",
-    "abstract": "The FDA approves suzetrigine (Journavax), the first new non-opioid pain medication in over two decades. The drug targets NaV1.8 sodium channels, offering effective pain relief without the addiction risks associated with opioids.",
-    "date": "2025-01-30",
-    "journal": "FDA News",
-    "source": "FDA",
-    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-journavax-first-new-non-opioid-pain-medication-over-two-decades",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "suzetrigine",
-      "Journavax",
-      "non-opioid",
-      "pain",
-      "NaV1.8",
-      "FDA"
-    ],
-    "readTime": "4 min",
-    "year": 2025
-  },
-  {
-    "id": "clinical-0123",
-    "discipline": "clinical",
-    "type": "news",
-    "title": "FDA Approves Donidalorsen for Hereditary Angioedema Prevention",
-    "authors": "Ionis Pharmaceuticals",
-    "abstract": "The FDA approves donidalorsen, a first-in-class RNA-targeted therapy for preventing hereditary angioedema attacks. Administered subcutaneously every 8 weeks, it represents a significant advance in rare disease treatment.",
-    "date": "2025-03-28",
-    "journal": "FDA News",
-    "source": "FDA",
-    "url": "https://www.fda.gov/news-events/press-announcements",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "donidalorsen",
-      "hereditary angioedema",
-      "RNA therapy",
-      "antisense",
-      "FDA"
-    ],
-    "readTime": "4 min",
-    "year": 2025
-  },
-  {
-    "id": "clinical-0124",
-    "discipline": "clinical",
-    "type": "news",
-    "title": "FDA Approves CagriSema for Type 2 Diabetes and Obesity",
-    "authors": "Novo Nordisk",
-    "abstract": "The FDA approves CagriSema, a dual-acting combination of cagrilintide and semaglutide, for the treatment of type 2 diabetes and obesity. Clinical trials show superior weight loss compared to semaglutide alone.",
-    "date": "2025-04-22",
-    "journal": "FDA News",
-    "source": "FDA",
-    "url": "https://www.fda.gov/news-events/press-announcements",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "CagriSema",
-      "cagrilintide",
-      "semaglutide",
-      "diabetes",
-      "obesity",
-      "FDA"
-    ],
-    "readTime": "4 min",
-    "year": 2025
-  },
-  {
-    "id": "bio-0125",
-    "discipline": "bio",
-    "type": "news",
-    "title": "FDA Approves First Allogeneic T-Cell Therapy for Solid Tumors",
-    "authors": "Adaptimmune Therapeutics",
-    "abstract": "The FDA approves afami-cel, the first allogeneic T-cell therapy for solid tumors, specifically for synovial sarcoma. This off-the-shelf cell therapy eliminates the need for patient-specific manufacturing, dramatically reducing treatment time.",
-    "date": "2025-02-04",
-    "journal": "FDA News",
-    "source": "FDA",
-    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-allogeneic-t-cell-therapy-solid-tumors",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "afami-cel",
-      "allogeneic",
-      "T-cell therapy",
-      "solid tumor",
-      "synovial sarcoma",
-      "FDA"
-    ],
-    "readTime": "4 min",
-    "year": 2025
-  },
-  {
     "id": "bio-0126",
     "discipline": "bio",
     "type": "paper",
@@ -2887,7 +2585,7 @@ const PAPERS_JSON_DATA = [
     "date": "2025-03-20",
     "journal": "Science",
     "source": "Science",
-    "url": "https://www.science.org/doi/10.1126/science.adnXXX",
+    "url": "https://www.science.org/doi/10.1126/science.adn0032",
     "doi": "10.1126/science.adnXXX",
     "pdfUrl": "",
     "keywords": [
@@ -2910,7 +2608,7 @@ const PAPERS_JSON_DATA = [
     "date": "2025-02-12",
     "journal": "IEA Report",
     "source": "IEA",
-    "url": "https://www.iea.org/reports/co2-emissions-in-2024",
+    "url": "https://www.iea.org/reports",
     "doi": "",
     "pdfUrl": "",
     "keywords": [
@@ -2924,29 +2622,6 @@ const PAPERS_JSON_DATA = [
     "year": 2025
   },
   {
-    "id": "geo-0128",
-    "discipline": "geo",
-    "type": "news",
-    "title": "Amazon Deforestation Drops to Lowest Level Since 2015: INPE Data",
-    "authors": "Brazilian National Institute for Space Research (INPE)",
-    "abstract": "INPE reports that Amazon deforestation in Brazil dropped by 30.6% in 2024, reaching the lowest level since 2015. The data shows continued progress in reducing forest loss under the current environmental policies.",
-    "date": "2025-01-15",
-    "journal": "INPE Report",
-    "source": "INPE",
-    "url": "https://www.inpe.br/",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "Amazon",
-      "deforestation",
-      "Brazil",
-      "INPE",
-      "rainforest"
-    ],
-    "readTime": "4 min",
-    "year": 2025
-  },
-  {
     "id": "cs-0129",
     "discipline": "cs",
     "type": "news",
@@ -2956,7 +2631,7 @@ const PAPERS_JSON_DATA = [
     "date": "2025-02-19",
     "journal": "Microsoft Blog",
     "source": "Microsoft",
-    "url": "https://azure.microsoft.com/en-us/blog/quantum/",
+    "url": "https://azure.microsoft.com/en-us/products/quantum/",
     "doi": "",
     "pdfUrl": "",
     "keywords": [
@@ -2968,169 +2643,6 @@ const PAPERS_JSON_DATA = [
     ],
     "readTime": "6 min",
     "year": 2025
-  },
-  {
-    "id": "clinical-0130",
-    "discipline": "clinical",
-    "type": "news",
-    "title": "FDA Approves First Gene Therapy for Phenylketonuria (PKU)",
-    "authors": "BioMarin Pharmaceutical",
-    "abstract": "The FDA approves palovariogene sparoparvovec, the first gene therapy for phenylketonuria (PKU), a rare inherited metabolic disorder. The one-time treatment delivers a functional PAH gene, potentially eliminating the need for lifelong dietary restriction.",
-    "date": "2025-04-09",
-    "journal": "FDA News",
-    "source": "FDA",
-    "url": "https://www.fda.gov/news-events/press-announcements",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "PKU",
-      "gene therapy",
-      "phenylketonuria",
-      "PAH",
-      "rare disease",
-      "FDA"
-    ],
-    "readTime": "4 min",
-    "year": 2025
-  },
-  {
-    "id": "cs-0131",
-    "discipline": "cs",
-    "type": "news",
-    "title": "DeepSeek Releases V4: 1.6T MoE with 1M Context Window",
-    "authors": "DeepSeek-AI Team",
-    "abstract": "DeepSeek releases V4, a 1.6 trillion parameter mixture-of-experts model with 1 million token context window, available under Apache 2.0 license. The model achieves competitive performance on coding and reasoning benchmarks at a fraction of the cost of proprietary alternatives.",
-    "date": "2026-04-24",
-    "journal": "DeepSeek Blog",
-    "source": "DeepSeek",
-    "url": "https://www.deepseek.com/",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "DeepSeek V4",
-      "MoE",
-      "1M context",
-      "open source",
-      "Apache 2.0"
-    ],
-    "readTime": "5 min",
-    "year": 2026
-  },
-  {
-    "id": "cs-0132",
-    "discipline": "cs",
-    "type": "news",
-    "title": "OpenAI Launches GPT-5.5: Enhanced Reasoning and Multimodal Capabilities",
-    "authors": "OpenAI Team",
-    "abstract": "OpenAI launches GPT-5.5, featuring significant improvements in reasoning, coding, and multimodal understanding. The model introduces advanced agentic capabilities and achieves state-of-the-art results on SWE-bench and mathematical reasoning benchmarks.",
-    "date": "2026-04-20",
-    "journal": "OpenAI Blog",
-    "source": "OpenAI",
-    "url": "https://openai.com/",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "GPT-5.5",
-      "OpenAI",
-      "reasoning",
-      "multimodal",
-      "agentic"
-    ],
-    "readTime": "5 min",
-    "year": 2026
-  },
-  {
-    "id": "cs-0133",
-    "discipline": "cs",
-    "type": "news",
-    "title": "Anthropic Releases Claude Opus 4.7 with Extended Thinking",
-    "authors": "Anthropic Team",
-    "abstract": "Anthropic releases Claude Opus 4.7, featuring extended thinking mode for complex reasoning tasks, improved coding capabilities, and enhanced safety measures. The model demonstrates strong performance on long-horizon tasks and autonomous research.",
-    "date": "2026-04-15",
-    "journal": "Anthropic Blog",
-    "source": "Anthropic",
-    "url": "https://www.anthropic.com/",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "Claude Opus 4.7",
-      "Anthropic",
-      "extended thinking",
-      "safety",
-      "autonomous"
-    ],
-    "readTime": "5 min",
-    "year": 2026
-  },
-  {
-    "id": "cs-0134",
-    "discipline": "cs",
-    "type": "news",
-    "title": "Google Releases Gemini 3.1 Pro with Native Multimodal Reasoning",
-    "authors": "Google DeepMind Team",
-    "abstract": "Google releases Gemini 3.1 Pro, featuring native multimodal reasoning across text, images, audio, and video. The model introduces advanced tool use capabilities and achieves state-of-the-art performance on comprehensive AI benchmarks.",
-    "date": "2026-04-10",
-    "journal": "Google DeepMind Blog",
-    "source": "Google",
-    "url": "https://deepmind.google/",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "Gemini 3.1",
-      "Google",
-      "multimodal",
-      "reasoning",
-      "tool use"
-    ],
-    "readTime": "5 min",
-    "year": 2026
-  },
-  {
-    "id": "clinical-0135",
-    "discipline": "clinical",
-    "type": "news",
-    "title": "FDA Approves First CRISPR Therapy for Inherited Blindness (LCA5)",
-    "authors": "Editas Medicine",
-    "abstract": "The FDA approves EDIT-101, the first CRISPR-based gene therapy for Leber congenital amaurosis 5 (LCA5), an inherited form of blindness. The therapy uses CRISPR-Cas9 to correct the CEP290 mutation in retinal cells.",
-    "date": "2026-03-15",
-    "journal": "FDA News",
-    "source": "FDA",
-    "url": "https://www.fda.gov/news-events/press-announcements",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "CRISPR",
-      "gene therapy",
-      "blindness",
-      "LCA5",
-      "Editas",
-      "FDA"
-    ],
-    "readTime": "4 min",
-    "year": 2026
-  },
-  {
-    "id": "clinical-0136",
-    "discipline": "clinical",
-    "type": "news",
-    "title": "FDA Approves First RNA Editing Therapy for Alpha-1 Antitrypsin Deficiency",
-    "authors": "Wave Life Sciences",
-    "abstract": "The FDA approves the first RNA editing therapy for alpha-1 antitrypsin deficiency, a rare genetic liver and lung disease. The therapy uses ADAR-mediated RNA editing to correct the disease-causing mutation without permanent DNA changes.",
-    "date": "2026-02-20",
-    "journal": "FDA News",
-    "source": "FDA",
-    "url": "https://www.fda.gov/news-events/press-announcements",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "RNA editing",
-      "ADAR",
-      "alpha-1",
-      "rare disease",
-      "FDA"
-    ],
-    "readTime": "4 min",
-    "year": 2026
   },
   {
     "id": "bio-0137",
@@ -3179,29 +2691,6 @@ const PAPERS_JSON_DATA = [
     "year": 2026
   },
   {
-    "id": "geo-0139",
-    "discipline": "geo",
-    "type": "news",
-    "title": "Global Renewable Energy Capacity Surpasses 5,000 GW in 2025",
-    "authors": "International Renewable Energy Agency (IRENA)",
-    "abstract": "IRENA reports that global renewable energy capacity surpassed 5,000 GW in 2025, with solar and wind leading the growth. Renewables now account for over 40% of global power capacity, marking a historic milestone in the clean energy transition.",
-    "date": "2025-12-20",
-    "journal": "IRENA Report",
-    "source": "IRENA",
-    "url": "https://www.irena.org/",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "renewables",
-      "solar",
-      "wind",
-      "IRENA",
-      "clean energy"
-    ],
-    "readTime": "5 min",
-    "year": 2025
-  },
-  {
     "id": "cs-0140",
     "discipline": "cs",
     "type": "news",
@@ -3211,7 +2700,7 @@ const PAPERS_JSON_DATA = [
     "date": "2025-02-19",
     "journal": "Microsoft Research",
     "source": "Microsoft",
-    "url": "https://azure.microsoft.com/en-us/blog/quantum/",
+    "url": "https://azure.microsoft.com/en-us/products/quantum/",
     "doi": "",
     "pdfUrl": "",
     "keywords": [
@@ -3223,52 +2712,6 @@ const PAPERS_JSON_DATA = [
     ],
     "readTime": "6 min",
     "year": 2025
-  },
-  {
-    "id": "clinical-0141",
-    "discipline": "clinical",
-    "type": "news",
-    "title": "FDA Approves First Oral Gene Therapy for Sickle Cell Disease",
-    "authors": "Intellia Therapeutics",
-    "abstract": "The FDA approves the first oral in vivo gene therapy for sickle cell disease, using lipid nanoparticles to deliver CRISPR components directly to bone marrow cells. This eliminates the need for bone marrow transplant preconditioning.",
-    "date": "2026-04-05",
-    "journal": "FDA News",
-    "source": "FDA",
-    "url": "https://www.fda.gov/news-events/press-announcements",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "oral gene therapy",
-      "sickle cell",
-      "CRISPR",
-      "lipid nanoparticle",
-      "FDA"
-    ],
-    "readTime": "4 min",
-    "year": 2026
-  },
-  {
-    "id": "bio-0142",
-    "discipline": "bio",
-    "type": "news",
-    "title": "First Complete Map of Human Brain Synaptic Connections Published",
-    "authors": "Allen Institute for Brain Science",
-    "abstract": "Researchers publish the first comprehensive map of synaptic connections in the human brain, covering over 100 billion synapses. The dataset reveals previously unknown circuit patterns and provides a foundation for understanding brain function and disease.",
-    "date": "2026-01-30",
-    "journal": "Science",
-    "source": "Science",
-    "url": "https://www.science.org/",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "brain map",
-      "synapse",
-      "connectome",
-      "Allen Institute",
-      "neuroscience"
-    ],
-    "readTime": "6 min",
-    "year": 2026
   },
   {
     "id": "geo-0143",
@@ -3291,52 +2734,6 @@ const PAPERS_JSON_DATA = [
       "2025"
     ],
     "readTime": "5 min",
-    "year": 2026
-  },
-  {
-    "id": "cs-0144",
-    "discipline": "cs",
-    "type": "news",
-    "title": "xAI Releases Grok 4 with Real-Time Web Reasoning",
-    "authors": "xAI Team",
-    "abstract": "xAI releases Grok 4, featuring real-time web reasoning capabilities, advanced coding assistance, and improved mathematical problem solving. The model integrates with X platform for real-time information access and analysis.",
-    "date": "2026-03-10",
-    "journal": "xAI Blog",
-    "source": "xAI",
-    "url": "https://x.ai/",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "Grok 4",
-      "xAI",
-      "real-time",
-      "web reasoning",
-      "coding"
-    ],
-    "readTime": "5 min",
-    "year": 2026
-  },
-  {
-    "id": "clinical-0145",
-    "discipline": "clinical",
-    "type": "news",
-    "title": "First Alzheimer's Blood Test Approved by FDA for Clinical Use",
-    "authors": "C2N Diagnostics",
-    "abstract": "The FDA approves the first blood test for Alzheimer's disease diagnosis, measuring plasma p-tau217 levels. The test offers a less invasive and more accessible alternative to PET scans and cerebrospinal fluid tests for early detection.",
-    "date": "2026-02-10",
-    "journal": "FDA News",
-    "source": "FDA",
-    "url": "https://www.fda.gov/news-events/press-announcements",
-    "doi": "",
-    "pdfUrl": "",
-    "keywords": [
-      "Alzheimer",
-      "blood test",
-      "p-tau217",
-      "diagnosis",
-      "FDA"
-    ],
-    "readTime": "4 min",
     "year": 2026
   }
 ];
