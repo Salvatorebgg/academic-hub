@@ -6,11 +6,22 @@
 class DataManager {
   constructor() {
     this.papers = [];
-    this.favorites = this.loadFavorites();
     this.currentFilter = 'all';
     this.typeFilter = 'all';
     this.currentView = 'grid';
     this.searchQuery = '';
+    this.currentUser = null;
+    this.favorites = this.loadFavorites();
+  }
+
+  setCurrentUser(username) {
+    this.currentUser = username;
+    this.favorites = this.loadFavorites();
+  }
+
+  clearCurrentUser() {
+    this.currentUser = null;
+    this.favorites = this.loadFavorites();
   }
 
   async loadPapers() {
@@ -87,15 +98,21 @@ class DataManager {
   isFavorited(paperId) { return this.favorites.includes(paperId); }
   getFavoritePapers() { return this.papers.filter(p => this.favorites.includes(p.id)); }
 
+  getFavoritesKey() {
+    return this.currentUser
+      ? `academic-hub-favorites-user-${this.currentUser}`
+      : 'academic-hub-favorites';
+  }
+
   loadFavorites() {
     try {
-      const stored = localStorage.getItem('academic-hub-favorites');
+      const stored = localStorage.getItem(this.getFavoritesKey());
       return stored ? JSON.parse(stored) : [];
     } catch { return []; }
   }
 
   saveFavorites() {
-    localStorage.setItem('academic-hub-favorites', JSON.stringify(this.favorites));
+    localStorage.setItem(this.getFavoritesKey(), JSON.stringify(this.favorites));
   }
 
   getBestUrl(paper) {

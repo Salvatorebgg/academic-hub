@@ -1,5 +1,6 @@
 /**
- * Academic Hub v2.0 - 主应用逻辑
+ * Academic Hub v3.2 - 主应用逻辑
+ * 2026年4月更新：146条真实学术内容 + 用户系统 + 云端收藏
  * 增强功能：阅读进度、批量操作、搜索高亮、阅读历史、回到顶部、丰富导出
  */
 
@@ -9,13 +10,17 @@ class AcademicHub {
     this.audio = window.audioEngine;
     this.currentSection = 'latest';
     this.readingHistory = this.loadReadingHistory();
+    this.readProgress = this.loadReadProgress();
     this.batchMode = false;
     this.batchSelected = new Set();
+    this.sortOrder = 'date-desc';
+    this.currentUser = this.loadCurrentUser();
     this.init();
   }
 
   async init() {
     await this.dataManager.loadPapers();
+    this.dataManager.setCurrentUser(this.currentUser);
     this.initTheme();
     this.initSystemTheme();
     this.initSearchHistory();
@@ -23,9 +28,11 @@ class AcademicHub {
     this.initScrollEffects();
     this.initViewportAnimations();
     this.initKeyboardShortcuts();
+    this.initUserSystem();
     this.render();
     this.initParticles();
     this.initVisibilityPause();
+    this.initRippleEffects();
 
     setTimeout(() => {
       const loader = document.getElementById('pageLoader');
@@ -133,18 +140,21 @@ class AcademicHub {
   /* ========== 视口进入动画 ========== */
   initViewportAnimations() {
     if (!('IntersectionObserver' in window)) return;
-    const observer = new IntersectionObserver((entries) => {
+    this.viewportObserver = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
           entry.target.classList.add('visible');
-          observer.unobserve(entry.target);
+          this.viewportObserver.unobserve(entry.target);
         }
       });
     }, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
+  }
 
-    document.querySelectorAll('.paper-card, .paper-list-item, .stat-card, .today-pick-card, .discipline-chart, .keyword-cloud').forEach(el => {
+  observeViewportAnimations() {
+    if (!this.viewportObserver) return;
+    document.querySelectorAll('.paper-card:not(.revealed), .paper-list-item:not(.revealed), .stat-card:not(.revealed), .today-pick-card:not(.revealed), .discipline-chart:not(.revealed), .keyword-cloud:not(.revealed)').forEach(el => {
       el.classList.add('reveal');
-      observer.observe(el);
+      this.viewportObserver.observe(el);
     });
   }
 
@@ -175,7 +185,46 @@ class AcademicHub {
       if ((e.key === 'b' || e.key === 'B') && document.activeElement.tagName !== 'INPUT') {
         this.toggleBatchMode();
       }
+      // L 打开登录
+      if ((e.key === 'l' || e.key === 'L') && document.activeElement.tagName !== 'INPUT') {
+        e.preventDefault();
+        if (this.currentUser) {
+          this.openCloudModal();
+        } else {
+          this.openAuthModal();
+        }
+      }
+      // ? 显示快捷键帮助
+      if (e.key === '?' && document.activeElement.tagName !== 'INPUT') {
+        this.openShortcutsHelp();
+      }
     });
+  }
+
+  /* ========== 快捷键帮助面板 ========== */
+  openShortcutsHelp() {
+    const shortcuts = [
+      { key: '/', desc: '聚焦搜索框' },
+      { key: 'Esc', desc: '关闭模态框/侧边栏/搜索历史' },
+      { key: '1', desc: '切换到 [最新内容]' },
+      { key: '2', desc: '切换到 [历史时间线]' },
+      { key: '3', desc: '切换到 [我的收藏]' },
+      { key: 'T', desc: '切换 亮色/暗色 主题' },
+      { key: 'B', desc: '切换批量选择模式' },
+      { key: 'L', desc: '打开登录/注册面板' },
+      { key: '?', desc: '显示本快捷键帮助面板' },
+    ];
+    const content = `
+      <div style="display: grid; gap: 0.75rem;">
+        ${shortcuts.map(s => `
+          <div style="display: flex; align-items: center; gap: 1rem; padding: 0.6rem 0.9rem; background: var(--bg-secondary); border-radius: 10px;">
+            <span class="kbd-hint" style="min-width: 2.5rem; text-align: center; font-size: 0.85rem;">${s.key}</span>
+            <span style="font-size: 0.9rem; color: var(--text-primary); font-weight: 600;">${s.desc}</span>
+          </div>
+        `).join('')}
+      </div>
+    `;
+    this.openModal('⌨️ 键盘快捷键', content);
   }
 
   /* ========== 页面可见性：暂停粒子动画省电 ========== */
@@ -240,6 +289,26 @@ class AcademicHub {
 
   saveReadingHistory() {
     localStorage.setItem('academic-hub-history', JSON.stringify([...this.readingHistory]));
+  }
+
+  /* ========== 阅读进度 ========== */
+  loadReadProgress() {
+    try {
+      return JSON.parse(localStorage.getItem('academic-hub-progress') || '{}');
+    } catch { return {}; }
+  }
+
+  saveReadProgress() {
+    localStorage.setItem('academic-hub-progress', JSON.stringify(this.readProgress));
+  }
+
+  getReadProgress(id) {
+    return this.readProgress[id] || 0;
+  }
+
+  setReadProgress(id, percent) {
+    this.readProgress[id] = Math.max(this.readProgress[id] || 0, percent);
+    this.saveReadProgress();
   }
 
   markAsRead(id) {
@@ -351,9 +420,8 @@ class AcademicHub {
 
     // 导出收藏
     document.getElementById('exportFavorites')?.addEventListener('click', () => {
-      this.audio.playDownload();
-      this.dataManager.exportFavorites();
-      this.showToast('收藏已导出', 'success');
+      this.audio.playClick();
+      this.openCloudModal();
     });
 
     // 手动更新
@@ -383,6 +451,7 @@ class AcademicHub {
             <li>资讯新闻：${this.dataManager.papers.filter(p => p.type === 'news').length} 篇</li>
             <li>收藏数量：${this.dataManager.favorites.length} 篇</li>
             <li>已读数量：${this.readingHistory.size} 篇</li>
+            <li>当前用户：${this.currentUser || '未登录'}</li>
           </ul>
           <p style="margin-top: 1rem; color: var(--text-tertiary); font-size: 0.85rem;">
             数据文件可直接编辑，也可通过 Python 脚本自动更新。
@@ -397,6 +466,10 @@ class AcademicHub {
       this.audio.playClick();
       this.clearReadingHistory();
     });
+    document.getElementById('cloudManageBtn')?.addEventListener('click', () => {
+      this.audio.playClick();
+      this.openCloudModal();
+    });
 
     // 批量模式
     document.getElementById('batchModeBtn')?.addEventListener('click', () => {
@@ -410,11 +483,40 @@ class AcademicHub {
     document.getElementById('batchCopy')?.addEventListener('click', () => this.batchAction('copy'));
     document.getElementById('batchCancel')?.addEventListener('click', () => this.toggleBatchMode());
 
+    // 排序
+    document.getElementById('sortSelect')?.addEventListener('change', (e) => {
+      this.sortOrder = e.target.value;
+      this.renderPapers();
+      this.showToast(`已按 ${e.target.options[e.target.selectedIndex].text} 排序`, 'info');
+    });
+
     // 模态框关闭
     document.getElementById('modalClose')?.addEventListener('click', () => this.closeModal());
     document.getElementById('modalOverlay')?.addEventListener('click', (e) => {
       if (e.target === e.currentTarget) this.closeModal();
     });
+
+    // 用户认证
+    document.getElementById('loginBtn')?.addEventListener('click', () => this.openAuthModal());
+    document.getElementById('logoutBtn')?.addEventListener('click', () => this.logout());
+    document.getElementById('authModalClose')?.addEventListener('click', () => this.closeAuthModal());
+    document.getElementById('authModal')?.addEventListener('click', (e) => {
+      if (e.target === e.currentTarget) this.closeAuthModal();
+    });
+    document.getElementById('showRegisterBtn')?.addEventListener('click', () => this.switchAuthForm('register'));
+    document.getElementById('showLoginBtn')?.addEventListener('click', () => this.switchAuthForm('login'));
+    document.getElementById('doLoginBtn')?.addEventListener('click', () => this.doLogin());
+    document.getElementById('doRegisterBtn')?.addEventListener('click', () => this.doRegister());
+
+    // 云端管理
+    document.getElementById('cloudModalClose')?.addEventListener('click', () => this.closeCloudModal());
+    document.getElementById('cloudModal')?.addEventListener('click', (e) => {
+      if (e.target === e.currentTarget) this.closeCloudModal();
+    });
+    document.getElementById('exportCloudBtn')?.addEventListener('click', () => this.exportUserFavorites());
+    document.getElementById('importCloudBtn')?.addEventListener('click', () => document.getElementById('importFileInput')?.click());
+    document.getElementById('importFileInput')?.addEventListener('change', (e) => this.importUserFavorites(e));
+    document.getElementById('clearCloudBtn')?.addEventListener('click', () => this.clearUserFavorites());
   }
 
   /* ========== 批量操作 ========== */
@@ -492,12 +594,38 @@ class AcademicHub {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
+  /* ========== 排序论文 ========== */
+  sortPapers(papers) {
+    const sorted = [...papers];
+    switch (this.sortOrder) {
+      case 'date-desc':
+        sorted.sort((a, b) => new Date(b.date) - new Date(a.date));
+        break;
+      case 'date-asc':
+        sorted.sort((a, b) => new Date(a.date) - new Date(b.date));
+        break;
+      case 'title-asc':
+        sorted.sort((a, b) => a.title.localeCompare(b.title));
+        break;
+      case 'title-desc':
+        sorted.sort((a, b) => b.title.localeCompare(a.title));
+        break;
+      case 'type':
+        sorted.sort((a, b) => {
+          if (a.type !== b.type) return a.type === 'paper' ? -1 : 1;
+          return new Date(b.date) - new Date(a.date);
+        });
+        break;
+    }
+    return sorted;
+  }
+
   /* ========== 渲染论文列表 ========== */
   renderPapers() {
     const container = document.getElementById('papersContainer');
     if (!container) return;
 
-    const papers = this.dataManager.getFilteredPapers();
+    const papers = this.sortPapers(this.dataManager.getFilteredPapers());
     this.updateSectionTitle();
 
     if (papers.length === 0) {
@@ -519,6 +647,8 @@ class AcademicHub {
     }
 
     this.bindCardEvents();
+    this.observeViewportAnimations();
+    this.initRippleEffects();
   }
 
   /* ========== 搜索高亮 ========== */
@@ -539,6 +669,10 @@ class AcademicHub {
       ? '<span style="font-size:0.68rem;padding:0.15rem 0.45rem;border-radius:4px;background:linear-gradient(135deg,#f43f5e,#f97316);color:#fff;margin-left:0.3rem;font-weight:700;">🔥 热门</span>' : '';
     const readBadge = isRead
       ? '<span style="font-size:0.65rem;padding:0.1rem 0.4rem;border-radius:4px;background:var(--bg-tertiary);color:var(--text-tertiary);margin-left:0.3rem;font-weight:600;">已读</span>' : '';
+    const newBadge = paper.date && paper.date.startsWith('2026')
+      ? '<span class="new-badge">🆕 2026</span>' : '';
+    const yearBadge = paper.year
+      ? `<span class="year-badge">${paper.year}</span>` : '';
 
     const q = this.dataManager.searchQuery;
     const title = q ? this.highlightText(paper.title, q) : paper.title;
@@ -553,7 +687,7 @@ class AcademicHub {
           <div style="display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
             <span class="discipline-badge ${paper.discipline}">${disciplineLabels[paper.discipline]}</span>
             <span style="font-size: 0.72rem; padding: 0.2rem 0.5rem; border-radius: 6px; background: var(--bg-secondary); color: var(--text-secondary); font-weight: 600;">${typeLabels[paper.type || 'paper']} ${typeNames[paper.type || 'paper']}</span>
-            ${hotBadge}${readBadge}
+            ${yearBadge}${newBadge}${hotBadge}${readBadge}
           </div>
           <div class="card-actions">
             <button class="card-btn favorite-btn ${isFav ? 'favorited' : ''}" data-id="${paper.id}" title="${isFav ? '取消收藏' : '收藏'}">
@@ -776,6 +910,8 @@ class AcademicHub {
             📤 分享
           </button>
         </div>
+
+        ${this.renderRelatedPapers(paper)}
       </div>
     `;
     this.openModal('📄 内容详情', content);
@@ -825,6 +961,22 @@ class AcademicHub {
           }
         });
       }
+
+      // 相关推荐点击
+      document.querySelectorAll('.related-paper-item').forEach(item => {
+        item.addEventListener('click', () => {
+          const id = item.dataset.id;
+          const p = this.dataManager.papers.find(x => x.id === id);
+          if (p) {
+            this.closeModal();
+            setTimeout(() => {
+              this.markAsRead(id);
+              this.audio.playClick();
+              this.openPaperDetail(p);
+            }, 250);
+          }
+        });
+      });
     }, 0);
   }
 
@@ -850,6 +1002,34 @@ class AcademicHub {
       </div>
     `;
     this.openModal('📄 保存为 PDF', content);
+  }
+
+  /* ========== 相关推荐 ========== */
+  renderRelatedPapers(currentPaper) {
+    const others = this.dataManager.papers.filter(p =>
+      p.id !== currentPaper.id &&
+      (p.discipline === currentPaper.discipline ||
+       (p.keywords || []).some(k => (currentPaper.keywords || []).includes(k)))
+    );
+    if (others.length === 0) return '';
+    const shuffled = others.sort(() => 0.5 - Math.random()).slice(0, 3);
+    const disciplineLabels = { bio: '生物信息学', clinical: '临床研究', cs: '计算机科学', geo: '气象地质' };
+
+    return `
+      <div style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid var(--glass-border);">
+        <h3 style="font-size: 1rem; font-weight: 800; margin-bottom: 1rem; color: var(--text-primary);">📎 相关推荐</h3>
+        <div style="display: flex; flex-direction: column; gap: 0.75rem;">
+          ${shuffled.map(p => `
+            <div class="related-paper-item" data-id="${p.id}" style="padding: 0.85rem 1rem; background: var(--bg-card); border-radius: 10px; border: 1px solid var(--glass-border); cursor: pointer; transition: all 0.2s;">
+              <div style="font-size: 0.88rem; font-weight: 700; color: var(--text-primary); margin-bottom: 0.3rem; line-height: 1.4;">${p.title}</div>
+              <div style="font-size: 0.78rem; color: var(--text-secondary); font-weight: 500;">
+                <span style="color: var(--primary); font-weight: 700;">${disciplineLabels[p.discipline]}</span> · ${p.authors.split(',')[0]} et al. · ${p.date}
+              </div>
+            </div>
+          `).join('')}
+        </div>
+      </div>
+    `;
   }
 
   triggerPrintForPaper(paperId) {
@@ -1015,13 +1195,14 @@ class AcademicHub {
       </div>
     `;
 
-    // 触发数字滚动动画
+    // 触发数字滚动动画（必须在 innerHTML += 之前执行，否则 += 会重建 DOM 导致动画元素被替换）
     container.querySelectorAll('.stat-number[data-target]').forEach(el => {
       const target = parseInt(el.dataset.target);
       setTimeout(() => this.animateCounter(el, target), 300);
     });
 
-    container.innerHTML += `
+    // 用 insertAdjacentHTML 追加，避免重建已有 DOM
+    container.insertAdjacentHTML('beforeend', `
       <div class="discipline-chart">
         <div class="chart-title">学科分布</div>
         <div class="chart-bars">
@@ -1036,7 +1217,7 @@ class AcademicHub {
           `).join('')}
         </div>
       </div>
-    `;
+    `);
   }
 
   /* ========== 关键词云 ========== */
@@ -1097,16 +1278,10 @@ class AcademicHub {
     if (!container) return;
 
     const now = new Date();
-    const oneYearAgo = new Date(now.getFullYear() - 1, now.getMonth(), now.getDate());
-    const recentPapers = this.dataManager.papers.filter(p => {
-      const d = new Date(p.date);
-      return d >= oneYearAgo;
-    });
-
-    const pool = recentPapers.length > 0 ? recentPapers : this.dataManager.papers.filter(p => {
-      const d = new Date(p.date);
-      return d >= new Date(now.getFullYear() - 2, now.getMonth(), now.getDate());
-    });
+    // 优先推荐2026年内容，其次2025年
+    const y2026 = this.dataManager.papers.filter(p => p.date && p.date.startsWith('2026'));
+    const y2025 = this.dataManager.papers.filter(p => p.date && p.date.startsWith('2025'));
+    const pool = y2026.length > 0 ? y2026 : (y2025.length > 0 ? y2025 : this.dataManager.papers);
 
     if (pool.length === 0) return;
 
@@ -1125,7 +1300,7 @@ class AcademicHub {
             <span class="discipline-badge ${pick.discipline}">${disciplineLabels[pick.discipline]}</span>
             <span class="type-badge">${typeNames[pick.type || 'paper']}</span>
           </div>
-          <h3 class="today-pick-title">${pick.title}</h3>
+          <h3 class="today-pick-title">${pick.title}${pick.date && pick.date.startsWith('2026') ? '<span class="new-badge">🆕 2026</span>' : ''}</h3>
           <p class="today-pick-authors">${pick.authors}</p>
           <p class="today-pick-abstract">${pick.abstract}</p>
           <div class="today-pick-footer">
@@ -1241,6 +1416,8 @@ class AcademicHub {
     `).join('');
 
     this.bindCardEvents();
+    this.observeViewportAnimations();
+    this.initRippleEffects();
   }
 
   /* ========== 渲染收藏 ========== */
@@ -1262,6 +1439,8 @@ class AcademicHub {
     container.className = 'papers-grid';
     container.innerHTML = favorites.map(paper => this.createPaperCard(paper)).join('');
     this.bindCardEvents();
+    this.observeViewportAnimations();
+    this.initRippleEffects();
   }
 
   /* ========== 标题更新 ========== */
@@ -1381,6 +1560,258 @@ class AcademicHub {
     this.renderKeywordCloud();
     this.renderTodayPick();
     this.renderLastUpdated();
+    this.observeViewportAnimations();
+  }
+
+  /* ========== 添加涟漪效果 ========== */
+  addRippleEffect(element) {
+    element.addEventListener('click', function(e) {
+      const ripple = document.createElement('span');
+      ripple.classList.add('ripple');
+      const rect = this.getBoundingClientRect();
+      const size = Math.max(rect.width, rect.height);
+      ripple.style.width = ripple.style.height = `${size}px`;
+      ripple.style.left = `${e.clientX - rect.left - size / 2}px`;
+      ripple.style.top = `${e.clientY - rect.top - size / 2}px`;
+      this.appendChild(ripple);
+      setTimeout(() => ripple.remove(), 600);
+    });
+  }
+
+  /* ========== 初始化涟漪效果 ========== */
+  initRippleEffects() {
+    document.querySelectorAll('.paper-card, .discipline-tag, .view-btn, .batch-btn, .read-more').forEach(el => {
+      this.addRippleEffect(el);
+    });
+  }
+
+  /* ========== 用户认证系统 ========== */
+  loadCurrentUser() {
+    try {
+      return localStorage.getItem('academic-hub-current-user') || null;
+    } catch { return null; }
+  }
+
+  saveCurrentUser(username) {
+    if (username) {
+      localStorage.setItem('academic-hub-current-user', username);
+    } else {
+      localStorage.removeItem('academic-hub-current-user');
+    }
+  }
+
+  initUserSystem() {
+    this.updateUserUI();
+  }
+
+  updateUserUI() {
+    const loginBtn = document.getElementById('loginBtn');
+    const userMenu = document.getElementById('userMenu');
+    const userNameDisplay = document.getElementById('userNameDisplay');
+    if (!loginBtn || !userMenu) return;
+
+    if (this.currentUser) {
+      loginBtn.classList.add('hidden');
+      userMenu.classList.remove('hidden');
+      if (userNameDisplay) userNameDisplay.textContent = this.currentUser;
+    } else {
+      loginBtn.classList.remove('hidden');
+      userMenu.classList.add('hidden');
+    }
+  }
+
+  openAuthModal() {
+    document.getElementById('authModal')?.classList.add('active');
+    this.switchAuthForm('login');
+  }
+
+  closeAuthModal() {
+    document.getElementById('authModal')?.classList.remove('active');
+  }
+
+  switchAuthForm(form) {
+    const loginForm = document.getElementById('authLoginForm');
+    const registerForm = document.getElementById('authRegisterForm');
+    const title = document.getElementById('authModalTitle');
+    if (form === 'register') {
+      loginForm.style.display = 'none';
+      registerForm.style.display = 'block';
+      if (title) title.textContent = '📝 用户注册';
+    } else {
+      loginForm.style.display = 'block';
+      registerForm.style.display = 'none';
+      if (title) title.textContent = '🔐 用户登录';
+    }
+  }
+
+  getUsers() {
+    try {
+      const stored = localStorage.getItem('academic-hub-users');
+      return stored ? JSON.parse(stored) : {};
+    } catch { return {}; }
+  }
+
+  saveUsers(users) {
+    localStorage.setItem('academic-hub-users', JSON.stringify(users));
+  }
+
+  hashPassword(password) {
+    let hash = 0;
+    for (let i = 0; i < password.length; i++) {
+      const char = password.charCodeAt(i);
+      hash = ((hash << 5) - hash) + char;
+      hash = hash & hash;
+    }
+    return String(hash);
+  }
+
+  doLogin() {
+    const username = document.getElementById('loginUsername')?.value.trim();
+    const password = document.getElementById('loginPassword')?.value;
+    if (!username || !password) {
+      this.showToast('请输入用户名和密码', 'error');
+      return;
+    }
+    const users = this.getUsers();
+    if (!users[username]) {
+      this.showToast('用户不存在', 'error');
+      return;
+    }
+    if (users[username].password !== this.hashPassword(password)) {
+      this.showToast('密码错误', 'error');
+      return;
+    }
+    this.currentUser = username;
+    this.saveCurrentUser(username);
+    this.dataManager.setCurrentUser(username);
+    this.updateUserUI();
+    this.closeAuthModal();
+    this.showToast(`欢迎回来，${username}！`, 'success');
+    this.renderStats();
+    if (this.currentSection === 'favorites') this.renderFavorites();
+  }
+
+  doRegister() {
+    const username = document.getElementById('regUsername')?.value.trim();
+    const password = document.getElementById('regPassword')?.value;
+    const password2 = document.getElementById('regPassword2')?.value;
+    if (!username || !password) {
+      this.showToast('请填写完整信息', 'error');
+      return;
+    }
+    if (!/^[a-zA-Z0-9_]{3,20}$/.test(username)) {
+      this.showToast('用户名需3-20位字母/数字/下划线', 'error');
+      return;
+    }
+    if (password.length < 6) {
+      this.showToast('密码至少6位', 'error');
+      return;
+    }
+    if (password !== password2) {
+      this.showToast('两次密码不一致', 'error');
+      return;
+    }
+    const users = this.getUsers();
+    if (users[username]) {
+      this.showToast('用户名已被注册', 'error');
+      return;
+    }
+    users[username] = { password: this.hashPassword(password), createdAt: new Date().toISOString() };
+    this.saveUsers(users);
+    this.currentUser = username;
+    this.saveCurrentUser(username);
+    this.dataManager.setCurrentUser(username);
+    this.updateUserUI();
+    this.closeAuthModal();
+    this.showToast(`注册成功，欢迎 ${username}！`, 'success');
+    this.renderStats();
+  }
+
+  logout() {
+    this.currentUser = null;
+    this.saveCurrentUser(null);
+    this.dataManager.clearCurrentUser();
+    this.updateUserUI();
+    this.showToast('已退出登录', 'info');
+    this.renderStats();
+    if (this.currentSection === 'favorites') this.renderFavorites();
+  }
+
+  openCloudModal() {
+    const stats = document.getElementById('cloudStats');
+    if (stats) {
+      const favCount = this.dataManager.favorites.length;
+      const userLabel = this.currentUser ? `当前用户：<strong>${this.currentUser}</strong>` : '当前状态：<strong>未登录</strong>（收藏保存在本地）';
+      stats.innerHTML = `${userLabel}<br>收藏数量：<strong>${favCount}</strong> 篇`;
+    }
+    document.getElementById('cloudModal')?.classList.add('active');
+  }
+
+  closeCloudModal() {
+    document.getElementById('cloudModal')?.classList.remove('active');
+  }
+
+  exportUserFavorites() {
+    const payload = {
+      version: 1,
+      username: this.currentUser || 'anonymous',
+      exportedAt: new Date().toISOString(),
+      favorites: this.dataManager.favorites,
+      readingHistory: Array.from(this.readingHistory),
+      readProgress: this.readProgress
+    };
+    const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `academic-hub-backup-${this.currentUser || 'local'}-${new Date().toISOString().slice(0, 10)}.json`;
+    a.click();
+    URL.revokeObjectURL(url);
+    this.showToast('收藏备份已导出', 'success');
+    this.audio.playDownload();
+  }
+
+  importUserFavorites(event) {
+    const file = event.target.files?.[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      try {
+        const payload = JSON.parse(e.target.result);
+        if (!payload || !Array.isArray(payload.favorites)) {
+          this.showToast('文件格式不正确', 'error');
+          return;
+        }
+        this.dataManager.favorites = payload.favorites;
+        this.dataManager.saveFavorites();
+        if (payload.readingHistory) {
+          this.readingHistory = new Set(payload.readingHistory);
+          this.saveReadingHistory();
+        }
+        if (payload.readProgress) {
+          this.readProgress = payload.readProgress;
+          this.saveReadProgress();
+        }
+        this.showToast(`成功导入 ${payload.favorites.length} 条收藏`, 'success');
+        this.renderStats();
+        if (this.currentSection === 'favorites') this.renderFavorites();
+        this.closeCloudModal();
+      } catch (err) {
+        this.showToast('导入失败：文件解析错误', 'error');
+      }
+    };
+    reader.readAsText(file);
+    event.target.value = '';
+  }
+
+  clearUserFavorites() {
+    if (!confirm('确定要清空所有收藏吗？此操作不可恢复。')) return;
+    this.dataManager.favorites = [];
+    this.dataManager.saveFavorites();
+    this.showToast('收藏已清空', 'info');
+    this.renderStats();
+    if (this.currentSection === 'favorites') this.renderFavorites();
+    this.closeCloudModal();
   }
 }
 
