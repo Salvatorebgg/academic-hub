@@ -1,11 +1,235 @@
 {
-  "generatedAt": "2026-05-01T08:24:37.033308+00:00",
+  "generatedAt": "2026-05-01T13:53:29.832803+00:00",
   "total": 113,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-eefa6b10df6c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "The Bangui operation: A story of blood, science and biomedical exploitation",
+      "authors": "Medical Xpress",
+      "abstract": "In the early 1990s, a secret HIV vaccine research project was carried out in the Central African Republic. The project didn't yield results and was hidden for many years. Today it sheds light on debates over clinical trials, access to treatment and, more broadly, a specific form of exploitation rarely discussed: biomedical extractivism.",
+      "date": "2026-05-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-bangui-story-blood-science-biomedical.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "biomedical",
+        "exploitation",
+        "project",
+        "bangui",
+        "operation",
+        "story",
+        "blood",
+        "early"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-01T13:53:29.230855+00:00"
+    },
+    {
+      "id": "rss-1b5d93168889",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "What is lipoprotein(a) cholesterol, or Lp(a)? And can you lower yours?",
+      "authors": "Medical Xpress",
+      "abstract": "Most people know about \"good\" and \"bad\" cholesterol. But few realize there is another type called lipoprotein(a). It can raise the risk of heart attacks and strokes, even in people who do everything right.",
+      "date": "2026-05-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-lipoproteina-cholesterol-lpa.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "lipoprotein",
+        "cholesterol",
+        "people",
+        "what",
+        "lower",
+        "yours",
+        "most",
+        "know"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-01T13:53:29.231123+00:00"
+    },
+    {
+      "id": "rss-e01dce435749",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Major depression in women and girls peaks two weeks after giving birth, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "Major depression fluctuates during and after pregnancy but has the highest prevalence two weeks after giving birth, a University of Queensland study has found. Researchers used data from 780 studies, collected from more than 2 million women and girls across 90 countries around the world—the largest mental health study of its kind.",
+      "date": "2026-05-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-major-depression-women-girls-peaks.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "after",
+        "major",
+        "depression",
+        "women",
+        "girls",
+        "weeks",
+        "giving",
+        "birth"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-01T13:53:29.231415+00:00"
+    },
+    {
+      "id": "rss-9722c1dafcdb",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "AI is not your therapist: The importance of seeking mental health care",
+      "authors": "Medical Xpress",
+      "abstract": "Artificial intelligence (AI) is a strong tool that can help with different needs in an instant, but should AI replace or augment mental health specialists? A Baylor College of Medicine psychiatrist outlines how AI can be detrimental to mental health.",
+      "date": "2026-05-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-ai-therapist-importance-mental-health.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "mental",
+        "health",
+        "your",
+        "therapist",
+        "importance",
+        "seeking",
+        "care",
+        "artificial"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-01T13:53:29.231658+00:00"
+    },
+    {
+      "id": "rss-46a9b889edab",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Cystatin C tied to worse heart failure outcomes across ejection fraction spectrum",
+      "authors": "Medical Xpress",
+      "abstract": "Cystatin C (CysC) is an independent risk factor for adverse outcomes in patients with heart failure (HF) across the ejection fraction (EF) spectrum, according to a study published in Clinical Cardiology.",
+      "date": "2026-05-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-cystatin-worse-heart-failure-outcomes.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cystatin",
+        "heart",
+        "failure",
+        "outcomes",
+        "across",
+        "ejection",
+        "fraction",
+        "spectrum"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-01T13:53:29.231975+00:00"
+    },
+    {
+      "id": "rss-71410bb1de0b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Cell-by-cell analysis uncovers 345 risk genes across six neuropsychiatric disorders",
+      "authors": "Medical Xpress",
+      "abstract": "The emergence of neuropsychiatric disorders, conditions that affect various brain functions and behaviors, is known to be driven by an intricate combination of factors. These can include both a genetic predisposition and exposure to traumatic events or other external circumstances.",
+      "date": "2026-05-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-04-cell-analysis-uncovers-genes-neuropsychiatric.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "neuropsychiatric",
+        "disorders",
+        "cell-by-cell",
+        "uncovers",
+        "risk",
+        "genes",
+        "across",
+        "emergence"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-01T13:53:29.232247+00:00"
+    },
+    {
+      "id": "rss-37da4264759c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "How unhealthy ultra‑processed foods are designed and marketed to make us crave them",
+      "authors": "Medical Xpress",
+      "abstract": "Consumption of ultra-processed foods—including soft drinks, snacks and ready meals—is growing worldwide, despite evidence they are unhealthy.",
+      "date": "2026-05-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-unhealthy-ultraprocessed-foods-crave.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "unhealthy",
+        "foods",
+        "ultra",
+        "processed",
+        "designed",
+        "marketed",
+        "make",
+        "crave"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-01T13:53:29.232489+00:00"
+    },
     {
       "id": "rss-8a14e1ee25ef",
       "discipline": "clinical",
@@ -36,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.209706+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.232717+00:00"
     },
     {
       "id": "rss-7b7518e8676b",
@@ -68,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.210017+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.233049+00:00"
     },
     {
       "id": "rss-5dc9b88dba8a",
@@ -100,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.210239+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.233290+00:00"
     },
     {
       "id": "rss-a9224f9b9c95",
@@ -132,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.210509+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.233592+00:00"
     },
     {
       "id": "rss-6ba1b30a6c43",
@@ -164,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.210740+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.233854+00:00"
     },
     {
       "id": "rss-60b05d1a3adf",
@@ -196,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.210974+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.234125+00:00"
     },
     {
       "id": "rss-dfc65434c6bb",
@@ -228,231 +452,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.211225+00:00"
-    },
-    {
-      "id": "rss-1debce52755e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Cervical cancer: Study reveals a growing gap between high- and low-income countries",
-      "authors": "Medical Xpress",
-      "abstract": "While high-income countries like Canada could eliminate cervical cancer by 2048 through human papillomavirus (HPV) vaccination and screening, the gap with lower-income countries is widening. A study published in The Lancet by a team from Université Laval and the CHU de Québec–Université Laval Research Center shows that these inequalities could skyrocket within a few decades if nothing changes in terms of prevention.",
-      "date": "2026-05-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-04-cervical-cancer-reveals-gap-high.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "countries",
-        "cervical",
-        "cancer",
-        "could",
-        "universit",
-        "laval",
-        "reveals",
-        "growing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.211484+00:00"
-    },
-    {
-      "id": "rss-29eb7d6eb705",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "GLP-1 reduces heavy drinking days in treatment seeking people with alcohol use disorder and obesity, finds small trial",
-      "authors": "Medical Xpress",
-      "abstract": "A trial of 108 adults with obesity seeking treatment for alcohol use finds a once-weekly semaglutide injection reduced heavy drinking days in the past 30 days by an average of roughly 12 days, 50% higher than the eight-day reduction seen in the placebo group. The study is published in The Lancet.",
-      "date": "2026-05-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-04-glp-heavy-days-treatment-people.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "days",
-        "heavy",
-        "drinking",
-        "treatment",
-        "seeking",
-        "alcohol",
-        "obesity",
-        "finds"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.211727+00:00"
-    },
-    {
-      "id": "rss-37107bd93b26",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "US may lose measles elimination status after outbreaks spread to 45 states",
-      "authors": "Medical Xpress",
-      "abstract": "After public health experts declared measles eliminated in the U.S. in 2000, the U.S. Centers for Disease Control and Prevention (CDC) established seven indicators of measles elimination status to ensure that the country remained on track. Now, analyzing these same indicators, Boston Children's Hospital researchers find that the U.S. has missed four of the seven criteria, with the others at risk. These findings are published in The Lancet.",
-      "date": "2026-05-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-04-measles-status-outbreaks-states.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "measles",
-        "elimination",
-        "status",
-        "after",
-        "seven",
-        "indicators",
-        "that",
-        "these"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.211971+00:00"
-    },
-    {
-      "id": "rss-4dcbfc7b23ae",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "T cells secrete DNA to boost the immune system's cancer-fighting ability",
-      "authors": "Medical Xpress",
-      "abstract": "Activated immune cells secrete tiny capsules bearing DNA that can enter other immune and tumor cells to stimulate the body's defense systems, according to a study led by investigators at Weill Cornell Medicine. The discovery extends the scientific understanding of the immune system, identifies a new strategy for boosting immunity against cancers and potentially offers a new tool for delivering genetic payloads to other cells.",
-      "date": "2026-05-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-04-cells-secrete-dna-boost-immune.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cells",
-        "immune",
-        "secrete",
-        "system",
-        "other",
-        "boost",
-        "cancer-fighting",
-        "ability"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.212210+00:00"
-    },
-    {
-      "id": "rss-faed32178dcf",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Vegan diet beats Mediterranean diet on emissions and metabolic health in randomized trial",
-      "authors": "Medical Xpress",
-      "abstract": "A new randomized clinical trial provides some of the clearest evidence to date that what we eat can meaningfully reshape both human health and the health of the planet. Researchers have found that a low-fat vegan diet reduced food-related greenhouse gas emissions by 57%—nearly three times more than a Mediterranean diet—while also improving key cardiometabolic outcomes.",
-      "date": "2026-05-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-04-vegan-diet-mediterranean-emissions-metabolic.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "diet",
-        "health",
-        "vegan",
-        "mediterranean",
-        "emissions",
-        "randomized",
-        "trial",
-        "that"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.212463+00:00"
-    },
-    {
-      "id": "rss-b7af44d5c7bc",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Host genetics and sex can steer flu toward greater virulence, mouse experiments reveal",
-      "authors": "Medical Xpress",
-      "abstract": "During the early stages of a pandemic, viruses tend to evolve in ways that enhance their ability to reproduce and spread, rather than to evade the host's immune system. The genetics and sex of the host influence how a novel virus adapts to a new environment, but scientists don't fully understand how these factors work individually or together.",
-      "date": "2026-05-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-04-host-genetics-sex-flu-greater.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "host",
-        "genetics",
-        "steer",
-        "toward",
-        "greater",
-        "virulence",
-        "mouse",
-        "experiments"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.212701+00:00"
-    },
-    {
-      "id": "rss-6852cb48547b",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "How melatonin could improve fertility-preserving ovarian transplants after cancer treatment",
-      "authors": "Medical Xpress",
-      "abstract": "Administering melatonin via an absorbable sponge improved the effectiveness of autologous ovarian tissue transplantation. This procedure is used to preserve the fertility of children and adolescents who have undergone cancer treatment, as well as patients with contraindications or insufficient time for hormonal stimulation and egg retrieval.",
-      "date": "2026-05-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-04-melatonin-fertility-ovarian-transplants-cancer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "melatonin",
-        "ovarian",
-        "cancer",
-        "treatment",
-        "could",
-        "improve",
-        "fertility-preserving",
-        "transplants"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.212918+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.234404+00:00"
     },
     {
       "id": "rss-2cbd30f0bb34",
@@ -484,7 +484,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.307326+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.275302+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -516,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.441191+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.305968+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -548,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.441343+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.306138+00:00"
     },
     {
       "id": "rss-919b10b8db23",
@@ -580,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.307540+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.275582+00:00"
     },
     {
       "id": "rss-b6253b322cd3",
@@ -612,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.307695+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.275768+00:00"
     },
     {
       "id": "rss-cdf485abd36b",
@@ -644,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.307848+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.276001+00:00"
     },
     {
       "id": "rss-7a6c22ad18ce",
@@ -676,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.307991+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.276197+00:00"
     },
     {
       "id": "rss-bfe47758e03d",
@@ -708,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.308137+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.276397+00:00"
     },
     {
       "id": "rss-de212e3c7df5",
@@ -740,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.308271+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.276561+00:00"
     },
     {
       "id": "rss-d559548f7568",
@@ -772,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.308427+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.276736+00:00"
     },
     {
       "id": "rss-a67b755dd53b",
@@ -804,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.308573+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.276934+00:00"
     },
     {
       "id": "rss-619dc8e8206e",
@@ -836,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.308723+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.277096+00:00"
     },
     {
       "id": "rss-e3149022267f",
@@ -868,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.308872+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.277264+00:00"
     },
     {
       "id": "rss-1370e8bb01dd",
@@ -900,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.309003+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.277412+00:00"
     },
     {
       "id": "rss-94834d5f497c",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.309135+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.277561+00:00"
     },
     {
       "id": "rss-ea355d71bf7e",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.309287+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.277733+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.441507+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.306322+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.441705+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.306494+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.441865+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.306666+00:00"
     },
     {
       "id": "rss-cad28f8f7789",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.442010+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.306850+00:00"
     },
     {
       "id": "rss-7bb4be9177ee",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.760079+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.645598+00:00"
     },
     {
       "id": "rss-be4fdeefc9f3",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.760275+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.645837+00:00"
     },
     {
       "id": "rss-1f80c194b5b3",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.760512+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.646107+00:00"
     },
     {
       "id": "rss-c4616f74e164",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.760782+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.646359+00:00"
     },
     {
       "id": "rss-0f84ef3f0583",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.442157+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.307107+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1284,7 +1284,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:28.876200+00:00"
+      "_retrievedAt": "2026-05-01T13:53:23.549127+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1316,7 +1316,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.011859+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.125170+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -1348,7 +1348,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:28.877035+00:00"
+      "_retrievedAt": "2026-05-01T13:53:23.550058+00:00"
     },
     {
       "id": "rss-cb615cfe90b0",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.442326+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.307303+00:00"
     },
     {
       "id": "rss-b26d1f650cd0",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.442472+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.307470+00:00"
     },
     {
       "id": "rss-dc43b38ec903",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.761022+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.646619+00:00"
     },
     {
       "id": "rss-2f8399dc424b",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.761219+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.646858+00:00"
     },
     {
       "id": "rss-6efb6d7b298f",
@@ -1508,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.761381+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.647046+00:00"
     },
     {
       "id": "rss-06ccd931abe2",
@@ -1540,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.761769+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.647458+00:00"
     },
     {
       "id": "rss-34a976fbafa5",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.762467+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.648278+00:00"
     },
     {
       "id": "rss-14c5e4645cbf",
@@ -1604,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.442621+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.307624+00:00"
     },
     {
       "id": "rss-f5670b868fbb",
@@ -1636,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.442777+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.307796+00:00"
     },
     {
       "id": "rss-5feaca0c2fbc",
@@ -1668,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.762980+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.648857+00:00"
     },
     {
       "id": "rss-0d7f4ae03612",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.442915+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.307979+00:00"
     },
     {
       "id": "rss-b91a1b12bf26",
@@ -1732,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.443088+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.308177+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -1764,7 +1764,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:28.874532+00:00"
+      "_retrievedAt": "2026-05-01T13:53:23.547224+00:00"
     },
     {
       "id": "rss-a80fadcb048e",
@@ -1796,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:36.443228+00:00"
+      "_retrievedAt": "2026-05-01T13:53:29.308334+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -1828,7 +1828,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:28.877681+00:00"
+      "_retrievedAt": "2026-05-01T13:53:23.550764+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -1860,7 +1860,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.014498+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.128107+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1892,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:28.876421+00:00"
+      "_retrievedAt": "2026-05-01T13:53:23.549382+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -1924,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:28.875434+00:00"
+      "_retrievedAt": "2026-05-01T13:53:23.548235+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -1956,7 +1956,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:29.387206+00:00"
+      "_retrievedAt": "2026-05-01T13:53:24.361423+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -1988,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.575620+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.755517+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2020,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.576304+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.756236+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2052,7 +2052,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.576728+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.756683+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2084,7 +2084,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:29.387934+00:00"
+      "_retrievedAt": "2026-05-01T13:53:24.362232+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2116,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:29.386334+00:00"
+      "_retrievedAt": "2026-05-01T13:53:24.360423+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -2148,7 +2148,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:28.874835+00:00"
+      "_retrievedAt": "2026-05-01T13:53:23.547544+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -2180,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.579511+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.759569+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -2212,7 +2212,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:29.389609+00:00"
+      "_retrievedAt": "2026-05-01T13:53:24.364076+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -2244,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.013557+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.127059+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -2276,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.577092+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.757116+00:00"
     },
     {
       "id": "openalex-de50ab633493",
@@ -2308,7 +2308,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:28.875134+00:00"
+      "_retrievedAt": "2026-05-01T13:53:23.547895+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -2340,7 +2340,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.577765+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.757875+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -2372,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.578722+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.758676+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -2404,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:29.389153+00:00"
+      "_retrievedAt": "2026-05-01T13:53:24.363558+00:00"
     },
     {
       "id": "openalex-c247601395a1",
@@ -2436,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:29.389439+00:00"
+      "_retrievedAt": "2026-05-01T13:53:24.363893+00:00"
     },
     {
       "id": "openalex-1f86c7cca72a",
@@ -2468,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.579192+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.759220+00:00"
     },
     {
       "id": "openalex-64246eba8b87",
@@ -2500,7 +2500,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.012574+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.125958+00:00"
     },
     {
       "id": "openalex-cbb9e26c0fe2",
@@ -2532,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:29.390226+00:00"
+      "_retrievedAt": "2026-05-01T13:53:24.365172+00:00"
     },
     {
       "id": "openalex-0f905eddbd8d",
@@ -2564,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.013288+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.126732+00:00"
     },
     {
       "id": "openalex-f411a351f7cd",
@@ -2596,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.014169+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.127723+00:00"
     },
     {
       "id": "openalex-4cb2b8c203a9",
@@ -2628,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.016814+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.130722+00:00"
     },
     {
       "id": "openalex-8836692447ce",
@@ -2660,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:29.388840+00:00"
+      "_retrievedAt": "2026-05-01T13:53:24.363222+00:00"
     },
     {
       "id": "openalex-ac6c79930666",
@@ -2692,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.015131+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.128837+00:00"
     },
     {
       "id": "openalex-bb93237a0fcf",
@@ -2724,7 +2724,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:28.875637+00:00"
+      "_retrievedAt": "2026-05-01T13:53:23.548459+00:00"
     },
     {
       "id": "openalex-df339b7a5b5a",
@@ -2756,7 +2756,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:28.876801+00:00"
+      "_retrievedAt": "2026-05-01T13:53:23.549771+00:00"
     },
     {
       "id": "openalex-f990847d1a5f",
@@ -2788,7 +2788,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.012198+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.125528+00:00"
     },
     {
       "id": "openalex-fb70b0770e74",
@@ -2820,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:29.386937+00:00"
+      "_retrievedAt": "2026-05-01T13:53:24.361110+00:00"
     },
     {
       "id": "openalex-a66353e5014b",
@@ -2852,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.013855+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.127376+00:00"
     },
     {
       "id": "openalex-37faa8822ee2",
@@ -2884,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.014839+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.128482+00:00"
     },
     {
       "id": "openalex-a6ab20a42ec7",
@@ -2916,7 +2916,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.012965+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.126377+00:00"
     },
     {
       "id": "openalex-3a1d6ab9d853",
@@ -2948,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.016136+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.129987+00:00"
     },
     {
       "id": "openalex-b68d078f3cf1",
@@ -2980,7 +2980,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:28.873703+00:00"
+      "_retrievedAt": "2026-05-01T13:53:23.546286+00:00"
     },
     {
       "id": "openalex-7e184a0ae4b3",
@@ -3012,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.580037+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.760165+00:00"
     },
     {
       "id": "openalex-27886b005fe6",
@@ -3044,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.015793+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.129571+00:00"
     },
     {
       "id": "openalex-63c861fc15a4",
@@ -3076,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:29.386611+00:00"
+      "_retrievedAt": "2026-05-01T13:53:24.360695+00:00"
     },
     {
       "id": "openalex-7dc17c73a60c",
@@ -3108,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:29.389912+00:00"
+      "_retrievedAt": "2026-05-01T13:53:24.364518+00:00"
     },
     {
       "id": "openalex-089f9f25bc5e",
@@ -3140,14 +3140,14 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.577434+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.757499+00:00"
     },
     {
       "id": "openalex-168d4d7078ef",
       "discipline": "geo",
       "type": "paper",
       "title": "Review article: Exploring methods capturing vulnerability dynamics in the context of flood hazard research",
-      "authors": "Julius Schlumberger, Tristian Stolte, Helena M. Garcia, Antonia Sebastian, Wiebke Jäger, Philip J. Ward",
+      "authors": "Julius Schlumberger, Tristian Stolte, Helena M. Garcia, Antonia Sebastian, W. Jäger, Philip J. Ward",
       "abstract": "Abstract. Flood vulnerability is highly dynamic, shaped by evolving social, economic, physical, and environmental conditions. Yet, most flood risk assessments still treat vulnerability as static, overlooking how these characteristics evolve and interact with one another. Here, we investigate how dynamic vulnerability in the context of flood risk is considered in 67 studies that use (a) indicator-based, (b) curve-based, (c) dynamic simulation models, (d) qualitative analysis, or (e) statistical analysis of sub-dimensions of vulnerability. Specifically, we examine the conceptual focus (ex-post, during the event, ex-ante), the type of dynamics (event-related, underlying, or complexity-caused), the dimensions of vulnerability captured, and the sources of data used. We find that curve-based approaches were used to address all types of dynamics and conceptual foci, but often in connection w...",
       "date": "2026-01-08",
       "year": 2026,
@@ -3172,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.578236+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.758264+00:00"
     },
     {
       "id": "openalex-562a416f2563",
@@ -3204,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.578952+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.758948+00:00"
     },
     {
       "id": "openalex-b519f808f241",
@@ -3236,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.579873+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.759978+00:00"
     },
     {
       "id": "openalex-64d9b2a5ccc3",
@@ -3268,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:29.388188+00:00"
+      "_retrievedAt": "2026-05-01T13:53:24.362511+00:00"
     },
     {
       "id": "openalex-ef452d95d9ef",
@@ -3300,7 +3300,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:28.874242+00:00"
+      "_retrievedAt": "2026-05-01T13:53:23.546894+00:00"
     },
     {
       "id": "openalex-3b58dc407ae2",
@@ -3332,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.015468+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.129233+00:00"
     },
     {
       "id": "openalex-eb4d8e8e2a18",
@@ -3364,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:29.386023+00:00"
+      "_retrievedAt": "2026-05-01T13:53:24.360094+00:00"
     },
     {
       "id": "openalex-ec7d76370d8f",
@@ -3396,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:29.388556+00:00"
+      "_retrievedAt": "2026-05-01T13:53:24.362923+00:00"
     },
     {
       "id": "openalex-367afcaba23d",
@@ -3428,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:29.387550+00:00"
+      "_retrievedAt": "2026-05-01T13:53:24.361801+00:00"
     },
     {
       "id": "openalex-dc7f8fe4e85b",
@@ -3460,7 +3460,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:28.873381+00:00"
+      "_retrievedAt": "2026-05-01T13:53:23.545948+00:00"
     },
     {
       "id": "openalex-88a92cfebc93",
@@ -3492,7 +3492,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:28.874005+00:00"
+      "_retrievedAt": "2026-05-01T13:53:23.546607+00:00"
     },
     {
       "id": "openalex-e8b1c1596000",
@@ -3524,7 +3524,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:28.875899+00:00"
+      "_retrievedAt": "2026-05-01T13:53:23.548746+00:00"
     },
     {
       "id": "openalex-fcf7ba44fa11",
@@ -3556,7 +3556,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:28.877370+00:00"
+      "_retrievedAt": "2026-05-01T13:53:23.550432+00:00"
     },
     {
       "id": "openalex-c458f1ff4bd8",
@@ -3588,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:29.385673+00:00"
+      "_retrievedAt": "2026-05-01T13:53:24.359693+00:00"
     },
     {
       "id": "openalex-cf40ae12f95e",
@@ -3620,7 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-01T08:24:30.576010+00:00"
+      "_retrievedAt": "2026-05-01T13:53:25.755917+00:00"
     }
   ]
 }
