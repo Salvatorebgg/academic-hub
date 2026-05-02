@@ -1,11 +1,139 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-05-02T07:58:51.993030+00:00",
+  "generatedAt": "2026-05-02T13:46:54.386493+00:00",
   "total": 114,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-62a22e7afd5c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "The Bondi Beach terror attack mobilized a team of volunteer medics. Here's what we learned",
+      "authors": "Medical Xpress",
+      "abstract": "Warning: this article contains details of injuries sustained during a terrorist attack.",
+      "date": "2026-05-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-04-bondi-beach-terror-mobilized-team.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "attack",
+        "bondi",
+        "beach",
+        "terror",
+        "mobilized",
+        "team",
+        "volunteer",
+        "medics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-02T13:46:53.370620+00:00"
+    },
+    {
+      "id": "rss-5cfe2aac4654",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "A brownie, a drink, a drive: Hidden impairment standard sobriety tests completely miss",
+      "authors": "Medical Xpress",
+      "abstract": "Johns Hopkins Medicine researchers have added to evidence that using cannabis edibles and alcohol together worsens driving impairment compared with consuming either substance alone. The study also found that cannabis (alone or with alcohol) did not impair performance on standard field sobriety tests.",
+      "date": "2026-05-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-brownie-hidden-impairment-standard-sobriety.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "impairment",
+        "standard",
+        "sobriety",
+        "tests",
+        "that",
+        "cannabis",
+        "alcohol",
+        "alone"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-02T13:46:53.370909+00:00"
+    },
+    {
+      "id": "rss-ca1095c02586",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Blocking stress signals could limit harmful inflammation after heart attack",
+      "authors": "Medical Xpress",
+      "abstract": "After a heart attack, the body rapidly floods the injured heart with neutrophils—white blood cells that help repair damage but can also make it worse when too many arrive too quickly. New research from the University of Oklahoma shows that these early-arriving cells come not from the bone marrow, as long believed, but from a hidden reserve along blood vessel walls. The discovery also identifies a potential way to limit their harmful surge.",
+      "date": "2026-05-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-blocking-stress-limit-inflammation-heart.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "heart",
+        "limit",
+        "harmful",
+        "after",
+        "attack",
+        "blood",
+        "cells",
+        "that"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-02T13:46:53.371232+00:00"
+    },
+    {
+      "id": "rss-3bd26d20b315",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Cold skin, hot heart, one gene: Hidden temperature switch decides where disease appears",
+      "authors": "Medical Xpress",
+      "abstract": "The saying \"cold hands, warm heart\" is usually meant metaphorically—but new research from UC Davis School of Medicine and collaborating institutions suggests it has a striking biological parallel.",
+      "date": "2026-05-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-cold-skin-hot-heart-gene.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cold",
+        "heart",
+        "skin",
+        "gene",
+        "hidden",
+        "temperature",
+        "switch",
+        "decides"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-02T13:46:53.371481+00:00"
+    },
     {
       "id": "rss-6e07bb111f3d",
       "discipline": "clinical",
@@ -36,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.319428+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.371790+00:00"
     },
     {
       "id": "rss-368ced2713d2",
@@ -68,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.319707+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.372047+00:00"
     },
     {
       "id": "rss-8e7d7fcb2019",
@@ -100,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.319929+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.372260+00:00"
     },
     {
       "id": "rss-e1b54c044a22",
@@ -132,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.320165+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.372494+00:00"
     },
     {
       "id": "rss-d9757b0b1bf2",
@@ -164,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.320516+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.372832+00:00"
     },
     {
       "id": "rss-29d79e227b54",
@@ -196,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.320807+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.373112+00:00"
     },
     {
       "id": "rss-0061705a1bba",
@@ -228,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.321110+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.373414+00:00"
     },
     {
       "id": "rss-15a727a6ff11",
@@ -260,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.321461+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.373768+00:00"
     },
     {
       "id": "rss-a1fa128687f5",
@@ -292,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.321707+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.374015+00:00"
     },
     {
       "id": "rss-82bef351489e",
@@ -324,135 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.321924+00:00"
-    },
-    {
-      "id": "rss-bdb9f7155b2a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Why some aplastic anemia patients recover: Protective blood stem cell clones may restore marrow",
-      "authors": "Medical Xpress",
-      "abstract": "Aplastic anemia is a rare, life-threatening blood disorder where patients are unable to make enough blood cells due to the immune system's attack on blood stem cells. The condition can progress to myelodysplastic syndrome (MDS) and leukemia.",
-      "date": "2026-05-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-aplastic-anemia-patients-recover-blood.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "blood",
-        "aplastic",
-        "anemia",
-        "patients",
-        "stem",
-        "cells",
-        "some",
-        "recover"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.322159+00:00"
-    },
-    {
-      "id": "rss-c4e3d438d537",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "A virtual copy of your brain? Scientists say it's closer than you think",
-      "authors": "Medical Xpress",
-      "abstract": "For years, the idea of building a working replica of the human brain has lived comfortably in the realm of science fiction. A digital double that could think, learn, or even predict the future of a person's health seemed more cinematic than scientific.",
-      "date": "2026-05-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-virtual-brain-scientists-closer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "brain",
-        "than",
-        "think",
-        "virtual",
-        "copy",
-        "your",
-        "scientists",
-        "closer"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.322535+00:00"
-    },
-    {
-      "id": "rss-fee28a296f97",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Ticked off: How a bite can turn meat against you",
-      "authors": "Medical Xpress",
-      "abstract": "Mammalian meat allergy (MMA) is one of the few known food allergies caused by an environmental trigger—a tick bite. In simple terms, MMA results in an allergic reaction to red meat, making it difficult or sometimes even impossible for affected individuals to enjoy meat without experiencing adverse symptoms.",
-      "date": "2026-05-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-meat.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "meat",
-        "bite",
-        "ticked",
-        "turn",
-        "against",
-        "mammalian",
-        "allergy",
-        "known"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.322802+00:00"
-    },
-    {
-      "id": "rss-90cdc60cccb4",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Mothers without a specific fatty acid in the blood more often have children with asthma, study reveals",
-      "authors": "Medical Xpress",
-      "abstract": "Shortness of breath, coughing, and respiratory infections. Childhood asthma, also known as asthmatic bronchitis, is one of the most common chronic diseases in children worldwide. But why does the disease develop? Research shows that conditions in the very early phase of life—already during pregnancy—are likely to be decisive.",
-      "date": "2026-05-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-mothers-specific-fatty-acid-blood.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "children",
-        "asthma",
-        "mothers",
-        "without",
-        "specific",
-        "fatty",
-        "acid",
-        "blood"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.323072+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.374227+00:00"
     },
     {
       "id": "rss-a3f04f4cbfae",
@@ -484,7 +484,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.381764+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.474083+00:00"
     },
     {
       "id": "rss-80b97b2c75a2",
@@ -516,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.382008+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.474301+00:00"
     },
     {
       "id": "rss-fa2eac255022",
@@ -548,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.382332+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.474576+00:00"
     },
     {
       "id": "rss-f3635d8f416a",
@@ -580,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.382521+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.474800+00:00"
     },
     {
       "id": "rss-67264a31d215",
@@ -612,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.382771+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.475054+00:00"
     },
     {
       "id": "rss-2cbd30f0bb34",
@@ -644,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.382946+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.475226+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -676,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.522324+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.632526+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -708,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.522502+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.632726+00:00"
     },
     {
       "id": "rss-919b10b8db23",
@@ -740,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.383127+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.475401+00:00"
     },
     {
       "id": "rss-b6253b322cd3",
@@ -772,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.383303+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.475554+00:00"
     },
     {
       "id": "rss-cdf485abd36b",
@@ -804,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.383469+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.475744+00:00"
     },
     {
       "id": "rss-7a6c22ad18ce",
@@ -836,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.383626+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.475901+00:00"
     },
     {
       "id": "rss-bfe47758e03d",
@@ -868,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.383834+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.476060+00:00"
     },
     {
       "id": "rss-de212e3c7df5",
@@ -900,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.383995+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.476208+00:00"
     },
     {
       "id": "rss-d559548f7568",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.384169+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.476380+00:00"
     },
     {
       "id": "rss-a67b755dd53b",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.384364+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.476545+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.522688+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.632924+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.522861+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.633098+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.523039+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.633273+00:00"
     },
     {
       "id": "rss-cad28f8f7789",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.523199+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.633436+00:00"
     },
     {
       "id": "rss-7bb4be9177ee",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.840411+00:00"
+      "_retrievedAt": "2026-05-02T13:46:54.014512+00:00"
     },
     {
       "id": "rss-be4fdeefc9f3",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.840648+00:00"
+      "_retrievedAt": "2026-05-02T13:46:54.014764+00:00"
     },
     {
       "id": "rss-1f80c194b5b3",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.840926+00:00"
+      "_retrievedAt": "2026-05-02T13:46:54.015036+00:00"
     },
     {
       "id": "rss-c4616f74e164",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.841195+00:00"
+      "_retrievedAt": "2026-05-02T13:46:54.015297+00:00"
     },
     {
       "id": "rss-0f84ef3f0583",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.523399+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.633628+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.154675+00:00"
+      "_retrievedAt": "2026-05-02T13:46:48.656968+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:47.555868+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.586114+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.155628+00:00"
+      "_retrievedAt": "2026-05-02T13:46:48.657889+00:00"
     },
     {
       "id": "rss-cb615cfe90b0",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.523589+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.633829+00:00"
     },
     {
       "id": "rss-b26d1f650cd0",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.523754+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.633999+00:00"
     },
     {
       "id": "rss-dc43b38ec903",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.841492+00:00"
+      "_retrievedAt": "2026-05-02T13:46:54.015562+00:00"
     },
     {
       "id": "openalex-477231997c65",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.156293+00:00"
+      "_retrievedAt": "2026-05-02T13:46:48.658517+00:00"
     },
     {
       "id": "rss-2f8399dc424b",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.841721+00:00"
+      "_retrievedAt": "2026-05-02T13:46:54.015815+00:00"
     },
     {
       "id": "rss-6efb6d7b298f",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.841908+00:00"
+      "_retrievedAt": "2026-05-02T13:46:54.016004+00:00"
     },
     {
       "id": "rss-06ccd931abe2",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.842373+00:00"
+      "_retrievedAt": "2026-05-02T13:46:54.016428+00:00"
     },
     {
       "id": "rss-34a976fbafa5",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.843192+00:00"
+      "_retrievedAt": "2026-05-02T13:46:54.017244+00:00"
     },
     {
       "id": "rss-14c5e4645cbf",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.523908+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.634165+00:00"
     },
     {
       "id": "rss-f5670b868fbb",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.524077+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.634340+00:00"
     },
     {
       "id": "rss-5feaca0c2fbc",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.843832+00:00"
+      "_retrievedAt": "2026-05-02T13:46:54.017852+00:00"
     },
     {
       "id": "rss-0d7f4ae03612",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.524246+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.634493+00:00"
     },
     {
       "id": "rss-b91a1b12bf26",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.524451+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.634717+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.153009+00:00"
+      "_retrievedAt": "2026-05-02T13:46:48.655353+00:00"
     },
     {
       "id": "rss-a80fadcb048e",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:51.524606+00:00"
+      "_retrievedAt": "2026-05-02T13:46:53.634874+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.155971+00:00"
+      "_retrievedAt": "2026-05-02T13:46:48.658231+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:48.352076+00:00"
+      "_retrievedAt": "2026-05-02T13:46:50.090926+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:47.558797+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.589402+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.154937+00:00"
+      "_retrievedAt": "2026-05-02T13:46:48.657218+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.154051+00:00"
+      "_retrievedAt": "2026-05-02T13:46:48.656371+00:00"
     },
     {
       "id": "openalex-dd24a0099868",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.157587+00:00"
+      "_retrievedAt": "2026-05-02T13:46:48.659786+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.802676+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.081371+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:48.347407+00:00"
+      "_retrievedAt": "2026-05-02T13:46:50.085291+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:48.347731+00:00"
+      "_retrievedAt": "2026-05-02T13:46:50.085633+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:48.348173+00:00"
+      "_retrievedAt": "2026-05-02T13:46:50.086077+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.803508+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.082207+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.801731+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.079980+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -2240,11 +2240,11 @@ window.LIVE_FEED_DATA = {
         "time"
       ],
       "readTime": "1 min",
-      "citedBy": 21,
+      "citedBy": 22,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.153359+00:00"
+      "_retrievedAt": "2026-05-02T13:46:48.655696+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:48.351090+00:00"
+      "_retrievedAt": "2026-05-02T13:46:50.089926+00:00"
     },
     {
       "id": "openalex-96ee8d992cf1",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:48.352467+00:00"
+      "_retrievedAt": "2026-05-02T13:46:50.091288+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.805382+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.084065+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:47.557742+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.588011+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:48.348598+00:00"
+      "_retrievedAt": "2026-05-02T13:46:50.086473+00:00"
     },
     {
       "id": "openalex-de50ab633493",
@@ -2436,39 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.153705+00:00"
-    },
-    {
-      "id": "openalex-41cd305bd1a4",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Mutational scanning reveals oncogenic CTNNB1 mutations have diverse effects on signaling",
-      "authors": "Anagha Krishna, Alison M Meynert, Karamjit Singh Dolt, Martijn Kelder, Agavni Mesropian, Ailith Ewing",
-      "abstract": "CTNNB1, the gene encoding β-catenin, is a frequent target for oncogenic mutations activating the canonical Wnt signaling pathway, typically through missense mutations within a degron hotspot motif in exon 3. Here, we combine saturation genome editing with a fluorescent reporter assay to quantify signaling phenotypes for all 342 possible missense mutations in the mutation hotspot. Our data define the genetic requirements for β-catenin degron function, refine the consensus motif for substrate recognition by β-TRCP and reveal diverse levels of signal activation among known driver mutations. Tumorigenesis in different human tissues involves selection for CTNNB1 mutations spanning distinct ranges of predicted activity. In hepatocellular carcinoma, mutation effect scores distinguish two tumor subclasses with different levels of β-catenin signaling, and weaker mutations predict greater immun...",
-      "date": "2026-02-01",
-      "year": 2026,
-      "journal": "Nature Genetics",
-      "source": "Nature Genetics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41588-025-02496-5",
-      "doi": "10.1038/s41588-025-02496-5",
-      "pdfUrl": "https://doi.org/10.1038/s41588-025-02496-5",
-      "keywords": [
-        "Biology",
-        "Missense mutation",
-        "Genetics",
-        "Gene",
-        "Carcinogenesis",
-        "Wnt/β-catenin signaling in development and cancer",
-        "Cancer Cells and Metastasis",
-        "Cancer-related Molecular Pathways"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.806420+00:00"
+      "_retrievedAt": "2026-05-02T13:46:48.656035+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -2500,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:48.349371+00:00"
+      "_retrievedAt": "2026-05-02T13:46:50.087256+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -2532,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:48.350177+00:00"
+      "_retrievedAt": "2026-05-02T13:46:50.088098+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -2564,7 +2532,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.804857+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.083531+00:00"
+    },
+    {
+      "id": "openalex-c3a1e2ef4d92",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Digital twins in oncology: From predictive modelling to personalised treatment strategies",
+      "authors": "David B. Olawade, Emmanuel O. Oisakede, Oluwakemi Jumoke Bello, Claret Chinenyenwa Analikwu, Eghosasere Egbon, Adeyinka Ojo",
+      "abstract": "The digital twin (DT) concept, originating from engineering disciplines, has emerged as a transformative technology in healthcare, particularly in oncology. A digital twin creates a dynamic, virtual replica of a patient's physiological and pathological state, integrating multi-dimensional data to enable personalised cancer care. Despite growing interest, comprehensive reviews examining the breadth of DT applications in oncology remain limited. This narrative review aims to synthesise current evidence on digital twin applications in oncology, evaluate their potential to transform cancer care delivery, and identify challenges hindering clinical translation. A comprehensive literature search was conducted across PubMed, Scopus, Web of Science, and IEEE Xplore databases from inception to September 2025. Studies describing DT development, validation, or application in any cancer type were...",
+      "date": "2026-01-30",
+      "year": 2026,
+      "journal": "Critical Reviews in Oncology/Hematology",
+      "source": "Critical Reviews in Oncology/Hematology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.critrevonc.2026.105171",
+      "doi": "10.1016/j.critrevonc.2026.105171",
+      "pdfUrl": "https://doi.org/10.1016/j.critrevonc.2026.105171",
+      "keywords": [
+        "Data science",
+        "Transformative learning",
+        "Narrative review",
+        "Computer science",
+        "Precision medicine",
+        "Digital Transformation in Industry",
+        "Radiomics and Machine Learning in Medical Imaging",
+        "Mathematical Biology Tumor Growth"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-02T13:46:49.591663+00:00"
     },
     {
       "id": "openalex-c247601395a1",
@@ -2596,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.805172+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.083885+00:00"
     },
     {
       "id": "openalex-1f86c7cca72a",
@@ -2628,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:48.350730+00:00"
+      "_retrievedAt": "2026-05-02T13:46:50.088627+00:00"
     },
     {
       "id": "openalex-64246eba8b87",
@@ -2660,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:47.556667+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.586541+00:00"
     },
     {
       "id": "openalex-768268cb2012",
@@ -2692,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.157079+00:00"
+      "_retrievedAt": "2026-05-02T13:46:48.659332+00:00"
     },
     {
       "id": "openalex-cbb9e26c0fe2",
@@ -2724,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.806051+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.084762+00:00"
     },
     {
       "id": "openalex-0f905eddbd8d",
@@ -2756,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:47.557450+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.587709+00:00"
     },
     {
       "id": "openalex-f411a351f7cd",
@@ -2788,39 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:47.558440+00:00"
-    },
-    {
-      "id": "openalex-4cb2b8c203a9",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Gut microbiome–driven colorectal cancer via immune, metabolic, neural, and endocrine axes reprogramming",
-      "authors": "Jhommara Bautista, Mónica Lamas‐Maceiras, Camila Hidalgo-Tinoco, Antonio Guerra-Guerrero, Anapaula Betancourt-Velarde, Andrés López‐Cortés",
-      "abstract": "Colorectal cancer (CRC) is a leading cause of cancer mortality worldwide and is increasingly recognized as the outcome of complex host-microbe interactions. Beyond established genetic and environmental drivers, the gut microbiome has emerged as a causal and mechanistic contributor to CRC initiation, progression, and therapy response. This review synthesizes current molecular, ecological, and translational evidence to explain how gut microbial communities reprogram immune, metabolic, neural, and endocrine networks within the tumor microenvironment. CRC-associated dysbiosis is characterized by enrichment of pathobionts such as Fusobacterium nucleatum, pks⁺ Escherichia coli, and enterotoxigenic Bacteroides fragilis, and by loss of protective, short-chain-fatty-acid-producing commensals. These microbes promote carcinogenesis through genotoxin-induced DNA damage, epithelial barrier disrupt...",
-      "date": "2026-01-23",
-      "year": 2026,
-      "journal": "npj Biofilms and Microbiomes",
-      "source": "npj Biofilms and Microbiomes",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41522-025-00883-8",
-      "doi": "10.1038/s41522-025-00883-8",
-      "pdfUrl": "https://www.nature.com/articles/s41522-025-00883-8_reference.pdf",
-      "keywords": [
-        "Microbiome",
-        "Dysbiosis",
-        "Biology",
-        "Colorectal cancer",
-        "Carcinogenesis",
-        "Gut microbiota and health",
-        "Cancer Research and Treatments",
-        "Immune responses and vaccinations"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:47.561406+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.589040+00:00"
     },
     {
       "id": "openalex-8836692447ce",
@@ -2852,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.804515+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.083191+00:00"
     },
     {
       "id": "openalex-ac6c79930666",
@@ -2880,11 +2848,11 @@ window.LIVE_FEED_DATA = {
         "Autoimmune and Inflammatory Disorders Research"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:47.559520+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.588348+00:00"
     },
     {
       "id": "openalex-bb93237a0fcf",
@@ -2916,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.154319+00:00"
+      "_retrievedAt": "2026-05-02T13:46:48.656624+00:00"
     },
     {
       "id": "openalex-df339b7a5b5a",
@@ -2948,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.155357+00:00"
+      "_retrievedAt": "2026-05-02T13:46:48.657624+00:00"
     },
     {
       "id": "openalex-f990847d1a5f",
@@ -2980,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:47.556254+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.586918+00:00"
     },
     {
       "id": "openalex-fb70b0770e74",
@@ -3012,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.802382+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.080645+00:00"
     },
     {
       "id": "openalex-a66353e5014b",
@@ -3044,7 +3012,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:47.558062+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.588688+00:00"
+    },
+    {
+      "id": "openalex-0aab5e881c06",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Molecular and Immune Mechanisms Governing Cancer Metastasis, Including Dormancy, Microenvironmental Niches, and Tumor-Specific Programs",
+      "authors": "Dae Joong Kim",
+      "abstract": "Metastasis is still the leading cause of cancer-related death. It happens when disseminated tumor cells (DTCs) successfully navigate a series of steps and adapt to the unique conditions of distant organs. In this review, key molecular and immune mechanisms that shape metastatic spread, long-term survival, and eventual outgrowth are examined, with a focus on how tumor-intrinsic programs interact with extracellular matrix (ECM) remodeling, angiogenesis, and immune regulation. Gene networks that sustain tumor-cell plasticity and invasion are described, including EMT-linked transcription factors such as SNAIL and TWIST, as well as broader transcriptional regulators like SP1. Also, how epigenetic mechanisms, such as EZH2 activity, DNA methylation, chromatin remodeling, and noncoding RNAs, lock in pro-metastatic states and support adaptation under therapeutic pressure. Finally, proteases an...",
+      "date": "2026-01-15",
+      "year": 2026,
+      "journal": "International Journal of Molecular Sciences",
+      "source": "International Journal of Molecular Sciences",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/ijms27020875",
+      "doi": "10.3390/ijms27020875",
+      "pdfUrl": "https://www.mdpi.com/1422-0067/27/2/875/pdf?version=1768479985",
+      "keywords": [
+        "Biology",
+        "Epigenetics",
+        "Immune system",
+        "Metastasis",
+        "Chromatin",
+        "Angiogenesis and VEGF in Cancer",
+        "Cancer Cells and Metastasis",
+        "Immune cells in cancer"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-02T13:46:49.082891+00:00"
     },
     {
       "id": "openalex-37faa8822ee2",
@@ -3076,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:47.559164+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.589809+00:00"
     },
     {
       "id": "openalex-a6ab20a42ec7",
@@ -3108,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:47.557074+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.587332+00:00"
     },
     {
       "id": "openalex-3a1d6ab9d853",
@@ -3140,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:47.560669+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.590946+00:00"
     },
     {
       "id": "openalex-b68d078f3cf1",
@@ -3172,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.152345+00:00"
+      "_retrievedAt": "2026-05-02T13:46:48.654725+00:00"
     },
     {
       "id": "openalex-7e184a0ae4b3",
@@ -3204,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:48.351705+00:00"
+      "_retrievedAt": "2026-05-02T13:46:50.090511+00:00"
     },
     {
       "id": "openalex-27886b005fe6",
@@ -3236,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:47.560276+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.590535+00:00"
     },
     {
       "id": "openalex-63c861fc15a4",
@@ -3268,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.802013+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.080266+00:00"
     },
     {
       "id": "openalex-7dc17c73a60c",
@@ -3300,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.805709+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.084393+00:00"
     },
     {
       "id": "openalex-089f9f25bc5e",
@@ -3332,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:48.348988+00:00"
+      "_retrievedAt": "2026-05-02T13:46:50.086901+00:00"
     },
     {
       "id": "openalex-168d4d7078ef",
@@ -3364,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:48.349762+00:00"
+      "_retrievedAt": "2026-05-02T13:46:50.087680+00:00"
     },
     {
       "id": "openalex-562a416f2563",
@@ -3396,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:48.350468+00:00"
+      "_retrievedAt": "2026-05-02T13:46:50.088346+00:00"
     },
     {
       "id": "openalex-b519f808f241",
@@ -3428,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:48.351518+00:00"
+      "_retrievedAt": "2026-05-02T13:46:50.090325+00:00"
     },
     {
       "id": "openalex-8220ec188f46",
@@ -3460,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.156706+00:00"
+      "_retrievedAt": "2026-05-02T13:46:48.658960+00:00"
     },
     {
       "id": "openalex-64d9b2a5ccc3",
@@ -3492,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.803791+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.082491+00:00"
     },
     {
       "id": "openalex-ef452d95d9ef",
@@ -3524,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.152666+00:00"
+      "_retrievedAt": "2026-05-02T13:46:48.655022+00:00"
     },
     {
       "id": "openalex-3b58dc407ae2",
@@ -3556,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:47.559919+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.590198+00:00"
     },
     {
       "id": "openalex-eb4d8e8e2a18",
@@ -3588,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.801361+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.079620+00:00"
     },
     {
       "id": "openalex-ec7d76370d8f",
@@ -3616,11 +3616,11 @@ window.LIVE_FEED_DATA = {
         "Chronic Lymphocytic Leukemia Research"
       ],
       "readTime": "1 min",
-      "citedBy": 4,
+      "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.804194+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.081065+00:00"
     },
     {
       "id": "openalex-367afcaba23d",
@@ -3652,7 +3652,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-02T07:58:46.803057+00:00"
+      "_retrievedAt": "2026-05-02T13:46:49.081775+00:00"
     }
   ]
 };
