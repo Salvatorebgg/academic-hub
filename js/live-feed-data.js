@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-05-05T08:27:15.329515+00:00",
+  "generatedAt": "2026-05-05T14:23:11.114852+00:00",
   "total": 114,
   "sources": [
     "RSS",
@@ -7,452 +7,580 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-29088fc5b8e0",
+      "id": "rss-0d81138ed896",
       "discipline": "clinical",
       "type": "news",
-      "title": "Updated alcohol warning labels may prompt people to cut back, study suggests",
+      "title": "Q&A: Is nicotine really good for you?",
       "authors": "Medical Xpress",
-      "abstract": "Although the United States requires a warning label on alcoholic beverages, alcohol-related deaths have risen steadily over the past two decades. However, new labels warning of specific disease risks, including cancer and liver disease, could better motivate reduced drinking, according to a new study in the Journal of Studies on Alcohol and Drugs.",
+      "abstract": "Science is lying, and nicotine is good for you, according to a wave of new health and wellness influencers, including celebrity fitness coach and former \"Biggest Loser\" host Jillian Michaels and Andrew Huberman, a tenured professor at Stanford University's School of Medicine, best known for his wellness podcast, \"The Huberman Lab.\"",
       "date": "2026-05-05",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-04-alcohol-prompt-people.html",
+      "url": "https://medicalxpress.com/news/2026-05-qa-nicotine-good.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "warning",
-        "alcohol",
-        "labels",
-        "disease",
-        "updated",
-        "prompt",
+        "nicotine",
+        "good",
+        "wellness",
+        "huberman",
+        "really",
+        "lying",
+        "according",
+        "wave"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-05T14:23:10.133497+00:00"
+    },
+    {
+      "id": "rss-ba25c11d4735",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Obesity and Alzheimer's linked by disease-driving metabolic pathways",
+      "authors": "Medical Xpress",
+      "abstract": "By 2030, the population in the United States aged 65 and older is expected to reach 71 million or about 20% of Americans. This growth is likely to increase the burden of age-related diseases, particularly Alzheimer's disease (AD), affecting about 1 in 9 adults over 65.",
+      "date": "2026-05-05",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-obesity-alzheimer-linked-disease-metabolic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "alzheimer",
+        "about",
+        "obesity",
+        "linked",
+        "disease-driving",
+        "metabolic",
+        "pathways",
+        "population"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-05T14:23:10.133834+00:00"
+    },
+    {
+      "id": "rss-6babd84d3dd6",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "The slow burn behind type 2 diabetes revealed",
+      "authors": "Medical Xpress",
+      "abstract": "More than half a billion people worldwide are living with diabetes, the vast majority with type 2 diabetes (T2D), a chronic condition that continues to rise alongside aging populations and changing lifestyles. Despite its prevalence, the cell-type-specific mechanisms that shape beta-cell adaptation and failure over time have remained only partially understood.",
+      "date": "2026-05-05",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-diabetes-revealed.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "diabetes",
+        "type",
+        "that",
+        "slow",
+        "burn",
+        "behind",
+        "revealed",
+        "more"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-05T14:23:10.134117+00:00"
+    },
+    {
+      "id": "rss-150e35223b16",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Hidden muscle fat poses danger to heart and metabolism, deep learning model reveals",
+      "authors": "Medical Xpress",
+      "abstract": "Using a deep learning model to analyze the composition of large muscles on MRI, German researchers found that the proportions of intermuscular fat and lean muscle mass were associated with high blood pressure and unhealthy lipid and blood sugar levels. Results of the study were published in Radiology.",
+      "date": "2026-05-05",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-hidden-muscle-fat-poses-danger.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "muscle",
+        "deep",
+        "learning",
+        "were",
+        "blood",
+        "hidden",
+        "poses",
+        "danger"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-05T14:23:10.134417+00:00"
+    },
+    {
+      "id": "rss-227c443ac2c1",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "AI model analyzes body composition to predict health risks",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers used AI to analyze whole-body MRI scans from more than 66,000 participants to create the most detailed reference map to date of how fat and muscle are distributed in the human body across age, sex, and height. The study was published in Radiology. Results of the study show that the quality and amount of skeletal muscle, not just visceral fat, are strong predictors of diabetes, major cardiovascular events, and mortality.",
+      "date": "2026-05-05",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-ai-body-composition-health.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "body",
+        "muscle",
+        "analyzes",
+        "composition",
+        "predict",
+        "health",
+        "risks",
+        "researchers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-05T14:23:10.134744+00:00"
+    },
+    {
+      "id": "rss-4d9c815511ef",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Inside the brains of 800 incarcerated men: High psychopathy linked to expanded brain surface area",
+      "authors": "Medical Xpress",
+      "abstract": "People with high levels of psychopathic tendencies are often incapable of feeling empathy for other people. From a brain science perspective, empathy isn't a single emotion but a multi-part neural process. It involves brain systems that help us share others' feelings, understand their perspectives, and even mentally step into their experience.",
+      "date": "2026-05-05",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-brains-incarcerated-men-high-psychopathy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "high",
         "people",
-        "back"
+        "empathy",
+        "their",
+        "inside",
+        "brains",
+        "incarcerated"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.622765+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.135025+00:00"
     },
     {
-      "id": "rss-1303784b0684",
+      "id": "rss-cb8403b209dc",
       "discipline": "clinical",
       "type": "news",
-      "title": "Biodegradable, all-metal microrobots could transform drug delivery and biopsy procedures",
+      "title": "Unmasking autism spectrum disorder through its gene-based roots",
       "authors": "Medical Xpress",
-      "abstract": "A swarm of tiny, shape-changing, all-metal robots might someday deliver drugs and capture biopsy samples painlessly and then safely dissolve without the need for extraction, according to a study presented at Digestive Disease Week (DDW) 2026.",
+      "abstract": "Two studies led by the Chahrour Lab at UT Southwestern Medical Center shed new light on genes associated with autism spectrum disorder (ASD), the neurodevelopmental disease characterized by impaired communication, abnormal social interactions, and restricted, repetitive behaviors. The findings could lead to improved diagnostic tests and therapies that can treat ASD at its genetic roots.",
       "date": "2026-05-05",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-biodegradable-metal-microrobots-drug-delivery.html",
+      "url": "https://medicalxpress.com/news/2026-05-unmasking-autism-spectrum-disorder-gene.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "all-metal",
-        "biopsy",
-        "biodegradable",
-        "microrobots",
-        "could",
-        "transform",
-        "drug",
-        "delivery"
+        "autism",
+        "spectrum",
+        "disorder",
+        "roots",
+        "unmasking",
+        "gene-based",
+        "studies",
+        "chahrour"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.623030+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.135346+00:00"
     },
     {
-      "id": "rss-4b1e218822f5",
+      "id": "rss-d7a6cfc0bf52",
       "discipline": "clinical",
       "type": "news",
-      "title": "Combination therapy could improve outcomes in the most difficult-to-treat patients with inflammatory bowel disease",
+      "title": "Sodium can sneak up on anyone—even an expert who knows its dangers",
       "authors": "Medical Xpress",
-      "abstract": "For patients with Crohn's disease or ulcerative colitis who have exhausted other treatment options, a new combination therapy is showing results that offer hope for one of medicine's most treatment-resistant populations, according to findings from two studies presented at Digestive Disease Week (DDW) 2026.",
+      "abstract": "Sodium can catch anyone by surprise—even a hypertension specialist like Dr. Jennifer Cluett. Cluett knows all about high blood pressure. She's a practicing primary care physician, an assistant professor of medicine at Harvard Medical School and the medical director of the Complex Hypertension Clinic at Beth Israel Deaconess Medical Center in Boston.",
       "date": "2026-05-05",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-combination-therapy-outcomes-difficult-patients.html",
+      "url": "https://medicalxpress.com/news/2026-05-sodium-expert-dangers.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
+        "medical",
+        "sodium",
+        "anyone",
+        "even",
+        "knows",
+        "hypertension",
+        "cluett",
+        "sneak"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-05T14:23:10.135668+00:00"
+    },
+    {
+      "id": "rss-3e9fec589a3d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Understanding what stereotypies are—And what they aren't",
+      "authors": "Medical Xpress",
+      "abstract": "Olivia was around 5 months old when her parents, Danielle and Brendan Collins, noticed she was making unusual movements. \"She would redirect her gaze up and hold it there,\" says Danielle. \"She would also stiffen her body.\" Because these types of behaviors can fade as a child gets older, the family's pediatrician recommended waiting to see if that would be the case for Olivia.",
+      "date": "2026-05-05",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-stereotypies.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "would",
+        "what",
+        "olivia",
+        "danielle",
+        "understanding",
+        "stereotypies",
+        "they",
+        "aren"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-05T14:23:10.135993+00:00"
+    },
+    {
+      "id": "rss-d3e20d9c4836",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Egg consumption associated with a lower risk of Alzheimer's disease",
+      "authors": "Medical Xpress",
+      "abstract": "Consumption of eggs is associated with a lower risk of being diagnosed with Alzheimer's disease for those 65 years and older, according to researchers at Loma Linda University Health. Eating one egg per day for at least five days a week reduces the risk of Alzheimer's by up to 27%, researchers found.",
+      "date": "2026-05-05",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-egg-consumption-alzheimer-disease.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "risk",
+        "alzheimer",
+        "consumption",
+        "associated",
+        "lower",
         "disease",
-        "combination",
-        "therapy",
-        "most",
-        "patients",
-        "could",
-        "improve",
-        "outcomes"
+        "researchers",
+        "eggs"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.623287+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.136268+00:00"
     },
     {
-      "id": "rss-eb40156a7fea",
+      "id": "rss-5a2d01b98201",
       "discipline": "clinical",
       "type": "news",
-      "title": "When natural disasters strike, another crisis hits those recovering from opioid addiction",
+      "title": "Mental images directly linked to vaccine hesitancy and uptake in pregnant women",
       "authors": "Medical Xpress",
-      "abstract": "A day after Hurricane Helene ripped through western North Carolina in late September 2024, Toni Brewer had no power or water. The storm had strewn fallen trees across most roads, wiped out phone and internet communications, and put some neighborhoods near her Asheville home underwater.",
+      "abstract": "New international research shows vivid mental images experienced by pregnant women when they think about vaccination directly influence their decision about whether or not to get vaccinated. Led by researchers from The University of Western Australia and the University of Plymouth in the United Kingdom, the study is the first to investigate the prevalence of vaccination-related mental imagery during pregnancy and link it to both vaccine hesitancy and vaccination behavior.",
       "date": "2026-05-05",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-natural-disasters-crisis-recovering-opioid.html",
+      "url": "https://medicalxpress.com/news/2026-05-mental-images-linked-vaccine-hesitancy.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "when",
-        "natural",
-        "disasters",
-        "strike",
-        "another",
-        "crisis",
-        "hits",
-        "those"
+        "mental",
+        "images",
+        "directly",
+        "vaccine",
+        "hesitancy",
+        "pregnant",
+        "women",
+        "about"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.623520+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.136570+00:00"
     },
     {
-      "id": "rss-9b3e7f66f7a7",
+      "id": "rss-b19a665ad2cd",
       "discipline": "clinical",
       "type": "news",
-      "title": "FDA grants expanded access to the pancreatic cancer drug daraxonrasib",
+      "title": "New research shows primary care training improves dementia detection",
       "authors": "Medical Xpress",
-      "abstract": "The U.S. Food and Drug Administration (FDA) has granted expanded access for the use of an experimental pancreatic cancer drug, daraxonrasib. This means the drug will be available for early access to those who previously received conventional treatment for metastatic pancreatic ductal adenocarcinoma (PDAC). A health care provider must request access to the medication for their patient, according to an FDA statement.",
+      "abstract": "As Alzheimer's disease and other dementias continue to rise nationwide, new research shows that equipping primary care providers with focused dementia training and embedding clinical decision-support tools directly into the electronic medical record (EMR) can significantly improve dementia diagnosis and care.",
       "date": "2026-05-05",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-fda-grants-access-pancreatic-cancer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "access",
-        "drug",
-        "pancreatic",
-        "expanded",
-        "cancer",
-        "daraxonrasib",
-        "grants",
-        "food"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.623759+00:00"
-    },
-    {
-      "id": "rss-424686ed2e71",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Maternal RSV vaccination and infant nirsevimab immunization found safe and effective",
-      "authors": "Medical Xpress",
-      "abstract": "Maternal respiratory syncytial virus (RSV) vaccination and infant nirsevimab immunization, administered alone or sequentially, are safe and effective, according to a study published online May 4 in Pediatrics.",
-      "date": "2026-05-05",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-maternal-rsv-vaccination-infant-nirsevimab.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "maternal",
-        "vaccination",
-        "infant",
-        "nirsevimab",
-        "immunization",
-        "safe",
-        "effective",
-        "found"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.623951+00:00"
-    },
-    {
-      "id": "rss-f4b25f80fa92",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "ASBrS: Robotic nipple-sparing mastectomy safe, effective in early breast cancer",
-      "authors": "Medical Xpress",
-      "abstract": "For patients with early-stage breast cancer, robotic nipple-sparing mastectomy (rNSM) is as safe and effective as open NSM, according to a study presented at the annual meeting of the American Society of Breast Surgeons, held from April 29 to May 3 in Seattle.",
-      "date": "2026-05-05",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-asbrs-robotic-nipple-mastectomy-safe.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "breast",
-        "robotic",
-        "nipple-sparing",
-        "mastectomy",
-        "safe",
-        "effective",
-        "cancer",
-        "asbrs"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.624180+00:00"
-    },
-    {
-      "id": "rss-e6c449520cb3",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New guidelines help long-term care communities support residents' intimacy and dignity",
-      "authors": "Medical Xpress",
-      "abstract": "Intimacy doesn't disappear in long-term care, but clear guidance on how to support it often does. A new paper outlines a practical framework for how organizations can move from uncertainty and inconsistency to a structured, ethical approach that respects residents' autonomy while protecting their safety. At the heart of the model is the creation of a dedicated sexual health committee, a multidisciplinary team charged with developing policies, guiding staff, and helping communities navigate one of the most sensitive—and often avoided—aspects of care.",
-      "date": "2026-05-05",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-guidelines-term-communities-residents-intimacy.html",
+      "url": "https://medicalxpress.com/news/2026-05-primary-dementia.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "care",
-        "long-term",
-        "communities",
-        "support",
-        "residents",
-        "intimacy",
-        "often",
-        "guidelines"
+        "dementia",
+        "shows",
+        "primary",
+        "training",
+        "improves",
+        "detection",
+        "alzheimer"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.624484+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.136857+00:00"
     },
     {
-      "id": "rss-562caa2f0dea",
+      "id": "rss-c5c2191f5e1a",
       "discipline": "clinical",
       "type": "news",
-      "title": "Severe asthma linked to increased mortality",
+      "title": "Minor federal fines offer little deterrence to insurers for Medicare Advantage violations, study finds",
       "authors": "Medical Xpress",
-      "abstract": "Thanks to improved treatments, many people with asthma live good lives. However, for a smaller group—those with severe asthma—the picture is different. A new study within the Nordic research collaboration NORDSTAR, based on data from more than 11,000 patients, shows that the risk of death is significantly higher in this group. In fact, people with severe asthma have nearly twice the risk of dying prematurely compared to other asthma patients, according to the study published in the European Respiratory Journal.",
+      "abstract": "A new study from health policy researchers at the Brown University School of Public Health suggests that while regulators have several tools at their disposal to penalize insurance plans that break the rules, they rely mostly on relatively small financial penalties that may do little to deter violations.",
       "date": "2026-05-05",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-severe-asthma-linked-mortality.html",
+      "url": "https://medicalxpress.com/news/2026-05-minor-federal-fines-deterrence-medicare.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "asthma",
-        "severe",
-        "people",
-        "group",
-        "patients",
-        "risk",
-        "linked",
-        "increased"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.624764+00:00"
-    },
-    {
-      "id": "rss-b4efa0bff4df",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Maintaining a healthy heart may require regular doses of positivity",
-      "authors": "Medical Xpress",
-      "abstract": "Positive psychology interventions such as mindfulness, gratitude journaling, and optimism training can consistently improve blood pressure, inflammation markers, and other cardiovascular disease risk factors within a matter of weeks, a recent study has found. However, since these benefits are associated with lifestyle changes such as eating healthier and greater physical activity, the researchers suggest that ongoing reinforcements may be needed to stay on course for the long term.",
-      "date": "2026-05-05",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-healthy-heart-require-regular-doses.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "such",
-        "maintaining",
-        "healthy",
-        "heart",
-        "require",
-        "regular",
-        "doses",
-        "positivity"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.625008+00:00"
-    },
-    {
-      "id": "rss-a44ab7b471e0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Cannabis leads US microdosing, with 24.1 million adults reporting lifetime use",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers from University of California San Diego have found that microdosing—taking very small amounts of psychoactive substances—is more common among U.S. adults than previously recognized, with cannabis leading by a wide margin. The study, published in the American Journal of Preventive Medicine, estimates that millions of Americans have microdosed substances such as cannabis, psilocybin, LSD (\"acid\") and MDMA (\"ecstasy\").",
-      "date": "2026-05-05",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-cannabis-microdosing-million-adults-lifetime.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cannabis",
-        "microdosing",
-        "adults",
-        "have",
         "that",
-        "substances",
-        "leads",
-        "million"
+        "little",
+        "violations",
+        "health",
+        "minor",
+        "federal",
+        "fines",
+        "offer"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.625279+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.137108+00:00"
     },
     {
-      "id": "rss-503667e73ed7",
+      "id": "rss-a04e052a9e4d",
       "discipline": "clinical",
       "type": "news",
-      "title": "Enzyme shields triple-negative breast cancer cells from replication stress",
+      "title": "Why risk perception matters for quitting smoking",
       "authors": "Medical Xpress",
-      "abstract": "Researchers at The University of Texas MD Anderson Cancer Center have identified a key enzyme—RNase H2—that helps triple-negative breast cancer (TNBC) cells survive high levels of DNA replication stress. Because many breast cancer therapies work by causing replication stress, these results suggest RNase H2 is a promising treatment target.",
+      "abstract": "Cigarettes are one of the deadliest products on the market—but the risks of alternatives are not always clearly understood. That disconnect came into sharp focus in 2019, when headlines warned of a mysterious and sometimes deadly lung illness linked to vaping, sending patients to the hospital with severe breathing problems. The coverage fueled widespread concern, and many smokers began to mistakenly view e-cigarettes as just as or more dangerous than traditional cigarettes.",
       "date": "2026-05-05",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-enzyme-shields-triple-negative-breast.html",
+      "url": "https://medicalxpress.com/news/2026-05-perception.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cancer",
-        "breast",
-        "replication",
-        "stress",
-        "enzyme",
-        "triple-negative",
-        "cells",
-        "rnase"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.625507+00:00"
-    },
-    {
-      "id": "rss-e9e616e3ad8d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Online misinformation adding to Americans' skin cancer risk, survey finds",
-      "authors": "Medical Xpress",
-      "abstract": "Misinformation is putting more than 16 million Americans at increased risk for skin cancer, a new American Academy of Dermatology (AAD) survey has concluded.",
-      "date": "2026-05-05",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-online-misinformation-adding-americans-skin.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "misinformation",
-        "americans",
-        "skin",
-        "cancer",
+        "cigarettes",
         "risk",
-        "survey",
-        "online",
-        "adding"
+        "perception",
+        "matters",
+        "quitting",
+        "smoking",
+        "deadliest",
+        "products"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.625692+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.137464+00:00"
     },
     {
-      "id": "rss-b9dac554f39c",
-      "discipline": "clinical",
+      "id": "rss-d3ffec167378",
+      "discipline": "cs",
       "type": "news",
-      "title": "Big Brothers Big Sisters linked to lower violence and substance use among youth",
-      "authors": "Medical Xpress",
-      "abstract": "Mentorship programs are valued by parents and communities for their ability to improve the self-esteem and relationships of youth participants. Now, new research from the University of Illinois Chicago shows that kids who participate in Big Brothers Big Sisters, the oldest and largest such program in the United States, are less likely to engage in violent behavior or substance use than those who don't.",
+      "title": "ElevenLabs lists BlackRock, Jamie Foxx and Longoria as new investors",
+      "authors": "TechCrunch AI",
+      "abstract": "4. ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
       "date": "2026-05-05",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-big-brothers-sisters-linked-violence.html",
+      "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-longoria-as-new-investors/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "brothers",
-        "sisters",
-        "substance",
-        "youth",
-        "linked",
-        "lower",
-        "violence",
-        "among"
+        "elevenlabs",
+        "investors",
+        "lists",
+        "blackrock",
+        "jamie",
+        "foxx",
+        "longoria",
+        "reveals"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.625927+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.271507+00:00"
+    },
+    {
+      "id": "rss-48a7ddf70283",
+      "discipline": "cs",
+      "type": "news",
+      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+      "authors": "TechCrunch AI",
+      "abstract": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX and SignalFire, TechCrunch has exclusively learned.",
+      "date": "2026-05-05",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "copilotkit",
+        "raises",
+        "help",
+        "devs",
+        "deploy",
+        "app-native",
+        "agents",
+        "seattle-based"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-05T14:23:10.271708+00:00"
+    },
+    {
+      "id": "rss-a33ad79a8f14",
+      "discipline": "cs",
+      "type": "news",
+      "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
+      "authors": "TechCrunch AI",
+      "abstract": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. That window closes May 8 at 11:59 p.m. PT. After that, prices go up, and you’ll pay more to bring a partner or colleague. Register today to get your plus-one pass at 50% off.",
+      "date": "2026-05-05",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "pass",
+        "days",
+        "second",
+        "techcrunch",
+        "disrupt",
+        "more",
+        "that",
+        "left"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-05T14:23:10.271925+00:00"
+    },
+    {
+      "id": "rss-6fdd2f2de7f7",
+      "discipline": "cs",
+      "type": "news",
+      "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
+      "authors": "TechCrunch AI",
+      "abstract": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India.",
+      "date": "2026-05-05",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "india",
+        "cloud",
+        "first",
+        "genai",
+        "unicorn",
+        "shifts",
+        "services",
+        "ambitions"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-05T14:23:10.272084+00:00"
     },
     {
       "id": "rss-2d5c27f51454",
@@ -484,7 +612,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.660006+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.272235+00:00"
+    },
+    {
+      "id": "rss-eaba9e2355ac",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Behind every impactful NOAA Ocean Guardian School project is an Ocean Guardian teacher",
+      "authors": "NOAA News",
+      "abstract": "Behind every impactful NOAA Ocean Guardian School project is an Ocean Guardian teacher Wetland observation with students and teacher. (Image credit: Courtesy of NOAA Office of National Marine Sanctuaries, Lisa de Kozan/Mark West Elementary School) Download Image May 5, 2026 For National Teacher Appreciation Day, NOAA's Office of National Marine Sanctuaries would like to honor all of the dedicated educators who lead ocean stewardship efforts across the country. Education Office of Education 0 Off",
+      "date": "2026-05-05",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/office-education/news/behind-every-impactful-noaa-ocean-guardian-school-project-is-ocean-guardian-teacher-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "ocean",
+        "noaa",
+        "guardian",
+        "teacher",
+        "school",
+        "office",
+        "national",
+        "behind"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-05T14:23:10.795538+00:00"
     },
     {
       "id": "rss-5cea80c3fecf",
@@ -516,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.660262+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.272399+00:00"
     },
     {
       "id": "rss-48d5c7e37cfd",
@@ -548,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.660420+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.272543+00:00"
     },
     {
       "id": "rss-a36a814c303e",
@@ -580,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.660564+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.272688+00:00"
     },
     {
       "id": "rss-0627475af6de",
@@ -612,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.660716+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.272842+00:00"
     },
     {
       "id": "rss-de494bc04ca2",
@@ -644,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.660868+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.272994+00:00"
     },
     {
       "id": "rss-e5f858901d81",
@@ -676,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.660999+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.273129+00:00"
     },
     {
       "id": "rss-cf44491b37be",
@@ -708,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.661166+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.273283+00:00"
     },
     {
       "id": "rss-b62ed52b4c5b",
@@ -740,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.661308+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.273440+00:00"
     },
     {
       "id": "rss-519f3b4c1f1d",
@@ -772,135 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.661442+00:00"
-    },
-    {
-      "id": "rss-ef16ae61daed",
-      "discipline": "cs",
-      "type": "news",
-      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-      "authors": "TechCrunch AI",
-      "abstract": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
-      "date": "2026-05-03",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "more",
-        "accurate",
-        "emergency",
-        "room",
-        "than",
-        "human",
-        "doctors",
-        "harvard"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.661598+00:00"
-    },
-    {
-      "id": "rss-3daf05c933cb",
-      "discipline": "cs",
-      "type": "news",
-      "title": "AI-generated actors and scripts are now ineligible for Oscars",
-      "authors": "TechCrunch AI",
-      "abstract": "The Academy of Motion Picture Arts and Sciences said that only performances “credited in the film’s legal billing and demonstrably performed by humans with their consent” will be eligible for Academy Awards.",
-      "date": "2026-05-02",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "academy",
-        "ai-generated",
-        "actors",
-        "scripts",
-        "ineligible",
-        "oscars",
-        "motion",
-        "picture"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.661752+00:00"
-    },
-    {
-      "id": "rss-849b7ec916ee",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The best AI dictation apps, tested and ranked",
-      "authors": "TechCrunch AI",
-      "abstract": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-      "date": "2026-05-02",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "dictation",
-        "apps",
-        "best",
-        "tested",
-        "ranked",
-        "ai-powered",
-        "useful",
-        "replying"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.661873+00:00"
-    },
-    {
-      "id": "rss-a3f04f4cbfae",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-      "authors": "TechCrunch AI",
-      "abstract": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: In a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell?",
-      "date": "2026-05-01",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "replit",
-        "cursor",
-        "sell",
-        "amjad",
-        "masad",
-        "deal",
-        "fighting",
-        "apple"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.662056+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.273580+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -932,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.691398+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.450788+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -964,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.691556+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.450939+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -996,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.691724+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.451101+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1028,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.691877+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.451251+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1060,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.692029+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.451436+00:00"
     },
     {
       "id": "rss-cad28f8f7789",
@@ -1092,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.692188+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.451584+00:00"
     },
     {
       "id": "rss-13388a8e5f35",
@@ -1124,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:15.046266+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.796006+00:00"
     },
     {
       "id": "rss-7bb4be9177ee",
@@ -1156,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:15.046473+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.796180+00:00"
     },
     {
       "id": "rss-be4fdeefc9f3",
@@ -1188,7 +1220,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:15.046671+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.796358+00:00"
+    },
+    {
+      "id": "openalex-239a44a48c00",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "authors": "Bourlon, Fabien, Bregolin, Michel, Rudzewicz, Laura",
+      "abstract": "Rosa dos Ventos abrange aspectos relacionados ao Turismo e a Hospitalidade, com foco na Educação, Epistemologia, Gastronomia, Gestão, Cultura e Meio Ambiente, em visão multidisciplinar do fenômeno turístico",
+      "date": "2026-04-28",
+      "year": 2026,
+      "journal": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "source": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.18226/21789061",
+      "doi": "10.18226/21789061",
+      "pdfUrl": "https://doi.org/10.18226/21789061",
+      "keywords": [
+        "Humanities",
+        "Political science",
+        "Art",
+        "Diverse Aspects of Tourism Research",
+        "Social and Economic Solidarity",
+        "Hospitality and Tourism Education",
+        "rosa",
+        "ventos"
+      ],
+      "readTime": "1 min",
+      "citedBy": 134,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-05T14:23:06.517443+00:00"
     },
     {
       "id": "rss-1f80c194b5b3",
@@ -1220,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:15.046911+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.796596+00:00"
     },
     {
       "id": "rss-c4616f74e164",
@@ -1252,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:15.047164+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.796819+00:00"
     },
     {
       "id": "rss-0f84ef3f0583",
@@ -1284,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.692333+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.451729+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1316,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:10.720559+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.358193+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1348,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.565083+00:00"
+      "_retrievedAt": "2026-05-05T14:23:05.609462+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -1380,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:10.721439+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.359024+00:00"
     },
     {
       "id": "rss-cb615cfe90b0",
@@ -1412,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.692498+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.451895+00:00"
     },
     {
       "id": "rss-b26d1f650cd0",
@@ -1444,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.692638+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.452041+00:00"
     },
     {
       "id": "rss-dc43b38ec903",
@@ -1476,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:15.047419+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.797046+00:00"
     },
     {
       "id": "openalex-477231997c65",
@@ -1508,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:10.722321+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.359852+00:00"
     },
     {
       "id": "rss-2f8399dc424b",
@@ -1540,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:15.047628+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.797241+00:00"
     },
     {
       "id": "rss-6efb6d7b298f",
@@ -1572,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:15.047796+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.797424+00:00"
     },
     {
       "id": "rss-06ccd931abe2",
@@ -1604,39 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:15.048241+00:00"
-    },
-    {
-      "id": "rss-34a976fbafa5",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Scientists reveal identity of mysterious ‘golden orb’ collected during NOAA expedition",
-      "authors": "NOAA News",
-      "abstract": "Scientists reveal identity of mysterious ‘golden orb’ collected during NOAA expedition A close up image of the “golden orb” in the lab of the Smithsonian Institution. Following collection, the orb sample was officially accessioned as part of the Invertebrate Zoology Collection offsite link at the Smithsonian Institution’s National Museum of Natural History. The museum catalogs, curates and makes biological samples collected during expeditions on NOAA Ship Okeanos Explorer publicly available. The orb is USNM_IZ_1699903 offsite link within the museum collection. (Image credit: NOAA Fisheries) Download Image April 22, 2026 A two-and-a-half-year-old mystery of the \"golden orb,\" an unidentified object that captured significant public interest when it was collected during a 2023 NOAA expedition, has finally been solved. Scientists have determined that the mysterious golden mass offsite link...",
-      "date": "2026-04-21",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news/scientists-reveal-identity-of-mysterious-golden-orb-collected-during-noaa-expedition",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "golden",
-        "noaa",
-        "collected",
-        "during",
-        "scientists",
-        "mysterious",
-        "expedition",
-        "image"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:15.049083+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.797798+00:00"
     },
     {
       "id": "rss-14c5e4645cbf",
@@ -1668,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.692772+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.452227+00:00"
     },
     {
       "id": "rss-f5670b868fbb",
@@ -1700,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.692919+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.452788+00:00"
     },
     {
       "id": "rss-0d7f4ae03612",
@@ -1732,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.693052+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.452944+00:00"
     },
     {
       "id": "rss-b91a1b12bf26",
@@ -1764,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.693245+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.453122+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -1796,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:10.719076+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.357086+00:00"
     },
     {
       "id": "rss-a80fadcb048e",
@@ -1828,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:14.693385+00:00"
+      "_retrievedAt": "2026-05-05T14:23:10.453262+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -1860,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:10.721757+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.359325+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -1892,39 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:10.722033+00:00"
-    },
-    {
-      "id": "openalex-f76e6332afee",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Integrating Computer Vision and GIS for Large-Scale Morphological Mapping and Driving Force Analysis of Vernacular Courtyard Dwellings",
-      "authors": "Lihua Liang, Xiaodong Li, Shutong Liu, Zhenhao Guo, Shuo Tang, Baohua Wen",
-      "abstract": "This study develops and applies an integrated methodology that combines deep learning-based computer vision and spatial statistics to automate the large-scale identification and analysis of morphological features in vernacular courtyard dwellings. Focusing on Liangshuaixiu dwellings in Wu’an, southern Hebei, we trained an HRNetV2 semantic segmentation model on high-resolution satellite imagery to identify and extract contours for 134,280 courtyard spaces. Core morphological parameters (area, orientation) were calculated and analyzed using GIS spatial statistics and the geographic detector model. The results show that (1) the computer vision pipeline achieved efficient recognition with satisfactory accuracy (~10% mean error); (2) spatial autocorrelation and hotspot analysis revealed distinct regional patterns, including a west–east increase in average courtyard area; and (3) geographic...",
-      "date": "2026-03-11",
-      "year": 2026,
-      "journal": "Buildings",
-      "source": "Buildings",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/buildings16061118",
-      "doi": "10.3390/buildings16061118",
-      "pdfUrl": "https://www.mdpi.com/2075-5309/16/6/1118/pdf?version=1773320289",
-      "keywords": [
-        "Vernacular",
-        "Segmentation",
-        "Geography",
-        "Spatial analysis",
-        "Computer science",
-        "Urban Design and Spatial Analysis",
-        "3D Surveying and Cultural Heritage",
-        "Remote Sensing and LiDAR Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:12.136858+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.359597+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.568217+00:00"
+      "_retrievedAt": "2026-05-05T14:23:05.612793+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:10.720800+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.358422+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:10.718505+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.356218+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:10.720012+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.357692+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.127774+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.911872+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2116,14 +2116,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:12.132427+00:00"
+      "_retrievedAt": "2026-05-05T14:23:06.518045+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
       "discipline": "geo",
       "type": "paper",
       "title": "Floodplains and coastal wetlands as nutrient sinks: a restoration perspective",
-      "authors": "Dominik H. Zak, Martin Tschikof, Stephanie Natho, Rasmus Jes Petersen, Brian Kronvang, Carl Christian Hoffmann",
+      "authors": "Dominik Žák, Martin Tschikof, Stephanie Natho, Rasmus Jes Petersen, Brian Kronvang, Carl Christian Hoffmann",
       "abstract": "Floodplains and coastal wetlands provide essential ecosystem services such as flood protection, water quality enhancement, carbon sequestration, and the production of raw materials and food. Despite numerous studies on wetland restoration, the complexities of restoring ecosystem functions remain challenging. Complete restoration of natural functions is rare, and therefore seldom the primary target; instead, restoration efforts typically focus on reactivating key ecological processes. This study examines the restoration of ecosystem functions in floodplains and coastal wetlands, focusing on water quality improvement. It summarizes both nitrogen and phosphorus dynamics, highlighting the potential to restore processes like denitrification and sedimentation within relatively short time frames using selected case studies from Central Europe. However, restoration success is hindered by alte...",
       "date": "2026-02-25",
       "year": 2026,
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:12.133143+00:00"
+      "_retrievedAt": "2026-05-05T14:23:06.518741+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2180,7 +2180,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:12.133568+00:00"
+      "_retrievedAt": "2026-05-05T14:23:06.519143+00:00"
+    },
+    {
+      "id": "openalex-a4c624bbe812",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Bacterial defense mechanisms against bacteriophages: an evolutionary arms race",
+      "authors": "Rafwana Ibrahim, Jesil Mathew Aranjani",
+      "abstract": "Bacteria and bacteriophages are in a co-evolutionary arms race, developing intricate bacterial defense mechanisms that enable phage resistance and counterstrategies. Bacteria evolve diverse defense mechanisms to inhibit each stage of the phage infection cycle.Surface-based defenses prevent phage adsorption and infection, including receptor modifications, capsule production, and biofilm formation. Intracellular systems such as restriction-modification (R-M) and abortive infection (Abi) mechanisms degrade phage DNA or sacrifice infected cells to protect the population. Adaptive immunity, particularly through CRISPR-Cas systems, enables bacteria to recognize and neutralize recurring phage attacks. Phages counter these defenses through anti-CRISPR proteins, receptor mimicry, and depolymerization, which degrade capsules and biofilm matrices. These dynamic interactions shape microbial ecosy...",
+      "date": "2026-02-23",
+      "year": 2026,
+      "journal": "Archives of Microbiology",
+      "source": "Archives of Microbiology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1007/s00203-026-04785-x",
+      "doi": "10.1007/s00203-026-04785-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s00203-026-04785-x.pdf",
+      "keywords": [
+        "Arms race",
+        "Biology",
+        "Bacteria",
+        "Biofilm",
+        "Phage therapy",
+        "Bacteriophages and microbial interactions",
+        "CRISPR and Genetic Engineering",
+        "Cancer Research and Treatments"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-05T14:23:04.912450+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2208,11 +2240,11 @@ window.LIVE_FEED_DATA = {
         "Bioinformatics and Genomic Networks"
       ],
       "readTime": "1 min",
-      "citedBy": 4,
+      "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.128184+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.910957+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2244,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.126477+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.910283+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -2276,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:10.719388+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.357379+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -2308,39 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:12.135955+00:00"
-    },
-    {
-      "id": "openalex-96ee8d992cf1",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Consensus land-cover mapping improves grassland classification in European mountain landscapes",
-      "authors": "Šimon Opravil, Matthias Baumann, Tomáš Goga, Hamid Afzali, Tobias Kuemmerle, Róbert Pazúr",
-      "abstract": "Accurate land-cover information is essential for biodiversity monitoring, yet existing 10-m global and continental land-cover datasets vary in accuracy and thematic consistency, particularly for grasslands in complex mountain environments. We assessed six state-of-the-art land-cover products (Dynamic World, ESA WorldCover, Esri Land Cover, Corine Land Cover+ Backbone, ELC10, S2GLC) across the Alps and Carpathians and developed three consensus maps using weighted voting, accuracy-confusion weighting, and an accuracy-weighted Random Forest ensemble. All datasets were validated against an independent set of expert-interpreted reference samples. Individual products showed large discrepancies in grassland extent, elevation distribution, and landscape structure. Global datasets (Dynamic World, Esri Land Cover) underestimated grassland extent, whereas ESA WorldCover and Corine Land Cover+ re...",
-      "date": "2026-02-10",
-      "year": 2026,
-      "journal": "Scientific Reports",
-      "source": "Scientific Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41598-026-39197-w",
-      "doi": "10.1038/s41598-026-39197-w",
-      "pdfUrl": "https://doi.org/10.1038/s41598-026-39197-w",
-      "keywords": [
-        "Grassland",
-        "Thematic map",
-        "Elevation (ballistics)",
-        "Random forest",
-        "Land use",
-        "Remote Sensing in Agriculture",
-        "Land Use and Ecosystem Services",
-        "Species Distribution and Climate Change"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:12.137215+00:00"
+      "_retrievedAt": "2026-05-05T14:23:06.521650+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.129871+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.914090+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.566874+00:00"
+      "_retrievedAt": "2026-05-05T14:23:05.611507+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -2436,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:12.132822+00:00"
+      "_retrievedAt": "2026-05-05T14:23:06.518437+00:00"
     },
     {
       "id": "openalex-de50ab633493",
@@ -2464,43 +2464,11 @@ window.LIVE_FEED_DATA = {
         "Persona Design and Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 21,
+      "citedBy": 24,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:10.719699+00:00"
-    },
-    {
-      "id": "openalex-41cd305bd1a4",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Mutational scanning reveals oncogenic CTNNB1 mutations have diverse effects on signaling",
-      "authors": "Anagha Krishna, Alison Meynert, Karamjit Singh Dolt, Martijn Kelder, Agavni Mesropian, Ailith Ewing",
-      "abstract": "CTNNB1, the gene encoding β-catenin, is a frequent target for oncogenic mutations activating the canonical Wnt signaling pathway, typically through missense mutations within a degron hotspot motif in exon 3. Here, we combine saturation genome editing with a fluorescent reporter assay to quantify signaling phenotypes for all 342 possible missense mutations in the mutation hotspot. Our data define the genetic requirements for β-catenin degron function, refine the consensus motif for substrate recognition by β-TRCP and reveal diverse levels of signal activation among known driver mutations. Tumorigenesis in different human tissues involves selection for CTNNB1 mutations spanning distinct ranges of predicted activity. In hepatocellular carcinoma, mutation effect scores distinguish two tumor subclasses with different levels of β-catenin signaling, and weaker mutations predict greater immun...",
-      "date": "2026-02-01",
-      "year": 2026,
-      "journal": "Nature Genetics",
-      "source": "Nature Genetics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41588-025-02496-5",
-      "doi": "10.1038/s41588-025-02496-5",
-      "pdfUrl": "https://doi.org/10.1038/s41588-025-02496-5",
-      "keywords": [
-        "Biology",
-        "Missense mutation",
-        "Genetics",
-        "Gene",
-        "Carcinogenesis",
-        "Wnt/β-catenin signaling in development and cancer",
-        "Cancer Cells and Metastasis",
-        "Cancer-related Molecular Pathways"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.130851+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.356557+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -2532,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:12.134342+00:00"
+      "_retrievedAt": "2026-05-05T14:23:06.519830+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -2564,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:12.135140+00:00"
+      "_retrievedAt": "2026-05-05T14:23:06.520834+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -2596,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.129421+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.913642+00:00"
     },
     {
       "id": "openalex-c3a1e2ef4d92",
@@ -2628,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.568556+00:00"
+      "_retrievedAt": "2026-05-05T14:23:05.613449+00:00"
     },
     {
       "id": "openalex-c247601395a1",
@@ -2660,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.129711+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.913928+00:00"
     },
     {
       "id": "openalex-1f86c7cca72a",
@@ -2692,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:12.135626+00:00"
+      "_retrievedAt": "2026-05-05T14:23:06.521293+00:00"
     },
     {
       "id": "openalex-64246eba8b87",
@@ -2724,39 +2692,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.565509+00:00"
+      "_retrievedAt": "2026-05-05T14:23:05.610197+00:00"
     },
     {
-      "id": "openalex-cbb9e26c0fe2",
-      "discipline": "bio",
+      "id": "openalex-926d6a7490c3",
+      "discipline": "geo",
       "type": "paper",
-      "title": "Advancing the modernization of traditional Chinese medicine through artificial intelligence and multimodal data integration",
-      "authors": "Pengfei Guo, Mengmeng Jiang, Shaowu Hu, Qianqian Jiang, Limin LI, Junhong Wu",
-      "abstract": "Traditional Chinese Medicine (TCM) is a valuable medical treasure trove that not only demonstrated unique advantages in treating complex and refractory diseases but also left behind a rich legacy of ancient texts and valuable evidence-based medical data based on its human experience for future generations. Nevertheless, the extensive data within TCM has been plagued by challenges, including inadequate data standardization, inconsistent data quality, limited data structuring, and obstacles in interdisciplinary integration. Recent advancements in artificial intelligence (AI) techniques have markedly improved the efficiency and effectiveness with which multimodal data in TCM, including machine learning (ML), deep learning (DL), knowledge graphs (KG), and natural language processing (NLP), particularly large language models (LLMs). These advancements have facilitated more precise data ana...",
-      "date": "2026-01-26",
+      "title": "Human–Environment Interactions in GeoHealth: Addressing Terrestrial Ecosystem Health, Land Degradation, and Carbon Management",
+      "authors": "Baijun Shang, Rajiv Kumar Singh, Yingui Cao, Tong Li",
+      "abstract": "Abstract Global environmental changes have posed threats to ecosystems worldwide. Safeguarding terrestrial ecosystem health in particular is fundamental to achieving global sustainability targets, yet land degradation, carbon depletion and climate extremes continue to undermine resilience due to climate change and human activities. Therefore, Understanding human‐environment interactions is increasingly important for enhancing the resilience of terrestrial ecosystems under global change. The collection for this special issue addresses urgent challenges of land degradation, soil carbon loss, and ecosystem vulnerability by assembling eight regionally grounded studies from diverse landscapes of Asia. Collectively, these contributions reveal how land‐use transitions, restoration strategies and climate variability shape ecosystem health and carbon dynamics, while advancing methodological an...",
+      "date": "2026-01-28",
       "year": 2026,
-      "journal": "Chinese Medicine",
-      "source": "Chinese Medicine",
+      "journal": "GeoHealth",
+      "source": "GeoHealth",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s13020-025-01194-y",
-      "doi": "10.1186/s13020-025-01194-y",
-      "pdfUrl": "https://doi.org/10.1186/s13020-025-01194-y",
+      "url": "https://doi.org/10.1029/2025gh001718",
+      "doi": "10.1029/2025gh001718",
+      "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025GH001718",
       "keywords": [
-        "Modernization theory",
-        "Big data",
-        "Computer science",
-        "Artificial intelligence",
-        "Data science",
-        "Traditional Chinese Medicine Studies",
-        "Machine Learning in Healthcare",
-        "Computational Drug Discovery Methods"
+        "Sustainability",
+        "Environmental resource management",
+        "Ecosystem health",
+        "Ecosystem",
+        "Vulnerability (computing)",
+        "Land Use and Ecosystem Services",
+        "Climate Change and Health Impacts",
+        "Soil erosion and sediment transport"
       ],
       "readTime": "1 min",
       "citedBy": 3,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.130556+00:00"
+      "_retrievedAt": "2026-05-05T14:23:06.520463+00:00"
     },
     {
       "id": "openalex-0f905eddbd8d",
@@ -2788,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.566591+00:00"
+      "_retrievedAt": "2026-05-05T14:23:05.610912+00:00"
     },
     {
       "id": "openalex-f411a351f7cd",
@@ -2816,11 +2784,43 @@ window.LIVE_FEED_DATA = {
         "early"
       ],
       "readTime": "1 min",
+      "citedBy": 7,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-05T14:23:05.611227+00:00"
+    },
+    {
+      "id": "openalex-4cb2b8c203a9",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Gut microbiome–driven colorectal cancer via immune, metabolic, neural, and endocrine axes reprogramming",
+      "authors": "Jhommara Bautista, Mónica Lamas‐Maceiras, Camila Hidalgo-Tinoco, Antonio Guerra-Guerrero, Anapaula Betancourt-Velarde, Andrés López‐Cortés",
+      "abstract": "Colorectal cancer (CRC) is a leading cause of cancer mortality worldwide and is increasingly recognized as the outcome of complex host-microbe interactions. Beyond established genetic and environmental drivers, the gut microbiome has emerged as a causal and mechanistic contributor to CRC initiation, progression, and therapy response. This review synthesizes current molecular, ecological, and translational evidence to explain how gut microbial communities reprogram immune, metabolic, neural, and endocrine networks within the tumor microenvironment. CRC-associated dysbiosis is characterized by enrichment of pathobionts such as Fusobacterium nucleatum, pks⁺ Escherichia coli, and enterotoxigenic Bacteroides fragilis, and by loss of protective, short-chain-fatty-acid-producing commensals. These microbes promote carcinogenesis through genotoxin-induced DNA damage, epithelial barrier disrupt...",
+      "date": "2026-01-23",
+      "year": 2026,
+      "journal": "npj Biofilms and Microbiomes",
+      "source": "npj Biofilms and Microbiomes",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41522-025-00883-8",
+      "doi": "10.1038/s41522-025-00883-8",
+      "pdfUrl": "https://www.nature.com/articles/s41522-025-00883-8_reference.pdf",
+      "keywords": [
+        "Microbiome",
+        "Dysbiosis",
+        "Biology",
+        "Colorectal cancer",
+        "Carcinogenesis",
+        "Gut microbiota and health",
+        "Cancer Research and Treatments",
+        "Immune responses and vaccinations"
+      ],
+      "readTime": "1 min",
       "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.567834+00:00"
+      "_retrievedAt": "2026-05-05T14:23:05.613805+00:00"
     },
     {
       "id": "openalex-8836692447ce",
@@ -2852,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.129084+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.913319+00:00"
     },
     {
       "id": "openalex-ac6c79930666",
@@ -2884,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.567202+00:00"
+      "_retrievedAt": "2026-05-05T14:23:05.612154+00:00"
     },
     {
       "id": "openalex-bb93237a0fcf",
@@ -2916,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:10.720240+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.357894+00:00"
     },
     {
       "id": "openalex-df339b7a5b5a",
@@ -2948,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:10.721187+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.358783+00:00"
     },
     {
       "id": "openalex-f990847d1a5f",
@@ -2980,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.565832+00:00"
+      "_retrievedAt": "2026-05-05T14:23:05.609812+00:00"
     },
     {
       "id": "openalex-fb70b0770e74",
@@ -3008,11 +3008,11 @@ window.LIVE_FEED_DATA = {
         "Connective Tissue Growth Factor Research"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.127083+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.909630+00:00"
     },
     {
       "id": "openalex-a66353e5014b",
@@ -3044,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.567503+00:00"
+      "_retrievedAt": "2026-05-05T14:23:05.612456+00:00"
     },
     {
       "id": "openalex-0aab5e881c06",
@@ -3076,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.128807+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.913051+00:00"
     },
     {
       "id": "openalex-37faa8822ee2",
@@ -3104,11 +3104,11 @@ window.LIVE_FEED_DATA = {
         "Global Maternal and Child Health"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.568916+00:00"
+      "_retrievedAt": "2026-05-05T14:23:05.611847+00:00"
     },
     {
       "id": "openalex-a6ab20a42ec7",
@@ -3140,39 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.566248+00:00"
-    },
-    {
-      "id": "openalex-3a1d6ab9d853",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Pathophysiology of reactive oxygen species (ROS)",
-      "authors": "José Manuel Pérez de la Lastra, Celia María Curieses Andrés, Elena Bustamante Munguira, Celia Andrés Juan, Eduardo Pérez-Lebeña",
-      "abstract": "Reactive oxygen species (ROS) are context-dependent mediators that function as second messengers at low, localized flux and as drivers of damage when production overruns buffering capacity. Outcomes are dictated by source identity, subcellular compartment and pulse kinetics—the “where–when–how much” rule. We synthesize advances (2015–2025) across principal generators—mitochondrial electron transport, NADPH oxidases, xanthine oxidoreductase and ER/peroxisomal oxidoreductases—to show how compartmental H2O2 microgradients encode reversible cysteine signaling, while iron-rich niches pivot chemistry toward peroxynitrite, Fenton-derived ·OH, lipid peroxidation and regulated cell death (apoptosis, ferroptosis, parthanatos). We integrate these mechanisms with endothelial dysfunction, innate immune priming, ECM remodeling and barrier failure across cardiovascular, metabolic, neurodegenerative,...",
-      "date": "2026-01-14",
-      "year": 2026,
-      "journal": "Archives of Toxicology",
-      "source": "Archives of Toxicology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s00204-025-04276-w",
-      "doi": "10.1007/s00204-025-04276-w",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s00204-025-04276-w.pdf",
-      "keywords": [
-        "Reactive oxygen species",
-        "Crosstalk",
-        "Cell biology",
-        "Chemistry",
-        "Redox",
-        "Ferroptosis and cancer prognosis",
-        "Neutrophil, Myeloperoxidase and Oxidative Mechanisms",
-        "Nitric Oxide and Endothelin Effects"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.570006+00:00"
+      "_retrievedAt": "2026-05-05T14:23:05.610588+00:00"
     },
     {
       "id": "openalex-b68d078f3cf1",
@@ -3200,11 +3168,11 @@ window.LIVE_FEED_DATA = {
         "Brain Tumor Detection and Classification"
       ],
       "readTime": "1 min",
-      "citedBy": 39,
+      "citedBy": 40,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:10.718062+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.355818+00:00"
     },
     {
       "id": "openalex-7e184a0ae4b3",
@@ -3236,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:12.136518+00:00"
+      "_retrievedAt": "2026-05-05T14:23:06.522162+00:00"
     },
     {
       "id": "openalex-27886b005fe6",
@@ -3268,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.569654+00:00"
+      "_retrievedAt": "2026-05-05T14:23:05.614496+00:00"
     },
     {
       "id": "openalex-63c861fc15a4",
@@ -3300,39 +3268,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.126746+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.910574+00:00"
     },
     {
-      "id": "openalex-7dc17c73a60c",
+      "id": "openalex-2c570d06fd51",
       "discipline": "bio",
       "type": "paper",
-      "title": "In vivo CRISPR/Cas9 screens identify new regulators of B cell activation and plasma cell differentiation",
-      "authors": "Lesly Calderón, Markus Schäfer, Marina Rončević, René Rauschmeier, Markus Jaritz, Tanja A. Schwickert",
-      "abstract": "Immune responses to pathogens lead to the generation of plasma cells through a complex interplay of B cells with their microenvironment in lymphoid organs. To identify new regulators of B cell activation and plasmablast differentiation in the context of the splenic microenvironment, we established an in vivo system for pooled sgRNA CRISPR/Cas9 screens in immunized mice. To improve the infection efficiency of naïve B cells, we generated Cd23-Cre Rosa26LSL-EcoR/+ mice exhibiting increased expression of the ecotropic lentivirus receptor EcoR on naïve B cells. Upon adoptive B cell transfer and immunization of recipient mice, 379 sgRNAs, targeting genes with high expression in plasma cells, were analyzed for their effects on plasmablast generation. Gene hits, encoding 23 positive and 18 negative regulators of B cell activation, plasmablast differentiation, or homeostasis, were uniquely ide...",
+      "title": "A SET domain-containing protein and HCF-1 maintain transgenerational epigenetic memory",
+      "authors": "Chenming Zeng, Giulia Furlan, Miguel Vasconcelos Almeida, Juan C. Rueda-Silva, Jonathan Price, Helena Santos-Rosa",
+      "abstract": "Transgenerational epigenetic inheritance (TEI) allows epigenetic information to pass across generations through mechanisms such as small RNAs and histone modifications. Histone methylation is often deposited by SET domain-containing methyltransferases. Some SET proteins lack catalytic activity but still regulate chromatin and gene expression. Here, we characterize SET-24, a catalytically inactive SET domain protein that localizes to germline nuclei and is essential for germline immortality in Caenorhabditis elegans. In set-24 mutants, small RNA-mediated epigenetic silencing is impaired. Proteomic, yeast two-hybrid, and pull-down assays show that SET-24 interacts with HCF-1, a chromatin factor linked to complexes like COMPASS, which deposits H3K4me3. Loss of SET-24 leads to increased H3K4me3 at transcription start sites of hundreds of genes. Although transcription remains largely uncha...",
       "date": "2026-01-09",
       "year": 2026,
-      "journal": "The Journal of Experimental Medicine",
-      "source": "The Journal of Experimental Medicine",
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1084/jem.20250594",
-      "doi": "10.1084/jem.20250594",
-      "pdfUrl": "https://doi.org/10.1084/jem.20250594",
+      "url": "https://doi.org/10.1038/s41467-025-68200-7",
+      "doi": "10.1038/s41467-025-68200-7",
+      "pdfUrl": "https://www.nature.com/articles/s41467-025-68200-7_reference.pdf",
       "keywords": [
-        "B cell",
-        "Plasma cell",
-        "Immune system",
-        "Cell biology",
+        "Epigenetics",
+        "Chromatin",
         "Biology",
-        "CRISPR and Genetic Engineering",
-        "CAR-T cell therapy research",
-        "T-cell and B-cell Immunology"
+        "H3K4me3",
+        "Histone",
+        "Epigenetics and DNA Methylation",
+        "Genomics and Chromatin Dynamics",
+        "RNA modifications and cancer"
       ],
       "readTime": "1 min",
-      "citedBy": 3,
+      "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.130217+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.911224+00:00"
     },
     {
       "id": "openalex-089f9f25bc5e",
@@ -3364,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:12.133929+00:00"
+      "_retrievedAt": "2026-05-05T14:23:06.519501+00:00"
     },
     {
       "id": "openalex-168d4d7078ef",
@@ -3396,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:12.134715+00:00"
+      "_retrievedAt": "2026-05-05T14:23:06.520176+00:00"
     },
     {
       "id": "openalex-562a416f2563",
@@ -3428,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:12.135380+00:00"
+      "_retrievedAt": "2026-05-05T14:23:06.521058+00:00"
     },
     {
       "id": "openalex-b519f808f241",
@@ -3460,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:12.136348+00:00"
+      "_retrievedAt": "2026-05-05T14:23:06.521996+00:00"
     },
     {
       "id": "openalex-8220ec188f46",
@@ -3492,14 +3460,46 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:10.722694+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.360239+00:00"
+    },
+    {
+      "id": "openalex-3763f409b34a",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Multi-modal AI in precision medicine: integrating genomics, imaging, and EHR data for clinical insights",
+      "authors": "Shahper N. Khan, Danishuddin, Mohd Wajid Ali Khan, Luca Guarnera, Syed Mohammad Fauzan Akhtar",
+      "abstract": "Precision healthcare is increasingly oriented toward the development of therapeutic strategies that are as individualized as the patients receiving them. Central to this paradigm shift is artificial intelligence (AI)-enabled multi-modal data integration, which consolidates heterogeneous data streams-including genomic, transcriptomic, proteomic, imaging, environmental, and electronic health record (EHR) data into a unified analytical framework. This integrative approach enhances early disease detection, facilitates the discovery of clinically actionable biomarkers, and accelerates rational drug development, with particularly significant implications for oncology, neurology, and cardiovascular medicine. Advanced machine learning (ML) and deep learning (DL) algorithms are capable of extracting complex, non-linear associations across data modalities, thereby improving diagnostic precision...",
+      "date": "2026-01-07",
+      "year": 2026,
+      "journal": "Frontiers in Artificial Intelligence",
+      "source": "Frontiers in Artificial Intelligence",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/frai.2025.1743921",
+      "doi": "10.3389/frai.2025.1743921",
+      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1743921/pdf",
+      "keywords": [
+        "Computer science",
+        "Transformative learning",
+        "Artificial intelligence",
+        "Data science",
+        "Precision medicine",
+        "Artificial Intelligence in Healthcare and Education",
+        "Machine Learning in Healthcare",
+        "Single-cell and spatial transcriptomics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-05T14:23:04.912176+00:00"
     },
     {
       "id": "openalex-64d9b2a5ccc3",
       "discipline": "bio",
       "type": "paper",
       "title": "State-specific enhancer landscapes govern microglial plasticity",
-      "authors": "Nicole Hamagami, Dvita Kapadia, Kia M. Barclay, Yanlong Huang, Nora Abduljawad, Zuolin Cheng",
+      "authors": "Nicole Hamagami, Dvita Kapadia, Kia M. Barclay, Huang Yanlong, Nora Abduljawad, Zuolin Cheng",
       "abstract": "Single-cell transcriptomic studies have identified distinct microglial subpopulations with shared and divergent gene signatures across development, aging, and disease. Whether these microglial subsets represent ontogenically separate lineages of cells or are manifestations of plastic changes in microglial states downstream of some converging signals is unknown. Furthermore, despite the well-established role of enhancer landscapes underlying the identity of microglia, the extent to which histone modifications and DNA methylation regulate microglial state switches at enhancers has not been defined. Here, using genetic fate mapping, we demonstrated the common embryonic origin of proliferative-region-associated microglia enriched in developing white matter and tracked their dynamic transitions into disease-associated microglia and white matter-associated microglia in disease and aging con...",
       "date": "2026-01-07",
       "year": 2026,
@@ -3524,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.128448+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.912708+00:00"
     },
     {
       "id": "openalex-ef452d95d9ef",
@@ -3556,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:10.718762+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.356797+00:00"
     },
     {
       "id": "openalex-3b58dc407ae2",
@@ -3588,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.569327+00:00"
+      "_retrievedAt": "2026-05-05T14:23:05.614159+00:00"
     },
     {
       "id": "openalex-eb4d8e8e2a18",
@@ -3620,7 +3620,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.126092+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.909975+00:00"
     },
     {
       "id": "openalex-ec7d76370d8f",
@@ -3652,7 +3652,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-05T08:27:11.127488+00:00"
+      "_retrievedAt": "2026-05-05T14:23:04.911602+00:00"
     }
   ]
 };
