@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-05-07T08:47:37.559414+00:00",
+  "generatedAt": "2026-05-07T14:48:48.046147+00:00",
   "total": 114,
   "sources": [
     "RSS",
@@ -7,124 +7,156 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-12e5d371b35c",
+      "id": "rss-29ddb2fdeee7",
       "discipline": "clinical",
       "type": "news",
-      "title": "Hantavirus is on the rise in Argentina, where a stricken cruise ship began its journey",
+      "title": "'Freedom framing' could be more effective than mandates for vaccine-hesitant Americans",
       "authors": "Medical Xpress",
-      "abstract": "Officials and experts in Argentina are scrambling to determine if their country is the source of a deadly hantavirus outbreak that has gripped an Atlantic cruise.",
+      "abstract": "University of Houston researchers are applying the principles of marketing science to public health, proposing that the way vaccines are \"framed\" could be a factor in overcoming hesitancy.",
       "date": "2026-05-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-hantavirus-argentina-stricken-cruise-ship.html",
+      "url": "https://medicalxpress.com/news/2026-05-freedom-effective-mandates-vaccine-hesitant.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "hantavirus",
-        "argentina",
-        "cruise",
-        "rise",
-        "where",
-        "stricken",
-        "ship",
-        "began"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:36.933480+00:00"
-    },
-    {
-      "id": "rss-22de843c4916",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "First hantavirus infection could not have been during cruise: WHO expert",
-      "authors": "Medical Xpress",
-      "abstract": "The first hantavirus case on the MV Hondius could not have been infected during the cruise, a World Health Organization expert told AFP on Wednesday.",
-      "date": "2026-05-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-hantavirus-infection-cruise-expert.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "first",
-        "hantavirus",
         "could",
-        "have",
-        "been",
-        "during",
+        "freedom",
+        "framing",
+        "more",
+        "effective",
+        "than",
+        "mandates",
+        "vaccine-hesitant"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:47.729094+00:00"
+    },
+    {
+      "id": "rss-567e8eca6478",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "What to know about hantavirus, the illness linked to a cruise ship outbreak",
+      "authors": "Medical Xpress",
+      "abstract": "An outbreak aboard a cruise ship of a rare rodent-borne illness called hantavirus has left three passengers dead and sickened others, but global health officials say the risk to the general public remains low because the germ does not easily spread between people.",
+      "date": "2026-05-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-hantavirus-illness-linked-cruise-ship.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "hantavirus",
+        "illness",
         "cruise",
-        "expert"
+        "ship",
+        "outbreak",
+        "what",
+        "know",
+        "about"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:36.933756+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.729352+00:00"
     },
     {
-      "id": "rss-5bb39c523b14",
+      "id": "rss-26da7c4ceb07",
       "discipline": "clinical",
       "type": "news",
-      "title": "Key magic mushroom ingredient makes fish less aggressive and lazier",
+      "title": "Turning up the volume on macrophage-driven immune responses",
       "authors": "Medical Xpress",
-      "abstract": "More than 200 mushrooms—primarily those belonging to a genus of gilled mushrooms called Psilocybe—contain the psychoactive compound psilocybin. In the brain of mammals, this chemical can bind to serotonin receptors and influence behavior and emotions, including aggression, appetite, and mood. Its effects on the social behavior of animals, however, remain largely undescribed.",
+      "abstract": "As part of the body's first line of defense against foreign invaders, macrophages play an integral role in the innate immune system. However, the ability of macrophages to interpret and respond to diverse danger signals remains incompletely understood.",
       "date": "2026-05-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-key-magic-mushroom-ingredient-fish.html",
+      "url": "https://medicalxpress.com/news/2026-05-volume-macrophage-driven-immune-responses.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "mushrooms",
-        "behavior",
-        "magic",
-        "mushroom",
-        "ingredient",
-        "makes",
-        "fish",
-        "less"
+        "immune",
+        "macrophages",
+        "turning",
+        "volume",
+        "macrophage-driven",
+        "responses",
+        "part",
+        "body"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:36.934050+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.729569+00:00"
     },
     {
-      "id": "rss-b425423b123c",
+      "id": "rss-84b0f14d091b",
       "discipline": "clinical",
       "type": "news",
-      "title": "HHS' healthy food agenda puts hospitals on notice about patients' meals",
+      "title": "Can positive experiences help break the cycle of abuse?",
       "authors": "Medical Xpress",
-      "abstract": "Complaints about hospital food are certainly not new, and Jell-O and fruit juice are often the butt of related jokes. But the Trump administration has recently upped the ante.",
+      "abstract": "Our childhood experiences create ripple effects across our lives and with those whom we encounter. Adverse childhood experiences, or ACEs, have been linked to depression and dementia, and even to perpetuating abuse. The intergenerational transmission of abuse is well-known to affect the children of victims, and recent evidence has also connected a high number of ACEs to an increased risk of abusing elders, indicating broad impacts on later-life relationships and violent behavior.",
       "date": "2026-05-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-hhs-healthy-food-agenda-hospitals.html",
+      "url": "https://medicalxpress.com/news/2026-05-positive-abuse.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "food",
-        "about",
-        "healthy",
-        "agenda",
-        "puts",
-        "hospitals",
-        "notice",
+        "experiences",
+        "abuse",
+        "childhood",
+        "aces",
+        "positive",
+        "help",
+        "break",
+        "cycle"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:47.729835+00:00"
+    },
+    {
+      "id": "rss-514895948548",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Study identifies post-extubation pneumonia as a distinct condition after surgery and determines key risk factors",
+      "authors": "Medical Xpress",
+      "abstract": "A Hiroshima University study of more than 31,000 patients found that pneumonia occurred more often after breathing tubes were removed than during ventilation, with most cases developing within a 1–2 week window after surgery. The findings suggest this under-recognized condition may be a distinct clinical entity linked to swallowing dysfunction and that early assessment and intervention, including identification of high-risk patients, may be key to prevention and improved outcomes.",
+      "date": "2026-05-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-extubation-pneumonia-distinct-condition-surgery.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "after",
+        "pneumonia",
+        "distinct",
+        "condition",
+        "surgery",
+        "more",
+        "than",
         "patients"
       ],
       "readTime": "1 min",
@@ -132,327 +164,455 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:36.934286+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.730120+00:00"
     },
     {
-      "id": "rss-297089d52244",
+      "id": "rss-93a1a465f677",
       "discipline": "clinical",
       "type": "news",
-      "title": "The '100‑day cough' that adults often miss",
+      "title": "I've investigated a hantavirus outbreak. Here's what I can tell you about the cruise ship cluster",
       "authors": "Medical Xpress",
-      "abstract": "Whooping cough, medically known as pertussis, is a highly contagious bacterial infection that affects the airways. It gets its common name from the \"whoop\" sound that some infected children make when they take a deep, gasping breath after a severe coughing fit.",
+      "abstract": "The cruise ship cluster of hantavirus cases continues to grow. The World Health Organization reports that as of May 6 there were eight cases, three of whom are confirmed by laboratory testing as hantavirus. In recent days, we heard three passengers had died.",
       "date": "2026-05-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-100day-adults.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "that",
-        "cough",
-        "adults",
-        "often",
-        "miss",
-        "whooping",
-        "medically",
-        "known"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:36.934595+00:00"
-    },
-    {
-      "id": "rss-b819957b3260",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Cognitive behavioral therapy shows promise managing menopausal insomnia and hot flashes",
-      "authors": "Medical Xpress",
-      "abstract": "Insomnia is a common problem, affecting as many as 20% to 60% of perimenopausal and postmenopausal US women. Because of its possible severe physical and psychological effects, ongoing research is focused on identifying effective treatment options. A new study suggests that cognitive behavioral therapy intervention may produce at least short-term benefits. Results of the study are published in Menopause.",
-      "date": "2026-05-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-cognitive-behavioral-therapy-menopausal-insomnia.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cognitive",
-        "behavioral",
-        "therapy",
-        "insomnia",
-        "shows",
-        "promise",
-        "managing",
-        "menopausal"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:36.934881+00:00"
-    },
-    {
-      "id": "rss-0101a8099dc1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Hantavirus cluster linked to cruise ship highlights ongoing zoonotic risk and the need for vigilance",
-      "authors": "Medical Xpress",
-      "abstract": "The Global Virus Network (GVN), representing eminent human and animal virologists from more than 90 Centers of Excellence and Affiliates in over 40 countries dedicated to advancing research, collaboration, and pandemic preparedness, is closely monitoring reports of a hantavirus cluster linked to a cruise ship traveling in the Atlantic, which has resulted in multiple severe cases and fatalities.",
-      "date": "2026-05-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-hantavirus-cluster-linked-cruise-ship.html",
+      "url": "https://medicalxpress.com/news/2026-05-ive-hantavirus-outbreak-cruise-ship.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "hantavirus",
-        "cluster",
-        "linked",
         "cruise",
         "ship",
-        "highlights",
-        "ongoing",
-        "zoonotic"
+        "cluster",
+        "cases",
+        "three",
+        "investigated",
+        "outbreak"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:36.935149+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.730340+00:00"
     },
     {
-      "id": "rss-717e639ac436",
+      "id": "rss-1a5dabdaa966",
       "discipline": "clinical",
       "type": "news",
-      "title": "Stereotypes of autism in TV and film may be linked to delayed diagnosis, study finds",
+      "title": "Feeling regret? Your feelings may mellow as you age",
       "authors": "Medical Xpress",
-      "abstract": "Stereotypes of autistic men in films and TV programs may contribute to delayed diagnosis of autistic women and non-binary people, a new University of Stirling study has found. Research conducted by a group of autistic and non-autistic researchers, led by Sarah Dantas of the University's Faculty of Natural Sciences, has found that women and non-binary people may experience delayed diagnosis because dominant images of autism in the media don't match their own experiences.",
+      "abstract": "Older adults report fewer recent regrets than younger adults, finds research published in the journal Emotion. In addition, although older and younger adults report a similar number of long-term regrets, older adults experience less anger and frustration when they think about those mistakes and missed chances. The research highlights how both age and time shape our emotional responses to past decisions.",
       "date": "2026-05-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-stereotypes-autism-tv-linked-delayed.html",
+      "url": "https://medicalxpress.com/news/2026-05-mellow-age.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "delayed",
-        "diagnosis",
-        "autistic",
-        "stereotypes",
-        "autism",
-        "women",
-        "non-binary",
-        "people"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:36.935428+00:00"
-    },
-    {
-      "id": "rss-c0812fea8716",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Why melatonin shouldn't be a bedtime go-to for kids",
-      "authors": "Medical Xpress",
-      "abstract": "If your child has trouble falling asleep, you are not alone. And when a child does not sleep well, it can affect everyone's sleep in the home. Many families are looking for a simple solution, and melatonin often feels like an easy one because it is sold over the counter and is widely seen as \"natural.\" But natural does not always mean that it is risk-free or the right choice for your child.",
-      "date": "2026-05-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-melatonin-shouldnt-bedtime-kids.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "child",
-        "melatonin",
-        "your",
-        "does",
-        "sleep",
-        "natural",
-        "shouldn",
-        "bedtime"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:36.935724+00:00"
-    },
-    {
-      "id": "rss-e3fc6592a3b2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "The peptide problem: Hype is outrunning the evidence",
-      "authors": "Medical Xpress",
-      "abstract": "Health Canada recently warned Canadians not to buy or inject unauthorized peptide drugs sold online, naming products that include BPC-157, CJC-1295, ipamorelin, TB-500 and retatrutide.",
-      "date": "2026-05-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-peptide-problem-hype-outrunning-evidence.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "peptide",
-        "problem",
-        "hype",
-        "outrunning",
-        "evidence",
-        "health",
-        "canada",
-        "recently"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:36.935943+00:00"
-    },
-    {
-      "id": "rss-75459b254aa1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Lifestyle, not age, predicts smart home success for older adults",
-      "authors": "Medical Xpress",
-      "abstract": "As the global population ages, smart homes are often touted as the ultimate solution for independent living. However, a new study published in JMIR Aging, suggests that technology developers and policymakers may be missing the mark by treating older adults as a monolithic group.",
-      "date": "2026-05-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-lifestyle-age-smart-home-success.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "smart",
-        "older",
         "adults",
-        "lifestyle",
-        "predicts",
-        "home",
-        "success",
-        "global"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:36.936179+00:00"
-    },
-    {
-      "id": "rss-703f20986515",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New research could reshape how future NHS treatments are evaluated",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers from the University of Sheffield are leading work that will significantly influence how health care treatments are assessed and approved across the UK. The researchers, based at the Sheffield Center for Health and Related Research (SCHARR), have developed a new way of capturing how patients value different health outcomes, an essential step in determining whether new treatments offer value for money and the implications of this.",
-      "date": "2026-05-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-reshape-future-nhs-treatments.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "treatments",
-        "health",
-        "researchers",
-        "sheffield",
-        "value",
-        "could",
-        "reshape",
-        "future"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:36.936445+00:00"
-    },
-    {
-      "id": "rss-49a60a422765",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Certain migraine prevention drugs associated with reduced risk of glaucoma",
-      "authors": "Medical Xpress",
-      "abstract": "A type of drug used to prevent migraine may be associated with a reduced risk of glaucoma, according to a study published in Neurology. The study compared 36,822 people who took calcitonin gene-related peptide (CGRP) inhibitor drugs to prevent migraine to the same number of people who took other types of migraine prevention drugs. However, the results do not prove that CGRP inhibitor drugs directly cause the reduced risk of glaucoma; they only show an association.",
-      "date": "2026-05-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-migraine-drugs-glaucoma.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "migraine",
-        "drugs",
-        "reduced",
-        "risk",
-        "glaucoma",
-        "prevention",
-        "associated",
-        "prevent"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:36.936753+00:00"
-    },
-    {
-      "id": "rss-0ec03220468e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Limit ultra-processed foods to lower risk of heart disease, say experts",
-      "authors": "Medical Xpress",
-      "abstract": "People who eat more ultra-processed food (UPF) have a higher risk of cardiovascular disease and death, according to a report published in the European Heart Journal. The report, by a group of cardiology experts from across Europe, brings together the results of all research on UPFs and cardiovascular disease that has been published to date.",
-      "date": "2026-05-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-limit-ultra-foods-heart-disease.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "disease",
-        "ultra-processed",
-        "risk",
-        "heart",
-        "experts",
-        "cardiovascular",
+        "older",
         "report",
-        "published"
+        "regrets",
+        "younger",
+        "feeling",
+        "regret",
+        "your"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:36.937008+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.730568+00:00"
+    },
+    {
+      "id": "rss-4925c080b1f9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Chronic bowel disease involves multiple types of inflammation happening at once, study reveals",
+      "authors": "Medical Xpress",
+      "abstract": "Chronic immune diseases are shaped by multiple inflammatory processes happening at the same time, each in different parts of the tissue. This finding from Karolinska Institutet, published in the journal Immunity, is based on a mouse study. The research may help explain why patients respond differently to treatment.",
+      "date": "2026-05-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-chronic-bowel-disease-involves-multiple.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "chronic",
+        "multiple",
+        "happening",
+        "bowel",
+        "disease",
+        "involves",
+        "types",
+        "inflammation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:47.730813+00:00"
+    },
+    {
+      "id": "rss-0d6aaf5978a8",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "What is hantavirus? Symptoms, transmission and treatment explained",
+      "authors": "Medical Xpress",
+      "abstract": "As an Atlantic cruise ship remains isolated off the South African coast due to a deadly hantavirus outbreak, the world watches with anticipation to learn more about this uncommon but dangerous infectious disease.",
+      "date": "2026-05-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-hantavirus-symptoms-transmission-treatment.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "hantavirus",
+        "what",
+        "symptoms",
+        "transmission",
+        "treatment",
+        "explained",
+        "atlantic",
+        "cruise"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:47.731006+00:00"
+    },
+    {
+      "id": "rss-74e47d718e47",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Better cognition tied to higher relapse risk after depression remission",
+      "authors": "Medical Xpress",
+      "abstract": "Experiences of cognitive problems such as memory loss or difficulty concentrating, known as \"brain fog,\" may not predict relapse in depression, according to a new study that has confounded researchers' expectations.",
+      "date": "2026-05-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-cognition-higher-relapse-depression-remission.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "relapse",
+        "depression",
+        "better",
+        "cognition",
+        "tied",
+        "higher",
+        "risk",
+        "after"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:47.731200+00:00"
+    },
+    {
+      "id": "rss-c24ac7d4131a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "From NICU decisions to hospital systems: Where analytics investments deliver life-saving value",
+      "authors": "Medical Xpress",
+      "abstract": "Hospital care teams make decisions that can have life-or-death consequences, and they do it as quickly as possible with information that's often incomplete. While spending several months in a neonatal intensive care unit, Abhijith Anand, an assistant professor of information systems at the Sam M. Walton College of Business, observed the case of a premature infant with \"patent ductus arteriosus,\" a birth defect in the heart.",
+      "date": "2026-05-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-nicu-decisions-hospital-analytics-investments.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "decisions",
+        "hospital",
+        "systems",
+        "care",
+        "that",
+        "information",
+        "nicu",
+        "where"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:47.731446+00:00"
+    },
+    {
+      "id": "rss-60737953115c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New research raises concerns about safety of higher-THC medicinal cannabis products in Australia",
+      "authors": "Medical Xpress",
+      "abstract": "New Monash University research has found that more than half of all adverse events reported to Australia's medicines regulator involving medicinal cannabis were linked to higher-THC products, with psychiatric disorders the most commonly reported adverse reactions.",
+      "date": "2026-05-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-safety-higher-thc-medicinal-cannabis.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "higher-thc",
+        "medicinal",
+        "cannabis",
+        "products",
+        "australia",
+        "adverse",
+        "reported",
+        "raises"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:47.731666+00:00"
+    },
+    {
+      "id": "rss-6874fd7ffaa1",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "How a deadly hantavirus outbreak unfolded on a cruise ship for weeks before it was identified",
+      "authors": "Medical Xpress",
+      "abstract": "A deadly outbreak of the rare hantavirus unfolded over the course of weeks on a cruise ship that sailed from Argentina toward Antarctica and then across the Atlantic Ocean, stopping at or near remote islands on the way as passengers and crew members fell sick, according to information from the cruise operator, the World Health Organization and ship tracking data.",
+      "date": "2026-05-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-deadly-hantavirus-outbreak-unfolded-cruise.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cruise",
+        "ship",
+        "deadly",
+        "hantavirus",
+        "outbreak",
+        "unfolded",
+        "weeks",
+        "before"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:47.731893+00:00"
+    },
+    {
+      "id": "rss-7de96b900ccb",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Can AI-embodied surgical robots revolutionize surgery?",
+      "authors": "Medical Xpress",
+      "abstract": "Embodying surgical robots with next-gen AI can safely augment practice if ethical and regulatory questions are addressed, say experts writing in Frontiers in Science. A team of pioneering surgeons and researchers from King's College London says AI-enhanced surgical robotics could enable \"true personalized surgery\" and enhance the performance, situational awareness, decision-making, and effectiveness of surgical teams.",
+      "date": "2026-05-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-ai-embodied-surgical-robots-revolutionize.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "surgical",
+        "robots",
+        "surgery",
+        "ai-embodied",
+        "revolutionize",
+        "embodying",
+        "next-gen",
+        "safely"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:47.732114+00:00"
+    },
+    {
+      "id": "rss-68710bc7edd1",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Aurora’s Chris Urmson on why self-driving trucks are finally ready to scale",
+      "authors": "TechCrunch AI",
+      "abstract": "Self-driving has been “almost here” for over a decade. But somewhere between DARPA challenges and a handful of driverless trucks hauling freight between Dallas and Houston, Aurora co-founder and CEO Chris Urmson’s story changed. The self-driving truck company started commercial driverless operations last April and is now scaling from a handful of trucks to hundreds this year. On this episode of TechCrunch’s Equity podcast, we’re bringing you a […]",
+      "date": "2026-05-07",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "self-driving",
+        "trucks",
+        "aurora",
+        "chris",
+        "urmson",
+        "handful",
+        "driverless",
+        "this"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:47.751630+00:00"
+    },
+    {
+      "id": "rss-c4509e52b84e",
+      "discipline": "cs",
+      "type": "news",
+      "title": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
+      "authors": "TechCrunch AI",
+      "abstract": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now.",
+      "date": "2026-05-07",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "days",
+        "left",
+        "second",
+        "pass",
+        "techcrunch",
+        "disrupt",
+        "save",
+        "your"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:47.751845+00:00"
+    },
+    {
+      "id": "rss-3791ec88d5a2",
+      "discipline": "cs",
+      "type": "news",
+      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+      "authors": "TechCrunch AI",
+      "abstract": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
+      "date": "2026-05-07",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "moonshot",
+        "china",
+        "raises",
+        "valuation",
+        "demand",
+        "open-source",
+        "skyrockets",
+        "annualized"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:47.752016+00:00"
+    },
+    {
+      "id": "rss-81eb35c716ed",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Spotify wants to become the home for AI-generated personal audio",
+      "authors": "TechCrunch AI",
+      "abstract": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify",
+      "date": "2026-05-07",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "spotify",
+        "wants",
+        "become",
+        "home",
+        "ai-generated",
+        "personal",
+        "audio",
+        "users"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:47.752151+00:00"
+    },
+    {
+      "id": "rss-9f7c982e0e7b",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
+      "authors": "TechCrunch AI",
+      "abstract": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
+      "date": "2026-05-07",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "spotify",
+        "supports",
+        "french",
+        "german",
+        "italian",
+        "brazilian",
+        "portuguese",
+        "feature"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:47.752287+00:00"
     },
     {
       "id": "rss-cd999bf9aedd",
@@ -484,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.049449+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.752461+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -516,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.110605+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.785312+00:00"
     },
     {
       "id": "rss-91ca0e356c1f",
@@ -548,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.049745+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.752626+00:00"
     },
     {
       "id": "rss-0d13b7a8a96d",
@@ -580,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.049932+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.752774+00:00"
     },
     {
       "id": "rss-bfdf804aa15e",
@@ -612,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.050084+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.752891+00:00"
     },
     {
       "id": "rss-a23fe800d47d",
@@ -644,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.050243+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.753018+00:00"
     },
     {
       "id": "rss-7542c6e0934f",
@@ -676,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.050418+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.753160+00:00"
     },
     {
       "id": "rss-efa80def8e2c",
@@ -708,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.050625+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.753311+00:00"
     },
     {
       "id": "rss-bbfc1897fd9f",
@@ -740,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.050790+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.753448+00:00"
     },
     {
       "id": "rss-bd0ef1964569",
@@ -772,167 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.050962+00:00"
-    },
-    {
-      "id": "rss-28922e313d43",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
-      "authors": "TechCrunch AI",
-      "abstract": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
-      "date": "2026-05-06",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "match",
-        "group",
-        "slowing",
-        "hiring",
-        "tools",
-        "tinder",
-        "owner",
-        "increased"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.051121+00:00"
-    },
-    {
-      "id": "rss-5045938f086f",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
-      "authors": "TechCrunch AI",
-      "abstract": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
-      "date": "2026-05-06",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "apple",
-        "settle",
-        "lawsuit",
-        "siri",
-        "features",
-        "over",
-        "delayed",
-        "agreed"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.051289+00:00"
-    },
-    {
-      "id": "rss-ea6a5592dbaf",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
-      "authors": "TechCrunch AI",
-      "abstract": "Ethos says it is onboarding 35,000 experts per week.",
-      "date": "2026-05-06",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ethos",
-        "onboarding",
-        "raises",
-        "expert",
-        "network",
-        "voice",
-        "says",
-        "experts"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.051431+00:00"
-    },
-    {
-      "id": "rss-20c101cdd69b",
-      "discipline": "cs",
-      "type": "news",
-      "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
-      "authors": "TechCrunch AI",
-      "abstract": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.",
-      "date": "2026-05-06",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "techcrunch",
-        "disrupt",
-        "your",
-        "questions",
-        "will",
-        "answered",
-        "leaders",
-        "coinbase"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.051640+00:00"
-    },
-    {
-      "id": "rss-5f5bf7584022",
-      "discipline": "cs",
-      "type": "news",
-      "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
-      "authors": "TechCrunch AI",
-      "abstract": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
-      "date": "2026-05-06",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ticket",
-        "second",
-        "disrupt",
-        "days",
-        "left",
-        "lock",
-        "techcrunch",
-        "three"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.051825+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.753617+00:00"
     },
     {
       "id": "rss-64416a2d9567",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.110792+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.785478+00:00"
     },
     {
       "id": "rss-eaba9e2355ac",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.380556+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.902304+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.110970+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.785659+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.111122+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.785798+00:00"
     },
     {
       "id": "openalex-0ddbb2ca14dd",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:31.733921+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.174667+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.111300+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.785955+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.111470+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.786102+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.111680+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.786249+00:00"
     },
     {
       "id": "rss-cad28f8f7789",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.111843+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.786383+00:00"
     },
     {
       "id": "rss-13388a8e5f35",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.381082+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.902809+00:00"
     },
     {
       "id": "rss-7bb4be9177ee",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.381274+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.902986+00:00"
     },
     {
       "id": "rss-be4fdeefc9f3",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.381472+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.903164+00:00"
     },
     {
       "id": "openalex-239a44a48c00",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:33.285582+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.499230+00:00"
     },
     {
       "id": "rss-1f80c194b5b3",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.381760+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.903385+00:00"
     },
     {
       "id": "rss-c4616f74e164",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.382010+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.903617+00:00"
     },
     {
       "id": "rss-0f84ef3f0583",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.112008+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.786520+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:31.731344+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.172216+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.694060+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.065143+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:31.732267+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.173077+00:00"
     },
     {
       "id": "rss-cb615cfe90b0",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.112193+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.786692+00:00"
     },
     {
       "id": "rss-5c81189b9e63",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.382252+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.903834+00:00"
     },
     {
       "id": "rss-b26d1f650cd0",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.112357+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.786833+00:00"
     },
     {
       "id": "rss-dc43b38ec903",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.382506+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.904063+00:00"
     },
     {
       "id": "openalex-477231997c65",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:31.733211+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.173990+00:00"
     },
     {
       "id": "rss-2f8399dc424b",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.382747+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.904249+00:00"
     },
     {
       "id": "rss-6efb6d7b298f",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.382927+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.904398+00:00"
     },
     {
       "id": "rss-14c5e4645cbf",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.112530+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.786965+00:00"
     },
     {
       "id": "rss-f5670b868fbb",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.112710+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.787108+00:00"
     },
     {
       "id": "rss-0d7f4ae03612",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:37.112860+00:00"
+      "_retrievedAt": "2026-05-07T14:48:47.787233+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:31.730119+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.171063+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:31.732627+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.173397+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:31.732929+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.173714+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:33.288953+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.502880+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2016,11 +2016,11 @@ window.LIVE_FEED_DATA = {
         "Obesity, Physical Activity, Diet"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.698816+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.067672+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:31.731614+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.172446+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2060,7 +2060,7 @@ window.LIVE_FEED_DATA = {
       "type": "paper",
       "title": "The AI risk repository: A meta-review, database, and taxonomy of risks from artificial intelligence",
       "authors": "Peter Slattery, Alexander K. Saeri, Emily A. C. Grundy, Jess Graham, Michael Noetel, Risto Uuk",
-      "abstract": "The risks posed by Artificial Intelligence (AI) are of considerable concern to academics, auditors, policymakers, AI companies, and the public. However, a lack of shared understanding of AI risks can impede our ability to comprehensively discuss, research, and react to them. This paper addresses this gap by creating an AI Risk Repository to serve as a common frame of reference. This comprises a living database of 777 risks extracted from 43 taxonomies, which can be filtered based on two overarching taxonomies and easily accessed, modified, and updated via our website and online spreadsheets. We construct our Repository with a systematic review of taxonomies and other structured classifications of AI risk followed by an expert consultation. We develop our taxonomies of AI risk using a best-fit framework synthesis. Our high-level Causal Taxonomy of AI Risks classifies each risk by its c...",
+      "abstract": "Artificial intelligence (AI) is reshaping society, from video generation to medical diagnosis, coding agents to autonomous vehicles. Yet researchers, policymakers, and technology companies lack shared terminology for discussing AI risks. Consider \"privacy\": one framework uses this term to describe a model's ability to leak sensitive training data, while another uses it to mean freedom from government surveillance. Conversely, researchers have introduced \"Goodhart's law,\" \"specification gaming,\" \"reward hacking,\" and \"mesa-optimization\" to describe the same phenomenon of AI systems optimizing for measured proxies rather than intended goals. This terminological diversity creates friction: comparing findings across studies requires mapping between frameworks, and comprehensive risk coverage requires consulting multiple taxonomies that use different organizing principles. This paper addre...",
       "date": "2026-03-01",
       "year": 2026,
       "journal": "Patterns",
@@ -2077,14 +2077,14 @@ window.LIVE_FEED_DATA = {
         "Ecology",
         "Artificial Intelligence in Healthcare and Education",
         "Explainable Artificial Intelligence (XAI)",
-        "risk"
+        "this"
       ],
       "readTime": "1 min",
       "citedBy": 27,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:31.729430+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.170405+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:31.730791+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.171700+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2148,7 +2148,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.136292+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.560400+00:00"
+    },
+    {
+      "id": "openalex-cbd8d34f9d26",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Copernicus Data Space Ecosystem establishes public cloud processing for earth observation data",
+      "authors": "Dávid D. Kovács, Jan Musial, Jędrzej S. Bojanowski, Dennis Clarijs, Jurry de la Mar, András Zlinszky",
+      "abstract": "The Copernicus Data Space Ecosystem is the official data platform for the Copernicus Programme's satellites. CDSE combines instant access to satellite imagery with Application Programming Interfaces and virtual machine processing. Instead of downloading satellite imagery for local computation, CDSE utilizes cloud-optimized files to provide data according to the filtering and processing request of the user, facilitating large-scale scientific analysis. Cloud computing on CDSE eliminates the need for users to rely on their own data infrastructure. The incorporated standards support both Open Science and commercialization of scientific tools and algorithms. CDSE serves all users from beginners to professionals, from the interactive visualization of imagery to custom ML algorithms. Acquiring the skills required to process Earth Observation data is facilitated by the open-source codebase a...",
+      "date": "2026-02-26",
+      "year": 2026,
+      "journal": "Scientific Data",
+      "source": "Scientific Data",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41597-026-06765-8",
+      "doi": "10.1038/s41597-026-06765-8",
+      "pdfUrl": "https://www.nature.com/articles/s41597-026-06765-8_reference.pdf",
+      "keywords": [
+        "Copernicus",
+        "Cloud computing",
+        "Upload",
+        "Computer science",
+        "Earth observation",
+        "Scientific Computing and Data Management",
+        "Cloud Computing and Resource Management",
+        "Knowledge Management and Technology"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:40.503443+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2180,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:33.286224+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.499868+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2212,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:33.286986+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.500553+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2244,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:33.287836+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.501346+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -2276,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.135713+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.559858+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2308,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.135391+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.559242+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2336,11 +2368,11 @@ window.LIVE_FEED_DATA = {
         "Glycogen Storage Diseases and Myoclonus"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.134685+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.558166+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -2372,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:31.730434+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.171367+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -2404,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:33.290579+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.504166+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -2436,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.136466+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.560558+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -2468,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.696996+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.068646+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -2500,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:33.286656+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.500245+00:00"
     },
     {
       "id": "openalex-de50ab633493",
@@ -2528,11 +2560,11 @@ window.LIVE_FEED_DATA = {
         "Persona Design and Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 25,
+      "citedBy": 27,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:31.729795+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.170754+00:00"
     },
     {
       "id": "openalex-41cd305bd1a4",
@@ -2564,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.136826+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.561153+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -2596,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:33.288189+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.501916+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -2628,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:33.289686+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.503838+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -2660,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.138459+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.562691+00:00"
     },
     {
       "id": "openalex-c3a1e2ef4d92",
@@ -2692,39 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.696699+00:00"
-    },
-    {
-      "id": "openalex-c247601395a1",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Deciphering the regulatory landscape of enhancer RNAs in health and disease",
-      "authors": "Qian Wang, Peter ten Dijke, Chuannan Fan",
-      "abstract": "Enhancers are distal cis-regulatory elements that orchestrate spatiotemporal gene expression patterns in response to developmental cues and environmental stimuli. Genetic and epigenetic alterations in enhancers are associated with the initiation and progression of human diseases, including cancers. Over the past few decades, accumulating evidence has revealed that a class of nascent RNA transcripts, known as enhancer RNAs (eRNAs), is broadly transcribed from active enhancers. These eRNA species contribute to complex and dynamic gene regulatory networks under both physiological and pathological conditions through diverse mechanisms. Notably, dysregulated eRNA expression has been reported across various cancer types and is often correlated with patient survival outcomes. Consequently, eRNAs are emerging as promising biomarkers and therapeutic targets for cancer treatment. This review pr...",
-      "date": "2026-01-29",
-      "year": 2026,
-      "journal": "Signal Transduction and Targeted Therapy",
-      "source": "Signal Transduction and Targeted Therapy",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41392-025-02436-z",
-      "doi": "10.1038/s41392-025-02436-z",
-      "pdfUrl": "https://doi.org/10.1038/s41392-025-02436-z",
-      "keywords": [
-        "Enhancer",
-        "Biology",
-        "Epigenetics",
-        "Disease",
-        "Computational biology",
-        "Genomics and Chromatin Dynamics",
-        "Chromatin Remodeling and Cancer",
-        "MicroRNA in disease regulation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.138803+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.068332+00:00"
     },
     {
       "id": "openalex-1f86c7cca72a",
@@ -2752,11 +2752,11 @@ window.LIVE_FEED_DATA = {
         "Potato Plant Research"
       ],
       "readTime": "1 min",
-      "citedBy": 3,
+      "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:33.290195+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.502160+00:00"
     },
     {
       "id": "openalex-64246eba8b87",
@@ -2788,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.694481+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.065565+00:00"
     },
     {
       "id": "openalex-926d6a7490c3",
@@ -2820,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:33.289259+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.503160+00:00"
     },
     {
       "id": "openalex-0f905eddbd8d",
@@ -2852,7 +2852,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.695647+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.066669+00:00"
+    },
+    {
+      "id": "openalex-c117d64f4c83",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "TREM2 expression level is critical for microglial state, metabolic capacity and efficacy of TREM2 agonism",
+      "authors": "Astrid Feiten, Kilian Dahm, Kai Schlepckow, Bettina van Lengerich, Jung H. Suh, Anika Reifschneider",
+      "abstract": "Triggering receptor expressed on myeloid cells 2 (TREM2) is a central regulator of microglial activity and loss-of-function coding variants are major risk factors for late onset Alzheimer's disease (LOAD). To better understand the molecular and functional changes associated with TREM2 signalling in microglia, we generated a TREM2 reporter mouse. In APP transgenic animals, bulk RNA-sequencing of isolated microglia sorted based on reporter expression highlighted TREM2 level-related changes in major immunometabolic pathways, and enrichment of genes in oxidative phosphorylation and cholesterol metabolism in microglia with increased TREM2 expression. Metabolic and lipidomic profiling of sorted microglia showed that, independent of Aβ pathology, TREM2 expression correlated with signatures consistent with increased cellular redox, energetics, and cholesterol homoeostasis. In accordance, meta...",
+      "date": "2026-01-24",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-68706-8",
+      "doi": "10.1038/s41467-026-68706-8",
+      "pdfUrl": "https://www.nature.com/articles/s41467-026-68706-8_reference.pdf",
+      "keywords": [
+        "TREM2",
+        "Microglia",
+        "Receptor",
+        "Cell biology",
+        "Biology",
+        "Neuroinflammation and Neurodegeneration Mechanisms",
+        "Neurological Disease Mechanisms and Treatments",
+        "Inflammation biomarkers and pathways"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:39.562073+00:00"
     },
     {
       "id": "openalex-f411a351f7cd",
@@ -2884,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.695997+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.067318+00:00"
     },
     {
       "id": "openalex-4cb2b8c203a9",
@@ -2916,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.699202+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.070082+00:00"
     },
     {
       "id": "openalex-8836692447ce",
@@ -2948,7 +2980,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.138122+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.562349+00:00"
+    },
+    {
+      "id": "openalex-3276beca323a",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Construction of complex and diverse DNA sequences using DNA three-way junctions",
+      "authors": "Noah Evan Robinson, Weilin Zhang, Rajesh Ghosh, Bryan Gerber, Hanqiao Zhang, Charles Sanfiorenzo",
+      "abstract": ". As a result of this paradigm, these sequences cannot be extensively optimized specifically for assembly without affecting the final sequence. To fundamentally address this challenge, here we show the development of a new DNA assembly technique named Sidewinder that separates the information that guides assembly from the final assembled sequence using DNA three-way junctions. We demonstrate the transformative nature of the Sidewinder technique with highly robust and accurate construction of a 40-piece multifragment assembly, complex DNA sequences of both high GC content and high repeats, parallel assembly of multiple distinct genes in the same reaction and a combinatorial library with a large number of diversified positions across the entire length of the gene for high coverage of a library of 442,368 variants. This technology enables high-fidelity DNA assembly with a misconnection r...",
+      "date": "2026-01-21",
+      "year": 2026,
+      "journal": "Nature",
+      "source": "Nature",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41586-025-10006-0",
+      "doi": "10.1038/s41586-025-10006-0",
+      "pdfUrl": "https://www.nature.com/articles/s41586-025-10006-0.pdf",
+      "keywords": [
+        "DNA",
+        "Construct (python library)",
+        "Sequence (biology)",
+        "DNA sequencing",
+        "Computational biology",
+        "Advanced biosensing and bioanalysis techniques",
+        "Chemical Synthesis and Analysis",
+        "RNA and protein synthesis mechanisms"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:39.560858+00:00"
     },
     {
       "id": "openalex-ac6c79930666",
@@ -2976,11 +3040,11 @@ window.LIVE_FEED_DATA = {
         "Autoimmune and Inflammatory Disorders Research"
       ],
       "readTime": "1 min",
-      "citedBy": 7,
+      "citedBy": 8,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.697725+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.066989+00:00"
     },
     {
       "id": "openalex-bb93237a0fcf",
@@ -3012,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:31.731019+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.171910+00:00"
     },
     {
       "id": "openalex-df339b7a5b5a",
@@ -3040,11 +3104,11 @@ window.LIVE_FEED_DATA = {
         "yolov"
       ],
       "readTime": "1 min",
-      "citedBy": 15,
+      "citedBy": 16,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:31.732006+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.172830+00:00"
     },
     {
       "id": "openalex-f990847d1a5f",
@@ -3076,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.694861+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.065922+00:00"
     },
     {
       "id": "openalex-fb70b0770e74",
@@ -3108,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.134314+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.558529+00:00"
     },
     {
       "id": "openalex-a66353e5014b",
@@ -3140,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.698420+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.069713+00:00"
     },
     {
       "id": "openalex-0aab5e881c06",
@@ -3172,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.137826+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.561777+00:00"
     },
     {
       "id": "openalex-37faa8822ee2",
@@ -3204,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.697367+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.069015+00:00"
     },
     {
       "id": "openalex-a6ab20a42ec7",
@@ -3236,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.695272+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.066319+00:00"
     },
     {
       "id": "openalex-3a1d6ab9d853",
@@ -3268,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.698102+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.069373+00:00"
     },
     {
       "id": "openalex-b68d078f3cf1",
@@ -3300,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:31.729026+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.170036+00:00"
     },
     {
       "id": "openalex-27886b005fe6",
@@ -3332,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.699577+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.070397+00:00"
     },
     {
       "id": "openalex-63c861fc15a4",
@@ -3364,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.134970+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.558838+00:00"
     },
     {
       "id": "openalex-2c570d06fd51",
@@ -3396,39 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.135999+00:00"
-    },
-    {
-      "id": "openalex-7dc17c73a60c",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "In vivo CRISPR/Cas9 screens identify new regulators of B cell activation and plasma cell differentiation",
-      "authors": "Lesly Calderón, Markus Schäfer, Marina Rončević, René Rauschmeier, Markus Jaritz, Tanja A. Schwickert",
-      "abstract": "Immune responses to pathogens lead to the generation of plasma cells through a complex interplay of B cells with their microenvironment in lymphoid organs. To identify new regulators of B cell activation and plasmablast differentiation in the context of the splenic microenvironment, we established an in vivo system for pooled sgRNA CRISPR/Cas9 screens in immunized mice. To improve the infection efficiency of naïve B cells, we generated Cd23-Cre Rosa26LSL-EcoR/+ mice exhibiting increased expression of the ecotropic lentivirus receptor EcoR on naïve B cells. Upon adoptive B cell transfer and immunization of recipient mice, 379 sgRNAs, targeting genes with high expression in plasma cells, were analyzed for their effects on plasmablast generation. Gene hits, encoding 23 positive and 18 negative regulators of B cell activation, plasmablast differentiation, or homeostasis, were uniquely ide...",
-      "date": "2026-01-09",
-      "year": 2026,
-      "journal": "The Journal of Experimental Medicine",
-      "source": "The Journal of Experimental Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1084/jem.20250594",
-      "doi": "10.1084/jem.20250594",
-      "pdfUrl": "https://doi.org/10.1084/jem.20250594",
-      "keywords": [
-        "B cell",
-        "Plasma cell",
-        "Immune system",
-        "Cell biology",
-        "Biology",
-        "CRISPR and Genetic Engineering",
-        "CAR-T cell therapy research",
-        "T-cell and B-cell Immunology"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.139130+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.560127+00:00"
     },
     {
       "id": "openalex-089f9f25bc5e",
@@ -3460,7 +3492,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:33.287368+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.500931+00:00"
+    },
+    {
+      "id": "openalex-562a416f2563",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "On the foundations of Earth foundation models",
+      "authors": "Xiao Xiang Zhu, Zhitong Xiong, Yi Wang, Adam J. Stewart, Konrad Heidler, Yuanyuan Wang",
+      "abstract": "Abstract Foundation models have enormous potential in advancing Earth sciences. However, current approaches may not be optimal, as they focus only on a few basic features of a desirable Earth foundation model. Crafting the ideal Earth foundation model, we define eleven features which would allow such a foundation model to be beneficial for any geoscientific downstream application in an environmental- and human-centric manner. We further shed light on the way forward to achieve the ideal model and to evaluate Earth foundation models. What comes after foundation models? Energy efficient adaptation, adversarial defenses, and interpretability are among the emerging directions.",
+      "date": "2026-01-08",
+      "year": 2026,
+      "journal": "Communications Earth & Environment",
+      "source": "Communications Earth & Environment",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s43247-025-03127-x",
+      "doi": "10.1038/s43247-025-03127-x",
+      "pdfUrl": "https://www.nature.com/articles/s43247-025-03127-x_reference.pdf",
+      "keywords": [
+        "Foundation (evidence)",
+        "Earth (classical element)",
+        "Ideal (ethics)",
+        "Engineering",
+        "Interpretability",
+        "Infrastructure Resilience and Vulnerability Analysis",
+        "Tropical and Extratropical Cyclones Research",
+        "Groundwater and Watershed Analysis"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-07T14:48:40.501569+00:00"
     },
     {
       "id": "openalex-168d4d7078ef",
@@ -3492,71 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:33.288584+00:00"
-    },
-    {
-      "id": "openalex-562a416f2563",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "On the foundations of Earth foundation models",
-      "authors": "Xiao Xiang Zhu, Zhitong Xiong, Yi Wang, Adam J. Stewart, Konrad Heidler, Yuanyuan Wang",
-      "abstract": "Abstract Foundation models have enormous potential in advancing Earth sciences. However, current approaches may not be optimal, as they focus only on a few basic features of a desirable Earth foundation model. Crafting the ideal Earth foundation model, we define eleven features which would allow such a foundation model to be beneficial for any geoscientific downstream application in an environmental- and human-centric manner. We further shed light on the way forward to achieve the ideal model and to evaluate Earth foundation models. What comes after foundation models? Energy efficient adaptation, adversarial defenses, and interpretability are among the emerging directions.",
-      "date": "2026-01-08",
-      "year": 2026,
-      "journal": "Communications Earth & Environment",
-      "source": "Communications Earth & Environment",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s43247-025-03127-x",
-      "doi": "10.1038/s43247-025-03127-x",
-      "pdfUrl": "https://www.nature.com/articles/s43247-025-03127-x_reference.pdf",
-      "keywords": [
-        "Foundation (evidence)",
-        "Earth (classical element)",
-        "Ideal (ethics)",
-        "Engineering",
-        "Interpretability",
-        "Infrastructure Resilience and Vulnerability Analysis",
-        "Tropical and Extratropical Cyclones Research",
-        "Groundwater and Watershed Analysis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:33.289933+00:00"
-    },
-    {
-      "id": "openalex-b519f808f241",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Water Versus Land on Temperate Rocky Planets",
-      "authors": "Claire Marie Guimond, Tilman Spohn, S. V. Berdyugina, P. D. Byrne, Nicolas Coltice, Donald M. Glaser",
-      "abstract": "Water and land surfaces on a planet interact in particular ways with gases in the atmosphere and with radiation from the star. These interactions define the environments that prevail on the planet, some of which may be more amenable to prebiotic chemistry, some to the evolution of more complex life. This review article covers (i) the physical conditions that determine the ratio of land to sea on a rocky planet, (ii) how this ratio would affect climatic and biologic processes, and (iii) whether future astronomical observations might constrain this ratio on exoplanets. Water can be delivered in multiple ways to a growing rocky planet - and although we may not agree on the contribution of different mechanism(s) to Earth's bulk water, hydrated building blocks and nebular ingassing could at least in principle supply several oceans' worth. The water that planets can sequester over eons in t...",
-      "date": "2026-01-08",
-      "year": 2026,
-      "journal": "Space Science Reviews",
-      "source": "Space Science Reviews",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s11214-025-01264-5",
-      "doi": "10.1007/s11214-025-01264-5",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11214-025-01264-5.pdf",
-      "keywords": [
-        "Planet",
-        "Astrobiology",
-        "Habitability",
-        "Terrestrial planet",
-        "Mantle (geology)",
-        "Astro and Planetary Science",
-        "Planetary Science and Exploration",
-        "Astronomy and Astrophysical Research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:33.290978+00:00"
+      "_retrievedAt": "2026-05-07T14:48:40.502519+00:00"
     },
     {
       "id": "openalex-8220ec188f46",
@@ -3588,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:31.733616+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.174357+00:00"
     },
     {
       "id": "openalex-3763f409b34a",
@@ -3616,11 +3616,11 @@ window.LIVE_FEED_DATA = {
         "Single-cell and spatial transcriptomics"
       ],
       "readTime": "1 min",
-      "citedBy": 4,
+      "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.137155+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.559562+00:00"
     },
     {
       "id": "openalex-64d9b2a5ccc3",
@@ -3652,7 +3652,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-07T08:47:32.137434+00:00"
+      "_retrievedAt": "2026-05-07T14:48:39.561405+00:00"
     }
   ]
 };
