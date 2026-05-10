@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T19:21:38.423958+00:00",
+  "generatedAt": "2026-05-10T04:13:13.990652+00:00",
   "total": 114,
   "sources": [
     "RSS",
@@ -7,13 +7,269 @@
   ],
   "papers": [
     {
+      "id": "rss-eeef411ce934",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New tool measures whether lactating mothers' psychological needs are being met",
+      "authors": "Medical Xpress",
+      "abstract": "A UH nursing researcher has developed the Lactation Psychological Needs Scale, providing a new way to measure the psychological experience of breastfeeding.",
+      "date": "2026-05-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-tool-lactating-mothers-psychological-met.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "psychological",
+        "needs",
+        "tool",
+        "measures",
+        "whether",
+        "lactating",
+        "mothers",
+        "being"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-10T04:13:13.385821+00:00"
+    },
+    {
+      "id": "rss-84b6ec2d825d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "'Decision fatigue' could be hurting your health. A nutritionist explains",
+      "authors": "Medical Xpress",
+      "abstract": "You're standing in a supermarket aisle, weighing up whether to buy a microwave meal or a bunch of fresh carrots. We all know making healthy eating choices can be tough. That's especially true if you are hungry, or have a hungry household to feed.",
+      "date": "2026-05-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-decision-fatigue-health-nutritionist.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "hungry",
+        "decision",
+        "fatigue",
+        "could",
+        "hurting",
+        "your",
+        "health",
+        "nutritionist"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-10T04:13:13.386101+00:00"
+    },
+    {
+      "id": "rss-9918b017fc20",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "8,500 steps a day can help dieters keep weight off, research suggests",
+      "authors": "Medical Xpress",
+      "abstract": "New research presented at the European Congress on Obesity (ECO 2026) in Istanbul, Turkey (12–15 May) and published in the International Journal of Environmental Research and Public Health shows that doing around 8,500 steps a day can help people keep weight off after dieting.",
+      "date": "2026-05-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-day-dieters-weight.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "steps",
+        "help",
+        "keep",
+        "weight",
+        "dieters",
+        "suggests",
+        "presented",
+        "european"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-10T04:13:13.386400+00:00"
+    },
+    {
+      "id": "rss-261a3e51f20d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Over half of parents in England are pestered by their children to buy junk food while food shopping, survey suggests",
+      "authors": "Medical Xpress",
+      "abstract": "A study using a nationally representative survey of parents in England, presented at the European Congress on Obesity (ECO 2026, Istanbul, Turkey, 12–15 May), reveals that over half (58%) of parents are frequently pestered by their children or teens to purchase products high in fats, salts and/or sugar (HFSS) when food shopping in stores or online, and almost three-quarters (72%) reported often buying the requested item.",
+      "date": "2026-05-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-parents-england-pestered-children-buy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "parents",
+        "food",
+        "over",
+        "half",
+        "england",
+        "pestered",
+        "their",
+        "children"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-10T04:13:13.386722+00:00"
+    },
+    {
+      "id": "rss-1b41ca6144ef",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Study shows benefits in obesity-linked conditions of losing more weight with GLP-1 treatment",
+      "authors": "Medical Xpress",
+      "abstract": "New research presented at the European Congress on Obesity (ECO 2026, Istanbul, Turkey, 12–15 May) shows that, following treatment for obesity or diabetes or both, using incretin-based drugs, losing more weight versus less weight, and losing a little weight versus gaining weight, both lead to a relatively lower risk of obesity-related conditions. The study is by Professor John Wilding of the University of Liverpool, UK, and colleagues.",
+      "date": "2026-05-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-benefits-obesity-linked-conditions-weight.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "weight",
+        "losing",
+        "shows",
+        "conditions",
+        "more",
+        "treatment",
+        "obesity",
+        "both"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-10T04:13:13.387032+00:00"
+    },
+    {
+      "id": "rss-fa0d68fded06",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Public education key in new cervical cancer screening",
+      "authors": "Medical Xpress",
+      "abstract": "As Canada moves to modernize cervical cancer screening, a new study suggests most women do not yet understand or trust the shift from the Pap test to human papillomavirus (HPV) based screening. The national survey, published in Current Oncology, examined women's preferences for cervical screening—including how they want to be screened and how they want information communicated—as Canada transitions from Pap tests to HPV testing.",
+      "date": "2026-05-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-key-cervical-cancer-screening.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "screening",
+        "cervical",
+        "cancer",
+        "canada",
+        "women",
+        "they",
+        "want",
+        "public"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-10T04:13:13.387353+00:00"
+    },
+    {
+      "id": "rss-b1998d929701",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Everyone on hantavirus-hit ship 'high-risk contact', must be monitored: WHO",
+      "authors": "Medical Xpress",
+      "abstract": "The World Health Organization said Saturday it considered everyone on board a cruise ship hit with a deadly hantavirus outbreak as \"high-risk\" contacts who should be actively monitored for 42 days.",
+      "date": "2026-05-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-hantavirus-ship-high-contact.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "everyone",
+        "ship",
+        "high-risk",
+        "monitored",
+        "hantavirus-hit",
+        "contact",
+        "must",
+        "world"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-10T04:13:13.387600+00:00"
+    },
+    {
+      "id": "rss-d55f488a5f4e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Health advice is all over social media. Here's how to vet claims",
+      "authors": "Medical Xpress",
+      "abstract": "Health and wellness advice is available in abundance on social media—from trendy to informative to straight-up disinformation—and you're far from alone in seeing it.",
+      "date": "2026-05-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-health-advice-social-media-vet.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "health",
+        "advice",
+        "social",
+        "media",
+        "over",
+        "here",
+        "claims",
+        "wellness"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-10T04:13:13.387839+00:00"
+    },
+    {
       "id": "rss-31133c9ffdcc",
       "discipline": "clinical",
       "type": "news",
       "title": "Why weight gain fears matter in recovery: 10-week program helps women build healthier habits",
       "authors": "Medical Xpress",
       "abstract": "A recent study in the Journal of Nutrition Education and Behavior examined the impact of the Healthy Steps to Freedom (HSF-10) program on nutrition, body image, and health-related behaviors among 607 women undergoing treatment for substance use. Findings demonstrated that participation in the 10-week intervention program was associated with significant improvements in nutrition behaviors, physical activity, and intuitive eating, alongside reductions in body dissatisfaction, thin-ideal internalization, and disordered eating behaviors.",
-      "date": "2026-05-09",
+      "date": "2026-05-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.821925+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.388133+00:00"
     },
     {
       "id": "rss-ff9a2d1ba07d",
@@ -45,7 +301,7 @@
       "title": "AI-powered electrocardiogram detects early signs of heart failure",
       "authors": "Medical Xpress",
       "abstract": "Interpreting relatively inexpensive electrocardiograms (ECGs) with an artificial intelligence (AI) algorithm accurately screened patients for a key precursor of heart failure in Kenya, a study led by UT Southwestern Medical Center researchers shows. The results, published in JAMA Cardiology, suggest AI-augmented ECG (AI-ECG) analysis could be a potential low-cost strategy for identifying patients who have underlying impairment in heart function.",
-      "date": "2026-05-09",
+      "date": "2026-05-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.822233+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.388427+00:00"
     },
     {
       "id": "rss-2ca064660e89",
@@ -77,7 +333,7 @@
       "title": "New survey finds that majority of Americans are concerned about high blood pressure, the 'silent killer'",
       "authors": "Medical Xpress",
       "abstract": "A new survey by Morning Consult and the nonprofit Physicians Committee for Responsible Medicine finds that a majority of Americans, 60%, are concerned about high blood pressure. Nearly half of Americans have high blood pressure according to the Centers for Disease Control and Prevention, and alarmingly, this condition is increasing among children.",
-      "date": "2026-05-09",
+      "date": "2026-05-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.822537+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.388695+00:00"
     },
     {
       "id": "rss-106a5d9dbaaf",
@@ -109,7 +365,7 @@
       "title": "Ultra‑processed food: Why the debate needs less fear and more clarity",
       "authors": "Medical Xpress",
       "abstract": "For many people interested in health and well-being, the idea of ultra-processed food, or UPF, has become more than a technical term in nutrition research. In public debate, it often serves as shorthand for wider concerns about modern, industrially produced food.",
-      "date": "2026-05-09",
+      "date": "2026-05-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.822808+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.388953+00:00"
     },
     {
       "id": "rss-accc4a9a1ee2",
@@ -141,7 +397,7 @@
       "title": "Malaria's hidden toll on children: Why survivors may struggle in school years later",
       "authors": "Medical Xpress",
       "abstract": "A disease transmitted by the bite of a tiny insect—one that once devastated entire armies—remains among the leading causes of death worldwide. In 2024 alone, there were 282 million cases of malaria reported and 610,000 deaths caused by the illness. Among those who have survived malaria due to proper treatment, the aftereffects can linger for a long time.",
-      "date": "2026-05-09",
+      "date": "2026-05-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.823100+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.389234+00:00"
     },
     {
       "id": "rss-434e570e6dc7",
@@ -173,7 +429,7 @@
       "title": "Hantavirus and tuberculosis cases: Should we be worried?",
       "authors": "Medical Xpress",
       "abstract": "Recent news reports have highlighted several infectious diseases incidents, including three tuberculosis clusters in Singapore and a suspected hantavirus outbreak on a cruise ship in the Atlantic Ocean.",
-      "date": "2026-05-09",
+      "date": "2026-05-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,263 +452,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.823358+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.389485+00:00"
     },
     {
-      "id": "rss-177a1ce66c5f",
-      "discipline": "clinical",
+      "id": "rss-a8efbaeb8d9a",
+      "discipline": "cs",
       "type": "news",
-      "title": "Head impacts are associated with altered gut microbiome in football players",
-      "authors": "Medical Xpress",
-      "abstract": "Non-concussive head impacts—hits to the head that don't cause clinically detectable symptoms—are correlated with subsequent changes to the gut microbiome in a small sample of US collegiate football players, according to a study published in PLOS One by Ahmet Ay and Kenneth Douglas Belanger of Colgate University, U.S., and colleagues.",
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "authors": "TechCrunch AI",
+      "abstract": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
       "date": "2026-05-09",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-impacts-gut-microbiome-football-players.html",
+      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "head",
-        "impacts",
-        "microbiome",
-        "football",
-        "players",
-        "associated",
-        "altered",
-        "non-concussive"
+        "terms",
+        "heard",
+        "these",
+        "nodded",
+        "along",
+        "that",
+        "rise",
+        "brought"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.823646+00:00"
-    },
-    {
-      "id": "rss-13d68698f575",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Hantavirus scare revives COVID-era conspiracy theories",
-      "authors": "Medical Xpress",
-      "abstract": "An outbreak of the deadly hantavirus on a Dutch-flagged cruise ship is reviving conspiracy theories about vaccines, alleged depopulation campaigns and miracle cures that flourished during the COVID pandemic.",
-      "date": "2026-05-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-hantavirus-revives-covid-era-conspiracy.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hantavirus",
-        "conspiracy",
-        "theories",
-        "scare",
-        "revives",
-        "covid-era",
-        "outbreak",
-        "deadly"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.823871+00:00"
-    },
-    {
-      "id": "rss-a3cf143f1f27",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "WHO says six hantavirus cases confirmed so far",
-      "authors": "Medical Xpress",
-      "abstract": "There are six confirmed cases of hantavirus so far out of eight suspected ones following an outbreak on a cruise ship, the World Health Organization said Friday.",
-      "date": "2026-05-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-hantavirus-cases.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hantavirus",
-        "cases",
-        "confirmed",
-        "says",
-        "there",
-        "eight",
-        "suspected",
-        "ones"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.824084+00:00"
-    },
-    {
-      "id": "rss-35f373ec4a64",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Blood-brain barrier scans could personalize stroke care using existing MRI data",
-      "authors": "Medical Xpress",
-      "abstract": "When a person first exhibits signs of having a stroke, the timing of treatment is critical to restore blood flow to the brain and support recovery. In addition to studying and implementing ways to treat patients faster, investigators have been studying how to make predicting and treating stroke more precise. A new study in the journal Stroke introduces a concept of brain imaging known as blood-brain core imaging, or \"leaky core,\" that could potentially accelerate this progress and transform the way that many strokes are treated.",
-      "date": "2026-05-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-blood-brain-barrier-scans-personalize.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "stroke",
-        "blood-brain",
-        "could",
-        "brain",
-        "studying",
-        "imaging",
-        "core",
-        "that"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.824405+00:00"
-    },
-    {
-      "id": "rss-aa83eb0bbe53",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "RFK Jr. launches plan to curb antidepressant 'overprescription'",
-      "authors": "Medical Xpress",
-      "abstract": "A new federal initiative aims to curb \"overprescribing\" of psychiatric medications while emphasizing holistic care.",
-      "date": "2026-05-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-rfk-jr-curb-antidepressant-overprescription.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "curb",
-        "launches",
-        "plan",
-        "antidepressant",
-        "overprescription",
-        "federal",
-        "initiative",
-        "aims"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.824618+00:00"
-    },
-    {
-      "id": "rss-f3d42c835d15",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "A new Medicare option for weight loss drugs: What older Americans should know",
-      "authors": "Medical Xpress",
-      "abstract": "Starting in July, Medicare beneficiaries may be able to get a GLP-1 prescription for weight loss for $50 a month. It's a notable shift for Medicare, which has long been barred from covering weight loss treatments.",
-      "date": "2026-05-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-medicare-option-weight-loss-drugs.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "medicare",
-        "weight",
-        "loss",
-        "option",
-        "drugs",
-        "what",
-        "older",
-        "americans"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.824858+00:00"
-    },
-    {
-      "id": "rss-3c1efe36f7ec",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "2017 to 2023 saw decrease in primary care visit rates, access in older adults",
-      "authors": "Medical Xpress",
-      "abstract": "Across Medicare beneficiaries, primary care visit rates and access decreased from 2017 to 2023, and telemedicine accounted for a small proportion of visits, according to a study published online in JAMA Health Forum.",
-      "date": "2026-05-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-decrease-primary-access-older-adults.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "primary",
-        "care",
-        "visit",
-        "rates",
-        "access",
-        "decrease",
-        "older",
-        "adults"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.825083+00:00"
-    },
-    {
-      "id": "rss-157145f7f915",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Does 432 Hz tuning improve well-being? Music psychologist unpacks the evidence",
-      "authors": "Medical Xpress",
-      "abstract": "If you scroll through social media for long enough, you'll probably find videos claiming that listening to songs tuned to \"A 432 Hz\" can provide an amazing sense of calmness or healing.",
-      "date": "2026-05-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-hz-tuning-music-psychologist-evidence.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "does",
-        "tuning",
-        "improve",
-        "well-being",
-        "music",
-        "psychologist",
-        "unpacks",
-        "evidence"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.825326+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.429283+00:00"
     },
     {
       "id": "rss-800e8ea569ee",
@@ -484,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.879950+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.429530+00:00"
     },
     {
       "id": "rss-d9bf0ba2a6fa",
@@ -516,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.880178+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.429710+00:00"
     },
     {
       "id": "rss-897b205482f7",
@@ -548,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.880395+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.429894+00:00"
     },
     {
       "id": "rss-30f49cfa22b7",
@@ -580,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.880570+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.430066+00:00"
     },
     {
       "id": "rss-02eab53e0a72",
@@ -612,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.880857+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.430392+00:00"
     },
     {
       "id": "rss-cb4d950b7a79",
@@ -644,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.881026+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.430577+00:00"
     },
     {
       "id": "rss-9239bd6009a8",
@@ -676,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.881225+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.430783+00:00"
     },
     {
       "id": "rss-050c9ffe7c49",
@@ -708,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.881432+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.430952+00:00"
     },
     {
       "id": "rss-cbc0560f5ba9",
@@ -740,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.881617+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.431137+00:00"
     },
     {
       "id": "rss-b38d5029a8cd",
@@ -772,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.881784+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.431307+00:00"
     },
     {
       "id": "rss-10b02dd9b634",
@@ -804,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.881941+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.431499+00:00"
     },
     {
       "id": "rss-72210f2873ed",
@@ -836,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.882128+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.431692+00:00"
     },
     {
       "id": "rss-64488ddf730d",
@@ -868,39 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.882337+00:00"
-    },
-    {
-      "id": "rss-eaf0dfc662d4",
-      "discipline": "cs",
-      "type": "news",
-      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
-      "authors": "TechCrunch AI",
-      "abstract": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
-      "date": "2026-05-07",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "anthropic",
-        "mythos",
-        "firefox",
-        "rewritten",
-        "approach",
-        "cybersecurity",
-        "security",
-        "researchers"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:37.882508+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.431885+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.013012+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.468310+00:00"
     },
     {
       "id": "rss-64416a2d9567",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.013201+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.468521+00:00"
     },
     {
       "id": "rss-eaba9e2355ac",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.287817+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.806242+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.013441+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.468703+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.013600+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.468856+00:00"
     },
     {
       "id": "openalex-0ddbb2ca14dd",
@@ -1092,7 +1092,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:31.967936+00:00"
+      "_retrievedAt": "2026-05-10T04:13:06.487859+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.013781+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.469035+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.013951+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.469204+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.014120+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.469406+00:00"
     },
     {
       "id": "rss-cad28f8f7789",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.014278+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.469575+00:00"
     },
     {
       "id": "rss-13388a8e5f35",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.288373+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.806767+00:00"
     },
     {
       "id": "rss-7bb4be9177ee",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.288578+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.806966+00:00"
     },
     {
       "id": "rss-be4fdeefc9f3",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.288781+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.807168+00:00"
     },
     {
       "id": "rss-1f80c194b5b3",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.289033+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.807445+00:00"
     },
     {
       "id": "rss-c4616f74e164",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.289304+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.807696+00:00"
     },
     {
       "id": "rss-0f84ef3f0583",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.014474+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.469742+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1444,7 +1444,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:31.965776+00:00"
+      "_retrievedAt": "2026-05-10T04:13:06.485620+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1476,7 +1476,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.885402+00:00"
+      "_retrievedAt": "2026-05-10T04:13:08.499030+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -1508,7 +1508,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:31.966690+00:00"
+      "_retrievedAt": "2026-05-10T04:13:06.486549+00:00"
     },
     {
       "id": "rss-cb615cfe90b0",
@@ -1540,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.014661+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.469931+00:00"
     },
     {
       "id": "rss-5c81189b9e63",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.289560+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.807941+00:00"
     },
     {
       "id": "rss-b26d1f650cd0",
@@ -1604,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.014826+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.470101+00:00"
     },
     {
       "id": "rss-dc43b38ec903",
@@ -1636,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.289822+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.808198+00:00"
     },
     {
       "id": "openalex-477231997c65",
@@ -1668,7 +1668,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:31.967637+00:00"
+      "_retrievedAt": "2026-05-10T04:13:06.487530+00:00"
     },
     {
       "id": "rss-2f8399dc424b",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.290045+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.808447+00:00"
     },
     {
       "id": "rss-6efb6d7b298f",
@@ -1732,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.290227+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.808634+00:00"
     },
     {
       "id": "rss-14c5e4645cbf",
@@ -1764,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.014981+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.470259+00:00"
     },
     {
       "id": "rss-f5670b868fbb",
@@ -1796,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.015152+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.470460+00:00"
     },
     {
       "id": "rss-0d7f4ae03612",
@@ -1828,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:38.015322+00:00"
+      "_retrievedAt": "2026-05-10T04:13:13.470616+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -1860,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:31.964551+00:00"
+      "_retrievedAt": "2026-05-10T04:13:06.484374+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -1892,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:31.967024+00:00"
+      "_retrievedAt": "2026-05-10T04:13:06.486895+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -1924,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:31.964195+00:00"
+      "_retrievedAt": "2026-05-10T04:13:06.484025+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -1956,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:31.967341+00:00"
+      "_retrievedAt": "2026-05-10T04:13:06.487187+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -1988,7 +1988,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:33.381607+00:00"
+      "_retrievedAt": "2026-05-10T04:13:09.339697+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2020,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.887013+00:00"
+      "_retrievedAt": "2026-05-10T04:13:08.500652+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2052,7 +2052,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:31.966027+00:00"
+      "_retrievedAt": "2026-05-10T04:13:06.485875+00:00"
+    },
+    {
+      "id": "openalex-2f9ab5b650c6",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Integrating microbiome insights into cervical cancer",
+      "authors": "Jhommara Bautista, Paula Cortiñas Sardi, Iván Paguay-Caisabanda, Kelly Gancino-Guevara, Andrés López-Cortés",
+      "abstract": "are frequently associated with antiviral conditions and mucosal stability, whereas anaerobe-enriched microbial profiles, commonly referred to as community state type IV (CST IV), are associated with chronic inflammation, metabolic dysregulation, and increased lesion severity. Microbial metabolites and inflammatory mediators may interact with HPV oncogene activity and host epigenetic regulation, supporting a microbiome-metabolome-epigenome axis in cervical carcinogenesis. The review also discusses emerging clinical implications, including microbiome-based biomarkers and microbiota-targeted interventions. While early studies suggest potential benefits of probiotics and postbiotics for HPV clearance and immune modulation, current evidence remains limited. Methodological heterogeneity, low-biomass sampling, and population variability continue to restrict causal inference and clinical tran...",
+      "date": "2026-03-02",
+      "year": 2026,
+      "journal": "Frontiers in Medicine",
+      "source": "Frontiers in Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/fmed.2026.1766052",
+      "doi": "10.3389/fmed.2026.1766052",
+      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1766052/pdf",
+      "keywords": [
+        "Cervical cancer",
+        "Microbiome",
+        "Medicine",
+        "Immune system",
+        "Cervical intraepithelial neoplasia",
+        "Reproductive tract infections research",
+        "Cervical Cancer and HPV Research",
+        "Gut microbiota and health"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-10T04:13:07.431697+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2084,7 +2116,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:31.965199+00:00"
+      "_retrievedAt": "2026-05-10T04:13:06.485032+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2116,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.385628+00:00"
+      "_retrievedAt": "2026-05-10T04:13:07.428765+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2148,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:33.382220+00:00"
+      "_retrievedAt": "2026-05-10T04:13:09.340316+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2180,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:33.378998+00:00"
+      "_retrievedAt": "2026-05-10T04:13:09.337453+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2212,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:33.379758+00:00"
+      "_retrievedAt": "2026-05-10T04:13:09.338195+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2244,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:33.380608+00:00"
+      "_retrievedAt": "2026-05-10T04:13:09.338676+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -2276,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.385032+00:00"
+      "_retrievedAt": "2026-05-10T04:13:07.428459+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2308,7 +2340,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.384735+00:00"
+      "_retrievedAt": "2026-05-10T04:13:07.428140+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2340,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.383659+00:00"
+      "_retrievedAt": "2026-05-10T04:13:07.427319+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -2372,7 +2404,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:31.964865+00:00"
+      "_retrievedAt": "2026-05-10T04:13:06.484697+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -2404,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:33.383013+00:00"
+      "_retrievedAt": "2026-05-10T04:13:09.341105+00:00"
     },
     {
       "id": "openalex-96ee8d992cf1",
@@ -2436,7 +2468,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:33.383595+00:00"
+      "_retrievedAt": "2026-05-10T04:13:09.341685+00:00"
+    },
+    {
+      "id": "openalex-b6dcc2aa867b",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Systematic Benchmarking of Climate Models: Methodologies, Applications, and New Directions",
+      "authors": "Birgit Haßler, Forrest M. Hoffman, Rebecca L. Beadling, Ed Blockley, Bo Huang, Jiwoo Lee",
+      "abstract": "Abstract As climate models become increasingly complex, there is a growing need to comprehensively and systematically assess model performance with respect to observations. Given the increasing number and diversity of climate model simulations in use, the community has moved beyond simple model intercomparison and toward developing methods capable of benchmarking a large number of simulations against a suite of climate metrics. Here, we present a detailed review of evaluation and benchmarking methods and approaches developed in the last decade, focusing primarily on scientific implications for Coupled Model Intercomparison Project (CMIP) simulations and CMIP6 results that contributed to the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report (AR6). Based on this review, we explain the resulting contemporary philosophy of model benchmarking, and provide clear disti...",
+      "date": "2026-02-08",
+      "year": 2026,
+      "journal": "Reviews of Geophysics",
+      "source": "Reviews of Geophysics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1029/2025rg000891",
+      "doi": "10.1029/2025rg000891",
+      "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025RG000891",
+      "keywords": [
+        "Benchmarking",
+        "Benchmark (surveying)",
+        "Climate model",
+        "Computer science",
+        "Downscaling",
+        "Climate variability and models",
+        "Climate change impacts on agriculture",
+        "Water-Energy-Food Nexus Studies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 2,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-10T04:13:09.342449+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -2468,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.385804+00:00"
+      "_retrievedAt": "2026-05-10T04:13:07.428946+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -2500,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.889223+00:00"
+      "_retrievedAt": "2026-05-10T04:13:08.503250+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -2532,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:33.379427+00:00"
+      "_retrievedAt": "2026-05-10T04:13:09.337870+00:00"
     },
     {
       "id": "openalex-de50ab633493",
@@ -2564,7 +2628,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:31.963843+00:00"
+      "_retrievedAt": "2026-05-10T04:13:06.483667+00:00"
     },
     {
       "id": "openalex-41cd305bd1a4",
@@ -2596,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.386414+00:00"
+      "_retrievedAt": "2026-05-10T04:13:07.429555+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -2628,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:33.380962+00:00"
+      "_retrievedAt": "2026-05-10T04:13:09.339033+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -2660,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:33.382661+00:00"
+      "_retrievedAt": "2026-05-10T04:13:09.340749+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -2692,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.388189+00:00"
+      "_retrievedAt": "2026-05-10T04:13:07.431408+00:00"
     },
     {
       "id": "openalex-c3a1e2ef4d92",
@@ -2724,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.888933+00:00"
+      "_retrievedAt": "2026-05-10T04:13:08.502932+00:00"
     },
     {
       "id": "openalex-303a67f19ada",
@@ -2756,7 +2820,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:33.383960+00:00"
+      "_retrievedAt": "2026-05-10T04:13:09.342046+00:00"
+    },
+    {
+      "id": "openalex-c247601395a1",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Deciphering the regulatory landscape of enhancer RNAs in health and disease",
+      "authors": "Qian Wang, Peter ten Dijke, Chuannan Fan",
+      "abstract": "Enhancers are distal cis-regulatory elements that orchestrate spatiotemporal gene expression patterns in response to developmental cues and environmental stimuli. Genetic and epigenetic alterations in enhancers are associated with the initiation and progression of human diseases, including cancers. Over the past few decades, accumulating evidence has revealed that a class of nascent RNA transcripts, known as enhancer RNAs (eRNAs), is broadly transcribed from active enhancers. These eRNA species contribute to complex and dynamic gene regulatory networks under both physiological and pathological conditions through diverse mechanisms. Notably, dysregulated eRNA expression has been reported across various cancer types and is often correlated with patient survival outcomes. Consequently, eRNAs are emerging as promising biomarkers and therapeutic targets for cancer treatment. This review pr...",
+      "date": "2026-01-29",
+      "year": 2026,
+      "journal": "Signal Transduction and Targeted Therapy",
+      "source": "Signal Transduction and Targeted Therapy",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41392-025-02436-z",
+      "doi": "10.1038/s41392-025-02436-z",
+      "pdfUrl": "https://doi.org/10.1038/s41392-025-02436-z",
+      "keywords": [
+        "Enhancer",
+        "Biology",
+        "Epigenetics",
+        "Disease",
+        "Computational biology",
+        "Genomics and Chromatin Dynamics",
+        "Chromatin Remodeling and Cancer",
+        "MicroRNA in disease regulation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-10T04:13:07.432012+00:00"
     },
     {
       "id": "openalex-1f86c7cca72a",
@@ -2788,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:33.381222+00:00"
+      "_retrievedAt": "2026-05-10T04:13:09.339296+00:00"
     },
     {
       "id": "openalex-64246eba8b87",
@@ -2820,7 +2916,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.885849+00:00"
+      "_retrievedAt": "2026-05-10T04:13:08.499487+00:00"
     },
     {
       "id": "openalex-926d6a7490c3",
@@ -2852,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:33.381914+00:00"
+      "_retrievedAt": "2026-05-10T04:13:09.340008+00:00"
     },
     {
       "id": "openalex-768268cb2012",
@@ -2884,7 +2980,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:31.968327+00:00"
+      "_retrievedAt": "2026-05-10T04:13:06.488235+00:00"
     },
     {
       "id": "openalex-0f905eddbd8d",
@@ -2916,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.887384+00:00"
+      "_retrievedAt": "2026-05-10T04:13:08.501008+00:00"
     },
     {
       "id": "openalex-c117d64f4c83",
@@ -2948,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.387106+00:00"
+      "_retrievedAt": "2026-05-10T04:13:07.430249+00:00"
     },
     {
       "id": "openalex-f411a351f7cd",
@@ -2980,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.888063+00:00"
+      "_retrievedAt": "2026-05-10T04:13:08.501737+00:00"
     },
     {
       "id": "openalex-4cb2b8c203a9",
@@ -3012,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.890762+00:00"
+      "_retrievedAt": "2026-05-10T04:13:08.504843+00:00"
     },
     {
       "id": "openalex-8836692447ce",
@@ -3044,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.387657+00:00"
+      "_retrievedAt": "2026-05-10T04:13:07.430802+00:00"
     },
     {
       "id": "openalex-45cce60efedd",
@@ -3076,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.387857+00:00"
+      "_retrievedAt": "2026-05-10T04:13:07.431008+00:00"
     },
     {
       "id": "openalex-3276beca323a",
@@ -3108,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.386079+00:00"
+      "_retrievedAt": "2026-05-10T04:13:07.429222+00:00"
     },
     {
       "id": "openalex-ac6c79930666",
@@ -3140,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.887722+00:00"
+      "_retrievedAt": "2026-05-10T04:13:08.501373+00:00"
     },
     {
       "id": "openalex-29bb0610031e",
@@ -3172,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.888233+00:00"
+      "_retrievedAt": "2026-05-10T04:13:08.501912+00:00"
     },
     {
       "id": "openalex-bb93237a0fcf",
@@ -3204,7 +3300,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:31.965445+00:00"
+      "_retrievedAt": "2026-05-10T04:13:06.485259+00:00"
     },
     {
       "id": "openalex-df339b7a5b5a",
@@ -3236,7 +3332,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:31.966429+00:00"
+      "_retrievedAt": "2026-05-10T04:13:06.486262+00:00"
     },
     {
       "id": "openalex-f990847d1a5f",
@@ -3268,7 +3364,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.886202+00:00"
+      "_retrievedAt": "2026-05-10T04:13:08.499844+00:00"
     },
     {
       "id": "openalex-fb70b0770e74",
@@ -3300,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.384017+00:00"
+      "_retrievedAt": "2026-05-10T04:13:07.427726+00:00"
     },
     {
       "id": "openalex-a66353e5014b",
@@ -3332,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.890371+00:00"
+      "_retrievedAt": "2026-05-10T04:13:08.504438+00:00"
     },
     {
       "id": "openalex-0aab5e881c06",
@@ -3364,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.386790+00:00"
+      "_retrievedAt": "2026-05-10T04:13:07.429924+00:00"
     },
     {
       "id": "openalex-37faa8822ee2",
@@ -3396,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.889636+00:00"
+      "_retrievedAt": "2026-05-10T04:13:08.503661+00:00"
     },
     {
       "id": "openalex-a6ab20a42ec7",
@@ -3428,7 +3524,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.886640+00:00"
+      "_retrievedAt": "2026-05-10T04:13:08.500260+00:00"
     },
     {
       "id": "openalex-3a1d6ab9d853",
@@ -3460,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.890020+00:00"
+      "_retrievedAt": "2026-05-10T04:13:08.504050+00:00"
     },
     {
       "id": "openalex-b68d078f3cf1",
@@ -3492,7 +3588,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:31.963467+00:00"
+      "_retrievedAt": "2026-05-10T04:13:06.483244+00:00"
     },
     {
       "id": "openalex-29511c394be2",
@@ -3524,7 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.387357+00:00"
+      "_retrievedAt": "2026-05-10T04:13:07.430505+00:00"
     },
     {
       "id": "openalex-7e184a0ae4b3",
@@ -3556,103 +3652,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:33.383198+00:00"
-    },
-    {
-      "id": "openalex-63c861fc15a4",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Systematic identification of single transcription factor perturbations that drive cellular and tissue rejuvenation",
-      "authors": "Janine Sengstack, Jiashun Zheng, Turan Aghayev, Gregor Bieri, Michael Mobaraki, Jue Lin",
-      "abstract": "Cellular rejuvenation through transcriptional reprogramming is an exciting approach to counter aging. Using a fibroblast-based model of human cell aging and Perturb-seq screening, we developed a systematic approach to identify single transcription factor (TF) perturbations that promote rejuvenation without dedifferentiation. Overexpressing E2F3 or EZH2, and repressing STAT3 or ZFX, reversed cellular hallmarks of aging-increasing proliferation, proteostasis, and mitochondrial activity, while decreasing senescence. EZH2 overexpression in vivo rejuvenated livers in aged mice, reversing aging-associated gene expression profiles, decreasing steatosis and fibrosis, and improving glucose tolerance. Mechanistically, single TF perturbations led to convergent downstream transcriptional programs conserved in different aging and rejuvenation models. These results suggest a shared set of molecular...",
-      "date": "2026-01-09",
-      "year": 2026,
-      "journal": "Proceedings of the National Academy of Sciences",
-      "source": "Proceedings of the National Academy of Sciences",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1073/pnas.2515183123",
-      "doi": "10.1073/pnas.2515183123",
-      "pdfUrl": "https://www.pnas.org/doi/pdf/10.1073/pnas.2515183123",
-      "keywords": [
-        "Rejuvenation",
-        "Transcription factor",
-        "Cell biology",
-        "Biology",
-        "Reprogramming",
-        "Telomeres, Telomerase, and Senescence",
-        "Pluripotent Stem Cells Research",
-        "Genetics, Aging, and Longevity in Model Organisms"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.384312+00:00"
-    },
-    {
-      "id": "openalex-2c570d06fd51",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "A SET domain-containing protein and HCF-1 maintain transgenerational epigenetic memory",
-      "authors": "Chenming Zeng, Giulia Furlan, Miguel Vasconcelos Almeida, Juan C. Rueda-Silva, Jonathan Price, Helena Santos-Rosa",
-      "abstract": "Transgenerational epigenetic inheritance (TEI) allows epigenetic information to pass across generations through mechanisms such as small RNAs and histone modifications. Histone methylation is often deposited by SET domain-containing methyltransferases. Some SET proteins lack catalytic activity but still regulate chromatin and gene expression. Here, we characterize SET-24, a catalytically inactive SET domain protein that localizes to germline nuclei and is essential for germline immortality in Caenorhabditis elegans. In set-24 mutants, small RNA-mediated epigenetic silencing is impaired. Proteomic, yeast two-hybrid, and pull-down assays show that SET-24 interacts with HCF-1, a chromatin factor linked to complexes like COMPASS, which deposits H3K4me3. Loss of SET-24 leads to increased H3K4me3 at transcription start sites of hundreds of genes. Although transcription remains largely uncha...",
-      "date": "2026-01-09",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-025-68200-7",
-      "doi": "10.1038/s41467-025-68200-7",
-      "pdfUrl": "https://www.nature.com/articles/s41467-025-68200-7_reference.pdf",
-      "keywords": [
-        "Epigenetics",
-        "Chromatin",
-        "Biology",
-        "H3K4me3",
-        "Histone",
-        "Epigenetics and DNA Methylation",
-        "Genomics and Chromatin Dynamics",
-        "RNA modifications and cancer"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:32.385333+00:00"
-    },
-    {
-      "id": "openalex-089f9f25bc5e",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Ocean Heat Content Sets Another Record in 2025",
-      "authors": "Yuying Pan, L. Cheng, John Abraham, Kevin E. Trenberth, James Reagan, Jifu Du",
-      "abstract": "Abstract Global ocean warming continued unabated in 2025 in response to increased greenhouse gas concentrations and recent reductions in sulfate aerosols, reflecting the long-term accumulation of heat within the climate system, with conditions evolving toward La Niña during the year. In 2025, global upper 2000 m ocean heat content (OHC) increased by ∼23 ± 8 ZJ relative to 2024 according to IAP/CAS estimates. CIGAR-RT, and Copernicus Marine data confirm the continued ocean heat gain. Regionally, about 33% of the global ocean area ranked among its historical (1958–2025) top three warmest conditions, while about 57% fell within the top five, including the tropical and South Atlantic Ocean, Mediterranean Sea, North Indian Ocean, and Southern Oceans, underscoring the broad ocean warming across basins. Multiple datasets consistently indicate ocean warming, as measured by 0–2000 m OHC, incre...",
-      "date": "2026-01-09",
-      "year": 2026,
-      "journal": "Advances in Atmospheric Sciences",
-      "source": "Advances in Atmospheric Sciences",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s00376-026-5876-0",
-      "doi": "10.1007/s00376-026-5876-0",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s00376-026-5876-0.pdf",
-      "keywords": [
-        "Ocean heat content",
-        "Climatology",
-        "Environmental science",
-        "Effects of global warming on oceans",
-        "Oceanography",
-        "Oceanographic and Atmospheric Processes",
-        "Climate variability and models",
-        "Tropical and Extratropical Cyclones Research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-09T19:21:33.380139+00:00"
+      "_retrievedAt": "2026-05-10T04:13:09.341291+00:00"
     }
   ]
 }
