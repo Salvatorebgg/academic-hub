@@ -1,11 +1,107 @@
 {
-  "generatedAt": "2026-05-10T08:21:29.194273+00:00",
+  "generatedAt": "2026-05-10T13:54:20.505776+00:00",
   "total": 114,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-bfce879dfc81",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Nasal spray developed for prehospital emergency aid for ischemic stroke",
+      "authors": "Medical Xpress",
+      "abstract": "A research team from Department of Pharmacology and Pharmacy at the LKS Faculty of Medicine, the University of Hong Kong (HKUMed), in collaboration with the InnoHK Advanced Biomedical Instrumentation Centre (ABIC), has developed the world's first \"NanoPowder nasal spray.\" This innovation successfully overcomes the challenge of crossing the blood-brain barrier (BBB), enabling the delivery of medication to the brain without the need for injections or surgery. When used promptly at the early onset of stroke, the nasal spray provides prehospital emergency treatment, helping to save time, thus protecting brain cells and reducing complications. In the long term, it has the potential to become a community-based emergency rescue tool.",
+      "date": "2026-05-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-nasal-spray-prehospital-emergency-aid.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nasal",
+        "spray",
+        "emergency",
+        "developed",
+        "prehospital",
+        "stroke",
+        "brain",
+        "ischemic"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-10T13:54:20.216302+00:00"
+    },
+    {
+      "id": "rss-95f7649aaa6d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Cutting calories by 10% to 15% may boost healthy aging without extreme diets",
+      "authors": "Medical Xpress",
+      "abstract": "Search the web, and you'll find any number of biohacking techniques for promoting healthy lifespan, from taking cold baths to breathing pressurized oxygen to sleeping under a red light.",
+      "date": "2026-05-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-staying-healthy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "healthy",
+        "cutting",
+        "calories",
+        "boost",
+        "aging",
+        "without",
+        "extreme",
+        "diets"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-10T13:54:20.216556+00:00"
+    },
+    {
+      "id": "rss-1c343345157f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Hantavirus-stricken cruise ship arrives at Tenerife in Spain's Canary Islands",
+      "authors": "Medical Xpress",
+      "abstract": "A hantavirus-stricken cruise ship with more than 140 people on board has arrived at Tenerife, the largest of Spain's Canary Islands, off the coast of West Africa, where the passengers and some of the crew are to disembark.",
+      "date": "2026-05-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-hantavirus-stricken-cruise-ship-tenerife.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "hantavirus-stricken",
+        "cruise",
+        "ship",
+        "tenerife",
+        "spain",
+        "canary",
+        "islands",
+        "arrives"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-10T13:54:20.216770+00:00"
+    },
     {
       "id": "rss-eeef411ce934",
       "discipline": "clinical",
@@ -36,7 +132,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.686394+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.216959+00:00"
     },
     {
       "id": "rss-84b6ec2d825d",
@@ -68,7 +164,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.686676+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.217175+00:00"
     },
     {
       "id": "rss-9918b017fc20",
@@ -100,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.686956+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.217406+00:00"
     },
     {
       "id": "rss-261a3e51f20d",
@@ -132,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.687298+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.217718+00:00"
     },
     {
       "id": "rss-1b41ca6144ef",
@@ -164,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.687606+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.217982+00:00"
     },
     {
       "id": "rss-fa0d68fded06",
@@ -196,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.687903+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.218235+00:00"
     },
     {
       "id": "rss-b1998d929701",
@@ -228,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.688206+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.218447+00:00"
     },
     {
       "id": "rss-d55f488a5f4e",
@@ -260,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.688454+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.218651+00:00"
     },
     {
       "id": "rss-31133c9ffdcc",
@@ -292,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.688752+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.218913+00:00"
     },
     {
       "id": "rss-ff9a2d1ba07d",
@@ -324,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.689042+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.219149+00:00"
     },
     {
       "id": "rss-2ca064660e89",
@@ -356,103 +452,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.689309+00:00"
-    },
-    {
-      "id": "rss-106a5d9dbaaf",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Ultra‑processed food: Why the debate needs less fear and more clarity",
-      "authors": "Medical Xpress",
-      "abstract": "For many people interested in health and well-being, the idea of ultra-processed food, or UPF, has become more than a technical term in nutrition research. In public debate, it often serves as shorthand for wider concerns about modern, industrially produced food.",
-      "date": "2026-05-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-ultraprocessed-food-debate-clarity.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "food",
-        "debate",
-        "more",
-        "ultra",
-        "processed",
-        "needs",
-        "less",
-        "fear"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.689567+00:00"
-    },
-    {
-      "id": "rss-accc4a9a1ee2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Malaria's hidden toll on children: Why survivors may struggle in school years later",
-      "authors": "Medical Xpress",
-      "abstract": "A disease transmitted by the bite of a tiny insect—one that once devastated entire armies—remains among the leading causes of death worldwide. In 2024 alone, there were 282 million cases of malaria reported and 610,000 deaths caused by the illness. Among those who have survived malaria due to proper treatment, the aftereffects can linger for a long time.",
-      "date": "2026-05-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-04-malaria-hidden-toll-children-survivors.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "malaria",
-        "among",
-        "hidden",
-        "toll",
-        "children",
-        "survivors",
-        "struggle",
-        "school"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.689851+00:00"
-    },
-    {
-      "id": "rss-434e570e6dc7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Hantavirus and tuberculosis cases: Should we be worried?",
-      "authors": "Medical Xpress",
-      "abstract": "Recent news reports have highlighted several infectious diseases incidents, including three tuberculosis clusters in Singapore and a suspected hantavirus outbreak on a cruise ship in the Atlantic Ocean.",
-      "date": "2026-05-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-hantavirus-tuberculosis-cases.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hantavirus",
-        "tuberculosis",
-        "cases",
-        "should",
-        "worried",
-        "recent",
-        "news",
-        "reports"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.690101+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.219377+00:00"
     },
     {
       "id": "rss-a8efbaeb8d9a",
@@ -484,7 +484,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.760953+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.235878+00:00"
     },
     {
       "id": "rss-800e8ea569ee",
@@ -516,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.761183+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.236055+00:00"
     },
     {
       "id": "rss-d9bf0ba2a6fa",
@@ -548,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.761361+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.236204+00:00"
     },
     {
       "id": "rss-897b205482f7",
@@ -580,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.761541+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.236358+00:00"
     },
     {
       "id": "rss-30f49cfa22b7",
@@ -612,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.761713+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.236524+00:00"
     },
     {
       "id": "rss-02eab53e0a72",
@@ -644,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.761995+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.236777+00:00"
     },
     {
       "id": "rss-cb4d950b7a79",
@@ -676,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.762221+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.236921+00:00"
     },
     {
       "id": "rss-9239bd6009a8",
@@ -708,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.762422+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.237096+00:00"
     },
     {
       "id": "rss-050c9ffe7c49",
@@ -740,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.762590+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.237240+00:00"
     },
     {
       "id": "rss-cbc0560f5ba9",
@@ -772,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.762775+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.237397+00:00"
     },
     {
       "id": "rss-b38d5029a8cd",
@@ -804,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.762943+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.237554+00:00"
     },
     {
       "id": "rss-10b02dd9b634",
@@ -836,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.763165+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.237691+00:00"
     },
     {
       "id": "rss-72210f2873ed",
@@ -868,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.763362+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.237857+00:00"
     },
     {
       "id": "rss-64488ddf730d",
@@ -900,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.763551+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.238023+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.797631+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.275970+00:00"
     },
     {
       "id": "rss-64416a2d9567",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.797817+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.276137+00:00"
     },
     {
       "id": "rss-eaba9e2355ac",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:29.059404+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.453729+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.797996+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.276288+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.798205+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.276417+00:00"
     },
     {
       "id": "openalex-0ddbb2ca14dd",
@@ -1092,7 +1092,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.039034+00:00"
+      "_retrievedAt": "2026-05-10T13:54:14.864948+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.798392+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.276594+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.798566+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.276742+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.798739+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.276888+00:00"
     },
     {
       "id": "rss-cad28f8f7789",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.798899+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.277030+00:00"
     },
     {
       "id": "rss-13388a8e5f35",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:29.059909+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.454210+00:00"
     },
     {
       "id": "rss-7bb4be9177ee",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:29.060145+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.454388+00:00"
     },
     {
       "id": "rss-be4fdeefc9f3",
@@ -1316,7 +1316,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:29.060356+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.454587+00:00"
+    },
+    {
+      "id": "openalex-239a44a48c00",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "authors": "Bourlon, Fabien, Bregolin, Michel, Rudzewicz, Laura",
+      "abstract": "Rosa dos Ventos abrange aspectos relacionados ao Turismo e a Hospitalidade, com foco na Educação, Epistemologia, Gastronomia, Gestão, Cultura e Meio Ambiente, em visão multidisciplinar do fenômeno turístico",
+      "date": "2026-04-28",
+      "year": 2026,
+      "journal": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "source": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.18226/21789061",
+      "doi": "10.18226/21789061",
+      "pdfUrl": "https://doi.org/10.18226/21789061",
+      "keywords": [
+        "Humanities",
+        "Political science",
+        "Art",
+        "Diverse Aspects of Tourism Research",
+        "Social and Economic Solidarity",
+        "Hospitality and Tourism Education",
+        "rosa",
+        "ventos"
+      ],
+      "readTime": "1 min",
+      "citedBy": 134,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-10T13:54:16.110528+00:00"
     },
     {
       "id": "rss-1f80c194b5b3",
@@ -1348,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:29.060615+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.454817+00:00"
     },
     {
       "id": "rss-c4616f74e164",
@@ -1380,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:29.060873+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.455042+00:00"
     },
     {
       "id": "rss-0f84ef3f0583",
@@ -1412,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.799100+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.277174+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1444,7 +1476,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.036866+00:00"
+      "_retrievedAt": "2026-05-10T13:54:14.863011+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1476,7 +1508,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.237346+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.734514+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -1508,7 +1540,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.037780+00:00"
+      "_retrievedAt": "2026-05-10T13:54:14.863826+00:00"
     },
     {
       "id": "rss-cb615cfe90b0",
@@ -1540,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.799335+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.277339+00:00"
     },
     {
       "id": "rss-5c81189b9e63",
@@ -1572,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:29.061153+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.455266+00:00"
     },
     {
       "id": "rss-b26d1f650cd0",
@@ -1604,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.799514+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.277522+00:00"
     },
     {
       "id": "rss-dc43b38ec903",
@@ -1636,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:29.061424+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.455508+00:00"
     },
     {
       "id": "openalex-477231997c65",
@@ -1668,7 +1700,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.038711+00:00"
+      "_retrievedAt": "2026-05-10T13:54:14.864675+00:00"
     },
     {
       "id": "rss-2f8399dc424b",
@@ -1700,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:29.061648+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.455711+00:00"
     },
     {
       "id": "rss-6efb6d7b298f",
@@ -1732,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:29.061836+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.455878+00:00"
     },
     {
       "id": "rss-14c5e4645cbf",
@@ -1764,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.799676+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.277669+00:00"
     },
     {
       "id": "rss-f5670b868fbb",
@@ -1796,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.799854+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.277821+00:00"
     },
     {
       "id": "rss-0d7f4ae03612",
@@ -1828,7 +1860,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:28.800038+00:00"
+      "_retrievedAt": "2026-05-10T13:54:20.277955+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -1860,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.035642+00:00"
+      "_retrievedAt": "2026-05-10T13:54:14.861895+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -1892,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.038135+00:00"
+      "_retrievedAt": "2026-05-10T13:54:14.864123+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -1924,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.035317+00:00"
+      "_retrievedAt": "2026-05-10T13:54:14.861598+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -1956,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.038429+00:00"
+      "_retrievedAt": "2026-05-10T13:54:14.864377+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -1988,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.634105+00:00"
+      "_retrievedAt": "2026-05-10T13:54:16.113377+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2020,7 +2052,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.238926+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.735948+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2052,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.037135+00:00"
+      "_retrievedAt": "2026-05-10T13:54:14.863237+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -2084,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.681294+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.361440+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2116,7 +2148,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.036316+00:00"
+      "_retrievedAt": "2026-05-10T13:54:14.862503+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2148,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.678426+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.358891+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2180,7 +2212,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.634734+00:00"
+      "_retrievedAt": "2026-05-10T13:54:16.113667+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2212,7 +2244,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.631838+00:00"
+      "_retrievedAt": "2026-05-10T13:54:16.111122+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2244,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.632613+00:00"
+      "_retrievedAt": "2026-05-10T13:54:16.111807+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2276,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.633082+00:00"
+      "_retrievedAt": "2026-05-10T13:54:16.112206+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -2308,7 +2340,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.678120+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.358616+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2340,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.677787+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.358324+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2372,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.676972+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.357603+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -2404,7 +2436,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.035956+00:00"
+      "_retrievedAt": "2026-05-10T13:54:14.862186+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -2436,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.635531+00:00"
+      "_retrievedAt": "2026-05-10T13:54:16.114350+00:00"
     },
     {
       "id": "openalex-96ee8d992cf1",
@@ -2468,39 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.636109+00:00"
-    },
-    {
-      "id": "openalex-b6dcc2aa867b",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Systematic Benchmarking of Climate Models: Methodologies, Applications, and New Directions",
-      "authors": "Birgit Haßler, Forrest M. Hoffman, Rebecca L. Beadling, Ed Blockley, Bo Huang, Jiwoo Lee",
-      "abstract": "Abstract As climate models become increasingly complex, there is a growing need to comprehensively and systematically assess model performance with respect to observations. Given the increasing number and diversity of climate model simulations in use, the community has moved beyond simple model intercomparison and toward developing methods capable of benchmarking a large number of simulations against a suite of climate metrics. Here, we present a detailed review of evaluation and benchmarking methods and approaches developed in the last decade, focusing primarily on scientific implications for Coupled Model Intercomparison Project (CMIP) simulations and CMIP6 results that contributed to the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report (AR6). Based on this review, we explain the resulting contemporary philosophy of model benchmarking, and provide clear disti...",
-      "date": "2026-02-08",
-      "year": 2026,
-      "journal": "Reviews of Geophysics",
-      "source": "Reviews of Geophysics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1029/2025rg000891",
-      "doi": "10.1029/2025rg000891",
-      "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025RG000891",
-      "keywords": [
-        "Benchmarking",
-        "Benchmark (surveying)",
-        "Climate model",
-        "Computer science",
-        "Downscaling",
-        "Climate variability and models",
-        "Climate change impacts on agriculture",
-        "Water-Energy-Food Nexus Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.636865+00:00"
+      "_retrievedAt": "2026-05-10T13:54:16.114845+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -2532,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.678605+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.359051+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -2564,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.241235+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.737957+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -2596,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.632283+00:00"
+      "_retrievedAt": "2026-05-10T13:54:16.111510+00:00"
     },
     {
       "id": "openalex-de50ab633493",
@@ -2628,7 +2628,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.034930+00:00"
+      "_retrievedAt": "2026-05-10T13:54:14.861257+00:00"
     },
     {
       "id": "openalex-41cd305bd1a4",
@@ -2660,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.679228+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.359605+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -2692,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.633446+00:00"
+      "_retrievedAt": "2026-05-10T13:54:16.112538+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -2724,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.635170+00:00"
+      "_retrievedAt": "2026-05-10T13:54:16.114036+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -2756,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.681020+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.361190+00:00"
     },
     {
       "id": "openalex-c3a1e2ef4d92",
@@ -2788,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.240913+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.737690+00:00"
     },
     {
       "id": "openalex-303a67f19ada",
@@ -2820,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.636485+00:00"
+      "_retrievedAt": "2026-05-10T13:54:16.115168+00:00"
     },
     {
       "id": "openalex-c247601395a1",
@@ -2852,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.681602+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.361722+00:00"
     },
     {
       "id": "openalex-1f86c7cca72a",
@@ -2884,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.633712+00:00"
+      "_retrievedAt": "2026-05-10T13:54:16.113049+00:00"
     },
     {
       "id": "openalex-64246eba8b87",
@@ -2916,7 +2916,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.237773+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.734909+00:00"
     },
     {
       "id": "openalex-926d6a7490c3",
@@ -2944,11 +2944,11 @@
         "Soil erosion and sediment transport"
       ],
       "readTime": "1 min",
-      "citedBy": 3,
+      "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.634421+00:00"
+      "_retrievedAt": "2026-05-10T13:54:16.112815+00:00"
     },
     {
       "id": "openalex-768268cb2012",
@@ -2980,7 +2980,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.039412+00:00"
+      "_retrievedAt": "2026-05-10T13:54:14.865287+00:00"
     },
     {
       "id": "openalex-0f905eddbd8d",
@@ -3012,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.239330+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.736420+00:00"
     },
     {
       "id": "openalex-c117d64f4c83",
@@ -3044,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.679921+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.360224+00:00"
     },
     {
       "id": "openalex-f411a351f7cd",
@@ -3076,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.240040+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.737050+00:00"
     },
     {
       "id": "openalex-4cb2b8c203a9",
@@ -3108,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.242723+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.739297+00:00"
     },
     {
       "id": "openalex-8836692447ce",
@@ -3140,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.680468+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.360705+00:00"
     },
     {
       "id": "openalex-45cce60efedd",
@@ -3172,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.680669+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.360890+00:00"
     },
     {
       "id": "openalex-3276beca323a",
@@ -3204,7 +3204,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.678887+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.359310+00:00"
+    },
+    {
+      "id": "openalex-29bb0610031e",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Regulatory framework for polymer-based nanotherapeutics in clinical translation",
+      "authors": "Federico Stucchi, M. Li, Giuseppe Castellano, Francesco Cellesi",
+      "abstract": "performance. Highlighting the mismatch between nanoscale properties and existing regulatory expectations, this review underscores the need for a harmonized, science-driven framework to ensure safety, efficacy, and global acceptance of PNs.",
+      "date": "2026-01-21",
+      "year": 2026,
+      "journal": "Frontiers in Bioengineering and Biotechnology",
+      "source": "Frontiers in Bioengineering and Biotechnology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/fbioe.2026.1735885",
+      "doi": "10.3389/fbioe.2026.1735885",
+      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2026.1735885/pdf",
+      "keywords": [
+        "Risk analysis (engineering)",
+        "Standardization",
+        "Computer science",
+        "Scalability",
+        "Key (lock)",
+        "Nanoparticle-Based Drug Delivery",
+        "Advanced Drug Delivery Systems",
+        "RNA Interference and Gene Delivery"
+      ],
+      "readTime": "1 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-10T13:54:15.736103+00:00"
     },
     {
       "id": "openalex-ac6c79930666",
@@ -3236,39 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.239670+00:00"
-    },
-    {
-      "id": "openalex-29bb0610031e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Regulatory framework for polymer-based nanotherapeutics in clinical translation",
-      "authors": "Federico Stucchi, M. Li, Giuseppe Castellano, Francesco Cellesi",
-      "abstract": "performance. Highlighting the mismatch between nanoscale properties and existing regulatory expectations, this review underscores the need for a harmonized, science-driven framework to ensure safety, efficacy, and global acceptance of PNs.",
-      "date": "2026-01-21",
-      "year": 2026,
-      "journal": "Frontiers in Bioengineering and Biotechnology",
-      "source": "Frontiers in Bioengineering and Biotechnology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fbioe.2026.1735885",
-      "doi": "10.3389/fbioe.2026.1735885",
-      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2026.1735885/pdf",
-      "keywords": [
-        "Risk analysis (engineering)",
-        "Standardization",
-        "Computer science",
-        "Scalability",
-        "Key (lock)",
-        "Nanoparticle-Based Drug Delivery",
-        "Advanced Drug Delivery Systems",
-        "RNA Interference and Gene Delivery"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.240220+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.736735+00:00"
     },
     {
       "id": "openalex-bb93237a0fcf",
@@ -3300,7 +3300,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.036538+00:00"
+      "_retrievedAt": "2026-05-10T13:54:14.862709+00:00"
     },
     {
       "id": "openalex-df339b7a5b5a",
@@ -3332,7 +3332,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.037524+00:00"
+      "_retrievedAt": "2026-05-10T13:54:14.863594+00:00"
     },
     {
       "id": "openalex-f990847d1a5f",
@@ -3364,7 +3364,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.238152+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.735228+00:00"
     },
     {
       "id": "openalex-fb70b0770e74",
@@ -3396,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.677357+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.357941+00:00"
     },
     {
       "id": "openalex-a66353e5014b",
@@ -3428,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.242337+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.738949+00:00"
     },
     {
       "id": "openalex-0aab5e881c06",
@@ -3460,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.679601+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.359941+00:00"
     },
     {
       "id": "openalex-37faa8822ee2",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.241612+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.738292+00:00"
     },
     {
       "id": "openalex-a6ab20a42ec7",
@@ -3524,7 +3524,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.238568+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.735616+00:00"
     },
     {
       "id": "openalex-3a1d6ab9d853",
@@ -3556,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.241983+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.738655+00:00"
     },
     {
       "id": "openalex-b68d078f3cf1",
@@ -3588,7 +3588,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.034569+00:00"
+      "_retrievedAt": "2026-05-10T13:54:14.860893+00:00"
     },
     {
       "id": "openalex-29511c394be2",
@@ -3620,7 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:23.680173+00:00"
+      "_retrievedAt": "2026-05-10T13:54:15.360440+00:00"
     },
     {
       "id": "openalex-7e184a0ae4b3",
@@ -3652,7 +3652,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-10T08:21:24.635718+00:00"
+      "_retrievedAt": "2026-05-10T13:54:16.114524+00:00"
     }
   ]
 }
