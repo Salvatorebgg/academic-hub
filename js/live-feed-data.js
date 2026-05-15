@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-05-14T20:01:29.550838+00:00",
+  "generatedAt": "2026-05-15T04:16:37.867964+00:00",
   "total": 114,
   "sources": [
     "RSS",
@@ -7,452 +7,548 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-702cf0ce342e",
+      "id": "rss-c0aa9082daa5",
       "discipline": "clinical",
       "type": "news",
-      "title": "Tumor gene changes linked to shorter gallbladder cancer survival, analysis shows",
+      "title": "Trump and Kennedy seek to relax safeguards for AI health care tools",
       "authors": "Medical Xpress",
-      "abstract": "Gallbladder cancer (GBC) is an extremely aggressive biliary tract malignancy characterized by silent early progression, late-stage diagnosis and poor prognosis. It is one of the most lethal gastrointestinal cancers, with a five-year survival rate often below 10%, partly because only about 10–20% of patients are eligible for curative surgical resection at diagnosis.",
-      "date": "2026-05-14",
+      "abstract": "Paul Boyer, a psychotherapist for Kaiser Permanente in Oakland, California, is experiencing the AI revolution firsthand. He's a little underwhelmed. The health giant has rolled out a new suite of note-taking software, made by health care AI pioneer Abridge, intended to summarize a patient's visit at supersonic speed. For many clinicians, the technology soothes one of the persistent headaches of their lives—administration and paperwork.",
+      "date": "2026-05-15",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-tumor-gene-linked-shorter-gallbladder.html",
+      "url": "https://medicalxpress.com/news/2026-05-trump-kennedy-safeguards-ai-health.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "gallbladder",
-        "cancer",
-        "survival",
-        "diagnosis",
-        "tumor",
-        "gene",
-        "changes",
-        "linked"
+        "health",
+        "care",
+        "trump",
+        "kennedy",
+        "seek",
+        "relax",
+        "safeguards",
+        "tools"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.906147+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.215283+00:00"
     },
     {
-      "id": "rss-3d32c09963eb",
+      "id": "rss-84513fc7b2f3",
       "discipline": "clinical",
       "type": "news",
-      "title": "Research shows individual protein needs vary widely, challenging the idea of a single daily target",
+      "title": "Medications initiated in 30% of hospitalizations for alcohol use disorder among Veterans",
       "authors": "Medical Xpress",
-      "abstract": "Protein has become the star of the modern diet. From shakes, bars and powders to viral fitness advice, the message seems clear: more protein equals better health. But research from Texas A&M University suggests it's not that simple.",
-      "date": "2026-05-14",
+      "abstract": "Within the Veterans Health Administration (VHA), 30% of hospitalizations for alcohol use disorder (AUD) result in medications for AUD (MAUD) initiation as an inpatient or within seven days of discharge, according to a study published online in the Annals of Internal Medicine.",
+      "date": "2026-05-15",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-individual-protein-vary-widely-idea.html",
+      "url": "https://medicalxpress.com/news/2026-05-medications-hospitalizations-alcohol-disorder-veterans.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "protein",
-        "shows",
-        "individual",
-        "needs",
-        "vary",
-        "widely",
-        "challenging",
-        "idea"
+        "medications",
+        "hospitalizations",
+        "alcohol",
+        "disorder",
+        "veterans",
+        "within",
+        "initiated",
+        "among"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.906416+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.215563+00:00"
     },
     {
-      "id": "rss-d61d824a3076",
+      "id": "rss-f6cc9bd0d1f0",
       "discipline": "clinical",
       "type": "news",
-      "title": "Diagnostic marker aids diagnosis for aggressive prostate cancer",
+      "title": "Nearly half of U.S. women have financial concerns that could impact health care, report suggests",
       "authors": "Medical Xpress",
-      "abstract": "The FOXA1 protein is a potentially highly sensitive diagnostic marker for small cell carcinoma of the prostate and possibly other aggressive prostate cancer subtypes that are difficult to diagnose due to a loss of traditional prostatic markers, according to researchers at The University of Texas MD Anderson Cancer Center. The study, published in Histopathology, was led by Jianping Zhao, M.D., Ph.D., assistant professor of Anatomic Pathology.",
-      "date": "2026-05-14",
+      "abstract": "Nearly half of U.S. women are more concerned about affording health care than about developing serious diseases, according to a national report released by the Cleveland Clinic.",
+      "date": "2026-05-15",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-diagnostic-marker-aids-diagnosis-aggressive.html",
+      "url": "https://medicalxpress.com/news/2026-05-women-financial-impact-health.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nearly",
+        "half",
+        "women",
+        "health",
+        "care",
+        "report",
+        "about",
+        "have"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T04:16:37.215804+00:00"
+    },
+    {
+      "id": "rss-1d596a7c4daa",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Clinical decision support system does not improve chronic kidney disease outcomes",
+      "authors": "Medical Xpress",
+      "abstract": "A clinical decision support system (CDSS) for chronic kidney disease (CKD) does not improve physician behavior or patient outcomes over a control intervention, according to a study published online May 8 in JAMA Network Open.",
+      "date": "2026-05-15",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-clinical-decision-chronic-kidney-disease.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "clinical",
+        "decision",
+        "support",
+        "system",
+        "does",
+        "improve",
+        "chronic",
+        "kidney"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T04:16:37.216077+00:00"
+    },
+    {
+      "id": "rss-f5eb8f90142e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Illegal gold mining causes surges in malaria in the Amazon, and the association is far worse than suspected",
+      "authors": "Medical Xpress",
+      "abstract": "Gold prices are at an all-time high, and we are very worried. As disease ecologists, it's not the economic instability that concerns us, but the fact that a surge in gold mining could have a devastating impact on human health.",
+      "date": "2026-05-15",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-illegal-gold-surges-malaria-amazon.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "gold",
+        "mining",
+        "that",
+        "illegal",
+        "causes",
+        "surges",
+        "malaria",
+        "amazon"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T04:16:37.216329+00:00"
+    },
+    {
+      "id": "rss-5ba74e512076",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Screening modestly reduces prostate cancer deaths, review finds",
+      "authors": "Medical Xpress",
+      "abstract": "Blood tests to detect potential signs of prostate cancer likely reduce the risk of dying from prostate cancer, an updated review finds. This is a shift from the previous version of the review, which did not find sufficient evidence that screening reduced prostate cancer deaths. The update appears in the Cochrane Database of Systematic Reviews.",
+      "date": "2026-05-15",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-screening-modestly-prostate-cancer-deaths.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "prostate",
         "cancer",
-        "diagnostic",
-        "marker",
-        "aggressive",
-        "aids",
-        "diagnosis",
-        "foxa"
+        "review",
+        "screening",
+        "deaths",
+        "finds",
+        "modestly",
+        "reduces"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.906665+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.216580+00:00"
     },
     {
-      "id": "rss-99c8dbc4ca5c",
+      "id": "rss-0714ecf7f8e2",
       "discipline": "clinical",
       "type": "news",
-      "title": "Scientists identify two proteins that drive fibrosis and show that they can be blocked",
+      "title": "Viagra could hold key to halting Peyronie's disease",
       "authors": "Medical Xpress",
-      "abstract": "The liver is often called a \"silent organ,\" as it can sustain significant damage without obvious symptoms. But when injury is prolonged, whether from alcohol, poor diet, or chronic hepatitis virus infection, it triggers fibrosis: a progressive hardening and scarring of liver tissue. Without effective intervention, fibrosis can advance to cirrhosis and liver cancer, one of the leading causes of cancer death worldwide. Despite decades of research, no approved therapy currently exists that can reliably halt or reverse fibrosis once it is established.",
-      "date": "2026-05-14",
+      "abstract": "Combining two widely prescribed drug classes could provide the first effective treatment for early-stage Peyronie's disease, according to a new study published in The Journal of Sexual Medicine.",
+      "date": "2026-05-15",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-scientists-proteins-fibrosis-blocked.html",
+      "url": "https://medicalxpress.com/news/2026-05-viagra-key-halting-peyronie-disease.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "fibrosis",
-        "that",
-        "liver",
-        "without",
-        "cancer",
-        "scientists",
-        "identify",
-        "proteins"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.906929+00:00"
-    },
-    {
-      "id": "rss-81a2c764d2fa",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Immune system overreaction linked to deadly flu in pregnancy",
-      "authors": "Medical Xpress",
-      "abstract": "In most people, influenza stays in the upper respiratory tract—mainly the nose—and clears without spreading further. But during pregnancy, the virus can extend beyond the lungs into the cardiovascular system, increasing the risk of severe complications for mothers and babies.",
-      "date": "2026-05-14",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-immune-overreaction-linked-deadly-flu.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "system",
-        "pregnancy",
-        "immune",
-        "overreaction",
-        "linked",
-        "deadly",
-        "most",
-        "people"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.907155+00:00"
-    },
-    {
-      "id": "rss-98b0dc15810a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Missing patient information in a national database may create blind spots in cancer data",
-      "authors": "Medical Xpress",
-      "abstract": "A significant number of cancer patients—particularly those with more advanced cancers who are more likely to receive care at community hospitals, safety net hospitals, and rural medical centers—may have incomplete case information in the Surveillance, Epidemiology, and End Results (SEER) database, according to a study published in the Journal of the American College of Surgeons. This finding, the researchers note, warrants careful consideration when interpreting studies that rely on SEER data.",
-      "date": "2026-05-14",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-patient-national-database-cancer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "information",
-        "database",
-        "cancer",
-        "more",
-        "hospitals",
-        "seer",
-        "missing",
-        "patient"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.907440+00:00"
-    },
-    {
-      "id": "rss-f95c0c1c5e4a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Paired antiviral approach pushes SARS-CoV-2 toward near-complete loss of infectivity",
-      "authors": "Medical Xpress",
-      "abstract": "A new study led by researchers at the University of Malaga proposes a new antiviral strategy against SARS-CoV-2—the virus responsible for causing COVID-19 disease—based on a treatment that combines two complementary approaches capable of attacking the virus simultaneously, forcing its instability and hindering its ability to adapt.",
-      "date": "2026-05-14",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-paired-antiviral-approach-sars-cov.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "antiviral",
-        "sars-cov-",
-        "virus",
-        "paired",
-        "approach",
-        "pushes",
-        "toward",
-        "near-complete"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.907679+00:00"
-    },
-    {
-      "id": "rss-a8bc2c7c0948",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "How trained community health officers cut Sierra Leone's maternal deaths by two-thirds",
-      "authors": "Medical Xpress",
-      "abstract": "Fourteen years ago, NTNU surgeon Håkon Bolkan made a prediction about a training program he and his colleagues had newly begun to expand access to surgery in the West African country of Sierra Leone.",
-      "date": "2026-05-14",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-community-health-officers-sierra-leone.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "sierra",
-        "leone",
-        "trained",
-        "community",
-        "health",
-        "officers",
-        "maternal",
-        "deaths"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.907892+00:00"
-    },
-    {
-      "id": "rss-d418ae961a7e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Lab-designed molecule offers hope for celiac disease sufferers",
-      "authors": "Medical Xpress",
-      "abstract": "A research project led by the Institute for Research in Nutrition and Food Safety (INSA) and the Faculty of Pharmacy and Food Sciences at the University of Barcelona, together with the Molecular Biology Institute of Barcelona (IBMB) of the CSIC (which stands for Consejo Superior de Investigaciones Científicas), has successfully designed and tested a gluten-degrading molecule that is a promising ally in the management of celiac disease, an autoimmune disease whose symptoms are triggered by the consumption of gluten and other prolamins found in cereals.",
-      "date": "2026-05-14",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-lab-molecule-celiac-disease.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
+        "could",
+        "peyronie",
         "disease",
-        "molecule",
-        "celiac",
-        "institute",
-        "food",
-        "barcelona",
-        "lab-designed",
-        "offers"
+        "viagra",
+        "hold",
+        "halting",
+        "combining",
+        "widely"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.908163+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.216803+00:00"
     },
     {
-      "id": "rss-c896278d26bd",
+      "id": "rss-dde5b8a448cc",
       "discipline": "clinical",
       "type": "news",
-      "title": "AI model predicts 10-year stroke risk based on routine cardiology test",
+      "title": "Antidepressant use in pregnancy shows no clear autism or ADHD link",
       "authors": "Medical Xpress",
-      "abstract": "A research team co-led by investigators at Mass General Brigham and the Broad Institute of MIT and Harvard has developed and validated an artificial intelligence model, known as ECG2Stroke, that can predict the risk of a stroke up to 10 years into the future using a single 10-second cardiology test. The work is published in JACC.",
-      "date": "2026-05-14",
+      "abstract": "Current evidence does not support a causal link between the use of almost all antidepressants during pregnancy and an increased risk of neurodevelopmental disorders, including autism and attention-deficit/hyperactivity disorder (ADHD), in children, according to a systematic review and meta-analysis published in The Lancet Psychiatry journal.",
+      "date": "2026-05-15",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-ai-year-based-routine-cardiology.html",
+      "url": "https://medicalxpress.com/news/2026-05-antidepressant-pregnancy-autism-adhd-link.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "stroke",
-        "risk",
-        "cardiology",
-        "test",
-        "predicts",
-        "year",
-        "routine",
-        "team"
+        "pregnancy",
+        "autism",
+        "adhd",
+        "link",
+        "antidepressant",
+        "shows",
+        "clear",
+        "current"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.908418+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.217111+00:00"
     },
     {
-      "id": "rss-06cf765869f8",
+      "id": "rss-2fa48c859d3d",
       "discipline": "clinical",
       "type": "news",
-      "title": "Restructured public hospitals kept more elderly patients local with fewer beds",
+      "title": "Endoscopic procedure associated with greater short-term weight loss than oral semaglutide, study finds",
       "authors": "Medical Xpress",
-      "abstract": "Despite their crucial function, public hospitals often face limited resources and financial distress, and an aging population can further exacerbate any imbalances in medical resource distribution. Furthermore, the proportion of aging individuals is not uniform across the country; in Japan, this has led to regional disparities in health care for the elderly.",
-      "date": "2026-05-14",
+      "abstract": "A comparative study, presented at ESGE Days 2026, has found that endoscopic sleeve gastroplasty (ESG) is associated with significantly greater short-term weight loss than oral semaglutide in adults with obesity.",
+      "date": "2026-05-15",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-hospitals-elderly-patients-local-beds.html",
+      "url": "https://medicalxpress.com/news/2026-05-endoscopic-procedure-greater-short-term.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "public",
-        "hospitals",
-        "elderly",
-        "aging",
-        "restructured",
-        "kept",
+        "endoscopic",
+        "associated",
+        "greater",
+        "short-term",
+        "weight",
+        "loss",
+        "than",
+        "oral"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T04:16:37.217351+00:00"
+    },
+    {
+      "id": "rss-c9b24ca50b6e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "More than 80% of infection-linked newborn deaths in South Africa may be preventable",
+      "authors": "Medical Xpress",
+      "abstract": "A study published in The Lancet Infectious Diseases Journal has identified that the vast majority of neonatal (newborn infant in the first 28 days of life) deaths caused by infections in South Africa and other low-and-middle-income countries could be prevented through improved clinical care and targeted medical interventions.",
+      "date": "2026-05-15",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-infection-linked-newborn-deaths-south.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "newborn",
+        "deaths",
+        "south",
+        "africa",
         "more",
-        "patients"
+        "than",
+        "infection-linked",
+        "preventable"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.908642+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.217602+00:00"
     },
     {
-      "id": "rss-a2c0ac0fee63",
+      "id": "rss-caf43b7f34d9",
       "discipline": "clinical",
       "type": "news",
-      "title": "Common NSAIDs in first trimester show no birth defect link, data suggest",
+      "title": "Mpox study reveals that hidden infections may fuel spread",
       "authors": "Medical Xpress",
-      "abstract": "Nonsteroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen and naproxen, taken during the first trimester of pregnancy are not associated with an increased risk of major birth defects, according to a new study published in PLOS Medicine by Sharon Daniel of Ben-Gurion University of the Negev and Clalit Health Services, Beer-Sheva, Israel, and colleagues.",
-      "date": "2026-05-14",
+      "abstract": "A Kaiser Permanente study of nearly 8,000 men shows that in mid- to late 2024, mpox was far more common than previously thought among men who had sex with men. Individuals without symptoms accounted for most infections and likely played a prominent role in transmission, contrary to prior assumptions that people had to be symptomatic to spread the disease. The study is published in the journal Nature Communications.",
+      "date": "2026-05-15",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-common-nsaids-trimester-birth-defect.html",
+      "url": "https://medicalxpress.com/news/2026-05-mpox-reveals-hidden-infections-fuel.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "nsaids",
-        "first",
-        "trimester",
-        "birth",
-        "common",
-        "show",
-        "defect",
-        "link"
+        "that",
+        "mpox",
+        "infections",
+        "spread",
+        "reveals",
+        "hidden",
+        "fuel",
+        "kaiser"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.908864+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.217865+00:00"
     },
     {
-      "id": "rss-9ed027c544f4",
+      "id": "rss-a25ab8b7b165",
       "discipline": "clinical",
       "type": "news",
-      "title": "Depressed mice successfully treated with smart contact lenses that zap their brains: New study",
+      "title": "Novel tool enables high-precision, low-cost pediatric leukemia diagnostics",
       "authors": "Medical Xpress",
-      "abstract": "Scientists in South Korea have developed experimental contact lenses designed to send electrical signals through the retina and into brain regions linked to mood. In mice, the technology appeared to improve depression-like behavior.",
-      "date": "2026-05-14",
+      "abstract": "Researchers have introduced a novel diagnostics method that can more sensitively detect gene fusions in B-cell acute lymphoblastic leukemia (B-ALL), the most common type of pediatric cancer, compared to other publicly available fusion detection algorithms. The tool, detailed in an article published in The Journal of Molecular Diagnostics, enables a higher diagnostic yield from low-coverage, low-cost sequencing.",
+      "date": "2026-05-15",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-depressed-mice-successfully-smart-contact.html",
+      "url": "https://medicalxpress.com/news/2026-05-tool-enables-high-precision-pediatric.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "mice",
-        "contact",
-        "lenses",
-        "depressed",
-        "successfully",
-        "treated",
-        "smart",
-        "that"
+        "diagnostics",
+        "novel",
+        "tool",
+        "enables",
+        "low-cost",
+        "pediatric",
+        "leukemia",
+        "high-precision"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.909068+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.218161+00:00"
     },
     {
-      "id": "rss-481c174414f6",
+      "id": "rss-7b3c913f7c6f",
       "discipline": "clinical",
       "type": "news",
-      "title": "France and Netherlands say all hantavirus contact cases negative",
+      "title": "Prenatal exposure to chemical mixtures may influence fetal growth through the placenta",
       "authors": "Medical Xpress",
-      "abstract": "France's health minister said Thursday that 26 people in France identified as close contacts of hantavirus cases linked to the MV Hondius cruise ship had tested negative for the illness.",
-      "date": "2026-05-14",
+      "abstract": "Common environmental chemicals could affect birthweight and placental function, according to a study published in Environmental Science & Technology and led by the Barcelona Institute for Global Health (ISGlobal). Conducted within the Barcelona Life Study Cohort (BiSC), the research underscores the importance of considering real-life exposure to complex chemical mixtures and highlights the role of angiogenic biomarkers in linking these exposures to fetal development.",
+      "date": "2026-05-15",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-france-netherlands-hantavirus-contact-cases.html",
+      "url": "https://medicalxpress.com/news/2026-05-prenatal-exposure-chemical-mixtures-fetal.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "france",
-        "hantavirus",
-        "cases",
-        "negative",
-        "netherlands",
-        "contact",
+        "exposure",
+        "chemical",
+        "mixtures",
+        "fetal",
+        "environmental",
+        "barcelona",
+        "prenatal",
+        "influence"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T04:16:37.218434+00:00"
+    },
+    {
+      "id": "rss-c86ea5cfcc9e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Cancer-linked viruses are showing up in Texas wastewater, opening a new path for public health",
+      "authors": "Medical Xpress",
+      "abstract": "A study published in Applied and Environmental Microbiology is the first comprehensive approach to detect all known cancer-causing or oncogenic viruses concurrently by analyzing viral genomes in wastewater. The work, a collaboration between Baylor College of Medicine and the University of Texas Health Science Center at Houston, shows that it is feasible to monitor the presence and levels of cancer-causing viruses, enabling the possibility of public health interventions in the future.",
+      "date": "2026-05-15",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-cancer-linked-viruses-texas-wastewater.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "viruses",
         "health",
-        "minister"
+        "texas",
+        "wastewater",
+        "public",
+        "cancer-causing",
+        "cancer-linked",
+        "showing"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.909259+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.218709+00:00"
+    },
+    {
+      "id": "rss-647d1b8f062e",
+      "discipline": "cs",
+      "type": "news",
+      "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+      "authors": "TechCrunch AI",
+      "abstract": "Here's what the biggest tech court case of the year is all about.",
+      "date": "2026-05-14",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "what",
+        "case",
+        "jury",
+        "will",
+        "actually",
+        "decide",
+        "elon",
+        "musk"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T04:16:37.269491+00:00"
+    },
+    {
+      "id": "rss-849b991dd89c",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+      "authors": "TechCrunch AI",
+      "abstract": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+      "date": "2026-05-14",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "elon",
+        "musk",
+        "spacexai",
+        "since",
+        "been",
+        "bleeding",
+        "staff",
+        "merger"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T04:16:37.269752+00:00"
+    },
+    {
+      "id": "rss-d4877d2d78a3",
+      "discipline": "cs",
+      "type": "news",
+      "title": "OpenAI says Codex is coming to your phone",
+      "authors": "TechCrunch AI",
+      "abstract": "The update gives users enhanced flexibility over how they can manage their workflows.",
+      "date": "2026-05-14",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "openai",
+        "says",
+        "codex",
+        "coming",
+        "your",
+        "phone",
+        "update",
+        "gives"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T04:16:37.269913+00:00"
     },
     {
       "id": "rss-788e06c044f7",
@@ -484,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.995726+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.270122+00:00"
     },
     {
       "id": "rss-e7f9c489f0d8",
@@ -492,7 +588,7 @@ window.LIVE_FEED_DATA = {
       "type": "news",
       "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
       "authors": "TechCrunch AI",
-      "abstract": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options.",
+      "abstract": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
       "date": "2026-05-14",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -503,20 +599,20 @@ window.LIVE_FEED_DATA = {
       "pdfUrl": "",
       "keywords": [
         "openai",
-        "reportedly",
-        "preparing",
         "legal",
         "action",
         "against",
         "apple",
-        "wouldn"
+        "that",
+        "reportedly",
+        "preparing"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.995925+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.270327+00:00"
     },
     {
       "id": "rss-122965125945",
@@ -548,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.996077+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.270495+00:00"
     },
     {
       "id": "rss-2ac7a2aaf4e8",
@@ -580,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.996209+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.270654+00:00"
     },
     {
       "id": "rss-1305976dca19",
@@ -612,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.996361+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.270810+00:00"
     },
     {
       "id": "rss-18a877abe8ed",
@@ -644,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.996513+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.271006+00:00"
     },
     {
       "id": "rss-a619e7c43992",
@@ -676,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.996654+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.271178+00:00"
     },
     {
       "id": "rss-a5852230e687",
@@ -708,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.996793+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.271347+00:00"
     },
     {
       "id": "rss-27de96cf2283",
@@ -740,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.996953+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.271533+00:00"
     },
     {
       "id": "rss-caee764e4af1",
@@ -772,7 +868,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.997091+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.271695+00:00"
+    },
+    {
+      "id": "rss-072e8cd7bee1",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Two from MIT named 2026 Knight-Hennessy Scholars",
+      "authors": "MIT News AI",
+      "abstract": "The prestigious fellowship funds graduate studies at Stanford University.",
+      "date": "2026-05-14",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/knight-hennessy-scholars-0514",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "named",
+        "knight-hennessy",
+        "scholars",
+        "prestigious",
+        "fellowship",
+        "funds",
+        "graduate",
+        "studies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T04:16:37.348084+00:00"
     },
     {
       "id": "rss-b93616916d4a",
@@ -804,103 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.997244+00:00"
-    },
-    {
-      "id": "rss-9ddcf0a33b1b",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
-      "authors": "TechCrunch AI",
-      "abstract": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
-      "date": "2026-05-13",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "turbines",
-        "center",
-        "musk",
-        "running",
-        "nearly",
-        "unchecked",
-        "mississippi",
-        "colossus"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.997402+00:00"
-    },
-    {
-      "id": "rss-6fb7888c4cec",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-      "authors": "TechCrunch AI",
-      "abstract": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
-      "date": "2026-05-13",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "says",
-        "that",
-        "anthropic",
-        "future",
-        "will",
-        "anticipate",
-        "your",
-        "needs"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.997553+00:00"
-    },
-    {
-      "id": "rss-41c8776f76ed",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Who trusts Sam Altman?",
-      "authors": "TechCrunch AI",
-      "abstract": "\"I believe I am an honest and trustworthy businessperson,\" Altman testified in federal court.",
-      "date": "2026-05-13",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "altman",
-        "trusts",
-        "believe",
-        "honest",
-        "trustworthy",
-        "businessperson",
-        "testified",
-        "federal"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:28.997672+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.271878+00:00"
     },
     {
       "id": "rss-118e3c38b86e",
@@ -932,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.111852+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.348302+00:00"
     },
     {
       "id": "rss-41e8976955ef",
@@ -964,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.112030+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.348491+00:00"
     },
     {
       "id": "rss-e1bcf8f9c317",
@@ -996,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.361093+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.669454+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1028,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:20.928239+00:00"
+      "_retrievedAt": "2026-05-15T04:15:39.903980+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -1060,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:23.325133+00:00"
+      "_retrievedAt": "2026-05-15T04:15:42.195499+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -1092,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.112190+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.348670+00:00"
     },
     {
       "id": "rss-a4ddec72a3b1",
@@ -1124,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.361333+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.669704+00:00"
     },
     {
       "id": "rss-64416a2d9567",
@@ -1156,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.112361+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.348836+00:00"
     },
     {
       "id": "rss-eaba9e2355ac",
@@ -1188,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.361569+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.669984+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -1220,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.112515+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.349069+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -1252,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.112647+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.349228+00:00"
     },
     {
       "id": "openalex-0ddbb2ca14dd",
@@ -1284,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:20.932507+00:00"
+      "_retrievedAt": "2026-05-15T04:15:39.908752+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -1316,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.112803+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.349409+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1348,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.112948+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.349578+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1380,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.113096+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.349747+00:00"
     },
     {
       "id": "rss-cad28f8f7789",
@@ -1412,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.113233+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.349907+00:00"
     },
     {
       "id": "rss-13388a8e5f35",
@@ -1444,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.362026+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.670476+00:00"
     },
     {
       "id": "rss-7bb4be9177ee",
@@ -1476,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.362194+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.670667+00:00"
     },
     {
       "id": "rss-be4fdeefc9f3",
@@ -1508,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.362382+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.670865+00:00"
     },
     {
       "id": "rss-1f80c194b5b3",
@@ -1540,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.362601+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.671141+00:00"
     },
     {
       "id": "rss-c4616f74e164",
@@ -1572,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.362816+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.671391+00:00"
     },
     {
       "id": "rss-0f84ef3f0583",
@@ -1604,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.113386+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.350145+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1636,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:20.930713+00:00"
+      "_retrievedAt": "2026-05-15T04:15:39.906723+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1668,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:22.553015+00:00"
+      "_retrievedAt": "2026-05-15T04:15:41.545426+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -1700,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:20.931174+00:00"
+      "_retrievedAt": "2026-05-15T04:15:39.907261+00:00"
     },
     {
       "id": "rss-cb615cfe90b0",
@@ -1732,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.113550+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.350341+00:00"
     },
     {
       "id": "rss-5c81189b9e63",
@@ -1764,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.363028+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.671633+00:00"
     },
     {
       "id": "rss-b26d1f650cd0",
@@ -1796,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.113698+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.350510+00:00"
     },
     {
       "id": "rss-dc43b38ec903",
@@ -1828,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.363257+00:00"
+      "_retrievedAt": "2026-05-15T04:16:37.671890+00:00"
     },
     {
       "id": "openalex-477231997c65",
@@ -1860,39 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:20.931998+00:00"
-    },
-    {
-      "id": "rss-14c5e4645cbf",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Jacob Andreas and Brett McGuire named Edgerton Award winners",
-      "authors": "MIT News AI",
-      "abstract": "The associate professors of EECS and chemistry, respectively, are honored for exceptional contributions to teaching, research, and service at MIT.",
-      "date": "2026-04-17",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/jacob-andreas-brett-mcguire-edgerton-award-winners-0417",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "jacob",
-        "andreas",
-        "brett",
-        "mcguire",
-        "named",
-        "edgerton",
-        "award",
-        "winners"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:29.113835+00:00"
+      "_retrievedAt": "2026-05-15T04:15:39.908223+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:20.929261+00:00"
+      "_retrievedAt": "2026-05-15T04:15:39.905077+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:20.931486+00:00"
+      "_retrievedAt": "2026-05-15T04:15:39.907603+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:20.928966+00:00"
+      "_retrievedAt": "2026-05-15T04:15:39.904726+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:20.931744+00:00"
+      "_retrievedAt": "2026-05-15T04:15:39.907890+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:20.932198+00:00"
+      "_retrievedAt": "2026-05-15T04:15:39.908446+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:23.326515+00:00"
+      "_retrievedAt": "2026-05-15T04:15:42.197036+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:22.554780+00:00"
+      "_retrievedAt": "2026-05-15T04:15:41.546969+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:20.930940+00:00"
+      "_retrievedAt": "2026-05-15T04:15:39.906994+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:21.609856+00:00"
+      "_retrievedAt": "2026-05-15T04:15:40.686143+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:21.610597+00:00"
+      "_retrievedAt": "2026-05-15T04:15:40.686996+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:20.929859+00:00"
+      "_retrievedAt": "2026-05-15T04:15:39.905739+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:21.607987+00:00"
+      "_retrievedAt": "2026-05-15T04:15:40.684013+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:23.327065+00:00"
+      "_retrievedAt": "2026-05-15T04:15:42.197652+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:23.324056+00:00"
+      "_retrievedAt": "2026-05-15T04:15:42.194319+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:23.325448+00:00"
+      "_retrievedAt": "2026-05-15T04:15:42.195831+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:23.325845+00:00"
+      "_retrievedAt": "2026-05-15T04:15:42.196297+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -2436,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:21.607717+00:00"
+      "_retrievedAt": "2026-05-15T04:15:40.683684+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2468,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:21.607440+00:00"
+      "_retrievedAt": "2026-05-15T04:15:40.683374+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2500,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:21.606709+00:00"
+      "_retrievedAt": "2026-05-15T04:15:40.682535+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -2532,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:20.929556+00:00"
+      "_retrievedAt": "2026-05-15T04:15:39.905399+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -2564,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:23.327988+00:00"
+      "_retrievedAt": "2026-05-15T04:15:42.198697+00:00"
     },
     {
       "id": "openalex-96ee8d992cf1",
@@ -2596,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:23.328979+00:00"
+      "_retrievedAt": "2026-05-15T04:15:42.199841+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -2628,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:21.608147+00:00"
+      "_retrievedAt": "2026-05-15T04:15:40.684199+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -2660,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:22.556468+00:00"
+      "_retrievedAt": "2026-05-15T04:15:41.548974+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -2692,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:23.324453+00:00"
+      "_retrievedAt": "2026-05-15T04:15:42.194728+00:00"
     },
     {
       "id": "openalex-de50ab633493",
@@ -2724,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:20.928638+00:00"
+      "_retrievedAt": "2026-05-15T04:15:39.904364+00:00"
     },
     {
       "id": "openalex-41cd305bd1a4",
@@ -2756,7 +2756,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:21.608699+00:00"
+      "_retrievedAt": "2026-05-15T04:15:40.684806+00:00"
+    },
+    {
+      "id": "openalex-3cfa33454bba",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Repotrectinib in NTRK fusion–positive advanced solid tumors: a phase 1/2 trial",
+      "authors": "Benjamin Besse, Jessica J. Lin, Lyudmila Bazhenova, Koichi Goto, A. de Langen, Dong-Wan Kim",
+      "abstract": "solid tumors. ClinicalTrials.gov identifier: NCT03093116 .",
+      "date": "2026-02-01",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-025-04079-7",
+      "doi": "10.1038/s41591-025-04079-7",
+      "pdfUrl": "https://www.nature.com/articles/s41591-025-04079-7.pdf",
+      "keywords": [
+        "Medicine",
+        "Adverse effect",
+        "Clinical endpoint",
+        "Cohort",
+        "Internal medicine",
+        "Lung Cancer Treatments and Mutations",
+        "Melanoma and MAPK Pathways",
+        "Chronic Myeloid Leukemia Treatments"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T04:15:41.550528+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -2788,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:23.326162+00:00"
+      "_retrievedAt": "2026-05-15T04:15:42.196652+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -2820,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:23.327673+00:00"
+      "_retrievedAt": "2026-05-15T04:15:42.198347+00:00"
     },
     {
       "id": "openalex-52f50aa5a2fe",
@@ -2852,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:23.328282+00:00"
+      "_retrievedAt": "2026-05-15T04:15:42.199070+00:00"
     },
     {
       "id": "openalex-f33d651fb074",
@@ -2884,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:23.328655+00:00"
+      "_retrievedAt": "2026-05-15T04:15:42.199476+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -2916,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:21.610350+00:00"
+      "_retrievedAt": "2026-05-15T04:15:40.686693+00:00"
     },
     {
       "id": "openalex-c3a1e2ef4d92",
@@ -2948,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:22.556194+00:00"
+      "_retrievedAt": "2026-05-15T04:15:41.548646+00:00"
     },
     {
       "id": "openalex-2f0cc976fc68",
@@ -2980,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:22.557057+00:00"
+      "_retrievedAt": "2026-05-15T04:15:41.549644+00:00"
     },
     {
       "id": "openalex-c247601395a1",
@@ -3012,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:21.610878+00:00"
+      "_retrievedAt": "2026-05-15T04:15:40.687329+00:00"
     },
     {
       "id": "openalex-1f86c7cca72a",
@@ -3044,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:23.327307+00:00"
+      "_retrievedAt": "2026-05-15T04:15:42.197916+00:00"
     },
     {
       "id": "openalex-64246eba8b87",
@@ -3076,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:22.553763+00:00"
+      "_retrievedAt": "2026-05-15T04:15:41.546248+00:00"
     },
     {
       "id": "openalex-926d6a7490c3",
@@ -3108,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:23.326789+00:00"
+      "_retrievedAt": "2026-05-15T04:15:42.197348+00:00"
     },
     {
       "id": "openalex-0f905eddbd8d",
@@ -3140,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:22.555254+00:00"
+      "_retrievedAt": "2026-05-15T04:15:41.547554+00:00"
     },
     {
       "id": "openalex-c117d64f4c83",
@@ -3172,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:21.609334+00:00"
+      "_retrievedAt": "2026-05-15T04:15:40.685530+00:00"
     },
     {
       "id": "openalex-f411a351f7cd",
@@ -3204,7 +3236,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:22.555578+00:00"
+      "_retrievedAt": "2026-05-15T04:15:41.547911+00:00"
+    },
+    {
+      "id": "openalex-4cb2b8c203a9",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Gut microbiome–driven colorectal cancer via immune, metabolic, neural, and endocrine axes reprogramming",
+      "authors": "Jhommara Bautista, Mónica Lamas‐Maceiras, Camila Hidalgo-Tinoco, Antonio Guerra-Guerrero, Anapaula Betancourt-Velarde, Andrés López‐Cortés",
+      "abstract": "Colorectal cancer (CRC) is a leading cause of cancer mortality worldwide and is increasingly recognized as the outcome of complex host-microbe interactions. Beyond established genetic and environmental drivers, the gut microbiome has emerged as a causal and mechanistic contributor to CRC initiation, progression, and therapy response. This review synthesizes current molecular, ecological, and translational evidence to explain how gut microbial communities reprogram immune, metabolic, neural, and endocrine networks within the tumor microenvironment. CRC-associated dysbiosis is characterized by enrichment of pathobionts such as Fusobacterium nucleatum, pks⁺ Escherichia coli, and enterotoxigenic Bacteroides fragilis, and by loss of protective, short-chain-fatty-acid-producing commensals. These microbes promote carcinogenesis through genotoxin-induced DNA damage, epithelial barrier disrupt...",
+      "date": "2026-01-23",
+      "year": 2026,
+      "journal": "npj Biofilms and Microbiomes",
+      "source": "npj Biofilms and Microbiomes",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41522-025-00883-8",
+      "doi": "10.1038/s41522-025-00883-8",
+      "pdfUrl": "https://www.nature.com/articles/s41522-025-00883-8_reference.pdf",
+      "keywords": [
+        "Microbiome",
+        "Dysbiosis",
+        "Biology",
+        "Colorectal cancer",
+        "Carcinogenesis",
+        "Gut microbiota and health",
+        "Cancer Research and Treatments",
+        "Immune responses and vaccinations"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T04:15:41.550372+00:00"
     },
     {
       "id": "openalex-8836692447ce",
@@ -3236,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:21.609599+00:00"
+      "_retrievedAt": "2026-05-15T04:15:40.685830+00:00"
     },
     {
       "id": "openalex-45cce60efedd",
@@ -3268,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:21.610040+00:00"
+      "_retrievedAt": "2026-05-15T04:15:40.686352+00:00"
     },
     {
       "id": "openalex-3276beca323a",
@@ -3300,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:21.608410+00:00"
+      "_retrievedAt": "2026-05-15T04:15:40.684486+00:00"
     },
     {
       "id": "openalex-ac6c79930666",
@@ -3332,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:22.554450+00:00"
+      "_retrievedAt": "2026-05-15T04:15:41.546588+00:00"
     },
     {
       "id": "openalex-29bb0610031e",
@@ -3364,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:22.554936+00:00"
+      "_retrievedAt": "2026-05-15T04:15:41.547146+00:00"
     },
     {
       "id": "openalex-bb93237a0fcf",
@@ -3396,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:20.930057+00:00"
+      "_retrievedAt": "2026-05-15T04:15:39.905987+00:00"
     },
     {
       "id": "openalex-df339b7a5b5a",
@@ -3428,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:20.930415+00:00"
+      "_retrievedAt": "2026-05-15T04:15:39.906391+00:00"
     },
     {
       "id": "openalex-f990847d1a5f",
@@ -3460,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:22.553376+00:00"
+      "_retrievedAt": "2026-05-15T04:15:41.545792+00:00"
     },
     {
       "id": "openalex-fb70b0770e74",
@@ -3492,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:21.607046+00:00"
+      "_retrievedAt": "2026-05-15T04:15:40.682904+00:00"
     },
     {
       "id": "openalex-a66353e5014b",
@@ -3524,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:22.557708+00:00"
+      "_retrievedAt": "2026-05-15T04:15:41.549983+00:00"
     },
     {
       "id": "openalex-0aab5e881c06",
@@ -3556,7 +3620,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:21.609038+00:00"
+      "_retrievedAt": "2026-05-15T04:15:40.685206+00:00"
     },
     {
       "id": "openalex-37faa8822ee2",
@@ -3588,71 +3652,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:22.556802+00:00"
-    },
-    {
-      "id": "openalex-a6ab20a42ec7",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Social inclusion of people with severe mental illness: a review of current practices, evidence and unmet needs, and future directions",
-      "authors": "Claire Henderson, Yasuhiro Kotera, Brynmor Lloyd‐Evans, Gerald Jordan, Matthew Gorner, Anthony Salla",
-      "abstract": "Social inclusion means being able to participate in activities valued within one's community or wider society as one would wish. People with severe mental illness (i.e., psychoses, bipolar disorder, and severe depression) experience some of the highest rates of social exclusion compared to people with other disabilities. This is the case regardless of the availability of specialist mental health services. Therefore, questions arise about the extent to which mental health services can and do prioritize social inclusion as a goal of service provision, and what strategies are needed outside of mental health services, at the levels of legislation and policy, statutory services, and civil society. In this paper we consider what social inclusion means in different cultures and contexts, since the value attached to different activities varies by culture and by life stage and gender. We discu...",
-      "date": "2026-01-14",
-      "year": 2026,
-      "journal": "World Psychiatry",
-      "source": "World Psychiatry",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/wps.70031",
-      "doi": "10.1002/wps.70031",
-      "pdfUrl": "https://e-space.mmu.ac.uk/643660/1/Henderson_Social_Inclusion_v10.pdf",
-      "keywords": [
-        "Psychological intervention",
-        "Mental health",
-        "Inclusion (mineral)",
-        "Psychiatry",
-        "Medicine",
-        "Mental Health and Patient Involvement",
-        "Mental Health Treatment and Access",
-        "Schizophrenia research and treatment"
-      ],
-      "readTime": "1 min",
-      "citedBy": 10,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:22.554138+00:00"
-    },
-    {
-      "id": "openalex-3a1d6ab9d853",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Pathophysiology of reactive oxygen species (ROS)",
-      "authors": "José Manuel Pérez de la Lastra, Celia María Curieses Andrés, Elena Bustamante Munguira, Celia Andrés Juan, Eduardo Pérez-Lebeña",
-      "abstract": "Reactive oxygen species (ROS) are context-dependent mediators that function as second messengers at low, localized flux and as drivers of damage when production overruns buffering capacity. Outcomes are dictated by source identity, subcellular compartment and pulse kinetics—the “where–when–how much” rule. We synthesize advances (2015–2025) across principal generators—mitochondrial electron transport, NADPH oxidases, xanthine oxidoreductase and ER/peroxisomal oxidoreductases—to show how compartmental H2O2 microgradients encode reversible cysteine signaling, while iron-rich niches pivot chemistry toward peroxynitrite, Fenton-derived ·OH, lipid peroxidation and regulated cell death (apoptosis, ferroptosis, parthanatos). We integrate these mechanisms with endothelial dysfunction, innate immune priming, ECM remodeling and barrier failure across cardiovascular, metabolic, neurodegenerative,...",
-      "date": "2026-01-14",
-      "year": 2026,
-      "journal": "Archives of Toxicology",
-      "source": "Archives of Toxicology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s00204-025-04276-w",
-      "doi": "10.1007/s00204-025-04276-w",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s00204-025-04276-w.pdf",
-      "keywords": [
-        "Reactive oxygen species",
-        "Crosstalk",
-        "Cell biology",
-        "Chemistry",
-        "Redox",
-        "Ferroptosis and cancer prognosis",
-        "Neutrophil, Myeloperoxidase and Oxidative Mechanisms",
-        "Nitric Oxide and Endothelin Effects"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-14T20:01:22.557417+00:00"
+      "_retrievedAt": "2026-05-15T04:15:41.549352+00:00"
     }
   ]
 };
