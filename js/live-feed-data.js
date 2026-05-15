@@ -1,458 +1,522 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-05-15T09:25:27.728350+00:00",
-  "total": 99,
+  "generatedAt": "2026-05-15T14:33:52.170497+00:00",
+  "total": 114,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
     {
-      "id": "rss-0fe6cb8f2fdb",
+      "id": "rss-193eb20d12ca",
       "discipline": "clinical",
       "type": "news",
-      "title": "Researchers explore making behavioral health care more accessible",
+      "title": "Better brain health linked to resilience against early Alzheimer's in adults 65 to 80",
       "authors": "Medical Xpress",
-      "abstract": "A study published in the American Journal of Managed Care explores how integrating behavioral health care into primary care can improve outcomes and be cost-effective for adults with depression, anxiety and chronic pain who are on long-term opioid therapy.",
+      "abstract": "A healthy brain may help protect thinking and memory skills from the early effects of Alzheimer's disease, a new study has found. Dementia is currently the leading cause of death in Australia and Alzheimer's disease is its most common form—accounting for more than 70% of cases.",
       "date": "2026-05-15",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-explore-behavioral-health-accessible.html",
+      "url": "https://medicalxpress.com/news/2026-05-brain-health-linked-resilience-early.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "care",
-        "behavioral",
+        "alzheimer",
+        "brain",
+        "early",
+        "disease",
+        "better",
         "health",
-        "researchers",
-        "explore",
-        "making",
-        "more",
-        "accessible"
+        "linked",
+        "resilience"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:26.928491+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.505897+00:00"
     },
     {
-      "id": "rss-aef3e990ea4d",
+      "id": "rss-fbe1008a5d75",
       "discipline": "clinical",
       "type": "news",
-      "title": "What do Argentine scientists know about hantavirus so far?",
+      "title": "ADHD medications show dosage sweet spots, with little gain above limits",
       "authors": "Medical Xpress",
-      "abstract": "The Andes strain of hantavirus typically circulates via rodents, but human-to-human transmission such as the outbreak aboard the MV Hondius is not impossible either.",
+      "abstract": "Researchers have identified the best dosage for each ADHD medication using data from thousands of people with the condition. The new study published in The Lancet Psychiatry provides the most comprehensive view of dosage effects for five commonly used medications for ADHD. The study is titled \"Pharmacological interventions for ADHD: a systematic review and dose-effect network meta-analysis.\"",
       "date": "2026-05-15",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-argentine-scientists-hantavirus.html",
+      "url": "https://medicalxpress.com/news/2026-05-adhd-medications-dosage-sweet-gain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "adhd",
+        "dosage",
+        "medications",
+        "show",
+        "sweet",
+        "spots",
+        "little",
+        "gain"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:51.506172+00:00"
+    },
+    {
+      "id": "rss-63f9c2abee8b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Neuronal hyperactivity triggers severe autoimmune brain disorder, researchers discover",
+      "authors": "Medical Xpress",
+      "abstract": "In a condition known as \"IgLON5 encephalitis,\" the immune system mistakenly attacks cells in the brain. This leads to brain inflammation and neuronal damage, which can manifest as sleep disturbances, cognitive impairment, and movement disorders.",
+      "date": "2026-05-15",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-neuronal-hyperactivity-triggers-severe-autoimmune.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "neuronal",
+        "hyperactivity",
+        "triggers",
+        "severe",
+        "autoimmune",
+        "disorder",
+        "researchers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:51.506386+00:00"
+    },
+    {
+      "id": "rss-c62ae6a0c762",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Energy gels: Here's what runners need to know",
+      "authors": "Medical Xpress",
+      "abstract": "Sebastian Sawe ripped open a carbohydrate gel sachet and slurped it five minutes before the start of the 2026 London Marathon. Sixty minutes later, he inhaled another one before smashing through the two-hour marathon barrier.",
+      "date": "2026-05-15",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-energy-gels-runners.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "minutes",
+        "before",
+        "marathon",
+        "energy",
+        "gels",
+        "here",
+        "what",
+        "runners"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:51.506600+00:00"
+    },
+    {
+      "id": "rss-95aad4d1e185",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "A man's been convicted for spreading genital herpes: Why that might backfire",
+      "authors": "Medical Xpress",
+      "abstract": "In an Australian first, a Canberra man has been convicted of giving genital herpes to a sexual partner. The man pleaded guilty to the charge of \"recklessly inflicting grievous bodily harm,\" which carries a maximum sentence of 13 years. He will be serving his 13-month sentence, handed down last week, under a community correction order.",
+      "date": "2026-05-15",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-convicted-genital-herpes-backfire.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "been",
+        "convicted",
+        "genital",
+        "herpes",
+        "sentence",
+        "spreading",
+        "that",
+        "might"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:51.506827+00:00"
+    },
+    {
+      "id": "rss-e18c72b100fe",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Hantavirus: A cruise ship, a deer mouse and the fictional line between human and animal health",
+      "authors": "Medical Xpress",
+      "abstract": "In February 2025, the classical pianist Betsy Arakawa died in her New Mexico home from a virus most people had never heard of. Her husband, the actor Gene Hackman, died a week later of heart disease. The pathogen that killed her was hantavirus, almost certainly picked up from deer mouse droppings on the property.",
+      "date": "2026-05-15",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-hantavirus-cruise-ship-deer-mouse.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "hantavirus",
+        "deer",
+        "mouse",
+        "died",
+        "cruise",
+        "ship",
+        "fictional",
+        "line"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:51.507050+00:00"
+    },
+    {
+      "id": "rss-f2f91f0c452b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "What the 2026 World Cup means for measles risk in Vancouver",
+      "authors": "Medical Xpress",
+      "abstract": "With less than five weeks until kickoff, and hundreds of thousands of visitors expected, Vancouver is preparing for the FIFA World Cup 2026 following British Columbia's worst measles outbreak in years.",
+      "date": "2026-05-15",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-world-cup-measles-vancouver.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "world",
+        "measles",
+        "vancouver",
         "what",
-        "argentine",
-        "scientists",
-        "know",
-        "about",
-        "andes",
-        "strain"
+        "means",
+        "risk",
+        "less",
+        "than"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:26.928759+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.507244+00:00"
     },
     {
-      "id": "rss-58b9f1a6bd0c",
+      "id": "rss-4ae2a83e340b",
       "discipline": "clinical",
       "type": "news",
-      "title": "'Engineered for addiction': WHO slams soaring nicotine pouch sales",
+      "title": "Should vitamin D be taken in the winter, or for bone or immune health?",
       "authors": "Medical Xpress",
-      "abstract": "The World Health Organization issued a strong warning Friday over the rapid global expansion of nicotine pouch products, decrying the tobacco industry's aggressive marketing tactics to hook young people.",
+      "abstract": "It can be easy to think you get plenty of vitamin D when you live in a country bathed in sunshine, but the reality is more complicated. Almost one in four Australian adults have vitamin D deficiency. Vitamin D supplements are now one of the most commonly used complementary medicines.",
       "date": "2026-05-15",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-addiction-slams-soaring-nicotine-pouch.html",
+      "url": "https://medicalxpress.com/news/2026-05-vitamin-d-winter-bone-immune.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "nicotine",
-        "pouch",
-        "engineered",
-        "addiction",
-        "slams",
-        "soaring",
-        "sales",
-        "world"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:26.929002+00:00"
-    },
-    {
-      "id": "rss-da77919baf3a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Africa's top health body confirms new Ebola outbreak in remote Congo province",
-      "authors": "Medical Xpress",
-      "abstract": "Africa CDC, the continent's top public health body, on Friday confirmed a new Ebola outbreak in Congo's remote Ituri province, with 246 suspected cases and 65 deaths recorded so far.",
-      "date": "2026-05-15",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-africa-health-body-ebola-outbreak.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "africa",
+        "vitamin",
+        "should",
+        "taken",
+        "winter",
+        "bone",
+        "immune",
         "health",
-        "body",
-        "ebola",
-        "outbreak",
-        "remote",
-        "congo",
-        "province"
+        "easy"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:26.929231+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.507493+00:00"
     },
     {
-      "id": "rss-c0aa9082daa5",
+      "id": "rss-e9f6795477ee",
       "discipline": "clinical",
       "type": "news",
-      "title": "Trump and Kennedy seek to relax safeguards for AI health care tools",
+      "title": "Expansion of supervised toothbrushing in schools helping protect more children from poor oral health",
       "authors": "Medical Xpress",
-      "abstract": "Paul Boyer, a psychotherapist for Kaiser Permanente in Oakland, California, is experiencing the AI revolution firsthand. He's a little underwhelmed. The health giant has rolled out a new suite of note-taking software, made by health care AI pioneer Abridge, intended to summarize a patient's visit at supersonic speed. For many clinicians, the technology soothes one of the persistent headaches of their lives—administration and paperwork.",
+      "abstract": "Supervised toothbrushing in schools is making positive progress in a bid to overcome health inequalities in pediatric dental health. A significant expansion in the BRUSH supervised toothbrushing project, which is now delivered in 81% of local authorities, has been welcomed by the British Society of Pediatric Dentistry (BSPD).",
       "date": "2026-05-15",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-trump-kennedy-safeguards-ai-health.html",
+      "url": "https://medicalxpress.com/news/2026-05-expansion-toothbrushing-schools-children-poor.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
+        "supervised",
+        "toothbrushing",
         "health",
-        "care",
-        "trump",
-        "kennedy",
-        "seek",
-        "relax",
-        "safeguards",
-        "tools"
+        "expansion",
+        "schools",
+        "pediatric",
+        "helping",
+        "protect"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:26.929539+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.507720+00:00"
     },
     {
-      "id": "rss-84513fc7b2f3",
+      "id": "rss-4f3423cd46d3",
       "discipline": "clinical",
       "type": "news",
-      "title": "Medications initiated in 30% of hospitalizations for alcohol use disorder among Veterans",
+      "title": "Researchers investigate whether dementia tests miss signs in autistic adults",
       "authors": "Medical Xpress",
-      "abstract": "Within the Veterans Health Administration (VHA), 30% of hospitalizations for alcohol use disorder (AUD) result in medications for AUD (MAUD) initiation as an inpatient or within seven days of discharge, according to a study published online in the Annals of Internal Medicine.",
+      "abstract": "Researchers are investigating whether existing dementia assessment methods may overlook signs of cognitive decline in autistic adults because many screening tools were developed around neurotypical populations.",
       "date": "2026-05-15",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-medications-hospitalizations-alcohol-disorder-veterans.html",
+      "url": "https://medicalxpress.com/news/2026-05-dementia-autistic-adults.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "medications",
-        "hospitalizations",
-        "alcohol",
-        "disorder",
-        "veterans",
-        "within",
-        "initiated",
-        "among"
+        "researchers",
+        "whether",
+        "dementia",
+        "signs",
+        "autistic",
+        "adults",
+        "investigate",
+        "tests"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:26.929845+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.507916+00:00"
     },
     {
-      "id": "rss-f6cc9bd0d1f0",
+      "id": "rss-ce69ba3a15d4",
       "discipline": "clinical",
       "type": "news",
-      "title": "Nearly half of U.S. women have financial concerns that could impact health care, report suggests",
+      "title": "Wegovy initiation may cut migraine drug use 8% in women after one year",
       "authors": "Medical Xpress",
-      "abstract": "Nearly half of U.S. women are more concerned about affording health care than about developing serious diseases, according to a national report released by the Cleveland Clinic.",
+      "abstract": "A nationwide study from Denmark presented at the European Congress on Obesity (ECO2026) in Istanbul, Turkey, shows that use of semaglutide (Wegovy) for weight management is associated with a 7% reduction in the use of triptan-class drugs for treatment of migraine one year after initiation.",
       "date": "2026-05-15",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-women-financial-impact-health.html",
+      "url": "https://medicalxpress.com/news/2026-05-wegovy-migraine-drug-women-year.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "nearly",
-        "half",
+        "wegovy",
+        "initiation",
+        "migraine",
+        "after",
+        "year",
+        "drug",
         "women",
+        "nationwide"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:51.508125+00:00"
+    },
+    {
+      "id": "rss-549b22e41efd",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Most Americans are concerned climate change will harm their health, data reveal",
+      "authors": "Medical Xpress",
+      "abstract": "As climate change intensifies extreme weather and environmental conditions across the country, about 65% of U.S. adults are concerned that climate change will negatively affect their personal health, according to a new study published in Health Affairs Scholar.",
+      "date": "2026-05-15",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-americans-climate-health-reveal.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "climate",
+        "change",
         "health",
-        "care",
-        "report",
-        "about",
-        "have"
+        "concerned",
+        "will",
+        "their",
+        "most",
+        "americans"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:26.930079+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.508328+00:00"
     },
     {
-      "id": "rss-1d596a7c4daa",
+      "id": "rss-459e362c0e18",
       "discipline": "clinical",
       "type": "news",
-      "title": "Clinical decision support system does not improve chronic kidney disease outcomes",
+      "title": "Study links use of new obesity drugs to reduction of asthma exacerbations and inhaler use",
       "authors": "Medical Xpress",
-      "abstract": "A clinical decision support system (CDSS) for chronic kidney disease (CKD) does not improve physician behavior or patient outcomes over a control intervention, according to a study published online May 8 in JAMA Network Open.",
+      "abstract": "New research presented at the European Congress on Obesity in Istanbul, Turkey (May 12–15) shows the use of the new GLP-1 class of obesity drugs in people with asthma is associated with a 26% fall in the number of asthma exacerbations and a 14% drop in use of asthma inhaler reliever use.",
       "date": "2026-05-15",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-clinical-decision-chronic-kidney-disease.html",
+      "url": "https://medicalxpress.com/news/2026-05-links-obesity-drugs-reduction-asthma.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "clinical",
-        "decision",
-        "support",
-        "system",
-        "does",
-        "improve",
-        "chronic",
-        "kidney"
+        "asthma",
+        "obesity",
+        "drugs",
+        "exacerbations",
+        "inhaler",
+        "links",
+        "reduction",
+        "presented"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:26.930309+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.508572+00:00"
     },
     {
-      "id": "rss-f5eb8f90142e",
+      "id": "rss-fc56f2b036fc",
       "discipline": "clinical",
       "type": "news",
-      "title": "Illegal gold mining causes surges in malaria in the Amazon, and the association is far worse than suspected",
+      "title": "Why breast cancer becomes more deadly with age",
       "authors": "Medical Xpress",
-      "abstract": "Gold prices are at an all-time high, and we are very worried. As disease ecologists, it's not the economic instability that concerns us, but the fact that a surge in gold mining could have a devastating impact on human health.",
+      "abstract": "Researchers at Georgetown's Lombardi Comprehensive Cancer Center have identified a mechanism that may help explain a key reason why older people experience worse outcomes from breast cancer. The study implicates RAGE (Receptor for Advanced Glycation End-products), a cell surface receptor that amplifies inflammatory signaling, and which also becomes increasingly active with metastatic progression.",
       "date": "2026-05-15",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-illegal-gold-surges-malaria-amazon.html",
+      "url": "https://medicalxpress.com/news/2026-05-breast-cancer-deadly-age.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "gold",
-        "mining",
-        "that",
-        "illegal",
-        "causes",
-        "surges",
-        "malaria",
-        "amazon"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:26.930548+00:00"
-    },
-    {
-      "id": "rss-5ba74e512076",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Screening modestly reduces prostate cancer deaths, review finds",
-      "authors": "Medical Xpress",
-      "abstract": "Blood tests to detect potential signs of prostate cancer likely reduce the risk of dying from prostate cancer, an updated review finds. This is a shift from the previous version of the review, which did not find sufficient evidence that screening reduced prostate cancer deaths. The update appears in the Cochrane Database of Systematic Reviews.",
-      "date": "2026-05-15",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-screening-modestly-prostate-cancer-deaths.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "prostate",
         "cancer",
-        "review",
-        "screening",
-        "deaths",
-        "finds",
-        "modestly",
-        "reduces"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:26.930822+00:00"
-    },
-    {
-      "id": "rss-0714ecf7f8e2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Viagra could hold key to halting Peyronie's disease",
-      "authors": "Medical Xpress",
-      "abstract": "Combining two widely prescribed drug classes could provide the first effective treatment for early-stage Peyronie's disease, according to a new study published in The Journal of Sexual Medicine.",
-      "date": "2026-05-15",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-viagra-key-halting-peyronie-disease.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "could",
-        "peyronie",
-        "disease",
-        "viagra",
-        "hold",
-        "halting",
-        "combining",
-        "widely"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:26.931040+00:00"
-    },
-    {
-      "id": "rss-dde5b8a448cc",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Antidepressant use in pregnancy shows no clear autism or ADHD link",
-      "authors": "Medical Xpress",
-      "abstract": "Current evidence does not support a causal link between the use of almost all antidepressants during pregnancy and an increased risk of neurodevelopmental disorders, including autism and attention-deficit/hyperactivity disorder (ADHD), in children, according to a systematic review and meta-analysis published in The Lancet Psychiatry journal.",
-      "date": "2026-05-15",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-antidepressant-pregnancy-autism-adhd-link.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "pregnancy",
-        "autism",
-        "adhd",
-        "link",
-        "antidepressant",
-        "shows",
-        "clear",
-        "current"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:26.931280+00:00"
-    },
-    {
-      "id": "rss-2fa48c859d3d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Endoscopic procedure associated with greater short-term weight loss than oral semaglutide, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "A comparative study, presented at ESGE Days 2026, has found that endoscopic sleeve gastroplasty (ESG) is associated with significantly greater short-term weight loss than oral semaglutide in adults with obesity.",
-      "date": "2026-05-15",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-endoscopic-procedure-greater-short-term.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "endoscopic",
-        "associated",
-        "greater",
-        "short-term",
-        "weight",
-        "loss",
-        "than",
-        "oral"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:26.931504+00:00"
-    },
-    {
-      "id": "rss-c9b24ca50b6e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "More than 80% of infection-linked newborn deaths in South Africa may be preventable",
-      "authors": "Medical Xpress",
-      "abstract": "A study published in The Lancet Infectious Diseases Journal has identified that the vast majority of neonatal (newborn infant in the first 28 days of life) deaths caused by infections in South Africa and other low-and-middle-income countries could be prevented through improved clinical care and targeted medical interventions.",
-      "date": "2026-05-15",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-infection-linked-newborn-deaths-south.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "newborn",
-        "deaths",
-        "south",
-        "africa",
+        "breast",
+        "becomes",
+        "that",
+        "receptor",
         "more",
-        "than",
-        "infection-linked",
-        "preventable"
+        "deadly",
+        "researchers"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:26.931767+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.508797+00:00"
+    },
+    {
+      "id": "rss-32fc5f91cdbb",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+      "authors": "TechCrunch AI",
+      "abstract": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+      "date": "2026-05-15",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "runway",
+        "video",
+        "generation",
+        "that",
+        "started",
+        "helping",
+        "filmmakers",
+        "wants"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:51.596279+00:00"
+    },
+    {
+      "id": "rss-71c563ef5a32",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Osaurus brings both local and cloud AI models to your Mac",
+      "authors": "TechCrunch AI",
+      "abstract": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
+      "date": "2026-05-15",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "osaurus",
+        "local",
+        "cloud",
+        "brings",
+        "both",
+        "your",
+        "combines",
+        "that"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:51.596510+00:00"
     },
     {
       "id": "rss-647d1b8f062e",
@@ -484,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.020627+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.596656+00:00"
     },
     {
       "id": "rss-849b991dd89c",
@@ -516,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.020912+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.596831+00:00"
     },
     {
       "id": "rss-d4877d2d78a3",
@@ -548,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.021073+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.596958+00:00"
     },
     {
       "id": "rss-788e06c044f7",
@@ -580,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.021250+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.597110+00:00"
     },
     {
       "id": "rss-e7f9c489f0d8",
@@ -612,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.021447+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.597284+00:00"
     },
     {
       "id": "rss-122965125945",
@@ -644,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.021610+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.597441+00:00"
     },
     {
       "id": "rss-2ac7a2aaf4e8",
@@ -676,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.021787+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.597578+00:00"
     },
     {
       "id": "rss-1305976dca19",
@@ -708,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.021941+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.597711+00:00"
     },
     {
       "id": "rss-18a877abe8ed",
@@ -740,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.022115+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.597863+00:00"
     },
     {
       "id": "rss-a619e7c43992",
@@ -772,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.022276+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.598003+00:00"
     },
     {
       "id": "rss-a5852230e687",
@@ -804,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.022435+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.598145+00:00"
     },
     {
       "id": "rss-27de96cf2283",
@@ -836,39 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.022618+00:00"
-    },
-    {
-      "id": "rss-caee764e4af1",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-      "authors": "TechCrunch AI",
-      "abstract": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
-      "date": "2026-05-14",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "clio",
-        "just",
-        "milestone",
-        "arrives",
-        "anthropic",
-        "ante",
-        "legal",
-        "tech"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.022804+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.598306+00:00"
     },
     {
       "id": "rss-072e8cd7bee1",
@@ -900,39 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.126740+00:00"
-    },
-    {
-      "id": "rss-b93616916d4a",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Notion just turned its workspace into a hub for AI agents",
-      "authors": "TechCrunch AI",
-      "abstract": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
-      "date": "2026-05-13",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "notion",
-        "workspace",
-        "agents",
-        "just",
-        "turned",
-        "developer",
-        "platform",
-        "lets"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.022984+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.701982+00:00"
     },
     {
       "id": "rss-118e3c38b86e",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.126962+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.702175+00:00"
     },
     {
       "id": "rss-41e8976955ef",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.127149+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.702342+00:00"
     },
     {
       "id": "rss-e1bcf8f9c317",
@@ -1028,7 +1028,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.540900+00:00"
+      "_retrievedAt": "2026-05-15T14:33:52.012768+00:00"
+    },
+    {
+      "id": "openalex-9a5db7877473",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Weighted Rules under the Stable Model Semantics",
+      "authors": "Joohyung Lee, Wang Yi",
+      "abstract": "We introduce the concept of weighted rules under the stable model semantics following the log-linear models of Markov Logic. This provides versatile methods to overcome the deterministic nature of the stable model semantics, such as resolving inconsistencies in answer set programs, ranking stable models, associating probability to stable models, and applying statistical inference to computing weighted stable models. We also present formal comparisons with related formalisms, such as answer set programs, Markov Logic, ProbLog, and P-log.",
+      "date": "2026-05-10",
+      "year": 2026,
+      "journal": "ArXiv.org",
+      "source": "ArXiv.org",
+      "sourceApi": "OpenAlex",
+      "url": "https://arxiv.org/abs/2605.09519",
+      "doi": "10.48550/arxiv.2605.09519",
+      "pdfUrl": "https://arxiv.org/pdf/2605.09519",
+      "keywords": [
+        "Rotation formalisms in three dimensions",
+        "Stable model semantics",
+        "Computer science",
+        "Semantics (computer science)",
+        "Theoretical computer science",
+        "Logic, Reasoning, and Knowledge",
+        "Semantic Web and Ontologies",
+        "Multi-Agent Systems and Negotiation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 43,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:44.002092+00:00"
+    },
+    {
+      "id": "openalex-c56ca7a563ce",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "A Survey of Large Language Models",
+      "authors": "Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou",
+      "abstract": "Abstract The rapid evolution of large language models (LLMs) has driven a transformative shift in artificial intelligence (AI), reshaping both research paradigms and practical applications. Distinguished from their predecessors by unprecedented scale and advanced capabilities, LLMs necessitate new frameworks for understanding their development, behavior, and societal impact. This survey systematically reviews recent advancements in LLM techniques across four key dimensions: (1) pre-training methodologies, which establish core model capabilities through large-scale self-supervised training, architectural innovations, and data curation strategies; (2) post-training techniques, including supervised fine-tuning and reinforcement learning, which adapt foundational models to downstream tasks and enhance their alignment and safety; (3) utilization strategies, such as in-context learning, pro...",
+      "date": "2026-05-09",
+      "year": 2026,
+      "journal": "Frontiers of Computer Science",
+      "source": "Frontiers of Computer Science",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1007/s11704-026-60308-3",
+      "doi": "10.1007/s11704-026-60308-3",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11704-026-60308-3.pdf",
+      "keywords": [
+        "Language model",
+        "Computer science",
+        "Mainstream",
+        "Scale (ratio)",
+        "Artificial intelligence",
+        "Topic Modeling",
+        "Natural Language Processing Techniques",
+        "their"
+      ],
+      "readTime": "1 min",
+      "citedBy": 1393,
+      "qualityScore": 88.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:44.001832+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -1060,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:23.363317+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.864760+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -1092,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.127325+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.702527+00:00"
     },
     {
       "id": "rss-a4ddec72a3b1",
@@ -1124,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.541154+00:00"
+      "_retrievedAt": "2026-05-15T14:33:52.012998+00:00"
     },
     {
       "id": "rss-64416a2d9567",
@@ -1156,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.127492+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.702672+00:00"
     },
     {
       "id": "rss-eaba9e2355ac",
@@ -1188,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.541419+00:00"
+      "_retrievedAt": "2026-05-15T14:33:52.013243+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -1220,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.127660+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.702824+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -1252,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.127865+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.702951+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -1284,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.128051+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.703104+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1316,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.128218+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.703251+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1348,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.128385+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.703403+00:00"
     },
     {
       "id": "rss-cad28f8f7789",
@@ -1380,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.128543+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.703556+00:00"
     },
     {
       "id": "rss-13388a8e5f35",
@@ -1412,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.541937+00:00"
+      "_retrievedAt": "2026-05-15T14:33:52.013725+00:00"
     },
     {
       "id": "rss-7bb4be9177ee",
@@ -1444,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.542130+00:00"
+      "_retrievedAt": "2026-05-15T14:33:52.013898+00:00"
     },
     {
       "id": "rss-be4fdeefc9f3",
@@ -1476,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.542330+00:00"
+      "_retrievedAt": "2026-05-15T14:33:52.014076+00:00"
     },
     {
       "id": "openalex-239a44a48c00",
@@ -1508,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:23.361494+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.863079+00:00"
     },
     {
       "id": "rss-1f80c194b5b3",
@@ -1540,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.542581+00:00"
+      "_retrievedAt": "2026-05-15T14:33:52.014300+00:00"
     },
     {
       "id": "rss-c4616f74e164",
@@ -1572,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.542857+00:00"
+      "_retrievedAt": "2026-05-15T14:33:52.014537+00:00"
     },
     {
       "id": "rss-0f84ef3f0583",
@@ -1604,7 +1668,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.128745+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.703703+00:00"
+    },
+    {
+      "id": "openalex-f765d7fb07bb",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Event-based Simultaneous Localization and Mapping: A Comprehensive Survey",
+      "authors": "Kunping Huang, Sen Zhang, Jing Zhang, Dacheng Tao",
+      "abstract": "Abstract In recent decades, visual simultaneous localization and mapping (vSLAM) has gained significant interest in both academia and industry. It estimates camera motion and reconstructs the environment concurrently using visual sensors on a moving robot. However, conventional cameras are limited by hardware, including motion blur and low dynamic range, which can negatively impact performance in challenging scenarios like high-speed motion and high dynamic range illumination. Recent studies have demonstrated that event cameras, a new type of bio-inspired visual sensor, offer advantages such as high temporal resolution, dynamic range, low power consumption, and low latency. This paper presents a timely and comprehensive review of event-based vSLAM algorithms that exploit the benefits of asynchronous and irregular event streams for localization and mapping tasks. The review covers the...",
+      "date": "2026-04-25",
+      "year": 2026,
+      "journal": "International Journal of Computer Vision",
+      "source": "International Journal of Computer Vision",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1007/s11263-026-02845-9",
+      "doi": "10.1007/s11263-026-02845-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-026-02845-9.pdf",
+      "keywords": [
+        "Computer science",
+        "Event (particle physics)",
+        "Artificial intelligence",
+        "Computer vision",
+        "Motion blur",
+        "Advanced Memory and Neural Computing",
+        "Robotics and Sensor-Based Localization",
+        "Ferroelectric and Negative Capacitance Devices"
+      ],
+      "readTime": "1 min",
+      "citedBy": 18,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:44.004499+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1636,7 +1732,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:08.586878+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.070963+00:00"
+    },
+    {
+      "id": "openalex-0a27bcec88aa",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Bias in Large Language Models: Origin, Evaluation, and Mitigation",
+      "authors": "Yufei Guo, Muzhe Guo, Juntao Su, Zhou Yang, Mengqiu Zhu, Hongfei Li",
+      "abstract": "Large language models (LLMs) have revolutionized natural language processing, but their susceptibility to biases poses significant challenges. This comprehensive review examines the landscape of bias in LLMs, from its origins to current mitigation strategies. We categorize biases as intrinsic and extrinsic, analyzing their manifestations in various natural language processing (NLP) tasks. The review critically assesses a range of bias evaluation methods, including data-level, model-level, and output-level approaches, providing researchers with a robust toolkit for bias detection. We further explore mitigation strategies, categorizing them into pre-model, intra-model, and post-model techniques, highlighting their effectiveness and limitations. Ethical and legal implications of biased LLMs are discussed, emphasizing potential harms in real-world applications such as healthcare and crimi...",
+      "date": "2026-04-24",
+      "year": 2026,
+      "journal": "Electronics",
+      "source": "Electronics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/electronics15091824",
+      "doi": "10.3390/electronics15091824",
+      "pdfUrl": "https://www.mdpi.com/2079-9292/15/9/1824/pdf?version=1777040052",
+      "keywords": [
+        "Computer science",
+        "Natural Language Processing Techniques",
+        "bias",
+        "language",
+        "mitigation",
+        "llms",
+        "their",
+        "large"
+      ],
+      "readTime": "1 min",
+      "citedBy": 14,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:44.004970+00:00"
     },
     {
       "id": "rss-cb615cfe90b0",
@@ -1668,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.128952+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.703874+00:00"
     },
     {
       "id": "rss-5c81189b9e63",
@@ -1700,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.543148+00:00"
+      "_retrievedAt": "2026-05-15T14:33:52.014759+00:00"
     },
     {
       "id": "rss-b26d1f650cd0",
@@ -1732,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.129119+00:00"
+      "_retrievedAt": "2026-05-15T14:33:51.704021+00:00"
     },
     {
       "id": "rss-dc43b38ec903",
@@ -1764,7 +1892,199 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:27.543405+00:00"
+      "_retrievedAt": "2026-05-15T14:33:52.014993+00:00"
+    },
+    {
+      "id": "openalex-477231997c65",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "On two ways to use determinantal point processes for Monte Carlo integration",
+      "authors": "Guillaume Gautier, Rémi Bardenet, Michal Vaľko",
+      "abstract": "The standard Monte Carlo estimator $\\widehat{I}_N^{\\mathrm{MC}}$ of $\\int fdω$ relies on independent samples from $ω$ and has variance of order $1/N$. Replacing the samples with a determinantal point process (DPP), a repulsive distribution, makes the estimator consistent, with variance rates that depend on how the DPP is adapted to $f$ and $ω$. We examine two existing DPP-based estimators: one by Bardenet & Hardy (2020) with a rate of $\\mathcal{O}(N^{-(1+1/d)})$ for smooth $f$, but relying on a fixed DPP. The other, by Ermakov & Zolotukhin (1960), is unbiased with rate of order $1/N$, like Monte Carlo, but its DPP is tailored to $f$. We revisit these estimators, generalize them to continuous settings, and provide sampling algorithms.",
+      "date": "2026-04-21",
+      "year": 2026,
+      "journal": "ArXiv.org",
+      "source": "ArXiv.org",
+      "sourceApi": "OpenAlex",
+      "url": "https://arxiv.org/abs/2604.19698",
+      "doi": "10.48550/arxiv.2604.19698",
+      "pdfUrl": "https://arxiv.org/pdf/2604.19698",
+      "keywords": [
+        "Estimator",
+        "Monte Carlo method",
+        "Kernel (algebra)",
+        "Monte Carlo integration",
+        "Mathematics",
+        "Gaussian Processes and Bayesian Inference",
+        "Statistical Methods and Bayesian Inference",
+        "Statistical Methods and Inference"
+      ],
+      "readTime": "1 min",
+      "citedBy": 13,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:44.006008+00:00"
+    },
+    {
+      "id": "openalex-310ebb2dc2e7",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "A Survey on Retrieval-Augmented Text Generation for Large Language Models",
+      "authors": "Yizheng Huang, Jimmy Xiangji Huang",
+      "abstract": "Retrieval-Augmented Generation (RAG) merges information retrieval (IR) techniques with deep learning advancements to address the static limitations of large language models (LLMs) by enabling the dynamic integration of up-to-date external information. This methodology, focusing primarily on the text domain, provides a cost-effective solution to the generation of plausible but possibly incorrect responses by LLMs, thereby enhancing the accuracy and reliability of their outputs through the use of real-world data. As RAG grows in complexity and incorporates multiple concepts that can influence its performance, this paper organizes the RAG paradigm into four categories: pre-retrieval, retrieval, post-retrieval, and generation, offering a detailed perspective from the retrieval viewpoint. It outlines RAG’s mechanics and discusses the field’s progression through the analysis of significant...",
+      "date": "2026-04-09",
+      "year": 2026,
+      "journal": "ACM Computing Surveys",
+      "source": "ACM Computing Surveys",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1145/3805774",
+      "doi": "10.1145/3805774",
+      "pdfUrl": "https://doi.org/10.1145/3805774",
+      "keywords": [
+        "Computer science",
+        "Natural language processing",
+        "Language model",
+        "Information retrieval",
+        "Artificial intelligence",
+        "Topic Modeling",
+        "Natural Language Processing Techniques",
+        "generation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 23,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:44.003008+00:00"
+    },
+    {
+      "id": "openalex-4e2d85c0aade",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "A Primer on Bayesian Neural Networks: Review and Debates",
+      "authors": "Julyan Arbel, Konstantinos Pitas, Mariia Vladimirova, Vincent Fortuin",
+      "abstract": "Neural networks have achieved remarkable performance across various problem domains, but their widespread applicability is hindered by inherent limitations such as overconfidence in predictions, lack of interpretability and vulnerability to adversarial attacks. To address these challenges, Bayesian neural networks (BNNs) have emerged as a compelling extension of conventional neural networks, integrating uncertainty estimation into their predictive capabilities. This comprehensive primer presents a systematic introduction to the fundamental concepts of neural networks and Bayesian inference, elucidating their synergistic integration for the development of BNNs. The target audience comprises statisticians with a potential background in Bayesian methods but lacking deep learning expertise, as well as machine learners proficient in deep neural networks but with limited exposure to Bayesia...",
+      "date": "2026-04-08",
+      "year": 2026,
+      "journal": "Statistical Science",
+      "source": "Statistical Science",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1214/24-sts969",
+      "doi": "10.1214/24-sts969",
+      "pdfUrl": "https://arxiv.org/pdf/2309.16314",
+      "keywords": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Computer science",
+        "Interpretability",
+        "Inference",
+        "Adversarial Robustness in Machine Learning",
+        "Anomaly Detection Techniques and Applications",
+        "Gaussian Processes and Bayesian Inference"
+      ],
+      "readTime": "1 min",
+      "citedBy": 14,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:44.005487+00:00"
+    },
+    {
+      "id": "openalex-f8ecad124d2a",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "The AI risk repository: A meta-review, database, and taxonomy of risks from artificial intelligence",
+      "authors": "Peter Slattery, Alexander K. Saeri, Emily A. C. Grundy, Jess Graham, Michael Noetel, Risto Uuk",
+      "abstract": "The risks posed by artificial intelligence (AI) concern academics, auditors, policymakers, AI companies, and the public. Researchers, policymakers, and technology companies discuss AI risks using inconsistent terminology-the same word may describe different problems, while different words describe identical concerns. This fragmentation impedes coordinated responses to AI challenges. We address this by creating the AI Risk Repository: a living database of 1,725 risks extracted from 74 existing taxonomies and frameworks. We organize these risks using two complementary classification systems. The Causal Taxonomy classifies risks by their origins: which entity causes them (human or AI), whether intentional, and when they occur (before or after deployment). The Domain Taxonomy classifies risks by their effects across seven areas, from discrimination and privacy violations to misinformation...",
+      "date": "2026-03-30",
+      "year": 2026,
+      "journal": "Patterns",
+      "source": "Patterns",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.patter.2026.101517",
+      "doi": "10.1016/j.patter.2026.101517",
+      "pdfUrl": "https://doi.org/10.1016/j.patter.2026.101517",
+      "keywords": [
+        "Taxonomy (biology)",
+        "Computer science",
+        "Risk assessment",
+        "Data science",
+        "Ecology",
+        "Artificial Intelligence in Healthcare and Education",
+        "Explainable Artificial Intelligence (XAI)",
+        "risks"
+      ],
+      "readTime": "1 min",
+      "citedBy": 27,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:44.002706+00:00"
+    },
+    {
+      "id": "openalex-945b66507d32",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Data-Centric Foundation Models in Computational Healthcare: A Survey",
+      "authors": "Yunkun Zhang, Jin Gao, Zheling Tan, Lingfeng Zhou, Kexin Ding, Mu Zhou",
+      "abstract": "The advent of foundation models (FMs) as an emerging suite of AI techniques has struck a wave of opportunities in computational healthcare. The interactive nature of these models, guided by pre-training data and human instructions, has ignited a data-centric AI paradigm that emphasizes better data characterization, quality, and scale. In healthcare AI, obtaining and processing high-quality clinical data records has been a longstanding challenge, encompassing data quantity, annotation, patient privacy, and ethics. In this survey, we investigate a wide range of data-centric approaches in the FM era (from model pre-training to inference) towards improving the healthcare workflow. We discuss key perspectives in AI security, assessment, and alignment with human values. Finally, we offer a promising outlook on FM-based analytics to enhance patient outcomes and clinical workflows in the evol...",
+      "date": "2026-03-28",
+      "year": 2026,
+      "journal": "ACM Computing Surveys",
+      "source": "ACM Computing Surveys",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1145/3800677",
+      "doi": "10.1145/3800677",
+      "pdfUrl": "https://doi.org/10.1145/3800677",
+      "keywords": [
+        "Workflow",
+        "Data science",
+        "Health care",
+        "Computer science",
+        "Inference",
+        "Machine Learning in Healthcare",
+        "Artificial Intelligence in Healthcare and Education",
+        "Radiomics and Machine Learning in Medical Imaging"
+      ],
+      "readTime": "1 min",
+      "citedBy": 14,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:44.005752+00:00"
+    },
+    {
+      "id": "openalex-49f4f6d8ba54",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Towards end-to-end automation of AI research",
+      "authors": "Chris Lu, Cong Lu, R. T. Lange, Yutaro Yamada, Shengran Hu, Jakob Foerster",
+      "abstract": ". Both settings produce diverse ideas and automatically test, report on and evaluate them. This achievement demonstrates the growing capacity of AI for making scientific contributions and signifies a potential paradigm shift in how research is conducted. As with any impactful new technology, there could be important risks, including taxing overwhelmed review systems and adding noise to the scientific literature. However, if developed responsibly, such autonomous systems could greatly accelerate scientific discovery.",
+      "date": "2026-03-25",
+      "year": 2026,
+      "journal": "Nature",
+      "source": "Nature",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41586-026-10265-5",
+      "doi": "10.1038/s41586-026-10265-5",
+      "pdfUrl": "https://www.nature.com/articles/s41586-026-10265-5.pdf",
+      "keywords": [
+        "Computer science",
+        "Process (computing)",
+        "Automation",
+        "Presentation (obstetrics)",
+        "Pipeline (software)",
+        "Scientific Computing and Data Management",
+        "Machine Learning in Materials Science",
+        "Cell Image Analysis Techniques"
+      ],
+      "readTime": "1 min",
+      "citedBy": 14,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:44.005169+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -1796,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:23.364856+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.866139+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -1828,11 +2148,11 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:08.588043+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.072119+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
-      "discipline": "geo",
+      "discipline": "cs",
       "type": "paper",
       "title": "MERCATOR",
       "authors": "Guillaume Bailly, Thomas Louche",
@@ -1860,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:23.361782+00:00"
+      "_retrievedAt": "2026-05-15T14:33:44.004731+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -1892,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:24:53.580930+00:00"
+      "_retrievedAt": "2026-05-15T14:33:44.838071+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -1924,7 +2244,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:24:53.581782+00:00"
+      "_retrievedAt": "2026-05-15T14:33:44.838818+00:00"
+    },
+    {
+      "id": "openalex-9f1c9dbb4d5a",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Computation-efficient deep learning for computer vision: A survey",
+      "authors": "Yulin Wang, Yizeng Han, Chaofei Wang, Shiji Song, Qi Tian, Gao Huang",
+      "abstract": "Over the past decade, deep learning models have exhibited considerable advancements, reaching or even exceeding human-level performance in a range of visual perception tasks. This remarkable progress has sparked interest in applying deep networks to real-world applications, such as autonomous vehicles, mobile devices, robotics, and edge computing. However, the challenge remains that state-of-the-art models usually demand significant computational resources, leading to impractical power consumption, latency, or carbon emissions in real-world scenarios. This trade-off between effectiveness and efficiency has catalyzed the emergence of a new research focus: computationally efficient deep learning, which strives to achieve satisfactory performance while minimizing the computational cost during inference. This review offers an extensive analysis of this rapidly evolving field by examining...",
+      "date": "2026-03-01",
+      "year": 2026,
+      "journal": "Cybernetics and Intelligence",
+      "source": "Cybernetics and Intelligence",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.26599/cai.2024.9390002",
+      "doi": "10.26599/cai.2024.9390002",
+      "pdfUrl": "https://www.sciopen.com/local/article_pdf/10.26599/CAI.2024.9390002.pdf",
+      "keywords": [
+        "Deep learning",
+        "Computer science",
+        "Artificial intelligence",
+        "Inference",
+        "Robotics",
+        "Advanced Neural Network Applications",
+        "Domain Adaptation and Few-Shot Learning",
+        "Advanced Image and Video Retrieval Techniques"
+      ],
+      "readTime": "1 min",
+      "citedBy": 19,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:44.003624+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -1956,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:24:53.578631+00:00"
+      "_retrievedAt": "2026-05-15T14:33:44.836183+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -1988,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:23.365474+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.866716+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2020,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:23.362146+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.863690+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2052,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:23.363645+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.865058+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2084,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:23.364115+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.865472+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -2116,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:24:53.578328+00:00"
+      "_retrievedAt": "2026-05-15T14:33:44.835915+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2148,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:24:53.578019+00:00"
+      "_retrievedAt": "2026-05-15T14:33:44.835638+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -2180,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:08.591463+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.075160+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2212,7 +2564,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:24:53.577172+00:00"
+      "_retrievedAt": "2026-05-15T14:33:44.834892+00:00"
+    },
+    {
+      "id": "openalex-91d8149bec5b",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "TimeMAE: Self-Supervised Representations of Time Series with Decoupled Masked Autoencoders",
+      "authors": "Mingyue Cheng, Xiaoyu Tao, Zhiding Liu, Qi Liu, Hao Zhang, Rujiao Zhang",
+      "abstract": "Learning transferable representations from unlabeled time series is crucial for improving performance in data-scarce classification. Existing self-supervised methods often operate at the point level and rely on unidirectional encoding, leading to low semantic density and a mismatch between pre-training and downstream optimization. In this paper, we propose TimeMAE, a self-supervised framework that reformulates masked modeling for time series via semantic unit elevation and decoupled representation learning. Instead of modeling individual time steps, TimeMAE segments time series into non-overlapping sub-series to form semantically enriched units, enabling more informative masked reconstruction while reducing computational cost. To address the representation discrepancy introduced by masking, we design a decoupled masked autoencoder that separately encodes visible and masked regions, av...",
+      "date": "2026-02-16",
+      "year": 2026,
+      "journal": "OpenAlex",
+      "source": "OpenAlex",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1145/3773966.3778007",
+      "doi": "10.1145/3773966.3778007",
+      "pdfUrl": "https://doi.org/10.1145/3773966.3778007",
+      "keywords": [
+        "Computer science",
+        "Series (stratigraphy)",
+        "Artificial intelligence",
+        "Autoencoder",
+        "Encoding (memory)",
+        "Time Series Analysis and Forecasting",
+        "Anomaly Detection Techniques and Applications",
+        "time"
+      ],
+      "readTime": "1 min",
+      "citedBy": 23,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:44.003291+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -2244,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:23.367299+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.868316+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -2276,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:24:53.578839+00:00"
+      "_retrievedAt": "2026-05-15T14:33:44.836339+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -2308,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:08.590657+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.074473+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -2340,7 +2724,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:23.362545+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.864053+00:00"
+    },
+    {
+      "id": "openalex-de50ab633493",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Reliability of LLMs as medical assistants for the general public: a randomized preregistered study",
+      "authors": "Andrew M. Bean, Rebecca Payne, Guy Parsons, Hannah Rose Kirk, Juan Ciro, Rafael Mosquera-Gómez",
+      "abstract": "Global healthcare providers are exploring the use of large language models (LLMs) to provide medical advice to the public. LLMs now achieve nearly perfect scores on medical licensing exams, but this does not necessarily translate to accurate performance in real-world settings. We tested whether LLMs can assist members of the public in identifying underlying conditions and choosing a course of action (disposition) in ten medical scenarios in a controlled study with 1,298 participants. Participants were randomly assigned to receive assistance from an LLM (GPT-4o, Llama 3, Command R+) or a source of their choice (control). Tested alone, LLMs complete the scenarios accurately, correctly identifying conditions in 94.9% of cases and disposition in 56.3% on average. However, participants using the same LLMs identified relevant conditions in fewer than 34.5% of cases and disposition in fewer...",
+      "date": "2026-02-01",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-025-04074-y",
+      "doi": "10.1038/s41591-025-04074-y",
+      "pdfUrl": "https://www.nature.com/articles/s41591-025-04074-y.pdf",
+      "keywords": [
+        "Reliability (semiconductor)",
+        "Control (management)",
+        "Action (physics)",
+        "Disposition",
+        "Medical advice",
+        "Artificial Intelligence in Healthcare and Education",
+        "Global Health and Surgery",
+        "Persona Design and Applications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 28,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:44.002416+00:00"
     },
     {
       "id": "openalex-41cd305bd1a4",
@@ -2372,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:24:53.579456+00:00"
+      "_retrievedAt": "2026-05-15T14:33:44.836901+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -2404,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:23.364473+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.865802+00:00"
     },
     {
       "id": "openalex-52f50aa5a2fe",
@@ -2436,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:23.366090+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.867247+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -2468,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:23.366490+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.867629+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -2500,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:24:53.581487+00:00"
+      "_retrievedAt": "2026-05-15T14:33:44.838572+00:00"
     },
     {
       "id": "openalex-c3a1e2ef4d92",
@@ -2532,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:08.590358+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.074195+00:00"
     },
     {
       "id": "openalex-2f0cc976fc68",
@@ -2564,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:08.591783+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.075417+00:00"
     },
     {
       "id": "openalex-c247601395a1",
@@ -2596,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:24:53.582126+00:00"
+      "_retrievedAt": "2026-05-15T14:33:44.839111+00:00"
     },
     {
       "id": "openalex-1f86c7cca72a",
@@ -2628,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:23.365761+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.866953+00:00"
     },
     {
       "id": "openalex-64246eba8b87",
@@ -2660,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:08.587650+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.071776+00:00"
     },
     {
       "id": "openalex-926d6a7490c3",
@@ -2692,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:23.365167+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.866432+00:00"
     },
     {
       "id": "openalex-0f905eddbd8d",
@@ -2724,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:08.589266+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.073250+00:00"
     },
     {
       "id": "openalex-6fbb396d11f2",
@@ -2756,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:23.366943+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.868000+00:00"
     },
     {
       "id": "openalex-c117d64f4c83",
@@ -2788,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:24:53.580226+00:00"
+      "_retrievedAt": "2026-05-15T14:33:44.837536+00:00"
     },
     {
       "id": "openalex-f411a351f7cd",
@@ -2820,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:08.589632+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.073568+00:00"
     },
     {
       "id": "openalex-4cb2b8c203a9",
@@ -2852,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:08.592178+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.075788+00:00"
     },
     {
       "id": "openalex-8836692447ce",
@@ -2884,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:24:53.580610+00:00"
+      "_retrievedAt": "2026-05-15T14:33:44.837811+00:00"
     },
     {
       "id": "openalex-45cce60efedd",
@@ -2916,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:24:53.581144+00:00"
+      "_retrievedAt": "2026-05-15T14:33:44.838255+00:00"
     },
     {
       "id": "openalex-3276beca323a",
@@ -2948,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:24:53.579129+00:00"
+      "_retrievedAt": "2026-05-15T14:33:44.836612+00:00"
     },
     {
       "id": "openalex-29bb0610031e",
@@ -2980,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:08.588218+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.072283+00:00"
     },
     {
       "id": "openalex-ac6c79930666",
@@ -3012,7 +3428,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:08.588557+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.072621+00:00"
+    },
+    {
+      "id": "openalex-bb93237a0fcf",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Dam Break Modelling, Risk Assessment and Uncertainty Analysis for Flood Mitigation",
+      "authors": "Migena Zagonjolli",
+      "abstract": "In this thesis a range of modelling techniques is explored to deal effectively with flood risk management. In particular, attention is paid to floods caused by failure of hydraulic structures such as dams and dikes. The methods considered here are applied for simulating dam and dike failure events, flood water routing in downstream areas, and flood risk reduction, providing a unified framework for addressing a variety of flood related events. Numerical, statistical and constraint based methods are applied to the problem of breach modelling and flood water mitigation",
+      "date": "2026-01-16",
+      "year": 2026,
+      "journal": "OpenAlex",
+      "source": "OpenAlex",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1201/9781003759799",
+      "doi": "10.1201/9781003759799",
+      "pdfUrl": "http://resolver.tudelft.nl/uuid:71ab29f8-c717-429c-9a44-7b882a2f9b0b",
+      "keywords": [
+        "Flood myth",
+        "Dike",
+        "Flood risk management",
+        "Risk analysis (engineering)",
+        "Dam failure",
+        "Flood Risk Assessment and Management",
+        "Dam Engineering and Safety",
+        "Hydrology and Watershed Management Studies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 19,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:44.003827+00:00"
+    },
+    {
+      "id": "openalex-df339b7a5b5a",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Comprehensive performance evaluation of YOLOv12, YOLO11, YOLOv10, YOLOv9 and YOLOv8 on detecting and counting fruitlet in complex orchard environments",
+      "authors": "Ranjan Sapkota, Zhichao Meng, Martin Churuvija, Xiaoqiang Du, Zenghong Ma, Manoj Karkee",
+      "abstract": "This study systematically conducted an extensive real-world evaluation of all configurations of You Only Look Once (YOLO)-based object detection algorithms, including YOLOv8, YOLOv9, YOLOv10, YOLO11, and YOLOv12. Models were assessed using precision, recall, mean Average Precision at 50% Intersection over Union (mAP@50), and computational efficiency across pre-processing, inference, and post-processing stages for detecting immature green fruitlets in commercial orchards. Field-level fruitlet counting was also validated using images captured with both Intel RealSense and iPhone 14 Pro Max sensors. YOLOv12l achieved the highest recall (0.900), while YOLOv10x and YOLOv9 GELAN-c reported the top precision scores of 0.908 and 0.903, respectively. YOLOv9 GELAN-base and GELAN-e achieved the highest mAP@50 (0.935), followed by YOLO11s (0.933) and YOLOv12l (0.931). In counting validation, YOLO...",
+      "date": "2026-01-16",
+      "year": 2026,
+      "journal": "Agriculture Communications",
+      "source": "Agriculture Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.agrcom.2026.100125",
+      "doi": "10.1016/j.agrcom.2026.100125",
+      "pdfUrl": "https://doi.org/10.1016/j.agrcom.2026.100125",
+      "keywords": [
+        "Orchard",
+        "Forestry",
+        "Computer science",
+        "Geography",
+        "Biology",
+        "Smart Agriculture and AI",
+        "Spectroscopy and Chemometric Analyses",
+        "yolov"
+      ],
+      "readTime": "1 min",
+      "citedBy": 18,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-15T14:33:44.004188+00:00"
     },
     {
       "id": "openalex-f990847d1a5f",
@@ -3044,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:08.587238+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.071331+00:00"
     },
     {
       "id": "openalex-fb70b0770e74",
@@ -3076,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:24:53.577560+00:00"
+      "_retrievedAt": "2026-05-15T14:33:44.835229+00:00"
     },
     {
       "id": "openalex-a66353e5014b",
@@ -3108,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:08.588905+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.072923+00:00"
     },
     {
       "id": "openalex-0aab5e881c06",
@@ -3140,7 +3620,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:24:53.579889+00:00"
+      "_retrievedAt": "2026-05-15T14:33:44.837240+00:00"
     },
     {
       "id": "openalex-37faa8822ee2",
@@ -3172,7 +3652,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-15T09:25:08.591083+00:00"
+      "_retrievedAt": "2026-05-15T14:33:46.074824+00:00"
     }
   ]
 };
