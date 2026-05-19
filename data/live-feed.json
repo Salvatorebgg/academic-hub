@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T15:48:08.412925+00:00",
+  "generatedAt": "2026-05-19T20:05:37.518430+00:00",
   "total": 114,
   "sources": [
     "RSS",
@@ -7,900 +7,900 @@
   ],
   "papers": [
     {
-      "id": "rss-2f739ff9b59f",
+      "id": "rss-9928a44b8c91",
       "discipline": "clinical",
       "type": "news",
-      "title": "Comparison study of leading targeted therapies for ALK+ lung cancer could lead to better treatment decisions",
+      "title": "Sleep disturbances during pregnancy associated with a risk of gestational diabetes",
       "authors": "Medical Xpress",
-      "abstract": "A team of researchers from the Keck School of Medicine of USC, the USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences and the USC Shaeffer Center for Health Policy & Economics have conducted a head-to-head comparison of five leading treatments for anaplastic lymphoma kinase-positive (ALK+) non-small cell lung cancer. It is the first study to analyze two new drugs, lorlatinib and brigatinib, outside of clinical trials. The findings, just published in the journal Lung Cancer, could help patients and physicians make more informed decisions about treatment.",
+      "abstract": "A study by Kuopio University Hospital and the University of Eastern Finland shows that sleep disturbances during pregnancy may be a significant risk factor for gestational diabetes mellitus (GDM).",
       "date": "2026-05-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-comparison-therapies-alk-lung-cancer.html",
+      "url": "https://medicalxpress.com/news/2026-05-disturbances-pregnancy-gestational-diabetes.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
+        "sleep",
+        "disturbances",
+        "during",
+        "pregnancy",
+        "risk",
+        "gestational",
+        "diabetes",
+        "university"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.073828+00:00"
+    },
+    {
+      "id": "rss-11d4c39f7040",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Over half of type 2 diabetes cases could be preventable, study shows",
+      "authors": "Medical Xpress",
+      "abstract": "A new study led by researchers at the University of Massachusetts Amherst suggests that even people with a high genetic risk for type 2 diabetes can substantially reduce their chances of developing the disease by adopting healthier lifestyles—and that more than half of cases might be preventable. Published in the journal Diabetes, the study analyzed data from more than 332,000 adults in the U.K. and found that lifestyle factors such as body weight, physical activity, smoking and diet play a powerful role in shaping diabetes risk, regardless of genetic predisposition.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-diabetes-cases.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "diabetes",
+        "that",
+        "half",
+        "type",
+        "cases",
+        "preventable",
+        "genetic",
+        "risk"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.074182+00:00"
+    },
+    {
+      "id": "rss-a6b324773e7b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Newly designed peptides suggest safer immunotherapies are within reach",
+      "authors": "Medical Xpress",
+      "abstract": "Calcium is widely known for its role in maintaining strong bones and teeth, but it is also one of the body's most important cellular messengers. Calcium signals help regulate muscle contraction, neural function, immune cell activation and many other physiological processes. Because cells rely on calcium signals to decide when and how strongly to respond, the movement of calcium must be tightly controlled.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-newly-peptides-safer-immunotherapies.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "calcium",
+        "signals",
+        "newly",
+        "designed",
+        "peptides",
+        "suggest",
+        "safer",
+        "immunotherapies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.074450+00:00"
+    },
+    {
+      "id": "rss-c13b6acd999f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Clinical trial points to safer care for critically ill patients in ICUs",
+      "authors": "Medical Xpress",
+      "abstract": "A B.C.-led clinical research team is behind a study that could help improve care for critically ill patients in intensive care units worldwide. Researchers from Royal Columbian Hospital and Simon Fraser University have published findings in JAMA.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-clinical-trial-safer-critically-ill.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "care",
+        "clinical",
+        "critically",
+        "patients",
+        "trial",
+        "points",
+        "safer",
+        "icus"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.074668+00:00"
+    },
+    {
+      "id": "rss-335cec38baef",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Kids who take risks at play make faster, smarter decisions in traffic",
+      "authors": "Medical Xpress",
+      "abstract": "Children who take more risks on the playground make safe decisions more quickly when crossing a busy street. That's the central finding of a new study by researchers from UBC and Queen Maud University College in Norway, and it may give parents a reason to let kids climb a little higher or roam a little farther.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-kids-play-faster-smarter-decisions.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "kids",
+        "take",
+        "risks",
+        "make",
+        "decisions",
+        "more",
+        "little",
+        "play"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.074901+00:00"
+    },
+    {
+      "id": "rss-9ba62d8f7ed4",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "A mop, a broom and a calmer mind. Why some find mental health benefits in everyday tasks",
+      "authors": "Medical Xpress",
+      "abstract": "Amid spring cleaning season, it can be tempting to dismiss housework as drudgery, so dreaded or anxiety-inducing that it's best delegated to others if at all possible.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-mop-broom-calmer-mind-mental.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "broom",
+        "calmer",
+        "mind",
+        "some",
+        "find",
+        "mental",
+        "health",
+        "benefits"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.075097+00:00"
+    },
+    {
+      "id": "rss-1d91f2c59461",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Ticks are 'spreading like wildfire'—and more of them are carrying Lyme",
+      "authors": "Medical Xpress",
+      "abstract": "As millions of Americans head outside for camping trips, hiking, and backyard BBQs, billions of ticks are already waiting in the grass, ready to bite. Not only are their numbers growing, but today's ticks are more likely to carry Lyme disease bacteria and other dangerous pathogens.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-wildfire-lyme.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "ticks",
+        "more",
+        "lyme",
+        "spreading",
+        "like",
+        "wildfire",
+        "them",
+        "carrying"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.075324+00:00"
+    },
+    {
+      "id": "rss-693bfa5c57ff",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Nervous system helps lung cancer evade the immune system, study reveals",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at the Francis Crick Institute have revealed that sensory nerve signals interfere with the immune system's response to lung cancer. This previously unrecognized neuroimmune connection could be targeted to improve responses to immunotherapy.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-nervous-lung-cancer-evade-immune.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "system",
         "lung",
         "cancer",
-        "comparison",
-        "leading",
-        "could",
-        "treatment",
-        "decisions",
-        "school"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.835956+00:00"
-    },
-    {
-      "id": "rss-a55bee9df6be",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Self-reporting tool helps predict difficult-to-treat depression before treatment",
-      "authors": "Medical Xpress",
-      "abstract": "New research presented today at the American Psychiatric Association's Annual Meeting in San Francisco evaluated how accurately a self-reporting tool predicts difficult-to-treat depression, finding that the Difficult-to-Treat Depression Questionnaire (DTDQ) helps identify patients with a lower probability of depression remission before they experience treatment failures.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-tool-difficult-depression-treatment.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "depression",
-        "difficult-to-treat",
-        "self-reporting",
-        "tool",
+        "immune",
+        "nervous",
         "helps",
-        "before",
-        "treatment",
-        "predict"
+        "evade",
+        "reveals"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.836227+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.075572+00:00"
     },
     {
-      "id": "rss-d038ca732c9b",
+      "id": "rss-c7922b9071ba",
       "discipline": "clinical",
       "type": "news",
-      "title": "A 'bet-hedging' strategy that helps gut bacteria survive and recover",
+      "title": "Breast cancer deaths shift toward younger women as older patients see better survival",
       "authors": "Medical Xpress",
-      "abstract": "Researchers at the Icahn School of Medicine at Mount Sinai and collaborators have discovered that many gut bacteria use a flexible survival strategy to withstand disruptions such as antibiotics and diet changes.",
+      "abstract": "A national study analyzing U.S. breast cancer data spanning nearly 50 years has uncovered a major shift in outcomes and risk of developing the disease, highlighting urgent gaps in prevention and treatment for specific groups of women. Analyzing Surveillance, Epidemiology and End Results (SEER) data from 1975—2022, researchers from Houston Methodist found that breast cancer deaths, once concentrated mostly among older women, are increasingly affecting younger women, signaling a major change in the nation's breast cancer risk landscape. While the data showed that survival improved substantially among older women over time, younger women did not experience the same improvement.",
       "date": "2026-05-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-hedging-strategy-gut-bacteria-survive.html",
+      "url": "https://medicalxpress.com/news/2026-05-breast-cancer-deaths-shift-younger.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "strategy",
-        "that",
-        "bacteria",
-        "bet-hedging",
-        "helps",
-        "survive",
-        "recover",
-        "researchers"
+        "women",
+        "breast",
+        "cancer",
+        "younger",
+        "older",
+        "deaths",
+        "shift",
+        "survival"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.836457+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.075894+00:00"
     },
     {
-      "id": "rss-a8af44f498fb",
+      "id": "rss-df5f7135da20",
       "discipline": "clinical",
       "type": "news",
-      "title": "Nicotine e-cigarettes reduce harmful chemical exposure and help smokers quit, study finds",
+      "title": "After the COVID‑19 pandemic, thousands more kindergarteners faced developmental challenges",
       "authors": "Medical Xpress",
-      "abstract": "Cigarette smoking is the leading preventable cause of death in the United States, even as rates of cigarette smoking have fallen to an all-time low of approximately 10% in 2024. Some studies suggest that electronic cigarettes (e-cigarettes) help people quit smoking and expose them to fewer harmful chemicals—but products have changed rapidly, and it's unclear whether these benefits still hold true.",
+      "abstract": "Children with special needs often experience a range of early developmental challenges that can affect their readiness for learning and their participation in school.",
       "date": "2026-05-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-nicotine-cigarettes-chemical-exposure-smokers.html",
+      "url": "https://medicalxpress.com/news/2026-05-covid19-pandemic-thousands-kindergarteners-developmental.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "smoking",
-        "e-cigarettes",
-        "harmful",
-        "help",
-        "quit",
-        "cigarette",
-        "have",
-        "nicotine"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.836737+00:00"
-    },
-    {
-      "id": "rss-0ff4830b95ef",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New benchmarks based on top performers aim for achievable excellence in pediatric emergency care",
-      "authors": "Medical Xpress",
-      "abstract": "A large, multi-center study led by Ann & Robert H. Lurie Children's Hospital of Chicago has derived achievable benchmarks of care (ABCs) using electronic health record data, which allows pediatric emergency departments across the country to set high yet realistic performance goals. The new benchmarks are based on high achievers—a shift away from relying on peer averages in performance metrics. The study is published in JAMA Network Open.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-benchmarks-based-aim-excellence-pediatric.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "benchmarks",
-        "achievable",
-        "pediatric",
-        "emergency",
-        "care",
-        "high",
-        "performance",
-        "performers"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.837021+00:00"
-    },
-    {
-      "id": "rss-4cb8d0512767",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "WHO evaluates vaccines, treatments for Ebola outbreak",
-      "authors": "Medical Xpress",
-      "abstract": "The WHO said Tuesday it was examining whether any candidate vaccines or treatments could be used to rein in what it warned could be a lengthy Ebola outbreak in the Democratic Republic of Congo.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-vaccines-treatments-ebola-outbreak.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "vaccines",
-        "treatments",
-        "ebola",
-        "outbreak",
-        "could",
-        "evaluates",
-        "said",
-        "tuesday"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.837223+00:00"
-    },
-    {
-      "id": "rss-241286c6fe5d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Which patients benefit most from tirzepatide GLP-1 for obesity and obstructive sleep apnea?",
-      "authors": "Medical Xpress",
-      "abstract": "Tirzepatide GLP-1 medication is known to improve sleep apnea for people with both obstructive sleep apnea (OSA) and obesity, but not all patients benefit equally. Now, new research presented at the 2026 ATS International Conference narrows down which patients are likely to have the best treatment outcomes.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-patients-benefit-tirzepatide-glp-obesity.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "patients",
-        "sleep",
-        "apnea",
-        "which",
-        "benefit",
-        "tirzepatide",
-        "glp-",
-        "obesity"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.837489+00:00"
-    },
-    {
-      "id": "rss-b3fe412c05dc",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Congo reports sharp rise in Ebola cases as WHO worries about outbreak's scale and speed",
-      "authors": "Medical Xpress",
-      "abstract": "The World Health Organization director-general openly worried Tuesday over the \"scale and speed\" of an outbreak of a rare type of Ebola in eastern Congo, where authorities reported a sharp increase in suspected deaths—to at least 131—and over 500 suspected cases.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-congo-sharp-ebola-cases-outbreak.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "congo",
-        "sharp",
-        "ebola",
-        "cases",
-        "outbreak",
-        "scale",
-        "speed",
-        "over"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.837743+00:00"
-    },
-    {
-      "id": "rss-db2e32c7c10d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Undiagnosed ADHD linked to high-risk driving in adults after traffic accidents",
-      "authors": "Medical Xpress",
-      "abstract": "New research presented today at the American Psychiatric Association's Annual Meeting in San Francisco finds that a substantial proportion of adults hospitalized after traffic accidents may have undiagnosed attention-deficit/hyperactivity disorder (ADHD), which has been associated with significantly riskier driving behaviors.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-undiagnosed-adhd-linked-high-adults.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "undiagnosed",
-        "adhd",
-        "driving",
-        "adults",
+        "developmental",
+        "challenges",
+        "their",
         "after",
-        "traffic",
-        "accidents",
-        "linked"
+        "covid",
+        "pandemic",
+        "thousands",
+        "more"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.837962+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.076102+00:00"
     },
     {
-      "id": "rss-9f067564a5ca",
+      "id": "rss-92054408813d",
       "discipline": "clinical",
       "type": "news",
-      "title": "What we now know about how smoking stiffens lungs",
+      "title": "A new way to strengthen the body's defense against respiratory viruses",
       "authors": "Medical Xpress",
-      "abstract": "For the first time, scientists have directly measured how smoking changes the mechanical behavior of human lung tissue. Published in the Journal of the Royal Society Interface, the study, directed by UC Riverside mechanical engineer Mona Eskandari, examines human lung parenchyma, which is the soft, spongy tissue that makes up the bulk of the lung organ.",
+      "abstract": "Researchers have discovered a new method to boost the body's natural ability to fight respiratory viruses, including respiratory syncytial virus (RSV), one of the leading causes of severe lung infections worldwide.",
       "date": "2026-05-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-stiffens-lungs.html",
+      "url": "https://medicalxpress.com/news/2026-05-body-defense-respiratory-viruses.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "lung",
-        "smoking",
-        "mechanical",
-        "human",
-        "tissue",
-        "what",
-        "know",
-        "about"
+        "respiratory",
+        "body",
+        "viruses",
+        "strengthen",
+        "defense",
+        "against",
+        "researchers",
+        "have"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.838182+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.076302+00:00"
     },
     {
-      "id": "rss-13c3cc962f2f",
+      "id": "rss-be2d80b4d782",
       "discipline": "clinical",
       "type": "news",
-      "title": "Early warning signs: Poor grip strength linked to greater odds of developing depression",
+      "title": "Dementia risk factors may depend on which country you live in",
       "authors": "Medical Xpress",
-      "abstract": "Handgrip strength is the maximum force a person can apply with their hand, and it is often used as a proxy for overall muscular strength, functional capacity, and aging. Scientists have found that it can also be an indicator of one's risk of developing depression.",
+      "abstract": "A new study led by Curtin University has revealed millions of dementia cases across the Western Pacific Region could potentially be prevented by implementing country-specific strategies to address key risk factors such as education access, obesity and mental health.",
       "date": "2026-05-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-early-poor-strength-linked-greater.html",
+      "url": "https://medicalxpress.com/news/2026-05-dementia-factors-country.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "strength",
-        "developing",
-        "depression",
-        "early",
-        "warning",
-        "signs",
-        "poor",
-        "grip"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.838404+00:00"
-    },
-    {
-      "id": "rss-39c4a7949fc2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Study finds outcomes for lung conditions worse at private equity-owned hospitals",
-      "authors": "Medical Xpress",
-      "abstract": "A large study presented at the 2026 ATS International Conference shows that patients treated for COPD or pneumonia experience worse outcomes across several important measures when they are treated at hospitals that have been acquired by private equity firms.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-outcomes-lung-conditions-worse-private.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "outcomes",
-        "worse",
-        "private",
-        "hospitals",
-        "that",
-        "treated",
-        "finds",
-        "lung"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.838616+00:00"
-    },
-    {
-      "id": "rss-dea0ff0d84c1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "What's the risk of infection from manicures and pedicures?",
-      "authors": "Medical Xpress",
-      "abstract": "Manicures and pedicures are big business, with the global nail care market estimated to be worth US$23.5 billion. But sometimes clients visiting nail salons come away with more than beautiful nails. Several women from Perth recently told the ABC they contracted severe infections after visiting nail salons for manicures and pedicures.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-infection-manicures-pedicures.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "manicures",
-        "pedicures",
-        "nail",
-        "visiting",
-        "salons",
-        "what",
+        "dementia",
         "risk",
-        "infection"
+        "factors",
+        "depend",
+        "which",
+        "country",
+        "live",
+        "curtin"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.838833+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.076525+00:00"
     },
     {
-      "id": "rss-ba902a6e33da",
+      "id": "rss-4d0bc135b8bd",
       "discipline": "clinical",
       "type": "news",
-      "title": "Why some people skip the closest pharmacy—and what that means for health care deserts",
+      "title": "Benefits of using a Bayesian statistical framework for replicating research",
       "authors": "Medical Xpress",
-      "abstract": "An estimated 15.8 million people in the United States live in pharmacy deserts. With limited access to health care services, like hospitals and pharmacies, these individuals are at risk of elevated mortality risk and higher rates of preventable disease progression.",
+      "abstract": "The \"replication crisis\" refers to a problem in the sciences where findings from previous experiments don't hold up when studies are repeated. It is a particular issue for those in the behavioral sciences and experimental psychology; studies that should hold up, don't, and researchers have struggled with the vast task of both confirming what is known and trying to glean new and accurate information. The concerns ramped up in the 2010s, when repeated experiments to corroborate published psychological studies ended up failing to replicate, adding to concerns about how studies are conducted and published in the first place.",
       "date": "2026-05-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-people-closest-pharmacy-health.html",
+      "url": "https://medicalxpress.com/news/2026-05-benefits-bayesian-statistical-framework-replicating.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "studies",
+        "sciences",
+        "experiments",
+        "hold",
+        "when",
+        "repeated",
+        "concerns",
+        "published"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.076807+00:00"
+    },
+    {
+      "id": "rss-b6c5de4a8640",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Elderly people are more sexually active than most people think",
+      "authors": "Medical Xpress",
+      "abstract": "Sexuality is an important part of life—even when we grow old. The idea that desire disappears with age is a myth that needs to be debunked, argues a psychologist who has researched older adults' sex lives.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-elderly-people-sexually.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "people",
-        "pharmacy",
-        "health",
-        "care",
-        "deserts",
-        "risk",
-        "some",
-        "skip"
+        "that",
+        "elderly",
+        "more",
+        "sexually",
+        "active",
+        "than",
+        "most"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.839053+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.077019+00:00"
     },
     {
-      "id": "rss-a466fd373f48",
+      "id": "rss-5ed8561aa4d2",
       "discipline": "cs",
       "type": "news",
-      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+      "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses",
       "authors": "TechCrunch AI",
-      "abstract": "Andrej Karpathy has joined Anthropic to work on pre-training. He previously co-founded and worked at OpenAI and led computer vision and AI at Tesla.",
+      "abstract": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
       "date": "2026-05-19",
       "year": 2026,
       "journal": "TechCrunch AI",
       "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+      "url": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "openai",
-        "andrej",
-        "karpathy",
-        "anthropic",
-        "pre-training",
-        "co-founder",
-        "joins",
-        "team"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.880992+00:00"
-    },
-    {
-      "id": "rss-7920ec9d2562",
-      "discipline": "cs",
-      "type": "news",
-      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-      "authors": "TechCrunch AI",
-      "abstract": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
-      "date": "2026-05-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "sandboxaq",
-        "discovery",
-        "claude",
-        "that",
-        "brings",
-        "drug",
-        "computing",
-        "required"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.881235+00:00"
-    },
-    {
-      "id": "rss-79a54fca239b",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "authors": "TechCrunch AI",
-      "abstract": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
-      "date": "2026-05-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "startup",
-        "anthropic",
-        "acquired",
-        "tools",
-        "used",
-        "openai",
         "google",
-        "cloudflare"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.881470+00:00"
-    },
-    {
-      "id": "rss-822c9fc456d5",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "authors": "TechCrunch AI",
-      "abstract": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
-      "date": "2026-05-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "elon",
-        "musk",
-        "openai",
-        "that",
-        "lost",
-        "lawsuit",
-        "against",
-        "altman"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.881681+00:00"
-    },
-    {
-      "id": "rss-a627526794c3",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-      "authors": "TechCrunch AI",
-      "abstract": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-      "date": "2026-05-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "amazon",
-        "alexa",
-        "generate",
-        "powered",
-        "feature",
-        "podcast",
-        "episodes",
-        "custom"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.881842+00:00"
-    },
-    {
-      "id": "rss-e23c60cba50c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "South Korea’s LetinAR is building optics behind AI glasses",
-      "authors": "TechCrunch AI",
-      "abstract": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
-      "date": "2026-05-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "south",
         "glasses",
-        "korea",
-        "letinar",
-        "building",
-        "optics",
-        "behind",
-        "lens"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.881993+00:00"
-    },
-    {
-      "id": "rss-800a04d8ef37",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Apple’s Siri revamp could include auto-deleting chats",
-      "authors": "TechCrunch AI",
-      "abstract": "Privacy will be a major theme when Apple unveils a new version of Siri.",
-      "date": "2026-05-17",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "apple",
-        "siri",
-        "revamp",
-        "could",
-        "include",
-        "auto-deleting",
-        "chats",
-        "privacy"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.882121+00:00"
-    },
-    {
-      "id": "rss-898050de14aa",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-      "authors": "TechCrunch AI",
-      "abstract": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
-      "date": "2026-05-17",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "trial",
-        "trust",
-        "question",
-        "elon",
-        "musk-openai",
-        "theme",
-        "final",
-        "days"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.882251+00:00"
-    },
-    {
-      "id": "rss-eaefb5faf542",
-      "discipline": "cs",
-      "type": "news",
-      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-      "authors": "TechCrunch AI",
-      "abstract": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
-      "date": "2026-05-17",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "giving",
-        "commencement",
-        "speech",
-        "maybe",
-        "mention",
-        "tough",
-        "graduating",
-        "students"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.882383+00:00"
-    },
-    {
-      "id": "rss-3d6e2dae5228",
-      "discipline": "cs",
-      "type": "news",
-      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-      "authors": "TechCrunch AI",
-      "abstract": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "date": "2026-05-17",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "techcrunch",
-        "mobility",
-        "skills",
-        "arms",
-        "race",
-        "coming",
-        "automotive",
-        "welcome"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.882541+00:00"
-    },
-    {
-      "id": "rss-792f19353e43",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The haves and have-nots of the AI gold rush",
-      "authors": "TechCrunch AI",
-      "abstract": "The vibes around the current AI boom aren't great, even in the tech industry.",
-      "date": "2026-05-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "haves",
-        "have-nots",
-        "gold",
-        "rush",
-        "vibes",
-        "around",
-        "current",
-        "boom"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.882659+00:00"
-    },
-    {
-      "id": "rss-e1428e2caa49",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-      "authors": "TechCrunch AI",
-      "abstract": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
-      "date": "2026-05-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "arxiv",
-        "repository",
-        "will",
-        "authors",
-        "year",
-        "they",
-        "work",
-        "doing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.882790+00:00"
-    },
-    {
-      "id": "rss-616972f0a9b7",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "authors": "TechCrunch AI",
-      "abstract": "OpenAI's latest shake-up comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
-      "date": "2026-05-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "openai",
-        "product",
-        "co-founder",
-        "greg",
-        "brockman",
         "takes",
-        "charge",
-        "strategy"
+        "page",
+        "meta",
+        "book",
+        "announces",
+        "audio-powered"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.882919+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.170149+00:00"
     },
     {
-      "id": "rss-0325fcdcde8d",
+      "id": "rss-03982b8cc845",
       "discipline": "cs",
       "type": "news",
-      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+      "title": "Google’s Genie world model can now simulate real streets with Street View",
       "authors": "TechCrunch AI",
-      "abstract": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with a whole generation of founders already spinning out […]",
-      "date": "2026-05-15",
+      "abstract": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
+      "date": "2026-05-19",
       "year": 2026,
       "journal": "TechCrunch AI",
       "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+      "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "trial",
-        "musk",
-        "spinning",
-        "this",
-        "openai",
-        "wraps",
-        "founder",
-        "machine"
+        "google",
+        "genie",
+        "world",
+        "street",
+        "view",
+        "simulate",
+        "real",
+        "streets"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.883138+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.170376+00:00"
+    },
+    {
+      "id": "rss-d5cccaf474a1",
+      "discipline": "cs",
+      "type": "news",
+      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+      "authors": "TechCrunch AI",
+      "abstract": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "gemini",
+        "flash",
+        "google",
+        "bets",
+        "next",
+        "wave",
+        "agents",
+        "chatbots"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.170592+00:00"
+    },
+    {
+      "id": "rss-1a18491fb194",
+      "discipline": "cs",
+      "type": "news",
+      "title": "How to use Google’s new information agents",
+      "authors": "TechCrunch AI",
+      "abstract": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "information",
+        "agents",
+        "launching",
+        "ai-powered",
+        "that",
+        "monitor",
+        "topics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.170743+00:00"
+    },
+    {
+      "id": "rss-cf84708ca0bb",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google Search as you know it is over",
+      "authors": "TechCrunch AI",
+      "abstract": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "search",
+        "know",
+        "over",
+        "transforming",
+        "list",
+        "links",
+        "ai-powered"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.170902+00:00"
+    },
+    {
+      "id": "rss-6392926ff584",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google’s AI now lets you talk to your Gmail inbox",
+      "authors": "TechCrunch AI",
+      "abstract": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "gmail",
+        "inbox",
+        "lets",
+        "talk",
+        "your",
+        "expands",
+        "conversational"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.171042+00:00"
+    },
+    {
+      "id": "rss-fcff6acc51c0",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+      "authors": "TechCrunch AI",
+      "abstract": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "android",
+        "apps",
+        "minutes",
+        "studio",
+        "lets",
+        "anyone",
+        "build"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.171191+00:00"
+    },
+    {
+      "id": "rss-314c500377bd",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
+      "authors": "TechCrunch AI",
+      "abstract": "Google's Gemini Omni is a new multimodal model that reasons across text, images, audio, and video to generate and edit videos through simple conversation — starting with Omni Flash.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "omni",
+        "google",
+        "gemini",
+        "images",
+        "audio",
+        "text",
+        "video",
+        "that"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.171347+00:00"
+    },
+    {
+      "id": "rss-8190829d7370",
+      "discipline": "cs",
+      "type": "news",
+      "title": "OpenAI is making it easier to check if an image was made by their models",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "openai",
+        "making",
+        "easier",
+        "check",
+        "image",
+        "made",
+        "their",
+        "announced"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.171500+00:00"
+    },
+    {
+      "id": "rss-3e5f8a3bc1bd",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool",
+      "authors": "TechCrunch AI",
+      "abstract": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside Antigravity 2.0 launch.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "antigravity",
+        "plan",
+        "launches",
+        "updated",
+        "desktop",
+        "tool",
+        "debuting"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.171637+00:00"
+    },
+    {
+      "id": "rss-00dcc7d89455",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google updates its Gemini app to take on ChatGPT and Claude",
+      "authors": "TechCrunch AI",
+      "abstract": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "updates",
+        "gemini",
+        "take",
+        "chatgpt",
+        "claude",
+        "signal",
+        "push"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.171770+00:00"
+    },
+    {
+      "id": "rss-d7ad246d7751",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration",
+      "authors": "TechCrunch AI",
+      "abstract": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "gemini",
+        "agentic",
+        "spark",
+        "assistant",
+        "introduces",
+        "gmail",
+        "integration"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.171911+00:00"
+    },
+    {
+      "id": "rss-2f14874bdaf7",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google adds voice-based prompting to Docs and Keep",
+      "authors": "TechCrunch AI",
+      "abstract": "Google is letting users create drafts, take notes, and search for email with voice with the new Workspace update.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "adds",
+        "voice-based",
+        "prompting",
+        "docs",
+        "keep",
+        "letting",
+        "users"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.172036+00:00"
+    },
+    {
+      "id": "rss-348a8087e677",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google just declared itself a contender in AI design",
+      "authors": "TechCrunch AI",
+      "abstract": "The tech giant says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "just",
+        "declared",
+        "itself",
+        "contender",
+        "design",
+        "tech",
+        "giant"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.172161+00:00"
     },
     {
       "id": "rss-072e8cd7bee1",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.956753+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.210331+00:00"
     },
     {
       "id": "rss-303d6fb74455",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:08.227085+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.401147+00:00"
     },
     {
       "id": "rss-118e3c38b86e",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.956958+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.210551+00:00"
     },
     {
       "id": "rss-41e8976955ef",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.957123+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.210715+00:00"
     },
     {
       "id": "rss-e1bcf8f9c317",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:08.227330+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.401395+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1092,7 +1092,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.518206+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.579403+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1124,7 +1124,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.517947+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.579130+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -1156,7 +1156,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.554007+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.605410+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.957277+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.210866+00:00"
     },
     {
       "id": "rss-a4ddec72a3b1",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:08.227563+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.401630+00:00"
     },
     {
       "id": "rss-64416a2d9567",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.957434+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.211002+00:00"
     },
     {
       "id": "rss-eaba9e2355ac",
@@ -1284,7 +1284,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:08.227790+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.401865+00:00"
+    },
+    {
+      "id": "rss-374e6f61e248",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA scientists and partners to map deep waters, seabed in the Cook Islands",
+      "authors": "NOAA News",
+      "abstract": "NOAA scientists and partners to map deep waters, seabed in the Cook Islands May 19, 2026 During the 2025 Deep-sea Habitats of the Cook Islands expedition on Exploration Vessel Nautilus the team surveyed various seascapes to better understand seabed environments, and natural and mineral resources in the region. In this image, polymetallic nodules rest on sediment accumulated in a depression between rounded pillows and extended lobate lava flows, which are evidence of ancient volcanoes. (Image credit: Courtesy of Ocean Exploration Trust) This summer, NOAA Ocean Exploration will conduct an expedition on NOAA Ship Okeanos Explorer to map, explore and characterize deep waters off the coast of the Cook Islands. The effort is in partnership with the Cook Islands Seabed Minerals Authority. Using remotely operated vehicles (ROVs), mapping technologies and onsite sensors, the team will explore...",
+      "date": "2026-05-04",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/noaa-scientists-and-partners-to-map-deep-waters-seabed-in-cook-islands",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cook",
+        "islands",
+        "noaa",
+        "seabed",
+        "deep",
+        "waters",
+        "exploration",
+        "scientists"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T20:05:37.402315+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -1316,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.957591+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.211144+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -1348,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.957727+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.211265+00:00"
     },
     {
       "id": "rss-fba3c69509f3",
@@ -1380,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:08.228329+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.402903+00:00"
     },
     {
       "id": "openalex-0ddbb2ca14dd",
@@ -1412,7 +1444,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.522602+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.583790+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -1444,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.957885+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.211426+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1476,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.958034+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.211570+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1508,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.958179+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.211708+00:00"
     },
     {
       "id": "rss-cad28f8f7789",
@@ -1540,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.958313+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.211838+00:00"
     },
     {
       "id": "rss-13388a8e5f35",
@@ -1572,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:08.228792+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.403362+00:00"
     },
     {
       "id": "rss-7bb4be9177ee",
@@ -1604,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:08.228960+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.403548+00:00"
     },
     {
       "id": "rss-be4fdeefc9f3",
@@ -1636,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:08.229140+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.403726+00:00"
     },
     {
       "id": "rss-1f80c194b5b3",
@@ -1668,39 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:08.229358+00:00"
-    },
-    {
-      "id": "rss-c4616f74e164",
-      "discipline": "geo",
-      "type": "news",
-      "title": "One year of GOES-19 as the new GOES-East satellite",
-      "authors": "NOAA News",
-      "abstract": "One year of GOES-19 as the new GOES-East satellite It’s been one year since NOAA’s latest geostationary satellite, GOES-19, entered service as GOES-East. Since then, the satellite has provided critical data for high-impact events across the country. (Image credit: NOAA Satellites) April 28, 2026 Satellites geostationary satellite (GOES) satellite imagery and visualizations 0 Off",
-      "date": "2026-04-28",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/one-year-of-goes-19-as-new-goes-east-satellite-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "satellite",
-        "year",
-        "goes-",
-        "goes-east",
-        "since",
-        "noaa",
-        "geostationary",
-        "satellites"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:08.229590+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.403945+00:00"
     },
     {
       "id": "rss-0f84ef3f0583",
@@ -1732,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.958469+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.211973+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1764,7 +1764,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.520374+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.581576+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1796,7 +1796,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.231293+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.214206+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -1828,7 +1828,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.520652+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.581815+00:00"
     },
     {
       "id": "rss-cb615cfe90b0",
@@ -1860,7 +1860,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.958639+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.212130+00:00"
     },
     {
       "id": "rss-b26d1f650cd0",
@@ -1892,7 +1892,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:07.958785+00:00"
+      "_retrievedAt": "2026-05-19T20:05:37.212265+00:00"
     },
     {
       "id": "openalex-477231997c65",
@@ -1924,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.522304+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.583508+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -1956,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.519154+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.580366+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -1988,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.521359+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.582554+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2020,7 +2020,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.518842+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.580056+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -2052,7 +2052,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.521652+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.582839+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2084,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.521032+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.582200+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2116,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.555443+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.606857+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2148,7 +2148,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.232120+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.215012+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2180,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.520067+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.581253+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2212,7 +2212,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.234997+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.217986+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -2244,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.868635+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.883453+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -2276,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.869643+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.884386+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2308,7 +2308,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.519822+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.581010+00:00"
     },
     {
       "id": "openalex-dd24a0099868",
@@ -2340,7 +2340,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.522036+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.583222+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2372,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.866659+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.881467+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2404,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.556014+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.607455+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2436,7 +2436,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.552836+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.604276+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2468,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.554324+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.605738+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2500,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.554761+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.606159+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -2532,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.866051+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.880863+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2564,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.865753+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.880566+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -2596,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.234436+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.217398+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2628,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.865284+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.880116+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -2660,7 +2660,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.519486+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.580685+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -2692,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.557710+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.609136+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -2724,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.866933+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.881744+00:00"
     },
     {
       "id": "openalex-3dbf4d4bb3cc",
@@ -2756,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.867859+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.882674+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -2788,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.234070+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.217044+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -2820,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.553226+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.604691+00:00"
     },
     {
       "id": "openalex-59457ba55225",
@@ -2852,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.868074+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.882893+00:00"
     },
     {
       "id": "openalex-de50ab633493",
@@ -2884,7 +2884,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.518559+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.579768+00:00"
     },
     {
       "id": "openalex-41cd305bd1a4",
@@ -2916,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.867575+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.882376+00:00"
     },
     {
       "id": "openalex-3cfa33454bba",
@@ -2948,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.235791+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.218766+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -2980,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.555095+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.606512+00:00"
     },
     {
       "id": "openalex-52f50aa5a2fe",
@@ -3012,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.556572+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.608015+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -3044,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.556950+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.608402+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -3076,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.869233+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.884046+00:00"
     },
     {
       "id": "openalex-c3a1e2ef4d92",
@@ -3108,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.233786+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.216760+00:00"
     },
     {
       "id": "openalex-2f0cc976fc68",
@@ -3140,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.234699+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.217675+00:00"
     },
     {
       "id": "openalex-c247601395a1",
@@ -3172,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.869954+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.884692+00:00"
     },
     {
       "id": "openalex-1f86c7cca72a",
@@ -3204,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.556256+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.607704+00:00"
     },
     {
       "id": "openalex-64246eba8b87",
@@ -3236,7 +3236,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.231762+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.214653+00:00"
     },
     {
       "id": "openalex-926d6a7490c3",
@@ -3268,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.555727+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.607145+00:00"
     },
     {
       "id": "openalex-be85705b0812",
@@ -3300,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.558192+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.609580+00:00"
     },
     {
       "id": "openalex-0f905eddbd8d",
@@ -3332,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.233047+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.216013+00:00"
     },
     {
       "id": "openalex-6fbb396d11f2",
@@ -3364,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.557327+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.608804+00:00"
     },
     {
       "id": "openalex-c117d64f4c83",
@@ -3396,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.866356+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.881165+00:00"
     },
     {
       "id": "openalex-f411a351f7cd",
@@ -3428,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.233379+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.216352+00:00"
     },
     {
       "id": "openalex-4cb2b8c203a9",
@@ -3460,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.235358+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.218354+00:00"
     },
     {
       "id": "openalex-8836692447ce",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.868353+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.883177+00:00"
     },
     {
       "id": "openalex-45cce60efedd",
@@ -3524,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.868913+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.883730+00:00"
     },
     {
       "id": "openalex-de9c14b09adb",
@@ -3556,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.236026+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.219004+00:00"
     },
     {
       "id": "openalex-29bb0610031e",
@@ -3588,7 +3588,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.232370+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.215322+00:00"
     },
     {
       "id": "openalex-ac6c79930666",
@@ -3620,7 +3620,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:04.232708+00:00"
+      "_retrievedAt": "2026-05-19T20:05:24.215672+00:00"
     },
     {
       "id": "openalex-3276beca323a",
@@ -3652,7 +3652,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T15:48:03.867267+00:00"
+      "_retrievedAt": "2026-05-19T20:05:23.882081+00:00"
     }
   ]
 }
