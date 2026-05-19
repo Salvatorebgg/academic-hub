@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-05-18T19:59:28.529252+00:00",
+  "generatedAt": "2026-05-19T04:33:25.134413+00:00",
   "total": 114,
   "sources": [
     "RSS",
@@ -7,452 +7,484 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-e5cf6a7beebe",
+      "id": "rss-65394c43eb34",
       "discipline": "clinical",
       "type": "news",
-      "title": "Ebola outbreaks in Africa trigger global health emergency, US travel warnings",
+      "title": "Rising temperatures could bring more vector-borne diseases to Canada, commentary warns",
       "authors": "Medical Xpress",
-      "abstract": "The World Health Organization (WHO) has declared an ebola outbreak in the Democratic Republic of Congo (DRC) an international public health emergency.",
-      "date": "2026-05-18",
+      "abstract": "Climate change is affecting the local ecology in Canada, contributing to emerging tick- and mosquito-borne diseases and infections in humans, argue authors of a commentary published in CMAJ (Canadian Medical Association Journal)",
+      "date": "2026-05-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-ebola-outbreaks-africa-trigger-global.html",
+      "url": "https://medicalxpress.com/news/2026-05-temperatures-vector-borne-diseases-canada.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
+        "diseases",
+        "canada",
+        "commentary",
+        "rising",
+        "temperatures",
+        "could",
+        "bring",
+        "more"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T04:33:24.759193+00:00"
+    },
+    {
+      "id": "rss-ad195453d26d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "One in five pregnancies slipped past a critical test as congenital syphilis surged over 10 years",
+      "authors": "Medical Xpress",
+      "abstract": "According to new research in CMAJ, one in five pregnant women in Ontario did not receive timely syphilis screening, which is critical for preventing syphilis infection in newborns (Canadian Medical Association Journal)",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-pregnancies-critical-congenital-syphilis-surged.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "syphilis",
+        "five",
+        "critical",
+        "pregnancies",
+        "slipped",
+        "past",
+        "test",
+        "congenital"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T04:33:24.759447+00:00"
+    },
+    {
+      "id": "rss-5dea5aa4291b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Surgical patients with mental health conditions who receive music therapy are more medically complex, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "A new study from University Hospitals Connor Whole Health found that patients with mental health and/or substance use disorders who undergo surgery and receive music therapy are more medically complex and therefore may experience longer hospital stays compared to other patients receiving usual care. The findings from this study were recently published in the Journal of Integrative and Complementary Medicine.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-surgical-patients-mental-health-conditions.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "patients",
         "health",
-        "ebola",
-        "emergency",
-        "outbreaks",
-        "africa",
-        "trigger",
-        "global",
-        "travel"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.959669+00:00"
-    },
-    {
-      "id": "rss-8716af9d2fbb",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Nutrition support during pregnancy improves birth outcomes, global study finds",
-      "authors": "Medical Xpress",
-      "abstract": "In parts of the world where daily nutrition is unstable, pregnancy and newborn health are more precarious. A recent study led by epidemiologist Dongqing Wang of the George Mason University College of Public Health adds to the evidence that improving maternal nutrition during pregnancy may be a key intervention to improve birth outcomes.",
-      "date": "2026-05-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-nutrition-pregnancy-birth-outcomes-global.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nutrition",
-        "pregnancy",
-        "during",
-        "birth",
-        "outcomes",
-        "health",
-        "support",
-        "improves"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.959959+00:00"
-    },
-    {
-      "id": "rss-cbe167eda922",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "A new way to recharge aging muscle stem cells by restoring a key metabolic component",
-      "authors": "Medical Xpress",
-      "abstract": "Losing muscle strength is a natural part of aging. At the core of this decline is a drop in the number of muscle stem cells (MuSCs), the specialized cells responsible for maintaining and regenerating muscle tissue throughout our lives. Loss of muscle strength can severely affect mobility, increasing the risk of falls, fractures and, most importantly, the loss of independence.",
-      "date": "2026-05-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-recharge-aging-muscle-stem-cells.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "muscle",
-        "cells",
-        "aging",
-        "stem",
-        "strength",
-        "loss",
-        "recharge",
-        "restoring"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.960214+00:00"
-    },
-    {
-      "id": "rss-6b21f8cb72eb",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "ATS: City-Wide mold intervention can reduce ED asthma visits",
-      "authors": "Medical Xpress",
-      "abstract": "A city-wide mold intervention in public housing can reduce asthma emergency department (ED) visits, according to a study presented at the American Thoracic Society 2026 International Conference, held from May 15 to 20 in Orlando, Florida.",
-      "date": "2026-05-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-ats-city-wide-mold-intervention.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "city-wide",
-        "mold",
-        "intervention",
-        "reduce",
-        "asthma",
-        "visits",
-        "public",
-        "housing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.960425+00:00"
-    },
-    {
-      "id": "rss-0ebef13d3089",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Prehospital trauma care gets flexible option as whole blood matches components in nationwide trial",
-      "authors": "Medical Xpress",
-      "abstract": "Giving whole blood or the component parts of blood are equally effective options for paramedics and emergency medical technicians to use in treating patients with severe, traumatic bleeding before arriving at the hospital, according to a large, nationwide trial directed by University of Pittsburgh and UPMC clinicians and scientists.",
-      "date": "2026-05-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-prehospital-trauma-flexible-option-blood.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "blood",
-        "whole",
-        "nationwide",
-        "trial",
-        "prehospital",
-        "trauma",
-        "care",
-        "gets"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.960661+00:00"
-    },
-    {
-      "id": "rss-72e0e4978285",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New-onset A-Fib may accelerate kidney function decline",
-      "authors": "Medical Xpress",
-      "abstract": "New-onset atrial fibrillation (AF) may accelerate kidney function decline, according to a study published online May 14 in JAMA Network Open.",
-      "date": "2026-05-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-onset-fib-kidney-function-decline.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "new-onset",
-        "accelerate",
-        "kidney",
-        "function",
-        "decline",
-        "a-fib",
-        "atrial",
-        "fibrillation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.960850+00:00"
-    },
-    {
-      "id": "rss-2b250a930750",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "More than a third of menopausal women lose sleep to hot flashes, waking during the night",
-      "authors": "Medical Xpress",
-      "abstract": "While sleep is essential to health, women face unique challenges to getting quality sleep across key life stages. According to new survey results from the American Academy of Sleep Medicine, more than a third of women ages 45–64 report frequent nighttime waking (37%) and night sweats or hot flashes that disrupt sleep (35%) due to menopause, while more than a quarter have increased daytime fatigue (29%) and trouble falling asleep (27%). Only 6% of women in that age group say their sleep quality has not changed during menopause.",
-      "date": "2026-05-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-menopausal-women-hot-night.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "sleep",
-        "women",
+        "mental",
+        "receive",
+        "music",
+        "therapy",
         "more",
-        "than",
-        "third",
-        "flashes",
-        "waking",
-        "during"
+        "medically"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.961181+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.759705+00:00"
     },
     {
-      "id": "rss-ae6351fefaac",
+      "id": "rss-2b77244ae1ce",
       "discipline": "clinical",
       "type": "news",
-      "title": "How looking through static can help people with a common degenerative disease see better",
+      "title": "Trump demands Medicaid data for deportation. Some states go a step further",
       "authors": "Medical Xpress",
-      "abstract": "Age-related macular degeneration (AMD) is the leading cause of irreversible blindness among aging people globally. Around one in seven Australians over the age of 50 have some signs of AMD.",
-      "date": "2026-05-18",
+      "abstract": "Several states have joined President Donald Trump's deportation efforts and are taking federal reporting requirements to immigration authorities a step further—by using their public health agencies as arms of enforcement.",
+      "date": "2026-05-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-static-people-common-degenerative-disease.html",
+      "url": "https://medicalxpress.com/news/2026-05-trump-demands-medicaid-deportation-states.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "people",
-        "looking",
-        "static",
-        "help",
-        "common",
-        "degenerative",
+        "trump",
+        "deportation",
+        "states",
+        "step",
+        "further",
+        "demands",
+        "medicaid",
+        "some"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T04:33:24.759954+00:00"
+    },
+    {
+      "id": "rss-b6579a36e147",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Study highlights opportunities to improve birth control education",
+      "authors": "Medical Xpress",
+      "abstract": "A University of Mississippi study reveals that young women aged 16 to 24 across the nation do not necessarily have the needed knowledge when it comes to birth control.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-highlights-opportunities-birth.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "birth",
+        "control",
+        "highlights",
+        "opportunities",
+        "improve",
+        "education",
+        "university",
+        "mississippi"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T04:33:24.760164+00:00"
+    },
+    {
+      "id": "rss-fb31b72fe3fa",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "FDA approves label expansion for Vyvgart, Vyvgart Hytrulo for generalized myasthenia gravis",
+      "authors": "Medical Xpress",
+      "abstract": "The U.S. Food and Drug Administration has approved a label expansion for Vyvgart (efgartigimod alfa-fcab) and Vyvgart Hytrulo (efgartigimod alfa and hyaluronidase-qvfc) for the treatment of adult patients with (gMG). The expanded approval was granted to argenx.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-fda-expansion-vyvgart-hytrulo-generalized.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "vyvgart",
+        "label",
+        "expansion",
+        "hytrulo",
+        "efgartigimod",
+        "approves",
+        "generalized",
+        "myasthenia"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T04:33:24.760380+00:00"
+    },
+    {
+      "id": "rss-b92ab7b5fcf0",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Avoidable inequalities remain in cardiovascular disease burden and care",
+      "authors": "Medical Xpress",
+      "abstract": "Cardiovascular disease (CVD) remains one of Europe's biggest health challenges, according to new data from the European Society of Cardiology (ESC) Atlas of Cardiology, published in the European Heart Journal.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-inequalities-cardiovascular-disease-burden.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cardiovascular",
         "disease",
-        "better"
+        "european",
+        "cardiology",
+        "avoidable",
+        "inequalities",
+        "remain",
+        "burden"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.961385+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.760584+00:00"
     },
     {
-      "id": "rss-6fd860fc93a2",
+      "id": "rss-4d0247e11b5c",
       "discipline": "clinical",
       "type": "news",
-      "title": "Gut particles tied to aging may trigger inflammation and disease risk",
+      "title": "FDA blocked melanoma drug as confusion reigned under Makary",
       "authors": "Medical Xpress",
-      "abstract": "Researchers at the Marshall University Joan C. Edwards School of Medicine have identified new evidence suggesting that tiny particles produced in the gut may help drive inflammation and chronic disease associated with aging. These findings offer new insight into how sleep, metabolism, and immune health may be interconnected.",
-      "date": "2026-05-18",
+      "abstract": "The U.S. Food and Drug Administration's decision to withhold approval of a new skin cancer treatment fell like a hammer on doctors who treat melanoma and patients who saw that the drug had prolonged the lives of a third of the participants in a clinical trial.",
+      "date": "2026-05-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-gut-particles-aging-trigger-inflammation.html",
+      "url": "https://medicalxpress.com/news/2026-05-fda-blocked-melanoma-drug-makary.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "particles",
-        "aging",
-        "inflammation",
-        "disease",
-        "tied",
-        "trigger",
-        "risk",
-        "researchers"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.961599+00:00"
-    },
-    {
-      "id": "rss-227bda61571c",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "From PCOS to PMOS: What the name change to polyendocrine metabolic ovarian syndrome means for women's health",
-      "authors": "Medical Xpress",
-      "abstract": "\"Hopeful,\" \"excited\" and \"helpful\" for the future of women's health—these are just some of the words expressed by the team that worked together for more than a decade to change the name polycystic ovary syndrome (PCOS) to polyendocrine metabolic ovarian syndrome (PMOS).",
-      "date": "2026-05-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-pcos-pmos-polyendocrine-metabolic-ovarian.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "syndrome",
-        "pcos",
-        "pmos",
-        "name",
-        "change",
-        "polyendocrine",
-        "metabolic",
-        "ovarian"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.961836+00:00"
-    },
-    {
-      "id": "rss-bf2fadba4a73",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Why brain cells learn better: NMDA receptor maps may explain memory-linked calcium flow",
-      "authors": "Medical Xpress",
-      "abstract": "The human brain constantly adapts in response to experiences, forming new connections between neurons and reorganizing existing ones. The brain's ability to adapt in response to experiences is known as neuroplasticity.",
-      "date": "2026-05-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-brain-memory-gate-cryo-em.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "brain",
-        "response",
-        "experiences",
-        "cells",
-        "learn",
-        "better",
-        "nmda",
-        "receptor"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.962056+00:00"
-    },
-    {
-      "id": "rss-e4e7921d52bb",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Key multiple sclerosis models reveal different damage timelines, offering roadmap for myelin repair studies",
-      "authors": "Medical Xpress",
-      "abstract": "More than 1 million people across the United States live with multiple sclerosis (MS), a disease that affects the brain, optic nerves, and spine. MS is an unpredictable disorder, with symptoms—such as overwhelming fatigue, muscle spasms, and vision problems—flaring up and then subsiding over days, months, or even years. To identify new treatment paradigms for MS, studying the underlying damage to the nervous system is key.",
-      "date": "2026-05-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-key-multiple-sclerosis-reveal-timelines.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "multiple",
-        "sclerosis",
-        "damage",
-        "reveal",
-        "different",
-        "timelines",
-        "offering",
-        "roadmap"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.962328+00:00"
-    },
-    {
-      "id": "rss-54046dd8f100",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Flavored vapes led to a major shake‑up at the FDA",
-      "authors": "Medical Xpress",
-      "abstract": "The resignation of Marty Makary, commissioner of the U.S. Food and Drug Administration, on May 12, 2026, brought to the forefront a heated controversy over fruit-flavored nicotine vapes.",
-      "date": "2026-05-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-flavored-vapes-major-shakeup-fda.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "vapes",
-        "flavored",
-        "major",
-        "shake",
-        "resignation",
-        "marty",
+        "drug",
+        "melanoma",
+        "blocked",
+        "confusion",
+        "reigned",
+        "under",
         "makary",
-        "commissioner"
+        "food"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.962524+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.760796+00:00"
     },
     {
-      "id": "rss-36993119df23",
+      "id": "rss-8ec6102e912a",
       "discipline": "clinical",
       "type": "news",
-      "title": "Hereditary amyloidosis not linked to increased risk of aortic valve disease",
+      "title": "Creatine improves physical performance but does not necessarily reduce inflammation, finds study",
       "authors": "Medical Xpress",
-      "abstract": "The association between amyloidosis and aortic valve stenosis has attracted considerable international attention. However, when researchers at Umeå University investigated the hereditary form of amyloidosis known as Skellefteå disease, they found no evidence of an increased prevalence of aortic valve disease.",
-      "date": "2026-05-18",
+      "abstract": "Creatine, one of the most popular supplements among gym-goers and athletes, does not appear to have the anti-inflammatory effect that many imagine. This conclusion comes from a systematic review and meta-analysis conducted in Brazil by researchers at São Paulo State University (UNESP), which evaluated clinical trials in humans. The study indicates that, to date, there is no consistent evidence that creatine reduces inflammatory markers in the body.",
+      "date": "2026-05-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-hereditary-amyloidosis-linked-aortic-valve.html",
+      "url": "https://medicalxpress.com/news/2026-05-creatine-physical-necessarily-inflammation.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "amyloidosis",
-        "aortic",
-        "valve",
-        "disease",
-        "hereditary",
-        "increased",
-        "linked",
-        "risk"
+        "creatine",
+        "that",
+        "does",
+        "improves",
+        "physical",
+        "performance",
+        "necessarily",
+        "reduce"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.962748+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.761098+00:00"
+    },
+    {
+      "id": "rss-5d58c3b9db89",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Links discovered between mitochondrial lipid deficiency and inflammation of the gut",
+      "authors": "Medical Xpress",
+      "abstract": "Inflammatory bowel diseases occur when the delicate balance between the gut, the immune system, and the microbiota is disrupted. Until now, however, it was unclear whether harmful microbes or defects in the body's own immune cells were the primary cause of these diseases.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-links-mitochondrial-lipid-deficiency-inflammation.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "diseases",
+        "immune",
+        "links",
+        "discovered",
+        "mitochondrial",
+        "lipid",
+        "deficiency",
+        "inflammation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T04:33:24.761321+00:00"
+    },
+    {
+      "id": "rss-6c89803e97a3",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Family-donor stem cells show safe symptom relief for 'butterfly skin' patients, trial suggests",
+      "authors": "Medical Xpress",
+      "abstract": "The intravenous infusion of mesenchymal stem cells from family donors is safe and improves symptoms such as pruritus (itching), sleep disturbances, and fatigue associated with Recessive Dystrophic Epidermolysis Bullosa (RDEB), popularly known as \"butterfly skin.\" This is one of the primary conclusions of a clinical trial conducted by researchers from the Universidad Carlos III de Madrid (UC3M), the Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) of the Ministry of Science, Innovation and Universities, the Fundación Jiménez Díaz Health Research Institute (IIS-FJD), the CIBER Rare Diseases (CIBERER), and the La Paz University Hospital in Madrid.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-family-donor-stem-cells-safe.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "stem",
+        "cells",
+        "safe",
+        "butterfly",
+        "skin",
+        "trial",
+        "madrid",
+        "family-donor"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T04:33:24.761632+00:00"
+    },
+    {
+      "id": "rss-9cf2524cb904",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Low-frequency ultrasound can improve blood flow for cardiovascular and neurological disease treatment",
+      "authors": "Medical Xpress",
+      "abstract": "For decades, ultrasound has been associated with diagnostics—a routine scan in a hospital room, a monitor displaying organs, tissues, or the first image of a baby. However, researchers are now looking at ultrasound from an entirely different perspective.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-frequency-ultrasound-blood-cardiovascular-neurological.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "ultrasound",
+        "low-frequency",
+        "improve",
+        "blood",
+        "flow",
+        "cardiovascular",
+        "neurological",
+        "disease"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T04:33:24.761858+00:00"
+    },
+    {
+      "id": "rss-538f8213cc42",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Long-term trial challenges assumptions about lymph node radiation therapy in breast cancer",
+      "authors": "Medical Xpress",
+      "abstract": "Final results from a landmark EORTC randomized trial with more than 20 years of follow-up show that irradiation of the internal mammary and medial supraclavicular lymph nodes reduces breast cancer mortality but does not improve overall survival. The findings highlight the importance of very long-term follow-up when evaluating cancer treatments, particularly in patients with an otherwise favorable prognosis.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-term-trial-assumptions-lymph-node.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "long-term",
+        "trial",
+        "lymph",
+        "breast",
+        "follow-up",
+        "challenges",
+        "assumptions"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T04:33:24.762117+00:00"
+    },
+    {
+      "id": "rss-4c40ffe8a711",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Scientists develop first-in-class drug candidate for chronic itch",
+      "authors": "Medical Xpress",
+      "abstract": "Chronic itch is often described as an \"invisible torment.\" It can persist for weeks or months, severely affecting sleep, mental health, and quality of life. In patients with cholestatic liver disease, chronic itch remains a major clinical challenge, and current treatments often provide limited relief.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-scientists-class-drug-candidate-chronic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "chronic",
+        "itch",
+        "often",
+        "scientists",
+        "develop",
+        "first-in-class",
+        "drug",
+        "candidate"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T04:33:24.762333+00:00"
+    },
+    {
+      "id": "rss-7920ec9d2562",
+      "discipline": "cs",
+      "type": "news",
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "authors": "TechCrunch AI",
+      "abstract": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+      "date": "2026-05-18",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "sandboxaq",
+        "discovery",
+        "claude",
+        "that",
+        "brings",
+        "drug",
+        "computing",
+        "required"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-19T04:33:24.806341+00:00"
     },
     {
       "id": "rss-79a54fca239b",
@@ -460,7 +492,7 @@ window.LIVE_FEED_DATA = {
       "type": "news",
       "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
       "authors": "TechCrunch AI",
-      "abstract": "Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition.",
+      "abstract": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
       "date": "2026-05-18",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -484,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.997534+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.806576+00:00"
     },
     {
       "id": "rss-822c9fc456d5",
@@ -516,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.997731+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.806740+00:00"
     },
     {
       "id": "rss-a627526794c3",
@@ -548,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.997911+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.806897+00:00"
     },
     {
       "id": "rss-e23c60cba50c",
@@ -580,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.998059+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.807077+00:00"
     },
     {
       "id": "rss-800a04d8ef37",
@@ -612,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.998186+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.807215+00:00"
     },
     {
       "id": "rss-898050de14aa",
@@ -644,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.998316+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.807351+00:00"
     },
     {
       "id": "rss-eaefb5faf542",
@@ -676,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.998445+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.807493+00:00"
     },
     {
       "id": "rss-3d6e2dae5228",
@@ -708,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.998578+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.807635+00:00"
     },
     {
       "id": "rss-792f19353e43",
@@ -740,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.998697+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.807762+00:00"
     },
     {
       "id": "rss-e1428e2caa49",
@@ -772,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.998826+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.807899+00:00"
     },
     {
       "id": "rss-616972f0a9b7",
@@ -804,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.998965+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.808049+00:00"
     },
     {
       "id": "openalex-239a44a48c00",
@@ -836,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.448773+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.552665+00:00"
     },
     {
       "id": "rss-0325fcdcde8d",
@@ -868,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.999178+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.808270+00:00"
     },
     {
       "id": "rss-4d5424762374",
@@ -900,39 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.999325+00:00"
-    },
-    {
-      "id": "rss-8afcb833608d",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "authors": "TechCrunch AI",
-      "abstract": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-      "date": "2026-05-15",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "will",
-        "connect",
-        "accounts",
-        "their",
-        "openai",
-        "launches",
-        "chatgpt",
-        "personal"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:27.999457+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.808425+00:00"
     },
     {
       "id": "rss-072e8cd7bee1",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.065527+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.910338+00:00"
     },
     {
       "id": "rss-303d6fb74455",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.359463+00:00"
+      "_retrievedAt": "2026-05-19T04:33:25.016703+00:00"
     },
     {
       "id": "rss-118e3c38b86e",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.065721+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.910534+00:00"
     },
     {
       "id": "rss-41e8976955ef",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.065922+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.910701+00:00"
     },
     {
       "id": "rss-e1bcf8f9c317",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.359704+00:00"
+      "_retrievedAt": "2026-05-19T04:33:25.016962+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.582131+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.558097+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.581838+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.557804+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.450561+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.554439+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.066093+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.910858+00:00"
     },
     {
       "id": "rss-a4ddec72a3b1",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.359930+00:00"
+      "_retrievedAt": "2026-05-19T04:33:25.017183+00:00"
     },
     {
       "id": "rss-64416a2d9567",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.066237+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.911028+00:00"
     },
     {
       "id": "rss-eaba9e2355ac",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.360155+00:00"
+      "_retrievedAt": "2026-05-19T04:33:25.017416+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.066384+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.911187+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.066512+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.911316+00:00"
     },
     {
       "id": "rss-fba3c69509f3",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.360694+00:00"
+      "_retrievedAt": "2026-05-19T04:33:25.017995+00:00"
     },
     {
       "id": "openalex-0ddbb2ca14dd",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.586505+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.562510+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.066665+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.911470+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.066806+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.911615+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.066969+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.911762+00:00"
     },
     {
       "id": "rss-cad28f8f7789",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.067104+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.911901+00:00"
     },
     {
       "id": "rss-13388a8e5f35",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.361157+00:00"
+      "_retrievedAt": "2026-05-19T04:33:25.018455+00:00"
     },
     {
       "id": "rss-7bb4be9177ee",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.361321+00:00"
+      "_retrievedAt": "2026-05-19T04:33:25.018625+00:00"
     },
     {
       "id": "rss-be4fdeefc9f3",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.361493+00:00"
+      "_retrievedAt": "2026-05-19T04:33:25.018797+00:00"
     },
     {
       "id": "rss-1f80c194b5b3",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.361708+00:00"
+      "_retrievedAt": "2026-05-19T04:33:25.019033+00:00"
     },
     {
       "id": "rss-c4616f74e164",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.361934+00:00"
+      "_retrievedAt": "2026-05-19T04:33:25.019254+00:00"
     },
     {
       "id": "rss-0f84ef3f0583",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.067240+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.912061+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.584299+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.560261+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.015878+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.221300+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.584538+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.560512+00:00"
     },
     {
       "id": "rss-cb615cfe90b0",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.067398+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.912227+00:00"
     },
     {
       "id": "rss-b26d1f650cd0",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:28.067537+00:00"
+      "_retrievedAt": "2026-05-19T04:33:24.912370+00:00"
     },
     {
       "id": "openalex-477231997c65",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.586226+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.562220+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.583086+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.559049+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.585251+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.561251+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.582761+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.558724+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.585535+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.561536+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.584926+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.560897+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.452026+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.555875+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.016664+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.222118+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.583982+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.559924+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.019582+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.225031+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.949551+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.951752+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.950510+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.952717+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.583720+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.559680+00:00"
     },
     {
       "id": "openalex-dd24a0099868",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.585949+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.561919+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.947787+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.949978+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2436,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.452613+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.556477+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2468,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.449422+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.553318+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2500,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.450895+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.554755+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2532,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.451320+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.555192+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -2564,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.947200+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.949370+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2596,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.946898+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.949075+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -2628,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.019002+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.224439+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2660,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.946460+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.948641+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -2692,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.583389+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.559357+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -2724,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.454328+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.558186+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -2756,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.948078+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.950257+00:00"
     },
     {
       "id": "openalex-3dbf4d4bb3cc",
@@ -2788,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.949002+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.951199+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -2820,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.018591+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.224077+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -2852,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.449806+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.553704+00:00"
     },
     {
       "id": "openalex-de50ab633493",
@@ -2884,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.582470+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.558440+00:00"
     },
     {
       "id": "openalex-41cd305bd1a4",
@@ -2916,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.948705+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.950897+00:00"
     },
     {
       "id": "openalex-3cfa33454bba",
@@ -2948,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.020361+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.225791+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -2980,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.451659+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.555532+00:00"
     },
     {
       "id": "openalex-52f50aa5a2fe",
@@ -3012,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.453197+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.557059+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -3044,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.453577+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.557449+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -3076,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.950164+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.952366+00:00"
     },
     {
       "id": "openalex-c3a1e2ef4d92",
@@ -3108,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.018308+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.223777+00:00"
     },
     {
       "id": "openalex-2f0cc976fc68",
@@ -3140,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.019274+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.224710+00:00"
     },
     {
       "id": "openalex-c247601395a1",
@@ -3172,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.950810+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.953036+00:00"
     },
     {
       "id": "openalex-1f86c7cca72a",
@@ -3204,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.452877+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.556727+00:00"
     },
     {
       "id": "openalex-64246eba8b87",
@@ -3236,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.016306+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.221729+00:00"
     },
     {
       "id": "openalex-926d6a7490c3",
@@ -3268,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.452320+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.556178+00:00"
     },
     {
       "id": "openalex-cbb9e26c0fe2",
@@ -3300,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.951154+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.953366+00:00"
     },
     {
       "id": "openalex-0f905eddbd8d",
@@ -3332,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.017577+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.223041+00:00"
     },
     {
       "id": "openalex-6fbb396d11f2",
@@ -3364,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.453988+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.557833+00:00"
     },
     {
       "id": "openalex-c117d64f4c83",
@@ -3396,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.947504+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.949678+00:00"
     },
     {
       "id": "openalex-f411a351f7cd",
@@ -3428,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.017913+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.223378+00:00"
     },
     {
       "id": "openalex-4cb2b8c203a9",
@@ -3460,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.019970+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.225398+00:00"
     },
     {
       "id": "openalex-8836692447ce",
@@ -3492,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.949283+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.951480+00:00"
     },
     {
       "id": "openalex-45cce60efedd",
@@ -3524,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.949830+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.952039+00:00"
     },
     {
       "id": "openalex-de9c14b09adb",
@@ -3556,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.020592+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.226046+00:00"
     },
     {
       "id": "openalex-29bb0610031e",
@@ -3588,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.016924+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.222374+00:00"
     },
     {
       "id": "openalex-ac6c79930666",
@@ -3620,7 +3620,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:24.017246+00:00"
+      "_retrievedAt": "2026-05-19T04:32:28.222698+00:00"
     },
     {
       "id": "openalex-3276beca323a",
@@ -3652,7 +3652,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-18T19:59:22.948413+00:00"
+      "_retrievedAt": "2026-05-19T04:32:27.950593+00:00"
     }
   ]
 };
