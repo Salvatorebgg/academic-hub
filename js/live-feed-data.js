@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-05-19T20:05:37.518430+00:00",
+  "generatedAt": "2026-05-20T04:35:53.774500+00:00",
   "total": 114,
   "sources": [
     "RSS",
@@ -7,458 +7,650 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-9928a44b8c91",
+      "id": "rss-0e498d3d9a0f",
       "discipline": "clinical",
       "type": "news",
-      "title": "Sleep disturbances during pregnancy associated with a risk of gestational diabetes",
+      "title": "Handwriting speed may be a sign of cognitive decline in older people",
       "authors": "Medical Xpress",
-      "abstract": "A study by Kuopio University Hospital and the University of Eastern Finland shows that sleep disturbances during pregnancy may be a significant risk factor for gestational diabetes mellitus (GDM).",
-      "date": "2026-05-19",
+      "abstract": "Handwriting requires a combination of fine motor control and a complex set of mental skills, such as selecting, organizing, and interpreting sensory information, making it a cognitively challenging task. Because of its high demand on the brain, it is a potential marker of cognitive decline, especially as we age. Then, our handwriting often becomes slower or choppier.",
+      "date": "2026-05-20",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-disturbances-pregnancy-gestational-diabetes.html",
+      "url": "https://medicalxpress.com/news/2026-05-cognitive-decline-older-people.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "sleep",
-        "disturbances",
-        "during",
-        "pregnancy",
+        "handwriting",
+        "cognitive",
+        "decline",
+        "speed",
+        "sign",
+        "older",
+        "people",
+        "requires"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T04:35:53.128819+00:00"
+    },
+    {
+      "id": "rss-ee31ac536a70",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Lipedema: The painful condition too often dismissed as obesity",
+      "authors": "Medical Xpress",
+      "abstract": "For many women with lipedema, the diagnosis comes after years of being told the same thing: eat less, not more. The problem is that the fat accumulating around their hips and legs isn't responding to diet or exercise, because it was never caused by them in the first place.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-lipedema-painful-condition-dismissed-obesity.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "lipedema",
+        "painful",
+        "condition",
+        "often",
+        "dismissed",
+        "obesity",
+        "many",
+        "women"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T04:35:53.129079+00:00"
+    },
+    {
+      "id": "rss-d3b4062d1e3e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Home sooner, recovering better: Redesigning hip and knee surgery",
+      "authors": "Medical Xpress",
+      "abstract": "More than 200,000 hip and knee replacements are performed in the U.K. every year. They are usually performed only when conservative treatments such as physiotherapy, weight loss, and medications are no longer effective. The average length of hospital stay for knee or hip replacement surgery is currently 2.7 days.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-home-sooner-recovering-redesigning-hip.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "knee",
+        "surgery",
+        "performed",
+        "home",
+        "sooner",
+        "recovering",
+        "better",
+        "redesigning"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T04:35:53.129327+00:00"
+    },
+    {
+      "id": "rss-ae91b3418938",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Losing a parent can dent an adult's earning power, say researchers",
+      "authors": "Medical Xpress",
+      "abstract": "Losing a parent in adulthood not only breaks your heart, but can put a sizable dent in your bank account, a new study says. Adults' earning power persistently declines following the death of a parent, researchers report in the American Economic Review.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-parent-dent-adult-power.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "parent",
+        "losing",
+        "dent",
+        "earning",
+        "power",
+        "researchers",
+        "your",
+        "adult"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T04:35:53.129543+00:00"
+    },
+    {
+      "id": "rss-bdae821b389f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Text messages aid in reducing cardiovascular risk in adults with psoriasis",
+      "authors": "Medical Xpress",
+      "abstract": "A text-messaging intervention can improve patient activation and cardiovascular risk behaviors in adults with psoriasis, according to a study published online May 13 in JAMA Dermatology.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-text-messages-aid-cardiovascular-adults.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cardiovascular",
         "risk",
-        "gestational",
-        "diabetes",
-        "university"
+        "adults",
+        "psoriasis",
+        "text",
+        "messages",
+        "reducing",
+        "text-messaging"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.073828+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.129736+00:00"
     },
     {
-      "id": "rss-11d4c39f7040",
+      "id": "rss-f117298dc2d9",
       "discipline": "clinical",
       "type": "news",
-      "title": "Over half of type 2 diabetes cases could be preventable, study shows",
+      "title": "Sex differences in dementia risks reveal stronger cognitive impacts in women",
       "authors": "Medical Xpress",
-      "abstract": "A new study led by researchers at the University of Massachusetts Amherst suggests that even people with a high genetic risk for type 2 diabetes can substantially reduce their chances of developing the disease by adopting healthier lifestyles—and that more than half of cases might be preventable. Published in the journal Diabetes, the study analyzed data from more than 332,000 adults in the U.K. and found that lifestyle factors such as body weight, physical activity, smoking and diet play a powerful role in shaping diabetes risk, regardless of genetic predisposition.",
-      "date": "2026-05-19",
+      "abstract": "Researchers from the University of California San Diego School of Medicine have found that women not only experience a higher burden of certain modifiable dementia risk factors, but also appear more vulnerable to their effects on cognitive function. The study, which analyzed data from more than 17,000 middle-aged and older adults, is published in Biology of Sex Differences.",
+      "date": "2026-05-20",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-diabetes-cases.html",
+      "url": "https://medicalxpress.com/news/2026-05-sex-differences-dementia-reveal-stronger.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "diabetes",
-        "that",
-        "half",
-        "type",
-        "cases",
-        "preventable",
-        "genetic",
-        "risk"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.074182+00:00"
-    },
-    {
-      "id": "rss-a6b324773e7b",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Newly designed peptides suggest safer immunotherapies are within reach",
-      "authors": "Medical Xpress",
-      "abstract": "Calcium is widely known for its role in maintaining strong bones and teeth, but it is also one of the body's most important cellular messengers. Calcium signals help regulate muscle contraction, neural function, immune cell activation and many other physiological processes. Because cells rely on calcium signals to decide when and how strongly to respond, the movement of calcium must be tightly controlled.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-newly-peptides-safer-immunotherapies.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "calcium",
-        "signals",
-        "newly",
-        "designed",
-        "peptides",
-        "suggest",
-        "safer",
-        "immunotherapies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.074450+00:00"
-    },
-    {
-      "id": "rss-c13b6acd999f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Clinical trial points to safer care for critically ill patients in ICUs",
-      "authors": "Medical Xpress",
-      "abstract": "A B.C.-led clinical research team is behind a study that could help improve care for critically ill patients in intensive care units worldwide. Researchers from Royal Columbian Hospital and Simon Fraser University have published findings in JAMA.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-clinical-trial-safer-critically-ill.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "care",
-        "clinical",
-        "critically",
-        "patients",
-        "trial",
-        "points",
-        "safer",
-        "icus"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.074668+00:00"
-    },
-    {
-      "id": "rss-335cec38baef",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Kids who take risks at play make faster, smarter decisions in traffic",
-      "authors": "Medical Xpress",
-      "abstract": "Children who take more risks on the playground make safe decisions more quickly when crossing a busy street. That's the central finding of a new study by researchers from UBC and Queen Maud University College in Norway, and it may give parents a reason to let kids climb a little higher or roam a little farther.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-kids-play-faster-smarter-decisions.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "kids",
-        "take",
-        "risks",
-        "make",
-        "decisions",
+        "differences",
+        "dementia",
+        "cognitive",
+        "women",
         "more",
-        "little",
-        "play"
+        "risks",
+        "reveal",
+        "stronger"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.074901+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.129966+00:00"
     },
     {
-      "id": "rss-9ba62d8f7ed4",
+      "id": "rss-57a478dd1e91",
       "discipline": "clinical",
       "type": "news",
-      "title": "A mop, a broom and a calmer mind. Why some find mental health benefits in everyday tasks",
+      "title": "Sedative choice in pediatric intensive care may influence long-term neurocognitive outcomes",
       "authors": "Medical Xpress",
-      "abstract": "Amid spring cleaning season, it can be tempting to dismiss housework as drudgery, so dreaded or anxiety-inducing that it's best delegated to others if at all possible.",
-      "date": "2026-05-19",
+      "abstract": "A new Penn Nursing study suggests that the specific sedatives used during critical illness in early childhood may have long-term implications for a child's neurocognitive development. Martha A.Q. Curley, Ph.D., RN, FAAN, Professor in the Department of Family and Community Health, and the Ruth M. Colket Endowed Chair in Pediatric Nursing at Children's Hospital of Philadelphia, co-led the study with R. Scott Watson, MD, from Seattle Children's Hospital.",
+      "date": "2026-05-20",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-mop-broom-calmer-mind-mental.html",
+      "url": "https://medicalxpress.com/news/2026-05-sedative-choice-pediatric-intensive-term.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "broom",
-        "calmer",
-        "mind",
-        "some",
-        "find",
+        "pediatric",
+        "long-term",
+        "neurocognitive",
+        "nursing",
+        "children",
+        "hospital",
+        "sedative",
+        "choice"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T04:35:53.130262+00:00"
+    },
+    {
+      "id": "rss-a88efe1635b5",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Severe asthma links to three recurring illness clusters across 2,700 patients in 11 countries",
+      "authors": "Medical Xpress",
+      "abstract": "Most people living with severe asthma are also battling other health conditions that go under the radar, a major new study has found. Researchers analyzing data from thousands of patients discovered that the additional illnesses—which range from obesity to osteoporosis—tend to appear in clusters.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-severe-asthma-links-recurring-illness.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "severe",
+        "asthma",
+        "clusters",
+        "patients",
+        "that",
+        "links",
+        "three",
+        "recurring"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T04:35:53.130522+00:00"
+    },
+    {
+      "id": "rss-27ab4c8791b3",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Three-minute video game can help identify patients with depression",
+      "authors": "Medical Xpress",
+      "abstract": "An experimental diagnostic tool in the form of a computer game was able to quickly identify patients with depression based on anhedonia, a key feature of the disease, a new study shows.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-minute-video-game-patients-depression.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "game",
+        "identify",
+        "patients",
+        "depression",
+        "three-minute",
+        "video",
+        "help",
+        "experimental"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T04:35:53.130726+00:00"
+    },
+    {
+      "id": "rss-da6fe9b15d95",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Emergency mental health care costs for children in England nearly quadruple over decade",
+      "authors": "Medical Xpress",
+      "abstract": "The total cost of emergency admissions for mental health among children and young people in England rose from £22.5 million in 2012/13 to £87.3 million in 2021/22, finds research published online in the journal BMJ Open.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-emergency-mental-health-children-england.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "emergency",
         "mental",
         "health",
-        "benefits"
+        "children",
+        "england",
+        "million",
+        "care",
+        "costs"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.075097+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.130942+00:00"
     },
     {
-      "id": "rss-1d91f2c59461",
+      "id": "rss-75850ea8df58",
       "discipline": "clinical",
       "type": "news",
-      "title": "Ticks are 'spreading like wildfire'—and more of them are carrying Lyme",
+      "title": "For real heart protection, the weekly exercise number climbs far beyond current advice",
       "authors": "Medical Xpress",
-      "abstract": "As millions of Americans head outside for camping trips, hiking, and backyard BBQs, billions of ticks are already waiting in the grass, ready to bite. Not only are their numbers growing, but today's ticks are more likely to carry Lyme disease bacteria and other dangerous pathogens.",
-      "date": "2026-05-19",
+      "abstract": "Adults should aim to do between 560 and 610 minutes a week of moderate to vigorous physical activity to achieve a substantial reduction in the risk of heart attacks and stroke, suggest the findings of an observational study published in the British Journal of Sports Medicine.",
+      "date": "2026-05-20",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-wildfire-lyme.html",
+      "url": "https://medicalxpress.com/news/2026-05-real-heart-weekly-climbs-current.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "ticks",
+        "heart",
+        "real",
+        "protection",
+        "weekly",
+        "exercise",
+        "number",
+        "climbs",
+        "beyond"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T04:35:53.131181+00:00"
+    },
+    {
+      "id": "rss-2ae372469512",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Low vitamin D levels linked to more pain after breast cancer surgery",
+      "authors": "Medical Xpress",
+      "abstract": "Vitamin D deficiency is associated with more moderate to severe pain following breast cancer surgery and an increased consumption of opioid drugs, finds research published in the journal Regional Anesthesia & Pain Medicine.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-vitamin-d-linked-pain-breast.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "pain",
+        "vitamin",
         "more",
-        "lyme",
-        "spreading",
-        "like",
-        "wildfire",
-        "them",
-        "carrying"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.075324+00:00"
-    },
-    {
-      "id": "rss-693bfa5c57ff",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Nervous system helps lung cancer evade the immune system, study reveals",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at the Francis Crick Institute have revealed that sensory nerve signals interfere with the immune system's response to lung cancer. This previously unrecognized neuroimmune connection could be targeted to improve responses to immunotherapy.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-nervous-lung-cancer-evade-immune.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "system",
-        "lung",
-        "cancer",
-        "immune",
-        "nervous",
-        "helps",
-        "evade",
-        "reveals"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.075572+00:00"
-    },
-    {
-      "id": "rss-c7922b9071ba",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Breast cancer deaths shift toward younger women as older patients see better survival",
-      "authors": "Medical Xpress",
-      "abstract": "A national study analyzing U.S. breast cancer data spanning nearly 50 years has uncovered a major shift in outcomes and risk of developing the disease, highlighting urgent gaps in prevention and treatment for specific groups of women. Analyzing Surveillance, Epidemiology and End Results (SEER) data from 1975—2022, researchers from Houston Methodist found that breast cancer deaths, once concentrated mostly among older women, are increasingly affecting younger women, signaling a major change in the nation's breast cancer risk landscape. While the data showed that survival improved substantially among older women over time, younger women did not experience the same improvement.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-breast-cancer-deaths-shift-younger.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "women",
         "breast",
         "cancer",
-        "younger",
-        "older",
-        "deaths",
-        "shift",
-        "survival"
+        "surgery",
+        "levels",
+        "linked"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.075894+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.131395+00:00"
     },
     {
-      "id": "rss-df5f7135da20",
+      "id": "rss-2181632e94f1",
       "discipline": "clinical",
       "type": "news",
-      "title": "After the COVID‑19 pandemic, thousands more kindergarteners faced developmental challenges",
+      "title": "Sexual problems common after cancer in young adults",
       "authors": "Medical Xpress",
-      "abstract": "Children with special needs often experience a range of early developmental challenges that can affect their readiness for learning and their participation in school.",
-      "date": "2026-05-19",
+      "abstract": "Each year, approximately 2,000 people aged 18–39 are diagnosed with cancer in Sweden. Most survive their illness, but for many, life continues with long-term consequences. In a new doctoral dissertation, Charlotta Bergström has investigated how sexual problems develop in young adults following cancer and cancer treatment.",
+      "date": "2026-05-20",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-covid19-pandemic-thousands-kindergarteners-developmental.html",
+      "url": "https://medicalxpress.com/news/2026-05-sexual-problems-common-cancer-young.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "developmental",
-        "challenges",
-        "their",
+        "cancer",
+        "sexual",
+        "problems",
+        "young",
+        "adults",
+        "common",
         "after",
-        "covid",
-        "pandemic",
-        "thousands",
-        "more"
+        "each"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.076102+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.131629+00:00"
     },
     {
-      "id": "rss-92054408813d",
+      "id": "rss-688e2b6c9d7e",
       "discipline": "clinical",
       "type": "news",
-      "title": "A new way to strengthen the body's defense against respiratory viruses",
+      "title": "Researchers map genetics of blood lipids with unprecedented precision",
       "authors": "Medical Xpress",
-      "abstract": "Researchers have discovered a new method to boost the body's natural ability to fight respiratory viruses, including respiratory syncytial virus (RSV), one of the leading causes of severe lung infections worldwide.",
-      "date": "2026-05-19",
+      "abstract": "DZNE researchers have generated new insights into how the human genome shapes the chemical composition and concentration of blood lipids. Across the genome, they identified more than 50 regions whose relevance to lipid metabolism has not been known before. The findings are based on blood samples from more than 8,000 individuals and may provide a better understanding of aging processes and pathological conditions like Alzheimer's disease, diabetes, and cardiovascular dysfunctions.",
+      "date": "2026-05-20",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-body-defense-respiratory-viruses.html",
+      "url": "https://medicalxpress.com/news/2026-05-genetics-blood-lipids-unprecedented-precision.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "respiratory",
-        "body",
-        "viruses",
-        "strengthen",
-        "defense",
-        "against",
+        "blood",
         "researchers",
-        "have"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.076302+00:00"
-    },
-    {
-      "id": "rss-be2d80b4d782",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Dementia risk factors may depend on which country you live in",
-      "authors": "Medical Xpress",
-      "abstract": "A new study led by Curtin University has revealed millions of dementia cases across the Western Pacific Region could potentially be prevented by implementing country-specific strategies to address key risk factors such as education access, obesity and mental health.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-dementia-factors-country.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "dementia",
-        "risk",
-        "factors",
-        "depend",
-        "which",
-        "country",
-        "live",
-        "curtin"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.076525+00:00"
-    },
-    {
-      "id": "rss-4d0bc135b8bd",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Benefits of using a Bayesian statistical framework for replicating research",
-      "authors": "Medical Xpress",
-      "abstract": "The \"replication crisis\" refers to a problem in the sciences where findings from previous experiments don't hold up when studies are repeated. It is a particular issue for those in the behavioral sciences and experimental psychology; studies that should hold up, don't, and researchers have struggled with the vast task of both confirming what is known and trying to glean new and accurate information. The concerns ramped up in the 2010s, when repeated experiments to corroborate published psychological studies ended up failing to replicate, adding to concerns about how studies are conducted and published in the first place.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-benefits-bayesian-statistical-framework-replicating.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "studies",
-        "sciences",
-        "experiments",
-        "hold",
-        "when",
-        "repeated",
-        "concerns",
-        "published"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.076807+00:00"
-    },
-    {
-      "id": "rss-b6c5de4a8640",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Elderly people are more sexually active than most people think",
-      "authors": "Medical Xpress",
-      "abstract": "Sexuality is an important part of life—even when we grow old. The idea that desire disappears with age is a myth that needs to be debunked, argues a psychologist who has researched older adults' sex lives.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-elderly-people-sexually.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "people",
-        "that",
-        "elderly",
+        "lipids",
+        "genome",
         "more",
-        "sexually",
-        "active",
         "than",
-        "most"
+        "genetics",
+        "unprecedented"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.077019+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.131872+00:00"
     },
     {
-      "id": "rss-5ed8561aa4d2",
+      "id": "rss-2b72b6519fb3",
       "discipline": "cs",
       "type": "news",
-      "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses",
+      "title": "Building AI models that understand chemical principles",
+      "authors": "MIT News AI",
+      "abstract": "Connor Coley works at the interface of chemistry and machine learning, to discover and design new drug compounds.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "building",
+        "that",
+        "understand",
+        "chemical",
+        "principles",
+        "connor",
+        "coley",
+        "works"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T04:35:53.338468+00:00"
+    },
+    {
+      "id": "rss-5a64893acd82",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google just declared itself a contender in AI design at IO 2026",
+      "authors": "TechCrunch AI",
+      "abstract": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "just",
+        "declared",
+        "itself",
+        "contender",
+        "design",
+        "says",
+        "designed"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T04:35:53.252728+00:00"
+    },
+    {
+      "id": "rss-718562faa3be",
+      "discipline": "cs",
+      "type": "news",
+      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+      "authors": "TechCrunch AI",
+      "abstract": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "gmail",
+        "inbox",
+        "google",
+        "talk",
+        "your",
+        "seen",
+        "expands",
+        "conversational"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T04:35:53.252941+00:00"
+    },
+    {
+      "id": "rss-e3ddbdb7ab40",
+      "discipline": "cs",
+      "type": "news",
+      "title": "How to use Google’s new AI agents to go beyond your standard searches",
+      "authors": "TechCrunch AI",
+      "abstract": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "agents",
+        "beyond",
+        "your",
+        "standard",
+        "searches",
+        "launching",
+        "ai-powered"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T04:35:53.253125+00:00"
+    },
+    {
+      "id": "rss-b70e96fd3fc2",
+      "discipline": "cs",
+      "type": "news",
+      "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+      "authors": "TechCrunch AI",
+      "abstract": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "email",
+        "teen",
+        "hacker",
+        "iron",
+        "dome",
+        "researcher",
+        "this",
+        "founder"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T04:35:53.253282+00:00"
+    },
+    {
+      "id": "rss-bb07f3220426",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
+      "authors": "TechCrunch AI",
+      "abstract": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "musk",
+        "elon",
+        "said",
+        "altman",
+        "stole",
+        "non-profit",
+        "trial",
+        "showed"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T04:35:53.253460+00:00"
+    },
+    {
+      "id": "rss-7c6b96401a12",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
       "authors": "TechCrunch AI",
       "abstract": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
       "date": "2026-05-19",
@@ -466,7 +658,7 @@ window.LIVE_FEED_DATA = {
       "journal": "TechCrunch AI",
       "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/",
+      "url": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
@@ -484,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.170149+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.253626+00:00"
     },
     {
       "id": "rss-03982b8cc845",
@@ -516,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.170376+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.253784+00:00"
     },
     {
       "id": "rss-d5cccaf474a1",
@@ -548,39 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.170592+00:00"
-    },
-    {
-      "id": "rss-1a18491fb194",
-      "discipline": "cs",
-      "type": "news",
-      "title": "How to use Google’s new information agents",
-      "authors": "TechCrunch AI",
-      "abstract": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "information",
-        "agents",
-        "launching",
-        "ai-powered",
-        "that",
-        "monitor",
-        "topics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.170743+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.253934+00:00"
     },
     {
       "id": "rss-cf84708ca0bb",
@@ -612,103 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.170902+00:00"
-    },
-    {
-      "id": "rss-6392926ff584",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google’s AI now lets you talk to your Gmail inbox",
-      "authors": "TechCrunch AI",
-      "abstract": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "gmail",
-        "inbox",
-        "lets",
-        "talk",
-        "your",
-        "expands",
-        "conversational"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.171042+00:00"
-    },
-    {
-      "id": "rss-fcff6acc51c0",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
-      "authors": "TechCrunch AI",
-      "abstract": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "android",
-        "apps",
-        "minutes",
-        "studio",
-        "lets",
-        "anyone",
-        "build"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.171191+00:00"
-    },
-    {
-      "id": "rss-314c500377bd",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
-      "authors": "TechCrunch AI",
-      "abstract": "Google's Gemini Omni is a new multimodal model that reasons across text, images, audio, and video to generate and edit videos through simple conversation — starting with Omni Flash.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "omni",
-        "google",
-        "gemini",
-        "images",
-        "audio",
-        "text",
-        "video",
-        "that"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.171347+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.254100+00:00"
     },
     {
       "id": "rss-8190829d7370",
@@ -740,21 +804,117 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.171500+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.254238+00:00"
     },
     {
-      "id": "rss-3e5f8a3bc1bd",
+      "id": "rss-2b41cef32059",
       "discipline": "cs",
       "type": "news",
-      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool",
+      "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
       "authors": "TechCrunch AI",
-      "abstract": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside Antigravity 2.0 launch.",
+      "abstract": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.",
       "date": "2026-05-19",
       "year": 2026,
       "journal": "TechCrunch AI",
       "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/",
+      "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "android",
+        "coding",
+        "google",
+        "agentic",
+        "gets",
+        "upgrade",
+        "release",
+        "embracing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T04:35:53.254406+00:00"
+    },
+    {
+      "id": "rss-fcff6acc51c0",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+      "authors": "TechCrunch AI",
+      "abstract": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "android",
+        "apps",
+        "minutes",
+        "studio",
+        "lets",
+        "anyone",
+        "build"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T04:35:53.254550+00:00"
+    },
+    {
+      "id": "rss-fe4bdc29e719",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
+      "authors": "TechCrunch AI",
+      "abstract": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "universal",
+        "cart",
+        "across",
+        "many",
+        "wants",
+        "follow",
+        "your"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T04:35:53.254699+00:00"
+    },
+    {
+      "id": "rss-5941a65ec4d0",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
+      "authors": "TechCrunch AI",
+      "abstract": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
@@ -772,135 +932,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.171637+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.254842+00:00"
     },
     {
-      "id": "rss-00dcc7d89455",
+      "id": "rss-9b5fb86c5fb5",
       "discipline": "cs",
       "type": "news",
-      "title": "Google updates its Gemini app to take on ChatGPT and Claude",
-      "authors": "TechCrunch AI",
-      "abstract": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
+      "title": "Justin Solomon appointed associate dean of engineering education",
+      "authors": "MIT News AI",
+      "abstract": "MIT faculty member in electrical engineering and computer science to focus on innovation in engineering education and new pedagogical approaches.",
       "date": "2026-05-19",
       "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
       "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/",
+      "url": "https://news.mit.edu/2026/justin-solomon-appointed-associate-dean-engineering-education-0519",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "google",
-        "updates",
-        "gemini",
-        "take",
-        "chatgpt",
-        "claude",
-        "signal",
-        "push"
+        "engineering",
+        "education",
+        "justin",
+        "solomon",
+        "appointed",
+        "associate",
+        "dean",
+        "faculty"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.171770+00:00"
-    },
-    {
-      "id": "rss-d7ad246d7751",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration",
-      "authors": "TechCrunch AI",
-      "abstract": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "gemini",
-        "agentic",
-        "spark",
-        "assistant",
-        "introduces",
-        "gmail",
-        "integration"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.171911+00:00"
-    },
-    {
-      "id": "rss-2f14874bdaf7",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google adds voice-based prompting to Docs and Keep",
-      "authors": "TechCrunch AI",
-      "abstract": "Google is letting users create drafts, take notes, and search for email with voice with the new Workspace update.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "adds",
-        "voice-based",
-        "prompting",
-        "docs",
-        "keep",
-        "letting",
-        "users"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.172036+00:00"
-    },
-    {
-      "id": "rss-348a8087e677",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google just declared itself a contender in AI design",
-      "authors": "TechCrunch AI",
-      "abstract": "The tech giant says it's designed the app to be accessible to everyone, from teachers to small business owners.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "just",
-        "declared",
-        "itself",
-        "contender",
-        "design",
-        "tech",
-        "giant"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.172161+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.338628+00:00"
     },
     {
       "id": "rss-072e8cd7bee1",
@@ -932,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.210331+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.338753+00:00"
     },
     {
       "id": "rss-303d6fb74455",
@@ -964,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.401147+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.581542+00:00"
     },
     {
       "id": "rss-118e3c38b86e",
@@ -996,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.210551+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.338927+00:00"
     },
     {
       "id": "rss-41e8976955ef",
@@ -1028,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.210715+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.339080+00:00"
     },
     {
       "id": "rss-e1bcf8f9c317",
@@ -1060,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.401395+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.581793+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1092,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.579403+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.036133+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1124,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.579130+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.035848+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -1156,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.605410+00:00"
+      "_retrievedAt": "2026-05-20T04:34:56.266510+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -1188,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.210866+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.339263+00:00"
     },
     {
       "id": "rss-a4ddec72a3b1",
@@ -1220,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.401630+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.582009+00:00"
     },
     {
       "id": "rss-64416a2d9567",
@@ -1252,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.211002+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.339401+00:00"
     },
     {
       "id": "rss-eaba9e2355ac",
@@ -1284,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.401865+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.582270+00:00"
     },
     {
       "id": "rss-374e6f61e248",
@@ -1316,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.402315+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.582713+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -1348,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.211144+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.339541+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -1380,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.211265+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.339663+00:00"
     },
     {
       "id": "rss-fba3c69509f3",
@@ -1412,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.402903+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.583287+00:00"
     },
     {
       "id": "openalex-0ddbb2ca14dd",
@@ -1444,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.583790+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.040510+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -1476,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.211426+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.339806+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1508,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.211570+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.339944+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1540,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.211708+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.340078+00:00"
     },
     {
       "id": "rss-cad28f8f7789",
@@ -1572,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.211838+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.340227+00:00"
     },
     {
       "id": "rss-13388a8e5f35",
@@ -1604,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.403362+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.583761+00:00"
     },
     {
       "id": "rss-7bb4be9177ee",
@@ -1636,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.403548+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.583933+00:00"
     },
     {
       "id": "rss-be4fdeefc9f3",
@@ -1668,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.403726+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.584149+00:00"
     },
     {
       "id": "rss-1f80c194b5b3",
@@ -1700,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.403945+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.584388+00:00"
     },
     {
       "id": "rss-0f84ef3f0583",
@@ -1732,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.211973+00:00"
+      "_retrievedAt": "2026-05-20T04:35:53.340367+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1764,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.581576+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.038311+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1796,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.214206+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.916715+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -1828,71 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.581815+00:00"
-    },
-    {
-      "id": "rss-cb615cfe90b0",
-      "discipline": "cs",
-      "type": "news",
-      "title": "MIT scientists build the world’s largest collection of Olympiad-level math problems, and open it to everyone",
-      "authors": "MIT News AI",
-      "abstract": "New dataset of 30,000-plus competition math problems from 47 countries gives AI researchers a harder test — and students worldwide a better training ground.",
-      "date": "2026-04-24",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/mit-scientists-build-worlds-largest-collection-olympiad-level-math-problems-open-0424",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "math",
-        "problems",
-        "scientists",
-        "build",
-        "world",
-        "largest",
-        "collection",
-        "olympiad-level"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.212130+00:00"
-    },
-    {
-      "id": "rss-b26d1f650cd0",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Teaching AI models to say “I’m not sure”",
-      "authors": "MIT News AI",
-      "abstract": "A new training method improves the reliability of AI confidence estimates without sacrificing performance, addressing a root cause of hallucination in reasoning models.",
-      "date": "2026-04-22",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/teaching-ai-models-to-say-im-not-sure-0422",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "teaching",
-        "sure",
-        "training",
-        "method",
-        "improves",
-        "reliability",
-        "confidence",
-        "estimates"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:37.212265+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.038563+00:00"
     },
     {
       "id": "openalex-477231997c65",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.583508+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.040224+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.580366+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.037075+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.582554+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.039279+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.580056+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.036764+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.582839+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.039556+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.582200+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.038943+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.606857+00:00"
+      "_retrievedAt": "2026-05-20T04:34:56.267940+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.215012+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.917539+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.581253+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.037978+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.217986+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.920426+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.883453+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.517442+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.884386+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.518402+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.581010+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.037734+00:00"
     },
     {
       "id": "openalex-dd24a0099868",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.583222+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.039936+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.881467+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.515479+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.607455+00:00"
+      "_retrievedAt": "2026-05-20T04:34:56.268529+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2436,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.604276+00:00"
+      "_retrievedAt": "2026-05-20T04:34:56.265425+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2468,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.605738+00:00"
+      "_retrievedAt": "2026-05-20T04:34:56.266829+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2500,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.606159+00:00"
+      "_retrievedAt": "2026-05-20T04:34:56.267264+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -2532,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.880863+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.514882+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2564,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.880566+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.514595+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -2596,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.217398+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.919836+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2628,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.880116+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.514188+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -2660,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.580685+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.037406+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -2692,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.609136+00:00"
+      "_retrievedAt": "2026-05-20T04:34:56.270208+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -2724,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.881744+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.515754+00:00"
     },
     {
       "id": "openalex-3dbf4d4bb3cc",
@@ -2756,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.882674+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.516673+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -2788,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.217044+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.919489+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -2820,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.604691+00:00"
+      "_retrievedAt": "2026-05-20T04:34:56.265806+00:00"
     },
     {
       "id": "openalex-59457ba55225",
@@ -2852,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.882893+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.516887+00:00"
     },
     {
       "id": "openalex-de50ab633493",
@@ -2884,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.579768+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.036478+00:00"
     },
     {
       "id": "openalex-41cd305bd1a4",
@@ -2916,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.882376+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.516392+00:00"
     },
     {
       "id": "openalex-3cfa33454bba",
@@ -2948,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.218766+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.921192+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -2980,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.606512+00:00"
+      "_retrievedAt": "2026-05-20T04:34:56.267602+00:00"
     },
     {
       "id": "openalex-52f50aa5a2fe",
@@ -3012,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.608015+00:00"
+      "_retrievedAt": "2026-05-20T04:34:56.269077+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -3044,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.608402+00:00"
+      "_retrievedAt": "2026-05-20T04:34:56.269482+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -3076,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.884046+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.518034+00:00"
     },
     {
       "id": "openalex-c3a1e2ef4d92",
@@ -3108,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.216760+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.919200+00:00"
     },
     {
       "id": "openalex-2f0cc976fc68",
@@ -3140,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.217675+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.920120+00:00"
     },
     {
       "id": "openalex-c247601395a1",
@@ -3172,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.884692+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.518694+00:00"
     },
     {
       "id": "openalex-1f86c7cca72a",
@@ -3204,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.607704+00:00"
+      "_retrievedAt": "2026-05-20T04:34:56.268773+00:00"
     },
     {
       "id": "openalex-64246eba8b87",
@@ -3236,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.214653+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.917170+00:00"
     },
     {
       "id": "openalex-926d6a7490c3",
@@ -3268,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.607145+00:00"
+      "_retrievedAt": "2026-05-20T04:34:56.268236+00:00"
     },
     {
       "id": "openalex-be85705b0812",
@@ -3300,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.609580+00:00"
+      "_retrievedAt": "2026-05-20T04:34:56.270632+00:00"
     },
     {
       "id": "openalex-0f905eddbd8d",
@@ -3332,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.216013+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.918463+00:00"
     },
     {
       "id": "openalex-6fbb396d11f2",
@@ -3364,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.608804+00:00"
+      "_retrievedAt": "2026-05-20T04:34:56.269865+00:00"
     },
     {
       "id": "openalex-c117d64f4c83",
@@ -3396,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.881165+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.515195+00:00"
     },
     {
       "id": "openalex-f411a351f7cd",
@@ -3428,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.216352+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.918796+00:00"
     },
     {
       "id": "openalex-4cb2b8c203a9",
@@ -3460,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.218354+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.920783+00:00"
     },
     {
       "id": "openalex-8836692447ce",
@@ -3492,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.883177+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.517175+00:00"
     },
     {
       "id": "openalex-45cce60efedd",
@@ -3524,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.883730+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.517719+00:00"
     },
     {
       "id": "openalex-de9c14b09adb",
@@ -3556,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.219004+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.921431+00:00"
     },
     {
       "id": "openalex-29bb0610031e",
@@ -3588,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.215322+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.917781+00:00"
     },
     {
       "id": "openalex-ac6c79930666",
@@ -3620,7 +3620,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:24.215672+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.918122+00:00"
     },
     {
       "id": "openalex-3276beca323a",
@@ -3652,7 +3652,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-19T20:05:23.882081+00:00"
+      "_retrievedAt": "2026-05-20T04:34:55.516085+00:00"
     }
   ]
 };
