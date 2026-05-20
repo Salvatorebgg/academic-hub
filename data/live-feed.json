@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T09:53:26.810063+00:00",
+  "generatedAt": "2026-05-20T15:54:27.914906+00:00",
   "total": 114,
   "sources": [
     "RSS",
@@ -7,452 +7,612 @@
   ],
   "papers": [
     {
-      "id": "rss-6273f1833ee6",
+      "id": "rss-6cea4284dfed",
       "discipline": "clinical",
       "type": "news",
-      "title": "Argentines hunting for source of hantavirus outbreak trap rats in southernmost city",
+      "title": "Saliva could flag one of the deadliest and most baffling cancers sooner",
       "authors": "Medical Xpress",
-      "abstract": "Argentine investigators searching for the source of a deadly hantavirus outbreak on a cruise last month were trapping rodents in the forests surrounding the southernmost city of Ushuaia on Tuesday, with the aim of detecting the possible presence of the rat-borne virus in an area previously thought unaffected.",
+      "abstract": "Scientists at the Sydney Brenner Institute for Molecular Bioscience (SBIMB) at Wits University are exploring whether bacteria in saliva could offer a low-cost warning signal for esophageal squamous cell carcinoma, where late diagnosis leaves palliative care as the only option.",
       "date": "2026-05-20",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-argentines-source-hantavirus-outbreak-rats.html",
+      "url": "https://medicalxpress.com/news/2026-05-saliva-flag-deadliest-baffling-cancers.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "source",
-        "hantavirus",
-        "outbreak",
-        "southernmost",
-        "city",
-        "argentines",
-        "hunting",
-        "trap"
+        "saliva",
+        "could",
+        "flag",
+        "deadliest",
+        "most",
+        "baffling",
+        "cancers",
+        "sooner"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.246088+00:00"
+      "_retrievedAt": "2026-05-20T15:54:26.838837+00:00"
     },
     {
-      "id": "rss-b60335983a91",
+      "id": "rss-049b91728dde",
       "discipline": "clinical",
       "type": "news",
-      "title": "WHO chief concerned over 'scale and speed' of Ebola outbreak as Congo reports 134 dead",
+      "title": "How switching to smarter lighting can cut energy bills and boost your health",
       "authors": "Medical Xpress",
-      "abstract": "The head of the World Health Organization on Tuesday expressed concern over the \"scale and speed\" of an outbreak of a rare type of Ebola known as Bundibugyo in eastern Congo, where authorities reported 134 suspected deaths and more than 500 suspected cases.",
+      "abstract": "Lighting accounts for almost 8% of the world's energy usage. It makes up around 10–20% of domestic energy bills, with an even higher proportion in commercial premises like offices.",
       "date": "2026-05-20",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-chief-scale-ebola-outbreak-congo.html",
+      "url": "https://medicalxpress.com/news/2026-05-smarter-energy-bills-boost-health.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "over",
-        "scale",
-        "speed",
-        "ebola",
-        "outbreak",
-        "congo",
-        "suspected",
-        "chief"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.246364+00:00"
-    },
-    {
-      "id": "rss-ab90a185cd9a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Ebola, hantavirus show world's risk preparedness lagging: Pandemic expert",
-      "authors": "Medical Xpress",
-      "abstract": "The deadly hantavirus and Ebola outbreaks show that while the response to declared public health crises has improved, awareness of pandemic risks still lags, a leading pandemic expert warned Tuesday.",
-      "date": "2026-05-20",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-ebola-hantavirus-world-preparedness-lagging.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "pandemic",
-        "ebola",
-        "hantavirus",
-        "show",
-        "expert",
-        "world",
-        "risk",
-        "preparedness"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.246576+00:00"
-    },
-    {
-      "id": "rss-004aa7c510a9",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Aerobic exercise may lessen the health effects of exposure to nanoplastics",
-      "authors": "Medical Xpress",
-      "abstract": "Using female zebrafish as a model, researchers have found that aerobic exercise may influence various connections in the body to lessen the damaging health impacts of environmental nanoplastics. In the study, published in The FASEB Journal, adult female zebrafish were exposed to polystyrene nanoplastics for 21 days, with or without moderate aerobic exercise.",
-      "date": "2026-05-20",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-aerobic-lessen-health-effects-exposure.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "aerobic",
-        "exercise",
-        "nanoplastics",
-        "lessen",
-        "health",
-        "female",
-        "zebrafish",
-        "effects"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.246800+00:00"
-    },
-    {
-      "id": "rss-0836c11b4c47",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "How advance directives may affect end-of-life care",
-      "authors": "Medical Xpress",
-      "abstract": "Advance directives document patient preferences for future care, including end-of-life. An analysis in the Journal of the American Geriatrics Society has found that older patients with an advance directive that had been uploaded to the electronic health record at least six months before death were 25% less likely to experience potentially burdensome end-of-life care (19.9% versus 26.8%) and 31% less likely to have died in the hospital (23.2% versus 32.1%).",
-      "date": "2026-05-20",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-advance-affect-life.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "advance",
-        "end-of-life",
-        "care",
-        "directives",
-        "that",
-        "less",
-        "likely",
-        "versus"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.247041+00:00"
-    },
-    {
-      "id": "rss-0e498d3d9a0f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Handwriting speed may be a sign of cognitive decline in older people",
-      "authors": "Medical Xpress",
-      "abstract": "Handwriting requires a combination of fine motor control and a complex set of mental skills, such as selecting, organizing, and interpreting sensory information, making it a cognitively challenging task. Because of its high demand on the brain, it is a potential marker of cognitive decline, especially as we age. Then, our handwriting often becomes slower or choppier.",
-      "date": "2026-05-20",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-cognitive-decline-older-people.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "handwriting",
-        "cognitive",
-        "decline",
-        "speed",
-        "sign",
-        "older",
-        "people",
-        "requires"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.247270+00:00"
-    },
-    {
-      "id": "rss-ee31ac536a70",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Lipedema: The painful condition too often dismissed as obesity",
-      "authors": "Medical Xpress",
-      "abstract": "For many women with lipedema, the diagnosis comes after years of being told the same thing: eat less, not more. The problem is that the fat accumulating around their hips and legs isn't responding to diet or exercise, because it was never caused by them in the first place.",
-      "date": "2026-05-20",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-lipedema-painful-condition-dismissed-obesity.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "lipedema",
-        "painful",
-        "condition",
-        "often",
-        "dismissed",
-        "obesity",
-        "many",
-        "women"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.247508+00:00"
-    },
-    {
-      "id": "rss-d3b4062d1e3e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Home sooner, recovering better: Redesigning hip and knee surgery",
-      "authors": "Medical Xpress",
-      "abstract": "More than 200,000 hip and knee replacements are performed in the U.K. every year. They are usually performed only when conservative treatments such as physiotherapy, weight loss, and medications are no longer effective. The average length of hospital stay for knee or hip replacement surgery is currently 2.7 days.",
-      "date": "2026-05-20",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-home-sooner-recovering-redesigning-hip.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "knee",
-        "surgery",
-        "performed",
-        "home",
-        "sooner",
-        "recovering",
-        "better",
-        "redesigning"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.247721+00:00"
-    },
-    {
-      "id": "rss-ae91b3418938",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Losing a parent can dent an adult's earning power, say researchers",
-      "authors": "Medical Xpress",
-      "abstract": "Losing a parent in adulthood not only breaks your heart, but can put a sizable dent in your bank account, a new study says. Adults' earning power persistently declines following the death of a parent, researchers report in the American Economic Review.",
-      "date": "2026-05-20",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-parent-dent-adult-power.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "parent",
-        "losing",
-        "dent",
-        "earning",
-        "power",
-        "researchers",
+        "energy",
+        "lighting",
+        "bills",
+        "switching",
+        "smarter",
+        "boost",
         "your",
-        "adult"
+        "health"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.247925+00:00"
+      "_retrievedAt": "2026-05-20T15:54:26.839113+00:00"
     },
     {
-      "id": "rss-bdae821b389f",
+      "id": "rss-04f0e464f6c7",
       "discipline": "clinical",
       "type": "news",
-      "title": "Text messages aid in reducing cardiovascular risk in adults with psoriasis",
+      "title": "Hantavirus quarantine has started—two infection control experts explain what to expect",
       "authors": "Medical Xpress",
-      "abstract": "A text-messaging intervention can improve patient activation and cardiovascular risk behaviors in adults with psoriasis, according to a study published online May 13 in JAMA Dermatology.",
+      "abstract": "Six passengers from the hantavirus cruise ship have started their quarantine at Australia's purpose-built facility in Western Australia.",
       "date": "2026-05-20",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-text-messages-aid-cardiovascular-adults.html",
+      "url": "https://medicalxpress.com/news/2026-05-hantavirus-quarantine-infection-experts.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cardiovascular",
-        "risk",
-        "adults",
-        "psoriasis",
-        "text",
-        "messages",
-        "reducing",
-        "text-messaging"
+        "hantavirus",
+        "quarantine",
+        "started",
+        "australia",
+        "infection",
+        "control",
+        "experts",
+        "explain"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.248111+00:00"
+      "_retrievedAt": "2026-05-20T15:54:26.839333+00:00"
     },
     {
-      "id": "rss-f117298dc2d9",
+      "id": "rss-d4e5697cebee",
       "discipline": "clinical",
       "type": "news",
-      "title": "Sex differences in dementia risks reveal stronger cognitive impacts in women",
+      "title": "Modern medicine cut gut microbial diversity in remote Amazonian communities after just a few visits, study shows",
       "authors": "Medical Xpress",
-      "abstract": "Researchers from the University of California San Diego School of Medicine have found that women not only experience a higher burden of certain modifiable dementia risk factors, but also appear more vulnerable to their effects on cognitive function. The study, which analyzed data from more than 17,000 middle-aged and older adults, is published in Biology of Sex Differences.",
+      "abstract": "Even minimal exposure to modern medicine can rapidly change the human microbiome. In a new study appearing in Cell Reports, researchers reveal that the gut microbes of remote Amazonian Indigenous communities have begun shifting toward patterns more commonly seen in urban, industrialized populations after only a few medical visits.",
       "date": "2026-05-20",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-sex-differences-dementia-reveal-stronger.html",
+      "url": "https://medicalxpress.com/news/2026-05-modern-medicine-gut-microbial-diversity.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "differences",
-        "dementia",
-        "cognitive",
-        "women",
-        "more",
-        "risks",
-        "reveal",
-        "stronger"
+        "modern",
+        "medicine",
+        "remote",
+        "amazonian",
+        "communities",
+        "after",
+        "visits",
+        "microbial"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.248364+00:00"
+      "_retrievedAt": "2026-05-20T15:54:26.839586+00:00"
     },
     {
-      "id": "rss-57a478dd1e91",
+      "id": "rss-5f96ec1046e2",
       "discipline": "clinical",
       "type": "news",
-      "title": "Sedative choice in pediatric intensive care may influence long-term neurocognitive outcomes",
+      "title": "Pilot trial suggests anti-inflammatory drug could help difficult-to-treat depression",
       "authors": "Medical Xpress",
-      "abstract": "A new Penn Nursing study suggests that the specific sedatives used during critical illness in early childhood may have long-term implications for a child's neurocognitive development. Martha A.Q. Curley, Ph.D., RN, FAAN, Professor in the Department of Family and Community Health, and the Ruth M. Colket Endowed Chair in Pediatric Nursing at Children's Hospital of Philadelphia, co-led the study with R. Scott Watson, MD, from Seattle Children's Hospital.",
+      "abstract": "Immunotherapy could be a promising new treatment option for patients with difficult-to-treat depression. This is a key finding from a University of Bristol-led pilot randomized controlled clinical trial, published in JAMA Psychiatry.",
       "date": "2026-05-20",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-sedative-choice-pediatric-intensive-term.html",
+      "url": "https://medicalxpress.com/news/2026-05-trial-anti-inflammatory-drug-difficult.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "pediatric",
-        "long-term",
-        "neurocognitive",
-        "nursing",
-        "children",
-        "hospital",
-        "sedative",
-        "choice"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.248611+00:00"
-    },
-    {
-      "id": "rss-a88efe1635b5",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Severe asthma links to three recurring illness clusters across 2,700 patients in 11 countries",
-      "authors": "Medical Xpress",
-      "abstract": "Most people living with severe asthma are also battling other health conditions that go under the radar, a major new study has found. Researchers analyzing data from thousands of patients discovered that the additional illnesses—which range from obesity to osteoporosis—tend to appear in clusters.",
-      "date": "2026-05-20",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-severe-asthma-links-recurring-illness.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "severe",
-        "asthma",
-        "clusters",
-        "patients",
-        "that",
-        "links",
-        "three",
-        "recurring"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.248852+00:00"
-    },
-    {
-      "id": "rss-27ab4c8791b3",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Three-minute video game can help identify patients with depression",
-      "authors": "Medical Xpress",
-      "abstract": "An experimental diagnostic tool in the form of a computer game was able to quickly identify patients with depression based on anhedonia, a key feature of the disease, a new study shows.",
-      "date": "2026-05-20",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-minute-video-game-patients-depression.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "game",
-        "identify",
-        "patients",
+        "pilot",
+        "trial",
+        "could",
+        "difficult-to-treat",
         "depression",
-        "three-minute",
-        "video",
-        "help",
-        "experimental"
+        "suggests",
+        "anti-inflammatory",
+        "drug"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.249043+00:00"
+      "_retrievedAt": "2026-05-20T15:54:26.839798+00:00"
+    },
+    {
+      "id": "rss-400077d5276c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Study illuminates link between fatty liver disease and cardiovascular events",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at Mass General Brigham Heart and Vascular Institute found that people with hepatic steatosis, commonly called \"fatty liver disease,\" have a higher amount of noncalcified, rupture-prone coronary plaque and face nearly twice the rate of cardiovascular events compared to those without steatosis.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-illuminates-link-fatty-liver-disease.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "fatty",
+        "liver",
+        "disease",
+        "cardiovascular",
+        "events",
+        "steatosis",
+        "illuminates",
+        "link"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:26.840059+00:00"
+    },
+    {
+      "id": "rss-4dc027f241c4",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "How children with autism hear: Not better or worse, just differently",
+      "authors": "Medical Xpress",
+      "abstract": "Université de Montréal psychiatry professor Laurent Mottron has spent his career studying the cognitive processes of people with autism. Rather than viewing autism as a deficit, he sees it as a different way of processing sensory and social information.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-children-autism-worse-differently.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "autism",
+        "children",
+        "hear",
+        "better",
+        "worse",
+        "just",
+        "differently",
+        "universit"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:26.840297+00:00"
+    },
+    {
+      "id": "rss-3b7062c3dedb",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Strong genetic mutation overrides female protective effects in autism, researchers discover",
+      "authors": "Medical Xpress",
+      "abstract": "Autism spectrum disorder affects males far more frequently than females, with diagnoses occurring roughly four times more often in boys. Scientists have long suspected that females may possess biological protective mechanisms that reduce vulnerability to autism, but direct experimental evidence has remained limited.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-strong-genetic-mutation-overrides-female.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "autism",
+        "protective",
+        "more",
+        "females",
+        "that",
+        "strong",
+        "genetic",
+        "mutation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:26.840518+00:00"
+    },
+    {
+      "id": "rss-9757644ceeeb",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Cytokine-armored CAR-T cell therapy helps eliminate aggressive brain tumors in preclinical study",
+      "authors": "Medical Xpress",
+      "abstract": "Scientists at the UCLA Health Jonsson Comprehensive Cancer Center have developed a new cytokine-armored CAR-T cell therapy that helps the immune system better attack aggressive brain tumors in mice while reducing dangerous side effects that have long limited immune-based treatments for glioblastoma, one of the deadliest and most treatment-resistant brain cancers.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-cytokine-armored-car-cell-therapy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "cytokine-armored",
+        "car-t",
+        "cell",
+        "therapy",
+        "helps",
+        "aggressive",
+        "tumors"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:26.840744+00:00"
+    },
+    {
+      "id": "rss-d2246fae7056",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New approach could lead to earlier diagnosis of iron deficiency in children aged 5–14 years",
+      "authors": "Medical Xpress",
+      "abstract": "Many cases of iron deficiency in school-aged children could be diagnosed earlier, according to a new study published in Blood Red Cells & Iron. By applying a higher ferritin threshold than used in current guidelines, researchers found that iron deficiency in U.S. children 5 to 14 years may be more common than previously thought and could be diagnosed earlier in many cases.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-approach-earlier-diagnosis-iron-deficiency.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "iron",
+        "could",
+        "earlier",
+        "deficiency",
+        "children",
+        "years",
+        "many",
+        "cases"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:26.841008+00:00"
+    },
+    {
+      "id": "rss-4a0992453030",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Discovery shows how cancer takes hold as cells divide",
+      "authors": "Medical Xpress",
+      "abstract": "University of Virginia School of Medicine scientists have revealed how mistakes in the final step of cell division can have dire consequences for developing brain cells. The findings offer important new insights into cancer and developmental disorders, helping explain how the body tries to protect itself and what happens when it can't.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-discovery-cancer-cells.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "cells",
+        "have",
+        "discovery",
+        "shows",
+        "takes",
+        "hold",
+        "divide"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:26.841222+00:00"
+    },
+    {
+      "id": "rss-2a4c7f9c1127",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Cracking the code of p53 fragility: Why the genome guardian is prone to failure",
+      "authors": "Medical Xpress",
+      "abstract": "The protein p53 is often called the guardian of the genome for its central role in preventing cancer. Yet paradoxically, it is also one of the most frequently mutated and dysfunctional proteins in human tumors.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-code-p53-fragility-genome-guardian.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "genome",
+        "guardian",
+        "cracking",
+        "code",
+        "fragility",
+        "prone",
+        "failure",
+        "protein"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:26.841417+00:00"
+    },
+    {
+      "id": "rss-51d99baceac0",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "School recess is a health necessity, not a reward, says psychologist",
+      "authors": "Medical Xpress",
+      "abstract": "Cutting recess doesn't just shortchange kids on playtime. A Syracuse University researcher says it can have real consequences for their health and development.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-school-recess-health-necessity-reward.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "recess",
+        "health",
+        "says",
+        "school",
+        "necessity",
+        "reward",
+        "psychologist",
+        "cutting"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:26.841598+00:00"
+    },
+    {
+      "id": "rss-16c795afde59",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "A brief kidney crisis in childhood can cast a long shadow over health for years afterward",
+      "authors": "Medical Xpress",
+      "abstract": "Acute kidney injury (AKI) is a condition in which the kidneys suddenly lose their ability to filter waste from the blood. Developing within hours or days, AKI can cause dangerous waste accumulation and disrupt the body's fluid balance. It is a frequent and serious complication among hospitalized infants and children, often linked to higher mortality rates, prolonged hospital stays, and an increased need for mechanical ventilation.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-kidney-crisis-childhood-shadow-health.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "kidney",
+        "waste",
+        "brief",
+        "crisis",
+        "childhood",
+        "cast",
+        "long",
+        "shadow"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:26.841831+00:00"
+    },
+    {
+      "id": "rss-9399ab707d22",
+      "discipline": "cs",
+      "type": "news",
+      "title": "AI search startups are blowing up",
+      "authors": "TechCrunch AI",
+      "abstract": "AI search has quietly become one of the most attractive targets in consumer AI.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "search",
+        "startups",
+        "blowing",
+        "quietly",
+        "become",
+        "most",
+        "attractive",
+        "targets"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:26.964717+00:00"
+    },
+    {
+      "id": "rss-78b8f47e26cc",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Stability AI releases a new audio model that can create six-minute songs",
+      "authors": "TechCrunch AI",
+      "abstract": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "stability",
+        "audio",
+        "releases",
+        "that",
+        "create",
+        "six-minute",
+        "songs",
+        "small"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:26.964911+00:00"
+    },
+    {
+      "id": "rss-90c8c78e5b0a",
+      "discipline": "cs",
+      "type": "news",
+      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+      "authors": "TechCrunch AI",
+      "abstract": "NanoCo, the company behind OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nanoclaw",
+        "seed",
+        "creator",
+        "turns",
+        "down",
+        "buyout",
+        "offer",
+        "raises"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:26.965085+00:00"
+    },
+    {
+      "id": "rss-a813f428c20c",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
+      "authors": "TechCrunch AI",
+      "abstract": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup here.",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "startup",
+        "battlefield",
+        "applications",
+        "close",
+        "nominate",
+        "week",
+        "window",
+        "apply"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:26.965244+00:00"
+    },
+    {
+      "id": "rss-875cdb7219c1",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Figma adds an AI assistant to its collaborative canvas",
+      "authors": "TechCrunch AI",
+      "abstract": "Figma's new AI assistant will be first available on Figma Design",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "figma",
+        "assistant",
+        "adds",
+        "collaborative",
+        "canvas",
+        "will",
+        "first",
+        "available"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:26.965366+00:00"
     },
     {
       "id": "rss-2b72b6519fb3",
@@ -484,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.296330+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.154338+00:00"
     },
     {
       "id": "rss-5a64893acd82",
@@ -516,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.266230+00:00"
+      "_retrievedAt": "2026-05-20T15:54:26.965489+00:00"
     },
     {
       "id": "rss-718562faa3be",
@@ -548,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.266475+00:00"
+      "_retrievedAt": "2026-05-20T15:54:26.965634+00:00"
     },
     {
       "id": "rss-e3ddbdb7ab40",
@@ -580,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.266642+00:00"
+      "_retrievedAt": "2026-05-20T15:54:26.965779+00:00"
     },
     {
       "id": "rss-b70e96fd3fc2",
@@ -612,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.266792+00:00"
+      "_retrievedAt": "2026-05-20T15:54:26.965916+00:00"
     },
     {
       "id": "rss-bb07f3220426",
@@ -644,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.266975+00:00"
+      "_retrievedAt": "2026-05-20T15:54:26.966108+00:00"
     },
     {
       "id": "rss-7c6b96401a12",
@@ -676,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.267141+00:00"
+      "_retrievedAt": "2026-05-20T15:54:26.966270+00:00"
     },
     {
       "id": "rss-03982b8cc845",
@@ -708,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.267303+00:00"
+      "_retrievedAt": "2026-05-20T15:54:26.966424+00:00"
     },
     {
       "id": "rss-d5cccaf474a1",
@@ -740,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.267475+00:00"
+      "_retrievedAt": "2026-05-20T15:54:26.966568+00:00"
     },
     {
       "id": "rss-cf84708ca0bb",
@@ -772,167 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.267630+00:00"
-    },
-    {
-      "id": "rss-8190829d7370",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI is making it easier to check if an image was made by their models",
-      "authors": "TechCrunch AI",
-      "abstract": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "openai",
-        "making",
-        "easier",
-        "check",
-        "image",
-        "made",
-        "their",
-        "announced"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.267770+00:00"
-    },
-    {
-      "id": "rss-fcff6acc51c0",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
-      "authors": "TechCrunch AI",
-      "abstract": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "android",
-        "apps",
-        "minutes",
-        "studio",
-        "lets",
-        "anyone",
-        "build"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.267913+00:00"
-    },
-    {
-      "id": "rss-2b41cef32059",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
-      "authors": "TechCrunch AI",
-      "abstract": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "android",
-        "coding",
-        "google",
-        "agentic",
-        "gets",
-        "upgrade",
-        "release",
-        "embracing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.268079+00:00"
-    },
-    {
-      "id": "rss-fe4bdc29e719",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
-      "authors": "TechCrunch AI",
-      "abstract": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "universal",
-        "cart",
-        "across",
-        "many",
-        "wants",
-        "follow",
-        "your"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.268227+00:00"
-    },
-    {
-      "id": "rss-074db0c84512",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
-      "authors": "TechCrunch AI",
-      "abstract": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "gemini",
-        "agentic",
-        "spark",
-        "assistant",
-        "introduces",
-        "gmail",
-        "integration"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.268382+00:00"
+      "_retrievedAt": "2026-05-20T15:54:26.966720+00:00"
     },
     {
       "id": "rss-9b5fb86c5fb5",
@@ -964,7 +964,71 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.296495+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.154497+00:00"
+    },
+    {
+      "id": "rss-c53d4758f364",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Announcing the 2026 Hollings Scholarship recipients!",
+      "authors": "NOAA News",
+      "abstract": "Announcing the 2026 Hollings Scholarship recipients! The 2024 class of EPP/MSI and Hollings undergraduate scholars. (Image credit: Chris Zimmer Photography) Download Image May 20, 2026 NOAA’s Office of Education has selected 128 Ernest F. Hollings undergraduate scholars for the class of 2026-2028. Scholars receive a two-year academic scholarship for their junior and senior years, a paid summer internship opportunity, and funding to participate in up to two national scientific conferences. Congratulations to the 2026 Hollings scholars! This year's class of scholars brings incredible skill and passion to the NOAA mission. Your selection as a scholar is a testament to your talent and dedication. We are excited to welcome you to the NOAA community and eagerly anticipate the exciting opportunities that await you and the valuable contributions you will make during your internship experience...",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/office-education/hollings-scholarship/news/announcing-2026-hollings-scholarship-recipients",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "hollings",
+        "scholars",
+        "scholarship",
+        "class",
+        "noaa",
+        "your",
+        "announcing",
+        "recipients"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:27.568057+00:00"
+    },
+    {
+      "id": "openalex-6ec2090c6af0",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "TimeLLM: Time Series Forecasting by Reprogramming Large Language Models",
+      "authors": "Ming Jin, Shiyu Wang, Lintao Ma, Zhixuan Chu, James Y. Zhang, Xiaoming Shi",
+      "abstract": "Accurate forecasting of time series is essential to many dynamic real-world systems and has attracted extensive research attention. Unlike natural language processing or computer vision, where one large model can often address multiple tasks, most existing forecasting solutions are highly specialized and confined to the single time series data modality. Advancements in multimodal time series foundation models have significantly lagged behind other domains, mainly because large, high-quality time series corpora remain scarce. At the same time, recent evidence suggests that large language models (LLMs) excel at understanding and reasoning across long token sequences. Exploiting those capabilities for forecasting requires a principled way to bridge numeric time series signals and linguistic tokens. This chapter presents Time-LLM, a model reprogramming framework that repurposes frozen LLM...",
+      "date": "2026-05-18",
+      "year": 2026,
+      "journal": "OpenAlex",
+      "source": "OpenAlex",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1201/9781003616719-7",
+      "doi": "10.1201/9781003616719-7",
+      "pdfUrl": "https://arxiv.org/pdf/2310.01728",
+      "keywords": [
+        "Computer science",
+        "Leverage (statistics)",
+        "Artificial intelligence",
+        "Context (archaeology)",
+        "Machine learning",
+        "Time Series Analysis and Forecasting",
+        "Stock Market Forecasting Methods",
+        "Forecasting Techniques and Applications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 128,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:20.643519+00:00"
     },
     {
       "id": "rss-072e8cd7bee1",
@@ -996,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.296623+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.154621+00:00"
     },
     {
       "id": "rss-303d6fb74455",
@@ -1028,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.674038+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.568346+00:00"
     },
     {
       "id": "rss-118e3c38b86e",
@@ -1060,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.296792+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.154789+00:00"
     },
     {
       "id": "rss-41e8976955ef",
@@ -1092,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.296946+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.154945+00:00"
     },
     {
       "id": "rss-e1bcf8f9c317",
@@ -1124,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.674291+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.568572+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1156,7 +1220,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.428956+00:00"
+      "_retrievedAt": "2026-05-20T15:54:20.643734+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1188,7 +1252,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.428700+00:00"
+      "_retrievedAt": "2026-05-20T15:54:20.643134+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -1220,7 +1284,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.649424+00:00"
+      "_retrievedAt": "2026-05-20T15:54:22.615182+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -1252,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.297095+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.155145+00:00"
     },
     {
       "id": "rss-a4ddec72a3b1",
@@ -1284,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.674565+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.568775+00:00"
     },
     {
       "id": "rss-64416a2d9567",
@@ -1316,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.297231+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.155285+00:00"
     },
     {
       "id": "rss-eaba9e2355ac",
@@ -1348,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.674814+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.569011+00:00"
     },
     {
       "id": "rss-374e6f61e248",
@@ -1380,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.675265+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.569437+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -1412,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.297400+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.155427+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -1444,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.297527+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.155547+00:00"
     },
     {
       "id": "rss-fba3c69509f3",
@@ -1476,39 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.675853+00:00"
-    },
-    {
-      "id": "openalex-0ddbb2ca14dd",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Chief Justice Robots",
-      "authors": "Eugene Volokh",
-      "abstract": "Say an AI program someday passes a Turing test, because it can con-verse in a way indistinguishable from a human. And say that its develop-ers can then teach it to converse—and even present an extended persua-sive argument—in a way indistinguishable from the sort of human we call a “lawyer.” The program could thus become an AI brief-writer, ca-pable of regularly winning brief-writing competitions against human lawyers. Once that happens (if it ever happens), this Essay argues, the same technology can be used to create AI judges, judges that we should accept as no less reliable (and more cost-effective) than human judges. If the software can create persuasive opinions, capable of regularly winning opinion-writing competitions against human judges—and if it can be adequately protected against hacking and similar attacks—we should in principle accept it as a judge, even if the opinions d...",
-      "date": "2026-04-30",
-      "year": 2026,
-      "journal": "Cambridge University Press eBooks",
-      "source": "Cambridge University Press eBooks",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1017/9781009744225.007",
-      "doi": "10.1017/9781009744225.007",
-      "pdfUrl": "https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=3973&context=dlj",
-      "keywords": [
-        "Economic Justice",
-        "Political science",
-        "Psychology",
-        "Criminology",
-        "Law and economics",
-        "Artificial Intelligence in Law",
-        "Ethics and Social Impacts of AI",
-        "human"
-      ],
-      "readTime": "1 min",
-      "citedBy": 12,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.433267+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.570010+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -1540,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.297677+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.155691+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1572,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.297813+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.155824+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1604,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.297951+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.155958+00:00"
     },
     {
       "id": "rss-cad28f8f7789",
@@ -1636,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.298081+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.156104+00:00"
     },
     {
       "id": "rss-13388a8e5f35",
@@ -1668,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.676329+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.570476+00:00"
     },
     {
       "id": "rss-7bb4be9177ee",
@@ -1700,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.676502+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.570638+00:00"
     },
     {
       "id": "rss-be4fdeefc9f3",
@@ -1732,39 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.676682+00:00"
-    },
-    {
-      "id": "rss-1f80c194b5b3",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Artemis II returns: How NOAA helped protect astronauts during the 10-day NASA mission",
-      "authors": "NOAA News",
-      "abstract": "Artemis II returns: How NOAA helped protect astronauts during the 10-day NASA mission NASA’s Artemis II astronauts returned to Earth April 10 after a 10-day journey beyond the magnetosphere during which NOAA scientists monitored solar activity for radiation risks. (Image credit: NASA/nasa.gov) April 28, 2026 Satellites space satellites 0 Off",
-      "date": "2026-04-28",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/artemis-ii-returns-how-noaa-helped-protect-astronauts-during-10-day-nasa-mission-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nasa",
-        "artemis",
-        "noaa",
-        "astronauts",
-        "during",
-        "returns",
-        "helped",
-        "protect"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.676952+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.570813+00:00"
     },
     {
       "id": "rss-0f84ef3f0583",
@@ -1796,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:26.298215+00:00"
+      "_retrievedAt": "2026-05-20T15:54:27.156241+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1828,7 +1828,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.431104+00:00"
+      "_retrievedAt": "2026-05-20T15:54:20.645842+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1860,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.092867+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.948984+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -1892,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.431367+00:00"
+      "_retrievedAt": "2026-05-20T15:54:20.646536+00:00"
     },
     {
       "id": "openalex-477231997c65",
@@ -1924,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.432986+00:00"
+      "_retrievedAt": "2026-05-20T15:54:20.647792+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -1956,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.429913+00:00"
+      "_retrievedAt": "2026-05-20T15:54:20.644654+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -1988,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.432063+00:00"
+      "_retrievedAt": "2026-05-20T15:54:20.646855+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2020,7 +2020,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.429597+00:00"
+      "_retrievedAt": "2026-05-20T15:54:20.644354+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -2052,7 +2052,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.432346+00:00"
+      "_retrievedAt": "2026-05-20T15:54:20.647145+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2080,11 +2080,11 @@
         "Cell Image Analysis Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 14,
+      "citedBy": 16,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.431745+00:00"
+      "_retrievedAt": "2026-05-20T15:54:20.646279+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2116,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.650847+00:00"
+      "_retrievedAt": "2026-05-20T15:54:22.616600+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2148,7 +2148,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.093665+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.949751+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2180,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.430792+00:00"
+      "_retrievedAt": "2026-05-20T15:54:20.645524+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2212,7 +2212,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.096517+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.952565+00:00"
+    },
+    {
+      "id": "openalex-e61cba8d846e",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "A Machine Learning Framework for the Investigation of Energy-Critical Mineralized Geologic Structures from Gravity and Magnetic Datasets: Implications for Sustainable Exploration",
+      "authors": "Ema Michael Abraham, George-Best Azuoko, Ayatu Usman, I. M. Onwe, Iheanyi Ikeazota, Cyril Gwazah Afuwai",
+      "abstract": "Mineral exploration faces challenges from complex geological architectures and subtle geophysical expressions of mineralization. This study proposes a joint gravity–magnetic machine learning framework integrating magnetic anomaly, analytic signal, gravity, and Source Parameter Imaging depth estimates to enhance mineralization prediction in Nigeria's Middle Benue Trough and adjoining basement terrain. Five supervised algorithms were evaluated, with Random Forest achieving the highest performance (accuracy=0.954, precision=0.889, recall=0.819, macro-F1=0.850, ROC-AUC=0.978). Correlation analysis revealed low feature redundancy, while unsupervised clustering confirmed structural partitions consistent with mapped fault systems. Ablation studies identified analytic signal as the most influential predictor; however, gravity and depth features contributed essential complementary information,...",
+      "date": "2026-03-05",
+      "year": 2026,
+      "journal": "Journal of Geo-Energy and Environment",
+      "source": "Journal of Geo-Energy and Environment",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.62762/jgee.2026.309205",
+      "doi": "10.62762/jgee.2026.309205",
+      "pdfUrl": "https://www.icck.org/filebob/uploads/storage/JGEE_T2ASWcKfLJpgJ9zW2.pdf",
+      "keywords": [
+        "Mineral exploration",
+        "Geology",
+        "Cluster analysis",
+        "Machine learning",
+        "Trough (economics)",
+        "Geochemistry and Geologic Mapping",
+        "Geophysical and Geoelectrical Methods",
+        "Geomagnetism and Paleomagnetism Studies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:22.618067+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -2244,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.826497+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.278668+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -2276,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.827496+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.280274+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2308,7 +2340,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.430552+00:00"
+      "_retrievedAt": "2026-05-20T15:54:20.645281+00:00"
     },
     {
       "id": "openalex-dd24a0099868",
@@ -2340,7 +2372,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.432722+00:00"
+      "_retrievedAt": "2026-05-20T15:54:20.647523+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2372,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.824520+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.275962+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2404,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.651432+00:00"
+      "_retrievedAt": "2026-05-20T15:54:22.617492+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2436,7 +2468,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.648333+00:00"
+      "_retrievedAt": "2026-05-20T15:54:22.614067+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2468,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.649746+00:00"
+      "_retrievedAt": "2026-05-20T15:54:22.615494+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2500,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.650167+00:00"
+      "_retrievedAt": "2026-05-20T15:54:22.615912+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -2532,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.823909+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.275363+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2564,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.823614+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.275058+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -2596,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.095936+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.952014+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2628,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.823175+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.274597+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -2660,7 +2692,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.430216+00:00"
+      "_retrievedAt": "2026-05-20T15:54:20.644947+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -2692,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.653089+00:00"
+      "_retrievedAt": "2026-05-20T15:54:22.619157+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -2724,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.824796+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.276260+00:00"
     },
     {
       "id": "openalex-3dbf4d4bb3cc",
@@ -2756,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.825722+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.277258+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -2788,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.095594+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.951657+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -2820,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.648721+00:00"
+      "_retrievedAt": "2026-05-20T15:54:22.614458+00:00"
     },
     {
       "id": "openalex-59457ba55225",
@@ -2852,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.825937+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.277809+00:00"
     },
     {
       "id": "openalex-de50ab633493",
@@ -2880,11 +2912,11 @@
         "Persona Design and Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 30,
+      "citedBy": 31,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.429293+00:00"
+      "_retrievedAt": "2026-05-20T15:54:20.644074+00:00"
     },
     {
       "id": "openalex-41cd305bd1a4",
@@ -2916,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.825437+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.276893+00:00"
     },
     {
       "id": "openalex-3cfa33454bba",
@@ -2948,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.097257+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.953330+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -2976,11 +3008,11 @@
         "Peatlands and Wetlands Ecology"
       ],
       "readTime": "1 min",
-      "citedBy": 4,
+      "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.650511+00:00"
+      "_retrievedAt": "2026-05-20T15:54:22.616264+00:00"
     },
     {
       "id": "openalex-52f50aa5a2fe",
@@ -3008,11 +3040,11 @@
         "Water-Energy-Food Nexus Studies"
       ],
       "readTime": "1 min",
-      "citedBy": 3,
+      "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.651984+00:00"
+      "_retrievedAt": "2026-05-20T15:54:22.616913+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -3044,7 +3076,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.652378+00:00"
+      "_retrievedAt": "2026-05-20T15:54:22.618442+00:00"
+    },
+    {
+      "id": "openalex-b89933fb7b44",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Discover the maze-like network for glabridin biosynthesis",
+      "authors": "Zhen Zhang, Wenqiang Li, Fanze Meng, Yanmin Jin, Wentao Sun, Qina Kuang",
+      "abstract": "Flavonoid diversity arises from modifications of a few precursors by tailored enzymes, yet the complexity of their evolved metabolic networks complicates pathway elucidation and design. Here, by combining chromosome-scale genome assembly with large-scale transcriptome analysis, we identify and reconstruct the glabridin biosynthetic pathway in yeast, enabling de novo production of this antioxidant flavonoid from Glycyrrhiza glabra L. By analyzing 183 licorice transcriptomes, we discover four classes of enzymes capable of modify isoflavan scaffolds. Among 13 theoretical routes, we validate six functional pathways, revealing a ladder-like, multi-route tailoring network. This network features a multi-step “protection–deprotection” mechanism driven by a dynamic methylation–demethylation cycle that regulate intermediate hydrophilicity and enzyme affinity, thereby enabling species-specific g...",
+      "date": "2026-01-31",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-68881-8",
+      "doi": "10.1038/s41467-026-68881-8",
+      "pdfUrl": "https://www.nature.com/articles/s41467-026-68881-8_reference.pdf",
+      "keywords": [
+        "Interconnectivity",
+        "Metabolic pathway",
+        "Computational biology",
+        "Transcriptome",
+        "Flavonoid biosynthesis",
+        "Pharmacological Effects of Natural Compounds",
+        "Ginseng Biological Effects and Applications",
+        "thermodynamics and calorimetric analyses"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-20T15:54:21.277588+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -3076,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.827109+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.279672+00:00"
     },
     {
       "id": "openalex-c3a1e2ef4d92",
@@ -3108,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.095299+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.951380+00:00"
     },
     {
       "id": "openalex-2f0cc976fc68",
@@ -3140,39 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.096200+00:00"
-    },
-    {
-      "id": "openalex-c247601395a1",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Deciphering the regulatory landscape of enhancer RNAs in health and disease",
-      "authors": "Qian Wang, Peter ten Dijke, Chuannan Fan",
-      "abstract": "Enhancers are distal cis-regulatory elements that orchestrate spatiotemporal gene expression patterns in response to developmental cues and environmental stimuli. Genetic and epigenetic alterations in enhancers are associated with the initiation and progression of human diseases, including cancers. Over the past few decades, accumulating evidence has revealed that a class of nascent RNA transcripts, known as enhancer RNAs (eRNAs), is broadly transcribed from active enhancers. These eRNA species contribute to complex and dynamic gene regulatory networks under both physiological and pathological conditions through diverse mechanisms. Notably, dysregulated eRNA expression has been reported across various cancer types and is often correlated with patient survival outcomes. Consequently, eRNAs are emerging as promising biomarkers and therapeutic targets for cancer treatment. This review pr...",
-      "date": "2026-01-29",
-      "year": 2026,
-      "journal": "Signal Transduction and Targeted Therapy",
-      "source": "Signal Transduction and Targeted Therapy",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41392-025-02436-z",
-      "doi": "10.1038/s41392-025-02436-z",
-      "pdfUrl": "https://doi.org/10.1038/s41392-025-02436-z",
-      "keywords": [
-        "Enhancer",
-        "Biology",
-        "Epigenetics",
-        "Disease",
-        "Computational biology",
-        "Genomics and Chromatin Dynamics",
-        "Chromatin Remodeling and Cancer",
-        "MicroRNA in disease regulation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.827802+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.952270+00:00"
     },
     {
       "id": "openalex-1f86c7cca72a",
@@ -3204,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.651681+00:00"
+      "_retrievedAt": "2026-05-20T15:54:22.617732+00:00"
     },
     {
       "id": "openalex-64246eba8b87",
@@ -3236,7 +3268,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.093286+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.949407+00:00"
     },
     {
       "id": "openalex-926d6a7490c3",
@@ -3268,39 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.651125+00:00"
-    },
-    {
-      "id": "openalex-be85705b0812",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Remote sensing assessment of vegetation and moisture dynamics in semi-arid regions",
-      "authors": "Sarah Kreri, Nezha Farhi, Ahmed Bennia, Abdessamed Derdour, Lahsen Wahib Kébir, Khalid Alharbi",
-      "abstract": "This study investigates changes in land use and vegetation cover in the Oued Louza watershed, Sidi Bel Abbès province, Algeria, from 1987 to 2020, using remote sensing and Geographic Information Systems (GIS) to assess spatio-temporal dynamics. The analysis employed Landsat-derived vegetation and moisture indices, including the Normalized Difference Vegetation Index (NDVI), Soil Adjusted Vegetation Index (SAVI), and Normalized Difference Water Index (NDWI), along with the Topographic Wetness Index (TWI) derived from the Shuttle Radar Topography Mission (SRTM) digital elevation model (DEM). Results show a dramatic decline in vegetation cover, from 42% in 1987 to 10% in 2020, a 32% decrease, while urban areas expanded by 27%. The reduction in vegetation was linked to a 22% decrease in rainfall and a 6.5% reduction in relative humidity, both of which exacerbated vegetation loss and soil...",
-      "date": "2026-01-28",
-      "year": 2026,
-      "journal": "Scientific Reports",
-      "source": "Scientific Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41598-026-37781-8",
-      "doi": "10.1038/s41598-026-37781-8",
-      "pdfUrl": "https://www.nature.com/articles/s41598-026-37781-8_reference.pdf",
-      "keywords": [
-        "Environmental science",
-        "Vegetation (pathology)",
-        "Remote sensing",
-        "Enhanced vegetation index",
-        "Land cover",
-        "Remote Sensing in Agriculture",
-        "Science and Climate Studies",
-        "Urban Heat Island Mitigation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.653528+00:00"
+      "_retrievedAt": "2026-05-20T15:54:22.617207+00:00"
     },
     {
       "id": "openalex-0f905eddbd8d",
@@ -3332,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.094583+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.950655+00:00"
     },
     {
       "id": "openalex-6fbb396d11f2",
@@ -3364,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.652762+00:00"
+      "_retrievedAt": "2026-05-20T15:54:22.618817+00:00"
     },
     {
       "id": "openalex-c117d64f4c83",
@@ -3396,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.824216+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.275672+00:00"
     },
     {
       "id": "openalex-f411a351f7cd",
@@ -3428,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.094912+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.950989+00:00"
     },
     {
       "id": "openalex-4cb2b8c203a9",
@@ -3460,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.096874+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.952923+00:00"
     },
     {
       "id": "openalex-8836692447ce",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.826216+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.278224+00:00"
     },
     {
       "id": "openalex-45cce60efedd",
@@ -3524,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.826779+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.279155+00:00"
     },
     {
       "id": "openalex-de9c14b09adb",
@@ -3556,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.097552+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.953558+00:00"
     },
     {
       "id": "openalex-29bb0610031e",
@@ -3588,7 +3588,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.093906+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.950009+00:00"
     },
     {
       "id": "openalex-ac6c79930666",
@@ -3620,7 +3620,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:17.094232+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.950327+00:00"
     },
     {
       "id": "openalex-3276beca323a",
@@ -3652,7 +3652,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-20T09:53:16.825132+00:00"
+      "_retrievedAt": "2026-05-20T15:54:21.276598+00:00"
     }
   ]
 }
