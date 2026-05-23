@@ -1,11 +1,203 @@
 {
-  "generatedAt": "2026-05-22T20:06:57.812771+00:00",
-  "total": 104,
+  "generatedAt": "2026-05-23T04:06:40.717812+00:00",
+  "total": 114,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-fd6fbc0f7d5b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Efforts to understand the nation's drugged driving problem stall under Trump",
+      "authors": "Medical Xpress",
+      "abstract": "Two state transportation workers were replacing a sign on the shoulder of U.S. Highway 6 in western Colorado one morning when a Jeep Grand Cherokee swerved off the road and struck them.",
+      "date": "2026-05-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-efforts-nation-drugged-problem-stall.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "efforts",
+        "understand",
+        "nation",
+        "drugged",
+        "driving",
+        "problem",
+        "stall",
+        "under"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:39.868205+00:00"
+    },
+    {
+      "id": "rss-7284da184ece",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Sunscreen confusion puts more Americans at risk for Melanoma",
+      "authors": "Medical Xpress",
+      "abstract": "Melanoma—the most serious form of skin cancer—doesn't just happen at the beach or in a tanning booth.",
+      "date": "2026-05-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-sunscreen-americans-melanoma.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "melanoma",
+        "sunscreen",
+        "confusion",
+        "puts",
+        "more",
+        "americans",
+        "risk",
+        "most"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:39.868434+00:00"
+    },
+    {
+      "id": "rss-28687574e697",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New study could improve testing and treatment for rare brain, spinal cord, and eye cancers",
+      "authors": "Medical Xpress",
+      "abstract": "A new study has identified hepatitis A virus cellular receptor 1 (HAVCR1) as a biomarker that could make it easier to diagnose rare but aggressive forms of brain and eye cancer earlier and with fewer invasive tests.",
+      "date": "2026-05-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-treatment-rare-brain-spinal-cord.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "could",
+        "rare",
+        "brain",
+        "improve",
+        "testing",
+        "treatment",
+        "spinal",
+        "cord"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:39.868661+00:00"
+    },
+    {
+      "id": "rss-428638fc65c3",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New indicator for response to therapy in pediatric cancers identified",
+      "authors": "Medical Xpress",
+      "abstract": "A study by researchers at the University of Birmingham has identified a new biomarker for response to a specific cancer therapy, treating children with Ewing Sarcoma and other tumor types. The study, which is a Phase I/II treatment arm within the eSMART Trial, was carried out at the Cancer Research UK Clinical Trials Unit (CRCTU), recruited 70 patients, and of those 66 were treated across four countries (the UK, France, the Netherlands and Spain). All these patients had solid tumors, 36 had Ewing Sarcoma and 34 had various other tumor types, mainly types of sarcoma and central nervous system tumors.",
+      "date": "2026-05-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-indicator-response-therapy-pediatric-cancers.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "sarcoma",
+        "types",
+        "response",
+        "therapy",
+        "identified",
+        "cancer",
+        "ewing",
+        "other"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:39.868938+00:00"
+    },
+    {
+      "id": "rss-1d2df8866f98",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Q&A: Using advanced imaging to improve brain cancer treatment",
+      "authors": "Medical Xpress",
+      "abstract": "Glioblastoma is one of the most treatment-resistant brain tumors, making it especially difficult to treat. Part of that resistance stems from its unique tumor microenvironment—the complex mix of cells and biological activity surrounding the tumor.",
+      "date": "2026-05-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-qa-advanced-imaging-brain-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "tumor",
+        "advanced",
+        "imaging",
+        "improve",
+        "cancer",
+        "treatment",
+        "glioblastoma"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:39.869168+00:00"
+    },
+    {
+      "id": "rss-57af19151084",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "DKA may trigger lingering inflammatory surge in children with type 1 diabetes",
+      "authors": "Medical Xpress",
+      "abstract": "Many children who develop type 1 diabetes, the inability to produce insulin and process blood sugar, do not know they have the condition until symptoms arise. These symptoms are often driven by a severe and sometimes fatal condition called diabetic ketoacidosis, or DKA. As insulin levels drop and blood sugar rises, the body generates molecules called ketones, which are toxic in high concentrations. Children with DKA can experience organ failure and other serious issues, but why these complications occur is not well understood.",
+      "date": "2026-05-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-dka-trigger-lingering-inflammatory-surge.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "children",
+        "type",
+        "diabetes",
+        "insulin",
+        "blood",
+        "sugar",
+        "condition",
+        "symptoms"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:39.869427+00:00"
+    },
     {
       "id": "rss-163536eae852",
       "discipline": "clinical",
@@ -13,7 +205,7 @@
       "title": "Brain inflammation is unlikely to explain persistent long COVID symptoms, neuroimaging study finds",
       "authors": "Medical Xpress",
       "abstract": "A new brain imaging study has found no evidence of widespread brain inflammation in patients suffering from prolonged symptoms after COVID-19 infection. Instead, the most severe long COVID symptoms were associated with increased brain activity in regions involved in mood and emotion. The study is published in the Journal of Neurology.",
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.925493+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.869671+00:00"
     },
     {
       "id": "rss-e3f21d214660",
@@ -45,7 +237,7 @@
       "title": "WHO says new hantavirus case among Hondius ship's crew",
       "authors": "Medical Xpress",
       "abstract": "A member of the MV Hondius cruise ship crew who disembarked in Spain's Canary Islands and was repatriated to the Netherlands was confirmed Friday as a new hantavirus case, the WHO said.",
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.925778+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.869870+00:00"
     },
     {
       "id": "rss-4312e295f340",
@@ -77,7 +269,7 @@
       "title": "EU regulator approves pill form of Novo Nordisk's Wegovy weight loss drug",
       "authors": "Medical Xpress",
       "abstract": "Novo Nordisk has obtained approval for the pill form of its popular Wegovy anti-obesity drug in the European Union, the bloc's medicines regulator said on Friday.",
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.926017+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.870064+00:00"
     },
     {
       "id": "rss-6ac71c5b40d7",
@@ -109,7 +301,7 @@
       "title": "Ebola risk now at highest level in DR Congo, says WHO",
       "authors": "Medical Xpress",
       "abstract": "The risk from the deadly Ebola outbreak has been raised to the highest level for the Democratic Republic of Congo, the World Health Organization said Friday, as the toll continued to rise.",
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.926246+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.870254+00:00"
     },
     {
       "id": "rss-60c00ebe6688",
@@ -141,7 +333,7 @@
       "title": "How a father's obesity affects his children's metabolism",
       "authors": "Medical Xpress",
       "abstract": "The scientific literature already contains robust evidence that obesity, whether maternal or paternal, can lead to metabolic changes in offspring that increase their risk of developing diseases. A new study published in the journal Nature Communications reveals the mechanism by which this \"inheritance\" is transmitted to the embryo by the father via the sperm.",
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.926505+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.870472+00:00"
     },
     {
       "id": "rss-1f35670480b5",
@@ -173,7 +365,7 @@
       "title": "Overloaded brain cleanup cells may mark severe multiple sclerosis progression",
       "authors": "Medical Xpress",
       "abstract": "Researcher Daan van der Vliet, together with colleagues from the Netherlands Institute for Neuroscience, Leiden University, and Utrecht University, has discovered an important mechanism that may be linked to severe progression of multiple sclerosis (MS). In brain tissue from patients with rapidly progressing MS, they found large numbers of abnormal immune cells overloaded with fat droplets. The study offers new leads for treatments as well as biomarkers that could better predict disease progression. The work is published in the journal Nature Neuroscience.",
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.926870+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.870733+00:00"
     },
     {
       "id": "rss-dcc2728d4f15",
@@ -205,7 +397,7 @@
       "title": "Psilocybin cuts nerve pain for weeks and boosts gabapentin in mice",
       "authors": "Medical Xpress",
       "abstract": "A single dose of psilocybin, the active compound in magic mushrooms, reduces nerve pain for up to a month and makes a widely used painkiller work more effectively, University of Reading research has found.",
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -228,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.927107+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.870930+00:00"
     },
     {
       "id": "rss-b2ea84afbe67",
@@ -237,7 +429,7 @@
       "title": "A once-daily pill takes aim at measles, croup and other dangerous viruses",
       "authors": "Medical Xpress",
       "abstract": "A new oral antiviral drug candidate has been developed for the treatment of diseases caused by orthoparamyxoviruses, such as measles and croup syndrome, according to a study published by researchers in the Center for Translational Antiviral Research at Georgia State University. The paper in Science Advances identifies clinical candidate GHP-88310 for urgently needed, improved orthoparamyxovirus disease management in rodent and non-rodent animal models of infection. Orthoparamyxoviruses, such as human parainfluenzaviruses, measles virus and emerging henipaviruses, pose a significant threat to human health.",
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -260,199 +452,103 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.927397+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.871183+00:00"
     },
     {
-      "id": "rss-751f28d28a00",
-      "discipline": "clinical",
+      "id": "rss-90653e5f4671",
+      "discipline": "cs",
       "type": "news",
-      "title": "Cholesterol-craving cancers need lipid enzymes to use metabolites for growth, study shows",
-      "authors": "Medical Xpress",
-      "abstract": "While many American adults are trying to reduce cholesterol levels, certain cancerous tumors have a relentless appetite for the metabolite. Some tumor cells use as much cholesterol as they can access to accelerate their growth beyond the capabilities of normal cells.",
+      "title": "AI is being used to resurrect the voices of dead pilots",
+      "authors": "TechCrunch AI",
+      "abstract": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
       "date": "2026-05-22",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-cholesterol-craving-cancers-lipid-enzymes.html",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "growth",
-        "cholesterol",
-        "cells",
-        "cholesterol-craving",
-        "cancers",
-        "need",
-        "lipid",
-        "enzymes"
+        "used",
+        "being",
+        "resurrect",
+        "voices",
+        "dead",
+        "pilots",
+        "people",
+        "spectrogram"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.927665+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.954438+00:00"
     },
     {
-      "id": "rss-62eb0998e158",
-      "discipline": "clinical",
+      "id": "rss-c4d3b9f97141",
+      "discipline": "cs",
       "type": "news",
-      "title": "Mitochondria may control immune cell activation and the effectiveness of immunotherapy",
-      "authors": "Medical Xpress",
-      "abstract": "A study led by researchers at the Centro Nacional de Investigaciones Cardiovasculares (CNIC) has identified a mitochondrial checkpoint that enables dendritic cells to efficiently activate T lymphocytes against viruses and tumors. Dendritic cells are immune cells that detect threats and activate the body's defenses, acting as sentinels that instruct T lymphocytes on what to attack.",
+      "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+      "authors": "TechCrunch AI",
+      "abstract": "You can now disco ball-ify your entire Pixel home screen, says Google.",
       "date": "2026-05-22",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-mitochondria-immune-cell-effectiveness-immunotherapy.html",
+      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "that",
-        "cells",
-        "immune",
-        "dendritic",
-        "activate",
-        "lymphocytes",
-        "mitochondria",
-        "control"
+        "google",
+        "goes",
+        "glitter",
+        "disco-ball",
+        "icons",
+        "sure",
+        "still",
+        "want"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.927924+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.954683+00:00"
     },
     {
-      "id": "rss-a64e4e20df37",
-      "discipline": "clinical",
+      "id": "rss-b62ffe43fe1f",
+      "discipline": "cs",
       "type": "news",
-      "title": "How the gut rewires the brain to drive cravings for essential nutrients",
-      "authors": "Medical Xpress",
-      "abstract": "Eating is not only about getting enough calories. Animals also need to choose the right nutrients. When the body lacks protein, it must seek essential amino acids—the protein building blocks that cannot be made internally and must come from food.",
+      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+      "authors": "TechCrunch AI",
+      "abstract": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
       "date": "2026-05-22",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-gut-rewires-brain-cravings-essential.html",
+      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "essential",
-        "nutrients",
-        "protein",
-        "must",
-        "rewires",
-        "brain",
-        "drive",
-        "cravings"
+        "startups",
+        "founders",
+        "inflated",
+        "crown",
+        "some",
+        "stretching",
+        "traditional",
+        "revenue"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.928177+00:00"
-    },
-    {
-      "id": "rss-668cc75bd4b6",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "3D-printed trays help human gut organoids self-build nerves and mature twice as fast",
-      "authors": "Medical Xpress",
-      "abstract": "Thanks to special 3D-printed scaffolding trays designed by experts at Cincinnati Children's, researchers can now produce larger versions of functional human gut organoids twice as fast as previous methods—and these organoids grow their own nerve cells.",
-      "date": "2026-05-22",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-3d-trays-human-gut-organoids.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "organoids",
-        "d-printed",
-        "trays",
-        "human",
-        "twice",
-        "fast",
-        "help",
-        "self-build"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.928432+00:00"
-    },
-    {
-      "id": "rss-2d05c4f9dfb6",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Common epilepsy drug disrupts early brain growth in human organoids after 30-day exposure",
-      "authors": "Medical Xpress",
-      "abstract": "It is known that the antiepileptic drug valproate increases the risk of developmental disorders in unborn children. A study conducted by the Karlsruhe Institute of Technology (KIT), the Heidelberg Academy of Sciences and Humanities, the University of Tübingen, and the University Heidelberg using lab-grown tissue models of the human brain gives new insights into the effects this drug has on early brain development. They open new avenues for research to mitigate the risk during pregnancy. The study has been published in Molecular Psychiatry.",
-      "date": "2026-05-22",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-common-epilepsy-drug-disrupts-early.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "drug",
-        "brain",
-        "early",
-        "human",
-        "risk",
-        "heidelberg",
-        "university",
-        "common"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.928763+00:00"
-    },
-    {
-      "id": "rss-e947e8c76201",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Running the numbers shows ivermectin could help beat malaria",
-      "authors": "Medical Xpress",
-      "abstract": "When a stranger from Spain called Cassidy Rist in her first months at Virginia Tech, she almost didn't take the meeting. The caller was Carlos Chaccour, a physician at the University of Navarra who worked on global health and tropical diseases. He told her he was working on ivermectin for malaria.",
-      "date": "2026-05-22",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-ivermectin-malaria.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ivermectin",
-        "malaria",
-        "running",
-        "numbers",
-        "shows",
-        "could",
-        "help",
-        "beat"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.929007+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.954853+00:00"
     },
     {
       "id": "rss-60eba211c7c3",
@@ -484,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.969878+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.955082+00:00"
     },
     {
       "id": "rss-a40d2024c919",
@@ -516,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.970122+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.955216+00:00"
     },
     {
       "id": "rss-e22bd5a57610",
@@ -548,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.970330+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.955359+00:00"
     },
     {
       "id": "rss-42b844440b72",
@@ -580,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.970603+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.955556+00:00"
     },
     {
       "id": "rss-8fa2554ce1d7",
@@ -612,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.970801+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.955725+00:00"
     },
     {
       "id": "rss-0ccf79177051",
@@ -644,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.970980+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.955873+00:00"
     },
     {
       "id": "rss-df7efe39532a",
@@ -676,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.971164+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.956028+00:00"
     },
     {
       "id": "rss-345aec591eed",
@@ -708,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.971327+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.956162+00:00"
     },
     {
       "id": "rss-5dbecd1bc540",
@@ -740,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.971482+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.956290+00:00"
     },
     {
       "id": "rss-b027470175b5",
@@ -772,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.971672+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.956421+00:00"
     },
     {
       "id": "rss-006d20bc5c0e",
@@ -804,103 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.971845+00:00"
-    },
-    {
-      "id": "rss-2c1301f0132c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
-      "authors": "TechCrunch AI",
-      "abstract": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
-      "date": "2026-05-21",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hark",
-        "expects",
-        "that",
-        "raises",
-        "series",
-        "secretive",
-        "universal",
-        "interface"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.972048+00:00"
-    },
-    {
-      "id": "rss-9b777f58d185",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-      "authors": "TechCrunch AI",
-      "abstract": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
-      "date": "2026-05-21",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "consumers",
-        "most",
-        "pitching",
-        "agent",
-        "ecosystem",
-        "promising",
-        "introductions"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.972229+00:00"
-    },
-    {
-      "id": "rss-8822f757deef",
-      "discipline": "cs",
-      "type": "news",
-      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
-      "authors": "TechCrunch AI",
-      "abstract": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
-      "date": "2026-05-21",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "aluminum",
-        "recycling",
-        "startups",
-        "prices",
-        "cash",
-        "improve",
-        "recovery",
-        "critical"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:31.972389+00:00"
+      "_retrievedAt": "2026-05-23T04:06:39.956566+00:00"
     },
     {
       "id": "rss-8a5e8a3301a1",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:32.056657+00:00"
+      "_retrievedAt": "2026-05-23T04:06:40.180375+00:00"
     },
     {
       "id": "rss-2b72b6519fb3",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:32.056835+00:00"
+      "_retrievedAt": "2026-05-23T04:06:40.180535+00:00"
     },
     {
       "id": "rss-9b5fb86c5fb5",
@@ -996,7 +996,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:32.057001+00:00"
+      "_retrievedAt": "2026-05-23T04:06:40.180740+00:00"
+    },
+    {
+      "id": "rss-c53d4758f364",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Announcing the 2026 Hollings Scholarship recipients!",
+      "authors": "NOAA News",
+      "abstract": "Announcing the 2026 Hollings Scholarship recipients! The 2024 class of EPP/MSI and Hollings undergraduate scholars. (Image credit: Chris Zimmer Photography) Download Image May 20, 2026 NOAA’s Office of Education has selected 128 Ernest F. Hollings undergraduate scholars for the class of 2026-2028. Scholars receive a two-year academic scholarship for their junior and senior years, a paid summer internship opportunity, and funding to participate in up to two national scientific conferences. Congratulations to the 2026 Hollings scholars! This year's class of scholars brings incredible skill and passion to the NOAA mission. Your selection as a scholar is a testament to your talent and dedication. We are excited to welcome you to the NOAA community and eagerly anticipate the exciting opportunities that await you and the valuable contributions you will make during your internship experience...",
+      "date": "2026-05-19",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/office-education/hollings-scholarship/news/announcing-2026-hollings-scholarship-recipients",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "hollings",
+        "scholars",
+        "scholarship",
+        "class",
+        "noaa",
+        "your",
+        "announcing",
+        "recipients"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:40.400166+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1028,7 +1060,39 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:25.756976+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.419269+00:00"
+    },
+    {
+      "id": "rss-5f4d5381d1ca",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA predicts below-normal 2026 Atlantic hurricane season",
+      "authors": "NOAA News",
+      "abstract": "NOAA predicts below-normal 2026 Atlantic hurricane season Early preparation essential to staying safe all season May 21, 2026 A NOAA satellite view of a massive Hurricane Erin churning off the U.S. East Coast taken August 20, 2025. (Image credit: NOAA Satellites) Download Image Forecasters with NOAA’s National Weather Service are predicting a below-normal hurricane season for the Atlantic basin this year. NOAA’s outlook for the 2026 Atlantic hurricane season, which runs June 1 to November 30, predicts a 35% chance of a near-normal season, a 10% chance of an above-normal season, and a 55% chance of a below-normal season. The agency is forecasting a total of 8-14 named storms (winds of 39 mph or higher). Of those, 3-6 are forecast to become hurricanes (winds of 74 mph or higher), including 1-3 major hurricanes (category 3, 4 or 5 with winds of 111 mph or higher). NOAA has a 70% confiden...",
+      "date": "2026-05-18",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/noaa-predicts-below-normal-2026-atlantic-hurricane-season",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "season",
+        "noaa",
+        "hurricane",
+        "below-normal",
+        "atlantic",
+        "predicts",
+        "chance",
+        "winds"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:40.400844+00:00"
     },
     {
       "id": "rss-072e8cd7bee1",
@@ -1060,7 +1124,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:32.057146+00:00"
+      "_retrievedAt": "2026-05-23T04:06:40.180875+00:00"
+    },
+    {
+      "id": "rss-303d6fb74455",
+      "discipline": "geo",
+      "type": "news",
+      "title": "El Nino and high tide flooding could be 'double whammy' for some coastal communities",
+      "authors": "NOAA News",
+      "abstract": "El Nino and high tide flooding could be 'double whammy' for some coastal communities NOAA’s National Weather Service predicts El Nino likely to emerge by July An aerial view of a car sitting in a Holiday Inn parking lot flooded with seawater during a high-tide (King Tide) event in Mill Valley, California, December 5, 2025. (Image credit: Getty Images) May 15, 2026 Ocean & Coasts Weather Climate tides and currents flooding El Nino, La Nina, ENSO 0 Off",
+      "date": "2026-05-14",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/el-nino-and-high-tide-flooding-possible-double-whammy-for-some-coastal-communities-in-2026-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nino",
+        "tide",
+        "flooding",
+        "high",
+        "could",
+        "double",
+        "whammy",
+        "some"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:40.401110+00:00"
     },
     {
       "id": "rss-118e3c38b86e",
@@ -1092,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:32.057339+00:00"
+      "_retrievedAt": "2026-05-23T04:06:40.181053+00:00"
     },
     {
       "id": "rss-41e8976955ef",
@@ -1124,7 +1220,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:32.057522+00:00"
+      "_retrievedAt": "2026-05-23T04:06:40.181219+00:00"
+    },
+    {
+      "id": "rss-e1bcf8f9c317",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA environmental data heads to the cloud for fast, on-demand public access",
+      "authors": "NOAA News",
+      "abstract": "NOAA environmental data heads to the cloud for fast, on-demand public access In one of the largest undertakings in its history, NOAA's National Centers for Environmental Information will migrate all of its data, products and services to the Amazon Web Services cloud over the next 10 months (2026-2027). (Image credit: NOAA NCEI) Download Image May 12, 2026 Climate Satellites data satellite data climate data 0 Off",
+      "date": "2026-05-12",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/noaa-environmental-data-heads-to-cloud-for-fast-on-demand-public-access-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noaa",
+        "environmental",
+        "cloud",
+        "heads",
+        "fast",
+        "on-demand",
+        "public",
+        "access"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:40.401333+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1156,7 +1284,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:25.757204+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.419475+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1188,7 +1316,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:25.756585+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.418899+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -1220,7 +1348,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:28.242437+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.896128+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -1252,7 +1380,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:32.057729+00:00"
+      "_retrievedAt": "2026-05-23T04:06:40.181385+00:00"
+    },
+    {
+      "id": "rss-a4ddec72a3b1",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA research offers roadmap to improve West Nile virus forecasts, prevention",
+      "authors": "NOAA News",
+      "abstract": "NOAA research offers roadmap to improve West Nile virus forecasts, prevention The hand of Matthew Vanderpool, environmental health specialist and entomologist for the Louisville Metro Department of Public Health and Wellness, being bitten by a female mosquito on August 25, 2021, in Louisville, Kentucky. (Image credit: Jon Cherry/Getty Images) May 12, 2026 Research human health research forecasting 0 Off",
+      "date": "2026-05-06",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news/noaa-research-offers-roadmap-to-improve-west-nile-virus-forecasting-prevention-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "health",
+        "noaa",
+        "offers",
+        "roadmap",
+        "improve",
+        "west",
+        "nile",
+        "virus"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:40.401545+00:00"
     },
     {
       "id": "rss-64416a2d9567",
@@ -1284,7 +1444,71 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:32.057905+00:00"
+      "_retrievedAt": "2026-05-23T04:06:40.181542+00:00"
+    },
+    {
+      "id": "rss-eaba9e2355ac",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Behind every impactful NOAA Ocean Guardian School project is an Ocean Guardian teacher",
+      "authors": "NOAA News",
+      "abstract": "Behind every impactful NOAA Ocean Guardian School project is an Ocean Guardian teacher Wetland observation with students and teacher. (Image credit: Courtesy of NOAA Office of National Marine Sanctuaries, Lisa de Kozan/Mark West Elementary School) Download Image May 5, 2026 For National Teacher Appreciation Day, NOAA's Office of National Marine Sanctuaries would like to honor all of the dedicated educators who lead ocean stewardship efforts across the country. Education Office of Education 0 Off",
+      "date": "2026-05-05",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/office-education/news/behind-every-impactful-noaa-ocean-guardian-school-project-is-ocean-guardian-teacher-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "ocean",
+        "noaa",
+        "guardian",
+        "teacher",
+        "school",
+        "office",
+        "national",
+        "behind"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:40.401784+00:00"
+    },
+    {
+      "id": "rss-374e6f61e248",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA scientists and partners to map deep waters, seabed in the Cook Islands",
+      "authors": "NOAA News",
+      "abstract": "NOAA scientists and partners to map deep waters, seabed in the Cook Islands May 19, 2026 During the 2025 Deep-sea Habitats of the Cook Islands expedition on Exploration Vessel Nautilus the team surveyed various seascapes to better understand seabed environments, and natural and mineral resources in the region. In this image, polymetallic nodules rest on sediment accumulated in a depression between rounded pillows and extended lobate lava flows, which are evidence of ancient volcanoes. (Image credit: Courtesy of Ocean Exploration Trust) This summer, NOAA Ocean Exploration will conduct an expedition on NOAA Ship Okeanos Explorer to map, explore and characterize deep waters off the coast of the Cook Islands. The effort is in partnership with the Cook Islands Seabed Minerals Authority. Using remotely operated vehicles (ROVs), mapping technologies and onsite sensors, the team will explore...",
+      "date": "2026-05-04",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/noaa-scientists-and-partners-to-map-deep-waters-seabed-in-cook-islands",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cook",
+        "islands",
+        "noaa",
+        "seabed",
+        "deep",
+        "waters",
+        "exploration",
+        "scientists"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:40.402195+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -1316,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:32.058076+00:00"
+      "_retrievedAt": "2026-05-23T04:06:40.181717+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -1348,7 +1572,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:32.058225+00:00"
+      "_retrievedAt": "2026-05-23T04:06:40.181852+00:00"
+    },
+    {
+      "id": "rss-fba3c69509f3",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Access to NOAA’s world-renowned Mauna Loa Observatory restored",
+      "authors": "NOAA News",
+      "abstract": "Access to NOAA’s world-renowned Mauna Loa Observatory restored Science activities to resume and site renovations planned NOAA’s Mauna Loa Observatory sits high on the north flank of Mauna Loa volcano on Hawaii’s Big Island. (Image credit: Brian Vasel/NOAA) Download Image May 18, 2026 More than three years after lava from Hawaii’s erupting Mauna Loa volcano buried a mile of the road leading to NOAA’s Mauna Loa Atmospheric Baseline Observatory (MLO), road crews have carved a temporary road restoring access to the site. NOAA technicians, who had to be ferried by helicopter to the facility since 2023 to maintain limited operations, have begun restarting many of the science activities that were suspended on November 27, 2022. “The reopening of the road to MLO on March 26, 2026, is a monumental win for NOAA and our long-term environmental observations,” said Vanda Grubišić, director of NOAA...",
+      "date": "2026-05-01",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news/access-to-noaas-world-renowned-mauna-loa-observatory-restored",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noaa",
+        "mauna",
+        "observatory",
+        "road",
+        "access",
+        "world-renowned",
+        "restored",
+        "activities"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:40.402756+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -1380,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:32.058402+00:00"
+      "_retrievedAt": "2026-05-23T04:06:40.182004+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1412,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:32.058595+00:00"
+      "_retrievedAt": "2026-05-23T04:06:40.182149+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1444,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:32.058780+00:00"
+      "_retrievedAt": "2026-05-23T04:06:40.182297+00:00"
     },
     {
       "id": "rss-cad28f8f7789",
@@ -1476,7 +1732,71 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:32.058943+00:00"
+      "_retrievedAt": "2026-05-23T04:06:40.182435+00:00"
+    },
+    {
+      "id": "rss-13388a8e5f35",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA to announce 2026 Atlantic Hurricane Season Outlook",
+      "authors": "NOAA News",
+      "abstract": "NOAA to announce 2026 Atlantic Hurricane Season Outlook May 4, 2026 NOAA’s GOES East (GOES-19) satellite captured this image of side-by-side hurricanes Imelda (left) and Humberto (right) as they moved off the U.S. East Coast on Sept. 29, 2025. (Image credit: NOAA Satellites) Download Image NOAA will issue its outlook for the 2026 Atlantic hurricane season during a news conference on Thursday, May 21, at the NOAA Aircraft Operations Center in Lakeland, Florida, and virtually. Speakers will announce the anticipated activity for the 2026 Atlantic hurricane season, factors that may influence hurricane development, and provide advice for how the public can prepare for the season, which officially begins on June 1 and ends November 30. WHAT News conference announcing NOAA’s 2026 Atlantic Hurricane Season Outlook WHEN Thursday, May 21; 11:00 a.m. - 12:00 p.m. EDT WHERE NOAA Aircraft Operatio...",
+      "date": "2026-04-29",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/media-advisory/noaa-to-announce-2026-atlantic-hurricane-season-outlook",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noaa",
+        "hurricane",
+        "season",
+        "atlantic",
+        "outlook",
+        "announce",
+        "image",
+        "east"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:40.403200+00:00"
+    },
+    {
+      "id": "rss-7bb4be9177ee",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Environmental Literacy Program awards portfolio",
+      "authors": "NOAA News",
+      "abstract": "Environmental Literacy Program awards portfolio April 29, 2026 Use the filter menu and interactive map to explore the past competitions offered and grants awarded through the Environmental Literacy Program . Office of Education Environmental Literacy Program 0 Off",
+      "date": "2026-04-29",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/office-education/elp/stories/environmental-literacy-program-awards-portfolio-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "environmental",
+        "literacy",
+        "program",
+        "awards",
+        "portfolio",
+        "april",
+        "filter",
+        "menu"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:40.403369+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1508,7 +1828,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:25.759844+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.421836+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1540,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:27.388885+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.440572+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -1572,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:25.760100+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.422073+00:00"
     },
     {
       "id": "openalex-477231997c65",
@@ -1604,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:25.761425+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.423258+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -1636,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:25.758171+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.420344+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -1668,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:25.760744+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.422641+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -1700,7 +2020,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:25.757855+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.420055+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -1732,7 +2052,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:25.760393+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.422336+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -1764,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:25.758912+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.420989+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -1796,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:28.243676+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.897292+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -1828,7 +2148,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:27.389709+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.441327+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1860,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:25.759491+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.421519+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -1892,7 +2212,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:27.391870+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.443274+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -1924,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:28.245290+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.898748+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -1956,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:26.818987+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.916790+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -1988,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:26.819669+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.917120+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2020,7 +2340,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:25.759244+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.421294+00:00"
     },
     {
       "id": "openalex-dd24a0099868",
@@ -2052,7 +2372,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:25.761142+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.423007+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2084,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:26.817163+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.915462+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2116,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:28.244667+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.898170+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2148,7 +2468,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:28.240932+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.894764+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2180,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:28.241266+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.895071+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2212,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:28.242922+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.896530+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -2244,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:26.815338+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.913885+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2276,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:26.815792+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.914270+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -2308,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:27.391530+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.442986+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2340,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:26.815022+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.913567+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -2372,7 +2692,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:25.758483+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.420629+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -2404,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:28.246495+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.899831+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -2436,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:26.817452+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.915737+00:00"
     },
     {
       "id": "openalex-3dbf4d4bb3cc",
@@ -2468,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:26.818116+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.916304+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -2500,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:27.391161+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.442646+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -2532,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:28.241689+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.895435+00:00"
     },
     {
       "id": "openalex-59457ba55225",
@@ -2564,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:26.818358+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.916520+00:00"
     },
     {
       "id": "openalex-de50ab633493",
@@ -2596,7 +2916,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:25.757541+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.419791+00:00"
     },
     {
       "id": "openalex-41cd305bd1a4",
@@ -2628,7 +2948,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:26.817804+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.916030+00:00"
+    },
+    {
+      "id": "openalex-5620f0e68c49",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Machine Learning Assisted Fluorescent Sensor Array for Sensing Applications",
+      "authors": "Haobo Guo, Karandeep Grover, Elizabeth J. New",
+      "abstract": "ABSTRACT Fluorescent sensor arrays provide pattern‑based, multidimensional optical fingerprints for detecting chemically and biologically diverse analytes across complex matrices. By leveraging orthogonal readouts (intensity, ratiometric channels, lifetime, and excitation–emission matrices) from cross‐reactive and target‐specific elements, fluorescent sensor arrays achieve sensitive, rapid measurements suitable for environmental, biomedical, and food‑safety applications. The data richness of fluorescent sensor arrays, however, exceeds the capabilities of traditional analytical approaches. Classical chemometrics, exemplified by principal component analysis for exploratory visualisation and linear discriminant analysis for baseline classification, assumes linear structure and homoscedasticity, and therefore struggles with non‑linear photophysical responses, multicollinearity, and mixtur...",
+      "date": "2026-02-01",
+      "year": 2026,
+      "journal": "Advanced Sensor Research",
+      "source": "Advanced Sensor Research",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1002/adsr.202500172",
+      "doi": "10.1002/adsr.202500172",
+      "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adsr.202500172",
+      "keywords": [
+        "Interpretability",
+        "Artificial intelligence",
+        "Computer science",
+        "Machine learning",
+        "Calibration",
+        "Molecular Sensors and Ion Detection",
+        "Spectroscopy and Chemometric Analyses",
+        "Analytical Chemistry and Sensors"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:22.917729+00:00"
     },
     {
       "id": "openalex-3cfa33454bba",
@@ -2660,7 +3012,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:27.393270+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.444521+00:00"
+    },
+    {
+      "id": "openalex-8a6cf85ab15d",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Advances in photoacoustic imaging reconstruction and quantitative analysis for biomedical applications",
+      "authors": "Lei Wang, Weiming Zeng, Kai Long, Hongyu Chen, Rongfeng Lan, Li Liu",
+      "abstract": "Photoacoustic imaging (PAI), a modality that combines the high contrast of optical imaging with the deep penetration of ultrasound, is rapidly transitioning from preclinical research to clinical practice. However, its widespread clinical adoption faces challenges such as the inherent trade-off between penetration depth and spatial resolution, along with the demand for faster imaging speeds. This review comprehensively examines the fundamental principles of PAI, focusing on three primary implementations: photoacoustic computed tomography, photoacoustic microscopy, and photoacoustic endoscopy. It critically analyzes their respective advantages and limitations to provide insights into practical applications. The discussion then extends to recent advancements in image reconstruction and artifact suppression, where both conventional and deep learning (DL)-based approaches have been highlig...",
+      "date": "2026-02-01",
+      "year": 2026,
+      "journal": "Visual Computing for Industry Biomedicine and Art",
+      "source": "Visual Computing for Industry Biomedicine and Art",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1186/s42492-025-00213-x",
+      "doi": "10.1186/s42492-025-00213-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s42492-025-00213-x.pdf",
+      "keywords": [
+        "Photoacoustic imaging in biomedicine",
+        "Computer science",
+        "Optics",
+        "Physics",
+        "Photoacoustic and Ultrasonic Imaging",
+        "photoacoustic",
+        "imaging",
+        "reconstruction"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:23.445362+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -2692,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:28.243284+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.896865+00:00"
     },
     {
       "id": "openalex-52f50aa5a2fe",
@@ -2724,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:28.244013+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.897608+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -2756,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:28.245724+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.899127+00:00"
     },
     {
       "id": "openalex-b89933fb7b44",
@@ -2788,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:26.816148+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.914590+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -2820,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:26.816867+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.915197+00:00"
     },
     {
       "id": "openalex-c3a1e2ef4d92",
@@ -2852,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:27.390131+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.441726+00:00"
     },
     {
       "id": "openalex-2f0cc976fc68",
@@ -2884,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:27.392153+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.443523+00:00"
     },
     {
       "id": "openalex-c247601395a1",
@@ -2916,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:26.819985+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.917403+00:00"
     },
     {
       "id": "openalex-1f86c7cca72a",
@@ -2948,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:28.244941+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.898411+00:00"
     },
     {
       "id": "openalex-64246eba8b87",
@@ -2980,7 +3364,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:27.389318+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.440989+00:00"
     },
     {
       "id": "openalex-926d6a7490c3",
@@ -3012,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:28.244327+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.897891+00:00"
     },
     {
       "id": "openalex-1e9de14e3273",
@@ -3044,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:27.392858+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.444152+00:00"
     },
     {
       "id": "openalex-0f905eddbd8d",
@@ -3076,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:27.390487+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.442053+00:00"
     },
     {
       "id": "openalex-6fbb396d11f2",
@@ -3108,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:28.246137+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.899496+00:00"
     },
     {
       "id": "openalex-c117d64f4c83",
@@ -3140,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:26.816471+00:00"
+      "_retrievedAt": "2026-05-23T04:06:22.914893+00:00"
     },
     {
       "id": "openalex-d889cc68766e",
@@ -3172,7 +3556,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:27.393789+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.444737+00:00"
+    },
+    {
+      "id": "openalex-cee5b3c9bf4c",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Bacteriophages mobilize bacterial defense systems via lateral transduction",
+      "authors": "Xu Kuang, Jamie Gorzynski, Marie Touchon, Andrey Shkoporov, Eduardo P. C. Rocha, J. Ross Fitzgerald",
+      "abstract": "To counter challenges from bacteriophages (phages), bacteria use defense mechanisms that can reside on mobile genetic elements or within chromosomes. These immune systems are easily gained and lost, allowing adaptation to threats. However, the mechanism of mobilization of chromosomally encoded defense genes remains poorly understood. Here, we show that phage- and phage-inducible chromosomal island (PICI)-mediated lateral transduction (LT), a highly efficient horizontal gene transfer mechanism, facilitates the transfer of these defense genes between bacteria. Using several bacterial models, we demonstrate that defense systems are often positioned near phage or PICI attachment sites, allowing them to exploit LT for their mobility. In addition, LT diversifies defense genes carried by prophages and PICIs, driving immune system evolution and turnover. These processes provide phage resistan...",
+      "date": "2026-01-23",
+      "year": 2026,
+      "journal": "Science Advances",
+      "source": "Science Advances",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1126/sciadv.adx5749",
+      "doi": "10.1126/sciadv.adx5749",
+      "pdfUrl": "https://doi.org/10.1126/sciadv.adx5749",
+      "keywords": [
+        "Prophage",
+        "Biology",
+        "Horizontal gene transfer",
+        "Gene",
+        "Transduction (biophysics)",
+        "Bacteriophages and microbial interactions",
+        "Bacterial Genetics and Biotechnology",
+        "CRISPR and Genetic Engineering"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-23T04:06:22.917997+00:00"
     },
     {
       "id": "openalex-f411a351f7cd",
@@ -3204,7 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:27.390859+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.442371+00:00"
     },
     {
       "id": "openalex-4cb2b8c203a9",
@@ -3236,103 +3652,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:27.392530+00:00"
-    },
-    {
-      "id": "openalex-8836692447ce",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Composition and Function of Gut Microbiome: From Basic Omics to Precision Medicine",
-      "authors": "Yan Ma, Lamei Wang, Haitao Hu, Audrey Ruei-En Shieh, Edward Li, Dongdong He",
-      "abstract": "The gut microbiome is defined as the collective assembly of microbial communities inhabiting the gut, along with their genes and metabolic products. The gut microbiome systematically regulates host metabolism, immunity, and neuroendocrine homeostasis via interspecies interaction networks and inter-organ axes. Given the importance of the gut microbiome to the host, this review integrates the composition, function, and genetic basis of the gut microbiome with host genomics to provide a systematic overview of recent advances in microbiome-host interactions. This encompasses a complete technological pipeline spanning from in vitro to in vivo models to translational medicine. This technological pipeline spans from single-bacterium CRISPR editing, organoid-microbiome co-culture, and sterile/humanized animal models to multi-omics integrated algorithms, machine learning causal inference, and...",
-      "date": "2026-01-22",
-      "year": 2026,
-      "journal": "Genes",
-      "source": "Genes",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/genes17010116",
-      "doi": "10.3390/genes17010116",
-      "pdfUrl": "https://www.mdpi.com/2073-4425/17/1/116/pdf?version=1769074574",
-      "keywords": [
-        "Microbiome",
-        "Computational biology",
-        "Biology",
-        "Precision medicine",
-        "Gut microbiome",
-        "Gut microbiota and health",
-        "Clostridium difficile and Clostridium perfringens research",
-        "Cancer Research and Treatments"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:26.818691+00:00"
-    },
-    {
-      "id": "openalex-45cce60efedd",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Insights into Non-Antibiotic Alternative and Emerging Control Strategies for Chicken Coccidiosis",
-      "authors": "Rochelle A. Flores, Paula Leona C. Fletcher, Kyu-Yeol Son, Wongi Min",
-      "abstract": "Coccidiosis, caused by an obligate intracellular parasite of the genus Eimeria, is the most economically parasitic disease in poultry. Long-term reliance on synthetic anticoccidials and ionophores has accelerated the emergence of drug resistance and intensified the need for effective, residue-free alternatives. This narrative review synthesizes findings from peer-reviewed studies published between 1998 and 2025, summarizing advances in non-antibiotic control strategies encompassing five domains: (i) phytochemicals and botanicals, (ii) functional nutrition and mineral modulators, (iii) microbial and gut modulators, (iv) host-directed immunological and biotechnological approaches, and (v) precision and omics-guided biotherapeutic platforms. These approaches consistently reduce lesion severity, oocyst shedding, oxidative stress, and mortality while improving growth parameters in a variet...",
-      "date": "2026-01-22",
-      "year": 2026,
-      "journal": "Animals",
-      "source": "Animals",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/ani16020348",
-      "doi": "10.3390/ani16020348",
-      "pdfUrl": "https://www.mdpi.com/2076-2615/16/2/348/pdf?version=1769091113",
-      "keywords": [
-        "Biology",
-        "Biotechnology",
-        "Obligate",
-        "Scarcity",
-        "Coccidiosis",
-        "Coccidia and coccidiosis research",
-        "Helminth infection and control",
-        "Animal Nutrition and Physiology"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:26.819286+00:00"
-    },
-    {
-      "id": "openalex-de9c14b09adb",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Clinical translation of injectable hydrogels: from bioactive polymers to long-acting drug delivery systems",
-      "authors": "Natalia Carballo-Pedrares, Virna Margarita Martín Giménez, María José Alonso",
-      "abstract": "Injectable hydrogels (IHs) have emerged as versatile biomaterials that enable localized therapy through minimally invasive delivery. Their in situ sol-gel transition supports sustained and targeted release of therapeutics, enhancing patient comfort and reducing dosing frequency. However, clinical translation remains limited due to challenges in achieving controlled degradation, ensuring long-term biocompatibility, scaling production, and meeting regulatory standards. Despite these hurdles, several IH-based formulations are progressing through clinical trials or have reached the market, underscoring their therapeutic potential. This review examines the major translational barriers and highlights recent advances that are accelerating the adoption of IHs in precision and personalized medicine.",
-      "date": "2026-01-22",
-      "year": 2026,
-      "journal": "Drug Delivery and Translational Research",
-      "source": "Drug Delivery and Translational Research",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s13346-025-02033-1",
-      "doi": "10.1007/s13346-025-02033-1",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s13346-025-02033-1.pdf",
-      "keywords": [
-        "Drug delivery",
-        "Medicine",
-        "Clinical trial",
-        "Translation (biology)",
-        "Clinical Practice",
-        "Hydrogels: synthesis, properties, applications",
-        "3D Printing in Biomedical Research",
-        "Supramolecular Self-Assembly in Materials"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-22T20:06:27.393524+00:00"
+      "_retrievedAt": "2026-05-23T04:06:23.443879+00:00"
     }
   ]
 }
