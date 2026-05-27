@@ -1,11 +1,75 @@
 {
-  "generatedAt": "2026-05-27T04:46:38.499082+00:00",
+  "generatedAt": "2026-05-27T10:19:13.107478+00:00",
   "total": 113,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-22aca042bd66",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Heart health affected the risk of severe COVID-19 infection during the pandemic, says study",
+      "authors": "Medical Xpress",
+      "abstract": "Better heart health before the pandemic was linked to a lower risk of severe COVID-19 events, according to research published in the Journal of the American Heart Association. Adults with the highest heart health scores at the beginning of the pandemic were nearly half as likely to be hospitalized or die from COVID-19 when compared to those with the lowest scores.",
+      "date": "2026-05-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-heart-health-affected-severe-covid.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "heart",
+        "health",
+        "covid-",
+        "pandemic",
+        "risk",
+        "severe",
+        "scores",
+        "affected"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-27T10:19:12.727629+00:00"
+    },
+    {
+      "id": "rss-abd1cffba208",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Schwann cells may trigger NF1 pain before tumors appear, mouse study suggests",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at Cincinnati Children's have identified a potential new way to relieve chronic pain linked to neurofibromatosis type 1 (NF1), a genetic condition best known for causing tumors to grow along nerves. The new findings suggest that pain in NF1 may begin before tumors appear and may be driven by abnormal signaling from Schwann cells, which normally support and protect nerves. The abnormal signaling produces excess glial cell line–derived neurotrophic factor (GDNF), a protein that can heighten pain signaling.",
+      "date": "2026-05-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-schwann-cells-trigger-nf1-pain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "pain",
+        "tumors",
+        "signaling",
+        "schwann",
+        "cells",
+        "before",
+        "appear",
+        "nerves"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-27T10:19:12.728003+00:00"
+    },
     {
       "id": "rss-557f7eec10e3",
       "discipline": "clinical",
@@ -36,7 +100,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.757774+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.728284+00:00"
     },
     {
       "id": "rss-9f8199f39369",
@@ -68,7 +132,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.758041+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.728522+00:00"
     },
     {
       "id": "rss-534e1853823c",
@@ -100,7 +164,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.758258+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.728755+00:00"
     },
     {
       "id": "rss-74b5f045bc85",
@@ -132,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.758494+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.729045+00:00"
     },
     {
       "id": "rss-f690ee577f6e",
@@ -164,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.758776+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.729359+00:00"
     },
     {
       "id": "rss-a506d7713ea9",
@@ -196,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.759022+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.729604+00:00"
     },
     {
       "id": "rss-e346e35199af",
@@ -228,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.759222+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.729829+00:00"
     },
     {
       "id": "rss-252f46701fcf",
@@ -260,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.759429+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.730089+00:00"
     },
     {
       "id": "rss-bf1bb69a4617",
@@ -292,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.759751+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.730442+00:00"
     },
     {
       "id": "rss-3e84229cbd97",
@@ -324,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.759983+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.730689+00:00"
     },
     {
       "id": "rss-c5ef312b56cb",
@@ -356,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.760201+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.730934+00:00"
     },
     {
       "id": "rss-dedcf152e1cd",
@@ -388,71 +452,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.760405+00:00"
-    },
-    {
-      "id": "rss-3d9f253a0971",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Vitamin D analog shuts down pancreatic cancer's shield in a clinical trial",
-      "authors": "Medical Xpress",
-      "abstract": "A small clinical trial led by Dana-Farber Cancer Institute researchers has put a Salk Institute idea to the test in patients: that activating the vitamin D receptor can help reshape the protective environment surrounding pancreatic tumors in ways that could make the notoriously difficult-to-treat cancer more vulnerable to therapeutic treatments.",
-      "date": "2026-05-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-vitamin-d-analog-pancreatic-cancer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "vitamin",
-        "pancreatic",
-        "clinical",
-        "trial",
-        "institute",
-        "that",
-        "analog"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.760622+00:00"
-    },
-    {
-      "id": "rss-4d5d31e74b6f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Kids exposed to prenatal alcohol lack diagnosis and aid, Finnish study finds",
-      "authors": "Medical Xpress",
-      "abstract": "The Finnish Association on Intellectual and Developmental Disabilities estimates that between 600 and 3,000 children are born in Finland each year with permanent developmental damage caused by maternal alcohol consumption during pregnancy. Many children remain without a diagnosis and the support they need.",
-      "date": "2026-05-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-kids-exposed-prenatal-alcohol-lack.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "alcohol",
-        "diagnosis",
-        "finnish",
-        "developmental",
-        "children",
-        "kids",
-        "exposed",
-        "prenatal"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.760831+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.731193+00:00"
     },
     {
       "id": "rss-27c05df1772e",
@@ -484,7 +484,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.860120+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.746142+00:00"
     },
     {
       "id": "rss-78146699f68b",
@@ -516,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.860326+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.746359+00:00"
     },
     {
       "id": "rss-327104dd5a58",
@@ -548,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.860518+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.746569+00:00"
     },
     {
       "id": "rss-b486ae15fec5",
@@ -580,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.860660+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.746732+00:00"
     },
     {
       "id": "rss-cc0e8955a010",
@@ -612,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.860801+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.746896+00:00"
     },
     {
       "id": "rss-e045393840a7",
@@ -644,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.860961+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.747086+00:00"
     },
     {
       "id": "rss-cdea81ddf9c7",
@@ -676,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.861112+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.747260+00:00"
     },
     {
       "id": "rss-7ed2bdd0c23c",
@@ -708,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.861250+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.747421+00:00"
     },
     {
       "id": "rss-0d5c2f0c8845",
@@ -740,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.861390+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.747580+00:00"
     },
     {
       "id": "rss-fc48f3876369",
@@ -772,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.861514+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.747726+00:00"
     },
     {
       "id": "rss-00fde59225c6",
@@ -804,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.861662+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.747895+00:00"
     },
     {
       "id": "rss-d7715545bfaf",
@@ -836,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.861799+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.748083+00:00"
     },
     {
       "id": "rss-e3af0ebe95e4",
@@ -868,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.861939+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.748237+00:00"
     },
     {
       "id": "rss-a04b9dd05516",
@@ -900,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:37.862074+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.748397+00:00"
     },
     {
       "id": "rss-8a5e8a3301a1",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.008095+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.777647+00:00"
     },
     {
       "id": "rss-2b72b6519fb3",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.008254+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.777819+00:00"
     },
     {
       "id": "rss-9b5fb86c5fb5",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.008399+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.778019+00:00"
     },
     {
       "id": "rss-c53d4758f364",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.256382+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.990538+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1060,7 +1060,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:30.842049+00:00"
+      "_retrievedAt": "2026-05-27T10:18:59.635168+00:00"
     },
     {
       "id": "rss-5f4d5381d1ca",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.257085+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.991303+00:00"
     },
     {
       "id": "rss-072e8cd7bee1",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.008523+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.778174+00:00"
     },
     {
       "id": "rss-303d6fb74455",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.257355+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.991608+00:00"
     },
     {
       "id": "rss-118e3c38b86e",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.008696+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.778369+00:00"
     },
     {
       "id": "rss-41e8976955ef",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.008850+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.778551+00:00"
     },
     {
       "id": "rss-e1bcf8f9c317",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.257579+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.991861+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1284,7 +1284,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:30.842274+00:00"
+      "_retrievedAt": "2026-05-27T10:18:59.635400+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1312,11 +1312,11 @@
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 1396,
+      "citedBy": 1397,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:30.841640+00:00"
+      "_retrievedAt": "2026-05-27T10:18:59.634766+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -1348,7 +1348,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:33.105233+00:00"
+      "_retrievedAt": "2026-05-27T10:19:09.338151+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.009017+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.778726+00:00"
     },
     {
       "id": "rss-a4ddec72a3b1",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.257782+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.992131+00:00"
     },
     {
       "id": "rss-64416a2d9567",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.009153+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.778890+00:00"
     },
     {
       "id": "rss-eaba9e2355ac",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.258021+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.992398+00:00"
     },
     {
       "id": "rss-374e6f61e248",
@@ -1508,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.258433+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.992871+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -1540,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.009293+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.779101+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.009414+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.779254+00:00"
     },
     {
       "id": "rss-fba3c69509f3",
@@ -1604,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.259015+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.993541+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -1636,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.009563+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.779430+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1668,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.009701+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.779595+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.009845+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.779764+00:00"
     },
     {
       "id": "rss-cad28f8f7789",
@@ -1732,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.009992+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.779922+00:00"
     },
     {
       "id": "rss-13388a8e5f35",
@@ -1764,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.259479+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.994073+00:00"
     },
     {
       "id": "rss-7bb4be9177ee",
@@ -1796,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:38.259645+00:00"
+      "_retrievedAt": "2026-05-27T10:19:12.994276+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1828,7 +1828,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:30.844802+00:00"
+      "_retrievedAt": "2026-05-27T10:18:59.638057+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1860,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:32.450029+00:00"
+      "_retrievedAt": "2026-05-27T10:19:08.250712+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -1892,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:30.845054+00:00"
+      "_retrievedAt": "2026-05-27T10:18:59.638324+00:00"
     },
     {
       "id": "openalex-477231997c65",
@@ -1924,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:30.846331+00:00"
+      "_retrievedAt": "2026-05-27T10:18:59.639645+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -1956,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:30.843241+00:00"
+      "_retrievedAt": "2026-05-27T10:18:59.636381+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -1988,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:30.845666+00:00"
+      "_retrievedAt": "2026-05-27T10:18:59.638958+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2020,7 +2020,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:30.842927+00:00"
+      "_retrievedAt": "2026-05-27T10:18:59.636058+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -2052,7 +2052,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:30.845329+00:00"
+      "_retrievedAt": "2026-05-27T10:18:59.638614+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2084,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:30.843934+00:00"
+      "_retrievedAt": "2026-05-27T10:18:59.637111+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -2116,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:31.838049+00:00"
+      "_retrievedAt": "2026-05-27T10:19:03.510214+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2148,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:33.106361+00:00"
+      "_retrievedAt": "2026-05-27T10:19:09.339360+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2180,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:32.450829+00:00"
+      "_retrievedAt": "2026-05-27T10:19:08.251497+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2212,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:30.844498+00:00"
+      "_retrievedAt": "2026-05-27T10:18:59.637704+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2244,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:32.451876+00:00"
+      "_retrievedAt": "2026-05-27T10:19:08.252559+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -2276,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:32.453879+00:00"
+      "_retrievedAt": "2026-05-27T10:19:08.255362+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -2308,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:33.108319+00:00"
+      "_retrievedAt": "2026-05-27T10:19:09.341478+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -2340,7 +2340,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:31.835039+00:00"
+      "_retrievedAt": "2026-05-27T10:19:03.507315+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -2372,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:31.836001+00:00"
+      "_retrievedAt": "2026-05-27T10:19:03.508342+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2404,7 +2404,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:30.844257+00:00"
+      "_retrievedAt": "2026-05-27T10:18:59.637451+00:00"
     },
     {
       "id": "openalex-dd24a0099868",
@@ -2436,7 +2436,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:30.846063+00:00"
+      "_retrievedAt": "2026-05-27T10:18:59.639361+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -2464,11 +2464,11 @@
         "Fungal Infections and Studies"
       ],
       "readTime": "1 min",
-      "citedBy": 4,
+      "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:31.836893+00:00"
+      "_retrievedAt": "2026-05-27T10:19:03.506612+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2500,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:31.835640+00:00"
+      "_retrievedAt": "2026-05-27T10:19:03.507973+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2532,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:33.107274+00:00"
+      "_retrievedAt": "2026-05-27T10:19:09.340336+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2564,7 +2564,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:33.103748+00:00"
+      "_retrievedAt": "2026-05-27T10:19:09.336599+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2596,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:33.104506+00:00"
+      "_retrievedAt": "2026-05-27T10:19:09.337389+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2628,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:33.105662+00:00"
+      "_retrievedAt": "2026-05-27T10:19:09.338606+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -2656,11 +2656,11 @@
         "Cancer Research and Treatments"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:31.833665+00:00"
+      "_retrievedAt": "2026-05-27T10:19:03.505463+00:00"
     },
     {
       "id": "openalex-6d7865beed8a",
@@ -2688,11 +2688,11 @@
         "Genomics, phytochemicals, and oxidative stress"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:32.455134+00:00"
+      "_retrievedAt": "2026-05-27T10:19:08.254281+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2724,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:31.834113+00:00"
+      "_retrievedAt": "2026-05-27T10:19:03.505893+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -2756,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:32.452925+00:00"
+      "_retrievedAt": "2026-05-27T10:19:08.253659+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2788,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:31.833354+00:00"
+      "_retrievedAt": "2026-05-27T10:19:03.505141+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -2820,7 +2820,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:30.843544+00:00"
+      "_retrievedAt": "2026-05-27T10:18:59.636696+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -2852,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:33.109064+00:00"
+      "_retrievedAt": "2026-05-27T10:19:09.342278+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -2884,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:31.836278+00:00"
+      "_retrievedAt": "2026-05-27T10:19:03.508636+00:00"
     },
     {
       "id": "openalex-3dbf4d4bb3cc",
@@ -2916,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:31.836566+00:00"
+      "_retrievedAt": "2026-05-27T10:19:03.508958+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -2948,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:32.452163+00:00"
+      "_retrievedAt": "2026-05-27T10:19:08.252854+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -2980,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:33.104189+00:00"
+      "_retrievedAt": "2026-05-27T10:19:09.337049+00:00"
     },
     {
       "id": "openalex-59457ba55225",
@@ -3012,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:31.837110+00:00"
+      "_retrievedAt": "2026-05-27T10:19:03.509204+00:00"
     },
     {
       "id": "openalex-9ed36fb6b065",
@@ -3044,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:32.454214+00:00"
+      "_retrievedAt": "2026-05-27T10:19:08.255050+00:00"
     },
     {
       "id": "openalex-de50ab633493",
@@ -3072,11 +3072,11 @@
         "Persona Design and Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 31,
+      "citedBy": 32,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:30.842611+00:00"
+      "_retrievedAt": "2026-05-27T10:18:59.635738+00:00"
     },
     {
       "id": "openalex-41cd305bd1a4",
@@ -3108,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:31.834422+00:00"
+      "_retrievedAt": "2026-05-27T10:19:03.506259+00:00"
     },
     {
       "id": "openalex-5620f0e68c49",
@@ -3140,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:31.837729+00:00"
+      "_retrievedAt": "2026-05-27T10:19:03.509869+00:00"
     },
     {
       "id": "openalex-3cfa33454bba",
@@ -3172,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:32.452558+00:00"
+      "_retrievedAt": "2026-05-27T10:19:08.253288+00:00"
     },
     {
       "id": "openalex-8a6cf85ab15d",
@@ -3204,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:32.454783+00:00"
+      "_retrievedAt": "2026-05-27T10:19:08.255977+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -3236,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:33.106016+00:00"
+      "_retrievedAt": "2026-05-27T10:19:09.338985+00:00"
     },
     {
       "id": "openalex-52f50aa5a2fe",
@@ -3268,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:33.106671+00:00"
+      "_retrievedAt": "2026-05-27T10:19:09.339691+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -3300,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:33.108717+00:00"
+      "_retrievedAt": "2026-05-27T10:19:09.341893+00:00"
     },
     {
       "id": "openalex-b89933fb7b44",
@@ -3332,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:31.834750+00:00"
+      "_retrievedAt": "2026-05-27T10:19:03.507022+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -3364,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:31.835361+00:00"
+      "_retrievedAt": "2026-05-27T10:19:03.507658+00:00"
     },
     {
       "id": "openalex-c3a1e2ef4d92",
@@ -3392,11 +3392,11 @@
         "Mathematical Biology Tumor Growth"
       ],
       "readTime": "1 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
+      "citedBy": 10,
+      "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:32.451259+00:00"
+      "_retrievedAt": "2026-05-27T10:19:08.251901+00:00"
     },
     {
       "id": "openalex-2f0cc976fc68",
@@ -3428,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:32.453191+00:00"
+      "_retrievedAt": "2026-05-27T10:19:08.253934+00:00"
     },
     {
       "id": "openalex-c247601395a1",
@@ -3460,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:31.837406+00:00"
+      "_retrievedAt": "2026-05-27T10:19:03.509517+00:00"
     },
     {
       "id": "openalex-1f86c7cca72a",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:33.107520+00:00"
+      "_retrievedAt": "2026-05-27T10:19:09.340602+00:00"
     },
     {
       "id": "openalex-64246eba8b87",
@@ -3524,7 +3524,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:32.450467+00:00"
+      "_retrievedAt": "2026-05-27T10:19:08.251144+00:00"
     },
     {
       "id": "openalex-926d6a7490c3",
@@ -3556,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:33.106977+00:00"
+      "_retrievedAt": "2026-05-27T10:19:09.340022+00:00"
     },
     {
       "id": "openalex-be85705b0812",
@@ -3588,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:33.107980+00:00"
+      "_retrievedAt": "2026-05-27T10:19:09.341109+00:00"
     },
     {
       "id": "openalex-1e9de14e3273",
@@ -3620,7 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-27T04:46:32.451557+00:00"
+      "_retrievedAt": "2026-05-27T10:19:08.252235+00:00"
     }
   ]
 }
