@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-05-28T04:37:47.659071+00:00",
+  "generatedAt": "2026-05-28T10:34:44.045852+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -36,7 +36,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.405995+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.497484+00:00"
     },
     {
       "id": "rss-b3e06cf324d8",
@@ -68,7 +68,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.406289+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.497730+00:00"
     },
     {
       "id": "rss-62c774c77237",
@@ -100,7 +100,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.406540+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.497937+00:00"
     },
     {
       "id": "rss-6ba924521cbc",
@@ -132,7 +132,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.406818+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.498181+00:00"
     },
     {
       "id": "rss-a2b443d684f6",
@@ -164,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.407103+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.498470+00:00"
     },
     {
       "id": "rss-4f11a14af49f",
@@ -196,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.407366+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.498676+00:00"
     },
     {
       "id": "rss-c88d7de7f705",
@@ -228,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.407653+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.498927+00:00"
     },
     {
       "id": "rss-4c96ec1b1cac",
@@ -260,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.407932+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.499152+00:00"
     },
     {
       "id": "rss-971888a5b01a",
@@ -292,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.408213+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.499386+00:00"
     },
     {
       "id": "rss-59160a873462",
@@ -324,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.408478+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.499602+00:00"
     },
     {
       "id": "rss-9df2f23c6ffb",
@@ -356,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.408723+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.499805+00:00"
     },
     {
       "id": "rss-b2344bae05bb",
@@ -388,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.409108+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.500078+00:00"
     },
     {
       "id": "rss-941d0cc20c2d",
@@ -420,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.409435+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.500307+00:00"
     },
     {
       "id": "rss-478b6b28aa91",
@@ -452,7 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.409657+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.500496+00:00"
     },
     {
       "id": "rss-034aa440a799",
@@ -483,7 +483,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.458780+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.565147+00:00"
     },
     {
       "id": "rss-1e854d0d6291",
@@ -515,7 +515,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.459006+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.565352+00:00"
     },
     {
       "id": "rss-299dfcef058e",
@@ -547,7 +547,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.459216+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.565567+00:00"
     },
     {
       "id": "rss-0d4358a30b47",
@@ -579,7 +579,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.459481+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.565797+00:00"
     },
     {
       "id": "rss-3ac2477a9e32",
@@ -611,7 +611,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.459679+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.565963+00:00"
     },
     {
       "id": "rss-d0ab9e4cadf4",
@@ -643,7 +643,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.459839+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.566097+00:00"
     },
     {
       "id": "rss-c6c60c8ac8bb",
@@ -675,7 +675,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.460031+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.566261+00:00"
     },
     {
       "id": "rss-533642171411",
@@ -707,7 +707,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.460217+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.566415+00:00"
     },
     {
       "id": "rss-92c62d640244",
@@ -739,7 +739,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.460428+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.566588+00:00"
     },
     {
       "id": "rss-ff4542d3ad7b",
@@ -771,7 +771,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.460622+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.566748+00:00"
     },
     {
       "id": "rss-f098ce7075d0",
@@ -803,7 +803,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.460775+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.566872+00:00"
     },
     {
       "id": "rss-6b879a30af67",
@@ -835,7 +835,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.460923+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.566993+00:00"
     },
     {
       "id": "rss-c603adcaaf78",
@@ -867,7 +867,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.461085+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.567126+00:00"
     },
     {
       "id": "rss-4ed9668d32c9",
@@ -899,7 +899,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.461285+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.567264+00:00"
+    },
+    {
+      "id": "openalex-e8c4c692e177",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era",
+      "authors": "Xuansheng Wu, Haiyan Zhao, Yaochen Zhu, Yucheng Shi, Fan Yang, Lijie Hu",
+      "abstract": "Explainable AI (XAI) refers to techniques that provide human-understandable insights into the workings of AI models. Recently, the focus of XAI is being extended toward explaining Large Language Models (LLMs). This extension calls for a significant transformation in the XAI methodologies for two reasons. First, many existing XAI methods cannot be directly applied to LLMs due to their complexity and advanced capabilities. Second, as LLMs are increasingly deployed in diverse applications, the role of XAI shifts from merely opening the “black box” to actively enhancing the productivity and applicability of LLMs in real-world settings. Meanwhile, the conversation and generation abilities of LLMs can reciprocally enhance XAI. Therefore, in this paper, we introduce Usable XAI in the context of LLMs by analyzing (1) how XAI can explain and improve LLM-based AI systems and (2) how XAI techniq...",
+      "date": "2026-05-26",
+      "year": 2026,
+      "journal": "ACM Transactions on Knowledge Discovery from Data",
+      "source": "ACM Transactions on Knowledge Discovery from Data",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1145/3816150",
+      "doi": "10.1145/3816150",
+      "pdfUrl": "https://arxiv.org/pdf/2403.08946",
+      "keywords": [
+        "USable",
+        "Business",
+        "Computer science",
+        "World Wide Web",
+        "Scientific Computing and Data Management",
+        "Artificial Intelligence in Law",
+        "llms",
+        "usable"
+      ],
+      "readTime": "1 min",
+      "citedBy": 21,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-28T10:33:38.143590+00:00"
+    },
+    {
+      "id": "openalex-8bf44fba3376",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Exploring Code Analysis: Zero-Shot Insights on Syntax and Semantics with LLMs",
+      "authors": "W. F. Mader, Shangqing Liu, Shangqing Liu, Wenhan Wang, Qiang Hu, Ye Liu",
+      "abstract": "Code analysis is a fundamental problem in Software Engineering (SE), playing a crucial role in tasks such as debugging, performance optimization, and security assessment. Human developers typically approach code analysis through syntax parsing, static semantics inference, and dynamic reasoning. Traditional code analysis tools, while effective, are often limited by language specificity, complex configurations, and lack of cross-language generalization. Recently, large language models (LLMs) have emerged as promising tools for automating various code-related tasks. However, their capabilities for fundamental code analysis remain underexplored. Understanding these capabilities is crucial for assessing and enhancing LLM-based programming tools. We structure our study around three aspects of code analysis aligned with human practices: syntax parsing, static semantics inference, and dynamic...",
+      "date": "2026-05-26",
+      "year": 2026,
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "source": "ACM Transactions on Software Engineering and Methodology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1145/3818607",
+      "doi": "10.1145/3818607",
+      "pdfUrl": "https://arxiv.org/pdf/2305.12138",
+      "keywords": [
+        "Computer science",
+        "Programming language",
+        "Syntax",
+        "Abstract syntax tree",
+        "Artificial intelligence",
+        "Software Engineering Research",
+        "Artificial Intelligence in Healthcare and Education",
+        "Ferroelectric and Negative Capacitance Devices"
+      ],
+      "readTime": "2 min",
+      "citedBy": 18,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-28T10:33:38.144761+00:00"
     },
     {
       "id": "rss-8a5e8a3301a1",
@@ -931,7 +995,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.491792+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.625472+00:00"
     },
     {
       "id": "rss-2b72b6519fb3",
@@ -963,7 +1027,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.491964+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.625638+00:00"
     },
     {
       "id": "rss-9b5fb86c5fb5",
@@ -995,7 +1059,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.492128+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.625782+00:00"
     },
     {
       "id": "rss-c53d4758f364",
@@ -1027,7 +1091,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.604979+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.863861+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1059,7 +1123,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:36.608696+00:00"
+      "_retrievedAt": "2026-05-28T10:33:38.141857+00:00"
     },
     {
       "id": "rss-5f4d5381d1ca",
@@ -1091,7 +1155,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.605704+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.864568+00:00"
     },
     {
       "id": "rss-072e8cd7bee1",
@@ -1123,7 +1187,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.492312+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.625901+00:00"
     },
     {
       "id": "rss-303d6fb74455",
@@ -1155,7 +1219,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.606000+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.864840+00:00"
     },
     {
       "id": "rss-118e3c38b86e",
@@ -1187,7 +1251,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.492507+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.626071+00:00"
     },
     {
       "id": "rss-41e8976955ef",
@@ -1219,7 +1283,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.492692+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.626228+00:00"
     },
     {
       "id": "rss-e1bcf8f9c317",
@@ -1251,7 +1315,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.606269+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.865059+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1283,7 +1347,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:36.608926+00:00"
+      "_retrievedAt": "2026-05-28T10:33:38.142065+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1311,11 +1375,11 @@ window.LIVE_FEED_DATA = {
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 1397,
+      "citedBy": 1398,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:36.608319+00:00"
+      "_retrievedAt": "2026-05-28T10:33:38.141483+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -1347,7 +1411,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:39.117601+00:00"
+      "_retrievedAt": "2026-05-28T10:33:46.541132+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -1379,7 +1443,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.492869+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.626399+00:00"
     },
     {
       "id": "rss-a4ddec72a3b1",
@@ -1411,7 +1475,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.606511+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.865264+00:00"
     },
     {
       "id": "rss-64416a2d9567",
@@ -1443,7 +1507,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.493036+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.626548+00:00"
     },
     {
       "id": "rss-eaba9e2355ac",
@@ -1475,7 +1539,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.606770+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.865503+00:00"
     },
     {
       "id": "rss-374e6f61e248",
@@ -1507,7 +1571,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.607266+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.865925+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -1539,7 +1603,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.493230+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.626693+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -1571,7 +1635,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.493388+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.626817+00:00"
     },
     {
       "id": "rss-fba3c69509f3",
@@ -1603,7 +1667,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.607856+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.866510+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -1635,7 +1699,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.493565+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.626968+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1667,7 +1731,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.493735+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.627112+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1699,7 +1763,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.493907+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.627260+00:00"
     },
     {
       "id": "rss-cad28f8f7789",
@@ -1731,7 +1795,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.494068+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.627407+00:00"
     },
     {
       "id": "rss-13388a8e5f35",
@@ -1763,7 +1827,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.608362+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.866977+00:00"
     },
     {
       "id": "rss-7bb4be9177ee",
@@ -1795,7 +1859,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:47.608556+00:00"
+      "_retrievedAt": "2026-05-28T10:34:43.867145+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1827,7 +1891,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:36.611624+00:00"
+      "_retrievedAt": "2026-05-28T10:33:38.145322+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1859,7 +1923,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:38.469337+00:00"
+      "_retrievedAt": "2026-05-28T10:33:45.294695+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -1887,43 +1951,11 @@ window.LIVE_FEED_DATA = {
         "large"
       ],
       "readTime": "1 min",
-      "citedBy": 16,
+      "citedBy": 17,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:36.611884+00:00"
-    },
-    {
-      "id": "openalex-477231997c65",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "On two ways to use determinantal point processes for Monte Carlo integration",
-      "authors": "Guillaume Gautier, Rémi Bardenet, Michal Vaľko",
-      "abstract": "The standard Monte Carlo estimator $\\widehat{I}_N^{\\mathrm{MC}}$ of $\\int fdω$ relies on independent samples from $ω$ and has variance of order $1/N$. Replacing the samples with a determinantal point process (DPP), a repulsive distribution, makes the estimator consistent, with variance rates that depend on how the DPP is adapted to $f$ and $ω$. We examine two existing DPP-based estimators: one by Bardenet & Hardy (2020) with a rate of $\\mathcal{O}(N^{-(1+1/d)})$ for smooth $f$, but relying on a fixed DPP. The other, by Ermakov & Zolotukhin (1960), is unbiased with rate of order $1/N$, like Monte Carlo, but its DPP is tailored to $f$. We revisit these estimators, generalize them to continuous settings, and provide sampling algorithms.",
-      "date": "2026-04-21",
-      "year": 2026,
-      "journal": "ArXiv.org",
-      "source": "ArXiv.org",
-      "sourceApi": "OpenAlex",
-      "url": "https://arxiv.org/abs/2604.19698",
-      "doi": "10.48550/arxiv.2604.19698",
-      "pdfUrl": "https://arxiv.org/pdf/2604.19698",
-      "keywords": [
-        "Estimator",
-        "Monte Carlo method",
-        "Kernel (algebra)",
-        "Monte Carlo integration",
-        "Mathematics",
-        "Gaussian Processes and Bayesian Inference",
-        "Statistical Methods and Bayesian Inference",
-        "Statistical Methods and Inference"
-      ],
-      "readTime": "1 min",
-      "citedBy": 13,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:36.613263+00:00"
+      "_retrievedAt": "2026-05-28T10:33:38.145613+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -1955,7 +1987,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:36.609931+00:00"
+      "_retrievedAt": "2026-05-28T10:33:38.142980+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -1987,7 +2019,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:36.612527+00:00"
+      "_retrievedAt": "2026-05-28T10:33:38.146199+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2019,7 +2051,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:36.609612+00:00"
+      "_retrievedAt": "2026-05-28T10:33:38.142681+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -2051,7 +2083,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:36.612192+00:00"
+      "_retrievedAt": "2026-05-28T10:33:38.145887+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2083,39 +2115,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:36.610669+00:00"
+      "_retrievedAt": "2026-05-28T10:33:38.143963+00:00"
     },
     {
-      "id": "openalex-b474cf7a55f6",
+      "id": "openalex-c2ed165c8d47",
       "discipline": "bio",
       "type": "paper",
-      "title": "Histone deacetylases and cell-cycle regulators orchestrate cell-identity transitions during Arabidopsis root regeneration",
-      "authors": "Ramin Rahni, Laura R. Lee, Graeme Vissers, Indie Suresh, Brandon M.l. Gorodokin, Pui-Leng Ip",
-      "abstract": "The widespread regenerative capacity of plants is mediated by the ability of specialized cells to reprogram their fate, but the sequential cellular states of regenerating plant cells remain an open question. Here, we characterize the trajectory of cellular reprogramming during Arabidopsis root regeneration using single-cell RNA sequencing, ATAC sequencing, imaging, and mutant analysis. The earliest events during regeneration are dependent on repressive chromatin modification, where Multiome and genetic analysis showed that class I histone deacetylases (HDACs) HDA9 and HDA19 play a role in shutting down old identities and to prevent a runaway stress response. Cell division mediates a second step needed for the acquisition of many new identity markers, where division rates were tuned by the DOF transcription factor OBP1 that accelerates and SMR5, SMR7, and SMR10 that decelerate division...",
-      "date": "2026-03-25",
+      "title": "An expanded reference catalog of translated open reading frames for biomedical research",
+      "authors": "Sonia Chothani, Jorge Ruiz-Orera, Jack A S Tierney, Michal I Swirski, Hakon Tjeldnes, Leron W Kok",
+      "abstract": "Non-canonical (i.e. unannotated) open reading frames (ncORFs) have until recently been omitted from reference genome annotations, despite evidence of their translation, limiting their incorporation into biomedical research. To address this, in 2022, we initiated the TransCODE consortium and built the first community-driven consensus catalog of human ncORFs, which was openly distributed to the research community via Ensembl-GENCODE. While this catalog represented a starting point for reference ncORF annotation, major technical and scientific issues remained. In particular, this initial catalog had no standardized framework to judge the evidence of translation for individual ncORFs. Here, we present an expanded and refined catalog of the human reference annotation of ncORFs. By incorporating more datasets and by lifting constraints on ORF length and start codon, we define a comprehensiv...",
+      "date": "2026-03-19",
       "year": 2026,
-      "journal": "Molecular Plant",
-      "source": "Molecular Plant",
+      "journal": "Nucleic Acids Research",
+      "source": "Nucleic Acids Research",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.molp.2026.03.013",
-      "doi": "10.1016/j.molp.2026.03.013",
-      "pdfUrl": "https://doi.org/10.1016/j.molp.2026.03.013",
+      "url": "https://doi.org/10.1093/nar/gkag234",
+      "doi": "10.1093/nar/gkag234",
+      "pdfUrl": "https://doi.org/10.1093/nar/gkag234",
       "keywords": [
-        "Biology",
-        "Histone",
-        "Arabidopsis",
-        "Cell biology",
-        "Regeneration (biology)",
-        "Plant Molecular Biology Research",
-        "Plant Gene Expression Analysis",
-        "Histone Deacetylase Inhibitors Research"
+        "Annotation",
+        "Computer science",
+        "Reading (process)",
+        "Set (abstract data type)",
+        "Information retrieval",
+        "RNA and protein synthesis mechanisms",
+        "Genomics and Phylogenetic Studies",
+        "Biomedical Text Mining and Ontologies"
       ],
       "readTime": "1 min",
       "citedBy": 3,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:37.391890+00:00"
+      "_retrievedAt": "2026-05-28T10:33:41.094432+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2147,7 +2179,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:39.118793+00:00"
+      "_retrievedAt": "2026-05-28T10:33:46.542565+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2179,7 +2211,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:38.470124+00:00"
+      "_retrievedAt": "2026-05-28T10:33:45.295057+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2211,7 +2243,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:36.611282+00:00"
+      "_retrievedAt": "2026-05-28T10:33:38.145007+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2239,11 +2271,11 @@ window.LIVE_FEED_DATA = {
         "Liver physiology and pathology"
       ],
       "readTime": "1 min",
-      "citedBy": 7,
+      "citedBy": 8,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:38.470888+00:00"
+      "_retrievedAt": "2026-05-28T10:33:45.295793+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -2275,7 +2307,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:38.473718+00:00"
+      "_retrievedAt": "2026-05-28T10:33:45.298432+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -2307,7 +2339,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:39.120877+00:00"
+      "_retrievedAt": "2026-05-28T10:33:46.544204+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -2339,7 +2371,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:37.389002+00:00"
+      "_retrievedAt": "2026-05-28T10:33:41.092600+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -2371,7 +2403,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:37.390025+00:00"
+      "_retrievedAt": "2026-05-28T10:33:41.093554+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2403,39 +2435,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:36.611003+00:00"
-    },
-    {
-      "id": "openalex-dd24a0099868",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Tokens as Computational Units in Data Science and Machine Learning: Mathematical Foundations, Transformer Architecture, Inference Economy, and Caching Systems in Foundational Models",
-      "authors": "Pedro Emílio Amador Salomão",
-      "abstract": "The concept of the \"token\" has evolved from a simple linguistic unit to a fundamental computational primitive that underpins the architecture, performance, and economics of modern artificial intelligence systems. This paper provides a comprehensive and in-depth analysis of tokens as computational units across Data Science and Machine Learning, with a particular focus on Transformer-based foundational models. We begin by tracing the evolution of tokenization from classical Natural Language Processing (NLP) to its sophisticated forms in deep learning, examining its mathematical representation through high-dimensional vectors (embeddings) and the computational complexities arising from attention mechanisms, which scale quadratically (O(n²)) with sequence length. The article then explores the economic dimension of tokens, analyzing the \"token economy\" that governs API-based access to larg...",
-      "date": "2026-03-01",
-      "year": 2026,
-      "journal": "Journal International Review of Research Studies",
-      "source": "Journal International Review of Research Studies",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.66104/kxf7hk05",
-      "doi": "10.66104/kxf7hk05",
-      "pdfUrl": "https://jirrs.org.uk/jirrs/article/download/5717/5272",
-      "keywords": [
-        "Computer science",
-        "Lexical analysis",
-        "Security token",
-        "Inference",
-        "Theoretical computer science",
-        "Big Data and Digital Economy",
-        "Machine Learning in Materials Science",
-        "IoT and Edge/Fog Computing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 14,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:36.612928+00:00"
+      "_retrievedAt": "2026-05-28T10:33:38.144279+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -2467,7 +2467,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:37.388372+00:00"
+      "_retrievedAt": "2026-05-28T10:33:41.092000+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2499,7 +2499,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:37.389664+00:00"
+      "_retrievedAt": "2026-05-28T10:33:41.093195+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2531,7 +2531,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:39.119773+00:00"
+      "_retrievedAt": "2026-05-28T10:33:46.543147+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2563,7 +2563,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:39.116126+00:00"
+      "_retrievedAt": "2026-05-28T10:33:46.539707+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2595,7 +2595,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:39.116866+00:00"
+      "_retrievedAt": "2026-05-28T10:33:46.540419+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2627,7 +2627,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:39.118048+00:00"
+      "_retrievedAt": "2026-05-28T10:33:46.541553+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -2659,7 +2659,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:37.387273+00:00"
+      "_retrievedAt": "2026-05-28T10:33:41.090674+00:00"
     },
     {
       "id": "openalex-6d7865beed8a",
@@ -2687,11 +2687,11 @@ window.LIVE_FEED_DATA = {
         "Genomics, phytochemicals, and oxidative stress"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:38.472648+00:00"
+      "_retrievedAt": "2026-05-28T10:33:45.296399+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2723,7 +2723,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:37.387694+00:00"
+      "_retrievedAt": "2026-05-28T10:33:41.091084+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -2755,7 +2755,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:38.472008+00:00"
+      "_retrievedAt": "2026-05-28T10:33:45.297152+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2787,7 +2787,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:37.386928+00:00"
+      "_retrievedAt": "2026-05-28T10:33:41.090323+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -2819,7 +2819,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:36.610267+00:00"
+      "_retrievedAt": "2026-05-28T10:33:38.143275+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -2851,7 +2851,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:39.121663+00:00"
+      "_retrievedAt": "2026-05-28T10:33:46.544950+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -2883,7 +2883,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:37.390342+00:00"
+      "_retrievedAt": "2026-05-28T10:33:41.093826+00:00"
     },
     {
       "id": "openalex-3dbf4d4bb3cc",
@@ -2911,11 +2911,43 @@ window.LIVE_FEED_DATA = {
         "RNA regulation and disease"
       ],
       "readTime": "1 min",
-      "citedBy": 4,
+      "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:37.390652+00:00"
+      "_retrievedAt": "2026-05-28T10:33:41.091688+00:00"
+    },
+    {
+      "id": "openalex-3f5d2d2af688",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Writers and readers of sialylation in immunoregulation in cancer",
+      "authors": "Mathieu Decloquement, Matthew S. Macauley",
+      "abstract": "Sialic acids are the terminal monosaccharides of the glycocalyx that critically shape cell-cell interactions and are strongly implicated in regulating immune recognition and tissue homeostasis. In cancer, aberrant sialylation rewires the tumor microenvironment by enhancing ligands of the inhibitory Siglecs, suppressing immune effector functions, and facilitating metastatic dissemination. This review provides a comprehensive synthesis of the dual role of sialyltransferases (the \"writers\") and Siglecs/Selectins (the \"readers\") in cancer progression. We examine the structural and functional diversity of these molecules, their dysregulation in malignancy, and their impact on tumor-immune dynamics. Finally, we highlight emerging therapeutic strategies, including sialyltransferase inhibitors, sialidase conjugates, and Siglec-targeted immunotherapies, which collectively position the sialome...",
+      "date": "2026-02-05",
+      "year": 2026,
+      "journal": "Journal of Biological Chemistry",
+      "source": "Journal of Biological Chemistry",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.jbc.2026.111249",
+      "doi": "10.1016/j.jbc.2026.111249",
+      "pdfUrl": "https://doi.org/10.1016/j.jbc.2026.111249",
+      "keywords": [
+        "Glycocalyx",
+        "Sialyltransferase",
+        "Sialidase",
+        "Effector",
+        "Cancer",
+        "Glycosylation and Glycoproteins Research",
+        "Proteoglycans and glycosaminoglycans research",
+        "Cancer, Hypoxia, and Metabolism"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-28T10:33:41.094677+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -2947,39 +2979,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:38.471208+00:00"
+      "_retrievedAt": "2026-05-28T10:33:45.296080+00:00"
     },
     {
-      "id": "openalex-fcdb8afa9581",
+      "id": "openalex-1601a6f85f1a",
       "discipline": "clinical",
       "type": "paper",
-      "title": "The influence of neuro-tumor interactions on tumorigenesis and therapeutic response",
-      "authors": "Xiaokang Wang, Yuanliang Yan, Liugen Li, Tongfei Li, Abhimanyu Thakur, Kui Zhang",
-      "abstract": "The intricate crosstalk between the nervous system and tumors has emerged as a pivotal determinant of tumorigenesis, progression, and therapeutic response. This review synthesizes current insights into neuro-tumor interactions, highlighting how neuronal networks within the tumor microenvironment (TME) modulate cancer cell proliferation, invasion, and angiogenesis by releasing neurotransmitters, growth factors, etc. The neuro-immune axis, a critical interface linking neural signaling to immune regulation, is explored in depth, elucidating how neuronal-derived molecules influence the phenotype and function of immune cells (e.g., T cells, macrophages, natural killer (NK) cells) to affect anti-tumor immunity. In addition, the review also addresses neurotoxicity associated with tumor progression, particularly tumor-induced neuropathic pain, which arises from treatment-related injury. Final...",
+      "title": "Recent Advances in Microfluidic Chip Technology for Laboratory Medicine: Innovations and Artificial Intelligence Integration",
+      "authors": "Hong Cai, Dongxia Wang, Yiqun Zhao, Chunhui Yang",
+      "abstract": "Microfluidic chip technologies, also known as lab-on-a-chip systems, have profoundly transformed laboratory medicine by enabling the miniaturization, automation, and rapid processing of complex diagnostic assays using minimal sample volumes. Recent advances in chip design, fabrication methods-including 3D printing, modular and flexible substrates-and biosensor integration have significantly enhanced the performance, sensitivity, and clinical applicability of these devices. Integration of advanced biosensors allows for real-time detection of circulating tumor cells, nucleic acids, and exosomes, supporting innovative applications in cancer diagnostics, infectious disease detection, point-of-care testing (POCT), personalized medicine, and therapeutic monitoring. Notably, the convergence of microfluidics with artificial intelligence (AI) and machine learning has amplified device automatio...",
       "date": "2026-02-05",
       "year": 2026,
-      "journal": "Experimental Hematology and Oncology",
-      "source": "Experimental Hematology and Oncology",
+      "journal": "Biosensors",
+      "source": "Biosensors",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s40164-026-00752-w",
-      "doi": "10.1186/s40164-026-00752-w",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s40164-026-00752-w.pdf",
+      "url": "https://doi.org/10.3390/bios16020104",
+      "doi": "10.3390/bios16020104",
+      "pdfUrl": "https://www.mdpi.com/2079-6374/16/2/104/pdf",
       "keywords": [
-        "Crosstalk",
-        "Neuroscience",
-        "Immune system",
-        "Tumor microenvironment",
-        "Biology",
-        "Cancer, Stress, Anesthesia, and Immune Response",
-        "Nerve injury and regeneration",
-        "Cancer Immunotherapy and Biomarkers"
+        "Microfluidics",
+        "Computer science",
+        "Lab-on-a-chip",
+        "Modular design",
+        "Nanotechnology",
+        "3D Printing in Biomedical Research",
+        "Microfluidic and Bio-sensing Technologies",
+        "Biosensors and Analytical Detection"
       ],
       "readTime": "1 min",
       "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:38.474644+00:00"
+      "_retrievedAt": "2026-05-28T10:33:45.299293+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -3011,7 +3043,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:39.116548+00:00"
+      "_retrievedAt": "2026-05-28T10:33:46.540095+00:00"
     },
     {
       "id": "openalex-59457ba55225",
@@ -3043,7 +3075,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:37.390891+00:00"
+      "_retrievedAt": "2026-05-28T10:33:41.094040+00:00"
     },
     {
       "id": "openalex-9ed36fb6b065",
@@ -3075,7 +3107,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:38.473419+00:00"
+      "_retrievedAt": "2026-05-28T10:33:45.298132+00:00"
     },
     {
       "id": "openalex-de50ab633493",
@@ -3103,11 +3135,11 @@ window.LIVE_FEED_DATA = {
         "Persona Design and Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 32,
+      "citedBy": 33,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:36.609311+00:00"
+      "_retrievedAt": "2026-05-28T10:33:38.142405+00:00"
     },
     {
       "id": "openalex-41cd305bd1a4",
@@ -3139,39 +3171,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:37.388015+00:00"
-    },
-    {
-      "id": "openalex-5620f0e68c49",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Machine Learning Assisted Fluorescent Sensor Array for Sensing Applications",
-      "authors": "Haobo Guo, Karandeep Grover, Elizabeth J. New",
-      "abstract": "ABSTRACT Fluorescent sensor arrays provide pattern‑based, multidimensional optical fingerprints for detecting chemically and biologically diverse analytes across complex matrices. By leveraging orthogonal readouts (intensity, ratiometric channels, lifetime, and excitation–emission matrices) from cross‐reactive and target‐specific elements, fluorescent sensor arrays achieve sensitive, rapid measurements suitable for environmental, biomedical, and food‑safety applications. The data richness of fluorescent sensor arrays, however, exceeds the capabilities of traditional analytical approaches. Classical chemometrics, exemplified by principal component analysis for exploratory visualisation and linear discriminant analysis for baseline classification, assumes linear structure and homoscedasticity, and therefore struggles with non‑linear photophysical responses, multicollinearity, and mixtur...",
-      "date": "2026-02-01",
-      "year": 2026,
-      "journal": "Advanced Sensor Research",
-      "source": "Advanced Sensor Research",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/adsr.202500172",
-      "doi": "10.1002/adsr.202500172",
-      "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adsr.202500172",
-      "keywords": [
-        "Interpretability",
-        "Artificial intelligence",
-        "Computer science",
-        "Machine learning",
-        "Calibration",
-        "Molecular Sensors and Ion Detection",
-        "Spectroscopy and Chemometric Analyses",
-        "Analytical Chemistry and Sensors"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:37.391587+00:00"
+      "_retrievedAt": "2026-05-28T10:33:41.091396+00:00"
     },
     {
       "id": "openalex-3cfa33454bba",
@@ -3203,7 +3203,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:38.471631+00:00"
+      "_retrievedAt": "2026-05-28T10:33:45.296795+00:00"
     },
     {
       "id": "openalex-8a6cf85ab15d",
@@ -3235,7 +3235,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:38.474330+00:00"
+      "_retrievedAt": "2026-05-28T10:33:45.298994+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -3267,7 +3267,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:39.118427+00:00"
+      "_retrievedAt": "2026-05-28T10:33:46.541885+00:00"
     },
     {
       "id": "openalex-52f50aa5a2fe",
@@ -3295,11 +3295,11 @@ window.LIVE_FEED_DATA = {
         "Water-Energy-Food Nexus Studies"
       ],
       "readTime": "1 min",
-      "citedBy": 4,
+      "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:39.119122+00:00"
+      "_retrievedAt": "2026-05-28T10:33:46.542195+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -3331,7 +3331,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:39.121305+00:00"
+      "_retrievedAt": "2026-05-28T10:33:46.544623+00:00"
     },
     {
       "id": "openalex-b89933fb7b44",
@@ -3363,7 +3363,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:37.388720+00:00"
+      "_retrievedAt": "2026-05-28T10:33:41.092319+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -3395,7 +3395,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:37.389367+00:00"
+      "_retrievedAt": "2026-05-28T10:33:41.092918+00:00"
     },
     {
       "id": "openalex-c3a1e2ef4d92",
@@ -3427,7 +3427,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:38.470560+00:00"
+      "_retrievedAt": "2026-05-28T10:33:45.295474+00:00"
     },
     {
       "id": "openalex-2f0cc976fc68",
@@ -3459,7 +3459,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:38.472324+00:00"
+      "_retrievedAt": "2026-05-28T10:33:45.297432+00:00"
     },
     {
       "id": "openalex-c247601395a1",
@@ -3491,7 +3491,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:37.391228+00:00"
+      "_retrievedAt": "2026-05-28T10:33:41.094968+00:00"
     },
     {
       "id": "openalex-1f86c7cca72a",
@@ -3523,7 +3523,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:39.120048+00:00"
+      "_retrievedAt": "2026-05-28T10:33:46.543426+00:00"
     },
     {
       "id": "openalex-64246eba8b87",
@@ -3551,11 +3551,11 @@ window.LIVE_FEED_DATA = {
         "Cancer Immunotherapy and Biomarkers"
       ],
       "readTime": "1 min",
-      "citedBy": 17,
+      "citedBy": 18,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:38.469766+00:00"
+      "_retrievedAt": "2026-05-28T10:33:45.294472+00:00"
     },
     {
       "id": "openalex-926d6a7490c3",
@@ -3587,7 +3587,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:39.119454+00:00"
+      "_retrievedAt": "2026-05-28T10:33:46.542852+00:00"
     },
     {
       "id": "openalex-be85705b0812",
@@ -3619,7 +3619,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-28T04:37:39.120527+00:00"
+      "_retrievedAt": "2026-05-28T10:33:46.543873+00:00"
     }
   ]
 };
