@@ -1,11 +1,43 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-05-29T04:41:45.420961+00:00",
+  "generatedAt": "2026-05-29T10:14:32.422010+00:00",
   "total": 113,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-5dffb8c0b205",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New antibiotic design could help treat drug-resistant infections",
+      "authors": "Medical Xpress",
+      "abstract": "A new way of designing antibiotics could support the discovery of new treatments for drug-resistant infections. It could also help revive antibiotics that have lost effectiveness because bacteria have evolved over time to survive the drugs meant to kill them.",
+      "date": "2026-05-29",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-antibiotic-drug-resistant-infections.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "could",
+        "help",
+        "drug-resistant",
+        "infections",
+        "antibiotics",
+        "have",
+        "antibiotic",
+        "design"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-29T10:14:31.865356+00:00"
+    },
     {
       "id": "rss-554b905d0b15",
       "discipline": "clinical",
@@ -36,7 +68,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.411568+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.865634+00:00"
     },
     {
       "id": "rss-92ba2a551d70",
@@ -68,7 +100,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.411817+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.865946+00:00"
     },
     {
       "id": "rss-94cfa139f105",
@@ -100,7 +132,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.412029+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.866194+00:00"
     },
     {
       "id": "rss-f4bab833efd8",
@@ -132,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.412329+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.866528+00:00"
     },
     {
       "id": "rss-14743f6459a7",
@@ -164,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.412565+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.866814+00:00"
     },
     {
       "id": "rss-81005d8bd5b8",
@@ -196,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.412799+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.867090+00:00"
     },
     {
       "id": "rss-a2a2f336d4b1",
@@ -228,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.412991+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.867322+00:00"
     },
     {
       "id": "rss-0feb835e1b43",
@@ -260,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.413234+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.867607+00:00"
     },
     {
       "id": "rss-621d59b10b24",
@@ -292,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.413482+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.867893+00:00"
     },
     {
       "id": "rss-1b97f50065f0",
@@ -324,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.413738+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.868168+00:00"
     },
     {
       "id": "rss-92f0cf83e695",
@@ -356,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.413951+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.868412+00:00"
     },
     {
       "id": "rss-cda92bdbd80a",
@@ -388,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.414191+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.868705+00:00"
     },
     {
       "id": "rss-fe699ecefefc",
@@ -420,39 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.414359+00:00"
-    },
-    {
-      "id": "rss-1fc889cca6dd",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "AI-powered atlas reveals new insights into tertiary lymphoid structures as prognostic and response biomarkers in cancer",
-      "authors": "Medical Xpress",
-      "abstract": "In a study published in Science, researchers from The University of Texas MD Anderson Cancer Center have developed a spatial atlas of specialized immune structures, called tertiary lymphoid structures (TLSs), across multiple cancer types. This first-of-its-kind atlas revealed that TLS maturation state, spatial location and composition within tumors may provide clinically meaningful information about cancer prognosis and treatment response.",
-      "date": "2026-05-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-ai-powered-atlas-reveals-insights.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "atlas",
-        "structures",
-        "tertiary",
-        "lymphoid",
-        "response",
-        "spatial",
-        "ai-powered"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.414613+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.868915+00:00"
     },
     {
       "id": "rss-b0b2b8e8b182",
@@ -484,7 +484,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.538550+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.960884+00:00"
     },
     {
       "id": "rss-c4323872865e",
@@ -516,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.538764+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.961116+00:00"
     },
     {
       "id": "rss-0f5d4d2683b3",
@@ -548,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.538896+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.961275+00:00"
     },
     {
       "id": "rss-9076d2f101cb",
@@ -580,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.539042+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.961448+00:00"
     },
     {
       "id": "rss-6e3e83b50fc1",
@@ -612,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.539209+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.961643+00:00"
     },
     {
       "id": "rss-bffe4106dbb7",
@@ -644,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.539350+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.961846+00:00"
     },
     {
       "id": "rss-db52aaeb72a3",
@@ -676,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.539507+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.962016+00:00"
     },
     {
       "id": "rss-a7ab601d8fbf",
@@ -708,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.539656+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.962194+00:00"
     },
     {
       "id": "rss-9363b3c8d8a7",
@@ -740,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.539813+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.962381+00:00"
     },
     {
       "id": "rss-bc629248f522",
@@ -772,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.539961+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.962558+00:00"
     },
     {
       "id": "rss-e5eaf17e3073",
@@ -804,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.540093+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.962759+00:00"
     },
     {
       "id": "rss-baeae519657f",
@@ -836,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.540242+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.962954+00:00"
     },
     {
       "id": "rss-0c0a5a3bdc91",
@@ -868,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.540379+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.963127+00:00"
     },
     {
       "id": "rss-76d398201462",
@@ -900,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.540537+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.963299+00:00"
     },
     {
       "id": "rss-fe9bc1999c2c",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.763518+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.989362+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:34.756985+00:00"
+      "_retrievedAt": "2026-05-29T10:13:23.769405+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:34.758192+00:00"
+      "_retrievedAt": "2026-05-29T10:13:23.770790+00:00"
     },
     {
       "id": "rss-8a5e8a3301a1",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.763685+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.989545+00:00"
     },
     {
       "id": "rss-2b72b6519fb3",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.763818+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.989762+00:00"
     },
     {
       "id": "rss-9b5fb86c5fb5",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.763951+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.989943+00:00"
     },
     {
       "id": "rss-c53d4758f364",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:45.004580+00:00"
+      "_retrievedAt": "2026-05-29T10:14:32.292753+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:34.755187+00:00"
+      "_retrievedAt": "2026-05-29T10:13:23.767325+00:00"
     },
     {
       "id": "rss-5f4d5381d1ca",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:45.005264+00:00"
+      "_retrievedAt": "2026-05-29T10:14:32.293490+00:00"
     },
     {
       "id": "rss-072e8cd7bee1",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.764067+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.990094+00:00"
     },
     {
       "id": "rss-303d6fb74455",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:45.005552+00:00"
+      "_retrievedAt": "2026-05-29T10:14:32.293837+00:00"
     },
     {
       "id": "rss-118e3c38b86e",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.764235+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.990289+00:00"
     },
     {
       "id": "rss-41e8976955ef",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.764390+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.990471+00:00"
     },
     {
       "id": "rss-e1bcf8f9c317",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:45.005776+00:00"
+      "_retrievedAt": "2026-05-29T10:14:32.294098+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:34.755408+00:00"
+      "_retrievedAt": "2026-05-29T10:13:23.767567+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:34.754782+00:00"
+      "_retrievedAt": "2026-05-29T10:13:23.766917+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.855547+00:00"
+      "_retrievedAt": "2026-05-29T10:13:34.451651+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.764558+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.990652+00:00"
     },
     {
       "id": "rss-a4ddec72a3b1",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:45.005981+00:00"
+      "_retrievedAt": "2026-05-29T10:14:32.294344+00:00"
     },
     {
       "id": "rss-64416a2d9567",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.764698+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.990850+00:00"
     },
     {
       "id": "rss-eaba9e2355ac",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:45.006210+00:00"
+      "_retrievedAt": "2026-05-29T10:14:32.294651+00:00"
     },
     {
       "id": "rss-374e6f61e248",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:45.006650+00:00"
+      "_retrievedAt": "2026-05-29T10:14:32.295154+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.764842+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.991025+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.764964+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.991177+00:00"
     },
     {
       "id": "rss-fba3c69509f3",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:45.007189+00:00"
+      "_retrievedAt": "2026-05-29T10:14:32.295787+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.765113+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.991361+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.765252+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.991539+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:44.765392+00:00"
+      "_retrievedAt": "2026-05-29T10:14:31.991742+00:00"
     },
     {
       "id": "rss-13388a8e5f35",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:45.007651+00:00"
+      "_retrievedAt": "2026-05-29T10:14:32.296291+00:00"
     },
     {
       "id": "rss-7bb4be9177ee",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:41:45.007816+00:00"
+      "_retrievedAt": "2026-05-29T10:14:32.296492+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:34.758764+00:00"
+      "_retrievedAt": "2026-05-29T10:13:23.771429+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.070945+00:00"
+      "_retrievedAt": "2026-05-29T10:13:31.200152+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:34.759012+00:00"
+      "_retrievedAt": "2026-05-29T10:13:23.771746+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:34.756350+00:00"
+      "_retrievedAt": "2026-05-29T10:13:23.768711+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:34.759631+00:00"
+      "_retrievedAt": "2026-05-29T10:13:23.772420+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:34.756041+00:00"
+      "_retrievedAt": "2026-05-29T10:13:23.768271+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:34.759293+00:00"
+      "_retrievedAt": "2026-05-29T10:13:23.772065+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:34.757365+00:00"
+      "_retrievedAt": "2026-05-29T10:13:23.769868+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:35.600221+00:00"
+      "_retrievedAt": "2026-05-29T10:13:27.792629+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.856953+00:00"
+      "_retrievedAt": "2026-05-29T10:13:34.453257+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.071322+00:00"
+      "_retrievedAt": "2026-05-29T10:13:31.200561+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:34.758452+00:00"
+      "_retrievedAt": "2026-05-29T10:13:23.771078+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.072082+00:00"
+      "_retrievedAt": "2026-05-29T10:13:31.201379+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.859070+00:00"
+      "_retrievedAt": "2026-05-29T10:13:34.455683+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.074699+00:00"
+      "_retrievedAt": "2026-05-29T10:13:31.204690+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.857818+00:00"
+      "_retrievedAt": "2026-05-29T10:13:34.454243+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:35.598407+00:00"
+      "_retrievedAt": "2026-05-29T10:13:27.789948+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -2436,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:35.599369+00:00"
+      "_retrievedAt": "2026-05-29T10:13:27.791030+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2468,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:34.757710+00:00"
+      "_retrievedAt": "2026-05-29T10:13:23.770236+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -2500,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:35.597820+00:00"
+      "_retrievedAt": "2026-05-29T10:13:27.789260+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2532,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:35.599017+00:00"
+      "_retrievedAt": "2026-05-29T10:13:27.790617+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2564,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.857238+00:00"
+      "_retrievedAt": "2026-05-29T10:13:34.453579+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2596,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.854096+00:00"
+      "_retrievedAt": "2026-05-29T10:13:34.450106+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2628,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.854824+00:00"
+      "_retrievedAt": "2026-05-29T10:13:34.450902+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2660,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.855964+00:00"
+      "_retrievedAt": "2026-05-29T10:13:34.452138+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -2692,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:35.596484+00:00"
+      "_retrievedAt": "2026-05-29T10:13:27.787759+00:00"
     },
     {
       "id": "openalex-6d7865beed8a",
@@ -2724,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.072680+00:00"
+      "_retrievedAt": "2026-05-29T10:13:31.202057+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2756,7 +2756,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:35.596898+00:00"
+      "_retrievedAt": "2026-05-29T10:13:27.788212+00:00"
+    },
+    {
+      "id": "openalex-3dfdd7ceaceb",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Spatial perturb-seq: single-cell functional genomics within intact tissue architecture",
+      "authors": "Kimberle Shen, Wan Yi Seow, Choong Tat Keng, Michelle Gek Liang Lim, Daryl Shern Lim, Ke Guo",
+      "abstract": "We develop Spatial Perturb-Seq, an in vivo CRISPR technology that interrogates multiple genes within single cells of intact tissues, compatible with both sequencing-based and probe-based spatial technologies. We apply Spatial Perturb-Seq to knock out risk genes for neurodegenerative diseases in the mouse brain, uncovering cell autonomous and cell-cell microenvironmental effects within the spatially intact tissue. Spatial Perturb-Seq functionally screens multiple genes in situ and in vivo, bypasses cell processing steps that skew cell type representation, identifies intracellular and intercellular effects of knockouts, and identifies candidate genes underlying dysregulated neuronal intercellular communication pathways. Spatial CRISPR screens probe the functional impact of mutations within intact tissues. Here, authors present Spatial Perturb-Seq, a technology that localizes CRISPR pert...",
+      "date": "2026-02-21",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-69677-6",
+      "doi": "10.1038/s41467-026-69677-6",
+      "pdfUrl": "https://www.nature.com/articles/s41467-026-69677-6_reference.pdf",
+      "keywords": [
+        "Biology",
+        "Computational biology",
+        "Functional genomics",
+        "Gene",
+        "CRISPR",
+        "Single-cell and spatial transcriptomics",
+        "CRISPR and Genetic Engineering",
+        "Pluripotent Stem Cells Research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-29T10:13:27.791628+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -2788,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.073446+00:00"
+      "_retrievedAt": "2026-05-29T10:13:31.202906+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2820,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:35.596134+00:00"
+      "_retrievedAt": "2026-05-29T10:13:27.787400+00:00"
     },
     {
       "id": "openalex-18b220cd1ad9",
@@ -2852,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.858839+00:00"
+      "_retrievedAt": "2026-05-29T10:13:34.455404+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -2884,7 +2916,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:34.756679+00:00"
+      "_retrievedAt": "2026-05-29T10:13:23.769063+00:00"
+    },
+    {
+      "id": "openalex-6a51321a829e",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Acute NIPBL depletion reveals in vivo dynamics of loop extrusion and its role in transcription activation",
+      "authors": "Tessa M. Popay, Ami Pant, Femke W. Munting, Melodi Tastemel, Morgan E Black, Nicholas K. Haghani",
+      "abstract": "The organization of the genome in three-dimensional space is highly dynamic, yet how these dynamics are regulated and the role they play in genome function is poorly understood. Here we utilized acute depletion of NIPBL to characterize cohesin-mediated loop extrusion in vivo. We find that many chromatin loops are rapidly diminished upon loss of NIBPL, but some cohesin-dependent chromatin loops persist for multiple hours. These persistent loops required NIPBL for their establishment during mitotic exit, were associated with distinct chromatin states and were preferentially dependent on STAG1 for their persistence. Furthermore, by depleting NIPBL from multiple cell types, we find that NIPBL specifically regulates cell identity genes by supporting a unique local genome conformation defined by greater spatial proximity to nearby super-enhancers and weaker transcription start site insulati...",
+      "date": "2026-02-16",
+      "year": 2026,
+      "journal": "Nature Genetics",
+      "source": "Nature Genetics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41588-026-02516-y",
+      "doi": "10.1038/s41588-026-02516-y",
+      "pdfUrl": "https://doi.org/10.1038/s41588-026-02516-y",
+      "keywords": [
+        "Chromatin",
+        "Transcription (linguistics)",
+        "Biology",
+        "Genome",
+        "Cell biology",
+        "Genomics and Chromatin Dynamics",
+        "Microtubule and mitosis dynamics",
+        "Developmental Biology and Gene Regulation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-29T10:13:27.792247+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -2916,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.858535+00:00"
+      "_retrievedAt": "2026-05-29T10:13:34.455070+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -2948,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:35.599657+00:00"
+      "_retrievedAt": "2026-05-29T10:13:27.791338+00:00"
     },
     {
       "id": "openalex-3dbf4d4bb3cc",
@@ -2980,39 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:35.597506+00:00"
-    },
-    {
-      "id": "openalex-3f5d2d2af688",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Writers and readers of sialylation in immunoregulation in cancer",
-      "authors": "Mathieu Decloquement, Matthew S. Macauley",
-      "abstract": "Sialic acids are the terminal monosaccharides of the glycocalyx that critically shape cell-cell interactions and are strongly implicated in regulating immune recognition and tissue homeostasis. In cancer, aberrant sialylation rewires the tumor microenvironment by enhancing ligands of the inhibitory Siglecs, suppressing immune effector functions, and facilitating metastatic dissemination. This review provides a comprehensive synthesis of the dual role of sialyltransferases (the \"writers\") and Siglecs/Selectins (the \"readers\") in cancer progression. We examine the structural and functional diversity of these molecules, their dysregulation in malignancy, and their impact on tumor-immune dynamics. Finally, we highlight emerging therapeutic strategies, including sialyltransferase inhibitors, sialidase conjugates, and Siglec-targeted immunotherapies, which collectively position the sialome...",
-      "date": "2026-02-05",
-      "year": 2026,
-      "journal": "Journal of Biological Chemistry",
-      "source": "Journal of Biological Chemistry",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.jbc.2026.111249",
-      "doi": "10.1016/j.jbc.2026.111249",
-      "pdfUrl": "https://doi.org/10.1016/j.jbc.2026.111249",
-      "keywords": [
-        "Glycocalyx",
-        "Sialyltransferase",
-        "Sialidase",
-        "Effector",
-        "Cancer",
-        "Glycosylation and Glycoproteins Research",
-        "Proteoglycans and glycosaminoglycans research",
-        "Cancer, Hypoxia, and Metabolism"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:35.600490+00:00"
+      "_retrievedAt": "2026-05-29T10:13:27.788901+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -3044,7 +3076,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.072363+00:00"
+      "_retrievedAt": "2026-05-29T10:13:31.201713+00:00"
+    },
+    {
+      "id": "openalex-fcdb8afa9581",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "The influence of neuro-tumor interactions on tumorigenesis and therapeutic response",
+      "authors": "Xiaokang Wang, Yuanliang Yan, Liugen Li, Tongfei Li, Abhimanyu Thakur, Kui Zhang",
+      "abstract": "The intricate crosstalk between the nervous system and tumors has emerged as a pivotal determinant of tumorigenesis, progression, and therapeutic response. This review synthesizes current insights into neuro-tumor interactions, highlighting how neuronal networks within the tumor microenvironment (TME) modulate cancer cell proliferation, invasion, and angiogenesis by releasing neurotransmitters, growth factors, etc. The neuro-immune axis, a critical interface linking neural signaling to immune regulation, is explored in depth, elucidating how neuronal-derived molecules influence the phenotype and function of immune cells (e.g., T cells, macrophages, natural killer (NK) cells) to affect anti-tumor immunity. In addition, the review also addresses neurotoxicity associated with tumor progression, particularly tumor-induced neuropathic pain, which arises from treatment-related injury. Final...",
+      "date": "2026-02-05",
+      "year": 2026,
+      "journal": "Experimental Hematology and Oncology",
+      "source": "Experimental Hematology and Oncology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1186/s40164-026-00752-w",
+      "doi": "10.1186/s40164-026-00752-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s40164-026-00752-w.pdf",
+      "keywords": [
+        "Crosstalk",
+        "Neuroscience",
+        "Immune system",
+        "Tumor microenvironment",
+        "Biology",
+        "Cancer, Stress, Anesthesia, and Immune Response",
+        "Nerve injury and regeneration",
+        "Cancer Immunotherapy and Biomarkers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-29T10:13:31.203534+00:00"
     },
     {
       "id": "openalex-1601a6f85f1a",
@@ -3076,39 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.075578+00:00"
-    },
-    {
-      "id": "openalex-fcdb8afa9581",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "The influence of neuro-tumor interactions on tumorigenesis and therapeutic response",
-      "authors": "Xiaokang Wang, Yuanliang Yan, Liugen Li, Tongfei Li, Abhimanyu Thakur, Kui Zhang",
-      "abstract": "The intricate crosstalk between the nervous system and tumors has emerged as a pivotal determinant of tumorigenesis, progression, and therapeutic response. This review synthesizes current insights into neuro-tumor interactions, highlighting how neuronal networks within the tumor microenvironment (TME) modulate cancer cell proliferation, invasion, and angiogenesis by releasing neurotransmitters, growth factors, etc. The neuro-immune axis, a critical interface linking neural signaling to immune regulation, is explored in depth, elucidating how neuronal-derived molecules influence the phenotype and function of immune cells (e.g., T cells, macrophages, natural killer (NK) cells) to affect anti-tumor immunity. In addition, the review also addresses neurotoxicity associated with tumor progression, particularly tumor-induced neuropathic pain, which arises from treatment-related injury. Final...",
-      "date": "2026-02-05",
-      "year": 2026,
-      "journal": "Experimental Hematology and Oncology",
-      "source": "Experimental Hematology and Oncology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s40164-026-00752-w",
-      "doi": "10.1186/s40164-026-00752-w",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s40164-026-00752-w.pdf",
-      "keywords": [
-        "Crosstalk",
-        "Neuroscience",
-        "Immune system",
-        "Tumor microenvironment",
-        "Biology",
-        "Cancer, Stress, Anesthesia, and Immune Response",
-        "Nerve injury and regeneration",
-        "Cancer Immunotherapy and Biomarkers"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.075876+00:00"
+      "_retrievedAt": "2026-05-29T10:13:31.205697+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -3140,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.854506+00:00"
+      "_retrievedAt": "2026-05-29T10:13:34.450527+00:00"
     },
     {
       "id": "openalex-59457ba55225",
@@ -3172,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:35.599873+00:00"
+      "_retrievedAt": "2026-05-29T10:13:27.791914+00:00"
     },
     {
       "id": "openalex-9ed36fb6b065",
@@ -3204,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.074405+00:00"
+      "_retrievedAt": "2026-05-29T10:13:31.204341+00:00"
     },
     {
       "id": "openalex-de50ab633493",
@@ -3236,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:34.755757+00:00"
+      "_retrievedAt": "2026-05-29T10:13:23.767961+00:00"
     },
     {
       "id": "openalex-41cd305bd1a4",
@@ -3268,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:35.597202+00:00"
+      "_retrievedAt": "2026-05-29T10:13:27.788552+00:00"
     },
     {
       "id": "openalex-3cfa33454bba",
@@ -3300,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.073078+00:00"
+      "_retrievedAt": "2026-05-29T10:13:31.202491+00:00"
     },
     {
       "id": "openalex-8a6cf85ab15d",
@@ -3332,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.075250+00:00"
+      "_retrievedAt": "2026-05-29T10:13:31.205331+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -3364,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.856299+00:00"
+      "_retrievedAt": "2026-05-29T10:13:34.452510+00:00"
     },
     {
       "id": "openalex-52f50aa5a2fe",
@@ -3396,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.856615+00:00"
+      "_retrievedAt": "2026-05-29T10:13:34.452874+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -3428,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.858192+00:00"
+      "_retrievedAt": "2026-05-29T10:13:34.454695+00:00"
     },
     {
       "id": "openalex-b89933fb7b44",
@@ -3460,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:35.598140+00:00"
+      "_retrievedAt": "2026-05-29T10:13:27.789621+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -3492,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:35.598740+00:00"
+      "_retrievedAt": "2026-05-29T10:13:27.790303+00:00"
     },
     {
       "id": "openalex-c3a1e2ef4d92",
@@ -3524,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.071772+00:00"
+      "_retrievedAt": "2026-05-29T10:13:31.201032+00:00"
     },
     {
       "id": "openalex-2f0cc976fc68",
@@ -3556,39 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.073711+00:00"
-    },
-    {
-      "id": "openalex-c247601395a1",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Deciphering the regulatory landscape of enhancer RNAs in health and disease",
-      "authors": "Qian Wang, Peter ten Dijke, Chuannan Fan",
-      "abstract": "Enhancers are distal cis-regulatory elements that orchestrate spatiotemporal gene expression patterns in response to developmental cues and environmental stimuli. Genetic and epigenetic alterations in enhancers are associated with the initiation and progression of human diseases, including cancers. Over the past few decades, accumulating evidence has revealed that a class of nascent RNA transcripts, known as enhancer RNAs (eRNAs), is broadly transcribed from active enhancers. These eRNA species contribute to complex and dynamic gene regulatory networks under both physiological and pathological conditions through diverse mechanisms. Notably, dysregulated eRNA expression has been reported across various cancer types and is often correlated with patient survival outcomes. Consequently, eRNAs are emerging as promising biomarkers and therapeutic targets for cancer treatment. This review pr...",
-      "date": "2026-01-29",
-      "year": 2026,
-      "journal": "Signal Transduction and Targeted Therapy",
-      "source": "Signal Transduction and Targeted Therapy",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41392-025-02436-z",
-      "doi": "10.1038/s41392-025-02436-z",
-      "pdfUrl": "https://doi.org/10.1038/s41392-025-02436-z",
-      "keywords": [
-        "Enhancer",
-        "Biology",
-        "Epigenetics",
-        "Disease",
-        "Computational biology",
-        "Genomics and Chromatin Dynamics",
-        "Chromatin Remodeling and Cancer",
-        "MicroRNA in disease regulation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:35.600798+00:00"
+      "_retrievedAt": "2026-05-29T10:13:31.203209+00:00"
     },
     {
       "id": "openalex-1f86c7cca72a",
@@ -3620,7 +3620,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-29T04:40:36.857495+00:00"
+      "_retrievedAt": "2026-05-29T10:13:34.453878+00:00"
     }
   ]
 };
