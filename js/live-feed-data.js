@@ -1,11 +1,171 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-05-30T08:40:54.381674+00:00",
-  "total": 113,
+  "generatedAt": "2026-05-30T14:04:37.488754+00:00",
+  "total": 103,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-3fcc17f4cea0",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Eating fewer protein-rich foods may harm our physical function as we grow older",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers have found that consuming lower amounts of protein-rich foods may negatively affect physical functioning as people grow older, underscoring the vital function protein plays in preserving mobility and muscle strength in adulthood. In a large aging cohort study published in the journal Nutrients, the researchers report that regular dietary habits, particularly the consumption of protein-rich foods, can influence how well individuals move and perform daily activities later in life.",
+      "date": "2026-05-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-protein-rich-foods-physical-function.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "protein-rich",
+        "foods",
+        "physical",
+        "function",
+        "grow",
+        "older",
+        "researchers",
+        "that"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-30T14:04:11.002497+00:00"
+    },
+    {
+      "id": "rss-391a1bb451de",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Inside Alzheimer's neurons, tau may set off a genetic chain reaction that ends in cell death",
+      "authors": "Medical Xpress",
+      "abstract": "Alzheimer's disease is a neurodegenerative disease characterized by a progressive decline in mental functions and memory loss. Along with frontotemporal dementia and some other neurodegenerative disorders, Alzheimer's disease has been associated with an accumulation inside neurons of abnormal clumps of a protein called \"tau.\"",
+      "date": "2026-05-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-alzheimer-neurons-tau-genetic-chain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "alzheimer",
+        "disease",
+        "inside",
+        "neurons",
+        "neurodegenerative",
+        "genetic",
+        "chain",
+        "reaction"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-30T14:04:11.002784+00:00"
+    },
+    {
+      "id": "rss-642b6f8203a7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Blood test with AI spots four dementia-related brain diseases with 92.3% accuracy",
+      "authors": "Medical Xpress",
+      "abstract": "Many people living with dementia never receive an accurate diagnosis, in part because Alzheimer's disease, Parkinson's disease and related conditions are notoriously difficult to tell apart and often occur together. Now, a new tool based on artificial intelligence and a simple blood draw may provide clarity.",
+      "date": "2026-05-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-blood-ai-dementia-brain-diseases.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "blood",
+        "disease",
+        "test",
+        "spots",
+        "four",
+        "dementia-related",
+        "brain",
+        "diseases"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-30T14:04:11.003021+00:00"
+    },
+    {
+      "id": "rss-240970f87de3",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Blood proteins flag multiple sclerosis years before diagnosis, opening a window for prevention",
+      "authors": "Medical Xpress",
+      "abstract": "A new study has revealed a group of blood proteins that are altered in people who go on to develop multiple sclerosis (MS), in some cases more than a decade before diagnosis. The findings offer hope that a simple blood test could one day identify people at high risk of MS in time to act before damage occurs.",
+      "date": "2026-05-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-blood-proteins-flag-multiple-sclerosis.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "blood",
+        "before",
+        "proteins",
+        "multiple",
+        "sclerosis",
+        "diagnosis",
+        "that",
+        "people"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-30T14:04:11.003258+00:00"
+    },
+    {
+      "id": "rss-6db06707af1d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "One inhibitor, opposite outcome: How a double-target effect could reshape ferroptosis therapies",
+      "authors": "Medical Xpress",
+      "abstract": "Switching off an enzyme that plays an important role in sugar metabolism, glycolysis, would normally be expected to cause serious problems for cells. Surprisingly, the opposite is also true: Cells can become highly resistant to a specific form of cell death known as ferroptosis.⮐",
+      "date": "2026-05-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-inhibitor-outcome-effect-reshape-ferroptosis.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "opposite",
+        "ferroptosis",
+        "cells",
+        "inhibitor",
+        "outcome",
+        "double-target",
+        "effect",
+        "could"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-30T14:04:11.003503+00:00"
+    },
     {
       "id": "rss-67535e1592ea",
       "discipline": "clinical",
@@ -36,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.802771+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.003723+00:00"
     },
     {
       "id": "rss-3877ac0711da",
@@ -68,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.802984+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.003938+00:00"
     },
     {
       "id": "rss-ab0ada001ee7",
@@ -100,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.803194+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.004188+00:00"
     },
     {
       "id": "rss-0e1ef143b009",
@@ -132,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.803355+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.004385+00:00"
     },
     {
       "id": "rss-0fc63cfbbcc2",
@@ -164,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.803536+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.004612+00:00"
     },
     {
       "id": "rss-eb66974ca3dd",
@@ -196,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.803735+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.004887+00:00"
     },
     {
       "id": "rss-0b4de70d5616",
@@ -228,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.803927+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.005142+00:00"
     },
     {
       "id": "rss-282fac749013",
@@ -260,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.804105+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.005353+00:00"
     },
     {
       "id": "rss-8962c06d0f7b",
@@ -292,167 +452,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.804264+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.005559+00:00"
     },
     {
-      "id": "rss-7f0172653679",
-      "discipline": "clinical",
+      "id": "rss-4d8236dc772a",
+      "discipline": "cs",
       "type": "news",
-      "title": "Obesity tied to longer operative time for pediatric adenotonsillectomy",
-      "authors": "Medical Xpress",
-      "abstract": "Pediatric patients with obesity undergoing adenotonsillectomy (AT) face longer operating times, according to a study published online May 21 in the Ear, Nose & Throat Journal.",
+      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+      "authors": "TechCrunch AI",
+      "abstract": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
       "date": "2026-05-30",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-obesity-longer-pediatric-adenotonsillectomy.html",
+      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "obesity",
-        "longer",
-        "pediatric",
-        "adenotonsillectomy",
-        "tied",
-        "operative",
-        "time",
-        "patients"
+        "chrome",
+        "safari",
+        "browser",
+        "wars",
+        "heat",
+        "here",
+        "hottest",
+        "alternatives"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.804408+00:00"
-    },
-    {
-      "id": "rss-8a26b5d97db4",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Naloxone use during cardiac arrest linked to improved survival",
-      "authors": "Medical Xpress",
-      "abstract": "A new study by emergency medicine researchers at UC Davis Health set out to assess the effects of naloxone administration by first responders treating patients with out-of-hospital cardiac arrest (OA-OHCA). The study, published in JAMA Network Open, found naloxone administration during resuscitation by emergency medical service (EMS) personnel was associated with improved outcomes in patients with suspected OA-OHCA.",
-      "date": "2026-05-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-naloxone-cardiac-linked-survival.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "naloxone",
-        "during",
-        "cardiac",
-        "arrest",
-        "improved",
-        "emergency",
-        "administration",
-        "patients"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.804576+00:00"
-    },
-    {
-      "id": "rss-ae6ac8f7b951",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Health coaching app helpful for inflammatory bowel disease management",
-      "authors": "Medical Xpress",
-      "abstract": "Integrating a mobile app with online health coaching into usual care boosts outcomes for inflammatory bowel disease (IBD), according to a study published online April 26 in Crohn's & Colitis 360.",
-      "date": "2026-05-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-health-app-inflammatory-bowel-disease.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "health",
-        "coaching",
-        "inflammatory",
-        "bowel",
-        "disease",
-        "online",
-        "helpful",
-        "management"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.804720+00:00"
-    },
-    {
-      "id": "rss-09e94096b14c",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Celiac disease may raise risk of heart attack, stroke and early death",
-      "authors": "Medical Xpress",
-      "abstract": "People with celiac disease and dermatitis herpetiformis have a slightly increased risk of cardiovascular disease, certain types of blood cancer, and premature death. This is shown by a large U.S. registry study led by researchers at Karolinska Institutet. The results are published in the journal The Lancet Regional Health—Americas.",
-      "date": "2026-05-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-celiac-disease-heart-early-death.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "disease",
-        "celiac",
-        "risk",
-        "death",
-        "raise",
-        "heart",
-        "attack",
-        "stroke"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.804900+00:00"
-    },
-    {
-      "id": "rss-4c9c4e1ed7a8",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Traffic and industrial pollutants tied to chronic rhinosinusitis risk",
-      "authors": "Medical Xpress",
-      "abstract": "Long-term residential exposure to traffic-related and industry-related pollutants is associated with increased chronic rhinosinusitis (CRS) risk, according to a study published online May 28 in JAMA Otolaryngology-Head & Neck Surgery.",
-      "date": "2026-05-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-traffic-industrial-pollutants-chronic-rhinosinusitis.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "pollutants",
-        "chronic",
-        "rhinosinusitis",
-        "risk",
-        "traffic",
-        "industrial",
-        "tied",
-        "long-term"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.805070+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.111268+00:00"
     },
     {
       "id": "rss-984ccb6137c5",
@@ -484,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.853834+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.111494+00:00"
     },
     {
       "id": "rss-2d65762b6e41",
@@ -516,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.854028+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.111658+00:00"
     },
     {
       "id": "rss-8d68582dee85",
@@ -548,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.854202+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.111891+00:00"
     },
     {
       "id": "rss-83bf307d8cd3",
@@ -580,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.854335+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.112059+00:00"
     },
     {
       "id": "rss-20ede5a09f54",
@@ -612,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.854454+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.112213+00:00"
     },
     {
       "id": "rss-8acae724d272",
@@ -644,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.854571+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.112361+00:00"
     },
     {
       "id": "rss-9f3c5a888c19",
@@ -676,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.854722+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.112515+00:00"
     },
     {
       "id": "rss-3ecc4d3f9a47",
@@ -708,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.854883+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.112727+00:00"
     },
     {
       "id": "rss-ef3e5b0ba5eb",
@@ -740,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.855017+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.112876+00:00"
     },
     {
       "id": "rss-340b74b9356f",
@@ -772,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.855132+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.113021+00:00"
     },
     {
       "id": "rss-9e13285f2c08",
@@ -804,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.855240+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.113160+00:00"
     },
     {
       "id": "rss-c4323872865e",
@@ -836,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.855349+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.113298+00:00"
     },
     {
       "id": "rss-0f5d4d2683b3",
@@ -868,39 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.855448+00:00"
-    },
-    {
-      "id": "rss-9076d2f101cb",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-      "authors": "TechCrunch AI",
-      "abstract": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
-      "date": "2026-05-28",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "billion",
-        "anthropic",
-        "valuation",
-        "raises",
-        "nears",
-        "ahead",
-        "closed",
-        "series"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.855559+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.113413+00:00"
     },
     {
       "id": "rss-fe9bc1999c2c",
@@ -932,7 +932,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.940872+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.333453+00:00"
+    },
+    {
+      "id": "openalex-ca751a9a90a6",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "How to create a saltmarsh: understanding the roles of topography, redox and nutrient dynamics",
+      "authors": "Peter J. Lawrence",
+      "abstract": "The restoration of saltmarsh is critical given the importance of the habitat and the degradation and losses it faces. However, success of saltmarsh restoration has been limited, particularly in replacing plant communities, despite like-for-like replacement being a legal requirement. Previous research found elevation in the tidal frame and sediment redox potential are important drivers of vegetation communities, and are different between restored and natural marshes. However, elevation and sediment redox potential together are insufficient to explain differences in plant communities. Topographic features are thought to alter redox potential-elevation relationships, though its role in plant communities is not currently known. Nutrient concentrations can also impact vegetation, however we lack evidence as to the typical concentrations in natural saltmarsh or restored sites, and how close...",
+      "date": "2026-05-28",
+      "year": 2026,
+      "journal": "OpenAlex",
+      "source": "OpenAlex",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.83056/mmu.32479191",
+      "doi": "10.83056/mmu.32479191",
+      "pdfUrl": "https://e-space.mmu.ac.uk/620851/1/PeterJohnLawrence_Thesis_2018.pdf",
+      "keywords": [
+        "Salt marsh",
+        "Marsh",
+        "Nutrient",
+        "Environmental science",
+        "Ecology",
+        "Coastal wetland ecosystem dynamics",
+        "Geology and Paleoclimatology Research",
+        "Geological formations and processes"
+      ],
+      "readTime": "2 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-30T14:03:26.997388+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -964,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:33.621054+00:00"
+      "_retrievedAt": "2026-05-30T14:03:24.487877+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -996,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:33.621987+00:00"
+      "_retrievedAt": "2026-05-30T14:03:24.488654+00:00"
     },
     {
       "id": "rss-8a5e8a3301a1",
@@ -1028,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.941012+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.333616+00:00"
     },
     {
       "id": "rss-2b72b6519fb3",
@@ -1060,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.941117+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.333780+00:00"
     },
     {
       "id": "rss-9b5fb86c5fb5",
@@ -1092,39 +1124,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.941219+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.333946+00:00"
     },
     {
-      "id": "rss-c53d4758f364",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Announcing the 2026 Hollings Scholarship recipients!",
-      "authors": "NOAA News",
-      "abstract": "Announcing the 2026 Hollings Scholarship recipients! The 2024 class of EPP/MSI and Hollings undergraduate scholars. (Image credit: Chris Zimmer Photography) Download Image May 20, 2026 NOAA’s Office of Education has selected 128 Ernest F. Hollings undergraduate scholars for the class of 2026-2028. Scholars receive a two-year academic scholarship for their junior and senior years, a paid summer internship opportunity, and funding to participate in up to two national scientific conferences. Congratulations to the 2026 Hollings scholars! This year's class of scholars brings incredible skill and passion to the NOAA mission. Your selection as a scholar is a testament to your talent and dedication. We are excited to welcome you to the NOAA community and eagerly anticipate the exciting opportunities that await you and the valuable contributions you will make during your internship experience...",
+      "id": "openalex-2a2df0665fcc",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Accelerating scientific discovery with Co-Scientist",
+      "authors": "Juraj Gottweis, Wei-Hung Weng, Alexander Daryin, Tao Tu, Petar Sirkovic, Anatoly Myaskovsky",
+      "abstract": "Scientific discovery is driven by scientists generating novel hypotheses for complex problems that undergo rigorous experimental validation. To augment this process, we introduce Co-Scientist, a multi-agent AI system built on Gemini for structured scientific thinking and hypothesis generation. Co-Scientist aims to help scientists discover new original knowledge. Conditioned on their research objectives and prior scientific evidence, it formulates demonstrably novel research hypotheses for experimental verification. The system’s design involves agents continuously generating, critiquing and refining hypotheses accelerated by scaling test-time compute. Key contributions include: (1) a multi-agent architecture with an asynchronous task execution framework for flexible compute scaling; (2) a tournament evolution process for self-improving hypotheses generation. Automated evaluations show...",
       "date": "2026-05-19",
       "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/office-education/hollings-scholarship/news/announcing-2026-hollings-scholarship-recipients",
-      "doi": "",
-      "pdfUrl": "",
+      "journal": "Nature",
+      "source": "Nature",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41586-026-10644-y",
+      "doi": "10.1038/s41586-026-10644-y",
+      "pdfUrl": "https://www.nature.com/articles/s41586-026-10644-y_reference.pdf",
       "keywords": [
-        "hollings",
-        "scholars",
-        "scholarship",
-        "class",
-        "noaa",
-        "your",
-        "announcing",
-        "recipients"
+        "Scientific discovery",
+        "Data science",
+        "Computer science",
+        "Engineering",
+        "Computational biology",
+        "Academic Publishing and Open Access",
+        "Genetics, Bioinformatics, and Biomedical Research",
+        "Scientific Computing and Data Management"
       ],
       "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
+      "citedBy": 5,
+      "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:54.145284+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.290729+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1156,39 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:33.619672+00:00"
-    },
-    {
-      "id": "rss-5f4d5381d1ca",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA predicts below-normal 2026 Atlantic hurricane season",
-      "authors": "NOAA News",
-      "abstract": "NOAA predicts below-normal 2026 Atlantic hurricane season Early preparation essential to staying safe all season May 21, 2026 A NOAA satellite view of a massive Hurricane Erin churning off the U.S. East Coast taken August 20, 2025. (Image credit: NOAA Satellites) Download Image Forecasters with NOAA’s National Weather Service are predicting a below-normal hurricane season for the Atlantic basin this year. NOAA’s outlook for the 2026 Atlantic hurricane season, which runs June 1 to November 30, predicts a 35% chance of a near-normal season, a 10% chance of an above-normal season, and a 55% chance of a below-normal season. The agency is forecasting a total of 8-14 named storms (winds of 39 mph or higher). Of those, 3-6 are forecast to become hurricanes (winds of 74 mph or higher), including 1-3 major hurricanes (category 3, 4 or 5 with winds of 111 mph or higher). NOAA has a 70% confiden...",
-      "date": "2026-05-18",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/noaa-predicts-below-normal-2026-atlantic-hurricane-season",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "season",
-        "noaa",
-        "hurricane",
-        "below-normal",
-        "atlantic",
-        "predicts",
-        "chance",
-        "winds"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:54.145823+00:00"
+      "_retrievedAt": "2026-05-30T14:03:24.485720+00:00"
     },
     {
       "id": "rss-072e8cd7bee1",
@@ -1220,39 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.941309+00:00"
-    },
-    {
-      "id": "rss-303d6fb74455",
-      "discipline": "geo",
-      "type": "news",
-      "title": "El Nino and high tide flooding could be 'double whammy' for some coastal communities",
-      "authors": "NOAA News",
-      "abstract": "El Nino and high tide flooding could be 'double whammy' for some coastal communities NOAA’s National Weather Service predicts El Nino likely to emerge by July An aerial view of a car sitting in a Holiday Inn parking lot flooded with seawater during a high-tide (King Tide) event in Mill Valley, California, December 5, 2025. (Image credit: Getty Images) May 15, 2026 Ocean & Coasts Weather Climate tides and currents flooding El Nino, La Nina, ENSO 0 Off",
-      "date": "2026-05-14",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/el-nino-and-high-tide-flooding-possible-double-whammy-for-some-coastal-communities-in-2026-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nino",
-        "tide",
-        "flooding",
-        "high",
-        "could",
-        "double",
-        "whammy",
-        "some"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:54.146053+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.334111+00:00"
     },
     {
       "id": "rss-118e3c38b86e",
@@ -1284,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.941438+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.334284+00:00"
     },
     {
       "id": "rss-41e8976955ef",
@@ -1316,39 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.941554+00:00"
-    },
-    {
-      "id": "rss-e1bcf8f9c317",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA environmental data heads to the cloud for fast, on-demand public access",
-      "authors": "NOAA News",
-      "abstract": "NOAA environmental data heads to the cloud for fast, on-demand public access In one of the largest undertakings in its history, NOAA's National Centers for Environmental Information will migrate all of its data, products and services to the Amazon Web Services cloud over the next 10 months (2026-2027). (Image credit: NOAA NCEI) Download Image May 12, 2026 Climate Satellites data satellite data climate data 0 Off",
-      "date": "2026-05-12",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/noaa-environmental-data-heads-to-cloud-for-fast-on-demand-public-access-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "environmental",
-        "cloud",
-        "heads",
-        "fast",
-        "on-demand",
-        "public",
-        "access"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:54.146228+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.334444+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1380,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:33.619842+00:00"
+      "_retrievedAt": "2026-05-30T14:03:24.485958+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1412,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:33.619362+00:00"
+      "_retrievedAt": "2026-05-30T14:03:24.485305+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -1444,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:36.355887+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.995931+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -1476,39 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.941666+00:00"
-    },
-    {
-      "id": "rss-a4ddec72a3b1",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA research offers roadmap to improve West Nile virus forecasts, prevention",
-      "authors": "NOAA News",
-      "abstract": "NOAA research offers roadmap to improve West Nile virus forecasts, prevention The hand of Matthew Vanderpool, environmental health specialist and entomologist for the Louisville Metro Department of Public Health and Wellness, being bitten by a female mosquito on August 25, 2021, in Louisville, Kentucky. (Image credit: Jon Cherry/Getty Images) May 12, 2026 Research human health research forecasting 0 Off",
-      "date": "2026-05-06",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news/noaa-research-offers-roadmap-to-improve-west-nile-virus-forecasting-prevention-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "health",
-        "noaa",
-        "offers",
-        "roadmap",
-        "improve",
-        "west",
-        "nile",
-        "virus"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:54.146391+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.334597+00:00"
     },
     {
       "id": "rss-64416a2d9567",
@@ -1540,71 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.941770+00:00"
-    },
-    {
-      "id": "rss-eaba9e2355ac",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Behind every impactful NOAA Ocean Guardian School project is an Ocean Guardian teacher",
-      "authors": "NOAA News",
-      "abstract": "Behind every impactful NOAA Ocean Guardian School project is an Ocean Guardian teacher Wetland observation with students and teacher. (Image credit: Courtesy of NOAA Office of National Marine Sanctuaries, Lisa de Kozan/Mark West Elementary School) Download Image May 5, 2026 For National Teacher Appreciation Day, NOAA's Office of National Marine Sanctuaries would like to honor all of the dedicated educators who lead ocean stewardship efforts across the country. Education Office of Education 0 Off",
-      "date": "2026-05-05",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/office-education/news/behind-every-impactful-noaa-ocean-guardian-school-project-is-ocean-guardian-teacher-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ocean",
-        "noaa",
-        "guardian",
-        "teacher",
-        "school",
-        "office",
-        "national",
-        "behind"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:54.146570+00:00"
-    },
-    {
-      "id": "rss-374e6f61e248",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA scientists and partners to map deep waters, seabed in the Cook Islands",
-      "authors": "NOAA News",
-      "abstract": "NOAA scientists and partners to map deep waters, seabed in the Cook Islands May 19, 2026 During the 2025 Deep-sea Habitats of the Cook Islands expedition on Exploration Vessel Nautilus the team surveyed various seascapes to better understand seabed environments, and natural and mineral resources in the region. In this image, polymetallic nodules rest on sediment accumulated in a depression between rounded pillows and extended lobate lava flows, which are evidence of ancient volcanoes. (Image credit: Courtesy of Ocean Exploration Trust) This summer, NOAA Ocean Exploration will conduct an expedition on NOAA Ship Okeanos Explorer to map, explore and characterize deep waters off the coast of the Cook Islands. The effort is in partnership with the Cook Islands Seabed Minerals Authority. Using remotely operated vehicles (ROVs), mapping technologies and onsite sensors, the team will explore...",
-      "date": "2026-05-04",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/noaa-scientists-and-partners-to-map-deep-waters-seabed-in-cook-islands",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cook",
-        "islands",
-        "noaa",
-        "seabed",
-        "deep",
-        "waters",
-        "exploration",
-        "scientists"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:54.146904+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.334756+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -1636,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.941878+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.334907+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -1668,39 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.941990+00:00"
-    },
-    {
-      "id": "rss-fba3c69509f3",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Access to NOAA’s world-renowned Mauna Loa Observatory restored",
-      "authors": "NOAA News",
-      "abstract": "Access to NOAA’s world-renowned Mauna Loa Observatory restored Science activities to resume and site renovations planned NOAA’s Mauna Loa Observatory sits high on the north flank of Mauna Loa volcano on Hawaii’s Big Island. (Image credit: Brian Vasel/NOAA) Download Image May 18, 2026 More than three years after lava from Hawaii’s erupting Mauna Loa volcano buried a mile of the road leading to NOAA’s Mauna Loa Atmospheric Baseline Observatory (MLO), road crews have carved a temporary road restoring access to the site. NOAA technicians, who had to be ferried by helicopter to the facility since 2023 to maintain limited operations, have begun restarting many of the science activities that were suspended on November 27, 2022. “The reopening of the road to MLO on March 26, 2026, is a monumental win for NOAA and our long-term environmental observations,” said Vanda Grubišić, director of NOAA...",
-      "date": "2026-05-01",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news/access-to-noaas-world-renowned-mauna-loa-observatory-restored",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "mauna",
-        "observatory",
-        "road",
-        "access",
-        "world-renowned",
-        "restored",
-        "activities"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:54.147370+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.335027+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -1732,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.942110+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.335177+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1764,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.942217+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.335320+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1796,71 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:53.942327+00:00"
-    },
-    {
-      "id": "rss-13388a8e5f35",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA to announce 2026 Atlantic Hurricane Season Outlook",
-      "authors": "NOAA News",
-      "abstract": "NOAA to announce 2026 Atlantic Hurricane Season Outlook May 4, 2026 NOAA’s GOES East (GOES-19) satellite captured this image of side-by-side hurricanes Imelda (left) and Humberto (right) as they moved off the U.S. East Coast on Sept. 29, 2025. (Image credit: NOAA Satellites) Download Image NOAA will issue its outlook for the 2026 Atlantic hurricane season during a news conference on Thursday, May 21, at the NOAA Aircraft Operations Center in Lakeland, Florida, and virtually. Speakers will announce the anticipated activity for the 2026 Atlantic hurricane season, factors that may influence hurricane development, and provide advice for how the public can prepare for the season, which officially begins on June 1 and ends November 30. WHAT News conference announcing NOAA’s 2026 Atlantic Hurricane Season Outlook WHEN Thursday, May 21; 11:00 a.m. - 12:00 p.m. EDT WHERE NOAA Aircraft Operatio...",
-      "date": "2026-04-29",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/media-advisory/noaa-to-announce-2026-atlantic-hurricane-season-outlook",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "hurricane",
-        "season",
-        "atlantic",
-        "outlook",
-        "announce",
-        "image",
-        "east"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:54.147725+00:00"
-    },
-    {
-      "id": "rss-7bb4be9177ee",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Environmental Literacy Program awards portfolio",
-      "authors": "NOAA News",
-      "abstract": "Environmental Literacy Program awards portfolio April 29, 2026 Use the filter menu and interactive map to explore the past competitions offered and grants awarded through the Environmental Literacy Program . Office of Education Environmental Literacy Program 0 Off",
-      "date": "2026-04-29",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/office-education/elp/stories/environmental-literacy-program-awards-portfolio-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "environmental",
-        "literacy",
-        "program",
-        "awards",
-        "portfolio",
-        "april",
-        "filter",
-        "menu"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:40:54.147856+00:00"
+      "_retrievedAt": "2026-05-30T14:04:11.335461+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1892,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:33.622434+00:00"
+      "_retrievedAt": "2026-05-30T14:03:24.489230+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1924,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:35.395996+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.287335+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -1956,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:33.622627+00:00"
+      "_retrievedAt": "2026-05-30T14:03:24.489473+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -1988,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:33.620577+00:00"
+      "_retrievedAt": "2026-05-30T14:03:24.486892+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -2020,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:33.623105+00:00"
+      "_retrievedAt": "2026-05-30T14:03:24.490110+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2052,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:33.620341+00:00"
+      "_retrievedAt": "2026-05-30T14:03:24.486566+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -2084,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:33.622845+00:00"
+      "_retrievedAt": "2026-05-30T14:03:24.489782+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2112,43 +1856,11 @@ window.LIVE_FEED_DATA = {
         "Cell Image Analysis Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 19,
+      "citedBy": 21,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:33.621351+00:00"
-    },
-    {
-      "id": "openalex-c2ed165c8d47",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "An expanded reference catalog of translated open reading frames for biomedical research",
-      "authors": "Sonia Chothani, Jorge Ruiz-Orera, Jack A S Tierney, Michal I Swirski, Hakon Tjeldnes, Leron W Kok",
-      "abstract": "Non-canonical (i.e. unannotated) open reading frames (ncORFs) have until recently been omitted from reference genome annotations, despite evidence of their translation, limiting their incorporation into biomedical research. To address this, in 2022, we initiated the TransCODE consortium and built the first community-driven consensus catalog of human ncORFs, which was openly distributed to the research community via Ensembl-GENCODE. While this catalog represented a starting point for reference ncORF annotation, major technical and scientific issues remained. In particular, this initial catalog had no standardized framework to judge the evidence of translation for individual ncORFs. Here, we present an expanded and refined catalog of the human reference annotation of ncORFs. By incorporating more datasets and by lifting constraints on ORF length and start codon, we define a comprehensiv...",
-      "date": "2026-03-19",
-      "year": 2026,
-      "journal": "Nucleic Acids Research",
-      "source": "Nucleic Acids Research",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1093/nar/gkag234",
-      "doi": "10.1093/nar/gkag234",
-      "pdfUrl": "https://doi.org/10.1093/nar/gkag234",
-      "keywords": [
-        "Annotation",
-        "Computer science",
-        "Reading (process)",
-        "Set (abstract data type)",
-        "Information retrieval",
-        "RNA and protein synthesis mechanisms",
-        "Genomics and Phylogenetic Studies",
-        "Biomedical Text Mining and Ontologies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:34.401161+00:00"
+      "_retrievedAt": "2026-05-30T14:03:24.487566+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2180,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:36.357029+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.997752+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2212,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:35.396296+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.287738+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2244,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:33.622186+00:00"
+      "_retrievedAt": "2026-05-30T14:03:24.488914+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2272,11 +1984,11 @@ window.LIVE_FEED_DATA = {
         "Liver physiology and pathology"
       ],
       "readTime": "1 min",
-      "citedBy": 8,
+      "citedBy": 9,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:35.396852+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.288463+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -2308,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:36.358488+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.999593+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -2340,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:35.399162+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.292083+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -2372,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:36.357514+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.998368+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -2404,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:34.399283+00:00"
+      "_retrievedAt": "2026-05-30T14:03:25.309771+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -2436,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:34.400047+00:00"
+      "_retrievedAt": "2026-05-30T14:03:25.310722+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2468,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:33.621604+00:00"
+      "_retrievedAt": "2026-05-30T14:03:24.488196+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -2500,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:34.398809+00:00"
+      "_retrievedAt": "2026-05-30T14:03:25.309170+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2532,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:34.399749+00:00"
+      "_retrievedAt": "2026-05-30T14:03:25.310373+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2564,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:36.357263+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.998046+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2596,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:36.354757+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.994506+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2628,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:36.355330+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.995211+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2660,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:36.356246+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.996355+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -2692,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:34.397761+00:00"
+      "_retrievedAt": "2026-05-30T14:03:25.307836+00:00"
     },
     {
       "id": "openalex-6d7865beed8a",
@@ -2724,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:35.397335+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.289071+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2756,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:34.398098+00:00"
+      "_retrievedAt": "2026-05-30T14:03:25.308248+00:00"
     },
     {
       "id": "openalex-3dfdd7ceaceb",
@@ -2788,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:34.400473+00:00"
+      "_retrievedAt": "2026-05-30T14:03:25.311558+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -2820,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:35.397924+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.289836+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2852,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:34.397520+00:00"
+      "_retrievedAt": "2026-05-30T14:03:25.307489+00:00"
     },
     {
       "id": "openalex-18b220cd1ad9",
@@ -2884,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:36.358311+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.999369+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -2916,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:33.620809+00:00"
+      "_retrievedAt": "2026-05-30T14:03:24.487190+00:00"
     },
     {
       "id": "openalex-6a51321a829e",
@@ -2948,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:34.400878+00:00"
+      "_retrievedAt": "2026-05-30T14:03:25.312123+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -2980,7 +2692,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:36.358074+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.999082+00:00"
+    },
+    {
+      "id": "openalex-da72c8fa26ec",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Metabolic crosstalk among cancer-associated fibroblasts, adipocytes and immune cells as an immunosuppressive tumor microenvironment driver",
+      "authors": "Tae Hyun Kim, Seong Hun Lim, Hyesung Lee, Young Chan Chae, Do Sik Min",
+      "abstract": "The tumor microenvironment (TME) is a complex ecosystem composed of not only malignant cells but also diverse stromal and immune cell populations that collectively shape tumor behavior. Metabolism is a central regulator of the TME, orchestrating intercellular communication through altered nutrients and signaling pathways to influence both the metabolic plasticity of cancer cells and functional balance of immune populations, ultimately determining tumor progression and antitumor immunity. Although tumor-intrinsic metabolic programs have been extensively characterized, emerging evidence highlights stromal metabolism as the dominant force sculpting immune responses within the TME. Among the nonmalignant stromal constituents, cancer-associated fibroblasts and cancer-associated adipocytes have emerged as metabolically active hubs that release and redistribute key metabolites, such as lacta...",
+      "date": "2026-02-13",
+      "year": 2026,
+      "journal": "Experimental & Molecular Medicine",
+      "source": "Experimental & Molecular Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s12276-026-01650-1",
+      "doi": "10.1038/s12276-026-01650-1",
+      "pdfUrl": "https://www.nature.com/articles/s12276-026-01650-1.pdf",
+      "keywords": [
+        "Immune system",
+        "Tumor microenvironment",
+        "Crosstalk",
+        "Biology",
+        "Stromal cell",
+        "Cancer, Hypoxia, and Metabolism",
+        "Immune cells in cancer",
+        "Cancer Research and Treatments"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-30T14:03:26.291048+00:00"
+    },
+    {
+      "id": "openalex-92ed2627113b",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Programming Next‐Generation Synthetic Biosensors by Genetic Circuit Design",
+      "authors": "Yuanli Gao, Cheng Huang, Jiaxuan Deng, Lei Wang, Baojun Wang",
+      "abstract": "Synthetic biology employs engineering principles to construct genetic circuits with customized functionality, empowering unprecedented control over biological systems. By harnessing this capability to precisely manipulate biological systems, synthetic biosensors are being developed as promising biosensing platforms for on-site, sustainable, affordable, and easy-to-use detection across diverse scenarios, such as environmental monitoring, disease diagnosis, food safety control, and bioproduction optimization. However, the field deployment and real-world application of synthetic biosensors face considerable challenges in biosensing sensitivity, specificity, speed, stability, and biosafety. This review summarizes recent advancements of genetic circuit-enabled synthetic biosensors, focusing on their sensory mechanisms, designs, and applications. Moreover, the design principles, enabling to...",
+      "date": "2026-02-08",
+      "year": 2026,
+      "journal": "Advanced Science",
+      "source": "Advanced Science",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1002/advs.202524172",
+      "doi": "10.1002/advs.202524172",
+      "pdfUrl": "https://doi.org/10.1002/advs.202524172",
+      "keywords": [
+        "Synthetic biology",
+        "Biosensor",
+        "Computer science",
+        "Nanotechnology",
+        "Bioproduction",
+        "Advanced biosensing and bioanalysis techniques",
+        "Gene Regulatory Network Analysis",
+        "DNA and Biological Computing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-30T14:03:25.311025+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -3012,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:34.400269+00:00"
+      "_retrievedAt": "2026-05-30T14:03:25.311298+00:00"
     },
     {
       "id": "openalex-3dbf4d4bb3cc",
@@ -3044,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:34.398563+00:00"
+      "_retrievedAt": "2026-05-30T14:03:25.308855+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -3076,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:35.397097+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.288763+00:00"
     },
     {
       "id": "openalex-fcdb8afa9581",
@@ -3108,39 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:35.398373+00:00"
-    },
-    {
-      "id": "openalex-1601a6f85f1a",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Recent Advances in Microfluidic Chip Technology for Laboratory Medicine: Innovations and Artificial Intelligence Integration",
-      "authors": "Hong Cai, Dongxia Wang, Yiqun Zhao, Chunhui Yang",
-      "abstract": "Microfluidic chip technologies, also known as lab-on-a-chip systems, have profoundly transformed laboratory medicine by enabling the miniaturization, automation, and rapid processing of complex diagnostic assays using minimal sample volumes. Recent advances in chip design, fabrication methods-including 3D printing, modular and flexible substrates-and biosensor integration have significantly enhanced the performance, sensitivity, and clinical applicability of these devices. Integration of advanced biosensors allows for real-time detection of circulating tumor cells, nucleic acids, and exosomes, supporting innovative applications in cancer diagnostics, infectious disease detection, point-of-care testing (POCT), personalized medicine, and therapeutic monitoring. Notably, the convergence of microfluidics with artificial intelligence (AI) and machine learning has amplified device automatio...",
-      "date": "2026-02-05",
-      "year": 2026,
-      "journal": "Biosensors",
-      "source": "Biosensors",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/bios16020104",
-      "doi": "10.3390/bios16020104",
-      "pdfUrl": "https://www.mdpi.com/2079-6374/16/2/104/pdf",
-      "keywords": [
-        "Microfluidics",
-        "Computer science",
-        "Lab-on-a-chip",
-        "Modular design",
-        "Nanotechnology",
-        "3D Printing in Biomedical Research",
-        "Microfluidic and Bio-sensing Technologies",
-        "Biosensors and Analytical Detection"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:35.399830+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.290394+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -3172,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:36.355082+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.994905+00:00"
     },
     {
       "id": "openalex-59457ba55225",
@@ -3204,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:34.400642+00:00"
+      "_retrievedAt": "2026-05-30T14:03:25.311812+00:00"
     },
     {
       "id": "openalex-9ed36fb6b065",
@@ -3236,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:35.398922+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.291782+00:00"
     },
     {
       "id": "openalex-de50ab633493",
@@ -3268,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:33.620122+00:00"
+      "_retrievedAt": "2026-05-30T14:03:24.486287+00:00"
     },
     {
       "id": "openalex-41cd305bd1a4",
@@ -3300,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:34.398338+00:00"
+      "_retrievedAt": "2026-05-30T14:03:25.308549+00:00"
     },
     {
       "id": "openalex-3cfa33454bba",
@@ -3332,39 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:35.397647+00:00"
-    },
-    {
-      "id": "openalex-8a6cf85ab15d",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Advances in photoacoustic imaging reconstruction and quantitative analysis for biomedical applications",
-      "authors": "Lei Wang, Weiming Zeng, Kai Long, Hongyu Chen, Rongfeng Lan, Li Liu",
-      "abstract": "Photoacoustic imaging (PAI), a modality that combines the high contrast of optical imaging with the deep penetration of ultrasound, is rapidly transitioning from preclinical research to clinical practice. However, its widespread clinical adoption faces challenges such as the inherent trade-off between penetration depth and spatial resolution, along with the demand for faster imaging speeds. This review comprehensively examines the fundamental principles of PAI, focusing on three primary implementations: photoacoustic computed tomography, photoacoustic microscopy, and photoacoustic endoscopy. It critically analyzes their respective advantages and limitations to provide insights into practical applications. The discussion then extends to recent advancements in image reconstruction and artifact suppression, where both conventional and deep learning (DL)-based approaches have been highlig...",
-      "date": "2026-02-01",
-      "year": 2026,
-      "journal": "Visual Computing for Industry Biomedicine and Art",
-      "source": "Visual Computing for Industry Biomedicine and Art",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s42492-025-00213-x",
-      "doi": "10.1186/s42492-025-00213-x",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s42492-025-00213-x.pdf",
-      "keywords": [
-        "Photoacoustic imaging in biomedicine",
-        "Computer science",
-        "Optics",
-        "Physics",
-        "Photoacoustic and Ultrasonic Imaging",
-        "photoacoustic",
-        "imaging",
-        "reconstruction"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:35.399597+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.289471+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -3396,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:36.356514+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.996684+00:00"
     },
     {
       "id": "openalex-52f50aa5a2fe",
@@ -3428,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:36.356754+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.997001+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -3460,39 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:36.357807+00:00"
-    },
-    {
-      "id": "openalex-14dd31dc823e",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Integrating SWOT With Multi‐Source Satellite Observations for Near‐Daily Reservoir Water Level Monitoring",
-      "authors": "Pengfei Zhan, Jida Wang, Tan Chen, Shuangxiao Luo, Kai Liu, Linghong Ke",
-      "abstract": "Abstract Reservoirs play a crucial role in global water resource management. Monitoring reservoir hydrologic dynamics is critical for assessing climate variability and anthropogenic regulation. However, traditional satellite altimetry faces multiple challenges hindering high frequency and accuracy water level monitoring. This study develops a proof‐of‐concept framework that integrates multi‐source satellite data, with the Surface Water and Ocean Topography (SWOT) mission as the primary data source, to generate high‐resolution reservoir water level time series. The SWOT‐anchored integration framework establishes a unified two‐dimensional height reference by rule‐based virtual station selection and monthly water surface elevation difference fields. On this reference frame, heterogeneous nadir/laser altimetry from multiple missions are cross‐calibrated, while multi‐source area series are...",
-      "date": "2026-02-01",
-      "year": 2026,
-      "journal": "Water Resources Research",
-      "source": "Water Resources Research",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1029/2024wr039711",
-      "doi": "10.1029/2024wr039711",
-      "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024WR039711",
-      "keywords": [
-        "Water level",
-        "Environmental science",
-        "Altimeter",
-        "Robustness (evolution)",
-        "Satellite altimetry",
-        "Flood Risk Assessment and Management",
-        "Groundwater and Watershed Analysis",
-        "Hydrology and Watershed Management Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:36.358798+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.998756+00:00"
     },
     {
       "id": "openalex-b89933fb7b44",
@@ -3524,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:34.399073+00:00"
+      "_retrievedAt": "2026-05-30T14:03:25.309492+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -3556,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:34.399531+00:00"
+      "_retrievedAt": "2026-05-30T14:03:25.310093+00:00"
     },
     {
       "id": "openalex-c3a1e2ef4d92",
@@ -3588,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:35.396610+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.288150+00:00"
     },
     {
       "id": "openalex-2f0cc976fc68",
@@ -3620,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T08:39:35.398145+00:00"
+      "_retrievedAt": "2026-05-30T14:03:26.290106+00:00"
     }
   ]
 };
