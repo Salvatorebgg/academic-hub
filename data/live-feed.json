@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T19:40:05.151225+00:00",
+  "generatedAt": "2026-05-31T04:49:00.276991+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -7,13 +7,205 @@
   ],
   "papers": [
     {
+      "id": "rss-9d063a3376e5",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "How a remarkable trial on bedrest during the Korean War led to evidence‑based medicine",
+      "authors": "Medical Xpress",
+      "abstract": "In 1959, a young doctor named David Sackett stumbled on a clinical trial that would change his life—and most of ours. The study showed that conventional wisdom on bed rest in medicine was wrong. And it helped lead Sackett and others to develop evidence-based medicine, in which doctors today make decisions based on rigorous scientific research.",
+      "date": "2026-05-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-remarkable-trial-bedrest-korean-war.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "medicine",
+        "trial",
+        "sackett",
+        "that",
+        "remarkable",
+        "bedrest",
+        "during",
+        "korean"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-31T04:48:59.667828+00:00"
+    },
+    {
+      "id": "rss-72ef681f2104",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Murray Valley encephalitis can be fatal. With no vaccine, here's how to stay safe",
+      "authors": "Medical Xpress",
+      "abstract": "Health authorities in the Northern Territory have issued warnings for residents and visitors to avoid mosquito bites after two people from Alice Springs died from Murray Valley encephalitis.",
+      "date": "2026-05-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-murray-valley-encephalitis-fatal-vaccine.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "murray",
+        "valley",
+        "encephalitis",
+        "fatal",
+        "vaccine",
+        "here",
+        "stay",
+        "safe"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-31T04:48:59.668091+00:00"
+    },
+    {
+      "id": "rss-a0bc589e0236",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New AI approach aims to predict radiation dose before therapy in advanced prostate cancer",
+      "authors": "Medical Xpress",
+      "abstract": "A new machine-learning approach for prostate-specific membrane antigen (PSMA) treatment of metastatic castration-resistant prostate cancer (mCRPC) could estimate radiation dose to tumors and healthy organs before therapy begins. Using data already available from pre-therapy PET/CT scans, this novel prediction tool could help personalize treatment plans, improve patient selection, and reduce toxicity risk.",
+      "date": "2026-05-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-ai-approach-aims-dose-therapy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "approach",
+        "radiation",
+        "dose",
+        "before",
+        "therapy",
+        "prostate",
+        "cancer",
+        "treatment"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-31T04:48:59.668341+00:00"
+    },
+    {
+      "id": "rss-529f7c3dd9fd",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New analysis finds geographical differences in access to donor lungs, transplants",
+      "authors": "Medical Xpress",
+      "abstract": "A new study from Cleveland Clinic and Case Western Reserve University has found that geographic location remains an important factor in access to donor lungs in the United States, even after recent updates to the national lung allocation system changed how donor lungs are distributed.",
+      "date": "2026-05-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-analysis-geographical-differences-access-donor.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "donor",
+        "lungs",
+        "access",
+        "finds",
+        "geographical",
+        "differences",
+        "transplants",
+        "cleveland"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-31T04:48:59.668560+00:00"
+    },
+    {
+      "id": "rss-5afcb27ba53b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "AI repurposes routine chest X-rays to catch silent bone loss before fracture",
+      "authors": "Medical Xpress",
+      "abstract": "Osteoporosis is a silent disease where bone loss develops gradually before fractures occur. Current clinical screening recommendations mainly focus on older women and selected high-risk groups, leaving some men, younger adults, and individuals with normal body weight completely outside routine screening pathways.",
+      "date": "2026-05-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-ai-repurposes-routine-chest-rays.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "routine",
+        "silent",
+        "bone",
+        "loss",
+        "before",
+        "screening",
+        "repurposes",
+        "chest"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-31T04:48:59.668780+00:00"
+    },
+    {
+      "id": "rss-6454f07e61ce",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Why some chikungunya virus infections may turn chronic",
+      "authors": "Medical Xpress",
+      "abstract": "Chikungunya virus, which is transmitted to people by infected Aedes mosquitoes and characterized by high fever and intense joint swelling and pain, has made a resurgence in many countries around the world in recent years.",
+      "date": "2026-05-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-05-chikungunya-virus-infections-chronic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "chikungunya",
+        "virus",
+        "some",
+        "infections",
+        "turn",
+        "chronic",
+        "which",
+        "transmitted"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-31T04:48:59.669003+00:00"
+    },
+    {
       "id": "rss-b4af1aa54cf6",
       "discipline": "clinical",
       "type": "news",
       "title": "There are different types of fitness—exercise expert explains",
       "authors": "Medical Xpress",
       "abstract": "You probably have at least one \"super fit\" friend. Maybe they're a marathon runner, a footy player or a keen hiker. To keep themselves healthy, they may stick to a strict exercise regimen and only eat certain foods. But in most cases, these people would likely struggle to play a sport or do an activity they're unaccustomed to.",
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.189415+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.669272+00:00"
     },
     {
       "id": "rss-f40dbef09720",
@@ -45,7 +237,7 @@
       "title": "Q&A: Researcher discusses early-onset breast cancer in East Africa",
       "authors": "Medical Xpress",
       "abstract": "Most breast cancer patients in Uganda and Ethiopia are diagnosed too late, and many lack access to life-saving treatment. Tove Ekdahl Hjelm defends her thesis \"Early-onset breast cancer in East Africa: genetics, tumor characteristics and clinical management\" on June 5, where she highlights deficiencies in access to adequate care, but also that more lives can be saved.",
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.189594+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.669517+00:00"
     },
     {
       "id": "rss-3082c05c8324",
@@ -77,7 +269,7 @@
       "title": "Tezepelumab helps severe asthma patients reduce oral steroids over 28 weeks",
       "authors": "Medical Xpress",
       "abstract": "New results from the Phase III SUNRISE clinical trial show that tezepelumab significantly reduced the need for long-term oral corticosteroid use in adults with severe oral corticosteroid-dependent asthma while maintaining asthma control and improving key clinical outcomes. The findings were published in The Lancet Respiratory Medicine.",
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.189726+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.669730+00:00"
     },
     {
       "id": "rss-427b92b00a7c",
@@ -109,7 +301,7 @@
       "title": "An overlooked protein may decide how fast male fertility starts to unravel with age",
       "authors": "Medical Xpress",
       "abstract": "A study led by researchers at the Universitat Autònoma de Barcelona (UAB) and the Josep Carreras Leukemia Research Institute (IJC) along with researchers from Rutgers University (U.S.) has identified the Sirtuin 7 (SIRT7) protein as a new essential factor in maintaining the genome stability of male germ cells over time. The study, conducted with mice, is published in the journal Nature Communications.",
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.189874+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.669983+00:00"
     },
     {
       "id": "rss-674aa893b282",
@@ -141,7 +333,7 @@
       "title": "Calling Doctor GPT: AI responses to health care queries are nearly 76% accurate",
       "authors": "Medical Xpress",
       "abstract": "Artificial intelligence (AI)-powered chatbots respond to everyday health-related questions from general users with nearly 76% accuracy, which raises concerns about their trustworthiness in real-world client-facing applications, according to a new study led by Penn State researchers.",
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.189993+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.670186+00:00"
     },
     {
       "id": "rss-ab7a3f242b21",
@@ -173,7 +365,7 @@
       "title": "Research confirms Rx Kids improved outcomes for Flint babies, families",
       "authors": "Medical Xpress",
       "abstract": "A study published in The Lancet Public Health found that Rx Kids, the nation's first community-wide prenatal and infant cash prescription program, led to significant improvements in birth outcomes for infants born in Flint, Michigan. The program reduced low birthweight and preterm birth rates and prevented admissions to the neonatal intensive care unit, or NICU.",
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.190122+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.670402+00:00"
     },
     {
       "id": "rss-3fcc17f4cea0",
@@ -205,7 +397,7 @@
       "title": "Eating fewer protein-rich foods may harm our physical function as we grow older",
       "authors": "Medical Xpress",
       "abstract": "Researchers have found that consuming lower amounts of protein-rich foods may negatively affect physical functioning as people grow older, underscoring the vital function protein plays in preserving mobility and muscle strength in adulthood. In a large aging cohort study published in the journal Nutrients, the researchers report that regular dietary habits, particularly the consumption of protein-rich foods, can influence how well individuals move and perform daily activities later in life.",
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -228,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.190261+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.670639+00:00"
     },
     {
       "id": "rss-391a1bb451de",
@@ -237,7 +429,7 @@
       "title": "Inside Alzheimer's neurons, tau may set off a genetic chain reaction that ends in cell death",
       "authors": "Medical Xpress",
       "abstract": "Alzheimer's disease is a neurodegenerative disease characterized by a progressive decline in mental functions and memory loss. Along with frontotemporal dementia and some other neurodegenerative disorders, Alzheimer's disease has been associated with an accumulation inside neurons of abnormal clumps of a protein called \"tau.\"",
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -260,199 +452,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.190384+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.670848+00:00"
     },
     {
-      "id": "rss-642b6f8203a7",
-      "discipline": "clinical",
+      "id": "rss-5963b8584ad9",
+      "discipline": "cs",
       "type": "news",
-      "title": "Blood test with AI spots four dementia-related brain diseases with 92.3% accuracy",
-      "authors": "Medical Xpress",
-      "abstract": "Many people living with dementia never receive an accurate diagnosis, in part because Alzheimer's disease, Parkinson's disease and related conditions are notoriously difficult to tell apart and often occur together. Now, a new tool based on artificial intelligence and a simple blood draw may provide clarity.",
+      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "authors": "TechCrunch AI",
+      "abstract": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
       "date": "2026-05-30",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-blood-ai-dementia-brain-diseases.html",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "blood",
-        "disease",
-        "test",
-        "spots",
-        "four",
-        "dementia-related",
-        "brain",
-        "diseases"
+        "softbank",
+        "says",
+        "will",
+        "invest",
+        "billion",
+        "build",
+        "french",
+        "centers"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.190513+00:00"
-    },
-    {
-      "id": "rss-240970f87de3",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Blood proteins flag multiple sclerosis years before diagnosis, opening a window for prevention",
-      "authors": "Medical Xpress",
-      "abstract": "A new study has revealed a group of blood proteins that are altered in people who go on to develop multiple sclerosis (MS), in some cases more than a decade before diagnosis. The findings offer hope that a simple blood test could one day identify people at high risk of MS in time to act before damage occurs.",
-      "date": "2026-05-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-blood-proteins-flag-multiple-sclerosis.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "blood",
-        "before",
-        "proteins",
-        "multiple",
-        "sclerosis",
-        "diagnosis",
-        "that",
-        "people"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.190636+00:00"
-    },
-    {
-      "id": "rss-6db06707af1d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "One inhibitor, opposite outcome: How a double-target effect could reshape ferroptosis therapies",
-      "authors": "Medical Xpress",
-      "abstract": "Switching off an enzyme that plays an important role in sugar metabolism, glycolysis, would normally be expected to cause serious problems for cells. Surprisingly, the opposite is also true: Cells can become highly resistant to a specific form of cell death known as ferroptosis.⮐",
-      "date": "2026-05-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-inhibitor-outcome-effect-reshape-ferroptosis.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "opposite",
-        "ferroptosis",
-        "cells",
-        "inhibitor",
-        "outcome",
-        "double-target",
-        "effect",
-        "could"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.190762+00:00"
-    },
-    {
-      "id": "rss-67535e1592ea",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Autoimmune disease linked to poor outcomes with myelodysplastic syndrome",
-      "authors": "Medical Xpress",
-      "abstract": "Having a preexisting autoimmune disease is an independent risk factor for poor outcomes with myelodysplastic syndrome (MDS), according to a study published in the June issue of Clinical Immunology.",
-      "date": "2026-05-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-autoimmune-disease-linked-poor-outcomes.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "autoimmune",
-        "disease",
-        "poor",
-        "outcomes",
-        "myelodysplastic",
-        "syndrome",
-        "linked",
-        "having"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.190868+00:00"
-    },
-    {
-      "id": "rss-3877ac0711da",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Hidden harm online: One in four vulnerable youth faced abuse, few reported it",
-      "authors": "Medical Xpress",
-      "abstract": "A new study from researchers at the Child Mind Institute finds that negative online experiences are common among children and adolescents with mental health and neurodevelopmental conditions, and that most incidents are not reported through platform reporting tools.",
-      "date": "2026-05-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-hidden-online-vulnerable-youth-abuse.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "online",
-        "reported",
-        "that",
-        "hidden",
-        "harm",
-        "four",
-        "vulnerable",
-        "youth"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.190983+00:00"
-    },
-    {
-      "id": "rss-ab0ada001ee7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Better patient–nurse relationships can transform mental health care—and make hospital stays shorter",
-      "authors": "Medical Xpress",
-      "abstract": "Being admitted to a mental health unit can be one of the most vulnerable moments in a person's life. They often arrive in the midst of a crisis, and are fearful, confused, and anxious. But in these situations, one thing can profoundly affect their experience: the relationship established with the nurses who attend them, especially in the first days.",
-      "date": "2026-05-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-05-patientnurse-relationships-mental-health-hospital.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "mental",
-        "health",
-        "better",
-        "patient",
-        "nurse",
-        "relationships",
-        "transform",
-        "care"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.191117+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.717805+00:00"
     },
     {
       "id": "rss-821ca223b647",
@@ -484,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.243747+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.718034+00:00"
     },
     {
       "id": "rss-c5d377013900",
@@ -516,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.243850+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.718172+00:00"
     },
     {
       "id": "rss-bd28f4d74e40",
@@ -548,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.243944+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.718337+00:00"
     },
     {
       "id": "rss-4d8236dc772a",
@@ -580,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.244026+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.718489+00:00"
     },
     {
       "id": "rss-984ccb6137c5",
@@ -612,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.244115+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.718649+00:00"
     },
     {
       "id": "rss-2d65762b6e41",
@@ -644,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.244200+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.718798+00:00"
     },
     {
       "id": "rss-8d68582dee85",
@@ -676,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.244311+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.719015+00:00"
     },
     {
       "id": "rss-83bf307d8cd3",
@@ -708,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.244402+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.719181+00:00"
     },
     {
       "id": "rss-20ede5a09f54",
@@ -740,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.244494+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.719326+00:00"
     },
     {
       "id": "rss-8acae724d272",
@@ -772,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.244576+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.719470+00:00"
     },
     {
       "id": "rss-9f3c5a888c19",
@@ -804,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.244664+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.719624+00:00"
     },
     {
       "id": "rss-3ecc4d3f9a47",
@@ -836,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.244773+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.719818+00:00"
     },
     {
       "id": "rss-ef3e5b0ba5eb",
@@ -868,39 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.244853+00:00"
-    },
-    {
-      "id": "rss-340b74b9356f",
-      "discipline": "cs",
-      "type": "news",
-      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
-      "authors": "TechCrunch AI",
-      "abstract": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
-      "date": "2026-05-29",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "chip",
-        "startup",
-        "that",
-        "bottleneck",
-        "compute",
-        "memory",
-        "this",
-        "just"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.244932+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.719961+00:00"
     },
     {
       "id": "rss-fe9bc1999c2c",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.346443+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.751473+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -964,7 +964,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.918403+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.605506+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -996,7 +996,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:58.167641+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.222006+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -1028,7 +1028,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:58.168062+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.222820+00:00"
     },
     {
       "id": "rss-8a5e8a3301a1",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.346544+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.751633+00:00"
     },
     {
       "id": "rss-2b72b6519fb3",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.346619+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.751770+00:00"
     },
     {
       "id": "rss-9b5fb86c5fb5",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.346692+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.751902+00:00"
     },
     {
       "id": "rss-c53d4758f364",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.941634+00:00"
+      "_retrievedAt": "2026-05-31T04:49:00.065460+00:00"
     },
     {
       "id": "openalex-2a2df0665fcc",
@@ -1188,7 +1188,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.057784+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.266984+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1220,7 +1220,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:58.166486+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.219775+00:00"
     },
     {
       "id": "rss-5f4d5381d1ca",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.942032+00:00"
+      "_retrievedAt": "2026-05-31T04:49:00.066196+00:00"
     },
     {
       "id": "rss-072e8cd7bee1",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.346757+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.752046+00:00"
     },
     {
       "id": "rss-303d6fb74455",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.942183+00:00"
+      "_retrievedAt": "2026-05-31T04:49:00.066477+00:00"
     },
     {
       "id": "rss-118e3c38b86e",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.346849+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.752216+00:00"
     },
     {
       "id": "rss-41e8976955ef",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.346933+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.752371+00:00"
     },
     {
       "id": "rss-e1bcf8f9c317",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.942310+00:00"
+      "_retrievedAt": "2026-05-31T04:49:00.066703+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1444,7 +1444,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:58.166610+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.220020+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1476,7 +1476,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:58.166252+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.219366+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -1508,7 +1508,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.917627+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.604019+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -1540,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.347013+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.752519+00:00"
     },
     {
       "id": "rss-a4ddec72a3b1",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.942429+00:00"
+      "_retrievedAt": "2026-05-31T04:49:00.066918+00:00"
     },
     {
       "id": "rss-64416a2d9567",
@@ -1604,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.347086+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.752658+00:00"
     },
     {
       "id": "rss-eaba9e2355ac",
@@ -1636,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.942569+00:00"
+      "_retrievedAt": "2026-05-31T04:49:00.067187+00:00"
     },
     {
       "id": "rss-374e6f61e248",
@@ -1668,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.942808+00:00"
+      "_retrievedAt": "2026-05-31T04:49:00.067627+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.347162+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.752804+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -1732,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.347228+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.752930+00:00"
     },
     {
       "id": "rss-fba3c69509f3",
@@ -1764,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.943114+00:00"
+      "_retrievedAt": "2026-05-31T04:49:00.068212+00:00"
     },
     {
       "id": "rss-8d008b920b1e",
@@ -1796,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.347307+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.753097+00:00"
     },
     {
       "id": "rss-00f9f7640523",
@@ -1828,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.347382+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.753239+00:00"
     },
     {
       "id": "rss-d90c137356bb",
@@ -1860,7 +1860,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.347466+00:00"
+      "_retrievedAt": "2026-05-31T04:48:59.753381+00:00"
     },
     {
       "id": "rss-13388a8e5f35",
@@ -1892,7 +1892,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.943363+00:00"
+      "_retrievedAt": "2026-05-31T04:49:00.068679+00:00"
     },
     {
       "id": "rss-7bb4be9177ee",
@@ -1924,7 +1924,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:04.943461+00:00"
+      "_retrievedAt": "2026-05-31T04:49:00.068853+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1956,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:58.168367+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.223398+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1988,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.055921+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.264186+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2020,7 +2020,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:58.168506+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.223639+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2052,7 +2052,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:58.167107+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.220967+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -2084,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:58.168823+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.224229+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2116,7 +2116,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:58.166942+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.220655+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -2148,7 +2148,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:58.168653+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.223906+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2180,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:58.167481+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.221687+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2212,7 +2212,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.918603+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.605849+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2244,7 +2244,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.056145+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.264585+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2276,7 +2276,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:58.168195+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.223084+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2308,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.056556+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.264923+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -2340,7 +2340,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.919599+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.607782+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -2372,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.058486+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.268337+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -2404,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.918933+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.606484+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -2436,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:59.096108+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.819944+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -2468,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:59.096631+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.820942+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2500,7 +2500,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:58.167813+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.222336+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -2532,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:59.095788+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.819338+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2564,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:59.096434+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.820584+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2596,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.918760+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.606155+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2628,7 +2628,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.916843+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.602530+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2660,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.917225+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.603267+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2692,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.917859+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.604446+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -2724,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:59.095072+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.818002+00:00"
     },
     {
       "id": "openalex-6d7865beed8a",
@@ -2756,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.056881+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.265544+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -2788,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:59.095291+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.818412+00:00"
     },
     {
       "id": "openalex-3dfdd7ceaceb",
@@ -2820,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:59.097083+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.821823+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -2852,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.057295+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.266332+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -2884,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:59.094896+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.817669+00:00"
     },
     {
       "id": "openalex-18b220cd1ad9",
@@ -2916,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.919474+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.607545+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -2948,7 +2948,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:58.167267+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.221287+00:00"
     },
     {
       "id": "openalex-6a51321a829e",
@@ -2980,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:59.097367+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.822375+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -3012,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.919310+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.607235+00:00"
     },
     {
       "id": "openalex-da72c8fa26ec",
@@ -3044,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.057954+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.267311+00:00"
     },
     {
       "id": "openalex-92ed2627113b",
@@ -3076,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:59.096792+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.821275+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -3108,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:59.096942+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.821561+00:00"
     },
     {
       "id": "openalex-3dbf4d4bb3cc",
@@ -3140,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:59.095617+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.819019+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -3172,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.056713+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.265233+00:00"
     },
     {
       "id": "openalex-fcdb8afa9581",
@@ -3204,7 +3204,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.057609+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.266633+00:00"
+    },
+    {
+      "id": "openalex-1601a6f85f1a",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Recent Advances in Microfluidic Chip Technology for Laboratory Medicine: Innovations and Artificial Intelligence Integration",
+      "authors": "Hong Cai, Dongxia Wang, Yiqun Zhao, Chunhui Yang",
+      "abstract": "Microfluidic chip technologies, also known as lab-on-a-chip systems, have profoundly transformed laboratory medicine by enabling the miniaturization, automation, and rapid processing of complex diagnostic assays using minimal sample volumes. Recent advances in chip design, fabrication methods-including 3D printing, modular and flexible substrates-and biosensor integration have significantly enhanced the performance, sensitivity, and clinical applicability of these devices. Integration of advanced biosensors allows for real-time detection of circulating tumor cells, nucleic acids, and exosomes, supporting innovative applications in cancer diagnostics, infectious disease detection, point-of-care testing (POCT), personalized medicine, and therapeutic monitoring. Notably, the convergence of microfluidics with artificial intelligence (AI) and machine learning has amplified device automatio...",
+      "date": "2026-02-05",
+      "year": 2026,
+      "journal": "Biosensors",
+      "source": "Biosensors",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/bios16020104",
+      "doi": "10.3390/bios16020104",
+      "pdfUrl": "https://www.mdpi.com/2079-6374/16/2/104/pdf",
+      "keywords": [
+        "Microfluidics",
+        "Computer science",
+        "Lab-on-a-chip",
+        "Modular design",
+        "Nanotechnology",
+        "3D Printing in Biomedical Research",
+        "Microfluidic and Bio-sensing Technologies",
+        "Biosensors and Analytical Detection"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-31T04:48:56.269238+00:00"
     },
     {
       "id": "openalex-cafa62100ccb",
@@ -3236,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.917058+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.602925+00:00"
     },
     {
       "id": "openalex-59457ba55225",
@@ -3268,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:59.097202+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.822063+00:00"
     },
     {
       "id": "openalex-9ed36fb6b065",
@@ -3300,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.058327+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.268041+00:00"
     },
     {
       "id": "openalex-de50ab633493",
@@ -3332,7 +3364,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:58.166790+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.220354+00:00"
     },
     {
       "id": "openalex-41cd305bd1a4",
@@ -3364,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:59.095461+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.818715+00:00"
     },
     {
       "id": "openalex-3cfa33454bba",
@@ -3396,7 +3428,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.057101+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.265952+00:00"
+    },
+    {
+      "id": "openalex-8a6cf85ab15d",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Advances in photoacoustic imaging reconstruction and quantitative analysis for biomedical applications",
+      "authors": "Lei Wang, Weiming Zeng, Kai Long, Hongyu Chen, Rongfeng Lan, Li Liu",
+      "abstract": "Photoacoustic imaging (PAI), a modality that combines the high contrast of optical imaging with the deep penetration of ultrasound, is rapidly transitioning from preclinical research to clinical practice. However, its widespread clinical adoption faces challenges such as the inherent trade-off between penetration depth and spatial resolution, along with the demand for faster imaging speeds. This review comprehensively examines the fundamental principles of PAI, focusing on three primary implementations: photoacoustic computed tomography, photoacoustic microscopy, and photoacoustic endoscopy. It critically analyzes their respective advantages and limitations to provide insights into practical applications. The discussion then extends to recent advancements in image reconstruction and artifact suppression, where both conventional and deep learning (DL)-based approaches have been highlig...",
+      "date": "2026-02-01",
+      "year": 2026,
+      "journal": "Visual Computing for Industry Biomedicine and Art",
+      "source": "Visual Computing for Industry Biomedicine and Art",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1186/s42492-025-00213-x",
+      "doi": "10.1186/s42492-025-00213-x",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s42492-025-00213-x.pdf",
+      "keywords": [
+        "Photoacoustic imaging in biomedicine",
+        "Computer science",
+        "Optics",
+        "Physics",
+        "Photoacoustic and Ultrasonic Imaging",
+        "photoacoustic",
+        "imaging",
+        "reconstruction"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-05-31T04:48:56.268907+00:00"
     },
     {
       "id": "openalex-b74583b9cb68",
@@ -3428,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.918035+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.604783+00:00"
     },
     {
       "id": "openalex-52f50aa5a2fe",
@@ -3460,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.918197+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.605118+00:00"
     },
     {
       "id": "openalex-a1bcd8d4e6a7",
@@ -3492,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.919137+00:00"
+      "_retrievedAt": "2026-05-31T04:48:56.606872+00:00"
     },
     {
       "id": "openalex-b89933fb7b44",
@@ -3524,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:59.095961+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.819670+00:00"
     },
     {
       "id": "openalex-bf012105c13f",
@@ -3556,71 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-05-30T19:39:59.096283+00:00"
-    },
-    {
-      "id": "openalex-c3a1e2ef4d92",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Digital twins in oncology: From predictive modelling to personalised treatment strategies",
-      "authors": "David B. Olawade, Emmanuel O. Oisakede, Oluwakemi Jumoke Bello, Claret Chinenyenwa Analikwu, Eghosasere Egbon, Adeyinka Ojo",
-      "abstract": "The digital twin (DT) concept, originating from engineering disciplines, has emerged as a transformative technology in healthcare, particularly in oncology. A digital twin creates a dynamic, virtual replica of a patient's physiological and pathological state, integrating multi-dimensional data to enable personalised cancer care. Despite growing interest, comprehensive reviews examining the breadth of DT applications in oncology remain limited. This narrative review aims to synthesise current evidence on digital twin applications in oncology, evaluate their potential to transform cancer care delivery, and identify challenges hindering clinical translation. A comprehensive literature search was conducted across PubMed, Scopus, Web of Science, and IEEE Xplore databases from inception to September 2025. Studies describing DT development, validation, or application in any cancer type were...",
-      "date": "2026-01-30",
-      "year": 2026,
-      "journal": "Critical Reviews in Oncology/Hematology",
-      "source": "Critical Reviews in Oncology/Hematology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.critrevonc.2026.105171",
-      "doi": "10.1016/j.critrevonc.2026.105171",
-      "pdfUrl": "https://doi.org/10.1016/j.critrevonc.2026.105171",
-      "keywords": [
-        "Data science",
-        "Transformative learning",
-        "Narrative review",
-        "Computer science",
-        "Precision medicine",
-        "Digital Transformation in Industry",
-        "Radiomics and Machine Learning in Medical Imaging",
-        "Mathematical Biology Tumor Growth"
-      ],
-      "readTime": "1 min",
-      "citedBy": 10,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.056372+00:00"
-    },
-    {
-      "id": "openalex-2f0cc976fc68",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "2025 FDA TIDES (Peptides and Oligonucleotides) Harvest",
-      "authors": "Danah AlShaer, Othman Al Musaimi, Fernando Albericio, Beatriz G. de la Torre",
-      "abstract": "In 2025, the FDA approved 46 novel drugs, including four TIDEs (one peptide, three oligonucleotides, and one antibody drug conjugate containing peptide as a payload). The three approved oligonucleotide therapeutics-fitusiran, donidalorsen, and plozasiran-bring the total number of approved oligonucleotide drugs to 24 across 16 clinical indications since 1998. Fitusiran and donidalorsen are the first oligonucleotide therapies approved for antithrombin deficiency and hereditary angioedema, respectively, while plozasiran represents the second approved therapy for familial chylomicronemia syndrome. All three agents employ GalNAc-mediated hepatocyte targeting, highlighting the continued importance of liver-directed delivery platforms in oligonucleotide drug development and underscoring the growing clinical maturity of this therapeutic class. Peptide-based therapeutics continue to emerge as...",
-      "date": "2026-01-30",
-      "year": 2026,
-      "journal": "Pharmaceuticals",
-      "source": "Pharmaceuticals",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/ph19020244",
-      "doi": "10.3390/ph19020244",
-      "pdfUrl": "https://www.mdpi.com/1424-8247/19/2/244/pdf",
-      "keywords": [
-        "Medicine",
-        "Adverse effect",
-        "Drug",
-        "Food and drug administration",
-        "Oligonucleotide",
-        "Lipid metabolism and disorders",
-        "Complement system in diseases",
-        "Hemoglobinopathies and Related Disorders"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-05-30T19:40:00.057442+00:00"
+      "_retrievedAt": "2026-05-31T04:48:55.820298+00:00"
     }
   ]
 }
