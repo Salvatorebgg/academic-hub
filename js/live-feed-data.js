@@ -1,11 +1,75 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-06-04T05:03:25.919583+00:00",
+  "generatedAt": "2026-06-04T10:12:14.164469+00:00",
   "total": 114,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-fadeee26f713",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Unsafe food kills 1.5 mn people a year worldwide: WHO",
+      "authors": "Medical Xpress",
+      "abstract": "Food contaminated with harmful bacteria, viruses, parasites or chemicals kills 1.5 million people worldwide each year, with young children worst hit, the World Health Organization warned on Thursday.",
+      "date": "2026-06-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-unsafe-food-mn-people-year.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "food",
+        "kills",
+        "people",
+        "year",
+        "worldwide",
+        "unsafe",
+        "contaminated",
+        "harmful"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-04T10:12:13.236827+00:00"
+    },
+    {
+      "id": "rss-c0aa05edf83e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Even years after stroke, spinal cord stimulation could improve arm function",
+      "authors": "Medical Xpress",
+      "abstract": "University of Pittsburgh School of Medicine researchers report the final outcomes of a pioneering pilot clinical trial using electrical stimulation of the spinal cord to improve arm and hand mobility in people with chronic stroke in Nature Medicine.",
+      "date": "2026-06-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-years-spinal-cord-arm-function.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "stroke",
+        "spinal",
+        "cord",
+        "stimulation",
+        "improve",
+        "medicine",
+        "even",
+        "years"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-04T10:12:13.237084+00:00"
+    },
     {
       "id": "rss-d086a906d315",
       "discipline": "clinical",
@@ -36,7 +100,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.221540+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.237325+00:00"
     },
     {
       "id": "rss-868c4e5de8d3",
@@ -68,7 +132,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.221792+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.237535+00:00"
     },
     {
       "id": "rss-bd3c742aaf73",
@@ -100,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.222018+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.237753+00:00"
     },
     {
       "id": "rss-d438f5ad15c0",
@@ -132,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.222311+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.238040+00:00"
     },
     {
       "id": "rss-69aee12479cf",
@@ -164,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.222560+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.238283+00:00"
     },
     {
       "id": "rss-d7a9d7d7ff6f",
@@ -196,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.222859+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.238575+00:00"
     },
     {
       "id": "rss-875e04190e98",
@@ -228,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.223101+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.238811+00:00"
     },
     {
       "id": "rss-5f4f4c81a697",
@@ -260,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.223336+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.239044+00:00"
     },
     {
       "id": "rss-f6bf2530669f",
@@ -292,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.223568+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.239273+00:00"
     },
     {
       "id": "rss-25bc69a9cffb",
@@ -324,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.223769+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.239472+00:00"
     },
     {
       "id": "rss-a47a9ee2cb79",
@@ -356,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.224017+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.239717+00:00"
     },
     {
       "id": "rss-2e9a75318179",
@@ -388,71 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.224259+00:00"
-    },
-    {
-      "id": "rss-8ef315298dd3",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Millions on Medicaid may soon have to prove they're working to keep coverage",
-      "authors": "Medical Xpress",
-      "abstract": "The Trump administration has published new rules on who can qualify for Medicaid coverage, including requirements that many recipients work or attend school.",
-      "date": "2026-06-04",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-millions-medicaid-theyre-coverage.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "medicaid",
-        "coverage",
-        "millions",
-        "soon",
-        "have",
-        "prove",
-        "they",
-        "working"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.224447+00:00"
-    },
-    {
-      "id": "rss-d1dc9f16a110",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Neuron 'ground plans' could simplify brain and behavior research",
-      "authors": "Medical Xpress",
-      "abstract": "While E. Josie Clowney would never suggest that neuroscience is simple, a new study by her team at the University of Michigan could drastically reduce complexity in future studies. Their work focused on instinctual behaviors in fruit flies, but it has the potential to accelerate work to better understand the neurobiology that underlies behavior and decision-making in mammals, including humans.",
-      "date": "2026-06-04",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-neuron-ground-brain-behavior.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "could",
-        "behavior",
-        "that",
-        "work",
-        "neuron",
-        "ground",
-        "plans",
-        "simplify"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.224689+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.239959+00:00"
     },
     {
       "id": "rss-60d8077e841e",
@@ -484,7 +484,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.307001+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.361205+00:00"
     },
     {
       "id": "rss-a78bc1a6e91f",
@@ -516,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.307226+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.361442+00:00"
     },
     {
       "id": "rss-7e0c62bc7597",
@@ -548,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.307384+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.361603+00:00"
     },
     {
       "id": "rss-cdeee4f9ef1f",
@@ -580,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.307552+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.361753+00:00"
     },
     {
       "id": "rss-f7e42e9c123a",
@@ -612,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.307692+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.361890+00:00"
     },
     {
       "id": "rss-229ac1cfe967",
@@ -644,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.307843+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.362033+00:00"
     },
     {
       "id": "rss-a0f8e0115653",
@@ -676,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.307976+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.362163+00:00"
     },
     {
       "id": "rss-6a10b7b94cdd",
@@ -708,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.308138+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.362342+00:00"
     },
     {
       "id": "rss-14174cf7fd0f",
@@ -740,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.432505+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.427935+00:00"
     },
     {
       "id": "rss-509ced476342",
@@ -772,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.432680+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.428099+00:00"
     },
     {
       "id": "rss-b863d19e76fc",
@@ -804,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.432826+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.428272+00:00"
     },
     {
       "id": "rss-b43f350804bf",
@@ -836,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.308260+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.362465+00:00"
     },
     {
       "id": "rss-dc56a88cb515",
@@ -868,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.308387+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.362590+00:00"
     },
     {
       "id": "rss-f9c370aa7ff2",
@@ -900,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.308539+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.362725+00:00"
     },
     {
       "id": "rss-15123f0d5d9a",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.308687+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.362865+00:00"
     },
     {
       "id": "rss-ff40a8b75f70",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.308824+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.362995+00:00"
     },
     {
       "id": "rss-efbd71bb9ad9",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.308978+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.363147+00:00"
     },
     {
       "id": "rss-20fd947dca39",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.661197+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.740499+00:00"
     },
     {
       "id": "rss-c14743cff0aa",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.661404+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.740717+00:00"
     },
     {
       "id": "rss-8ef0c0e4dd40",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.661682+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.740977+00:00"
     },
     {
       "id": "rss-cd85f6f3bf65",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.662191+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.741525+00:00"
     },
     {
       "id": "rss-fe9bc1999c2c",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.432965+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.428415+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.924676+00:00"
+      "_retrievedAt": "2026-06-04T10:11:34.944464+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.125229+00:00"
+      "_retrievedAt": "2026-06-04T10:11:23.814494+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.126288+00:00"
+      "_retrievedAt": "2026-06-04T10:11:23.815554+00:00"
     },
     {
       "id": "rss-8a5e8a3301a1",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.433099+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.428548+00:00"
     },
     {
       "id": "rss-2b72b6519fb3",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.433226+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.428675+00:00"
     },
     {
       "id": "rss-9b5fb86c5fb5",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.433356+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.428805+00:00"
     },
     {
       "id": "rss-c53d4758f364",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.663063+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.742557+00:00"
     },
     {
       "id": "openalex-2a2df0665fcc",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.315108+00:00"
+      "_retrievedAt": "2026-06-04T10:11:31.886683+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.123367+00:00"
+      "_retrievedAt": "2026-06-04T10:11:23.812668+00:00"
     },
     {
       "id": "rss-5f4d5381d1ca",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.663731+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.743337+00:00"
     },
     {
       "id": "rss-072e8cd7bee1",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.433472+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.428919+00:00"
     },
     {
       "id": "rss-303d6fb74455",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.663991+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.743613+00:00"
     },
     {
       "id": "rss-118e3c38b86e",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.433651+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.429077+00:00"
     },
     {
       "id": "rss-41e8976955ef",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.433801+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.429247+00:00"
     },
     {
       "id": "rss-e1bcf8f9c317",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.664202+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.743834+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.123599+00:00"
+      "_retrievedAt": "2026-06-04T10:11:23.812889+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.122991+00:00"
+      "_retrievedAt": "2026-06-04T10:11:23.812250+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.923469+00:00"
+      "_retrievedAt": "2026-06-04T10:11:34.943316+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.433945+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.429401+00:00"
     },
     {
       "id": "rss-a4ddec72a3b1",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.664399+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.744043+00:00"
     },
     {
       "id": "rss-64416a2d9567",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.434083+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.429538+00:00"
     },
     {
       "id": "rss-eaba9e2355ac",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.664645+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.744299+00:00"
     },
     {
       "id": "rss-5cb530dacbf5",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.434225+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.429682+00:00"
     },
     {
       "id": "rss-35ddaf390b3b",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:25.434346+00:00"
+      "_retrievedAt": "2026-06-04T10:12:13.429806+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.126860+00:00"
+      "_retrievedAt": "2026-06-04T10:11:23.816113+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.312198+00:00"
+      "_retrievedAt": "2026-06-04T10:11:31.883723+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.125818+00:00"
+      "_retrievedAt": "2026-06-04T10:11:23.815066+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.124184+00:00"
+      "_retrievedAt": "2026-06-04T10:11:23.813504+00:00"
     },
     {
       "id": "openalex-4e2d85c0aade",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.127433+00:00"
+      "_retrievedAt": "2026-06-04T10:11:23.816736+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.123881+00:00"
+      "_retrievedAt": "2026-06-04T10:11:23.813189+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.314776+00:00"
+      "_retrievedAt": "2026-06-04T10:11:31.886347+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.127125+00:00"
+      "_retrievedAt": "2026-06-04T10:11:23.816418+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2208,11 +2208,11 @@ window.LIVE_FEED_DATA = {
         "Cell Image Analysis Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 23,
+      "citedBy": 24,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.124618+00:00"
+      "_retrievedAt": "2026-06-04T10:11:23.813887+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.598382+00:00"
+      "_retrievedAt": "2026-06-04T10:11:29.319793+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -2276,7 +2276,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.597450+00:00"
+      "_retrievedAt": "2026-06-04T10:11:29.318848+00:00"
+    },
+    {
+      "id": "openalex-59f3240e8b8c",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Vast, overlooked peat, and organic soils in Brazil's Cerrado: carbon storage, dynamics, and stability",
+      "authors": "Larissa Verona, Amy E. Zanne, Susan Trumbore, Paulo N. Bernardino, Guilherme M. Alencar, Thalia Andreuccetti",
+      "abstract": "Summary Tropical peatlands are critical for climate mitigation due to their dual role as major carbon sinks and methane sources. In rainforests, high and stable rainfall supports peat accumulation in tropical climates. However, groundwater‐fed peatlands in seasonally dry tropical ecosystems remain poorly understood, despite their potential importance in global carbon dynamics. Here, we present an integrated carbon assessment in organic soil ecosystems (locally known as Veredas and Campos úmidos) in the Brazilian savanna. We quantified carbon in soil and biomass, dated carbon using radiocarbon, and evaluated chemical stability using infrared spectrometry. We used machine learning models to map their potential area. Additionally, we measured soil CO 2 and CH 4 efluxes to evaluate the influence of climatic seasonality on emissions. Veredas contained exceptionally high carbon stocks ( c....",
+      "date": "2026-03-12",
+      "year": 2026,
+      "journal": "New Phytologist",
+      "source": "New Phytologist",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1111/nph.71027",
+      "doi": "10.1111/nph.71027",
+      "pdfUrl": "https://doi.org/10.1111/nph.71027",
+      "keywords": [
+        "Peat",
+        "Environmental science",
+        "Ecosystem",
+        "Soil carbon",
+        "Carbon fibers",
+        "Peatlands and Wetlands Ecology",
+        "Fire effects on ecosystems",
+        "Coastal wetland ecosystem dynamics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-04T10:11:34.945100+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2308,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.924280+00:00"
+      "_retrievedAt": "2026-06-04T10:11:34.944075+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2340,39 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.312588+00:00"
-    },
-    {
-      "id": "openalex-b2aeaeab5ec0",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "A Comprehensive Review of Machine Learning and Deep Learning Methods for Flood Inundation Mapping",
-      "authors": "Abinash SİLWAL, Anil Subedi, Rajee Tamrakar, Kshitij Dahal, Dewasis Dahal, Kenneth Okechukwu Ekpetere",
-      "abstract": "Flood inundation mapping (FIM) is essential in disaster risk management, infrastructure planning, and climate adaptation. Traditional hydrodynamic models, such as the Hydrologic Engineering Center’s River Analysis System (HEC-RAS) and LISFLOOD-Floodplain (LISFLOOD-FP), provide physically interpretable flood simulations but are often data- and computation-intensive and difficult to scale across regions. In recent years, machine learning (ML) and deep learning (DL) approaches have emerged as data-driven alternatives that leverage remote sensing observations, digital elevation models (DEMs), and hydro-climatic datasets to enable scalable and near-real-time flood mapping. Our review synthesizes recent advances in ML-based flood inundation mapping, categorizing methods into traditional machine learning techniques (e.g., Random Forest (RF), Support Vector Machines (SVM), Gradient Boosting (...",
-      "date": "2026-03-09",
-      "year": 2026,
-      "journal": "Earth",
-      "source": "Earth",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/earth7020044",
-      "doi": "10.3390/earth7020044",
-      "pdfUrl": "https://www.mdpi.com/2673-4834/7/2/44/pdf?version=1773048494",
-      "keywords": [
-        "Artificial intelligence",
-        "Machine learning",
-        "Deep learning",
-        "Flood myth",
-        "Computer science",
-        "Flood Risk Assessment and Management",
-        "Tropical and Extratropical Cyclones Research",
-        "Hydrological Forecasting Using AI"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.927539+00:00"
+      "_retrievedAt": "2026-06-04T10:11:31.884110+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.126546+00:00"
+      "_retrievedAt": "2026-06-04T10:11:23.815798+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2436,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.312904+00:00"
+      "_retrievedAt": "2026-06-04T10:11:31.884453+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -2468,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.926181+00:00"
+      "_retrievedAt": "2026-06-04T10:11:34.946770+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -2500,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.316173+00:00"
+      "_retrievedAt": "2026-06-04T10:11:31.887766+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -2532,7 +2532,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.925294+00:00"
+      "_retrievedAt": "2026-06-04T10:11:34.945428+00:00"
+    },
+    {
+      "id": "openalex-3455b31b2a62",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Principles for ethical research in the Himalayas: Decolonising research ethics across the disciplines",
+      "authors": "Ishfaq Hussain Malik",
+      "abstract": "Research in the Himalayan region has long been shaped by uneven power relations, driven by extractive academic practices, global conservation agendas, and development interventions. Although often unintentional, these approaches have tended to prioritise data collection over reciprocal relationships, producing knowledge that benefits external actors while silencing or marginalising local perspectives and communities. In this paper, I propose a framework for ethical research that centres the agency, knowledge systems, and material realities of Himalayan communities and ecologies. Drawing from community-based and decolonial methodologies, this framework identifies six ethical principles designed to guide researchers in establishing collaborative, respectful, and non-extractive relationships with local peoples and ecologies. These principles include: (1) community collaboration from the...",
+      "date": "2026-03-04",
+      "year": 2026,
+      "journal": "Humanities and Social Sciences Communications",
+      "source": "Humanities and Social Sciences Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1057/s41599-026-06826-8",
+      "doi": "10.1057/s41599-026-06826-8",
+      "pdfUrl": "https://www.nature.com/articles/s41599-026-06826-8_reference.pdf",
+      "keywords": [
+        "Situated",
+        "Sociology",
+        "Engineering ethics",
+        "Power (physics)",
+        "Software deployment",
+        "Mining and Resource Management",
+        "Environmental and Cultural Studies in Latin America and Beyond",
+        "Indigenous Studies and Ecology"
+      ],
+      "readTime": "1 min",
+      "citedBy": 2,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-04T10:11:34.947424+00:00"
     },
     {
       "id": "openalex-37facdeb2617",
@@ -2564,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.315447+00:00"
+      "_retrievedAt": "2026-06-04T10:11:31.887030+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -2596,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.595271+00:00"
+      "_retrievedAt": "2026-06-04T10:11:29.316708+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -2628,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.595932+00:00"
+      "_retrievedAt": "2026-06-04T10:11:29.317347+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2660,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.125567+00:00"
+      "_retrievedAt": "2026-06-04T10:11:23.814819+00:00"
     },
     {
       "id": "openalex-dd24a0099868",
@@ -2692,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.127821+00:00"
+      "_retrievedAt": "2026-06-04T10:11:23.817111+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -2724,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.594985+00:00"
+      "_retrievedAt": "2026-06-04T10:11:29.316435+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2756,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.595579+00:00"
+      "_retrievedAt": "2026-06-04T10:11:29.316988+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2788,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.924967+00:00"
+      "_retrievedAt": "2026-06-04T10:11:34.944752+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2820,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.922404+00:00"
+      "_retrievedAt": "2026-06-04T10:11:34.942250+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2852,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.922756+00:00"
+      "_retrievedAt": "2026-06-04T10:11:34.942589+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2884,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.923927+00:00"
+      "_retrievedAt": "2026-06-04T10:11:34.943734+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -2916,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.593958+00:00"
+      "_retrievedAt": "2026-06-04T10:11:29.315398+00:00"
     },
     {
       "id": "openalex-88008efb5422",
@@ -2948,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.597808+00:00"
+      "_retrievedAt": "2026-06-04T10:11:29.319214+00:00"
     },
     {
       "id": "openalex-6d7865beed8a",
@@ -2980,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.313508+00:00"
+      "_retrievedAt": "2026-06-04T10:11:31.885059+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -3012,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.594359+00:00"
+      "_retrievedAt": "2026-06-04T10:11:29.315805+00:00"
     },
     {
       "id": "openalex-3dfdd7ceaceb",
@@ -3044,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.596814+00:00"
+      "_retrievedAt": "2026-06-04T10:11:29.318204+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -3076,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.314157+00:00"
+      "_retrievedAt": "2026-06-04T10:11:31.885737+00:00"
     },
     {
       "id": "openalex-674f00ab3d07",
@@ -3108,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.317145+00:00"
+      "_retrievedAt": "2026-06-04T10:11:31.888765+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -3140,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.593642+00:00"
+      "_retrievedAt": "2026-06-04T10:11:29.315061+00:00"
     },
     {
       "id": "openalex-18b220cd1ad9",
@@ -3172,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.925953+00:00"
+      "_retrievedAt": "2026-06-04T10:11:34.946542+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -3204,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.124931+00:00"
+      "_retrievedAt": "2026-06-04T10:11:23.814193+00:00"
     },
     {
       "id": "openalex-6a51321a829e",
@@ -3236,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.597110+00:00"
+      "_retrievedAt": "2026-06-04T10:11:29.318501+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -3268,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.925646+00:00"
+      "_retrievedAt": "2026-06-04T10:11:34.946234+00:00"
     },
     {
       "id": "openalex-da72c8fa26ec",
@@ -3300,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.314472+00:00"
+      "_retrievedAt": "2026-06-04T10:11:31.886046+00:00"
     },
     {
       "id": "openalex-eca0614819ca",
@@ -3332,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.926456+00:00"
+      "_retrievedAt": "2026-06-04T10:11:34.947058+00:00"
     },
     {
       "id": "openalex-9c7e2173bb4d",
@@ -3364,39 +3396,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.316821+00:00"
+      "_retrievedAt": "2026-06-04T10:11:31.888435+00:00"
     },
     {
-      "id": "openalex-96ee8d992cf1",
+      "id": "openalex-3462112d7df3",
       "discipline": "geo",
       "type": "paper",
-      "title": "Consensus land-cover mapping improves grassland classification in European mountain landscapes",
-      "authors": "Šimon Opravil, Matthias Baumann, Tomáš Goga, Hamid Afzali, Tobias Kuemmerle, Róbert Pazúr",
-      "abstract": "Accurate land-cover information is essential for biodiversity monitoring, yet existing 10-m global and continental land-cover datasets vary in accuracy and thematic consistency, particularly for grasslands in complex mountain environments. We assessed six state-of-the-art land-cover products (Dynamic World, ESA WorldCover, Esri Land Cover, Corine Land Cover+ Backbone, ELC10, S2GLC) across the Alps and Carpathians and developed three consensus maps using weighted voting, accuracy-confusion weighting, and an accuracy-weighted Random Forest ensemble. All datasets were validated against an independent set of expert-interpreted reference samples. Individual products showed large discrepancies in grassland extent, elevation distribution, and landscape structure. Global datasets (Dynamic World, Esri Land Cover) underestimated grassland extent, whereas ESA WorldCover and Corine Land Cover+ re...",
-      "date": "2026-02-10",
+      "title": "Phytoplankton blooms affect microscale differences of oxygen and temperature across the sea surface microlayer",
+      "authors": "Carsten Rauch, Lisa Deyle, Leonie Jaeger, Edgar Fernando Cortés-Espinoza, Mariana Ribas‐Ribas, Josefine Karnatz",
+      "abstract": "Abstract. The sea surface microlayer (SML) is the thin layer on top of the ocean that is in direct contact with the atmosphere and is crucial for air–sea interactions. Its properties are influenced in particular by surface-active substances (surfactants), mainly produced by phytoplankton and bacteria. Thus, phytoplankton blooms and their decay can have a considerable influence on the SML. A mesocosm study was conducted to assess the impact of a phytoplankton bloom on the SML using a multidisciplinary approach, which enabled in situ measurements under controlled yet natural conditions. A phytoplankton bloom was induced within a mesocosm facility filled with seawater, resulting in three phases of the study: the pre-bloom, bloom, and post-bloom phases. During all phases, microsensors measured in situ microprofiles of oxygen and temperature with a 125 µm vertical resolution through the ai...",
+      "date": "2026-02-09",
       "year": 2026,
-      "journal": "Scientific Reports",
-      "source": "Scientific Reports",
+      "journal": "Ocean science",
+      "source": "Ocean science",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41598-026-39197-w",
-      "doi": "10.1038/s41598-026-39197-w",
-      "pdfUrl": "https://doi.org/10.1038/s41598-026-39197-w",
+      "url": "https://doi.org/10.5194/os-22-403-2026",
+      "doi": "10.5194/os-22-403-2026",
+      "pdfUrl": "https://os.copernicus.org/articles/22/403/2026/os-22-403-2026.pdf",
       "keywords": [
-        "Grassland",
-        "Thematic map",
-        "Elevation (ballistics)",
-        "Random forest",
-        "Land use",
-        "Remote Sensing in Agriculture",
-        "Land Use and Ecosystem Services",
-        "Species Distribution and Climate Change"
+        "Phytoplankton",
+        "Mesocosm",
+        "Environmental science",
+        "Microscale chemistry",
+        "Oxygen",
+        "Marine and coastal ecosystems",
+        "Oceanographic and Atmospheric Processes",
+        "Ocean Acidification Effects and Responses"
       ],
       "readTime": "1 min",
-      "citedBy": 2,
+      "citedBy": 3,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.926814+00:00"
+      "_retrievedAt": "2026-06-04T10:11:34.945881+00:00"
     },
     {
       "id": "openalex-92ed2627113b",
@@ -3428,39 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.596247+00:00"
-    },
-    {
-      "id": "openalex-b6dcc2aa867b",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Systematic Benchmarking of Climate Models: Methodologies, Applications, and New Directions",
-      "authors": "Birgit Haßler, Forrest M. Hoffman, Rebecca L. Beadling, Ed Blockley, Bo Huang, Jiwoo Lee",
-      "abstract": "Abstract As climate models become increasingly complex, there is a growing need to comprehensively and systematically assess model performance with respect to observations. Given the increasing number and diversity of climate model simulations in use, the community has moved beyond simple model intercomparison and toward developing methods capable of benchmarking a large number of simulations against a suite of climate metrics. Here, we present a detailed review of evaluation and benchmarking methods and approaches developed in the last decade, focusing primarily on scientific implications for Coupled Model Intercomparison Project (CMIP) simulations and CMIP6 results that contributed to the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report (AR6). Based on this review, we explain the resulting contemporary philosophy of model benchmarking, and provide clear disti...",
-      "date": "2026-02-08",
-      "year": 2026,
-      "journal": "Reviews of Geophysics",
-      "source": "Reviews of Geophysics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1029/2025rg000891",
-      "doi": "10.1029/2025rg000891",
-      "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025RG000891",
-      "keywords": [
-        "Benchmarking",
-        "Benchmark (surveying)",
-        "Climate model",
-        "Computer science",
-        "Downscaling",
-        "Climate variability and models",
-        "Climate change impacts on agriculture",
-        "Water-Energy-Food Nexus Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.927166+00:00"
+      "_retrievedAt": "2026-06-04T10:11:29.317656+00:00"
     },
     {
       "id": "openalex-a8a8256c17bf",
@@ -3492,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.596550+00:00"
+      "_retrievedAt": "2026-06-04T10:11:29.317931+00:00"
     },
     {
       "id": "openalex-3dbf4d4bb3cc",
@@ -3524,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.594664+00:00"
+      "_retrievedAt": "2026-06-04T10:11:29.316100+00:00"
     },
     {
       "id": "openalex-3f5d2d2af688",
@@ -3556,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:15.598040+00:00"
+      "_retrievedAt": "2026-06-04T10:11:29.319449+00:00"
     },
     {
       "id": "openalex-f81ec354d502",
@@ -3588,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.313192+00:00"
+      "_retrievedAt": "2026-06-04T10:11:31.884745+00:00"
     },
     {
       "id": "openalex-fcdb8afa9581",
@@ -3620,7 +3620,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.313802+00:00"
+      "_retrievedAt": "2026-06-04T10:11:31.885374+00:00"
     },
     {
       "id": "openalex-1601a6f85f1a",
@@ -3652,7 +3652,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-04T05:03:16.316505+00:00"
+      "_retrievedAt": "2026-06-04T10:11:31.888075+00:00"
     }
   ]
 };
