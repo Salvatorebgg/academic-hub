@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:31:57.703296+00:00",
+  "generatedAt": "2026-06-09T04:22:12.321438+00:00",
   "total": 112,
   "sources": [
     "RSS",
@@ -7,284 +7,540 @@
   ],
   "papers": [
     {
-      "id": "rss-cdefa575f919",
+      "id": "rss-c9be6d272be1",
       "discipline": "clinical",
       "type": "news",
-      "title": "New GLP-1 oral pill lowers blood sugar and reduces bodyweight, clinical trial finds",
+      "title": "Q&A: When is screen time healthy and when is it not?",
       "authors": "Medical Xpress",
-      "abstract": "Oral GLP-1 medications have the potential to increase access to therapies that can help lower blood sugar and reduce bodyweight. At the American Diabetes Association's Scientific Session, Mass General Brigham physician investigator Vanita Aroda, MD, presented findings from SOLSTICE, a Phase IIb randomized, placebo-controlled clinical trial that tested the oral GLP-1 RA known as elecoglipron.",
-      "date": "2026-06-08",
+      "abstract": "Smartphones have been connected to a host of modern problems including loneliness, decreased physical activity, sleep problems and all the mental and physical health issues associated with those conditions.",
+      "date": "2026-06-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-glp-oral-pill-lowers-blood.html",
+      "url": "https://medicalxpress.com/news/2026-06-qa-screen-healthy.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "glp-",
-        "oral",
-        "blood",
-        "sugar",
-        "bodyweight",
-        "clinical",
-        "trial",
-        "that"
+        "when",
+        "problems",
+        "physical",
+        "screen",
+        "time",
+        "healthy",
+        "smartphones",
+        "have"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.864361+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.230323+00:00"
     },
     {
-      "id": "rss-a96c924debc6",
+      "id": "rss-4fe58ff116c5",
       "discipline": "clinical",
       "type": "news",
-      "title": "Resistance training appears to restore physical strength, immune health in frail or at-risk cancer survivors",
+      "title": "Online therapy cuts insomnia and anxiety in adults 65 and older, trial suggests",
       "authors": "Medical Xpress",
-      "abstract": "Cancer survivors significantly improved their strength and immune health after completing a 10-week resistance training program as part of a pilot study led by Shernan Holtan, MD, Chief of Blood and Marrow Transplantation at Roswell Park Comprehensive Cancer Center. Published in the journal Cancers, the study results suggest that this type of exercise has the potential to overcome some of the effects of chemotherapy and radiation treatments, which can cause rapid aging of both the immune and musculoskeletal systems.",
-      "date": "2026-06-08",
+      "abstract": "Cognitive behavioral therapies for insomnia (CBT-I) are increasingly being delivered online to improve accessibility. However, although insomnia and anxiety frequently occur together in older adults, few interventions address both conditions simultaneously. A new digital platform developed by researchers at the Centre de recherche de l'Institut universitaire de gériatrie de Montréal (CRIUGM), in collaboration with Concordia University, Université Laval and the Université de Montréal, aims to fill that gap.",
+      "date": "2026-06-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-resistance-physical-strength-immune-health.html",
+      "url": "https://medicalxpress.com/news/2026-06-online-therapy-insomnia-anxiety-adults.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "immune",
+        "insomnia",
+        "online",
+        "anxiety",
+        "adults",
+        "older",
+        "montr",
+        "universit",
+        "therapy"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T04:22:11.230645+00:00"
+    },
+    {
+      "id": "rss-54c695eb25fe",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "ADHD 'masking' may help people blend in but harms mental health, say researchers",
+      "authors": "Medical Xpress",
+      "abstract": "It can be incredibly difficult for adults with ADHD to fit in socially. But trying to hide the telltale signs of ADHD could cost their mental health and well-being, a study says. Adults with ADHD might better fit in if they pretend to pay attention, suppress their urge to fidget, rehearse conversations or over-prepare for meetings, researchers said.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-adhd-masking-people-blend-mental.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "adhd",
+        "mental",
+        "health",
+        "researchers",
+        "adults",
+        "their",
+        "masking",
+        "help"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T04:22:11.230910+00:00"
+    },
+    {
+      "id": "rss-4c78961605f4",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Q&A: A physician discusses reducing stroke risk",
+      "authors": "Medical Xpress",
+      "abstract": "Last year, one of Rebecca DiBiase Blumenreich's patients had a hemorrhagic stroke. A life-threatening emergency, this type of stroke happens when a blood vessel in the brain ruptures and bleeds. For the patient, the course of treatment following the stroke was complicated; Blumenreich was with her every step of the way.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-qa-physician-discusses.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "stroke",
+        "blumenreich",
+        "physician",
+        "discusses",
+        "reducing",
+        "risk",
+        "last",
+        "year"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T04:22:11.231147+00:00"
+    },
+    {
+      "id": "rss-1ddb7a3f3650",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Online portal keeps cancer trial participants engaged and open to future studies",
+      "authors": "Medical Xpress",
+      "abstract": "In a step forward for patient-centered cancer research, a new pilot project reveals that 84% of participants had a positive experience using a newly developed online tool created by the Alliance for Clinical Trials in Oncology called the Participant Engagement Portal (PEP). Alliance created PEP to foster direct connection between cancer researchers and the individuals who volunteer for clinical studies. The goal was to make it easier for patients and clinicians to share information, deliver trial updates and self-report on social risk factors. The results of this national project are published in JNCI Cancer Spectrum.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-online-portal-cancer-trial-engaged.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
         "cancer",
-        "resistance",
-        "training",
-        "strength",
-        "health",
-        "survivors",
-        "appears"
+        "online",
+        "portal",
+        "trial",
+        "participants",
+        "studies",
+        "project",
+        "created"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.864685+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.231430+00:00"
     },
     {
-      "id": "rss-1db57651a255",
+      "id": "rss-72893b6456ac",
       "discipline": "clinical",
       "type": "news",
-      "title": "Study finds folic acid access gaps may increase birth defects risks",
+      "title": "Upcoming billing change could make pregnancy pricier",
       "authors": "Medical Xpress",
-      "abstract": "Access to health care and insurance coverage strongly influence whether women take recommended amounts of folic acid to help prevent serious birth defects, according to University of California, Irvine researchers using the National Institutes of Health's All of Us Research Program data.",
-      "date": "2026-06-08",
+      "abstract": "Having a baby in the United States is about to get more complicated. Under new billing codes that take effect in January, doctors who manage maternity care will start charging à la carte for visits and services related to pregnancy, childbirth and postpartum care. It's an about-face from recent years, when doctors have often received a single \"bundled\" payment for maternity care they provided.",
+      "date": "2026-06-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-folic-acid-access-gaps-birth.html",
+      "url": "https://medicalxpress.com/news/2026-06-upcoming-billing-pregnancy-pricier.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "folic",
-        "acid",
-        "access",
-        "birth",
-        "defects",
-        "health",
+        "care",
+        "billing",
+        "pregnancy",
+        "doctors",
+        "maternity",
+        "upcoming",
+        "change",
+        "could"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T04:22:11.231687+00:00"
+    },
+    {
+      "id": "rss-7a3e0c5c3e70",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Children's well-being plummets across 29 states, report finds",
+      "authors": "Medical Xpress",
+      "abstract": "The kids are not all right, at least in the United States, according to a new report showing a nosedive in children's well-being from 2019 to 2024. In 29 states, the overall U.S. score fell from 553 to 547 on a 1,000-point scale, a decline that surpasses pre-pandemic numbers, the report found.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-children-plummets-states.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "states",
+        "report",
+        "children",
+        "well-being",
+        "plummets",
+        "across",
         "finds",
-        "gaps"
+        "kids"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.864938+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.231939+00:00"
     },
     {
-      "id": "rss-d18ecc3801ee",
+      "id": "rss-e090579dba3d",
       "discipline": "clinical",
       "type": "news",
-      "title": "New drug could slow the development of Alzheimer's",
+      "title": "New WHO estimates to help countries make food safer",
       "authors": "Medical Xpress",
-      "abstract": "\"Compound 10\" is how Ursula Quitterer refers to the chemical compound that her team has developed and that could slow the progression of Alzheimer's disease. Quitterer is a professor of molecular pharmacology at ETH Zurich and has so far tested the active ingredient first in mice, revealing promising effects: The typical death of nerve cells seen in dementia is significantly slower, and the animals survive longer.",
-      "date": "2026-06-08",
+      "abstract": "\"From burden to solutions—safe food everywhere.\" This is the message of World Food Safety Day 2026, where the World Health Organization (WHO) and the Food and Agriculture Organization of the United Nations (FAO) are focusing on how new knowledge about illness, lost lives and societal consequences can be translated into practical solutions.",
+      "date": "2026-06-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-drug-alzheimer.html",
+      "url": "https://medicalxpress.com/news/2026-06-countries-food-safer.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "could",
-        "slow",
-        "alzheimer",
-        "compound",
-        "quitterer",
-        "that",
-        "drug",
-        "development"
+        "food",
+        "solutions",
+        "world",
+        "organization",
+        "estimates",
+        "help",
+        "countries",
+        "make"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.865201+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.232198+00:00"
     },
     {
-      "id": "rss-696c1d328952",
+      "id": "rss-8f0caf1d7676",
       "discipline": "clinical",
       "type": "news",
-      "title": "Ebola: Vaccines alone won't stop an outbreak—here's what else is needed",
+      "title": "Nudges in the emergency department increase prescriptions of drinking medication",
       "authors": "Medical Xpress",
-      "abstract": "Tensions have recently emerged around the Ebola response in eastern Democratic Republic of the Congo (DRC). These tensions have manifested in a series of incidents, including the burning of an Ebola treatment facility in Mongbwalu, confrontations involving families seeking to reclaim the bodies of relatives who had died from the disease, and reports of police firing warning shots.",
-      "date": "2026-06-08",
+      "abstract": "A \"nudging\" strategy in the emergency department (ED) may be a path for prescribing a medication that can blunt cravings for alcohol—and dull its effects—offering an effective treatment for people with alcohol use disorder (AUD) who might not otherwise receive it.",
+      "date": "2026-06-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-ebola-vaccines-wont-outbreak.html",
+      "url": "https://medicalxpress.com/news/2026-06-nudges-emergency-department-prescriptions-medication.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "emergency",
+        "department",
+        "medication",
+        "alcohol",
+        "nudges",
+        "increase",
+        "prescriptions",
+        "drinking"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T04:22:11.232419+00:00"
+    },
+    {
+      "id": "rss-17462f1b11a6",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Nanoparticles target psoriasis genes, aiming to treat 190 million people worldwide",
+      "authors": "Medical Xpress",
+      "abstract": "A technological platform developed by Brazilian researchers could revolutionize the treatment of skin diseases such as psoriasis and vitiligo. The group, affiliated with the NanoGeneSkin laboratory at the University of São Paulo (USP) in Ribeirão Preto, is developing nanoparticles capable of delivering therapeutic RNA molecules directly to skin cells. These nanoparticles can precisely silence the genes responsible for chronic inflammation at the molecular level.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-nanoparticles-psoriasis-genes-aiming-million.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nanoparticles",
+        "psoriasis",
+        "genes",
+        "skin",
+        "target",
+        "aiming",
+        "treat",
+        "million"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T04:22:11.232668+00:00"
+    },
+    {
+      "id": "rss-71db6d589bcc",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "World Cup creates perfect conditions for infectious diseases to spread—here are the biggest threats",
+      "authors": "Medical Xpress",
+      "abstract": "When the 2026 FIFA World Cup begins on June 11, 2026, matches will be played across 16 cities in the United States, Canada and Mexico. Millions of fans will arrive through multiple airports and will pack into stadiums, airports, hotels, bars and public transit systems over five weeks.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-world-cup-conditions-infectious-diseases.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "will",
+        "world",
+        "airports",
+        "creates",
+        "perfect",
+        "conditions",
+        "infectious",
+        "diseases"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T04:22:11.232906+00:00"
+    },
+    {
+      "id": "rss-b8f7959fb4f3",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Patient safety incidents leave lasting scars on physicians, interviews reveal",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers have studied the emotional and professional impact of patient safety incidents on physicians, as well as the crucial support mechanisms that can help them move on from these events.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-patient-safety-incidents-scars-physicians.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "patient",
+        "safety",
+        "incidents",
+        "physicians",
+        "leave",
+        "lasting",
+        "scars",
+        "interviews"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T04:22:11.233099+00:00"
+    },
+    {
+      "id": "rss-d3ae1f68162e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "The hunt for a new Ebola vaccine: Two scientists explain the challenges",
+      "authors": "Medical Xpress",
+      "abstract": "The ongoing Ebola virus outbreak in the Democratic Republic of Congo (DRC) and Uganda has now killed 61 people, with 359 confirmed cases. The Bundibugyo strain of the virus has a fatality rate of between 30% and 50%, and there is currently no vaccine approved for it. Two scientists at the University of Oxford, Teresa Lambe and Rebecca Makinson, are part of the group who are working to develop one. In early June, Oxford was one of three organizations to receive funding from the Coalition for Epidemic Preparedness Innovations for this work. They spoke to The Conversation Weekly podcast about what it takes to make an Ebola vaccine. This is an edited version of that conversation.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-ebola-vaccine-scientists.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "ebola",
-        "tensions",
-        "have",
-        "vaccines",
-        "alone",
-        "stop",
-        "outbreak",
-        "here"
+        "vaccine",
+        "scientists",
+        "virus",
+        "oxford",
+        "this",
+        "conversation",
+        "hunt"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.865532+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.233372+00:00"
     },
     {
-      "id": "rss-9cc483250a79",
+      "id": "rss-e601a49df672",
       "discipline": "clinical",
       "type": "news",
-      "title": "Hidden kidney effects emerge in LRBA deficiency, with polyuria in some patients",
+      "title": "South and Southeast Asia lead the world on taxing sugary drinks, analysis reveals",
       "authors": "Medical Xpress",
-      "abstract": "LRBA deficiency has long been viewed primarily as an immune disorder, but researchers at Science Tokyo have found that the condition may also impair urinary concentrating ability. Using patient registry data from 43 individuals, mouse models and protein analysis, the study found that LRBA deficiency can cause excessive urination and electrolyte abnormalities, highlighting the need for closer fluid and sodium monitoring in affected patients.",
-      "date": "2026-06-08",
+      "abstract": "One of the challenges public health officials face in reducing diet-related disease is the relatively easy and inexpensive access to sugar-sweetened beverages globally. To help address this burden, public health organizations like the World Health Organization and American Heart Association have recommended that governments tax sugar-sweetened beverages.",
+      "date": "2026-06-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-hidden-kidney-effects-emerge-lrba.html",
+      "url": "https://medicalxpress.com/news/2026-06-south-southeast-asia-world-taxing.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "lrba",
-        "deficiency",
-        "patients",
-        "found",
-        "that",
-        "hidden",
-        "kidney",
-        "effects"
+        "health",
+        "world",
+        "public",
+        "sugar-sweetened",
+        "beverages",
+        "south",
+        "southeast",
+        "asia"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.865805+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.233583+00:00"
     },
     {
-      "id": "rss-3631cabd5170",
-      "discipline": "clinical",
+      "id": "rss-66fdd20f1162",
+      "discipline": "cs",
       "type": "news",
-      "title": "Egg allergy rates declining in Australia",
-      "authors": "Medical Xpress",
-      "abstract": "Australian guidelines recommending eggs be introduced into a child's diet in the first year of life have seen the number of children with egg allergy drop by 17%, researchers have found.",
-      "date": "2026-06-08",
+      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+      "authors": "TechCrunch AI",
+      "abstract": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "date": "2026-06-09",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-egg-allergy-declining-australia.html",
+      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "allergy",
-        "have",
-        "rates",
-        "declining",
-        "australia",
-        "australian",
-        "guidelines",
-        "recommending"
+        "apple",
+        "slow-and-steady",
+        "starting",
+        "look",
+        "pretty",
+        "smart",
+        "glow",
+        "accusations"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.866024+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.353206+00:00"
     },
     {
-      "id": "rss-3b8bb197b229",
-      "discipline": "clinical",
+      "id": "rss-732580fb1b40",
+      "discipline": "cs",
       "type": "news",
-      "title": "Shiga-producing E. coli infections becoming more resistant to antibiotics, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "Resistance to antimicrobial agents is rising among human infections with Escherichia coli bacteria that produce the Shiga toxin, according to a study analyzing data from nearly 2,000 infections in the United States between 2010 and 2021.",
-      "date": "2026-06-08",
+      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+      "authors": "TechCrunch AI",
+      "abstract": "Sequoia is just one of the top firms that sells same equity at two different prices.",
+      "date": "2026-06-09",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-shiga-coli-infections-resistant-antibiotics.html",
+      "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "infections",
-        "coli",
-        "shiga-producing",
-        "becoming",
-        "more",
-        "resistant",
-        "antibiotics",
-        "finds"
+        "sequoia",
+        "mercor",
+        "brendan",
+        "foody",
+        "calls",
+        "accusing",
+        "dual-pricing",
+        "valuation"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.866286+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.353414+00:00"
     },
     {
-      "id": "rss-3daa385bd252",
-      "discipline": "clinical",
+      "id": "rss-0f757d186b5b",
+      "discipline": "cs",
       "type": "news",
-      "title": "Women with sleep apnea report greater symptom burden than men",
-      "authors": "Medical Xpress",
-      "abstract": "A new study to be presented at the SLEEP 2026 annual meeting found that women with moderate-to-severe obstructive sleep apnea reported a greater overall symptom burden than men, even though their objective measures of sleep apnea severity were similar.",
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "authors": "TechCrunch AI",
+      "abstract": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
       "date": "2026-06-08",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-women-apnea-greater-symptom-burden.html",
+      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "sleep",
-        "apnea",
-        "women",
-        "greater",
-        "symptom",
-        "burden",
-        "than",
+        "altman",
+        "company",
+        "openai",
+        "files",
+        "eye-scanning",
+        "doing",
+        "layoffs",
         "report"
       ],
       "readTime": "1 min",
@@ -292,167 +548,135 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.866527+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.353574+00:00"
     },
     {
-      "id": "rss-20f64f1db548",
-      "discipline": "clinical",
+      "id": "rss-de62a0b7825b",
+      "discipline": "cs",
       "type": "news",
-      "title": "New Huntington target may open simpler drug path to slow brain damage",
-      "authors": "Medical Xpress",
-      "abstract": "Huntington disease is a rare, inherited brain disorder that progressively destroys nerve cells, leading to worsening movement, cognitive and psychiatric symptoms. Caused by a mutation in the huntingtin gene, the fatal disease affects coordination, memory, mood and the ability to think clearly.",
+      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "authors": "TechCrunch AI",
+      "abstract": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
       "date": "2026-06-08",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-huntington-simpler-drug-path-brain.html",
+      "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "huntington",
-        "brain",
-        "disease",
-        "target",
-        "open",
-        "simpler",
-        "drug",
-        "path"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.866770+00:00"
-    },
-    {
-      "id": "rss-8eee8f85c14c",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Veterans with both insomnia and sleep apnea have elevated risk of developing type 2 diabetes",
-      "authors": "Medical Xpress",
-      "abstract": "A new study to be presented at the SLEEP 2026 annual meeting found that U.S. military veterans with both insomnia and obstructive sleep apnea face a markedly elevated risk of developing type 2 diabetes, substantially exceeding the risk associated with either sleep disorder alone.",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-veterans-insomnia-apnea-elevated-diabetes.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "sleep",
-        "risk",
-        "veterans",
-        "both",
-        "insomnia",
-        "apnea",
-        "elevated",
-        "developing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.867008+00:00"
-    },
-    {
-      "id": "rss-2b78d9400788",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Congestion relief zone results after year one suggest notable road safety benefits",
-      "authors": "Medical Xpress",
-      "abstract": "Early trends have pointed to reductions in traffic congestion, travel times, and air pollution within the Congestion Relief Zone (CRZ), the initiative launched by New York City in 2025. Traffic crashes also declined significantly after tolling began, according to a new study by Columbia University Mailman School of Public Health, in partnership with the Yale School of Public Health. However, the program's impact on injurious and fatal crashes is less clear. The findings are published in the American Journal of Epidemiology.",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-congestion-relief-zone-results-year.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "congestion",
-        "relief",
-        "zone",
+        "apple",
+        "wwdc",
+        "demos",
+        "looked",
+        "more",
+        "real",
         "after",
-        "traffic",
-        "crashes",
-        "school",
-        "public"
+        "false"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.867310+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.353736+00:00"
     },
     {
-      "id": "rss-125733dd7cad",
-      "discipline": "clinical",
+      "id": "rss-784d90e9d871",
+      "discipline": "cs",
       "type": "news",
-      "title": "AI could revolutionize concussion care in sport—but risks remain",
-      "authors": "Medical Xpress",
-      "abstract": "Artificial intelligence (AI) is rapidly reshaping medicine, from diagnosing disease to accelerating drug discovery. Its influence is also reaching the world of sport.",
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "authors": "TechCrunch AI",
+      "abstract": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
       "date": "2026-06-08",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-ai-revolutionize-concussion-sport.html",
+      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "sport",
-        "could",
-        "revolutionize",
-        "concussion",
-        "care",
-        "risks",
-        "remain",
-        "artificial"
+        "anthropic",
+        "openai",
+        "files",
+        "confidentially",
+        "following",
+        "filing",
+        "comes",
+        "little"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.867541+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.353901+00:00"
     },
     {
-      "id": "rss-86b3219acf3f",
-      "discipline": "clinical",
+      "id": "rss-c59be27cb8f0",
+      "discipline": "cs",
       "type": "news",
-      "title": "New clinical AI learns when to be confident and when to hold back",
-      "authors": "Medical Xpress",
-      "abstract": "Combining clinical expertise and experience with the vast and ever-increasing knowledge of artificial intelligence has the potential to transform health care by providing earlier diagnoses and predicting outcomes. However, today's AI has inherent risks of error or overconfidence in a prediction.",
+      "title": "Apple plays catch-up at WWDC",
+      "authors": "TechCrunch AI",
+      "abstract": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
       "date": "2026-06-08",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-clinical-ai-confident.html",
+      "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "clinical",
-        "when",
-        "learns",
-        "confident",
-        "hold",
-        "back",
-        "combining",
-        "expertise"
+        "apple",
+        "wwdc",
+        "plays",
+        "catch-up",
+        "spent",
+        "much",
+        "keynote",
+        "highlighting"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.867776+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.354060+00:00"
+    },
+    {
+      "id": "rss-b64a8568d1ec",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Apple bets cheaper AI will woo small developers",
+      "authors": "TechCrunch AI",
+      "abstract": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+      "date": "2026-06-08",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "apple",
+        "developers",
+        "bets",
+        "cheaper",
+        "will",
+        "small",
+        "experimentation",
+        "grows"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T04:22:11.354191+00:00"
     },
     {
       "id": "rss-31880ac2cba3",
@@ -460,7 +684,7 @@
       "type": "news",
       "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
       "authors": "TechCrunch AI",
-      "abstract": "Apple’s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer events and demos. This year’s event is particularly notable for a couple things. It marks CEO Tim Cook’s last with the company, […]",
+      "abstract": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
       "date": "2026-06-08",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -470,21 +694,21 @@
       "doi": "",
       "pdfUrl": "",
       "keywords": [
+        "siri",
         "apple",
         "wwdc",
-        "siri",
+        "everything",
+        "announced",
         "intelligence",
         "more",
-        "event",
-        "this",
-        "everything"
+        "primarily"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.910482+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.354335+00:00"
     },
     {
       "id": "rss-dbcd321109c8",
@@ -516,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.910759+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.354465+00:00"
     },
     {
       "id": "rss-2e2664e83125",
@@ -548,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.910963+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.354587+00:00"
     },
     {
       "id": "rss-7e653e7129f1",
@@ -580,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.911134+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.354718+00:00"
     },
     {
       "id": "rss-31aef5611b53",
@@ -612,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.911324+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.354842+00:00"
     },
     {
       "id": "rss-4d965ea52a07",
@@ -642,7 +866,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.911462+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.354965+00:00"
     },
     {
       "id": "rss-8e2915e8c709",
@@ -674,103 +898,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.911660+00:00"
-    },
-    {
-      "id": "rss-c46102a09779",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Apple’s long-awaited AI Siri overhaul is finally here",
-      "authors": "TechCrunch AI",
-      "abstract": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "siri",
-        "assistant",
-        "apple",
-        "long-awaited",
-        "overhaul",
-        "finally",
-        "here",
-        "idea"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.911836+00:00"
-    },
-    {
-      "id": "rss-6b7b7d9f5e83",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Amazon now lets you design custom merch using AI",
-      "authors": "TechCrunch AI",
-      "abstract": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "amazon",
-        "lets",
-        "design",
-        "custom",
-        "merch",
-        "feature",
-        "shopping",
-        "allows"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.912000+00:00"
-    },
-    {
-      "id": "rss-ef87d1202a4e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
-      "authors": "TechCrunch AI",
-      "abstract": "Apple's WWDC nears: Here's what you can look forward to.",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "wwdc",
-        "what",
-        "apple",
-        "expect",
-        "siri",
-        "highly",
-        "anticipated",
-        "revamp"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.912161+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.355119+00:00"
     },
     {
       "id": "rss-c0f99ae68619",
@@ -802,135 +930,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:57.494786+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.933865+00:00"
     },
     {
-      "id": "rss-e91420c53c70",
+      "id": "openalex-b0b9c1c36e09",
       "discipline": "cs",
-      "type": "news",
-      "title": "Is this the dawn of the Tokenpocalypse?",
-      "authors": "TechCrunch AI",
-      "abstract": "We're likely to see more price increases as the big AI companies plan to go public.",
-      "date": "2026-06-07",
+      "type": "paper",
+      "title": "Journal of Strategic Security",
+      "authors": "OpenAlex indexed authors",
+      "abstract": "The Journal of Strategic Security (JSS) is a peer-reviewed professional journal published quarterly by Henley-Putnam School of Strategic Security. The Journal provides a multi-disciplinary forum for scholarship and discussion of strategic security issues drawing from the fields of global security, international relations, intelligence, terrorism and counterterrorism studies, among others. The Journal encourages diversity in theoretical foundations, research methods, and approaches. Quantitative and qualitative studies, for example, each offer valuable contributions to the field of strategic security. Academic disciplines of international relations, political science, psychology, sociology, anthropology, criminology, economics, and history are welcome, as are the applied scholarly fields of security studies, strategic studies, and intelligence studies. JSS emphasizes contemporary secur...",
+      "date": "2026-06-05",
       "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-      "doi": "",
-      "pdfUrl": "",
+      "journal": "Journal of Strategic Security",
+      "source": "Journal of Strategic Security",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.5038/1944-0472",
+      "doi": "10.5038/1944-0472",
+      "pdfUrl": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=2026&context=jss",
       "keywords": [
-        "this",
-        "dawn",
-        "tokenpocalypse",
-        "likely",
-        "more",
-        "price",
-        "increases",
-        "companies"
+        "Political science",
+        "Terrorism, Counterterrorism, and Political Violence",
+        "International Relations and Foreign Policy",
+        "security",
+        "strategic",
+        "journal",
+        "studies",
+        "fields"
       ],
       "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
+      "citedBy": 116,
+      "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.912331+00:00"
-    },
-    {
-      "id": "rss-46947a9c7762",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Notion restores access to Anthropic after service disruption",
-      "authors": "TechCrunch AI",
-      "abstract": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
-      "date": "2026-06-07",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "notion",
-        "restores",
-        "access",
-        "anthropic",
-        "after",
-        "service",
-        "disruption",
-        "head"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.912492+00:00"
-    },
-    {
-      "id": "rss-7ce167872b6f",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI is still working on that ‘super app’",
-      "authors": "TechCrunch AI",
-      "abstract": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
-      "date": "2026-06-07",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "openai",
-        "still",
-        "working",
-        "that",
-        "super",
-        "chat",
-        "dead",
-        "least"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.912643+00:00"
-    },
-    {
-      "id": "rss-8673788e14ef",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "authors": "TechCrunch AI",
-      "abstract": "Even with Lockdown Mode, ChatGPT could be vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
-      "date": "2026-06-06",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "lockdown",
-        "mode",
-        "sensitive",
-        "prompt",
-        "openai",
-        "unveils",
-        "protect",
-        "injection"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.912811+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.099858+00:00"
     },
     {
       "id": "rss-2154e7a8aa14",
@@ -962,7 +994,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.947345+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.597281+00:00"
     },
     {
       "id": "rss-943471709773",
@@ -994,7 +1026,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:57.495056+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.934108+00:00"
     },
     {
       "id": "rss-4d7859cbc7e2",
@@ -1026,7 +1058,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:57.495770+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.934626+00:00"
     },
     {
       "id": "rss-0976470de9a8",
@@ -1058,7 +1090,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.947542+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.597457+00:00"
     },
     {
       "id": "rss-29f40dfdd1a7",
@@ -1090,7 +1122,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.947718+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.597611+00:00"
     },
     {
       "id": "rss-14174cf7fd0f",
@@ -1122,7 +1154,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.947903+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.597775+00:00"
     },
     {
       "id": "rss-509ced476342",
@@ -1154,7 +1186,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.948066+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.597961+00:00"
     },
     {
       "id": "rss-b863d19e76fc",
@@ -1186,7 +1218,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.948258+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.598113+00:00"
     },
     {
       "id": "rss-20fd947dca39",
@@ -1218,7 +1250,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:57.496018+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.934809+00:00"
     },
     {
       "id": "rss-96f7cd2f086e",
@@ -1250,7 +1282,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:57.496558+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.935296+00:00"
     },
     {
       "id": "rss-c14743cff0aa",
@@ -1282,7 +1314,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:57.496775+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.935488+00:00"
     },
     {
       "id": "rss-8ef0c0e4dd40",
@@ -1314,7 +1346,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:57.497039+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.935719+00:00"
     },
     {
       "id": "rss-cd85f6f3bf65",
@@ -1346,7 +1378,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:57.497656+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.936262+00:00"
     },
     {
       "id": "rss-fe9bc1999c2c",
@@ -1378,7 +1410,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.948431+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.598249+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1410,7 +1442,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:54.109435+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.803295+00:00"
     },
     {
       "id": "rss-1838478b2566",
@@ -1442,7 +1474,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:57.498438+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.937028+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -1474,7 +1506,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.166998+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.101942+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -1506,7 +1538,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.168119+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.102993+00:00"
     },
     {
       "id": "rss-8a5e8a3301a1",
@@ -1538,7 +1570,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.948591+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.598381+00:00"
     },
     {
       "id": "rss-2b72b6519fb3",
@@ -1570,7 +1602,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.948744+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.598507+00:00"
     },
     {
       "id": "rss-9b5fb86c5fb5",
@@ -1602,7 +1634,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.948899+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.598632+00:00"
     },
     {
       "id": "rss-c53d4758f364",
@@ -1634,7 +1666,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:57.499420+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.937972+00:00"
     },
     {
       "id": "openalex-2a2df0665fcc",
@@ -1666,7 +1698,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:53.462360+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.252052+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1698,7 +1730,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.165030+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.099548+00:00"
     },
     {
       "id": "openalex-239a44a48c00",
@@ -1730,7 +1762,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:54.106309+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.800460+00:00"
     },
     {
       "id": "rss-072e8cd7bee1",
@@ -1762,7 +1794,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.949038+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.598745+00:00"
     },
     {
       "id": "rss-118e3c38b86e",
@@ -1794,7 +1826,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.949247+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.598926+00:00"
     },
     {
       "id": "rss-41e8976955ef",
@@ -1826,7 +1858,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.949437+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.599087+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1858,7 +1890,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.165288+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.100105+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1890,7 +1922,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.164618+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.099178+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -1922,7 +1954,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:54.108081+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.802143+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -1954,7 +1986,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:56.949613+00:00"
+      "_retrievedAt": "2026-06-09T04:22:11.599234+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1986,7 +2018,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.168874+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.103539+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2018,7 +2050,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:53.459002+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.248987+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2050,7 +2082,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.167282+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.102192+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2082,39 +2114,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.165928+00:00"
-    },
-    {
-      "id": "openalex-4e2d85c0aade",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "A Primer on Bayesian Neural Networks: Review and Debates",
-      "authors": "Julyan Arbel, Konstantinos Pitas, Mariia Vladimirova, Vincent Fortuin",
-      "abstract": "Neural networks have achieved remarkable performance across various problem domains, but their widespread applicability is hindered by inherent limitations such as overconfidence in predictions, lack of interpretability and vulnerability to adversarial attacks. To address these challenges, Bayesian neural networks (BNNs) have emerged as a compelling extension of conventional neural networks, integrating uncertainty estimation into their predictive capabilities. This comprehensive primer presents a systematic introduction to the fundamental concepts of neural networks and Bayesian inference, elucidating their synergistic integration for the development of BNNs. The target audience comprises statisticians with a potential background in Bayesian methods but lacking deep learning expertise, as well as machine learners proficient in deep neural networks but with limited exposure to Bayesia...",
-      "date": "2026-04-08",
-      "year": 2026,
-      "journal": "Statistical Science",
-      "source": "Statistical Science",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1214/24-sts969",
-      "doi": "10.1214/24-sts969",
-      "pdfUrl": "https://arxiv.org/pdf/2309.16314",
-      "keywords": [
-        "Artificial intelligence",
-        "Machine learning",
-        "Computer science",
-        "Interpretability",
-        "Inference",
-        "Adversarial Robustness in Machine Learning",
-        "Anomaly Detection Techniques and Applications",
-        "Gaussian Processes and Bayesian Inference"
-      ],
-      "readTime": "1 min",
-      "citedBy": 14,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.169989+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.100678+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2146,7 +2146,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.165593+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.100379+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2178,7 +2178,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:53.461187+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.250997+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -2210,7 +2210,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.169174+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.103809+00:00"
+    },
+    {
+      "id": "openalex-7364687e917a",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Sycophantic AI decreases prosocial intentions and promotes dependence",
+      "authors": "Myra Cheng, Cinoo Lee, Pranav Khadpe, Sunny Yu, Dyllan Han, Dan Jurafsky",
+      "abstract": "Despite rising concerns about sycophancy—excessive agreement or flattery from artificial intelligence (AI) systems—little is known about its prevalence or consequences. We show that sycophancy is widespread and harmful. Across 11 state-of-the-art models, AI affirmed users’ actions 49% more often than humans, even when queries involved deception, illegality, or other harms. In three preregistered experiments ( N = 2405), even a single interaction with sycophantic AI reduced participants’ willingness to take responsibility and repair interpersonal conflicts, while increasing their conviction that they were right. Despite distorting judgment, sycophantic models were trusted and preferred. This creates perverse incentives for sycophancy to persist: The very feature that causes harm also drives engagement. Our findings underscore the need for design, evaluation, and accountability mechanis...",
+      "date": "2026-03-26",
+      "year": 2026,
+      "journal": "Science",
+      "source": "Science",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1126/science.aec8352",
+      "doi": "10.1126/science.aec8352",
+      "pdfUrl": "https://arxiv.org/pdf/2505.13995",
+      "keywords": [
+        "Flattery",
+        "Harm",
+        "Prosocial behavior",
+        "Psychology",
+        "Social psychology",
+        "Ethics and Social Impacts of AI",
+        "Explainable Artificial Intelligence (XAI)",
+        "AI in Service Interactions"
+      ],
+      "readTime": "1 min",
+      "citedBy": 22,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T04:22:06.101631+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2242,7 +2274,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.166355+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.101063+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -2274,7 +2306,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.854117+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.681042+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -2306,7 +2338,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.853810+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.680744+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -2338,7 +2370,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.851678+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.679156+00:00"
     },
     {
       "id": "openalex-59f3240e8b8c",
@@ -2370,7 +2402,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:54.110546+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.804265+00:00"
     },
     {
       "id": "openalex-4b1dee987f4c",
@@ -2402,7 +2434,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.850672+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.678242+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2434,7 +2466,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:54.108994+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.802919+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2466,7 +2498,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:53.459443+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.249366+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2498,7 +2530,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.168472+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.103235+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2530,7 +2562,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:53.459784+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.249681+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -2562,7 +2594,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:54.112280+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.805822+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -2594,7 +2626,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:53.463516+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.253066+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -2626,7 +2658,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:54.109793+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.803617+00:00"
     },
     {
       "id": "openalex-37facdeb2617",
@@ -2658,7 +2690,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:53.462726+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.252384+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -2690,7 +2722,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.851965+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.679418+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -2722,7 +2754,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.852661+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.680039+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2754,39 +2786,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.167623+00:00"
-    },
-    {
-      "id": "openalex-dd24a0099868",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Tokens as Computational Units in Data Science and Machine Learning: Mathematical Foundations, Transformer Architecture, Inference Economy, and Caching Systems in Foundational Models",
-      "authors": "Pedro Emílio Amador Salomão",
-      "abstract": "The concept of the \"token\" has evolved from a simple linguistic unit to a fundamental computational primitive that underpins the architecture, performance, and economics of modern artificial intelligence systems. This paper provides a comprehensive and in-depth analysis of tokens as computational units across Data Science and Machine Learning, with a particular focus on Transformer-based foundational models. We begin by tracing the evolution of tokenization from classical Natural Language Processing (NLP) to its sophisticated forms in deep learning, examining its mathematical representation through high-dimensional vectors (embeddings) and the computational complexities arising from attention mechanisms, which scale quadratically (O(n²)) with sequence length. The article then explores the economic dimension of tokens, analyzing the \"token economy\" that governs API-based access to larg...",
-      "date": "2026-03-01",
-      "year": 2026,
-      "journal": "Journal International Review of Research Studies",
-      "source": "Journal International Review of Research Studies",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.66104/kxf7hk05",
-      "doi": "10.66104/kxf7hk05",
-      "pdfUrl": "https://jirrs.org.uk/jirrs/article/download/5717/5272",
-      "keywords": [
-        "Computer science",
-        "Lexical analysis",
-        "Security token",
-        "Inference",
-        "Theoretical computer science",
-        "Big Data and Digital Economy",
-        "Machine Learning in Materials Science",
-        "IoT and Edge/Fog Computing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 15,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.169641+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.102508+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -2818,7 +2818,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.850305+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.677918+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2850,7 +2850,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.852284+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.679688+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2882,7 +2882,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:54.110107+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.803916+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2914,7 +2914,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:54.106974+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.801107+00:00"
+    },
+    {
+      "id": "openalex-c22612c05697",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Extracellular Vesicles: A Comprehensive Review of Their Origins, Functions, and Therapeutic Potential",
+      "authors": "Madison Schank, Juan Zhao, L Wang, Jonathan P. Moorman, Zhi Q. Yao",
+      "abstract": "Extracellular vesicles (EVs) are membrane-bound particles secreted by most cell types that play a pivotal role in intercellular communication via transporting protein, nucleic acid, lipid, and metabolite cargos. Among EVs, exosomes are a well-characterized subtype, typically ranging from 10-150 nm in diameter and originating from the endosomal pathway via the formation of multivesicular bodies that fuse with the plasma membrane. EVs/exosomes can be isolated from various biological fluids and cultured cells, with production and yield influenced by the cell type and culture conditions. Isolation methods, including ultracentrifugation or density-based ultracentrifugation, tangential flow filtration, size-exclusion chromatography, immunoaffinity and membrane-affinity capture, and recently developed commercial equipment, offer distinct advantages and limitations in terms of purity, scalabi...",
+      "date": "2026-02-25",
+      "year": 2026,
+      "journal": "Biomedicines",
+      "source": "Biomedicines",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/biomedicines14030495",
+      "doi": "10.3390/biomedicines14030495",
+      "pdfUrl": "https://www.mdpi.com/2227-9059/14/3/495/pdf?version=1772009912",
+      "keywords": [
+        "Exosome",
+        "Microvesicles",
+        "Nanoparticle tracking analysis",
+        "Drug delivery",
+        "Cell biology",
+        "Extracellular vesicles in disease",
+        "interferon and immune responses",
+        "Selenium in Biological Systems"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T04:22:06.681774+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2946,7 +2978,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:54.107332+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.801420+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -2978,7 +3010,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:54.108543+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.802564+00:00"
     },
     {
       "id": "openalex-9eb31b2e7a82",
@@ -3010,7 +3042,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.854599+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.681428+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -3042,7 +3074,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.849492+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.677197+00:00"
     },
     {
       "id": "openalex-88008efb5422",
@@ -3074,7 +3106,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.853422+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.680394+00:00"
     },
     {
       "id": "openalex-6d7865beed8a",
@@ -3106,7 +3138,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:53.460526+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.250373+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -3138,7 +3170,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.849932+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.677593+00:00"
     },
     {
       "id": "openalex-3dfdd7ceaceb",
@@ -3170,7 +3202,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.850958+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.678499+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -3202,7 +3234,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:53.460171+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.250062+00:00"
     },
     {
       "id": "openalex-674f00ab3d07",
@@ -3234,7 +3266,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:53.464267+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.253696+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -3266,7 +3298,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.849114+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.676864+00:00"
     },
     {
       "id": "openalex-18b220cd1ad9",
@@ -3298,7 +3330,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:54.112014+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.805600+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -3330,7 +3362,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.166676+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.101356+00:00"
     },
     {
       "id": "openalex-6a51321a829e",
@@ -3362,7 +3394,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.851300+00:00"
+      "_retrievedAt": "2026-06-09T04:22:06.678794+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -3394,7 +3426,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:54.111695+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.805307+00:00"
     },
     {
       "id": "openalex-da72c8fa26ec",
@@ -3426,7 +3458,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:53.460871+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.250689+00:00"
     },
     {
       "id": "openalex-ad7b90ca77d1",
@@ -3458,7 +3490,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:54.111333+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.804982+00:00"
     },
     {
       "id": "openalex-9c7e2173bb4d",
@@ -3490,7 +3522,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:53.461534+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.251299+00:00"
     },
     {
       "id": "openalex-4306506c242f",
@@ -3522,7 +3554,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:53.461985+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.251715+00:00"
     },
     {
       "id": "openalex-3462112d7df3",
@@ -3554,39 +3586,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:54.111019+00:00"
-    },
-    {
-      "id": "openalex-92ed2627113b",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Programming Next‐Generation Synthetic Biosensors by Genetic Circuit Design",
-      "authors": "Yuanli Gao, Cheng Huang, Jiaxuan Deng, Lei Wang, Baojun Wang",
-      "abstract": "Synthetic biology employs engineering principles to construct genetic circuits with customized functionality, empowering unprecedented control over biological systems. By harnessing this capability to precisely manipulate biological systems, synthetic biosensors are being developed as promising biosensing platforms for on-site, sustainable, affordable, and easy-to-use detection across diverse scenarios, such as environmental monitoring, disease diagnosis, food safety control, and bioproduction optimization. However, the field deployment and real-world application of synthetic biosensors face considerable challenges in biosensing sensitivity, specificity, speed, stability, and biosafety. This review summarizes recent advancements of genetic circuit-enabled synthetic biosensors, focusing on their sensory mechanisms, designs, and applications. Moreover, the design principles, enabling to...",
-      "date": "2026-02-08",
-      "year": 2026,
-      "journal": "Advanced Science",
-      "source": "Advanced Science",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/advs.202524172",
-      "doi": "10.1002/advs.202524172",
-      "pdfUrl": "https://doi.org/10.1002/advs.202524172",
-      "keywords": [
-        "Synthetic biology",
-        "Biosensor",
-        "Computer science",
-        "Nanotechnology",
-        "Bioproduction",
-        "Advanced biosensing and bioanalysis techniques",
-        "Gene Regulatory Network Analysis",
-        "DNA and Biological Computing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-08T20:31:52.852996+00:00"
+      "_retrievedAt": "2026-06-09T04:22:07.804701+00:00"
     }
   ]
 }
