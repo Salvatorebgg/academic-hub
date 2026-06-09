@@ -1,458 +1,586 @@
 {
-  "generatedAt": "2026-06-09T15:25:53.964202+00:00",
-  "total": 112,
+  "generatedAt": "2026-06-09T20:20:15.463298+00:00",
+  "total": 113,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
     {
-      "id": "rss-4515d77b26d2",
+      "id": "rss-2c4949d5bae2",
       "discipline": "clinical",
       "type": "news",
-      "title": "Medication burden and weight loss linked to fracture, fall risk in older adults",
+      "title": "Brain region found to be linked to TMS's antidepressant effects",
       "authors": "Medical Xpress",
-      "abstract": "With an aging population now an irrefutable reality in Japan, concerns about the health and well-being of older adults have come to the forefront of public health dialogue. Older adults are especially at risk for fragility fractures and falls, which threaten their healthy life expectancy. Although these risks are thought to be influenced by lifestyle factors and medication use, studies that comprehensively evaluate these variables remain limited.",
+      "abstract": "A circuit that runs from the prefrontal cortex near the front of the brain to a deeper brain structure called the insular cortex appears to mediate the antidepressant effects of a newer form of transcranial magnetic stimulation (TMS), according to a study led by Weill Cornell Medicine investigators. The discovery could lead to more effective TMS treatment of depression.",
       "date": "2026-06-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-medication-burden-weight-loss-linked.html",
+      "url": "https://medicalxpress.com/news/2026-06-brain-region-linked-tms-antidepressant.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "antidepressant",
+        "effects",
+        "cortex",
+        "region",
+        "found",
+        "linked",
+        "circuit"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:20:15.044231+00:00"
+    },
+    {
+      "id": "rss-3efac54241ac",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Promotora-led health program shows promise for rural Latina women",
+      "authors": "Medical Xpress",
+      "abstract": "A culturally adapted health and lifestyle program, ¡Coma, Muévase y Viva! (\"Eat, Move, and Live!\"), showed promising results in helping low-income Latina and Indigenous Mexican women in rural Inland Southern California make healthier changes in their daily lives, according to a new pilot study conducted in 2022 by researchers at the University of California, Riverside.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-promotora-health-rural-latina-women.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "health",
+        "program",
+        "rural",
+        "latina",
+        "women",
+        "california",
+        "promotora-led",
+        "shows"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:20:15.044539+00:00"
+    },
+    {
+      "id": "rss-f688db8bdd87",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Four minutes of daily resistance training can quadruple fitness in older adults",
+      "authors": "Medical Xpress",
+      "abstract": "Just 4 minutes of daily strengthening exercise dramatically increases key factors in quality of life for older adults, according to a new study led by researchers at Penn State College of Medicine. Results published in PLOS One show that strength—which affects fall risk, longevity, independent living and more—significantly improved for adults 65 and older in as little as 12 weeks.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-minutes-daily-resistance-quadruple-older.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "older",
         "adults",
-        "medication",
-        "risk",
-        "health",
-        "these",
-        "burden",
-        "weight"
+        "minutes",
+        "daily",
+        "four",
+        "resistance",
+        "training",
+        "quadruple"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.587554+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.044811+00:00"
     },
     {
-      "id": "rss-41860f914aaf",
+      "id": "rss-38eeb980a2f1",
       "discipline": "clinical",
       "type": "news",
-      "title": "Novel therapy may reverse autism-related brain deficits, study suggests",
+      "title": "Americans with severe obesity receive fewer surgeries despite rising need",
       "authors": "Medical Xpress",
-      "abstract": "Researchers have identified a promising new therapeutic strategy for autism spectrum disorder (ASD). A research team led by Director KIM Eunjoon of the IBS Center for Synaptic Brain Dysfunctions has now identified a promising new strategy for restoring NMDA receptor (NMDAR) function by targeting a glycine transporter called Slc6a20a/SLC6A20.",
+      "abstract": "Researchers from LSU's Pennington Biomedical Research Center and collaborating institutions have found that Americans with the highest levels of obesity are undergoing fewer surgical procedures overall. These procedures include common operations like knee or hip replacement, hernia surgery, and surgery of the breast, prostate and colon—operations that are frequently done for cancer.",
       "date": "2026-06-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-therapy-reverse-autism-brain-deficits.html",
+      "url": "https://medicalxpress.com/news/2026-06-americans-severe-obesity-surgeries.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "brain",
-        "identified",
-        "promising",
-        "strategy",
-        "novel",
-        "therapy",
-        "reverse",
-        "autism-related"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.587871+00:00"
-    },
-    {
-      "id": "rss-ffc57b16f8b4",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Tiny molecular fix revived tuberculosis antibiotic candidate and led to two patents",
-      "authors": "Medical Xpress",
-      "abstract": "How can we combat the growing global health crisis of antibiotic resistance? At Leiden University, researchers are tackling this issue from multiple angles. Ph.D. candidate Vladyslav Lysenko develops and redesigns new antibiotic molecules, while Sebastian Tandar studies how existing antibiotics can be used more effectively.",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-tiny-molecular-revived-tuberculosis-antibiotic.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "antibiotic",
-        "candidate",
-        "tiny",
-        "molecular",
-        "revived",
-        "tuberculosis",
-        "patents",
-        "combat"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.588138+00:00"
-    },
-    {
-      "id": "rss-9aa0525b3a5f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New GLP-3 drug significantly slashes both weight and blood sugar levels in Phase III trial",
-      "authors": "Medical Xpress",
-      "abstract": "Over the past few years, GLP-1 drugs have transformed the treatment landscape for obesity and type 2 diabetes. By mimicking a hormone that helps regulate blood sugar, slows digestion and curbs appetite, these medications have helped millions lose weight while improving metabolic health.",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-glp-drug-significantly-slashes-weight.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "glp-",
-        "weight",
-        "blood",
-        "sugar",
-        "have",
-        "drug",
-        "significantly",
-        "slashes"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.588397+00:00"
-    },
-    {
-      "id": "rss-e8a8a0310eb0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "MRI method may predict kidney disease before it develops",
-      "authors": "Medical Xpress",
-      "abstract": "An investigator at the Icahn School of Medicine at Mount Sinai has received international recognition for innovative imaging research that may help physicians identify patients at increased risk of chronic kidney disease (CKD) before they undergo surgery for kidney tumors.",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-mri-method-kidney-disease.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "kidney",
-        "disease",
-        "before",
-        "method",
-        "predict",
-        "develops",
-        "investigator",
-        "icahn"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.588694+00:00"
-    },
-    {
-      "id": "rss-0d3dd6b9966d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Head cooling may reduce depression symptoms and change brain activity",
-      "authors": "Medical Xpress",
-      "abstract": "Wearing a cooling cap for 30 minutes may improve a person's sense of well-being, according to a new study by Penn State researchers. In a recent publication in Acta Psychologica, the researchers demonstrated that head cooling may reduce depressive symptoms and alter the types of brain waves people produce. While no medical recommendations can be derived from this small, exploratory study, the results indicate head cooling may provide mental health benefits for the general population.",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-cooling-depression-symptoms-brain.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cooling",
-        "head",
-        "reduce",
-        "symptoms",
-        "brain",
-        "researchers",
-        "depression",
-        "change"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.588989+00:00"
-    },
-    {
-      "id": "rss-a94dfe7ac5e1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Heat could pose threat to World Cup workers: Even low-intensity work can be harmful, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "Heat could pose a danger to workers at the upcoming FIFA World Cup, according to a new study from the University of Georgia.",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-pose-threat-world-cup-workers.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "heat",
-        "could",
-        "pose",
-        "world",
-        "workers",
-        "threat",
-        "even",
-        "low-intensity"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.589215+00:00"
-    },
-    {
-      "id": "rss-fa0ef10bd567",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "AI could provide 'early alert' for breast cancer 6 years in advance",
-      "authors": "Medical Xpress",
-      "abstract": "Three commercially available radiology AI systems have shown the potential to flag early signs of breast cancer up to six years before a diagnosis, according to a study published in Radiology.",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-ai-early-breast-cancer-years.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "early",
-        "breast",
-        "cancer",
-        "years",
-        "radiology",
-        "could",
-        "provide",
-        "alert"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.589463+00:00"
-    },
-    {
-      "id": "rss-5e52ce9ec60c",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Exposure to moderate levels of air pollution may cause heart damage, study suggests",
-      "authors": "Medical Xpress",
-      "abstract": "In one of the largest studies to date, researchers examined the relationship between long-term air pollution exposure and coronary atherosclerosis and found that even at moderate levels, long-term exposure to air pollution is associated with more advanced coronary artery disease. The research was published in Radiology.",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-exposure-moderate-air-pollution-heart.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "exposure",
-        "pollution",
-        "moderate",
-        "levels",
-        "long-term",
-        "coronary",
-        "cause",
-        "heart"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.589750+00:00"
-    },
-    {
-      "id": "rss-98233c80b327",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "FDA approves Xocova for COVID-19 postexposure prophylaxis",
-      "authors": "Medical Xpress",
-      "abstract": "The U.S. Food and Drug Administration has approved Shionogi's Xocova (ensitrelvir), an oral antiviral, for postexposure prophylaxis (PEP) of COVID‑19 in adults and adolescents aged 12 years and older.",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-fda-xocova-covid-postexposure-prophylaxis.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "xocova",
-        "postexposure",
-        "prophylaxis",
-        "approves",
-        "covid-",
-        "food",
-        "drug",
-        "administration"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.589999+00:00"
-    },
-    {
-      "id": "rss-1ee84da9b5c8",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Blood test method detects cancer DNA at 5%, down from 15%-20% threshold",
-      "authors": "Medical Xpress",
-      "abstract": "Blood tests have proved to be a promising tool for detecting and monitoring cancer. Researchers at Chalmers University of Technology and the University of Gothenburg in Sweden have now developed a new method that makes it possible to analyze samples containing as little as 5% cancer DNA in the blood, compared with the 15%–20% required today. This method could lead to better cancer care and improved monitoring of tumor progression.",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-blood-method-cancer-dna-threshold.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "blood",
-        "method",
-        "have",
-        "monitoring",
-        "university",
-        "test",
-        "detects"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.590298+00:00"
-    },
-    {
-      "id": "rss-da75fe0f9ee7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Video game stroke rehab restores arm movement in chronic stroke survivors",
-      "authors": "Medical Xpress",
-      "abstract": "A customized throw-back video game may offer a surprisingly futuristic path to stroke recovery. In a new study, Northwestern University scientists developed a 90s-style video game to help chronic stroke survivors regain lost arm function. While wearing a small device on their impaired arm and using a laptop computer, players use their arm muscles to complete tasks such as flying a helicopter around the screen to hit a moving target. The muscle retraining helps separate the brain's uncoordinated movement signals, enabling muscles to work independently again.",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-video-game-rehab-arm-movement.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "stroke",
-        "video",
-        "game",
-        "movement",
-        "chronic",
-        "survivors",
-        "their",
-        "muscles"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.590634+00:00"
-    },
-    {
-      "id": "rss-29cdc05c02ca",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Fiber for gut health: Expert explains why it's best to eat more than one kind, build up gradually",
-      "authors": "Medical Xpress",
-      "abstract": "Fiber is an essential part of a healthy diet. By eating a variety of plant-based foods, increasing fiber intake gradually and staying well hydrated, you can support gut health and overall well-being while making fiber goals more achievable and sustainable. Purna Kashyap, M.B.B.S., a gastroenterologist at Mayo Clinic in Rochester, offers tips to add fiber to your diet.",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-fiber-gut-health-expert-kind.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "fiber",
-        "health",
-        "more",
-        "gradually",
-        "diet",
-        "expert",
-        "explains",
-        "best"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.590912+00:00"
-    },
-    {
-      "id": "rss-b82a869c911d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Study finds fewer health care workers in rural areas, with largest gaps in highly trained roles",
-      "authors": "Medical Xpress",
-      "abstract": "A nationwide analysis found that nonmetropolitan areas in the United States have substantially fewer health care workers than metropolitan areas, particularly among highly trained professionals such as physicians and surgeons, highlighting ongoing gaps in access to care. The findings are published in Annals of Internal Medicine.",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-health-workers-rural-areas-largest.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "care",
-        "areas",
+        "americans",
+        "obesity",
         "fewer",
-        "health",
-        "workers",
-        "gaps",
-        "highly",
-        "trained"
+        "that",
+        "procedures",
+        "operations",
+        "surgery",
+        "severe"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.591170+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.045067+00:00"
+    },
+    {
+      "id": "rss-93cd0ec8c2dd",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Motion sickness is not a modern phenomenon, new research reveals",
+      "authors": "Medical Xpress",
+      "abstract": "New historical research has found that early stagecoach passengers were as concerned with motion sickness as they were with the risk of being robbed by highwaymen.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-motion-sickness-modern-phenomenon-reveals.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "motion",
+        "sickness",
+        "were",
+        "modern",
+        "phenomenon",
+        "reveals",
+        "historical",
+        "found"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:20:15.045286+00:00"
+    },
+    {
+      "id": "rss-3696a7cc7ca1",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "How waste build-up in the brain occurs in aging and neurodegeneration",
+      "authors": "Medical Xpress",
+      "abstract": "To function properly, neurons need to recycle cellular waste before it becomes toxic. When neurons can no longer do that, either due to aging or harmful genetic mutations, neurodegenerative disease can set in. One sign that neurons are losing their recycling function is the buildup of pigmented material called lipofuscin that accumulates with age. Understanding how it forms could help illuminate the aging process and, in turn, how age-related neurodegenerative diseases progress.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-brain-aging-neurodegeneration.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "aging",
+        "neurons",
+        "that",
+        "waste",
+        "function",
+        "neurodegenerative",
+        "build-up",
+        "brain"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:20:15.045537+00:00"
+    },
+    {
+      "id": "rss-983260be82cb",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Hormone impacts red blood cell production in anemia",
+      "authors": "Medical Xpress",
+      "abstract": "Northwestern Medicine scientists have discovered that the hormone FGF23 reduces the production of red blood cells and may contribute to the development of anemia in chronic kidney disease, according to a recent study published in Blood.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-hormone-impacts-red-blood-cell.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "blood",
+        "hormone",
+        "production",
+        "anemia",
+        "impacts",
+        "cell",
+        "northwestern",
+        "medicine"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:20:15.045734+00:00"
+    },
+    {
+      "id": "rss-64a31915c316",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "A brain-computer interface that works with—not against—the brain",
+      "authors": "Medical Xpress",
+      "abstract": "It might soon be \"game over\" for the video game controller. Yale researchers have developed a new kind of brain-computer interface (BCI) that lets humans play video games directly with their brains. Using real-time fMRI (functional MRI), they confirmed that the technology could help humans control a computer with their brain activity in a highly efficient way. The study appears in the journal Nature Neuroscience.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-brain-interface.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "that",
+        "brain-computer",
+        "interface",
+        "brain",
+        "game",
+        "video",
+        "humans",
+        "their"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:20:15.045987+00:00"
+    },
+    {
+      "id": "rss-61daeac3200f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Cancer cells' hunger may reveal new ways to track and slow tumors",
+      "authors": "Medical Xpress",
+      "abstract": "By their nature, cancer cells have different nutritional needs than healthy cells. \"Cancer cells have a distinct metabolism,\" said Gary Patti, the Michael and Tana Powell Professor of Chemistry at Washington University in St. Louis and a professor of genetics and medicine at WashU Medicine. Cancer cells are also ravenous eaters. Patti is trying to turn their hunger against them.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-cancer-cells-hunger-reveal-ways.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cells",
+        "cancer",
+        "hunger",
+        "their",
+        "have",
+        "patti",
+        "professor",
+        "medicine"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:20:15.046246+00:00"
+    },
+    {
+      "id": "rss-a2ae00716bd5",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New research uncovers how deadly childhood cancer grows, highlighting potential therapies",
+      "authors": "Medical Xpress",
+      "abstract": "A cancer researcher at the University of Houston is reporting what makes malignant soft tissue cancer grow in children, identifying key mechanisms and molecular targets to prevent tumor progression in patients in future therapies of the fatal rhabdomyosarcoma.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-uncovers-deadly-childhood-cancer-highlighting.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "therapies",
+        "uncovers",
+        "deadly",
+        "childhood",
+        "grows",
+        "highlighting",
+        "potential"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:20:15.046456+00:00"
+    },
+    {
+      "id": "rss-587f08278617",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Millions in the US report past-year psilocybin use, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "A new look at data from a nationally representative survey finds that more than 8 million people, roughly 2.8% of the U.S. population, reported having used psilocybin in the year prior to the survey. The data came from the 2024 National Survey on Drug Use and Health and included responses from 58,000 people in the U.S. age 12 and older.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-millions-year-psilocybin.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "survey",
+        "psilocybin",
+        "finds",
+        "people",
+        "millions",
+        "report",
+        "past-year",
+        "look"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:20:15.046673+00:00"
+    },
+    {
+      "id": "rss-77b9afb085b6",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Dreaming under anesthesia may make surgery feel less scary, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "A new study suggests anesthesiologists may be able to safely increase the likelihood that patients dream during surgery—and that those dreams are typically positive, calming and associated with a better overall surgical experience.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-anesthesia-surgery-scary.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "surgery",
+        "that",
+        "dreaming",
+        "under",
+        "anesthesia",
+        "make",
+        "feel",
+        "less"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:20:15.046882+00:00"
+    },
+    {
+      "id": "rss-5121865d4c27",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Peripheral vision helps readers process skipped words in 250 milliseconds",
+      "authors": "Medical Xpress",
+      "abstract": "Reading seems like a straightforward process. The eyes scan the words, and the brain turns them into meaning. But it's not always that simple. Readers regularly skip words, sometimes without realizing it. New research from USF shows how the brain still processes those skipped words using peripheral vision, even as the eyes move past them.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-peripheral-vision-readers-words-milliseconds.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "words",
+        "peripheral",
+        "vision",
+        "readers",
+        "process",
+        "skipped",
+        "eyes",
+        "brain"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:20:15.047102+00:00"
+    },
+    {
+      "id": "rss-11c69030d4a9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "First-ever guideline on cardiovascular-kidney-metabolic syndrome issued",
+      "authors": "Medical Xpress",
+      "abstract": "The American Heart Association and the American College of Cardiology, along with two other leading medical organizations, have developed the first-ever guideline aimed at preventing and managing cardiovascular-kidney-metabolic (CKM) syndrome, an interconnected set of health conditions that significantly increase the risk of multiorgan complications and adverse cardiovascular outcomes.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-guideline-cardiovascular-kidney-metabolic-syndrome.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "first-ever",
+        "guideline",
+        "cardiovascular-kidney-metabolic",
+        "syndrome",
+        "american",
+        "issued",
+        "heart",
+        "association"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:20:15.047330+00:00"
+    },
+    {
+      "id": "rss-d733b5e3bb37",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Can tech companies learn to love cheaper AI models?",
+      "authors": "TechCrunch AI",
+      "abstract": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cheaper",
+        "tech",
+        "companies",
+        "learn",
+        "love",
+        "those",
+        "same",
+        "workloads"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:20:15.084081+00:00"
+    },
+    {
+      "id": "rss-41312156ac0a",
+      "discipline": "cs",
+      "type": "news",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "authors": "TechCrunch AI",
+      "abstract": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "siri",
+        "apple",
+        "wwdc",
+        "everything",
+        "announced",
+        "intelligence",
+        "more",
+        "primarily"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:20:15.084323+00:00"
+    },
+    {
+      "id": "rss-ea1012bea1b8",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "authors": "TechCrunch AI",
+      "abstract": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "anthropic",
+        "claude",
+        "fable",
+        "public",
+        "version",
+        "mythos",
+        "access",
+        "today"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:20:15.084505+00:00"
+    },
+    {
+      "id": "rss-f184ecf74c89",
+      "discipline": "cs",
+      "type": "news",
+      "title": "It’s not FAANG anymore. It’s MANGOS.",
+      "authors": "TechCrunch AI",
+      "abstract": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "faang",
+        "mangos",
+        "anymore",
+        "spacex",
+        "anthropic",
+        "openai",
+        "eyeing",
+        "massive"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:20:15.084668+00:00"
     },
     {
       "id": "rss-ce29542f78e1",
@@ -460,7 +588,7 @@
       "type": "news",
       "title": "Sandstone raises $30M to bring AI to in-house legal teams",
       "authors": "TechCrunch AI",
-      "abstract": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.",
+      "abstract": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
       "date": "2026-06-09",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -477,14 +605,14 @@
         "legal",
         "teams",
         "series",
-        "lightspeed"
+        "comes"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.703373+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.084796+00:00"
     },
     {
       "id": "rss-955eabc7e523",
@@ -516,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.703627+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.084936+00:00"
     },
     {
       "id": "rss-2057efb55750",
@@ -548,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.703800+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.085064+00:00"
     },
     {
       "id": "rss-66fdd20f1162",
@@ -556,7 +684,7 @@
       "type": "news",
       "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
       "authors": "TechCrunch AI",
-      "abstract": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "abstract": "Can Apple's new AI glow-up put to bed accusations that it's losing an all-important industry race?",
       "date": "2026-06-09",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -572,7 +700,7 @@
         "look",
         "pretty",
         "smart",
-        "glow",
+        "glow-up",
         "accusations"
       ],
       "readTime": "1 min",
@@ -580,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.703977+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.085216+00:00"
     },
     {
       "id": "rss-732580fb1b40",
@@ -612,7 +740,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.704147+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.085353+00:00"
+    },
+    {
+      "id": "rss-130a779b2400",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Science that goes deep: How NOAA Research is studying our global ocean",
+      "authors": "NOAA News",
+      "abstract": "Science that goes deep: How NOAA Research is studying our global ocean Researchers deploy an Argo float into the sea to gather data throughout the water column. (Image credit: Commonwealth Scientific and Industrial Research Organisation (CSIRO)) Download Image June 9, 2026 Research Ocean & Coasts National Ocean Month research ocean exploration 0 Off",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/science-goes-deep-how-noaa-research-is-studying-our-global-ocean-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "ocean",
+        "that",
+        "goes",
+        "deep",
+        "noaa",
+        "studying",
+        "global",
+        "image"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:20:15.270844+00:00"
     },
     {
       "id": "rss-0f757d186b5b",
@@ -644,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.704322+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.085498+00:00"
     },
     {
       "id": "rss-de62a0b7825b",
@@ -676,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.704504+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.085650+00:00"
     },
     {
       "id": "rss-784d90e9d871",
@@ -708,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.704699+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.085786+00:00"
     },
     {
       "id": "rss-c59be27cb8f0",
@@ -740,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.704876+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.085935+00:00"
     },
     {
       "id": "rss-b64a8568d1ec",
@@ -772,135 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.705031+00:00"
-    },
-    {
-      "id": "rss-31880ac2cba3",
-      "discipline": "cs",
-      "type": "news",
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "authors": "TechCrunch AI",
-      "abstract": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "siri",
-        "apple",
-        "wwdc",
-        "everything",
-        "announced",
-        "intelligence",
-        "more",
-        "primarily"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.705203+00:00"
-    },
-    {
-      "id": "rss-dbcd321109c8",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-      "authors": "TechCrunch AI",
-      "abstract": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "your",
-        "apple",
-        "just",
-        "taught",
-        "iphone",
-        "finish",
-        "sentences",
-        "photos"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.705353+00:00"
-    },
-    {
-      "id": "rss-2e2664e83125",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-      "authors": "TechCrunch AI",
-      "abstract": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "shortcuts",
-        "apple",
-        "will",
-        "build",
-        "workflows",
-        "gets",
-        "upgrade",
-        "letting"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.705499+00:00"
-    },
-    {
-      "id": "rss-7e653e7129f1",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Apple’s Image Playground doesn’t suck anymore",
-      "authors": "TechCrunch AI",
-      "abstract": "Apple's AI image generator is getting a makeover that could make it more competitive.",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "apple",
-        "image",
-        "playground",
-        "doesn",
-        "suck",
-        "anymore",
-        "generator",
-        "getting"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.705687+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.086066+00:00"
     },
     {
       "id": "rss-c0f99ae68619",
@@ -932,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.826858+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.271050+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -964,7 +996,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.176187+00:00"
+      "_retrievedAt": "2026-06-09T20:19:55.959888+00:00"
     },
     {
       "id": "rss-2154e7a8aa14",
@@ -996,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.738708+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.153255+00:00"
     },
     {
       "id": "rss-943471709773",
@@ -1028,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.827095+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.271269+00:00"
     },
     {
       "id": "rss-4d7859cbc7e2",
@@ -1060,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.827694+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.271776+00:00"
     },
     {
       "id": "rss-0976470de9a8",
@@ -1092,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.738958+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.153435+00:00"
     },
     {
       "id": "rss-29f40dfdd1a7",
@@ -1124,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.739207+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.153587+00:00"
     },
     {
       "id": "rss-14174cf7fd0f",
@@ -1156,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.739468+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.153750+00:00"
     },
     {
       "id": "rss-509ced476342",
@@ -1188,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.739714+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.153889+00:00"
     },
     {
       "id": "rss-b863d19e76fc",
@@ -1220,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.739916+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.154024+00:00"
     },
     {
       "id": "rss-20fd947dca39",
@@ -1252,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.827918+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.271955+00:00"
     },
     {
       "id": "rss-96f7cd2f086e",
@@ -1284,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.828418+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.272443+00:00"
     },
     {
       "id": "rss-c14743cff0aa",
@@ -1316,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.828663+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.272639+00:00"
     },
     {
       "id": "rss-8ef0c0e4dd40",
@@ -1324,7 +1356,7 @@
       "type": "news",
       "title": "Join us for National Ocean Month",
       "authors": "NOAA News",
-      "abstract": "Join us for National Ocean Month Celebrate World Ocean Day on June 8! The island of Nihoa in Hawaii's Papahānaumokuākea Marine National Monument as seen from aboard a Polynesian canoe. Photo: Office of Hawaiian Affairs. (Image credit: Brad Kaʻaleleo Wong/OHA.org) Download Image June 1, 2026 Ocean & Coasts National Ocean Month ocean facts World Ocean Day 0 Off",
+      "abstract": "Join us for National Ocean Month Find out why the ocean is vital for human life and livelihoods The island of Nihoa in Hawaii's Papahānaumokuākea Marine National Monument as seen from aboard a Polynesian canoe. Photo: Office of Hawaiian Affairs. (Image credit: Brad Kaʻaleleo Wong/OHA.org) Download Image June 1, 2026 Ocean & Coasts National Ocean Month ocean facts World Ocean Day 0 Off",
       "date": "2026-06-01",
       "year": 2026,
       "journal": "NOAA News",
@@ -1338,17 +1370,17 @@
         "national",
         "month",
         "join",
-        "world",
-        "june",
         "image",
-        "celebrate"
+        "find",
+        "vital",
+        "human"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.828929+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.272874+00:00"
     },
     {
       "id": "rss-cd85f6f3bf65",
@@ -1380,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.829473+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.273406+00:00"
     },
     {
       "id": "rss-fe9bc1999c2c",
@@ -1412,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.740140+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.154171+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1444,7 +1476,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.550994+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.824219+00:00"
     },
     {
       "id": "rss-1838478b2566",
@@ -1476,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.830260+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.274127+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -1508,7 +1540,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.178466+00:00"
+      "_retrievedAt": "2026-06-09T20:19:55.961937+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -1540,7 +1572,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.179629+00:00"
+      "_retrievedAt": "2026-06-09T20:19:55.962969+00:00"
     },
     {
       "id": "rss-8a5e8a3301a1",
@@ -1572,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.740351+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.154306+00:00"
     },
     {
       "id": "rss-2b72b6519fb3",
@@ -1604,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.740567+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.154432+00:00"
     },
     {
       "id": "rss-9b5fb86c5fb5",
@@ -1636,39 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.740793+00:00"
-    },
-    {
-      "id": "rss-c53d4758f364",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Announcing the 2026 Hollings Scholarship recipients!",
-      "authors": "NOAA News",
-      "abstract": "Announcing the 2026 Hollings Scholarship recipients! The 2024 class of EPP/MSI and Hollings undergraduate scholars. (Image credit: Chris Zimmer Photography) Download Image May 20, 2026 NOAA’s Office of Education has selected 128 Ernest F. Hollings undergraduate scholars for the class of 2026-2028. Scholars receive a two-year academic scholarship for their junior and senior years, a paid summer internship opportunity, and funding to participate in up to two national scientific conferences. Congratulations to the 2026 Hollings scholars! This year's class of scholars brings incredible skill and passion to the NOAA mission. Your selection as a scholar is a testament to your talent and dedication. We are excited to welcome you to the NOAA community and eagerly anticipate the exciting opportunities that await you and the valuable contributions you will make during your internship experience...",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/office-education/hollings-scholarship/news/announcing-2026-hollings-scholarship-recipients",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hollings",
-        "scholars",
-        "scholarship",
-        "class",
-        "noaa",
-        "your",
-        "announcing",
-        "recipients"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.831254+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.154560+00:00"
     },
     {
       "id": "openalex-2a2df0665fcc",
@@ -1696,11 +1696,11 @@
         "Scientific Computing and Data Management"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.112324+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.549541+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1732,39 +1732,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.175851+00:00"
-    },
-    {
-      "id": "openalex-239a44a48c00",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
-      "authors": "Cole, Marcos, Bourlon, Fabien, Iribarren, Pablo, Irarrazaval, Inigo",
-      "abstract": "Rosa dos Ventos abrange aspectos relacionados ao Turismo e a Hospitalidade, com foco na Educação, Epistemologia, Gastronomia, Gestão, Cultura e Meio Ambiente, em visão multidisciplinar do fenômeno turístico",
-      "date": "2026-05-15",
-      "year": 2026,
-      "journal": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
-      "source": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.18226/21789061",
-      "doi": "10.18226/21789061",
-      "pdfUrl": "https://doi.org/10.18226/21789061",
-      "keywords": [
-        "Humanities",
-        "Political science",
-        "Art",
-        "Diverse Aspects of Tourism Research",
-        "Social and Economic Solidarity",
-        "Hospitality and Tourism Education",
-        "rosa",
-        "ventos"
-      ],
-      "readTime": "1 min",
-      "citedBy": 134,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.547893+00:00"
+      "_retrievedAt": "2026-06-09T20:19:55.959574+00:00"
     },
     {
       "id": "rss-072e8cd7bee1",
@@ -1796,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.740976+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.154674+00:00"
     },
     {
       "id": "rss-118e3c38b86e",
@@ -1828,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.741227+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.154831+00:00"
     },
     {
       "id": "rss-41e8976955ef",
@@ -1860,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.741468+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.154982+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1892,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.176427+00:00"
+      "_retrievedAt": "2026-06-09T20:19:55.960098+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1924,7 +1892,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.175403+00:00"
+      "_retrievedAt": "2026-06-09T20:19:55.959176+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -1956,7 +1924,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.549663+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.823058+00:00"
     },
     {
       "id": "rss-a2ad002e89a6",
@@ -1988,7 +1956,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:53.741728+00:00"
+      "_retrievedAt": "2026-06-09T20:20:15.155127+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -2020,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.180236+00:00"
+      "_retrievedAt": "2026-06-09T20:19:55.963563+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2052,7 +2020,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.109065+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.547789+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2084,7 +2052,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.178754+00:00"
+      "_retrievedAt": "2026-06-09T20:19:55.962189+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2116,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.177076+00:00"
+      "_retrievedAt": "2026-06-09T20:19:55.960692+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2144,11 +2112,11 @@
         "risks"
       ],
       "readTime": "1 min",
-      "citedBy": 28,
+      "citedBy": 30,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.176747+00:00"
+      "_retrievedAt": "2026-06-09T20:19:55.960387+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2180,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.111186+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.550161+00:00"
     },
     {
       "id": "openalex-945b66507d32",
@@ -2212,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.180547+00:00"
+      "_retrievedAt": "2026-06-09T20:19:55.963830+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -2240,11 +2208,11 @@
         "AI in Service Interactions"
       ],
       "readTime": "1 min",
-      "citedBy": 22,
+      "citedBy": 23,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.178143+00:00"
+      "_retrievedAt": "2026-06-09T20:19:55.961648+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2276,7 +2244,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.177482+00:00"
+      "_retrievedAt": "2026-06-09T20:19:55.961063+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -2308,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.596939+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.242968+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -2340,7 +2308,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.596617+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.242688+00:00"
+    },
+    {
+      "id": "openalex-66c07f9c3579",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "AP-1 mediates cellular adaptation and memory formation",
+      "authors": "Jingxin Li, Pavithran T. Ravindran, Aoife O’Farrell, Gianna T. Busch, Ryan H. Boe, Zijian Niu",
+      "abstract": "Cellular responses to environmental stimuli are typically thought to be governed by genetically encoded programs. We demonstrate that cancer cells can form and maintain cellular memories when becoming drug resistant, exhibiting characteristics of cellular learning that are dependent on the transcription factor AP-1. We show that cells exposed to a low dose of therapy adapt to become resistant to a high dose, demonstrating that cells can adapt during this time of stress. The application of therapy itself results in the encoding of transient gene expression into cellular memory and that this encoding occurs for both transiently induced and probabilistically arising expression. Chromatin accessibility shows concomitant persistence. A two-color AP-1 reporter system shows that these memories are encoded in cis, constituting an example of activating cis epigenetics. Our findings establish t...",
+      "date": "2026-03-20",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-70862-w",
+      "doi": "10.1038/s41467-026-70862-w",
+      "pdfUrl": "https://www.nature.com/articles/s41467-026-70862-w_reference.pdf",
+      "keywords": [
+        "Chromatin",
+        "Cellular adaptation",
+        "Transcription factor",
+        "Cell biology",
+        "Biology",
+        "Pluripotent Stem Cells Research",
+        "Protein Degradation and Inhibitors",
+        "Cancer, Stress, Anesthesia, and Immune Response"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:19:56.241975+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -2372,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.594872+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.240811+00:00"
     },
     {
       "id": "openalex-59f3240e8b8c",
@@ -2404,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.552065+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.825177+00:00"
     },
     {
       "id": "openalex-4b1dee987f4c",
@@ -2436,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.593890+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.239895+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2468,7 +2468,71 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.550593+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.823835+00:00"
+    },
+    {
+      "id": "openalex-21e2af519ee1",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Patient-Clinician Communication: ASCO Guideline Update",
+      "authors": "Timothy D. Gilligan, Kari Bohlke, Ash B. Alpert, Nessa Coyle, Seema Harichand-Herdt, Christopher S. Lathan",
+      "abstract": "ASCO Guidelines provide recommendations with comprehensive review and analyses of the relevant literature for each recommendation, following the guideline development process as outlined in the ASCO Guidelines Methodology Manual . ASCO Guidelines follow the ASCO Conflict of Interest Policy for Clinical Practice Guidelines . Clinical Practice Guidelines and other guidance (“Guidance”) provided by ASCO is not a comprehensive or definitive guide to treatment options. It is intended for voluntary use by clinicians and should be used in conjunction with independent professional judgment. Guidance may not be applicable to all patients, interventions, diseases or stages of diseases. Guidance is based on review and analysis of relevant literature and is not intended as a statement of the standard of care. ASCO does not endorse third-party drugs, devices, services, or therapies and assumes no...",
+      "date": "2026-03-10",
+      "year": 2026,
+      "journal": "Journal of Clinical Oncology",
+      "source": "Journal of Clinical Oncology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1200/jco-26-00118",
+      "doi": "10.1200/jco-26-00118",
+      "pdfUrl": "",
+      "keywords": [
+        "Medicine",
+        "Guideline",
+        "Medical education",
+        "Health care",
+        "Health professionals",
+        "Cancer survivorship and care",
+        "Patient-Provider Communication in Healthcare",
+        "Palliative Care and End-of-Life Issues"
+      ],
+      "readTime": "2 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:19:56.551363+00:00"
+    },
+    {
+      "id": "openalex-d7f83e5bb105",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Metabolic reprogramming in cancer: dysregulation of glucose, lipid, and amino acid pathways and therapeutic opportunities",
+      "authors": "Mingkang Yu, Di Yang, Xiuli Chen, Yuling Yang, Bingqiang Zhang, Xinxin Jiang",
+      "abstract": "Metabolic reprogramming is a hallmark of cancer, including hepatocellular carcinoma (HCC). Cancer cells exhibit enhanced glucose and glutamine uptake, increased glycolysis, pentose phosphate pathway activity, de novo lipogenesis, and altered amino acid metabolism. However, the metabolic crosstalk underlying cancer progression and the strategic directions for drug development remain insufficiently synthesized. This review systematically summarizes the functional mechanisms of key signaling regulators involved in cancer metabolic reprogramming, including mammalian target of rapamycin complex 1 (mTORC1), myelocytomatosis viral oncogene homolog (c-Myc), hypoxia-inducible factor-1α (HIF-1α), activating transcription factor 4 (ATF4), nuclear factor erythroid 2-related factor 2 (NRF2), and sterol regulatory element-binding protein 1 (SREBP1). Notably, we highlight the interconnections among...",
+      "date": "2026-03-10",
+      "year": 2026,
+      "journal": "Molecular Biomedicine",
+      "source": "Molecular Biomedicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1186/s43556-026-00427-2",
+      "doi": "10.1186/s43556-026-00427-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s43556-026-00427-2.pdf",
+      "keywords": [
+        "Biology",
+        "Metabolic pathway",
+        "Glutaminolysis",
+        "Transcription factor",
+        "Cancer cell",
+        "Cancer, Hypoxia, and Metabolism",
+        "Cancer, Lipids, and Metabolism",
+        "Cancer Research and Treatments"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:19:56.552765+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2500,7 +2564,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.109453+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.548186+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2532,7 +2596,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.179898+00:00"
+      "_retrievedAt": "2026-06-09T20:19:55.963243+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2560,11 +2624,11 @@
         "Liver physiology and pathology"
       ],
       "readTime": "1 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
+      "citedBy": 10,
+      "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.109842+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.548505+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -2592,11 +2656,11 @@
         "Spacecraft Design and Technology"
       ],
       "readTime": "1 min",
-      "citedBy": 2,
+      "citedBy": 3,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.553829+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.825411+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -2628,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.113435+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.552392+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -2660,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.551342+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.824540+00:00"
     },
     {
       "id": "openalex-37facdeb2617",
@@ -2692,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.112719+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.551701+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -2724,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.595156+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.241074+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -2756,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.595848+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.241700+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2788,7 +2852,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.179102+00:00"
+      "_retrievedAt": "2026-06-09T20:19:55.962504+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -2820,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.593507+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.239569+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2852,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.595449+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.241362+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2884,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.551682+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.824825+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -2912,43 +2976,11 @@
         "Ecology and biodiversity studies"
       ],
       "readTime": "1 min",
-      "citedBy": 12,
+      "citedBy": 13,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.548567+00:00"
-    },
-    {
-      "id": "openalex-c22612c05697",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Extracellular Vesicles: A Comprehensive Review of Their Origins, Functions, and Therapeutic Potential",
-      "authors": "Madison Schank, Juan Zhao, L Wang, Jonathan P. Moorman, Zhi Q. Yao",
-      "abstract": "Extracellular vesicles (EVs) are membrane-bound particles secreted by most cell types that play a pivotal role in intercellular communication via transporting protein, nucleic acid, lipid, and metabolite cargos. Among EVs, exosomes are a well-characterized subtype, typically ranging from 10-150 nm in diameter and originating from the endosomal pathway via the formation of multivesicular bodies that fuse with the plasma membrane. EVs/exosomes can be isolated from various biological fluids and cultured cells, with production and yield influenced by the cell type and culture conditions. Isolation methods, including ultracentrifugation or density-based ultracentrifugation, tangential flow filtration, size-exclusion chromatography, immunoaffinity and membrane-affinity capture, and recently developed commercial equipment, offer distinct advantages and limitations in terms of purity, scalabi...",
-      "date": "2026-02-25",
-      "year": 2026,
-      "journal": "Biomedicines",
-      "source": "Biomedicines",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/biomedicines14030495",
-      "doi": "10.3390/biomedicines14030495",
-      "pdfUrl": "https://www.mdpi.com/2227-9059/14/3/495/pdf?version=1772009912",
-      "keywords": [
-        "Exosome",
-        "Microvesicles",
-        "Nanoparticle tracking analysis",
-        "Drug delivery",
-        "Cell biology",
-        "Extracellular vesicles in disease",
-        "interferon and immune responses",
-        "Selenium in Biological Systems"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.597765+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.822000+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -2980,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.548918+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.822337+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -3012,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.550197+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.823491+00:00"
     },
     {
       "id": "openalex-9eb31b2e7a82",
@@ -3044,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.597358+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.243377+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -3076,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.592721+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.238834+00:00"
     },
     {
       "id": "openalex-88008efb5422",
@@ -3108,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.596221+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.242338+00:00"
     },
     {
       "id": "openalex-6d7865beed8a",
@@ -3140,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.110551+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.549200+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -3172,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.593158+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.239248+00:00"
     },
     {
       "id": "openalex-3dfdd7ceaceb",
@@ -3204,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.594175+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.240168+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -3236,39 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.110215+00:00"
-    },
-    {
-      "id": "openalex-674f00ab3d07",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Bispecific T cell engagers for treatment-refractory autoimmune connective tissue diseases",
-      "authors": "Christina Düsing, Andrea-Hermina Györfi, Ayla Nadja Stütz, Laura-Marie Lahu, Franca Sophie Deicher, Y. LI",
-      "abstract": "Autoimmune-mediated connective tissue diseases such as antisynthetase syndrome (ASyS) and systemic sclerosis (SSc) have a high unmet medical need. Here we report on treatment under compassionate use with the CD19×CD3 T cell engager (TCE) blinatumomab and the BCMA×CD3 TCE teclistamab in five patients with treatment-refractory ASyS and in five patients with treatment-refractory SSc, respectively. Induction therapy with blinatumomab or teclistamab reduced target cells in affected muscle and skin, respectively, and decreased autoantibody titers. Blinatumomab induced rapid clinical, serological and histological improvement of myositis and stabilization of interstitial lung disease (ILD) in patients with ASyS. Teclistamab improved skin fibrosis, stabilized ILD and resolved tendon friction rubs in patients with SSc. Inhibition of B cell redifferentiation by maintenance therapy with rituximab...",
-      "date": "2026-02-19",
-      "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04238-4",
-      "doi": "10.1038/s41591-026-04238-4",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04238-4.pdf",
-      "keywords": [
-        "Medicine",
-        "Antisynthetase syndrome",
-        "Rituximab",
-        "Myositis",
-        "Blinatumomab",
-        "Inflammatory Myopathies and Dermatomyositis",
-        "Systemic Sclerosis and Related Diseases",
-        "Peripheral Neuropathies and Disorders"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.114184+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.548866+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -3296,11 +3296,11 @@
         "Glycogen Storage Diseases and Myoclonus"
       ],
       "readTime": "1 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
+      "citedBy": 10,
+      "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.592362+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.238539+00:00"
     },
     {
       "id": "openalex-18b220cd1ad9",
@@ -3332,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.553576+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.826763+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -3364,7 +3364,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.177829+00:00"
+      "_retrievedAt": "2026-06-09T20:19:55.961370+00:00"
     },
     {
       "id": "openalex-6a51321a829e",
@@ -3396,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:48.594486+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.240466+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -3428,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.553233+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.826464+00:00"
     },
     {
       "id": "openalex-da72c8fa26ec",
@@ -3460,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.110883+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.549856+00:00"
     },
     {
       "id": "openalex-ad7b90ca77d1",
@@ -3492,7 +3492,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.552871+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.826120+00:00"
+    },
+    {
+      "id": "openalex-eca0614819ca",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Wildfires on a changing planet",
+      "authors": "Olivia Haas, Iain Colin Prentice, Sandy P. Harrison",
+      "abstract": "Abstract The distribution of wildfires on Earth will change as climate, land-use, and vegetation change. We use global empirical models of burnt area, fire size and fire intensity to explore future wildfire trajectories under ~1.5 and 3-4 °C warming with middle of the road future socio-economic conditions. Even under ~1.5 °C warming we find a change in wildfire patterns by the end of the 21 st century with reduced burning in tropical regions driven by changes in human activity but larger and more intense wildfires in extra-tropical regions driven by changes in climate and CO 2 . With low climate change mitigation, burnt areas increase greatly across all vegetation types, overwhelming the current global decline. These findings suggest that even with ambitious climate change mitigation, current fire-suppression policies will fail in much of the world and mitigation scenarios that rely o...",
+      "date": "2026-02-12",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-025-68176-4",
+      "doi": "10.1038/s41467-025-68176-4",
+      "pdfUrl": "https://www.nature.com/articles/s41467-025-68176-4.pdf",
+      "keywords": [
+        "Climate change",
+        "Global warming",
+        "Vegetation (pathology)",
+        "Global change",
+        "Environmental science",
+        "Fire effects on ecosystems",
+        "Knowledge Management and Technology",
+        "Science and Climate Studies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 2,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-09T20:19:56.827040+00:00"
     },
     {
       "id": "openalex-9c7e2173bb4d",
@@ -3524,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.111505+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.550458+00:00"
     },
     {
       "id": "openalex-4306506c242f",
@@ -3556,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.111970+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.550875+00:00"
     },
     {
       "id": "openalex-3462112d7df3",
@@ -3588,7 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-09T15:25:49.552562+00:00"
+      "_retrievedAt": "2026-06-09T20:19:56.825855+00:00"
     }
   ]
 }
