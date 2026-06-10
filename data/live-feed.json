@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T10:21:57.586832+00:00",
+  "generatedAt": "2026-06-10T16:06:38.354181+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -7,452 +7,644 @@
   ],
   "papers": [
     {
-      "id": "rss-3045494fb905",
+      "id": "rss-c0acf6b1a777",
       "discipline": "clinical",
       "type": "news",
-      "title": "Injectable semaglutide shows early promise to improve fertility in women with PMOS",
+      "title": "Oral therapy enables at-home treatment for acute myeloid leukemia",
       "authors": "Medical Xpress",
-      "abstract": "Researchers at the University of Colorado Anschutz have published a proof-of-concept study in Fertility and Sterility demonstrating that injectable semaglutide may offer meaningful reproductive benefits for women with polyendocrine metabolic ovarian syndrome (PMOS), formerly known as polycystic ovary syndrome (PCOS).",
+      "abstract": "For years, treatment of older patients with acute myeloid leukemia—an aggressive cancer of the blood and bone marrow—has required injections administered in a clinic for five to seven consecutive days each month, in addition to an oral pill. For these older patients, that clinic cadence can be quite intensive.",
       "date": "2026-06-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-semaglutide-early-fertility-women-pmos.html",
+      "url": "https://medicalxpress.com/news/2026-06-oral-therapy-enables-home-treatment.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "injectable",
-        "semaglutide",
-        "fertility",
-        "women",
-        "pmos",
-        "syndrome",
-        "shows",
-        "early"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.583398+00:00"
-    },
-    {
-      "id": "rss-48942835b737",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Brain aneurysm map reveals cell types tied to rupture risk",
-      "authors": "Medical Xpress",
-      "abstract": "A new study from UC San Francisco shows how certain cells in the brain may cause aneurysms to weaken and rupture. It helps explain why some aneurysms burst while others do not and could lead to new ways of predicting and possibly preventing strokes.",
-      "date": "2026-06-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-brain-aneurysm-reveals-cell-rupture.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "brain",
-        "rupture",
-        "aneurysms",
-        "aneurysm",
-        "reveals",
-        "cell",
-        "types",
-        "tied"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.583645+00:00"
-    },
-    {
-      "id": "rss-a1778097e539",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "AI diagnoses brain tumors in minutes instead of weeks",
-      "authors": "Medical Xpress",
-      "abstract": "Experts in Heidelberg, Germany, have developed an AI system that can classify brain tumors with unprecedented accuracy using standard microscopic tissue sections. Using digitized standard stains, the system identifies more than 100 molecular subtypes of central nervous system tumors, delivers results within minutes and could accelerate the diagnosis of brain tumors worldwide. The work appears in Nature Cancer.",
-      "date": "2026-06-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-ai-brain-tumors-minutes-weeks.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "tumors",
-        "brain",
-        "system",
-        "minutes",
-        "standard",
-        "diagnoses",
-        "instead",
-        "weeks"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.583883+00:00"
-    },
-    {
-      "id": "rss-b259db666344",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Augmented reality system could make medical ultrasounds easier to interpret",
-      "authors": "Medical Xpress",
-      "abstract": "Interpreting medical ultrasound images is a difficult task, requiring a technician to look at 2D images and mentally arrange them into a 3D representation of what the tissue looks like. To make that job easier, MIT researchers have developed a new approach to ultrasound imaging that allows the user to visualize a 3D augmented-reality image of the object being scanned. Using a virtual-reality headset, they can see a precise 3D digital representation of what the object actually looks like, making it easier to identify and analyze.",
-      "date": "2026-06-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-augmented-reality-medical-ultrasounds-easier.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "easier",
-        "make",
-        "medical",
-        "ultrasound",
-        "images",
-        "representation",
-        "what",
-        "looks"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.584151+00:00"
-    },
-    {
-      "id": "rss-ed3c7c388098",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Living with cats does not worsen asthma in children, suggests study",
-      "authors": "Medical Xpress",
-      "abstract": "Asthma is the most common chronic disease and one of the main causes of hospitalization among children. The Global Asthma Network has estimated that its global prevalence is 9.1% for children and 11.0% for adolescents, but this percentage varies greatly among countries, regions and environments. Worldwide, the highest prevalence of pediatric asthma—above 20%—occurs in the British Isles and in parts of Oceania and the Middle East. Known risk factors for developing asthma include exposure to air pollution and smoking, childhood viral infections, obesity, and pre-existing allergies such as eczema or hay fever.",
-      "date": "2026-06-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-cats-worsen-asthma-children.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "asthma",
-        "children",
-        "among",
-        "global",
-        "prevalence",
-        "living",
-        "cats",
-        "does"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.584455+00:00"
-    },
-    {
-      "id": "rss-7fe3e33bd4df",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "At a Tennessee hospital, nurse stole fentanyl and AI missed it, state records say",
-      "authors": "Medical Xpress",
-      "abstract": "About a year ago at Erlanger Baroness, the largest hospital in Chattanooga, anesthesia staff noticed that a nurse was slurring his words and struggling to stay awake while on duty in the surgery center, according to a Tennessee Board of Nursing consent order.",
-      "date": "2026-06-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-tennessee-hospital-nurse-stole-fentanyl.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "tennessee",
-        "hospital",
-        "nurse",
-        "stole",
-        "fentanyl",
-        "missed",
-        "state",
-        "records"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.584669+00:00"
-    },
-    {
-      "id": "rss-60c5fe9bb8e4",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Radioligand therapy eligibility in EU could surge tenfold by 2035",
-      "authors": "Medical Xpress",
-      "abstract": "A recent study published in The Lancet Regional Health—Europe estimates that the number of patients eligible for radioligand therapies (RLTs) in the EU-27 could increase from 10,700–13,200 in 2025 to 125,900–182,600 by 2035. To assess the implications for health care systems, the analysis also modeled treatment uptake scenarios in Germany, France, Italy, and Spain. The findings highlight the potential scale of demand over the next decade and provide insights for long-term planning of the infrastructure, workforce, and health care capacity needed to ensure access to RLTs.",
-      "date": "2026-06-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-radioligand-therapy-eligibility-eu-surge.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "health",
-        "radioligand",
-        "could",
-        "rlts",
-        "care",
-        "therapy",
-        "eligibility",
-        "surge"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.584951+00:00"
-    },
-    {
-      "id": "rss-30531c29bbcd",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Life after work: Why social connections matter",
-      "authors": "Medical Xpress",
-      "abstract": "Social networks may help protect cognitive functioning in later life, particularly among older adults who are no longer working, according to a new IIASA-led study. Drawing on data from 27 European countries, the researchers found that social connections can help compensate for the loss of mentally stimulating interactions linked to work, with different types of relationships benefiting women and men.",
-      "date": "2026-06-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-life-social.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "social",
-        "life",
-        "work",
-        "connections",
-        "help",
-        "after",
-        "matter",
-        "networks"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.585211+00:00"
-    },
-    {
-      "id": "rss-6033ea66ae73",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Common infection does not increase risk of recurrent preterm birth, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "A new study from UTHealth Houston has found that the common sexually transmitted infection Mycoplasma genitalium, also known as MGen, does not appear to increase the risk of recurrent preterm birth. The findings are published in The American Journal of Obstetrics and Gynecology.",
-      "date": "2026-06-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-common-infection-recurrent-preterm-birth.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "common",
-        "infection",
-        "does",
-        "increase",
-        "risk",
-        "recurrent",
-        "preterm",
-        "birth"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.585429+00:00"
-    },
-    {
-      "id": "rss-e74f27b93a6f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Key protein behind chemotherapy resistance in colorectal cancer identified",
-      "authors": "Medical Xpress",
-      "abstract": "One of the most widely used chemotherapeutic agents for colorectal cancer is 5-fluorouracil (5-FU), a cornerstone treatment that has improved outcomes for countless patients. However, repeated treatment often leads to drug resistance, allowing cancer cells to adapt and gradually evade the effects of therapy.",
-      "date": "2026-06-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-key-protein-chemotherapy-resistance-colorectal.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "resistance",
-        "colorectal",
+        "oral",
         "treatment",
-        "protein",
-        "behind",
-        "chemotherapy",
-        "identified"
+        "acute",
+        "myeloid",
+        "leukemia",
+        "older",
+        "patients",
+        "clinic"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.585641+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.459678+00:00"
     },
     {
-      "id": "rss-e82ef19cbb81",
+      "id": "rss-7f1e9ff1ab8a",
       "discipline": "clinical",
       "type": "news",
-      "title": "Hidden inflammatory patterns in primary ciliary dyskinesia could improve treatment of other chronic lung conditions",
+      "title": "'Lime bike leg': What doctors are seeing in ebike crashes",
       "authors": "Medical Xpress",
-      "abstract": "Researchers at UTHealth Houston have identified different types of hidden systemic inflammation in patients with primary ciliary dyskinesia, even when they are not experiencing acute illness. The findings are published in the Annals of the American Thoracic Society.",
+      "abstract": "A man in his 30s arrived at the Royal London Major Trauma Centre after what sounded like a relatively minor cycling accident. He had been riding a shared ebike when he lost control and fell. By the time I met him, scans had revealed a complex fracture around his ankle where his shinbone (tibia) had pierced his skin. He would need multiple surgeries to fix his broken bone and grafts for his skin and muscles, followed by many months of rehabilitation and a prolonged period away from work.",
       "date": "2026-06-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-hidden-inflammatory-patterns-primary-ciliary.html",
+      "url": "https://medicalxpress.com/news/2026-06-lime-bike-leg-doctors-ebike.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "hidden",
-        "primary",
-        "ciliary",
-        "dyskinesia",
-        "inflammatory",
-        "patterns",
-        "could",
-        "improve"
+        "what",
+        "ebike",
+        "skin",
+        "lime",
+        "bike",
+        "doctors",
+        "seeing",
+        "crashes"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.585856+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.459981+00:00"
     },
     {
-      "id": "rss-a8ea03786947",
+      "id": "rss-23df8b15bfff",
       "discipline": "clinical",
       "type": "news",
-      "title": "Vaping e-cigarettes leads to early signs of lung disease in young adults",
+      "title": "First report on the clinical efficacy of chemoimmunotherapy for ultra-rare urachal cancer",
       "authors": "Medical Xpress",
-      "abstract": "A product that was introduced as a safer alternative to smoking is causing lung and cardiovascular damage in young adults, according to new University of Alberta research published today.",
+      "abstract": "Physician-scientists at Kanazawa University have demonstrated, for the first time, the clinical efficacy of chemoimmunotherapy in patients with ultra-rare urachal cancer. Furthermore, their reverse translational research elucidated the mechanism by which the addition of immunotherapy enhances the efficacy of chemotherapy.",
       "date": "2026-06-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-vaping-cigarettes-early-lung-disease.html",
+      "url": "https://medicalxpress.com/news/2026-06-clinical-efficacy-chemoimmunotherapy-ultra-rare.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "lung",
-        "young",
-        "adults",
-        "vaping",
-        "e-cigarettes",
-        "leads",
-        "early",
-        "signs"
+        "efficacy",
+        "first",
+        "clinical",
+        "chemoimmunotherapy",
+        "ultra-rare",
+        "urachal",
+        "cancer",
+        "report"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.586053+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.460208+00:00"
     },
     {
-      "id": "rss-9f4e9f1294c4",
+      "id": "rss-b6bbd3150bd6",
       "discipline": "clinical",
       "type": "news",
-      "title": "Study looks at barriers to initiation of rotavirus vaccine",
+      "title": "Rural drivers at greater risk for impaired driving",
       "authors": "Medical Xpress",
-      "abstract": "Risk factors for not initiating a rotavirus vaccine (RVV)—for which the first dose is recommended by a maximum age of 14 weeks, six days—include extremely preterm birth and having no health insurance, according to a study published in Pediatrics.",
+      "abstract": "Drivers involved in serious accidents in rural areas have a higher prevalence of drunk driving, detectable cannabis and polysubstance use than urban drivers, according to a Canada-wide study published in the journal Traffic Injury Prevention.",
       "date": "2026-06-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-barriers-rotavirus-vaccine.html",
+      "url": "https://medicalxpress.com/news/2026-06-rural-drivers-greater-impaired.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "rotavirus",
-        "vaccine",
-        "looks",
-        "barriers",
-        "initiation",
+        "drivers",
+        "rural",
+        "driving",
+        "greater",
         "risk",
-        "factors",
-        "initiating"
+        "impaired",
+        "involved",
+        "serious"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.586282+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.460413+00:00"
     },
     {
-      "id": "rss-d3d3b99a051d",
+      "id": "rss-99abb3421372",
       "discipline": "clinical",
       "type": "news",
-      "title": "How skilled soccer players outsmart defenders through coordinated motion",
+      "title": "Canadian women have to advocate for themselves when seeking treatment for high blood pressure: study",
       "authors": "Medical Xpress",
-      "abstract": "Researchers at University of Tsukuba examined feint dribbling in soccer to clarify how skilled players successfully penetrate defensive pressure in one-on-one situations. Their findings demonstrate that effective dribbling is not simply a matter of speed; rather, it is a complex, coordinated skill that involves the integrated regulation of interpersonal distance (spacing), relative speed between attacker and defender, and acceleration in response to defensive movement.",
+      "abstract": "Canadian women have to advocate for themselves when it comes to seeking treatment for high blood pressure, according to a new study from a team of researchers at the University of Alberta and the University of Ottawa. The findings are published in the journal CJC Open.",
       "date": "2026-06-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-skilled-soccer-players-outsmart-defenders.html",
+      "url": "https://medicalxpress.com/news/2026-06-canadian-women-advocate-treatment-high.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "skilled",
-        "soccer",
-        "players",
-        "coordinated",
-        "dribbling",
-        "defensive",
-        "that",
-        "speed"
+        "canadian",
+        "women",
+        "have",
+        "advocate",
+        "themselves",
+        "when",
+        "seeking",
+        "treatment"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.586526+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.460642+00:00"
+    },
+    {
+      "id": "rss-90ae4a7c02b9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "GLP-1s may alleviate depression through the microbiome, mouse study suggests",
+      "authors": "Medical Xpress",
+      "abstract": "Some people taking GLP-1 drugs for diabetes and obesity experience mental health benefits—particularly a decrease in symptoms of depression. In a mouse model study published in Cell Host & Microbe, researchers report that these mental health improvements appear to result from changes in the gut microbiome that lead to an abundance of a microbial strain known to have a favorable effect on neurons related to stress.",
+      "date": "2026-06-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-glp-1s-alleviate-depression-microbiome.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "glp-",
+        "depression",
+        "microbiome",
+        "mouse",
+        "mental",
+        "health",
+        "that",
+        "alleviate"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:37.460913+00:00"
+    },
+    {
+      "id": "rss-5cdf505f43ab",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Safety concerns biggest barrier to vaccination for parents",
+      "authors": "Medical Xpress",
+      "abstract": "Most vaccine-hesitant parents aren't opposed to vaccination but simply desire to protect their children from all harms, according to a review.",
+      "date": "2026-06-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-safety-biggest-barrier-vaccination-parents.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "vaccination",
+        "parents",
+        "safety",
+        "concerns",
+        "biggest",
+        "barrier",
+        "most",
+        "vaccine-hesitant"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:37.461104+00:00"
+    },
+    {
+      "id": "rss-14cccd17db2c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Smartphone tests spot cognitive decline faster than standard method",
+      "authors": "Medical Xpress",
+      "abstract": "People with mild cognitive impairment (MCI) are at higher risk of developing dementia. Indeed, many of them experience a gradual decline in cognitive performance over time. Smartphone- or tablet-based memory tests can capture this subtle decline more quickly than conventional testing. These findings come from a study by DZNE in collaboration with university hospitals in Germany, the University of Wisconsin–Madison in the United States, and the startup neotiv.",
+      "date": "2026-06-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-smartphone-cognitive-decline-faster-standard.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cognitive",
+        "decline",
+        "tests",
+        "than",
+        "university",
+        "smartphone",
+        "spot",
+        "faster"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:37.461373+00:00"
+    },
+    {
+      "id": "rss-19ce989706a7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Researchers identify which eye infections pose greatest threat to vision",
+      "authors": "Medical Xpress",
+      "abstract": "Eye surgery today is safer than ever, yet ophthalmologists must remain watchful for a rare but serious complication that can threaten sight within days: a bacterial eye infection called endophthalmitis. Now, clinician-scientists at the University of Utah's John A. Moran Eye Center have identified which types of endophthalmitis pose the greatest danger—findings that could help deliver faster, more personalized treatment to improve a patient's chances of recovery.",
+      "date": "2026-06-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-eye-infections-pose-greatest-threat.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "which",
+        "pose",
+        "greatest",
+        "that",
+        "endophthalmitis",
+        "researchers",
+        "identify",
+        "infections"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:37.461652+00:00"
+    },
+    {
+      "id": "rss-07a09a6e8409",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Shared recollections of events linked to similar brain activity patterns",
+      "authors": "Medical Xpress",
+      "abstract": "People who attended or experienced the same event often remember it in completely different ways. For instance, one person might remember a family dinner as warm and enjoyable, while another might recall that the same dinner was uncomfortable or emotionally demanding.",
+      "date": "2026-06-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-recollections-events-linked-similar-brain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "same",
+        "remember",
+        "might",
+        "dinner",
+        "shared",
+        "recollections",
+        "events",
+        "linked"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:37.461870+00:00"
+    },
+    {
+      "id": "rss-0601d448098f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "The science of sweat: A researcher is helping Brazil prepare for the heat of the World Cup",
+      "authors": "Medical Xpress",
+      "abstract": "As the world's best soccer players prepare for the 2026 FIFA World Cup across North America this summer, teams are gearing up not only for opponents but also for the heat. In stadiums from Miami to Mexico City, soaring temperatures and humidity could affect matches, recovery times and ultimately championship outcomes. And behind one of the most storied teams in soccer history is a University of Florida scientist using the science of sweat to help athletes perform, recover and stay healthy in extreme heat.",
+      "date": "2026-06-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-science-brazil-world-cup.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "heat",
+        "world",
+        "sweat",
+        "prepare",
+        "soccer",
+        "teams",
+        "researcher",
+        "helping"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:37.462132+00:00"
+    },
+    {
+      "id": "rss-1b3cfb42a74d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "1 in 3 middle-aged adults struggle with basic 'everyday' health tasks, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "A new Northwestern University study has found one in three middle-aged American adults ages 35 to 64 cannot consistently read prescription instructions correctly, understand medical forms or recall details from doctor visits involving chronic condition diagnoses. These skills—often referred to as health literacy—are critical for managing common conditions such as high blood pressure, high cholesterol and diabetes, which commonly emerge in midlife.",
+      "date": "2026-06-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-middle-aged-adults-struggle-basic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "middle-aged",
+        "adults",
+        "health",
+        "high",
+        "struggle",
+        "basic",
+        "everyday",
+        "tasks"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:37.462396+00:00"
+    },
+    {
+      "id": "rss-3a2e1960d727",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Japan's quality of life kept sliding after COVID restrictions ended, study reveals",
+      "authors": "Medical Xpress",
+      "abstract": "A nationwide study tracking Japanese adults before, during and after the COVID-19 pandemic found that health-related quality of life steadily declined over seven years and did not rebound after the public health emergency ended. Researchers say the decline may reflect the cumulative impact of pandemic-related changes in physical activity, mental well-being and social interaction among working-age adults across Japan.",
+      "date": "2026-06-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-japan-quality-life-covid-restrictions.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "after",
+        "japan",
+        "quality",
+        "life",
+        "ended",
+        "adults",
+        "kept",
+        "sliding"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:37.462643+00:00"
+    },
+    {
+      "id": "rss-66c59daf4525",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Pushy NHS chatbots risk putting patients off screening appointments, researchers warn",
+      "authors": "Medical Xpress",
+      "abstract": "Patients booking cervical screening appointments through an AI chatbot respond positively to friendliness and choice-oriented language, but are put off by overmessaging, pushy reminders and blurred human-AI boundaries, according to new research from the University of Surrey.",
+      "date": "2026-06-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-pushy-nhs-chatbots-patients-screening.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "pushy",
+        "patients",
+        "screening",
+        "appointments",
+        "chatbots",
+        "risk",
+        "putting",
+        "researchers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:37.462854+00:00"
+    },
+    {
+      "id": "rss-844488e8067b",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+      "authors": "TechCrunch AI",
+      "abstract": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+      "date": "2026-06-10",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cybersecurity",
+        "researchers",
+        "guardrails",
+        "anthropic",
+        "fable",
+        "that",
+        "aren",
+        "happy"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:37.582173+00:00"
+    },
+    {
+      "id": "rss-dfaafaad8a18",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "authors": "TechCrunch AI",
+      "abstract": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
+      "date": "2026-06-10",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "coding",
+        "startup",
+        "niteshift",
+        "lock-in",
+        "datadog",
+        "veterans",
+        "launch",
+        "against"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:37.582433+00:00"
+    },
+    {
+      "id": "rss-cd2e9824be7a",
+      "discipline": "cs",
+      "type": "news",
+      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+      "authors": "TechCrunch AI",
+      "abstract": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
+      "date": "2026-06-10",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "spacex",
+        "three",
+        "hard-tech",
+        "moonshots",
+        "fueling",
+        "unbelievable",
+        "most",
+        "value"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:37.582647+00:00"
+    },
+    {
+      "id": "rss-967d762dc3a8",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Warner Music acquires AI attribution startup Sureel AI",
+      "authors": "TechCrunch AI",
+      "abstract": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+      "date": "2026-06-10",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "warner",
+        "music",
+        "acquires",
+        "attribution",
+        "startup",
+        "sureel",
+        "acquisition",
+        "aims"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:37.582826+00:00"
+    },
+    {
+      "id": "rss-86da058a6dd4",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "authors": "TechCrunch AI",
+      "abstract": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+      "date": "2026-06-10",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "ventures",
+        "jedify",
+        "raises",
+        "help",
+        "companies",
+        "agents",
+        "context",
+        "their"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:37.583014+00:00"
+    },
+    {
+      "id": "rss-cc97123b5d92",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+      "authors": "TechCrunch AI",
+      "abstract": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
+      "date": "2026-06-10",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "decart",
+        "world",
+        "photorealistic",
+        "driving",
+        "simulate",
+        "hours",
+        "some",
+        "caveats"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:37.583203+00:00"
     },
     {
       "id": "rss-739726699887",
@@ -484,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.717487+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.583339+00:00"
     },
     {
       "id": "rss-5abbe3e01a67",
@@ -516,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.717687+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.583471+00:00"
     },
     {
       "id": "rss-8cb2f4a1e892",
@@ -548,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.888028+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.777021+00:00"
     },
     {
       "id": "rss-575acaaa10fc",
@@ -580,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.717861+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.583630+00:00"
     },
     {
       "id": "rss-f61abfc474ed",
@@ -612,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.718023+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.583783+00:00"
     },
     {
       "id": "rss-8e525c7ced0a",
@@ -644,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.718195+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.583927+00:00"
     },
     {
       "id": "rss-d733b5e3bb37",
@@ -676,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.718342+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.584069+00:00"
     },
     {
       "id": "rss-41312156ac0a",
@@ -708,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.718487+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.584215+00:00"
     },
     {
       "id": "rss-c542cfa47a97",
@@ -740,199 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.718650+00:00"
-    },
-    {
-      "id": "rss-f184ecf74c89",
-      "discipline": "cs",
-      "type": "news",
-      "title": "It’s not FAANG anymore. It’s MANGOS.",
-      "authors": "TechCrunch AI",
-      "abstract": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "faang",
-        "mangos",
-        "anymore",
-        "spacex",
-        "anthropic",
-        "openai",
-        "eyeing",
-        "massive"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.718811+00:00"
-    },
-    {
-      "id": "rss-ce29542f78e1",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-      "authors": "TechCrunch AI",
-      "abstract": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "sandstone",
-        "raises",
-        "bring",
-        "in-house",
-        "legal",
-        "teams",
-        "series",
-        "comes"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.718939+00:00"
-    },
-    {
-      "id": "rss-955eabc7e523",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-      "authors": "TechCrunch AI",
-      "abstract": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "lovable",
-        "says",
-        "annualized",
-        "revenue",
-        "million",
-        "projects",
-        "week",
-        "surpassed"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.719081+00:00"
-    },
-    {
-      "id": "rss-2057efb55750",
-      "discipline": "cs",
-      "type": "news",
-      "title": "How an e-scooter founder raised $5 million to build space data centers",
-      "authors": "TechCrunch AI",
-      "abstract": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "founder",
-        "space",
-        "centers",
-        "e-scooter",
-        "raised",
-        "million",
-        "build",
-        "orbital"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.719228+00:00"
-    },
-    {
-      "id": "rss-66fdd20f1162",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-      "authors": "TechCrunch AI",
-      "abstract": "Can Apple's new AI glow-up put to bed accusations that it's losing an all-important industry race?",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "apple",
-        "slow-and-steady",
-        "starting",
-        "look",
-        "pretty",
-        "smart",
-        "glow-up",
-        "accusations"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.719374+00:00"
-    },
-    {
-      "id": "rss-732580fb1b40",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
-      "authors": "TechCrunch AI",
-      "abstract": "Sequoia is just one of the top firms that sells same equity at two different prices.",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "sequoia",
-        "mercor",
-        "brendan",
-        "foody",
-        "calls",
-        "accusing",
-        "dual-pricing",
-        "valuation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.719518+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.584378+00:00"
     },
     {
       "id": "rss-f27c800555f2",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.888213+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.777181+00:00"
     },
     {
       "id": "rss-130a779b2400",
@@ -996,7 +996,71 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:57.224345+00:00"
+      "_retrievedAt": "2026-06-10T16:06:38.005368+00:00"
+    },
+    {
+      "id": "openalex-42a964175819",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs)",
+      "authors": "Tarek Ali, Panos Kostakos, Saeid Sheikhi",
+      "abstract": "Machine learning (ML) methods for network anomaly detection are emerging as effective proactive strategies in threat hunting, substantially reducing the time required for threat detection and response. However, the challenges in training and maintaining ML models, coupled with frequent false positives, diminish their acceptance and trustworthiness. In response, Explainable AI (XAI) techniques have been introduced to enable cybersecurity operations teams to assess alerts generated by AI systems more confidently. Despite these advancements, XAI tools have encountered limited acceptance from incident responders and have struggled to meet the decision-making needs of both analysts and model maintainers. Large Language Models (LLMs) offer a unique approach to tackling these challenges. Through tuning, LLMs have the ability to discern patterns across vast amounts of information and meet var...",
+      "date": "2026-06-08",
+      "year": 2026,
+      "journal": "Telecom",
+      "source": "Telecom",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/telecom7030073",
+      "doi": "10.3390/telecom7030073",
+      "pdfUrl": "https://doi.org/10.3390/telecom7030073",
+      "keywords": [
+        "Computer science",
+        "Intrusion detection system",
+        "Anomaly detection",
+        "False positive paradox",
+        "Artificial intelligence",
+        "Network Security and Intrusion Detection",
+        "Information and Cyber Security",
+        "Anomaly Detection Techniques and Applications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 39,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:31.535845+00:00"
+    },
+    {
+      "id": "rss-2dfddbb1e70d",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA’s SOLAR-1 enters new era of space weather monitoring",
+      "authors": "NOAA News",
+      "abstract": "NOAA’s SOLAR-1 enters new era of space weather monitoring June 10, 2026 An artist rendering of NOAA's SOLAR-1 satellite (formerly SWFO-L1) in its final position in space orbit next to an image of the sun producing a coronal mass ejection. Earth is seen 1 million miles away in the far distance on the right of the image. (Image credit: NOAA) Download Image NOAA’s Space weather Observations at L1 to Advance Readiness – 1 (SOLAR-1) observatory has officially entered operational service, marking a major milestone for the nation’s resilience to space weather events. SOLAR-1 is the first U.S. satellite designed exclusively for continuous, operational space weather observations. “SOLAR-1 will provide improved observations and high-quality 24/7 data about our sun,\" said Irene Parker, acting assistant administrator for NOAA Satellite & Information Service (NESDIS). \"SOLAR-1 continues the observ...",
+      "date": "2026-06-08",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/noaas-solar-1-enters-new-era-of-space-weather-monitoring",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "solar-",
+        "noaa",
+        "space",
+        "weather",
+        "image",
+        "satellite",
+        "observations",
+        "enters"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:38.005969+00:00"
     },
     {
       "id": "rss-c0f99ae68619",
@@ -1028,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:57.224540+00:00"
+      "_retrievedAt": "2026-06-10T16:06:38.006156+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1060,7 +1124,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:50.679801+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.535267+00:00"
     },
     {
       "id": "rss-2154e7a8aa14",
@@ -1092,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.888355+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.777327+00:00"
     },
     {
       "id": "rss-943471709773",
@@ -1124,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:57.224739+00:00"
+      "_retrievedAt": "2026-06-10T16:06:38.006354+00:00"
     },
     {
       "id": "rss-4d7859cbc7e2",
@@ -1156,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:57.225233+00:00"
+      "_retrievedAt": "2026-06-10T16:06:38.006845+00:00"
     },
     {
       "id": "rss-0976470de9a8",
@@ -1188,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.888504+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.777475+00:00"
     },
     {
       "id": "rss-29f40dfdd1a7",
@@ -1220,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.888648+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.777642+00:00"
     },
     {
       "id": "rss-14174cf7fd0f",
@@ -1252,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.888798+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.777799+00:00"
     },
     {
       "id": "rss-509ced476342",
@@ -1284,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.888934+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.777934+00:00"
     },
     {
       "id": "rss-b863d19e76fc",
@@ -1316,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.889070+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.778070+00:00"
     },
     {
       "id": "rss-20fd947dca39",
@@ -1348,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:57.225415+00:00"
+      "_retrievedAt": "2026-06-10T16:06:38.007027+00:00"
     },
     {
       "id": "rss-96f7cd2f086e",
@@ -1380,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:57.225855+00:00"
+      "_retrievedAt": "2026-06-10T16:06:38.007469+00:00"
     },
     {
       "id": "rss-c14743cff0aa",
@@ -1412,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:57.226046+00:00"
+      "_retrievedAt": "2026-06-10T16:06:38.007668+00:00"
     },
     {
       "id": "rss-8ef0c0e4dd40",
@@ -1444,7 +1508,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:57.226298+00:00"
+      "_retrievedAt": "2026-06-10T16:06:38.007904+00:00"
+    },
+    {
+      "id": "openalex-797c77e03bf0",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Advancements in Machine Learning and Deep Learning for Early Detection and Management of Mental Health Disorder",
+      "authors": "Kamala Devi Kannan, Senthil Kumar Jagatheesaperumal, Kandala N. V. P. S. Rajesh, Mojtaba Lotfaliany, Roohallah Alizadehsanid, Mohammadreza Mohebbi",
+      "abstract": "For the early identification, diagnosis, and treatment of mental health illnesses, the integration of deep learning (DL) and machine learning (ML) have started playing a significant role. By evaluating complex data from imaging, genetics, and behavioral assessments, these technologies have the potential to improve clinical results significantly. However, they also present unique challenges relating to data integration and ethical issues. The development of ML and DL methods for the early diagnosis and treatment of mental health issues is reviewed in this survey. It examines a range of applications, with a particular emphasis on behavioral assessments, genetic and biomarker analysis, and medical imaging for the diagnosis of diseases like depression, bipolar disorder, and schizophrenia. Predictive modeling for illness development is further discussed in the review, focusing on the funct...",
+      "date": "2026-06-01",
+      "year": 2026,
+      "journal": "Journal of Affective Disorders Reports",
+      "source": "Journal of Affective Disorders Reports",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.jadr.2026.101100",
+      "doi": "10.1016/j.jadr.2026.101100",
+      "pdfUrl": "https://doi.org/10.1016/j.jadr.2026.101100",
+      "keywords": [
+        "Deep learning",
+        "Mental health",
+        "Artificial intelligence",
+        "Psychology",
+        "Computer science",
+        "Mental Health Research Topics",
+        "Digital Mental Health Interventions",
+        "learning"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:32.637729+00:00"
     },
     {
       "id": "rss-cd85f6f3bf65",
@@ -1476,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:57.226779+00:00"
+      "_retrievedAt": "2026-06-10T16:06:38.008392+00:00"
     },
     {
       "id": "rss-fe9bc1999c2c",
@@ -1508,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.889215+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.778206+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1540,39 +1636,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:52.243032+00:00"
-    },
-    {
-      "id": "rss-1838478b2566",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Dive into the Ocean Literacy Principles with NOAA resource collections",
-      "authors": "NOAA News",
-      "abstract": "Dive into the Ocean Literacy Principles with NOAA resource collections June is National Ocean Month! The ocean is the defining feature on our blue planet. All life, including our own, exists because of the ocean. Celebrate World Ocean Month with NOAA Education! (Image credit: NOAA Education) Download Image June 8, 2026 Want to learn more about all the wonders of the ocean? The Ocean Literacy Framework offsite link includes the essential principles and fundamental concepts of ocean science that you can use to better understand the ocean’s influence on you — and your influence on the ocean. This year, celebrate World Ocean Day by learning about the seven ocean literacy principles. Then, check out the themed education resource collections paired with each principle below! Earth has one big ocean with many features If you could watch planet Earth rotate from space, there’d be a time each...",
-      "date": "2026-05-27",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/office-education/stories/dive-into-ocean-literacy-principles-with-noaa-resource-collections",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ocean",
-        "literacy",
-        "principles",
-        "noaa",
-        "resource",
-        "collections",
-        "education",
-        "dive"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:57.227494+00:00"
+      "_retrievedAt": "2026-06-10T16:06:33.190333+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -1604,7 +1668,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:50.681748+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.537616+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -1636,7 +1700,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:50.682742+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.538592+00:00"
     },
     {
       "id": "rss-8a5e8a3301a1",
@@ -1668,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.889349+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.778341+00:00"
     },
     {
       "id": "rss-2b72b6519fb3",
@@ -1700,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.889478+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.778471+00:00"
     },
     {
       "id": "rss-9b5fb86c5fb5",
@@ -1732,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.889611+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.778615+00:00"
     },
     {
       "id": "openalex-2a2df0665fcc",
@@ -1764,7 +1828,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.832192+00:00"
+      "_retrievedAt": "2026-06-10T16:06:32.636569+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1796,7 +1860,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:50.679507+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.534985+00:00"
     },
     {
       "id": "rss-072e8cd7bee1",
@@ -1828,7 +1892,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.889735+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.778740+00:00"
     },
     {
       "id": "rss-118e3c38b86e",
@@ -1860,7 +1924,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:56.889896+00:00"
+      "_retrievedAt": "2026-06-10T16:06:37.778902+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1892,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:50.680002+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.535466+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1924,7 +1988,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:50.679140+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.534631+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -1956,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:52.241936+00:00"
+      "_retrievedAt": "2026-06-10T16:06:33.188533+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -1988,7 +2052,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:50.683273+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.539110+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2020,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.830557+00:00"
+      "_retrievedAt": "2026-06-10T16:06:32.634655+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2052,7 +2116,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:50.681975+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.537850+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2084,7 +2148,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:50.680560+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.536390+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2116,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:50.680271+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.536105+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2148,39 +2212,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.832768+00:00"
-    },
-    {
-      "id": "openalex-945b66507d32",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Data-Centric Foundation Models in Computational Healthcare: A Survey",
-      "authors": "Yunkun Zhang, Jin Gao, Zheling Tan, Lingfeng Zhou, Kexin Ding, Mu Zhou",
-      "abstract": "The advent of foundation models (FMs) as an emerging suite of AI techniques has struck a wave of opportunities in computational healthcare. The interactive nature of these models, guided by pre-training data and human instructions, has ignited a data-centric AI paradigm that emphasizes better data characterization, quality, and scale. In healthcare AI, obtaining and processing high-quality clinical data records has been a longstanding challenge, encompassing data quantity, annotation, patient privacy, and ethics. In this survey, we investigate a wide range of data-centric approaches in the FM era (from model pre-training to inference) towards improving the healthcare workflow. We discuss key perspectives in AI security, assessment, and alignment with human values. Finally, we offer a promising outlook on FM-based analytics to enhance patient outcomes and clinical workflows in the evol...",
-      "date": "2026-03-28",
-      "year": 2026,
-      "journal": "ACM Computing Surveys",
-      "source": "ACM Computing Surveys",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3800677",
-      "doi": "10.1145/3800677",
-      "pdfUrl": "https://doi.org/10.1145/3800677",
-      "keywords": [
-        "Workflow",
-        "Data science",
-        "Health care",
-        "Computer science",
-        "Inference",
-        "Machine Learning in Healthcare",
-        "Artificial Intelligence in Healthcare and Education",
-        "Radiomics and Machine Learning in Medical Imaging"
-      ],
-      "readTime": "1 min",
-      "citedBy": 16,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:50.683532+00:00"
+      "_retrievedAt": "2026-06-10T16:06:32.637435+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -2212,7 +2244,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:50.681466+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.537328+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2244,7 +2276,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:50.680912+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.536778+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -2276,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.255488+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.967898+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -2304,11 +2336,11 @@
         "Cancer Research and Treatments"
       ],
       "readTime": "1 min",
-      "citedBy": 3,
+      "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.255216+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.967033+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -2340,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.254557+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.967295+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -2372,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.253447+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.966176+00:00"
     },
     {
       "id": "openalex-59f3240e8b8c",
@@ -2400,11 +2432,11 @@
         "Coastal wetland ecosystem dynamics"
       ],
       "readTime": "1 min",
-      "citedBy": 4,
+      "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:52.243965+00:00"
+      "_retrievedAt": "2026-06-10T16:06:33.189973+00:00"
     },
     {
       "id": "openalex-4b1dee987f4c",
@@ -2436,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.252575+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.965299+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2468,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:52.242680+00:00"
+      "_retrievedAt": "2026-06-10T16:06:33.189639+00:00"
     },
     {
       "id": "openalex-21e2af519ee1",
@@ -2500,39 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.833515+00:00"
-    },
-    {
-      "id": "openalex-d7f83e5bb105",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Metabolic reprogramming in cancer: dysregulation of glucose, lipid, and amino acid pathways and therapeutic opportunities",
-      "authors": "Mingkang Yu, Di Yang, Xiuli Chen, Yuling Yang, Bingqiang Zhang, Xinxin Jiang",
-      "abstract": "Metabolic reprogramming is a hallmark of cancer, including hepatocellular carcinoma (HCC). Cancer cells exhibit enhanced glucose and glutamine uptake, increased glycolysis, pentose phosphate pathway activity, de novo lipogenesis, and altered amino acid metabolism. However, the metabolic crosstalk underlying cancer progression and the strategic directions for drug development remain insufficiently synthesized. This review systematically summarizes the functional mechanisms of key signaling regulators involved in cancer metabolic reprogramming, including mammalian target of rapamycin complex 1 (mTORC1), myelocytomatosis viral oncogene homolog (c-Myc), hypoxia-inducible factor-1α (HIF-1α), activating transcription factor 4 (ATF4), nuclear factor erythroid 2-related factor 2 (NRF2), and sterol regulatory element-binding protein 1 (SREBP1). Notably, we highlight the interconnections among...",
-      "date": "2026-03-10",
-      "year": 2026,
-      "journal": "Molecular Biomedicine",
-      "source": "Molecular Biomedicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s43556-026-00427-2",
-      "doi": "10.1186/s43556-026-00427-2",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s43556-026-00427-2.pdf",
-      "keywords": [
-        "Biology",
-        "Metabolic pathway",
-        "Glutaminolysis",
-        "Transcription factor",
-        "Cancer cell",
-        "Cancer, Hypoxia, and Metabolism",
-        "Cancer, Lipids, and Metabolism",
-        "Cancer Research and Treatments"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.834828+00:00"
+      "_retrievedAt": "2026-06-10T16:06:32.638178+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2564,7 +2564,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.830909+00:00"
+      "_retrievedAt": "2026-06-10T16:06:32.635314+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2596,7 +2596,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:50.682973+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.538816+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2624,11 +2624,11 @@
         "Liver physiology and pathology"
       ],
       "readTime": "1 min",
-      "citedBy": 10,
+      "citedBy": 11,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.831232+00:00"
+      "_retrievedAt": "2026-06-10T16:06:32.634974+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -2660,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:52.244194+00:00"
+      "_retrievedAt": "2026-06-10T16:06:33.190852+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -2688,11 +2688,11 @@
         "Tissue Engineering and Regenerative Medicine"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.834481+00:00"
+      "_retrievedAt": "2026-06-10T16:06:32.637158+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -2720,11 +2720,11 @@
         "Geomagnetism and Paleomagnetism Studies"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:52.243355+00:00"
+      "_retrievedAt": "2026-06-10T16:06:33.188895+00:00"
     },
     {
       "id": "openalex-3455b31b2a62",
@@ -2756,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:52.245676+00:00"
+      "_retrievedAt": "2026-06-10T16:06:33.192324+00:00"
     },
     {
       "id": "openalex-37facdeb2617",
@@ -2788,7 +2788,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.833833+00:00"
+      "_retrievedAt": "2026-06-10T16:06:32.639232+00:00"
+    },
+    {
+      "id": "openalex-2f9ab5b650c6",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Integrating microbiome insights into cervical cancer",
+      "authors": "Jhommara Bautista, Paula Cortiñas Sardi, Iván Paguay-Caisabanda, Kelly Gancino-Guevara, Andrés López-Cortés",
+      "abstract": "Cervical cancer is largely preventable, yet it continues to cause substantial morbidity and mortality worldwide, particularly in regions with limited access to human papillomavirus (HPV) vaccination and screening. Persistent infection with high-risk HPV genotypes, especially HPV-16 and HPV-18, represents the primary initiating event in cervical carcinogenesis. However, viral infection alone does not fully explain why only a subset of infected individuals develop high-grade lesions or invasive disease. Recent longitudinal and mechanistic studies indicate that the cervicovaginal microbiome plays an important modulatory role by influencing epithelial barrier integrity, local immune responses, and inflammatory homeostasis. This review synthesizes current evidence from multi-omics and translational studies linking cervicovaginal microbial composition and function to HPV persistence, cervic...",
+      "date": "2026-03-02",
+      "year": 2026,
+      "journal": "Frontiers in Medicine",
+      "source": "Frontiers in Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/fmed.2026.1766052",
+      "doi": "10.3389/fmed.2026.1766052",
+      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1766052/pdf",
+      "keywords": [
+        "Cervical cancer",
+        "Microbiome",
+        "Medicine",
+        "Immune system",
+        "Cervical intraepithelial neoplasia",
+        "Reproductive tract infections research",
+        "Cervical Cancer and HPV Research",
+        "Gut microbiota and health"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:31.964560+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -2820,39 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.253700+00:00"
-    },
-    {
-      "id": "openalex-2f9ab5b650c6",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Integrating microbiome insights into cervical cancer",
-      "authors": "Jhommara Bautista, Paula Cortiñas Sardi, Iván Paguay-Caisabanda, Kelly Gancino-Guevara, Andrés López-Cortés",
-      "abstract": "Cervical cancer is largely preventable, yet it continues to cause substantial morbidity and mortality worldwide, particularly in regions with limited access to human papillomavirus (HPV) vaccination and screening. Persistent infection with high-risk HPV genotypes, especially HPV-16 and HPV-18, represents the primary initiating event in cervical carcinogenesis. However, viral infection alone does not fully explain why only a subset of infected individuals develop high-grade lesions or invasive disease. Recent longitudinal and mechanistic studies indicate that the cervicovaginal microbiome plays an important modulatory role by influencing epithelial barrier integrity, local immune responses, and inflammatory homeostasis. This review synthesizes current evidence from multi-omics and translational studies linking cervicovaginal microbial composition and function to HPV persistence, cervic...",
-      "date": "2026-03-02",
-      "year": 2026,
-      "journal": "Frontiers in Medicine",
-      "source": "Frontiers in Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fmed.2026.1766052",
-      "doi": "10.3389/fmed.2026.1766052",
-      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1766052/pdf",
-      "keywords": [
-        "Cervical cancer",
-        "Microbiome",
-        "Medicine",
-        "Immune system",
-        "Cervical intraepithelial neoplasia",
-        "Reproductive tract infections research",
-        "Cervical Cancer and HPV Research",
-        "Gut microbiota and health"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.254292+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.966430+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2884,7 +2884,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:50.682289+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.538149+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -2912,11 +2912,11 @@
         "Fungal Infections and Studies"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.252257+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.964230+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2948,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.253964+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.966707+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2980,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:52.243634+00:00"
+      "_retrievedAt": "2026-06-10T16:06:33.190625+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -3012,7 +3012,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:52.240914+00:00"
+      "_retrievedAt": "2026-06-10T16:06:33.187533+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -3044,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:52.241248+00:00"
+      "_retrievedAt": "2026-06-10T16:06:33.187853+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -3076,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:52.242350+00:00"
+      "_retrievedAt": "2026-06-10T16:06:33.189297+00:00"
     },
     {
       "id": "openalex-9eb31b2e7a82",
@@ -3108,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.255857+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.968266+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -3140,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.251543+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.963921+00:00"
     },
     {
       "id": "openalex-88008efb5422",
@@ -3172,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.254884+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.967629+00:00"
     },
     {
       "id": "openalex-6d7865beed8a",
@@ -3204,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.831867+00:00"
+      "_retrievedAt": "2026-06-10T16:06:32.635958+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -3236,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.251922+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.964981+00:00"
     },
     {
       "id": "openalex-3dfdd7ceaceb",
@@ -3268,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.252826+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.965551+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -3296,11 +3296,11 @@
         "Electronic Health Records Systems"
       ],
       "readTime": "1 min",
-      "citedBy": 8,
+      "citedBy": 9,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.831577+00:00"
+      "_retrievedAt": "2026-06-10T16:06:32.635661+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -3332,7 +3332,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.251262+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.963627+00:00"
     },
     {
       "id": "openalex-18b220cd1ad9",
@@ -3364,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:52.245041+00:00"
+      "_retrievedAt": "2026-06-10T16:06:33.191720+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -3396,7 +3396,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:50.681198+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.537064+00:00"
     },
     {
       "id": "openalex-6a51321a829e",
@@ -3428,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.253117+00:00"
+      "_retrievedAt": "2026-06-10T16:06:31.965845+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -3460,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:52.244762+00:00"
+      "_retrievedAt": "2026-06-10T16:06:33.191424+00:00"
     },
     {
       "id": "openalex-da72c8fa26ec",
@@ -3492,7 +3492,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.832490+00:00"
+      "_retrievedAt": "2026-06-10T16:06:32.636887+00:00"
+    },
+    {
+      "id": "openalex-3495cf087629",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "The Role of Artificial Intelligence in Shaping the Doctor–Patient Relationship: A Narrative Review",
+      "authors": "Emanuele Maria Merlo, Giulio Sparacino, Orlando Silvestro, Maria Laura Giacobello, Alessandro Meduri, Marco Casciaro",
+      "abstract": "The doctor-patient relationship is a central factor in healthcare delivery. Artificial Intelligence (AI) represents an emerging technological frontier whose implications remain to be fully clarified. Evidence-based studies provide reliable analyses of effects and offer a deeper understanding of both limits and benefits. This narrative review aimed to explore the role of AI in modern clinical practice, with particular reference to its effects on the doctor-patient relationship. Scopus and Web of Science databases were searched between 1 and 10 December 2025 to identify suitable studies. Inclusion criteria comprised English-language articles published in the last 10 years, with a direct focus on the doctor-patient relationship and exclusively employing empirical research designs. A total of 21 studies published between 2021 and 2025 were identified as eligible. The most common AI applic...",
+      "date": "2026-02-13",
+      "year": 2026,
+      "journal": "Healthcare",
+      "source": "Healthcare",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/healthcare14040481",
+      "doi": "10.3390/healthcare14040481",
+      "pdfUrl": "https://www.mdpi.com/2227-9032/14/4/481/pdf?version=1770978326",
+      "keywords": [
+        "Scopus",
+        "Narrative review",
+        "Narrative",
+        "Inclusion (mineral)",
+        "Health care",
+        "Artificial Intelligence in Healthcare and Education",
+        "Patient-Provider Communication in Healthcare",
+        "Clinical Reasoning and Diagnostic Skills"
+      ],
+      "readTime": "2 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-10T16:06:32.638913+00:00"
     },
     {
       "id": "openalex-ad7b90ca77d1",
@@ -3524,39 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:52.244446+00:00"
-    },
-    {
-      "id": "openalex-65a608ede65b",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Bioengineering of extracellular vesicles with scaffold proteins for drug delivery",
-      "authors": "Chaofan Zhang, Y. C. Xu, Yuezhou Wang, Cunbo Yao, Mengting Ma, Jie Li",
-      "abstract": "Extracellular vesicles (EVs) play a crucial role in intercellular communication by transmitting information and participate in various physiological and pathological processes, including cancer, neurodegenerative diseases, and cardiovascular diseases. EVs have emerged as promising drug delivery vehicles, possessing unique advantages such as low immunogenicity, the ability to cross biological barriers, and a versatile cargo capacity. However, it still faces multiple challenges such as low production yield, limited targeting ability, and the complexity of using engineered EVs for clinical applications. Scaffold proteins (such as tetraspanins (TSPANs) and type I transmembrane proteins) can enhance the targeting specificity, loading capacity and stability of engineered EVs. Engineering with these proteins enables EVs to be directed to specific tissues for efficient drug delivery. Scaffold...",
-      "date": "2026-02-12",
-      "year": 2026,
-      "journal": "Journal of Nanobiotechnology",
-      "source": "Journal of Nanobiotechnology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s12951-026-04142-6",
-      "doi": "10.1186/s12951-026-04142-6",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s12951-026-04142-6.pdf",
-      "keywords": [
-        "Scaffold",
-        "Drug delivery",
-        "Extracellular vesicles",
-        "Extracellular vesicle",
-        "Scaffold protein",
-        "Extracellular vesicles in disease",
-        "Nanoplatforms for cancer theranostics",
-        "interferon and immune responses"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.835446+00:00"
+      "_retrievedAt": "2026-06-10T16:06:33.191107+00:00"
     },
     {
       "id": "openalex-eca0614819ca",
@@ -3588,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:52.245349+00:00"
+      "_retrievedAt": "2026-06-10T16:06:33.191994+00:00"
     },
     {
       "id": "openalex-9c7e2173bb4d",
@@ -3616,11 +3616,11 @@
         "vaccines and immunoinformatics approaches"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-10T10:21:51.833055+00:00"
+      "_retrievedAt": "2026-06-10T16:06:32.636255+00:00"
     }
   ]
 }
