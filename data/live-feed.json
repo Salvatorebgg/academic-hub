@@ -1,386 +1,386 @@
 {
-  "generatedAt": "2026-06-11T16:19:35.788556+00:00",
-  "total": 112,
+  "generatedAt": "2026-06-11T20:34:33.304910+00:00",
+  "total": 113,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
     {
-      "id": "rss-d30c32af6964",
+      "id": "rss-69a7f5b6a4f8",
       "discipline": "clinical",
       "type": "news",
-      "title": "Endometriosis and fibroids: Expert explains advances giving women less invasive treatment options",
+      "title": "Personalized blood pressure control after thrombectomy boosts 90-day stroke recovery",
       "authors": "Medical Xpress",
-      "abstract": "Endometriosis and uterine fibroids are two of the most common gynecological conditions. While they have important differences, they also have things in common. Both can lead to serious complications, affect fertility and have symptoms related to the menstrual cycle. And both are the focus of medical innovations to give women better treatment options, explains Megan Wasson, D.O., a gynecologist and chair of gynecology at Mayo Clinic in Arizona.",
+      "abstract": "Blood pressure management after thrombectomy for acute ischemic stroke may require a change in approach. The HOPE clinical trial—short for Hemodynamic Optimization of Cerebral Perfusion after Endovascular Therapy—led by the Sant Pau Research Institute (IR Sant Pau), has shown that adapting blood pressure targets to the degree of cerebral reperfusion significantly improves patients' functional recovery without increasing the risk of complications.",
       "date": "2026-06-11",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-endometriosis-fibroids-expert-advances-women.html",
+      "url": "https://medicalxpress.com/news/2026-06-personalized-blood-pressure-thrombectomy-boosts.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "have",
-        "endometriosis",
-        "fibroids",
-        "explains",
+        "blood",
+        "pressure",
+        "after",
+        "thrombectomy",
+        "stroke",
+        "recovery",
+        "cerebral",
+        "sant"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-11T20:34:32.897094+00:00"
+    },
+    {
+      "id": "rss-0f8895f705bc",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "The frontier of women's health care innovation",
+      "authors": "Medical Xpress",
+      "abstract": "JMIR Publications has released a News and Perspectives story on technological innovations in women's health care. In \"Bridging the Gender Gap in Health Care Innovation: The Evolution of FemTech,\" correspondent Jenny Castillo Cato covers how FemTech has expanded over the past decade to become a major force in women's health worldwide. The findings are published in the Journal of Medical Internet Research.",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-frontier-women-health.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "health",
         "women",
+        "care",
+        "innovation",
+        "femtech",
+        "frontier",
+        "jmir",
+        "publications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-11T20:34:32.897394+00:00"
+    },
+    {
+      "id": "rss-b433d249b58a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Lead levels in children have dropped, yet children of color and children from low-wealth families are still exposed",
+      "authors": "Medical Xpress",
+      "abstract": "Blood lead levels in young children in the United States declined in the last decade, but state data reveal that children of color and children from low-wealth families are still exposed to higher levels of lead, according to a study in the American Journal of Public Health. No level of lead in children's blood is safe.",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-children-wealth-families-exposed.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "children",
+        "lead",
+        "levels",
+        "color",
+        "low-wealth",
+        "families",
+        "still",
+        "exposed"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-11T20:34:32.897649+00:00"
+    },
+    {
+      "id": "rss-2b3d87cb8c9d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Mesothelioma cases and deaths keep rising in US despite decades of asbestos regulation",
+      "authors": "Medical Xpress",
+      "abstract": "Mesothelioma deaths and diagnoses continue to rise in the United States despite decades of asbestos regulation and reduced industrial use, according to a new national analysis from Sylvester Comprehensive Cancer Center, part of the University of Miami Miller School of Medicine.",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-mesothelioma-cases-deaths-decades-asbestos.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "mesothelioma",
+        "deaths",
+        "despite",
+        "decades",
+        "asbestos",
+        "regulation",
+        "cases",
+        "keep"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-11T20:34:32.897872+00:00"
+    },
+    {
+      "id": "rss-fd1cea6d8600",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "HERC2 gene's key role in rare neurodevelopmental syndrome deciphered",
+      "authors": "Medical Xpress",
+      "abstract": "For years, it has been known that mutations in both copies of the HERC2 gene are associated with a neurodevelopmental disorder characterized by global developmental delay, intellectual disability, features of the autism spectrum and movement disorders—characteristics very similar to those of Angelman syndrome, a better-known but equally rare condition. However, the exact function of the affected gene (HERC2) and the molecules with which it interacts remained unclear. Without understanding the biology underlying the syndrome, it was difficult to comprehend how it works and to devise therapeutic strategies to treat it.",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-herc2-gene-key-role-rare.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "herc",
+        "gene",
+        "syndrome",
+        "rare",
+        "neurodevelopmental",
+        "role",
+        "deciphered",
+        "years"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-11T20:34:32.898178+00:00"
+    },
+    {
+      "id": "rss-297246a35ad8",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Nursing job turnover has nearly doubled since the pandemic",
+      "authors": "Medical Xpress",
+      "abstract": "The COVID-19 pandemic did not push nurses out of hospitals or other care settings as feared, but nurses left their primary jobs at nearly double the rate from 2018 to 2022, finds a University of Michigan study. The study, which appeared in Medical Care, also found that the size of the nursing workforce grew from 3.27 million to 3.57 million during the same period.",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-nursing-job-turnover-pandemic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nursing",
+        "nearly",
+        "pandemic",
+        "nurses",
+        "care",
+        "million",
+        "turnover",
+        "doubled"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-11T20:34:32.898445+00:00"
+    },
+    {
+      "id": "rss-777194095f33",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New antibody may boost KRAS-targeted lung cancer treatment after resistance emerges",
+      "authors": "Medical Xpress",
+      "abstract": "An experimental antibody treatment that binds to a protein known as PCDH7 shrank tumors in preclinical models of non-small cell lung cancer (NSCLC), including those resistant to a targeted therapy, a study led by UT Southwestern Medical Center researchers showed. The findings, published in Science Advances, could eventually lead to a new class of drugs to treat NSCLC and potentially other cancers.",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-antibody-boost-kras-lung-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "antibody",
+        "lung",
+        "cancer",
         "treatment",
-        "options",
-        "common"
+        "nsclc",
+        "boost",
+        "kras-targeted",
+        "after"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.263351+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.898687+00:00"
     },
     {
-      "id": "rss-d42f4acb17cc",
+      "id": "rss-6dd1383df81d",
       "discipline": "clinical",
       "type": "news",
-      "title": "Biological pacemaker dogma challenged as TBX18 fails and Hcn2 delivers",
+      "title": "Math may transform how rural British Columbia hospitals manage life-saving blood donations",
       "authors": "Medical Xpress",
-      "abstract": "Researchers from Amsterdam UMC have overturned a key assumption in the biological pacemaker field. In a new preclinical study, they show that the transcription factor TBX18 does not generate true biological pacemaker activity, while the ion channel Hcn2 does produce robust pacemaker function in the heart. The findings have been published in the Journal of Clinical Investigation.",
+      "abstract": "In medical emergencies, timely access to blood can mean the difference between life and death. Managing supply in rural communities is a major challenge, but Simon Fraser University researchers say part of the solution may be in the math.",
       "date": "2026-06-11",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-biological-pacemaker-dogma-tbx18-hcn2.html",
+      "url": "https://medicalxpress.com/news/2026-06-math-rural-british-columbia-hospitals.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "pacemaker",
-        "biological",
-        "have",
-        "does",
-        "dogma",
-        "challenged",
-        "fails",
-        "delivers"
+        "math",
+        "rural",
+        "blood",
+        "transform",
+        "british",
+        "columbia",
+        "hospitals",
+        "manage"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.263631+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.898894+00:00"
     },
     {
-      "id": "rss-dce20ad80873",
+      "id": "rss-e88fa2ff82c7",
       "discipline": "clinical",
       "type": "news",
-      "title": "Supercharged natural killer cells suppress solid tumors in mice",
+      "title": "Researchers identify brain 'entrapment' patterns associated with depression",
       "authors": "Medical Xpress",
-      "abstract": "Scientists have made great progress in harnessing the body's own immune cells to treat so-called liquid tumors, cancers of the blood and lymphatic system. Yet these powerful cell therapies have been no match for solid tumors, which are tough to access and secrete signals that can stifle immune cells that get too close.",
+      "abstract": "Researchers at the Icahn School of Medicine at Mount Sinai have identified distinctive patterns in how the brain transitions between activity states in people with depression, providing new insight into why depressive symptoms can feel persistent and difficult to overcome.",
       "date": "2026-06-11",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-supercharged-natural-killer-cells-suppress.html",
+      "url": "https://medicalxpress.com/news/2026-06-brain-entrapment-patterns-depression.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cells",
-        "tumors",
-        "solid",
-        "have",
-        "immune",
-        "that",
-        "supercharged",
-        "natural"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.263872+00:00"
-    },
-    {
-      "id": "rss-b3c67549c50f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Is the Ebola quarantine in the US legal? Expert weighs in",
-      "authors": "Medical Xpress",
-      "abstract": "Countries across the globe are on high alert as health workers race to contain an outbreak of the Ebola virus in Central and East Africa that has killed more than 100 people and infected almost 570, according to data from the World Health Organization, or WHO.",
-      "date": "2026-06-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-ebola-quarantine-legal-expert.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ebola",
-        "health",
-        "quarantine",
-        "legal",
-        "expert",
-        "weighs",
-        "countries",
-        "across"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.264106+00:00"
-    },
-    {
-      "id": "rss-45e3a27a20e8",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Gut microbes unlock hormone signaling that regulates gut movement, study suggests",
-      "authors": "Medical Xpress",
-      "abstract": "Millions of people worldwide are periodically or chronically affected by gut-related conditions, such as irritable bowel syndrome (IBS), gastroesophageal reflux disease (GERD) and gastroenteritis. Uncovering the physiological and biological processes that contribute to gut health could thus be highly valuable, as it might help devise more effective interventions to prevent and treat these ailments.",
-      "date": "2026-06-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-gut-microbes-hormone-movement.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "that",
-        "microbes",
-        "unlock",
-        "hormone",
-        "signaling",
-        "regulates",
-        "movement",
-        "suggests"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.264343+00:00"
-    },
-    {
-      "id": "rss-e7220898b481",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Americans split on fluoridation; opposition by MAHA supporters notable",
-      "authors": "Medical Xpress",
-      "abstract": "As the debate over the value of adding fluoride to public drinking water percolates in communities across the nation, a new nationally representative survey from the Annenberg Public Policy Center (APPC) of the University of Pennsylvania finds Americans sharply divided over the use of fluoride in public drinking water.",
-      "date": "2026-06-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-americans-fluoridation-opposition-maha-notable.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "public",
-        "americans",
-        "over",
-        "fluoride",
-        "drinking",
-        "water",
-        "split",
-        "fluoridation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.264561+00:00"
-    },
-    {
-      "id": "rss-501f921c214f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Rat kidneys grown in mice offer new insights into addressing organ donor shortages",
-      "authors": "Medical Xpress",
-      "abstract": "Kidney transplantation remains the most effective treatment for end-stage kidney disease, yet a severe shortage of donor organs continues to limit access for millions of patients worldwide. With demand for kidney transplants expected to reach 5 million patients by 2030 and only a fraction of that need currently being met, researchers are exploring innovative approaches to generate transplantable organs.",
-      "date": "2026-06-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-rat-kidneys-grown-mice-insights.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "kidney",
-        "donor",
-        "organs",
-        "patients",
-        "kidneys",
-        "grown",
-        "mice",
-        "offer"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.264795+00:00"
-    },
-    {
-      "id": "rss-d1841a1cf1e9",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Moment-to-moment memory access may depend on histamine neuron swings",
-      "authors": "Medical Xpress",
-      "abstract": "The same memory can feel vivid and accessible one moment, yet stubbornly out of reach the next—even when the memory itself remains intact. A research team led by Professor Hiroshi Nomura at the Institute of Brain Science, Nagoya City University Graduate School of Medical Sciences, has identified a neural mechanism that may explain this variability.",
-      "date": "2026-06-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-moment-memory-access-histamine-neuron.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "memory",
-        "moment-to-moment",
-        "access",
-        "depend",
-        "histamine",
-        "neuron",
-        "swings",
-        "same"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.265071+00:00"
-    },
-    {
-      "id": "rss-45697b945485",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Fraud detection critical to online health research, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "While online research is a useful way to reach people who may not take part in in-person studies, researchers are increasingly concerned that fake, automated and duplicate survey responses can reduce data quality and compromise findings.",
-      "date": "2026-06-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-fraud-critical-online-health.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "online",
-        "fraud",
-        "detection",
-        "critical",
-        "health",
-        "finds",
-        "while",
-        "useful"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.265278+00:00"
-    },
-    {
-      "id": "rss-3209f265c0e7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Remote monitoring alone fails to reduce readmissions for sepsis, trial finds",
-      "authors": "Medical Xpress",
-      "abstract": "Remote monitoring isn't a panacea for reducing readmissions across all conditions—and for some patients, clinicians should proceed with caution, clinical trial results published in JAMA Network Open suggest.",
-      "date": "2026-06-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-remote-readmissions-sepsis-trial.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "remote",
-        "monitoring",
-        "readmissions",
-        "trial",
-        "alone",
-        "fails",
-        "reduce",
-        "sepsis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.265489+00:00"
-    },
-    {
-      "id": "rss-8db35eb0e29b",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Researchers develop first synthetic mitral valve model to replicate the heart's natural mechanics",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at RCSI University of Medicine and Health Sciences have developed an artificial model of the mitral heart valve that faithfully mimics the valve's complex mechanical behavior in the human heart. The study could help researchers better understand valve disease and develop new treatment approaches.",
-      "date": "2026-06-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-synthetic-mitral-valve-replicate-heart.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "valve",
         "researchers",
-        "heart",
-        "develop",
-        "mitral",
-        "first",
-        "synthetic",
-        "replicate"
+        "brain",
+        "patterns",
+        "depression",
+        "identify",
+        "entrapment",
+        "associated",
+        "icahn"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.265712+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.899100+00:00"
     },
     {
-      "id": "rss-07df3f46e452",
+      "id": "rss-e6950721364a",
       "discipline": "clinical",
       "type": "news",
-      "title": "Social media use linked to poorer mental health in early adolescence",
+      "title": "Nuts hold key minerals, but digestion unlocks only part of them",
       "authors": "Medical Xpress",
-      "abstract": "Adolescents who spend at least two hours a day on social media are more likely to experience depressive symptoms and poorer well-being, with the strongest effects in early adolescence, according to new research.",
+      "abstract": "The presence of minerals in oilseeds, such as Brazil nuts (Bertholletia excelsa) and cashews (Anacardium occidentale), does not guarantee that the body will use them. A study conducted at the Diadema campus of the Federal University of São Paulo (UNIFESP) in Brazil and published in the journal Química Nova evaluated the bioavailability of these nutrients. Bioavailability is defined as the fraction of the mineral actually released during simulated gastrointestinal digestion and potentially available for absorption.",
       "date": "2026-06-11",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-social-media-linked-poorer-mental.html",
+      "url": "https://medicalxpress.com/news/2026-06-nuts-key-minerals-digestion.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "social",
-        "media",
-        "poorer",
+        "nuts",
+        "minerals",
+        "digestion",
+        "them",
+        "brazil",
+        "bioavailability",
+        "hold",
+        "unlocks"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-11T20:34:32.899391+00:00"
+    },
+    {
+      "id": "rss-6dd47562069d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "AI in nursing raises questions about safety, ethics, and human care",
+      "authors": "Medical Xpress",
+      "abstract": "As artificial intelligence systems spread through hospitals and clinics, a growing debate is emerging over whether the technology will ultimately strengthen nursing care—or gradually replace parts of it.",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-ai-nursing-safety-ethics-human.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nursing",
+        "care",
+        "raises",
+        "questions",
+        "about",
+        "safety",
+        "ethics",
+        "human"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-11T20:34:32.899602+00:00"
+    },
+    {
+      "id": "rss-6a6e60a8b6e6",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Early pregnancy exposure to heat and cold linked to differences in fetal size at 12 weeks",
+      "authors": "Medical Xpress",
+      "abstract": "Moderate exposure to cold and heat during early pregnancy may affect fetal development as early as the first trimester, according to a new study led by the Barcelona Institute for Global Health (ISGlobal), a center supported by the \"la Caixa\" Foundation. The findings, based on two Dutch birth cohorts and published in the International Journal of Epidemiology, suggest that early gestational development may be sensitive to ambient temperature, with potential implications for birth outcomes and long-term health as climate conditions continue to change.",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-early-pregnancy-exposure-cold-linked.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
         "early",
-        "adolescence",
-        "linked",
-        "mental",
+        "pregnancy",
+        "exposure",
+        "heat",
+        "cold",
+        "fetal",
+        "development",
         "health"
       ],
       "readTime": "1 min",
@@ -388,71 +388,167 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.265905+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.899861+00:00"
     },
     {
-      "id": "rss-430208cba933",
+      "id": "rss-eb1c385672d6",
       "discipline": "clinical",
       "type": "news",
-      "title": "When cannabis feels within reach, teens are far likelier to start using it",
+      "title": "National climate plans recognize health risks, yet few protect most vulnerable groups",
       "authors": "Medical Xpress",
-      "abstract": "Led by Marie-Pierre Sylvestre, a professor at the School of Public Health at the Université de Montréal, the researchers drew on Quebec data from COMPASS, a pan-Canadian longitudinal study of the health behaviors of secondary school students.",
+      "abstract": "The majority of national climate adaptation plans fail to fully integrate health needs or engage populations most at risk from climate change, an international team of investigators led by Weill Cornell Medicine found.",
       "date": "2026-06-11",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-cannabis-teens-likelier.html",
+      "url": "https://medicalxpress.com/news/2026-06-national-climate-health-vulnerable-groups.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "school",
+        "climate",
+        "national",
+        "plans",
         "health",
-        "when",
-        "cannabis",
-        "feels",
-        "within",
-        "reach",
-        "teens"
+        "most",
+        "recognize",
+        "risks",
+        "protect"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.266135+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.900058+00:00"
     },
     {
-      "id": "rss-4d8d1a94327f",
+      "id": "rss-a1b915077f11",
       "discipline": "clinical",
       "type": "news",
-      "title": "Gut bacteria molecule may ease colitis by slowing cellular energy production",
+      "title": "Poll: Trust in CDC has fallen dramatically in the last year",
       "authors": "Medical Xpress",
-      "abstract": "Enterobactin, a molecule produced by gut bacteria, may hold a surprising key to reducing intestinal inflammation—not by attacking the immune system directly, but by temporarily slowing down the cell's own energy production.",
+      "abstract": "A year after changes to federal leadership in the U.S. public health system, a new poll finds that trust in public health agencies has dropped dramatically. Only 50% of U.S. adults say they trust health recommendations from the Centers for Disease Control and Prevention (CDC), compared to 77% in spring 2025. The fraction who say they trust their state health department has declined from 80% to 66%, and the fraction who say they trust their local public health department has fallen from 82% to 70%.",
       "date": "2026-06-11",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-gut-bacteria-molecule-ease-colitis.html",
+      "url": "https://medicalxpress.com/news/2026-06-poll-cdc-fallen-year.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "bacteria",
-        "molecule",
-        "slowing",
-        "energy",
-        "production",
-        "ease",
-        "colitis",
-        "cellular"
+        "trust",
+        "health",
+        "public",
+        "they",
+        "poll",
+        "fallen",
+        "dramatically",
+        "year"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.266347+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.900316+00:00"
+    },
+    {
+      "id": "rss-d4e14670fd3c",
+      "discipline": "cs",
+      "type": "news",
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "authors": "TechCrunch AI",
+      "abstract": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "spacex",
+        "officially",
+        "prices",
+        "shares",
+        "largest",
+        "ever",
+        "wits",
+        "official"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-11T20:34:32.916940+00:00"
+    },
+    {
+      "id": "rss-6f29473a4149",
+      "discipline": "cs",
+      "type": "news",
+      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+      "authors": "TechCrunch AI",
+      "abstract": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "spacex",
+        "investors",
+        "know",
+        "their",
+        "true",
+        "holdings",
+        "until",
+        "post-ipo"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-11T20:34:32.917160+00:00"
+    },
+    {
+      "id": "rss-8059e027acfa",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "authors": "TechCrunch AI",
+      "abstract": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "music",
+        "deezer",
+        "tool",
+        "identify",
+        "spotify",
+        "apple",
+        "others",
+        "introduced"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-11T20:34:32.917340+00:00"
     },
     {
       "id": "rss-33692cae4b31",
@@ -484,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.388091+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.917509+00:00"
     },
     {
       "id": "rss-aec3d3795dda",
@@ -516,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.388322+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.917667+00:00"
     },
     {
       "id": "rss-d844cea2d95f",
@@ -548,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.388472+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.917805+00:00"
     },
     {
       "id": "rss-f454b069f848",
@@ -580,7 +676,135 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.388627+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.917955+00:00"
+    },
+    {
+      "id": "rss-1bc2925a9388",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Jinhua Zhao named head of the Department of Urban Studies and Planning",
+      "authors": "MIT News AI",
+      "abstract": "An expert in behavioral science and transportation, Zhao combines these studies with AI and public policy to address some of the most urgent challenges facing cities.",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/jinhua-zhao-named-head-department-urban-studies-planning-0611",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "zhao",
+        "studies",
+        "jinhua",
+        "named",
+        "head",
+        "department",
+        "urban",
+        "planning"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-11T20:34:32.963048+00:00"
+    },
+    {
+      "id": "rss-f936ae05ec86",
+      "discipline": "cs",
+      "type": "news",
+      "title": "When it comes to predicting people’s preferences, it pays to consider “the power of three”",
+      "authors": "MIT News AI",
+      "abstract": "MIT researchers provide a major upgrade to the nearly century-old idea of random utility models.",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/when-predicting-preferences-it-pays-to-consider-power-of-three-0611",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "when",
+        "comes",
+        "predicting",
+        "people",
+        "preferences",
+        "pays",
+        "consider",
+        "power"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-11T20:34:32.963228+00:00"
+    },
+    {
+      "id": "rss-0ea3dcd99424",
+      "discipline": "cs",
+      "type": "news",
+      "title": "MIT affiliates win 2026 Hertz Foundation Fellowships",
+      "authors": "MIT News AI",
+      "abstract": "The fellowships in applied sciences, engineering, and mathematics recognize doctoral students who are pursuing solutions to the most pressing challenges in science and technology.",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/hertz-foundation-fellowships-0611",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "fellowships",
+        "affiliates",
+        "hertz",
+        "foundation",
+        "applied",
+        "sciences",
+        "engineering",
+        "mathematics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-11T20:34:32.963432+00:00"
+    },
+    {
+      "id": "rss-3c2f3866802b",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Executive Proclamation restores commercial fishing in Pacific marine monuments, unlocks economic opportunity",
+      "authors": "NOAA News",
+      "abstract": "Executive Proclamation restores commercial fishing in Pacific marine monuments, unlocks economic opportunity June 11, 2026 The IATTC adopted new three-year management measures for tropical tunas including yellowfin caught by purse seine and longline vessels in the eastern Pacific Ocean. (Image credit: Shutterstock/Al McGlashan) On June 11, 2026, President Trump signed an \"Executive Proclamation Restoring American Commercial Fishing in the Pacific,\" opening additional prized fishing grounds to hard-working American fishermen and United States flagged fishing vessels. This bold Executive action opens more economic opportunities for commercial fishermen and continues to strengthen the economic security of coastal communities. NOAA is proud to support the Administration’s pledge to restore U.S. seafood competitiveness through the America First Fishing Policy . The President’s Executive Pr...",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/executive-proclamation-restores-commercial-fishing-in-pacific-marine-monuments-unlocks-economic",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "fishing",
+        "executive",
+        "commercial",
+        "pacific",
+        "economic",
+        "proclamation",
+        "restores",
+        "marine"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-11T20:34:33.185276+00:00"
     },
     {
       "id": "rss-31f0f05fc341",
@@ -612,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.388777+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.918096+00:00"
     },
     {
       "id": "rss-e19491c997a7",
@@ -644,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.388912+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.918228+00:00"
     },
     {
       "id": "rss-b823987c2445",
@@ -676,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.389083+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.918387+00:00"
     },
     {
       "id": "rss-7b98a97a8299",
@@ -708,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.389207+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.918506+00:00"
     },
     {
       "id": "rss-844488e8067b",
@@ -740,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.389347+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.918647+00:00"
     },
     {
       "id": "rss-dfaafaad8a18",
@@ -772,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.389494+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.918794+00:00"
     },
     {
       "id": "rss-cd2e9824be7a",
@@ -804,103 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.389630+00:00"
-    },
-    {
-      "id": "rss-967d762dc3a8",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Warner Music acquires AI attribution startup Sureel AI",
-      "authors": "TechCrunch AI",
-      "abstract": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
-      "date": "2026-06-10",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "warner",
-        "music",
-        "acquires",
-        "attribution",
-        "startup",
-        "sureel",
-        "acquisition",
-        "aims"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.389757+00:00"
-    },
-    {
-      "id": "rss-86da058a6dd4",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-      "authors": "TechCrunch AI",
-      "abstract": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
-      "date": "2026-06-10",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ventures",
-        "jedify",
-        "raises",
-        "help",
-        "companies",
-        "agents",
-        "context",
-        "their"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.389897+00:00"
-    },
-    {
-      "id": "rss-cc97123b5d92",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
-      "authors": "TechCrunch AI",
-      "abstract": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
-      "date": "2026-06-10",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "decart",
-        "world",
-        "photorealistic",
-        "driving",
-        "simulate",
-        "hours",
-        "some",
-        "caveats"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.390090+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.918946+00:00"
     },
     {
       "id": "rss-8cb2f4a1e892",
@@ -932,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.457844+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.963595+00:00"
     },
     {
       "id": "rss-f27c800555f2",
@@ -940,7 +1068,7 @@
       "type": "news",
       "title": "The consequences of relying on AI for accurate news",
       "authors": "MIT News AI",
-      "abstract": "Media Lab study shows that, much like how GPS has weakened our navigation skills, AI can make us worse at detecting fake news.",
+      "abstract": "A Media Lab study shows that, much like how GPS has weakened our navigation skills, AI can make us worse at detecting fake news.",
       "date": "2026-06-09",
       "year": 2026,
       "journal": "MIT News AI",
@@ -964,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.458035+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.963736+00:00"
     },
     {
       "id": "rss-130a779b2400",
@@ -996,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.679801+00:00"
+      "_retrievedAt": "2026-06-11T20:34:33.185520+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1028,7 +1156,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.405517+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.231044+00:00"
     },
     {
       "id": "rss-2dfddbb1e70d",
@@ -1060,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.680386+00:00"
+      "_retrievedAt": "2026-06-11T20:34:33.186048+00:00"
     },
     {
       "id": "rss-1aa9f8004d35",
@@ -1092,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.680988+00:00"
+      "_retrievedAt": "2026-06-11T20:34:33.186630+00:00"
     },
     {
       "id": "rss-c0f99ae68619",
@@ -1124,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.681176+00:00"
+      "_retrievedAt": "2026-06-11T20:34:33.186806+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -1156,7 +1284,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.259791+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.419393+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1188,7 +1316,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.404896+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.230432+00:00"
     },
     {
       "id": "rss-2154e7a8aa14",
@@ -1220,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.458185+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.963873+00:00"
     },
     {
       "id": "rss-943471709773",
@@ -1252,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.681362+00:00"
+      "_retrievedAt": "2026-06-11T20:34:33.186993+00:00"
     },
     {
       "id": "rss-4d7859cbc7e2",
@@ -1284,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.681841+00:00"
+      "_retrievedAt": "2026-06-11T20:34:33.187477+00:00"
     },
     {
       "id": "rss-0976470de9a8",
@@ -1316,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.458334+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.964015+00:00"
     },
     {
       "id": "rss-29f40dfdd1a7",
@@ -1348,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.458475+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.964156+00:00"
     },
     {
       "id": "rss-d0a4d545493c",
@@ -1380,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.682119+00:00"
+      "_retrievedAt": "2026-06-11T20:34:33.187739+00:00"
     },
     {
       "id": "rss-14174cf7fd0f",
@@ -1412,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.458627+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.964319+00:00"
     },
     {
       "id": "rss-509ced476342",
@@ -1444,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.458761+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.964456+00:00"
     },
     {
       "id": "rss-b863d19e76fc",
@@ -1476,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.458891+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.964588+00:00"
     },
     {
       "id": "rss-20fd947dca39",
@@ -1508,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.682289+00:00"
+      "_retrievedAt": "2026-06-11T20:34:33.187909+00:00"
     },
     {
       "id": "rss-96f7cd2f086e",
@@ -1540,39 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.682741+00:00"
-    },
-    {
-      "id": "rss-c14743cff0aa",
-      "discipline": "geo",
-      "type": "news",
-      "title": "World's 4th mass coral-bleaching event likely ended in 2025",
-      "authors": "NOAA News",
-      "abstract": "World's 4th mass coral-bleaching event likely ended in 2025 A large section of bleached coral as seen in Cheeca Rocks of the Florida Keys in 2023. (Image credit: NOAA) Download Image June 1, 2026 Satellites Ocean & Coasts 0 Off",
-      "date": "2026-06-01",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news/worlds-4th-mass-coral-bleaching-event-likely-ended-in-2025-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "world",
-        "mass",
-        "coral-bleaching",
-        "event",
-        "likely",
-        "ended",
-        "image",
-        "large"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.682920+00:00"
+      "_retrievedAt": "2026-06-11T20:34:33.188368+00:00"
     },
     {
       "id": "rss-fe9bc1999c2c",
@@ -1604,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.459037+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.964719+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1636,7 +1732,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.539546+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.849710+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -1668,7 +1764,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.407304+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.232997+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -1700,7 +1796,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.408360+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.234048+00:00"
     },
     {
       "id": "rss-8a5e8a3301a1",
@@ -1732,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.459167+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.964851+00:00"
     },
     {
       "id": "rss-2b72b6519fb3",
@@ -1764,39 +1860,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.459291+00:00"
-    },
-    {
-      "id": "rss-9b5fb86c5fb5",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Justin Solomon appointed associate dean of engineering education",
-      "authors": "MIT News AI",
-      "abstract": "MIT faculty member in electrical engineering and computer science to focus on innovation in engineering education and new pedagogical approaches.",
-      "date": "2026-05-19",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/justin-solomon-appointed-associate-dean-engineering-education-0519",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "engineering",
-        "education",
-        "justin",
-        "solomon",
-        "appointed",
-        "associate",
-        "dean",
-        "faculty"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.459417+00:00"
+      "_retrievedAt": "2026-06-11T20:34:32.964976+00:00"
     },
     {
       "id": "openalex-2a2df0665fcc",
@@ -1828,7 +1892,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.258272+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.417850+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1860,71 +1924,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.404575+00:00"
-    },
-    {
-      "id": "rss-072e8cd7bee1",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Two from MIT named 2026 Knight-Hennessy Scholars",
-      "authors": "MIT News AI",
-      "abstract": "The prestigious fellowship funds graduate studies at Stanford University.",
-      "date": "2026-05-14",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/knight-hennessy-scholars-0514",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "named",
-        "knight-hennessy",
-        "scholars",
-        "prestigious",
-        "fellowship",
-        "funds",
-        "graduate",
-        "studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.459531+00:00"
-    },
-    {
-      "id": "rss-118e3c38b86e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Q&A: Expanding MIT’s global reach through Universal Learning",
-      "authors": "MIT News AI",
-      "abstract": "Dimitris Bertsimas and Megan Mitchell discuss the motivation behind Universal Learning, and what sets the new MIT Open Learning educational initiative apart.",
-      "date": "2026-05-12",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/qa-expanding-mit-global-reach-through-universal-learning-0512",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "learning",
-        "universal",
-        "expanding",
-        "global",
-        "reach",
-        "dimitris",
-        "bertsimas",
-        "megan"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:35.459687+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.230082+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1956,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.405125+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.230651+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1988,7 +1988,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.404188+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.229697+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2020,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.537684+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.847831+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -2052,7 +2052,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.408912+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.234616+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2084,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.256512+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.416118+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2116,7 +2116,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.407542+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.233238+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2148,7 +2148,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.406463+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.232423+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2180,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.405792+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.231334+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2212,7 +2212,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.259496+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.419083+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -2240,11 +2240,11 @@
         "AI in Service Interactions"
       ],
       "readTime": "1 min",
-      "citedBy": 23,
+      "citedBy": 26,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.407020+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.232116+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2276,7 +2276,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.406176+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.231802+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -2308,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.864566+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.832028+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -2340,7 +2340,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.863662+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.830840+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -2372,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.863930+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.831402+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -2404,7 +2404,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.862769+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.830213+00:00"
+    },
+    {
+      "id": "openalex-7717ed1550fb",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Biomaterials in personalized drug delivery: innovations, challenges, and future directions",
+      "authors": "Adna Hrapović, Nadia Islam, Asmaa Al Bourghli, Abas Sezer, Boris Kovalenko, Haris Lokvančić",
+      "abstract": "The growing global demand for effective and safe therapeutics has accelerated advances in biomaterials for drug delivery applications. Biomaterials, including polymers, metals, ceramics, and composites, play a central role in modern medical devices and therapeutic systems by enabling controlled interactions with biological environments. Initially defined as inert materials interfacing with biological systems, biomaterials are now rationally engineered to treat, replace, or evaluate tissue and organ functions. Recent progress in regenerative medicine, nanotechnology, and precision healthcare has expanded their use in drug delivery, where tunable physicochemical properties—such as degradation kinetics, surface chemistry, and mechanical stability—allow controlled release, protection of labile therapeutics, and enhanced accumulation at target sites. Polymer-based biomaterials enable susta...",
+      "date": "2026-03-19",
+      "year": 2026,
+      "journal": "PeerJ",
+      "source": "PeerJ",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.7717/peerj.20982",
+      "doi": "10.7717/peerj.20982",
+      "pdfUrl": "https://doi.org/10.7717/peerj.20982",
+      "keywords": [
+        "Drug delivery",
+        "Drug",
+        "Nanotechnology",
+        "Biocompatible material",
+        "Targeted drug delivery",
+        "Dendrimers and Hyperbranched Polymers",
+        "Graphene and Nanomaterials Applications",
+        "Nanoparticle-Based Drug Delivery"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-11T20:34:29.421365+00:00"
     },
     {
       "id": "openalex-59f3240e8b8c",
@@ -2436,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.539163+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.849318+00:00"
     },
     {
       "id": "openalex-4b1dee987f4c",
@@ -2468,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.861122+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.828552+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2500,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.538805+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.848947+00:00"
     },
     {
       "id": "openalex-21e2af519ee1",
@@ -2532,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.260273+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.419861+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2564,7 +2596,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.257245+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.416822+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2596,7 +2628,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.408601+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.234304+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2624,11 +2656,11 @@
         "Liver physiology and pathology"
       ],
       "readTime": "1 min",
-      "citedBy": 11,
+      "citedBy": 12,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.256842+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.416465+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -2660,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.540087+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.850231+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -2692,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.258869+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.418467+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -2724,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.538036+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.848159+00:00"
     },
     {
       "id": "openalex-37facdeb2617",
@@ -2756,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.261410+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.420968+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -2788,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.861475+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.828904+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -2820,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.863039+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.830492+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2852,7 +2884,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.407858+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.233581+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -2884,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.860775+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.828194+00:00"
     },
     {
       "id": "openalex-62b5f655ec71",
@@ -2916,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.540737+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.850658+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2948,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.863318+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.831119+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -2980,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.539843+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.850004+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -3012,7 +3044,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.536590+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.846722+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -3044,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.536911+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.847041+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -3076,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.538462+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.848606+00:00"
     },
     {
       "id": "openalex-9eb31b2e7a82",
@@ -3108,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.864965+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.832443+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -3140,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.860455+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.827873+00:00"
     },
     {
       "id": "openalex-88008efb5422",
@@ -3172,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.864295+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.831752+00:00"
     },
     {
       "id": "openalex-6d7865beed8a",
@@ -3204,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.257917+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.417521+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -3236,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.861869+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.829305+00:00"
     },
     {
       "id": "openalex-3dfdd7ceaceb",
@@ -3268,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.862139+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.829570+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -3300,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.257606+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.417183+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -3332,7 +3364,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.860147+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.827569+00:00"
     },
     {
       "id": "openalex-18b220cd1ad9",
@@ -3364,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.541412+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.851687+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -3396,7 +3428,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.406742+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.232711+00:00"
     },
     {
       "id": "openalex-6a51321a829e",
@@ -3428,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:30.862429+00:00"
+      "_retrievedAt": "2026-06-11T20:34:28.829866+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -3460,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.541098+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.851244+00:00"
     },
     {
       "id": "openalex-da72c8fa26ec",
@@ -3492,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.258589+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.418173+00:00"
     },
     {
       "id": "openalex-3495cf087629",
@@ -3524,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.260688+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.420287+00:00"
     },
     {
       "id": "openalex-ad7b90ca77d1",
@@ -3556,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.540349+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.850921+00:00"
     },
     {
       "id": "openalex-eca0614819ca",
@@ -3588,7 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-11T16:19:31.541690+00:00"
+      "_retrievedAt": "2026-06-11T20:34:29.851979+00:00"
     }
   ]
 }
