@@ -1,11 +1,43 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-06-12T05:00:30.769519+00:00",
+  "generatedAt": "2026-06-12T10:38:56.143052+00:00",
   "total": 113,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-5d0b665cf16f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Engineers find a way to deliver drugs directly to the esophagus",
+      "authors": "Medical Xpress",
+      "abstract": "There are few treatment options available for people with disorders of the esophagus. Delivering drugs directly to this part of the body is difficult, so patients are usually treated with systemic drugs, which can have unwanted side effects.",
+      "date": "2026-06-12",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-drugs-esophagus.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "drugs",
+        "directly",
+        "esophagus",
+        "engineers",
+        "find",
+        "deliver",
+        "there",
+        "treatment"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-12T10:38:55.670725+00:00"
+    },
     {
       "id": "rss-e9e255bdfdb6",
       "discipline": "clinical",
@@ -36,7 +68,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.876734+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.670961+00:00"
     },
     {
       "id": "rss-adf45a20851e",
@@ -68,7 +100,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.877028+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.671203+00:00"
     },
     {
       "id": "rss-4fa39b88a4b6",
@@ -100,7 +132,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.877310+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.671442+00:00"
     },
     {
       "id": "rss-10044c961a54",
@@ -132,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.877598+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.671687+00:00"
     },
     {
       "id": "rss-fddc10565ece",
@@ -164,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.877827+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.671885+00:00"
     },
     {
       "id": "rss-d32999685448",
@@ -196,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.878064+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.672084+00:00"
     },
     {
       "id": "rss-730648b506d6",
@@ -228,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.878328+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.672287+00:00"
     },
     {
       "id": "rss-f1c759235f2c",
@@ -260,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.878679+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.672624+00:00"
     },
     {
       "id": "rss-8dd83b033b38",
@@ -292,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.879039+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.672962+00:00"
     },
     {
       "id": "rss-d2105a697f09",
@@ -324,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.879321+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.673195+00:00"
     },
     {
       "id": "rss-c3f31df0bc2f",
@@ -356,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.879624+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.673476+00:00"
     },
     {
       "id": "rss-fe7a06e6b84d",
@@ -388,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.879860+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.673680+00:00"
     },
     {
       "id": "rss-02944b0323e2",
@@ -420,39 +452,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.880132+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.673918+00:00"
     },
     {
-      "id": "rss-69a7f5b6a4f8",
-      "discipline": "clinical",
+      "id": "rss-154d696d555e",
+      "discipline": "cs",
       "type": "news",
-      "title": "Personalized blood pressure control after thrombectomy boosts 90-day stroke recovery",
-      "authors": "Medical Xpress",
-      "abstract": "Blood pressure management after thrombectomy for acute ischemic stroke may require a change in approach. The HOPE clinical trial—short for Hemodynamic Optimization of Cerebral Perfusion after Endovascular Therapy—led by the Sant Pau Research Institute (IR Sant Pau), has shown that adapting blood pressure targets to the degree of cerebral reperfusion significantly improves patients' functional recovery without increasing the risk of complications.",
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "authors": "TechCrunch AI",
+      "abstract": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
       "date": "2026-06-12",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-personalized-blood-pressure-thrombectomy-boosts.html",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "blood",
-        "pressure",
-        "after",
-        "thrombectomy",
-        "stroke",
-        "recovery",
-        "cerebral",
-        "sant"
+        "avataar",
+        "video",
+        "cheaper",
+        "faster",
+        "culturally",
+        "aware",
+        "built",
+        "india"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.880455+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.722783+00:00"
     },
     {
       "id": "rss-f861ec2fe0dc",
@@ -484,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.998441+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.723002+00:00"
     },
     {
       "id": "rss-a8b1d49844ad",
@@ -516,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.998678+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.723172+00:00"
     },
     {
       "id": "rss-d4e14670fd3c",
@@ -548,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.998836+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.723307+00:00"
     },
     {
       "id": "rss-6f29473a4149",
@@ -580,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.999017+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.723483+00:00"
     },
     {
       "id": "rss-8059e027acfa",
@@ -612,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.999187+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.723630+00:00"
     },
     {
       "id": "rss-33692cae4b31",
@@ -644,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.999404+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.723792+00:00"
     },
     {
       "id": "rss-aec3d3795dda",
@@ -676,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.999587+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.723947+00:00"
     },
     {
       "id": "rss-d844cea2d95f",
@@ -708,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.999753+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.724078+00:00"
     },
     {
       "id": "rss-f454b069f848",
@@ -740,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:29.999927+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.724226+00:00"
     },
     {
       "id": "rss-1bc2925a9388",
@@ -772,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.206796+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.766621+00:00"
     },
     {
       "id": "rss-f936ae05ec86",
@@ -804,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.206991+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.766800+00:00"
     },
     {
       "id": "rss-0ea3dcd99424",
@@ -836,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.207159+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.766948+00:00"
     },
     {
       "id": "rss-3c2f3866802b",
@@ -868,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.433859+00:00"
+      "_retrievedAt": "2026-06-12T10:38:56.013502+00:00"
     },
     {
       "id": "rss-31f0f05fc341",
@@ -900,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.000094+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.724384+00:00"
     },
     {
       "id": "rss-e19491c997a7",
@@ -932,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.000271+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.724517+00:00"
     },
     {
       "id": "rss-b823987c2445",
@@ -964,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.000452+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.724683+00:00"
     },
     {
       "id": "rss-7b98a97a8299",
@@ -996,39 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.000599+00:00"
-    },
-    {
-      "id": "rss-844488e8067b",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-      "authors": "TechCrunch AI",
-      "abstract": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-      "date": "2026-06-10",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cybersecurity",
-        "researchers",
-        "guardrails",
-        "anthropic",
-        "fable",
-        "that",
-        "aren",
-        "happy"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.000771+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.724812+00:00"
     },
     {
       "id": "rss-8cb2f4a1e892",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.207400+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.767114+00:00"
     },
     {
       "id": "rss-f27c800555f2",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.207568+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.767254+00:00"
     },
     {
       "id": "rss-130a779b2400",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.434112+00:00"
+      "_retrievedAt": "2026-06-12T10:38:56.013752+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:24.640554+00:00"
+      "_retrievedAt": "2026-06-12T10:38:48.611152+00:00"
     },
     {
       "id": "rss-2dfddbb1e70d",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.434691+00:00"
+      "_retrievedAt": "2026-06-12T10:38:56.014300+00:00"
     },
     {
       "id": "rss-1aa9f8004d35",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.435305+00:00"
+      "_retrievedAt": "2026-06-12T10:38:56.014903+00:00"
     },
     {
       "id": "rss-c0f99ae68619",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.435508+00:00"
+      "_retrievedAt": "2026-06-12T10:38:56.015083+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.762763+00:00"
+      "_retrievedAt": "2026-06-12T10:38:51.961032+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:24.639877+00:00"
+      "_retrievedAt": "2026-06-12T10:38:48.610076+00:00"
     },
     {
       "id": "rss-2154e7a8aa14",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.207729+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.767415+00:00"
     },
     {
       "id": "rss-943471709773",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.435719+00:00"
+      "_retrievedAt": "2026-06-12T10:38:56.015274+00:00"
     },
     {
       "id": "rss-4d7859cbc7e2",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.436222+00:00"
+      "_retrievedAt": "2026-06-12T10:38:56.015789+00:00"
     },
     {
       "id": "rss-0976470de9a8",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.207894+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.767560+00:00"
     },
     {
       "id": "rss-29f40dfdd1a7",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.208054+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.767697+00:00"
     },
     {
       "id": "rss-d0a4d545493c",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.436579+00:00"
+      "_retrievedAt": "2026-06-12T10:38:56.016053+00:00"
     },
     {
       "id": "rss-14174cf7fd0f",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.208228+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.767846+00:00"
     },
     {
       "id": "rss-509ced476342",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.208413+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.767976+00:00"
     },
     {
       "id": "rss-b863d19e76fc",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.208568+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.768104+00:00"
     },
     {
       "id": "rss-20fd947dca39",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.436783+00:00"
+      "_retrievedAt": "2026-06-12T10:38:56.016221+00:00"
     },
     {
       "id": "rss-96f7cd2f086e",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.437279+00:00"
+      "_retrievedAt": "2026-06-12T10:38:56.016704+00:00"
     },
     {
       "id": "rss-fe9bc1999c2c",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.208722+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.768231+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:26.324372+00:00"
+      "_retrievedAt": "2026-06-12T10:38:52.291538+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:24.642582+00:00"
+      "_retrievedAt": "2026-06-12T10:38:48.613017+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:24.643691+00:00"
+      "_retrievedAt": "2026-06-12T10:38:48.614103+00:00"
     },
     {
       "id": "rss-8a5e8a3301a1",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.208874+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.768372+00:00"
     },
     {
       "id": "rss-2b72b6519fb3",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:30.209023+00:00"
+      "_retrievedAt": "2026-06-12T10:38:55.768502+00:00"
     },
     {
       "id": "openalex-2a2df0665fcc",
@@ -1888,11 +1888,11 @@ window.LIVE_FEED_DATA = {
         "Scientific Computing and Data Management"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.761074+00:00"
+      "_retrievedAt": "2026-06-12T10:38:51.959154+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1924,7 +1924,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:24.639539+00:00"
+      "_retrievedAt": "2026-06-12T10:38:48.609757+00:00"
+    },
+    {
+      "id": "openalex-239a44a48c00",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "authors": "Bourlon, Fabien, Bregolin, Michel, Rudzewicz, Laura",
+      "abstract": "Rosa dos Ventos abrange aspectos relacionados ao Turismo e a Hospitalidade, com foco na Educação, Epistemologia, Gastronomia, Gestão, Cultura e Meio Ambiente, em visão multidisciplinar do fenômeno turístico",
+      "date": "2026-05-15",
+      "year": 2026,
+      "journal": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "source": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.18226/21789061",
+      "doi": "10.18226/21789061",
+      "pdfUrl": "https://doi.org/10.18226/21789061",
+      "keywords": [
+        "Humanities",
+        "Political science",
+        "Art",
+        "Diverse Aspects of Tourism Research",
+        "Social and Economic Solidarity",
+        "Hospitality and Tourism Education",
+        "rosa",
+        "ventos"
+      ],
+      "readTime": "1 min",
+      "citedBy": 134,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-12T10:38:52.287935+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1956,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:24.640113+00:00"
+      "_retrievedAt": "2026-06-12T10:38:48.610749+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1984,11 +2016,11 @@ window.LIVE_FEED_DATA = {
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 1401,
+      "citedBy": 1402,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:24.639128+00:00"
+      "_retrievedAt": "2026-06-12T10:38:48.609372+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2020,39 +2052,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:26.322378+00:00"
+      "_retrievedAt": "2026-06-12T10:38:52.290013+00:00"
     },
     {
-      "id": "openalex-f765d7fb07bb",
+      "id": "openalex-190171b8b4fb",
       "discipline": "cs",
       "type": "paper",
-      "title": "Event-based Simultaneous Localization and Mapping: A Comprehensive Survey",
-      "authors": "Kunping Huang, Sen Zhang, Jing Zhang, Dacheng Tao",
-      "abstract": "Abstract In recent decades, visual simultaneous localization and mapping (vSLAM) has gained significant interest in both academia and industry. It estimates camera motion and reconstructs the environment concurrently using visual sensors on a moving robot. However, conventional cameras are limited by hardware, including motion blur and low dynamic range, which can negatively impact performance in challenging scenarios like high-speed motion and high dynamic range illumination. Recent studies have demonstrated that event cameras, a new type of bio-inspired visual sensor, offer advantages such as high temporal resolution, dynamic range, low power consumption, and low latency. This paper presents a timely and comprehensive review of event-based vSLAM algorithms that exploit the benefits of asynchronous and irregular event streams for localization and mapping tasks. The review covers the...",
-      "date": "2026-04-25",
+      "title": "Chatlaw: A Multi-Agent Legal Assistant based on a Role-Aligned Mixture-of-Experts Architecture",
+      "authors": "Jiaxi Cui, Munan Ning, Zongjian Li, Bohua Chen, Yan Yang, Bohua Chen",
+      "abstract": "Artificial Intelligence (AI) holds great potential in legal services, yet Large Language Models (LLMs) face two major challenges: limited knowledge of the Chinese legal system and vulnerability to hallucinations. To address these issues, we present Chatlaw, a multi-agent legal assistant. Chatlaw’s framework is designed to emulate the Standard Operating Procedures (SOP) of real law firms, where different roles (e.g., assistant, researcher, senior lawyer) collaborate on a case. To computationally mirror this collaborative structure, we developed a novel Role-Aligned Mixture-of-Experts (RA-MoE) architecture. In this system, the internal \"experts\" are specifically trained to align with the distinct tasks of each agent role (e.g., inquiry, analysis, drafting). These specialized agents (Legal Assistant, Researcher, etc.) then form the collaborative framework. When they interact with users,...",
+      "date": "2026-05-01",
       "year": 2026,
-      "journal": "International Journal of Computer Vision",
-      "source": "International Journal of Computer Vision",
+      "journal": "Fundamental Research",
+      "source": "Fundamental Research",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s11263-026-02845-9",
-      "doi": "10.1007/s11263-026-02845-9",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-026-02845-9.pdf",
+      "url": "https://doi.org/10.1016/j.fmre.2026.03.026",
+      "doi": "10.1016/j.fmre.2026.03.026",
+      "pdfUrl": "https://doi.org/10.1016/j.fmre.2026.03.026",
       "keywords": [
         "Computer science",
-        "Event (particle physics)",
-        "Artificial intelligence",
-        "Computer vision",
-        "Motion blur",
-        "Advanced Memory and Neural Computing",
-        "Robotics and Sensor-Based Localization",
-        "Ferroelectric and Negative Capacitance Devices"
+        "Domain (mathematical analysis)",
+        "Language model",
+        "Data science",
+        "Quality (philosophy)",
+        "Topic Modeling",
+        "Natural Language Processing Techniques",
+        "Artificial Intelligence in Law"
       ],
       "readTime": "1 min",
-      "citedBy": 18,
+      "citedBy": 91,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:24.644308+00:00"
+      "_retrievedAt": "2026-06-12T10:38:48.610531+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2084,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.759218+00:00"
+      "_retrievedAt": "2026-06-12T10:38:51.957713+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2116,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:24.642841+00:00"
+      "_retrievedAt": "2026-06-12T10:38:48.613264+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2148,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:24.641909+00:00"
+      "_retrievedAt": "2026-06-12T10:38:48.612421+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2180,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:24.640850+00:00"
+      "_retrievedAt": "2026-06-12T10:38:48.611445+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2212,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.762444+00:00"
+      "_retrievedAt": "2026-06-12T10:38:51.960730+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -2240,11 +2272,11 @@ window.LIVE_FEED_DATA = {
         "AI in Service Interactions"
       ],
       "readTime": "1 min",
-      "citedBy": 26,
+      "citedBy": 27,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:24.641594+00:00"
+      "_retrievedAt": "2026-06-12T10:38:48.612113+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2272,11 +2304,11 @@ window.LIVE_FEED_DATA = {
         "Cell Image Analysis Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 26,
+      "citedBy": 27,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:24.641283+00:00"
+      "_retrievedAt": "2026-06-12T10:38:48.611830+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -2308,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.161385+00:00"
+      "_retrievedAt": "2026-06-12T10:38:50.381668+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -2340,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.160087+00:00"
+      "_retrievedAt": "2026-06-12T10:38:50.380187+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -2372,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.160696+00:00"
+      "_retrievedAt": "2026-06-12T10:38:50.380750+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -2404,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.159435+00:00"
+      "_retrievedAt": "2026-06-12T10:38:50.379582+00:00"
     },
     {
       "id": "openalex-7717ed1550fb",
@@ -2436,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.764853+00:00"
+      "_retrievedAt": "2026-06-12T10:38:51.963080+00:00"
     },
     {
       "id": "openalex-59f3240e8b8c",
@@ -2468,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:26.323946+00:00"
+      "_retrievedAt": "2026-06-12T10:38:52.291138+00:00"
     },
     {
       "id": "openalex-4b1dee987f4c",
@@ -2500,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.157639+00:00"
+      "_retrievedAt": "2026-06-12T10:38:50.377924+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2528,11 +2560,11 @@ window.LIVE_FEED_DATA = {
         "Remote Sensing and LiDAR Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:26.323576+00:00"
+      "_retrievedAt": "2026-06-12T10:38:52.289241+00:00"
     },
     {
       "id": "openalex-21e2af519ee1",
@@ -2564,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.763261+00:00"
+      "_retrievedAt": "2026-06-12T10:38:51.961525+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2592,11 +2624,11 @@ window.LIVE_FEED_DATA = {
         "Obesity, Physical Activity, Diet"
       ],
       "readTime": "1 min",
-      "citedBy": 11,
+      "citedBy": 12,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.759981+00:00"
+      "_retrievedAt": "2026-06-12T10:38:51.958446+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2628,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:24.643952+00:00"
+      "_retrievedAt": "2026-06-12T10:38:48.614355+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2660,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.759605+00:00"
+      "_retrievedAt": "2026-06-12T10:38:51.958055+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -2692,7 +2724,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:26.324933+00:00"
+      "_retrievedAt": "2026-06-12T10:38:52.292058+00:00"
+    },
+    {
+      "id": "openalex-858e3c58ce35",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "A Systems Approach to Endophyte-Mediated Plant Holobiont and Microbiome Dynamics",
+      "authors": "Deepak Kumar, Krishna Sundari Sattiraju, M. S. Reddy",
+      "abstract": "The plant holobiont comprises the host plant and its associated microbial communities functioning together as a single ecological and evolutionary unit that influences plant health, productivity, and environmental adaptability. Endophytes, formerly classified primarily as plant growth-promoting agents, are currently gaining traction as integral components of plant-associated microbiomes such as the rhizobiome and phytobiome. They can alter host-mediated root exudation patterns, microbial community structure, and nutrient dynamics within the rhizosphere. Endophytes play an important role in modulating host signaling pathways, thus influencing plant growth. Various mechanisms by which endophytes contribute to improved plant performance include soil microbiome dynamics, carbon sequestration, and strengthening the host's ability to tolerate abiotic stressors. Multi-omics, single-cell, and...",
+      "date": "2026-03-05",
+      "year": 2026,
+      "journal": "Plants",
+      "source": "Plants",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/plants15050802",
+      "doi": "10.3390/plants15050802",
+      "pdfUrl": "https://www.mdpi.com/2223-7747/15/5/802/pdf?version=1772704493",
+      "keywords": [
+        "Holobiont",
+        "Microbiome",
+        "Biology",
+        "Abiotic component",
+        "Ecology",
+        "Plant-Microbe Interactions and Immunity",
+        "Plant and fungal interactions",
+        "Legume Nitrogen Fixing Symbiosis"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-12T10:38:50.381389+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -2724,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.761751+00:00"
+      "_retrievedAt": "2026-06-12T10:38:51.960089+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -2756,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:26.322740+00:00"
+      "_retrievedAt": "2026-06-12T10:38:52.290362+00:00"
     },
     {
       "id": "openalex-37facdeb2617",
@@ -2788,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.764445+00:00"
+      "_retrievedAt": "2026-06-12T10:38:51.962685+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -2820,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.158009+00:00"
+      "_retrievedAt": "2026-06-12T10:38:50.378270+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -2852,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.159721+00:00"
+      "_retrievedAt": "2026-06-12T10:38:50.379846+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -2884,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:24.643172+00:00"
+      "_retrievedAt": "2026-06-12T10:38:48.613592+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -2912,11 +2976,11 @@ window.LIVE_FEED_DATA = {
         "Fungal Infections and Studies"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.157269+00:00"
+      "_retrievedAt": "2026-06-12T10:38:50.377270+00:00"
     },
     {
       "id": "openalex-62b5f655ec71",
@@ -2948,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:26.325364+00:00"
+      "_retrievedAt": "2026-06-12T10:38:52.292468+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -2980,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.160403+00:00"
+      "_retrievedAt": "2026-06-12T10:38:50.380479+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -3012,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:26.324685+00:00"
+      "_retrievedAt": "2026-06-12T10:38:52.291829+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -3044,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:26.321226+00:00"
+      "_retrievedAt": "2026-06-12T10:38:52.288578+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -3076,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:26.321605+00:00"
+      "_retrievedAt": "2026-06-12T10:38:52.288890+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -3108,39 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:26.323183+00:00"
-    },
-    {
-      "id": "openalex-9eb31b2e7a82",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Oncolytic Viruses in Cancer Immunotherapy: From Molecular Engineering to Clinical Translation",
-      "authors": "Mohammad Fayyad‐Kazan, Sarah Ayad Al-Tameemi, Allal Ouhtit",
-      "abstract": "Cancer immunotherapy has transformed modern oncology, yet durable responses remain limited for many patients due to immune exclusion, adaptive resistance, and tumor heterogeneity. Oncolytic viruses (OVs) have emerged as a novel class of immunotherapeutics that unify direct tumor cytolysis with stimulation of antitumor immunity. By inducing immunogenic cell death (ICD) and releasing tumor-associated antigens (TAAs), OVs remodel the tumor microenvironment (TME) into an inflamed and immune-permissive niche capable of enabling systemic immune activation. Rapid advances in viral engineering have strengthened the translational potential of OVs through tumor-selective gene deletions, tumor-specific promoters, microRNA-based detargeting, and receptor-retargeting strategies that collectively enhance safety, specificity, and intratumoral propagation. Next-generation OVs are increasingly \"armed\"...",
-      "date": "2026-02-24",
-      "year": 2026,
-      "journal": "Cells",
-      "source": "Cells",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/cells15050393",
-      "doi": "10.3390/cells15050393",
-      "pdfUrl": "https://www.mdpi.com/2073-4409/15/5/393/pdf",
-      "keywords": [
-        "Oncolytic virus",
-        "Immunotherapy",
-        "Virotherapy",
-        "Immune system",
-        "Cancer research",
-        "Virus-based gene therapy research",
-        "Cancer Research and Treatments",
-        "CAR-T cell therapy research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.161809+00:00"
+      "_retrievedAt": "2026-06-12T10:38:52.290787+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -3172,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.156894+00:00"
+      "_retrievedAt": "2026-06-12T10:38:50.377586+00:00"
     },
     {
       "id": "openalex-88008efb5422",
@@ -3204,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.161060+00:00"
+      "_retrievedAt": "2026-06-12T10:38:50.381096+00:00"
     },
     {
       "id": "openalex-6d7865beed8a",
@@ -3236,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.760718+00:00"
+      "_retrievedAt": "2026-06-12T10:38:51.959799+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -3268,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.158457+00:00"
+      "_retrievedAt": "2026-06-12T10:38:50.378678+00:00"
     },
     {
       "id": "openalex-3dfdd7ceaceb",
@@ -3300,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.158739+00:00"
+      "_retrievedAt": "2026-06-12T10:38:50.378936+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -3332,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.760387+00:00"
+      "_retrievedAt": "2026-06-12T10:38:51.958815+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -3360,11 +3392,11 @@ window.LIVE_FEED_DATA = {
         "Glycogen Storage Diseases and Myoclonus"
       ],
       "readTime": "1 min",
-      "citedBy": 10,
+      "citedBy": 12,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.156583+00:00"
+      "_retrievedAt": "2026-06-12T10:38:50.376928+00:00"
     },
     {
       "id": "openalex-18b220cd1ad9",
@@ -3396,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:26.326327+00:00"
+      "_retrievedAt": "2026-06-12T10:38:52.293423+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -3424,11 +3456,11 @@ window.LIVE_FEED_DATA = {
         "time"
       ],
       "readTime": "1 min",
-      "citedBy": 24,
+      "citedBy": 25,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:24.642224+00:00"
+      "_retrievedAt": "2026-06-12T10:38:48.612716+00:00"
     },
     {
       "id": "openalex-6a51321a829e",
@@ -3460,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.159053+00:00"
+      "_retrievedAt": "2026-06-12T10:38:50.379227+00:00"
     },
     {
       "id": "openalex-aa6cbf5eb5cd",
@@ -3492,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:26.325989+00:00"
+      "_retrievedAt": "2026-06-12T10:38:52.293085+00:00"
     },
     {
       "id": "openalex-da72c8fa26ec",
@@ -3520,11 +3552,11 @@ window.LIVE_FEED_DATA = {
         "Cancer Research and Treatments"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.761435+00:00"
+      "_retrievedAt": "2026-06-12T10:38:51.959488+00:00"
     },
     {
       "id": "openalex-3495cf087629",
@@ -3556,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:25.763687+00:00"
+      "_retrievedAt": "2026-06-12T10:38:51.961951+00:00"
     },
     {
       "id": "openalex-ad7b90ca77d1",
@@ -3588,39 +3620,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:26.325644+00:00"
-    },
-    {
-      "id": "openalex-eca0614819ca",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Wildfires on a changing planet",
-      "authors": "Olivia Haas, Iain Colin Prentice, Sandy P. Harrison",
-      "abstract": "Abstract The distribution of wildfires on Earth will change as climate, land-use, and vegetation change. We use global empirical models of burnt area, fire size and fire intensity to explore future wildfire trajectories under ~1.5 and 3-4 °C warming with middle of the road future socio-economic conditions. Even under ~1.5 °C warming we find a change in wildfire patterns by the end of the 21 st century with reduced burning in tropical regions driven by changes in human activity but larger and more intense wildfires in extra-tropical regions driven by changes in climate and CO 2 . With low climate change mitigation, burnt areas increase greatly across all vegetation types, overwhelming the current global decline. These findings suggest that even with ambitious climate change mitigation, current fire-suppression policies will fail in much of the world and mitigation scenarios that rely o...",
-      "date": "2026-02-12",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-025-68176-4",
-      "doi": "10.1038/s41467-025-68176-4",
-      "pdfUrl": "https://www.nature.com/articles/s41467-025-68176-4.pdf",
-      "keywords": [
-        "Climate change",
-        "Global warming",
-        "Vegetation (pathology)",
-        "Global change",
-        "Environmental science",
-        "Fire effects on ecosystems",
-        "Knowledge Management and Technology",
-        "Science and Climate Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-12T05:00:26.326646+00:00"
+      "_retrievedAt": "2026-06-12T10:38:52.292744+00:00"
     }
   ]
 };
