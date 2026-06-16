@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T11:32:46.164571+00:00",
+  "generatedAt": "2026-06-16T17:20:00.790124+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -7,452 +7,676 @@
   ],
   "papers": [
     {
-      "id": "rss-417ba879ed8c",
+      "id": "rss-50a7ed25688b",
       "discipline": "clinical",
       "type": "news",
-      "title": "ADHD may be underdiagnosed in adults across England, study finds",
+      "title": "'Zombie' cells play an unexpected role in the developing brain",
       "authors": "Medical Xpress",
-      "abstract": "Attention deficit hyperactivity disorder (ADHD) may still be underrecognized and underdiagnosed in England despite recent increases in diagnosis, according to a study led by researchers at UCL, University of Liverpool and King's College London.",
+      "abstract": "Among the body's most crucial protective features are the brain barrier systems, including the blood-brain and blood-cerebrospinal fluid (CSF) barriers. These barriers are made of highly specialized cells that allow essential nutrients to enter yet repel dangerous toxins and pathogens that may be circulating in the bloodstream. Scientists have long known what these barriers do, but less about how they are built during development.",
       "date": "2026-06-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-adhd-underdiagnosed-adults-england.html",
+      "url": "https://medicalxpress.com/news/2026-06-zombie-cells-play-unexpected-role.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "adhd",
-        "underdiagnosed",
-        "england",
-        "adults",
-        "across",
-        "finds",
-        "attention",
-        "deficit"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.767099+00:00"
-    },
-    {
-      "id": "rss-50ff496a7549",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Common weed killer may affect hormones tied to pregnancy and fetal development, new research finds",
-      "authors": "Medical Xpress",
-      "abstract": "Exposure to glyphosate, the active ingredient in many weedkillers, was linked to changes in several hormones that support pregnancy and fetal development—in one of the few studies to examine how a widely used herbicide may affect the body during pregnancy.",
-      "date": "2026-06-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-common-weed-killer-affect-hormones.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "pregnancy",
-        "affect",
-        "hormones",
-        "fetal",
-        "development",
-        "common",
-        "weed",
-        "killer"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.767419+00:00"
-    },
-    {
-      "id": "rss-d2047adce0d5",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Nearly half the world's children exposed to three or more climate risks: UNICEF",
-      "authors": "Medical Xpress",
-      "abstract": "More than 1 billion children face at least three overlapping climate hazards, UNICEF warned Monday, while highlighting the disproportionate impact in some regions of the world.",
-      "date": "2026-06-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-world-children-exposed-climate-unicef.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "world",
-        "children",
-        "three",
-        "more",
-        "climate",
-        "unicef",
-        "nearly",
-        "half"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.767669+00:00"
-    },
-    {
-      "id": "rss-a27a69366cc2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "A nasal spray reaches a woman's brain differently depending on the week, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "Consider what is asked of a clinical trial. Researchers gather people who differ in nearly every way that matters. They are given the same drug at the same dose, and then they average the result and call the average truth. Most of the time the trick holds. Sometimes it lies.",
-      "date": "2026-06-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-nasal-spray-woman-brain-differently.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "they",
-        "same",
-        "average",
-        "nasal",
-        "spray",
-        "reaches",
-        "woman",
-        "brain"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.767929+00:00"
-    },
-    {
-      "id": "rss-7abb5f0e8f9a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Utah's stricter 0.05 BAC limit significantly reduces drunk driving fatalities, analysis finds",
-      "authors": "Medical Xpress",
-      "abstract": "A new analysis has found that after Utah lowered the legal blood alcohol concentration (BAC) limit for driving from 0.08 to 0.05 g/dL, alcohol-related crash fatalities declined significantly more in Utah than in its six contiguous states. The findings from the study published in the American Journal of Preventive Medicine, provide timely evidence that lowering the BAC limit may save lives and point to broad public safety benefits.",
-      "date": "2026-06-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-utah-stricter-bac-limit-significantly.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "utah",
-        "limit",
-        "significantly",
-        "driving",
-        "fatalities",
+        "barriers",
+        "cells",
+        "brain",
+        "these",
         "that",
-        "stricter",
-        "reduces"
+        "zombie",
+        "play",
+        "unexpected"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.768209+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.293459+00:00"
     },
     {
-      "id": "rss-ca39c3d140e6",
+      "id": "rss-99b88f756e34",
       "discipline": "clinical",
       "type": "news",
-      "title": "1940s-era drug helps uncover kidney pathway that may improve disease treatment",
+      "title": "Unmasking melioidosis: Collaborative research needed to understand alarming global spread of the bacteria",
       "authors": "Medical Xpress",
-      "abstract": "Mayo Clinic researchers have identified a previously unrecognized way the kidneys regulate water balance—an advance that could lead to improved treatments for polycystic kidney disease (PKD) and other disorders. The study, led by Fouad Chebib, M.D., a nephrologist at Mayo Clinic, is published in the Journal of Clinical Investigation.",
+      "abstract": "What do hurricanes, military equipment, aromatherapy oil and a pet raccoon have in common? According to a new review led by Menzies School of Health Research (Menzies), all have been linked with cases of melioidosis, a potentially fatal disease caused by the bacterium Burkholderia pseudomallei, as part of tracking the global spread of the disease.",
       "date": "2026-06-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-1940s-era-drug-uncover-kidney.html",
+      "url": "https://medicalxpress.com/news/2026-06-unmasking-melioidosis-collaborative-alarming-global.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "kidney",
-        "that",
+        "melioidosis",
+        "global",
+        "spread",
+        "have",
+        "menzies",
         "disease",
-        "mayo",
-        "clinic",
-        "s-era",
-        "drug",
-        "helps"
+        "unmasking",
+        "collaborative"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.768553+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.293750+00:00"
     },
     {
-      "id": "rss-8f32ad033911",
+      "id": "rss-db762884ab7f",
       "discipline": "clinical",
       "type": "news",
-      "title": "Cuddling cats might make us feel worse when under stress",
+      "title": "Large-scale population studies needed to reduce risks from newborn genome screening, investigators conclude",
       "authors": "Medical Xpress",
-      "abstract": "Researchers just got one step closer to solving the age-old question of whether cats or dogs make better pets. A team in the Netherlands set out to better understand the nuances and underlying mechanisms behind the positive influence of pet ownership on owners' emotional well-being. They also examined whether the beneficial influence of pet interaction is specific to either species and found tentative evidence of a difference in how interacting with cats and dogs affects stressed owners.",
+      "abstract": "New research from large population studies provides invaluable evidence on genome screening of newborn babies to reduce risks from overdiagnosis. The authors conclude that further studies are needed before such screening is rolled out.",
       "date": "2026-06-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-cuddling-cats-worse-stress.html",
+      "url": "https://medicalxpress.com/news/2026-06-large-scale-population-newborn-genome.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cats",
-        "make",
-        "whether",
-        "dogs",
-        "better",
-        "influence",
-        "owners",
-        "cuddling"
+        "studies",
+        "screening",
+        "population",
+        "needed",
+        "reduce",
+        "risks",
+        "newborn",
+        "genome"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.768847+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.294021+00:00"
     },
     {
-      "id": "rss-a9b086316f08",
+      "id": "rss-2338cb3ddef3",
       "discipline": "clinical",
       "type": "news",
-      "title": "Psilocybin to target persistent concussion symptoms in Australia's first clinical trial",
+      "title": "Mapping immune cell interactions in gut tissue reveals changes in ulcerative colitis",
       "authors": "Medical Xpress",
-      "abstract": "Monash University researchers have launched Australia's first clinical trial to test whether the psychedelic drug psilocybin is an effective treatment for persistent post-concussion symptoms.",
+      "abstract": "In a new study published in Science Immunology, researchers at King's College London looked at a type of tissue important for the immune response called gut-associated lymphoid tissue (GALT), which is located within the lining of the gut. Unlike other tissue structures in the gut lining that act as a barrier between the trillions of bacteria in the gut and the rest of the body, GALT actively transports gut microbes into the body. By doing this, GALT activates immune responses that help maintain a stable relationship with beneficial gut bacteria.",
       "date": "2026-06-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-psilocybin-persistent-concussion-symptoms-australia.html",
+      "url": "https://medicalxpress.com/news/2026-06-immune-cell-interactions-gut-tissue.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "psilocybin",
-        "persistent",
-        "symptoms",
-        "australia",
-        "first",
-        "clinical",
-        "trial",
-        "target"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.769074+00:00"
-    },
-    {
-      "id": "rss-e1bf4a933c98",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New toolkit aims to improve menopause care for women from minority ethnic communities",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at the University of Liverpool have developed a new toolkit to support health care professionals in delivering culturally informed menopause care. The work is highlighted in a Correspondence published in The Lancet Obstetrics, Gynaecology & Women's Health and draws on findings from a research project exploring the lived experiences of menopause among women from Black and Chinese communities in the U.K.",
-      "date": "2026-06-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-toolkit-aims-menopause-women-minority.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "menopause",
-        "care",
-        "women",
-        "toolkit",
-        "communities",
-        "health",
-        "aims",
-        "improve"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.769368+00:00"
-    },
-    {
-      "id": "rss-5c5b0818e81f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Seeking health information does not automatically improve health behavior, says researcher",
-      "authors": "Medical Xpress",
-      "abstract": "People are increasingly seeking health information online in Estonia, but the information they find is not leading to better health decisions. The concern is not a lack of information but people's digital literacy and ability to make sense of it.",
-      "date": "2026-06-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-health-automatically-behavior.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "health",
-        "information",
-        "seeking",
-        "people",
-        "does",
-        "automatically",
-        "improve",
-        "behavior"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.769619+00:00"
-    },
-    {
-      "id": "rss-4a460347ab4d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Youth-designed 'blue-green' spaces boost resilience and mental wellness for Appalachian adolescents",
-      "authors": "Medical Xpress",
-      "abstract": "Adolescents in rural Appalachian communities face disproportionate mental health risks and geographic isolation, but new research from Georgetown University's Berkley School of Nursing suggests that youth-led environmental design can foster a unique form of \"Situated Strength.\"",
-      "date": "2026-06-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-youth-blue-green-spaces-boost.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "mental",
-        "appalachian",
-        "adolescents",
-        "youth-designed",
-        "blue-green",
-        "spaces",
-        "boost",
-        "resilience"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.769863+00:00"
-    },
-    {
-      "id": "rss-76c2a7214ded",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Thesis strengthens forensic assessments in cases of suspected stabbings",
-      "authors": "Medical Xpress",
-      "abstract": "How can it be determined whether a person has died by suicide or homicide—an assessment that is key to the legal process? A new thesis from Lund University in Sweden shows how forensic medicine can become more accurate and legally sound by relying on systematic data rather than professional experience alone.",
-      "date": "2026-06-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-thesis-forensic-cases-stabbings.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "thesis",
-        "forensic",
-        "strengthens",
-        "assessments",
-        "cases",
-        "suspected",
-        "stabbings",
-        "determined"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.770131+00:00"
-    },
-    {
-      "id": "rss-63eedae9c6db",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Alcohol significantly reduces chances of being rescued from drowning, says research",
-      "authors": "Medical Xpress",
-      "abstract": "As families get ready for outdoor summer adventures, a Simon Fraser University study has found that alcohol significantly reduces the chance of youths being rescued from drowning. The findings indicate that teenagers are nearly eight times more likely than infants to drown without any rescue attempt, while the presence of alcohol quadruples the chance of no rescue attempt.",
-      "date": "2026-06-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-alcohol-significantly-chances.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "alcohol",
-        "significantly",
-        "reduces",
-        "being",
-        "rescued",
-        "drowning",
+        "tissue",
+        "immune",
+        "galt",
+        "lining",
         "that",
-        "chance"
+        "bacteria",
+        "body",
+        "mapping"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.770414+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.294301+00:00"
     },
     {
-      "id": "rss-5259fa4d21a2",
+      "id": "rss-eb6c058f6378",
       "discipline": "clinical",
       "type": "news",
-      "title": "FDA approves first over-the-counter glucose monitor for children",
+      "title": "How do recovery community centers support people in recovery over time?",
       "authors": "Medical Xpress",
-      "abstract": "The U.S. Food and Drug Administration (FDA) has cleared the first over-the-counter wearable device to track blood sugar in young children.",
+      "abstract": "More than 1 in 10 adults in the United States believe they had a substance use problem at some point, according to the Substance Abuse and Mental Health Services Administration. Among these adults, more than 7 in 10 considered themselves to be in recovery. An increasingly common way people support their recovery is by visiting recovery community centers (RCCs), which have emerged across the country and in Pennsylvania.",
       "date": "2026-06-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-fda-counter-glucose-children.html",
+      "url": "https://medicalxpress.com/news/2026-06-recovery-community-centers-people.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "first",
-        "over-the-counter",
-        "children",
-        "approves",
-        "glucose",
-        "monitor",
-        "food",
-        "drug"
+        "recovery",
+        "community",
+        "centers",
+        "support",
+        "people",
+        "more",
+        "than",
+        "adults"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.770637+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.294542+00:00"
+    },
+    {
+      "id": "rss-b716d5a3452f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Tackling the root cause of construction's mental health",
+      "authors": "Medical Xpress",
+      "abstract": "University of Warwick researchers have shaped a new Mental Health Joint Code of Practice, launched by the Construction Leadership Council, that presents solutions to poor mental health in construction, which is one of the most significant risks facing the construction industry. The Office for National Statistics says the suicide rate for men in U.K. construction is nearly four times the national average. Yet mental health harm is not inevitable; it is the result of decision-making around how construction work is designed, planned and led.",
+      "date": "2026-06-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-tackling-root-mental-health.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "construction",
+        "mental",
+        "health",
+        "national",
+        "tackling",
+        "root",
+        "cause",
+        "university"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:20:00.294797+00:00"
+    },
+    {
+      "id": "rss-42bd12ce136a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Three men's health drugs that were originally designed for a different purpose",
+      "authors": "Medical Xpress",
+      "abstract": "Many medicines begin life with one purpose and end up proving useful for a completely different reason.",
+      "date": "2026-06-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-men-health-drugs-purpose.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "different",
+        "purpose",
+        "three",
+        "health",
+        "drugs",
+        "that",
+        "were",
+        "originally"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:20:00.294998+00:00"
+    },
+    {
+      "id": "rss-8a272a839eb3",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Depression may rewire how kids pay attention to emotional faces",
+      "authors": "Medical Xpress",
+      "abstract": "A smile. A frown. The faces a child pays closer attention to might offer insight into their mental health. Depression may shape how much children pay attention to emotional expressions—sad or happy faces—and those changes appear to depend on whether the child has a family history of depression, according to a first-of-its-kind study from Binghamton University, State University of New York.",
+      "date": "2026-06-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-depression-rewire-kids-pay-attention.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "depression",
+        "attention",
+        "faces",
+        "emotional",
+        "child",
+        "university",
+        "rewire",
+        "kids"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:20:00.295265+00:00"
+    },
+    {
+      "id": "rss-aa3107ae4ab1",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Major sporting events could offer a public health role for nursing students",
+      "authors": "Medical Xpress",
+      "abstract": "As Toronto hosts the 2026 FIFA World Cup, the city is welcoming large crowds, international visitors and volunteers into stadiums, transit hubs, fan spaces and public areas. For many people, the World Cup is about soccer, national pride and global celebration. But for host cities, it's also a public health event.",
+      "date": "2026-06-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-major-sporting-events-health-role.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "public",
+        "health",
+        "world",
+        "major",
+        "sporting",
+        "events",
+        "could",
+        "offer"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:20:00.295485+00:00"
+    },
+    {
+      "id": "rss-77dda1f35475",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Ultra-rare gene variant appears as schizophrenia or autism in one island family",
+      "authors": "Medical Xpress",
+      "abstract": "For most of a century, psychiatry has kept its disorders in separate rooms. Schizophrenia in one. Bipolar disorder in another. Autism somewhere down a different corridor entirely. The arrangement was orderly, and it organized clinics and insurance codes and the words that families carried home from the appointment. It was also, as anyone who ever sat with real patients understood, a little bit of a fiction at the edges. The diagnoses were tidy. The family histories were not.",
+      "date": "2026-06-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-ultra-rare-gene-variant-schizophrenia.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "schizophrenia",
+        "autism",
+        "family",
+        "were",
+        "ultra-rare",
+        "gene",
+        "variant",
+        "appears"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:20:00.295732+00:00"
+    },
+    {
+      "id": "rss-e09f93e2c4f9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "DR Congo Ebola outbreak yet to peak, could last a year: Red Cross",
+      "authors": "Medical Xpress",
+      "abstract": "The deadly Ebola outbreak in the DR Congo has yet to peak and could take a year to contain, the Red Cross warned Tuesday, amid mounting warnings of dangerous gaps in the response.",
+      "date": "2026-06-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-dr-congo-ebola-outbreak-peak.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "congo",
+        "ebola",
+        "outbreak",
+        "peak",
+        "could",
+        "year",
+        "cross",
+        "last"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:20:00.295921+00:00"
+    },
+    {
+      "id": "rss-32d51b31fc74",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "A privacy-preserving solution for using AI in cardiovascular care",
+      "authors": "Medical Xpress",
+      "abstract": "The use of AI in health care is challenging because sensitive patient data is scattered across different systems, and its use requires strong privacy protection. The new concept developed in the international Secur-e-Health project combines secure data processing, careful consent practices and privacy-preserving AI tools to support both disease prevention and the monitoring of patient care.",
+      "date": "2026-06-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-privacy-solution-ai-cardiovascular.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "care",
+        "privacy-preserving",
+        "patient",
+        "solution",
+        "cardiovascular",
+        "health",
+        "challenging",
+        "because"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:20:00.296160+00:00"
+    },
+    {
+      "id": "rss-192ef3e2befa",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Seven years after Ebola, survivors still live with neurological scars left by the disease",
+      "authors": "Medical Xpress",
+      "abstract": "Ebola virus disease is caused by infection with an orthobolavirus found primarily in sub-Saharan Africa and can be fatal in 50% of those infected, on average. Among those who survive the disease, it leaves behind its imprint on the brain even after recovery.",
+      "date": "2026-06-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-years-ebola-survivors-neurological-scars.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "disease",
+        "after",
+        "ebola",
+        "those",
+        "seven",
+        "years",
+        "survivors",
+        "still"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:20:00.296372+00:00"
+    },
+    {
+      "id": "rss-e2fbfbfe7c39",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Shingles vaccine may lower dementia risk, study suggests",
+      "authors": "Medical Xpress",
+      "abstract": "Older adults who received a shingles vaccine after a stay in a skilled nursing facility had a 24% lower risk of being diagnosed with dementia over a four-year period than those who were not vaccinated, according to a new study.",
+      "date": "2026-06-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-shingles-vaccine-dementia.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "shingles",
+        "vaccine",
+        "lower",
+        "dementia",
+        "risk",
+        "suggests",
+        "older",
+        "adults"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:20:00.296570+00:00"
+    },
+    {
+      "id": "rss-b8db66470455",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+      "authors": "TechCrunch AI",
+      "abstract": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
+      "date": "2026-06-16",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "consumers",
+        "survey",
+        "sixty",
+        "percent",
+        "brand",
+        "messaging",
+        "turnoff",
+        "finds"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:20:00.312639+00:00"
+    },
+    {
+      "id": "rss-ac841c0da249",
+      "discipline": "cs",
+      "type": "news",
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "authors": "TechCrunch AI",
+      "abstract": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "date": "2026-06-16",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "spacex",
+        "what",
+        "public",
+        "everything",
+        "need",
+        "know",
+        "post-ipo",
+        "techcrunch"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:20:00.312870+00:00"
+    },
+    {
+      "id": "rss-09f1f87ac930",
+      "discipline": "cs",
+      "type": "news",
+      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+      "authors": "TechCrunch AI",
+      "abstract": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.",
+      "date": "2026-06-16",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "unpermitted",
+        "turbines",
+        "claims",
+        "matter",
+        "national",
+        "economic",
+        "energy",
+        "security"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:20:00.313051+00:00"
+    },
+    {
+      "id": "rss-b4b7c3c27067",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "authors": "TechCrunch AI",
+      "abstract": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
+      "date": "2026-06-16",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "plaud",
+        "notetakers",
+        "says",
+        "software",
+        "business",
+        "topped",
+        "after",
+        "shipping"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:20:00.313193+00:00"
+    },
+    {
+      "id": "rss-e785c16c7f52",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+      "authors": "TechCrunch AI",
+      "abstract": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.",
+      "date": "2026-06-16",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "robinhood",
+        "note",
+        "layoffs",
+        "shows",
+        "blaming",
+        "cutting",
+        "unlike",
+        "many"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:20:00.313358+00:00"
+    },
+    {
+      "id": "rss-fb7d913c3230",
+      "discipline": "cs",
+      "type": "news",
+      "title": "SpaceX passes Amazon as valuation balloons to $2.7T",
+      "authors": "TechCrunch AI",
+      "abstract": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+      "date": "2026-06-16",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "spacex",
+        "valuation",
+        "passes",
+        "amazon",
+        "balloons",
+        "increased",
+        "trillion",
+        "since"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:20:00.313481+00:00"
+    },
+    {
+      "id": "rss-d34975bc01e6",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Probably raises $9M to build a more reliable kind of AI",
+      "authors": "TechCrunch AI",
+      "abstract": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
+      "date": "2026-06-16",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "probably",
+        "raises",
+        "build",
+        "more",
+        "reliable",
+        "kind",
+        "wants",
+        "prevent"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:20:00.313606+00:00"
     },
     {
       "id": "rss-ad18925b1dc5",
@@ -484,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.794932+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.313735+00:00"
     },
     {
       "id": "rss-00f40e1a2e4d",
@@ -492,7 +716,7 @@
       "type": "news",
       "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
       "authors": "TechCrunch AI",
-      "abstract": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+      "abstract": "Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
       "date": "2026-06-16",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -516,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.795170+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.313879+00:00"
     },
     {
       "id": "rss-b822aedf990b",
@@ -548,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.795386+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.314050+00:00"
     },
     {
       "id": "rss-5c615ac95999",
@@ -580,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.795591+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.314208+00:00"
     },
     {
       "id": "rss-25f19491f296",
@@ -612,39 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.795786+00:00"
-    },
-    {
-      "id": "rss-93158271d008",
-      "discipline": "cs",
-      "type": "news",
-      "title": "SpaceX is public: Everything you need to know post-IPO",
-      "authors": "TechCrunch AI",
-      "abstract": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
-      "date": "2026-06-15",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "spacex",
-        "what",
-        "public",
-        "everything",
-        "need",
-        "know",
-        "post-ipo",
-        "techcrunch"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.795979+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.314365+00:00"
     },
     {
       "id": "rss-477da0674578",
@@ -676,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.796192+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.314543+00:00"
     },
     {
       "id": "rss-3ad12aa31deb",
@@ -708,135 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.796385+00:00"
-    },
-    {
-      "id": "rss-29d0808462a3",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-      "authors": "TechCrunch AI",
-      "abstract": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
-      "date": "2026-06-15",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "million",
-        "hcltech",
-        "sarvam",
-        "becomes",
-        "india",
-        "newest",
-        "unicorn",
-        "funding"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.796558+00:00"
-    },
-    {
-      "id": "rss-25a04e4dfc35",
-      "discipline": "cs",
-      "type": "news",
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-      "authors": "TechCrunch AI",
-      "abstract": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
-      "date": "2026-06-15",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "agents",
-        "newcore",
-        "become",
-        "employees",
-        "emerges",
-        "give",
-        "them",
-        "identities"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.796719+00:00"
-    },
-    {
-      "id": "rss-61f323012373",
-      "discipline": "cs",
-      "type": "news",
-      "title": "A satellite just learned to find things on its own — here’s what that means",
-      "authors": "TechCrunch AI",
-      "abstract": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
-      "date": "2026-06-15",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "satellite",
-        "what",
-        "just",
-        "learned",
-        "find",
-        "things",
-        "here",
-        "that"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.796891+00:00"
-    },
-    {
-      "id": "rss-135aa3682fc1",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The AI layoff wave is becoming a powder keg",
-      "authors": "TechCrunch AI",
-      "abstract": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
-      "date": "2026-06-15",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "becoming",
-        "that",
-        "layoff",
-        "wave",
-        "powder",
-        "very",
-        "moment",
-        "tens"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.797055+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.314682+00:00"
     },
     {
       "id": "rss-9babfa4d92c2",
@@ -868,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:46.048939+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.665018+00:00"
     },
     {
       "id": "rss-8751cfb8b032",
@@ -900,71 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:46.049160+00:00"
-    },
-    {
-      "id": "rss-96bfa0333c6b",
-      "discipline": "cs",
-      "type": "news",
-      "title": "As AI companies race to go public, who else is along for the ride?",
-      "authors": "TechCrunch AI",
-      "abstract": "Startups are trying to \"ride that SpaceX IPO wave.\"",
-      "date": "2026-06-14",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ride",
-        "companies",
-        "race",
-        "public",
-        "else",
-        "along",
-        "startups",
-        "trying"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.797201+00:00"
-    },
-    {
-      "id": "rss-85609807896d",
-      "discipline": "cs",
-      "type": "news",
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "authors": "TechCrunch AI",
-      "abstract": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
-      "date": "2026-06-14",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "anthropic",
-        "india",
-        "suspends",
-        "access",
-        "debates",
-        "future",
-        "tech",
-        "leaders"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.797383+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.665218+00:00"
     },
     {
       "id": "rss-1bc2925a9388",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.825315+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.347612+00:00"
     },
     {
       "id": "rss-f936ae05ec86",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.825528+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.347792+00:00"
     },
     {
       "id": "rss-0ea3dcd99424",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.825697+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.347976+00:00"
     },
     {
       "id": "rss-3c2f3866802b",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:46.049737+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.665716+00:00"
     },
     {
       "id": "rss-8cb2f4a1e892",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.825874+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.348142+00:00"
     },
     {
       "id": "rss-f27c800555f2",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.826034+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.348282+00:00"
     },
     {
       "id": "rss-130a779b2400",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:46.049989+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.665930+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1220,7 +1220,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.696432+00:00"
+      "_retrievedAt": "2026-06-16T17:19:55.732174+00:00"
     },
     {
       "id": "rss-2dfddbb1e70d",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:46.050579+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.666461+00:00"
     },
     {
       "id": "rss-1aa9f8004d35",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:46.051195+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.667026+00:00"
     },
     {
       "id": "rss-c0f99ae68619",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:46.051414+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.667197+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -1348,7 +1348,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.488752+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.424029+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1380,7 +1380,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.695277+00:00"
+      "_retrievedAt": "2026-06-16T17:19:55.731123+00:00"
     },
     {
       "id": "rss-2154e7a8aa14",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.826190+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.348418+00:00"
     },
     {
       "id": "rss-943471709773",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:46.051636+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.667378+00:00"
     },
     {
       "id": "rss-4d7859cbc7e2",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:46.052150+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.667844+00:00"
     },
     {
       "id": "rss-0976470de9a8",
@@ -1508,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.826391+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.348559+00:00"
     },
     {
       "id": "rss-29f40dfdd1a7",
@@ -1540,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.826583+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.348694+00:00"
     },
     {
       "id": "rss-d0a4d545493c",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:46.052473+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.668128+00:00"
     },
     {
       "id": "rss-14174cf7fd0f",
@@ -1604,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.826757+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.348840+00:00"
     },
     {
       "id": "rss-509ced476342",
@@ -1636,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.826911+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.348983+00:00"
     },
     {
       "id": "rss-b863d19e76fc",
@@ -1668,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.827066+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.349114+00:00"
     },
     {
       "id": "rss-fe9bc1999c2c",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.827220+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.349240+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1732,7 +1732,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.790579+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.774229+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -1764,7 +1764,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.698449+00:00"
+      "_retrievedAt": "2026-06-16T17:19:55.734030+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -1796,7 +1796,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.699604+00:00"
+      "_retrievedAt": "2026-06-16T17:19:55.735082+00:00"
     },
     {
       "id": "rss-8a5e8a3301a1",
@@ -1828,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.827396+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.349368+00:00"
     },
     {
       "id": "rss-2b72b6519fb3",
@@ -1860,7 +1860,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:45.827555+00:00"
+      "_retrievedAt": "2026-06-16T17:20:00.349489+00:00"
     },
     {
       "id": "openalex-2a2df0665fcc",
@@ -1892,7 +1892,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.486426+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.421840+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1920,18 +1920,18 @@
         "Forecasting Techniques and Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 128,
+      "citedBy": 130,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.694961+00:00"
+      "_retrievedAt": "2026-06-16T17:19:55.730793+00:00"
     },
     {
       "id": "openalex-239a44a48c00",
       "discipline": "geo",
       "type": "paper",
       "title": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
-      "authors": "Mao, Pascal, Bourlon, Fabien, Vialette, Yannick, Szmulewicz, Pablo, de Grandpré, François",
+      "authors": "Bourlon, Fabien, Bregolin, Michel, Rudzewicz, Laura",
       "abstract": "Rosa dos Ventos abrange aspectos relacionados ao Turismo e a Hospitalidade, com foco na Educação, Epistemologia, Gastronomia, Gestão, Cultura e Meio Ambiente, em visão multidisciplinar do fenômeno turístico",
       "date": "2026-05-15",
       "year": 2026,
@@ -1956,7 +1956,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.786824+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.770611+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1988,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.695985+00:00"
+      "_retrievedAt": "2026-06-16T17:19:55.731762+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2016,11 +2016,11 @@
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 1402,
+      "citedBy": 1403,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.694587+00:00"
+      "_retrievedAt": "2026-06-16T17:19:55.730430+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2052,7 +2052,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.788946+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.772729+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2084,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.695756+00:00"
+      "_retrievedAt": "2026-06-16T17:19:55.731545+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2116,7 +2116,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.484903+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.420406+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2148,7 +2148,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.698720+00:00"
+      "_retrievedAt": "2026-06-16T17:19:55.734282+00:00"
+    },
+    {
+      "id": "openalex-8b9a2b633761",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Single-cell TCR mapping reveals spatially coordinated T cell states in head and neck cancer",
+      "authors": "Kelli A. McCord, Emerald Kan, Sean Hyslop, Amanda Y. Xia, Colby J. Hofferek, James S. Lewis",
+      "abstract": "Current spatial T cell receptor (TCR) profiling approaches lack the resolution needed to link clonal identity, transcriptional state, and spatial positioning of individual T cells in the tumor microenvironment. Here, we introduce a spatial TCR profiling strategy that resolves individual T cell clones together with their transcriptional states at single-cell resolution and applied the method to human head and neck squamous cell carcinoma. Presumed tumor-specific T cells were broadly dispersed throughout the tumor microenvironment, and cells of the same clone occupied distinct transcriptional states in different locations: Immune-rich regions contained more plastic or progenitor cells, whereas tumor-dense regions were enriched for exhausted states. Patients exhibited notably different spatial architectures of antitumor T cell responses, revealing variation that was not captured by high-...",
+      "date": "2026-04-10",
+      "year": 2026,
+      "journal": "Science Immunology",
+      "source": "Science Immunology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1126/sciimmunol.aec3133",
+      "doi": "10.1126/sciimmunol.aec3133",
+      "pdfUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13138865/",
+      "keywords": [
+        "T-cell receptor",
+        "Biology",
+        "Flow cytometry",
+        "T cell",
+        "Transcriptome",
+        "Single-cell and spatial transcriptomics",
+        "Cancer Immunotherapy and Biomarkers",
+        "CAR-T cell therapy research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:19:56.090039+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2180,7 +2212,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.697785+00:00"
+      "_retrievedAt": "2026-06-16T17:19:55.733417+00:00"
+    },
+    {
+      "id": "openalex-e80ab870ed69",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Synthetic super-enhancers enable precision viral immunotherapy",
+      "authors": "Ute Koeber, Mantas Matjusaitis, Neza Alfazema, Katharine Furlong, Zeyu Wang, R. Clyde White",
+      "abstract": "Abstract Cell-type-specific promoters are used in gene therapy to restrict expression of the therapeutic payload. However, these promoters often have suboptimal strength, selectivity and size. Here, leveraging recent insights into the function of enhancers, we developed synthetic super-enhancers (SSEs) by assembling functionally validated enhancer fragments into multipart arrays. Focusing on the core SOX2-driven and SOX9-driven transcriptional regulatory network in glioblastoma stem cells (GSCs) 1 , we engineered SSEs with robust activity and high selectivity. Single-cell profiling, biochemical analyses and genome-binding data indicated that SSEs integrate neurodevelopmental and signalling-state transcription factors to trigger the formation of large multimeric complexes of transcription factors. Moreover, GSC-selective expression of a combination of cytotoxic (HSV-TK and ganciclovir)...",
+      "date": "2026-04-08",
+      "year": 2026,
+      "journal": "Nature",
+      "source": "Nature",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41586-026-10329-6",
+      "doi": "10.1038/s41586-026-10329-6",
+      "pdfUrl": "https://doi.org/10.1038/s41586-026-10329-6",
+      "keywords": [
+        "Enhancer",
+        "Computational biology",
+        "Promoter",
+        "Transcription factor",
+        "Transgene",
+        "Virus-based gene therapy research",
+        "Single-cell and spatial transcriptomics",
+        "RNA Interference and Gene Delivery"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:19:56.090620+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -2212,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.488431+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.423719+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2240,11 +2304,11 @@
         "risks"
       ],
       "readTime": "1 min",
-      "citedBy": 31,
+      "citedBy": 32,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.696732+00:00"
+      "_retrievedAt": "2026-06-16T17:19:55.732447+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2276,7 +2340,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.488113+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.423447+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -2304,11 +2368,11 @@
         "AI in Service Interactions"
       ],
       "readTime": "1 min",
-      "citedBy": 28,
+      "citedBy": 31,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.697043+00:00"
+      "_retrievedAt": "2026-06-16T17:19:55.732726+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2336,43 +2400,11 @@
         "Cell Image Analysis Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 27,
+      "citedBy": 29,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.697465+00:00"
-    },
-    {
-      "id": "openalex-b474cf7a55f6",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Histone deacetylases and cell-cycle regulators orchestrate cell-identity transitions during Arabidopsis root regeneration",
-      "authors": "Ramin Rahni, Laura R. Lee, Graeme Vissers, Indie Suresh, Brandon M.l. Gorodokin, Pui-Leng Ip",
-      "abstract": "The widespread regenerative capacity of plants is mediated by the ability of specialized cells to reprogram their fate, but the sequential cellular states of regenerating plant cells remain an open question. Here, we characterize the trajectory of cellular reprogramming during Arabidopsis root regeneration using single-cell RNA sequencing, ATAC sequencing, imaging, and mutant analysis. The earliest events during regeneration are dependent on repressive chromatin modification, where Multiome and genetic analysis showed that class I histone deacetylases (HDACs) HDA9 and HDA19 play a role in shutting down old identities and to prevent a runaway stress response. Cell division mediates a second step needed for the acquisition of many new identity markers, where division rates were tuned by the DOF transcription factor OBP1 that accelerates and SMR5, SMR7, and SMR10 that decelerate division...",
-      "date": "2026-03-25",
-      "year": 2026,
-      "journal": "Molecular Plant",
-      "source": "Molecular Plant",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.molp.2026.03.013",
-      "doi": "10.1016/j.molp.2026.03.013",
-      "pdfUrl": "https://doi.org/10.1016/j.molp.2026.03.013",
-      "keywords": [
-        "Biology",
-        "Histone",
-        "Arabidopsis",
-        "Cell biology",
-        "Regeneration (biology)",
-        "Plant Molecular Biology Research",
-        "Plant Gene Expression Analysis",
-        "Histone Deacetylase Inhibitors Research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.982622+00:00"
+      "_retrievedAt": "2026-06-16T17:19:55.733118+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -2404,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.981010+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.089055+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -2436,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.981627+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.090315+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -2468,39 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.980331+00:00"
-    },
-    {
-      "id": "openalex-568c4ca27e3e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "A hybrid deep learning approach integrating CNN and transformer for lung cancer classification using CT scans",
-      "authors": "Samia Nawaz Yousafzai, Inzamam Mashood Nasir, Sahar Mansour, Noha Negm, Asma A. Alhashmi, Mohannad Alharbi",
-      "abstract": "Lung cancer is an extremely fatal kind of cancer, resulting in the deaths of almost 7.6 million individuals annually around the globe. Nevertheless, a timely diagnosis is a crucial necessity for enhancing the likelihood of human survival. Regarding tumor identification, CT scans are normally used to identify affected areas. Nevertheless, CT imaging face significant problems such as poor visibility of tumor locations and high false negative rates. The small dataset size of medical imaging makes it challenging to capture local lesion features by iterative training, considering all input features equally. This work integrates Convolutional Neural Network (CNN) and Improved Swin Transformer (C-Swin), a deep learning model that extracts and integrates fine-grained local and global features. C-Swin has Transformer encoder and a CNN module. The CNN module extracts local features, whereas the...",
-      "date": "2026-03-17",
-      "year": 2026,
-      "journal": "Scientific Reports",
-      "source": "Scientific Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41598-026-41161-7",
-      "doi": "10.1038/s41598-026-41161-7",
-      "pdfUrl": "https://www.nature.com/articles/s41598-026-41161-7_reference.pdf",
-      "keywords": [
-        "Deep learning",
-        "Artificial intelligence",
-        "Computer science",
-        "Lung cancer",
-        "Transformer",
-        "Lung Cancer Diagnosis and Treatment",
-        "Radiomics and Machine Learning in Medical Imaging",
-        "COVID-19 diagnosis using AI"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.490011+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.088410+00:00"
     },
     {
       "id": "openalex-59f3240e8b8c",
@@ -2532,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.790161+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.773833+00:00"
     },
     {
       "id": "openalex-4b1dee987f4c",
@@ -2560,11 +2560,11 @@
         "Metabolomics and Mass Spectrometry Studies"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.978550+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.086700+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2596,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.788173+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.771997+00:00"
     },
     {
       "id": "openalex-d7f83e5bb105",
@@ -2628,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.487468+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.423160+00:00"
     },
     {
       "id": "openalex-21e2af519ee1",
@@ -2660,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.489252+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.424497+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2692,39 +2692,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.485657+00:00"
-    },
-    {
-      "id": "openalex-b2aeaeab5ec0",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "A Comprehensive Review of Machine Learning and Deep Learning Methods for Flood Inundation Mapping",
-      "authors": "Abinash SİLWAL, Anil Subedi, Rajee Tamrakar, Kshitij Dahal, Dewasis Dahal, Kenneth Okechukwu Ekpetere",
-      "abstract": "Flood inundation mapping (FIM) is essential in disaster risk management, infrastructure planning, and climate adaptation. Traditional hydrodynamic models, such as the Hydrologic Engineering Center’s River Analysis System (HEC-RAS) and LISFLOOD-Floodplain (LISFLOOD-FP), provide physically interpretable flood simulations but are often data- and computation-intensive and difficult to scale across regions. In recent years, machine learning (ML) and deep learning (DL) approaches have emerged as data-driven alternatives that leverage remote sensing observations, digital elevation models (DEMs), and hydro-climatic datasets to enable scalable and near-real-time flood mapping. Our review synthesizes recent advances in ML-based flood inundation mapping, categorizing methods into traditional machine learning techniques (e.g., Random Forest (RF), Support Vector Machines (SVM), Gradient Boosting (...",
-      "date": "2026-03-09",
-      "year": 2026,
-      "journal": "Earth",
-      "source": "Earth",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/earth7020044",
-      "doi": "10.3390/earth7020044",
-      "pdfUrl": "https://www.mdpi.com/2673-4834/7/2/44/pdf?version=1773048494",
-      "keywords": [
-        "Artificial intelligence",
-        "Machine learning",
-        "Deep learning",
-        "Flood myth",
-        "Computer science",
-        "Flood Risk Assessment and Management",
-        "Tropical and Extratropical Cyclones Research",
-        "Hydrological Forecasting Using AI"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.792672+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.421142+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2756,7 +2724,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.699875+00:00"
+      "_retrievedAt": "2026-06-16T17:19:55.735321+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2788,7 +2756,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.485249+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.420741+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -2820,39 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.791132+00:00"
-    },
-    {
-      "id": "openalex-858e3c58ce35",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "A Systems Approach to Endophyte-Mediated Plant Holobiont and Microbiome Dynamics",
-      "authors": "Deepak Kumar, Krishna Sundari Sattiraju, M. S. Reddy",
-      "abstract": "The plant holobiont comprises the host plant and its associated microbial communities functioning together as a single ecological and evolutionary unit that influences plant health, productivity, and environmental adaptability. Endophytes, formerly classified primarily as plant growth-promoting agents, are currently gaining traction as integral components of plant-associated microbiomes such as the rhizobiome and phytobiome. They can alter host-mediated root exudation patterns, microbial community structure, and nutrient dynamics within the rhizosphere. Endophytes play an important role in modulating host signaling pathways, thus influencing plant growth. Various mechanisms by which endophytes contribute to improved plant performance include soil microbiome dynamics, carbon sequestration, and strengthening the host's ability to tolerate abiotic stressors. Multi-omics, single-cell, and...",
-      "date": "2026-03-05",
-      "year": 2026,
-      "journal": "Plants",
-      "source": "Plants",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/plants15050802",
-      "doi": "10.3390/plants15050802",
-      "pdfUrl": "https://www.mdpi.com/2223-7747/15/5/802/pdf?version=1772704493",
-      "keywords": [
-        "Holobiont",
-        "Microbiome",
-        "Biology",
-        "Abiotic component",
-        "Ecology",
-        "Plant-Microbe Interactions and Immunity",
-        "Plant and fungal interactions",
-        "Legume Nitrogen Fixing Symbiosis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.982291+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.774745+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -2880,11 +2816,11 @@
         "Tissue Engineering and Regenerative Medicine"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.487059+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.422143+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -2916,7 +2852,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.789298+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.773078+00:00"
+    },
+    {
+      "id": "openalex-98c4505ba231",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Long-term monitoring and predictive modeling of mangrove ecosystem health using Sentinel-2 data in coastal regions of Pakistan (2015–2024)",
+      "authors": "Tofeeq Ahmad, Hadi Issa, Urooba Farman Tanoli, Alaa Ahmed, Muhammad Usman Azhar, Adnan Arshad",
+      "abstract": "Mangrove ecosystems along Pakistan’s coastline provide critical ecological services, including coastal protection, carbon sequestration, and biodiversity support, but face increasing threats from sea-level rise, salinity intrusion, and reduced freshwater flows. This study integrates multi-index remote sensing (RS), machine learning (ML), and climate projection modeling to assess mangrove health, spatial dynamics, and future vulnerability from 2015 to 2024. Sentinel-2 imagery was analyzed using the Normalized Difference Vegetation Index (NDVI), Enhanced Vegetation Index (EVI), Modified Soil-Adjusted Vegetation Index (MSAVI), Normalized Difference Water Index (NDWI), Modified Normalized Difference Water Index (MNDWI), Normalized Difference Moisture Index (NDMI), Moisture Vegetation Index (MVI), Salinity Index (SI), and Bare Soil Index (BSI). A Random Forest (RF) classifier implemented i...",
+      "date": "2026-03-04",
+      "year": 2026,
+      "journal": "Geology Ecology and Landscapes",
+      "source": "Geology Ecology and Landscapes",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1080/24749508.2026.2640688",
+      "doi": "10.1080/24749508.2026.2640688",
+      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/24749508.2026.2640688?needAccess=true",
+      "keywords": [
+        "Environmental science",
+        "Mangrove ecosystem",
+        "Mangrove",
+        "Ecosystem",
+        "Ecosystem health",
+        "Coastal wetland ecosystem dynamics",
+        "Remote-Sensing Image Classification",
+        "Coastal and Marine Dynamics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:19:56.775099+00:00"
     },
     {
       "id": "openalex-3455b31b2a62",
@@ -2948,39 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.792254+00:00"
-    },
-    {
-      "id": "openalex-37facdeb2617",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "From Polyphenols to Prodrugs: Bridging the Blood–Brain Barrier with Nanomedicine and Neurotherapeutics",
-      "authors": "Masaru Tanaka, Adriano Cressoni Araújo, Vítor Engrácia Valenti, Élen Landgraf Guiguer, Vitor Cavallari Strozze Catharin, Cristiano Machado Gualhardi",
-      "abstract": "Central nervous system disorders drive disability, yet many neuroactive candidates fail because the brain is a hard compartment to dose. Plant-derived molecules spanning polyphenols, alkaloids, terpenoids, and cannabinoids are attractive because their pleiotropic actions can engage oxidative stress, neuroinflammation, and circuit dysfunction. In practice, the blood-brain barrier (BBB) restricts most native phytochemicals through tight-junction selectivity, rapid metabolism, low solubility, and transporter-mediated efflux. Key gaps include poor standardization of exposure metrics, limited human-relevant BBB models, and few head-to-head studies that compare delivery platforms on the same payload and outcome. This review tackles the mismatch between mechanistic promise and reliable brain exposure that stalls translation. The objectives are to link phytochemical liabilities to enabling st...",
-      "date": "2026-03-03",
-      "year": 2026,
-      "journal": "International Journal of Molecular Sciences",
-      "source": "International Journal of Molecular Sciences",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/ijms27052370",
-      "doi": "10.3390/ijms27052370",
-      "pdfUrl": "https://www.mdpi.com/1422-0067/27/5/2370/pdf?version=1772602824",
-      "keywords": [
-        "Nanocarriers",
-        "Nanomedicine",
-        "Nanotechnology",
-        "Blood–brain barrier",
-        "Chemistry",
-        "Barrier Structure and Function Studies",
-        "Drug Transport and Resistance Mechanisms",
-        "Vagus Nerve Stimulation Research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.490389+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.776174+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -3012,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.978926+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.087063+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -3044,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.980644+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.088679+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -3076,7 +3012,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.699059+00:00"
+      "_retrievedAt": "2026-06-16T17:19:55.734598+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -3108,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.977854+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.086059+00:00"
     },
     {
       "id": "openalex-62b5f655ec71",
@@ -3140,7 +3076,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.791567+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.775495+00:00"
+    },
+    {
+      "id": "openalex-c763bb388f03",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "From Nanoparticle Design to Clinical Translation in Cancer Therapy",
+      "authors": "Jordi Puiggalı́",
+      "abstract": "Nanoparticle-based strategies have emerged as a versatile and powerful approach for cancer therapy, enabling the integration of material science, molecular biology, and immunology into multifunctional therapeutic platforms. Over the past decade, significant advances in nanoparticle design have expanded their potential beyond passive drug carriers toward systems capable of active targeting, microenvironment-responsive behavior, and immune modulation. This review provides a comprehensive and up-to-date overview of the major nanoparticle platforms developed for cancer treatment, including lipid-based, polymeric, inorganic, and bioinspired nanomaterials, with particular emphasis on their structure-property relationships and biological interactions. We discuss key targeting strategies, spanning passive, active, stimuli-responsive, and cellular or immune-mediated approaches, and analyze how...",
+      "date": "2026-02-27",
+      "year": 2026,
+      "journal": "International Journal of Molecular Sciences",
+      "source": "International Journal of Molecular Sciences",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/ijms27052253",
+      "doi": "10.3390/ijms27052253",
+      "pdfUrl": "https://www.mdpi.com/1422-0067/27/5/2253/pdf",
+      "keywords": [
+        "Cancer immunotherapy",
+        "Cancer therapy",
+        "Cancer",
+        "Nanotechnology",
+        "Immunotherapy",
+        "Nanoplatforms for cancer theranostics",
+        "Nanoparticle-Based Drug Delivery",
+        "RNA Interference and Gene Delivery"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:19:56.425065+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -3172,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.981309+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.089345+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -3204,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.790887+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.774519+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -3236,7 +3204,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.787472+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.771283+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -3268,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.787801+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.771607+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -3300,7 +3268,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.789793+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.773489+00:00"
+    },
+    {
+      "id": "openalex-9eb31b2e7a82",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Oncolytic Viruses in Cancer Immunotherapy: From Molecular Engineering to Clinical Translation",
+      "authors": "Mohammad Fayyad‐Kazan, Sarah Ayad Al-Tameemi, Allal Ouhtit",
+      "abstract": "Cancer immunotherapy has transformed modern oncology, yet durable responses remain limited for many patients due to immune exclusion, adaptive resistance, and tumor heterogeneity. Oncolytic viruses (OVs) have emerged as a novel class of immunotherapeutics that unify direct tumor cytolysis with stimulation of antitumor immunity. By inducing immunogenic cell death (ICD) and releasing tumor-associated antigens (TAAs), OVs remodel the tumor microenvironment (TME) into an inflamed and immune-permissive niche capable of enabling systemic immune activation. Rapid advances in viral engineering have strengthened the translational potential of OVs through tumor-selective gene deletions, tumor-specific promoters, microRNA-based detargeting, and receptor-retargeting strategies that collectively enhance safety, specificity, and intratumoral propagation. Next-generation OVs are increasingly \"armed\"...",
+      "date": "2026-02-24",
+      "year": 2026,
+      "journal": "Cells",
+      "source": "Cells",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/cells15050393",
+      "doi": "10.3390/cells15050393",
+      "pdfUrl": "https://www.mdpi.com/2073-4409/15/5/393/pdf",
+      "keywords": [
+        "Oncolytic virus",
+        "Immunotherapy",
+        "Virotherapy",
+        "Immune system",
+        "Cancer research",
+        "Virus-based gene therapy research",
+        "Cancer Research and Treatments",
+        "CAR-T cell therapy research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:19:56.089734+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -3332,39 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.978158+00:00"
-    },
-    {
-      "id": "openalex-88008efb5422",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Graph Learning in Bioinformatics: A Survey of Graph Neural Network Architectures, Biological Graph Construction and Bioinformatics Applications",
-      "authors": "Lijia Deng, Ziyang Dong, Zhengling Yang, Bo Gong, Le Zhang",
-      "abstract": "Graph Neural Networks (GNNs) have become a central methodology for modelling biological systems where entities and their interactions form inherently non-Euclidean structures. From protein interaction networks and gene regulatory circuits to molecular graphs and multi-omics integration, the relational nature of biological data makes GNNs particularly well-suited for capturing complex dependencies that traditional deep learning methods fail to represent. Despite their rapid adoption, the effectiveness of GNNs in bioinformatics depends not only on model design but also on how biological graphs are constructed, parameterised and trained. In this review, we provide a structured framework for understanding and applying GNNs in bioinformatics, organised around three key dimensions: (1) graph construction and representation, including strategies for deriving biological networks from heteroge...",
-      "date": "2026-02-23",
-      "year": 2026,
-      "journal": "Biomolecules",
-      "source": "Biomolecules",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/biom16020333",
-      "doi": "10.3390/biom16020333",
-      "pdfUrl": "https://www.mdpi.com/2218-273X/16/2/333/pdf?version=1772074699",
-      "keywords": [
-        "Biological network",
-        "Computer science",
-        "Biological data",
-        "Graph",
-        "Artificial intelligence",
-        "Advanced Graph Neural Networks",
-        "Bioinformatics and Genomic Networks",
-        "Graph Theory and Algorithms"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.981995+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.086361+00:00"
     },
     {
       "id": "openalex-6d7865beed8a",
@@ -3396,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.486758+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.422768+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -3428,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.979345+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.087468+00:00"
     },
     {
       "id": "openalex-3dfdd7ceaceb",
@@ -3460,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.979647+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.087734+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -3492,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.486037+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.421507+00:00"
     },
     {
       "id": "openalex-bbaa701382da",
@@ -3524,7 +3492,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.977497+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.085694+00:00"
     },
     {
       "id": "openalex-18b220cd1ad9",
@@ -3556,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:42.791890+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.775792+00:00"
     },
     {
       "id": "openalex-91d8149bec5b",
@@ -3588,7 +3556,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.698107+00:00"
+      "_retrievedAt": "2026-06-16T17:19:55.733720+00:00"
     },
     {
       "id": "openalex-6a51321a829e",
@@ -3620,7 +3588,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-16T11:32:41.979962+00:00"
+      "_retrievedAt": "2026-06-16T17:19:56.088050+00:00"
+    },
+    {
+      "id": "openalex-9f5c91d2f568",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Reimagining psychiatric care with agentic AI: promise, challenges, and a roadmap forward",
+      "authors": "Divya Sharma, Shakila Meshkat, Argyrios Perivolaris, Mohammad Amin Kamaleddin, Bazen Gashaw Teferra, Alice Rueda",
+      "abstract": "Agentic artificial intelligence (AI) represents a pivotal shift in clinical decision support, moving beyond static tools by reasoning, adapting, and acting alongside clinicians. Psychiatry, grounded in subjective experience, trust, and longitudinal care, offers both an opportunity and a high-stakes testbed. Agentic systems may enhance documentation, personalize care, support continuous monitoring, and extend access, while raising risks around bias, explainability, privacy, and therapeutic alliance. In this Perspective, we (i) define psychiatry-specific agentic AI distinct from decision-support and fully autonomous systems; (ii) synthesize current evidence across studies; (iii) propose assistive, collaborative, and semi-autonomous roles; and (iv) outline a roadmap for responsible implementation.",
+      "date": "2026-02-16",
+      "year": 2026,
+      "journal": "npj Digital Medicine",
+      "source": "npj Digital Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41746-026-02453-4",
+      "doi": "10.1038/s41746-026-02453-4",
+      "pdfUrl": "https://www.nature.com/articles/s41746-026-02453-4_reference.pdf",
+      "keywords": [
+        "Raising (metalworking)",
+        "Psychology",
+        "Psychiatry",
+        "Agency (philosophy)",
+        "Cognitive reframing",
+        "Digital Mental Health Interventions",
+        "Artificial Intelligence in Healthcare and Education",
+        "Machine Learning in Healthcare"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-16T17:19:56.424730+00:00"
     }
   ]
 }
