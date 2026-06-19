@@ -1,11 +1,171 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-06-19T15:40:27.676509+00:00",
-  "total": 113,
+  "generatedAt": "2026-06-19T20:01:55.963635+00:00",
+  "total": 114,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-fdd5807f474b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Hibernation-like cooling after stroke may reduce brain damage",
+      "authors": "Medical Xpress",
+      "abstract": "Our body loves the state of homeostasis, where everything is in perfect equilibrium, from temperature to pH levels to fluid balance. As soon as the body's core temperature drops below 95°F (35°C) and stays there for a long time, the heart, nervous system and other organs start to function poorly, which makes hypothermia extremely dangerous when not dealt with immediately. It is a medical emergency that can result in loss of consciousness or death.",
+      "date": "2026-06-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-hibernation-cooling-brain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "body",
+        "temperature",
+        "hibernation-like",
+        "cooling",
+        "after",
+        "stroke",
+        "reduce",
+        "brain"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-19T20:01:55.471601+00:00"
+    },
+    {
+      "id": "rss-916b3c46ce98",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "These tiny genetic fragments may be critical for telling a brain when to rest",
+      "authors": "Medical Xpress",
+      "abstract": "The altered presence of tiny fragments of neuronal genes, called microexons, causes hyperarousal in zebrafish. This is the main conclusion of an international study led by Pompeu Fabra University (UPF) and the Center for Genomic Regulation (CRG). An abnormal pattern of neural microexon presence leads to a hyperarousal state characterized by heightened neural activity and insomnia, commonly associated with stress but also with neurodevelopmental disorders.",
+      "date": "2026-06-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-tiny-genetic-fragments-critical-brain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "tiny",
+        "fragments",
+        "presence",
+        "hyperarousal",
+        "neural",
+        "these",
+        "genetic",
+        "critical"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-19T20:01:55.471919+00:00"
+    },
+    {
+      "id": "rss-e3c05083bd55",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Targeting enzyme could block cancer spread to brain with fewer side effects",
+      "authors": "Medical Xpress",
+      "abstract": "A new study has identified a more precise and effective way to prevent cancer from spreading to the brain. The paper, published in the Proceedings of the National Academy of Sciences, details the development of novel drug candidates that target a key enzyme implicated in the spread of lung, breast, skin and other cancers to the brain. The work builds on a promising new therapeutic strategy first reported by the same group of researchers last year.",
+      "date": "2026-06-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-enzyme-block-cancer-brain-side.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "enzyme",
+        "cancer",
+        "spread",
+        "targeting",
+        "could",
+        "block",
+        "fewer"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-19T20:01:55.472212+00:00"
+    },
+    {
+      "id": "rss-69cd79c47a6a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "MAP1B reveals unexpected role for cytoskeletal proteins in brain development",
+      "authors": "Medical Xpress",
+      "abstract": "The cytoskeleton gives cells their shape and helps them move. Researchers at Helmholtz Munich and Ludwig Maximilian University now show that, in neural stem cells, proteins of the cytoskeleton are also found in the cell nucleus, where they can influence developmental programs.",
+      "date": "2026-06-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-map1b-reveals-unexpected-role-cytoskeletal.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "proteins",
+        "cytoskeleton",
+        "cells",
+        "reveals",
+        "unexpected",
+        "role",
+        "cytoskeletal",
+        "brain"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-19T20:01:55.472465+00:00"
+    },
+    {
+      "id": "rss-73ae93fa5b84",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "One gene deletion tears off colon cancer's invisibility cloak, boosting immunotherapy",
+      "authors": "Medical Xpress",
+      "abstract": "A study from the University of Calgary shows that removing a single gene makes colon cancer cells a target for immunotherapy—a fundamental breakthrough. The research, published in Cell Reports Medicine, was led by Dr. Arshad Ayyaz, Ph.D., an assistant professor in the Department of Biological Sciences and a member of the Arnie Charbonneau Cancer Institute.",
+      "date": "2026-06-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-gene-deletion-colon-cancer-invisibility.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "gene",
+        "colon",
+        "immunotherapy",
+        "deletion",
+        "tears",
+        "invisibility",
+        "cloak"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-19T20:01:55.472833+00:00"
+    },
     {
       "id": "rss-0340aa007532",
       "discipline": "clinical",
@@ -36,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.254335+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.473087+00:00"
     },
     {
       "id": "rss-c5d05e972c4a",
@@ -68,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.254656+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.473356+00:00"
     },
     {
       "id": "rss-cc047c2e54ce",
@@ -100,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.254961+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.473667+00:00"
     },
     {
       "id": "rss-51f53103606b",
@@ -132,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.255276+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.473959+00:00"
     },
     {
       "id": "rss-0f63df112600",
@@ -164,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.255559+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.474191+00:00"
     },
     {
       "id": "rss-5134662da933",
@@ -196,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.255836+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.474458+00:00"
     },
     {
       "id": "rss-caa3ba568b2f",
@@ -228,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.256091+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.474740+00:00"
     },
     {
       "id": "rss-99fb10ab13fc",
@@ -260,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.256398+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.475024+00:00"
     },
     {
       "id": "rss-13bea6915b1a",
@@ -292,167 +452,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.256640+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.475252+00:00"
     },
     {
-      "id": "rss-476e6bf2c28f",
-      "discipline": "clinical",
+      "id": "rss-b8439a27c309",
+      "discipline": "cs",
       "type": "news",
-      "title": "New tool maps how T cells move within tumors",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at UT Southwestern Medical Center led a study to develop a computational method that reveals how immune cells navigate the complex environment inside tumors, offering insights that could inform future cancer therapies. T cells are key players in the body's defense against cancer, but many tumors create barriers that limit their ability to enter and function effectively.",
+      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "authors": "TechCrunch AI",
+      "abstract": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
       "date": "2026-06-19",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-tool-cells-tumors.html",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cells",
-        "tumors",
-        "that",
-        "cancer",
-        "tool",
-        "maps",
-        "move",
-        "within"
+        "anthropic",
+        "government",
+        "fable",
+        "researchers",
+        "accidentally",
+        "helping",
+        "brand",
+        "just"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.256903+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.564866+00:00"
     },
     {
-      "id": "rss-911b0437d57f",
-      "discipline": "clinical",
+      "id": "rss-4858c46ddfe0",
+      "discipline": "cs",
       "type": "news",
-      "title": "People consciously recognize the meaning of words they can no longer see, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "When humans are awake, they are typically aware of specific sounds, movements, objects and other stimuli in their surroundings. Most of these are stimuli that they can see, hear or perceive with any of their other senses.",
+      "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+      "authors": "TechCrunch AI",
+      "abstract": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
       "date": "2026-06-19",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-people-consciously-words-longer.html",
+      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "they",
-        "other",
-        "stimuli",
-        "their",
-        "people",
-        "consciously",
-        "recognize",
-        "meaning"
+        "anthropic",
+        "fable",
+        "researchers",
+        "banned",
+        "release",
+        "numbers",
+        "seem",
+        "care"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.257140+00:00"
-    },
-    {
-      "id": "rss-c07ee07a681b",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "MRI study finds evidence of ongoing neurodegeneration in neuromyelitis optica spectrum disorder",
-      "authors": "Medical Xpress",
-      "abstract": "Neuromyelitis optica spectrum disorder (NMOSD) is a rare autoimmune disease in which the immune system attacks the central nervous system, especially the optic nerves and spinal cord. These attacks, also known as flare-ups or relapses, can lead to blindness, paralysis, chronic pain and lasting neurological disability.",
-      "date": "2026-06-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-mri-evidence-ongoing-neurodegeneration-neuromyelitis.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "neuromyelitis",
-        "optica",
-        "spectrum",
-        "disorder",
-        "system",
-        "attacks",
-        "finds",
-        "evidence"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.257419+00:00"
-    },
-    {
-      "id": "rss-7161ecf244a6",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Jobs with high exposure to low-level explosions associated with increased risk of anger and aggression",
-      "authors": "Medical Xpress",
-      "abstract": "Careers that tend to expose people to repeated low-level shock waves are associated with a slightly higher risk of clinically documented anger, aggression and violence, new research from University of Utah Health has found.",
-      "date": "2026-06-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-jobs-high-exposure-explosions-anger.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "low-level",
-        "associated",
-        "risk",
-        "anger",
-        "aggression",
-        "jobs",
-        "high",
-        "exposure"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.257658+00:00"
-    },
-    {
-      "id": "rss-d426e1ef4158",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Gene therapy shows promise in ARC syndrome, a deadly childhood liver disease",
-      "authors": "Medical Xpress",
-      "abstract": "A new gene therapy has been used to successfully treat a deadly childhood liver disease in mice that model the disease, according to researchers at UCL and Great Ormond Street Hospital. Arthrogryposis, renal dysfunction and cholestasis (ARC) syndrome is a lethal genetic disorder usually caused by a lack of the VPS33B protein, with children diagnosed with the condition rarely living beyond their first year of life.",
-      "date": "2026-06-19",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-gene-therapy-arc-syndrome-deadly.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "disease",
-        "gene",
-        "therapy",
-        "syndrome",
-        "deadly",
-        "childhood",
-        "liver",
-        "shows"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.257930+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.565181+00:00"
     },
     {
       "id": "rss-73ff23bd0956",
@@ -484,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.289926+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.565344+00:00"
     },
     {
       "id": "rss-71dcb9c3d8a3",
@@ -516,13 +580,13 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.290161+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.565538+00:00"
     },
     {
-      "id": "rss-72a95b1d0519",
+      "id": "rss-300f12534259",
       "discipline": "cs",
       "type": "news",
-      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
       "authors": "TechCrunch AI",
       "abstract": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
       "date": "2026-06-19",
@@ -548,15 +612,15 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.290381+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.565724+00:00"
     },
     {
-      "id": "rss-dead18d0b4a9",
+      "id": "rss-92f3b74bc420",
       "discipline": "cs",
       "type": "news",
-      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
       "authors": "TechCrunch AI",
-      "abstract": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "abstract": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
       "date": "2026-06-19",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -566,7 +630,7 @@ window.LIVE_FEED_DATA = {
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "deductiveai",
+        "deductive",
         "source",
         "elastic",
         "agrees",
@@ -580,7 +644,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.290565+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.565886+00:00"
+    },
+    {
+      "id": "rss-aa16e55100c4",
+      "discipline": "cs",
+      "type": "news",
+      "title": "A better way to model the behavior of metal alloys",
+      "authors": "MIT News AI",
+      "abstract": "MIT researchers’ approach captures subtle atomic patterns, improving predictions of material properties.",
+      "date": "2026-06-19",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "better",
+        "behavior",
+        "metal",
+        "alloys",
+        "researchers",
+        "approach",
+        "captures",
+        "subtle"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-19T20:01:55.676352+00:00"
     },
     {
       "id": "rss-f0924825233f",
@@ -612,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.290749+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.566059+00:00"
     },
     {
       "id": "rss-1862fc1e8d80",
@@ -644,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.290930+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.566233+00:00"
     },
     {
       "id": "rss-e8533542f4bf",
@@ -676,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.291102+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.566399+00:00"
     },
     {
       "id": "rss-e208ef625703",
@@ -708,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.291271+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.566595+00:00"
     },
     {
       "id": "rss-f9e82526fdd5",
@@ -740,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.291493+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.566758+00:00"
     },
     {
       "id": "rss-747e3ddeaad6",
@@ -772,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.291657+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.566916+00:00"
     },
     {
       "id": "rss-1f6a2891ecc7",
@@ -804,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.291842+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.567098+00:00"
     },
     {
       "id": "rss-d65c735cac16",
@@ -836,71 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.292051+00:00"
-    },
-    {
-      "id": "rss-b4c468476ade",
-      "discipline": "cs",
-      "type": "news",
-      "title": "General Intuition in talks to raise $300M at around $2B valuation",
-      "authors": "TechCrunch AI",
-      "abstract": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
-      "date": "2026-06-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "general",
-        "intuition",
-        "talks",
-        "raise",
-        "around",
-        "valuation",
-        "startup",
-        "trains"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.292225+00:00"
-    },
-    {
-      "id": "rss-785c6bf3832c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
-      "authors": "TechCrunch AI",
-      "abstract": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
-      "date": "2026-06-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "tech",
-        "worker-backed",
-        "bringing",
-        "knife",
-        "gunfight",
-        "guardrails",
-        "positions",
-        "itself"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.292438+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.567295+00:00"
     },
     {
       "id": "rss-178fcef6b56d",
@@ -932,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.418031+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.676585+00:00"
     },
     {
       "id": "rss-607184e56a4c",
@@ -964,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.418220+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.676762+00:00"
     },
     {
       "id": "rss-1842992c471c",
@@ -996,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.418443+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.676927+00:00"
     },
     {
       "id": "rss-701cdec7906c",
@@ -1028,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.418638+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.677110+00:00"
     },
     {
       "id": "rss-5cf5c5f90af9",
@@ -1060,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.610941+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.889961+00:00"
     },
     {
       "id": "rss-9babfa4d92c2",
@@ -1092,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.611211+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.890220+00:00"
     },
     {
       "id": "rss-8751cfb8b032",
@@ -1124,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.611452+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.890424+00:00"
     },
     {
       "id": "rss-1bc2925a9388",
@@ -1156,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.418815+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.677285+00:00"
     },
     {
       "id": "rss-f936ae05ec86",
@@ -1188,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.418993+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.677459+00:00"
     },
     {
       "id": "rss-0ea3dcd99424",
@@ -1220,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.419159+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.677682+00:00"
     },
     {
       "id": "rss-3c2f3866802b",
@@ -1252,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.611982+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.890950+00:00"
     },
     {
       "id": "rss-8cb2f4a1e892",
@@ -1284,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.419360+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.677870+00:00"
     },
     {
       "id": "rss-f27c800555f2",
@@ -1316,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.419531+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.678031+00:00"
     },
     {
       "id": "rss-130a779b2400",
@@ -1348,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.612233+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.891185+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1380,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:18.800516+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.097627+00:00"
     },
     {
       "id": "rss-2dfddbb1e70d",
@@ -1412,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.612828+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.891746+00:00"
     },
     {
       "id": "rss-1aa9f8004d35",
@@ -1444,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.613476+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.892327+00:00"
     },
     {
       "id": "rss-c0f99ae68619",
@@ -1476,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.613689+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.892551+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -1508,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.720797+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.649504+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1540,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:18.799387+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.095906+00:00"
     },
     {
       "id": "rss-2154e7a8aa14",
@@ -1572,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.419693+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.678207+00:00"
     },
     {
       "id": "rss-943471709773",
@@ -1604,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.613912+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.892773+00:00"
     },
     {
       "id": "rss-4d7859cbc7e2",
@@ -1636,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.614461+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.893273+00:00"
     },
     {
       "id": "rss-0976470de9a8",
@@ -1668,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.419863+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.678374+00:00"
     },
     {
       "id": "rss-29f40dfdd1a7",
@@ -1700,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.420027+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.678560+00:00"
     },
     {
       "id": "rss-14174cf7fd0f",
@@ -1732,39 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.420206+00:00"
-    },
-    {
-      "id": "rss-509ced476342",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Tod Machover receives George Peabody Medal for contributions to music and technology",
-      "authors": "MIT News AI",
-      "abstract": "The George Peabody Medal is the highest honor bestowed by the Peabody Institute of the Johns Hopkins University.",
-      "date": "2026-06-03",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/tod-machover-receives-george-peabody-medal-0603",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "peabody",
-        "george",
-        "medal",
-        "machover",
-        "receives",
-        "contributions",
-        "music",
-        "technology"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:27.420387+00:00"
+      "_retrievedAt": "2026-06-19T20:01:55.678744+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:20.163053+00:00"
+      "_retrievedAt": "2026-06-19T20:01:52.028778+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:18.802194+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.099340+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:18.803351+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.100439+00:00"
     },
     {
       "id": "openalex-2a2df0665fcc",
@@ -1888,11 +1888,11 @@ window.LIVE_FEED_DATA = {
         "Scientific Computing and Data Management"
       ],
       "readTime": "1 min",
-      "citedBy": 8,
+      "citedBy": 9,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.718392+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.646395+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:18.799020+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.095585+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:18.800081+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.096911+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1984,11 +1984,11 @@ window.LIVE_FEED_DATA = {
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 1404,
+      "citedBy": 1405,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:18.798624+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.095188+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:20.161448+00:00"
+      "_retrievedAt": "2026-06-19T20:01:52.027170+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:18.799850+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.096527+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:18.803957+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.101042+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.716860+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.645301+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:18.802483+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.099626+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.198994+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.325832+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2212,39 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:18.801873+00:00"
-    },
-    {
-      "id": "openalex-e80ab870ed69",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Synthetic super-enhancers enable precision viral immunotherapy",
-      "authors": "Ute Koeber, Mantas Matjusaitis, Neza Alfazema, Katharine Furlong, Zeyu Wang, R. Clyde White",
-      "abstract": "Abstract Cell-type-specific promoters are used in gene therapy to restrict expression of the therapeutic payload. However, these promoters often have suboptimal strength, selectivity and size. Here, leveraging recent insights into the function of enhancers, we developed synthetic super-enhancers (SSEs) by assembling functionally validated enhancer fragments into multipart arrays. Focusing on the core SOX2-driven and SOX9-driven transcriptional regulatory network in glioblastoma stem cells (GSCs) 1 , we engineered SSEs with robust activity and high selectivity. Single-cell profiling, biochemical analyses and genome-binding data indicated that SSEs integrate neurodevelopmental and signalling-state transcription factors to trigger the formation of large multimeric complexes of transcription factors. Moreover, GSC-selective expression of a combination of cytotoxic (HSV-TK and ganciclovir)...",
-      "date": "2026-04-08",
-      "year": 2026,
-      "journal": "Nature",
-      "source": "Nature",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41586-026-10329-6",
-      "doi": "10.1038/s41586-026-10329-6",
-      "pdfUrl": "https://doi.org/10.1038/s41586-026-10329-6",
-      "keywords": [
-        "Enhancer",
-        "Computational biology",
-        "Promoter",
-        "Transcription factor",
-        "Transgene",
-        "Virus-based gene therapy research",
-        "Single-cell and spatial transcriptomics",
-        "RNA Interference and Gene Delivery"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.199681+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.099022+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -2276,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.198239+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.324728+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -2304,11 +2272,11 @@ window.LIVE_FEED_DATA = {
         "Phagocytosis and Immune Regulation"
       ],
       "readTime": "1 min",
-      "citedBy": 7,
+      "citedBy": 8,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.719726+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.647391+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2340,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:18.801122+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.098242+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2372,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.720469+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.648828+00:00"
     },
     {
       "id": "openalex-18e8a6f615a1",
@@ -2404,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:20.165569+00:00"
+      "_retrievedAt": "2026-06-19T20:01:52.031251+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -2432,11 +2400,11 @@ window.LIVE_FEED_DATA = {
         "AI in Service Interactions"
       ],
       "readTime": "1 min",
-      "citedBy": 33,
+      "citedBy": 34,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:18.800826+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.097950+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2468,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:18.801550+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.098677+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -2496,11 +2464,11 @@ window.LIVE_FEED_DATA = {
         "Cancer Research and Treatments"
       ],
       "readTime": "1 min",
-      "citedBy": 4,
+      "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.197656+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.322047+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -2532,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.199307+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.326118+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -2564,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.196965+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.323548+00:00"
     },
     {
       "id": "openalex-59f3240e8b8c",
@@ -2596,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:20.162646+00:00"
+      "_retrievedAt": "2026-06-19T20:01:52.028360+00:00"
     },
     {
       "id": "openalex-4b1dee987f4c",
@@ -2628,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.195486+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.321674+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2660,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:20.160701+00:00"
+      "_retrievedAt": "2026-06-19T20:01:52.026421+00:00"
     },
     {
       "id": "openalex-d7f83e5bb105",
@@ -2692,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.720132+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.648515+00:00"
     },
     {
       "id": "openalex-21e2af519ee1",
@@ -2724,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.721327+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.650000+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2756,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.717625+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.646039+00:00"
     },
     {
       "id": "openalex-b2aeaeab5ec0",
@@ -2788,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:20.165234+00:00"
+      "_retrievedAt": "2026-06-19T20:01:52.030947+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2820,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:18.803620+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.100716+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2852,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.717207+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.645668+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -2884,7 +2852,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:20.163649+00:00"
+      "_retrievedAt": "2026-06-19T20:01:52.029339+00:00"
+    },
+    {
+      "id": "openalex-858e3c58ce35",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "A Systems Approach to Endophyte-Mediated Plant Holobiont and Microbiome Dynamics",
+      "authors": "Deepak Kumar, Krishna Sundari Sattiraju, M. S. Reddy",
+      "abstract": "The plant holobiont comprises the host plant and its associated microbial communities functioning together as a single ecological and evolutionary unit that influences plant health, productivity, and environmental adaptability. Endophytes, formerly classified primarily as plant growth-promoting agents, are currently gaining traction as integral components of plant-associated microbiomes such as the rhizobiome and phytobiome. They can alter host-mediated root exudation patterns, microbial community structure, and nutrient dynamics within the rhizosphere. Endophytes play an important role in modulating host signaling pathways, thus influencing plant growth. Various mechanisms by which endophytes contribute to improved plant performance include soil microbiome dynamics, carbon sequestration, and strengthening the host's ability to tolerate abiotic stressors. Multi-omics, single-cell, and...",
+      "date": "2026-03-05",
+      "year": 2026,
+      "journal": "Plants",
+      "source": "Plants",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/plants15050802",
+      "doi": "10.3390/plants15050802",
+      "pdfUrl": "https://www.mdpi.com/2223-7747/15/5/802/pdf?version=1772704493",
+      "keywords": [
+        "Holobiont",
+        "Microbiome",
+        "Biology",
+        "Abiotic component",
+        "Ecology",
+        "Plant-Microbe Interactions and Immunity",
+        "Plant and fungal interactions",
+        "Legume Nitrogen Fixing Symbiosis"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-19T20:01:51.324132+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -2916,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.718710+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.647094+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -2948,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:20.161808+00:00"
+      "_retrievedAt": "2026-06-19T20:01:52.027548+00:00"
     },
     {
       "id": "openalex-98c4505ba231",
@@ -2980,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:20.164019+00:00"
+      "_retrievedAt": "2026-06-19T20:01:52.029731+00:00"
     },
     {
       "id": "openalex-3455b31b2a62",
@@ -3012,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:20.164846+00:00"
+      "_retrievedAt": "2026-06-19T20:01:52.030555+00:00"
     },
     {
       "id": "openalex-97ddc47d9378",
@@ -3044,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.721635+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.650284+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -3076,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.195861+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.322412+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -3108,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.197260+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.323839+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -3140,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:18.802821+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.099958+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -3172,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.194743+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.320976+00:00"
     },
     {
       "id": "openalex-62b5f655ec71",
@@ -3204,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:20.164474+00:00"
+      "_retrievedAt": "2026-06-19T20:01:52.030157+00:00"
     },
     {
       "id": "openalex-c763bb388f03",
@@ -3236,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.721966+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.650627+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -3268,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.197957+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.324428+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -3300,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:20.163393+00:00"
+      "_retrievedAt": "2026-06-19T20:01:52.029091+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -3332,7 +3332,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:20.159956+00:00"
+      "_retrievedAt": "2026-06-19T20:01:52.025714+00:00"
+    },
+    {
+      "id": "openalex-c22612c05697",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Extracellular Vesicles: A Comprehensive Review of Their Origins, Functions, and Therapeutic Potential",
+      "authors": "Madison Schank, Juan Zhao, L Wang, Jonathan P. Moorman, Zhi Q. Yao",
+      "abstract": "Extracellular vesicles (EVs) are membrane-bound particles secreted by most cell types that play a pivotal role in intercellular communication via transporting protein, nucleic acid, lipid, and metabolite cargos. Among EVs, exosomes are a well-characterized subtype, typically ranging from 10-150 nm in diameter and originating from the endosomal pathway via the formation of multivesicular bodies that fuse with the plasma membrane. EVs/exosomes can be isolated from various biological fluids and cultured cells, with production and yield influenced by the cell type and culture conditions. Isolation methods, including ultracentrifugation or density-based ultracentrifugation, tangential flow filtration, size-exclusion chromatography, immunoaffinity and membrane-affinity capture, and recently developed commercial equipment, offer distinct advantages and limitations in terms of purity, scalabi...",
+      "date": "2026-02-25",
+      "year": 2026,
+      "journal": "Biomedicines",
+      "source": "Biomedicines",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/biomedicines14030495",
+      "doi": "10.3390/biomedicines14030495",
+      "pdfUrl": "https://www.mdpi.com/2227-9059/14/3/495/pdf?version=1772009912",
+      "keywords": [
+        "Exosome",
+        "Microvesicles",
+        "Nanoparticle tracking analysis",
+        "Drug delivery",
+        "Cell biology",
+        "Extracellular vesicles in disease",
+        "interferon and immune responses",
+        "Selenium in Biological Systems"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-19T20:01:51.325526+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -3364,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:20.160322+00:00"
+      "_retrievedAt": "2026-06-19T20:01:52.026049+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -3396,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:20.162249+00:00"
+      "_retrievedAt": "2026-06-19T20:01:52.027990+00:00"
     },
     {
       "id": "openalex-9eb31b2e7a82",
@@ -3428,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.198683+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.325136+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -3460,39 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.195068+00:00"
-    },
-    {
-      "id": "openalex-88008efb5422",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Graph Learning in Bioinformatics: A Survey of Graph Neural Network Architectures, Biological Graph Construction and Bioinformatics Applications",
-      "authors": "Lijia Deng, Ziyang Dong, Zhengling Yang, Bo Gong, Le Zhang",
-      "abstract": "Graph Neural Networks (GNNs) have become a central methodology for modelling biological systems where entities and their interactions form inherently non-Euclidean structures. From protein interaction networks and gene regulatory circuits to molecular graphs and multi-omics integration, the relational nature of biological data makes GNNs particularly well-suited for capturing complex dependencies that traditional deep learning methods fail to represent. Despite their rapid adoption, the effectiveness of GNNs in bioinformatics depends not only on model design but also on how biological graphs are constructed, parameterised and trained. In this review, we provide a structured framework for understanding and applying GNNs in bioinformatics, organised around three key dimensions: (1) graph construction and representation, including strategies for deriving biological networks from heteroge...",
-      "date": "2026-02-23",
-      "year": 2026,
-      "journal": "Biomolecules",
-      "source": "Biomolecules",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/biom16020333",
-      "doi": "10.3390/biom16020333",
-      "pdfUrl": "https://www.mdpi.com/2218-273X/16/2/333/pdf?version=1772074699",
-      "keywords": [
-        "Biological network",
-        "Computer science",
-        "Biological data",
-        "Graph",
-        "Artificial intelligence",
-        "Advanced Graph Neural Networks",
-        "Bioinformatics and Genomic Networks",
-        "Graph Theory and Algorithms"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.200062+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.321290+00:00"
     },
     {
       "id": "openalex-6d7865beed8a",
@@ -3524,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.719417+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.648091+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -3556,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.196286+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.322878+00:00"
     },
     {
       "id": "openalex-3dfdd7ceaceb",
@@ -3588,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.196594+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.323157+00:00"
     },
     {
       "id": "openalex-6dbbab517344",
@@ -3620,7 +3620,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-19T15:40:19.718012+00:00"
+      "_retrievedAt": "2026-06-19T20:01:51.646785+00:00"
+    },
+    {
+      "id": "openalex-674f00ab3d07",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Bispecific T cell engagers for treatment-refractory autoimmune connective tissue diseases",
+      "authors": "Christina Düsing, Andrea-Hermina Györfi, Ayla Nadja Stütz, Laura-Marie Lahu, Franca Sophie Deicher, Y. LI",
+      "abstract": "Autoimmune-mediated connective tissue diseases such as antisynthetase syndrome (ASyS) and systemic sclerosis (SSc) have a high unmet medical need. Here we report on treatment under compassionate use with the CD19×CD3 T cell engager (TCE) blinatumomab and the BCMA×CD3 TCE teclistamab in five patients with treatment-refractory ASyS and in five patients with treatment-refractory SSc, respectively. Induction therapy with blinatumomab or teclistamab reduced target cells in affected muscle and skin, respectively, and decreased autoantibody titers. Blinatumomab induced rapid clinical, serological and histological improvement of myositis and stabilization of interstitial lung disease (ILD) in patients with ASyS. Teclistamab improved skin fibrosis, stabilized ILD and resolved tendon friction rubs in patients with SSc. Inhibition of B cell redifferentiation by maintenance therapy with rituximab...",
+      "date": "2026-02-19",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04238-4",
+      "doi": "10.1038/s41591-026-04238-4",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04238-4.pdf",
+      "keywords": [
+        "Medicine",
+        "Antisynthetase syndrome",
+        "Rituximab",
+        "Myositis",
+        "Blinatumomab",
+        "Inflammatory Myopathies and Dermatomyositis",
+        "Systemic Sclerosis and Related Diseases",
+        "Peripheral Neuropathies and Disorders"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-19T20:01:51.649168+00:00"
     }
   ]
 };
