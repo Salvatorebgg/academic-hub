@@ -1,11 +1,139 @@
 {
-  "generatedAt": "2026-06-20T19:54:57.603015+00:00",
-  "total": 112,
+  "generatedAt": "2026-06-21T05:16:53.801304+00:00",
+  "total": 114,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-bab8dacde06f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Frozen fruit and canned veg are cheap, but are they as healthy as fresh food?",
+      "authors": "Medical Xpress",
+      "abstract": "You probably know fruit and vegetables are good for you, and most of us don't eat enough of them.",
+      "date": "2026-06-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-frozen-fruit-canned-veg-cheap.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "fruit",
+        "frozen",
+        "canned",
+        "cheap",
+        "they",
+        "healthy",
+        "fresh",
+        "food"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-21T05:16:53.086486+00:00"
+    },
+    {
+      "id": "rss-c7372aa5dc5c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "How dopamine modulates brain circuits of motivation in a behavioral addiction model",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at Kanazawa University identified dopamine-driven neural mechanisms of motivation in a mouse model of behavioral addiction, offering insights into treatment.",
+      "date": "2026-06-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-dopamine-modulates-brain-circuits-behavioral.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "motivation",
+        "behavioral",
+        "addiction",
+        "dopamine",
+        "modulates",
+        "brain",
+        "circuits",
+        "researchers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-21T05:16:53.086741+00:00"
+    },
+    {
+      "id": "rss-d7770bb67d5d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Only a third of eligible breast cancer patients receive a gene expression test",
+      "authors": "Medical Xpress",
+      "abstract": "A gene expression test can help prevent unnecessary chemotherapy in breast cancer patients, yet its use in the Netherlands remains limited. This is shown by new research from the Netherlands Comprehensive Cancer Centre (IKNL), led by Sabine Siesling, principal investigator at IKNL and professor at the University of Twente. Even after reimbursement was introduced, only about one in three eligible patients receives a test. The work is published in the International Journal of Cancer.",
+      "date": "2026-06-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-eligible-breast-cancer-patients-gene.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "patients",
+        "test",
+        "only",
+        "eligible",
+        "breast",
+        "gene",
+        "expression"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-21T05:16:53.087037+00:00"
+    },
+    {
+      "id": "rss-311a3a4b3481",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Most people seeking a kidney transplant in the US never reach the waitlist",
+      "authors": "Medical Xpress",
+      "abstract": "Nearly half of Americans with kidney failure who are referred for transplantation never begin the process required to be considered for a new organ, a new study shows, while less than a fifth actually complete the assessment and get on the waitlist. While experts have studied what happens once people make it onto the list, little attention has been paid to challenges in making the waitlist in the first place, the study authors said.",
+      "date": "2026-06-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-people-kidney-transplant-waitlist.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "waitlist",
+        "people",
+        "kidney",
+        "never",
+        "while",
+        "most",
+        "seeking",
+        "transplant"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-21T05:16:53.087353+00:00"
+    },
     {
       "id": "rss-8a4695f0b997",
       "discipline": "clinical",
@@ -13,7 +141,7 @@
       "title": "New study attempts to reconcile conflicting findings on benefits vs. risks of alcohol consumption",
       "authors": "Medical Xpress",
       "abstract": "Studies of alcohol's effects on health have offered contradictory findings, with some suggesting a glass of red wine a day is beneficial and others saying even a drop of booze is too much. A new review attempting to clarify the risks finds more than 60 diseases, based on the World Health Organization's International Classification of Diseases, are 100% attributable to consuming alcohol. But the review also finds that some of the damage can be slowed or reversed by cutting down or quitting drinking.",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +164,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.059103+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.087653+00:00"
     },
     {
       "id": "rss-56b934c6c893",
@@ -45,7 +173,7 @@
       "title": "Three genes may link six mental disorders through shared biomarkers",
       "authors": "Medical Xpress",
       "abstract": "Different neuropsychiatric and neurodevelopmental conditions, such as schizophrenia, bipolar disorder, attention-deficit/hyperactivity disorder (ADHD) and autism spectrum disorder (ASD), are characterized by highly distinct patterns of behavior and associated challenges. While many past neuroscience studies have tried to uncover the unique neurobiological underpinnings of each condition, whether they share any common markers remains unclear.",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.059403+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.087918+00:00"
     },
     {
       "id": "rss-97550d4c93a5",
@@ -77,7 +205,7 @@
       "title": "Fragile X deficits in mice respond to gene therapy",
       "authors": "Medical Xpress",
       "abstract": "A gene therapy designed to replace a missing brain protein restored normal brain activity and improved behavior in a mouse model of fragile X syndrome (FXS), according to a study led by researchers at the University of California, Riverside. The findings, published in Molecular Therapy Nucleic Acids, suggest that gene therapy may one day address the underlying cause of FXS rather than simply treating its symptoms.",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.059651+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.088232+00:00"
     },
     {
       "id": "rss-e4919c018d5e",
@@ -109,7 +237,7 @@
       "title": "Later menarche may signal childhood factors linked to adult health risks",
       "authors": "Medical Xpress",
       "abstract": "Problems in adulthood such as tobacco use disorder and some conditions related to the digestive system, heart, bladder, joints and brain are all shown to be affected by some influences that occurred in childhood, according to research presented Saturday at ENDO 2026, the Endocrine Society's annual meeting in Chicago.",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.059878+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.088496+00:00"
     },
     {
       "id": "rss-9794223bfd60",
@@ -141,7 +269,7 @@
       "title": "Mass spectrometry platform could shrink cancer drug discovery cycle to four hours",
       "authors": "Medical Xpress",
       "abstract": "Researchers at the Purdue Institute for Cancer Research (PICR) have developed a next-generation technology platform designed to accelerate one of the slowest and most challenging stages of cancer drug discovery: identifying promising compounds that could eventually become new therapies.",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.060094+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.088737+00:00"
     },
     {
       "id": "rss-af265d3a5e17",
@@ -173,7 +301,7 @@
       "title": "First new US sunscreen ingredient since 1999 approved by FDA. A skin scientist explains how bemotrizinol works",
       "authors": "Medical Xpress",
       "abstract": "As summer in the U.S. heats up, people become more diligent about protecting their skin from the sun. Another option for doing so will soon be available.",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.060318+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.088960+00:00"
     },
     {
       "id": "rss-e22e18dda6e6",
@@ -205,7 +333,7 @@
       "title": "How people use music shapes their emotional experiences, new study finds",
       "authors": "Medical Xpress",
       "abstract": "A new study from the University of Jyväskylä shows who is more likely to experience mixed emotions while listening to music—and that our relationship with music is more complex and nuanced than we might assume. The study appears in the Journal of Research in Personality.",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -228,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.060558+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.089251+00:00"
     },
     {
       "id": "rss-76511dbcd416",
@@ -237,7 +365,7 @@
       "title": "Nordic walking significantly reduces depression symptoms in as little as five weeks, trial finds",
       "authors": "Medical Xpress",
       "abstract": "Walking with poles is often associated with trekking, but these accessories are part of a very effective aerobic activity called Nordic walking. The specially designed poles make it a full-body exercise that engages up to 90% of the body's muscles, turning regular walking into a more intensive workout. Nordic walking originated in Finland as a summer training method for cross-country skiers, but today it is popular among non-skiers as well for its health benefits.",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -260,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.060813+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.089539+00:00"
     },
     {
       "id": "rss-bcf371cd1a94",
@@ -269,7 +397,7 @@
       "title": "The over‑50s are most likely to overdose. Here's how older people use drugs",
       "authors": "Medical Xpress",
       "abstract": "When many of us think about drug overdose, we picture young people at a music festival or people dependent on street heroin. But the latest figures from the Penington Institute show older Australians are increasingly dying from overdoses.",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -292,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.061030+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.089793+00:00"
     },
     {
       "id": "rss-d9869b64a7d6",
@@ -301,7 +429,7 @@
       "title": "Dementia care: Re‑envisioning the role of music",
       "authors": "Medical Xpress",
       "abstract": "As a certified music therapist, I have observed firsthand the many ways music can bring meaning and beauty into people's lives, even under very difficult circumstances. Much of my clinical work and research has occurred in dementia care. Here, music is often described as an inexpensive non-pharmacological treatment for behavioral and psychological symptoms with no side effects.",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -324,135 +452,71 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.061280+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.090062+00:00"
     },
     {
-      "id": "rss-9d00d4bceeb6",
+      "id": "openalex-c2a093804030",
       "discipline": "clinical",
-      "type": "news",
-      "title": "How a 45‑minute family exercise session could boost thinking skills",
-      "authors": "Medical Xpress",
-      "abstract": "Getting enough exercise is one of the most important things we can do for our health. Yet many people around the world are not active enough. Around 1 in 3 adults fail to meet the recommended levels of physical activity, while 4 in 5 children ages 11–17 do not achieve the recommended average of 60 minutes a day.",
+      "type": "paper",
+      "title": "International Journal of Complementary & Alternative Medicine",
+      "authors": "OpenAlex indexed authors",
+      "abstract": "There is a growing demand for integrative and complementary therapies for various health conditions, while the mechanisms and biological pathways for some of these therapies are poorly explored.In particular, bioelectric, biomagnetic and anthropogenic fields interact with biological structures such as tissues, cells and DNA.It is suggested that these interactions may create an integrated system of internal communication, with the potential to promote therapeutic benefits.The theoretical model Biofield-Tissue Tensegrity Matrix (BTTM) is presented by combining concepts from physics, biology and medicine to serve as a possible theoretical basis for energy therapies.",
       "date": "2026-06-20",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "International Journal of Complementary & Alternative Medicine",
+      "source": "International Journal of Complementary & Alternative Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.15406/ijcam",
+      "doi": "10.15406/ijcam",
+      "pdfUrl": "https://medcraveonline.com/IJCAM/IJCAM-18-00731.pdf",
+      "keywords": [
+        "Library science",
+        "Medicine",
+        "Computer science",
+        "Complementary and Alternative Medicine Studies",
+        "therapies",
+        "complementary",
+        "medicine",
+        "biological"
+      ],
+      "readTime": "1 min",
+      "citedBy": 18,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-21T05:16:49.140018+00:00"
+    },
+    {
+      "id": "rss-5754b6a547e9",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "authors": "TechCrunch AI",
+      "abstract": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "date": "2026-06-20",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-45minute-family-session-boost-skills.html",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "exercise",
-        "enough",
-        "around",
-        "recommended",
-        "minute",
-        "family",
-        "session",
-        "could"
+        "these",
+        "your",
+        "friends",
+        "signal",
+        "meredith",
+        "whittaker",
+        "wants",
+        "remember"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.061515+00:00"
-    },
-    {
-      "id": "rss-c7abd594dc26",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Survey reveals major gaps in cardio-oncology training",
-      "authors": "Medical Xpress",
-      "abstract": "An international survey has highlighted major gaps in cardio-oncology training, despite its increasing clinical importance. These results were presented at ESC Cardio-Oncology 2026, the second annual conference of the European Society of Cardiology's Council of Cardio-Oncology.",
-      "date": "2026-06-20",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-survey-reveals-major-gaps-cardio.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cardio-oncology",
-        "survey",
-        "major",
-        "gaps",
-        "training",
-        "reveals",
-        "international",
-        "highlighted"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.061715+00:00"
-    },
-    {
-      "id": "rss-6eeb084af9ee",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "World Cup: What's just the right height for a soccer player?",
-      "authors": "Medical Xpress",
-      "abstract": "It's a Darwinian jungle out there in sportsland. Players with the right stuff are selected, and those without it end up on the sidelines. If you haven't got what it takes, they won't take what you've got.",
-      "date": "2026-06-20",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-world-cup-height-soccer-player.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "what",
-        "right",
-        "world",
-        "just",
-        "height",
-        "soccer",
-        "player",
-        "darwinian"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.061911+00:00"
-    },
-    {
-      "id": "rss-33be36248032",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "What drives women to have a 'freebirth' without a midwife or doctor? Here's what the research says",
-      "authors": "Medical Xpress",
-      "abstract": "A coronial inquest is this week examining the death of Melbourne wellness influencer Stacey Warnecke after a freebirth at her home in September.",
-      "date": "2026-06-20",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-women-freebirth-midwife-doctor.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "what",
-        "freebirth",
-        "drives",
-        "women",
-        "have",
-        "without",
-        "midwife",
-        "doctor"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.062101+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.195863+00:00"
     },
     {
       "id": "rss-0dce514a78ed",
@@ -483,7 +547,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.153984+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.196060+00:00"
     },
     {
       "id": "rss-46630863b951",
@@ -515,7 +579,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.154173+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.196264+00:00"
     },
     {
       "id": "rss-2e2633faeb11",
@@ -547,7 +611,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.154386+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.196465+00:00"
     },
     {
       "id": "rss-b8439a27c309",
@@ -579,7 +643,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.154640+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.196728+00:00"
     },
     {
       "id": "rss-4858c46ddfe0",
@@ -611,7 +675,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.154869+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.196983+00:00"
     },
     {
       "id": "rss-73ff23bd0956",
@@ -643,7 +707,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.154999+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.197159+00:00"
     },
     {
       "id": "rss-df89ae80a672",
@@ -675,7 +739,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.155137+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.197331+00:00"
     },
     {
       "id": "rss-a3e5c2fdc32f",
@@ -707,7 +771,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.155298+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.197498+00:00"
     },
     {
       "id": "rss-92f3b74bc420",
@@ -739,7 +803,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.155431+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.197655+00:00"
     },
     {
       "id": "rss-aa16e55100c4",
@@ -771,7 +835,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.268936+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.314551+00:00"
     },
     {
       "id": "rss-f0924825233f",
@@ -803,7 +867,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.155572+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.197826+00:00"
     },
     {
       "id": "rss-1862fc1e8d80",
@@ -835,7 +899,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.155713+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.197994+00:00"
     },
     {
       "id": "rss-e8533542f4bf",
@@ -867,7 +931,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.155853+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.198184+00:00"
     },
     {
       "id": "rss-e208ef625703",
@@ -899,39 +963,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.155990+00:00"
-    },
-    {
-      "id": "rss-f9e82526fdd5",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-      "authors": "TechCrunch AI",
-      "abstract": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
-      "date": "2026-06-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "chips",
-        "amazon",
-        "hopes",
-        "challenge",
-        "nvidia",
-        "more",
-        "directly",
-        "selling"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.156122+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.198354+00:00"
     },
     {
       "id": "rss-178fcef6b56d",
@@ -963,7 +995,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.269112+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.314745+00:00"
     },
     {
       "id": "rss-607184e56a4c",
@@ -995,7 +1027,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.269276+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.314910+00:00"
     },
     {
       "id": "rss-1842992c471c",
@@ -1027,7 +1059,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.269414+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.315070+00:00"
     },
     {
       "id": "rss-701cdec7906c",
@@ -1059,7 +1091,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.269573+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.315312+00:00"
     },
     {
       "id": "rss-5cf5c5f90af9",
@@ -1091,7 +1123,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.470290+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.637749+00:00"
     },
     {
       "id": "rss-9babfa4d92c2",
@@ -1123,7 +1155,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.470548+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.638015+00:00"
     },
     {
       "id": "rss-8751cfb8b032",
@@ -1155,7 +1187,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.470737+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.638249+00:00"
     },
     {
       "id": "rss-1bc2925a9388",
@@ -1187,7 +1219,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.269722+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.315487+00:00"
     },
     {
       "id": "rss-f936ae05ec86",
@@ -1219,7 +1251,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.269865+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.315661+00:00"
     },
     {
       "id": "rss-0ea3dcd99424",
@@ -1251,7 +1283,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.270000+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.315820+00:00"
     },
     {
       "id": "rss-3c2f3866802b",
@@ -1283,7 +1315,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.471239+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.638772+00:00"
     },
     {
       "id": "rss-8cb2f4a1e892",
@@ -1315,7 +1347,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.270144+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.315992+00:00"
     },
     {
       "id": "rss-f27c800555f2",
@@ -1347,7 +1379,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.270291+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.316171+00:00"
     },
     {
       "id": "rss-130a779b2400",
@@ -1379,7 +1411,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.471461+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.639045+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1411,7 +1443,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.660397+00:00"
+      "_retrievedAt": "2026-06-21T05:16:47.499970+00:00"
     },
     {
       "id": "rss-2dfddbb1e70d",
@@ -1443,7 +1475,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.471983+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.639635+00:00"
     },
     {
       "id": "rss-1aa9f8004d35",
@@ -1475,7 +1507,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.472571+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.640291+00:00"
     },
     {
       "id": "rss-c0f99ae68619",
@@ -1507,7 +1539,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.472747+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.640499+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -1539,7 +1571,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.261116+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.144404+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1571,7 +1603,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.659332+00:00"
+      "_retrievedAt": "2026-06-21T05:16:47.498901+00:00"
     },
     {
       "id": "rss-2154e7a8aa14",
@@ -1603,7 +1635,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.270426+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.316331+00:00"
     },
     {
       "id": "rss-943471709773",
@@ -1635,7 +1667,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.472933+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.640717+00:00"
     },
     {
       "id": "rss-4d7859cbc7e2",
@@ -1667,7 +1699,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.473442+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.641271+00:00"
     },
     {
       "id": "rss-0976470de9a8",
@@ -1699,7 +1731,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.270564+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.316496+00:00"
     },
     {
       "id": "rss-29f40dfdd1a7",
@@ -1731,7 +1763,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.270701+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.316657+00:00"
     },
     {
       "id": "rss-14174cf7fd0f",
@@ -1763,7 +1795,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:57.270847+00:00"
+      "_retrievedAt": "2026-06-21T05:16:53.316832+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1795,7 +1827,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.737636+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.854519+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -1827,7 +1859,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.661965+00:00"
+      "_retrievedAt": "2026-06-21T05:16:47.501623+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -1859,7 +1891,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.663005+00:00"
+      "_retrievedAt": "2026-06-21T05:16:47.502726+00:00"
     },
     {
       "id": "openalex-2a2df0665fcc",
@@ -1891,7 +1923,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.258941+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.141199+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1923,7 +1955,39 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.659003+00:00"
+      "_retrievedAt": "2026-06-21T05:16:47.498580+00:00"
+    },
+    {
+      "id": "openalex-239a44a48c00",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "authors": "Bourlon, Fabien, Bregolin, Michel, Rudzewicz, Laura",
+      "abstract": "Rosa dos Ventos abrange aspectos relacionados ao Turismo e a Hospitalidade, com foco na Educação, Epistemologia, Gastronomia, Gestão, Cultura e Meio Ambiente, em visão multidisciplinar do fenômeno turístico",
+      "date": "2026-05-15",
+      "year": 2026,
+      "journal": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "source": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.18226/21789061",
+      "doi": "10.18226/21789061",
+      "pdfUrl": "https://doi.org/10.18226/21789061",
+      "keywords": [
+        "Humanities",
+        "Political science",
+        "Art",
+        "Diverse Aspects of Tourism Research",
+        "Social and Economic Solidarity",
+        "Hospitality and Tourism Education",
+        "rosa",
+        "ventos"
+      ],
+      "readTime": "1 min",
+      "citedBy": 134,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-21T05:16:49.850760+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1955,7 +2019,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.659969+00:00"
+      "_retrievedAt": "2026-06-21T05:16:47.499571+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1987,7 +2051,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.658621+00:00"
+      "_retrievedAt": "2026-06-21T05:16:47.498204+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2019,7 +2083,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.736160+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.852915+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2051,7 +2115,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.659758+00:00"
+      "_retrievedAt": "2026-06-21T05:16:47.499347+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -2083,39 +2147,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.663566+00:00"
-    },
-    {
-      "id": "openalex-c2a093804030",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "International Journal of Complementary & Alternative Medicine",
-      "authors": "OpenAlex indexed authors",
-      "abstract": "There is a growing demand for integrative and complementary therapies for various health conditions, while the mechanisms and biological pathways for some of these therapies are poorly explored.In particular, bioelectric, biomagnetic and anthropogenic fields interact with biological structures such as tissues, cells and DNA.It is suggested that these interactions may create an integrated system of internal communication, with the potential to promote therapeutic benefits.The theoretical model Biofield-Tissue Tensegrity Matrix (BTTM) is presented by combining concepts from physics, biology and medicine to serve as a possible theoretical basis for energy therapies.",
-      "date": "2026-04-25",
-      "year": 2026,
-      "journal": "International Journal of Complementary & Alternative Medicine",
-      "source": "International Journal of Complementary & Alternative Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.15406/ijcam",
-      "doi": "10.15406/ijcam",
-      "pdfUrl": "https://medcraveonline.com/IJCAM/IJCAM-18-00731.pdf",
-      "keywords": [
-        "Library science",
-        "Medicine",
-        "Computer science",
-        "Complementary and Alternative Medicine Studies",
-        "therapies",
-        "complementary",
-        "medicine",
-        "biological"
-      ],
-      "readTime": "1 min",
-      "citedBy": 18,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.257898+00:00"
+      "_retrievedAt": "2026-06-21T05:16:47.503329+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2147,7 +2179,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.662223+00:00"
+      "_retrievedAt": "2026-06-21T05:16:47.501886+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2179,7 +2211,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.999587+00:00"
+      "_retrievedAt": "2026-06-21T05:16:48.432206+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2211,7 +2243,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.661670+00:00"
+      "_retrievedAt": "2026-06-21T05:16:47.501308+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -2243,7 +2275,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.998549+00:00"
+      "_retrievedAt": "2026-06-21T05:16:48.431064+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -2275,7 +2307,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.259524+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.141832+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2307,7 +2339,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.660976+00:00"
+      "_retrievedAt": "2026-06-21T05:16:47.500575+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2339,39 +2371,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.260821+00:00"
-    },
-    {
-      "id": "openalex-18e8a6f615a1",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Expansion of Antarctic surface melt through the 21st century",
-      "authors": "Yaowen Zheng, Nicholas R. Golledge, Alexandra Gossart, Shoujuan Shu",
-      "abstract": "Climate models show that Antarctic surface melt will increase through the current century. Surface melting changes ice sheet albedo, the availability of liquid water for endemic and invasive species, and may even accelerate ice shelf collapse and global sea level rise. Here we show, using 1 km downscaled projections of potential Antarctic surface melt, that the total area experiencing surface melt will expand by more than 10% by 2100 under a Shared Socio-economic Pathway 3-7.0 scenario, with increased potential melt totals likely to threaten the viability of ice shelves mostly in the West Antarctic Peninsula and Amundsen Sea Embayment, through an elevated risk of hydrofracture. By calculating the latitudinal rate of melt migration we also find that Shared Socio-economic Pathway 1-2.6 is the only emissions scenario under which the rate of future Antarctic surface melt expansion will st...",
-      "date": "2026-03-30",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-71114-7",
-      "doi": "10.1038/s41467-026-71114-7",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-71114-7_reference.pdf",
-      "keywords": [
-        "Geology",
-        "Surface (topology)",
-        "Climate change",
-        "Environmental science",
-        "Earth science",
-        "Polar Research and Ecology",
-        "Arctic and Russian Policy Studies",
-        "Calcium Carbonate Crystallization and Inhibition"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.739851+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.144025+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -2403,7 +2403,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.660699+00:00"
+      "_retrievedAt": "2026-06-21T05:16:47.500292+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2435,7 +2435,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.661371+00:00"
+      "_retrievedAt": "2026-06-21T05:16:47.500974+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -2467,7 +2467,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.996020+00:00"
+      "_retrievedAt": "2026-06-21T05:16:48.428417+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -2499,7 +2499,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.999857+00:00"
+      "_retrievedAt": "2026-06-21T05:16:48.432504+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -2531,7 +2531,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.997444+00:00"
+      "_retrievedAt": "2026-06-21T05:16:48.429878+00:00"
+    },
+    {
+      "id": "openalex-568c4ca27e3e",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "A hybrid deep learning approach integrating CNN and transformer for lung cancer classification using CT scans",
+      "authors": "Samia Nawaz Yousafzai, Inzamam Mashood Nasir, Sahar Mansour, Noha Negm, Asma A. Alhashmi, Mohannad Alharbi",
+      "abstract": "Lung cancer is an extremely fatal kind of cancer, resulting in the deaths of almost 7.6 million individuals annually around the globe. Nevertheless, a timely diagnosis is a crucial necessity for enhancing the likelihood of human survival. Regarding tumor identification, CT scans are normally used to identify affected areas. Nevertheless, CT imaging face significant problems such as poor visibility of tumor locations and high false negative rates. The small dataset size of medical imaging makes it challenging to capture local lesion features by iterative training, considering all input features equally. This work integrates Convolutional Neural Network (CNN) and Improved Swin Transformer (C-Swin), a deep learning model that extracts and integrates fine-grained local and global features. C-Swin has Transformer encoder and a CNN module. The CNN module extracts local features, whereas the...",
+      "date": "2026-03-17",
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "source": "Scientific Reports",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41598-026-41161-7",
+      "doi": "10.1038/s41598-026-41161-7",
+      "pdfUrl": "https://www.nature.com/articles/s41598-026-41161-7_reference.pdf",
+      "keywords": [
+        "Deep learning",
+        "Artificial intelligence",
+        "Computer science",
+        "Lung cancer",
+        "Transformer",
+        "Lung Cancer Diagnosis and Treatment",
+        "Radiomics and Machine Learning in Medical Imaging",
+        "COVID-19 diagnosis using AI"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-21T05:16:49.142938+00:00"
     },
     {
       "id": "openalex-59f3240e8b8c",
@@ -2563,7 +2595,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.737264+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.854119+00:00"
     },
     {
       "id": "openalex-4b1dee987f4c",
@@ -2595,7 +2627,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.995667+00:00"
+      "_retrievedAt": "2026-06-21T05:16:48.428006+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2627,7 +2659,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.735455+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.852178+00:00"
     },
     {
       "id": "openalex-d7f83e5bb105",
@@ -2659,7 +2691,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.260536+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.143714+00:00"
     },
     {
       "id": "openalex-21e2af519ee1",
@@ -2691,7 +2723,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.261599+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.144909+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2723,7 +2755,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.258609+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.140788+00:00"
     },
     {
       "id": "openalex-b2aeaeab5ec0",
@@ -2755,7 +2787,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.739573+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.856651+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2787,7 +2819,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.663257+00:00"
+      "_retrievedAt": "2026-06-21T05:16:47.502975+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2819,7 +2851,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.258248+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.140416+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -2851,7 +2883,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.738144+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.855068+00:00"
     },
     {
       "id": "openalex-858e3c58ce35",
@@ -2883,7 +2915,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.997996+00:00"
+      "_retrievedAt": "2026-06-21T05:16:48.430494+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -2915,7 +2947,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.259240+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.141525+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -2947,7 +2979,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.736504+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.853290+00:00"
     },
     {
       "id": "openalex-98c4505ba231",
@@ -2979,7 +3011,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.738488+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.855451+00:00"
     },
     {
       "id": "openalex-3455b31b2a62",
@@ -3011,7 +3043,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.739225+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.856266+00:00"
     },
     {
       "id": "openalex-97ddc47d9378",
@@ -3043,7 +3075,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.261859+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.145213+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -3075,7 +3107,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.996386+00:00"
+      "_retrievedAt": "2026-06-21T05:16:48.428789+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -3107,7 +3139,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.997720+00:00"
+      "_retrievedAt": "2026-06-21T05:16:48.430190+00:00"
+    },
+    {
+      "id": "openalex-d1e7e2c5f21d",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Nature meets machine: the AI renaissance in natural product drug discovery",
+      "authors": "Rajesh Muthuraj, Jaikanth Chandrasekaran",
+      "abstract": "Natural products (NPs) have long served as a cornerstone of drug discovery, yielding landmark therapeutics such as paclitaxel and artemisinin and providing sustained access to biologically relevant chemical space. Despite this legacy, NP-based discovery has gradually declined with the rise of synthetic chemistry and high-throughput screening, even as many contemporary \"synthetic\" drugs remain structurally inspired by natural scaffolds. Classical NP workflows-centered on phenotypic screening and bioassay-guided fractionation-continue to face persistent bottlenecks, including structural complexity, low bioactive yield, frequent rediscovery, and limited scalability. Rather than competing with NP research, artificial intelligence (AI) offers a complementary methodological framework to address these longstanding challenges. This review critically examines the bottlenecks inherent to tradit...",
+      "date": "2026-03-02",
+      "year": 2026,
+      "journal": "Natural Products and Bioprospecting",
+      "source": "Natural Products and Bioprospecting",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1007/s13659-025-00589-6",
+      "doi": "10.1007/s13659-025-00589-6",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s13659-025-00589-6.pdf",
+      "keywords": [
+        "Drug discovery",
+        "The Renaissance",
+        "Data science",
+        "Natural product",
+        "Scope (computer science)",
+        "Computational Drug Discovery Methods",
+        "Microbial Natural Products and Biosynthesis",
+        "Machine Learning in Materials Science"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-21T05:16:49.143312+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -3139,7 +3203,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.662537+00:00"
+      "_retrievedAt": "2026-06-21T05:16:47.502230+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -3171,7 +3235,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.995003+00:00"
+      "_retrievedAt": "2026-06-21T05:16:48.427333+00:00"
     },
     {
       "id": "openalex-62b5f655ec71",
@@ -3203,7 +3267,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.738871+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.855857+00:00"
     },
     {
       "id": "openalex-c763bb388f03",
@@ -3235,7 +3299,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.262155+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.145541+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -3267,7 +3331,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.998288+00:00"
+      "_retrievedAt": "2026-06-21T05:16:48.430791+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -3299,7 +3363,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.737922+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.854823+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -3331,7 +3395,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.734769+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.851426+00:00"
     },
     {
       "id": "openalex-c22612c05697",
@@ -3363,7 +3427,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.999300+00:00"
+      "_retrievedAt": "2026-06-21T05:16:48.431874+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -3395,7 +3459,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.735085+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.851758+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -3427,7 +3491,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.736913+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.853728+00:00"
     },
     {
       "id": "openalex-9eb31b2e7a82",
@@ -3459,7 +3523,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.998933+00:00"
+      "_retrievedAt": "2026-06-21T05:16:48.431508+00:00"
     },
     {
       "id": "openalex-a4c624bbe812",
@@ -3491,7 +3555,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.995327+00:00"
+      "_retrievedAt": "2026-06-21T05:16:48.427647+00:00"
     },
     {
       "id": "openalex-6d7865beed8a",
@@ -3523,7 +3587,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:53.260150+00:00"
+      "_retrievedAt": "2026-06-21T05:16:49.142575+00:00"
     },
     {
       "id": "openalex-8426b88a7fd1",
@@ -3555,7 +3619,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.996781+00:00"
+      "_retrievedAt": "2026-06-21T05:16:48.429233+00:00"
     },
     {
       "id": "openalex-3dfdd7ceaceb",
@@ -3587,7 +3651,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-20T19:54:52.997045+00:00"
+      "_retrievedAt": "2026-06-21T05:16:48.429515+00:00"
     }
   ]
 }
