@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T20:20:56.549270+00:00",
+  "generatedAt": "2026-06-24T04:33:30.077302+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -7,220 +7,156 @@
   ],
   "papers": [
     {
-      "id": "rss-53b825db8aca",
+      "id": "rss-b761ae0023e5",
       "discipline": "clinical",
       "type": "news",
-      "title": "Gut fungi may hold the key to treating asthma worldwide",
+      "title": "Researchers warn against the increasing use of 'just in case' antibiotics",
       "authors": "Medical Xpress",
-      "abstract": "Two new studies jointly published in Nature Communications reveal that certain species of fungi in the gut play a key role in the development of immune dysregulation and some pediatric allergic diseases—and may be promising targets for new therapies.",
-      "date": "2026-06-23",
+      "abstract": "Antibiotic prophylaxis, the administration of antibiotics to prevent bacterial infections in individuals at risk, is a powerful medical tool. However, a new commentary warns that the growing tendency to prescribe antibiotics \"just in case\" can silently fuel the global crisis of antimicrobial resistance.",
+      "date": "2026-06-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-gut-fungi-key-asthma-worldwide.html",
+      "url": "https://medicalxpress.com/news/2026-06-case-antibiotics.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "fungi",
-        "hold",
-        "treating",
-        "asthma",
-        "worldwide",
-        "studies",
-        "jointly",
-        "published"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.028648+00:00"
-    },
-    {
-      "id": "rss-c32d45c4dbaf",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "A spine you can hold in your hands may help surgeons in the most challenging operations",
-      "authors": "Medical Xpress",
-      "abstract": "According to a new study, 3D-printed spine models may support the work of spine surgeons, particularly in understanding highly complex cases and planning surgical procedures. The findings come from a study conducted at the Doctoral School of Semmelweis University and published in the journal World Neurosurgery. The researchers found that the technology could benefit not only physicians but also patients and their families by making it easier to explain spinal conditions and planned interventions.",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-spine-surgeons.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "spine",
-        "surgeons",
-        "hold",
-        "your",
-        "hands",
-        "help",
-        "most",
-        "challenging"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.028976+00:00"
-    },
-    {
-      "id": "rss-5b406a083c4f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "State laws vary widely on adolescent consent for sexual assault exams, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "In the hours following sexual assault, teens may face difficult decisions about seeking medical care and whether to undergo a forensic exam that could support a future investigation or prosecution. Understanding their ability to consent to these services can be complicated, as laws vary widely from state to state.",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-state-laws-vary-widely-adolescent.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "state",
-        "laws",
-        "vary",
-        "widely",
-        "consent",
-        "sexual",
-        "assault",
-        "adolescent"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.029212+00:00"
-    },
-    {
-      "id": "rss-d1eb7f6a4cf7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "'Food noise' discussion on social media helps define the term",
-      "authors": "Medical Xpress",
-      "abstract": "With the rise of weight-loss drugs such as GLP-1 medications in recent years, the phrase \"food noise\" has taken off, particularly in conversations about health and wellness on social media. While thinking about food during the day is normal, food noise is often used to describe endless, looping thoughts about eating that are hard to ignore. Yet, there's no official definition for what constitutes food noise, and evidence of food noise is anecdotal.",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-food-noise-discussion-social-media.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "food",
-        "noise",
-        "about",
-        "social",
-        "media",
-        "discussion",
-        "helps",
-        "define"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.029455+00:00"
-    },
-    {
-      "id": "rss-5d349e59cccd",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Faster breast MRI—AI unlocks one image per second and sharper tumor tracking",
-      "authors": "Medical Xpress",
-      "abstract": "A group of researchers from the Technion and the United States reports a breakthrough in MRI scanning in a paper published in Nature Communications. The researchers developed an innovative method that accelerates and enhances MRI scans for breast cancer imaging, a disease diagnosed in approximately 2.3 million people each year, most of whom are women.",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-faster-breast-mri-ai-image.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "breast",
+        "antibiotics",
+        "just",
+        "case",
         "researchers",
-        "faster",
-        "unlocks",
-        "image",
-        "second",
-        "sharper",
-        "tumor"
+        "warn",
+        "against",
+        "increasing",
+        "antibiotic"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.029697+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.164943+00:00"
     },
     {
-      "id": "rss-d0b8cf5103de",
+      "id": "rss-741065672f2c",
       "discipline": "clinical",
       "type": "news",
-      "title": "Estrogen link could explain why women are more likely to suffer from Crohn's",
+      "title": "AACR releases Cancer Disparities Progress Report 2026",
       "authors": "Medical Xpress",
-      "abstract": "Scientists from the University of Bath (UK) have shed new light on how Crohn's disease develops and why it affects people differently after finding new evidence of a link between a key immune system gene in the gut and signaling of the hormone estrogen.",
-      "date": "2026-06-23",
+      "abstract": "The American Association for Cancer Research (AACR) has released its \"Cancer Disparities Progress Report 2026,\" a comprehensive analysis of the unequal burden of cancer in the United States. First published in 2020, this biennial report highlights the progress being made against cancer disparities while also raising awareness of the disproportionate toll that cancer continues to exact on racial and ethnic minority groups and other medically underserved populations, including sexual and gender minorities and residents of rural areas and persistent-poverty regions.",
+      "date": "2026-06-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-estrogen-link-women-crohn.html",
+      "url": "https://medicalxpress.com/news/2026-06-aacr-cancer-disparities.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "estrogen",
-        "link",
-        "crohn",
-        "could",
-        "explain",
-        "women",
-        "more",
-        "likely"
+        "cancer",
+        "disparities",
+        "progress",
+        "report",
+        "aacr",
+        "releases",
+        "american",
+        "association"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.029963+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.165262+00:00"
     },
     {
-      "id": "rss-44fee4709a94",
+      "id": "rss-98c9a69e2225",
       "discipline": "clinical",
       "type": "news",
-      "title": "PCOS becomes PMOS: Condition that affects one in eight women has been renamed",
+      "title": "Indiana takes on powerful hospitals by capping prices they charge employers",
       "authors": "Medical Xpress",
-      "abstract": "Polycystic ovary syndrome (PCOS) has been renamed polyendocrine metabolic ovarian syndrome (PMOS). Professor Helena Teede led this name change after 14 years of research and global collaboration. But why was it needed?",
-      "date": "2026-06-23",
+      "abstract": "Tired of watching its employers struggle to afford the cost of health care, Republican-controlled Indiana is trying a traditionally liberal tactic to control costs: setting government price controls on hospitals.",
+      "date": "2026-06-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-pcos-pmos-condition-affects-women.html",
+      "url": "https://medicalxpress.com/news/2026-06-indiana-powerful-hospitals-capping-prices.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "pcos",
-        "pmos",
-        "been",
-        "renamed",
-        "syndrome",
-        "becomes",
-        "condition",
+        "indiana",
+        "hospitals",
+        "employers",
+        "takes",
+        "powerful",
+        "capping",
+        "prices",
+        "they"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-24T04:33:29.165479+00:00"
+    },
+    {
+      "id": "rss-79143d5f8e62",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Psoriasis is linked to impairment of some sleep domains",
+      "authors": "Medical Xpress",
+      "abstract": "Higher psoriasis (PsO) disease activity is independently associated with impairment in specific sleep domains, but not global sleep quality, according to a study published online May 29 in the Journal of Clinical Medicine.",
+      "date": "2026-06-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-psoriasis-linked-impairment-domains.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "sleep",
+        "psoriasis",
+        "impairment",
+        "domains",
+        "linked",
+        "some",
+        "higher",
+        "disease"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-24T04:33:29.165684+00:00"
+    },
+    {
+      "id": "rss-fa6959b46c3b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "For chronic knee pain, genicular artery embolization provides a new alternative",
+      "authors": "Medical Xpress",
+      "abstract": "The procedure was \"remarkably\" successful. That's how Cynthia Schraf-Fletcher, 74, describes her experience with genicular artery embolization (GAE), a minimally invasive procedure that treats chronic knee pain. Nearly a year after the outpatient surgery on her right knee, Schraf-Fletcher says the outcome is nearly identical to the total knee replacement she previously had on her left knee.",
+      "date": "2026-06-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-chronic-knee-pain-genicular-artery.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "knee",
+        "chronic",
+        "pain",
+        "genicular",
+        "artery",
+        "embolization",
+        "procedure",
         "that"
       ],
       "readTime": "1 min",
@@ -228,231 +164,327 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.030169+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.165922+00:00"
     },
     {
-      "id": "rss-ed175cf9d363",
+      "id": "rss-f8faecf134f5",
       "discipline": "clinical",
       "type": "news",
-      "title": "Scientists uncover a genetic 'shield' that lowers the risk of colorectal cancer",
+      "title": "Robots can improve the health of older people, trial shows",
       "authors": "Medical Xpress",
-      "abstract": "A team of scientists from the Barbara Ann Karmanos Cancer Institute, Wayne State University and institutions across the U.S. have published a new paper on the role of TGFBR1*6A, a naturally occurring genetic mutation in the TGFBR1 gene found in approximately 14% of the general population.",
-      "date": "2026-06-23",
+      "abstract": "A new trial has shown that using telepresence robots to support the well-being and health of older people in their homes can improve physical strength and balance, as well as social interaction and confidence. The work is published in the 2025 IEEE Conference on Telepresence.",
+      "date": "2026-06-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-scientists-uncover-genetic-shield-lowers.html",
+      "url": "https://medicalxpress.com/news/2026-06-robots-health-older-people-trial.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "scientists",
-        "genetic",
+        "robots",
+        "improve",
+        "health",
+        "older",
+        "people",
+        "trial",
+        "telepresence",
+        "shows"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-24T04:33:29.166148+00:00"
+    },
+    {
+      "id": "rss-d4ef3bedc6f8",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Study finds AI-OCT-based system noninferior for secondary diabetic macular edema detection",
+      "authors": "Medical Xpress",
+      "abstract": "Incorporation of an artificial intelligence-based-optical coherence tomography (AI-OCT) system as a secondary screening tool is noninferior to standard practice and can reduce unnecessary diabetic macular edema (DME) referrals, according to a study published online June 15 in the Journal of the American Medical Association.",
+      "date": "2026-06-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-ai-oct-based-noninferior-secondary.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "system",
+        "noninferior",
+        "secondary",
+        "diabetic",
+        "macular",
+        "edema",
+        "finds",
+        "ai-oct-based"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-24T04:33:29.166378+00:00"
+    },
+    {
+      "id": "rss-7c40ddf4a3ec",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "How a major cancer center reduced treatment times",
+      "authors": "Medical Xpress",
+      "abstract": "New Rutgers research suggests that much of the seemingly endless waiting for complex medical care can be engineered away by re-creating operations inside a computer and testing countless possible improvements. The study in the Annals of Operations Research explains how researchers from Rutgers Cancer Institute and Rutgers Business School built a working computer simulation of the institute's blood cancer clinic and used it to identify and fix bottlenecks that kept patients waiting up to three hours between check-in and treatment.",
+      "date": "2026-06-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-major-cancer-center-treatment.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
         "cancer",
-        "tgfbr",
-        "uncover",
-        "shield",
+        "rutgers",
+        "treatment",
         "that",
-        "lowers"
+        "waiting",
+        "operations",
+        "computer",
+        "institute"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.030378+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.166637+00:00"
     },
     {
-      "id": "rss-abfe9ab67d74",
+      "id": "rss-0613ce11cd40",
       "discipline": "clinical",
       "type": "news",
-      "title": "Fertility preservation care is still out of reach for many girls and young women with cancer, review finds",
+      "title": "History shows quarantine can be a blip—or mark some people forever",
       "authors": "Medical Xpress",
-      "abstract": "A new Columbia University School of Nursing systematic review reveals access to fertility preservation (FP) care remains limited and unequal for girls and young women with cancer. The research article, \"Fertility Preservation Access Among Female Adolescents and Young Adults with Cancer: A Systematic Review,\" was published in Cancer on June 23, 2026.",
-      "date": "2026-06-23",
+      "abstract": "Her name was Mary Quarantine Chapman. Seriously. To the best of my knowledge, Mary is the only Australian named after the experience of being detained to limit the spread of infectious disease.",
+      "date": "2026-06-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-fertility-girls-young-women-cancer.html",
+      "url": "https://medicalxpress.com/news/2026-06-history-quarantine-blip-people.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cancer",
-        "fertility",
-        "preservation",
-        "young",
-        "review",
-        "care",
-        "girls",
-        "women"
+        "quarantine",
+        "mary",
+        "history",
+        "shows",
+        "blip",
+        "mark",
+        "some",
+        "people"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.030597+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.166855+00:00"
     },
     {
-      "id": "rss-b61459c57fde",
+      "id": "rss-bb96dd862b5d",
       "discipline": "clinical",
       "type": "news",
-      "title": "Americans are hungry for information and policies around ultra-processed foods, study shows",
+      "title": "Research on mate choice and gametes may bring new hope to the childless",
       "authors": "Medical Xpress",
-      "abstract": "If your social media feed has suddenly filled with content about ultra-processed foods (UPFs), you're far from alone. Since the U.S. Department of Health and Human Services tasked federal agencies last year with developing UPF guidelines, the buzz has been hard to miss. Yet, despite widespread attention to the topic, federal guidelines have not yet materialized, and Americans are unsure how to make healthy choices for their families.",
-      "date": "2026-06-23",
+      "abstract": "So you have finally found the partner of your dreams—but no matter how hard you try, no children have come along. Could science offer new answers to mate choice and infertility? For several years, researchers at the University of Eastern Finland have been studying human reproduction and mate choice through the lens of evolutionary biology.",
+      "date": "2026-06-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-americans-hungry-policies-ultra-foods.html",
+      "url": "https://medicalxpress.com/news/2026-06-choice-gametes-childless.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "mate",
+        "choice",
+        "have",
+        "gametes",
+        "bring",
+        "hope",
+        "childless",
+        "finally"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-24T04:33:29.167109+00:00"
+    },
+    {
+      "id": "rss-fd719c909972",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "FDA approves oral Utebzi antibiotic for complicated urinary tract infections",
+      "authors": "Medical Xpress",
+      "abstract": "The U.S. Food and Drug Administration has approved GSK's Utebzi (tebipenem pivoxil), an oral antibiotic, for the treatment of complicated urinary tract infections (cUTIs).",
+      "date": "2026-06-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-fda-oral-utebzi-antibiotic-complicated.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "oral",
+        "utebzi",
+        "antibiotic",
+        "complicated",
+        "urinary",
+        "tract",
+        "infections",
+        "approves"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-24T04:33:29.167303+00:00"
+    },
+    {
+      "id": "rss-479d6feaa11b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Lab-engineered proteins: A promising treatment for liver disease",
+      "authors": "Medical Xpress",
+      "abstract": "The research group led by CIC biomaGUNE's Ikerbasque Research Professor Aitziber L. Cortajarena has developed an innovative anti-fibrotic and anti-tumor treatment by binding a synthetic protein to gold nanoclusters (small aggregates of approximately 6 atoms of gold). Conducted in collaboration with the group led by Dr. Ana Beloqui at the Catholic University of Louvain (Belgium), the study, published in Bioactive Materials, has demonstrated that this hybrid formulation displays strong hepatic specificity and minimal side effects in mice.",
+      "date": "2026-06-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-lab-proteins-treatment-liver-disease.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "treatment",
+        "group",
+        "gold",
+        "lab-engineered",
+        "proteins",
+        "promising",
+        "liver",
+        "disease"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-24T04:33:29.167556+00:00"
+    },
+    {
+      "id": "rss-952308c67a4a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "AI and polygenic scores improve breast cancer risk assessment",
+      "authors": "Medical Xpress",
+      "abstract": "A risk model that combines a mammographic artificial intelligence (AI) risk score with polygenic and clinical risk scores more accurately identifies women at high risk of developing breast cancer than clinical risk scores used alone, finds a new Kaiser Permanente study. The study, published in the Journal of the National Cancer Institute, is one of the largest and most diverse to evaluate the ability of three approaches—mammography AI, polygenic and clinical—to predict breast cancer risk.",
+      "date": "2026-06-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-ai-polygenic-scores-breast-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "risk",
+        "cancer",
+        "polygenic",
+        "scores",
+        "breast",
+        "clinical",
+        "improve",
+        "assessment"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-24T04:33:29.167827+00:00"
+    },
+    {
+      "id": "rss-8c848f3f732d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Most Americans unaware of link between alcohol and cancer— and aren't interested in spreading the word, either",
+      "authors": "Medical Xpress",
+      "abstract": "Fewer than half of Americans understand that booze is a cancer-causing substance along the lines of known carcinogens like tobacco, asbestos and formaldehyde, a new study says.",
+      "date": "2026-06-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-americans-unaware-link-alcohol-cancer.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "americans",
-        "ultra-processed",
-        "foods",
-        "federal",
-        "guidelines",
-        "hungry",
-        "information",
-        "policies"
+        "most",
+        "unaware",
+        "link",
+        "alcohol",
+        "cancer",
+        "aren",
+        "interested"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.030846+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.168036+00:00"
     },
     {
-      "id": "rss-90628b78d638",
-      "discipline": "clinical",
+      "id": "rss-f5e027400a12",
+      "discipline": "cs",
       "type": "news",
-      "title": "Midlife strength training linked to lower diabetes risk",
-      "authors": "Medical Xpress",
-      "abstract": "Strength training may play an important role in reducing the risk of type 2 diabetes.",
+      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+      "authors": "TechCrunch AI",
+      "abstract": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
       "date": "2026-06-23",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-midlife-strength-linked-diabetes.html",
+      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "strength",
-        "training",
-        "diabetes",
-        "risk",
-        "midlife",
-        "linked",
-        "lower",
-        "play"
+        "moengage",
+        "that",
+        "agents",
+        "india",
+        "bets",
+        "future",
+        "marketing",
+        "millions"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.031011+00:00"
-    },
-    {
-      "id": "rss-b1c9afd5b5eb",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Whole-food plant meal fails to boost post-workout muscle gains, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "In a randomized controlled trial, researchers tested whether a plant-based, whole-food, complementary-protein meal consumed immediately after a bout of weight training would stimulate a stronger muscle-building response than a nutritionally matched shake made with free amino acids. The study found no differences between the two, even though each contained 20 grams of protein. Both options yielded much lower muscle-protein synthesis than a post-workout meal of 20 grams of lean pork.",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-food-meal-boost-workout-muscle.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "meal",
-        "whole-food",
-        "post-workout",
-        "than",
-        "grams",
-        "plant",
-        "fails",
-        "boost"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.031247+00:00"
-    },
-    {
-      "id": "rss-a0be7910ad51",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Family-based behavioral treatment for children can prevent metabolic disease later in life",
-      "authors": "Medical Xpress",
-      "abstract": "Every parent wants to raise healthy kids who then grow up to become healthy adults. But when a third of children in the U.S. are either overweight or obese, that goal seems increasingly elusive. A new University at Buffalo study, covering 40 years of data and more than 1,000 families in different regions in the U.S., reveals that the family-based behavioral treatment developed at UB for children and parents who are overweight or obese can prevent children from developing metabolic disease when they grow up.",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-family-based-behavioral-treatment-children.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "children",
-        "family-based",
-        "behavioral",
-        "treatment",
-        "prevent",
-        "metabolic",
-        "disease",
-        "healthy"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.031488+00:00"
-    },
-    {
-      "id": "rss-3f53dd1f9fd0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Job dissatisfaction, education drive nurse turnover",
-      "authors": "Medical Xpress",
-      "abstract": "Job dissatisfaction and pursuing additional degrees were the leading reasons nurses left their roles a few years into the pandemic, according to a new study published in the journal Health Affairs Scholar.",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-job-dissatisfaction-nurse-turnover.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "dissatisfaction",
-        "education",
-        "drive",
-        "nurse",
-        "turnover",
-        "pursuing",
-        "additional",
-        "degrees"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.031671+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.305332+00:00"
     },
     {
       "id": "rss-634aabf8b488",
@@ -484,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.098219+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.305567+00:00"
     },
     {
       "id": "rss-4f848fc44dec",
@@ -516,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.098442+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.305738+00:00"
     },
     {
       "id": "rss-68dcebec592f",
@@ -548,39 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.098615+00:00"
-    },
-    {
-      "id": "rss-4c6ead25141c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
-      "authors": "TechCrunch AI",
-      "abstract": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/23/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "bird",
-        "feeder",
-        "kiwibit",
-        "ai-powered",
-        "backyard",
-        "buddy",
-        "looking",
-        "connect"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.098786+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.305901+00:00"
     },
     {
       "id": "rss-4e442dfb1181",
@@ -612,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.098943+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.306093+00:00"
     },
     {
       "id": "rss-dbf6ae4de1cc",
@@ -644,7 +644,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.099069+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.306257+00:00"
+    },
+    {
+      "id": "rss-6e64d9a2858e",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Exploring the societal impacts of AI",
+      "authors": "MIT News AI",
+      "abstract": "During the AI and Society Forum, leading MIT researchers examined critical questions about AI’s influence on employment and democracy.",
+      "date": "2026-06-23",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/exploring-societal-impacts-of-ai-0623",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "exploring",
+        "societal",
+        "impacts",
+        "during",
+        "society",
+        "forum",
+        "leading",
+        "researchers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-24T04:33:29.490453+00:00"
     },
     {
       "id": "rss-5d40314c8fc4",
@@ -676,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.169380+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.490623+00:00"
     },
     {
       "id": "rss-c59c4be8181e",
@@ -708,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.099205+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.306398+00:00"
     },
     {
       "id": "rss-6a1ebfa8802a",
@@ -740,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.099360+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.306553+00:00"
     },
     {
       "id": "rss-1cbdbd05986a",
@@ -772,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.099524+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.306711+00:00"
     },
     {
       "id": "rss-da9db7d844f1",
@@ -804,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.099654+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.306837+00:00"
     },
     {
       "id": "rss-8e54969f736c",
@@ -836,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.099808+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.306969+00:00"
     },
     {
       "id": "rss-28ab4ae8c502",
@@ -868,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.099962+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.307130+00:00"
     },
     {
       "id": "rss-a007f5df452c",
@@ -900,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.100107+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.307272+00:00"
     },
     {
       "id": "rss-5d16f8338d32",
@@ -932,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.100241+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.307405+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -964,7 +996,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:51.672496+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.755477+00:00"
     },
     {
       "id": "rss-aa16e55100c4",
@@ -996,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.169549+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.490768+00:00"
     },
     {
       "id": "rss-178fcef6b56d",
@@ -1028,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.169707+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.490923+00:00"
     },
     {
       "id": "rss-607184e56a4c",
@@ -1060,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.169878+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.491083+00:00"
     },
     {
       "id": "rss-1842992c471c",
@@ -1092,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.170009+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.491220+00:00"
     },
     {
       "id": "rss-701cdec7906c",
@@ -1124,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.170155+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.491372+00:00"
     },
     {
       "id": "rss-5cf5c5f90af9",
@@ -1156,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.346413+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.714643+00:00"
     },
     {
       "id": "rss-9babfa4d92c2",
@@ -1188,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.346673+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.714888+00:00"
     },
     {
       "id": "rss-8751cfb8b032",
@@ -1220,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.346886+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.715094+00:00"
     },
     {
       "id": "rss-1bc2925a9388",
@@ -1252,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.170297+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.491515+00:00"
     },
     {
       "id": "rss-f936ae05ec86",
@@ -1284,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.170437+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.491666+00:00"
     },
     {
       "id": "rss-0ea3dcd99424",
@@ -1316,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.170569+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.491809+00:00"
     },
     {
       "id": "rss-3c2f3866802b",
@@ -1348,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.347389+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.715568+00:00"
     },
     {
       "id": "rss-8cb2f4a1e892",
@@ -1380,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.170709+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.491956+00:00"
     },
     {
       "id": "rss-f27c800555f2",
@@ -1412,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.170896+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.492102+00:00"
     },
     {
       "id": "rss-130a779b2400",
@@ -1444,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.347608+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.715777+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1476,7 +1508,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:49.938267+00:00"
+      "_retrievedAt": "2026-06-24T04:33:22.487914+00:00"
     },
     {
       "id": "rss-2dfddbb1e70d",
@@ -1508,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.348157+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.716295+00:00"
     },
     {
       "id": "rss-1aa9f8004d35",
@@ -1540,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.348733+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.716833+00:00"
     },
     {
       "id": "rss-c0f99ae68619",
@@ -1572,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.348967+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.717000+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -1604,7 +1636,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:51.676335+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.759106+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1636,7 +1668,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:49.937225+00:00"
+      "_retrievedAt": "2026-06-24T04:33:22.486876+00:00"
     },
     {
       "id": "rss-2154e7a8aa14",
@@ -1668,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.171043+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.492241+00:00"
     },
     {
       "id": "rss-943471709773",
@@ -1700,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.349158+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.717205+00:00"
     },
     {
       "id": "rss-4d7859cbc7e2",
@@ -1732,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.349654+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.717665+00:00"
     },
     {
       "id": "rss-0976470de9a8",
@@ -1764,39 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.171185+00:00"
-    },
-    {
-      "id": "rss-29f40dfdd1a7",
-      "discipline": "cs",
-      "type": "news",
-      "title": "NSF renews support for MIT-led AI and physics institute, expanding a new model for discovery",
-      "authors": "MIT News AI",
-      "abstract": "IAIFI enters its second phase with increased funding, broader ambitions, and a growing community at the frontier of AI and fundamental physics.",
-      "date": "2026-06-04",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "physics",
-        "renews",
-        "support",
-        "mit-led",
-        "institute",
-        "expanding",
-        "discovery",
-        "iaifi"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:56.171320+00:00"
+      "_retrievedAt": "2026-06-24T04:33:29.492384+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1828,7 +1828,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:52.503006+00:00"
+      "_retrievedAt": "2026-06-24T04:33:24.370776+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -1860,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:49.939792+00:00"
+      "_retrievedAt": "2026-06-24T04:33:22.489519+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -1892,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:49.940880+00:00"
+      "_retrievedAt": "2026-06-24T04:33:22.490609+00:00"
     },
     {
       "id": "openalex-2a2df0665fcc",
@@ -1924,7 +1924,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:51.673678+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.756538+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1956,7 +1956,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:49.936892+00:00"
+      "_retrievedAt": "2026-06-24T04:33:22.486553+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1988,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:49.937887+00:00"
+      "_retrievedAt": "2026-06-24T04:33:22.487537+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2020,7 +2020,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:49.936475+00:00"
+      "_retrievedAt": "2026-06-24T04:33:22.486166+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2052,7 +2052,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:52.501510+00:00"
+      "_retrievedAt": "2026-06-24T04:33:24.369284+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2084,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:49.937659+00:00"
+      "_retrievedAt": "2026-06-24T04:33:22.487324+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -2116,7 +2116,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:49.941448+00:00"
+      "_retrievedAt": "2026-06-24T04:33:22.491180+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2148,7 +2148,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:49.940049+00:00"
+      "_retrievedAt": "2026-06-24T04:33:22.489767+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2180,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:50.352827+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.132849+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2212,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:49.939482+00:00"
+      "_retrievedAt": "2026-06-24T04:33:22.489220+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2244,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:50.353416+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.133442+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -2276,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:50.351789+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.131819+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -2308,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:51.674589+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.757426+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2340,7 +2340,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:49.939192+00:00"
+      "_retrievedAt": "2026-06-24T04:33:22.488909+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2372,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:51.674303+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.757143+00:00"
     },
     {
       "id": "openalex-18e8a6f615a1",
@@ -2404,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:52.505309+00:00"
+      "_retrievedAt": "2026-06-24T04:33:24.373047+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -2436,7 +2436,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:49.938546+00:00"
+      "_retrievedAt": "2026-06-24T04:33:22.488214+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2468,7 +2468,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:49.938925+00:00"
+      "_retrievedAt": "2026-06-24T04:33:22.488631+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -2500,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:50.349982+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.130013+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -2532,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:50.353102+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.133135+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -2564,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:50.350683+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.130734+00:00"
     },
     {
       "id": "openalex-568c4ca27e3e",
@@ -2596,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:51.675627+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.758422+00:00"
     },
     {
       "id": "openalex-59f3240e8b8c",
@@ -2628,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:52.502608+00:00"
+      "_retrievedAt": "2026-06-24T04:33:24.370397+00:00"
     },
     {
       "id": "openalex-4b1dee987f4c",
@@ -2660,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:50.349601+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.129653+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2692,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:52.500787+00:00"
+      "_retrievedAt": "2026-06-24T04:33:24.368549+00:00"
     },
     {
       "id": "openalex-d7f83e5bb105",
@@ -2724,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:51.676022+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.758793+00:00"
     },
     {
       "id": "openalex-21e2af519ee1",
@@ -2756,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:51.677123+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.759835+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2788,7 +2788,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:51.673321+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.756190+00:00"
     },
     {
       "id": "openalex-b2aeaeab5ec0",
@@ -2820,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:52.505015+00:00"
+      "_retrievedAt": "2026-06-24T04:33:24.372762+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2852,7 +2852,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:49.941133+00:00"
+      "_retrievedAt": "2026-06-24T04:33:22.490850+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2884,7 +2884,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:51.672874+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.755809+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -2916,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:52.503524+00:00"
+      "_retrievedAt": "2026-06-24T04:33:24.371313+00:00"
     },
     {
       "id": "openalex-858e3c58ce35",
@@ -2948,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:50.351245+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.131287+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -2980,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:51.673996+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.756834+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -3012,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:52.501856+00:00"
+      "_retrievedAt": "2026-06-24T04:33:24.369620+00:00"
     },
     {
       "id": "openalex-98c4505ba231",
@@ -3044,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:52.503879+00:00"
+      "_retrievedAt": "2026-06-24T04:33:24.371653+00:00"
     },
     {
       "id": "openalex-3455b31b2a62",
@@ -3076,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:52.504627+00:00"
+      "_retrievedAt": "2026-06-24T04:33:24.372405+00:00"
     },
     {
       "id": "openalex-97ddc47d9378",
@@ -3108,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:51.676594+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.759364+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -3140,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:50.350333+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.130386+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -3172,7 +3172,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:50.350970+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.130997+00:00"
+    },
+    {
+      "id": "openalex-e91ff633d7e8",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Biological synergies for heavy metal bioremediation across microbial, algal, and phytoremediation perspectives",
+      "authors": "S. Sathish Kumar, Subhamoy Banerjee, A. R. GHOSH, Chinmoyee Pramanik, Isha Dey, Niladri Choudhury",
+      "abstract": "Heavy metal pollution continues to threaten ecosystem and human health due to the persistence, non-degradability, and toxicity of metals such as Cd, Cr, Pb, Hg, and As. Microbial, fungal, algal, and plant-based bioremediation systems demonstrate high metal removal efficiencies, with biosorption capacities ranging from 70 to 99% for fungi (e.g., Aspergillus, Penicillium), 60–98% for bacteria (e.g., Bacillus, Pseudomonas), 40–95% for algae (Chlorella sp., Oedogonium sp.), and 30–80% for plants depending on species and metal bioavailability. Engineered microbial strains and CRISPR-edited plants exhibit enhanced uptake, with CRISPR knockouts in rice reducing Cd accumulation in grains by up to 70%. In contrast, microbial consortia remove metals more efficiently than single strains, achieving 98–100% remediation at optimized pH (5.5–7.5) and metal concentrations (10–100 mg/L). Despite stron...",
+      "date": "2026-03-02",
+      "year": 2026,
+      "journal": "Discover Green Chemistry",
+      "source": "Discover Green Chemistry",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1007/s44509-026-00003-5",
+      "doi": "10.1007/s44509-026-00003-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s44509-026-00003-5.pdf",
+      "keywords": [
+        "Bioremediation",
+        "Environmental remediation",
+        "Phytoremediation",
+        "Environmental science",
+        "Biosorption",
+        "Chromium effects and bioremediation",
+        "Heavy metals in environment",
+        "Plant Stress Responses and Tolerance"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-24T04:33:23.134120+00:00"
     },
     {
       "id": "openalex-d1e7e2c5f21d",
@@ -3204,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:51.675277+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.758088+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -3236,7 +3268,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:49.940369+00:00"
+      "_retrievedAt": "2026-06-24T04:33:22.490124+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -3268,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:50.348950+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.129294+00:00"
     },
     {
       "id": "openalex-62b5f655ec71",
@@ -3300,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:52.504274+00:00"
+      "_retrievedAt": "2026-06-24T04:33:24.372042+00:00"
     },
     {
       "id": "openalex-125d5d2d7aab",
@@ -3332,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:50.353788+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.133795+00:00"
     },
     {
       "id": "openalex-c763bb388f03",
@@ -3364,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:51.677442+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.760157+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -3396,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:50.351518+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.131562+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -3428,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:52.503298+00:00"
+      "_retrievedAt": "2026-06-24T04:33:24.371082+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -3460,7 +3492,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:52.500053+00:00"
+      "_retrievedAt": "2026-06-24T04:33:24.367864+00:00"
     },
     {
       "id": "openalex-c22612c05697",
@@ -3492,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:50.352532+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.132565+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -3524,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:52.500365+00:00"
+      "_retrievedAt": "2026-06-24T04:33:24.368196+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -3556,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:52.502267+00:00"
+      "_retrievedAt": "2026-06-24T04:33:24.370038+00:00"
     },
     {
       "id": "openalex-9eb31b2e7a82",
@@ -3588,39 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:50.352185+00:00"
-    },
-    {
-      "id": "openalex-a4c624bbe812",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Bacterial defense mechanisms against bacteriophages: an evolutionary arms race",
-      "authors": "Rafwana Ibrahim, Jesil Mathew Aranjani",
-      "abstract": "Bacteria and bacteriophages are in a co-evolutionary arms race, developing intricate bacterial defense mechanisms that enable phage resistance and counterstrategies. Bacteria evolve diverse defense mechanisms to inhibit each stage of the phage infection cycle.Surface-based defenses prevent phage adsorption and infection, including receptor modifications, capsule production, and biofilm formation. Intracellular systems such as restriction-modification (R-M) and abortive infection (Abi) mechanisms degrade phage DNA or sacrifice infected cells to protect the population. Adaptive immunity, particularly through CRISPR-Cas systems, enables bacteria to recognize and neutralize recurring phage attacks. Phages counter these defenses through anti-CRISPR proteins, receptor mimicry, and depolymerization, which degrade capsules and biofilm matrices. These dynamic interactions shape microbial ecosy...",
-      "date": "2026-02-23",
-      "year": 2026,
-      "journal": "Archives of Microbiology",
-      "source": "Archives of Microbiology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s00203-026-04785-x",
-      "doi": "10.1007/s00203-026-04785-x",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s00203-026-04785-x.pdf",
-      "keywords": [
-        "Arms race",
-        "Biology",
-        "Bacteria",
-        "Biofilm",
-        "Phage therapy",
-        "Bacteriophages and microbial interactions",
-        "CRISPR and Genetic Engineering",
-        "Cancer Research and Treatments"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-23T20:20:50.349261+00:00"
+      "_retrievedAt": "2026-06-24T04:33:23.132217+00:00"
     }
   ]
 }
