@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T15:10:11.464715+00:00",
+  "generatedAt": "2026-06-25T20:20:48.761347+00:00",
   "total": 115,
   "sources": [
     "RSS",
@@ -7,124 +7,188 @@
   ],
   "papers": [
     {
-      "id": "rss-0179ae4a1cad",
+      "id": "rss-181a77a06f72",
       "discipline": "clinical",
       "type": "news",
-      "title": "Will GLP-1s lead to fewer prescriptions for older adults?",
+      "title": "Small-molecule antiviral drug targets ACE2 receptor to block coronaviruses from entering cells",
       "authors": "Medical Xpress",
-      "abstract": "As people age, they often develop chronic conditions, many of which need to be managed with multiple prescription medications. While medications are important for disease management, polypharmacy poses an increased risk for harmful side effects and contraindications.",
+      "abstract": "The ongoing evolution of SARS-CoV-2, particularly the rapid emergence of the omicron variant and its sublineages, has weakened the effectiveness of existing vaccines and antiviral drugs, underscoring the potential risk of future coronavirus pandemics. In response, a joint research team from the LKS Faculty of Medicine of the University of Hong Kong (HKUMed) and the School of Pharmaceutical Sciences of Tsinghua University has developed MB-32, a novel broad-spectrum small-molecule antiviral drug candidate.",
       "date": "2026-06-25",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-glp-1s-prescriptions-older-adults.html",
+      "url": "https://medicalxpress.com/news/2026-06-small-molecule-antiviral-drug-ace2.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "medications",
-        "will",
-        "glp-",
-        "lead",
-        "fewer",
-        "prescriptions",
-        "older",
-        "adults"
+        "antiviral",
+        "small-molecule",
+        "drug",
+        "university",
+        "targets",
+        "receptor",
+        "block",
+        "coronaviruses"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.186150+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.371648+00:00"
     },
     {
-      "id": "rss-de06bf8fe317",
+      "id": "rss-d8624076faa2",
       "discipline": "clinical",
       "type": "news",
-      "title": "First use of precision editing to study human embryo development reveals role of master gene",
+      "title": "Significant association identified between hepatitis C, overactive bladder",
       "authors": "Medical Xpress",
-      "abstract": "Research led by the University of Cambridge Loke Center for Trophoblast Research has shown that a genome-editing technique can be used to alter a single gene in human embryonic cells, enabling the study of very early human development in unparalleled detail. The study is published in the journal Nature.",
+      "abstract": "There is a significant association between hepatitis C virus (HCV) and overactive bladder (OAB), according to a study published online May 29 in BMC Urology.",
       "date": "2026-06-25",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-precision-human-embryo-reveals-role.html",
+      "url": "https://medicalxpress.com/news/2026-06-significant-association-hepatitis-overactive-bladder.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "human",
-        "development",
-        "gene",
-        "first",
-        "precision",
-        "editing",
-        "embryo",
-        "reveals"
+        "significant",
+        "association",
+        "hepatitis",
+        "overactive",
+        "bladder",
+        "identified",
+        "there",
+        "virus"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.186464+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.371899+00:00"
     },
     {
-      "id": "rss-fb62150c31c2",
+      "id": "rss-dee0019df73d",
       "discipline": "clinical",
       "type": "news",
-      "title": "Using AI to tackle global superbug crisis",
+      "title": "Smartphone-based self-screening can identify ocular surface malignancies",
       "authors": "Medical Xpress",
-      "abstract": "The development of new antibiotics could be sped up thanks to a new tool that tests the reliability of AI. University of Queensland researchers designed a framework to address the global threat of antimicrobial resistance, testing whether AI can provide reliable reasoning during antibiotic development. Dr. Abdulmujeeb Onawole, from UQ's Center for Superbug Solutions at the Institute for Molecular Bioscience, said drug-resistant bacteria were one of the greatest threats to global health, and there was an urgent need for new antibiotics.",
+      "abstract": "Integration of smartphone-based imaging and artificial intelligence (AI)-driven diagnostics provides an effective strategy for screening for rare ocular malignancies, according to a study published online June 4 in JAMA Ophthalmology.",
       "date": "2026-06-25",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-ai-tackle-global-superbug-crisis.html",
+      "url": "https://medicalxpress.com/news/2026-06-smartphone-based-screening-ocular-surface.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "global",
-        "superbug",
-        "development",
-        "antibiotics",
-        "tackle",
-        "crisis",
-        "could",
-        "sped"
+        "smartphone-based",
+        "ocular",
+        "malignancies",
+        "self-screening",
+        "identify",
+        "surface",
+        "integration",
+        "imaging"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.186760+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.372169+00:00"
     },
     {
-      "id": "rss-1e9345d60b79",
+      "id": "rss-088f06eb6ab4",
       "discipline": "clinical",
       "type": "news",
-      "title": "More can be done to reduce Legionnaires' disease risk in Australia, according to study",
+      "title": "New Tfr cell model uncovers molecular switches that restrain antibody responses",
       "authors": "Medical Xpress",
-      "abstract": "Flinders University researchers have identified opportunities to strengthen Legionella risk management across Australia by introducing uniform best practices across all states and territories.",
+      "abstract": "For the immune system to effectively combat pathogens, antibody responses must be precisely controlled. So-called follicular regulatory T cells (Tfr cells) play a key role in this process by limiting excessive immune responses and helping to maintain immune tolerance. Researchers at the University Hospital Bonn (UKB) and the University of Bonn have now developed a robust laboratory method that allows Tfr cells to be generated from precursor cells and studied in a targeted manner. The results were recently published in the journal Cellular & Molecular Immunology.",
       "date": "2026-06-25",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-legionnaires-disease-australia.html",
+      "url": "https://medicalxpress.com/news/2026-06-tfr-cell-uncovers-molecular-restrain.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "risk",
-        "australia",
-        "across",
-        "more",
-        "done",
-        "reduce",
-        "legionnaires",
+        "cells",
+        "responses",
+        "immune",
+        "molecular",
+        "that",
+        "antibody",
+        "university",
+        "bonn"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-25T20:20:48.372489+00:00"
+    },
+    {
+      "id": "rss-341d2490aeea",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Opposing protein pathways steer skin stem cells toward renewal or repair",
+      "authors": "Medical Xpress",
+      "abstract": "Two proteins with opposing functions orchestrate the development and maintenance of healthy skin, Stanford Medicine researchers have found. Modulating their activity with topical drugs could reduce inflammation, aid wound healing and slow or halt the growth of skin cancer, the researchers believe. The findings are published in the journal Science.",
+      "date": "2026-06-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-opposing-protein-pathways-skin-stem.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "skin",
+        "opposing",
+        "researchers",
+        "protein",
+        "pathways",
+        "steer",
+        "stem",
+        "cells"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-25T20:20:48.372747+00:00"
+    },
+    {
+      "id": "rss-b1b80bbad02f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Negative link seen between illness perception, self-management behavior in inflammatory bowel disease",
+      "authors": "Medical Xpress",
+      "abstract": "For patients with inflammatory bowel disease (IBD), there is a significant negative correlation between illness perception and self-management behavior, according to a study published online June 16 in Scientific Reports.",
+      "date": "2026-06-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-negative-link-illness-perception-behavior.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "negative",
+        "illness",
+        "perception",
+        "self-management",
+        "behavior",
+        "inflammatory",
+        "bowel",
         "disease"
       ],
       "readTime": "1 min",
@@ -132,327 +196,391 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.186988+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.372977+00:00"
     },
     {
-      "id": "rss-52feee87c14e",
+      "id": "rss-b155bb4853c7",
       "discipline": "clinical",
       "type": "news",
-      "title": "Poor metabolic health can age the brain even in young people, finds new large-scale study",
+      "title": "Special protein in the brain's cleansing system may contribute to loss of brain function in Alzheimer's",
       "authors": "Medical Xpress",
-      "abstract": "Two people of very different ages can have a similar level of biological aging in their brains. Such an occurrence is possible because aging and metabolic health follow two distinct pathways that influence brain health. While it is known that the brain changes as we get older, a recent study analyzing more than 3,000 brain scans found that metabolic issues affect the brain through a different biological pathway than aging does.",
+      "abstract": "Alzheimer's disease is a progressive and permanent loss of nerve cells in the brain. The breakdown causes memory loss, functional impairment and personality changes. In a new study published in Nature Aging, researchers found that the age-related reduction in a specific protein may contribute to the loss of brain function in this disease.",
       "date": "2026-06-25",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-poor-metabolic-health-age-brain.html",
+      "url": "https://medicalxpress.com/news/2026-06-special-protein-brain-cleansing-contribute.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "brain",
-        "metabolic",
-        "health",
-        "aging",
-        "that",
-        "people",
-        "different",
-        "biological"
+        "loss",
+        "protein",
+        "contribute",
+        "function",
+        "alzheimer",
+        "disease",
+        "special"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.187302+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.373309+00:00"
     },
     {
-      "id": "rss-ebefc3bc7a0b",
+      "id": "rss-cdb1c08cb575",
       "discipline": "clinical",
       "type": "news",
-      "title": "Radioligand therapy for HER2-positive cancers enters human trials for the first time",
+      "title": "Armed conflict is linked to increased measles cases globally",
       "authors": "Medical Xpress",
-      "abstract": "The McGill University Health Centre (MUHC) is the first site in the world to launch a first-in-human phase 1 clinical trial evaluating a novel radioligand therapy for HER2-positive cancers, including certain types of breast cancer.",
+      "abstract": "Countries experiencing armed conflict tend to report more measles cases, and the elevated risk persists even a year after the fighting, according to new research published in PLOS Medicine. The study links armed conflict to measles in two ways: directly, by disrupting immunization programs, and—more powerfully—indirectly, by eroding a country's economic, educational and health foundations that protect populations from preventable disease.",
       "date": "2026-06-25",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-radioligand-therapy-her2-positive-cancers.html",
+      "url": "https://medicalxpress.com/news/2026-06-armed-conflict-linked-measles-cases.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "radioligand",
-        "therapy",
-        "positive",
-        "cancers",
-        "first",
-        "enters",
-        "human",
-        "trials"
+        "armed",
+        "conflict",
+        "measles",
+        "cases",
+        "more",
+        "linked",
+        "increased",
+        "globally"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.187549+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.373614+00:00"
     },
     {
-      "id": "rss-9ef86feb1cd2",
+      "id": "rss-7f39b0c3bcae",
       "discipline": "clinical",
       "type": "news",
-      "title": "Video of tiny vessels in the eye assessed by AI may replace needle sticks for anemia screening",
+      "title": "GLP-1 weight-loss boom linked to surge in poison control calls",
       "authors": "Medical Xpress",
-      "abstract": "A new collaborative study by Tel Aviv University and Sheba Medical Center marks a significant advance toward noninvasive blood testing, one of the most significant unmet needs in the market. The researchers have developed an artificial intelligence–based system capable of assessing hemoglobin levels and red blood cell counts using a short video recording of the blood vessels in the eye's conjunctiva, the transparent membrane covering the white part of the eye, without the need for a needle prick or blood draw.",
+      "abstract": "As the use of GLP-1 medications for weight loss surges, so do calls to U.S. poison control centers, according to a new study.",
       "date": "2026-06-25",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-video-tiny-vessels-eye-ai.html",
+      "url": "https://medicalxpress.com/news/2026-06-glp-weight-loss-boom-linked.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "blood",
-        "video",
-        "vessels",
-        "needle",
-        "significant",
-        "tiny",
-        "assessed",
-        "replace"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.187878+00:00"
-    },
-    {
-      "id": "rss-78dc9ab3eece",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New COPD injection targets proteins in body to reduce inflammation",
-      "authors": "Medical Xpress",
-      "abstract": "For the first time, patients have received a new injection for chronic obstructive pulmonary disease (COPD), thanks to research by King's College London.",
-      "date": "2026-06-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-copd-proteins-body-inflammation.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "copd",
-        "injection",
-        "targets",
-        "proteins",
-        "body",
-        "reduce",
-        "inflammation",
-        "first"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.188100+00:00"
-    },
-    {
-      "id": "rss-72a6f6717487",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Vulnerable ALS neurons reveal molecular warning signs before cell death begins",
-      "authors": "Medical Xpress",
-      "abstract": "A new study from the Knight Initiative for Brain Resilience researchers may help explain an enduring mystery about amyotrophic lateral sclerosis (ALS): why the disease kills off some of the brain and spinal cord's movement-controlling neurons while others show greater resilience.",
-      "date": "2026-06-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-vulnerable-als-neurons-reveal-molecular.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "neurons",
-        "brain",
-        "resilience",
-        "vulnerable",
-        "reveal",
-        "molecular",
-        "warning",
-        "signs"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.188375+00:00"
-    },
-    {
-      "id": "rss-40bc0eb657ac",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Targeting cannabinoid receptors in bladder sensory pathways may alleviate pain of cystitis",
-      "authors": "Medical Xpress",
-      "abstract": "The burning pain associated with cystitis affects millions of people around the world, and it can take days or even years for some patients to find relief from bladder pain, infection-related symptoms and the constant need to urinate. A new study led by Flinders University published in Autonomic Neuroscience, has shown how certain pain receptors in the bladder could be targeted to reduce the debilitating effects of this common condition.",
-      "date": "2026-06-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-cannabinoid-receptors-bladder-sensory-pathways.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "pain",
-        "bladder",
-        "receptors",
-        "cystitis",
-        "targeting",
-        "cannabinoid",
-        "sensory",
-        "pathways"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.188658+00:00"
-    },
-    {
-      "id": "rss-00427862c2a2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Unfolding stomach capsule could target ulcer-causing bacteria for 48 hours",
-      "authors": "Medical Xpress",
-      "abstract": "Between 50% and 100% of people in countries with poor access to clean water are infected with a bacterium called Helicobacter pylori. This bacterium is a leading cause of stomach ulcers, and it can even cause gastric cancer.",
-      "date": "2026-06-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-unfolding-stomach-capsule-ulcer-bacteria.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "stomach",
-        "bacterium",
-        "cause",
-        "unfolding",
-        "capsule",
-        "could",
-        "target",
-        "ulcer-causing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.188893+00:00"
-    },
-    {
-      "id": "rss-19e94f8be2ba",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Long-term hepatitis control efforts dramatically reduce HBV and HCV burden in Japan",
-      "authors": "Medical Xpress",
-      "abstract": "Hepatitis B (HBV) and hepatitis C (HCV) are viral infections that can lead to health conditions such as cirrhosis, cancer and death if unmanaged. HBV can be transmitted through sexual contact, blood exposure and mother-to-child transmission, while HCV is primarily transmitted through blood-to-blood contact.",
-      "date": "2026-06-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-term-hepatitis-efforts-hbv-hcv.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hepatitis",
-        "transmitted",
-        "contact",
-        "long-term",
+        "glp-",
+        "poison",
         "control",
-        "efforts",
-        "dramatically",
-        "reduce"
+        "calls",
+        "weight-loss",
+        "boom",
+        "linked",
+        "surge"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.189141+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.373832+00:00"
     },
     {
-      "id": "rss-f9fe8efecb43",
+      "id": "rss-950305b60c2a",
       "discipline": "clinical",
       "type": "news",
-      "title": "Eliminating cancer cells that survive KRAS inhibition: A potential way to prevent relapse",
+      "title": "Iron accumulation in the brain may contribute to neurodegeneration",
       "authors": "Medical Xpress",
-      "abstract": "Our cells rely on tightly regulated signaling pathways to control when they grow, divide and survive. When these regulatory systems are disrupted, cells can acquire the ability to grow uncontrollably and become cancerous. One of the most important cancer-related signaling molecules is the Kirsten rat sarcoma viral oncogene homologue (KRAS), which functions like an on/off switch for cell growth.",
+      "abstract": "Neurodegenerative diseases affect tens of millions of people worldwide. Among these, Alzheimer's and Parkinson's diseases are the most common; in the United States alone, the Alzheimer's Disease Association and Parkinson's Foundation report roughly 7 million people with Alzheimer's and another million with Parkinson's. An intriguing clue lies in the tangled mystery of neurodegeneration that scientists are working to solve: iron accumulation.",
       "date": "2026-06-25",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-cancer-cells-survive-kras-inhibition.html",
+      "url": "https://medicalxpress.com/news/2026-06-iron-accumulation-brain-contribute-neurodegeneration.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cells",
-        "survive",
-        "kras",
-        "signaling",
-        "when",
-        "grow",
-        "eliminating",
-        "cancer"
+        "alzheimer",
+        "parkinson",
+        "iron",
+        "accumulation",
+        "neurodegeneration",
+        "diseases",
+        "people",
+        "million"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.189433+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.374126+00:00"
     },
     {
-      "id": "rss-bc1e71e832e6",
+      "id": "rss-e58e6a96a8e9",
       "discipline": "clinical",
       "type": "news",
-      "title": "Remaking the past: How memory works",
+      "title": "Healthy gut microbes in 6-week-old infants linked to lower risk of malaria during first year of life",
       "authors": "Medical Xpress",
-      "abstract": "Imagine you're 6 years old and in the back seat of your parents' car on a road trip. Your mum decides to stop for breakfast food at lunchtime and pulls into a quiet roadhouse where other travelers eat apple pie and drink cola with a scoop of vanilla ice cream on top.",
+      "abstract": "In a small study in the Democratic Republic of Congo, 6-week-old infants with healthy gut microbiomes were less likely to contract malaria in their first year of life. While the study is preliminary, it suggests the possibility that treatments such as probiotics could protect against malaria, which kills more than 600,000 people a year, primarily children in sub-Saharan Africa. Potential clinical applications would require more research, however.",
       "date": "2026-06-25",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-remaking-memory.html",
+      "url": "https://medicalxpress.com/news/2026-06-healthy-gut-microbes-week-infants.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "malaria",
+        "year",
+        "healthy",
+        "week-old",
+        "infants",
+        "first",
+        "life",
+        "more"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-25T20:20:48.374417+00:00"
+    },
+    {
+      "id": "rss-eeb4a24b6001",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "What happens to your blood when you're stressed? We put it to the test",
+      "authors": "Medical Xpress",
+      "abstract": "We have all heard it: \"It's just in your head.\"",
+      "date": "2026-06-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-blood-youre-stressed.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "your",
-        "remaking",
-        "past",
-        "memory",
-        "works",
-        "imagine",
-        "years",
-        "back"
+        "what",
+        "happens",
+        "blood",
+        "when",
+        "stressed",
+        "test",
+        "have"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.189672+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.374620+00:00"
+    },
+    {
+      "id": "rss-558e302e8036",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Why ibuprofen is better than paracetamol for period pain",
+      "authors": "Medical Xpress",
+      "abstract": "For something that affects millions every month, period pain remains surprisingly poorly treated.",
+      "date": "2026-06-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-ibuprofen-paracetamol-period-pain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "period",
+        "pain",
+        "ibuprofen",
+        "better",
+        "than",
+        "paracetamol",
+        "something",
+        "that"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-25T20:20:48.374826+00:00"
+    },
+    {
+      "id": "rss-f63930590b38",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New oral heart failure drug appears to be safe and well tolerated in 58-patient early clinical trial",
+      "authors": "Medical Xpress",
+      "abstract": "An early clinical study shows that a new oral drug is safe and well tolerated in patients with chronic heart failure. The study, led by researchers at Karolinska Institutet, has been published in The Lancet.",
+      "date": "2026-06-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-oral-heart-failure-drug-safe.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "oral",
+        "heart",
+        "failure",
+        "drug",
+        "safe",
+        "well",
+        "tolerated",
+        "early"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-25T20:20:48.375059+00:00"
+    },
+    {
+      "id": "rss-46c70a0b2afa",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "authors": "TechCrunch AI",
+      "abstract": "Agent testing startup Patronus AI, founded by former Meta AI researchers, is experienced nearly insatiable demand, its investor says.",
+      "date": "2026-06-25",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "patronus",
+        "lands",
+        "build",
+        "digital",
+        "worlds",
+        "that",
+        "stress-test",
+        "agents"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-25T20:20:48.426956+00:00"
+    },
+    {
+      "id": "rss-6d889cc98f86",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "authors": "TechCrunch AI",
+      "abstract": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+      "date": "2026-06-25",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "anthropic",
+        "claude",
+        "consumers",
+        "market",
+        "chatgpt",
+        "winning",
+        "over",
+        "paid"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-25T20:20:48.427253+00:00"
+    },
+    {
+      "id": "rss-3503848a816c",
+      "discipline": "cs",
+      "type": "news",
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "authors": "TechCrunch AI",
+      "abstract": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+      "date": "2026-06-25",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "intuition",
+        "general",
+        "that",
+        "video",
+        "games",
+        "train",
+        "agents",
+        "real"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-25T20:20:48.427452+00:00"
+    },
+    {
+      "id": "rss-26b7594046d9",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "authors": "TechCrunch AI",
+      "abstract": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+      "date": "2026-06-25",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "databricks",
+        "former",
+        "chief",
+        "thinks",
+        "power",
+        "bill",
+        "image-generation",
+        "system"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-25T20:20:48.427625+00:00"
     },
     {
       "id": "rss-4403bf25ee4d",
@@ -484,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.207371+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.427794+00:00"
     },
     {
       "id": "rss-9af918188299",
@@ -492,7 +620,7 @@
       "type": "news",
       "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
       "authors": "TechCrunch AI",
-      "abstract": "2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register here.",
+      "abstract": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
       "date": "2026-06-25",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -516,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.207605+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.427966+00:00"
     },
     {
       "id": "rss-2ca23f726c64",
@@ -548,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.207762+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.428133+00:00"
     },
     {
       "id": "rss-9d833549f978",
@@ -580,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.207935+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.428301+00:00"
     },
     {
       "id": "rss-c94a7930a6c5",
@@ -612,7 +740,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.208130+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.428488+00:00"
+    },
+    {
+      "id": "rss-a8a59a71fab6",
+      "discipline": "cs",
+      "type": "news",
+      "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
+      "authors": "MIT News AI",
+      "abstract": "“Scientific American” showcases the history and future of America’s scientific engine, highlighting promising young scientists and icons at MIT and beyond.",
+      "date": "2026-06-25",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "america",
+        "scientific",
+        "media",
+        "exploring",
+        "curiosity-driven",
+        "essential",
+        "ingredient",
+        "success"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-25T20:20:48.461059+00:00"
     },
     {
       "id": "rss-0e554b469f1c",
@@ -644,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.247297+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.461292+00:00"
     },
     {
       "id": "rss-07ce27408a7b",
@@ -676,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.208344+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.428654+00:00"
     },
     {
       "id": "rss-a286701ab871",
@@ -708,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.208514+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.428813+00:00"
     },
     {
       "id": "rss-44fbbd022974",
@@ -740,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.208689+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.428984+00:00"
     },
     {
       "id": "rss-59c87460fc5c",
@@ -772,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.208848+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.429166+00:00"
     },
     {
       "id": "rss-b740c94865da",
@@ -804,135 +964,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.209013+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.429334+00:00"
     },
     {
-      "id": "rss-25b0cf4a472a",
-      "discipline": "cs",
+      "id": "rss-c83a6084c17d",
+      "discipline": "geo",
       "type": "news",
-      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-      "authors": "TechCrunch AI",
-      "abstract": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+      "title": "Ribbon cutting event for new NOAA facility in North Charleston, South Carolina",
+      "authors": "NOAA News",
+      "abstract": "Ribbon cutting event for new NOAA facility in North Charleston, South Carolina June 25, 2026 Charleston’s waterfront now has a new, state-of-the-art floating pier . The new pier and facility will provide essential support to NOAA Ship Nancy Foster, NOAA Ship Ronald H. Brown, and NOAA Corps officers and civilian mariners who rely on safe, resilient waterfront infrastructure to execute scientific and operational missions. (Image credit: Alan Blackwell/NOAA) Download Image NOAA Marine and Aviation Operations will hold a ribbon cutting ceremony to celebrate the opening of a new pier facility following renovations at the agency’s location in North Charleston, South Carolina. The renovations included demolishing and building a new pier with shoreside power for ships, as well as a warehouse, sea wall and living shoreline, and other supporting infrastructure. Reconstruction of the pier and ot...",
       "date": "2026-06-24",
       "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
+      "journal": "NOAA News",
+      "source": "NOAA News",
       "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "url": "https://www.noaa.gov/media-advisory/ribbon-cutting-event-for-new-noaa-facility-in-north-charleston-south-carolina",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "companies",
-        "scrambling",
-        "stop",
-        "employees",
-        "maxing",
-        "budgets",
-        "small",
-        "tasks"
+        "noaa",
+        "pier",
+        "facility",
+        "charleston",
+        "ribbon",
+        "cutting",
+        "north",
+        "south"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.209166+00:00"
-    },
-    {
-      "id": "rss-fbf5f8ef3d75",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Facebook rolls out an AI companion app for creators",
-      "authors": "TechCrunch AI",
-      "abstract": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
-      "date": "2026-06-24",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "facebook",
-        "creators",
-        "rolls",
-        "companion",
-        "which",
-        "currently",
-        "being",
-        "tested"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.209349+00:00"
-    },
-    {
-      "id": "rss-b8681229d1ea",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-      "authors": "TechCrunch AI",
-      "abstract": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
-      "date": "2026-06-24",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "robotics",
-        "agility",
-        "plans",
-        "public",
-        "spac",
-        "deal",
-        "humanoid",
-        "startup"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.209506+00:00"
-    },
-    {
-      "id": "rss-8e1a7dcda670",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Figma adds code layers, support for animations, more AI features in new update",
-      "authors": "TechCrunch AI",
-      "abstract": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
-      "date": "2026-06-24",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "figma",
-        "adds",
-        "code",
-        "support",
-        "update",
-        "layers",
-        "animations",
-        "more"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.209664+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.625379+00:00"
     },
     {
       "id": "rss-0439785447ef",
@@ -964,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.340533+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.626008+00:00"
     },
     {
       "id": "openalex-239a44a48c00",
@@ -996,7 +1060,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.593747+00:00"
+      "_retrievedAt": "2026-06-25T20:20:44.284402+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1028,7 +1092,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.174874+00:00"
+      "_retrievedAt": "2026-06-25T20:20:42.814210+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1060,7 +1124,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.175981+00:00"
+      "_retrievedAt": "2026-06-25T20:20:42.815320+00:00"
     },
     {
       "id": "rss-6e64d9a2858e",
@@ -1092,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.247480+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.461463+00:00"
     },
     {
       "id": "rss-5d40314c8fc4",
@@ -1124,7 +1188,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.247646+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.461625+00:00"
+    },
+    {
+      "id": "rss-93a5db061a72",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Moderate harmful algal bloom predicted for western Lake Erie",
+      "authors": "NOAA News",
+      "abstract": "Moderate harmful algal bloom predicted for western Lake Erie Visible blooms could impact coastal recreation by mid-July June 25, 2026 An aerial photo of the green waters of harmful algal bloom in western Lake Erie, July 20, 2020. (Image credit: Courtesy of Zachary Haslick, Aerial Associates) NOAA and its research partners are forecasting a moderate harmful algal bloom (HAB) in western Lake Erie this summer. This year’s bloom is expected to measure 3.5 on the HAB severity index, with a potential range of 3 to 4.5. “Toxic algae affect not only the health of people and Great Lakes ecosystems, but they can negatively impact local and regional economies by preventing people from fishing, swimming, boating and visiting the shoreline,” said Nicole LeBoeuf, assistant administrator for NOAA’s National Ocean Service. “NOAA’s Lake Erie harmful algal bloom forecast is designed to provide timely,...",
+      "date": "2026-06-22",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/moderate-harmful-algal-bloom-predicted-for-western-lake-erie",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "bloom",
+        "harmful",
+        "algal",
+        "lake",
+        "erie",
+        "western",
+        "moderate",
+        "noaa"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-25T20:20:48.626625+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1156,7 +1252,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.119979+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.650176+00:00"
     },
     {
       "id": "rss-aa16e55100c4",
@@ -1188,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.247805+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.461785+00:00"
     },
     {
       "id": "rss-178fcef6b56d",
@@ -1220,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.247979+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.461955+00:00"
     },
     {
       "id": "rss-607184e56a4c",
@@ -1252,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.248131+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.462137+00:00"
     },
     {
       "id": "rss-1842992c471c",
@@ -1284,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.248340+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.462301+00:00"
     },
     {
       "id": "rss-701cdec7906c",
@@ -1316,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.248518+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.462472+00:00"
     },
     {
       "id": "rss-5cf5c5f90af9",
@@ -1348,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.341077+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.627156+00:00"
     },
     {
       "id": "rss-9babfa4d92c2",
@@ -1380,15 +1476,15 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.341358+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.627410+00:00"
     },
     {
-      "id": "rss-8751cfb8b032",
+      "id": "rss-9da09de8e550",
       "discipline": "geo",
       "type": "news",
-      "title": "How El Niño Could Affect West Coast Marine Species",
+      "title": "7 ways El Niño could affect West Coast marine species",
       "authors": "NOAA News",
-      "abstract": "How El Niño Could Affect West Coast Marine Species (Image credit: California Department of Fish and Wildlife.) Download Image June 15, 2026 Fisheries climate fisheries marine life 0 Off",
+      "abstract": "7 ways El Niño could affect West Coast marine species (Image credit: California Department of Fish and Wildlife.) Download Image June 15, 2026 Fisheries climate fisheries marine life 0 Off",
       "date": "2026-06-15",
       "year": 2026,
       "journal": "NOAA News",
@@ -1399,20 +1495,20 @@
       "pdfUrl": "",
       "keywords": [
         "marine",
+        "ways",
         "could",
         "affect",
         "west",
         "coast",
         "species",
-        "image",
-        "fisheries"
+        "image"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.341566+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.627612+00:00"
     },
     {
       "id": "rss-1bc2925a9388",
@@ -1444,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.248683+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.462636+00:00"
     },
     {
       "id": "rss-f936ae05ec86",
@@ -1476,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.248850+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.462801+00:00"
     },
     {
       "id": "rss-0ea3dcd99424",
@@ -1508,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.249006+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.462956+00:00"
     },
     {
       "id": "rss-3c2f3866802b",
@@ -1540,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.342089+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.628171+00:00"
     },
     {
       "id": "rss-8cb2f4a1e892",
@@ -1572,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.249196+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.463146+00:00"
     },
     {
       "id": "rss-f27c800555f2",
@@ -1604,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.249356+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.463306+00:00"
     },
     {
       "id": "rss-130a779b2400",
@@ -1636,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.342357+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.628424+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1668,7 +1764,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.174527+00:00"
+      "_retrievedAt": "2026-06-25T20:20:42.813841+00:00"
     },
     {
       "id": "rss-2dfddbb1e70d",
@@ -1700,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.342913+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.628979+00:00"
     },
     {
       "id": "rss-1aa9f8004d35",
@@ -1732,39 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.343578+00:00"
-    },
-    {
-      "id": "rss-c0f99ae68619",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Celebrate National Fishing & Boating Week",
-      "authors": "NOAA News",
-      "abstract": "Celebrate National Fishing & Boating Week (Image credit: NOAA Fisheries) Download Image June 8, 2026 Fisheries commercial fishing boating safety recreational fishing 0 Off",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/national-fishing-boating-week-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "fishing",
-        "boating",
-        "celebrate",
-        "national",
-        "week",
-        "image",
-        "fisheries",
-        "credit"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.343781+00:00"
+      "_retrievedAt": "2026-06-25T20:20:48.629611+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -1796,7 +1860,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.124658+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.654738+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1828,71 +1892,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.173095+00:00"
-    },
-    {
-      "id": "rss-2154e7a8aa14",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The crucial human component in computing and AI",
-      "authors": "MIT News AI",
-      "abstract": "The MIT Ethics of Computing Research Symposium brought together experts and researchers working at the heart of ethical and social impact in technology.",
-      "date": "2026-06-05",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "computing",
-        "crucial",
-        "human",
-        "component",
-        "ethics",
-        "symposium",
-        "brought",
-        "together"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.249509+00:00"
-    },
-    {
-      "id": "rss-943471709773",
-      "discipline": "geo",
-      "type": "news",
-      "title": "A Year in the Life of a Whale Shark",
-      "authors": "NOAA News",
-      "abstract": "A Year in the Life of a Whale Shark Physician Dr. Larry Spetka swims with his namesake, Larry the whale shark, in the Gulf in May 2025. Credit: BWRI/Jamison Smith (Image credit: Blue World Research Group/Jamison Smith) Download Image June 5, 2026 Fisheries Shark Week 0 Off",
-      "date": "2026-06-05",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/tracking-whale-sharks-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "shark",
-        "whale",
-        "year",
-        "life",
-        "larry",
-        "credit",
-        "jamison",
-        "smith"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:11.343999+00:00"
+      "_retrievedAt": "2026-06-25T20:20:42.812460+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1924,7 +1924,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.597479+00:00"
+      "_retrievedAt": "2026-06-25T20:20:44.287991+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -1956,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.176636+00:00"
+      "_retrievedAt": "2026-06-25T20:20:42.815952+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -1988,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.177743+00:00"
+      "_retrievedAt": "2026-06-25T20:20:42.817065+00:00"
     },
     {
       "id": "openalex-2a2df0665fcc",
@@ -2020,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.121096+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.651303+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2052,7 +2052,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.172770+00:00"
+      "_retrievedAt": "2026-06-25T20:20:42.812123+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2084,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.173805+00:00"
+      "_retrievedAt": "2026-06-25T20:20:42.813137+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2116,7 +2116,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.172388+00:00"
+      "_retrievedAt": "2026-06-25T20:20:42.811698+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2148,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.595869+00:00"
+      "_retrievedAt": "2026-06-25T20:20:44.286443+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2180,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.173581+00:00"
+      "_retrievedAt": "2026-06-25T20:20:42.812894+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2212,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.176891+00:00"
+      "_retrievedAt": "2026-06-25T20:20:42.816250+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2244,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.705956+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.211563+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2276,7 +2276,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.176310+00:00"
+      "_retrievedAt": "2026-06-25T20:20:42.815638+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2308,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.706600+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.212228+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -2340,7 +2340,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.704983+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.210604+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -2372,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.122051+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.652255+00:00"
     },
     {
       "id": "openalex-7ecbe579840c",
@@ -2404,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.599644+00:00"
+      "_retrievedAt": "2026-06-25T20:20:44.290146+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2436,7 +2436,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.175155+00:00"
+      "_retrievedAt": "2026-06-25T20:20:42.814495+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2468,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.121749+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.651934+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -2500,7 +2500,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.174105+00:00"
+      "_retrievedAt": "2026-06-25T20:20:42.813444+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2532,7 +2532,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.175568+00:00"
+      "_retrievedAt": "2026-06-25T20:20:42.814881+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -2564,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.705300+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.210897+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -2596,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.702698+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.208309+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -2628,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.706272+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.211851+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -2660,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.703824+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.209442+00:00"
     },
     {
       "id": "openalex-568c4ca27e3e",
@@ -2692,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.123547+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.653659+00:00"
     },
     {
       "id": "openalex-5ea2e0ac50cc",
@@ -2724,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.124325+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.654415+00:00"
     },
     {
       "id": "openalex-59f3240e8b8c",
@@ -2756,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.597050+00:00"
+      "_retrievedAt": "2026-06-25T20:20:44.287604+00:00"
     },
     {
       "id": "openalex-4b1dee987f4c",
@@ -2788,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.702320+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.207886+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2820,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.595101+00:00"
+      "_retrievedAt": "2026-06-25T20:20:44.285731+00:00"
     },
     {
       "id": "openalex-d7f83e5bb105",
@@ -2852,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.123946+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.654050+00:00"
     },
     {
       "id": "openalex-21e2af519ee1",
@@ -2884,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.125462+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.655589+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2916,7 +2916,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.120741+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.650897+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2948,7 +2948,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.594021+00:00"
+      "_retrievedAt": "2026-06-25T20:20:44.284666+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2980,7 +2980,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.120361+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.650520+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -3012,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.598033+00:00"
+      "_retrievedAt": "2026-06-25T20:20:44.288559+00:00"
     },
     {
       "id": "openalex-858e3c58ce35",
@@ -3044,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.704417+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.210007+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -3076,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.121431+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.651620+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -3108,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.596240+00:00"
+      "_retrievedAt": "2026-06-25T20:20:44.286785+00:00"
     },
     {
       "id": "openalex-98c4505ba231",
@@ -3140,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.598416+00:00"
+      "_retrievedAt": "2026-06-25T20:20:44.288912+00:00"
     },
     {
       "id": "openalex-3455b31b2a62",
@@ -3172,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.598779+00:00"
+      "_retrievedAt": "2026-06-25T20:20:44.289292+00:00"
     },
     {
       "id": "openalex-97ddc47d9378",
@@ -3204,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.124939+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.655015+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -3236,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.703059+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.208676+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -3268,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.704107+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.209721+00:00"
     },
     {
       "id": "openalex-e91ff633d7e8",
@@ -3300,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.706923+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.212570+00:00"
     },
     {
       "id": "openalex-d1e7e2c5f21d",
@@ -3332,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.122749+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.652926+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -3364,7 +3364,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.177261+00:00"
+      "_retrievedAt": "2026-06-25T20:20:42.816585+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -3396,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.701926+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.207525+00:00"
     },
     {
       "id": "openalex-62b5f655ec71",
@@ -3428,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.599235+00:00"
+      "_retrievedAt": "2026-06-25T20:20:44.289731+00:00"
     },
     {
       "id": "openalex-125d5d2d7aab",
@@ -3460,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.703458+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.209048+00:00"
     },
     {
       "id": "openalex-c763bb388f03",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.122399+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.652578+00:00"
     },
     {
       "id": "openalex-09a5c56d0013",
@@ -3524,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.704707+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.210327+00:00"
     },
     {
       "id": "openalex-cbd8d34f9d26",
@@ -3556,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.597790+00:00"
+      "_retrievedAt": "2026-06-25T20:20:44.288317+00:00"
     },
     {
       "id": "openalex-d843cf87aa0e",
@@ -3588,7 +3588,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.594412+00:00"
+      "_retrievedAt": "2026-06-25T20:20:44.285012+00:00"
     },
     {
       "id": "openalex-c22612c05697",
@@ -3620,7 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:06.705665+00:00"
+      "_retrievedAt": "2026-06-25T20:20:43.211269+00:00"
     },
     {
       "id": "openalex-f9ecb4df886d",
@@ -3652,7 +3652,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.594742+00:00"
+      "_retrievedAt": "2026-06-25T20:20:44.285386+00:00"
     },
     {
       "id": "openalex-0c18cbd7928b",
@@ -3684,7 +3684,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-25T15:10:07.596685+00:00"
+      "_retrievedAt": "2026-06-25T20:20:44.287241+00:00"
     }
   ]
 }
