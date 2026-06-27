@@ -1,11 +1,171 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-06-27T14:04:46.005293+00:00",
-  "total": 105,
+  "generatedAt": "2026-06-27T19:42:55.388826+00:00",
+  "total": 115,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-bc796d81882e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Scratching that bug bite might feel good at first but science explains why it's a bad idea",
+      "authors": "Medical Xpress",
+      "abstract": "You've likely heard it since childhood: Don't scratch that bug bite or rash, you'll make it worse. But why would something that feels so good be bad?",
+      "date": "2026-06-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-bug-good-science-bad-idea.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "that",
+        "bite",
+        "good",
+        "scratching",
+        "might",
+        "feel",
+        "first",
+        "explains"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T19:42:54.534346+00:00"
+    },
+    {
+      "id": "rss-92a36c0477ef",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Researchers develop HIV-prevention guide without the stigma of asking about risk",
+      "authors": "Medical Xpress",
+      "abstract": "The most useful thing about a new HIV prevention guide may be a question it never asks: Why do you want to know about pre-exposure prophylaxis, or PrEP? In a pilot study at three clinics, a two-page decision aid helped people choose between a daily pill, long used to prevent HIV, and a newer injectable treatment given every two months, without requiring them to disclose details of their sex lives or explain why they wanted protection.",
+      "date": "2026-06-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-hiv-stigma.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "about",
+        "guide",
+        "without",
+        "researchers",
+        "develop",
+        "hiv-prevention",
+        "stigma",
+        "asking"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T19:42:54.534668+00:00"
+    },
+    {
+      "id": "rss-e8c6f37656f7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Heat waves can leave homes dangerously hot, even for young, healthy adults",
+      "authors": "Medical Xpress",
+      "abstract": "Most people know that heat waves can be dangerous. What they may not realize is that the heat indoors can be much worse than outdoors.",
+      "date": "2026-06-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-homes-dangerously-hot-young-healthy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "heat",
+        "waves",
+        "that",
+        "leave",
+        "homes",
+        "dangerously",
+        "even",
+        "young"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T19:42:54.534904+00:00"
+    },
+    {
+      "id": "rss-ac9ba1af09c3",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Large MRI analysis uncovers brain-region thinning tied to depression",
+      "authors": "Medical Xpress",
+      "abstract": "Major depressive disorder (MDD) is a psychiatric condition characterized by persistent feelings of sadness, a loss of interest in everyday activities, altered sleeping and/or eating patterns, low energy, and difficulty concentrating on tasks. While it is one of the most widespread mental health disorders worldwide, its unique neural and brain-related signatures have not yet been fully uncovered.",
+      "date": "2026-06-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-large-mri-analysis-uncovers-brain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "large",
+        "uncovers",
+        "brain-region",
+        "thinning",
+        "tied",
+        "depression",
+        "major",
+        "depressive"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T19:42:54.535163+00:00"
+    },
+    {
+      "id": "rss-bf20f06368ac",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "What helps women eat well? Control over money, time and decisions matters",
+      "authors": "Medical Xpress",
+      "abstract": "Worldwide, women carry the greatest burden of malnutrition. More than two-thirds of women of childbearing age don't get enough of at least one micronutrient. These are the vitamins and minerals, such as iron, that the body needs in small amounts to stay healthy. A shortage is often called \"hidden hunger\" because a woman can eat enough to feel full yet still not get enough essential nutrients.",
+      "date": "2026-06-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-women-money-decisions.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "women",
+        "enough",
+        "what",
+        "helps",
+        "well",
+        "control",
+        "over",
+        "money"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T19:42:54.535474+00:00"
+    },
     {
       "id": "rss-95008ab2fc20",
       "discipline": "clinical",
@@ -36,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.795300+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.535739+00:00"
     },
     {
       "id": "rss-b911ad38177a",
@@ -68,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.795581+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.535963+00:00"
     },
     {
       "id": "rss-0520e171e73a",
@@ -100,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.795839+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.536198+00:00"
     },
     {
       "id": "rss-7238c9cd4b22",
@@ -132,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.796066+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.536443+00:00"
     },
     {
       "id": "rss-560c9e541b9f",
@@ -164,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.796291+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.536663+00:00"
     },
     {
       "id": "rss-395ce4387a8b",
@@ -196,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.796548+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.536875+00:00"
     },
     {
       "id": "rss-1f8c0925b0a4",
@@ -228,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.796891+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.537192+00:00"
     },
     {
       "id": "rss-a0c3bc99ed6a",
@@ -260,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.797135+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.537451+00:00"
     },
     {
       "id": "rss-2027f59cd46d",
@@ -292,167 +452,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.797401+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.537681+00:00"
     },
     {
-      "id": "rss-51502cd03ec1",
-      "discipline": "clinical",
+      "id": "rss-2e4ccd99b40a",
+      "discipline": "cs",
       "type": "news",
-      "title": "AI-guided microneedles bend at body temperature to speed diabetic wound healing",
-      "authors": "Medical Xpress",
-      "abstract": "Chronic wounds remain a major health care challenge, especially for people with diabetes, who often experience delayed healing, persistent inflammation and a higher risk of infection. Traditional wound-closure methods such as sutures, staples and adhesives can help bring wound edges together, but they do not actively respond to the body's healing process.",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "authors": "TechCrunch AI",
+      "abstract": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
       "date": "2026-06-27",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-ai-microneedles-body-temperature-diabetic.html",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "healing",
-        "body",
-        "wound",
-        "ai-guided",
-        "microneedles",
-        "bend",
-        "temperature",
-        "speed"
+        "apple",
+        "vision",
+        "reportedly",
+        "leaving",
+        "openai",
+        "exec",
+        "paul",
+        "meade"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.797663+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.601706+00:00"
     },
     {
-      "id": "rss-a711bc0acc93",
-      "discipline": "clinical",
+      "id": "rss-5b8c3c0cb32c",
+      "discipline": "cs",
       "type": "news",
-      "title": "EU hits France's Sanofi with flu vaccine antitrust probe",
-      "authors": "Medical Xpress",
-      "abstract": "The European Commission announced Friday that it was opening an antitrust probe into French pharmaceutical group Sanofi on suspicion it breached the bloc's competition rules in promoting a flu vaccine.",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "authors": "TechCrunch AI",
+      "abstract": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
       "date": "2026-06-27",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-eu-france-sanofi-flu-vaccine.html",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "sanofi",
-        "vaccine",
-        "antitrust",
-        "probe",
-        "hits",
-        "france",
-        "european",
-        "commission"
+        "cancer",
+        "tied",
+        "fittest",
+        "founder",
+        "room",
+        "here",
+        "used",
+        "fight"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.797888+00:00"
-    },
-    {
-      "id": "rss-705d29aea547",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Age, hearing status linked to long-term outcomes in Meniere disease",
-      "authors": "Medical Xpress",
-      "abstract": "For patients with Meniere disease (MD), age and baseline hearing status are associated with long-term hearing outcomes, according to a study published online May 16 in Acta Oto-Laryngologica.",
-      "date": "2026-06-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-age-status-linked-term-outcomes.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hearing",
-        "status",
-        "long-term",
-        "outcomes",
-        "meniere",
-        "disease",
-        "linked",
-        "patients"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.798109+00:00"
-    },
-    {
-      "id": "rss-98a27cde09dc",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Prevalence of right ventricular dysfunction ~40% in heart failure with preserved ejection fraction",
-      "authors": "Medical Xpress",
-      "abstract": "Right ventricular dysfunction (RVD) is prevalent in 41.7% of patients with heart failure with preserved ejection fraction (HFpEF), according to a study published online June 10 in BMC Cardiovascular Disorders.",
-      "date": "2026-06-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-prevalence-ventricular-dysfunction-heart-failure.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "right",
-        "ventricular",
-        "dysfunction",
-        "heart",
-        "failure",
-        "preserved",
-        "ejection",
-        "fraction"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.798337+00:00"
-    },
-    {
-      "id": "rss-fbeb2b4a9ef7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Breastfeeding may protect against ADHD symptoms",
-      "authors": "Medical Xpress",
-      "abstract": "A new study from the University of Bergen shows an association between breastfeeding up to 6 months of age and a reduced risk of ADHD symptoms from ages 3 to 8.",
-      "date": "2026-06-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-breastfeeding-adhd-symptoms.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "breastfeeding",
-        "adhd",
-        "symptoms",
-        "protect",
-        "against",
-        "university",
-        "bergen",
-        "shows"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.798577+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.601977+00:00"
     },
     {
       "id": "rss-4fef7950a408",
@@ -484,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.845958+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.602173+00:00"
     },
     {
       "id": "rss-f76120910536",
@@ -516,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.846187+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.602373+00:00"
     },
     {
       "id": "rss-ab7f94ef2de1",
@@ -548,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.846427+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.602584+00:00"
     },
     {
       "id": "rss-1345e0366e69",
@@ -580,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.846598+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.602744+00:00"
     },
     {
       "id": "rss-099ffdd6540f",
@@ -612,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.846861+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.603002+00:00"
     },
     {
       "id": "rss-82b04a9e266b",
@@ -644,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.847036+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.603172+00:00"
     },
     {
       "id": "rss-f4d562ae7427",
@@ -676,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.847281+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.603444+00:00"
     },
     {
       "id": "rss-753ed5d209ea",
@@ -708,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.847477+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.603610+00:00"
     },
     {
       "id": "rss-171691b8cedf",
@@ -740,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.874871+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.672624+00:00"
     },
     {
       "id": "rss-3811b60f2c26",
@@ -772,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.875080+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.672838+00:00"
     },
     {
       "id": "rss-48baeb8c2246",
@@ -804,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.847656+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.603784+00:00"
     },
     {
       "id": "rss-46c70a0b2afa",
@@ -836,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.847826+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.603954+00:00"
     },
     {
       "id": "rss-6d889cc98f86",
@@ -868,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.847997+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.604123+00:00"
     },
     {
       "id": "rss-3503848a816c",
@@ -900,71 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.848180+00:00"
-    },
-    {
-      "id": "rss-26b7594046d9",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-      "authors": "TechCrunch AI",
-      "abstract": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-      "date": "2026-06-25",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "databricks",
-        "former",
-        "chief",
-        "thinks",
-        "power",
-        "bill",
-        "image-generation",
-        "system"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.848367+00:00"
-    },
-    {
-      "id": "rss-4403bf25ee4d",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "authors": "TechCrunch AI",
-      "abstract": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-      "date": "2026-06-25",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "netris",
-        "live",
-        "that",
-        "raises",
-        "series",
-        "help",
-        "neoclouds",
-        "faster"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.848544+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.604349+00:00"
     },
     {
       "id": "rss-a8a59a71fab6",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.875276+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.673036+00:00"
     },
     {
       "id": "rss-0e554b469f1c",
@@ -1028,7 +1028,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.875472+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.673199+00:00"
+    },
+    {
+      "id": "rss-c83a6084c17d",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Ribbon cutting event for new NOAA facility in North Charleston, South Carolina",
+      "authors": "NOAA News",
+      "abstract": "Ribbon cutting event for new NOAA facility in North Charleston, South Carolina June 25, 2026 Charleston’s waterfront now has a new, state-of-the-art floating pier . The new pier and facility will provide essential support to NOAA Ship Nancy Foster, NOAA Ship Ronald H. Brown, and NOAA Corps officers and civilian mariners who rely on safe, resilient waterfront infrastructure to execute scientific and operational missions. (Image credit: Alan Blackwell/NOAA) Download Image NOAA Marine and Aviation Operations will hold a ribbon cutting ceremony to celebrate the opening of a new pier facility following renovations at the agency’s location in North Charleston, South Carolina. The renovations included demolishing and building a new pier with shoreside power for ships, as well as a warehouse, sea wall and living shoreline, and other supporting infrastructure. Reconstruction of the pier and ot...",
+      "date": "2026-06-24",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/media-advisory/ribbon-cutting-event-for-new-noaa-facility-in-north-charleston-south-carolina",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noaa",
+        "pier",
+        "facility",
+        "charleston",
+        "ribbon",
+        "cutting",
+        "north",
+        "south"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T19:42:55.156247+00:00"
+    },
+    {
+      "id": "rss-0439785447ef",
+      "discipline": "geo",
+      "type": "news",
+      "title": "New eDNA tool to help track recovery of sunflower sea star, a Pacific Coast ‘apex predator’",
+      "authors": "NOAA News",
+      "abstract": "New eDNA tool to help track recovery of sunflower sea star, a Pacific Coast ‘apex predator’ Michael Peñuelas, a Seattle scuba diver, examines a large sunflower sea star in the Edmonds Marine Park in Puget Sound, Washington, in 2021. (Image credit: Courtesy of Zachary Gold) June 25, 2026 A wasting disease that surged during the intense 2013-2016 Pacific marine heatwave known as the Blob decimated numerous species of sea stars and triggered the collapse of vast coastal kelp forests from the Aleutians to the Baja Peninsula. One of the species most affected was the sunflower sea star , an apex predator that feeds on kelp grazers like sea urchins. As captive breeding programs and the discovery of additional sea star refuges, (like the one found in Greater Farallones National Marine Sanctuary in August 2025 ) fuel hopes for the sunflower sea star, researchers at NOAA’s Pacific Marine Enviro...",
+      "date": "2026-06-24",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/new-edna-tool-to-help-track-recovery-of-sunflower-sea-star-pacific-coast-apex-predator",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "star",
+        "sunflower",
+        "pacific",
+        "marine",
+        "apex",
+        "predator",
+        "edna",
+        "tool"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T19:42:55.156928+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1060,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:33.342813+00:00"
+      "_retrievedAt": "2026-06-27T19:42:48.203283+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1092,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:33.343928+00:00"
+      "_retrievedAt": "2026-06-27T19:42:48.204453+00:00"
     },
     {
       "id": "rss-6e64d9a2858e",
@@ -1124,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.875641+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.673402+00:00"
     },
     {
       "id": "rss-5d40314c8fc4",
@@ -1156,7 +1220,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.875805+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.673570+00:00"
+    },
+    {
+      "id": "rss-93a5db061a72",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Moderate harmful algal bloom predicted for western Lake Erie",
+      "authors": "NOAA News",
+      "abstract": "Moderate harmful algal bloom predicted for western Lake Erie Visible blooms could impact coastal recreation by mid-July June 25, 2026 An aerial photo of the green waters of harmful algal bloom in western Lake Erie, July 20, 2020. (Image credit: Courtesy of Zachary Haslick, Aerial Associates) NOAA and its research partners are forecasting a moderate harmful algal bloom (HAB) in western Lake Erie this summer. This year’s bloom is expected to measure 3.5 on the HAB severity index, with a potential range of 3 to 4.5. “Toxic algae affect not only the health of people and Great Lakes ecosystems, but they can negatively impact local and regional economies by preventing people from fishing, swimming, boating and visiting the shoreline,” said Nicole LeBoeuf, assistant administrator for NOAA’s National Ocean Service. “NOAA’s Lake Erie harmful algal bloom forecast is designed to provide timely,...",
+      "date": "2026-06-22",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/moderate-harmful-algal-bloom-predicted-for-western-lake-erie",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "bloom",
+        "harmful",
+        "algal",
+        "lake",
+        "erie",
+        "western",
+        "moderate",
+        "noaa"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T19:42:55.157547+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1188,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:35.196412+00:00"
+      "_retrievedAt": "2026-06-27T19:42:50.215438+00:00"
     },
     {
       "id": "rss-aa16e55100c4",
@@ -1220,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.875963+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.673729+00:00"
     },
     {
       "id": "rss-178fcef6b56d",
@@ -1252,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.876135+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.673900+00:00"
     },
     {
       "id": "rss-607184e56a4c",
@@ -1284,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.876292+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.674053+00:00"
     },
     {
       "id": "rss-1842992c471c",
@@ -1316,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.876473+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.674217+00:00"
     },
     {
       "id": "rss-701cdec7906c",
@@ -1348,7 +1444,103 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.876651+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.674422+00:00"
+    },
+    {
+      "id": "rss-5cf5c5f90af9",
+      "discipline": "geo",
+      "type": "news",
+      "title": "U.S. Department of Commerce allocates $123.6M in fishery disaster funding to Alaska, Oregon, California and Squaxin Island Tribe",
+      "authors": "NOAA News",
+      "abstract": "U.S. Department of Commerce allocates $123.6M in fishery disaster funding to Alaska, Oregon, California and Squaxin Island Tribe June 17, 2026 The Status of Stocks report provides an annual update on the status of U.S. marine fisheries. Working waterfronts such as this one in Sitka, Alaska are home to commercial fishing vessels. (Image credit: NOAA) Download Image Today, NOAA announced the allocation of $123.6 million in fishery resource disaster funding, appropriated by Congress in the American Relief Act, 2025 . The funding will address fishery resource disasters that occurred in Oregon, California, the Squaxin Island tribe, and multiple Alaska fisheries between 2019 and 2023. “Fishery resource disasters have devastating effects on local communities and our economy,” said Neil Jacobs, Ph.D, NOAA administrator. “This disaster funding provides much needed assistance to our fishing ind...",
+      "date": "2026-06-15",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/us-department-of-commerce-allocates-1236m-in-fishery-disaster-funding-to-alaska-oregon-california",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "fishery",
+        "funding",
+        "disaster",
+        "alaska",
+        "oregon",
+        "california",
+        "squaxin",
+        "island"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T19:42:55.158061+00:00"
+    },
+    {
+      "id": "rss-9babfa4d92c2",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Sea turtles",
+      "authors": "NOAA News",
+      "abstract": "Sea turtles Loggerhead Turtle escaping a net equipped with turtle exclusion device (TED) (Image credit: NOAA) Download Image June 15, 2026 Sea turtles breathe air, like all reptiles, and have streamlined bodies with large flippers. They are well adapted to life in the ocean and inhabit tropical and subtropical ocean waters around the world. Of the seven species of sea turtles, six are found in U.S. waters; these include the green, hawksbill, Kemp's ridley, leatherback, loggerhead, and olive ridley. Education 0 Off",
+      "date": "2026-06-15",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/education/stories/sea-turtles-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "turtles",
+        "loggerhead",
+        "turtle",
+        "image",
+        "ocean",
+        "waters",
+        "ridley",
+        "escaping"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T19:42:55.158333+00:00"
+    },
+    {
+      "id": "rss-9da09de8e550",
+      "discipline": "geo",
+      "type": "news",
+      "title": "7 ways El Niño could affect West Coast marine species",
+      "authors": "NOAA News",
+      "abstract": "7 ways El Niño could affect West Coast marine species (Image credit: California Department of Fish and Wildlife.) Download Image June 15, 2026 Fisheries climate fisheries marine life 0 Off",
+      "date": "2026-06-15",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/7-ways-el-ni-o-and-large-marine-heatwave-could-affect-west-coast-marine-species-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "marine",
+        "ways",
+        "could",
+        "affect",
+        "west",
+        "coast",
+        "species",
+        "image"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T19:42:55.158541+00:00"
     },
     {
       "id": "openalex-ff18973ad306",
@@ -1380,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:35.198563+00:00"
+      "_retrievedAt": "2026-06-27T19:42:50.217569+00:00"
     },
     {
       "id": "rss-1bc2925a9388",
@@ -1412,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.876827+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.674593+00:00"
     },
     {
       "id": "rss-f936ae05ec86",
@@ -1444,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.876995+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.674764+00:00"
     },
     {
       "id": "rss-0ea3dcd99424",
@@ -1476,7 +1668,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:43.877153+00:00"
+      "_retrievedAt": "2026-06-27T19:42:54.674923+00:00"
+    },
+    {
+      "id": "rss-3c2f3866802b",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Executive Proclamation restores commercial fishing in Pacific marine monuments, unlocks economic opportunity",
+      "authors": "NOAA News",
+      "abstract": "Executive Proclamation restores commercial fishing in Pacific marine monuments, unlocks economic opportunity June 11, 2026 The IATTC adopted new three-year management measures for tropical tunas including yellowfin caught by purse seine and longline vessels in the eastern Pacific Ocean. (Image credit: Shutterstock/Al McGlashan) On June 11, 2026, President Trump signed an \"Executive Proclamation Restoring American Commercial Fishing in the Pacific,\" opening additional prized fishing grounds to hard-working American fishermen and United States flagged fishing vessels. This bold Executive action opens more economic opportunities for commercial fishermen and continues to strengthen the economic security of coastal communities. NOAA is proud to support the Administration’s pledge to restore U.S. seafood competitiveness through the America First Fishing Policy . The President’s Executive Pr...",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/executive-proclamation-restores-commercial-fishing-in-pacific-marine-monuments-unlocks-economic",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "fishing",
+        "executive",
+        "commercial",
+        "pacific",
+        "economic",
+        "proclamation",
+        "restores",
+        "marine"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T19:42:55.159063+00:00"
+    },
+    {
+      "id": "rss-130a779b2400",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Science that goes deep: How NOAA Research is studying our global ocean",
+      "authors": "NOAA News",
+      "abstract": "Science that goes deep: How NOAA Research is studying our global ocean Researchers deploy an Argo float into the sea to gather data throughout the water column. (Image credit: Commonwealth Scientific and Industrial Research Organisation (CSIRO)) Download Image June 9, 2026 Research Ocean & Coasts National Ocean Month research ocean exploration 0 Off",
+      "date": "2026-06-09",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/science-goes-deep-how-noaa-research-is-studying-our-global-ocean-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "ocean",
+        "that",
+        "goes",
+        "deep",
+        "noaa",
+        "studying",
+        "global",
+        "image"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T19:42:55.159357+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1508,7 +1764,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:33.342456+00:00"
+      "_retrievedAt": "2026-06-27T19:42:48.202549+00:00"
+    },
+    {
+      "id": "rss-2dfddbb1e70d",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA’s SOLAR-1 enters new era of space weather monitoring",
+      "authors": "NOAA News",
+      "abstract": "NOAA’s SOLAR-1 enters new era of space weather monitoring June 10, 2026 An artist rendering of NOAA's SOLAR-1 satellite (formerly SWFO-L1) in its final position in space orbit next to an image of the sun producing a coronal mass ejection. Earth is seen 1 million miles away in the far distance on the right of the image. (Image credit: NOAA) Download Image NOAA’s Space weather Observations at L1 to Advance Readiness – 1 (SOLAR-1) observatory has officially entered operational service, marking a major milestone for the nation’s resilience to space weather events. SOLAR-1 is the first U.S. satellite designed exclusively for continuous, operational space weather observations. “SOLAR-1 will provide improved observations and high-quality 24/7 data about our sun,\" said Irene Parker, acting assistant administrator for NOAA Satellite & Information Service (NESDIS). \"SOLAR-1 continues the observ...",
+      "date": "2026-06-08",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/noaas-solar-1-enters-new-era-of-space-weather-monitoring",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "solar-",
+        "noaa",
+        "space",
+        "weather",
+        "image",
+        "satellite",
+        "observations",
+        "enters"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T19:42:55.159920+00:00"
+    },
+    {
+      "id": "rss-1aa9f8004d35",
+      "discipline": "geo",
+      "type": "news",
+      "title": "El Nino forms, expected to strengthen, say NOAA forecasters",
+      "authors": "NOAA News",
+      "abstract": "El Nino forms, expected to strengthen, say NOAA forecasters Prolonged period of above-average temperatures in the equatorial Pacific expected to peak this winter June 11, 2026 Satellite imagery showing the difference from average sea surface temperatures at the equator in the tropical Pacific Ocean (depicted using various shades of red and orange for warmth) during the first week of June 2026, as compared with the baseline used by NOAA’s Coral Reef Watch. (Image credit: NOAA Satellites ) Download Image NOAA’s National Weather Service announced today that El Nino has developed in the tropical Pacific, and issued an El Nino Advisory. El Nino, the warm phase of the El Nino Southern Oscillation (ENSO), is predicted to intensify to a moderate or strong level this fall. Forecasters predict a 63% chance of sea surface temperatures exceeding 2.0°C in the Nino-monitored region of the Pacific....",
+      "date": "2026-06-08",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/el-nino-forms-expected-to-strengthen-say-noaa-forecasters",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nino",
+        "noaa",
+        "pacific",
+        "expected",
+        "forecasters",
+        "temperatures",
+        "forms",
+        "strengthen"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T19:42:55.160549+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -1540,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:35.201390+00:00"
+      "_retrievedAt": "2026-06-27T19:42:50.220417+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1572,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:33.341046+00:00"
+      "_retrievedAt": "2026-06-27T19:42:48.199796+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1604,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:36.331082+00:00"
+      "_retrievedAt": "2026-06-27T19:42:51.350466+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -1636,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:33.344579+00:00"
+      "_retrievedAt": "2026-06-27T19:42:48.205102+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -1668,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:33.345671+00:00"
+      "_retrievedAt": "2026-06-27T19:42:48.206287+00:00"
     },
     {
       "id": "openalex-2a2df0665fcc",
@@ -1700,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:35.197523+00:00"
+      "_retrievedAt": "2026-06-27T19:42:50.216539+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1732,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:33.340717+00:00"
+      "_retrievedAt": "2026-06-27T19:42:48.199192+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1764,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:33.341736+00:00"
+      "_retrievedAt": "2026-06-27T19:42:48.201101+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1796,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:33.340319+00:00"
+      "_retrievedAt": "2026-06-27T19:42:48.198498+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -1828,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:36.330296+00:00"
+      "_retrievedAt": "2026-06-27T19:42:51.349662+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -1860,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:33.341509+00:00"
+      "_retrievedAt": "2026-06-27T19:42:48.200653+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -1892,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:33.344839+00:00"
+      "_retrievedAt": "2026-06-27T19:42:48.205403+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -1924,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:34.373421+00:00"
+      "_retrievedAt": "2026-06-27T19:42:49.281284+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -1956,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:33.344243+00:00"
+      "_retrievedAt": "2026-06-27T19:42:48.204778+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -1988,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:34.374037+00:00"
+      "_retrievedAt": "2026-06-27T19:42:49.281902+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -2020,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:36.333292+00:00"
+      "_retrievedAt": "2026-06-27T19:42:51.352668+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -2052,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:34.372810+00:00"
+      "_retrievedAt": "2026-06-27T19:42:49.280670+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -2084,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:35.198868+00:00"
+      "_retrievedAt": "2026-06-27T19:42:50.217871+00:00"
     },
     {
       "id": "openalex-7ecbe579840c",
@@ -2116,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:36.332903+00:00"
+      "_retrievedAt": "2026-06-27T19:42:51.352272+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2148,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:33.343094+00:00"
+      "_retrievedAt": "2026-06-27T19:42:48.203594+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2180,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:35.198159+00:00"
+      "_retrievedAt": "2026-06-27T19:42:50.217165+00:00"
     },
     {
       "id": "openalex-18e8a6f615a1",
@@ -2212,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:36.334400+00:00"
+      "_retrievedAt": "2026-06-27T19:42:51.353754+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -2244,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:33.342036+00:00"
+      "_retrievedAt": "2026-06-27T19:42:48.201732+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2276,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:33.343506+00:00"
+      "_retrievedAt": "2026-06-27T19:42:48.203996+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -2308,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:34.373109+00:00"
+      "_retrievedAt": "2026-06-27T19:42:49.280964+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -2340,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:34.371171+00:00"
+      "_retrievedAt": "2026-06-27T19:42:49.279007+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -2372,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:34.373714+00:00"
+      "_retrievedAt": "2026-06-27T19:42:49.281578+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -2404,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:34.370804+00:00"
+      "_retrievedAt": "2026-06-27T19:42:49.278443+00:00"
     },
     {
       "id": "openalex-568c4ca27e3e",
@@ -2436,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:35.200701+00:00"
+      "_retrievedAt": "2026-06-27T19:42:50.219717+00:00"
     },
     {
       "id": "openalex-5ea2e0ac50cc",
@@ -2468,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:35.201047+00:00"
+      "_retrievedAt": "2026-06-27T19:42:50.220066+00:00"
     },
     {
       "id": "openalex-69ef9859ea67",
@@ -2500,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:34.374795+00:00"
+      "_retrievedAt": "2026-06-27T19:42:49.282625+00:00"
     },
     {
       "id": "openalex-59f3240e8b8c",
@@ -2532,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:36.330686+00:00"
+      "_retrievedAt": "2026-06-27T19:42:51.350036+00:00"
     },
     {
       "id": "openalex-4b1dee987f4c",
@@ -2564,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:34.370424+00:00"
+      "_retrievedAt": "2026-06-27T19:42:49.278042+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2596,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:36.329197+00:00"
+      "_retrievedAt": "2026-06-27T19:42:51.348539+00:00"
     },
     {
       "id": "openalex-d7f83e5bb105",
@@ -2628,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:35.199962+00:00"
+      "_retrievedAt": "2026-06-27T19:42:50.218977+00:00"
     },
     {
       "id": "openalex-21e2af519ee1",
@@ -2660,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:35.201893+00:00"
+      "_retrievedAt": "2026-06-27T19:42:50.220917+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2692,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:35.197135+00:00"
+      "_retrievedAt": "2026-06-27T19:42:50.216153+00:00"
     },
     {
       "id": "openalex-b2aeaeab5ec0",
@@ -2724,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:36.334080+00:00"
+      "_retrievedAt": "2026-06-27T19:42:51.353452+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2756,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:36.328817+00:00"
+      "_retrievedAt": "2026-06-27T19:42:51.348134+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -2788,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:35.196759+00:00"
+      "_retrievedAt": "2026-06-27T19:42:50.215779+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -2820,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:36.331761+00:00"
+      "_retrievedAt": "2026-06-27T19:42:51.351115+00:00"
     },
     {
       "id": "openalex-858e3c58ce35",
@@ -2852,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:34.372533+00:00"
+      "_retrievedAt": "2026-06-27T19:42:49.280394+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -2884,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:35.197842+00:00"
+      "_retrievedAt": "2026-06-27T19:42:50.216850+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -2916,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:36.329575+00:00"
+      "_retrievedAt": "2026-06-27T19:42:51.348888+00:00"
     },
     {
       "id": "openalex-98c4505ba231",
@@ -2948,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:36.332119+00:00"
+      "_retrievedAt": "2026-06-27T19:42:51.351500+00:00"
     },
     {
       "id": "openalex-3455b31b2a62",
@@ -2980,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:36.332503+00:00"
+      "_retrievedAt": "2026-06-27T19:42:51.351856+00:00"
     },
     {
       "id": "openalex-08216f776711",
@@ -3012,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:36.333708+00:00"
+      "_retrievedAt": "2026-06-27T19:42:51.353046+00:00"
     },
     {
       "id": "openalex-296c8162041f",
@@ -3044,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:36.334855+00:00"
+      "_retrievedAt": "2026-06-27T19:42:51.354207+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -3076,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:34.371548+00:00"
+      "_retrievedAt": "2026-06-27T19:42:49.279412+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -3108,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:34.372225+00:00"
+      "_retrievedAt": "2026-06-27T19:42:49.280080+00:00"
     },
     {
       "id": "openalex-e91ff633d7e8",
@@ -3140,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:34.374392+00:00"
+      "_retrievedAt": "2026-06-27T19:42:49.282246+00:00"
     },
     {
       "id": "openalex-d1e7e2c5f21d",
@@ -3172,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:35.199563+00:00"
+      "_retrievedAt": "2026-06-27T19:42:50.218574+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -3204,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:33.345166+00:00"
+      "_retrievedAt": "2026-06-27T19:42:48.205741+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -3236,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:34.370031+00:00"
+      "_retrievedAt": "2026-06-27T19:42:49.277671+00:00"
     },
     {
       "id": "openalex-870e85399af9",
@@ -3268,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:34.375160+00:00"
+      "_retrievedAt": "2026-06-27T19:42:49.282995+00:00"
     },
     {
       "id": "openalex-62b5f655ec71",
@@ -3300,7 +3620,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:36.331513+00:00"
+      "_retrievedAt": "2026-06-27T19:42:51.350870+00:00"
     },
     {
       "id": "openalex-125d5d2d7aab",
@@ -3332,7 +3652,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:34.371936+00:00"
+      "_retrievedAt": "2026-06-27T19:42:49.279791+00:00"
     },
     {
       "id": "openalex-c763bb388f03",
@@ -3364,7 +3684,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T14:04:35.199189+00:00"
+      "_retrievedAt": "2026-06-27T19:42:50.218194+00:00"
     }
   ]
 };
