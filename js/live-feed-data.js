@@ -1,11 +1,139 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-06-27T08:48:45.492720+00:00",
-  "total": 115,
+  "generatedAt": "2026-06-27T14:04:46.005293+00:00",
+  "total": 105,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-95008ab2fc20",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Hospital AI tool predicts low blood sugar in patients up to 24 hours in advance",
+      "authors": "Medical Xpress",
+      "abstract": "Cedars-Sinai Health Sciences University investigators developed an AI-based model that can identify hospitalized patients at risk of low blood sugar up to 24 hours before the condition occurs. The long short-term memory (LSTM) model, described in npj Digital Medicine, could help clinicians intervene earlier and prevent complications, including, in severe cases, seizures, coma and long-term heart arrhythmias.",
+      "date": "2026-06-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-hospital-ai-tool-blood-sugar.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "blood",
+        "sugar",
+        "patients",
+        "hours",
+        "hospital",
+        "tool",
+        "predicts",
+        "advance"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T14:04:43.795300+00:00"
+    },
+    {
+      "id": "rss-b911ad38177a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "The HPV vaccine works—but only if we keep trusting it",
+      "authors": "Medical Xpress",
+      "abstract": "Human papillomavirus (HPV) vaccination is already saving lives in the UK—and the scale of that success is striking.",
+      "date": "2026-06-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-hpv-vaccine.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "vaccine",
+        "works",
+        "only",
+        "keep",
+        "trusting",
+        "human",
+        "papillomavirus",
+        "vaccination"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T14:04:43.795581+00:00"
+    },
+    {
+      "id": "rss-0520e171e73a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Intracellular mechanisms promote tumor survival during hypoxia",
+      "authors": "Medical Xpress",
+      "abstract": "Northwestern Medicine scientists have, for the first time, described the underlying mechanisms that regulate how cells rapidly change gene expression in response to hypoxia, a key feature of many treatment-resistant tumors, according to a recent study published in Science Advances.",
+      "date": "2026-06-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-intracellular-mechanisms-tumor-survival-hypoxia.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "mechanisms",
+        "hypoxia",
+        "intracellular",
+        "promote",
+        "tumor",
+        "survival",
+        "during",
+        "northwestern"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T14:04:43.795839+00:00"
+    },
+    {
+      "id": "rss-7238c9cd4b22",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "US activates highest-level response to Ebola outbreak",
+      "authors": "Medical Xpress",
+      "abstract": "US health authorities on Friday activated the highest level of response to the Ebola outbreak in the Democratic Republic of Congo, while announcing the shipment of experimental treatments to the region.",
+      "date": "2026-06-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-highest-response-ebola-outbreak.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "response",
+        "ebola",
+        "outbreak",
+        "activates",
+        "highest-level",
+        "health",
+        "authorities",
+        "friday"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T14:04:43.796066+00:00"
+    },
     {
       "id": "rss-560c9e541b9f",
       "discipline": "clinical",
@@ -36,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.816213+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.796291+00:00"
     },
     {
       "id": "rss-395ce4387a8b",
@@ -68,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.816462+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.796548+00:00"
     },
     {
       "id": "rss-1f8c0925b0a4",
@@ -100,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.816807+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.796891+00:00"
     },
     {
       "id": "rss-a0c3bc99ed6a",
@@ -132,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.817124+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.797135+00:00"
     },
     {
       "id": "rss-2027f59cd46d",
@@ -164,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.817376+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.797401+00:00"
     },
     {
       "id": "rss-51502cd03ec1",
@@ -196,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.817638+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.797663+00:00"
     },
     {
       "id": "rss-a711bc0acc93",
@@ -228,39 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.817861+00:00"
-    },
-    {
-      "id": "rss-c4d97f3813b3",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "How a brain messenger protein drives progression of Alzheimer's disease",
-      "authors": "Medical Xpress",
-      "abstract": "Alzheimer's disease is driven by a buildup of a toxic protein called Tau that kills neurons. As toxic Tau spreads to new regions of the brain, symptoms worsen and ultimately become fatal.",
-      "date": "2026-06-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-brain-messenger-protein-alzheimer-disease.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "brain",
-        "protein",
-        "alzheimer",
-        "disease",
-        "toxic",
-        "messenger",
-        "drives",
-        "progression"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.818125+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.797888+00:00"
     },
     {
       "id": "rss-705d29aea547",
@@ -292,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.818345+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.798109+00:00"
     },
     {
       "id": "rss-98a27cde09dc",
@@ -324,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.818573+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.798337+00:00"
     },
     {
       "id": "rss-fbeb2b4a9ef7",
@@ -356,103 +452,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.818790+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.798577+00:00"
     },
     {
-      "id": "rss-30802f58839e",
-      "discipline": "clinical",
+      "id": "rss-4fef7950a408",
+      "discipline": "cs",
       "type": "news",
-      "title": "Blood vessel cells keep fixed signaling roles for weeks, reshaping view of capillary communication",
-      "authors": "Medical Xpress",
-      "abstract": "The cells lining skin capillaries are constantly sending each other messages—tiny pulses of calcium that help regulate blood flow, sense physical forces and keep vessel walls intact. Scientists have known about this signaling for decades. What they didn't know, until now, is that it follows a remarkably organized pattern, one that persists across days and weeks, governed by a network of cells that have, in a sense, assigned themselves permanent roles.",
+      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+      "authors": "TechCrunch AI",
+      "abstract": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
       "date": "2026-06-27",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-blood-vessel-cells-roles-weeks.html",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "that",
-        "cells",
-        "blood",
-        "vessel",
-        "keep",
-        "signaling",
-        "roles",
-        "weeks"
+        "mythos-like",
+        "export",
+        "asian",
+        "startups",
+        "launch",
+        "anthropic",
+        "drags",
+        "launching"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.819129+00:00"
-    },
-    {
-      "id": "rss-dc3e88b4aae6",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "How heat waves are dangerous to human health",
-      "authors": "Medical Xpress",
-      "abstract": "A punishing heat wave overwhelming hospitals in Europe is just the latest reminder of the deadly threat such scorching temperatures can pose to human health.",
-      "date": "2026-06-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-dangerous-human-health.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "heat",
-        "human",
-        "health",
-        "waves",
-        "dangerous",
-        "punishing",
-        "wave",
-        "overwhelming"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.819354+00:00"
-    },
-    {
-      "id": "rss-425f045488cd",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "AI support tool improves clinician decisions in real-world primary care trial",
-      "authors": "Medical Xpress",
-      "abstract": "A large real-world clinical trial has found that a generative AI-powered support tool used to support frontline clinicians was safe and improved the quality of clinical decision-making, but did not significantly change short-term patient outcomes.",
-      "date": "2026-06-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-ai-tool-clinician-decisions-real.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "support",
-        "tool",
-        "real-world",
-        "trial",
-        "clinical",
-        "improves",
-        "clinician",
-        "decisions"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.819586+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.845958+00:00"
     },
     {
       "id": "rss-f76120910536",
@@ -484,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.882020+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.846187+00:00"
     },
     {
       "id": "rss-ab7f94ef2de1",
@@ -516,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.882288+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.846427+00:00"
     },
     {
       "id": "rss-1345e0366e69",
@@ -548,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.882451+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.846598+00:00"
     },
     {
       "id": "rss-099ffdd6540f",
@@ -580,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.882709+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.846861+00:00"
     },
     {
       "id": "rss-82b04a9e266b",
@@ -612,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.882881+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.847036+00:00"
     },
     {
       "id": "rss-f4d562ae7427",
@@ -644,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.883153+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.847281+00:00"
     },
     {
       "id": "rss-753ed5d209ea",
@@ -676,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.883317+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.847477+00:00"
     },
     {
       "id": "rss-171691b8cedf",
@@ -708,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.946750+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.874871+00:00"
     },
     {
       "id": "rss-3811b60f2c26",
@@ -740,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.946982+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.875080+00:00"
     },
     {
       "id": "rss-48baeb8c2246",
@@ -772,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.883489+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.847656+00:00"
     },
     {
       "id": "rss-46c70a0b2afa",
@@ -804,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.883655+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.847826+00:00"
     },
     {
       "id": "rss-6d889cc98f86",
@@ -836,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.883823+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.847997+00:00"
     },
     {
       "id": "rss-3503848a816c",
@@ -868,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.884047+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.848180+00:00"
     },
     {
       "id": "rss-26b7594046d9",
@@ -900,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.884216+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.848367+00:00"
     },
     {
       "id": "rss-4403bf25ee4d",
@@ -932,39 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.884380+00:00"
-    },
-    {
-      "id": "rss-9af918188299",
-      "discipline": "cs",
-      "type": "news",
-      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-      "authors": "TechCrunch AI",
-      "abstract": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
-      "date": "2026-06-25",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "days",
-        "left",
-        "save",
-        "techcrunch",
-        "founder",
-        "summit",
-        "join",
-        "founders"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.884551+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.848544+00:00"
     },
     {
       "id": "rss-a8a59a71fab6",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.947181+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.875276+00:00"
     },
     {
       "id": "rss-0e554b469f1c",
@@ -1028,71 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.947338+00:00"
-    },
-    {
-      "id": "rss-c83a6084c17d",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Ribbon cutting event for new NOAA facility in North Charleston, South Carolina",
-      "authors": "NOAA News",
-      "abstract": "Ribbon cutting event for new NOAA facility in North Charleston, South Carolina June 25, 2026 Charleston’s waterfront now has a new, state-of-the-art floating pier . The new pier and facility will provide essential support to NOAA Ship Nancy Foster, NOAA Ship Ronald H. Brown, and NOAA Corps officers and civilian mariners who rely on safe, resilient waterfront infrastructure to execute scientific and operational missions. (Image credit: Alan Blackwell/NOAA) Download Image NOAA Marine and Aviation Operations will hold a ribbon cutting ceremony to celebrate the opening of a new pier facility following renovations at the agency’s location in North Charleston, South Carolina. The renovations included demolishing and building a new pier with shoreside power for ships, as well as a warehouse, sea wall and living shoreline, and other supporting infrastructure. Reconstruction of the pier and ot...",
-      "date": "2026-06-24",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/media-advisory/ribbon-cutting-event-for-new-noaa-facility-in-north-charleston-south-carolina",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "pier",
-        "facility",
-        "charleston",
-        "ribbon",
-        "cutting",
-        "north",
-        "south"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:45.296919+00:00"
-    },
-    {
-      "id": "rss-0439785447ef",
-      "discipline": "geo",
-      "type": "news",
-      "title": "New eDNA tool to help track recovery of sunflower sea star, a Pacific Coast ‘apex predator’",
-      "authors": "NOAA News",
-      "abstract": "New eDNA tool to help track recovery of sunflower sea star, a Pacific Coast ‘apex predator’ Michael Peñuelas, a Seattle scuba diver, examines a large sunflower sea star in the Edmonds Marine Park in Puget Sound, Washington, in 2021. (Image credit: Courtesy of Zachary Gold) June 25, 2026 A wasting disease that surged during the intense 2013-2016 Pacific marine heatwave known as the Blob decimated numerous species of sea stars and triggered the collapse of vast coastal kelp forests from the Aleutians to the Baja Peninsula. One of the species most affected was the sunflower sea star , an apex predator that feeds on kelp grazers like sea urchins. As captive breeding programs and the discovery of additional sea star refuges, (like the one found in Greater Farallones National Marine Sanctuary in August 2025 ) fuel hopes for the sunflower sea star, researchers at NOAA’s Pacific Marine Enviro...",
-      "date": "2026-06-24",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/new-edna-tool-to-help-track-recovery-of-sunflower-sea-star-pacific-coast-apex-predator",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "star",
-        "sunflower",
-        "pacific",
-        "marine",
-        "apex",
-        "predator",
-        "edna",
-        "tool"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:45.297584+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.875472+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1124,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:37.440514+00:00"
+      "_retrievedAt": "2026-06-27T14:04:33.342813+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1156,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:37.441611+00:00"
+      "_retrievedAt": "2026-06-27T14:04:33.343928+00:00"
     },
     {
       "id": "rss-6e64d9a2858e",
@@ -1188,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.947501+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.875641+00:00"
     },
     {
       "id": "rss-5d40314c8fc4",
@@ -1220,39 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.947660+00:00"
-    },
-    {
-      "id": "rss-93a5db061a72",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Moderate harmful algal bloom predicted for western Lake Erie",
-      "authors": "NOAA News",
-      "abstract": "Moderate harmful algal bloom predicted for western Lake Erie Visible blooms could impact coastal recreation by mid-July June 25, 2026 An aerial photo of the green waters of harmful algal bloom in western Lake Erie, July 20, 2020. (Image credit: Courtesy of Zachary Haslick, Aerial Associates) NOAA and its research partners are forecasting a moderate harmful algal bloom (HAB) in western Lake Erie this summer. This year’s bloom is expected to measure 3.5 on the HAB severity index, with a potential range of 3 to 4.5. “Toxic algae affect not only the health of people and Great Lakes ecosystems, but they can negatively impact local and regional economies by preventing people from fishing, swimming, boating and visiting the shoreline,” said Nicole LeBoeuf, assistant administrator for NOAA’s National Ocean Service. “NOAA’s Lake Erie harmful algal bloom forecast is designed to provide timely,...",
-      "date": "2026-06-22",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/moderate-harmful-algal-bloom-predicted-for-western-lake-erie",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "bloom",
-        "harmful",
-        "algal",
-        "lake",
-        "erie",
-        "western",
-        "moderate",
-        "noaa"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:45.298192+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.875805+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1284,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:39.370934+00:00"
+      "_retrievedAt": "2026-06-27T14:04:35.196412+00:00"
     },
     {
       "id": "rss-aa16e55100c4",
@@ -1316,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.947816+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.875963+00:00"
     },
     {
       "id": "rss-178fcef6b56d",
@@ -1348,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.948012+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.876135+00:00"
     },
     {
       "id": "rss-607184e56a4c",
@@ -1380,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.948165+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.876292+00:00"
     },
     {
       "id": "rss-1842992c471c",
@@ -1412,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.948313+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.876473+00:00"
     },
     {
       "id": "rss-701cdec7906c",
@@ -1444,103 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.948481+00:00"
-    },
-    {
-      "id": "rss-5cf5c5f90af9",
-      "discipline": "geo",
-      "type": "news",
-      "title": "U.S. Department of Commerce allocates $123.6M in fishery disaster funding to Alaska, Oregon, California and Squaxin Island Tribe",
-      "authors": "NOAA News",
-      "abstract": "U.S. Department of Commerce allocates $123.6M in fishery disaster funding to Alaska, Oregon, California and Squaxin Island Tribe June 17, 2026 The Status of Stocks report provides an annual update on the status of U.S. marine fisheries. Working waterfronts such as this one in Sitka, Alaska are home to commercial fishing vessels. (Image credit: NOAA) Download Image Today, NOAA announced the allocation of $123.6 million in fishery resource disaster funding, appropriated by Congress in the American Relief Act, 2025 . The funding will address fishery resource disasters that occurred in Oregon, California, the Squaxin Island tribe, and multiple Alaska fisheries between 2019 and 2023. “Fishery resource disasters have devastating effects on local communities and our economy,” said Neil Jacobs, Ph.D, NOAA administrator. “This disaster funding provides much needed assistance to our fishing ind...",
-      "date": "2026-06-15",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/us-department-of-commerce-allocates-1236m-in-fishery-disaster-funding-to-alaska-oregon-california",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "fishery",
-        "funding",
-        "disaster",
-        "alaska",
-        "oregon",
-        "california",
-        "squaxin",
-        "island"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:45.298702+00:00"
-    },
-    {
-      "id": "rss-9babfa4d92c2",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Sea turtles",
-      "authors": "NOAA News",
-      "abstract": "Sea turtles Loggerhead Turtle escaping a net equipped with turtle exclusion device (TED) (Image credit: NOAA) Download Image June 15, 2026 Sea turtles breathe air, like all reptiles, and have streamlined bodies with large flippers. They are well adapted to life in the ocean and inhabit tropical and subtropical ocean waters around the world. Of the seven species of sea turtles, six are found in U.S. waters; these include the green, hawksbill, Kemp's ridley, leatherback, loggerhead, and olive ridley. Education 0 Off",
-      "date": "2026-06-15",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/education/stories/sea-turtles-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "turtles",
-        "loggerhead",
-        "turtle",
-        "image",
-        "ocean",
-        "waters",
-        "ridley",
-        "escaping"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:45.298970+00:00"
-    },
-    {
-      "id": "rss-9da09de8e550",
-      "discipline": "geo",
-      "type": "news",
-      "title": "7 ways El Niño could affect West Coast marine species",
-      "authors": "NOAA News",
-      "abstract": "7 ways El Niño could affect West Coast marine species (Image credit: California Department of Fish and Wildlife.) Download Image June 15, 2026 Fisheries climate fisheries marine life 0 Off",
-      "date": "2026-06-15",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/7-ways-el-ni-o-and-large-marine-heatwave-could-affect-west-coast-marine-species-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "marine",
-        "ways",
-        "could",
-        "affect",
-        "west",
-        "coast",
-        "species",
-        "image"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:45.299175+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.876651+00:00"
     },
     {
       "id": "openalex-ff18973ad306",
@@ -1572,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:39.373065+00:00"
+      "_retrievedAt": "2026-06-27T14:04:35.198563+00:00"
     },
     {
       "id": "rss-1bc2925a9388",
@@ -1604,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.948643+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.876827+00:00"
     },
     {
       "id": "rss-f936ae05ec86",
@@ -1636,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.948807+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.876995+00:00"
     },
     {
       "id": "rss-0ea3dcd99424",
@@ -1668,71 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:44.949027+00:00"
-    },
-    {
-      "id": "rss-3c2f3866802b",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Executive Proclamation restores commercial fishing in Pacific marine monuments, unlocks economic opportunity",
-      "authors": "NOAA News",
-      "abstract": "Executive Proclamation restores commercial fishing in Pacific marine monuments, unlocks economic opportunity June 11, 2026 The IATTC adopted new three-year management measures for tropical tunas including yellowfin caught by purse seine and longline vessels in the eastern Pacific Ocean. (Image credit: Shutterstock/Al McGlashan) On June 11, 2026, President Trump signed an \"Executive Proclamation Restoring American Commercial Fishing in the Pacific,\" opening additional prized fishing grounds to hard-working American fishermen and United States flagged fishing vessels. This bold Executive action opens more economic opportunities for commercial fishermen and continues to strengthen the economic security of coastal communities. NOAA is proud to support the Administration’s pledge to restore U.S. seafood competitiveness through the America First Fishing Policy . The President’s Executive Pr...",
-      "date": "2026-06-11",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/executive-proclamation-restores-commercial-fishing-in-pacific-marine-monuments-unlocks-economic",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "fishing",
-        "executive",
-        "commercial",
-        "pacific",
-        "economic",
-        "proclamation",
-        "restores",
-        "marine"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:45.299683+00:00"
-    },
-    {
-      "id": "rss-130a779b2400",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Science that goes deep: How NOAA Research is studying our global ocean",
-      "authors": "NOAA News",
-      "abstract": "Science that goes deep: How NOAA Research is studying our global ocean Researchers deploy an Argo float into the sea to gather data throughout the water column. (Image credit: Commonwealth Scientific and Industrial Research Organisation (CSIRO)) Download Image June 9, 2026 Research Ocean & Coasts National Ocean Month research ocean exploration 0 Off",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/science-goes-deep-how-noaa-research-is-studying-our-global-ocean-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ocean",
-        "that",
-        "goes",
-        "deep",
-        "noaa",
-        "studying",
-        "global",
-        "image"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:45.299969+00:00"
+      "_retrievedAt": "2026-06-27T14:04:43.877153+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1764,71 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:37.440169+00:00"
-    },
-    {
-      "id": "rss-2dfddbb1e70d",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA’s SOLAR-1 enters new era of space weather monitoring",
-      "authors": "NOAA News",
-      "abstract": "NOAA’s SOLAR-1 enters new era of space weather monitoring June 10, 2026 An artist rendering of NOAA's SOLAR-1 satellite (formerly SWFO-L1) in its final position in space orbit next to an image of the sun producing a coronal mass ejection. Earth is seen 1 million miles away in the far distance on the right of the image. (Image credit: NOAA) Download Image NOAA’s Space weather Observations at L1 to Advance Readiness – 1 (SOLAR-1) observatory has officially entered operational service, marking a major milestone for the nation’s resilience to space weather events. SOLAR-1 is the first U.S. satellite designed exclusively for continuous, operational space weather observations. “SOLAR-1 will provide improved observations and high-quality 24/7 data about our sun,\" said Irene Parker, acting assistant administrator for NOAA Satellite & Information Service (NESDIS). \"SOLAR-1 continues the observ...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/noaas-solar-1-enters-new-era-of-space-weather-monitoring",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "solar-",
-        "noaa",
-        "space",
-        "weather",
-        "image",
-        "satellite",
-        "observations",
-        "enters"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:45.300524+00:00"
-    },
-    {
-      "id": "rss-1aa9f8004d35",
-      "discipline": "geo",
-      "type": "news",
-      "title": "El Nino forms, expected to strengthen, say NOAA forecasters",
-      "authors": "NOAA News",
-      "abstract": "El Nino forms, expected to strengthen, say NOAA forecasters Prolonged period of above-average temperatures in the equatorial Pacific expected to peak this winter June 11, 2026 Satellite imagery showing the difference from average sea surface temperatures at the equator in the tropical Pacific Ocean (depicted using various shades of red and orange for warmth) during the first week of June 2026, as compared with the baseline used by NOAA’s Coral Reef Watch. (Image credit: NOAA Satellites ) Download Image NOAA’s National Weather Service announced today that El Nino has developed in the tropical Pacific, and issued an El Nino Advisory. El Nino, the warm phase of the El Nino Southern Oscillation (ENSO), is predicted to intensify to a moderate or strong level this fall. Forecasters predict a 63% chance of sea surface temperatures exceeding 2.0°C in the Nino-monitored region of the Pacific....",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/el-nino-forms-expected-to-strengthen-say-noaa-forecasters",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nino",
-        "noaa",
-        "pacific",
-        "expected",
-        "forecasters",
-        "temperatures",
-        "forms",
-        "strengthen"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:45.301135+00:00"
+      "_retrievedAt": "2026-06-27T14:04:33.342456+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -1860,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:39.375824+00:00"
+      "_retrievedAt": "2026-06-27T14:04:35.201390+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1892,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:37.438791+00:00"
+      "_retrievedAt": "2026-06-27T14:04:33.341046+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1924,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:40.479185+00:00"
+      "_retrievedAt": "2026-06-27T14:04:36.331082+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -1956,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:37.442269+00:00"
+      "_retrievedAt": "2026-06-27T14:04:33.344579+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -1988,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:37.443370+00:00"
+      "_retrievedAt": "2026-06-27T14:04:33.345671+00:00"
     },
     {
       "id": "openalex-2a2df0665fcc",
@@ -2020,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:39.372045+00:00"
+      "_retrievedAt": "2026-06-27T14:04:35.197523+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2052,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:37.438458+00:00"
+      "_retrievedAt": "2026-06-27T14:04:33.340717+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2084,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:37.439462+00:00"
+      "_retrievedAt": "2026-06-27T14:04:33.341736+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2112,11 +1792,11 @@ window.LIVE_FEED_DATA = {
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 1407,
+      "citedBy": 1409,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:37.438085+00:00"
+      "_retrievedAt": "2026-06-27T14:04:33.340319+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2148,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:40.478406+00:00"
+      "_retrievedAt": "2026-06-27T14:04:36.330296+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2180,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:37.439242+00:00"
+      "_retrievedAt": "2026-06-27T14:04:33.341509+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2212,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:37.442526+00:00"
+      "_retrievedAt": "2026-06-27T14:04:33.344839+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2244,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:38.305425+00:00"
+      "_retrievedAt": "2026-06-27T14:04:34.373421+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2276,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:37.441947+00:00"
+      "_retrievedAt": "2026-06-27T14:04:33.344243+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2308,7 +1988,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:38.306076+00:00"
+      "_retrievedAt": "2026-06-27T14:04:34.374037+00:00"
+    },
+    {
+      "id": "openalex-9b7c534bd9d9",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Future outlook of monthly maximum daily precipitation in Pakistan’s hydroclimatic zones: high-resolution insights from CMIP6 multimodel data",
+      "authors": "Muhammad Adnan, Firdos Khan, Muhammad Abbas, Fahad Shahzad, TianXiang Yue",
+      "abstract": "Extreme precipitation events are intensifying under climate change, driving escalating flood risks in some of the world’s most vulnerable regions. Pakistan is one of the most hydrologically diverse and flood-prone country, previous studies have largely emphasized seasonal or mean rainfall, leaving monthly maximum daily precipitation extremes (Rx1day at monthly resolution) underexplored, despite their direct role in triggering flash floods, landslides, and infrastructure failures. This study fills that gap by analyzing bias-corrected CMIP6 multi-model ensembles to project Rx1day-month precipitation extremes for SSP2-4.5 and SSP5-8.5 across seven hydroclimatic zones. Projections are assessed for the near future (2017–2044), mid-century (2045–2072), and late century (2073–2100), relative to the 1985–2014 baseline. Findings reveal strong spatial heterogeneity. Northern and northwestern hi...",
+      "date": "2026-04-04",
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "source": "Scientific Reports",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41598-026-45047-6",
+      "doi": "10.1038/s41598-026-45047-6",
+      "pdfUrl": "https://www.nature.com/articles/s41598-026-45047-6_reference.pdf",
+      "keywords": [
+        "Environmental science",
+        "Precipitation",
+        "Climatology",
+        "Meteorology",
+        "Atmospheric sciences",
+        "Climate variability and models",
+        "Hydrology and Drought Analysis",
+        "Precipitation Measurement and Analysis"
+      ],
+      "readTime": "1 min",
+      "citedBy": 2,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-06-27T14:04:36.333292+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -2340,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:38.304717+00:00"
+      "_retrievedAt": "2026-06-27T14:04:34.372810+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -2372,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:39.373361+00:00"
+      "_retrievedAt": "2026-06-27T14:04:35.198868+00:00"
     },
     {
       "id": "openalex-7ecbe579840c",
@@ -2404,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:40.480986+00:00"
+      "_retrievedAt": "2026-06-27T14:04:36.332903+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2432,11 +2144,11 @@ window.LIVE_FEED_DATA = {
         "risks"
       ],
       "readTime": "1 min",
-      "citedBy": 33,
+      "citedBy": 34,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:37.440791+00:00"
+      "_retrievedAt": "2026-06-27T14:04:33.343094+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2468,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:39.372672+00:00"
+      "_retrievedAt": "2026-06-27T14:04:35.198159+00:00"
     },
     {
       "id": "openalex-18e8a6f615a1",
@@ -2500,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:40.482070+00:00"
+      "_retrievedAt": "2026-06-27T14:04:36.334400+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -2528,11 +2240,11 @@ window.LIVE_FEED_DATA = {
         "AI in Service Interactions"
       ],
       "readTime": "1 min",
-      "citedBy": 39,
+      "citedBy": 43,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:37.439756+00:00"
+      "_retrievedAt": "2026-06-27T14:04:33.342036+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2564,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:37.441202+00:00"
+      "_retrievedAt": "2026-06-27T14:04:33.343506+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -2596,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:38.305088+00:00"
+      "_retrievedAt": "2026-06-27T14:04:34.373109+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -2628,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:38.303111+00:00"
+      "_retrievedAt": "2026-06-27T14:04:34.371171+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -2660,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:38.305717+00:00"
+      "_retrievedAt": "2026-06-27T14:04:34.373714+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -2692,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:38.302722+00:00"
+      "_retrievedAt": "2026-06-27T14:04:34.370804+00:00"
     },
     {
       "id": "openalex-568c4ca27e3e",
@@ -2724,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:39.374753+00:00"
+      "_retrievedAt": "2026-06-27T14:04:35.200701+00:00"
     },
     {
       "id": "openalex-5ea2e0ac50cc",
@@ -2756,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:39.375510+00:00"
+      "_retrievedAt": "2026-06-27T14:04:35.201047+00:00"
     },
     {
       "id": "openalex-69ef9859ea67",
@@ -2788,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:38.306785+00:00"
+      "_retrievedAt": "2026-06-27T14:04:34.374795+00:00"
     },
     {
       "id": "openalex-59f3240e8b8c",
@@ -2820,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:40.478770+00:00"
+      "_retrievedAt": "2026-06-27T14:04:36.330686+00:00"
     },
     {
       "id": "openalex-4b1dee987f4c",
@@ -2852,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:38.302352+00:00"
+      "_retrievedAt": "2026-06-27T14:04:34.370424+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -2884,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:40.477306+00:00"
+      "_retrievedAt": "2026-06-27T14:04:36.329197+00:00"
     },
     {
       "id": "openalex-d7f83e5bb105",
@@ -2912,11 +2624,11 @@ window.LIVE_FEED_DATA = {
         "Cancer Research and Treatments"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:39.375167+00:00"
+      "_retrievedAt": "2026-06-27T14:04:35.199962+00:00"
     },
     {
       "id": "openalex-21e2af519ee1",
@@ -2948,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:39.376358+00:00"
+      "_retrievedAt": "2026-06-27T14:04:35.201893+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -2980,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:39.371656+00:00"
+      "_retrievedAt": "2026-06-27T14:04:35.197135+00:00"
     },
     {
       "id": "openalex-b2aeaeab5ec0",
@@ -3012,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:40.481736+00:00"
+      "_retrievedAt": "2026-06-27T14:04:36.334080+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -3044,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:40.476913+00:00"
+      "_retrievedAt": "2026-06-27T14:04:36.328817+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -3076,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:39.371280+00:00"
+      "_retrievedAt": "2026-06-27T14:04:35.196759+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -3108,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:40.479833+00:00"
+      "_retrievedAt": "2026-06-27T14:04:36.331761+00:00"
     },
     {
       "id": "openalex-858e3c58ce35",
@@ -3140,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:38.304447+00:00"
+      "_retrievedAt": "2026-06-27T14:04:34.372533+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -3172,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:39.372359+00:00"
+      "_retrievedAt": "2026-06-27T14:04:35.197842+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -3204,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:40.477652+00:00"
+      "_retrievedAt": "2026-06-27T14:04:36.329575+00:00"
     },
     {
       "id": "openalex-98c4505ba231",
@@ -3236,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:40.480209+00:00"
+      "_retrievedAt": "2026-06-27T14:04:36.332119+00:00"
     },
     {
       "id": "openalex-3455b31b2a62",
@@ -3268,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:40.480570+00:00"
+      "_retrievedAt": "2026-06-27T14:04:36.332503+00:00"
     },
     {
       "id": "openalex-08216f776711",
@@ -3300,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:40.481365+00:00"
+      "_retrievedAt": "2026-06-27T14:04:36.333708+00:00"
     },
     {
       "id": "openalex-296c8162041f",
@@ -3332,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:40.482523+00:00"
+      "_retrievedAt": "2026-06-27T14:04:36.334855+00:00"
     },
     {
       "id": "openalex-2f9ab5b650c6",
@@ -3364,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:38.303472+00:00"
+      "_retrievedAt": "2026-06-27T14:04:34.371548+00:00"
     },
     {
       "id": "openalex-4abfcc09ce21",
@@ -3396,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:38.304145+00:00"
+      "_retrievedAt": "2026-06-27T14:04:34.372225+00:00"
     },
     {
       "id": "openalex-e91ff633d7e8",
@@ -3428,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:38.306408+00:00"
+      "_retrievedAt": "2026-06-27T14:04:34.374392+00:00"
     },
     {
       "id": "openalex-d1e7e2c5f21d",
@@ -3460,39 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:39.374051+00:00"
-    },
-    {
-      "id": "openalex-c9a5fd2a44eb",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "A Machine Learning Framework for Assessing the Sensitivity of Regional Ocean Productivity to Climate Change",
-      "authors": "Teodoro Semeraro, Jessica Titocci, Lorenzo Liberatore, Flavio Monti, Armando Cazzetta, Maurizio Pinna",
-      "abstract": "Net primary production (NPP) in the ocean is fundamental to marine food webs, supporting oxygen production for heterotrophic respiration and contributing to the long-term sequestration of carbon. Rising ocean temperatures associated with climate change are expected to alter NPP dynamics. However, it remains challenging to understand how different abiotic (especially sea temperature) and biotic factors influence marine NPP due to the complex network of interactions between these factors. This study introduces a flexible machine-learning-based framework for evaluating the sensitivity of NPP to variations in key environmental drivers, particularly sea temperature, by testing and comparing alternative machine learning algorithms. In the case study presented here, Support Vector Machines (SVM) achieved the highest predictive performance among the evaluated models. Variable-importance analy...",
-      "date": "2026-03-02",
-      "year": 2026,
-      "journal": "Environments",
-      "source": "Environments",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/environments13030137",
-      "doi": "10.3390/environments13030137",
-      "pdfUrl": "https://www.mdpi.com/2076-3298/13/3/137/pdf?version=1772430647",
-      "keywords": [
-        "Primary production",
-        "Climate change",
-        "Machine learning",
-        "Environmental science",
-        "Sensitivity (control systems)",
-        "Oceanographic and Atmospheric Processes",
-        "Marine and coastal ecosystems",
-        "Marine and fisheries research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:40.482911+00:00"
+      "_retrievedAt": "2026-06-27T14:04:35.199563+00:00"
     },
     {
       "id": "openalex-9f1c9dbb4d5a",
@@ -3524,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:37.442855+00:00"
+      "_retrievedAt": "2026-06-27T14:04:33.345166+00:00"
     },
     {
       "id": "openalex-b43e39f97b03",
@@ -3556,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:38.301984+00:00"
+      "_retrievedAt": "2026-06-27T14:04:34.370031+00:00"
     },
     {
       "id": "openalex-870e85399af9",
@@ -3588,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:38.307187+00:00"
+      "_retrievedAt": "2026-06-27T14:04:34.375160+00:00"
     },
     {
       "id": "openalex-62b5f655ec71",
@@ -3620,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:40.479590+00:00"
+      "_retrievedAt": "2026-06-27T14:04:36.331513+00:00"
     },
     {
       "id": "openalex-125d5d2d7aab",
@@ -3652,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:38.303839+00:00"
+      "_retrievedAt": "2026-06-27T14:04:34.371936+00:00"
     },
     {
       "id": "openalex-c763bb388f03",
@@ -3684,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-06-27T08:48:39.373688+00:00"
+      "_retrievedAt": "2026-06-27T14:04:35.199189+00:00"
     }
   ]
 };
