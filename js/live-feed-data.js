@@ -1,10 +1,138 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-07-01T04:52:08.803775+00:00",
+  "generatedAt": "2026-07-01T10:10:40.980891+00:00",
   "total": 52,
   "sources": [
     "RSS"
   ],
   "papers": [
+    {
+      "id": "rss-04b91b6a7743",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "GLP-1 medications linked to fewer deaths and amputations in people with type 2 diabetes and PAD",
+      "authors": "Medical Xpress",
+      "abstract": "According to new, independent research published in the Journal of the American Heart Association, GLP-1 receptor agonist (GLP-1 RA) medications reduce the number of deaths, amputations and hospitalizations among people with type 2 diabetes who also have narrowed leg arteries associated with PAD (peripheral artery disease).",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-glp-medications-linked-deaths-amputations.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "glp-",
+        "medications",
+        "deaths",
+        "amputations",
+        "people",
+        "type",
+        "diabetes",
+        "linked"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T10:10:40.586681+00:00"
+    },
+    {
+      "id": "rss-0dd1aa050ddd",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Bacteria's 'mix-and-match' code could create new cancer-fighting drugs",
+      "authors": "Medical Xpress",
+      "abstract": "A team of researchers at the University of Warwick and Monash University has solved a puzzle that has stumped drug developers for decades: how bacteria naturally create multiple versions of powerful cancer therapies. The breakthrough could accelerate the development of new treatments for hard-to-treat cancers.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-bacteria-code-cancer-drugs.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "bacteria",
+        "could",
+        "create",
+        "university",
+        "mix-and-match",
+        "code",
+        "cancer-fighting",
+        "drugs"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T10:10:40.586936+00:00"
+    },
+    {
+      "id": "rss-cc07493428e5",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "COVID-19 vaccine boosters may help protect against future animal coronaviruses, research suggests",
+      "authors": "Medical Xpress",
+      "abstract": "COVID-19 vaccine boosters not only protect against SARS-CoV-2—the virus behind the most recent pandemic—but may also help protect against some future coronaviruses that risk spreading from animals to humans, Cambridge researchers have shown.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-covid-vaccine-boosters-future-animal.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "protect",
+        "against",
+        "covid-",
+        "vaccine",
+        "boosters",
+        "help",
+        "future",
+        "coronaviruses"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T10:10:40.587177+00:00"
+    },
+    {
+      "id": "rss-c8307e8dd18c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Genetic differences affecting toddler activity levels are also associated with ADHD",
+      "authors": "Medical Xpress",
+      "abstract": "A toddler's activity levels are influenced by genetic differences, with some of the same genetic markers also linked to attention-deficit/hyperactivity disorder (ADHD), according to new research from the University of Surrey. In the first study of its kind, an international team of scientists, led by Professor Angelica Ronald, analyzed data from nearly 80,000 infants from multiple national and international cohort studies to discover the genetic differences that influence toddler activity levels. Genetic differences (or genetic variation) refer to the differences in DNA sequences between individuals.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-genetic-differences-affecting-toddler-adhd.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "genetic",
+        "differences",
+        "toddler",
+        "activity",
+        "levels",
+        "also",
+        "adhd",
+        "international"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T10:10:40.587462+00:00"
+    },
     {
       "id": "rss-ff083ce88a94",
       "discipline": "clinical",
@@ -35,7 +163,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.243469+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.587664+00:00"
     },
     {
       "id": "rss-594b9e984700",
@@ -67,7 +195,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.243713+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.587856+00:00"
     },
     {
       "id": "rss-c1d6f51acaee",
@@ -99,7 +227,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.243922+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.588054+00:00"
     },
     {
       "id": "rss-841d3e894bdc",
@@ -131,7 +259,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.244120+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.588261+00:00"
     },
     {
       "id": "rss-13605efaae4e",
@@ -163,7 +291,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.244373+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.588491+00:00"
     },
     {
       "id": "rss-ceaa1eec24c3",
@@ -195,7 +323,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.244568+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.588682+00:00"
     },
     {
       "id": "rss-058cc48c0228",
@@ -227,7 +355,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.244747+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.588863+00:00"
     },
     {
       "id": "rss-dea758073976",
@@ -259,7 +387,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.244957+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.589084+00:00"
     },
     {
       "id": "rss-68e708584802",
@@ -291,7 +419,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.245148+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.589285+00:00"
     },
     {
       "id": "rss-665030d1eb72",
@@ -323,141 +451,13 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.245410+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.589534+00:00"
     },
     {
-      "id": "rss-db17afa236e1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Higher vitamin A levels linked to better lung function in children and adults with asthma",
-      "authors": "Medical Xpress",
-      "abstract": "Higher levels of circulating vitamin A are linked to better lung function in children and adults with asthma, while vitamin D shows similar benefits in adults, including slower biological aging, finds the first study of its kind, published online in the respiratory journal Thorax.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-higher-vitamin-linked-lung-function.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "vitamin",
-        "adults",
-        "higher",
-        "levels",
-        "linked",
-        "better",
-        "lung",
-        "function"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.245631+00:00"
-    },
-    {
-      "id": "rss-0d314fb03e33",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Lower thresholds may explain rise in young people's service use for mental health issues",
-      "authors": "Medical Xpress",
-      "abstract": "Lower thresholds for seeking medical help and/or changes in diagnostic practice, rather than a true increase in worsening psychological ill health, may help explain the rise in young people's primary care service use for mental health issues, suggest the findings of a large, long-term Norwegian study published online in the Journal of Epidemiology & Community Health.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-thresholds-young-people-mental-health.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "health",
-        "lower",
-        "thresholds",
-        "explain",
-        "rise",
-        "young",
-        "people",
-        "service"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.245880+00:00"
-    },
-    {
-      "id": "rss-12582439f3f0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "High-dose IV vitamin C may lower risks of death and sepsis in trauma patients",
-      "authors": "Medical Xpress",
-      "abstract": "High doses of intravenous (IV) vitamin C may lower the risk of death and sepsis in trauma patients, as well as shorten hospital stays, a review of the available evidence published online in the journal BMJ Military Health suggests.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-high-dose-iv-vitamin-death.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "vitamin",
-        "lower",
-        "death",
-        "sepsis",
-        "trauma",
-        "patients",
-        "high-dose",
-        "risks"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.246082+00:00"
-    },
-    {
-      "id": "rss-e9b2bfc14df8",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Roux-en-Y gastric bypass, sleeve gastrectomy cost-effective for teens with severe obesity",
-      "authors": "Medical Xpress",
-      "abstract": "Both Roux-en-Y gastric bypass (RYGB) and sleeve gastrectomy are cost-effective compared with no surgery for adolescents with severe obesity, according to a study published online June 15 in JAMA Network Open.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-roux-en-gastric-bypass-sleeve.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "roux-en-y",
-        "gastric",
-        "bypass",
-        "sleeve",
-        "gastrectomy",
-        "cost-effective",
-        "severe",
-        "obesity"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.246282+00:00"
-    },
-    {
-      "id": "rss-9d47e001d71d",
+      "id": "rss-f686255f6ec2",
       "discipline": "cs",
       "type": "news",
-      "title": "The “Father of the Internet” is finally retiring",
+      "title": "The ‘Father of the Internet’ is finally retiring",
       "authors": "TechCrunch AI",
       "abstract": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
       "date": "2026-07-01",
@@ -483,7 +483,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.289878+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.639649+00:00"
     },
     {
       "id": "rss-2d7d3cebf1d7",
@@ -491,7 +491,7 @@ window.LIVE_FEED_DATA = {
       "type": "news",
       "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
       "authors": "TechCrunch AI",
-      "abstract": "Anthropic said it would begin restoring access to the Fable on July 1.",
+      "abstract": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
       "date": "2026-07-01",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -501,21 +501,21 @@ window.LIVE_FEED_DATA = {
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "anthropic",
-        "fable",
         "trump",
         "drops",
         "restrictions",
+        "anthropic",
         "mythos",
-        "said",
-        "would"
+        "fable",
+        "administration",
+        "erratic"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.290074+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.639877+00:00"
     },
     {
       "id": "rss-dacb86df88ff",
@@ -547,7 +547,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.290228+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.640038+00:00"
     },
     {
       "id": "rss-f9d36c9728b1",
@@ -579,7 +579,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.290377+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.640172+00:00"
     },
     {
       "id": "rss-2b7dafc39c06",
@@ -611,7 +611,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.290515+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.640335+00:00"
     },
     {
       "id": "rss-8a4d12d47a6c",
@@ -643,7 +643,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.290653+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.640480+00:00"
     },
     {
       "id": "rss-3c4a42d79bd3",
@@ -675,7 +675,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.290783+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.640617+00:00"
     },
     {
       "id": "rss-7eb36d90616d",
@@ -707,7 +707,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.290934+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.640773+00:00"
     },
     {
       "id": "rss-3a09330e947f",
@@ -739,7 +739,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.291075+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.640926+00:00"
     },
     {
       "id": "rss-1f71ecd63f77",
@@ -771,7 +771,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.291223+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.641085+00:00"
     },
     {
       "id": "rss-c49e7857f36b",
@@ -803,7 +803,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.291371+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.641249+00:00"
     },
     {
       "id": "rss-aa0a207b40cc",
@@ -835,7 +835,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.291490+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.641383+00:00"
     },
     {
       "id": "rss-209010c27304",
@@ -867,7 +867,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.291614+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.641522+00:00"
     },
     {
       "id": "rss-40f21a51b9e8",
@@ -899,7 +899,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.291740+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.641661+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -931,7 +931,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.352708+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.689776+00:00"
     },
     {
       "id": "rss-4e904f861292",
@@ -963,7 +963,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.352897+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.689953+00:00"
     },
     {
       "id": "rss-5b0f51c03247",
@@ -995,7 +995,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.353057+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.690115+00:00"
     },
     {
       "id": "rss-171691b8cedf",
@@ -1027,7 +1027,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.353191+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.690274+00:00"
     },
     {
       "id": "rss-3811b60f2c26",
@@ -1059,7 +1059,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.353378+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.690441+00:00"
     },
     {
       "id": "rss-a8a59a71fab6",
@@ -1091,7 +1091,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.353547+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.690606+00:00"
     },
     {
       "id": "rss-0e554b469f1c",
@@ -1123,7 +1123,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.353679+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.690742+00:00"
     },
     {
       "id": "rss-c83a6084c17d",
@@ -1155,7 +1155,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.619531+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.829578+00:00"
     },
     {
       "id": "rss-0439785447ef",
@@ -1187,7 +1187,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.620152+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.830202+00:00"
     },
     {
       "id": "rss-6e64d9a2858e",
@@ -1219,7 +1219,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.353816+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.690882+00:00"
     },
     {
       "id": "rss-5d40314c8fc4",
@@ -1251,7 +1251,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.353951+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.691023+00:00"
     },
     {
       "id": "rss-93a5db061a72",
@@ -1283,7 +1283,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.620715+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.830740+00:00"
     },
     {
       "id": "rss-aa16e55100c4",
@@ -1315,7 +1315,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.354084+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.691159+00:00"
     },
     {
       "id": "rss-178fcef6b56d",
@@ -1347,7 +1347,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.354228+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.691320+00:00"
     },
     {
       "id": "rss-607184e56a4c",
@@ -1379,7 +1379,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.354375+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.691457+00:00"
     },
     {
       "id": "rss-1842992c471c",
@@ -1411,7 +1411,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.354506+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.691593+00:00"
     },
     {
       "id": "rss-701cdec7906c",
@@ -1443,7 +1443,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.354654+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.691744+00:00"
     },
     {
       "id": "rss-5cf5c5f90af9",
@@ -1475,7 +1475,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.621200+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.831219+00:00"
     },
     {
       "id": "rss-9babfa4d92c2",
@@ -1507,7 +1507,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.621443+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.831444+00:00"
     },
     {
       "id": "rss-9da09de8e550",
@@ -1539,7 +1539,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.621624+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.831623+00:00"
     },
     {
       "id": "rss-3c2f3866802b",
@@ -1571,7 +1571,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.622110+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.832077+00:00"
     },
     {
       "id": "rss-130a779b2400",
@@ -1603,7 +1603,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.622341+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.832305+00:00"
     },
     {
       "id": "rss-2dfddbb1e70d",
@@ -1635,7 +1635,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.622851+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.832807+00:00"
     },
     {
       "id": "rss-1aa9f8004d35",
@@ -1667,7 +1667,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T04:52:08.623421+00:00"
+      "_retrievedAt": "2026-07-01T10:10:40.833355+00:00"
     }
   ]
 };
