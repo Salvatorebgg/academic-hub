@@ -1,225 +1,65 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-07-01T15:10:52.516225+00:00",
+  "generatedAt": "2026-07-01T20:13:20.928154+00:00",
   "total": 52,
   "sources": [
     "RSS"
   ],
   "papers": [
     {
-      "id": "rss-e42c68aec895",
+      "id": "rss-d1b34d227592",
       "discipline": "clinical",
       "type": "news",
-      "title": "Faulty calcium signaling may drive dry mouth in Down syndrome, raising gum disease risk",
+      "title": "Should lowest-risk prostate 'cancer' still be called cancer? How changing the name could save lives",
       "authors": "Medical Xpress",
-      "abstract": "Researchers at NYU College of Dentistry have uncovered what may be biologically driving oral health issues unique to Down syndrome. Their study, published in Cell Reports, describes a molecular mechanism—a defect in calcium signaling—behind low saliva production, along with other factors that may contribute to gum disease.",
+      "abstract": "A growing number of prostate cancer experts argue that calling the lowest-risk prostate cancer \"cancer\" does more harm than good. A new UCLA-led study found removing the cancer label could dramatically reduce overtreatment and encourage more men to get screened, potentially leading to significantly fewer deaths from aggressive prostate cancer.",
       "date": "2026-07-01",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-faulty-calcium-dry-mouth-syndrome.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "calcium",
-        "signaling",
-        "down",
-        "syndrome",
-        "disease",
-        "faulty",
-        "drive",
-        "mouth"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.562682+00:00"
-    },
-    {
-      "id": "rss-10e937f72bde",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Rare muscle disorder mutations reveal a precision medicine strategy",
-      "authors": "Medical Xpress",
-      "abstract": "Scientists at the University of California San Diego have uncovered how genetic mutations cause a rare group of inherited neuromuscular disorders and identified promising new strategies to correct them, including a potential new use for an existing antidepressant.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-rare-muscle-disorder-mutations-reveal.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "rare",
-        "mutations",
-        "muscle",
-        "disorder",
-        "reveal",
-        "precision",
-        "medicine",
-        "strategy"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.562966+00:00"
-    },
-    {
-      "id": "rss-d133e50f04e2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Next-generation HIF-2α inhibitor shows promise in kidney cancer translational clinical trial",
-      "authors": "Medical Xpress",
-      "abstract": "The first-in-patient, single-arm ARC-20 clinical trial, led by Dana-Farber Cancer Institute's Toni K. Choueiri, MD, has evaluated casdatifan, a next-generation HIF-2α inhibitor, as monotherapy for metastatic clear cell renal cell carcinoma (ccRCC), the most common subtype of kidney cancer. Patients eligible for the study were previously treated with standard therapies.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-generation-hif-inhibitor-kidney-cancer.html",
+      "url": "https://medicalxpress.com/news/2026-07-lowest-prostate-cancer.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "cancer",
-        "next-generation",
-        "hif-",
-        "inhibitor",
-        "kidney",
-        "clinical",
+        "prostate",
+        "lowest-risk",
+        "could",
+        "more",
+        "should",
+        "still",
+        "called"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T20:13:20.535682+00:00"
+    },
+    {
+      "id": "rss-729af62908bf",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Investigators report promising results from Phase II trial of targeted therapy for rare bile duct cancer",
+      "authors": "Medical Xpress",
+      "abstract": "Results of the ongoing eNRGy trial, a single-arm, multicenter, global Phase II clinical trial evaluating zenocutuzumab in solid tumors positive for Neuregulin 1 (NRG1) gene fusions, reported manageable side effects and clinically meaningful efficacy—including a near doubling of progression-free survival compared with expectations with standard of care—in previously treated patients with advanced NRG1-positive cholangiocarcinoma.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-results-phase-ii-trial-therapy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
         "trial",
-        "cell"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.563272+00:00"
-    },
-    {
-      "id": "rss-ee4dc83d5328",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "TROP2 marks relapse-driving colorectal cancer cells and opens path to targeted treatment",
-      "authors": "Medical Xpress",
-      "abstract": "A team led by researchers from the German Cancer Research Center (DKFZ) and the HI-STEM Stem Cell Institute has discovered a promising new approach to treating advanced colorectal cancer. The study, published in Nature, identifies a key marker of particularly aggressive and treatment-resistant colorectal cancer cells.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-trop2-relapse-colorectal-cancer-cells.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "colorectal",
-        "cells",
-        "trop",
-        "marks",
-        "relapse-driving",
-        "opens",
-        "path"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.563534+00:00"
-    },
-    {
-      "id": "rss-b539e5d1699a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Long COVID rehab program helps with return to work and focus",
-      "authors": "Medical Xpress",
-      "abstract": "Ten weeks of cognitive rehabilitation can help people with long COVID symptoms such as brain fog achieve their goals in returning to work and hobbies, a new clinical trial led by University College London (UCL) researchers has found.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-covid-rehab-focus.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "long",
-        "covid",
-        "work",
-        "rehab",
-        "program",
-        "helps",
-        "return",
-        "focus"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.563827+00:00"
-    },
-    {
-      "id": "rss-bfb5d5fdd7d5",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New immunotherapy strategy targets aggressive brain tumors and their immune cell accomplices",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at McMaster University have developed a new cancer immunotherapy strategy that can simultaneously attack deadly brain tumors and the immune cells that help them grow.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-immunotherapy-strategy-aggressive-brain-tumors.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "immunotherapy",
-        "strategy",
-        "brain",
-        "tumors",
-        "immune",
-        "that",
-        "targets",
-        "aggressive"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.564063+00:00"
-    },
-    {
-      "id": "rss-4f2796e771bb",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Neurobiologists improve symptoms of Huntington's disease with targeted brain stimulation in mice",
-      "authors": "Medical Xpress",
-      "abstract": "Huntington's disease is a devastating brain disorder in which decaying nerve cells lead to progressively worsening cognitive and movement abilities. While the genetic mutation responsible for the condition is well known, the intricate details of how the disease disrupts specific brain circuits have not been clearly understood. This gap has complicated efforts to develop effective therapies, and the disease remains fatal, with no known cure.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-neurobiologists-symptoms-huntington-disease-brain.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "disease",
-        "brain",
-        "huntington",
-        "known",
-        "neurobiologists",
-        "improve",
-        "symptoms",
+        "results",
+        "phase",
+        "positive",
+        "investigators",
+        "report",
+        "promising",
         "targeted"
       ],
       "readTime": "1 min",
@@ -227,231 +67,487 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.564345+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.535931+00:00"
     },
     {
-      "id": "rss-ace62a7b9215",
+      "id": "rss-2cf226608650",
       "discipline": "clinical",
       "type": "news",
-      "title": "The brain's language network is more extensive than previously thought",
+      "title": "Cognitive flexibility problems may arise months before memory impairment in Alzheimer's",
       "authors": "Medical Xpress",
-      "abstract": "For decades, neuroscientists have known that specific regions in the brain's left hemisphere are responsible for processing language. However, a new study by MIT researchers shows that language processing also occurs in many other parts of the brain.",
+      "abstract": "When most people think about Alzheimer's disease, memory loss is usually the first thing that comes to mind. Forgetting a loved one's name, missing appointments or repeatedly misplacing everyday items are often considered early warning signs. But what if the disease begins affecting the brain long before memory problems become noticeable? New research from scientists at Texas A&M Health suggests that another change in brain function may appear even earlier: difficulty adapting when circumstances change.",
       "date": "2026-07-01",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-brain-language-network-extensive-previously.html",
+      "url": "https://medicalxpress.com/news/2026-07-cognitive-flexibility-problems-months-memory.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "brain",
-        "language",
-        "that",
-        "processing",
-        "network",
-        "more",
-        "extensive",
-        "than"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.564586+00:00"
-    },
-    {
-      "id": "rss-6356ad232f20",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Stronger focus on nutrition needed in eating disorder recovery",
-      "authors": "Medical Xpress",
-      "abstract": "Overreliance on body mass index (BMI) to measure recovery from eating disorders has sparked calls for better assessment methods. University of Queensland researchers reviewed 60 studies from five databases across 16 countries between 1990 and 2025 to understand more about how nutrition fits into eating disorder treatment. Their findings are published in the journal Eating Disorders.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-stronger-focus-nutrition-disorder-recovery.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "eating",
-        "nutrition",
-        "disorder",
-        "recovery",
-        "disorders",
-        "stronger",
-        "focus",
-        "needed"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.564872+00:00"
-    },
-    {
-      "id": "rss-4b73a8750d11",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Researchers to teens: Get to bed—it's good for your blood sugar",
-      "authors": "Medical Xpress",
-      "abstract": "If you're 18, getting a bit more sleep could matter more than you think. New research from the University of Copenhagen and COPSAC shows that even in healthy young people, longer nights of sleep are linked to more stable blood sugar levels the next day. What's more, the relationship appears to go both ways. The findings suggest that sleep may play an important role in our metabolism long before conditions such as diabetes develop.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-teens-bed-good-blood-sugar.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "more",
-        "sleep",
-        "blood",
-        "sugar",
-        "that",
-        "researchers",
-        "teens",
-        "good"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.565176+00:00"
-    },
-    {
-      "id": "rss-ef050c67fd35",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Should pregnant women worry about taking Tylenol? 20-year sibling-matched study finds no link to autism or ADHD",
-      "authors": "Medical Xpress",
-      "abstract": "Tylenol (also known as acetaminophen or paracetamol) is one of the most widely used over-the-counter options for easing pain and reducing fever, including during pregnancy. More recently, safety concerns around use during pregnancy have gained attention, with claims of a possible link between prenatal exposure and autism in children increasingly appearing in news headlines and prime-time debates.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-pregnant-women-tylenol-year-sibling.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "tylenol",
-        "link",
-        "autism",
-        "during",
-        "pregnancy",
-        "should",
-        "pregnant",
-        "women"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.565451+00:00"
-    },
-    {
-      "id": "rss-565bbc5c872c",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Your dominant hand is made, not born, experiments suggest",
-      "authors": "Medical Xpress",
-      "abstract": "Most people favor one hand, and that hand tends to be the better one for writing, throwing and managing chopsticks. The long-standing view is that the dominant hand is \"born\" more capable, its skills rooted in a brain hemisphere specialized for motor control. A new study in PNAS argues that this difference in skill is not innate at all. It is the consequence of a lifetime of practice, and it surfaces only when we pick up a tool.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-dominant-born.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hand",
-        "that",
-        "dominant",
-        "born",
-        "your",
-        "made",
-        "experiments",
-        "suggest"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.565750+00:00"
-    },
-    {
-      "id": "rss-fd42cd0b5f96",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Researchers improve analysis of molecules linked to Alzheimer's disease",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at the FAMU-FSU College of Engineering and the National High Magnetic Field Laboratory have shown how higher magnetic fields can improve analysis of the molecules linked to Alzheimer's disease, a finding that could aid the development of future treatments.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-analysis-molecules-linked-alzheimer-disease.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "researchers",
-        "improve",
-        "molecules",
-        "linked",
+        "memory",
+        "problems",
+        "before",
         "alzheimer",
+        "when",
         "disease",
-        "magnetic",
-        "famu-fsu"
+        "that",
+        "brain"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.565995+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.536157+00:00"
     },
     {
-      "id": "rss-d9bbeaf87757",
+      "id": "rss-5ae3917f6091",
       "discipline": "clinical",
       "type": "news",
-      "title": "Running on a treadmill is easier than running outside. Does that matter?",
+      "title": "Whether children receive opioids after surgery varies by hospital and procedure type",
       "authors": "Medical Xpress",
-      "abstract": "You hop on the treadmill, set your pace and easily knock out a couple of kilometers (about 1.2 miles). Then, a few days later, you head outside to run the same distance. You try to keep the same speed you did at the gym, but it destroys you.",
+      "abstract": "Whether children receive an opioid prescription after surgery varies substantially by procedure type and hospital, according to a new national analysis published in the Journal of the American College of Surgeons. The study also found that overall, nearly one-third of children are prescribed opioids after surgery.",
       "date": "2026-07-01",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-treadmill-easier.html",
+      "url": "https://medicalxpress.com/news/2026-07-children-opioids-surgery-varies-hospital.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "running",
-        "treadmill",
-        "outside",
-        "same",
-        "easier",
-        "than",
-        "does",
-        "that"
+        "children",
+        "after",
+        "surgery",
+        "whether",
+        "receive",
+        "opioids",
+        "varies",
+        "hospital"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.566236+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.536330+00:00"
+    },
+    {
+      "id": "rss-9b0d41edbf1b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "GLP-1 drugs outperform SGLT-2 drugs for patients with Afib and type 2 diabetes",
+      "authors": "Medical Xpress",
+      "abstract": "Individuals with atrial fibrillation (Afib), or irregular heart rhythm, are at increased risk of stroke, chronic kidney disease and heart failure. These risks are significantly exacerbated if a type 2 diabetes diagnosis is added to the mix, says Md Mohaimenul Islam, Ph.D., research assistant professor in the Department of Pharmacy Practice in the University at Buffalo School of Pharmacy and Pharmaceutical Sciences.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-glp-drugs-outperform-sglt-patients.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "drugs",
+        "afib",
+        "type",
+        "diabetes",
+        "heart",
+        "pharmacy",
+        "glp-",
+        "outperform"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T20:13:20.536514+00:00"
+    },
+    {
+      "id": "rss-731b41b200d0",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "As a major heat wave grips the eastern US, here's how to stay safe, and the heat stroke warning signs to watch for",
+      "authors": "Medical Xpress",
+      "abstract": "Millions of Americans are facing heat advisories ahead of the July Fourth holiday as a major heat wave spreads across large parts of the central and eastern United States.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-major-eastern-stay-safe.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "heat",
+        "major",
+        "wave",
+        "eastern",
+        "grips",
+        "here",
+        "stay",
+        "safe"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T20:13:20.536683+00:00"
+    },
+    {
+      "id": "rss-f105dfbfc88e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "The hidden risks of gray‑market peptides: Why women face greater danger",
+      "authors": "Medical Xpress",
+      "abstract": "A wave of unregulated peptides is sweeping the wellness world, sold online with bold promises about muscle gain, anti-aging and fat loss. But concern is growing about side effects, and almost nobody is asking whether these substances affect men and women in the same way. The evidence suggests they do not.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-hidden-graymarket-peptides-women-greater.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "peptides",
+        "women",
+        "about",
+        "hidden",
+        "risks",
+        "gray",
+        "market",
+        "face"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T20:13:20.536868+00:00"
+    },
+    {
+      "id": "rss-dc8118a226d0",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Why 25 minutes may matter in music therapy sessions: Heart-rate synchrony peaks later",
+      "authors": "Medical Xpress",
+      "abstract": "New research has discovered the time it takes for a therapist and patient to reach the moment of strongest connection during a therapy session—around 25 minutes. The study, published in the journal Frontiers in Psychology, is the first to identify how long it can take for heart-rate synchrony to peak during music therapy.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-minutes-music-therapy-sessions-heart.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "therapy",
+        "minutes",
+        "music",
+        "heart-rate",
+        "synchrony",
+        "during",
+        "matter",
+        "sessions"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T20:13:20.537049+00:00"
+    },
+    {
+      "id": "rss-93a78078ea17",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Ways to make clinical trials more informative and reduce research waste",
+      "authors": "Medical Xpress",
+      "abstract": "A major international study published in JAMA Network Open has identified practical actions that could improve the quality, usefulness and reliability of randomized clinical trials around the world. The research, conducted as part of the INFORM (Improving pre-funding peer review to increase the informativeness of randomized trials) project led by Professor Shaun Treweek, draws on interviews with 55 stakeholders from 16 countries across six continents, including trial investigators, funders, ethicists, regulators, industry representatives and sponsors.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-ways-clinical-trials.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "trials",
+        "clinical",
+        "randomized",
+        "ways",
+        "make",
+        "more",
+        "informative",
+        "reduce"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T20:13:20.537248+00:00"
+    },
+    {
+      "id": "rss-8a39e91334c9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Malaria vaccine quest narrows as shared parasite targets emerge in liver",
+      "authors": "Medical Xpress",
+      "abstract": "Scientists have identified targets on the malaria-causing parasite that could be key to developing a universal vaccine against one of humankind's oldest and deadliest diseases. Researchers from Oregon Health & Science University and collaborators across the globe identified telltale fragments of a malaria-causing parasite that could be targeted by a vaccine designed using T cells, a type of white blood cell. The work is published in the journal Nature.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-malaria-vaccine-quest-narrows-parasite.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "vaccine",
+        "parasite",
+        "targets",
+        "identified",
+        "malaria-causing",
+        "that",
+        "could",
+        "malaria"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T20:13:20.537440+00:00"
+    },
+    {
+      "id": "rss-c1cdfcd741fd",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Exertion tests offer insight into recovery from youth concussions",
+      "authors": "Medical Xpress",
+      "abstract": "Clinical exams that incorporate gait analysis after physical exertion may provide insight into how youths are recovering after concussions and help determine whether they are ready to return to sports, UT Southwestern Medical Center and Scottish Rite for Children (SRC) researchers found. Their study, published in the Clinical Journal of Sport Medicine, showed significant differences in the walking patterns and cognitive abilities of concussed youths after an experimental protocol.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-exertion-insight-recovery-youth-concussions.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "after",
+        "exertion",
+        "insight",
+        "concussions",
+        "clinical",
+        "youths",
+        "tests",
+        "offer"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T20:13:20.537624+00:00"
+    },
+    {
+      "id": "rss-9e3c206c4590",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Rare stem T cells may hold the key to fighting chronic diseases",
+      "authors": "Medical Xpress",
+      "abstract": "T cells are an elite fighting force of the immune system, seeking out and destroying diseased cells. But in a prolonged campaign against a chronic condition—like a viral infection or cancer—the body needs a steady supply of these killer troops. Where and how these killer troops are generated has been a mystery.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-rare-stem-cells-key-chronic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cells",
+        "fighting",
+        "chronic",
+        "these",
+        "killer",
+        "troops",
+        "rare",
+        "stem"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T20:13:20.537849+00:00"
+    },
+    {
+      "id": "rss-79e6f8f20dcc",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Wearable device reveals how sleep changes from freshman to senior year for college students",
+      "authors": "Medical Xpress",
+      "abstract": "Sleep is a fundamental aspect of human health that plays a crucial role in cognitive function, academic performance and social interactions. A study published in PLOS One by Yao Zhao at Temple University, U.S., and colleagues suggests that wearable devices can provide accurate, longitudinal sleep data to facilitate analyses of changing sleep patterns over time.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-wearable-device-reveals-freshman-senior.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "sleep",
+        "wearable",
+        "that",
+        "device",
+        "reveals",
+        "changes",
+        "freshman",
+        "senior"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T20:13:20.538027+00:00"
+    },
+    {
+      "id": "rss-7a9a63928ee7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "A simple message helps keep stem cell donors on track",
+      "authors": "Medical Xpress",
+      "abstract": "When a patient needs a stem cell transplant, finding a registered donor is only the first step. Some potential donors drop out before confirmatory typing, reducing the pool from which doctors can choose. Researchers from Osaka University and collaborators tested whether a small change in wording could help more donors continue. This study is published in the Journal of Economic Behavior & Organization.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-simple-message-stem-cell-donors.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "donors",
+        "stem",
+        "cell",
+        "simple",
+        "message",
+        "helps",
+        "keep",
+        "track"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T20:13:20.538204+00:00"
+    },
+    {
+      "id": "rss-55225443b10e",
+      "discipline": "cs",
+      "type": "news",
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "authors": "TechCrunch AI",
+      "abstract": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "spacex",
+        "device",
+        "prototype",
+        "sure",
+        "sounds",
+        "phone-ish",
+        "reportedly",
+        "showed"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T20:13:20.560082+00:00"
+    },
+    {
+      "id": "rss-6484849365a6",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "authors": "TechCrunch AI",
+      "abstract": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "kutcher",
+        "sound",
+        "ashton",
+        "leaving",
+        "ventures",
+        "launch",
+        "firm",
+        "morgan"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T20:13:20.560268+00:00"
+    },
+    {
+      "id": "rss-55ee2b185894",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "authors": "TechCrunch AI",
+      "abstract": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cloudflare",
+        "companies",
+        "used",
+        "policy",
+        "pushes",
+        "publishers",
+        "content",
+        "giving"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T20:13:20.560401+00:00"
     },
     {
       "id": "rss-101618635bf5",
@@ -483,7 +579,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.659542+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.560510+00:00"
     },
     {
       "id": "rss-6d1003c9ce68",
@@ -515,7 +611,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.659825+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.560622+00:00"
     },
     {
       "id": "rss-176dfa758459",
@@ -547,7 +643,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.660050+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.560771+00:00"
     },
     {
       "id": "rss-09272b38bb51",
@@ -579,7 +675,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.660247+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.560888+00:00"
     },
     {
       "id": "rss-f686255f6ec2",
@@ -611,7 +707,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.660423+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.560996+00:00"
     },
     {
       "id": "rss-2d7d3cebf1d7",
@@ -643,7 +739,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.660601+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.561110+00:00"
     },
     {
       "id": "rss-dacb86df88ff",
@@ -675,7 +771,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.660799+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.561217+00:00"
     },
     {
       "id": "rss-f9d36c9728b1",
@@ -707,7 +803,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.660948+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.561306+00:00"
     },
     {
       "id": "rss-2b7dafc39c06",
@@ -739,7 +835,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.661111+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.561406+00:00"
     },
     {
       "id": "rss-8a4d12d47a6c",
@@ -771,7 +867,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.661273+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.561509+00:00"
     },
     {
       "id": "rss-3c4a42d79bd3",
@@ -803,103 +899,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.661428+00:00"
-    },
-    {
-      "id": "rss-7eb36d90616d",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-      "authors": "TechCrunch AI",
-      "abstract": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
-      "date": "2026-06-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "anthropic",
-        "claude",
-        "sonnet",
-        "cheaper",
-        "launches",
-        "agents",
-        "brings",
-        "stronger"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.661606+00:00"
-    },
-    {
-      "id": "rss-3a09330e947f",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Acti puts AI agents directly into your smartphone keyboard",
-      "authors": "TechCrunch AI",
-      "abstract": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
-      "date": "2026-06-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "keyboard",
-        "acti",
-        "smartphone",
-        "puts",
-        "agents",
-        "directly",
-        "your",
-        "betting"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.661810+00:00"
-    },
-    {
-      "id": "rss-1f71ecd63f77",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-      "authors": "TechCrunch AI",
-      "abstract": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
-      "date": "2026-06-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "anthropic",
-        "claude",
-        "scientists",
-        "bets",
-        "workflow",
-        "over",
-        "workbench",
-        "that"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.661997+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.561606+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -931,7 +931,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.747852+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.589842+00:00"
     },
     {
       "id": "rss-19e287a9fb9c",
@@ -963,7 +963,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:52.266584+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.780164+00:00"
     },
     {
       "id": "rss-4e904f861292",
@@ -995,7 +995,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.748054+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.589988+00:00"
     },
     {
       "id": "rss-5b0f51c03247",
@@ -1027,7 +1027,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.748240+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.590117+00:00"
     },
     {
       "id": "rss-171691b8cedf",
@@ -1059,7 +1059,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.748401+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.590224+00:00"
     },
     {
       "id": "rss-3811b60f2c26",
@@ -1091,7 +1091,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.748591+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.590350+00:00"
     },
     {
       "id": "rss-a8a59a71fab6",
@@ -1123,7 +1123,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.748828+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.590475+00:00"
     },
     {
       "id": "rss-0e554b469f1c",
@@ -1155,7 +1155,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.748989+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.590577+00:00"
     },
     {
       "id": "rss-c83a6084c17d",
@@ -1187,7 +1187,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:52.267073+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.780511+00:00"
     },
     {
       "id": "rss-0439785447ef",
@@ -1219,7 +1219,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:52.267711+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.780992+00:00"
     },
     {
       "id": "rss-6e64d9a2858e",
@@ -1251,7 +1251,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.749151+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.590693+00:00"
     },
     {
       "id": "rss-5d40314c8fc4",
@@ -1283,7 +1283,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.749309+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.590800+00:00"
     },
     {
       "id": "rss-93a5db061a72",
@@ -1315,7 +1315,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:52.268272+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.781406+00:00"
     },
     {
       "id": "rss-aa16e55100c4",
@@ -1347,7 +1347,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.749473+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.590902+00:00"
     },
     {
       "id": "rss-178fcef6b56d",
@@ -1379,7 +1379,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.749644+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.591015+00:00"
     },
     {
       "id": "rss-607184e56a4c",
@@ -1411,7 +1411,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.749825+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.591115+00:00"
     },
     {
       "id": "rss-1842992c471c",
@@ -1443,7 +1443,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.749980+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.591213+00:00"
     },
     {
       "id": "rss-701cdec7906c",
@@ -1475,7 +1475,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:51.750152+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.591327+00:00"
     },
     {
       "id": "rss-5cf5c5f90af9",
@@ -1507,7 +1507,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:52.268783+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.781783+00:00"
     },
     {
       "id": "rss-9babfa4d92c2",
@@ -1539,7 +1539,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:52.269034+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.781958+00:00"
     },
     {
       "id": "rss-9da09de8e550",
@@ -1571,7 +1571,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:52.269235+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.782097+00:00"
     },
     {
       "id": "rss-3c2f3866802b",
@@ -1603,7 +1603,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:52.269752+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.782459+00:00"
     },
     {
       "id": "rss-130a779b2400",
@@ -1635,7 +1635,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:52.270008+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.782615+00:00"
     },
     {
       "id": "rss-2dfddbb1e70d",
@@ -1667,7 +1667,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T15:10:52.270529+00:00"
+      "_retrievedAt": "2026-07-01T20:13:20.783022+00:00"
     }
   ]
 };
