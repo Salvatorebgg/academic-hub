@@ -1,457 +1,585 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-07-01T10:10:40.980891+00:00",
+  "generatedAt": "2026-07-01T15:10:52.516225+00:00",
   "total": 52,
   "sources": [
     "RSS"
   ],
   "papers": [
     {
-      "id": "rss-04b91b6a7743",
+      "id": "rss-e42c68aec895",
       "discipline": "clinical",
       "type": "news",
-      "title": "GLP-1 medications linked to fewer deaths and amputations in people with type 2 diabetes and PAD",
+      "title": "Faulty calcium signaling may drive dry mouth in Down syndrome, raising gum disease risk",
       "authors": "Medical Xpress",
-      "abstract": "According to new, independent research published in the Journal of the American Heart Association, GLP-1 receptor agonist (GLP-1 RA) medications reduce the number of deaths, amputations and hospitalizations among people with type 2 diabetes who also have narrowed leg arteries associated with PAD (peripheral artery disease).",
+      "abstract": "Researchers at NYU College of Dentistry have uncovered what may be biologically driving oral health issues unique to Down syndrome. Their study, published in Cell Reports, describes a molecular mechanism—a defect in calcium signaling—behind low saliva production, along with other factors that may contribute to gum disease.",
       "date": "2026-07-01",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-glp-medications-linked-deaths-amputations.html",
+      "url": "https://medicalxpress.com/news/2026-06-faulty-calcium-dry-mouth-syndrome.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "glp-",
-        "medications",
-        "deaths",
-        "amputations",
-        "people",
-        "type",
-        "diabetes",
-        "linked"
+        "calcium",
+        "signaling",
+        "down",
+        "syndrome",
+        "disease",
+        "faulty",
+        "drive",
+        "mouth"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.586681+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.562682+00:00"
     },
     {
-      "id": "rss-0dd1aa050ddd",
+      "id": "rss-10e937f72bde",
       "discipline": "clinical",
       "type": "news",
-      "title": "Bacteria's 'mix-and-match' code could create new cancer-fighting drugs",
+      "title": "Rare muscle disorder mutations reveal a precision medicine strategy",
       "authors": "Medical Xpress",
-      "abstract": "A team of researchers at the University of Warwick and Monash University has solved a puzzle that has stumped drug developers for decades: how bacteria naturally create multiple versions of powerful cancer therapies. The breakthrough could accelerate the development of new treatments for hard-to-treat cancers.",
+      "abstract": "Scientists at the University of California San Diego have uncovered how genetic mutations cause a rare group of inherited neuromuscular disorders and identified promising new strategies to correct them, including a potential new use for an existing antidepressant.",
       "date": "2026-07-01",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-bacteria-code-cancer-drugs.html",
+      "url": "https://medicalxpress.com/news/2026-07-rare-muscle-disorder-mutations-reveal.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "bacteria",
-        "could",
-        "create",
-        "university",
-        "mix-and-match",
-        "code",
-        "cancer-fighting",
-        "drugs"
+        "rare",
+        "mutations",
+        "muscle",
+        "disorder",
+        "reveal",
+        "precision",
+        "medicine",
+        "strategy"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.586936+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.562966+00:00"
     },
     {
-      "id": "rss-cc07493428e5",
+      "id": "rss-d133e50f04e2",
       "discipline": "clinical",
       "type": "news",
-      "title": "COVID-19 vaccine boosters may help protect against future animal coronaviruses, research suggests",
+      "title": "Next-generation HIF-2α inhibitor shows promise in kidney cancer translational clinical trial",
       "authors": "Medical Xpress",
-      "abstract": "COVID-19 vaccine boosters not only protect against SARS-CoV-2—the virus behind the most recent pandemic—but may also help protect against some future coronaviruses that risk spreading from animals to humans, Cambridge researchers have shown.",
+      "abstract": "The first-in-patient, single-arm ARC-20 clinical trial, led by Dana-Farber Cancer Institute's Toni K. Choueiri, MD, has evaluated casdatifan, a next-generation HIF-2α inhibitor, as monotherapy for metastatic clear cell renal cell carcinoma (ccRCC), the most common subtype of kidney cancer. Patients eligible for the study were previously treated with standard therapies.",
       "date": "2026-07-01",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-covid-vaccine-boosters-future-animal.html",
+      "url": "https://medicalxpress.com/news/2026-06-generation-hif-inhibitor-kidney-cancer.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "protect",
-        "against",
-        "covid-",
-        "vaccine",
-        "boosters",
-        "help",
-        "future",
-        "coronaviruses"
+        "cancer",
+        "next-generation",
+        "hif-",
+        "inhibitor",
+        "kidney",
+        "clinical",
+        "trial",
+        "cell"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.587177+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.563272+00:00"
     },
     {
-      "id": "rss-c8307e8dd18c",
+      "id": "rss-ee4dc83d5328",
       "discipline": "clinical",
       "type": "news",
-      "title": "Genetic differences affecting toddler activity levels are also associated with ADHD",
+      "title": "TROP2 marks relapse-driving colorectal cancer cells and opens path to targeted treatment",
       "authors": "Medical Xpress",
-      "abstract": "A toddler's activity levels are influenced by genetic differences, with some of the same genetic markers also linked to attention-deficit/hyperactivity disorder (ADHD), according to new research from the University of Surrey. In the first study of its kind, an international team of scientists, led by Professor Angelica Ronald, analyzed data from nearly 80,000 infants from multiple national and international cohort studies to discover the genetic differences that influence toddler activity levels. Genetic differences (or genetic variation) refer to the differences in DNA sequences between individuals.",
+      "abstract": "A team led by researchers from the German Cancer Research Center (DKFZ) and the HI-STEM Stem Cell Institute has discovered a promising new approach to treating advanced colorectal cancer. The study, published in Nature, identifies a key marker of particularly aggressive and treatment-resistant colorectal cancer cells.",
       "date": "2026-07-01",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-genetic-differences-affecting-toddler-adhd.html",
+      "url": "https://medicalxpress.com/news/2026-06-trop2-relapse-colorectal-cancer-cells.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "genetic",
-        "differences",
-        "toddler",
-        "activity",
-        "levels",
-        "also",
-        "adhd",
-        "international"
+        "cancer",
+        "colorectal",
+        "cells",
+        "trop",
+        "marks",
+        "relapse-driving",
+        "opens",
+        "path"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.587462+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.563534+00:00"
     },
     {
-      "id": "rss-ff083ce88a94",
+      "id": "rss-b539e5d1699a",
       "discipline": "clinical",
       "type": "news",
-      "title": "Stepped alcohol treatment via telehealth reduces alcohol use",
+      "title": "Long COVID rehab program helps with return to work and focus",
       "authors": "Medical Xpress",
-      "abstract": "Stepped alcohol treatment (SAT) offered via telehealth helps people with chronic liver disease (CLD) reduce alcohol consumption, according to a study published online June 24 in Hepatology.",
+      "abstract": "Ten weeks of cognitive rehabilitation can help people with long COVID symptoms such as brain fog achieve their goals in returning to work and hobbies, a new clinical trial led by University College London (UCL) researchers has found.",
       "date": "2026-07-01",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-alcohol-treatment-telehealth.html",
+      "url": "https://medicalxpress.com/news/2026-07-covid-rehab-focus.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "alcohol",
-        "stepped",
-        "treatment",
-        "telehealth",
-        "reduces",
-        "offered",
+        "long",
+        "covid",
+        "work",
+        "rehab",
+        "program",
         "helps",
-        "people"
+        "return",
+        "focus"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.587664+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.563827+00:00"
     },
     {
-      "id": "rss-594b9e984700",
+      "id": "rss-bfb5d5fdd7d5",
       "discipline": "clinical",
       "type": "news",
-      "title": "Real-time pollen data perceived as valuable among some with seasonal allergies",
+      "title": "New immunotherapy strategy targets aggressive brain tumors and their immune cell accomplices",
       "authors": "Medical Xpress",
-      "abstract": "There are unmet informational needs among individuals with seasonal allergies, according to a study published June 1 in Frontiers in Allergy.",
+      "abstract": "Researchers at McMaster University have developed a new cancer immunotherapy strategy that can simultaneously attack deadly brain tumors and the immune cells that help them grow.",
       "date": "2026-07-01",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-real-pollen-valuable-seasonal-allergies.html",
+      "url": "https://medicalxpress.com/news/2026-07-immunotherapy-strategy-aggressive-brain-tumors.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "among",
-        "seasonal",
-        "allergies",
-        "real-time",
-        "pollen",
-        "perceived",
-        "valuable",
-        "some"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.587856+00:00"
-    },
-    {
-      "id": "rss-c1d6f51acaee",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Australia relaxes psychedelic therapy oversight despite limited safety evidence",
-      "authors": "Medical Xpress",
-      "abstract": "Psilocybin (the active ingredient of magic mushrooms) and MDMA (the active ingredient in ecstasy) are psychedelic or hallucinogenic drugs that can change how a person sees things and feels.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-australia-psychedelic-therapy-oversight-limited.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "psychedelic",
-        "active",
-        "ingredient",
-        "australia",
-        "relaxes",
-        "therapy",
-        "oversight",
-        "despite"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.588054+00:00"
-    },
-    {
-      "id": "rss-841d3e894bdc",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New research challenges beliefs about 'safe' times to be in the sun",
-      "authors": "Medical Xpress",
-      "abstract": "A QIMR Berghofer study has revealed that short periods outdoors during hours of low sunlight can cause skin damage and contribute to skin cancer risk.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-beliefs-safe-sun.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "skin",
-        "challenges",
-        "beliefs",
-        "about",
-        "safe",
-        "times",
-        "qimr",
-        "berghofer"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.588261+00:00"
-    },
-    {
-      "id": "rss-13605efaae4e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Mussel-inspired vaccine aims to close the immunization gap with long-lasting immune protection",
-      "authors": "Medical Xpress",
-      "abstract": "A research team in Korea has developed a vaccine technology that delivers long-lasting immune protection from a single dose by applying the powerful underwater adhesion mechanism of mussels. The work is drawing attention not only for reducing the burden of repeat vaccination, but also for its potential to reach people in countries where vaccine access is difficult.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-mussel-vaccine-aims-immunization-gap.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "vaccine",
-        "long-lasting",
+        "immunotherapy",
+        "strategy",
+        "brain",
+        "tumors",
         "immune",
-        "protection",
-        "mussel-inspired",
-        "aims",
-        "close",
-        "immunization"
+        "that",
+        "targets",
+        "aggressive"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.588491+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.564063+00:00"
     },
     {
-      "id": "rss-ceaa1eec24c3",
+      "id": "rss-4f2796e771bb",
       "discipline": "clinical",
       "type": "news",
-      "title": "Adenotonsillectomy linked to increased odds of pediatric-onset multiple sclerosis",
+      "title": "Neurobiologists improve symptoms of Huntington's disease with targeted brain stimulation in mice",
       "authors": "Medical Xpress",
-      "abstract": "History of adenotonsillectomy is associated with increased odds of pediatric-onset multiple sclerosis (POMS), according to a study published online May 29 in Multiple Sclerosis Journal.",
+      "abstract": "Huntington's disease is a devastating brain disorder in which decaying nerve cells lead to progressively worsening cognitive and movement abilities. While the genetic mutation responsible for the condition is well known, the intricate details of how the disease disrupts specific brain circuits have not been clearly understood. This gap has complicated efforts to develop effective therapies, and the disease remains fatal, with no known cure.",
       "date": "2026-07-01",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-adenotonsillectomy-linked-odds-pediatric-onset.html",
+      "url": "https://medicalxpress.com/news/2026-06-neurobiologists-symptoms-huntington-disease-brain.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "multiple",
-        "sclerosis",
-        "adenotonsillectomy",
-        "increased",
-        "odds",
-        "pediatric-onset",
+        "disease",
+        "brain",
+        "huntington",
+        "known",
+        "neurobiologists",
+        "improve",
+        "symptoms",
+        "targeted"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T15:10:51.564345+00:00"
+    },
+    {
+      "id": "rss-ace62a7b9215",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "The brain's language network is more extensive than previously thought",
+      "authors": "Medical Xpress",
+      "abstract": "For decades, neuroscientists have known that specific regions in the brain's left hemisphere are responsible for processing language. However, a new study by MIT researchers shows that language processing also occurs in many other parts of the brain.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-brain-language-network-extensive-previously.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "language",
+        "that",
+        "processing",
+        "network",
+        "more",
+        "extensive",
+        "than"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T15:10:51.564586+00:00"
+    },
+    {
+      "id": "rss-6356ad232f20",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Stronger focus on nutrition needed in eating disorder recovery",
+      "authors": "Medical Xpress",
+      "abstract": "Overreliance on body mass index (BMI) to measure recovery from eating disorders has sparked calls for better assessment methods. University of Queensland researchers reviewed 60 studies from five databases across 16 countries between 1990 and 2025 to understand more about how nutrition fits into eating disorder treatment. Their findings are published in the journal Eating Disorders.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-stronger-focus-nutrition-disorder-recovery.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "eating",
+        "nutrition",
+        "disorder",
+        "recovery",
+        "disorders",
+        "stronger",
+        "focus",
+        "needed"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T15:10:51.564872+00:00"
+    },
+    {
+      "id": "rss-4b73a8750d11",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Researchers to teens: Get to bed—it's good for your blood sugar",
+      "authors": "Medical Xpress",
+      "abstract": "If you're 18, getting a bit more sleep could matter more than you think. New research from the University of Copenhagen and COPSAC shows that even in healthy young people, longer nights of sleep are linked to more stable blood sugar levels the next day. What's more, the relationship appears to go both ways. The findings suggest that sleep may play an important role in our metabolism long before conditions such as diabetes develop.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-teens-bed-good-blood-sugar.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "more",
+        "sleep",
+        "blood",
+        "sugar",
+        "that",
+        "researchers",
+        "teens",
+        "good"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T15:10:51.565176+00:00"
+    },
+    {
+      "id": "rss-ef050c67fd35",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Should pregnant women worry about taking Tylenol? 20-year sibling-matched study finds no link to autism or ADHD",
+      "authors": "Medical Xpress",
+      "abstract": "Tylenol (also known as acetaminophen or paracetamol) is one of the most widely used over-the-counter options for easing pain and reducing fever, including during pregnancy. More recently, safety concerns around use during pregnancy have gained attention, with claims of a possible link between prenatal exposure and autism in children increasingly appearing in news headlines and prime-time debates.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-pregnant-women-tylenol-year-sibling.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "tylenol",
+        "link",
+        "autism",
+        "during",
+        "pregnancy",
+        "should",
+        "pregnant",
+        "women"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T15:10:51.565451+00:00"
+    },
+    {
+      "id": "rss-565bbc5c872c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Your dominant hand is made, not born, experiments suggest",
+      "authors": "Medical Xpress",
+      "abstract": "Most people favor one hand, and that hand tends to be the better one for writing, throwing and managing chopsticks. The long-standing view is that the dominant hand is \"born\" more capable, its skills rooted in a brain hemisphere specialized for motor control. A new study in PNAS argues that this difference in skill is not innate at all. It is the consequence of a lifetime of practice, and it surfaces only when we pick up a tool.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-dominant-born.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "hand",
+        "that",
+        "dominant",
+        "born",
+        "your",
+        "made",
+        "experiments",
+        "suggest"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T15:10:51.565750+00:00"
+    },
+    {
+      "id": "rss-fd42cd0b5f96",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Researchers improve analysis of molecules linked to Alzheimer's disease",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at the FAMU-FSU College of Engineering and the National High Magnetic Field Laboratory have shown how higher magnetic fields can improve analysis of the molecules linked to Alzheimer's disease, a finding that could aid the development of future treatments.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-analysis-molecules-linked-alzheimer-disease.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "researchers",
+        "improve",
+        "molecules",
         "linked",
-        "history"
+        "alzheimer",
+        "disease",
+        "magnetic",
+        "famu-fsu"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.588682+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.565995+00:00"
     },
     {
-      "id": "rss-058cc48c0228",
+      "id": "rss-d9bbeaf87757",
       "discipline": "clinical",
       "type": "news",
-      "title": "Study shows promise of non-surgical treatment for slipped disks",
+      "title": "Running on a treadmill is easier than running outside. Does that matter?",
       "authors": "Medical Xpress",
-      "abstract": "When the soft, cushion-like disks in the spine become injured or start to bulge, the effects can be debilitating.",
+      "abstract": "You hop on the treadmill, set your pace and easily knock out a couple of kilometers (about 1.2 miles). Then, a few days later, you head outside to run the same distance. You try to keep the same speed you did at the gym, but it destroys you.",
       "date": "2026-07-01",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-surgical-treatment-disks.html",
+      "url": "https://medicalxpress.com/news/2026-07-treadmill-easier.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "disks",
-        "shows",
-        "promise",
-        "non-surgical",
-        "treatment",
-        "slipped",
-        "when",
-        "soft"
+        "running",
+        "treadmill",
+        "outside",
+        "same",
+        "easier",
+        "than",
+        "does",
+        "that"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.588863+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.566236+00:00"
     },
     {
-      "id": "rss-dea758073976",
-      "discipline": "clinical",
+      "id": "rss-101618635bf5",
+      "discipline": "cs",
       "type": "news",
-      "title": "Early benign prostatic hyperplasia outcomes comparable for p-ThuLEP and open prostatectomy",
-      "authors": "Medical Xpress",
-      "abstract": "For patients with benign prostatic hyperplasia (BPH), early functional outcomes are comparable with high-peak-power pulsed Thulium:YAG laser enucleation (p-ThuLEP) and open simple prostatectomy (OSP), but shorter hospitalization and lower transfusion rates are seen with p-ThuLEP, according to a study published online May 30 in Translational Andrology and Urology.",
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "authors": "TechCrunch AI",
+      "abstract": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
       "date": "2026-07-01",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-early-benign-prostatic-hyperplasia-outcomes.html",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "p-thulep",
-        "early",
-        "benign",
-        "prostatic",
-        "hyperplasia",
-        "outcomes",
-        "comparable",
-        "open"
+        "venice",
+        "becomes",
+        "unicorn",
+        "series",
+        "privacy-first",
+        "platform",
+        "takes",
+        "already"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.589084+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.659542+00:00"
     },
     {
-      "id": "rss-68e708584802",
-      "discipline": "clinical",
+      "id": "rss-6d1003c9ce68",
+      "discipline": "cs",
       "type": "news",
-      "title": "A 40-year-old law requires ERs to treat everyone—unless they opt out",
-      "authors": "Medical Xpress",
-      "abstract": "For 40 years, U.S. emergency departments have been barred from turning away patients who cannot pay.",
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "authors": "TechCrunch AI",
+      "abstract": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
       "date": "2026-07-01",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-year-law-requires-ers-opt.html",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "year-old",
-        "requires",
-        "treat",
-        "everyone",
-        "unless",
-        "they",
-        "years",
-        "emergency"
+        "gemini",
+        "spark",
+        "google",
+        "agentic",
+        "assistant",
+        "available",
+        "comes",
+        "alongside"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.589285+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.659825+00:00"
     },
     {
-      "id": "rss-665030d1eb72",
-      "discipline": "clinical",
+      "id": "rss-176dfa758459",
+      "discipline": "cs",
       "type": "news",
-      "title": "Billions of doses later: Global review confirms mRNA vaccines are safe, effective and full of promise",
-      "authors": "Medical Xpress",
-      "abstract": "A sweeping global review led by researchers at the University of British Columbia has found that mRNA vaccines—now administered billions of times worldwide—are safe and highly effective at preventing infectious diseases like COVID-19, and have potential applications for a range of other diseases, including influenza, RSV, cancer and autoimmune disorders.",
+      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+      "authors": "TechCrunch AI",
+      "abstract": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scale successful companies. Register now to save up to $330.",
       "date": "2026-07-01",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-billions-doses-global-mrna-vaccines.html",
+      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "billions",
-        "global",
-        "review",
-        "mrna",
-        "vaccines",
-        "safe",
-        "effective",
-        "diseases"
+        "builders",
+        "stage",
+        "practical",
+        "techcrunch",
+        "disrupt",
+        "agenda",
+        "revealed",
+        "strategies"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.589534+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.660050+00:00"
+    },
+    {
+      "id": "rss-09272b38bb51",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "authors": "TechCrunch AI",
+      "abstract": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cloud",
+        "meta",
+        "like",
+        "compute",
+        "spacex",
+        "looks",
+        "turn",
+        "excess"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T15:10:51.660247+00:00"
     },
     {
       "id": "rss-f686255f6ec2",
@@ -483,7 +611,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.639649+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.660423+00:00"
     },
     {
       "id": "rss-2d7d3cebf1d7",
@@ -515,7 +643,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.639877+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.660601+00:00"
     },
     {
       "id": "rss-dacb86df88ff",
@@ -547,7 +675,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.640038+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.660799+00:00"
     },
     {
       "id": "rss-f9d36c9728b1",
@@ -579,7 +707,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.640172+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.660948+00:00"
     },
     {
       "id": "rss-2b7dafc39c06",
@@ -611,7 +739,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.640335+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.661111+00:00"
     },
     {
       "id": "rss-8a4d12d47a6c",
@@ -643,7 +771,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.640480+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.661273+00:00"
     },
     {
       "id": "rss-3c4a42d79bd3",
@@ -675,7 +803,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.640617+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.661428+00:00"
     },
     {
       "id": "rss-7eb36d90616d",
@@ -707,7 +835,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.640773+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.661606+00:00"
     },
     {
       "id": "rss-3a09330e947f",
@@ -739,7 +867,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.640926+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.661810+00:00"
     },
     {
       "id": "rss-1f71ecd63f77",
@@ -771,135 +899,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.641085+00:00"
-    },
-    {
-      "id": "rss-c49e7857f36b",
-      "discipline": "cs",
-      "type": "news",
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-      "authors": "TechCrunch AI",
-      "abstract": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
-      "date": "2026-06-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "server",
-        "easier",
-        "offers",
-        "make",
-        "platform",
-        "tools",
-        "launched",
-        "hosted"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.641249+00:00"
-    },
-    {
-      "id": "rss-aa0a207b40cc",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Podcasting platform Riverside enters the newsletter publishing game",
-      "authors": "TechCrunch AI",
-      "abstract": "Users will be able use AI to create newsletters based on their recordings.",
-      "date": "2026-06-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "podcasting",
-        "platform",
-        "riverside",
-        "enters",
-        "newsletter",
-        "publishing",
-        "game",
-        "users"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.641383+00:00"
-    },
-    {
-      "id": "rss-209010c27304",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-      "authors": "TechCrunch AI",
-      "abstract": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
-      "date": "2026-06-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "amazon",
-        "launches",
-        "billion",
-        "following",
-        "openai",
-        "anthropic",
-        "engineers",
-        "team"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.641522+00:00"
-    },
-    {
-      "id": "rss-40f21a51b9e8",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-      "authors": "TechCrunch AI",
-      "abstract": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
-      "date": "2026-06-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "lumo",
-        "proton",
-        "privacy-focused",
-        "chatbot",
-        "gets",
-        "upgrade",
-        "dropping",
-        "this"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.641661+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.661997+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -931,7 +931,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.689776+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.747852+00:00"
+    },
+    {
+      "id": "rss-19e287a9fb9c",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Contract for $99.6M awarded for NOAA Ship Henry B. Bigelow technology upgrade, essential maintenance",
+      "authors": "NOAA News",
+      "abstract": "Contract for $99.6M awarded for NOAA Ship Henry B. Bigelow technology upgrade, essential maintenance July 1, 2026 The NOAA Ship Henry B. Bigelow sailing near its homeport in Newport, Rhode Island. (Image credit: Katherine McGinnis/NOAA OMAO) Download Image NOAA has awarded $99,637,544.00 to JAG Ketchikan, LLC. in Ketchikan, Alaska, to complete expanded upgrades and maintenance on NOAA Ship Henry B. Bigelow. Following the 2027 field season, the ship will undergo this work for a 14-month period. The Bigelow is one of NOAA’s 15 research vessels and studies a wide range of marine life and ocean conditions along the U.S. East Coast with a primary mission to study and monitor fish stocks. “NOAA Ship Henry B. Bigelow is a vital part of NOAA’s fleet” said NOAA Administrator Neil Jacobs, Ph.D. “These critical improvements to the Bigelow will allow NOAA to meet our mission, improve our surveys,...",
+      "date": "2026-06-30",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/noaa-awards-99-point-6-million-dollar-contract-for-noaa-ship-bigelow-technology-upgrade-and-essential-maintenance",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noaa",
+        "bigelow",
+        "ship",
+        "henry",
+        "awarded",
+        "maintenance",
+        "contract",
+        "technology"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-01T15:10:52.266584+00:00"
     },
     {
       "id": "rss-4e904f861292",
@@ -963,7 +995,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.689953+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.748054+00:00"
     },
     {
       "id": "rss-5b0f51c03247",
@@ -995,7 +1027,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.690115+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.748240+00:00"
     },
     {
       "id": "rss-171691b8cedf",
@@ -1027,7 +1059,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.690274+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.748401+00:00"
     },
     {
       "id": "rss-3811b60f2c26",
@@ -1059,7 +1091,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.690441+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.748591+00:00"
     },
     {
       "id": "rss-a8a59a71fab6",
@@ -1091,7 +1123,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.690606+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.748828+00:00"
     },
     {
       "id": "rss-0e554b469f1c",
@@ -1123,7 +1155,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.690742+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.748989+00:00"
     },
     {
       "id": "rss-c83a6084c17d",
@@ -1155,7 +1187,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.829578+00:00"
+      "_retrievedAt": "2026-07-01T15:10:52.267073+00:00"
     },
     {
       "id": "rss-0439785447ef",
@@ -1187,7 +1219,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.830202+00:00"
+      "_retrievedAt": "2026-07-01T15:10:52.267711+00:00"
     },
     {
       "id": "rss-6e64d9a2858e",
@@ -1219,7 +1251,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.690882+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.749151+00:00"
     },
     {
       "id": "rss-5d40314c8fc4",
@@ -1251,7 +1283,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.691023+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.749309+00:00"
     },
     {
       "id": "rss-93a5db061a72",
@@ -1283,7 +1315,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.830740+00:00"
+      "_retrievedAt": "2026-07-01T15:10:52.268272+00:00"
     },
     {
       "id": "rss-aa16e55100c4",
@@ -1315,7 +1347,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.691159+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.749473+00:00"
     },
     {
       "id": "rss-178fcef6b56d",
@@ -1347,7 +1379,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.691320+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.749644+00:00"
     },
     {
       "id": "rss-607184e56a4c",
@@ -1379,7 +1411,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.691457+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.749825+00:00"
     },
     {
       "id": "rss-1842992c471c",
@@ -1411,7 +1443,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.691593+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.749980+00:00"
     },
     {
       "id": "rss-701cdec7906c",
@@ -1443,7 +1475,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.691744+00:00"
+      "_retrievedAt": "2026-07-01T15:10:51.750152+00:00"
     },
     {
       "id": "rss-5cf5c5f90af9",
@@ -1475,7 +1507,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.831219+00:00"
+      "_retrievedAt": "2026-07-01T15:10:52.268783+00:00"
     },
     {
       "id": "rss-9babfa4d92c2",
@@ -1507,7 +1539,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.831444+00:00"
+      "_retrievedAt": "2026-07-01T15:10:52.269034+00:00"
     },
     {
       "id": "rss-9da09de8e550",
@@ -1539,7 +1571,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.831623+00:00"
+      "_retrievedAt": "2026-07-01T15:10:52.269235+00:00"
     },
     {
       "id": "rss-3c2f3866802b",
@@ -1571,7 +1603,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.832077+00:00"
+      "_retrievedAt": "2026-07-01T15:10:52.269752+00:00"
     },
     {
       "id": "rss-130a779b2400",
@@ -1603,7 +1635,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.832305+00:00"
+      "_retrievedAt": "2026-07-01T15:10:52.270008+00:00"
     },
     {
       "id": "rss-2dfddbb1e70d",
@@ -1635,39 +1667,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.832807+00:00"
-    },
-    {
-      "id": "rss-1aa9f8004d35",
-      "discipline": "geo",
-      "type": "news",
-      "title": "El Nino forms, expected to strengthen, say NOAA forecasters",
-      "authors": "NOAA News",
-      "abstract": "El Nino forms, expected to strengthen, say NOAA forecasters Prolonged period of above-average temperatures in the equatorial Pacific expected to peak this winter June 11, 2026 Satellite imagery showing the difference from average sea surface temperatures at the equator in the tropical Pacific Ocean (depicted using various shades of red and orange for warmth) during the first week of June 2026, as compared with the baseline used by NOAA’s Coral Reef Watch. (Image credit: NOAA Satellites ) Download Image NOAA’s National Weather Service announced today that El Nino has developed in the tropical Pacific, and issued an El Nino Advisory. El Nino, the warm phase of the El Nino Southern Oscillation (ENSO), is predicted to intensify to a moderate or strong level this fall. Forecasters predict a 63% chance of sea surface temperatures exceeding 2.0°C in the Nino-monitored region of the Pacific....",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/el-nino-forms-expected-to-strengthen-say-noaa-forecasters",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nino",
-        "noaa",
-        "pacific",
-        "expected",
-        "forecasters",
-        "temperatures",
-        "forms",
-        "strengthen"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T10:10:40.833355+00:00"
+      "_retrievedAt": "2026-07-01T15:10:52.270529+00:00"
     }
   ]
 };
