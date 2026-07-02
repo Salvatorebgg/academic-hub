@@ -1,457 +1,457 @@
 {
-  "generatedAt": "2026-07-01T20:13:20.928154+00:00",
+  "generatedAt": "2026-07-02T04:19:40.965346+00:00",
   "total": 52,
   "sources": [
     "RSS"
   ],
   "papers": [
     {
-      "id": "rss-d1b34d227592",
+      "id": "rss-4458967d3c50",
       "discipline": "clinical",
       "type": "news",
-      "title": "Should lowest-risk prostate 'cancer' still be called cancer? How changing the name could save lives",
+      "title": "Would hunters take a Lyme disease vaccine?",
       "authors": "Medical Xpress",
-      "abstract": "A growing number of prostate cancer experts argue that calling the lowest-risk prostate cancer \"cancer\" does more harm than good. A new UCLA-led study found removing the cancer label could dramatically reduce overtreatment and encourage more men to get screened, potentially leading to significantly fewer deaths from aggressive prostate cancer.",
-      "date": "2026-07-01",
+      "abstract": "It's tick season, possibly the worst in a decade.",
+      "date": "2026-07-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-lowest-prostate-cancer.html",
+      "url": "https://medicalxpress.com/news/2026-07-hunters-lyme-disease-vaccine.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "would",
+        "hunters",
+        "take",
+        "lyme",
+        "disease",
+        "vaccine",
+        "tick",
+        "season"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T04:19:40.311898+00:00"
+    },
+    {
+      "id": "rss-2d825a09d46f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "In Quebec, young adults were hit first by the pandemic",
+      "authors": "Medical Xpress",
+      "abstract": "In the first two years of the COVID-19 pandemic in Quebec, through seven waves of outbreaks, SARS-CoV-2 tended to infect young adults first before the rest of the population, a new study shows. That makes them a key demographic to watch as public health officials try to detect new and emerging waves of that and other viruses, say the Université de Montréal researchers behind the study.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-quebec-young-adults-pandemic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "first",
+        "quebec",
+        "young",
+        "adults",
+        "pandemic",
+        "waves",
+        "that",
+        "were"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T04:19:40.312133+00:00"
+    },
+    {
+      "id": "rss-98da9ab68d18",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers from the DTU National Food Institute are proposing a new labeling scheme designed to give consumers a better opportunity to choose ready-to-eat foods, such as smoked salmon and spiced pork roll, without risking infection with Listeria bacteria.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-listeria-salmon-ready-foods.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "listeria",
+        "labeling",
+        "smoked",
+        "salmon",
+        "ready-to-eat",
+        "foods",
+        "proposed",
+        "other"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T04:19:40.312306+00:00"
+    },
+    {
+      "id": "rss-c6407a6a1163",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Digital mindfulness intervention beneficial for late-life depression",
+      "authors": "Medical Xpress",
+      "abstract": "A digital mindfulness intervention with electroencephalogram (EEG) feedback—the FocusZen Mindfulness Stress Reduction System—reduces depression, anxiety, and sleep symptoms among participants with late-life depression (LLD), according to a study published in the Journal of Psychiatric Research.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-digital-mindfulness-intervention-beneficial-late.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "mindfulness",
+        "depression",
+        "digital",
+        "intervention",
+        "late-life",
+        "beneficial",
+        "electroencephalogram",
+        "feedback"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T04:19:40.312490+00:00"
+    },
+    {
+      "id": "rss-62dd6f12308a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Voice changes measured with a mobile phone can signal a flare up in asthma or COPD",
+      "authors": "Medical Xpress",
+      "abstract": "Voice changes, which can be recorded and measured with a mobile phone app, can signal a flare-up in symptoms for people with asthma or chronic obstructive pulmonary disease (COPD), according to a study published in ERJ Open Research.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-voice-mobile-flare-asthma-copd.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "voice",
+        "changes",
+        "measured",
+        "mobile",
+        "phone",
+        "signal",
+        "asthma",
+        "copd"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T04:19:40.312653+00:00"
+    },
+    {
+      "id": "rss-8536c7c7fb17",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "UK-US trade deal will mean the NHS has to divert billions from other services to pay more for new medicines",
+      "authors": "Medical Xpress",
+      "abstract": "Around £45 billion in NHS funding will be diverted from other NHS care by 2036 to pay more for new medicines under the UK-U.S. trade deal agreed last December unless more funding is made available to cover the additional costs, suggests an analysis published by The BMJ .",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-uk-nhs-billions-pay-medicines.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "more",
+        "trade",
+        "deal",
+        "will",
+        "other",
+        "medicines",
+        "funding",
+        "uk-us"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T04:19:40.312849+00:00"
+    },
+    {
+      "id": "rss-4ec7772dc379",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Heart risk markers in adults over 40 with obesity increasingly converge with normal BMI levels",
+      "authors": "Medical Xpress",
+      "abstract": "Over the last three decades, differences in unhealthy cholesterol levels and blood pressure between older adults with obesity and those with a normal body mass index (BMI) have narrowed or disappeared in several high-income countries, suggests a study published in The Lancet. The authors propose that this trend is due to the greater, and possibly more intensive, use of cholesterol-lowering medication (such as statins) and blood pressure medication in people older than 40 living with obesity in high-income countries.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-heart-markers-adults-obesity-converge.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "obesity",
+        "adults",
+        "over",
+        "normal",
+        "levels",
+        "blood",
+        "pressure",
+        "older"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T04:19:40.313056+00:00"
+    },
+    {
+      "id": "rss-48d8e7e05f62",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Mechanical restraint linked to small increased short-term blood clot risk in psychiatric hospitals",
+      "authors": "Medical Xpress",
+      "abstract": "Mechanical restraint is associated with a small increased short-term risk of blood clots among inpatients at psychiatric hospitals, finds a Danish study published by The BMJ. Although the absolute risk remains very low, the researchers say the findings support ongoing preventive efforts to reduce the use of mechanical restraint.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-mechanical-restraint-linked-small-short.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "mechanical",
+        "restraint",
+        "risk",
+        "small",
+        "increased",
+        "short-term",
+        "blood",
+        "psychiatric"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T04:19:40.313226+00:00"
+    },
+    {
+      "id": "rss-83a572d9dfa6",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "FDA scientists warn against expanded peptide access as Kennedy reshapes advisory panel",
+      "authors": "Medical Xpress",
+      "abstract": "Federal health scientists are urging caution about expanding access to controversial peptide drugs, even as the U.S. Food and Drug Administration (FDA) reshapes the advisory panel that will consider whether to loosen those restrictions.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-fda-scientists-peptide-access-kennedy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "scientists",
+        "peptide",
+        "access",
+        "reshapes",
+        "advisory",
+        "panel",
+        "warn",
+        "against"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T04:19:40.313381+00:00"
+    },
+    {
+      "id": "rss-75735de93695",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Discovery could help prevent cancer drug resistance before it starts",
+      "authors": "Medical Xpress",
+      "abstract": "Cancer cells are quick to develop resistance to anti-tumor drugs. New research by scientists from the University of California, Davis, shows how cancers adapt to evade a class of anti-tumor drugs called BET inhibitors and offers hope for more effective therapies.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-discovery-cancer-drug-resistance.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "cancer",
-        "prostate",
-        "lowest-risk",
-        "could",
-        "more",
-        "should",
-        "still",
-        "called"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.535682+00:00"
-    },
-    {
-      "id": "rss-729af62908bf",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Investigators report promising results from Phase II trial of targeted therapy for rare bile duct cancer",
-      "authors": "Medical Xpress",
-      "abstract": "Results of the ongoing eNRGy trial, a single-arm, multicenter, global Phase II clinical trial evaluating zenocutuzumab in solid tumors positive for Neuregulin 1 (NRG1) gene fusions, reported manageable side effects and clinically meaningful efficacy—including a near doubling of progression-free survival compared with expectations with standard of care—in previously treated patients with advanced NRG1-positive cholangiocarcinoma.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-results-phase-ii-trial-therapy.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "trial",
-        "results",
-        "phase",
-        "positive",
-        "investigators",
-        "report",
-        "promising",
-        "targeted"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.535931+00:00"
-    },
-    {
-      "id": "rss-2cf226608650",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Cognitive flexibility problems may arise months before memory impairment in Alzheimer's",
-      "authors": "Medical Xpress",
-      "abstract": "When most people think about Alzheimer's disease, memory loss is usually the first thing that comes to mind. Forgetting a loved one's name, missing appointments or repeatedly misplacing everyday items are often considered early warning signs. But what if the disease begins affecting the brain long before memory problems become noticeable? New research from scientists at Texas A&M Health suggests that another change in brain function may appear even earlier: difficulty adapting when circumstances change.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-cognitive-flexibility-problems-months-memory.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "memory",
-        "problems",
-        "before",
-        "alzheimer",
-        "when",
-        "disease",
-        "that",
-        "brain"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.536157+00:00"
-    },
-    {
-      "id": "rss-5ae3917f6091",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Whether children receive opioids after surgery varies by hospital and procedure type",
-      "authors": "Medical Xpress",
-      "abstract": "Whether children receive an opioid prescription after surgery varies substantially by procedure type and hospital, according to a new national analysis published in the Journal of the American College of Surgeons. The study also found that overall, nearly one-third of children are prescribed opioids after surgery.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-children-opioids-surgery-varies-hospital.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "children",
-        "after",
-        "surgery",
-        "whether",
-        "receive",
-        "opioids",
-        "varies",
-        "hospital"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.536330+00:00"
-    },
-    {
-      "id": "rss-9b0d41edbf1b",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "GLP-1 drugs outperform SGLT-2 drugs for patients with Afib and type 2 diabetes",
-      "authors": "Medical Xpress",
-      "abstract": "Individuals with atrial fibrillation (Afib), or irregular heart rhythm, are at increased risk of stroke, chronic kidney disease and heart failure. These risks are significantly exacerbated if a type 2 diabetes diagnosis is added to the mix, says Md Mohaimenul Islam, Ph.D., research assistant professor in the Department of Pharmacy Practice in the University at Buffalo School of Pharmacy and Pharmaceutical Sciences.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-glp-drugs-outperform-sglt-patients.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
+        "resistance",
+        "anti-tumor",
         "drugs",
-        "afib",
-        "type",
-        "diabetes",
-        "heart",
-        "pharmacy",
-        "glp-",
-        "outperform"
+        "discovery",
+        "could",
+        "help",
+        "prevent"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.536514+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.313537+00:00"
     },
     {
-      "id": "rss-731b41b200d0",
+      "id": "rss-1dcd6b7d8cf2",
       "discipline": "clinical",
       "type": "news",
-      "title": "As a major heat wave grips the eastern US, here's how to stay safe, and the heat stroke warning signs to watch for",
+      "title": "The circuit that lets your brain think and see",
       "authors": "Medical Xpress",
-      "abstract": "Millions of Americans are facing heat advisories ahead of the July Fourth holiday as a major heat wave spreads across large parts of the central and eastern United States.",
-      "date": "2026-07-01",
+      "abstract": "Nuttida Rungratsameetaweemana is challenging a story neuroscience has told for decades. According to the conventional account, our eyes collect raw information and relay it through a series of nerves and waystations that lead deep into the brain, eventually reaching the cortex. There, the thinking begins as information is processed and put to use for higher tasks such as reasoning, judgment and decision-making.",
+      "date": "2026-07-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-major-eastern-stay-safe.html",
+      "url": "https://medicalxpress.com/news/2026-07-circuit-brain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "that",
+        "brain",
+        "information",
+        "circuit",
+        "lets",
+        "your",
+        "think",
+        "nuttida"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T04:19:40.313709+00:00"
+    },
+    {
+      "id": "rss-d1fd1fb77eab",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Heat dome coming: Tips to stay safe during extreme temps",
+      "authors": "Medical Xpress",
+      "abstract": "A heat dome is expected to scorch most of the United States through the July 4 weekend, sending temperatures into the high double and even triple digits in the central and eastern regions of the nation.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-dome-stay-safe-extreme-temps.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "heat",
-        "major",
-        "wave",
-        "eastern",
-        "grips",
-        "here",
+        "dome",
+        "coming",
+        "tips",
         "stay",
-        "safe"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.536683+00:00"
-    },
-    {
-      "id": "rss-f105dfbfc88e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "The hidden risks of gray‑market peptides: Why women face greater danger",
-      "authors": "Medical Xpress",
-      "abstract": "A wave of unregulated peptides is sweeping the wellness world, sold online with bold promises about muscle gain, anti-aging and fat loss. But concern is growing about side effects, and almost nobody is asking whether these substances affect men and women in the same way. The evidence suggests they do not.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-hidden-graymarket-peptides-women-greater.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "peptides",
-        "women",
-        "about",
-        "hidden",
-        "risks",
-        "gray",
-        "market",
-        "face"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.536868+00:00"
-    },
-    {
-      "id": "rss-dc8118a226d0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Why 25 minutes may matter in music therapy sessions: Heart-rate synchrony peaks later",
-      "authors": "Medical Xpress",
-      "abstract": "New research has discovered the time it takes for a therapist and patient to reach the moment of strongest connection during a therapy session—around 25 minutes. The study, published in the journal Frontiers in Psychology, is the first to identify how long it can take for heart-rate synchrony to peak during music therapy.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-minutes-music-therapy-sessions-heart.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "therapy",
-        "minutes",
-        "music",
-        "heart-rate",
-        "synchrony",
+        "safe",
         "during",
-        "matter",
-        "sessions"
+        "extreme"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.537049+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.313878+00:00"
     },
     {
-      "id": "rss-93a78078ea17",
+      "id": "rss-af1aa3323fcf",
       "discipline": "clinical",
       "type": "news",
-      "title": "Ways to make clinical trials more informative and reduce research waste",
+      "title": "Study identifies new brain targets for individualized epilepsy treatment",
       "authors": "Medical Xpress",
-      "abstract": "A major international study published in JAMA Network Open has identified practical actions that could improve the quality, usefulness and reliability of randomized clinical trials around the world. The research, conducted as part of the INFORM (Improving pre-funding peer review to increase the informativeness of randomized trials) project led by Professor Shaun Treweek, draws on interviews with 55 stakeholders from 16 countries across six continents, including trial investigators, funders, ethicists, regulators, industry representatives and sponsors.",
-      "date": "2026-07-01",
+      "abstract": "Mayo Clinic researchers have created a detailed map of the pulvinar, a deep brain region that could help doctors more precisely target brain stimulation therapies for people with drug-resistant epilepsy.",
+      "date": "2026-07-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-ways-clinical-trials.html",
+      "url": "https://medicalxpress.com/news/2026-07-brain-individualized-epilepsy-treatment.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "trials",
-        "clinical",
-        "randomized",
-        "ways",
-        "make",
-        "more",
-        "informative",
-        "reduce"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.537248+00:00"
-    },
-    {
-      "id": "rss-8a39e91334c9",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Malaria vaccine quest narrows as shared parasite targets emerge in liver",
-      "authors": "Medical Xpress",
-      "abstract": "Scientists have identified targets on the malaria-causing parasite that could be key to developing a universal vaccine against one of humankind's oldest and deadliest diseases. Researchers from Oregon Health & Science University and collaborators across the globe identified telltale fragments of a malaria-causing parasite that could be targeted by a vaccine designed using T cells, a type of white blood cell. The work is published in the journal Nature.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-malaria-vaccine-quest-narrows-parasite.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "vaccine",
-        "parasite",
+        "brain",
+        "epilepsy",
+        "identifies",
         "targets",
-        "identified",
-        "malaria-causing",
-        "that",
-        "could",
-        "malaria"
+        "individualized",
+        "treatment",
+        "mayo",
+        "clinic"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.537440+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.314031+00:00"
     },
     {
-      "id": "rss-c1cdfcd741fd",
+      "id": "rss-6c423211d7c2",
       "discipline": "clinical",
       "type": "news",
-      "title": "Exertion tests offer insight into recovery from youth concussions",
+      "title": "Connection or compulsion: How smartphones can deepen depression in older adults",
       "authors": "Medical Xpress",
-      "abstract": "Clinical exams that incorporate gait analysis after physical exertion may provide insight into how youths are recovering after concussions and help determine whether they are ready to return to sports, UT Southwestern Medical Center and Scottish Rite for Children (SRC) researchers found. Their study, published in the Clinical Journal of Sport Medicine, showed significant differences in the walking patterns and cognitive abilities of concussed youths after an experimental protocol.",
-      "date": "2026-07-01",
+      "abstract": "Compulsive smartphone habits in older adults can be linked to a higher risk of depression, according to a study led by a Rutgers researcher.",
+      "date": "2026-07-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-exertion-insight-recovery-youth-concussions.html",
+      "url": "https://medicalxpress.com/news/2026-07-compulsion-smartphones-deepen-depression-older.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "after",
-        "exertion",
-        "insight",
-        "concussions",
-        "clinical",
-        "youths",
-        "tests",
-        "offer"
+        "depression",
+        "older",
+        "adults",
+        "connection",
+        "compulsion",
+        "smartphones",
+        "deepen",
+        "compulsive"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.537624+00:00"
-    },
-    {
-      "id": "rss-9e3c206c4590",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Rare stem T cells may hold the key to fighting chronic diseases",
-      "authors": "Medical Xpress",
-      "abstract": "T cells are an elite fighting force of the immune system, seeking out and destroying diseased cells. But in a prolonged campaign against a chronic condition—like a viral infection or cancer—the body needs a steady supply of these killer troops. Where and how these killer troops are generated has been a mystery.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-rare-stem-cells-key-chronic.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cells",
-        "fighting",
-        "chronic",
-        "these",
-        "killer",
-        "troops",
-        "rare",
-        "stem"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.537849+00:00"
-    },
-    {
-      "id": "rss-79e6f8f20dcc",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Wearable device reveals how sleep changes from freshman to senior year for college students",
-      "authors": "Medical Xpress",
-      "abstract": "Sleep is a fundamental aspect of human health that plays a crucial role in cognitive function, academic performance and social interactions. A study published in PLOS One by Yao Zhao at Temple University, U.S., and colleagues suggests that wearable devices can provide accurate, longitudinal sleep data to facilitate analyses of changing sleep patterns over time.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-wearable-device-reveals-freshman-senior.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "sleep",
-        "wearable",
-        "that",
-        "device",
-        "reveals",
-        "changes",
-        "freshman",
-        "senior"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.538027+00:00"
-    },
-    {
-      "id": "rss-7a9a63928ee7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "A simple message helps keep stem cell donors on track",
-      "authors": "Medical Xpress",
-      "abstract": "When a patient needs a stem cell transplant, finding a registered donor is only the first step. Some potential donors drop out before confirmatory typing, reducing the pool from which doctors can choose. Researchers from Osaka University and collaborators tested whether a small change in wording could help more donors continue. This study is published in the Journal of Economic Behavior & Organization.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-simple-message-stem-cell-donors.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "donors",
-        "stem",
-        "cell",
-        "simple",
-        "message",
-        "helps",
-        "keep",
-        "track"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.538204+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.314173+00:00"
     },
     {
       "id": "rss-55225443b10e",
@@ -483,7 +483,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.560082+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.437424+00:00"
     },
     {
       "id": "rss-6484849365a6",
@@ -515,7 +515,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.560268+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.437607+00:00"
     },
     {
       "id": "rss-55ee2b185894",
@@ -547,7 +547,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.560401+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.437742+00:00"
     },
     {
       "id": "rss-101618635bf5",
@@ -579,7 +579,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.560510+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.437863+00:00"
     },
     {
       "id": "rss-6d1003c9ce68",
@@ -611,7 +611,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.560622+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.437979+00:00"
     },
     {
       "id": "rss-176dfa758459",
@@ -643,7 +643,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.560771+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.438110+00:00"
     },
     {
       "id": "rss-09272b38bb51",
@@ -675,7 +675,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.560888+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.438222+00:00"
     },
     {
       "id": "rss-f686255f6ec2",
@@ -707,7 +707,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.560996+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.438329+00:00"
     },
     {
       "id": "rss-2d7d3cebf1d7",
@@ -739,7 +739,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.561110+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.438441+00:00"
     },
     {
       "id": "rss-dacb86df88ff",
@@ -771,7 +771,71 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.561217+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.438544+00:00"
+    },
+    {
+      "id": "rss-0ec61d5c541e",
+      "discipline": "cs",
+      "type": "news",
+      "title": "MIT in the media: Innovating and educating for the next 250 years of America",
+      "authors": "MIT News AI",
+      "abstract": "During a \"Washington Post Live\" panel discussion with ASU President Michael Crow, President Sally Kornbluth explored how universities are preparing the next generation of scientists to lead in America’s rapidly changing technological landscape.",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "next",
+        "america",
+        "president",
+        "media",
+        "innovating",
+        "educating",
+        "years",
+        "during"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T04:19:40.498584+00:00"
+    },
+    {
+      "id": "rss-19259ec0f554",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Sudden danger: the science and stakes of flash flood forecasting",
+      "authors": "NOAA News",
+      "abstract": "Sudden danger: the science and stakes of flash flood forecasting An aerial view of a valley town with streets and houses overcome by flood waters. (Image credit: Christian/stock.adobe.com) July 1, 2026 0 Off",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/sudden-danger-science-and-stakes-of-flash-flood-forecasting-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "flood",
+        "sudden",
+        "danger",
+        "stakes",
+        "flash",
+        "forecasting",
+        "aerial",
+        "view"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T04:19:40.663536+00:00"
     },
     {
       "id": "rss-f9d36c9728b1",
@@ -803,7 +867,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.561306+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.438632+00:00"
     },
     {
       "id": "rss-2b7dafc39c06",
@@ -835,7 +899,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.561406+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.438731+00:00"
     },
     {
       "id": "rss-8a4d12d47a6c",
@@ -867,7 +931,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.561509+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.438832+00:00"
     },
     {
       "id": "rss-3c4a42d79bd3",
@@ -899,7 +963,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.561606+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.438941+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -931,7 +995,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.589842+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.498728+00:00"
     },
     {
       "id": "rss-19e287a9fb9c",
@@ -963,7 +1027,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.780164+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.663953+00:00"
     },
     {
       "id": "rss-4e904f861292",
@@ -995,7 +1059,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.589988+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.498869+00:00"
     },
     {
       "id": "rss-5b0f51c03247",
@@ -1027,7 +1091,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.590117+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.498992+00:00"
     },
     {
       "id": "rss-171691b8cedf",
@@ -1059,7 +1123,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.590224+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.499096+00:00"
     },
     {
       "id": "rss-3811b60f2c26",
@@ -1091,7 +1155,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.590350+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.499222+00:00"
     },
     {
       "id": "rss-a8a59a71fab6",
@@ -1123,7 +1187,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.590475+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.499343+00:00"
     },
     {
       "id": "rss-0e554b469f1c",
@@ -1155,7 +1219,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.590577+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.499447+00:00"
     },
     {
       "id": "rss-c83a6084c17d",
@@ -1187,7 +1251,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.780511+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.664290+00:00"
     },
     {
       "id": "rss-0439785447ef",
@@ -1219,7 +1283,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.780992+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.664753+00:00"
     },
     {
       "id": "rss-6e64d9a2858e",
@@ -1251,7 +1315,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.590693+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.499556+00:00"
     },
     {
       "id": "rss-5d40314c8fc4",
@@ -1283,7 +1347,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.590800+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.499660+00:00"
     },
     {
       "id": "rss-93a5db061a72",
@@ -1315,7 +1379,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.781406+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.665204+00:00"
     },
     {
       "id": "rss-aa16e55100c4",
@@ -1347,7 +1411,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.590902+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.499761+00:00"
     },
     {
       "id": "rss-178fcef6b56d",
@@ -1379,7 +1443,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.591015+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.499895+00:00"
     },
     {
       "id": "rss-607184e56a4c",
@@ -1411,7 +1475,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.591115+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.499997+00:00"
     },
     {
       "id": "rss-1842992c471c",
@@ -1443,39 +1507,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.591213+00:00"
-    },
-    {
-      "id": "rss-701cdec7906c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "MIT’s Initiative for New Manufacturing builds momentum",
-      "authors": "MIT News AI",
-      "abstract": "In its first year, INM has worked across research, workforce development, and industry engagement to help accelerate new manufacturing technologies and their real-world deployment.",
-      "date": "2026-06-16",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "manufacturing",
-        "initiative",
-        "builds",
-        "momentum",
-        "first",
-        "year",
-        "worked",
-        "across"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.591327+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.500094+00:00"
     },
     {
       "id": "rss-5cf5c5f90af9",
@@ -1507,7 +1539,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.781783+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.665566+00:00"
     },
     {
       "id": "rss-9babfa4d92c2",
@@ -1539,7 +1571,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.781958+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.665732+00:00"
     },
     {
       "id": "rss-9da09de8e550",
@@ -1571,7 +1603,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.782097+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.665876+00:00"
     },
     {
       "id": "rss-3c2f3866802b",
@@ -1603,7 +1635,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.782459+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.666241+00:00"
     },
     {
       "id": "rss-130a779b2400",
@@ -1635,39 +1667,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.782615+00:00"
-    },
-    {
-      "id": "rss-2dfddbb1e70d",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA’s SOLAR-1 enters new era of space weather monitoring",
-      "authors": "NOAA News",
-      "abstract": "NOAA’s SOLAR-1 enters new era of space weather monitoring June 10, 2026 An artist rendering of NOAA's SOLAR-1 satellite (formerly SWFO-L1) in its final position in space orbit next to an image of the sun producing a coronal mass ejection. Earth is seen 1 million miles away in the far distance on the right of the image. (Image credit: NOAA) Download Image NOAA’s Space weather Observations at L1 to Advance Readiness – 1 (SOLAR-1) observatory has officially entered operational service, marking a major milestone for the nation’s resilience to space weather events. SOLAR-1 is the first U.S. satellite designed exclusively for continuous, operational space weather observations. “SOLAR-1 will provide improved observations and high-quality 24/7 data about our sun,\" said Irene Parker, acting assistant administrator for NOAA Satellite & Information Service (NESDIS). \"SOLAR-1 continues the observ...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/noaas-solar-1-enters-new-era-of-space-weather-monitoring",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "solar-",
-        "noaa",
-        "space",
-        "weather",
-        "image",
-        "satellite",
-        "observations",
-        "enters"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-01T20:13:20.783022+00:00"
+      "_retrievedAt": "2026-07-02T04:19:40.666399+00:00"
     }
   ]
 }
