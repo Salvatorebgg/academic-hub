@@ -1,10 +1,106 @@
 {
-  "generatedAt": "2026-07-02T04:19:40.965346+00:00",
+  "generatedAt": "2026-07-02T09:30:44.657806+00:00",
   "total": 52,
   "sources": [
     "RSS"
   ],
   "papers": [
+    {
+      "id": "rss-d08dbf6b8d04",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "CDC urges people to prevent mosquito bites as West Nile virus season hits a strong, early start",
+      "authors": "Medical Xpress",
+      "abstract": "Health officials are encouraging people to use bug spray and mosquito-control efforts as West Nile virus season is off to its earliest and worst start in over two decades.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-cdc-urges-people-mosquito-west.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "people",
+        "west",
+        "nile",
+        "virus",
+        "season",
+        "start",
+        "urges",
+        "prevent"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T09:30:43.831754+00:00"
+    },
+    {
+      "id": "rss-cebb7dd5c4b5",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "BCG vaccine may rewire brain immunity, shift Alzheimer's markers over 12 months",
+      "authors": "Medical Xpress",
+      "abstract": "New research led by Mass General Brigham investigators suggests that the Bacillus Calmette-Guérin (BCG) vaccine—which is delivered through the skin to prevent tuberculosis—may remodel the human brain's immune environment, offering a potential biological explanation for previously observed associations between BCG vaccination and lower Alzheimer's disease risk. Findings are published in Communications Medicine.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-bcg-vaccine-rewire-brain-immunity.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "vaccine",
+        "brain",
+        "alzheimer",
+        "rewire",
+        "immunity",
+        "shift",
+        "markers",
+        "over"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T09:30:43.832065+00:00"
+    },
+    {
+      "id": "rss-2fcdbd1ac97f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Cracking open a can of cannabis—America's new pastime (for now)",
+      "authors": "Medical Xpress",
+      "abstract": "At Fourth of July barbecues this weekend, Americans are more likely than ever to crack open a can of cannabis rather than a beer.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-cannabis-america-pastime.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "open",
+        "cannabis",
+        "than",
+        "cracking",
+        "america",
+        "pastime",
+        "fourth",
+        "july"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T09:30:43.832277+00:00"
+    },
     {
       "id": "rss-4458967d3c50",
       "discipline": "clinical",
@@ -35,7 +131,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.311898+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.832454+00:00"
     },
     {
       "id": "rss-2d825a09d46f",
@@ -67,7 +163,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.312133+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.832725+00:00"
     },
     {
       "id": "rss-98da9ab68d18",
@@ -99,7 +195,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.312306+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.832939+00:00"
     },
     {
       "id": "rss-c6407a6a1163",
@@ -131,7 +227,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.312490+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.833161+00:00"
     },
     {
       "id": "rss-62dd6f12308a",
@@ -163,7 +259,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.312653+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.833369+00:00"
     },
     {
       "id": "rss-8536c7c7fb17",
@@ -195,7 +291,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.312849+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.833634+00:00"
     },
     {
       "id": "rss-4ec7772dc379",
@@ -227,7 +323,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.313056+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.833920+00:00"
     },
     {
       "id": "rss-48d8e7e05f62",
@@ -259,7 +355,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.313226+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.834144+00:00"
     },
     {
       "id": "rss-83a572d9dfa6",
@@ -291,7 +387,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.313381+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.834356+00:00"
     },
     {
       "id": "rss-75735de93695",
@@ -323,7 +419,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.313537+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.834576+00:00"
     },
     {
       "id": "rss-1dcd6b7d8cf2",
@@ -355,103 +451,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.313709+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.834808+00:00"
     },
     {
-      "id": "rss-d1fd1fb77eab",
-      "discipline": "clinical",
+      "id": "rss-79ca9d089ffe",
+      "discipline": "cs",
       "type": "news",
-      "title": "Heat dome coming: Tips to stay safe during extreme temps",
-      "authors": "Medical Xpress",
-      "abstract": "A heat dome is expected to scorch most of the United States through the July 4 weekend, sending temperatures into the high double and even triple digits in the central and eastern regions of the nation.",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "authors": "TechCrunch AI",
+      "abstract": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
       "date": "2026-07-02",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-dome-stay-safe-extreme-temps.html",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "heat",
-        "dome",
-        "coming",
-        "tips",
-        "stay",
-        "safe",
-        "during",
-        "extreme"
+        "microsoft",
+        "office",
+        "indian",
+        "tech",
+        "tycoon",
+        "bets",
+        "money",
+        "build"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.313878+00:00"
-    },
-    {
-      "id": "rss-af1aa3323fcf",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Study identifies new brain targets for individualized epilepsy treatment",
-      "authors": "Medical Xpress",
-      "abstract": "Mayo Clinic researchers have created a detailed map of the pulvinar, a deep brain region that could help doctors more precisely target brain stimulation therapies for people with drug-resistant epilepsy.",
-      "date": "2026-07-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-brain-individualized-epilepsy-treatment.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "brain",
-        "epilepsy",
-        "identifies",
-        "targets",
-        "individualized",
-        "treatment",
-        "mayo",
-        "clinic"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.314031+00:00"
-    },
-    {
-      "id": "rss-6c423211d7c2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Connection or compulsion: How smartphones can deepen depression in older adults",
-      "authors": "Medical Xpress",
-      "abstract": "Compulsive smartphone habits in older adults can be linked to a higher risk of depression, according to a study led by a Rutgers researcher.",
-      "date": "2026-07-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-compulsion-smartphones-deepen-depression-older.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "depression",
-        "older",
-        "adults",
-        "connection",
-        "compulsion",
-        "smartphones",
-        "deepen",
-        "compulsive"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.314173+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.961964+00:00"
     },
     {
       "id": "rss-55225443b10e",
@@ -483,7 +515,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.437424+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.962166+00:00"
     },
     {
       "id": "rss-6484849365a6",
@@ -515,7 +547,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.437607+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.962347+00:00"
     },
     {
       "id": "rss-55ee2b185894",
@@ -547,7 +579,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.437742+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.962510+00:00"
     },
     {
       "id": "rss-101618635bf5",
@@ -579,7 +611,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.437863+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.962710+00:00"
     },
     {
       "id": "rss-6d1003c9ce68",
@@ -611,7 +643,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.437979+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.962861+00:00"
     },
     {
       "id": "rss-176dfa758459",
@@ -643,7 +675,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.438110+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.963033+00:00"
     },
     {
       "id": "rss-09272b38bb51",
@@ -675,7 +707,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.438222+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.963189+00:00"
     },
     {
       "id": "rss-f686255f6ec2",
@@ -707,7 +739,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.438329+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.963329+00:00"
     },
     {
       "id": "rss-2d7d3cebf1d7",
@@ -739,7 +771,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.438441+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.963474+00:00"
     },
     {
       "id": "rss-dacb86df88ff",
@@ -771,7 +803,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.438544+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.963656+00:00"
     },
     {
       "id": "rss-0ec61d5c541e",
@@ -803,7 +835,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.498584+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.142876+00:00"
     },
     {
       "id": "rss-19259ec0f554",
@@ -835,7 +867,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.663536+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.354221+00:00"
     },
     {
       "id": "rss-f9d36c9728b1",
@@ -867,7 +899,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.438632+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.963791+00:00"
     },
     {
       "id": "rss-2b7dafc39c06",
@@ -899,7 +931,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.438731+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.963924+00:00"
     },
     {
       "id": "rss-8a4d12d47a6c",
@@ -931,39 +963,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.438832+00:00"
-    },
-    {
-      "id": "rss-3c4a42d79bd3",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-      "authors": "TechCrunch AI",
-      "abstract": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
-      "date": "2026-06-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "chip",
-        "nvidia",
-        "competitor",
-        "etched",
-        "hits",
-        "valuation",
-        "sales",
-        "says"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.438941+00:00"
+      "_retrievedAt": "2026-07-02T09:30:43.964057+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -995,7 +995,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.498728+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.143061+00:00"
     },
     {
       "id": "rss-19e287a9fb9c",
@@ -1027,7 +1027,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.663953+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.354758+00:00"
     },
     {
       "id": "rss-4e904f861292",
@@ -1059,7 +1059,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.498869+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.143227+00:00"
     },
     {
       "id": "rss-5b0f51c03247",
@@ -1091,7 +1091,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.498992+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.143388+00:00"
     },
     {
       "id": "rss-171691b8cedf",
@@ -1123,7 +1123,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.499096+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.143521+00:00"
     },
     {
       "id": "rss-3811b60f2c26",
@@ -1155,7 +1155,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.499222+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.143738+00:00"
     },
     {
       "id": "rss-a8a59a71fab6",
@@ -1187,7 +1187,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.499343+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.143901+00:00"
     },
     {
       "id": "rss-0e554b469f1c",
@@ -1219,7 +1219,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.499447+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.144033+00:00"
     },
     {
       "id": "rss-c83a6084c17d",
@@ -1251,7 +1251,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.664290+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.355192+00:00"
     },
     {
       "id": "rss-0439785447ef",
@@ -1283,7 +1283,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.664753+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.355805+00:00"
     },
     {
       "id": "rss-6e64d9a2858e",
@@ -1315,7 +1315,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.499556+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.144171+00:00"
     },
     {
       "id": "rss-5d40314c8fc4",
@@ -1347,7 +1347,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.499660+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.144307+00:00"
     },
     {
       "id": "rss-93a5db061a72",
@@ -1379,7 +1379,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.665204+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.356344+00:00"
     },
     {
       "id": "rss-aa16e55100c4",
@@ -1411,7 +1411,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.499761+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.144440+00:00"
     },
     {
       "id": "rss-178fcef6b56d",
@@ -1443,7 +1443,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.499895+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.144599+00:00"
     },
     {
       "id": "rss-607184e56a4c",
@@ -1475,7 +1475,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.499997+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.144735+00:00"
     },
     {
       "id": "rss-1842992c471c",
@@ -1507,7 +1507,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.500094+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.144867+00:00"
     },
     {
       "id": "rss-5cf5c5f90af9",
@@ -1539,7 +1539,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.665566+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.356901+00:00"
     },
     {
       "id": "rss-9babfa4d92c2",
@@ -1571,7 +1571,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.665732+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.357130+00:00"
     },
     {
       "id": "rss-9da09de8e550",
@@ -1603,7 +1603,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.665876+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.357306+00:00"
     },
     {
       "id": "rss-3c2f3866802b",
@@ -1635,7 +1635,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.666241+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.357794+00:00"
     },
     {
       "id": "rss-130a779b2400",
@@ -1667,7 +1667,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T04:19:40.666399+00:00"
+      "_retrievedAt": "2026-07-02T09:30:44.357994+00:00"
     }
   ]
 }
