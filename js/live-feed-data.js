@@ -1,10 +1,426 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-07-02T09:30:44.657806+00:00",
+  "generatedAt": "2026-07-02T14:27:03.133386+00:00",
   "total": 52,
   "sources": [
     "RSS"
   ],
   "papers": [
+    {
+      "id": "rss-702cd7836c6c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Low-cost treatment for multiple sclerosis shown to be as effective as standard therapy",
+      "authors": "Medical Xpress",
+      "abstract": "A Norwegian-Swedish clinical trial published in the New England Journal of Medicine demonstrates that rituximab, a low-cost B-cell-depleting therapy, is as effective as ocrelizumab in newly diagnosed relapsing multiple sclerosis (MS). The study, known as OVERLORD-MS, is the first randomized, double-blind, head-to-head trial comparing the two therapies in early MS. Patients from across Norway and Sweden were followed for 30 months with MRI and clinical assessments.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-treatment-multiple-sclerosis-shown-effective.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "low-cost",
+        "multiple",
+        "sclerosis",
+        "effective",
+        "therapy",
+        "clinical",
+        "trial",
+        "treatment"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T14:27:02.119827+00:00"
+    },
+    {
+      "id": "rss-2771fbac5635",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Using ultrasound to attack oral cancer cells",
+      "authors": "Medical Xpress",
+      "abstract": "Oral cancer is a major health challenge in India, where tobacco and areca nut use contribute substantially to the disease burden. Despite advances in surgery, chemotherapy and radiotherapy, treatment remains difficult because current approaches can damage healthy tissues along with cancer cells, often affecting patients' quality of life.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-ultrasound-oral-cancer-cells.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "oral",
+        "cells",
+        "ultrasound",
+        "attack",
+        "major",
+        "health",
+        "challenge"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T14:27:02.120084+00:00"
+    },
+    {
+      "id": "rss-ef0a6325e83a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Ultra-small magnetoelectric antenna could unlock new generation of implantable devices",
+      "authors": "Medical Xpress",
+      "abstract": "A breakthrough in biomedical engineering could help pave the way for tiny implantable devices capable of diagnosing, monitoring and treating a wide range of health conditions. An international team of researchers led by the University of Glasgow has created a new type of ultra-small antenna that can wirelessly transmit data through tissue to external devices.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-ultra-small-magnetoelectric-antenna-generation.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "devices",
+        "ultra-small",
+        "antenna",
+        "could",
+        "implantable",
+        "magnetoelectric",
+        "unlock",
+        "generation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T14:27:02.120322+00:00"
+    },
+    {
+      "id": "rss-34a4ed65971d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Hearing loss in diabetes patients a 'hidden epidemic'",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers are calling for hearing tests to become a standard part of diabetes care and for hearing loss to be recognized as a significant complication of the condition. Dr. Mehwish Nisar from UQ's School of Public Health said most people were unaware there was even a connection between hearing loss and diabetes.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-loss-diabetes-patients-hidden-epidemic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "hearing",
+        "loss",
+        "diabetes",
+        "patients",
+        "hidden",
+        "epidemic",
+        "researchers",
+        "calling"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T14:27:02.120555+00:00"
+    },
+    {
+      "id": "rss-df326036a551",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Extreme heat is rising—and so is the risk to your heart",
+      "authors": "Medical Xpress",
+      "abstract": "As summer heat intensifies across the U.S., the American Heart Association is warning that soaring temperatures don't just make people uncomfortable—they can put serious strain on the heart and increase the risk of life-threatening complications.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-extreme-heart.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "heart",
+        "heat",
+        "risk",
+        "extreme",
+        "rising",
+        "your",
+        "summer",
+        "intensifies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T14:27:02.120785+00:00"
+    },
+    {
+      "id": "rss-ae97727e7801",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Cancer also knows how to wait: Study uncovers the hidden step between mutation and tumor biomass appearance",
+      "authors": "Medical Xpress",
+      "abstract": "The development of cancer is not a process triggered immediately by the emergence of an oncogenic mutation. There is growing evidence for the existence of an intermediate phase—hitherto poorly defined—in which mutated cells remain in a latent state, \"accumulating the potential needed to grow, like a biological time bomb,\" explains Antonio Gentilella, a professor at the Faculty of Pharmacy and Food Sciences at the University of Barcelona and head of the Cancer Metabolism Research Group at the Bellvitge Biomedical Research Institute (IDIBELL), part of the Bellvitge Campus.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-cancer-uncovers-hidden-mutation-tumor.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "mutation",
+        "bellvitge",
+        "also",
+        "knows",
+        "wait",
+        "uncovers",
+        "hidden"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T14:27:02.121079+00:00"
+    },
+    {
+      "id": "rss-bbb219338c82",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Anion gap remains pragmatic target during diabetic ketoacidosis treatment and resolution",
+      "authors": "Medical Xpress",
+      "abstract": "Patients experiencing life-threatening diabetic ketoacidosis (DKA) require quick action, diligent care and close monitoring as they receive insulin infusions and other medical interventions to bring their blood glucose and ketone levels back into balance.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-anion-gap-pragmatic-diabetic-ketoacidosis.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "diabetic",
+        "ketoacidosis",
+        "anion",
+        "remains",
+        "pragmatic",
+        "target",
+        "during",
+        "treatment"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T14:27:02.121283+00:00"
+    },
+    {
+      "id": "rss-016fdab265ff",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Common mucus-clearing treatments don't help ICU patients breathe easier and may cause harm, clinical trial finds",
+      "authors": "Medical Xpress",
+      "abstract": "For patients struggling to breathe because of acute respiratory failure, clearing mucus from the airways is a routine part of treatment. Mucoactive agents are widely used for this purpose. But after years of clinical use, one question remains: Do mucoactive agents actually help?",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-common-mucus-treatments-dont-icu.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "help",
+        "patients",
+        "breathe",
+        "clinical",
+        "mucoactive",
+        "agents",
+        "common",
+        "mucus-clearing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T14:27:02.121514+00:00"
+    },
+    {
+      "id": "rss-ccf255dca9ff",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New biological clues behind coffee's benefit to liver health",
+      "authors": "Medical Xpress",
+      "abstract": "In one of the most comprehensive studies of coffee and liver health to date, Cedars-Sinai Health Sciences University investigators linked higher coffee consumption with a lower risk of cirrhosis, liver cancer and liver-related death. The findings, published in Clinical Gastroenterology and Hepatology, also provide new biological evidence that may help explain those associations.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-biological-clues-coffee-benefit-liver.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "coffee",
+        "liver",
+        "health",
+        "biological",
+        "clues",
+        "behind",
+        "benefit",
+        "most"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T14:27:02.121728+00:00"
+    },
+    {
+      "id": "rss-07d852be97e4",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Move to quit: Exercise boosts smoking quit rates",
+      "authors": "Medical Xpress",
+      "abstract": "A pack-a-day smoker can spend around $14,000 a year on cigarettes, yet despite the financial and health costs, quitting remains one of the most difficult changes many people will ever attempt.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-boosts.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "quit",
+        "move",
+        "exercise",
+        "boosts",
+        "smoking",
+        "rates",
+        "pack-a-day",
+        "smoker"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T14:27:02.121918+00:00"
+    },
+    {
+      "id": "rss-1187d9114c0b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Going from the lab into the fire to study cancer risk in wildland firefighters",
+      "authors": "Medical Xpress",
+      "abstract": "Cancer researchers at the Sylvester Firefighter Cancer Initiative (SFCI), part of the University of Miami Miller School of Medicine, took a rare step to better understand the cancer risks wildland firefighters face: They became wildland firefighters themselves. The firsthand experience is shaping a new study of smoke, heat, heavy gear and environmental exposures as Wildland Firefighter Week of Remembrance, June 30–July 6, brings national attention to the dangers of the job.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-lab-cancer-wildland-firefighters.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "wildland",
+        "firefighters",
+        "firefighter",
+        "going",
+        "fire",
+        "risk",
+        "researchers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T14:27:02.122182+00:00"
+    },
+    {
+      "id": "rss-941584e4e1b1",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Program dramatically improves safety of surgery for children",
+      "authors": "Medical Xpress",
+      "abstract": "Ann & Robert H. Lurie Children's Hospital of Chicago achieved more than a 13-fold improvement in surgical safety after implementing a series of interventions based on high-reliability principles across its operating rooms. The hospital went from experiencing a serious safety event about every 2,977 surgical cases to a stretch of 39,654 cases over 585 days without a single serious safety event, according to the study published in Pediatrics.",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-safety-surgery-children.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "safety",
+        "children",
+        "hospital",
+        "surgical",
+        "serious",
+        "event",
+        "cases",
+        "program"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T14:27:02.122435+00:00"
+    },
+    {
+      "id": "rss-289702acc7f9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New expert recommendations aim to improve detection and care of lung disease in people with rheumatoid arthritis",
+      "authors": "Medical Xpress",
+      "abstract": "A new international expert consensus statement published in The Lancet Respiratory Medicine provides guidance for doctors on how to identify, monitor and treat a serious lung complication that affects many people living with rheumatoid arthritis (RA).",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-expert-aim-lung-disease-people.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "expert",
+        "lung",
+        "people",
+        "rheumatoid",
+        "arthritis",
+        "recommendations",
+        "improve",
+        "detection"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T14:27:02.122655+00:00"
+    },
     {
       "id": "rss-d08dbf6b8d04",
       "discipline": "clinical",
@@ -35,423 +451,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.831754+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.122857+00:00"
     },
     {
-      "id": "rss-cebb7dd5c4b5",
-      "discipline": "clinical",
+      "id": "rss-9c77812be575",
+      "discipline": "cs",
       "type": "news",
-      "title": "BCG vaccine may rewire brain immunity, shift Alzheimer's markers over 12 months",
-      "authors": "Medical Xpress",
-      "abstract": "New research led by Mass General Brigham investigators suggests that the Bacillus Calmette-Guérin (BCG) vaccine—which is delivered through the skin to prevent tuberculosis—may remodel the human brain's immune environment, offering a potential biological explanation for previously observed associations between BCG vaccination and lower Alzheimer's disease risk. Findings are published in Communications Medicine.",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "authors": "TechCrunch AI",
+      "abstract": "Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group.",
       "date": "2026-07-02",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-06-bcg-vaccine-rewire-brain-immunity.html",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "vaccine",
-        "brain",
-        "alzheimer",
-        "rewire",
-        "immunity",
-        "shift",
-        "markers",
-        "over"
+        "microsoft",
+        "deployment",
+        "launches",
+        "company",
+        "billion",
+        "commitment",
+        "follows",
+        "amazon"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.832065+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.262216+00:00"
     },
     {
-      "id": "rss-2fcdbd1ac97f",
-      "discipline": "clinical",
+      "id": "rss-d9bc183b3809",
+      "discipline": "cs",
       "type": "news",
-      "title": "Cracking open a can of cannabis—America's new pastime (for now)",
-      "authors": "Medical Xpress",
-      "abstract": "At Fourth of July barbecues this weekend, Americans are more likely than ever to crack open a can of cannabis rather than a beer.",
+      "title": "Yep, we’re using OpenClaw to date now",
+      "authors": "TechCrunch AI",
+      "abstract": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
       "date": "2026-07-02",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-cannabis-america-pastime.html",
+      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "open",
-        "cannabis",
-        "than",
-        "cracking",
-        "america",
-        "pastime",
-        "fourth",
-        "july"
+        "openclaw",
+        "date",
+        "guez",
+        "bunch",
+        "potential",
+        "international",
+        "wives",
+        "thanks"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.832277+00:00"
-    },
-    {
-      "id": "rss-4458967d3c50",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Would hunters take a Lyme disease vaccine?",
-      "authors": "Medical Xpress",
-      "abstract": "It's tick season, possibly the worst in a decade.",
-      "date": "2026-07-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-hunters-lyme-disease-vaccine.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "would",
-        "hunters",
-        "take",
-        "lyme",
-        "disease",
-        "vaccine",
-        "tick",
-        "season"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.832454+00:00"
-    },
-    {
-      "id": "rss-2d825a09d46f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "In Quebec, young adults were hit first by the pandemic",
-      "authors": "Medical Xpress",
-      "abstract": "In the first two years of the COVID-19 pandemic in Quebec, through seven waves of outbreaks, SARS-CoV-2 tended to infect young adults first before the rest of the population, a new study shows. That makes them a key demographic to watch as public health officials try to detect new and emerging waves of that and other viruses, say the Université de Montréal researchers behind the study.",
-      "date": "2026-07-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-quebec-young-adults-pandemic.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "first",
-        "quebec",
-        "young",
-        "adults",
-        "pandemic",
-        "waves",
-        "that",
-        "were"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.832725+00:00"
-    },
-    {
-      "id": "rss-98da9ab68d18",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New listeria labeling proposed for smoked salmon and other ready-to-eat foods",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers from the DTU National Food Institute are proposing a new labeling scheme designed to give consumers a better opportunity to choose ready-to-eat foods, such as smoked salmon and spiced pork roll, without risking infection with Listeria bacteria.",
-      "date": "2026-07-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-listeria-salmon-ready-foods.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "listeria",
-        "labeling",
-        "smoked",
-        "salmon",
-        "ready-to-eat",
-        "foods",
-        "proposed",
-        "other"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.832939+00:00"
-    },
-    {
-      "id": "rss-c6407a6a1163",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Digital mindfulness intervention beneficial for late-life depression",
-      "authors": "Medical Xpress",
-      "abstract": "A digital mindfulness intervention with electroencephalogram (EEG) feedback—the FocusZen Mindfulness Stress Reduction System—reduces depression, anxiety, and sleep symptoms among participants with late-life depression (LLD), according to a study published in the Journal of Psychiatric Research.",
-      "date": "2026-07-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-digital-mindfulness-intervention-beneficial-late.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "mindfulness",
-        "depression",
-        "digital",
-        "intervention",
-        "late-life",
-        "beneficial",
-        "electroencephalogram",
-        "feedback"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.833161+00:00"
-    },
-    {
-      "id": "rss-62dd6f12308a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Voice changes measured with a mobile phone can signal a flare up in asthma or COPD",
-      "authors": "Medical Xpress",
-      "abstract": "Voice changes, which can be recorded and measured with a mobile phone app, can signal a flare-up in symptoms for people with asthma or chronic obstructive pulmonary disease (COPD), according to a study published in ERJ Open Research.",
-      "date": "2026-07-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-voice-mobile-flare-asthma-copd.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "voice",
-        "changes",
-        "measured",
-        "mobile",
-        "phone",
-        "signal",
-        "asthma",
-        "copd"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.833369+00:00"
-    },
-    {
-      "id": "rss-8536c7c7fb17",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "UK-US trade deal will mean the NHS has to divert billions from other services to pay more for new medicines",
-      "authors": "Medical Xpress",
-      "abstract": "Around £45 billion in NHS funding will be diverted from other NHS care by 2036 to pay more for new medicines under the UK-U.S. trade deal agreed last December unless more funding is made available to cover the additional costs, suggests an analysis published by The BMJ .",
-      "date": "2026-07-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-uk-nhs-billions-pay-medicines.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "more",
-        "trade",
-        "deal",
-        "will",
-        "other",
-        "medicines",
-        "funding",
-        "uk-us"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.833634+00:00"
-    },
-    {
-      "id": "rss-4ec7772dc379",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Heart risk markers in adults over 40 with obesity increasingly converge with normal BMI levels",
-      "authors": "Medical Xpress",
-      "abstract": "Over the last three decades, differences in unhealthy cholesterol levels and blood pressure between older adults with obesity and those with a normal body mass index (BMI) have narrowed or disappeared in several high-income countries, suggests a study published in The Lancet. The authors propose that this trend is due to the greater, and possibly more intensive, use of cholesterol-lowering medication (such as statins) and blood pressure medication in people older than 40 living with obesity in high-income countries.",
-      "date": "2026-07-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-heart-markers-adults-obesity-converge.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "obesity",
-        "adults",
-        "over",
-        "normal",
-        "levels",
-        "blood",
-        "pressure",
-        "older"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.833920+00:00"
-    },
-    {
-      "id": "rss-48d8e7e05f62",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Mechanical restraint linked to small increased short-term blood clot risk in psychiatric hospitals",
-      "authors": "Medical Xpress",
-      "abstract": "Mechanical restraint is associated with a small increased short-term risk of blood clots among inpatients at psychiatric hospitals, finds a Danish study published by The BMJ. Although the absolute risk remains very low, the researchers say the findings support ongoing preventive efforts to reduce the use of mechanical restraint.",
-      "date": "2026-07-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-mechanical-restraint-linked-small-short.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "mechanical",
-        "restraint",
-        "risk",
-        "small",
-        "increased",
-        "short-term",
-        "blood",
-        "psychiatric"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.834144+00:00"
-    },
-    {
-      "id": "rss-83a572d9dfa6",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "FDA scientists warn against expanded peptide access as Kennedy reshapes advisory panel",
-      "authors": "Medical Xpress",
-      "abstract": "Federal health scientists are urging caution about expanding access to controversial peptide drugs, even as the U.S. Food and Drug Administration (FDA) reshapes the advisory panel that will consider whether to loosen those restrictions.",
-      "date": "2026-07-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-fda-scientists-peptide-access-kennedy.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "scientists",
-        "peptide",
-        "access",
-        "reshapes",
-        "advisory",
-        "panel",
-        "warn",
-        "against"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.834356+00:00"
-    },
-    {
-      "id": "rss-75735de93695",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Discovery could help prevent cancer drug resistance before it starts",
-      "authors": "Medical Xpress",
-      "abstract": "Cancer cells are quick to develop resistance to anti-tumor drugs. New research by scientists from the University of California, Davis, shows how cancers adapt to evade a class of anti-tumor drugs called BET inhibitors and offers hope for more effective therapies.",
-      "date": "2026-07-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-discovery-cancer-drug-resistance.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "resistance",
-        "anti-tumor",
-        "drugs",
-        "discovery",
-        "could",
-        "help",
-        "prevent"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.834576+00:00"
-    },
-    {
-      "id": "rss-1dcd6b7d8cf2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "The circuit that lets your brain think and see",
-      "authors": "Medical Xpress",
-      "abstract": "Nuttida Rungratsameetaweemana is challenging a story neuroscience has told for decades. According to the conventional account, our eyes collect raw information and relay it through a series of nerves and waystations that lead deep into the brain, eventually reaching the cortex. There, the thinking begins as information is processed and put to use for higher tasks such as reasoning, judgment and decision-making.",
-      "date": "2026-07-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-circuit-brain.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "that",
-        "brain",
-        "information",
-        "circuit",
-        "lets",
-        "your",
-        "think",
-        "nuttida"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.834808+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.262526+00:00"
     },
     {
       "id": "rss-79ca9d089ffe",
@@ -459,7 +523,7 @@ window.LIVE_FEED_DATA = {
       "type": "news",
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
       "authors": "TechCrunch AI",
-      "abstract": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "abstract": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
       "date": "2026-07-02",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -483,7 +547,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.961964+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.262744+00:00"
     },
     {
       "id": "rss-55225443b10e",
@@ -515,7 +579,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.962166+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.262927+00:00"
     },
     {
       "id": "rss-6484849365a6",
@@ -547,7 +611,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.962347+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.263142+00:00"
     },
     {
       "id": "rss-55ee2b185894",
@@ -579,7 +643,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.962510+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.263347+00:00"
     },
     {
       "id": "rss-101618635bf5",
@@ -611,7 +675,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.962710+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.263540+00:00"
     },
     {
       "id": "rss-6d1003c9ce68",
@@ -643,7 +707,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.962861+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.263706+00:00"
     },
     {
       "id": "rss-176dfa758459",
@@ -675,7 +739,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.963033+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.263881+00:00"
     },
     {
       "id": "rss-09272b38bb51",
@@ -707,7 +771,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.963189+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.264037+00:00"
     },
     {
       "id": "rss-f686255f6ec2",
@@ -739,7 +803,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.963329+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.264181+00:00"
     },
     {
       "id": "rss-2d7d3cebf1d7",
@@ -771,7 +835,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.963474+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.264332+00:00"
     },
     {
       "id": "rss-dacb86df88ff",
@@ -803,7 +867,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.963656+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.264486+00:00"
     },
     {
       "id": "rss-0ec61d5c541e",
@@ -835,7 +899,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.142876+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.357554+00:00"
     },
     {
       "id": "rss-19259ec0f554",
@@ -867,7 +931,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.354221+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.660804+00:00"
     },
     {
       "id": "rss-f9d36c9728b1",
@@ -899,71 +963,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.963791+00:00"
-    },
-    {
-      "id": "rss-2b7dafc39c06",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-      "authors": "TechCrunch AI",
-      "abstract": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
-      "date": "2026-06-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "deepmind",
-        "trio",
-        "built",
-        "poker",
-        "making",
-        "money",
-        "quant",
-        "hedge"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.963924+00:00"
-    },
-    {
-      "id": "rss-8a4d12d47a6c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-      "authors": "TechCrunch AI",
-      "abstract": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
-      "date": "2026-06-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "faster",
-        "cheaper",
-        "image",
-        "generator",
-        "make",
-        "introduces",
-        "nano"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:43.964057+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.264611+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -995,7 +995,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.143061+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.357749+00:00"
     },
     {
       "id": "rss-19e287a9fb9c",
@@ -1027,7 +1027,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.354758+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.661434+00:00"
     },
     {
       "id": "rss-4e904f861292",
@@ -1059,7 +1059,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.143227+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.357928+00:00"
     },
     {
       "id": "rss-5b0f51c03247",
@@ -1091,7 +1091,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.143388+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.358089+00:00"
     },
     {
       "id": "rss-171691b8cedf",
@@ -1123,7 +1123,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.143521+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.358228+00:00"
     },
     {
       "id": "rss-3811b60f2c26",
@@ -1155,7 +1155,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.143738+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.358394+00:00"
     },
     {
       "id": "rss-a8a59a71fab6",
@@ -1187,7 +1187,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.143901+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.358570+00:00"
     },
     {
       "id": "rss-0e554b469f1c",
@@ -1219,7 +1219,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.144033+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.358706+00:00"
     },
     {
       "id": "rss-c83a6084c17d",
@@ -1251,7 +1251,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.355192+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.661952+00:00"
+    },
+    {
+      "id": "rss-4347e37ce541",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Happy 250th USA! Here's your July 4th weekend forecast",
+      "authors": "NOAA News",
+      "abstract": "Happy 250th USA! Here's your July 4th weekend forecast The NOAA Ship Thomas Jefferson passes by the Statue of Liberty in New York Harbor in 2021. (Image credit: NOAA) Download Image July 2, 2026 Stars, stripes and lots of sun: Much of the central and eastern U.S. will swelter under extreme heat for America’s semiquincentennial celebrations, as the West enjoys more typical summer temperatures. Here’s our national weather summary for Independence Day weekend: A dangerous summer scorcher for millions A persistent heat dome will bake a good chunk of the U.S. late week. High temperatures will soar 10-20 degrees F above average across the eastern third of the U.S. on Friday and Saturday, before the hottest air pushes into the Southeast on Sunday. Heat index temperatures , which measure how hot it feels when you factor in the relative humidity, will range from 105-115 degrees across a good p...",
+      "date": "2026-06-24",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news/happy-250th-usa-heres-your-july-4th-weekend-forecast",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "will",
+        "here",
+        "july",
+        "weekend",
+        "heat",
+        "temperatures",
+        "happy",
+        "your"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-02T14:27:02.662604+00:00"
     },
     {
       "id": "rss-0439785447ef",
@@ -1283,7 +1315,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.355805+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.663302+00:00"
     },
     {
       "id": "rss-6e64d9a2858e",
@@ -1315,7 +1347,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.144171+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.358846+00:00"
     },
     {
       "id": "rss-5d40314c8fc4",
@@ -1347,7 +1379,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.144307+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.358984+00:00"
     },
     {
       "id": "rss-93a5db061a72",
@@ -1379,7 +1411,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.356344+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.663910+00:00"
     },
     {
       "id": "rss-aa16e55100c4",
@@ -1411,7 +1443,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.144440+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.359119+00:00"
     },
     {
       "id": "rss-178fcef6b56d",
@@ -1443,7 +1475,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.144599+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.359269+00:00"
     },
     {
       "id": "rss-607184e56a4c",
@@ -1475,7 +1507,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.144735+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.359412+00:00"
     },
     {
       "id": "rss-1842992c471c",
@@ -1507,7 +1539,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.144867+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.359549+00:00"
     },
     {
       "id": "rss-5cf5c5f90af9",
@@ -1539,7 +1571,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.356901+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.664350+00:00"
     },
     {
       "id": "rss-9babfa4d92c2",
@@ -1571,7 +1603,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.357130+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.664574+00:00"
     },
     {
       "id": "rss-9da09de8e550",
@@ -1603,7 +1635,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.357306+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.664747+00:00"
     },
     {
       "id": "rss-3c2f3866802b",
@@ -1635,39 +1667,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.357794+00:00"
-    },
-    {
-      "id": "rss-130a779b2400",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Science that goes deep: How NOAA Research is studying our global ocean",
-      "authors": "NOAA News",
-      "abstract": "Science that goes deep: How NOAA Research is studying our global ocean Researchers deploy an Argo float into the sea to gather data throughout the water column. (Image credit: Commonwealth Scientific and Industrial Research Organisation (CSIRO)) Download Image June 9, 2026 Research Ocean & Coasts National Ocean Month research ocean exploration 0 Off",
-      "date": "2026-06-09",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/science-goes-deep-how-noaa-research-is-studying-our-global-ocean-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ocean",
-        "that",
-        "goes",
-        "deep",
-        "noaa",
-        "studying",
-        "global",
-        "image"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-02T09:30:44.357994+00:00"
+      "_retrievedAt": "2026-07-02T14:27:02.665186+00:00"
     }
   ]
 };
