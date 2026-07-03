@@ -1,11 +1,331 @@
 {
-  "generatedAt": "2026-07-03T14:29:54.703696+00:00",
-  "total": 114,
+  "generatedAt": "2026-07-03T19:48:24.315931+00:00",
+  "total": 113,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-9d54115e0201",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Forcing cancer cells to die can alert the immune system to enhance anti-tumor attack",
+      "authors": "Medical Xpress",
+      "abstract": "Unlike accidental cell death, some cells can actively decide to die through a controlled process. This is called programmed cell death and can occur in different forms, including apoptosis and necroptosis. Cells use this process when they are damaged, stressed, becoming cancerous, or infected by harmful microbes. This self-destruction mechanism helps to protect the body, but it is also involved in many diseases, such as infections, inflammatory conditions and cancer.",
+      "date": "2026-07-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-cancer-cells-die-immune-anti.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cells",
+        "this",
+        "cancer",
+        "cell",
+        "death",
+        "process",
+        "forcing",
+        "alert"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-03T19:48:23.917533+00:00"
+    },
+    {
+      "id": "rss-0890f6cec5b8",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Immature immune cells predict chances of survival following a heart attack",
+      "authors": "Medical Xpress",
+      "abstract": "In the event of a severe heart attack, immature immune cells are released into the bloodstream from the bone marrow. A research team led by the University of Münster has demonstrated that the maturity level of neutrophils can be used to determine the short-term risk of death, and this can be assessed through a simple blood test. These findings have been published in the journal Nature Cardiovascular Research.",
+      "date": "2026-07-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-immature-immune-cells-chances-survival.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "immature",
+        "immune",
+        "cells",
+        "heart",
+        "attack",
+        "predict",
+        "chances",
+        "survival"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-03T19:48:23.917818+00:00"
+    },
+    {
+      "id": "rss-c7c057029fbf",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Zebrafish brains reveal alternate route for senses to the forebrain shared with mammals",
+      "authors": "Medical Xpress",
+      "abstract": "Line up the brains of a fish, bird and a mammal, and something unexpected comes up. You do not see three different answers to the problem of making sense of the world. You see one answer, tilted three different ways. \"You can really see it's almost like a continuum,\" says Emre Yaksi, a professor at the Kavli Institute for Systems Neuroscience in Trondheim.",
+      "date": "2026-07-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-zebrafish-brains-reveal-alternate-route.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brains",
+        "three",
+        "different",
+        "zebrafish",
+        "reveal",
+        "alternate",
+        "route",
+        "senses"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-03T19:48:23.918066+00:00"
+    },
+    {
+      "id": "rss-664af7e85645",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "1 in 5 adults make health decisions based on what they see on social media despite widespread mistrust",
+      "authors": "Medical Xpress",
+      "abstract": "Every few scrolls, another health expert appears on the screen. While some are genuinely qualified, others simply sound convincing enough to pass as one. With AI-generated content flooding feeds, avoiding such advice is becoming increasingly difficult. The way people access health advice has shifted, and for many, social media might be a primary source of information. We need to keep up with its impact because, unlike traditional health channels, these platforms often lack strong editorial checks, making it easier for misinformation to spread.",
+      "date": "2026-07-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-adults-health-decisions-based-social.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "health",
+        "social",
+        "media",
+        "advice",
+        "adults",
+        "make",
+        "decisions",
+        "what"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-03T19:48:23.918331+00:00"
+    },
+    {
+      "id": "rss-62c8f09e4b96",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Molecules link lower weight babies and chronic diseases",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers have long sought to discover why babies who weigh less than expected at birth, a condition known as small for gestational age, or SGA, are at higher risk for heart, lung and metabolic diseases as adults.",
+      "date": "2026-07-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-molecules-link-weight-babies-chronic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "babies",
+        "diseases",
+        "molecules",
+        "link",
+        "lower",
+        "weight",
+        "chronic",
+        "researchers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-03T19:48:23.918526+00:00"
+    },
+    {
+      "id": "rss-46eccbf29447",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "AI tool improves prediction of who will respond to cancer immunotherapy drugs",
+      "authors": "Medical Xpress",
+      "abstract": "Cancer immunotherapy drugs known as immune checkpoint inhibitors (ICIs) can be miracle drugs for cancer patients, curing some and turning deadly disease into a manageable chronic condition in others. But these drugs work for only a subset of patients, with few indications why—a knowledge gap that has detrimental effects on patient prognosis, clinical trial recruitment and research that could lead to new therapies.",
+      "date": "2026-07-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-ai-tool-cancer-immunotherapy-drugs.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "drugs",
+        "cancer",
+        "immunotherapy",
+        "patients",
+        "that",
+        "tool",
+        "improves",
+        "prediction"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-03T19:48:23.918790+00:00"
+    },
+    {
+      "id": "rss-dbd3abf60919",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Decade-long national study finds antimicrobial use in Australian hospitals improves with regular monitoring",
+      "authors": "Medical Xpress",
+      "abstract": "A 10-year national study has found improved antimicrobial use in Australian hospitals that regularly monitored their prescribing, using a globally unique program developed by a Melbourne hospital. The study reinforces the importance of antimicrobial stewardship to improve patient care and minimize antimicrobial resistance.",
+      "date": "2026-07-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-decade-national-antimicrobial-australian-hospitals.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "antimicrobial",
+        "national",
+        "australian",
+        "hospitals",
+        "decade-long",
+        "finds",
+        "improves",
+        "regular"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-03T19:48:23.919022+00:00"
+    },
+    {
+      "id": "rss-d7041ccd0376",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Are lung cancer tumors hijacking the nervous system?",
+      "authors": "Medical Xpress",
+      "abstract": "According to the Cleveland Clinic, a quarter of cancer deaths can be attributed to one source: cachexia. Cachexia is a syndrome that accompanies underlying chronic illness and causes unwanted muscle and fat loss, reducing quality of life and sometimes even limiting treatment options.",
+      "date": "2026-07-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-lung-cancer-tumors-hijacking-nervous.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "cachexia",
+        "lung",
+        "tumors",
+        "hijacking",
+        "nervous",
+        "system",
+        "according"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-03T19:48:23.919233+00:00"
+    },
+    {
+      "id": "rss-3fd62f327865",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New tumor map identifies high-risk B-cell lymphoma standard therapy may miss",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers led by Universitätsmedizin Frankfurt and Goethe University Frankfurt have identified how particularly aggressive forms of lymphoma can be recognized. By combining genetic and proteomic analyses, the scientists identified biological characteristics of tumors, particularly in high-risk patients for whom standard therapy offers little chance of cure. In the future, such patients could receive alternative, more effective therapies directly. In addition, experimental laboratory research provided initial clues to potential therapeutic targets. The study is published in Cancer Cell.",
+      "date": "2026-07-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-tumor-high-cell-lymphoma-standard.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "high-risk",
+        "lymphoma",
+        "standard",
+        "therapy",
+        "frankfurt",
+        "identified",
+        "particularly",
+        "patients"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-03T19:48:23.919500+00:00"
+    },
+    {
+      "id": "rss-b0efc7e83ac4",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Early dog exposure may protect babies from infections through home microbes",
+      "authors": "Medical Xpress",
+      "abstract": "Children who have been in contact with dogs in early childhood are, on average, healthier and require fewer courses of antibiotics than children without such contact. The protective association is explained, at least in part, by the spread of dog-associated microbes in the home.",
+      "date": "2026-07-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-early-dog-exposure-babies-infections.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "early",
+        "home",
+        "microbes",
+        "children",
+        "contact",
+        "exposure",
+        "protect",
+        "babies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-03T19:48:23.919698+00:00"
+    },
     {
       "id": "rss-fb71598425c8",
       "discipline": "clinical",
@@ -36,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.071606+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.919891+00:00"
     },
     {
       "id": "rss-01e157d036df",
@@ -68,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.071951+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.920129+00:00"
     },
     {
       "id": "rss-da405ab32772",
@@ -100,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.072226+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.920356+00:00"
     },
     {
       "id": "rss-f2551aa7b67c",
@@ -132,327 +452,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.072496+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.920585+00:00"
     },
     {
-      "id": "rss-1739cc810436",
-      "discipline": "clinical",
+      "id": "rss-9896ea2e6cf0",
+      "discipline": "cs",
       "type": "news",
-      "title": "Biological aortic valves linked to better pregnancy outcomes, but more reoperations",
-      "authors": "Medical Xpress",
-      "abstract": "In cases of serious aortic valve disease, choosing a new heart valve is particularly difficult for young women who wish to become pregnant. A new Swedish registry study from Karolinska Institutet shows that a biological aortic valve provides good pregnancy and birth outcomes, even though the need for reoperation is more common than with a mechanical valve. The study is published in the JACC.",
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "authors": "TechCrunch AI",
+      "abstract": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
       "date": "2026-07-03",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-biological-aortic-valves-linked-pregnancy.html",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "valve",
-        "aortic",
-        "biological",
-        "pregnancy",
-        "outcomes",
-        "more",
-        "valves",
-        "linked"
+        "chrome",
+        "safari",
+        "browser",
+        "wars",
+        "aren",
+        "about",
+        "search",
+        "anymore"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.072760+00:00"
-    },
-    {
-      "id": "rss-3579833b65e8",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Digital diabetes tool shown to improve patient care and cut health care costs",
-      "authors": "Medical Xpress",
-      "abstract": "A new study by University of Manchester researchers has linked a digital platform helping people manage type 2 diabetes to better blood sugar control, improved health and potential long-term NHS cost savings. MyWay Diabetes, an NHS-supported online platform and app—which lets users view their diabetes health records, track results and access simple education courses and advice—was rolled out across Greater Manchester during the COVID-19 pandemic.",
-      "date": "2026-07-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-digital-diabetes-tool-shown-patient.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "diabetes",
-        "health",
-        "digital",
-        "care",
-        "manchester",
-        "platform",
-        "tool",
-        "shown"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.073096+00:00"
-    },
-    {
-      "id": "rss-26b3be589345",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Nursing leaders call on profession to amplify its impact ahead of U.S. semiquincentennial",
-      "authors": "Medical Xpress",
-      "abstract": "As the United States prepares to mark its 250th anniversary, Penn Nursing leaders are issuing a joint call to action for the nursing profession. In separate commentaries published in the July 2026 issue of the American Journal of Nursing (AJN), Antonia M. Villarruel, PhD, RN, FAAN, the Margaret Bond Simon Dean of Nursing, and J. Margo Brooks Carthon, PhD, RN, FAAN, director of the Barbara Bates Center for the Study of the History of Nursing, urge nurses to reclaim their foundational role in America's history and use that legacy to advocate for social justice and professional equity today.",
-      "date": "2026-07-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-nursing-leaders-amplify-impact-semiquincentennial.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nursing",
-        "leaders",
-        "call",
-        "profession",
-        "faan",
-        "history",
-        "amplify",
-        "impact"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.073396+00:00"
-    },
-    {
-      "id": "rss-3e3596ae92a4",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Analysis indicates Latinos in U.S. are indispensable to nation's prosperity, health, future",
-      "authors": "Medical Xpress",
-      "abstract": "The conventional narrative that Latinos are taking more from the United States than they contribute is not just wrong—it is dangerous. In a new \"Medicine and Society\" analysis published in the New England Journal of Medicine, researchers from the Center for Latino Adolescent and Family Health (CLAFH) at John Hopkins University School of Nursing report that Latinos are among the nation's most important contributors to economic growth, workforce participation, and population health.",
-      "date": "2026-07-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-analysis-latinos-indispensable-nation-prosperity.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "latinos",
-        "health",
-        "nation",
-        "that",
-        "medicine",
-        "indicates",
-        "indispensable",
-        "prosperity"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.073691+00:00"
-    },
-    {
-      "id": "rss-3cb2c531a53f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Brain scans reveal impaired waste clearance in ME/CFS, offering clue to brain fog",
-      "authors": "Medical Xpress",
-      "abstract": "The brain's waste clearance system is impaired in people living with myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), which can lead to various symptoms, including brain fog, Griffith University researchers have discovered.",
-      "date": "2026-07-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-brain-scans-reveal-impaired-clearance.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "brain",
-        "impaired",
-        "waste",
-        "clearance",
-        "scans",
-        "reveal",
-        "offering",
-        "clue"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.073948+00:00"
-    },
-    {
-      "id": "rss-f3b49be9b9f6",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Cardiac screening advice published for military personnel",
-      "authors": "Medical Xpress",
-      "abstract": "The first comprehensive framework to guide cardiac evaluation in the Armed Forces has been issued by the European Association of Preventive Cardiology (EAPC) of the ESC. Published in the European Journal of Preventive Cardiology, the statement was written by international experts from Europe, North America and Australia.",
-      "date": "2026-07-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-cardiac-screening-advice-published-military.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cardiac",
-        "published",
-        "european",
-        "preventive",
-        "cardiology",
-        "screening",
-        "advice",
-        "military"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.074184+00:00"
-    },
-    {
-      "id": "rss-19f825946ad2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Intermittent fasting maintains long-term weight loss, regardless of meal timing, study shows",
-      "authors": "Medical Xpress",
-      "abstract": "A team of scientists from the University of Granada (UGR), the Granada Institute for Biomedical Research (ibs.GRANADA), the Public University of Navarra and the Biomedical Research Networking Center (CIBER) has demonstrated that limiting food intake to an eight-hour window helps maintain weight loss 12 months after the end of the intervention in overweight or obese adults.",
-      "date": "2026-07-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-intermittent-fasting-term-weight-loss.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "granada",
-        "weight",
-        "loss",
-        "university",
-        "biomedical",
-        "intermittent",
-        "fasting",
-        "maintains"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.074430+00:00"
-    },
-    {
-      "id": "rss-9ba3a61eec3c",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "What is mild cognitive impairment? And does it always lead to dementia?",
-      "authors": "Medical Xpress",
-      "abstract": "You've forgotten a few appointments lately, and you find yourself losing track of conversations. Close friends or family may have also noticed some changes in your memory or thinking.",
-      "date": "2026-07-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-mild-cognitive-impairment-dementia.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "what",
-        "mild",
-        "cognitive",
-        "impairment",
-        "does",
-        "always",
-        "lead",
-        "dementia"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.074642+00:00"
-    },
-    {
-      "id": "rss-033de45971ff",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Blind boxes are a game of chance: How to keep kids from getting hooked",
-      "authors": "Medical Xpress",
-      "abstract": "Labubus, \"dumpling squishies\" and Lego minifigures are examples of small collectible toys sold in \"blind boxes.\"",
-      "date": "2026-07-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-game-chance-kids.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "blind",
-        "boxes",
-        "game",
-        "chance",
-        "keep",
-        "kids",
-        "getting",
-        "hooked"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.074859+00:00"
-    },
-    {
-      "id": "rss-ca028ce22601",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Home counseling visits increase HIV testing for couples, viral suppression for mothers in Kenya",
-      "authors": "Medical Xpress",
-      "abstract": "A home-based counseling program for pregnant women and their male partners increased couples HIV testing and helped mothers living with HIV achieve viral suppression, new research shows. The study, co-led by the University of Michigan and the University of Alabama at Birmingham, found that home counseling visits more than quadrupled joint HIV testing rates compared with standard clinic-based care. By 12 months postpartum, 56% of couples receiving home visits had tested together, while only 13.6% of those who received routine services at a health facility tested jointly for HIV.",
-      "date": "2026-07-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-home-hiv-couples-viral-suppression.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "home",
-        "counseling",
-        "visits",
-        "testing",
-        "couples",
-        "viral",
-        "suppression",
-        "mothers"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.075147+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.970691+00:00"
     },
     {
       "id": "rss-04c99b71151a",
@@ -484,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.144478+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.970905+00:00"
     },
     {
       "id": "rss-7254829ad646",
@@ -516,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.144709+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.971080+00:00"
     },
     {
       "id": "rss-784d5b87809b",
@@ -548,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.144930+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.971223+00:00"
     },
     {
       "id": "rss-47feb73e768d",
@@ -580,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.145096+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.971356+00:00"
     },
     {
       "id": "rss-d4d5b5d0b551",
@@ -612,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.145292+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.971520+00:00"
     },
     {
       "id": "rss-9c77812be575",
@@ -644,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.145445+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.971644+00:00"
     },
     {
       "id": "rss-d9bc183b3809",
@@ -676,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.145614+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.971782+00:00"
     },
     {
       "id": "rss-79ca9d089ffe",
@@ -708,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.145791+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.971930+00:00"
     },
     {
       "id": "rss-55225443b10e",
@@ -740,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.145979+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.972086+00:00"
     },
     {
       "id": "rss-6484849365a6",
@@ -772,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.146169+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.972247+00:00"
     },
     {
       "id": "rss-55ee2b185894",
@@ -804,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.146351+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.972400+00:00"
     },
     {
       "id": "rss-101618635bf5",
@@ -836,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.146511+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.972532+00:00"
     },
     {
       "id": "rss-6d1003c9ce68",
@@ -868,39 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.146676+00:00"
-    },
-    {
-      "id": "rss-176dfa758459",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
-      "authors": "TechCrunch AI",
-      "abstract": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scale successful companies. Register now to save up to $330.",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "builders",
-        "stage",
-        "practical",
-        "techcrunch",
-        "disrupt",
-        "agenda",
-        "revealed",
-        "strategies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.146909+00:00"
+      "_retrievedAt": "2026-07-03T19:48:23.972675+00:00"
     },
     {
       "id": "rss-0ec61d5c541e",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.211765+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.045200+00:00"
     },
     {
       "id": "rss-19259ec0f554",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.541761+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.261068+00:00"
     },
     {
       "id": "rss-cdcec8d11a6a",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.542317+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.261594+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.211980+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.045387+00:00"
     },
     {
       "id": "rss-19e287a9fb9c",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.542847+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.262111+00:00"
     },
     {
       "id": "rss-4e904f861292",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.212164+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.045554+00:00"
     },
     {
       "id": "rss-5b0f51c03247",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.212343+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.045713+00:00"
     },
     {
       "id": "rss-171691b8cedf",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.212499+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.045848+00:00"
     },
     {
       "id": "rss-3811b60f2c26",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.212684+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.046031+00:00"
     },
     {
       "id": "rss-a8a59a71fab6",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.212898+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.046199+00:00"
     },
     {
       "id": "rss-0e554b469f1c",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.213055+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.046332+00:00"
     },
     {
       "id": "rss-c83a6084c17d",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.543305+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.262565+00:00"
     },
     {
       "id": "rss-4347e37ce541",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.543901+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.263153+00:00"
     },
     {
       "id": "rss-0439785447ef",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.544541+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.263780+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1380,7 +1380,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:48.677237+00:00"
+      "_retrievedAt": "2026-07-03T19:47:07.833053+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1412,7 +1412,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:48.677660+00:00"
+      "_retrievedAt": "2026-07-03T19:47:07.833556+00:00"
     },
     {
       "id": "rss-6e64d9a2858e",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.213215+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.046466+00:00"
     },
     {
       "id": "rss-5d40314c8fc4",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.213368+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.046598+00:00"
     },
     {
       "id": "rss-93a5db061a72",
@@ -1508,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.545145+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.264370+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1540,7 +1540,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:50.506495+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.820578+00:00"
     },
     {
       "id": "rss-aa16e55100c4",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.213520+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.046729+00:00"
     },
     {
       "id": "rss-178fcef6b56d",
@@ -1604,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.213685+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.046870+00:00"
     },
     {
       "id": "rss-607184e56a4c",
@@ -1636,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.213861+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.047012+00:00"
     },
     {
       "id": "rss-1842992c471c",
@@ -1668,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.214018+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.047140+00:00"
     },
     {
       "id": "rss-5cf5c5f90af9",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.545646+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.264859+00:00"
     },
     {
       "id": "rss-9babfa4d92c2",
@@ -1732,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.545913+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.265100+00:00"
     },
     {
       "id": "rss-9da09de8e550",
@@ -1764,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:54.546116+00:00"
+      "_retrievedAt": "2026-07-03T19:48:24.265281+00:00"
     },
     {
       "id": "openalex-ff18973ad306",
@@ -1796,7 +1796,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:50.508899+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.822831+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1828,39 +1828,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:48.676161+00:00"
-    },
-    {
-      "id": "openalex-797c77e03bf0",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Advancements in machine learning and deep learning for early detection and management of mental health disorder",
-      "authors": "Kamala Devi Kannan, Senthil Kumar Jagatheesaperumal, Kandala N. V. P. S. Rajesh, Mojtaba Lotfaliany, Roohallah Alizadehsanid, Mohammadreza Mohebbi",
-      "abstract": "For the early identification, diagnosis, and treatment of mental health illnesses, the integration of deep learning (DL) and machine learning (ML) have started playing a significant role. By evaluating complex data from imaging, genetics, and behavioral assessments, these technologies have the potential to improve clinical results significantly. However, they also present unique challenges relating to data integration and ethical issues. The development of ML and DL methods for the early diagnosis and treatment of mental health issues is reviewed in this survey. It examines a range of applications, with a particular emphasis on behavioral assessments, genetic and biomarker analysis, and medical imaging for the diagnosis of diseases like depression, bipolar disorder, and schizophrenia. Predictive modeling for illness development is further discussed in the review, focusing on the funct...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "Journal of Affective Disorders Reports",
-      "source": "Journal of Affective Disorders Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.jadr.2026.101100",
-      "doi": "10.1016/j.jadr.2026.101100",
-      "pdfUrl": "https://doi.org/10.1016/j.jadr.2026.101100",
-      "keywords": [
-        "Deep learning",
-        "Mental health",
-        "Artificial intelligence",
-        "Psychology",
-        "Computer science",
-        "Mental Health Research Topics",
-        "Digital Mental Health Interventions",
-        "learning"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:50.511858+00:00"
+      "_retrievedAt": "2026-07-03T19:47:07.832254+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -1892,7 +1860,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:51.294693+00:00"
+      "_retrievedAt": "2026-07-03T19:47:09.243788+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -1920,11 +1888,11 @@
         "Groundwater flow and contamination studies"
       ],
       "readTime": "1 min",
-      "citedBy": 2,
+      "citedBy": 3,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:51.293936+00:00"
+      "_retrievedAt": "2026-07-03T19:47:09.241283+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1956,7 +1924,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:48.673769+00:00"
+      "_retrievedAt": "2026-07-03T19:47:07.830082+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1988,7 +1956,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:51.291090+00:00"
+      "_retrievedAt": "2026-07-03T19:47:09.240485+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2020,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:48.678321+00:00"
+      "_retrievedAt": "2026-07-03T19:47:07.834295+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2052,15 +2020,15 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:48.679106+00:00"
+      "_retrievedAt": "2026-07-03T19:47:07.835070+00:00"
     },
     {
-      "id": "openalex-2a2df0665fcc",
-      "discipline": "clinical",
+      "id": "openalex-fa98d117320f",
+      "discipline": "cs",
       "type": "paper",
       "title": "Accelerating scientific discovery with Co-Scientist",
-      "authors": "Juraj Gottweis, Wei-Hung Weng, Alexander Daryin, Tao Tu, Petar Sirkovic, Anatoly Myaskovsky",
-      "abstract": "Scientific discovery is driven by scientists generating novel hypotheses for complex problems that undergo rigorous experimental validation. To augment this process, we introduce Co-Scientist, a multi-agent AI system built on Gemini for structured scientific thinking and hypothesis generation. Co-Scientist aims to help scientists discover new original knowledge. Conditioned on their research objectives and prior scientific evidence, it formulates demonstrably novel research hypotheses for experimental verification. The system’s design involves agents continuously generating, critiquing and refining hypotheses accelerated by scaling test-time compute. Key contributions include: (1) a multi-agent architecture with an asynchronous task execution framework for flexible compute scaling; (2) a tournament evolution process for self-improving hypotheses generation. Automated evaluations show...",
+      "authors": "Juraj Gottweis, Wei‐Hung Weng, Alexander Daryin, Tao Tu, Anil Palepu, Petar Sirkovic",
+      "abstract": "Abstract Scientific discovery is driven by scientists generating hypotheses for complex problems that undergo rigorous experimental validation. To augment this process, we introduce Co-Scientist, a multi-agent artificial intelligence (AI) system built on Gemini for structured scientific thinking and hypothesis generation. Co-Scientist aims to help scientists discover new original knowledge. Conditioned on their research objectives and previous scientific evidence, it formulates demonstrably novel research hypotheses for experimental verification. The system’s design involves agents continuously generating, critiquing and refining hypotheses accelerated by scaling test-time compute. Key contributions include (1) a multi-agent architecture with an asynchronous task execution framework for flexible compute scaling, and (2) a tournament evolution process for self-improving hypotheses gene...",
       "date": "2026-05-19",
       "year": 2026,
       "journal": "Nature",
@@ -2070,21 +2038,21 @@
       "doi": "10.1038/s41586-026-10644-y",
       "pdfUrl": "https://www.nature.com/articles/s41586-026-10644-y_reference.pdf",
       "keywords": [
-        "Scientific discovery",
-        "Data science",
         "Computer science",
-        "Engineering",
-        "Computational biology",
-        "Academic Publishing and Open Access",
-        "Genetics, Bioinformatics, and Biomedical Research",
-        "Scientific Computing and Data Management"
+        "Artificial intelligence",
+        "Task (project management)",
+        "In silico",
+        "Asynchronous communication",
+        "Genomics and Rare Diseases",
+        "Cell Image Analysis Techniques",
+        "Artificial Intelligence in Healthcare and Education"
       ],
       "readTime": "1 min",
-      "citedBy": 11,
+      "citedBy": 47,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:50.507579+00:00"
+      "_retrievedAt": "2026-07-03T19:47:07.831146+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2116,7 +2084,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:48.673166+00:00"
+      "_retrievedAt": "2026-07-03T19:47:07.829756+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2127,8 +2095,8 @@
       "abstract": "We introduce the concept of weighted rules under the stable model semantics following the log-linear models of Markov Logic. This provides versatile methods to overcome the deterministic nature of the stable model semantics, such as resolving inconsistencies in answer set programs, ranking stable models, associating probability to stable models, and applying statistical inference to computing weighted stable models. We also present formal comparisons with related formalisms, such as answer set programs, Markov Logic, ProbLog, and P-log.",
       "date": "2026-05-10",
       "year": 2026,
-      "journal": "ArXiv.org",
-      "source": "ArXiv.org",
+      "journal": "arXiv (Cornell University)",
+      "source": "arXiv (Cornell University)",
       "sourceApi": "OpenAlex",
       "url": "https://arxiv.org/abs/2605.09519",
       "doi": "10.48550/arxiv.2605.09519",
@@ -2148,7 +2116,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:48.675639+00:00"
+      "_retrievedAt": "2026-07-03T19:47:07.831352+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2180,7 +2148,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:48.672437+00:00"
+      "_retrievedAt": "2026-07-03T19:47:07.829372+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2212,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:51.290293+00:00"
+      "_retrievedAt": "2026-07-03T19:47:09.239740+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2244,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:48.674591+00:00"
+      "_retrievedAt": "2026-07-03T19:47:07.830509+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2276,7 +2244,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:48.678588+00:00"
+      "_retrievedAt": "2026-07-03T19:47:07.834592+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -2308,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:49.398560+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.301179+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -2340,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:51.292905+00:00"
+      "_retrievedAt": "2026-07-03T19:47:09.242718+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2372,7 +2340,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:49.401358+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.302122+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2400,11 +2368,11 @@
         "generation"
       ],
       "readTime": "1 min",
-      "citedBy": 27,
+      "citedBy": 28,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:48.678006+00:00"
+      "_retrievedAt": "2026-07-03T19:47:07.833914+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2436,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:49.402264+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.302700+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -2468,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:51.292164+00:00"
+      "_retrievedAt": "2026-07-03T19:47:09.242061+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -2500,7 +2468,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:51.294332+00:00"
+      "_retrievedAt": "2026-07-03T19:47:09.243451+00:00"
+    },
+    {
+      "id": "openalex-08cf7139c39d",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Cell death in cancer",
+      "authors": "Marcus Conrad, Andreas Strasser, Philipp J. Jost, Junying Yuan, Feng Shao, Peter Vandenabeele",
+      "abstract": "\"Evasion of cell death\" is a hallmark of cancer, enabling transformed cells to withstand oncogenic and therapeutic stress. Restoring cancer cell death is an appealing strategy but requires a deep understanding of cell death programs. Over the past two decades, the cell death field has expanded from apoptosis to include necroptosis, pyroptosis, ferroptosis, and other emerging programs, reshaping cancer biology and revealing therapeutic opportunities. While apoptosis remains the primary radiation- and chemotherapy-induced cell death program, non-apoptotic programs can drive inflammatory responses and orchestrate the interplay among tumor, stroma, and immune components, influencing immunotherapy outcomes. Ferroptosis, an iron-dependent, lipid peroxidation-driven cell death modality, lacks a canonical induction signal and arises from perturbations in lipid, iron, and redox metabolism. Thi...",
+      "date": "2026-04-01",
+      "year": 2026,
+      "journal": "Cell",
+      "source": "Cell",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.cell.2026.03.024",
+      "doi": "10.1016/j.cell.2026.03.024",
+      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.03.024",
+      "keywords": [
+        "Programmed cell death",
+        "Biology",
+        "Apoptosis",
+        "Cancer",
+        "Immunogenic cell death",
+        "Cell death mechanisms and regulation",
+        "Cancer and biochemical research",
+        "Phagocytosis and Immune Regulation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 10,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-03T19:47:08.821899+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -2532,39 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:49.398244+00:00"
-    },
-    {
-      "id": "openalex-08cf7139c39d",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Cell death in cancer",
-      "authors": "Marcus Conrad, Andreas Strasser, Philipp J. Jost, Junying Yuan, Feng Shao, Peter Vandenabeele",
-      "abstract": "\"Evasion of cell death\" is a hallmark of cancer, enabling transformed cells to withstand oncogenic and therapeutic stress. Restoring cancer cell death is an appealing strategy but requires a deep understanding of cell death programs. Over the past two decades, the cell death field has expanded from apoptosis to include necroptosis, pyroptosis, ferroptosis, and other emerging programs, reshaping cancer biology and revealing therapeutic opportunities. While apoptosis remains the primary radiation- and chemotherapy-induced cell death program, non-apoptotic programs can drive inflammatory responses and orchestrate the interplay among tumor, stroma, and immune components, influencing immunotherapy outcomes. Ferroptosis, an iron-dependent, lipid peroxidation-driven cell death modality, lacks a canonical induction signal and arises from perturbations in lipid, iron, and redox metabolism. Thi...",
-      "date": "2026-04-01",
-      "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.03.024",
-      "doi": "10.1016/j.cell.2026.03.024",
-      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.03.024",
-      "keywords": [
-        "Programmed cell death",
-        "Biology",
-        "Apoptosis",
-        "Cancer",
-        "Immunogenic cell death",
-        "Cell death mechanisms and regulation",
-        "Cancer and biochemical research",
-        "Phagocytosis and Immune Regulation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:50.508204+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.300864+00:00"
     },
     {
       "id": "openalex-7ecbe579840c",
@@ -2596,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:51.292566+00:00"
+      "_retrievedAt": "2026-07-03T19:47:09.242424+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2628,7 +2596,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:48.676876+00:00"
+      "_retrievedAt": "2026-07-03T19:47:07.832571+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2660,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:50.508509+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.822486+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -2688,11 +2656,11 @@
         "AI in Service Interactions"
       ],
       "readTime": "1 min",
-      "citedBy": 47,
+      "citedBy": 48,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:48.675218+00:00"
+      "_retrievedAt": "2026-07-03T19:47:07.830792+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2720,11 +2688,11 @@
         "Cell Image Analysis Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 38,
+      "citedBy": 39,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:48.676556+00:00"
+      "_retrievedAt": "2026-07-03T19:47:07.831773+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -2756,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:49.400387+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.301830+00:00"
     },
     {
       "id": "openalex-6ae4c848022b",
@@ -2788,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:49.403471+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.303661+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -2820,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:49.397964+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.300605+00:00"
     },
     {
       "id": "openalex-52ea9f4aa286",
@@ -2852,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:49.403916+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.304032+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -2884,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:49.401912+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.302397+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -2916,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:49.397283+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.299965+00:00"
     },
     {
       "id": "openalex-568c4ca27e3e",
@@ -2948,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:50.511178+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.825277+00:00"
     },
     {
       "id": "openalex-2ee9b3321b5d",
@@ -2980,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:50.510773+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.824887+00:00"
     },
     {
       "id": "openalex-134f7f76ec80",
@@ -3008,11 +2976,11 @@
         "Flood Risk Assessment and Management"
       ],
       "readTime": "1 min",
-      "citedBy": 3,
+      "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:51.293124+00:00"
+      "_retrievedAt": "2026-07-03T19:47:09.240683+00:00"
     },
     {
       "id": "openalex-a2a154306336",
@@ -3044,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:51.293496+00:00"
+      "_retrievedAt": "2026-07-03T19:47:09.243087+00:00"
     },
     {
       "id": "openalex-050e5d69ef85",
@@ -3076,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:50.509659+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.823547+00:00"
     },
     {
       "id": "openalex-5ea2e0ac50cc",
@@ -3104,11 +3072,11 @@
         "Electron Spin Resonance Studies"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:50.511518+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.824251+00:00"
     },
     {
       "id": "openalex-69ef9859ea67",
@@ -3140,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:49.402637+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.303073+00:00"
     },
     {
       "id": "openalex-59f3240e8b8c",
@@ -3172,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:51.290667+00:00"
+      "_retrievedAt": "2026-07-03T19:47:09.240104+00:00"
     },
     {
       "id": "openalex-4b1dee987f4c",
@@ -3204,7 +3172,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:49.396892+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.299308+00:00"
+    },
+    {
+      "id": "openalex-74b7b8f03abe",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Brain-engrafted monocyte-derived macrophages from blood and skull-bone marrow exhibit distinct properties",
+      "authors": "Siling Du, Feiya Ou, Antoine Drieu, Eric Z. Xu, Yumeng Cheng, Steffen E. Storck",
+      "abstract": "Microglia arise from yolk sac progenitors and are thought to persist throughout life with minimal input from adult hematopoiesis. However, whether brain-engrafted monocyte-derived macrophages (MDMs) exist at homeostasis and during turnover and how they function relative to yolk-sac-derived microglia (YSMs) remain unsettled. Here, we combine lineage tracing, pharmacological microglia depletion, and multi-omics profiling to define the ontogeny, identity, and function of brain parenchymal macrophages. Despite sharing the parenchymal milieu, MDMs display transcriptional and epigenetic landscapes distinct from YSMs. Fate-mapping reveals that brain-engrafted MDMs transiently express CD206, echoing a developmental stage of microglial precursors. MDM engraftment and polarization are modulated by interleukin (IL)-34 and C-C chemokine receptor 2 (CCR2). Furthermore, parabiosis and skull-flap tr...",
+      "date": "2026-03-11",
+      "year": 2026,
+      "journal": "Neuron",
+      "source": "Neuron",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.neuron.2026.01.032",
+      "doi": "10.1016/j.neuron.2026.01.032",
+      "pdfUrl": "https://doi.org/10.1016/j.neuron.2026.01.032",
+      "keywords": [
+        "Chemistry",
+        "Macrophage",
+        "Cell biology",
+        "Molecular biology",
+        "Blood cell",
+        "Immune cells in cancer",
+        "Neuroinflammation and Neurodegeneration Mechanisms",
+        "Neurogenesis and neuroplasticity mechanisms"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-03T19:47:08.299611+00:00"
     },
     {
       "id": "openalex-a6ecfeb4dd07",
@@ -3236,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:50.509365+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.823279+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -3268,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:51.289174+00:00"
+      "_retrievedAt": "2026-07-03T19:47:09.238685+00:00"
     },
     {
       "id": "openalex-d7f83e5bb105",
@@ -3300,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:50.510086+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.823908+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -3332,7 +3332,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:50.507233+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.821278+00:00"
     },
     {
       "id": "openalex-4120c6f51ec1",
@@ -3364,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:49.403136+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.303365+00:00"
     },
     {
       "id": "openalex-b2aeaeab5ec0",
@@ -3396,11 +3396,11 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:51.291708+00:00"
+      "_retrievedAt": "2026-07-03T19:47:09.241635+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
-      "discipline": "cs",
+      "discipline": "geo",
       "type": "paper",
       "title": "MERCATOR",
       "authors": "Guillaume Bailly, Thomas Louche",
@@ -3428,7 +3428,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:48.679368+00:00"
+      "_retrievedAt": "2026-07-03T19:47:09.238318+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -3460,7 +3460,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:50.506858+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.820897+00:00"
     },
     {
       "id": "openalex-8e117f9ef990",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:49.399186+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.301547+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -3524,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:51.291335+00:00"
+      "_retrievedAt": "2026-07-03T19:47:09.240904+00:00"
     },
     {
       "id": "openalex-858e3c58ce35",
@@ -3556,39 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:49.397579+00:00"
-    },
-    {
-      "id": "openalex-ebbfd8f358a6",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "ULK1 promotes metastatic progression in experimental models of epithelial ovarian cancer",
-      "authors": "Jack D. Webb, Adrian Buensuceso, Emily Tomas, Matthew J. Borrelli, Lauren Hodges Viola, Owen Hovey",
-      "abstract": "Epithelial ovarian cancer (EOC) is a leading cause of gynecological cancer mortality, driven largely by late diagnosis and chemoresistance. While autophagy is critical for EOC spheroid survival during metastasis, the role of ULK1, a key regulator of autophagy, in EOC progression remains unclear. To investigate this, we utilized CRISPR/Cas9 technology to delete ULK1 in EOC cell lines OVCAR8, HEYA8, ES2 and the fallopian tube epithelial cell line FT190. ULK1 loss and autophagy disruption were confirmed in EOC spheroids, with reduced Beclin-1 phosphorylation, impaired LC3 processing, and p62 accumulation. ULK1 knockout decreased EOC spheroid cell viability via increased apoptosis, and impaired matrix-bound organoid growth, offering new insights into ULK1 activity in affecting EOC tumor growth and spread. These findings were supported by in vivo xenograft models, in which ULK1 loss signif...",
-      "date": "2026-03-05",
-      "year": 2026,
-      "journal": "Oncogene",
-      "source": "Oncogene",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41388-026-03702-2",
-      "doi": "10.1038/s41388-026-03702-2",
-      "pdfUrl": "https://www.nature.com/articles/s41388-026-03702-2.pdf",
-      "keywords": [
-        "Cancer research",
-        "ULK1",
-        "Autophagy",
-        "Biology",
-        "Ovarian cancer",
-        "Autophagy in Disease and Therapy",
-        "Endoplasmic Reticulum Stress and Disease",
-        "Cellular transport and secretion"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:49.404318+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.300261+00:00"
     },
     {
       "id": "openalex-13e41fa8519f",
@@ -3620,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:50.507903+00:00"
+      "_retrievedAt": "2026-07-03T19:47:08.822201+00:00"
     },
     {
       "id": "openalex-e61cba8d846e",
@@ -3652,7 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-03T14:29:51.289525+00:00"
+      "_retrievedAt": "2026-07-03T19:47:09.239033+00:00"
     }
   ]
 }
