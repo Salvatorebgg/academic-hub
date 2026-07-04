@@ -1,11 +1,43 @@
 {
-  "generatedAt": "2026-07-04T08:49:15.665487+00:00",
-  "total": 113,
+  "generatedAt": "2026-07-04T13:55:54.864296+00:00",
+  "total": 112,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-59cc69f378cb",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New obesity figures highlight the income divide",
+      "authors": "Medical Xpress",
+      "abstract": "The number of obese adults in England rose from 26% in 2019 to 30% in 2025, according to a new analysis of 55 million people. Nearly 1 in 3 adults are now obese. But averages hide a lot, and behind this one are two very different trends.",
+      "date": "2026-07-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-obesity-figures-highlight-income.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "obese",
+        "adults",
+        "obesity",
+        "figures",
+        "highlight",
+        "income",
+        "divide",
+        "number"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-04T13:55:54.412242+00:00"
+    },
     {
       "id": "rss-eb5f3408bd61",
       "discipline": "clinical",
@@ -36,7 +68,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.883463+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.412564+00:00"
     },
     {
       "id": "rss-d42a52f5850f",
@@ -68,7 +100,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.883779+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.412878+00:00"
     },
     {
       "id": "rss-165a80181839",
@@ -100,7 +132,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.884073+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.413137+00:00"
     },
     {
       "id": "rss-0f0a72c60dc6",
@@ -132,7 +164,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.884399+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.413438+00:00"
     },
     {
       "id": "rss-7b4d0df35d35",
@@ -164,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.884711+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.413738+00:00"
     },
     {
       "id": "rss-fa5d24b91ec9",
@@ -196,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.884947+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.414004+00:00"
     },
     {
       "id": "rss-9d54115e0201",
@@ -228,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.885302+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.414280+00:00"
     },
     {
       "id": "rss-0890f6cec5b8",
@@ -260,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.885597+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.414558+00:00"
     },
     {
       "id": "rss-c7c057029fbf",
@@ -292,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.885866+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.414832+00:00"
     },
     {
       "id": "rss-664af7e85645",
@@ -324,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.886195+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.415127+00:00"
     },
     {
       "id": "rss-62c8f09e4b96",
@@ -356,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.886428+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.415349+00:00"
     },
     {
       "id": "rss-46eccbf29447",
@@ -388,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.886722+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.415635+00:00"
     },
     {
       "id": "rss-dbd3abf60919",
@@ -420,39 +452,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.886992+00:00"
-    },
-    {
-      "id": "rss-d7041ccd0376",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Are lung cancer tumors hijacking the nervous system?",
-      "authors": "Medical Xpress",
-      "abstract": "According to the Cleveland Clinic, a quarter of cancer deaths can be attributed to one source: cachexia. Cachexia is a syndrome that accompanies underlying chronic illness and causes unwanted muscle and fat loss, reducing quality of life and sometimes even limiting treatment options.",
-      "date": "2026-07-04",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-lung-cancer-tumors-hijacking-nervous.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "cachexia",
-        "lung",
-        "tumors",
-        "hijacking",
-        "nervous",
-        "system",
-        "according"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.887233+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.415908+00:00"
     },
     {
       "id": "rss-81558e07f2f6",
@@ -484,7 +484,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.946751+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.432472+00:00"
     },
     {
       "id": "rss-9896ea2e6cf0",
@@ -516,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.947018+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.432704+00:00"
     },
     {
       "id": "rss-04c99b71151a",
@@ -548,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.947210+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.432915+00:00"
     },
     {
       "id": "rss-7254829ad646",
@@ -580,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.947388+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.433091+00:00"
     },
     {
       "id": "rss-784d5b87809b",
@@ -612,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.947551+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.433251+00:00"
     },
     {
       "id": "rss-47feb73e768d",
@@ -644,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.947706+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.433404+00:00"
     },
     {
       "id": "rss-d4d5b5d0b551",
@@ -676,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.947894+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.433591+00:00"
     },
     {
       "id": "rss-9c77812be575",
@@ -708,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.948071+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.433738+00:00"
     },
     {
       "id": "rss-d9bc183b3809",
@@ -740,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.948242+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.433931+00:00"
     },
     {
       "id": "rss-79ca9d089ffe",
@@ -772,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.948421+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.434109+00:00"
     },
     {
       "id": "rss-55225443b10e",
@@ -804,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.948580+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.434266+00:00"
     },
     {
       "id": "rss-6484849365a6",
@@ -836,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.948772+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.434455+00:00"
     },
     {
       "id": "rss-55ee2b185894",
@@ -868,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.948955+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.434637+00:00"
     },
     {
       "id": "rss-101618635bf5",
@@ -900,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.949146+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.434818+00:00"
     },
     {
       "id": "rss-0ec61d5c541e",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.974501+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.493156+00:00"
     },
     {
       "id": "rss-19259ec0f554",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:15.468671+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.799922+00:00"
     },
     {
       "id": "rss-cdcec8d11a6a",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:15.469210+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.800489+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.974713+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.493350+00:00"
     },
     {
       "id": "rss-19e287a9fb9c",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:15.469725+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.801035+00:00"
     },
     {
       "id": "rss-4e904f861292",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.974909+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.493534+00:00"
     },
     {
       "id": "rss-5b0f51c03247",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.975128+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.493711+00:00"
     },
     {
       "id": "rss-171691b8cedf",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.975293+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.493904+00:00"
     },
     {
       "id": "rss-3811b60f2c26",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.975485+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.494096+00:00"
     },
     {
       "id": "rss-a8a59a71fab6",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.975667+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.494280+00:00"
     },
     {
       "id": "rss-0e554b469f1c",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.975818+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.494431+00:00"
     },
     {
       "id": "rss-c83a6084c17d",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:15.470212+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.801503+00:00"
     },
     {
       "id": "rss-4347e37ce541",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:15.470799+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.802111+00:00"
     },
     {
       "id": "rss-0439785447ef",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:15.471466+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.802763+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1380,7 +1380,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:08.554335+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.499565+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1412,7 +1412,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:08.554758+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.500019+00:00"
     },
     {
       "id": "rss-6e64d9a2858e",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.975996+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.494596+00:00"
     },
     {
       "id": "rss-5d40314c8fc4",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.976157+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.494752+00:00"
     },
     {
       "id": "rss-93a5db061a72",
@@ -1508,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:15.472098+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.803378+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1540,7 +1540,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.047179+00:00"
+      "_retrievedAt": "2026-07-04T13:55:50.461333+00:00"
     },
     {
       "id": "rss-aa16e55100c4",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.976309+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.494937+00:00"
     },
     {
       "id": "rss-178fcef6b56d",
@@ -1604,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.976473+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.495104+00:00"
     },
     {
       "id": "rss-607184e56a4c",
@@ -1636,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.976623+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.495257+00:00"
     },
     {
       "id": "rss-1842992c471c",
@@ -1668,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:14.976771+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.495407+00:00"
     },
     {
       "id": "rss-5cf5c5f90af9",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:15.472612+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.803908+00:00"
     },
     {
       "id": "rss-9babfa4d92c2",
@@ -1732,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:15.472863+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.804158+00:00"
     },
     {
       "id": "rss-9da09de8e550",
@@ -1764,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:15.473091+00:00"
+      "_retrievedAt": "2026-07-04T13:55:54.804358+00:00"
     },
     {
       "id": "openalex-ff18973ad306",
@@ -1796,7 +1796,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.049228+00:00"
+      "_retrievedAt": "2026-07-04T13:55:50.463661+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1828,39 +1828,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:08.553649+00:00"
-    },
-    {
-      "id": "openalex-797c77e03bf0",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Advancements in machine learning and deep learning for early detection and management of mental health disorder",
-      "authors": "Kamala Devi Kannan, Senthil Kumar Jagatheesaperumal, Kandala N. V. P. S. Rajesh, Mojtaba Lotfaliany, Roohallah Alizadehsanid, Mohammadreza Mohebbi",
-      "abstract": "For the early identification, diagnosis, and treatment of mental health illnesses, the integration of deep learning (DL) and machine learning (ML) have started playing a significant role. By evaluating complex data from imaging, genetics, and behavioral assessments, these technologies have the potential to improve clinical results significantly. However, they also present unique challenges relating to data integration and ethical issues. The development of ML and DL methods for the early diagnosis and treatment of mental health issues is reviewed in this survey. It examines a range of applications, with a particular emphasis on behavioral assessments, genetic and biomarker analysis, and medical imaging for the diagnosis of diseases like depression, bipolar disorder, and schizophrenia. Predictive modeling for illness development is further discussed in the review, focusing on the funct...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "Journal of Affective Disorders Reports",
-      "source": "Journal of Affective Disorders Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.jadr.2026.101100",
-      "doi": "10.1016/j.jadr.2026.101100",
-      "pdfUrl": "https://doi.org/10.1016/j.jadr.2026.101100",
-      "keywords": [
-        "Deep learning",
-        "Mental health",
-        "Artificial intelligence",
-        "Psychology",
-        "Computer science",
-        "Mental Health Research Topics",
-        "Digital Mental Health Interventions",
-        "learning"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.052149+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.498935+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -1892,7 +1860,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.772828+00:00"
+      "_retrievedAt": "2026-07-04T13:55:51.210501+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -1924,7 +1892,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.770142+00:00"
+      "_retrievedAt": "2026-07-04T13:55:51.207816+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1956,7 +1924,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:08.551449+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.496507+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1988,7 +1956,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.769271+00:00"
+      "_retrievedAt": "2026-07-04T13:55:51.206939+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2020,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:08.555478+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.500634+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2052,7 +2020,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:08.556270+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.501382+00:00"
     },
     {
       "id": "openalex-7a2e0cea295d",
@@ -2084,7 +2052,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.773167+00:00"
+      "_retrievedAt": "2026-07-04T13:55:51.210839+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2116,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:08.552587+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.497730+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2148,7 +2116,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:08.551113+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.496133+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2180,7 +2148,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:08.552811+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.498018+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2212,7 +2180,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:08.550691+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.495714+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2244,7 +2212,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.768471+00:00"
+      "_retrievedAt": "2026-07-04T13:55:51.206141+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2276,7 +2244,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:08.551884+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.496996+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2308,7 +2276,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:08.555745+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.500907+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -2336,11 +2304,11 @@
         "Antibiotic Use and Resistance"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:09.422990+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.892170+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -2372,7 +2340,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.771676+00:00"
+      "_retrievedAt": "2026-07-04T13:55:51.209358+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2404,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:09.423954+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.893931+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2436,7 +2404,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:08.555137+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.500329+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2468,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:09.424584+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.894539+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -2500,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.770941+00:00"
+      "_retrievedAt": "2026-07-04T13:55:51.208625+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -2532,7 +2500,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.772468+00:00"
+      "_retrievedAt": "2026-07-04T13:55:51.210135+00:00"
+    },
+    {
+      "id": "openalex-8d5e6bfc7e0b",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "A simple cell-cycle control system in Marchantia polymorpha provides a framework for understanding plant cell proliferation",
+      "authors": "Facundo Romani, Ignacy Bonter, Marius Rebmann, Go Takahashi, Fernando Guzman-Chavez, Francesco De Batté",
+      "abstract": "Eukaryotic cell division is controlled by cyclins and cyclin-dependent kinases (CDKs). The high number of cyclin-CDK pairs in flowering plants hinders functional analysis due to redundancy, and how this system might have worked in early land plant ancestors remains unresolved. Our phylogenetic analysis showed that non-seed plants have a simple system of cell cycle genes, suggesting that the complexity in seed plants is a derived feature. To explore simpler systems, we studied the liverwort Marchantia polymorpha, which possesses a reduced, nonredundant set of core cell cycle genes. Single-cell RNA-seq and live imaging of fluorescent reporters revealed phase-specific expression of cell cycle genes during cell division, characterized by 1 predominant cyclin per phase in the vegetative gametophyte, with limited overlap at transitions. Live imaging of tagged cyclins indicated that protein...",
+      "date": "2026-04-03",
+      "year": 2026,
+      "journal": "The Plant Cell",
+      "source": "The Plant Cell",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1093/plcell/koag103",
+      "doi": "10.1093/plcell/koag103",
+      "pdfUrl": "https://doi.org/10.1093/plcell/koag103",
+      "keywords": [
+        "Biology",
+        "Multicellular organism",
+        "Cell cycle",
+        "Cyclin",
+        "Cell biology",
+        "Plant Molecular Biology Research",
+        "Microtubule and mitosis dynamics",
+        "Photosynthetic Processes and Mechanisms"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-04T13:55:49.894899+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -2564,7 +2564,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.048533+00:00"
+      "_retrievedAt": "2026-07-04T13:55:50.462685+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -2592,11 +2592,11 @@
         "Molecular spectroscopy and chirality"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:09.422659+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.891833+00:00"
     },
     {
       "id": "openalex-7ecbe579840c",
@@ -2628,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.771356+00:00"
+      "_retrievedAt": "2026-07-04T13:55:51.209038+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2660,7 +2660,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:08.553936+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.499220+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2692,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.048833+00:00"
+      "_retrievedAt": "2026-07-04T13:55:50.463294+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -2720,11 +2720,11 @@
         "AI in Service Interactions"
       ],
       "readTime": "1 min",
-      "citedBy": 48,
+      "citedBy": 49,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:08.552219+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.497357+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2752,11 +2752,11 @@
         "Cell Image Analysis Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 39,
+      "citedBy": 41,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:08.553250+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.498506+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -2788,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:09.423669+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.893609+00:00"
     },
     {
       "id": "openalex-6ae4c848022b",
@@ -2820,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:09.425631+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.895934+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -2852,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:09.422388+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.892913+00:00"
     },
     {
       "id": "openalex-52ea9f4aa286",
@@ -2884,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:09.426063+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.896311+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -2916,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:09.424263+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.894224+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -2948,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:09.422026+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.892533+00:00"
     },
     {
       "id": "openalex-568c4ca27e3e",
@@ -2980,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.051805+00:00"
+      "_retrievedAt": "2026-07-04T13:55:50.465968+00:00"
     },
     {
       "id": "openalex-2ee9b3321b5d",
@@ -3012,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.051454+00:00"
+      "_retrievedAt": "2026-07-04T13:55:50.465589+00:00"
     },
     {
       "id": "openalex-134f7f76ec80",
@@ -3044,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.769490+00:00"
+      "_retrievedAt": "2026-07-04T13:55:51.207162+00:00"
     },
     {
       "id": "openalex-a2a154306336",
@@ -3076,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.772077+00:00"
+      "_retrievedAt": "2026-07-04T13:55:51.209727+00:00"
     },
     {
       "id": "openalex-050e5d69ef85",
@@ -3104,11 +3104,11 @@
         "Artificial Intelligence in Healthcare"
       ],
       "readTime": "1 min",
-      "citedBy": 7,
+      "citedBy": 8,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.050003+00:00"
+      "_retrievedAt": "2026-07-04T13:55:50.462992+00:00"
     },
     {
       "id": "openalex-5ea2e0ac50cc",
@@ -3140,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.050734+00:00"
+      "_retrievedAt": "2026-07-04T13:55:50.464909+00:00"
     },
     {
       "id": "openalex-69ef9859ea67",
@@ -3172,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:09.424955+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.895280+00:00"
     },
     {
       "id": "openalex-59f3240e8b8c",
@@ -3204,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.768844+00:00"
+      "_retrievedAt": "2026-07-04T13:55:51.206513+00:00"
     },
     {
       "id": "openalex-4b1dee987f4c",
@@ -3236,39 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:09.421330+00:00"
-    },
-    {
-      "id": "openalex-74b7b8f03abe",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Brain-engrafted monocyte-derived macrophages from blood and skull-bone marrow exhibit distinct properties",
-      "authors": "Siling Du, Feiya Ou, Antoine Drieu, Eric Z. Xu, Yumeng Cheng, Steffen E. Storck",
-      "abstract": "Microglia arise from yolk sac progenitors and are thought to persist throughout life with minimal input from adult hematopoiesis. However, whether brain-engrafted monocyte-derived macrophages (MDMs) exist at homeostasis and during turnover and how they function relative to yolk-sac-derived microglia (YSMs) remain unsettled. Here, we combine lineage tracing, pharmacological microglia depletion, and multi-omics profiling to define the ontogeny, identity, and function of brain parenchymal macrophages. Despite sharing the parenchymal milieu, MDMs display transcriptional and epigenetic landscapes distinct from YSMs. Fate-mapping reveals that brain-engrafted MDMs transiently express CD206, echoing a developmental stage of microglial precursors. MDM engraftment and polarization are modulated by interleukin (IL)-34 and C-C chemokine receptor 2 (CCR2). Furthermore, parabiosis and skull-flap tr...",
-      "date": "2026-03-11",
-      "year": 2026,
-      "journal": "Neuron",
-      "source": "Neuron",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.neuron.2026.01.032",
-      "doi": "10.1016/j.neuron.2026.01.032",
-      "pdfUrl": "https://doi.org/10.1016/j.neuron.2026.01.032",
-      "keywords": [
-        "Chemistry",
-        "Macrophage",
-        "Cell biology",
-        "Molecular biology",
-        "Blood cell",
-        "Immune cells in cancer",
-        "Neuroinflammation and Neurodegeneration Mechanisms",
-        "Neurogenesis and neuroplasticity mechanisms"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:09.421639+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.891518+00:00"
     },
     {
       "id": "openalex-e612e475c556",
@@ -3300,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:09.426369+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.896602+00:00"
     },
     {
       "id": "openalex-a6ecfeb4dd07",
@@ -3332,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.049696+00:00"
+      "_retrievedAt": "2026-07-04T13:55:50.464170+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -3364,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.767702+00:00"
+      "_retrievedAt": "2026-07-04T13:55:51.205390+00:00"
     },
     {
       "id": "openalex-d7f83e5bb105",
@@ -3396,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.050397+00:00"
+      "_retrievedAt": "2026-07-04T13:55:50.464555+00:00"
     },
     {
       "id": "openalex-e0603077dc92",
@@ -3428,7 +3396,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.047868+00:00"
+      "_retrievedAt": "2026-07-04T13:55:50.462049+00:00"
     },
     {
       "id": "openalex-4120c6f51ec1",
@@ -3460,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:09.425314+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.895584+00:00"
     },
     {
       "id": "openalex-b2aeaeab5ec0",
@@ -3492,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.770515+00:00"
+      "_retrievedAt": "2026-07-04T13:55:51.208194+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -3524,7 +3492,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.767318+00:00"
+      "_retrievedAt": "2026-07-04T13:55:51.205018+00:00"
     },
     {
       "id": "openalex-a1e8b57f2059",
@@ -3552,11 +3520,11 @@
         "Liver physiology and pathology"
       ],
       "readTime": "1 min",
-      "citedBy": 16,
+      "citedBy": 17,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.047506+00:00"
+      "_retrievedAt": "2026-07-04T13:55:50.461657+00:00"
     },
     {
       "id": "openalex-8e117f9ef990",
@@ -3588,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:09.423377+00:00"
+      "_retrievedAt": "2026-07-04T13:55:49.893308+00:00"
     },
     {
       "id": "openalex-53d40de75922",
@@ -3620,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-04T08:49:10.769731+00:00"
+      "_retrievedAt": "2026-07-04T13:55:51.207401+00:00"
     }
   ]
 }
