@@ -1,226 +1,130 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-07-06T11:00:15.004022+00:00",
-  "total": 84,
+  "generatedAt": "2026-07-06T15:53:26.982124+00:00",
+  "total": 112,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
     {
-      "id": "rss-0e830609cbf9",
+      "id": "rss-9fa5543ec79d",
       "discipline": "clinical",
       "type": "news",
-      "title": "How TV drama shapes social maps in brain, and why conflict stands out",
+      "title": "Ebola deaths in Congo top 500 as health workers threaten to strike",
       "authors": "Medical Xpress",
-      "abstract": "When watching a drama, we quickly learn who is friends with whom—and, just as importantly, who stands against whom. But how does the brain organize this web of alliances, rivalries and conflicts? Researchers from the University of Osaka have shown that social relationships learned through a television drama are reflected in patterns of brain activity, especially when those relationships are antagonistic. These findings were published in Communication Psychology.",
+      "abstract": "At least 500 people have died out of over 1,500 confirmed cases in Congo's Ebola outbreak, authorities said, as frontline workers threatened to go on strike on Monday over unpaid benefits and poor working conditions.",
       "date": "2026-07-06",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-tv-drama-social-brain-conflict.html",
+      "url": "https://medicalxpress.com/news/2026-07-ebola-deaths-congo-health-workers.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "drama",
-        "brain",
+        "ebola",
+        "congo",
+        "workers",
+        "strike",
+        "over",
+        "deaths",
+        "health",
+        "threaten"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:26.018486+00:00"
+    },
+    {
+      "id": "rss-07a271e2aa44",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Violence may bring menopause up to 20 months earlier, review suggests",
+      "authors": "Medical Xpress",
+      "abstract": "A study by the Department of Obstetrics and Gynaecology at the University of Granada has revealed that exposure to violence against women throughout life has lasting effects that extend into middle age. The research, published in Maturitas, shows that women who have experienced violence suffer more severe menopausal symptoms and may reach menopause up to 20 months earlier than those without such a history. The study notes that for every woman who dies as a result of violence, more than 400 suffer serious disabilities, the aftereffects of which are often confused with or exacerbated by menopause.",
+      "date": "2026-07-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-violence-menopause-months-earlier.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "violence",
+        "that",
+        "menopause",
+        "months",
+        "earlier",
+        "women",
+        "suffer",
+        "more"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:26.018780+00:00"
+    },
+    {
+      "id": "rss-0f75c1f17d7f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Social media affects teen dental confidence",
+      "authors": "Medical Xpress",
+      "abstract": "Using social media can have a negative impact on adolescents' confidence about the appearance of their teeth, new research shows. University of Otago–Ōtākou Whakaihu Waka researchers have co-authored a paper, published in Health Marketing Quarterly, that recommends policymakers move away from idealized smile imagery in oral health marketing.",
+      "date": "2026-07-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-social-media-affects-teen-dental.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
         "social",
-        "stands",
-        "when",
-        "whom",
-        "relationships",
-        "shapes"
+        "media",
+        "confidence",
+        "have",
+        "health",
+        "marketing",
+        "affects",
+        "teen"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.360577+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.019035+00:00"
     },
     {
-      "id": "rss-f40f5b122dad",
+      "id": "rss-435d7e8e4802",
       "discipline": "clinical",
       "type": "news",
-      "title": "Cancer screening rates vary across sexual orientation and gender identity",
+      "title": "Paying stores to curb tobacco, alcohol and lottery ads shows early promise",
       "authors": "Medical Xpress",
-      "abstract": "New research has uncovered persistent disparities in preventive cancer care across different sexual orientation and gender identity (SOGI) populations. The study, published in Cancer, found particular concern for cervical and breast cancer screening.",
+      "abstract": "An initiative focused on partnering with retailers to decrease the influence of tobacco, alcohol and lottery marketing is showing promise and could present a more effective way to protect public health throughout the country, according to researchers at The Ohio State University.",
       "date": "2026-07-06",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-cancer-screening-vary-sexual-gender.html",
+      "url": "https://medicalxpress.com/news/2026-07-paying-curb-tobacco-alcohol-lottery.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cancer",
-        "screening",
-        "across",
-        "sexual",
-        "orientation",
-        "gender",
-        "identity",
-        "rates"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.360828+00:00"
-    },
-    {
-      "id": "rss-db39d13c7bc6",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Uterine aging linked to poorer pregnancy outcomes after 49 despite donor eggs",
-      "authors": "Medical Xpress",
-      "abstract": "A major new study suggests that age-related changes in the uterus may contribute to poorer pregnancy outcomes, with women aged 49 and older experiencing lower live birth rates and higher miscarriage risk despite donor-oocyte treatment. Presented at the 42nd Annual Meeting of the European Society of Human Reproduction and Embryology (ESHRE), the findings challenge the assumption that donor eggs can fully \"reset\" the reproductive clock by eliminating the effects of reproductive aging.",
-      "date": "2026-07-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-uterine-aging-linked-poorer-pregnancy.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "aging",
-        "poorer",
-        "pregnancy",
-        "outcomes",
-        "despite",
-        "donor",
-        "eggs",
-        "that"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.361098+00:00"
-    },
-    {
-      "id": "rss-0f529c897489",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Speaking another language could slow aging in the brain",
-      "authors": "Medical Xpress",
-      "abstract": "People who speak more than one language seem to have younger brains, according to research presented at the Federation of European Neuroscience Societies (FENS) Forum 2026. Our brains are made up of billions of nerve cells that need to communicate with one another. As we age, connectivity in our brains tends to deteriorate and, as a result, our memory and the speed of our thinking also decline.",
-      "date": "2026-07-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-language-aging-brain.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "brains",
-        "another",
-        "language",
-        "speaking",
-        "could",
-        "slow",
-        "aging",
-        "brain"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.361331+00:00"
-    },
-    {
-      "id": "rss-cd153b3683e8",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Rehab program helps lift long COVID 'brain fog'",
-      "authors": "Medical Xpress",
-      "abstract": "Many people with long COVID suffer from \"brain fog,\" finding it difficult to remember things, think on their feet or pay attention.",
-      "date": "2026-07-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-rehab-covid-brain-fog.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "long",
-        "covid",
-        "brain",
-        "rehab",
-        "program",
-        "helps",
-        "lift",
-        "many"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.361536+00:00"
-    },
-    {
-      "id": "rss-6b1de8f86b54",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Genetic information helps predict the onset and progression of glaucoma",
-      "authors": "Medical Xpress",
-      "abstract": "Glaucoma is the leading cause of irreversible visual impairment worldwide. Because the disease often progresses without symptoms for years, many patients are diagnosed only after permanent damage to the optic nerve has already occurred. Earlier detection through targeted screening could help prevent vision loss.",
-      "date": "2026-07-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-genetic-onset-glaucoma.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "glaucoma",
-        "genetic",
-        "information",
-        "helps",
-        "predict",
-        "onset",
-        "progression",
-        "leading"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.361751+00:00"
-    },
-    {
-      "id": "rss-31b6bada45a9",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New targeted therapy shows promising early results in advanced pancreatic cancer",
-      "authors": "Medical Xpress",
-      "abstract": "An investigational targeted therapy designed to block one of the most common genetic drivers of pancreatic cancer has shown promising early results when combined with standard first-line chemotherapy, according to research presented today at the ESMO Gastrointestinal Cancers Congress 2026.",
-      "date": "2026-07-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-therapy-early-results-advanced-pancreatic.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "targeted",
-        "therapy",
-        "promising",
-        "early",
-        "results",
-        "pancreatic",
-        "cancer",
+        "tobacco",
+        "alcohol",
+        "lottery",
+        "promise",
+        "paying",
+        "stores",
+        "curb",
         "shows"
       ],
       "readTime": "1 min",
@@ -228,231 +132,391 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.361960+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.019240+00:00"
     },
     {
-      "id": "rss-f2af6980e6df",
+      "id": "rss-92963ff362d9",
       "discipline": "clinical",
       "type": "news",
-      "title": "Higher blood glucose levels linked to faster brain aging",
+      "title": "Why the back? How stroking calms infants and mouse pups",
       "authors": "Medical Xpress",
-      "abstract": "The human brain is known to naturally change with age, shrinking in size and volume after people reach their 30s or 40s. In some cases, however, it can age faster than expected, which can increase the risk of early memory loss, cognitive decline and some brain-related disorders.",
+      "abstract": "Across cultures, the way we soothe an unsettled baby tends to look much the same: hold them close and gently rub their back. The act is so familiar that it's easy to forget how little is actually understood about why it works.",
       "date": "2026-07-06",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-higher-blood-glucose-linked-faster.html",
+      "url": "https://medicalxpress.com/news/2026-07-calms-infants-mouse-pups.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "faster",
-        "brain",
-        "some",
-        "higher",
-        "blood",
-        "glucose",
-        "levels",
-        "linked"
+        "back",
+        "stroking",
+        "calms",
+        "infants",
+        "mouse",
+        "pups",
+        "across",
+        "cultures"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.362169+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.019435+00:00"
     },
     {
-      "id": "rss-a11184e2b0b6",
+      "id": "rss-bdf8746727bd",
       "discipline": "clinical",
       "type": "news",
-      "title": "Survey suggests Europeans support state-funded fertility care and embryo research across 4 countries",
+      "title": "Repurposed cancer drug rapidly eased rare autoimmune neuropathy in two patients",
       "authors": "Medical Xpress",
-      "abstract": "A new Europe-wide survey launched during the 42nd Annual Meeting of the European Society of Human Reproduction and Embryology (ESHRE) suggests broad public support for fertility treatment and several areas of reproductive research, while highlighting key areas where public understanding and opinion continue to develop.",
+      "abstract": "An interdisciplinary team at Jena University Hospital achieved a surprisingly rapid and significant improvement in two patients with an autoimmune peripheral nervous system disorder. The team administered teclistamab, a drug originally developed for multiple myeloma, and reported in detail in Nature Communications.",
       "date": "2026-07-06",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-survey-europeans-state-funded-fertility.html",
+      "url": "https://medicalxpress.com/news/2026-07-repurposed-cancer-drug-rapidly-eased.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "survey",
-        "suggests",
-        "support",
-        "fertility",
-        "public",
-        "areas",
-        "europeans",
-        "state-funded"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.362400+00:00"
-    },
-    {
-      "id": "rss-6fa152ab8cf4",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Memories of childhood trauma remain stable over time but change more often in children than adults",
-      "authors": "Medical Xpress",
-      "abstract": "Traumatic memories of childhood maltreatment typically remain consistent over time, according to a major new study led by King's College London and published in Nature Mental Health. The paper focuses on traumatic memories of childhood maltreatment, which could include emotional, physical or sexual abuse, or neglect. While memories of childhood maltreatment remain consistent, memories of childhood trauma reported in childhood are significantly less consistent over time than those reported in adulthood.",
-      "date": "2026-07-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-memories-childhood-trauma-stable-children.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "childhood",
-        "memories",
-        "remain",
-        "over",
-        "time",
-        "maltreatment",
-        "consistent",
-        "trauma"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.362662+00:00"
-    },
-    {
-      "id": "rss-887e4537e1ea",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "A child can drown in seconds. Doctors want more families to be prepared",
-      "authors": "Medical Xpress",
-      "abstract": "Doctors and others are sounding an alarm: More U.S. children have been drowning in recent years.",
-      "date": "2026-07-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-child-seconds-doctors-families.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "doctors",
-        "more",
-        "child",
-        "drown",
-        "seconds",
-        "want",
-        "families",
-        "prepared"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.362842+00:00"
-    },
-    {
-      "id": "rss-638943c763da",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "How do humans visually discriminate materials?",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers from the Cognitive Neurotechnology Unit, Vision and Action Laboratory, and Visual Perception and Cognition Laboratory in the Department of Computer Science and Engineering at Toyohashi University of Technology have conducted a psychophysical study using virtual reality (VR) to investigate how humans flexibly use exploratory behaviors—such as changing their viewpoint by moving their head and manipulating objects with their hands—when discriminating the material properties of objects.",
-      "date": "2026-07-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-humans-visually-discriminate-materials.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "their",
-        "humans",
-        "laboratory",
-        "objects",
-        "visually",
-        "discriminate",
-        "materials",
-        "researchers"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.363106+00:00"
-    },
-    {
-      "id": "rss-286f32c2e8e7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Five hidden pitfalls of fitness tracking",
-      "authors": "Medical Xpress",
-      "abstract": "Many people in the U.K. now use apps, smartwatches or wearable devices to track their physical activity. Fitness trackers promise to help users become fitter, happier and healthier versions of themselves. For many people, they can be useful: a nudge to move more, a way to notice patterns, or a reminder that activity does not have to happen in a gym.",
-      "date": "2026-07-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-hidden-pitfalls-tracking.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "fitness",
-        "many",
-        "people",
-        "activity",
-        "five",
-        "hidden",
-        "pitfalls",
-        "tracking"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.363324+00:00"
-    },
-    {
-      "id": "rss-34a180104df6",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Common brain cancer mutation changes DNA shape to drive progression, exposing therapeutic target",
-      "authors": "Medical Xpress",
-      "abstract": "A new study from researchers at The University of Texas MD Anderson Cancer Center has uncovered how one of the most common genetic alterations in glioma rewires the cancer cell genome to fuel tumor progression, suggesting a potential new therapeutic strategy for patients with ATRX-mutant gliomas.",
-      "date": "2026-07-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-common-brain-cancer-mutation-dna.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
+        "drug",
+        "autoimmune",
+        "patients",
+        "team",
+        "repurposed",
         "cancer",
-        "common",
-        "progression",
-        "therapeutic",
-        "brain",
-        "mutation",
-        "changes",
-        "shape"
+        "rapidly",
+        "eased"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.363550+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.019633+00:00"
+    },
+    {
+      "id": "rss-0f11d694f35a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Resetting psoriasis memory may help body stop repeat flare-ups",
+      "authors": "Medical Xpress",
+      "abstract": "Stress, bad weather, strep throat, alcohol or cuts—there are a number of triggers that can set off psoriasis. At the same time, a great deal is happening in research on this skin disease, and new ways of controlling the immune system are being discovered.",
+      "date": "2026-07-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-resetting-psoriasis-memory-body-flare.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "psoriasis",
+        "resetting",
+        "memory",
+        "help",
+        "body",
+        "stop",
+        "repeat",
+        "flare-ups"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:26.019851+00:00"
+    },
+    {
+      "id": "rss-f1c14b1e5934",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Nature-based mental health care is worth the investment, researchers say",
+      "authors": "Medical Xpress",
+      "abstract": "A new study underlines the annual AU$7 trillion (US$5 trillion) value of nature in mental health benefits and is calling for urgent government action to expand access to nature as a frontline response to the worsening global mental health crisis.",
+      "date": "2026-07-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-nature-based-mental-health-worth.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "mental",
+        "health",
+        "trillion",
+        "nature",
+        "nature-based",
+        "care",
+        "worth",
+        "investment"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:26.020048+00:00"
+    },
+    {
+      "id": "rss-5cf88ba46684",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "We still misunderstand addiction. Here's what you should know",
+      "authors": "Medical Xpress",
+      "abstract": "When most people hear the word addiction, they picture someone whose life has visibly unraveled. Yet addiction is often hidden in plain sight—affecting people in workplaces, schools, sporting clubs and family homes.",
+      "date": "2026-07-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-addiction.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "addiction",
+        "people",
+        "still",
+        "misunderstand",
+        "here",
+        "what",
+        "should",
+        "know"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:26.020244+00:00"
+    },
+    {
+      "id": "rss-1862ce8b378f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Innovative algorithm makes genomic surveillance faster and more affordable for global disease outbreaks",
+      "authors": "Medical Xpress",
+      "abstract": "Genomic surveillance—the process of monitoring and sequencing pathogens—is one of the most important tools for detecting emerging viral threats. But global surveillance systems remain costly, unevenly distributed and often are too slow to identify dangerous variants before they spread internationally, amplifying future disease outbreak threats.",
+      "date": "2026-07-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-algorithm-genomic-surveillance-faster-global.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "surveillance",
+        "genomic",
+        "global",
+        "disease",
+        "threats",
+        "innovative",
+        "algorithm",
+        "makes"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:26.020461+00:00"
+    },
+    {
+      "id": "rss-c15c80d95ead",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Researchers develop chimeric allergen receptors as a new immunotherapy approach for asthma",
+      "authors": "Medical Xpress",
+      "abstract": "Genetically engineered CAR T cells expressing artificial receptor proteins are increasingly used in the clinic to boost the immune system's response against leukemias and other cancers. In a study published in the Journal of Experimental Medicine (JEM), researchers in Switzerland have adapted this approach to suppress the immune system's response to a common allergen, reducing or preventing asthma symptoms in mice. The technique could eventually be used to treat a wide variety of allergies in humans.",
+      "date": "2026-07-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-chimeric-allergen-receptors-immunotherapy-approach.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "researchers",
+        "allergen",
+        "approach",
+        "asthma",
+        "used",
+        "immune",
+        "system",
+        "response"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:26.020692+00:00"
+    },
+    {
+      "id": "rss-8cdae75ffd66",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Special glove helps people with paralyzed hands grasp objects",
+      "authors": "Medical Xpress",
+      "abstract": "The Technical University of Munich (TUM) has developed a soft, pneumatic glove that restores the ability of people with paralyzed hands to grasp objects. To achieve this, researchers at the TUM Chair of Cognitive Systems use electrical signals from the forearm muscles to reliably predict when a person intends to grasp an object. The invention could one day help people whose hands have been paralyzed as a result of accidents or neurological disorders. The research is published in Nature Machine Intelligence.",
+      "date": "2026-07-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-special-glove-people-paralyzed-grasp.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "people",
+        "paralyzed",
+        "hands",
+        "grasp",
+        "glove",
+        "objects",
+        "special",
+        "helps"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:26.020968+00:00"
+    },
+    {
+      "id": "rss-7c5f6eba280c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Airway cells, not immune cells, trigger silicosis: New understanding of a deadly disease",
+      "authors": "Medical Xpress",
+      "abstract": "Silicosis—a devastating, incurable lung disease caused by inhaling silica dust—is surging worldwide, fueled by a new wave of aggressive cases in young tradespeople working with engineered stone. Despite its growing impact, the biological triggers that turn silica exposure into life-threatening lung inflammation and scarring have remained poorly understood.",
+      "date": "2026-07-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-airway-cells-immune-trigger-silicosis.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cells",
+        "silicosis",
+        "disease",
+        "lung",
+        "silica",
+        "airway",
+        "immune",
+        "trigger"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:26.021189+00:00"
+    },
+    {
+      "id": "rss-10948a20a68a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Platinum TALEN enables mass production of engineered cancer-fighting T cells",
+      "authors": "Medical Xpress",
+      "abstract": "Hiroshima University researchers have demonstrated a proof of concept for the mass production of genome-edited T cells that can be used to treat malignant tumors, using a genetic engineering technique called Platinum TALEN.",
+      "date": "2026-07-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-platinum-talen-enables-mass-production.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "platinum",
+        "talen",
+        "mass",
+        "production",
+        "cells",
+        "enables",
+        "engineered",
+        "cancer-fighting"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:26.021370+00:00"
+    },
+    {
+      "id": "rss-d73c25fa4d00",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "authors": "TechCrunch AI",
+      "abstract": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
+      "date": "2026-07-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "microsoft",
+        "xbox",
+        "commercial",
+        "sales",
+        "layoffs",
+        "lays",
+        "nearly",
+        "employees"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:26.181343+00:00"
+    },
+    {
+      "id": "rss-0fade99529d1",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "authors": "TechCrunch AI",
+      "abstract": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
+      "date": "2026-07-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "station",
+        "startups",
+        "ramps",
+        "launchpad",
+        "europe",
+        "hottest",
+        "paris-based",
+        "startup"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:26.181549+00:00"
     },
     {
       "id": "rss-02cb6480584d",
@@ -484,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.413692+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.181673+00:00"
     },
     {
       "id": "rss-83241dfbd3f5",
@@ -516,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.413902+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.181824+00:00"
     },
     {
       "id": "rss-983a320c80b7",
@@ -548,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.414048+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.181959+00:00"
     },
     {
       "id": "rss-e6d906ceca95",
@@ -580,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.414170+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.182069+00:00"
     },
     {
       "id": "rss-cddf910fdaa7",
@@ -612,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.414331+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.182207+00:00"
     },
     {
       "id": "rss-81558e07f2f6",
@@ -644,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.414500+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.182348+00:00"
     },
     {
       "id": "rss-9896ea2e6cf0",
@@ -676,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.414651+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.182487+00:00"
     },
     {
       "id": "rss-04c99b71151a",
@@ -708,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.414795+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.182618+00:00"
     },
     {
       "id": "rss-7254829ad646",
@@ -740,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.414936+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.182748+00:00"
     },
     {
       "id": "rss-784d5b87809b",
@@ -772,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.415064+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.182884+00:00"
     },
     {
       "id": "rss-47feb73e768d",
@@ -804,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.415186+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.183001+00:00"
     },
     {
       "id": "rss-d4d5b5d0b551",
@@ -836,71 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.415341+00:00"
-    },
-    {
-      "id": "rss-9c77812be575",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "authors": "TechCrunch AI",
-      "abstract": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
-      "date": "2026-07-02",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "microsoft",
-        "deployment",
-        "launches",
-        "company",
-        "billion",
-        "commitment",
-        "follows",
-        "amazon"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.415484+00:00"
-    },
-    {
-      "id": "rss-d9bc183b3809",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Yep, we’re using OpenClaw to date now",
-      "authors": "TechCrunch AI",
-      "abstract": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
-      "date": "2026-07-02",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "openclaw",
-        "date",
-        "guez",
-        "bunch",
-        "potential",
-        "international",
-        "wives",
-        "thanks"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.415629+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.183146+00:00"
     },
     {
       "id": "rss-0ec61d5c541e",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.478393+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.386474+00:00"
     },
     {
       "id": "rss-19259ec0f554",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.833921+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.622901+00:00"
     },
     {
       "id": "rss-cdcec8d11a6a",
@@ -972,7 +972,7 @@ window.LIVE_FEED_DATA = {
       "type": "news",
       "title": "NOAA announces regional priorities to advance America-first seafood strategy",
       "authors": "NOAA News",
-      "abstract": "NOAA announces regional priorities to advance America-first seafood strategy July 2, 2026 The United States is a global leader in fisheries excellence, and aligning foreign fisheries to American standards will increase opportunities for American fishermen and women. (Image credit: Shutterstock via NOAA Fisheries) Today, NOAA announced regional priorities to revitalize the U.S. seafood sector focused on reducing burdens on domestic fishing, increasing production, improving access, and enhancing economic profitability. This bold, coordinated effort by the Department of Commerce through NOAA Fisheries is in direct response to the President’s Executive Order Restoring American Seafood Competitiveness to increase the sustainable harvest of seafood resources and boost American fishermen. “These regional priorities are a critical step in our efforts to fulfill the President's vision of makin...",
+      "abstract": "NOAA announces regional priorities to advance America-first seafood strategy July 2, 2026 The United States is a global leader in fisheries excellence, and aligning foreign fisheries to American standards will increase opportunities for American fishermen and women. (Shutterstock via NOAA Fisheries) Today, NOAA announced regional priorities to revitalize the U.S. seafood sector focused on reducing burdens on domestic fishing, increasing production, improving access, and enhancing economic profitability. This bold, coordinated effort by the Department of Commerce through NOAA Fisheries is in direct response to the President’s Executive Order Restoring American Seafood Competitiveness to increase the sustainable harvest of seafood resources and boost American fishermen. “These regional priorities are a critical step in our efforts to fulfill the President's vision of making the United S...",
       "date": "2026-07-01",
       "year": 2026,
       "journal": "NOAA News",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.834447+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.623383+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.478582+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.386645+00:00"
     },
     {
       "id": "rss-19e287a9fb9c",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.834944+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.623853+00:00"
     },
     {
       "id": "rss-4e904f861292",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.478750+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.386794+00:00"
     },
     {
       "id": "rss-5b0f51c03247",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.478906+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.386996+00:00"
     },
     {
       "id": "rss-171691b8cedf",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.479040+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.387122+00:00"
     },
     {
       "id": "rss-3811b60f2c26",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.479200+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.387271+00:00"
     },
     {
       "id": "rss-a8a59a71fab6",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.479361+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.387421+00:00"
     },
     {
       "id": "rss-0e554b469f1c",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.479510+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.387542+00:00"
     },
     {
       "id": "rss-c83a6084c17d",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.835403+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.624263+00:00"
     },
     {
       "id": "rss-4347e37ce541",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.835969+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.624774+00:00"
     },
     {
       "id": "rss-0439785447ef",
@@ -1348,7 +1348,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.836628+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.625339+00:00"
+    },
+    {
+      "id": "openalex-239a44a48c00",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "authors": "Bourlon, Fabien, Bregolin, Michel, Rudzewicz, Laura",
+      "abstract": "Rosa dos Ventos abrange aspectos relacionados ao Turismo e a Hospitalidade, com foco na Educação, Epistemologia, Gastronomia, Gestão, Cultura e Meio Ambiente, em visão multidisciplinar do fenômeno turístico",
+      "date": "2026-06-23",
+      "year": 2026,
+      "journal": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "source": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.18226/21789061",
+      "doi": "10.18226/21789061",
+      "pdfUrl": "https://doi.org/10.18226/21789061",
+      "keywords": [
+        "Humanities",
+        "Political science",
+        "Art",
+        "Diverse Aspects of Tourism Research",
+        "Social and Economic Solidarity",
+        "Hospitality and Tourism Education",
+        "rosa",
+        "ventos"
+      ],
+      "readTime": "1 min",
+      "citedBy": 134,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:22.434816+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1380,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.064328+00:00"
+      "_retrievedAt": "2026-07-06T15:53:17.459704+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1412,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.064741+00:00"
+      "_retrievedAt": "2026-07-06T15:53:17.460086+00:00"
     },
     {
       "id": "rss-6e64d9a2858e",
@@ -1444,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.479650+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.387664+00:00"
     },
     {
       "id": "rss-5d40314c8fc4",
@@ -1476,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.479797+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.387789+00:00"
     },
     {
       "id": "rss-93a5db061a72",
@@ -1508,7 +1540,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.837191+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.625887+00:00"
+    },
+    {
+      "id": "openalex-c2a093804030",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "International Journal of Complementary & Alternative Medicine",
+      "authors": "OpenAlex indexed authors",
+      "abstract": "There is a growing demand for integrative and complementary therapies for various health conditions, while the mechanisms and biological pathways for some of these therapies are poorly explored.In particular, bioelectric, biomagnetic and anthropogenic fields interact with biological structures such as tissues, cells and DNA.It is suggested that these interactions may create an integrated system of internal communication, with the potential to promote therapeutic benefits.The theoretical model Biofield-Tissue Tensegrity Matrix (BTTM) is presented by combining concepts from physics, biology and medicine to serve as a possible theoretical basis for energy therapies.",
+      "date": "2026-06-20",
+      "year": 2026,
+      "journal": "International Journal of Complementary & Alternative Medicine",
+      "source": "International Journal of Complementary & Alternative Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.15406/ijcam",
+      "doi": "10.15406/ijcam",
+      "pdfUrl": "https://medcraveonline.com/IJCAM/IJCAM-18-00731.pdf",
+      "keywords": [
+        "Library science",
+        "Medicine",
+        "Computer science",
+        "Complementary and Alternative Medicine Studies",
+        "therapies",
+        "complementary",
+        "medicine",
+        "biological"
+      ],
+      "readTime": "1 min",
+      "citedBy": 18,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:21.547228+00:00"
     },
     {
       "id": "rss-aa16e55100c4",
@@ -1540,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.479930+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.387928+00:00"
     },
     {
       "id": "rss-178fcef6b56d",
@@ -1572,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.480072+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.388065+00:00"
     },
     {
       "id": "rss-607184e56a4c",
@@ -1604,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.480201+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.388186+00:00"
     },
     {
       "id": "rss-1842992c471c",
@@ -1636,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.480326+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.388303+00:00"
     },
     {
       "id": "rss-5cf5c5f90af9",
@@ -1668,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.837687+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.626334+00:00"
     },
     {
       "id": "rss-9babfa4d92c2",
@@ -1700,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.837912+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.626557+00:00"
     },
     {
       "id": "rss-9da09de8e550",
@@ -1732,7 +1796,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:14.838094+00:00"
+      "_retrievedAt": "2026-07-06T15:53:26.626724+00:00"
+    },
+    {
+      "id": "openalex-ff18973ad306",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Hybrid three-dimensional full-view multi-wavelength photoacoustic and ultrasound breast tomography",
+      "authors": "Maura Dantuma, Felix Lucka, Saskia Kruitwagen, Ashkan Javaherian, Laurens Alink, R.P. Pompe van Meerdervoort",
+      "abstract": "Photoacoustic tomography is a contrast agent-free imaging technique capable of visualizing blood vessels and tumor-associated vascularization in breast tissue. While sophisticated breast imaging systems have been recently developed, there is yet much to be gained in imaging depth, image quality and tissue characterization capability before clinical translation is possible. In response, we have developed a hybrid photoacoustic and ultrasound tomographic system (PAM3). The photoacoustic component has for the first time, in a full-view hemispherical breast system, three-dimensional multi-wavelength imaging capability and implements substantial technical advancements in critical hardware and software sub-systems. The ultrasound component enables three-dimensional ultrasound (computed) tomography from both reflected and transmitted signals from which we currently extract an image of the so...",
+      "date": "2026-06-14",
+      "year": 2026,
+      "journal": "Photoacoustics",
+      "source": "Photoacoustics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.pacs.2026.100847",
+      "doi": "10.1016/j.pacs.2026.100847",
+      "pdfUrl": "https://doi.org/10.1016/j.pacs.2026.100847",
+      "keywords": [
+        "Photoacoustic Doppler effect",
+        "Tomography",
+        "Speed of sound",
+        "Photoacoustic imaging in biomedicine",
+        "Breast imaging",
+        "Photoacoustic and Ultrasonic Imaging",
+        "Nanoplatforms for cancer theranostics",
+        "Advanced X-ray and CT Imaging"
+      ],
+      "readTime": "1 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:21.549038+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1764,7 +1860,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.063736+00:00"
+      "_retrievedAt": "2026-07-06T15:53:17.459158+00:00"
+    },
+    {
+      "id": "openalex-0f151e5548fe",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Metaheuristic-optimized machine learning framework for remote sensing-based alteration mapping of porphyry copper systems",
+      "authors": "Mahnaz Mahboobi, Homayoon Katibeh, Yousef Bahrami, Amin Beiranvand Pour",
+      "abstract": "Remote sensing-based hydrothermal alteration mapping is a pivotal technique in critical mineral exploration, particularly for identifying porphyry copper deposits (PCDs). However, conventional multispectral approaches are often constrained by linear assumptions, spectral mixing, and suboptimal parameter selection, limiting their ability to resolve complex alteration assemblages. This study presents a metaheuristic-optimized machine learning framework that integrates Boosted Trees (BT) and Quadratic Support Vector Machines (QSVM) with the Shuffled Frog Leaping Algorithm (SFLA) to improve alteration zone discrimination using multispectral satellite imagery. ASTER shortwave infrared bands were combined with Sentinel-2 visible, near-infrared, and red-edge features to map argillic, phyllic, propylitic, and iron oxide/hydroxide alteration zones. The framework was applied to the Shahr-e-Baba...",
+      "date": "2026-06-07",
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "source": "Scientific Reports",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41598-026-55525-6",
+      "doi": "10.1038/s41598-026-55525-6",
+      "pdfUrl": "https://www.nature.com/articles/s41598-026-55525-6_reference.pdf",
+      "keywords": [
+        "Porphyry copper deposit",
+        "Multispectral image",
+        "Advanced Spaceborne Thermal Emission and Reflection Radiometer",
+        "Computer science",
+        "Robustness (evolution)",
+        "Geochemistry and Geologic Mapping",
+        "Remote-Sensing Image Classification",
+        "Mineral Processing and Grinding"
+      ],
+      "readTime": "1 min",
+      "citedBy": 2,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:22.439696+00:00"
+    },
+    {
+      "id": "openalex-3559bddd3558",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Community views on hydrogeology education: A global perspective from 2024",
+      "authors": "Stéphanie Musy, James M. Thornton, Ty Ferre, Amanda Sills, Daniel Hunkeler, Philip Brunner",
+      "abstract": "Abstract Groundwater is the Earth’s largest reservoir of available freshwater. As climate change and increasing anthropogenic pressures continue to affect its availability and quality, the discipline of hydrogeology is evolving rapidly. Training enough professionals capable of understanding and managing groundwater resources effectively is therefore more critical than ever. However, there is a perceived global shortage of adequately trained hydrogeologists—raising concerns about society’s capacity to address future groundwater-related challenges. To obtain quantitative data regarding this perception and to evaluate the current state of hydrogeology education and workforce dynamics more generally, a global survey was conducted of hydrogeology professionals, recent graduates, and current students. Five hundred seventy-three individuals from 82 countries responded, providing contemporary...",
+      "date": "2026-06-06",
+      "year": 2026,
+      "journal": "Hydrogeology Journal",
+      "source": "Hydrogeology Journal",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1007/s10040-026-03089-0",
+      "doi": "10.1007/s10040-026-03089-0",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s10040-026-03089-0.pdf",
+      "keywords": [
+        "Hydrogeology",
+        "Discipline",
+        "Workforce",
+        "Training (meteorology)",
+        "Work (physics)",
+        "Geography Education and Pedagogy",
+        "Groundwater and Isotope Geochemistry",
+        "Groundwater flow and contamination studies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:22.437346+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1796,7 +1956,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.061686+00:00"
+      "_retrievedAt": "2026-07-06T15:53:17.457274+00:00"
+    },
+    {
+      "id": "openalex-ca751a9a90a6",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "How to create a saltmarsh: understanding the roles of topography, redox and nutrient dynamics",
+      "authors": "Peter J. Lawrence",
+      "abstract": "The restoration of saltmarsh is critical given the importance of the habitat and the degradation and losses it faces. However, success of saltmarsh restoration has been limited, particularly in replacing plant communities, despite like-for-like replacement being a legal requirement. Previous research found elevation in the tidal frame and sediment redox potential are important drivers of vegetation communities, and are different between restored and natural marshes. However, elevation and sediment redox potential together are insufficient to explain differences in plant communities. Topographic features are thought to alter redox potential-elevation relationships, though its role in plant communities is not currently known. Nutrient concentrations can also impact vegetation, however we lack evidence as to the typical concentrations in natural saltmarsh or restored sites, and how close...",
+      "date": "2026-05-28",
+      "year": 2026,
+      "journal": "e-space (Manchester Metropolitan University)",
+      "source": "e-space (Manchester Metropolitan University)",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.83056/mmu.32479191",
+      "doi": "10.83056/mmu.32479191",
+      "pdfUrl": "https://e-space.mmu.ac.uk/620851/1/PeterJohnLawrence_Thesis_2018.pdf",
+      "keywords": [
+        "Salt marsh",
+        "Marsh",
+        "Nutrient",
+        "Environmental science",
+        "Ecology",
+        "Coastal wetland ecosystem dynamics",
+        "Geology and Paleoclimatology Research",
+        "Geological formations and processes"
+      ],
+      "readTime": "2 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:22.436788+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -1828,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.065578+00:00"
+      "_retrievedAt": "2026-07-06T15:53:17.460853+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -1860,7 +2052,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.066042+00:00"
+      "_retrievedAt": "2026-07-06T15:53:17.461281+00:00"
+    },
+    {
+      "id": "openalex-7a2e0cea295d",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Stratigraphy as a low-pass filter: selective preservation of spatial variability on a Holocene carbonate platform",
+      "authors": "Xianyi Liu, Sam Purkis, Peter Burgess, David De Vleeschouwer, Laurent Puyana, Niklas Hohmann",
+      "abstract": "Walther’s law, a fundamental principle in geoscience, predicts that laterally adjacent depositional environments become preserved as a vertical succession of layers (facies). As an expression of uniformitarianism, this law underpins interpretations of Earth’s history, yet it has not been quantitatively tested. We test this law and examine its limitations by quantifying multidecadal changes in environmental heterogeneity (1945-2019) in the Bahamas and extrapolating them to millennial timescales using forward modelling. Virtual stratigraphic successions predicted by Walther’s law contain substantially greater heterogeneity than observed in sediment cores. This discrepancy arises because small and short-lived environment patches undergo rapid turnover and fail to accumulate sufficient sediment for preservation. Our work establishes a quantitative framework for defining preservation thres...",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "OpenAlex",
+      "source": "OpenAlex",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.31223/x5k784",
+      "doi": "10.31223/x5k784",
+      "pdfUrl": "https://eartharxiv.org/repository/object/13113/download/23232/",
+      "keywords": [
+        "Sedimentary depositional environment",
+        "Geology",
+        "Stratigraphy",
+        "Sedimentary rock",
+        "Sediment",
+        "Geology and Paleoclimatology Research",
+        "Paleontology and Stratigraphy of Fossils",
+        "Geological formations and processes"
+      ],
+      "readTime": "1 min",
+      "citedBy": 2,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:22.439988+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -1892,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.062757+00:00"
+      "_retrievedAt": "2026-07-06T15:53:17.458273+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -1924,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.061351+00:00"
+      "_retrievedAt": "2026-07-06T15:53:17.456976+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -1956,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.062963+00:00"
+      "_retrievedAt": "2026-07-06T15:53:17.458460+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -1988,7 +2212,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.060971+00:00"
+      "_retrievedAt": "2026-07-06T15:53:17.456589+00:00"
+    },
+    {
+      "id": "openalex-49732882293e",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Metformin inhibits mitochondrial complex I in intestinal epithelium to promote glycaemic control",
+      "authors": "Zachary L. Sebo, Ram P. Chakrabarty, Rogan A. Grant, Karis B. D’Alessandro, Alec Koss, Jenna L. E. Blum",
+      "abstract": "Metformin is a versatile biguanide drug primarily prescribed for type II diabetes. Despite its extensive use, the mechanisms underlying its clinical effects, including attenuated postprandial glucose excursions and elevated intestinal glucose uptake, remain unclear. Here we map these and other effects of metformin to intestine-specific mitochondrial complex I inhibition. Using human metabolomic data and an orthogonal genetics approach in male mice, we demonstrate that metformin suppresses citrulline synthesis, a metabolite generated exclusively by small intestine mitochondria, and increases GDF15 by inhibiting the mitochondrial respiratory chain at complex I. This inhibition co-opts the intestines to function as a glucose sink, driving the uptake of excess glucose and its conversion to lactate and lactoyl-phenylalanine. We also find that glucose lowering by metformin is due to repeate...",
+      "date": "2026-05-08",
+      "year": 2026,
+      "journal": "Nature Metabolism",
+      "source": "Nature Metabolism",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s42255-026-01530-y",
+      "doi": "10.1038/s42255-026-01530-y",
+      "pdfUrl": "https://www.nature.com/articles/s42255-026-01530-y.pdf",
+      "keywords": [
+        "Metformin",
+        "Postprandial",
+        "Biguanide",
+        "Internal medicine",
+        "Endocrinology",
+        "Metabolism, Diabetes, and Cancer",
+        "GDF15 and Related Biomarkers",
+        "Diabetes Treatment and Management"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:21.551542+00:00"
+    },
+    {
+      "id": "openalex-c591ec3e2c01",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Impacts of tree harvesting on the carbon balance and functioning in mangrove forests.",
+      "authors": "Joseph Langat",
+      "abstract": "Mangrove forests are considered one of the most efficient natural carbon sinks and their preservation is thus important in climate change mitigation. However, they are declining at higher rates than terrestrial forests, due to human activities; with Kenyan mangroves being no of exception. One of the main drivers of mangrove decline in Kenya is over-exploitation for wood products. The present study aimed to assess (a) the effects of tree removal on the fluxes of greenhouse gases, surface elevation and other ecosystem functions of mangrove forests and (b) mangrove root production. To explore these objectives two experiments were established in the mangrove forests at Gazi bay, Kenya: (i) tree harvest and (ii) mangrove productivity studies. For the tree harvest experiment, ten 12 m x 12 m plots were established in March 2009 in a Rhizophora mucronata (Lam.) forest. Five plots were random...",
+      "date": "2026-05-08",
+      "year": 2026,
+      "journal": "AquaDocs (United Nations Educational, Scientific and Cultural Organization)",
+      "source": "AquaDocs (United Nations Educational, Scientific and Cultural Organization)",
+      "sourceApi": "OpenAlex",
+      "url": "http://hdl.handle.net/1834/7654",
+      "doi": "10.17869/enu.183103",
+      "pdfUrl": "http://hdl.handle.net/1834/7654",
+      "keywords": [
+        "Mangrove",
+        "Rhizophora mucronata",
+        "Avicennia marina",
+        "Environmental science",
+        "Avicennia",
+        "Coastal wetland ecosystem dynamics",
+        "Oil Palm Production and Sustainability",
+        "Plant responses to water stress"
+      ],
+      "readTime": "3 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:22.436107+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2020,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.062107+00:00"
+      "_retrievedAt": "2026-07-06T15:53:17.457672+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2052,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.065272+00:00"
+      "_retrievedAt": "2026-07-06T15:53:17.460573+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -2084,7 +2372,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.685100+00:00"
+      "_retrievedAt": "2026-07-06T15:53:20.382311+00:00"
+    },
+    {
+      "id": "openalex-489301e6519e",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "On digital twins in defense: overview and applications",
+      "authors": "Marco Giberna, Holger Voos, Paulo J. Tavares, J. P. Nunes, Tobias Sorg, Andrea Masini",
+      "abstract": "Digital twins (DTs) have emerged as a transformative technology for modeling and simulation in various industries, including defense. This paper provides a comprehensive review of DT applications in defense modeling and simulation, focusing on how DTs can enhance simulation fidelity, interoperability, and decision support within defense systems. We consolidate existing research into a unified framework that links DT concepts, simulation-driven applications, and real-world deployments in defense scenarios. We discuss the role of the DT in applications like planning, training, execution, monitoring, and debriefing. We introduce a standardized DT characterization framework suitable for defense applications that aligns with industrial modeling and simulation standards and present a taxonomy of defense-specific use cases, highlighting recurring requirements. In addition, practical evidence...",
+      "date": "2026-04-17",
+      "year": 2026,
+      "journal": "The Journal of Defense Modeling and Simulation Applications Methodology Technology",
+      "source": "The Journal of Defense Modeling and Simulation Applications Methodology Technology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1177/15485129261441817",
+      "doi": "10.1177/15485129261441817",
+      "pdfUrl": "https://arxiv.org/pdf/2508.05717",
+      "keywords": [
+        "Key (lock)",
+        "Computer science",
+        "Data science",
+        "Systems engineering",
+        "Process management",
+        "Advancements in Semiconductor Devices and Circuit Design",
+        "Radiation Effects in Electronics",
+        "Semiconductor Quantum Structures and Devices"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:22.438694+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2116,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.686381+00:00"
+      "_retrievedAt": "2026-07-06T15:53:20.383487+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2148,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.065030+00:00"
+      "_retrievedAt": "2026-07-06T15:53:17.460351+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2180,7 +2500,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.686966+00:00"
+      "_retrievedAt": "2026-07-06T15:53:20.384040+00:00"
+    },
+    {
+      "id": "openalex-178ac453ea4b",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Seasonal controls on groundwater irrigation quality in a semi-arid granitic watershed of Telangana, India: an integrated IWQI-GIS-multivariate approach",
+      "authors": "Mamatha Ullengula, Ratnakar Dhakate, N. Subba Rao, Pradeep Kumar Badapalli, Karuturi Venkata Suryabhagavan, Sakram Gugulothu",
+      "abstract": "Groundwater is a vital resource for irrigation in arid and semi-arid regions. This study evaluates groundwater suitability for irrigation in the granitic watershed of Dilawarpur Mandal, Nirmal District, Telangana, India, using 61 groundwater samples collected during pre- and post-monsoon seasons. Major physicochemical parameters (pH, EC, TDS, Ca 2+ , Mg 2+ , Na + , K + , HCO 3 − , Cl − , SO 4 2− , and F − ) were analysed. Irrigation suitability was assessed using the Irrigation Water Quality Index ( IWQI ) in conjunction with EC, %Na⁺ , SAR , SSP , KR , MHR , PI , and RSC . Multivariate statistical techniques, including Pearson correlation, Principal Component Analysis (PCA), Hierarchical Cluster Analysis (HCA), and Multiple Linear Regression (MLR), were applied to identify dominant hydrochemical controls and evaluate predictive relationships. Although elevated EC indicates moderate t...",
+      "date": "2026-04-08",
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "source": "Scientific Reports",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41598-026-46780-8",
+      "doi": "10.1038/s41598-026-46780-8",
+      "pdfUrl": "https://www.nature.com/articles/s41598-026-46780-8_reference.pdf",
+      "keywords": [
+        "Environmental science",
+        "Irrigation",
+        "Groundwater",
+        "Hydrology (agriculture)",
+        "Watershed",
+        "Groundwater and Isotope Geochemistry",
+        "Groundwater and Watershed Analysis",
+        "Soil and Land Suitability Analysis"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:22.438070+00:00"
+    },
+    {
+      "id": "openalex-9b7c534bd9d9",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Future outlook of monthly maximum daily precipitation in Pakistan’s hydroclimatic zones: high-resolution insights from CMIP6 multimodel data",
+      "authors": "Muhammad Adnan, Firdos Khan, Muhammad Abbas, Fahad Shahzad, TianXiang Yue",
+      "abstract": "Extreme precipitation events are intensifying under climate change, driving escalating flood risks in some of the world’s most vulnerable regions. Pakistan is one of the most hydrologically diverse and flood-prone country, previous studies have largely emphasized seasonal or mean rainfall, leaving monthly maximum daily precipitation extremes (Rx1day at monthly resolution) underexplored, despite their direct role in triggering flash floods, landslides, and infrastructure failures. This study fills that gap by analyzing bias-corrected CMIP6 multi-model ensembles to project Rx1day-month precipitation extremes for SSP2-4.5 and SSP5-8.5 across seven hydroclimatic zones. Projections are assessed for the near future (2017–2044), mid-century (2045–2072), and late century (2073–2100), relative to the 1985–2014 baseline. Findings reveal strong spatial heterogeneity. Northern and northwestern hi...",
+      "date": "2026-04-04",
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "source": "Scientific Reports",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41598-026-45047-6",
+      "doi": "10.1038/s41598-026-45047-6",
+      "pdfUrl": "https://www.nature.com/articles/s41598-026-45047-6_reference.pdf",
+      "keywords": [
+        "Environmental science",
+        "Precipitation",
+        "Climatology",
+        "Meteorology",
+        "Atmospheric sciences",
+        "Climate variability and models",
+        "Hydrology and Drought Analysis",
+        "Precipitation Measurement and Analysis"
+      ],
+      "readTime": "1 min",
+      "citedBy": 2,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:22.439381+00:00"
     },
     {
       "id": "openalex-8d5e6bfc7e0b",
@@ -2212,7 +2596,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.687644+00:00"
+      "_retrievedAt": "2026-07-06T15:53:20.384658+00:00"
+    },
+    {
+      "id": "openalex-08cf7139c39d",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Cell death in cancer",
+      "authors": "Marcus Conrad, Andreas Strasser, Philipp J. Jost, Junying Yuan, Feng Shao, Peter Vandenabeele",
+      "abstract": "\"Evasion of cell death\" is a hallmark of cancer, enabling transformed cells to withstand oncogenic and therapeutic stress. Restoring cancer cell death is an appealing strategy but requires a deep understanding of cell death programs. Over the past two decades, the cell death field has expanded from apoptosis to include necroptosis, pyroptosis, ferroptosis, and other emerging programs, reshaping cancer biology and revealing therapeutic opportunities. While apoptosis remains the primary radiation- and chemotherapy-induced cell death program, non-apoptotic programs can drive inflammatory responses and orchestrate the interplay among tumor, stroma, and immune components, influencing immunotherapy outcomes. Ferroptosis, an iron-dependent, lipid peroxidation-driven cell death modality, lacks a canonical induction signal and arises from perturbations in lipid, iron, and redox metabolism. Thi...",
+      "date": "2026-04-01",
+      "year": 2026,
+      "journal": "Cell",
+      "source": "Cell",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.cell.2026.03.024",
+      "doi": "10.1016/j.cell.2026.03.024",
+      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.03.024",
+      "keywords": [
+        "Programmed cell death",
+        "Biology",
+        "Apoptosis",
+        "Cancer",
+        "Immunogenic cell death",
+        "Cell death mechanisms and regulation",
+        "Cancer and biochemical research",
+        "Phagocytosis and Immune Regulation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 10,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:21.548162+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -2244,7 +2660,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.684498+00:00"
+      "_retrievedAt": "2026-07-06T15:53:20.381737+00:00"
+    },
+    {
+      "id": "openalex-7ecbe579840c",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Multi‐Indicator Assessment to Assess the Increasing Impacts of Compound Dry and Hot Events on Global Wheat Yield",
+      "authors": "Jinpeng Hu, Rastislav Skalský, Gangfeng ZHANG, Christian Folberth, Peijun Shi",
+      "abstract": "Abstract In a warming climate, the co‐occurrence of drought and heat events increasingly threatens the global wheat yield and food security. However, changes in compound dry and hot events (CDHEs) during the global wheat growing season and their impacts on yield remain largely unknown. Using daily ERA5 reanalysis data, multiple drought indicators including the standardized precipitation index, standardized precipitation evapotranspiration index, standardized soil moisture index (SSI), and heat indicators the standardized temperature index and standardized soil temperature index (SSTI), are compared to assess the evolution of CDHEs and their impacts on wheat yield in major wheat‐producing regions (1981–2020). The results indicate significant increases in the frequency, duration, and intensity of global CDHEs, with the most pronounced increases experienced in arid and semiarid regions (...",
+      "date": "2026-03-31",
+      "year": 2026,
+      "journal": "Earth s Future",
+      "source": "Earth s Future",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1029/2025ef007084",
+      "doi": "10.1029/2025ef007084",
+      "pdfUrl": "https://doi.org/10.1029/2025ef007084",
+      "keywords": [
+        "Environmental science",
+        "Evapotranspiration",
+        "Precipitation",
+        "Anomaly (physics)",
+        "Yield (engineering)",
+        "Climate change impacts on agriculture",
+        "Hydrology and Drought Analysis",
+        "Climate variability and models"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:22.438410+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2276,7 +2724,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.064002+00:00"
+      "_retrievedAt": "2026-07-06T15:53:17.459404+00:00"
+    },
+    {
+      "id": "openalex-d33fed344664",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "T cell adaptation in chronic infections and tumors",
+      "authors": "Hendrik Luxenburger, R Thimme, Maike Hofmann",
+      "abstract": "Abstract Chronic viral infections and cancer challenge immune control by enforcing sustained antigen exposure, which profoundly alters the fate and function of CD8 + T cells. In contrast to acute infections, which induce robust effector differentiation and durable immune memory, persistent infections and tumors drive CD8 + T cells into distinct states of functional adaptation. The best studied chronic adaptation is T cell exhaustion, which is characterized by impaired effector functions, reduced proliferative capacity, sustained expression of inhibitory receptors, and stable transcriptional and epigenetic reprogramming. T cell exhaustion is not a uniform or terminal condition but comprises heterogeneous and dynamic cellular states, including stem-like/precursor populations that retain self-renewal capacity and therapeutic responsiveness. These insights have reshaped our understanding...",
+      "date": "2026-03-30",
+      "year": 2026,
+      "journal": "Cellular and Molecular Immunology",
+      "source": "Cellular and Molecular Immunology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41423-026-01405-y",
+      "doi": "10.1038/s41423-026-01405-y",
+      "pdfUrl": "https://www.nature.com/articles/s41423-026-01405-y.pdf",
+      "keywords": [
+        "Immune system",
+        "Reprogramming",
+        "Biology",
+        "Effector",
+        "Immunology",
+        "Cancer Immunotherapy and Biomarkers",
+        "CAR-T cell therapy research",
+        "T-cell and B-cell Immunology"
+      ],
+      "readTime": "1 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:21.548692+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -2308,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.062404+00:00"
+      "_retrievedAt": "2026-07-06T15:53:17.457950+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2340,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.063336+00:00"
+      "_retrievedAt": "2026-07-06T15:53:17.458813+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -2372,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.686086+00:00"
+      "_retrievedAt": "2026-07-06T15:53:20.383212+00:00"
     },
     {
       "id": "openalex-6ae4c848022b",
@@ -2404,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.688621+00:00"
+      "_retrievedAt": "2026-07-06T15:53:20.385532+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -2436,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.685804+00:00"
+      "_retrievedAt": "2026-07-06T15:53:20.382950+00:00"
     },
     {
       "id": "openalex-52ea9f4aa286",
@@ -2468,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.688983+00:00"
+      "_retrievedAt": "2026-07-06T15:53:20.385896+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -2500,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.686656+00:00"
+      "_retrievedAt": "2026-07-06T15:53:20.383740+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -2532,7 +3012,199 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.685458+00:00"
+      "_retrievedAt": "2026-07-06T15:53:20.382629+00:00"
+    },
+    {
+      "id": "openalex-568c4ca27e3e",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "A hybrid deep learning approach integrating CNN and transformer for lung cancer classification using CT scans",
+      "authors": "Samia Nawaz Yousafzai, Inzamam Mashood Nasir, Sahar Mansour, Noha Negm, Asma A. Alhashmi, Mohannad Alharbi",
+      "abstract": "Lung cancer is an extremely fatal kind of cancer, resulting in the deaths of almost 7.6 million individuals annually around the globe. Nevertheless, a timely diagnosis is a crucial necessity for enhancing the likelihood of human survival. Regarding tumor identification, CT scans are normally used to identify affected areas. Nevertheless, CT imaging face significant problems such as poor visibility of tumor locations and high false negative rates. The small dataset size of medical imaging makes it challenging to capture local lesion features by iterative training, considering all input features equally. This work integrates Convolutional Neural Network (CNN) and Improved Swin Transformer (C-Swin), a deep learning model that extracts and integrates fine-grained local and global features. C-Swin has Transformer encoder and a CNN module. The CNN module extracts local features, whereas the...",
+      "date": "2026-03-17",
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "source": "Scientific Reports",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41598-026-41161-7",
+      "doi": "10.1038/s41598-026-41161-7",
+      "pdfUrl": "https://www.nature.com/articles/s41598-026-41161-7_reference.pdf",
+      "keywords": [
+        "Deep learning",
+        "Artificial intelligence",
+        "Computer science",
+        "Lung cancer",
+        "Transformer",
+        "Lung Cancer Diagnosis and Treatment",
+        "Radiomics and Machine Learning in Medical Imaging",
+        "COVID-19 diagnosis using AI"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:21.551044+00:00"
+    },
+    {
+      "id": "openalex-2ee9b3321b5d",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Nanoparticles-based phototherapy systems: molecular mechanisms and clinical applications",
+      "authors": "Deepak S. Chauhan, Rajendra Prasad, Mukesh Dhanka, Navneet Kaur, Hitasha Vithalani, Kaveesha Liyanapathirana",
+      "abstract": "Nanoparticle-based phototherapy represents a paradigm shift in precision medicine, harnessing light-activated mechanisms to modulate cellular pathways across a spectrum of diseases. By integrating nanoparticles, phototherapeutic modalities achieve enhanced light absorption and improved targeting and amplification effects, such as reactive oxygen species generation in photodynamic therapy and localized heating in photothermal therapy. Gold nanoparticles and hybrid constructs have attracted considerable attention in both photothermal and photodynamic therapies, while delivery platforms, such as liposomes and dendrimers, fine-tune biodistribution and release kinetics. At the molecular level, phototherapy induces oxidative stress, triggers apoptotic and autophagic cascades and modulates immune responses by altering cytokine profiles and T-cell activity processes, which are critical not on...",
+      "date": "2026-03-16",
+      "year": 2026,
+      "journal": "Signal Transduction and Targeted Therapy",
+      "source": "Signal Transduction and Targeted Therapy",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41392-025-02536-w",
+      "doi": "10.1038/s41392-025-02536-w",
+      "pdfUrl": "https://www.nature.com/articles/s41392-025-02536-w.pdf",
+      "keywords": [
+        "Photothermal therapy",
+        "Photodynamic therapy",
+        "Medicine",
+        "Nanotechnology",
+        "Computational biology",
+        "Nanoplatforms for cancer theranostics",
+        "Advanced Nanomaterials in Catalysis",
+        "Graphene and Nanomaterials Applications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 7,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:21.550713+00:00"
+    },
+    {
+      "id": "openalex-134f7f76ec80",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Review on tsunami research and risk mitigation: from prediction models to resilient coastal communities",
+      "authors": "Tianxing Ma, liangxu shen, Zejian Chen, Dongfang Liang",
+      "abstract": "Abstract Tsunami science is moving from standalone physics simulations to integrated forecasting and risk-governance frameworks. This review synthesizes advances in multi-source observations, signal detection, propagation and inundation modeling, physics–AI hybrid prediction, and real-time warning workflows. It further discusses uncertainty communication, decision support, and pathways for linking forecast systems with resilient coastal planning and community preparedness.",
+      "date": "2026-03-16",
+      "year": 2026,
+      "journal": "npj natural hazards.",
+      "source": "npj natural hazards.",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s44304-026-00195-7",
+      "doi": "10.1038/s44304-026-00195-7",
+      "pdfUrl": "https://www.nature.com/articles/s44304-026-00195-7.pdf",
+      "keywords": [
+        "Predictive modelling",
+        "Warning system",
+        "Environmental science",
+        "Environmental resource management",
+        "Decision support system",
+        "Tropical and Extratropical Cyclones Research",
+        "earthquake and tectonic studies",
+        "Flood Risk Assessment and Management"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:22.436995+00:00"
+    },
+    {
+      "id": "openalex-a2a154306336",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Spatiotemporal characteristics and driving factors of soil erosion in the Kangding River Basin (Southwest China) based on the RUSLE model",
+      "authors": "Yuqi Guan, Xiong Duan, Qinglian Deng, Bin Chen, Bingrui Su, Kun Zeng",
+      "abstract": "Soil erosion is one of the most widespread environmental issues globally, posing serious threats to ecosystems and land resources. This study employs precipitation, soil, digital elevation model, and land-use data from 2000 to 2020 to quantitatively analyze the spatiotemporal patterns of land-use change and soil erosion in the Kangding River Basin through GIS-based spatial analysis and the RUSLE (Revised Universal Soil Loss Equation) model, and to evaluate soil stability across the watershed. Furthermore, using Geographical Detector (including single-factor detection and dual-factor interaction detection) and the SHAP (SHapley Additive exPlanations) algorithm to analyze the optimal machine learning model enables the assessment of the contribution of each driving factor to soil erosion. The results revealed that: (1) From 2000 to 2020, the areas of woodland and water body exhibited a d...",
+      "date": "2026-03-16",
+      "year": 2026,
+      "journal": "PLoS ONE",
+      "source": "PLoS ONE",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1371/journal.pone.0344489",
+      "doi": "10.1371/journal.pone.0344489",
+      "pdfUrl": "https://doi.org/10.1371/journal.pone.0344489",
+      "keywords": [
+        "Environmental science",
+        "Woodland",
+        "Erosion",
+        "Drainage basin",
+        "Hydrology (agriculture)",
+        "Soil erosion and sediment transport",
+        "Land Use and Ecosystem Services",
+        "Groundwater and Watershed Analysis"
+      ],
+      "readTime": "1 min",
+      "citedBy": 2,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:22.439042+00:00"
+    },
+    {
+      "id": "openalex-050e5d69ef85",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "The role of agentic artificial intelligence in healthcare: a scoping review",
+      "authors": "Bernardo G. Collaco, Syed Ali Haider, Srinivasagam Prabha, Cesar A. Gomez-Cabello, Ariana Genovese, Nadia Wood",
+      "abstract": "Agentic AI represents a promising evolution of artificial intelligence in healthcare, with systems capable of operating autonomously to achieve defined clinical goals. However, the literature lacks conceptual clarity in distinguishing AI agents from Agentic AI, and few studies have rigorously explored their applications. We conducted a scoping review across five databases, identifying seven eligible studies spanning emergency medicine, oncology, radiology, and rehabilitation. The included systems demonstrated features such as autonomous operation, goal-directed behavior, action initiation, and, in some cases, multi-agent collaboration. Reported outcomes included high accuracy in cancer diagnosis, treatment planning, alert generation, coaching, and workflow optimization. Despite promising results, most studies were exploratory, limited in scope, and lacked robust clinical validation, w...",
+      "date": "2026-03-14",
+      "year": 2026,
+      "journal": "npj Digital Medicine",
+      "source": "npj Digital Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41746-026-02517-5",
+      "doi": "10.1038/s41746-026-02517-5",
+      "pdfUrl": "https://www.nature.com/articles/s41746-026-02517-5_reference.pdf",
+      "keywords": [
+        "Psychology",
+        "Artificial intelligence",
+        "Computer science",
+        "Agency (philosophy)",
+        "Cognitive science",
+        "Artificial Intelligence in Healthcare and Education",
+        "Machine Learning in Healthcare",
+        "Artificial Intelligence in Healthcare"
+      ],
+      "readTime": "1 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:21.548421+00:00"
+    },
+    {
+      "id": "openalex-5ea2e0ac50cc",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Reactive oxygen species in health and disease",
+      "authors": "Yaoxing Ren, Jitian Li, Xiaofeng Dai",
+      "abstract": "The traditional view of reactive oxygen species (ROS) as uniform toxicants has been superseded by the recognition of a fundamental radical/non-radical dichotomy. As radical and non-radical ROS differ in spatial and kinetic behaviors that dictate cellular impacts, understanding this dichotomy is essential for the design of ROS-targeting therapies. However, the roles of specific ROS types under physiological and pathological conditions remain inadequately defined, hindering precise clinical translation. By organizing ROS sources, neutralizing systems, reaction kinetics, biological effects, and therapeutic strategies along a radical versus non-radical axis, this review clarifies their unique and shared attributes to facilitate effective exploitation for health and disease management. Radical species, being short-lived and membrane-confined, operate locally at near-diffusion-limited rates...",
+      "date": "2026-03-13",
+      "year": 2026,
+      "journal": "Molecular Biomedicine",
+      "source": "Molecular Biomedicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1186/s43556-026-00419-2",
+      "doi": "10.1186/s43556-026-00419-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s43556-026-00419-2.pdf",
+      "keywords": [
+        "Reactive oxygen species",
+        "Oxidative stress",
+        "Disease",
+        "Redox",
+        "Radical",
+        "Redox biology and oxidative stress",
+        "Nanoplatforms for cancer theranostics",
+        "Electron Spin Resonance Studies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 7,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:21.550110+00:00"
     },
     {
       "id": "openalex-69ef9859ea67",
@@ -2564,7 +3236,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.687997+00:00"
+      "_retrievedAt": "2026-07-06T15:53:20.384998+00:00"
+    },
+    {
+      "id": "openalex-59f3240e8b8c",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Vast, overlooked peat, and organic soils in Brazil's Cerrado: carbon storage, dynamics, and stability",
+      "authors": "Larissa Verona, Amy E. Zanne, Susan Trumbore, Paulo N. Bernardino, Guilherme M. Alencar, Thalia Andreuccetti",
+      "abstract": "Summary Tropical peatlands are critical for climate mitigation due to their dual role as major carbon sinks and methane sources. In rainforests, high and stable rainfall supports peat accumulation in tropical climates. However, groundwater‐fed peatlands in seasonally dry tropical ecosystems remain poorly understood, despite their potential importance in global carbon dynamics. Here, we present an integrated carbon assessment in organic soil ecosystems (locally known as Veredas and Campos úmidos) in the Brazilian savanna. We quantified carbon in soil and biomass, dated carbon using radiocarbon, and evaluated chemical stability using infrared spectrometry. We used machine learning models to map their potential area. Additionally, we measured soil CO 2 and CH 4 efluxes to evaluate the influence of climatic seasonality on emissions. Veredas contained exceptionally high carbon stocks ( c....",
+      "date": "2026-03-12",
+      "year": 2026,
+      "journal": "New Phytologist",
+      "source": "New Phytologist",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1111/nph.71027",
+      "doi": "10.1111/nph.71027",
+      "pdfUrl": "https://doi.org/10.1111/nph.71027",
+      "keywords": [
+        "Peat",
+        "Environmental science",
+        "Ecosystem",
+        "Soil carbon",
+        "Carbon fibers",
+        "Peatlands and Wetlands Ecology",
+        "Fire effects on ecosystems",
+        "Coastal wetland ecosystem dynamics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:22.436437+00:00"
     },
     {
       "id": "openalex-4b1dee987f4c",
@@ -2596,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.684173+00:00"
+      "_retrievedAt": "2026-07-06T15:53:20.381473+00:00"
     },
     {
       "id": "openalex-74b7b8f03abe",
@@ -2628,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.684791+00:00"
+      "_retrievedAt": "2026-07-06T15:53:20.382028+00:00"
     },
     {
       "id": "openalex-02623233bf3b",
@@ -2660,7 +3364,135 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.687312+00:00"
+      "_retrievedAt": "2026-07-06T15:53:20.384365+00:00"
+    },
+    {
+      "id": "openalex-a6ecfeb4dd07",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Deep learning on histopathological images to predict breast cancer recurrence risk and chemotherapy benefit: a multicentre, model development and validation study",
+      "authors": "Gil Shamai, Shachar Cohen, Yoav Binenbaum, Edmond Sabo, Alexandra Cretu, Chen Mayer",
+      "abstract": "BACKGROUND: Genomic assays such as Oncotype DX have transformed adjuvant treatment selection for hormone receptor-positive, HER2-negative, early breast cancer but remain inaccessible to many patients because of high cost and logistical barriers. We aimed to develop and validate an artificial intelligence (AI) model that estimates Oncotype DX 21-gene recurrence scores directly from routine histopathology slides and clinicopathological variables. METHODS: ). The model was fine-tuned and validated on the TAILORx randomised trial (8284 patients after quality control). Prognostic and predictive performance was assessed in the TAILORx-test set and externally validated in six independent cohorts (Carmel, Haemek, and Sheba medical centres [Israel], the University of Chicago Medical Center [USA], the Australian Breast Cancer Tissue Bank [Australia], and the Cancer Genome Atlas Breast Invasive...",
+      "date": "2026-03-11",
+      "year": 2026,
+      "journal": "The Lancet Oncology",
+      "source": "The Lancet Oncology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/s1470-2045(25)00727-2",
+      "doi": "10.1016/s1470-2045(25)00727-2",
+      "pdfUrl": "https://doi.org/10.1016/s1470-2045(25)00727-2",
+      "keywords": [
+        "Medicine",
+        "Deep learning",
+        "Breast cancer",
+        "Artificial intelligence",
+        "Chemotherapy",
+        "AI in cancer detection",
+        "Digital Imaging for Blood Diseases",
+        "Radiomics and Machine Learning in Medical Imaging"
+      ],
+      "readTime": "2 min",
+      "citedBy": 7,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:21.549461+00:00"
+    },
+    {
+      "id": "openalex-f76e6332afee",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Integrating Computer Vision and GIS for Large-Scale Morphological Mapping and Driving Force Analysis of Vernacular Courtyard Dwellings",
+      "authors": "Lihua Liang, Xiaodong Li, Shutong Liu, Zhenhao Guo, Shuo Tang, Baohua Wen",
+      "abstract": "This study develops and applies an integrated methodology that combines deep learning-based computer vision and spatial statistics to automate the large-scale identification and analysis of morphological features in vernacular courtyard dwellings. Focusing on Liangshuaixiu dwellings in Wu’an, southern Hebei, we trained an HRNetV2 semantic segmentation model on high-resolution satellite imagery to identify and extract contours for 134,280 courtyard spaces. Core morphological parameters (area, orientation) were calculated and analyzed using GIS spatial statistics and the geographic detector model. The results show that (1) the computer vision pipeline achieved efficient recognition with satisfactory accuracy (~10% mean error); (2) spatial autocorrelation and hotspot analysis revealed distinct regional patterns, including a west–east increase in average courtyard area; and (3) geographic...",
+      "date": "2026-03-11",
+      "year": 2026,
+      "journal": "Buildings",
+      "source": "Buildings",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/buildings16061118",
+      "doi": "10.3390/buildings16061118",
+      "pdfUrl": "https://www.mdpi.com/2075-5309/16/6/1118/pdf?version=1773320289",
+      "keywords": [
+        "Vernacular",
+        "Segmentation",
+        "Geography",
+        "Spatial analysis",
+        "Computer science",
+        "Urban Design and Spatial Analysis",
+        "3D Surveying and Cultural Heritage",
+        "Remote Sensing and LiDAR Applications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 9,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:22.435422+00:00"
+    },
+    {
+      "id": "openalex-d7f83e5bb105",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Metabolic reprogramming in cancer: dysregulation of glucose, lipid, and amino acid pathways and therapeutic opportunities",
+      "authors": "Mingkang Yu, Di Yang, Xiuli Chen, Yuling Yang, Bingqiang Zhang, Xinxin Jiang",
+      "abstract": "Metabolic reprogramming is a hallmark of cancer, including hepatocellular carcinoma (HCC). Cancer cells exhibit enhanced glucose and glutamine uptake, increased glycolysis, pentose phosphate pathway activity, de novo lipogenesis, and altered amino acid metabolism. However, the metabolic crosstalk underlying cancer progression and the strategic directions for drug development remain insufficiently synthesized. This review systematically summarizes the functional mechanisms of key signaling regulators involved in cancer metabolic reprogramming, including mammalian target of rapamycin complex 1 (mTORC1), myelocytomatosis viral oncogene homolog (c-Myc), hypoxia-inducible factor-1α (HIF-1α), activating transcription factor 4 (ATF4), nuclear factor erythroid 2-related factor 2 (NRF2), and sterol regulatory element-binding protein 1 (SREBP1). Notably, we highlight the interconnections among...",
+      "date": "2026-03-10",
+      "year": 2026,
+      "journal": "Molecular Biomedicine",
+      "source": "Molecular Biomedicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1186/s43556-026-00427-2",
+      "doi": "10.1186/s43556-026-00427-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s43556-026-00427-2.pdf",
+      "keywords": [
+        "Biology",
+        "Metabolic pathway",
+        "Glutaminolysis",
+        "Transcription factor",
+        "Cancer cell",
+        "Cancer, Hypoxia, and Metabolism",
+        "Cancer, Lipids, and Metabolism",
+        "Cancer Research and Treatments"
+      ],
+      "readTime": "1 min",
+      "citedBy": 7,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:21.549810+00:00"
+    },
+    {
+      "id": "openalex-e0603077dc92",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Physical activity for public health in the 21st century",
+      "authors": "Deborah Salvo, Inácio Crochemore-Silva, Andrea Wendt, Jakob Tarp, Eric J. Shiroma, Ruth Simpson",
+      "abstract": "With over 5 million attributed deaths per year, physical inactivity is a major global public health issue. Although the importance of physical activity is well recognized within the scope of obesity and cardiometabolic disease prevention and control, its broader benefits for the health of individuals and societies are yet to be fully harnessed. Furthermore, the role of active leisure, active transport and active labor-primary domains of physical activity-in supporting or hindering social and health equity has been largely overlooked. Here we (1) used a health equity lens to describe global domain-specific physical activity inequalities through an analysis of World Health Organization STEPwise approach to NCD risk factor surveillance (WHO STEPS) data from 68 countries; (2) summarized evidence linking physical activity with health outcomes beyond cardiometabolic disease, including immun...",
+      "date": "2026-03-09",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04237-5",
+      "doi": "10.1038/s41591-026-04237-5",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04237-5.pdf",
+      "keywords": [
+        "Public health",
+        "Health equity",
+        "Social determinants of health",
+        "Disadvantaged",
+        "Socioeconomic status",
+        "Physical Activity and Health",
+        "Health Promotion and Cardiovascular Prevention",
+        "Obesity, Physical Activity, Diet"
+      ],
+      "readTime": "1 min",
+      "citedBy": 14,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:21.547563+00:00"
     },
     {
       "id": "openalex-4120c6f51ec1",
@@ -2692,7 +3524,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-06T11:00:07.688280+00:00"
+      "_retrievedAt": "2026-07-06T15:53:20.385260+00:00"
+    },
+    {
+      "id": "openalex-b2aeaeab5ec0",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "A Comprehensive Review of Machine Learning and Deep Learning Methods for Flood Inundation Mapping",
+      "authors": "Abinash SİLWAL, Anil Subedi, Rajee Tamrakar, Kshitij Dahal, Dewasis Dahal, Kenneth Okechukwu Ekpetere",
+      "abstract": "Flood inundation mapping (FIM) is essential in disaster risk management, infrastructure planning, and climate adaptation. Traditional hydrodynamic models, such as the Hydrologic Engineering Center’s River Analysis System (HEC-RAS) and LISFLOOD-Floodplain (LISFLOOD-FP), provide physically interpretable flood simulations but are often data- and computation-intensive and difficult to scale across regions. In recent years, machine learning (ML) and deep learning (DL) approaches have emerged as data-driven alternatives that leverage remote sensing observations, digital elevation models (DEMs), and hydro-climatic datasets to enable scalable and near-real-time flood mapping. Our review synthesizes recent advances in ML-based flood inundation mapping, categorizing methods into traditional machine learning techniques (e.g., Random Forest (RF), Support Vector Machines (SVM), Gradient Boosting (...",
+      "date": "2026-03-09",
+      "year": 2026,
+      "journal": "Earth",
+      "source": "Earth",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/earth7020044",
+      "doi": "10.3390/earth7020044",
+      "pdfUrl": "https://www.mdpi.com/2673-4834/7/2/44/pdf?version=1773048494",
+      "keywords": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Deep learning",
+        "Flood myth",
+        "Computer science",
+        "Flood Risk Assessment and Management",
+        "Tropical and Extratropical Cyclones Research",
+        "Hydrological Forecasting Using AI"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:22.437674+00:00"
+    },
+    {
+      "id": "openalex-cd9c5bfb977c",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "MERCATOR",
+      "authors": "Guillaume Bailly, Thomas Louche",
+      "abstract": "The advancement of predictive models by Machine Learning Algorithms (ML) associated with environmental data enables the improvement of models of environmental fragility, which are essential tools for decision-making.This study aimed to derive a prediction of environmental fragility by testing ML associated with environmental covariates in the state of Minas Gerais.We use physical-environmental variables (soil, geology, climate, relief) with a weight of fragility for the attributes and calculation of the average to obtain a model of Potential Environmental Fragility (PEF).Subsequently, we extracted the PEF values to a 4,800-point grid, which was used to generate a new prediction by ML called PEFML.This prediction was based on testing five algorithms and a set of 105 environmental covariates.The results indicated that the best-performing PEFML prediction was the Random Forest model (R2...",
+      "date": "2026-03-08",
+      "year": 2026,
+      "journal": "OpenAlex",
+      "source": "OpenAlex",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.4215/rm0000.0000.0000",
+      "doi": "10.4215/rm0000.0000.0000",
+      "pdfUrl": "http://www.mercator.ufc.br/mercator/article/view/e21034/1503",
+      "keywords": [
+        "Mercator projection",
+        "Geography",
+        "Cartography",
+        "environmental",
+        "fragility",
+        "prediction",
+        "algorithms",
+        "associated"
+      ],
+      "readTime": "1 min",
+      "citedBy": 18,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-06T15:53:22.435082+00:00"
     }
   ]
 };
