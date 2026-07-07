@@ -1,11 +1,139 @@
 {
-  "generatedAt": "2026-07-07T04:15:06.050092+00:00",
-  "total": 112,
+  "generatedAt": "2026-07-07T09:58:49.411216+00:00",
+  "total": 68,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-272d26e4e7a4",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "AI unlocks previously invisible cortical lesions in MS using legacy MRI scans",
+      "authors": "Medical Xpress",
+      "abstract": "One of the uncomfortable truths about multiple sclerosis is that the part of the brain likely to reveal the most about the disease and how a patient will be affected has been mostly invisible to clinicians.",
+      "date": "2026-07-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-ai-previously-invisible-cortical-lesions.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "invisible",
+        "about",
+        "unlocks",
+        "previously",
+        "cortical",
+        "lesions",
+        "legacy",
+        "scans"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-07T09:58:48.900798+00:00"
+    },
+    {
+      "id": "rss-f69bff41ca1b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New heart disease mechanism revealed: Next-generation targeted therapy shows benefit across mutation types",
+      "authors": "Medical Xpress",
+      "abstract": "A study led by the Centro Nacional de Investigaciones Cardiovasculares Carlos III (CNIC), working in collaboration with an international research team, has identified a new molecular mechanism involved in hypertrophic cardiomyopathy, the most common inherited cardiovascular disease.",
+      "date": "2026-07-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-heart-disease-mechanism-revealed-generation.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "disease",
+        "mechanism",
+        "heart",
+        "revealed",
+        "next-generation",
+        "targeted",
+        "therapy",
+        "shows"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-07T09:58:48.901076+00:00"
+    },
+    {
+      "id": "rss-2736ca94463c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "TNF-alpha blocks new neurons in hippocampus, reveals inflammation pathway",
+      "authors": "Medical Xpress",
+      "abstract": "A molecule linked to chronic inflammation disrupts the brain's ability to create new neurons, uncovering a pathway with therapeutic potential for neurodegenerative diseases and neurological conditions. The King's College London study, published in Nature Communications, offers insight into how long-term inflammation may contribute to cognitive decline in disorders such as Alzheimer's disease, aging, depression and the lingering neurological effects of viral infections.",
+      "date": "2026-07-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-tnf-alpha-blocks-neurons-hippocampus.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "inflammation",
+        "neurons",
+        "pathway",
+        "neurological",
+        "tnf-alpha",
+        "blocks",
+        "hippocampus",
+        "reveals"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-07T09:58:48.901388+00:00"
+    },
+    {
+      "id": "rss-eb2599b80509",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Oyster meat may provide a sustainable solution for intestinal inflammation",
+      "authors": "Medical Xpress",
+      "abstract": "Ongoing research provides evidence that readily available and sustainable oyster meat extract may have powerful anti-inflammatory effects on human intestinal cells.",
+      "date": "2026-07-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-oyster-meat-sustainable-solution-intestinal.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "oyster",
+        "meat",
+        "sustainable",
+        "intestinal",
+        "provide",
+        "solution",
+        "inflammation",
+        "ongoing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-07T09:58:48.901614+00:00"
+    },
     {
       "id": "rss-94188dfe9519",
       "discipline": "clinical",
@@ -36,7 +164,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.401614+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.901890+00:00"
     },
     {
       "id": "rss-908175cd51ac",
@@ -68,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.401931+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.902155+00:00"
     },
     {
       "id": "rss-37b1eac1980f",
@@ -100,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.402178+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.902431+00:00"
     },
     {
       "id": "rss-b09776c5e999",
@@ -132,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.402423+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.902655+00:00"
     },
     {
       "id": "rss-e872df491135",
@@ -164,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.402762+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.902944+00:00"
     },
     {
       "id": "rss-cc1483bcbdc1",
@@ -196,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.402993+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.903160+00:00"
     },
     {
       "id": "rss-d2fb59b94da8",
@@ -228,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.403220+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.903406+00:00"
     },
     {
       "id": "rss-471d7b164e0c",
@@ -260,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.403435+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.903609+00:00"
     },
     {
       "id": "rss-4694f632c8a2",
@@ -292,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.403749+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.903890+00:00"
     },
     {
       "id": "rss-2d4651c4df6c",
@@ -324,135 +452,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.404028+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.904171+00:00"
     },
     {
-      "id": "rss-b0fac4698199",
-      "discipline": "clinical",
+      "id": "rss-75bd583ad310",
+      "discipline": "cs",
       "type": "news",
-      "title": "More than 1.15 million fertility treatment cycles in Europe in 2023 as impact of frozen embryo transfer grows",
-      "authors": "Medical Xpress",
-      "abstract": "More than 1.15 million assisted reproductive technology (ART) treatment cycles were reported across Europe in 2023, according to preliminary data presented by the European IVF Monitoring (EIM) Consortium at the 42nd Annual Meeting of the European Society of Human Reproduction and Embryology (ESHRE).",
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "authors": "TechCrunch AI",
+      "abstract": "Forterra has deployed more than 100",
       "date": "2026-07-07",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-million-fertility-treatment-europe-impact.html",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "more",
-        "than",
-        "million",
-        "treatment",
-        "cycles",
-        "europe",
-        "european",
-        "fertility"
+        "first",
+        "american",
+        "autonomous",
+        "ground",
+        "vehicles",
+        "fighting",
+        "ukraine",
+        "forterra"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.404273+00:00"
-    },
-    {
-      "id": "rss-cd94259526c4",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Halving fertility treatment costs could more than double births, major global study shows",
-      "authors": "Medical Xpress",
-      "abstract": "A landmark international study has found that halving patient out-of-pocket costs was associated with a 2.67-fold increase in births achieved through assisted reproductive technology (ART).",
-      "date": "2026-07-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-halving-fertility-treatment-births-major.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "halving",
-        "costs",
-        "births",
-        "fertility",
-        "treatment",
-        "could",
-        "more",
-        "than"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.404515+00:00"
-    },
-    {
-      "id": "rss-a80bba44e4e1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Air pollution may alter how sperm genes function, major fertility study finds",
-      "authors": "Medical Xpress",
-      "abstract": "New research presented at the 42nd Annual Meeting of the European Society of Human Reproduction and Embryology (ESHRE) suggests that exposure to air pollution may affect genes associated with sperm development, raising new questions about male fertility, pregnancy outcomes and offspring health. The study was published in Human Reproduction.",
-      "date": "2026-07-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-air-pollution-sperm-genes-function.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "pollution",
-        "sperm",
-        "genes",
-        "fertility",
-        "human",
-        "reproduction",
-        "alter",
-        "function"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.404764+00:00"
-    },
-    {
-      "id": "rss-af8b8d05825e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Men living in different regions show marked differences in sperm quality despite similar lifestyles, novel study finds",
-      "authors": "Medical Xpress",
-      "abstract": "A new study has found substantial regional differences in sperm quality, with men in the highest-performing region recording almost double the total motile sperm count of those in the lowest-performing region.",
-      "date": "2026-07-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-men-regions-differences-sperm-quality.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "sperm",
-        "differences",
-        "quality",
-        "region",
-        "living",
-        "different",
-        "regions",
-        "show"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.405007+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.947426+00:00"
     },
     {
       "id": "rss-e4615aacb150",
@@ -484,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.455617+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.947714+00:00"
     },
     {
       "id": "rss-88cae6a04198",
@@ -516,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.455863+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.947893+00:00"
     },
     {
       "id": "rss-25ed78e761f2",
@@ -548,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.456036+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.948057+00:00"
     },
     {
       "id": "rss-62fdcc0b7b78",
@@ -580,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.456223+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.948236+00:00"
     },
     {
       "id": "rss-52b1eae50bfd",
@@ -612,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.456402+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.948444+00:00"
     },
     {
       "id": "rss-3e45f75b6692",
@@ -644,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.456638+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.948642+00:00"
     },
     {
       "id": "rss-d73c25fa4d00",
@@ -676,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.456830+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.948833+00:00"
     },
     {
       "id": "rss-e9e0040175c3",
@@ -708,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.456987+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.948983+00:00"
     },
     {
       "id": "rss-0fade99529d1",
@@ -740,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.457182+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.949168+00:00"
     },
     {
       "id": "rss-a5d229a3d4b5",
@@ -772,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.525777+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.983323+00:00"
     },
     {
       "id": "rss-c7c8b3bfebe0",
@@ -804,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.836454+00:00"
+      "_retrievedAt": "2026-07-07T09:58:49.282799+00:00"
     },
     {
       "id": "rss-02cb6480584d",
@@ -836,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.457331+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.949343+00:00"
     },
     {
       "id": "rss-83241dfbd3f5",
@@ -868,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.457521+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.949516+00:00"
     },
     {
       "id": "rss-983a320c80b7",
@@ -900,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.457691+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.949676+00:00"
     },
     {
       "id": "rss-e6d906ceca95",
@@ -932,39 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.457834+00:00"
-    },
-    {
-      "id": "rss-cddf910fdaa7",
-      "discipline": "cs",
-      "type": "news",
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "authors": "TechCrunch AI",
-      "abstract": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-      "date": "2026-07-04",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "mistral",
-        "what",
-        "everything",
-        "know",
-        "about",
-        "openai",
-        "competitor",
-        "which"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.458014+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.949814+00:00"
     },
     {
       "id": "rss-0ec61d5c541e",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.526002+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.983545+00:00"
     },
     {
       "id": "rss-19259ec0f554",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.836715+00:00"
+      "_retrievedAt": "2026-07-07T09:58:49.283036+00:00"
     },
     {
       "id": "rss-cdcec8d11a6a",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.837189+00:00"
+      "_retrievedAt": "2026-07-07T09:58:49.283574+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.526199+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.983730+00:00"
     },
     {
       "id": "rss-19e287a9fb9c",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.837700+00:00"
+      "_retrievedAt": "2026-07-07T09:58:49.284094+00:00"
     },
     {
       "id": "rss-4e904f861292",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.526386+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.983912+00:00"
     },
     {
       "id": "rss-5b0f51c03247",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.526611+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.984089+00:00"
     },
     {
       "id": "rss-171691b8cedf",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.526774+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.984245+00:00"
     },
     {
       "id": "rss-3811b60f2c26",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.526965+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.984502+00:00"
     },
     {
       "id": "rss-a8a59a71fab6",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.527160+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.984689+00:00"
     },
     {
       "id": "rss-0e554b469f1c",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.527318+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.984841+00:00"
     },
     {
       "id": "rss-c83a6084c17d",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.838135+00:00"
+      "_retrievedAt": "2026-07-07T09:58:49.284590+00:00"
     },
     {
       "id": "rss-4347e37ce541",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.838718+00:00"
+      "_retrievedAt": "2026-07-07T09:58:49.285176+00:00"
     },
     {
       "id": "rss-0439785447ef",
@@ -1412,39 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.839333+00:00"
-    },
-    {
-      "id": "openalex-239a44a48c00",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
-      "authors": "Bourlon, Fabien, Bregolin, Michel, Rudzewicz, Laura",
-      "abstract": "Rosa dos Ventos abrange aspectos relacionados ao Turismo e a Hospitalidade, com foco na Educação, Epistemologia, Gastronomia, Gestão, Cultura e Meio Ambiente, em visão multidisciplinar do fenômeno turístico",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
-      "source": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.18226/21789061",
-      "doi": "10.18226/21789061",
-      "pdfUrl": "https://doi.org/10.18226/21789061",
-      "keywords": [
-        "Humanities",
-        "Political science",
-        "Art",
-        "Diverse Aspects of Tourism Research",
-        "Social and Economic Solidarity",
-        "Hospitality and Tourism Education",
-        "rosa",
-        "ventos"
-      ],
-      "readTime": "1 min",
-      "citedBy": 134,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:01.176615+00:00"
+      "_retrievedAt": "2026-07-07T09:58:49.285850+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1476,7 +1444,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:58.439785+00:00"
+      "_retrievedAt": "2026-07-07T09:58:41.149168+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1508,7 +1476,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:58.440215+00:00"
+      "_retrievedAt": "2026-07-07T09:58:41.149652+00:00"
     },
     {
       "id": "rss-6e64d9a2858e",
@@ -1540,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.527509+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.984999+00:00"
     },
     {
       "id": "rss-5d40314c8fc4",
@@ -1572,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.527678+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.985155+00:00"
     },
     {
       "id": "rss-93a5db061a72",
@@ -1604,39 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.839962+00:00"
-    },
-    {
-      "id": "openalex-c2a093804030",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "International Journal of Complementary & Alternative Medicine",
-      "authors": "OpenAlex indexed authors",
-      "abstract": "There is a growing demand for integrative and complementary therapies for various health conditions, while the mechanisms and biological pathways for some of these therapies are poorly explored.In particular, bioelectric, biomagnetic and anthropogenic fields interact with biological structures such as tissues, cells and DNA.It is suggested that these interactions may create an integrated system of internal communication, with the potential to promote therapeutic benefits.The theoretical model Biofield-Tissue Tensegrity Matrix (BTTM) is presented by combining concepts from physics, biology and medicine to serve as a possible theoretical basis for energy therapies.",
-      "date": "2026-06-20",
-      "year": 2026,
-      "journal": "International Journal of Complementary & Alternative Medicine",
-      "source": "International Journal of Complementary & Alternative Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.15406/ijcam",
-      "doi": "10.15406/ijcam",
-      "pdfUrl": "https://medcraveonline.com/IJCAM/IJCAM-18-00731.pdf",
-      "keywords": [
-        "Library science",
-        "Medicine",
-        "Computer science",
-        "Complementary and Alternative Medicine Studies",
-        "therapies",
-        "complementary",
-        "medicine",
-        "biological"
-      ],
-      "readTime": "1 min",
-      "citedBy": 18,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:00.235146+00:00"
+      "_retrievedAt": "2026-07-07T09:58:49.286470+00:00"
     },
     {
       "id": "rss-aa16e55100c4",
@@ -1668,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.527837+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.985333+00:00"
     },
     {
       "id": "rss-178fcef6b56d",
@@ -1700,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.528007+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.985510+00:00"
     },
     {
       "id": "rss-607184e56a4c",
@@ -1732,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.528161+00:00"
+      "_retrievedAt": "2026-07-07T09:58:48.985664+00:00"
     },
     {
       "id": "rss-5cf5c5f90af9",
@@ -1764,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.840450+00:00"
+      "_retrievedAt": "2026-07-07T09:58:49.286984+00:00"
     },
     {
       "id": "rss-9babfa4d92c2",
@@ -1796,39 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:05.840720+00:00"
-    },
-    {
-      "id": "openalex-ff18973ad306",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Hybrid three-dimensional full-view multi-wavelength photoacoustic and ultrasound breast tomography",
-      "authors": "Maura Dantuma, Felix Lucka, Saskia Kruitwagen, Ashkan Javaherian, Laurens Alink, R.P. Pompe van Meerdervoort",
-      "abstract": "Photoacoustic tomography is a contrast agent-free imaging technique capable of visualizing blood vessels and tumor-associated vascularization in breast tissue. While sophisticated breast imaging systems have been recently developed, there is yet much to be gained in imaging depth, image quality and tissue characterization capability before clinical translation is possible. In response, we have developed a hybrid photoacoustic and ultrasound tomographic system (PAM3). The photoacoustic component has for the first time, in a full-view hemispherical breast system, three-dimensional multi-wavelength imaging capability and implements substantial technical advancements in critical hardware and software sub-systems. The ultrasound component enables three-dimensional ultrasound (computed) tomography from both reflected and transmitted signals from which we currently extract an image of the so...",
-      "date": "2026-06-14",
-      "year": 2026,
-      "journal": "Photoacoustics",
-      "source": "Photoacoustics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.pacs.2026.100847",
-      "doi": "10.1016/j.pacs.2026.100847",
-      "pdfUrl": "https://doi.org/10.1016/j.pacs.2026.100847",
-      "keywords": [
-        "Photoacoustic Doppler effect",
-        "Tomography",
-        "Speed of sound",
-        "Photoacoustic imaging in biomedicine",
-        "Breast imaging",
-        "Photoacoustic and Ultrasonic Imaging",
-        "Nanoplatforms for cancer theranostics",
-        "Advanced X-ray and CT Imaging"
-      ],
-      "readTime": "1 min",
-      "citedBy": 8,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:00.237226+00:00"
+      "_retrievedAt": "2026-07-07T09:58:49.287233+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1860,71 +1764,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:58.439118+00:00"
-    },
-    {
-      "id": "openalex-0f151e5548fe",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Metaheuristic-optimized machine learning framework for remote sensing-based alteration mapping of porphyry copper systems",
-      "authors": "Mahnaz Mahboobi, Homayoon Katibeh, Yousef Bahrami, Amin Beiranvand Pour",
-      "abstract": "Remote sensing-based hydrothermal alteration mapping is a pivotal technique in critical mineral exploration, particularly for identifying porphyry copper deposits (PCDs). However, conventional multispectral approaches are often constrained by linear assumptions, spectral mixing, and suboptimal parameter selection, limiting their ability to resolve complex alteration assemblages. This study presents a metaheuristic-optimized machine learning framework that integrates Boosted Trees (BT) and Quadratic Support Vector Machines (QSVM) with the Shuffled Frog Leaping Algorithm (SFLA) to improve alteration zone discrimination using multispectral satellite imagery. ASTER shortwave infrared bands were combined with Sentinel-2 visible, near-infrared, and red-edge features to map argillic, phyllic, propylitic, and iron oxide/hydroxide alteration zones. The framework was applied to the Shahr-e-Baba...",
-      "date": "2026-06-07",
-      "year": 2026,
-      "journal": "Scientific Reports",
-      "source": "Scientific Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41598-026-55525-6",
-      "doi": "10.1038/s41598-026-55525-6",
-      "pdfUrl": "https://www.nature.com/articles/s41598-026-55525-6_reference.pdf",
-      "keywords": [
-        "Porphyry copper deposit",
-        "Multispectral image",
-        "Advanced Spaceborne Thermal Emission and Reflection Radiometer",
-        "Computer science",
-        "Robustness (evolution)",
-        "Geochemistry and Geologic Mapping",
-        "Remote-Sensing Image Classification",
-        "Mineral Processing and Grinding"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:01.182024+00:00"
-    },
-    {
-      "id": "openalex-3559bddd3558",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Community views on hydrogeology education: A global perspective from 2024",
-      "authors": "Stéphanie Musy, James M. Thornton, Ty Ferre, Amanda Sills, Daniel Hunkeler, Philip Brunner",
-      "abstract": "Abstract Groundwater is the Earth’s largest reservoir of available freshwater. As climate change and increasing anthropogenic pressures continue to affect its availability and quality, the discipline of hydrogeology is evolving rapidly. Training enough professionals capable of understanding and managing groundwater resources effectively is therefore more critical than ever. However, there is a perceived global shortage of adequately trained hydrogeologists—raising concerns about society’s capacity to address future groundwater-related challenges. To obtain quantitative data regarding this perception and to evaluate the current state of hydrogeology education and workforce dynamics more generally, a global survey was conducted of hydrogeology professionals, recent graduates, and current students. Five hundred seventy-three individuals from 82 countries responded, providing contemporary...",
-      "date": "2026-06-06",
-      "year": 2026,
-      "journal": "Hydrogeology Journal",
-      "source": "Hydrogeology Journal",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s10040-026-03089-0",
-      "doi": "10.1007/s10040-026-03089-0",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s10040-026-03089-0.pdf",
-      "keywords": [
-        "Hydrogeology",
-        "Discipline",
-        "Workforce",
-        "Training (meteorology)",
-        "Work (physics)",
-        "Geography Education and Pedagogy",
-        "Groundwater and Isotope Geochemistry",
-        "Groundwater flow and contamination studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:01.179213+00:00"
+      "_retrievedAt": "2026-07-07T09:58:41.148519+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1956,39 +1796,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:58.436901+00:00"
-    },
-    {
-      "id": "openalex-ca751a9a90a6",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "How to create a saltmarsh: understanding the roles of topography, redox and nutrient dynamics",
-      "authors": "Peter J. Lawrence",
-      "abstract": "The restoration of saltmarsh is critical given the importance of the habitat and the degradation and losses it faces. However, success of saltmarsh restoration has been limited, particularly in replacing plant communities, despite like-for-like replacement being a legal requirement. Previous research found elevation in the tidal frame and sediment redox potential are important drivers of vegetation communities, and are different between restored and natural marshes. However, elevation and sediment redox potential together are insufficient to explain differences in plant communities. Topographic features are thought to alter redox potential-elevation relationships, though its role in plant communities is not currently known. Nutrient concentrations can also impact vegetation, however we lack evidence as to the typical concentrations in natural saltmarsh or restored sites, and how close...",
-      "date": "2026-05-28",
-      "year": 2026,
-      "journal": "e-space (Manchester Metropolitan University)",
-      "source": "e-space (Manchester Metropolitan University)",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.83056/mmu.32479191",
-      "doi": "10.83056/mmu.32479191",
-      "pdfUrl": "https://e-space.mmu.ac.uk/620851/1/PeterJohnLawrence_Thesis_2018.pdf",
-      "keywords": [
-        "Salt marsh",
-        "Marsh",
-        "Nutrient",
-        "Environmental science",
-        "Ecology",
-        "Coastal wetland ecosystem dynamics",
-        "Geology and Paleoclimatology Research",
-        "Geological formations and processes"
-      ],
-      "readTime": "2 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:01.178588+00:00"
+      "_retrievedAt": "2026-07-07T09:58:41.146319+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2020,7 +1828,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:58.441152+00:00"
+      "_retrievedAt": "2026-07-07T09:58:41.150588+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2052,39 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:58.441673+00:00"
-    },
-    {
-      "id": "openalex-7a2e0cea295d",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Stratigraphy as a low-pass filter: selective preservation of spatial variability on a Holocene carbonate platform",
-      "authors": "Xianyi Liu, Sam Purkis, Peter Burgess, David De Vleeschouwer, Laurent Puyana, Niklas Hohmann",
-      "abstract": "Walther’s law, a fundamental principle in geoscience, predicts that laterally adjacent depositional environments become preserved as a vertical succession of layers (facies). As an expression of uniformitarianism, this law underpins interpretations of Earth’s history, yet it has not been quantitatively tested. We test this law and examine its limitations by quantifying multidecadal changes in environmental heterogeneity (1945-2019) in the Bahamas and extrapolating them to millennial timescales using forward modelling. Virtual stratigraphic successions predicted by Walther’s law contain substantially greater heterogeneity than observed in sediment cores. This discrepancy arises because small and short-lived environment patches undergo rapid turnover and fail to accumulate sufficient sediment for preservation. Our work establishes a quantitative framework for defining preservation thres...",
-      "date": "2026-05-20",
-      "year": 2026,
-      "journal": "OpenAlex",
-      "source": "OpenAlex",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.31223/x5k784",
-      "doi": "10.31223/x5k784",
-      "pdfUrl": "https://eartharxiv.org/repository/object/13113/download/23232/",
-      "keywords": [
-        "Sedimentary depositional environment",
-        "Geology",
-        "Stratigraphy",
-        "Sedimentary rock",
-        "Sediment",
-        "Geology and Paleoclimatology Research",
-        "Paleontology and Stratigraphy of Fossils",
-        "Geological formations and processes"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:01.182348+00:00"
+      "_retrievedAt": "2026-07-07T09:58:41.151072+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2116,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:58.438059+00:00"
+      "_retrievedAt": "2026-07-07T09:58:41.147449+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2148,7 +1924,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:58.436566+00:00"
+      "_retrievedAt": "2026-07-07T09:58:41.145962+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2180,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:58.438285+00:00"
+      "_retrievedAt": "2026-07-07T09:58:41.147674+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2212,71 +1988,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:58.436129+00:00"
-    },
-    {
-      "id": "openalex-49732882293e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Metformin inhibits mitochondrial complex I in intestinal epithelium to promote glycaemic control",
-      "authors": "Zachary L. Sebo, Ram P. Chakrabarty, Rogan A. Grant, Karis B. D’Alessandro, Alec Koss, Jenna L. E. Blum",
-      "abstract": "Metformin is a versatile biguanide drug primarily prescribed for type II diabetes. Despite its extensive use, the mechanisms underlying its clinical effects, including attenuated postprandial glucose excursions and elevated intestinal glucose uptake, remain unclear. Here we map these and other effects of metformin to intestine-specific mitochondrial complex I inhibition. Using human metabolomic data and an orthogonal genetics approach in male mice, we demonstrate that metformin suppresses citrulline synthesis, a metabolite generated exclusively by small intestine mitochondria, and increases GDF15 by inhibiting the mitochondrial respiratory chain at complex I. This inhibition co-opts the intestines to function as a glucose sink, driving the uptake of excess glucose and its conversion to lactate and lactoyl-phenylalanine. We also find that glucose lowering by metformin is due to repeate...",
-      "date": "2026-05-08",
-      "year": 2026,
-      "journal": "Nature Metabolism",
-      "source": "Nature Metabolism",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s42255-026-01530-y",
-      "doi": "10.1038/s42255-026-01530-y",
-      "pdfUrl": "https://www.nature.com/articles/s42255-026-01530-y.pdf",
-      "keywords": [
-        "Metformin",
-        "Postprandial",
-        "Biguanide",
-        "Internal medicine",
-        "Endocrinology",
-        "Metabolism, Diabetes, and Cancer",
-        "GDF15 and Related Biomarkers",
-        "Diabetes Treatment and Management"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:00.240126+00:00"
-    },
-    {
-      "id": "openalex-c591ec3e2c01",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Impacts of tree harvesting on the carbon balance and functioning in mangrove forests.",
-      "authors": "Joseph Langat",
-      "abstract": "Mangrove forests are considered one of the most efficient natural carbon sinks and their preservation is thus important in climate change mitigation. However, they are declining at higher rates than terrestrial forests, due to human activities; with Kenyan mangroves being no of exception. One of the main drivers of mangrove decline in Kenya is over-exploitation for wood products. The present study aimed to assess (a) the effects of tree removal on the fluxes of greenhouse gases, surface elevation and other ecosystem functions of mangrove forests and (b) mangrove root production. To explore these objectives two experiments were established in the mangrove forests at Gazi bay, Kenya: (i) tree harvest and (ii) mangrove productivity studies. For the tree harvest experiment, ten 12 m x 12 m plots were established in March 2009 in a Rhizophora mucronata (Lam.) forest. Five plots were random...",
-      "date": "2026-05-08",
-      "year": 2026,
-      "journal": "AquaDocs (United Nations Educational, Scientific and Cultural Organization)",
-      "source": "AquaDocs (United Nations Educational, Scientific and Cultural Organization)",
-      "sourceApi": "OpenAlex",
-      "url": "http://hdl.handle.net/1834/7654",
-      "doi": "10.17869/enu.183103",
-      "pdfUrl": "http://hdl.handle.net/1834/7654",
-      "keywords": [
-        "Mangrove",
-        "Rhizophora mucronata",
-        "Avicennia marina",
-        "Environmental science",
-        "Avicennia",
-        "Coastal wetland ecosystem dynamics",
-        "Oil Palm Production and Sustainability",
-        "Plant responses to water stress"
-      ],
-      "readTime": "3 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:01.177773+00:00"
+      "_retrievedAt": "2026-07-07T09:58:41.145566+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2308,7 +2020,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:58.437362+00:00"
+      "_retrievedAt": "2026-07-07T09:58:41.146767+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2340,103 +2052,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:58.440834+00:00"
-    },
-    {
-      "id": "openalex-eb45e1d0ee3f",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Mobile Genetic Elements as Central Drivers of Antimicrobial Resistance: Molecular Mechanisms, Evolutionary Ecology, One Health Implications and Control Strategies",
-      "authors": "Hemayet Hossain, Md. Hasan Ali, Tanvir Ahmad, Snigdha Sharmin Binte Sayeed, Md. Abdur Nur Sakib, Khadiza Akter Brishty",
-      "abstract": "Antimicrobial resistance (AMR) represents a global health crisis, driven largely by the mobility of resistance determinants through mobile genetic elements (MGEs). These include plasmids, integrons, insertion sequences, transposons, integrative and conjugative elements (ICEs), and prophages, which together facilitate horizontal gene transfer (HGT) across bacterial species and ecosystems. This review aims to provide a comprehensive synthesis of current knowledge on the types, mechanisms, ecological drivers, and impacts of MGEs in the dissemination of antibiotic resistance genes (ARGs). Methods involved critical evaluation of recent genomic, epidemiological, and ecological studies, alongside case studies of clinically significant resistance outbreaks. Findings highlight how MGEs function as hubs for ARG capture, recombination, and stabilization, enabling the emergence of multidrug-resis...",
-      "date": "2026-04-20",
-      "year": 2026,
-      "journal": "Antibiotics",
-      "source": "Antibiotics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/antibiotics15040418",
-      "doi": "10.3390/antibiotics15040418",
-      "pdfUrl": "https://www.mdpi.com/2079-6382/15/4/418/pdf?version=1776731873",
-      "keywords": [
-        "Mobile genetic elements",
-        "Antibiotic resistance",
-        "Biology",
-        "Function (biology)",
-        "Psychological intervention",
-        "Antibiotic Resistance in Bacteria",
-        "Pharmaceutical and Antibiotic Environmental Impacts",
-        "Antibiotic Use and Resistance"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:59.251722+00:00"
-    },
-    {
-      "id": "openalex-489301e6519e",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "On digital twins in defense: overview and applications",
-      "authors": "Marco Giberna, Holger Voos, Paulo J. Tavares, J. P. Nunes, Tobias Sorg, Andrea Masini",
-      "abstract": "Digital twins (DTs) have emerged as a transformative technology for modeling and simulation in various industries, including defense. This paper provides a comprehensive review of DT applications in defense modeling and simulation, focusing on how DTs can enhance simulation fidelity, interoperability, and decision support within defense systems. We consolidate existing research into a unified framework that links DT concepts, simulation-driven applications, and real-world deployments in defense scenarios. We discuss the role of the DT in applications like planning, training, execution, monitoring, and debriefing. We introduce a standardized DT characterization framework suitable for defense applications that aligns with industrial modeling and simulation standards and present a taxonomy of defense-specific use cases, highlighting recurring requirements. In addition, practical evidence...",
-      "date": "2026-04-17",
-      "year": 2026,
-      "journal": "The Journal of Defense Modeling and Simulation Applications Methodology Technology",
-      "source": "The Journal of Defense Modeling and Simulation Applications Methodology Technology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1177/15485129261441817",
-      "doi": "10.1177/15485129261441817",
-      "pdfUrl": "https://arxiv.org/pdf/2508.05717",
-      "keywords": [
-        "Key (lock)",
-        "Computer science",
-        "Data science",
-        "Systems engineering",
-        "Process management",
-        "Advancements in Semiconductor Devices and Circuit Design",
-        "Radiation Effects in Electronics",
-        "Semiconductor Quantum Structures and Devices"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:01.180833+00:00"
-    },
-    {
-      "id": "openalex-8b9a2b633761",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Single-cell TCR mapping reveals spatially coordinated T cell states in head and neck cancer",
-      "authors": "Kelli A. McCord, Emerald Kan, Sean Hyslop, Amanda Y. Xia, Colby J. Hofferek, James S. Lewis",
-      "abstract": "Current spatial T cell receptor (TCR) profiling approaches lack the resolution needed to link clonal identity, transcriptional state, and spatial positioning of individual T cells in the tumor microenvironment. Here, we introduce a spatial TCR profiling strategy that resolves individual T cell clones together with their transcriptional states at single-cell resolution and applied the method to human head and neck squamous cell carcinoma. Presumed tumor-specific T cells were broadly dispersed throughout the tumor microenvironment, and cells of the same clone occupied distinct transcriptional states in different locations: Immune-rich regions contained more plastic or progenitor cells, whereas tumor-dense regions were enriched for exhausted states. Patients exhibited notably different spatial architectures of antitumor T cell responses, revealing variation that was not captured by high-...",
-      "date": "2026-04-10",
-      "year": 2026,
-      "journal": "Science Immunology",
-      "source": "Science Immunology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1126/sciimmunol.aec3133",
-      "doi": "10.1126/sciimmunol.aec3133",
-      "pdfUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13138865/",
-      "keywords": [
-        "T-cell receptor",
-        "Biology",
-        "Flow cytometry",
-        "T cell",
-        "Transcriptome",
-        "Single-cell and spatial transcriptomics",
-        "Cancer Immunotherapy and Biomarkers",
-        "CAR-T cell therapy research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:59.253092+00:00"
+      "_retrievedAt": "2026-07-07T09:58:41.150245+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2468,231 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:58.440558+00:00"
-    },
-    {
-      "id": "openalex-e80ab870ed69",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Synthetic super-enhancers enable precision viral immunotherapy",
-      "authors": "Ute Koeber, Mantas Matjusaitis, Neza Alfazema, Katharine Furlong, Zeyu Wang, R. Clyde White",
-      "abstract": "Abstract Cell-type-specific promoters are used in gene therapy to restrict expression of the therapeutic payload. However, these promoters often have suboptimal strength, selectivity and size. Here, leveraging recent insights into the function of enhancers, we developed synthetic super-enhancers (SSEs) by assembling functionally validated enhancer fragments into multipart arrays. Focusing on the core SOX2-driven and SOX9-driven transcriptional regulatory network in glioblastoma stem cells (GSCs) 1 , we engineered SSEs with robust activity and high selectivity. Single-cell profiling, biochemical analyses and genome-binding data indicated that SSEs integrate neurodevelopmental and signalling-state transcription factors to trigger the formation of large multimeric complexes of transcription factors. Moreover, GSC-selective expression of a combination of cytotoxic (HSV-TK and ganciclovir)...",
-      "date": "2026-04-08",
-      "year": 2026,
-      "journal": "Nature",
-      "source": "Nature",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41586-026-10329-6",
-      "doi": "10.1038/s41586-026-10329-6",
-      "pdfUrl": "https://doi.org/10.1038/s41586-026-10329-6",
-      "keywords": [
-        "Enhancer",
-        "Computational biology",
-        "Promoter",
-        "Transcription factor",
-        "Transgene",
-        "Virus-based gene therapy research",
-        "Single-cell and spatial transcriptomics",
-        "RNA Interference and Gene Delivery"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:59.253736+00:00"
-    },
-    {
-      "id": "openalex-178ac453ea4b",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Seasonal controls on groundwater irrigation quality in a semi-arid granitic watershed of Telangana, India: an integrated IWQI-GIS-multivariate approach",
-      "authors": "Mamatha Ullengula, Ratnakar Dhakate, N. Subba Rao, Pradeep Kumar Badapalli, Karuturi Venkata Suryabhagavan, Sakram Gugulothu",
-      "abstract": "Groundwater is a vital resource for irrigation in arid and semi-arid regions. This study evaluates groundwater suitability for irrigation in the granitic watershed of Dilawarpur Mandal, Nirmal District, Telangana, India, using 61 groundwater samples collected during pre- and post-monsoon seasons. Major physicochemical parameters (pH, EC, TDS, Ca 2+ , Mg 2+ , Na + , K + , HCO 3 − , Cl − , SO 4 2− , and F − ) were analysed. Irrigation suitability was assessed using the Irrigation Water Quality Index ( IWQI ) in conjunction with EC, %Na⁺ , SAR , SSP , KR , MHR , PI , and RSC . Multivariate statistical techniques, including Pearson correlation, Principal Component Analysis (PCA), Hierarchical Cluster Analysis (HCA), and Multiple Linear Regression (MLR), were applied to identify dominant hydrochemical controls and evaluate predictive relationships. Although elevated EC indicates moderate t...",
-      "date": "2026-04-08",
-      "year": 2026,
-      "journal": "Scientific Reports",
-      "source": "Scientific Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41598-026-46780-8",
-      "doi": "10.1038/s41598-026-46780-8",
-      "pdfUrl": "https://www.nature.com/articles/s41598-026-46780-8_reference.pdf",
-      "keywords": [
-        "Environmental science",
-        "Irrigation",
-        "Groundwater",
-        "Hydrology (agriculture)",
-        "Watershed",
-        "Groundwater and Isotope Geochemistry",
-        "Groundwater and Watershed Analysis",
-        "Soil and Land Suitability Analysis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:01.180081+00:00"
-    },
-    {
-      "id": "openalex-9b7c534bd9d9",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Future outlook of monthly maximum daily precipitation in Pakistan’s hydroclimatic zones: high-resolution insights from CMIP6 multimodel data",
-      "authors": "Muhammad Adnan, Firdos Khan, Muhammad Abbas, Fahad Shahzad, TianXiang Yue",
-      "abstract": "Extreme precipitation events are intensifying under climate change, driving escalating flood risks in some of the world’s most vulnerable regions. Pakistan is one of the most hydrologically diverse and flood-prone country, previous studies have largely emphasized seasonal or mean rainfall, leaving monthly maximum daily precipitation extremes (Rx1day at monthly resolution) underexplored, despite their direct role in triggering flash floods, landslides, and infrastructure failures. This study fills that gap by analyzing bias-corrected CMIP6 multi-model ensembles to project Rx1day-month precipitation extremes for SSP2-4.5 and SSP5-8.5 across seven hydroclimatic zones. Projections are assessed for the near future (2017–2044), mid-century (2045–2072), and late century (2073–2100), relative to the 1985–2014 baseline. Findings reveal strong spatial heterogeneity. Northern and northwestern hi...",
-      "date": "2026-04-04",
-      "year": 2026,
-      "journal": "Scientific Reports",
-      "source": "Scientific Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41598-026-45047-6",
-      "doi": "10.1038/s41598-026-45047-6",
-      "pdfUrl": "https://www.nature.com/articles/s41598-026-45047-6_reference.pdf",
-      "keywords": [
-        "Environmental science",
-        "Precipitation",
-        "Climatology",
-        "Meteorology",
-        "Atmospheric sciences",
-        "Climate variability and models",
-        "Hydrology and Drought Analysis",
-        "Precipitation Measurement and Analysis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:01.181644+00:00"
-    },
-    {
-      "id": "openalex-8d5e6bfc7e0b",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "A simple cell-cycle control system in Marchantia polymorpha provides a framework for understanding plant cell proliferation",
-      "authors": "Facundo Romani, Ignacy Bonter, Marius Rebmann, Go Takahashi, Fernando Guzman-Chavez, Francesco De Batté",
-      "abstract": "Eukaryotic cell division is controlled by cyclins and cyclin-dependent kinases (CDKs). The high number of cyclin-CDK pairs in flowering plants hinders functional analysis due to redundancy, and how this system might have worked in early land plant ancestors remains unresolved. Our phylogenetic analysis showed that non-seed plants have a simple system of cell cycle genes, suggesting that the complexity in seed plants is a derived feature. To explore simpler systems, we studied the liverwort Marchantia polymorpha, which possesses a reduced, nonredundant set of core cell cycle genes. Single-cell RNA-seq and live imaging of fluorescent reporters revealed phase-specific expression of cell cycle genes during cell division, characterized by 1 predominant cyclin per phase in the vegetative gametophyte, with limited overlap at transitions. Live imaging of tagged cyclins indicated that protein...",
-      "date": "2026-04-03",
-      "year": 2026,
-      "journal": "The Plant Cell",
-      "source": "The Plant Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1093/plcell/koag103",
-      "doi": "10.1093/plcell/koag103",
-      "pdfUrl": "https://doi.org/10.1093/plcell/koag103",
-      "keywords": [
-        "Biology",
-        "Multicellular organism",
-        "Cell cycle",
-        "Cyclin",
-        "Cell biology",
-        "Plant Molecular Biology Research",
-        "Microtubule and mitosis dynamics",
-        "Photosynthetic Processes and Mechanisms"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:59.254453+00:00"
-    },
-    {
-      "id": "openalex-08cf7139c39d",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Cell death in cancer",
-      "authors": "Marcus Conrad, Andreas Strasser, Philipp J. Jost, Junying Yuan, Feng Shao, Peter Vandenabeele",
-      "abstract": "\"Evasion of cell death\" is a hallmark of cancer, enabling transformed cells to withstand oncogenic and therapeutic stress. Restoring cancer cell death is an appealing strategy but requires a deep understanding of cell death programs. Over the past two decades, the cell death field has expanded from apoptosis to include necroptosis, pyroptosis, ferroptosis, and other emerging programs, reshaping cancer biology and revealing therapeutic opportunities. While apoptosis remains the primary radiation- and chemotherapy-induced cell death program, non-apoptotic programs can drive inflammatory responses and orchestrate the interplay among tumor, stroma, and immune components, influencing immunotherapy outcomes. Ferroptosis, an iron-dependent, lipid peroxidation-driven cell death modality, lacks a canonical induction signal and arises from perturbations in lipid, iron, and redox metabolism. Thi...",
-      "date": "2026-04-01",
-      "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.03.024",
-      "doi": "10.1016/j.cell.2026.03.024",
-      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.03.024",
-      "keywords": [
-        "Programmed cell death",
-        "Biology",
-        "Apoptosis",
-        "Cancer",
-        "Immunogenic cell death",
-        "Cell death mechanisms and regulation",
-        "Cancer and biochemical research",
-        "Phagocytosis and Immune Regulation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 10,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:00.236213+00:00"
-    },
-    {
-      "id": "openalex-718a89dc1f3c",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "New approach methodologies for drug discovery",
-      "authors": "Wenqiang Liu, Paul Pang, Catherine A. Wu, Danilo A. Tagle, Joseph C. Wu",
-      "abstract": "Traditional animal-based drug discovery has high failure rates, prompting the search for and adoption of human-centered new approach methodologies (NAMs). Rapid advances in stem cell-, organoid-, and in silico-based NAMs, supported by evolving frameworks from the National Institutes of Health (NIH) and the Food and Drug Administration (FDA), now span the entire drug-discovery continuum, from disease modeling and drug design to efficacy testing. Our review highlights recent progress across these domains, including the identification of therapeutic candidates, the development of cutting-edge models and technologies, and the potential of NAMs themselves as treatments in preclinical and clinical contexts, while examining the key biological, technical, and regulatory bottlenecks that need to be addressed to enable robust translational adoption. We conclude by discussing the translational a...",
-      "date": "2026-04-01",
-      "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.02.012",
-      "doi": "10.1016/j.cell.2026.02.012",
-      "pdfUrl": "https://www.cell.com/cell/pdf/S0092-8674(26)00217-5.pdf",
-      "keywords": [
-        "Drug discovery",
-        "Biology",
-        "Drug development",
-        "Translational research",
-        "Paradigm shift",
-        "Computational Drug Discovery Methods",
-        "Cancer Research and Treatment",
-        "Molecular spectroscopy and chirality"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:59.251076+00:00"
-    },
-    {
-      "id": "openalex-7ecbe579840c",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Multi‐Indicator Assessment to Assess the Increasing Impacts of Compound Dry and Hot Events on Global Wheat Yield",
-      "authors": "Jinpeng Hu, Rastislav Skalský, Gangfeng ZHANG, Christian Folberth, Peijun Shi",
-      "abstract": "Abstract In a warming climate, the co‐occurrence of drought and heat events increasingly threatens the global wheat yield and food security. However, changes in compound dry and hot events (CDHEs) during the global wheat growing season and their impacts on yield remain largely unknown. Using daily ERA5 reanalysis data, multiple drought indicators including the standardized precipitation index, standardized precipitation evapotranspiration index, standardized soil moisture index (SSI), and heat indicators the standardized temperature index and standardized soil temperature index (SSTI), are compared to assess the evolution of CDHEs and their impacts on wheat yield in major wheat‐producing regions (1981–2020). The results indicate significant increases in the frequency, duration, and intensity of global CDHEs, with the most pronounced increases experienced in arid and semiarid regions (...",
-      "date": "2026-03-31",
-      "year": 2026,
-      "journal": "Earth s Future",
-      "source": "Earth s Future",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1029/2025ef007084",
-      "doi": "10.1029/2025ef007084",
-      "pdfUrl": "https://doi.org/10.1029/2025ef007084",
-      "keywords": [
-        "Environmental science",
-        "Evapotranspiration",
-        "Precipitation",
-        "Anomaly (physics)",
-        "Yield (engineering)",
-        "Climate change impacts on agriculture",
-        "Hydrology and Drought Analysis",
-        "Climate variability and models"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:01.180500+00:00"
+      "_retrievedAt": "2026-07-07T09:58:41.149975+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2724,71 +2116,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:58.439403+00:00"
-    },
-    {
-      "id": "openalex-d33fed344664",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "T cell adaptation in chronic infections and tumors",
-      "authors": "Hendrik Luxenburger, R Thimme, Maike Hofmann",
-      "abstract": "Abstract Chronic viral infections and cancer challenge immune control by enforcing sustained antigen exposure, which profoundly alters the fate and function of CD8 + T cells. In contrast to acute infections, which induce robust effector differentiation and durable immune memory, persistent infections and tumors drive CD8 + T cells into distinct states of functional adaptation. The best studied chronic adaptation is T cell exhaustion, which is characterized by impaired effector functions, reduced proliferative capacity, sustained expression of inhibitory receptors, and stable transcriptional and epigenetic reprogramming. T cell exhaustion is not a uniform or terminal condition but comprises heterogeneous and dynamic cellular states, including stem-like/precursor populations that retain self-renewal capacity and therapeutic responsiveness. These insights have reshaped our understanding...",
-      "date": "2026-03-30",
-      "year": 2026,
-      "journal": "Cellular and Molecular Immunology",
-      "source": "Cellular and Molecular Immunology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41423-026-01405-y",
-      "doi": "10.1038/s41423-026-01405-y",
-      "pdfUrl": "https://www.nature.com/articles/s41423-026-01405-y.pdf",
-      "keywords": [
-        "Immune system",
-        "Reprogramming",
-        "Biology",
-        "Effector",
-        "Immunology",
-        "Cancer Immunotherapy and Biomarkers",
-        "CAR-T cell therapy research",
-        "T-cell and B-cell Immunology"
-      ],
-      "readTime": "1 min",
-      "citedBy": 8,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:00.236846+00:00"
-    },
-    {
-      "id": "openalex-18e8a6f615a1",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Expansion of Antarctic surface melt through the 21st century",
-      "authors": "Yaowen Zheng, Nicholas R. Golledge, Alexandra Gossart, Shoujuan Shu",
-      "abstract": "Climate models show that Antarctic surface melt will increase through the current century. Surface melting changes ice sheet albedo, the availability of liquid water for endemic and invasive species, and may even accelerate ice shelf collapse and global sea level rise. Here we show, using 1 km downscaled projections of potential Antarctic surface melt, that the total area experiencing surface melt will expand by more than 10% by 2100 under a Shared Socio-economic Pathway 3-7.0 scenario, with increased potential melt totals likely to threaten the viability of ice shelves mostly in the West Antarctic Peninsula and Amundsen Sea Embayment, through an elevated risk of hydrofracture. By calculating the latitudinal rate of melt migration we also find that Shared Socio-economic Pathway 1-2.6 is the only emissions scenario under which the rate of future Antarctic surface melt expansion will st...",
-      "date": "2026-03-30",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-71114-7",
-      "doi": "10.1038/s41467-026-71114-7",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-71114-7_reference.pdf",
-      "keywords": [
-        "Geology",
-        "Surface (topology)",
-        "Climate change",
-        "Environmental science",
-        "Earth science",
-        "Polar Research and Ecology",
-        "Arctic and Russian Policy Studies",
-        "Calcium Carbonate Crystallization and Inhibition"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:01.182679+00:00"
+      "_retrievedAt": "2026-07-07T09:58:41.148814+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -2820,7 +2148,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:58.437690+00:00"
+      "_retrievedAt": "2026-07-07T09:58:41.147064+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2852,743 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:58.438717+00:00"
-    },
-    {
-      "id": "openalex-b474cf7a55f6",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Histone deacetylases and cell-cycle regulators orchestrate cell-identity transitions during Arabidopsis root regeneration",
-      "authors": "Ramin Rahni, Laura R. Lee, Graeme Vissers, Indie Suresh, Brandon M.l. Gorodokin, Pui-Leng Ip",
-      "abstract": "The widespread regenerative capacity of plants is mediated by the ability of specialized cells to reprogram their fate, but the sequential cellular states of regenerating plant cells remain an open question. Here, we characterize the trajectory of cellular reprogramming during Arabidopsis root regeneration using single-cell RNA sequencing, ATAC sequencing, imaging, and mutant analysis. The earliest events during regeneration are dependent on repressive chromatin modification, where Multiome and genetic analysis showed that class I histone deacetylases (HDACs) HDA9 and HDA19 play a role in shutting down old identities and to prevent a runaway stress response. Cell division mediates a second step needed for the acquisition of many new identity markers, where division rates were tuned by the DOF transcription factor OBP1 that accelerates and SMR5, SMR7, and SMR10 that decelerate division...",
-      "date": "2026-03-25",
-      "year": 2026,
-      "journal": "Molecular Plant",
-      "source": "Molecular Plant",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.molp.2026.03.013",
-      "doi": "10.1016/j.molp.2026.03.013",
-      "pdfUrl": "https://doi.org/10.1016/j.molp.2026.03.013",
-      "keywords": [
-        "Biology",
-        "Histone",
-        "Arabidopsis",
-        "Cell biology",
-        "Regeneration (biology)",
-        "Plant Molecular Biology Research",
-        "Plant Gene Expression Analysis",
-        "Histone Deacetylase Inhibitors Research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:59.252792+00:00"
-    },
-    {
-      "id": "openalex-6ae4c848022b",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Conserved Pathways, Divergent Outcomes: A Cross-Species Genomic Perspective on the Cancer–Neurodegeneration Paradox",
-      "authors": "Bhargavi Rajarathinam, Durga Nandan, Parvathy Venugopal, Amritha M Nair, Subin P. John, Bipin G. Nair",
-      "abstract": "Neurodegeneration and cancer are fundamentally distinct disorders: one signifies gradual neuronal loss while the latter signifies uncontrolled cell growth and survival. However, emerging evidence explores an inverse association between these conditions, suggesting that they do not arise from independent biological processes. Understanding the context-dependent behaviour of major pathways (for example, p53, PI3K/AKT/mTOR, Wnt, and immune-stress signaling) remains pivotal in elucidating the relationship between these two diseases. Pathways promoting early-life fitness, tissue repair, and tumor suppression in dividing cells can become detrimental later in life for post-mitotic neurons. Cross-species genomics studies reveal how evolution has repeatedly adapted these shared networks to balance cancer resistance with survival. Research on species exhibiting exceptional longevity and disease...",
-      "date": "2026-03-25",
-      "year": 2026,
-      "journal": "International Journal of Molecular Sciences",
-      "source": "International Journal of Molecular Sciences",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/ijms27072989",
-      "doi": "10.3390/ijms27072989",
-      "pdfUrl": "https://www.mdpi.com/1422-0067/27/7/2989/pdf?version=1774446857",
-      "keywords": [
-        "Biology",
-        "Longevity",
-        "Genomics",
-        "Disease",
-        "Comparative genomics",
-        "Cancer, Stress, Anesthesia, and Immune Response",
-        "Cancer-related Molecular Pathways",
-        "Neurogenesis and neuroplasticity mechanisms"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:59.255645+00:00"
-    },
-    {
-      "id": "openalex-fe66a37ab208",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Biohacking the human gut microbiome for precision health and therapeutic innovation",
-      "authors": "Jhommara Bautista, Andrés López-Cortés",
-      "abstract": "Biohacking, the self-directed application of biotechnology, digital tools, and lifestyle interventions, has rapidly converged with gut microbiome science to create adaptive, individualized, and minimally invasive precision-health paradigms. This narrative review integrates current evidence on diet-based modulation, microbial therapeutics (probiotics, prebiotics, postbiotics, and fecal microbiota transplantation), and synthetic-biology approaches (engineered strains and phage or synthetic consortia) within a multi-omics and continuous-phenotyping framework. Mechanistically, short-chain fatty acids (SCFAs), bile-acid derivatives, and tryptophan catabolites operate as endocrine-like mediators linking gut microbial ecology with host immunity, metabolism, and neuroendocrine signaling. Pathways mediated by microbial metabolites underpin translational applications that span metabolic optimiz...",
-      "date": "2026-03-24",
-      "year": 2026,
-      "journal": "Frontiers in Microbiology",
-      "source": "Frontiers in Microbiology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fmicb.2026.1776983",
-      "doi": "10.3389/fmicb.2026.1776983",
-      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1776983/pdf",
-      "keywords": [
-        "Microbiome",
-        "Biology",
-        "Computational biology",
-        "Translational research",
-        "Fecal bacteriotherapy",
-        "Gut microbiota and health",
-        "Clostridium difficile and Clostridium perfringens research",
-        "Cancer Research and Treatments"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:59.252488+00:00"
-    },
-    {
-      "id": "openalex-52ea9f4aa286",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Integrative molecular diagnostics for HPV-driven cervical carcinogenesis: a translational review of mechanisms and multimodal risk stratification",
-      "authors": "Deema Fallatah, H. A. Adekola",
-      "abstract": "Despite effective prophylactic vaccines, high-risk human papillomavirus (HPV) infection remains a leading cause of cervical cancer, particularly in regions with limited screening access. Conventional methods, including cytology and HPV DNA testing, lack specificity for identifying lesions at high risk of progression, resulting in overtreatment. This narrative translational review synthesizes current evidence on integrating complementary molecular modalities to improve risk stratification along the biological continuum from HPV infection to malignancy. Persistent high-risk HPV drives carcinogenesis via viral oncoprotein activity, host DNA damage response (DDR) dysregulation, and epigenetic remodeling, yet no single biomarker captures this complexity. Quantitative PCR sensitively detects viral DNA load but not transforming activity; immunocytochemistry for p16INK4a/Ki-67 reflects oncoge...",
-      "date": "2026-03-23",
-      "year": 2026,
-      "journal": "Frontiers in Oncology",
-      "source": "Frontiers in Oncology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fonc.2026.1803942",
-      "doi": "10.3389/fonc.2026.1803942",
-      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/oncology/articles/10.3389/fonc.2026.1803942/pdf",
-      "keywords": [
-        "Molecular diagnostics",
-        "Computational biology",
-        "Epigenetics",
-        "Medicine",
-        "Bioinformatics",
-        "Cervical Cancer and HPV Research",
-        "Reproductive tract infections research",
-        "Endometrial and Cervical Cancer Treatments"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:59.256031+00:00"
-    },
-    {
-      "id": "openalex-66c07f9c3579",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "AP-1 mediates cellular adaptation and memory formation",
-      "authors": "Jingxin Li, Pavithran T. Ravindran, Aoife O’Farrell, Gianna T. Busch, Ryan H. Boe, Zijian Niu",
-      "abstract": "Cellular responses to environmental stimuli are typically thought to be governed by genetically encoded programs. We demonstrate that cancer cells can form and maintain cellular memories when becoming drug resistant, exhibiting characteristics of cellular learning that are dependent on the transcription factor AP-1. We show that cells exposed to a low dose of therapy adapt to become resistant to a high dose, demonstrating that cells can adapt during this time of stress. The application of therapy itself results in the encoding of transient gene expression into cellular memory and that this encoding occurs for both transiently induced and probabilistically arising expression. Chromatin accessibility shows concomitant persistence. A two-color AP-1 reporter system shows that these memories are encoded in cis, constituting an example of activating cis epigenetics. Our findings establish t...",
-      "date": "2026-03-20",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-70862-w",
-      "doi": "10.1038/s41467-026-70862-w",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-70862-w_reference.pdf",
-      "keywords": [
-        "Chromatin",
-        "Cellular adaptation",
-        "Transcription factor",
-        "Cell biology",
-        "Biology",
-        "Pluripotent Stem Cells Research",
-        "Protein Degradation and Inhibitors",
-        "Cancer, Stress, Anesthesia, and Immune Response"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:59.253382+00:00"
-    },
-    {
-      "id": "openalex-c2ed165c8d47",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "An expanded reference catalog of translated open reading frames for biomedical research",
-      "authors": "Sonia Chothani, Jorge Ruiz-Orera, Jack A S Tierney, Michal I Swirski, Hakon Tjeldnes, Leron W Kok",
-      "abstract": "Non-canonical (i.e. unannotated) open reading frames (ncORFs) have until recently been omitted from reference genome annotations, despite evidence of their translation, limiting their incorporation into biomedical research. To address this, in 2022, we initiated the TransCODE consortium and built the first community-driven consensus catalog of human ncORFs, which was openly distributed to the research community via Ensembl-GENCODE. While this catalog represented a starting point for reference ncORF annotation, major technical and scientific issues remained. In particular, this initial catalog had no standardized framework to judge the evidence of translation for individual ncORFs. Here, we present an expanded and refined catalog of the human reference annotation of ncORFs. By incorporating more datasets and by lifting constraints on ORF length and start codon, we define a comprehensiv...",
-      "date": "2026-03-19",
-      "year": 2026,
-      "journal": "Nucleic Acids Research",
-      "source": "Nucleic Acids Research",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1093/nar/gkag234",
-      "doi": "10.1093/nar/gkag234",
-      "pdfUrl": "https://doi.org/10.1093/nar/gkag234",
-      "keywords": [
-        "Annotation",
-        "Computer science",
-        "Reading (process)",
-        "Set (abstract data type)",
-        "Information retrieval",
-        "RNA and protein synthesis mechanisms",
-        "Genomics and Phylogenetic Studies",
-        "Biomedical Text Mining and Ontologies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:59.252096+00:00"
-    },
-    {
-      "id": "openalex-568c4ca27e3e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "A hybrid deep learning approach integrating CNN and transformer for lung cancer classification using CT scans",
-      "authors": "Samia Nawaz Yousafzai, Inzamam Mashood Nasir, Sahar Mansour, Noha Negm, Asma A. Alhashmi, Mohannad Alharbi",
-      "abstract": "Lung cancer is an extremely fatal kind of cancer, resulting in the deaths of almost 7.6 million individuals annually around the globe. Nevertheless, a timely diagnosis is a crucial necessity for enhancing the likelihood of human survival. Regarding tumor identification, CT scans are normally used to identify affected areas. Nevertheless, CT imaging face significant problems such as poor visibility of tumor locations and high false negative rates. The small dataset size of medical imaging makes it challenging to capture local lesion features by iterative training, considering all input features equally. This work integrates Convolutional Neural Network (CNN) and Improved Swin Transformer (C-Swin), a deep learning model that extracts and integrates fine-grained local and global features. C-Swin has Transformer encoder and a CNN module. The CNN module extracts local features, whereas the...",
-      "date": "2026-03-17",
-      "year": 2026,
-      "journal": "Scientific Reports",
-      "source": "Scientific Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41598-026-41161-7",
-      "doi": "10.1038/s41598-026-41161-7",
-      "pdfUrl": "https://www.nature.com/articles/s41598-026-41161-7_reference.pdf",
-      "keywords": [
-        "Deep learning",
-        "Artificial intelligence",
-        "Computer science",
-        "Lung cancer",
-        "Transformer",
-        "Lung Cancer Diagnosis and Treatment",
-        "Radiomics and Machine Learning in Medical Imaging",
-        "COVID-19 diagnosis using AI"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:00.239539+00:00"
-    },
-    {
-      "id": "openalex-2ee9b3321b5d",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Nanoparticles-based phototherapy systems: molecular mechanisms and clinical applications",
-      "authors": "Deepak S. Chauhan, Rajendra Prasad, Mukesh Dhanka, Navneet Kaur, Hitasha Vithalani, Kaveesha Liyanapathirana",
-      "abstract": "Nanoparticle-based phototherapy represents a paradigm shift in precision medicine, harnessing light-activated mechanisms to modulate cellular pathways across a spectrum of diseases. By integrating nanoparticles, phototherapeutic modalities achieve enhanced light absorption and improved targeting and amplification effects, such as reactive oxygen species generation in photodynamic therapy and localized heating in photothermal therapy. Gold nanoparticles and hybrid constructs have attracted considerable attention in both photothermal and photodynamic therapies, while delivery platforms, such as liposomes and dendrimers, fine-tune biodistribution and release kinetics. At the molecular level, phototherapy induces oxidative stress, triggers apoptotic and autophagic cascades and modulates immune responses by altering cytokine profiles and T-cell activity processes, which are critical not on...",
-      "date": "2026-03-16",
-      "year": 2026,
-      "journal": "Signal Transduction and Targeted Therapy",
-      "source": "Signal Transduction and Targeted Therapy",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41392-025-02536-w",
-      "doi": "10.1038/s41392-025-02536-w",
-      "pdfUrl": "https://www.nature.com/articles/s41392-025-02536-w.pdf",
-      "keywords": [
-        "Photothermal therapy",
-        "Photodynamic therapy",
-        "Medicine",
-        "Nanotechnology",
-        "Computational biology",
-        "Nanoplatforms for cancer theranostics",
-        "Advanced Nanomaterials in Catalysis",
-        "Graphene and Nanomaterials Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:00.239147+00:00"
-    },
-    {
-      "id": "openalex-134f7f76ec80",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Review on tsunami research and risk mitigation: from prediction models to resilient coastal communities",
-      "authors": "Tianxing Ma, liangxu shen, Zejian Chen, Dongfang Liang",
-      "abstract": "Abstract Tsunami science is moving from standalone physics simulations to integrated forecasting and risk-governance frameworks. This review synthesizes advances in multi-source observations, signal detection, propagation and inundation modeling, physics–AI hybrid prediction, and real-time warning workflows. It further discusses uncertainty communication, decision support, and pathways for linking forecast systems with resilient coastal planning and community preparedness.",
-      "date": "2026-03-16",
-      "year": 2026,
-      "journal": "npj natural hazards.",
-      "source": "npj natural hazards.",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s44304-026-00195-7",
-      "doi": "10.1038/s44304-026-00195-7",
-      "pdfUrl": "https://www.nature.com/articles/s44304-026-00195-7.pdf",
-      "keywords": [
-        "Predictive modelling",
-        "Warning system",
-        "Environmental science",
-        "Environmental resource management",
-        "Decision support system",
-        "Tropical and Extratropical Cyclones Research",
-        "earthquake and tectonic studies",
-        "Flood Risk Assessment and Management"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:01.178820+00:00"
-    },
-    {
-      "id": "openalex-a2a154306336",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Spatiotemporal characteristics and driving factors of soil erosion in the Kangding River Basin (Southwest China) based on the RUSLE model",
-      "authors": "Yuqi Guan, Xiong Duan, Qinglian Deng, Bin Chen, Bingrui Su, Kun Zeng",
-      "abstract": "Soil erosion is one of the most widespread environmental issues globally, posing serious threats to ecosystems and land resources. This study employs precipitation, soil, digital elevation model, and land-use data from 2000 to 2020 to quantitatively analyze the spatiotemporal patterns of land-use change and soil erosion in the Kangding River Basin through GIS-based spatial analysis and the RUSLE (Revised Universal Soil Loss Equation) model, and to evaluate soil stability across the watershed. Furthermore, using Geographical Detector (including single-factor detection and dual-factor interaction detection) and the SHAP (SHapley Additive exPlanations) algorithm to analyze the optimal machine learning model enables the assessment of the contribution of each driving factor to soil erosion. The results revealed that: (1) From 2000 to 2020, the areas of woodland and water body exhibited a d...",
-      "date": "2026-03-16",
-      "year": 2026,
-      "journal": "PLoS ONE",
-      "source": "PLoS ONE",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1371/journal.pone.0344489",
-      "doi": "10.1371/journal.pone.0344489",
-      "pdfUrl": "https://doi.org/10.1371/journal.pone.0344489",
-      "keywords": [
-        "Environmental science",
-        "Woodland",
-        "Erosion",
-        "Drainage basin",
-        "Hydrology (agriculture)",
-        "Soil erosion and sediment transport",
-        "Land Use and Ecosystem Services",
-        "Groundwater and Watershed Analysis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:01.181211+00:00"
-    },
-    {
-      "id": "openalex-050e5d69ef85",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "The role of agentic artificial intelligence in healthcare: a scoping review",
-      "authors": "Bernardo G. Collaco, Syed Ali Haider, Srinivasagam Prabha, Cesar A. Gomez-Cabello, Ariana Genovese, Nadia Wood",
-      "abstract": "Agentic AI represents a promising evolution of artificial intelligence in healthcare, with systems capable of operating autonomously to achieve defined clinical goals. However, the literature lacks conceptual clarity in distinguishing AI agents from Agentic AI, and few studies have rigorously explored their applications. We conducted a scoping review across five databases, identifying seven eligible studies spanning emergency medicine, oncology, radiology, and rehabilitation. The included systems demonstrated features such as autonomous operation, goal-directed behavior, action initiation, and, in some cases, multi-agent collaboration. Reported outcomes included high accuracy in cancer diagnosis, treatment planning, alert generation, coaching, and workflow optimization. Despite promising results, most studies were exploratory, limited in scope, and lacked robust clinical validation, w...",
-      "date": "2026-03-14",
-      "year": 2026,
-      "journal": "npj Digital Medicine",
-      "source": "npj Digital Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41746-026-02517-5",
-      "doi": "10.1038/s41746-026-02517-5",
-      "pdfUrl": "https://www.nature.com/articles/s41746-026-02517-5_reference.pdf",
-      "keywords": [
-        "Psychology",
-        "Artificial intelligence",
-        "Computer science",
-        "Agency (philosophy)",
-        "Cognitive science",
-        "Artificial Intelligence in Healthcare and Education",
-        "Machine Learning in Healthcare",
-        "Artificial Intelligence in Healthcare"
-      ],
-      "readTime": "1 min",
-      "citedBy": 8,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:00.236530+00:00"
-    },
-    {
-      "id": "openalex-5ea2e0ac50cc",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Reactive oxygen species in health and disease",
-      "authors": "Yaoxing Ren, Jitian Li, Xiaofeng Dai",
-      "abstract": "The traditional view of reactive oxygen species (ROS) as uniform toxicants has been superseded by the recognition of a fundamental radical/non-radical dichotomy. As radical and non-radical ROS differ in spatial and kinetic behaviors that dictate cellular impacts, understanding this dichotomy is essential for the design of ROS-targeting therapies. However, the roles of specific ROS types under physiological and pathological conditions remain inadequately defined, hindering precise clinical translation. By organizing ROS sources, neutralizing systems, reaction kinetics, biological effects, and therapeutic strategies along a radical versus non-radical axis, this review clarifies their unique and shared attributes to facilitate effective exploitation for health and disease management. Radical species, being short-lived and membrane-confined, operate locally at near-diffusion-limited rates...",
-      "date": "2026-03-13",
-      "year": 2026,
-      "journal": "Molecular Biomedicine",
-      "source": "Molecular Biomedicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s43556-026-00419-2",
-      "doi": "10.1186/s43556-026-00419-2",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s43556-026-00419-2.pdf",
-      "keywords": [
-        "Reactive oxygen species",
-        "Oxidative stress",
-        "Disease",
-        "Redox",
-        "Radical",
-        "Redox biology and oxidative stress",
-        "Nanoplatforms for cancer theranostics",
-        "Electron Spin Resonance Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:00.238432+00:00"
-    },
-    {
-      "id": "openalex-69ef9859ea67",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Bacteriophages targeting Acinetobacter baumannii in the era of antibiotic failure: a review",
-      "authors": "Jamil Allen G. Fortaleza, Kevin Smith P. Cabuhat, S.-J. Kim, Ferdinand A Mortel, Grace D. Bacalzo, Jose Jurel M. Nuevo",
-      "abstract": "Acinetobacter baumannii has become a prominent healthcare-associated pathogen due to its exceptional environmental persistence, biofilm-forming capacity, and the global emergence of multidrug-resistant (MDR), extensively drug-resistant (XDR), and pan-drug-resistant lineages. The declining effectiveness of conventional antibiotics has renewed interest in bacteriophage-based strategies as alternative or adjunctive antimicrobial approaches. This review provides a comprehensive synthesis of recent advances in bacteriophages targeting A. baumannii , integrating microbiological, structural, immunological, and translational perspectives that shape therapeutic efficacy and resistance dynamics. We highlight the central role of bacterial surface structures, including capsular polysaccharides, outer membrane proteins, and lipooligosaccharides, which act simultaneously as virulence determinants,...",
-      "date": "2026-03-12",
-      "year": 2026,
-      "journal": "Frontiers in Microbiology",
-      "source": "Frontiers in Microbiology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fmicb.2026.1778984",
-      "doi": "10.3389/fmicb.2026.1778984",
-      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1778984/pdf",
-      "keywords": [
-        "Phage therapy",
-        "Antibiotics",
-        "Acinetobacter baumannii",
-        "Antibiotic resistance",
-        "Biology",
-        "Bacteriophages and microbial interactions",
-        "Cancer Research and Treatments",
-        "Monoclonal and Polyclonal Antibodies Research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:59.254969+00:00"
-    },
-    {
-      "id": "openalex-59f3240e8b8c",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Vast, overlooked peat, and organic soils in Brazil's Cerrado: carbon storage, dynamics, and stability",
-      "authors": "Larissa Verona, Amy E. Zanne, Susan Trumbore, Paulo N. Bernardino, Guilherme M. Alencar, Thalia Andreuccetti",
-      "abstract": "Summary Tropical peatlands are critical for climate mitigation due to their dual role as major carbon sinks and methane sources. In rainforests, high and stable rainfall supports peat accumulation in tropical climates. However, groundwater‐fed peatlands in seasonally dry tropical ecosystems remain poorly understood, despite their potential importance in global carbon dynamics. Here, we present an integrated carbon assessment in organic soil ecosystems (locally known as Veredas and Campos úmidos) in the Brazilian savanna. We quantified carbon in soil and biomass, dated carbon using radiocarbon, and evaluated chemical stability using infrared spectrometry. We used machine learning models to map their potential area. Additionally, we measured soil CO 2 and CH 4 efluxes to evaluate the influence of climatic seasonality on emissions. Veredas contained exceptionally high carbon stocks ( c....",
-      "date": "2026-03-12",
-      "year": 2026,
-      "journal": "New Phytologist",
-      "source": "New Phytologist",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1111/nph.71027",
-      "doi": "10.1111/nph.71027",
-      "pdfUrl": "https://doi.org/10.1111/nph.71027",
-      "keywords": [
-        "Peat",
-        "Environmental science",
-        "Ecosystem",
-        "Soil carbon",
-        "Carbon fibers",
-        "Peatlands and Wetlands Ecology",
-        "Fire effects on ecosystems",
-        "Coastal wetland ecosystem dynamics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:01.178147+00:00"
-    },
-    {
-      "id": "openalex-4b1dee987f4c",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Network pharmacology in the multi-omics era: uncovering novel therapeutic strategies",
-      "authors": "Kalyani Ramprasad Thombre, Vaishnavi Gabhane, Krishna R. Gupta, Milind Janrao Umekar",
-      "abstract": "Network pharmacology signifies a paradigm shift from the conventional “one-drug, one-target” model toward a systems-oriented framework that captures the multifactorial nature of disease. By integrating computational modeling, bioinformatics, and multi-omics technologies—spanning genomics, proteomics, and metabolomics it enables the systematic mapping and mechanistic interrogation of complex biological networks. Advanced in silico approaches, including molecular docking, network propagation algorithms, and topology-based analyses, facilitate the identification of pivotal targets and pathways, while artificial intelligence and deep learning enhance predictive accuracy. Open-access platforms such as STRING, STITCH, TCMSP, and DisGeNET support data integration, functional annotation, and hypothesis generation. Integrating these insights with chemical informatics and structure–activity rel...",
-      "date": "2026-03-11",
-      "year": 2026,
-      "journal": "Discover Chemistry.",
-      "source": "Discover Chemistry.",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s44371-026-00567-y",
-      "doi": "10.1007/s44371-026-00567-y",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s44371-026-00567-y.pdf",
-      "keywords": [
-        "Systems pharmacology",
-        "Identification (biology)",
-        "Computer science",
-        "Cheminformatics",
-        "Informatics",
-        "Computational Drug Discovery Methods",
-        "Bioinformatics and Genomic Networks",
-        "Metabolomics and Mass Spectrometry Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:59.250783+00:00"
-    },
-    {
-      "id": "openalex-74b7b8f03abe",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Brain-engrafted monocyte-derived macrophages from blood and skull-bone marrow exhibit distinct properties",
-      "authors": "Siling Du, Feiya Ou, Antoine Drieu, Eric Z. Xu, Yumeng Cheng, Steffen E. Storck",
-      "abstract": "Microglia arise from yolk sac progenitors and are thought to persist throughout life with minimal input from adult hematopoiesis. However, whether brain-engrafted monocyte-derived macrophages (MDMs) exist at homeostasis and during turnover and how they function relative to yolk-sac-derived microglia (YSMs) remain unsettled. Here, we combine lineage tracing, pharmacological microglia depletion, and multi-omics profiling to define the ontogeny, identity, and function of brain parenchymal macrophages. Despite sharing the parenchymal milieu, MDMs display transcriptional and epigenetic landscapes distinct from YSMs. Fate-mapping reveals that brain-engrafted MDMs transiently express CD206, echoing a developmental stage of microglial precursors. MDM engraftment and polarization are modulated by interleukin (IL)-34 and C-C chemokine receptor 2 (CCR2). Furthermore, parabiosis and skull-flap tr...",
-      "date": "2026-03-11",
-      "year": 2026,
-      "journal": "Neuron",
-      "source": "Neuron",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.neuron.2026.01.032",
-      "doi": "10.1016/j.neuron.2026.01.032",
-      "pdfUrl": "https://doi.org/10.1016/j.neuron.2026.01.032",
-      "keywords": [
-        "Chemistry",
-        "Macrophage",
-        "Cell biology",
-        "Molecular biology",
-        "Blood cell",
-        "Immune cells in cancer",
-        "Neuroinflammation and Neurodegeneration Mechanisms",
-        "Neurogenesis and neuroplasticity mechanisms"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:59.251374+00:00"
-    },
-    {
-      "id": "openalex-02623233bf3b",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Artificial intelligence-assisted spatial omics-based biomimetic nanoplatform for intelligent and precise intervention in the immunosuppressive core region of ovarian cancer",
-      "authors": "Jinke Li, W. G. Liu, Ying Mu, X. Wang, Hefeng Zhang, Kexin Tang",
-      "abstract": "Ovarian cancer (OC) ranks among the most aggressive malignancies of the female reproductive system. The immunosuppressive tumor microenvironment (TME) and pronounced spatial heterogeneity significantly restrict the efficacy of immunotherapy. Recent advances in single-cell omics and spatial transcriptomics (ST) have enabled the identification of immunosuppressive core regions within the TME at molecular and spatial levels. These regions often contain \"exclusion structures\" composed of regulatory T cells (Tregs), tumor-associated macrophages (TAMs), and myeloid-derived suppressor cells (MDSCs) in hypoxia-enriched niches. To achieve precise therapeutic modulation of these core microregions, researchers have developed biomimetic nanodrug platforms such as cell membrane-coated systems and exosome-based carriers. These platforms deliver immunoregulatory agents targeting programmed death-lig...",
-      "date": "2026-03-11",
-      "year": 2026,
-      "journal": "npj Precision Oncology",
-      "source": "npj Precision Oncology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41698-026-01345-w",
-      "doi": "10.1038/s41698-026-01345-w",
-      "pdfUrl": "https://www.nature.com/articles/s41698-026-01345-w_reference.pdf",
-      "keywords": [
-        "Identification (biology)",
-        "Adaptability",
-        "Computational biology",
-        "Tumor microenvironment",
-        "Computer science",
-        "Single-cell and spatial transcriptomics",
-        "Immune cells in cancer",
-        "Cancer Cells and Metastasis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:59.254107+00:00"
-    },
-    {
-      "id": "openalex-a6ecfeb4dd07",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Deep learning on histopathological images to predict breast cancer recurrence risk and chemotherapy benefit: a multicentre, model development and validation study",
-      "authors": "Gil Shamai, Shachar Cohen, Yoav Binenbaum, Edmond Sabo, Alexandra Cretu, Chen Mayer",
-      "abstract": "BACKGROUND: Genomic assays such as Oncotype DX have transformed adjuvant treatment selection for hormone receptor-positive, HER2-negative, early breast cancer but remain inaccessible to many patients because of high cost and logistical barriers. We aimed to develop and validate an artificial intelligence (AI) model that estimates Oncotype DX 21-gene recurrence scores directly from routine histopathology slides and clinicopathological variables. METHODS: ). The model was fine-tuned and validated on the TAILORx randomised trial (8284 patients after quality control). Prognostic and predictive performance was assessed in the TAILORx-test set and externally validated in six independent cohorts (Carmel, Haemek, and Sheba medical centres [Israel], the University of Chicago Medical Center [USA], the Australian Breast Cancer Tissue Bank [Australia], and the Cancer Genome Atlas Breast Invasive...",
-      "date": "2026-03-11",
-      "year": 2026,
-      "journal": "The Lancet Oncology",
-      "source": "The Lancet Oncology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/s1470-2045(25)00727-2",
-      "doi": "10.1016/s1470-2045(25)00727-2",
-      "pdfUrl": "https://doi.org/10.1016/s1470-2045(25)00727-2",
-      "keywords": [
-        "Medicine",
-        "Deep learning",
-        "Breast cancer",
-        "Artificial intelligence",
-        "Chemotherapy",
-        "AI in cancer detection",
-        "Digital Imaging for Blood Diseases",
-        "Radiomics and Machine Learning in Medical Imaging"
-      ],
-      "readTime": "2 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:00.237714+00:00"
-    },
-    {
-      "id": "openalex-f76e6332afee",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Integrating Computer Vision and GIS for Large-Scale Morphological Mapping and Driving Force Analysis of Vernacular Courtyard Dwellings",
-      "authors": "Lihua Liang, Xiaodong Li, Shutong Liu, Zhenhao Guo, Shuo Tang, Baohua Wen",
-      "abstract": "This study develops and applies an integrated methodology that combines deep learning-based computer vision and spatial statistics to automate the large-scale identification and analysis of morphological features in vernacular courtyard dwellings. Focusing on Liangshuaixiu dwellings in Wu’an, southern Hebei, we trained an HRNetV2 semantic segmentation model on high-resolution satellite imagery to identify and extract contours for 134,280 courtyard spaces. Core morphological parameters (area, orientation) were calculated and analyzed using GIS spatial statistics and the geographic detector model. The results show that (1) the computer vision pipeline achieved efficient recognition with satisfactory accuracy (~10% mean error); (2) spatial autocorrelation and hotspot analysis revealed distinct regional patterns, including a west–east increase in average courtyard area; and (3) geographic...",
-      "date": "2026-03-11",
-      "year": 2026,
-      "journal": "Buildings",
-      "source": "Buildings",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/buildings16061118",
-      "doi": "10.3390/buildings16061118",
-      "pdfUrl": "https://www.mdpi.com/2075-5309/16/6/1118/pdf?version=1773320289",
-      "keywords": [
-        "Vernacular",
-        "Segmentation",
-        "Geography",
-        "Spatial analysis",
-        "Computer science",
-        "Urban Design and Spatial Analysis",
-        "3D Surveying and Cultural Heritage",
-        "Remote Sensing and LiDAR Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:01.177010+00:00"
-    },
-    {
-      "id": "openalex-d7f83e5bb105",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Metabolic reprogramming in cancer: dysregulation of glucose, lipid, and amino acid pathways and therapeutic opportunities",
-      "authors": "Mingkang Yu, Di Yang, Xiuli Chen, Yuling Yang, Bingqiang Zhang, Xinxin Jiang",
-      "abstract": "Metabolic reprogramming is a hallmark of cancer, including hepatocellular carcinoma (HCC). Cancer cells exhibit enhanced glucose and glutamine uptake, increased glycolysis, pentose phosphate pathway activity, de novo lipogenesis, and altered amino acid metabolism. However, the metabolic crosstalk underlying cancer progression and the strategic directions for drug development remain insufficiently synthesized. This review systematically summarizes the functional mechanisms of key signaling regulators involved in cancer metabolic reprogramming, including mammalian target of rapamycin complex 1 (mTORC1), myelocytomatosis viral oncogene homolog (c-Myc), hypoxia-inducible factor-1α (HIF-1α), activating transcription factor 4 (ATF4), nuclear factor erythroid 2-related factor 2 (NRF2), and sterol regulatory element-binding protein 1 (SREBP1). Notably, we highlight the interconnections among...",
-      "date": "2026-03-10",
-      "year": 2026,
-      "journal": "Molecular Biomedicine",
-      "source": "Molecular Biomedicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s43556-026-00427-2",
-      "doi": "10.1186/s43556-026-00427-2",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s43556-026-00427-2.pdf",
-      "keywords": [
-        "Biology",
-        "Metabolic pathway",
-        "Glutaminolysis",
-        "Transcription factor",
-        "Cancer cell",
-        "Cancer, Hypoxia, and Metabolism",
-        "Cancer, Lipids, and Metabolism",
-        "Cancer Research and Treatments"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:00.238093+00:00"
-    },
-    {
-      "id": "openalex-e0603077dc92",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Physical activity for public health in the 21st century",
-      "authors": "Deborah Salvo, Inácio Crochemore-Silva, Andrea Wendt, Jakob Tarp, Eric J. Shiroma, Ruth Simpson",
-      "abstract": "With over 5 million attributed deaths per year, physical inactivity is a major global public health issue. Although the importance of physical activity is well recognized within the scope of obesity and cardiometabolic disease prevention and control, its broader benefits for the health of individuals and societies are yet to be fully harnessed. Furthermore, the role of active leisure, active transport and active labor-primary domains of physical activity-in supporting or hindering social and health equity has been largely overlooked. Here we (1) used a health equity lens to describe global domain-specific physical activity inequalities through an analysis of World Health Organization STEPwise approach to NCD risk factor surveillance (WHO STEPS) data from 68 countries; (2) summarized evidence linking physical activity with health outcomes beyond cardiometabolic disease, including immun...",
-      "date": "2026-03-09",
-      "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04237-5",
-      "doi": "10.1038/s41591-026-04237-5",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04237-5.pdf",
-      "keywords": [
-        "Public health",
-        "Health equity",
-        "Social determinants of health",
-        "Disadvantaged",
-        "Socioeconomic status",
-        "Physical Activity and Health",
-        "Health Promotion and Cardiovascular Prevention",
-        "Obesity, Physical Activity, Diet"
-      ],
-      "readTime": "1 min",
-      "citedBy": 14,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:00.235557+00:00"
-    },
-    {
-      "id": "openalex-4120c6f51ec1",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "The global regulator LaeA controls expression of genes involved in diverse primary and secondary metabolites biosynthesis and their secretion in fungi",
-      "authors": "Juan Francisco Martín, Katarína Kosalková, Paloma Liras",
-      "abstract": "LaeA is a global transcriptional regulator that differentially modulates expression of an impressive variety of secondary metabolite gene clusters in fungi, acting as a positive regulator fo some while repressing others. This regulator controls the production of fungal cellulolytic/ligninolytic enzymes and citric acid secretion in Ascomycetes. Also, it regulates the biosynthesis of siderophores and the antitumor agent ganoderic acid in Basidiomycetes. This regulator contains an S-adenosylmethionine-binding motif, suggesting a function as a methyltransferase, although its specific methylation substrate has not been identified. LaeA is a core component of the velvet complex, a five-membered proteins assembly that regulates fungal responses to light and environmental stresses. Within this complex, LaeA interacts with VeA, VosA and other velvet components forming dimers and trimers and th...",
-      "date": "2026-03-09",
-      "year": 2026,
-      "journal": "Frontiers in Microbiology",
-      "source": "Frontiers in Microbiology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fmicb.2026.1764309",
-      "doi": "10.3389/fmicb.2026.1764309",
-      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1764309/pdf",
-      "keywords": [
-        "Regulator",
-        "Biology",
-        "Gene",
-        "Secondary metabolite",
-        "Function (biology)",
-        "Fungal and yeast genetics research",
-        "Plant Gene Expression Analysis",
-        "Microbial Natural Products and Biosynthesis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:14:59.255291+00:00"
-    },
-    {
-      "id": "openalex-b2aeaeab5ec0",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "A Comprehensive Review of Machine Learning and Deep Learning Methods for Flood Inundation Mapping",
-      "authors": "Abinash SİLWAL, Anil Subedi, Rajee Tamrakar, Kshitij Dahal, Dewasis Dahal, Kenneth Okechukwu Ekpetere",
-      "abstract": "Flood inundation mapping (FIM) is essential in disaster risk management, infrastructure planning, and climate adaptation. Traditional hydrodynamic models, such as the Hydrologic Engineering Center’s River Analysis System (HEC-RAS) and LISFLOOD-Floodplain (LISFLOOD-FP), provide physically interpretable flood simulations but are often data- and computation-intensive and difficult to scale across regions. In recent years, machine learning (ML) and deep learning (DL) approaches have emerged as data-driven alternatives that leverage remote sensing observations, digital elevation models (DEMs), and hydro-climatic datasets to enable scalable and near-real-time flood mapping. Our review synthesizes recent advances in ML-based flood inundation mapping, categorizing methods into traditional machine learning techniques (e.g., Random Forest (RF), Support Vector Machines (SVM), Gradient Boosting (...",
-      "date": "2026-03-09",
-      "year": 2026,
-      "journal": "Earth",
-      "source": "Earth",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/earth7020044",
-      "doi": "10.3390/earth7020044",
-      "pdfUrl": "https://www.mdpi.com/2673-4834/7/2/44/pdf?version=1773048494",
-      "keywords": [
-        "Artificial intelligence",
-        "Machine learning",
-        "Deep learning",
-        "Flood myth",
-        "Computer science",
-        "Flood Risk Assessment and Management",
-        "Tropical and Extratropical Cyclones Research",
-        "Hydrological Forecasting Using AI"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-07T04:15:01.179641+00:00"
+      "_retrievedAt": "2026-07-07T09:58:41.148060+00:00"
     }
   ]
 }
