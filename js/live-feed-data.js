@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-07-08T08:42:28.007572+00:00",
+  "generatedAt": "2026-07-08T14:38:49.242112+00:00",
   "total": 112,
   "sources": [
     "RSS",
@@ -7,452 +7,484 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-e20f1742d4e0",
+      "id": "rss-71ed0b7deab8",
       "discipline": "clinical",
       "type": "news",
-      "title": "Dry mRNA vaccine patches reveal design rules for room-temperature storage",
+      "title": "Exhaustion and trauma, not just finances, are pushing families to have fewer kids",
       "authors": "Medical Xpress",
-      "abstract": "New research could help make future mRNA vaccines easier to store and distribute. The study, involving RMIT University, the Massachusetts Institute of Technology and Harvard Medical School, identified conditions that help protect the particles that carry mRNA in dry vaccine patches, offering practical guidance for future patch design.",
+      "abstract": "Exhaustion, trauma and the harsh realities of parenting are driving more Australian families to think twice about having another child.",
       "date": "2026-07-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-dry-mrna-vaccine-patches-reveal.html",
+      "url": "https://medicalxpress.com/news/2026-07-exhaustion-trauma-families-kids.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "mrna",
-        "vaccine",
-        "patches",
-        "design",
-        "help",
-        "future",
+        "exhaustion",
+        "trauma",
+        "families",
+        "just",
+        "finances",
+        "pushing",
+        "have",
+        "fewer"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-08T14:38:48.511372+00:00"
+    },
+    {
+      "id": "rss-b9c1252687b2",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Mechanism linking chronic inflammation to reduced brain regeneration identified",
+      "authors": "Medical Xpress",
+      "abstract": "A King's College London study, published in Nature Communications, offers insight into how long-term inflammation may contribute to cognitive decline in disorders such as Alzheimer's disease, aging, depression and the lingering neurological effects of viral infections.",
+      "date": "2026-07-08",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-mechanism-linking-chronic-inflammation-brain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "inflammation",
+        "mechanism",
+        "linking",
+        "chronic",
+        "reduced",
+        "brain",
+        "regeneration",
+        "identified"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-08T14:38:48.511644+00:00"
+    },
+    {
+      "id": "rss-eb297f9fcd34",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Single-night sleep apnea tests may misclassify patients, repeated monitoring suggests",
+      "authors": "Medical Xpress",
+      "abstract": "A single night of sleep testing may not be enough to diagnose sleep apnea, with new Flinders University research revealing that night-to-night variation can lead to missed or incorrect diagnoses. The study, published in npj Digital Medicine, found that analyzing sleep over multiple nights may provide a more accurate picture of obstructive sleep apnea (OSA), challenging the longstanding reliance on one-night sleep studies.",
+      "date": "2026-07-08",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-night-apnea-misclassify-patients.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "sleep",
+        "apnea",
         "that",
-        "reveal"
+        "single-night",
+        "tests",
+        "misclassify",
+        "patients",
+        "repeated"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.132084+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.511953+00:00"
     },
     {
-      "id": "rss-0bbc8a132de5",
+      "id": "rss-c93cc6801602",
       "discipline": "clinical",
       "type": "news",
-      "title": "Most veterans and service members who die by firearm suicide never disclose their intent",
+      "title": "The secret of human intelligence may lie in the power of a single brain cell",
       "authors": "Medical Xpress",
-      "abstract": "Most veterans and U.S. military service members who die by firearm suicide don't disclose their suicidal intentions in the month before their death, according to Rutgers researchers. Their study, published in The Journal of Crisis Intervention and Suicide Prevention, examined the patterns of 28,600 individuals with a history of military service who died by firearm suicide between 2013 and 2021. Using data from the National Violent Death Reporting System, researchers sought to understand how often service members and veterans communicated suicidal thoughts before their deaths, and when they did, whom they chose to tell.",
+      "abstract": "What makes the human brain capable of language, imagination, mathematics and invention? For many years, the prevailing view was that the secret of human intelligence lay mainly in scale: the sheer number of neurons in the human brain—close to 100 billion—and the vast network of connections among them. But a new study published in the Proceedings of the National Academy of Sciences suggests that part of the answer may lie at a much smaller scale: in the extraordinary computational power of individual brain cells.",
       "date": "2026-07-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-veterans-members-die-firearm-suicide.html",
+      "url": "https://medicalxpress.com/news/2026-07-secret-human-intelligence-power-brain.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "their",
-        "service",
-        "suicide",
-        "veterans",
-        "members",
-        "firearm",
-        "most",
-        "disclose"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.132457+00:00"
-    },
-    {
-      "id": "rss-0e798164754b",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Investigational drug that targets DNA damage help could treat Alzheimer's disease",
-      "authors": "Medical Xpress",
-      "abstract": "Accumulation of DNA damage in the brain's neurons may contribute to the development of Alzheimer's disease. New research in FEBS Open Bio demonstrates the therapeutic potential of a drug that targets this process.",
-      "date": "2026-07-08",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-drug-dna-alzheimer-disease.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "drug",
+        "human",
+        "brain",
+        "secret",
+        "intelligence",
+        "power",
         "that",
-        "targets",
-        "damage",
-        "alzheimer",
-        "disease",
-        "investigational",
-        "help"
+        "scale",
+        "single"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.132712+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.512281+00:00"
     },
     {
-      "id": "rss-bd54ad1ae95f",
+      "id": "rss-4214473453bd",
       "discipline": "clinical",
       "type": "news",
-      "title": "What research reveals about transmasculine pregnancy",
+      "title": "Study finds NFL players 4 times more likely to die due to neurodegenerative disease",
       "authors": "Medical Xpress",
-      "abstract": "A recent review of published research provides some evidence that a small but noteworthy minority of transmasculine people (trans, nonbinary, and other gender-expansive people who were assigned female at birth) have pregnancies (6%–9%) and children (4%–9%), including after transition. The systematic review published in Acta Obstetricia et Gynecologica Scandinavica also found possibly higher miscarriage rates and very little evidence on postnatal depression rates in transmasculine people who became pregnant.",
+      "abstract": "A new study from Mass General Brigham, Boston University and the Concussion & CTE Foundation found that National Football League (NFL) players had higher rates of neurodegenerative disease-caused mortality than the general population. A cohort study of nearly 20,000 NFL players revealed that, while players had lower mortality on average compared with national rates, they were four times more likely to experience neurodegenerative mortality. Results are published in eClinicalMedicine.",
       "date": "2026-07-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-reveals-transmasculine-pregnancy.html",
+      "url": "https://medicalxpress.com/news/2026-07-nfl-players-die-due-neurodegenerative.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "transmasculine",
-        "people",
-        "review",
-        "published",
-        "evidence",
-        "rates",
-        "what",
-        "reveals"
+        "players",
+        "neurodegenerative",
+        "mortality",
+        "times",
+        "more",
+        "likely",
+        "general",
+        "that"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.133027+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.512573+00:00"
     },
     {
-      "id": "rss-112f37ea5391",
+      "id": "rss-fd525d5af1ad",
       "discipline": "clinical",
       "type": "news",
-      "title": "Clinician support key to patient adoption of VR therapies, study suggests",
+      "title": "Emergency departments across Illinois identify gaps in care for children in mental health crises",
       "authors": "Medical Xpress",
-      "abstract": "A new study published in JMIR XR and Spatial Computing demonstrates that the way virtual reality therapeutics (VRx) are introduced to patients is a critical factor in how successfully they adopt the technology. The randomized feasibility pilot study builds on growing evidence that virtual reality digital therapeutics show strong clinical potential for managing symptoms such as anxiety, pain and distress. Rather than evaluating clinical efficacy, the study focuses on a critical implementation question: how structured onboarding and provider involvement can help drive consistent patient engagement, adherence and adoption of VRx in real-world care.",
+      "abstract": "When a child is experiencing a mental health crisis, families increasingly turn to the emergency department for help. While hospitals across Illinois are making progress in caring for these children, they face significant challenges, especially limited access to specialists and long waits for psychiatric care, according to a survey of Illinois emergency departments published in the Journal of American College of Emergency Physicians Open.",
       "date": "2026-07-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-clinician-key-patient-vr-therapies.html",
+      "url": "https://medicalxpress.com/news/2026-07-emergency-departments-illinois-gaps-children.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "patient",
-        "adoption",
-        "that",
-        "virtual",
-        "reality",
-        "therapeutics",
-        "critical",
-        "clinical"
+        "emergency",
+        "illinois",
+        "departments",
+        "across",
+        "care",
+        "children",
+        "mental",
+        "health"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.133338+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.512888+00:00"
     },
     {
-      "id": "rss-bd890b1b673f",
+      "id": "rss-34ee627e6401",
       "discipline": "clinical",
       "type": "news",
-      "title": "New drug against metastatic prostate cancer made entirely from human proteins",
+      "title": "The ethics of being left out of health research",
       "authors": "Medical Xpress",
-      "abstract": "A new cancer drug may be able to inhibit both tumor growth and the spread of aggressive prostate cancer. This is shown in a study conducted by researchers at Umeå University together with international collaborators, published in the journal Signal Transduction and Targeted Therapy.",
+      "abstract": "Beyond its importance for scientific discovery, representation in health research directly influences health care planning, policy development and resource allocation.",
       "date": "2026-07-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-drug-metastatic-prostate-cancer-human.html",
+      "url": "https://medicalxpress.com/news/2026-07-ethics-left-health.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cancer",
-        "drug",
-        "prostate",
-        "against",
-        "metastatic",
-        "made",
-        "entirely",
-        "human"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.133641+00:00"
-    },
-    {
-      "id": "rss-f28980c4d94f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Study highlights health equity challenges, financial burden of aesthetic surgery complications",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers from UC Davis Medical Center have identified significant socioeconomic disparities among patients seeking treatment for complications after aesthetic surgery, according to a new study published in JPRAS Open.",
-      "date": "2026-07-08",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-highlights-health-equity-financial-burden.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "aesthetic",
-        "surgery",
-        "complications",
-        "highlights",
         "health",
-        "equity",
-        "challenges",
-        "financial"
+        "ethics",
+        "being",
+        "left",
+        "beyond",
+        "importance",
+        "scientific",
+        "discovery"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.133871+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.513103+00:00"
     },
     {
-      "id": "rss-77f56202289d",
+      "id": "rss-c3f79664ffa8",
       "discipline": "clinical",
       "type": "news",
-      "title": "Overall U.S. death rate declined from 2024 to 2025, report says",
+      "title": "Gut bacteria boost immune system, help send vitamin A to T cells",
       "authors": "Medical Xpress",
-      "abstract": "In 2025, the overall U.S. death rate was down 4.6% from 2024, according to a July Vital Statistics Rapid Release report, a publication of the U.S. Centers for Disease Control and Prevention.",
+      "abstract": "Scientists at UT Southwestern Medical Center have discovered that gut bacteria help regulate the development of the body's immune system by directing the movement of vitamin A through a previously unrecognized cellular network. The preclinical findings, published in Cell Host & Microbe, could reshape how researchers view conditions in which immune development is disrupted, highlighting nutrient pathways as potential targets for therapeutic intervention.",
       "date": "2026-07-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-death-declined.html",
+      "url": "https://medicalxpress.com/news/2026-07-gut-bacteria-boost-immune-vitamin.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "overall",
-        "death",
-        "rate",
-        "report",
-        "declined",
-        "says",
-        "down",
-        "according"
+        "immune",
+        "bacteria",
+        "system",
+        "help",
+        "vitamin",
+        "development",
+        "boost",
+        "send"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.134091+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.513374+00:00"
     },
     {
-      "id": "rss-53efaa4ed522",
+      "id": "rss-886a7d05bd35",
       "discipline": "clinical",
       "type": "news",
-      "title": "Novel blood-based biomarker enables early lung cancer detection and prognosis prediction",
+      "title": "Globally, youth are not eating enough healthy plant-based foods, analysis concludes",
       "authors": "Medical Xpress",
-      "abstract": "A collaborative research team has identified a novel blood-based biomarker capable of detecting early-stage lung cancer and predicting patient prognosis. The findings are published in the Journal of Extracellular Vesicles.",
+      "abstract": "Healthy plant-based foods such as fruits, vegetables, nuts, seeds, beans and legumes are the foundation of a healthy diet for anyone, no matter how old they are. But that's especially true for children, for whom these foods are rich in essential nutrients that support normal growth, learning, mood and long-term health.",
       "date": "2026-07-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-blood-based-biomarker-enables-early.html",
+      "url": "https://medicalxpress.com/news/2026-07-globally-youth-healthy-based-foods.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "novel",
-        "blood-based",
-        "biomarker",
-        "lung",
-        "cancer",
-        "prognosis",
-        "enables",
-        "early"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.134311+00:00"
-    },
-    {
-      "id": "rss-092fa0096a96",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Topical ivermectin and encapsulated benzoyl peroxide work better than metronidazole for rosacea",
-      "authors": "Medical Xpress",
-      "abstract": "Topical ivermectin and encapsulated benzoyl peroxide are more efficacious than metronidazole for adults with rosacea, according to a review published online July 1 in JAMA Dermatology.",
-      "date": "2026-07-08",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-topical-ivermectin-encapsulated-benzoyl-peroxide.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "topical",
-        "ivermectin",
-        "encapsulated",
-        "benzoyl",
-        "peroxide",
-        "than",
-        "metronidazole",
-        "rosacea"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.134555+00:00"
-    },
-    {
-      "id": "rss-9c7702241f7f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Antibiotic prescribing remains above 95% for uncomplicated diverticulitis",
-      "authors": "Medical Xpress",
-      "abstract": "Antibiotic prescribing has remained above 95% for uncomplicated diverticulitis at Veterans Affairs facilities, according to a study published online June 23 in Annals of Internal Medicine.",
-      "date": "2026-07-08",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-antibiotic-uncomplicated-diverticulitis.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "antibiotic",
-        "prescribing",
-        "above",
-        "uncomplicated",
-        "diverticulitis",
-        "remains",
-        "remained",
-        "veterans"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.134768+00:00"
-    },
-    {
-      "id": "rss-35b6e6b535b7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Researchers identify opioids with highest risk of respiratory depression",
-      "authors": "Medical Xpress",
-      "abstract": "Fentanyl, combination opioid treatments, oxycodone and morphine are associated with higher risks compared with codeine among patients treated for non-cancer pain. University of Manchester researchers have identified which opioids are most likely to be associated with respiratory depression, in a major new study.",
-      "date": "2026-07-08",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-opioids-highest-respiratory-depression.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "researchers",
-        "opioids",
-        "respiratory",
-        "depression",
-        "associated",
-        "identify",
-        "highest",
-        "risk"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.135003+00:00"
-    },
-    {
-      "id": "rss-a023cbf3dc6d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Michigan and other states see unusual spike in parasite that causes 'explosive' diarrhea",
-      "authors": "Medical Xpress",
-      "abstract": "A parasite that causes severe, watery diarrhea is spreading across the United States, and health officials in Michigan are racing to explain an unusual surge in cases.",
-      "date": "2026-07-08",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-michigan-states-unusual-spike-parasite.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "michigan",
-        "states",
-        "unusual",
-        "parasite",
+        "healthy",
+        "foods",
+        "plant-based",
         "that",
-        "causes",
-        "diarrhea",
-        "other"
+        "globally",
+        "youth",
+        "eating",
+        "enough"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.135221+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.513626+00:00"
     },
     {
-      "id": "rss-34e525dad89c",
+      "id": "rss-8ff41650bef3",
       "discipline": "clinical",
       "type": "news",
-      "title": "What death doulas can teach us about dying well without religion",
+      "title": "New research reveals rise in obesity rates in the US",
       "authors": "Medical Xpress",
-      "abstract": "In most Western societies, death has always been the church's job. Nearly everyone wanted last rites, deathbed prayers and a faith leader at their bedside. But for a growing number of people, that template for dying is no longer the only option. The death doula, a different kind of caregiver, is increasingly entering the scene.",
+      "abstract": "Obesity rates among U.S. adults and children rose sharply in recent years, and by 2023, 40% of adults and 20% of youth met the criteria for obesity, according to new, independent research published in Circulation.",
       "date": "2026-07-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-death-doulas-dying-religion.html",
+      "url": "https://medicalxpress.com/news/2026-07-reveals-obesity.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "death",
-        "dying",
-        "what",
-        "doulas",
-        "teach",
-        "about",
-        "well",
-        "without"
+        "obesity",
+        "rates",
+        "adults",
+        "reveals",
+        "rise",
+        "among",
+        "children",
+        "rose"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.135495+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.513870+00:00"
+    },
+    {
+      "id": "rss-af79c7fbc757",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Nurse practitioner workforce grew 10% yearly, outpacing physicians and PAs from 2016 to 2023",
+      "authors": "Medical Xpress",
+      "abstract": "New Columbia University School of Nursing research reveals nurse practitioner (NP) workforce growth outpaced prior projections while physician and physician associate (PA) growth remained steady between 2016 and 2023. During this period, the NP workforce expanded at an average annual rate of 10%, while physician and PA workforces grew at 1.1% and 8.6% per year, respectively.",
+      "date": "2026-07-08",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-nurse-practitioner-workforce-grew-yearly.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "workforce",
+        "physician",
+        "nurse",
+        "practitioner",
+        "grew",
+        "growth",
+        "while",
+        "yearly"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-08T14:38:48.514126+00:00"
+    },
+    {
+      "id": "rss-cff539f38cd0",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "What do Sardinia's Blue Zone elders do differently that helps them age so well physically and mentally?",
+      "authors": "Medical Xpress",
+      "abstract": "People are living longer than they did at the turn of the 20th century, but living well into old age depends on more than a healthy lifestyle. Scientists say it is also shaped by how we think, adapt and connect with others.",
+      "date": "2026-07-08",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-sardinia-blue-zone-elders-differently.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "well",
+        "living",
+        "than",
+        "what",
+        "sardinia",
+        "blue",
+        "zone",
+        "elders"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-08T14:38:48.514365+00:00"
+    },
+    {
+      "id": "rss-2bfd1c0b1cb3",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Do breast cancer and irregular heartbeat have common risk factors and rates?",
+      "authors": "Medical Xpress",
+      "abstract": "Alcohol use and smoking are linked to breast cancer and atrial fibrillation/flutter in women 55 and older in multiple regions of the world, according to research published in the Journal of the American Heart Association.",
+      "date": "2026-07-08",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-breast-cancer-irregular-heartbeat-common.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "breast",
+        "cancer",
+        "irregular",
+        "heartbeat",
+        "have",
+        "common",
+        "risk",
+        "factors"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-08T14:38:48.514591+00:00"
+    },
+    {
+      "id": "rss-e6e63d6970d7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Losing TDP-43 protein in microglia disrupts myelin, causing motor deficits in mice",
+      "authors": "Medical Xpress",
+      "abstract": "Rosa Chiara Paolicelli's team at the Department of Biomedical Sciences of Unil uncovered a new role for the TDP-43 protein in controlling the function of microglia, the immune cells of the brain. Their study shows how the loss of this protein in microglia may contribute to the development of neurological diseases. The findings have been published in Nature Neuroscience.",
+      "date": "2026-07-08",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-tdp-protein-microglia-disrupts-myelin.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "protein",
+        "microglia",
+        "tdp-",
+        "losing",
+        "disrupts",
+        "myelin",
+        "causing",
+        "motor"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-08T14:38:48.514874+00:00"
+    },
+    {
+      "id": "rss-9a396fbcd89d",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "authors": "TechCrunch AI",
+      "abstract": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+      "date": "2026-07-08",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "kevin",
+        "weil",
+        "stoke",
+        "space",
+        "former",
+        "openai",
+        "exec",
+        "board"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-08T14:38:48.600699+00:00"
     },
     {
       "id": "rss-d8eb8fa4b957",
@@ -484,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.188718+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.600964+00:00"
     },
     {
       "id": "rss-569328aaa584",
@@ -516,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.188942+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.601140+00:00"
     },
     {
       "id": "rss-fa7fa83cb200",
@@ -548,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.189116+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.601304+00:00"
     },
     {
       "id": "rss-7ec05907055b",
@@ -580,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.189303+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.601486+00:00"
     },
     {
       "id": "rss-76b258048c01",
@@ -612,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.189491+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.601638+00:00"
     },
     {
       "id": "rss-bc34299d681e",
@@ -644,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.189665+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.601834+00:00"
     },
     {
       "id": "rss-89976a9c8ca6",
@@ -676,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.189843+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.602013+00:00"
     },
     {
       "id": "rss-6b1f5012ba7b",
@@ -708,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.190017+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.602185+00:00"
     },
     {
       "id": "rss-75bd583ad310",
@@ -740,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.190168+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.602332+00:00"
     },
     {
       "id": "rss-904aa85f5191",
@@ -772,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.255409+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.735496+00:00"
     },
     {
       "id": "rss-319482b50c5b",
@@ -804,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.255600+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.735679+00:00"
     },
     {
       "id": "rss-e4615aacb150",
@@ -836,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.190402+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.602543+00:00"
     },
     {
       "id": "rss-88cae6a04198",
@@ -868,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.190579+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.602707+00:00"
     },
     {
       "id": "rss-25ed78e761f2",
@@ -900,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.190740+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.602892+00:00"
     },
     {
       "id": "rss-62fdcc0b7b78",
@@ -932,39 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.190921+00:00"
-    },
-    {
-      "id": "rss-52b1eae50bfd",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Every major tech layoff in 2026 that has name-checked AI",
-      "authors": "TechCrunch AI",
-      "abstract": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "date": "2026-07-06",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "tech",
-        "that",
-        "every",
-        "major",
-        "layoff",
-        "name-checked",
-        "running",
-        "look"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.191094+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.603067+00:00"
     },
     {
       "id": "rss-a5d229a3d4b5",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.255768+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.735880+00:00"
     },
     {
       "id": "rss-c7c8b3bfebe0",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.725151+00:00"
+      "_retrievedAt": "2026-07-08T14:38:49.057459+00:00"
     },
     {
       "id": "rss-0ec61d5c541e",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.255975+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.736089+00:00"
     },
     {
       "id": "rss-19259ec0f554",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.725403+00:00"
+      "_retrievedAt": "2026-07-08T14:38:49.057682+00:00"
     },
     {
       "id": "rss-cdcec8d11a6a",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.725891+00:00"
+      "_retrievedAt": "2026-07-08T14:38:49.058177+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.256158+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.736268+00:00"
     },
     {
       "id": "rss-19e287a9fb9c",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.726415+00:00"
+      "_retrievedAt": "2026-07-08T14:38:49.058660+00:00"
     },
     {
       "id": "rss-4e904f861292",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.256338+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.736446+00:00"
     },
     {
       "id": "rss-5b0f51c03247",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.256589+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.736620+00:00"
     },
     {
       "id": "rss-171691b8cedf",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.256751+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.736793+00:00"
     },
     {
       "id": "rss-3811b60f2c26",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.256942+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.736982+00:00"
     },
     {
       "id": "rss-a8a59a71fab6",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.257127+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.737164+00:00"
     },
     {
       "id": "rss-0e554b469f1c",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.257279+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.737316+00:00"
     },
     {
       "id": "rss-c83a6084c17d",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.726875+00:00"
+      "_retrievedAt": "2026-07-08T14:38:49.059114+00:00"
     },
     {
       "id": "rss-4347e37ce541",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.727475+00:00"
+      "_retrievedAt": "2026-07-08T14:38:49.059657+00:00"
     },
     {
       "id": "rss-0439785447ef",
@@ -1476,7 +1476,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.728112+00:00"
+      "_retrievedAt": "2026-07-08T14:38:49.060278+00:00"
+    },
+    {
+      "id": "openalex-239a44a48c00",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "authors": "Cole, Marcos, Bourlon, Fabien, Iribarren, Pablo, Irarrazaval, Inigo",
+      "abstract": "Rosa dos Ventos abrange aspectos relacionados ao Turismo e a Hospitalidade, com foco na Educação, Epistemologia, Gastronomia, Gestão, Cultura e Meio Ambiente, em visão multidisciplinar do fenômeno turístico",
+      "date": "2026-06-23",
+      "year": 2026,
+      "journal": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "source": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.18226/21789061",
+      "doi": "10.18226/21789061",
+      "pdfUrl": "https://doi.org/10.18226/21789061",
+      "keywords": [
+        "Humanities",
+        "Political science",
+        "Art",
+        "Diverse Aspects of Tourism Research",
+        "Social and Economic Solidarity",
+        "Hospitality and Tourism Education",
+        "rosa",
+        "ventos"
+      ],
+      "readTime": "1 min",
+      "citedBy": 134,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-08T14:38:45.132625+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1508,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:22.561883+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.533490+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1540,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:22.562293+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.533923+00:00"
     },
     {
       "id": "rss-6e64d9a2858e",
@@ -1572,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.257470+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.737473+00:00"
     },
     {
       "id": "rss-5d40314c8fc4",
@@ -1604,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.257633+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.737630+00:00"
     },
     {
       "id": "rss-93a5db061a72",
@@ -1636,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.728717+00:00"
+      "_retrievedAt": "2026-07-08T14:38:49.060874+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1668,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.775881+00:00"
+      "_retrievedAt": "2026-07-08T14:38:44.598194+00:00"
     },
     {
       "id": "rss-aa16e55100c4",
@@ -1700,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.257790+00:00"
+      "_retrievedAt": "2026-07-08T14:38:48.737817+00:00"
     },
     {
       "id": "rss-5cf5c5f90af9",
@@ -1732,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.729212+00:00"
+      "_retrievedAt": "2026-07-08T14:38:49.061362+00:00"
     },
     {
       "id": "rss-9babfa4d92c2",
@@ -1764,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:27.729505+00:00"
+      "_retrievedAt": "2026-07-08T14:38:49.061601+00:00"
     },
     {
       "id": "openalex-ff18973ad306",
@@ -1796,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.777653+00:00"
+      "_retrievedAt": "2026-07-08T14:38:44.599855+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1828,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:22.561222+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.532870+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -1860,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.780891+00:00"
+      "_retrievedAt": "2026-07-08T14:38:44.603017+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -1892,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:24.332763+00:00"
+      "_retrievedAt": "2026-07-08T14:38:45.138831+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -1924,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:24.329982+00:00"
+      "_retrievedAt": "2026-07-08T14:38:45.135178+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1956,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:22.559039+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.530749+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1988,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:24.329331+00:00"
+      "_retrievedAt": "2026-07-08T14:38:45.134542+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2020,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:22.563230+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.534823+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2052,39 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:22.563764+00:00"
-    },
-    {
-      "id": "openalex-7a2e0cea295d",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Stratigraphy as a low-pass filter: selective preservation of spatial variability on a Holocene carbonate platform",
-      "authors": "Xianyi Liu, Sam Purkis, Peter Burgess, David De Vleeschouwer, Laurent Puyana, Niklas Hohmann",
-      "abstract": "Walther’s law, a fundamental principle in geoscience, predicts that laterally adjacent depositional environments become preserved as a vertical succession of layers (facies). As an expression of uniformitarianism, this law underpins interpretations of Earth’s history, yet it has not been quantitatively tested. We test this law and examine its limitations by quantifying multidecadal changes in environmental heterogeneity (1945-2019) in the Bahamas and extrapolating them to millennial timescales using forward modelling. Virtual stratigraphic successions predicted by Walther’s law contain substantially greater heterogeneity than observed in sediment cores. This discrepancy arises because small and short-lived environment patches undergo rapid turnover and fail to accumulate sufficient sediment for preservation. Our work establishes a quantitative framework for defining preservation thres...",
-      "date": "2026-05-20",
-      "year": 2026,
-      "journal": "OpenAlex",
-      "source": "OpenAlex",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.31223/x5k784",
-      "doi": "10.31223/x5k784",
-      "pdfUrl": "https://eartharxiv.org/repository/object/13113/download/23232/",
-      "keywords": [
-        "Sedimentary depositional environment",
-        "Geology",
-        "Stratigraphy",
-        "Sedimentary rock",
-        "Sediment",
-        "Geology and Paleoclimatology Research",
-        "Paleontology and Stratigraphy of Fossils",
-        "Geological formations and processes"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:24.333083+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.535310+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:22.560182+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.531860+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:22.558703+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.530401+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:22.560429+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.532465+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:22.558301+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.530014+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.780570+00:00"
+      "_retrievedAt": "2026-07-08T14:38:44.602673+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:24.328556+00:00"
+      "_retrievedAt": "2026-07-08T14:38:45.133771+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:22.559516+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.531187+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:22.562901+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.534489+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.254462+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.962563+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:24.331601+00:00"
+      "_retrievedAt": "2026-07-08T14:38:45.137645+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2436,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.255838+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.964328+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2468,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:22.562637+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.534233+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2500,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.256475+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.964962+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -2532,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:24.330437+00:00"
+      "_retrievedAt": "2026-07-08T14:38:45.136151+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -2564,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:24.332391+00:00"
+      "_retrievedAt": "2026-07-08T14:38:45.138450+00:00"
     },
     {
       "id": "openalex-8d5e6bfc7e0b",
@@ -2596,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.257191+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.965973+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -2628,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.776595+00:00"
+      "_retrievedAt": "2026-07-08T14:38:44.599161+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -2660,39 +2660,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.254085+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.962233+00:00"
     },
     {
-      "id": "openalex-473d91058e75",
+      "id": "openalex-43e02d456db7",
       "discipline": "bio",
       "type": "paper",
-      "title": "Nutrient balance regulates soil microbial health under long-term fertilization",
-      "authors": "Da Lin, Qingxu Ma, Yu-Qiu Ye, Wolfgang Wanek, Andrew S. Gregory, Davey L. Jones",
-      "abstract": "Fertilizer application in intensive agriculture critically influences microbial communities. It is still unclear how long-term input of different nutrients shapes microbial eco-evolutionary strategies and ecological functions. Through 180-year-old field fertilization experiment, alongside microbial culturing, pot experiments, and comprehensive metagenomic data analysis, we show that exclusive fertilization with inorganic chemicals causes carbon-nitrogen imbalances that increase microbial resource competition and antibiotic resistance gene (ARG) levels. Viruses further amplify this expansion through \"piggyback the winner\" strategy. The imbalanced use of nitrogen in chemical fertilizers disrupt ecological niche connections, leading to an increase in virulent viruses and reducing microbial nutrient cycling capacity. In contrast, more balanced nutrient supplies from organic fertilization...",
+      "title": "Mapping intratumor heterogeneity across layers for advancing immunotherapy",
+      "authors": "Jean-Christophe Marine, Osnat Bartok, Shira Sagie, Pietro Paolo Vitiello, Alberto Bardelli, Chen Weller",
+      "abstract": "Intratumor heterogeneity (ITH) encompasses genetic, epigenetic, transcriptional, proteomic, and immunopeptidomic diversity. Beyond genetic heterogeneity, it is increasingly clear that non-mutational heterogeneity and plasticity generate dynamic cancer cell states with distinct immune visibility. These layers of complexity converge on the immunopeptidome, the repertoire of peptides displayed by major histocompatibility complex molecules through which tumor cells are surveyed by T cells. Variation in antigen processing, presentation, and peptide abundance across cancer clones and cell states yields spatially and temporally distinct immunological niches that shape immune recognition and therapeutic response. Here, we summarize how multidimensional ITH manifests across cancer types and constrains immunotherapy efficacy. We propose that integrating measurements across layers is a promising...",
       "date": "2026-04-01",
       "year": 2026,
-      "journal": "Cell Reports",
-      "source": "Cell Reports",
+      "journal": "Cell",
+      "source": "Cell",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117274",
-      "doi": "10.1016/j.celrep.2026.117274",
-      "pdfUrl": "https://doi.org/10.1016/j.celrep.2026.117274",
+      "url": "https://doi.org/10.1016/j.cell.2026.03.025",
+      "doi": "10.1016/j.cell.2026.03.025",
+      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.03.025",
       "keywords": [
-        "Human fertilization",
-        "Nutrient",
-        "Agronomy",
-        "Soil nutrients",
-        "Balance (ability)",
-        "Soil Carbon and Nitrogen Dynamics",
-        "Legume Nitrogen Fixing Symbiosis",
-        "Plant-Microbe Interactions and Immunity"
+        "Biology",
+        "Immunotherapy",
+        "Computational biology",
+        "Cancer immunotherapy",
+        "Cancer research",
+        "Cancer Immunotherapy and Biomarkers",
+        "Single-cell and spatial transcriptomics",
+        "Advanced Biosensing Techniques and Applications"
       ],
       "readTime": "1 min",
       "citedBy": 3,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.258948+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.965231+00:00"
     },
     {
       "id": "openalex-7ecbe579840c",
@@ -2724,39 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:24.331245+00:00"
-    },
-    {
-      "id": "openalex-538093b030bc",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "High-Resolution Monitoring of Live Fuel Moisture Content Across Australia",
-      "authors": "Marta Yebra, Gianluca Scortechini, Nicolás Younes, Albert I. J. M. van Dijk",
-      "abstract": "Live Fuel Moisture Content (LFMC) is a key determinant of vegetation flammability and fire behaviour, yet LFMC products have traditionally relied on coarse-resolution sensors such as the Moderate Resolution Imaging Spectroradiometer (MODIS, 500 m), limiting their utility for fine-scale fire management. This study introduces the first continental-scale operational LFMC product for Australia derived from Sentinel-2 imagery at 20 m resolution. We developed a Random Forest regression model trained on approximately 680,000 paired Sentinel-2 reflectance and MODIS-LFMC samples (2015–2022) to emulate outputs from the Australian Flammability Monitoring System (AFMS), a MODIS-based pre-operational LFMC product. Model evaluation against AFMS showed strong agreement for grasslands (R2 = 0.83, RMSE = 32.45%) and moderate performance for forests (R2 = 0.43, RMSE = 20.84%) and shrublands (R2 = 0.21,...",
-      "date": "2026-03-31",
-      "year": 2026,
-      "journal": "Remote Sensing",
-      "source": "Remote Sensing",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/rs18071049",
-      "doi": "10.3390/rs18071049",
-      "pdfUrl": "https://www.mdpi.com/2072-4292/18/7/1049/pdf?version=1774960101",
-      "keywords": [
-        "Environmental science",
-        "Vegetation (pathology)",
-        "Mean squared error",
-        "Remote sensing",
-        "Moderate-resolution imaging spectroradiometer",
-        "Fire effects on ecosystems",
-        "Remote Sensing in Agriculture",
-        "Fire Detection and Safety Systems"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:24.333806+00:00"
+      "_retrievedAt": "2026-07-08T14:38:45.137292+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2788,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:22.561535+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.533146+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2820,39 +2788,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.777195+00:00"
+      "_retrievedAt": "2026-07-08T14:38:44.599466+00:00"
     },
     {
-      "id": "openalex-18e8a6f615a1",
+      "id": "openalex-be8055a102c2",
       "discipline": "geo",
       "type": "paper",
-      "title": "Expansion of Antarctic surface melt through the 21st century",
-      "authors": "Yaowen Zheng, Nicholas R. Golledge, Alexandra Gossart, Shoujuan Shu",
-      "abstract": "Climate models show that Antarctic surface melt will increase through the current century. Surface melting changes ice sheet albedo, the availability of liquid water for endemic and invasive species, and may even accelerate ice shelf collapse and global sea level rise. Here we show, using 1 km downscaled projections of potential Antarctic surface melt, that the total area experiencing surface melt will expand by more than 10% by 2100 under a Shared Socio-economic Pathway 3-7.0 scenario, with increased potential melt totals likely to threaten the viability of ice shelves mostly in the West Antarctic Peninsula and Amundsen Sea Embayment, through an elevated risk of hydrofracture. By calculating the latitudinal rate of melt migration we also find that Shared Socio-economic Pathway 1-2.6 is the only emissions scenario under which the rate of future Antarctic surface melt expansion will st...",
-      "date": "2026-03-30",
+      "title": "Harvesting AlphaEarth: Benchmarking the geospatial foundation model for agricultural downstream tasks",
+      "authors": "Yuchi Ma, Yawen Shen, Anu Swatantran, David B. Lobell",
+      "abstract": "• How geospatial foundation models (GFMs) perform in agriculture remains unclear. • We propose a workflow to benchmark Google’s AlphaEarth GFM for agriculture. • AlphaEarth is tested for yield prediction, tillage mapping, and cover crop mapping. • AlphaEarth rivals local models but lacks transferability, interpretability, and stability. • The benchmarking workflow and datasets can readily support future GFM evaluation. Geospatial foundation models (GFMs), pretrained on massive Earth observations (EO), have emerged as a promising approach to overcoming the limitations in existing featurization methods. Although most studies on GFMs have released the source codes and pre-trained weights, their deployment still demands extensive configuration, environment setup, inference EO preparation, and model fine-tuning. More recently, Google DeepMind has introduced AlphaEarth Foundation (AEF), a G...",
+      "date": "2026-03-27",
       "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
+      "journal": "International Journal of Applied Earth Observation and Geoinformation",
+      "source": "International Journal of Applied Earth Observation and Geoinformation",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-71114-7",
-      "doi": "10.1038/s41467-026-71114-7",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-71114-7_reference.pdf",
+      "url": "https://doi.org/10.1016/j.jag.2026.105258",
+      "doi": "10.1016/j.jag.2026.105258",
+      "pdfUrl": "https://doi.org/10.1016/j.jag.2026.105258",
       "keywords": [
-        "Geology",
-        "Surface (topology)",
-        "Climate change",
-        "Environmental science",
-        "Earth science",
-        "Polar Research and Ecology",
-        "Arctic and Russian Policy Studies",
-        "Calcium Carbonate Crystallization and Inhibition"
+        "Geospatial analysis",
+        "Benchmarking",
+        "Workflow",
+        "Benchmark (surveying)",
+        "Computer science",
+        "Remote Sensing in Agriculture",
+        "Soil Geostatistics and Mapping",
+        "Soil Moisture and Remote Sensing"
       ],
-      "readTime": "1 min",
-      "citedBy": 2,
+      "readTime": "2 min",
+      "citedBy": 3,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:24.333414+00:00"
+      "_retrievedAt": "2026-07-08T14:38:45.135699+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -2880,11 +2848,11 @@ window.LIVE_FEED_DATA = {
         "AI in Service Interactions"
       ],
       "readTime": "1 min",
-      "citedBy": 50,
+      "citedBy": 51,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:22.559821+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.531481+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2912,11 +2880,11 @@ window.LIVE_FEED_DATA = {
         "Cell Image Analysis Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 41,
+      "citedBy": 44,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:22.560827+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.532250+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -2948,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.255536+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.963613+00:00"
     },
     {
       "id": "openalex-6ae4c848022b",
@@ -2980,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.257916+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.966291+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -3012,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.255211+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.963313+00:00"
     },
     {
       "id": "openalex-52ea9f4aa286",
@@ -3044,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.258296+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.966672+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -3076,7 +3044,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.256126+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.964616+00:00"
+    },
+    {
+      "id": "openalex-3fbd7e025b4e",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Bacteriophage Therapy Against Shigella spp.: A Precision Antimicrobial Strategy",
+      "authors": "Giuseppe Guido Maria Scarlata, Andrej Belančić, D Stimac, Almir Fajkić, Tomislav Meštrović, Ludovico Abenavoli",
+      "abstract": "Shigellosis remains a significant global cause of infectious colitis, increasingly complicated by multidrug-resistant strains and the microbiota-disrupting effects of broad-spectrum antibiotics. Although conventional antimicrobial therapy can reduce symptom duration and bacterial shedding, it also contributes to gut dysbiosis, loss of colonization resistance, and further selection for antimicrobial resistance. These challenges have renewed interest in precision antimicrobial strategies, particularly bacteriophage therapy, which provides strain-level specificity and preserves the gut microbiota. This narrative review evaluates the biological rationale, preclinical and early clinical evidence, safety considerations, and translational challenges associated with bacteriophage therapy targeting Shigella spp. The historical development and mechanistic basis of phage therapy are summarized,...",
+      "date": "2026-03-20",
+      "year": 2026,
+      "journal": "Antibiotics",
+      "source": "Antibiotics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/antibiotics15030317",
+      "doi": "10.3390/antibiotics15030317",
+      "pdfUrl": "https://www.mdpi.com/2079-6382/15/3/317/pdf?version=1773989926",
+      "keywords": [
+        "Lytic cycle",
+        "Phage therapy",
+        "Shigellosis",
+        "Bacteriophage",
+        "Antimicrobial",
+        "Bacteriophages and microbial interactions",
+        "Escherichia coli research studies",
+        "Cancer Research and Treatments"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-08T14:38:43.967073+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -3108,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.254842+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.962949+00:00"
     },
     {
       "id": "openalex-0619fc14a254",
@@ -3140,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:24.330845+00:00"
+      "_retrievedAt": "2026-07-08T14:38:45.136899+00:00"
     },
     {
       "id": "openalex-568c4ca27e3e",
@@ -3172,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.779968+00:00"
+      "_retrievedAt": "2026-07-08T14:38:44.602122+00:00"
     },
     {
       "id": "openalex-2ee9b3321b5d",
@@ -3204,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.779607+00:00"
+      "_retrievedAt": "2026-07-08T14:38:44.601769+00:00"
     },
     {
       "id": "openalex-134f7f76ec80",
@@ -3236,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:24.329586+00:00"
+      "_retrievedAt": "2026-07-08T14:38:45.134781+00:00"
     },
     {
       "id": "openalex-a2a154306336",
@@ -3268,7 +3268,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:24.331980+00:00"
+      "_retrievedAt": "2026-07-08T14:38:45.138062+00:00"
+    },
+    {
+      "id": "openalex-c87927273805",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "A review of statistical methods for climate downscaling: the underexplored potential of geostatistical simulation",
+      "authors": "Stylianos Hadjipetrou",
+      "abstract": "Abstract Global climate models provide essential insights into future climate conditions but operate at spatial resolutions too coarse for many regional and local applications. Statistical downscaling has emerged as a key approach to bridge this scale gap by translating large-scale climate model output into finer spatial detail using historical data. This review synthesizes the main developments in statistical modeling and stochastic simulation for climate downscaling, aiming to provide both a conceptual overview and a practical reference for advancing climate modeling towards delivering more detailed information at finer horizontal spatial scales. A broad range of methods is considered, including empirical-statistical approaches and stochastic simulation techniques, that generate ensembles capturing inherent climate variability. The review also discusses how recent advances in machin...",
+      "date": "2026-03-15",
+      "year": 2026,
+      "journal": "Theoretical and Applied Climatology",
+      "source": "Theoretical and Applied Climatology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1007/s00704-026-06120-2",
+      "doi": "10.1007/s00704-026-06120-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s00704-026-06120-2.pdf",
+      "keywords": [
+        "Downscaling",
+        "Climate model",
+        "Computer science",
+        "Climate change",
+        "Scope (computer science)",
+        "Climate variability and models",
+        "Land Use and Ecosystem Services",
+        "Ecosystem dynamics and resilience"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-08T14:38:45.136483+00:00"
     },
     {
       "id": "openalex-050e5d69ef85",
@@ -3296,11 +3328,11 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence in Healthcare"
       ],
       "readTime": "1 min",
-      "citedBy": 8,
-      "qualityScore": 76.0,
+      "citedBy": 11,
+      "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.776888+00:00"
+      "_retrievedAt": "2026-07-08T14:38:44.598856+00:00"
     },
     {
       "id": "openalex-5ea2e0ac50cc",
@@ -3332,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.778866+00:00"
+      "_retrievedAt": "2026-07-08T14:38:44.601075+00:00"
     },
     {
       "id": "openalex-69ef9859ea67",
@@ -3360,11 +3392,11 @@ window.LIVE_FEED_DATA = {
         "Monoclonal and Polyclonal Antibodies Research"
       ],
       "readTime": "1 min",
-      "citedBy": 3,
+      "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.257593+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.964012+00:00"
     },
     {
       "id": "openalex-59f3240e8b8c",
@@ -3396,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:24.328935+00:00"
+      "_retrievedAt": "2026-07-08T14:38:45.134144+00:00"
     },
     {
       "id": "openalex-4b1dee987f4c",
@@ -3428,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.253793+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.961939+00:00"
     },
     {
       "id": "openalex-02623233bf3b",
@@ -3460,39 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.256848+00:00"
-    },
-    {
-      "id": "openalex-e612e475c556",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Cytoskeletal remodeling promotes tunneling nanotube formation and drives cardiac resident cell mitochondrial transfer in sepsis",
-      "authors": "Rui Song, Cheng Huang, Yinrui Ma, Zhenhua Zhang, Yifei Liu, Bing Chen",
-      "abstract": "Sepsis-induced cardiac dysfunction arises from complex intercellular communication networks that extend beyond direct cardiomyocyte damage, yet the nanoscale mechanisms governing these interactions remain poorly understood. Here, we identify tunneling nanotubes (TNTs) as dynamic biological nanostructures facilitating intercellular mitochondrial transfer, revealing their critical role in septic cardiac remodeling. Using a murine cecal ligation and puncture (CLP) model and single-cell RNA sequencing, we demonstrate that sepsis reprograms cardiac endothelial cells, fibroblasts, and macrophages, generating metabolically impaired subpopulations with dysfunctional mitochondrial respiration. We uncover a Drp1-driven cytoskeletal remodeling process that orchestrates TNT biogenesis, wherein Drp1 interacts with Filamin and Kinesin to regulate TNT formation and extension, enabling long-range org...",
-      "date": "2026-03-11",
-      "year": 2026,
-      "journal": "Science Advances",
-      "source": "Science Advances",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1126/sciadv.adz3266",
-      "doi": "10.1126/sciadv.adz3266",
-      "pdfUrl": "https://www.science.org/doi/pdf/10.1126/sciadv.adz3266?download=true",
-      "keywords": [
-        "Cell biology",
-        "Cytoskeleton",
-        "Mitochondrion",
-        "Organelle",
-        "Mitophagy",
-        "Mitochondrial Function and Pathology",
-        "Tissue Engineering and Regenerative Medicine",
-        "Graphene and Nanomaterials Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.258657+00:00"
+      "_retrievedAt": "2026-07-08T14:38:43.965602+00:00"
     },
     {
       "id": "openalex-a6ecfeb4dd07",
@@ -3524,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.778106+00:00"
+      "_retrievedAt": "2026-07-08T14:38:44.600323+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -3556,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:24.327811+00:00"
+      "_retrievedAt": "2026-07-08T14:38:45.133029+00:00"
     },
     {
       "id": "openalex-d7f83e5bb105",
@@ -3588,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-08T08:42:23.778525+00:00"
+      "_retrievedAt": "2026-07-08T14:38:44.600712+00:00"
     }
   ]
 };
