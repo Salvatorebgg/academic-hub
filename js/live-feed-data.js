@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-07-09T15:31:49.622460+00:00",
+  "generatedAt": "2026-07-09T20:02:06.940079+00:00",
   "total": 111,
   "sources": [
     "RSS",
@@ -7,412 +7,252 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-a1b673000dba",
+      "id": "rss-e3bdfc0e78f5",
       "discipline": "clinical",
       "type": "news",
-      "title": "Evidence reveals that the language of thought is not natural language",
+      "title": "Looks good, feels bad? New review explains why modern design can strain your brain",
       "authors": "Medical Xpress",
-      "abstract": "Some people find it useful to talk through their problems—but language isn't necessary for logical reasoning, cognitive neuroscientists at MIT's McGovern Institute for Brain Research say.",
+      "abstract": "Modern, human-made environments that feature certain design elements can overload the brain, causing visual discomfort and stress, according to a new University of Stirling study. Visual discomfort refers to the unpleasant feelings or strain people experience when viewing certain images or environments. This can range from eyestrain to migraine, difficulty reading, or feelings of being overwhelmed in situations where others experience no issues at all.",
       "date": "2026-07-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-evidence-reveals-language-thought-natural.html",
+      "url": "https://medicalxpress.com/news/2026-07-good-bad-modern-strain-brain.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "language",
-        "evidence",
-        "reveals",
-        "that",
-        "thought",
-        "natural",
-        "some",
-        "people"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.905466+00:00"
-    },
-    {
-      "id": "rss-0d6784edad7e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Cognitive and physical limitations can affect inhaler use in COPD",
-      "authors": "Medical Xpress",
-      "abstract": "Cognitive function, hand dexterity and breathing ability play an important role in helping people with chronic obstructive pulmonary disease (COPD) use their inhalers correctly, according to a new study. The study is published in the Annals of the American Thoracic Society.",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-cognitive-physical-limitations-affect-inhaler.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cognitive",
-        "copd",
-        "physical",
-        "limitations",
-        "affect",
-        "inhaler",
-        "function",
-        "hand"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.905770+00:00"
-    },
-    {
-      "id": "rss-3c5eac9499c0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Why some people are more bothered by low-frequency sounds",
-      "authors": "Medical Xpress",
-      "abstract": "Some people are more sensitive to low-frequency noise, such as from ventilation systems, heat pumps, wind turbines and transformers. Why is that?",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-people-bothered-frequency.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "some",
-        "people",
-        "more",
-        "low-frequency",
-        "bothered",
-        "sounds",
-        "sensitive",
-        "noise"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.905996+00:00"
-    },
-    {
-      "id": "rss-65e0b19eb7bb",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Researchers hone new AI method to track 'smart' vapes with digital screens",
-      "authors": "Medical Xpress",
-      "abstract": "E-cigarettes, also known as vapes, are battery-operated devices that heat a liquid that typically contains nicotine, an addictive substance. These devices are continually changing, with new flavors, novel device designs and digital screens. Some of these e-cigarettes—sometimes called \"smart vapes\"—include built-in games and Bluetooth connectivity that have the potential to gamify the use of nicotine. Many of these devices are marketed online but cannot be easily monitored with existing data sources and methods.",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-hone-ai-method-track-smart.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "vapes",
-        "devices",
-        "that",
-        "these",
-        "smart",
-        "digital",
-        "screens",
-        "e-cigarettes"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.906317+00:00"
-    },
-    {
-      "id": "rss-1868640882ac",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "AI can't replace mental health therapists. But here's where it might make a difference",
-      "authors": "Medical Xpress",
-      "abstract": "A person wakes in the middle of the night, overwhelmed and needing someone to talk to. But instead of calling a loved one or booking a counseling session, they open ChatGPT.",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-ai-mental-health-therapists-difference.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "replace",
-        "mental",
-        "health",
-        "therapists",
-        "here",
-        "where",
-        "might",
-        "make"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.906548+00:00"
-    },
-    {
-      "id": "rss-aefe653fc8b0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Softening aging ovaries could help extend fertility as women get older",
-      "authors": "Medical Xpress",
-      "abstract": "Fertility declines as women get older for many reasons, such as a drop in egg quality, decreased follicle numbers and hardening of ovarian tissues. That's a problem for would-be mothers in many countries who prefer to have their children later in life, often in their 30s and 40s. Current treatments for infertility include hormone therapy and in vitro fertilization (IVF), which primarily focus on treating hormonal imbalances and helping eggs mature or be fertilized.",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-softening-aging-ovaries-fertility-women.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "fertility",
-        "women",
-        "older",
-        "many",
-        "their",
-        "softening",
-        "aging",
-        "ovaries"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.906886+00:00"
-    },
-    {
-      "id": "rss-5f6aa93d3562",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Learning to identify new objects reshapes parts of the brain, research finds",
-      "authors": "Medical Xpress",
-      "abstract": "The wiring and rewiring of the brain never ends. Neural pathways are constantly being reshaped as we interact with the world and learn new things. At York University and MIT's McGovern Institute, scientists are combining detailed analysis of brain activity with computational modeling to better understand that change.",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-reshapes-brain.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
+        "modern",
+        "design",
+        "strain",
         "brain",
-        "learning",
-        "identify",
-        "objects",
-        "reshapes",
-        "parts",
-        "finds",
-        "wiring"
+        "environments",
+        "certain",
+        "visual",
+        "discomfort"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.907137+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.448240+00:00"
     },
     {
-      "id": "rss-092027abe79f",
+      "id": "rss-acac3c4efda9",
       "discipline": "clinical",
       "type": "news",
-      "title": "Culturally tailored maternity care lifts healthy birth rates for First Nations families",
+      "title": "Eco-friendly spiderweb-inspired pressure sensor for robotic hands may assist patients with Parkinson's disease",
       "authors": "Medical Xpress",
-      "abstract": "The Baggarrook Yurrongi or \"Women's Journey\" model ensures women having a First Nations baby are cared for by a known midwife throughout pregnancy, birth and the early postnatal period.",
+      "abstract": "A high-performance biodegradable pressure sensor has been developed as a key technology for wearable AI health care robotics and user-friendly robotic systems.",
       "date": "2026-07-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-culturally-tailored-maternity-healthy-birth.html",
+      "url": "https://medicalxpress.com/news/2026-07-eco-friendly-spiderweb-pressure-sensor.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "birth",
-        "first",
-        "nations",
-        "women",
-        "culturally",
-        "tailored",
-        "maternity",
-        "care"
+        "pressure",
+        "sensor",
+        "robotic",
+        "eco-friendly",
+        "spiderweb-inspired",
+        "hands",
+        "assist",
+        "patients"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.907361+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.448495+00:00"
     },
     {
-      "id": "rss-9e230087b25b",
+      "id": "rss-407634d4a799",
       "discipline": "clinical",
       "type": "news",
-      "title": "Epigenetic mapping provides deeper insight into leukemia",
+      "title": "Glycoprotein G unlocks genital herpes spread to nerves, revealing vaccine target",
       "authors": "Medical Xpress",
-      "abstract": "Researchers at Karolinska Institutet in Sweden and Kyoto University in Japan have identified new subgroups of the blood cancer acute myeloid leukemia. The study, published in the journal Nature, shows that changes in the regulation of genes within cells can help explain variation in the disease and influence prognosis and treatment choices.",
+      "abstract": "Researchers at the University of Gothenburg have identified a key protein that allows the virus that causes genital herpes to get into the nervous system. The discovery, made in experiments on mice, could pave the way for future vaccines against the disease. The study is published in the journal PLOS Pathogens.",
       "date": "2026-07-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-epigenetic-deeper-insight-leukemia.html",
+      "url": "https://medicalxpress.com/news/2026-07-glycoprotein-genital-herpes-nerves-revealing.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "leukemia",
-        "epigenetic",
-        "mapping",
-        "provides",
-        "deeper",
-        "insight",
-        "researchers",
-        "karolinska"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.907598+00:00"
-    },
-    {
-      "id": "rss-7a1d332e89b9",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "FDA expands use of first sickle cell disease gene therapy for children as young as 2 years",
-      "authors": "Medical Xpress",
-      "abstract": "The U.S. Food and Drug Administration has issued a supplemental approval for Casgevy (exagamglogene autotemcel) for patients ages 2 and older with either sickle cell disease (SCD) with recurrent vaso-occlusive crises (VOCs) or transfusion-dependent β thalassemia (TDT). Supplemental approval was granted to Vertex Pharmaceuticals.",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-fda-sickle-cell-disease-gene.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "sickle",
-        "cell",
-        "disease",
-        "supplemental",
-        "approval",
-        "expands",
-        "first",
-        "gene"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.907885+00:00"
-    },
-    {
-      "id": "rss-965f7129d8cb",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Proportion of ED visits for suspected suicide down from 2021 to 2025",
-      "authors": "Medical Xpress",
-      "abstract": "From 2021 to 2025, the overall proportion of emergency department (ED) visits for suspected suicide attempts among all ED visits for any reason decreased, with the largest declines seen among adolescents and females, according to research published in the U.S. Centers for Disease Control and Prevention Morbidity and Mortality Weekly Report.",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-proportion-ed-suicide.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "visits",
-        "proportion",
-        "suspected",
-        "suicide",
-        "among",
-        "down",
-        "overall",
-        "emergency"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.908126+00:00"
-    },
-    {
-      "id": "rss-d4470f770891",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Psychedelic drug screen in mice may overlook stress and brain changes",
-      "authors": "Medical Xpress",
-      "abstract": "Over the past decades, some medical researchers and neuroscientists have been exploring the possible therapeutic effects of psychedelic compounds, such as lysergic acid diethylamide (LSD) and psilocybin. These are substances that act on serotonin receptors in the brain and can alter people's perceptions, mood and mental processes. Some preliminary studies suggest that they could help treat specific psychiatric conditions, such as major depression and post-traumatic stress disorder (PTSD). Nonetheless, psychedelics also prompt hallucinations, distorted perceptions and heightened emotions, which can be distressing and unfavorable for many psychiatric patients.",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-psychedelic-drug-screen-mice-overlook.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "psychedelic",
-        "stress",
-        "brain",
-        "some",
-        "such",
+        "genital",
+        "herpes",
         "that",
-        "perceptions",
-        "psychiatric"
+        "glycoprotein",
+        "unlocks",
+        "spread",
+        "nerves",
+        "revealing"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.908427+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.448726+00:00"
     },
     {
-      "id": "rss-b24208645132",
+      "id": "rss-b7ab3afc9a84",
       "discipline": "clinical",
       "type": "news",
-      "title": "Researchers expand plasmonic liquid biopsy platform to early-stage colorectal cancer",
+      "title": "Societies combine to issue recommendations on use of incretin drugs in obesity therapy",
       "authors": "Medical Xpress",
-      "abstract": "A research team led by Minyoung Lee and Sunggyu Park of The Korea Institute of Materials Science (KIMS) Bio & Health Materials Research Division has developed a plasmonic-based liquid biopsy platform capable of ultrasensitive detection of KRAS mutations in the blood and urine of patients with early-stage colorectal cancer.",
+      "abstract": "Obesity and dietitian societies have joined forces to issue a new consensus statement on recommendations surrounding the use of obesity drugs for weight loss treatment. The statement, which is published in The Lancet Diabetes & Endocrinology, is led by Dr. Laurence Dobbie of the Department of Population Health Sciences, King's College London, with an international team of 26 authors.",
       "date": "2026-07-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-plasmonic-liquid-biopsy-platform-early.html",
+      "url": "https://medicalxpress.com/news/2026-07-societies-combine-issue-incretin-drugs.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "liquid",
-        "biopsy",
-        "platform",
-        "early-stage",
-        "colorectal",
+        "obesity",
+        "societies",
+        "issue",
+        "recommendations",
+        "drugs",
+        "statement",
+        "combine",
+        "incretin"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.448958+00:00"
+    },
+    {
+      "id": "rss-63933cbc0714",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Researchers discover new form of hereditary prostate cancer",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at the University of British Columbia have identified a new form of hereditary prostate cancer that, while rare, can cause aggressive disease at a young age. The discovery paves the way for genetic testing programs that could help identify at-risk families and support early cancer detection.",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-hereditary-prostate-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
         "cancer",
-        "materials",
+        "researchers",
+        "form",
+        "hereditary",
+        "prostate",
+        "that",
+        "discover",
+        "university"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.449170+00:00"
+    },
+    {
+      "id": "rss-102c34f0b926",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Hidden pocket reveals new way to target prostate cancer's 'undruggable' ERG protein",
+      "authors": "Medical Xpress",
+      "abstract": "In the United States, prostate cancer is a leading cause of cancer-related disease and death in men. About half of prostate cancer cases in patients of European ancestry have a gene rearrangement in which the genes TMPRSS2 and ERG are fused together. This causes the ERG protein to be turned on, increasing the growth and migration of tumor cells. However, ERG has been considered undruggable because it lacks the usual pockets that a drug can bind to.",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-hidden-pocket-reveals-prostate-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "prostate",
+        "cancer",
+        "undruggable",
+        "protein",
+        "hidden",
+        "pocket",
+        "reveals",
+        "target"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.449414+00:00"
+    },
+    {
+      "id": "rss-fcb50b553b6d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "A healthy diet during pregnancy associated with lower exposure to some—but not all—chemicals, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "Following dietary guidelines during pregnancy may reduce exposure to many—but not all—environmental chemicals from food and everyday products, according to a new study of nearly 1,500 pregnant participants. The study, \"Dietary guidelines adherence and pregnancy exposure to 10 classes of priority chemicals: An observational study in the ECHO Cohort,\" was published in the American Journal of Clinical Nutrition.",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-healthy-diet-pregnancy-exposure-chemicals.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "pregnancy",
+        "exposure",
+        "chemicals",
+        "during",
+        "dietary",
+        "guidelines",
+        "healthy",
+        "diet"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.449712+00:00"
+    },
+    {
+      "id": "rss-24907291806f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Hidden metastases reveal clues to colorectal cancer recurrence",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers identified a six-gene signature in microscopic colorectal cancer (CRC) liver metastases that may help predict recurrence after treatment. The findings suggest these tiny, often undetectable tumor deposits could serve as a tissue-based marker of residual cancer cells, recurrence risk and chemotherapy resistance.",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-hidden-metastases-reveal-clues-colorectal.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "recurrence",
+        "metastases",
+        "colorectal",
+        "hidden",
+        "reveal",
+        "clues",
         "researchers"
       ],
       "readTime": "1 min",
@@ -420,39 +260,455 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.908690+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.449926+00:00"
     },
     {
-      "id": "rss-55eabadb9c6a",
+      "id": "rss-fe979359c3b2",
       "discipline": "clinical",
       "type": "news",
-      "title": "Cyclospora parasite is running rampant in Michigan. Will it spread elsewhere?",
+      "title": "Investigating AI-based personal training",
       "authors": "Medical Xpress",
-      "abstract": "If you're anywhere near Michigan, you might want to skip the cilantro—or at least wash it really well. According to the U.S. Centers for Disease Control and Prevention, there's a parasite known as Cyclospora on the loose. It's tiny, it spreads quickly, and it's making hundreds of people sick.",
+      "abstract": "A feature News and Perspectives story on AI fitness advice has been published in the Journal of Medical Internet Research.. In \"Should AI Be Your Personal Trainer?\", JMIR Correspondent Anna Zucker covers the growing use of AI chatbots for personal fitness programs.",
       "date": "2026-07-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-cyclospora-parasite-rampant-michigan.html",
+      "url": "https://medicalxpress.com/news/2026-07-ai-based-personal.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cyclospora",
-        "parasite",
-        "michigan",
-        "running",
-        "rampant",
-        "will",
-        "spread",
-        "elsewhere"
+        "personal",
+        "fitness",
+        "investigating",
+        "ai-based",
+        "training",
+        "feature",
+        "news",
+        "perspectives"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.908951+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.450128+00:00"
+    },
+    {
+      "id": "rss-16292320e855",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Mouse study identifies C1 neurons as a driver of prolonged fear and anxiety",
+      "authors": "Medical Xpress",
+      "abstract": "Anxiety disorders affect more than 300 million people globally. Several brain regions have been linked to anxiety, but how these regions connect has been poorly understood. By exploring these connections, scientists at St. Jude Children's Research Hospital revealed that epinephrine-producing C1 neurons in mice modulate fear and anxiety. They found that while the activity of these neurons was normally temporarily elevated in times of stress, prolonged activation led to heightened anxiety that could last many days. Inhibition of C1 neurons reduced anxiety-like behaviors, suggesting these neurons may be worth exploring as therapeutic targets for anxiety disorders. The findings were published today in Neuron.",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-mouse-c1-neurons-driver-prolonged.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "anxiety",
+        "neurons",
+        "these",
+        "that",
+        "prolonged",
+        "fear",
+        "disorders",
+        "regions"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.450416+00:00"
+    },
+    {
+      "id": "rss-3ab32cf4b2ef",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Many elite athletes live with health impacts long after they retire. Should they carry all the costs?",
+      "authors": "Medical Xpress",
+      "abstract": "When former All Black Sonny Bill Williams spoke from hospital before his recent neck surgery, his message was not simply about pain. It was a warning to young athletes and their parents about the physical price that can come with a professional sporting career.",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-elite-athletes-health-impacts.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "athletes",
+        "they",
+        "about",
+        "many",
+        "elite",
+        "live",
+        "health",
+        "impacts"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.450648+00:00"
+    },
+    {
+      "id": "rss-812cf659e925",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Yeast dietary supplement may offer a safe nutritional strategy to boost cancer immunity",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers from Trinity College Dublin (TCD) and University College Dublin (UCD) have shown for the first time that a food supplement made from yeast helps the body make stronger immune cells that can fight cancer. The research teams found that adding a yeast-based supplement to the food of obese laboratory mice changes how their immune cells grow and helps make better cancer-fighting cells.",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-yeast-dietary-supplement-safe-nutritional.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "supplement",
+        "that",
+        "cells",
+        "yeast",
+        "cancer",
+        "college",
+        "dublin",
+        "food"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.450879+00:00"
+    },
+    {
+      "id": "rss-506ab7b9dd96",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New study highlights potential challenges for using automated AI tools in health care",
+      "authors": "Medical Xpress",
+      "abstract": "In experiments in which physicians made decisions about treating hypothetical patients, the physicians tended to trust incorrect advice presented as being generated by artificial intelligence (AI), even after being given the opportunity to notice that patient recovery data contradicted the recommendations. Aranzazu Vinas of the University of the Basque Country, Spain, and colleagues present these findings in the open-access journal PLOS Digital Health.",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-highlights-potential-automated-ai-tools.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "health",
+        "physicians",
+        "being",
+        "highlights",
+        "potential",
+        "challenges",
+        "automated",
+        "tools"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.451114+00:00"
+    },
+    {
+      "id": "rss-7fe56d810112",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "More pharmacists will be able to vaccinate children under 5. Here's what you need to know",
+      "authors": "Medical Xpress",
+      "abstract": "More children younger than 5 should be able to be vaccinated in pharmacies from January 2027 under a range of measures designed to boost vaccine coverage announced in this year's federal budget.",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-pharmacists-vaccinate-children.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "more",
+        "able",
+        "children",
+        "under",
+        "pharmacists",
+        "will",
+        "vaccinate",
+        "here"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.451311+00:00"
+    },
+    {
+      "id": "rss-e421d02f5da7",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "authors": "TechCrunch AI",
+      "abstract": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "meta",
+        "spark",
+        "large",
+        "enters",
+        "crowded",
+        "coding",
+        "battle",
+        "muse"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.495649+00:00"
+    },
+    {
+      "id": "rss-0bc82960c2e5",
+      "discipline": "cs",
+      "type": "news",
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "authors": "TechCrunch AI",
+      "abstract": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "openai",
+        "chatgpt",
+        "york",
+        "times",
+        "says",
+        "evidence",
+        "copyright",
+        "trial"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.495873+00:00"
+    },
+    {
+      "id": "rss-5ca14a146ca6",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google will now disclose which ads are made with AI",
+      "authors": "TechCrunch AI",
+      "abstract": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "disclose",
+        "will",
+        "which",
+        "made",
+        "while",
+        "prohibits",
+        "misleading"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.496040+00:00"
+    },
+    {
+      "id": "rss-a855f51ab39f",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "authors": "TechCrunch AI",
+      "abstract": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "paris-based",
+        "voice",
+        "startup",
+        "gradium",
+        "raises",
+        "seed",
+        "backed",
+        "nvidia"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.496189+00:00"
+    },
+    {
+      "id": "rss-321007411e1c",
+      "discipline": "cs",
+      "type": "news",
+      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+      "authors": "TechCrunch AI",
+      "abstract": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "government",
+        "openai",
+        "decide",
+        "frontier",
+        "safe",
+        "release",
+        "exactly",
+        "what"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.496338+00:00"
+    },
+    {
+      "id": "rss-de1f581b134a",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+      "authors": "TechCrunch AI",
+      "abstract": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "instagram",
+        "users",
+        "photos",
+        "images",
+        "public",
+        "here",
+        "stop",
+        "meta"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.496529+00:00"
+    },
+    {
+      "id": "rss-55302a826ad9",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Meta’s new AI chips will begin production in September",
+      "authors": "TechCrunch AI",
+      "abstract": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "chips",
+        "will",
+        "production",
+        "meta",
+        "begin",
+        "september",
+        "company",
+        "taking"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.496682+00:00"
+    },
+    {
+      "id": "rss-485d13c362ef",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Nvidia is a victim of the compute marketplace it created",
+      "authors": "TechCrunch AI",
+      "abstract": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "compute",
+        "nvidia",
+        "victim",
+        "marketplace",
+        "created",
+        "having",
+        "proven",
+        "valuable"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.496836+00:00"
     },
     {
       "id": "rss-cbc920529c25",
@@ -484,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.951408+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.496977+00:00"
     },
     {
       "id": "rss-cc15af80ce2f",
@@ -516,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.951668+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.497108+00:00"
     },
     {
       "id": "rss-839429539989",
@@ -548,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.951930+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.497237+00:00"
     },
     {
       "id": "rss-d061bd232f10",
@@ -580,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.952142+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.497388+00:00"
     },
     {
       "id": "rss-45d265c6592d",
@@ -612,7 +868,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.952313+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.497538+00:00"
+    },
+    {
+      "id": "rss-e3ae47ff98f8",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Tiny robot boats build floating structures",
+      "authors": "MIT News AI",
+      "abstract": "MIT researchers developed FloatForm, a swarm of small aquatic robots that snap together like ants forming a raft, assembling into reconfigurable structures on the water.",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "structures",
+        "tiny",
+        "robot",
+        "boats",
+        "build",
+        "floating",
+        "researchers",
+        "developed"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.559786+00:00"
+    },
+    {
+      "id": "rss-0d082fc80b65",
+      "discipline": "geo",
+      "type": "news",
+      "title": "VIDEO: What is geodesy?",
+      "authors": "NOAA News",
+      "abstract": "VIDEO: What is geodesy? A geodesist on the National Mall in Washington, D.C., looking through a surveying device. (Image credit: NOAA) Download Image July 9, 2026 Ocean & Coasts geodesy National Geodetic Survey 0 Off",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/video-what-is-geodesy-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "geodesy",
+        "video",
+        "what",
+        "national",
+        "image",
+        "geodesist",
+        "mall",
+        "washington"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-09T20:02:06.745626+00:00"
     },
     {
       "id": "rss-5d59162e21af",
@@ -644,263 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.952462+00:00"
-    },
-    {
-      "id": "rss-557f386a2f1c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
-      "authors": "TechCrunch AI",
-      "abstract": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
-      "date": "2026-07-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "mcconnell",
-        "google",
-        "deepfake",
-        "detector",
-        "system",
-        "used",
-        "debunk",
-        "hoax"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.952675+00:00"
-    },
-    {
-      "id": "rss-cb64e45215b3",
-      "discipline": "cs",
-      "type": "news",
-      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-      "authors": "TechCrunch AI",
-      "abstract": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
-      "date": "2026-07-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "grok",
-        "elon",
-        "spacexai",
-        "releases",
-        "which",
-        "describes",
-        "opus-class",
-        "musk"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.952857+00:00"
-    },
-    {
-      "id": "rss-34d265027f6a",
-      "discipline": "cs",
-      "type": "news",
-      "title": "This startup thinks robotics is about to have its ChatGPT moment",
-      "authors": "TechCrunch AI",
-      "abstract": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
-      "date": "2026-07-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "this",
-        "startup",
-        "thinks",
-        "robotics",
-        "about",
-        "have",
-        "chatgpt",
-        "moment"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.953028+00:00"
-    },
-    {
-      "id": "rss-3b2f200173f9",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
-      "authors": "TechCrunch AI",
-      "abstract": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
-      "date": "2026-07-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "photos",
-        "adds",
-        "video",
-        "remix",
-        "tool",
-        "feature",
-        "things"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.953198+00:00"
-    },
-    {
-      "id": "rss-98d85c8bd5a9",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Why this CEO thinks video games make better training data than the internet",
-      "authors": "TechCrunch AI",
-      "abstract": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled by gaming data. That’s the bet behind General Intuition, a […]",
-      "date": "2026-07-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "that",
-        "general",
-        "intelligence",
-        "this",
-        "thinks",
-        "video",
-        "games",
-        "make"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.953477+00:00"
-    },
-    {
-      "id": "rss-012d1b533092",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-      "authors": "TechCrunch AI",
-      "abstract": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
-      "date": "2026-07-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "meta",
-        "glasses",
-        "wants",
-        "seem",
-        "less",
-        "creepy",
-        "strategy",
-        "says"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.953680+00:00"
-    },
-    {
-      "id": "rss-1012cac763be",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "authors": "TechCrunch AI",
-      "abstract": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
-      "date": "2026-07-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "openai",
-        "voice",
-        "live",
-        "releases",
-        "more",
-        "natural",
-        "conversations",
-        "says"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.953842+00:00"
-    },
-    {
-      "id": "rss-4625ecebea10",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-      "authors": "TechCrunch AI",
-      "abstract": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
-      "date": "2026-07-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "prime",
-        "intellect",
-        "their",
-        "raises",
-        "series",
-        "help",
-        "enterprises",
-        "build"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:48.954022+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.497662+00:00"
     },
     {
       "id": "rss-904aa85f5191",
@@ -932,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.021000+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.559958+00:00"
     },
     {
       "id": "rss-319482b50c5b",
@@ -964,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.021179+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.560111+00:00"
     },
     {
       "id": "rss-e3007bcab77e",
@@ -996,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.345592+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.746148+00:00"
     },
     {
       "id": "rss-a5d229a3d4b5",
@@ -1028,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.021342+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.560248+00:00"
     },
     {
       "id": "rss-c7c8b3bfebe0",
@@ -1060,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.345923+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.746413+00:00"
     },
     {
       "id": "rss-0ec61d5c541e",
@@ -1092,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.021547+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.560428+00:00"
     },
     {
       "id": "rss-19259ec0f554",
@@ -1124,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.346148+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.746624+00:00"
     },
     {
       "id": "rss-cdcec8d11a6a",
@@ -1156,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.346720+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.747092+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -1188,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.021761+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.560606+00:00"
     },
     {
       "id": "rss-19e287a9fb9c",
@@ -1220,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.347246+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.747588+00:00"
     },
     {
       "id": "rss-4e904f861292",
@@ -1252,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.021944+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.560763+00:00"
     },
     {
       "id": "rss-5b0f51c03247",
@@ -1284,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.022120+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.560915+00:00"
     },
     {
       "id": "rss-171691b8cedf",
@@ -1316,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.022273+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.561044+00:00"
     },
     {
       "id": "rss-3811b60f2c26",
@@ -1348,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.022459+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.561201+00:00"
     },
     {
       "id": "rss-a8a59a71fab6",
@@ -1380,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.022665+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.561357+00:00"
     },
     {
       "id": "rss-0e554b469f1c",
@@ -1412,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.022825+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.561502+00:00"
     },
     {
       "id": "rss-c83a6084c17d",
@@ -1444,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.347790+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.748023+00:00"
     },
     {
       "id": "rss-4347e37ce541",
@@ -1476,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.348420+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.748605+00:00"
     },
     {
       "id": "rss-0439785447ef",
@@ -1508,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.349092+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.749213+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1540,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.233079+00:00"
+      "_retrievedAt": "2026-07-09T20:02:01.707853+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1572,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.233503+00:00"
+      "_retrievedAt": "2026-07-09T20:02:01.708262+00:00"
     },
     {
       "id": "rss-6e64d9a2858e",
@@ -1604,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.022992+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.561640+00:00"
     },
     {
       "id": "rss-5d40314c8fc4",
@@ -1636,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.023152+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.561777+00:00"
     },
     {
       "id": "rss-93a5db061a72",
@@ -1668,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.349689+00:00"
+      "_retrievedAt": "2026-07-09T20:02:06.749773+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1700,71 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:45.227131+00:00"
-    },
-    {
-      "id": "rss-aa16e55100c4",
-      "discipline": "cs",
-      "type": "news",
-      "title": "A better way to model the behavior of metal alloys",
-      "authors": "MIT News AI",
-      "abstract": "MIT researchers’ approach captures subtle atomic patterns, improving predictions of material properties.",
-      "date": "2026-06-19",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "better",
-        "behavior",
-        "metal",
-        "alloys",
-        "researchers",
-        "approach",
-        "captures",
-        "subtle"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.023307+00:00"
-    },
-    {
-      "id": "rss-5cf5c5f90af9",
-      "discipline": "geo",
-      "type": "news",
-      "title": "U.S. Department of Commerce allocates $123.6M in fishery disaster funding to Alaska, Oregon, California and Squaxin Island Tribe",
-      "authors": "NOAA News",
-      "abstract": "U.S. Department of Commerce allocates $123.6M in fishery disaster funding to Alaska, Oregon, California and Squaxin Island Tribe June 17, 2026 The Status of Stocks report provides an annual update on the status of U.S. marine fisheries. Working waterfronts such as this one in Sitka, Alaska are home to commercial fishing vessels. (Image credit: NOAA) Download Image Today, NOAA announced the allocation of $123.6 million in fishery resource disaster funding, appropriated by Congress in the American Relief Act, 2025 . The funding will address fishery resource disasters that occurred in Oregon, California, the Squaxin Island tribe, and multiple Alaska fisheries between 2019 and 2023. “Fishery resource disasters have devastating effects on local communities and our economy,” said Neil Jacobs, Ph.D, NOAA administrator. “This disaster funding provides much needed assistance to our fishing ind...",
-      "date": "2026-06-15",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/us-department-of-commerce-allocates-1236m-in-fishery-disaster-funding-to-alaska-oregon-california",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "fishery",
-        "funding",
-        "disaster",
-        "alaska",
-        "oregon",
-        "california",
-        "squaxin",
-        "island"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:49.350190+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.402236+00:00"
     },
     {
       "id": "openalex-ff18973ad306",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:45.228821+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.403859+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.232381+00:00"
+      "_retrievedAt": "2026-07-09T20:02:01.707214+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:45.232010+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.406953+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:46.207525+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.637065+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:46.203809+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.633554+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.230144+00:00"
+      "_retrievedAt": "2026-07-09T20:02:01.705090+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:46.203174+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.632951+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.234420+00:00"
+      "_retrievedAt": "2026-07-09T20:02:01.709128+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.234925+00:00"
+      "_retrievedAt": "2026-07-09T20:02:01.709618+00:00"
     },
     {
       "id": "openalex-7a2e0cea295d",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:46.207886+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.637359+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.231289+00:00"
+      "_retrievedAt": "2026-07-09T20:02:01.706198+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.229812+00:00"
+      "_retrievedAt": "2026-07-09T20:02:01.704758+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.231977+00:00"
+      "_retrievedAt": "2026-07-09T20:02:01.706827+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.229382+00:00"
+      "_retrievedAt": "2026-07-09T20:02:01.704334+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:45.231681+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.406642+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:46.202353+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.632185+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.230585+00:00"
+      "_retrievedAt": "2026-07-09T20:02:01.705542+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.234108+00:00"
+      "_retrievedAt": "2026-07-09T20:02:01.708830+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.781386+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.003510+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:46.206242+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.635936+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2436,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.782802+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.004780+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2468,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.233843+00:00"
+      "_retrievedAt": "2026-07-09T20:02:01.708572+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2500,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.783412+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.005359+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -2532,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:46.204783+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.634511+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -2564,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:46.207054+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.636707+00:00"
     },
     {
       "id": "openalex-8d5e6bfc7e0b",
@@ -2596,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.784393+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.006277+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -2628,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:45.228120+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.403177+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -2660,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.780763+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.002914+00:00"
     },
     {
       "id": "openalex-43e02d456db7",
@@ -2692,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.783698+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.005619+00:00"
     },
     {
       "id": "openalex-7ecbe579840c",
@@ -2724,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:46.205923+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.635620+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2756,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.232712+00:00"
+      "_retrievedAt": "2026-07-09T20:02:01.707511+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2788,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:45.228425+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.403491+00:00"
     },
     {
       "id": "openalex-be8055a102c2",
@@ -2820,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:46.204336+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.634080+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -2852,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.230916+00:00"
+      "_retrievedAt": "2026-07-09T20:02:01.705840+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -2884,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.231739+00:00"
+      "_retrievedAt": "2026-07-09T20:02:01.706612+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -2916,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.782105+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.004127+00:00"
     },
     {
       "id": "openalex-6ae4c848022b",
@@ -2948,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.784731+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.006610+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -2980,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.780438+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.002633+00:00"
     },
     {
       "id": "openalex-52ea9f4aa286",
@@ -3012,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.785105+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.006979+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -3044,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.783092+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.005050+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -3076,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.781794+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.003853+00:00"
     },
     {
       "id": "openalex-0619fc14a254",
@@ -3108,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:46.205507+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.635220+00:00"
     },
     {
       "id": "openalex-568c4ca27e3e",
@@ -3140,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:45.231077+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.406068+00:00"
     },
     {
       "id": "openalex-2ee9b3321b5d",
@@ -3172,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:45.230338+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.405338+00:00"
     },
     {
       "id": "openalex-134f7f76ec80",
@@ -3204,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:46.203394+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.633162+00:00"
     },
     {
       "id": "openalex-a2a154306336",
@@ -3236,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:46.206611+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.636305+00:00"
     },
     {
       "id": "openalex-c87927273805",
@@ -3268,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:46.205113+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.634833+00:00"
     },
     {
       "id": "openalex-050e5d69ef85",
@@ -3300,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:45.227819+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.402892+00:00"
     },
     {
       "id": "openalex-5ea2e0ac50cc",
@@ -3332,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:45.229646+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.404664+00:00"
     },
     {
       "id": "openalex-69ef9859ea67",
@@ -3364,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.782478+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.004494+00:00"
     },
     {
       "id": "openalex-59f3240e8b8c",
@@ -3396,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:46.202767+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.632562+00:00"
     },
     {
       "id": "openalex-4b1dee987f4c",
@@ -3428,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.780056+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.002214+00:00"
     },
     {
       "id": "openalex-74b7b8f03abe",
@@ -3460,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.781066+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.003197+00:00"
     },
     {
       "id": "openalex-02623233bf3b",
@@ -3492,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:43.784066+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.005962+00:00"
     },
     {
       "id": "openalex-a6ecfeb4dd07",
@@ -3524,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:45.229287+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.404312+00:00"
     },
     {
       "id": "openalex-f76e6332afee",
@@ -3556,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-09T15:31:46.201610+00:00"
+      "_retrievedAt": "2026-07-09T20:02:02.631431+00:00"
     }
   ]
 };
