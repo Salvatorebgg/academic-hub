@@ -1,11 +1,171 @@
 {
-  "generatedAt": "2026-07-11T13:51:00.500828+00:00",
+  "generatedAt": "2026-07-11T19:29:40.621246+00:00",
   "total": 112,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-cf5605a59b69",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Engineers develop AI tool to design peptides that turn signals on or off",
+      "authors": "Medical Xpress",
+      "abstract": "To develop new and better peptides, the short amino acid strings behind medicines like GLP-1 drugs, researchers have used AI to generate candidates and to predict their properties.",
+      "date": "2026-07-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-ai-tool-peptides.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "develop",
+        "peptides",
+        "engineers",
+        "tool",
+        "design",
+        "that",
+        "turn",
+        "signals"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-11T19:29:40.222625+00:00"
+    },
+    {
+      "id": "rss-aab1039f546a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Forget GLP-1s—GLP-3s show promise in phase 3 weight loss and diabetes trial",
+      "authors": "Medical Xpress",
+      "abstract": "Phase 3 clinical trial results (TRANSCEND-T2D-1) published in The Lancet report that retatrutide, an investigational once-weekly injection for diabetes management, can significantly improve blood sugar levels and lead to substantial weight loss in people with Type 2 diabetes. The study included adults with Type 2 diabetes who were not taking diabetes medicines and whose blood sugar was not adequately controlled with diet and exercise alone.",
+      "date": "2026-07-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-06-glp-1s-3s-phase-weight.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "diabetes",
+        "glp-",
+        "phase",
+        "weight",
+        "loss",
+        "trial",
+        "blood",
+        "sugar"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-11T19:29:40.222984+00:00"
+    },
+    {
+      "id": "rss-5112cdabc58c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "How studying oral inflammatory diseases can help researchers understand other human diseases",
+      "authors": "Medical Xpress",
+      "abstract": "A team of researchers from VCU Massey Comprehensive Cancer Center, the VCU School of Dentistry and the University of Pennsylvania recently published a study in Nature Communications examining why some oral inflammatory diseases progress much more rapidly than others.",
+      "date": "2026-07-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-oral-inflammatory-diseases-human.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "diseases",
+        "oral",
+        "inflammatory",
+        "researchers",
+        "studying",
+        "help",
+        "understand",
+        "other"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-11T19:29:40.223254+00:00"
+    },
+    {
+      "id": "rss-f16e67f5ada9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "The same sounds are mapped similarly in the human and mouse brain, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "While exploring the world around them, both humans and other animals continuously interpret information they pick up with their sight, hearing, touch and other senses. Neuroscience research suggests that the brain does not individually process every single sensory experience, but rather organizes information into mental models known as internal representations.",
+      "date": "2026-07-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-similarly-human-mouse-brain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "other",
+        "information",
+        "same",
+        "sounds",
+        "mapped",
+        "similarly",
+        "human"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-11T19:29:40.223521+00:00"
+    },
+    {
+      "id": "rss-84d232755136",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Second prostate-specific membrane antigen PET scan can change treatment for nearly half of prostate cancer patients",
+      "authors": "Medical Xpress",
+      "abstract": "A second prostate-specific membrane antigen (PSMA) PET scan changed treatment plans for nearly half of patients whose first scan was negative, according to new research published in the July issue of The Journal of Nuclear Medicine. Findings from the repeat PSMA scans, which included both local and distant disease, resulted in a change in management for nearly 50% of these patients.",
+      "date": "2026-07-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-prostate-specific-membrane-antigen-pet.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "scan",
+        "nearly",
+        "patients",
+        "second",
+        "prostate-specific",
+        "membrane",
+        "antigen",
+        "change"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-11T19:29:40.223792+00:00"
+    },
     {
       "id": "rss-e5390c4f5cba",
       "discipline": "clinical",
@@ -36,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.756052+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.224030+00:00"
     },
     {
       "id": "rss-81bde6de0bbe",
@@ -68,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.756304+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.224249+00:00"
     },
     {
       "id": "rss-e4e1806a9543",
@@ -100,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.756592+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.224488+00:00"
     },
     {
       "id": "rss-300f1c36340e",
@@ -132,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.756877+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.224756+00:00"
     },
     {
       "id": "rss-4dd7030107f6",
@@ -164,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.757187+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.225077+00:00"
     },
     {
       "id": "rss-e7be1f9240f0",
@@ -196,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.757509+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.225358+00:00"
     },
     {
       "id": "rss-8a6dd84d0480",
@@ -228,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.757834+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.225646+00:00"
     },
     {
       "id": "rss-a0d398f9d297",
@@ -260,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.758127+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.225929+00:00"
     },
     {
       "id": "rss-f9ad9a8bdcb8",
@@ -292,167 +452,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.758372+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.226196+00:00"
     },
     {
-      "id": "rss-9d317328a2c2",
-      "discipline": "clinical",
+      "id": "rss-8a9b6aebaa6d",
+      "discipline": "cs",
       "type": "news",
-      "title": "This unusual epigenetic modifier promotes certain cancers but suppresses others",
-      "authors": "Medical Xpress",
-      "abstract": "The epigenetic modifier MLL4 has an unassuming name—the 4, for instance, indicates it's just one in a family of such modifiers. But MLL4 is quite special: In a specific type of leukemia, it drives disease progression, while in solid tumors, it acts as a suppressor.",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "authors": "TechCrunch AI",
+      "abstract": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
       "date": "2026-07-11",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-unusual-epigenetic-cancers-suppresses.html",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "epigenetic",
-        "modifier",
-        "this",
-        "unusual",
-        "promotes",
-        "certain",
-        "cancers",
-        "suppresses"
+        "families",
+        "chatgpt",
+        "openai",
+        "bets",
+        "goes",
+        "deeper",
+        "households",
+        "hiring"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.758650+00:00"
-    },
-    {
-      "id": "rss-40696d9523da",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Cancer evolution study reveals biology of glioma progression",
-      "authors": "Medical Xpress",
-      "abstract": "A form of glioma, a type of brain cancer, tends to progress toward greater malignancy due to an increasing tendency of glioma cells to transform into immature, stem cell-like states, according to a study led by investigators at Weill Cornell Medicine, the New York Genome Center, Harvard Medical School and Mass General Brigham. The findings showcase the power of modern laboratory technology for illuminating cancer development and could inform future treatments and prognostic measures for gliomas.",
-      "date": "2026-07-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-cancer-evolution-reveals-biology-glioma.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "glioma",
-        "evolution",
-        "reveals",
-        "biology",
-        "progression",
-        "form",
-        "type"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.758927+00:00"
-    },
-    {
-      "id": "rss-c07b6c3b4ab0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "High fever could temporarily reduce malaria transmission",
-      "authors": "Medical Xpress",
-      "abstract": "The fever experienced by people with malaria exposes parasites to high temperatures within blood cells. This heat can lead to the accumulation of damaged proteins inside the parasite and trigger protective mechanisms against thermal stress.",
-      "date": "2026-07-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-high-fever-temporarily-malaria-transmission.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "high",
-        "fever",
-        "malaria",
-        "could",
-        "temporarily",
-        "reduce",
-        "transmission",
-        "experienced"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.759150+00:00"
-    },
-    {
-      "id": "rss-3468ba821ce3",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "A mother's sensitivity protects children born preterm from emotional and behavioral problems",
-      "authors": "Medical Xpress",
-      "abstract": "A mother's warm, timely and appropriate responses to her child's needs support the child's development and help protect against emotional and behavioral difficulties later in life. New research shows that sensitive parent–child interactions help reduce risks associated with preterm birth. The large international study led by the University of Oulu in Finland and published in Developmental Medicine & Child Neurology shows that early interaction between parent and child plays a key role in child development.",
-      "date": "2026-07-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-mother-sensitivity-children-born-preterm.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "child",
-        "mother",
-        "preterm",
-        "emotional",
-        "behavioral",
-        "development",
-        "help",
-        "shows"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.759467+00:00"
-    },
-    {
-      "id": "rss-12dd98b9d9b6",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Primary care, specialists and hospitals: Bridging the gaps in communication and coordination",
-      "authors": "Medical Xpress",
-      "abstract": "In the recently published article, \"Primary Care, Specialists, and Hospitals: Bridging the Gaps in Communication and Coordination\" in Medical Clinics of North America, Dawn M. Bravata, M.D., a research scientist at Regenstrief Institute, professor of neurology at Indiana University School of Medicine and physician at the Richard L. Roudebush VA Medical Center, explores why effective communication across primary care, specialty care and hospitals is essential to improving patient outcomes.",
-      "date": "2026-07-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-primary-specialists-hospitals-bridging-gaps.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "care",
-        "primary",
-        "hospitals",
-        "communication",
-        "specialists",
-        "bridging",
-        "gaps",
-        "coordination"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.759767+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.300815+00:00"
     },
     {
       "id": "rss-71e89b4b0622",
@@ -484,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.820358+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.301107+00:00"
     },
     {
       "id": "rss-be4e465cd1e6",
@@ -516,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.820628+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.301275+00:00"
     },
     {
       "id": "rss-a2e9ad7a5ac2",
@@ -548,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.820890+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.301532+00:00"
     },
     {
       "id": "rss-bd0b80e1886c",
@@ -580,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.821064+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.301706+00:00"
     },
     {
       "id": "rss-dc6e61ee60e4",
@@ -612,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.821296+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.301941+00:00"
     },
     {
       "id": "rss-9c3144767ad1",
@@ -644,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.821467+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.302144+00:00"
     },
     {
       "id": "rss-725dad01df94",
@@ -676,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.821701+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.302346+00:00"
     },
     {
       "id": "rss-13ae861dbe46",
@@ -708,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.821852+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.302494+00:00"
     },
     {
       "id": "rss-411880d1b78f",
@@ -740,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.822020+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.302663+00:00"
     },
     {
       "id": "rss-2d64bd6fb67c",
@@ -772,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.822184+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.302828+00:00"
     },
     {
       "id": "rss-aded0637a2db",
@@ -804,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.822351+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.303018+00:00"
     },
     {
       "id": "rss-0da9ec8e7943",
@@ -836,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.822513+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.303168+00:00"
     },
     {
       "id": "rss-e421d02f5da7",
@@ -868,39 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.822705+00:00"
-    },
-    {
-      "id": "rss-0bc82960c2e5",
-      "discipline": "cs",
-      "type": "news",
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "authors": "TechCrunch AI",
-      "abstract": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "openai",
-        "chatgpt",
-        "york",
-        "times",
-        "says",
-        "evidence",
-        "copyright",
-        "trial"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.822868+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.303352+00:00"
     },
     {
       "id": "rss-e3ae47ff98f8",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.864517+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.359464+00:00"
     },
     {
       "id": "rss-0d082fc80b65",
@@ -964,7 +964,71 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:51:00.336157+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.565161+00:00"
+    },
+    {
+      "id": "openalex-8b2f36e2f016",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "CMIP7 data request: ocean and sea ice priorities and opportunities",
+      "authors": "Baylor Fox‐Kemper, Patricia DeRepentigny, Anne‐Marie Tréguier, Christian Stepanek, Eleanor O’Rourke, Chloe Mackallah",
+      "abstract": "Abstract. The ocean and sea ice are central to Earth's climate system, influencing global heat and carbon cycles, weather patterns, and sea level rise. Recent decades have seen rapid advances in Earth System Models (ESMs), but limitations remain in simulating and comparing key oceanic and cryospheric processes across models. A recurring challenge in model intercomparison efforts like the Coupled Model Intercomparison Project (CMIP) is determining the output variables that best represent essential mechanisms while remaining manageable in volume and complexity. Here we present the CMIP7 ocean and sea ice data request, developed through an international, community-based process to prioritize variables for model output. We identify seven opportunities—science-based use cases spanning ocean and cryosphere drivers and responses, paleoclimate, polar amplification, extremes, wind waves, and r...",
+      "date": "2026-07-09",
+      "year": 2026,
+      "journal": "Geoscientific model development",
+      "source": "Geoscientific model development",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.5194/gmd-19-6043-2026",
+      "doi": "10.5194/gmd-19-6043-2026",
+      "pdfUrl": "https://gmd.copernicus.org/articles/19/6043/2026/gmd-19-6043-2026.pdf",
+      "keywords": [
+        "Coupled model intercomparison project",
+        "Sea ice",
+        "Earth system science",
+        "Cryosphere",
+        "Climatology",
+        "Climate variability and models",
+        "Geology and Paleoclimatology Research",
+        "Oceanographic and Atmospheric Processes"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-11T19:29:36.947741+00:00"
+    },
+    {
+      "id": "openalex-a63868e51b4a",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "De novo structural variants in autism spectrum disorder disrupt distal regulatory interactions of neuronal genes",
+      "authors": "Ketrin Gjoni, Xingjie Ren, Amanda Everitt, Yin Shen, Katherine S. Pollard",
+      "abstract": "Three-dimensional genome organization plays a critical role in gene regulation, and disruptions can lead to developmental disorders by altering the contact between genes and their distal regulatory elements. Structural variants (SVs) can disturb local genome organization, such as the merging of topologically associating domains upon boundary deletion. Testing large numbers of SVs experimentally for their effects on chromatin structure and gene expression is time and cost prohibitive. To address this, we propose a computational approach to predict SV impacts on genome folding, which can help prioritize causal hypotheses for functional testing. We developed a weighted scoring method that measures chromatin contact changes specifically affecting regions of interest, such as regulatory elements or promoters, and implemented it in the SuPreMo-Akita software (Gjoni and Pollard 2024). With t...",
+      "date": "2026-07-08",
+      "year": 2026,
+      "journal": "Genome Research",
+      "source": "Genome Research",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1101/gr.280394.124",
+      "doi": "10.1101/gr.280394.124",
+      "pdfUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/11/07/2024.11.06.621353.full.pdf",
+      "keywords": [
+        "Chromatin",
+        "Autism spectrum disorder",
+        "Biology",
+        "Genetics",
+        "Genome",
+        "Genomics and Chromatin Dynamics",
+        "Chromosomal and Genetic Variations",
+        "Genomic variations and chromosomal abnormalities"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-11T19:29:36.463800+00:00"
     },
     {
       "id": "rss-904aa85f5191",
@@ -996,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.864706+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.359645+00:00"
     },
     {
       "id": "rss-319482b50c5b",
@@ -1028,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.864879+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.359812+00:00"
     },
     {
       "id": "rss-e3007bcab77e",
@@ -1060,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:51:00.336789+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.565771+00:00"
     },
     {
       "id": "rss-a5d229a3d4b5",
@@ -1092,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.865042+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.360000+00:00"
     },
     {
       "id": "rss-c7c8b3bfebe0",
@@ -1124,7 +1188,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:51:00.337075+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.566089+00:00"
+    },
+    {
+      "id": "openalex-f2829fa041f5",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Generalizable AI predicts immunotherapy outcomes across cancers and treatments",
+      "authors": "Wan Xiang Shen, Intae Moon, Thinh H. Nguyen, Michelle M. Li, Yepeng Huang, Nitya Nair",
+      "abstract": "Immune checkpoint inhibitors are standard across cancers, yet most patients do not respond and existing biomarkers generalize poorly across tumor types, drugs and clinical settings. We present C ompass , a pan-cancer foundation model that predicts immunotherapy response from bulk tumor transcriptomes using a concept-bottleneck transformer. C ompass encodes gene expression through 44 biologically grounded immune concepts representing immune cell states, tumor-microenvironment interactions, and signaling pathways. Trained on 10,184 tumors across 33 cancer types, C ompass outperforms 22 baseline methods in 16 independent clinical cohorts spanning seven cancers and six immune checkpoint inhibitors, increasing accuracy by 8.5% and area under the precision-recall curve by 15.7%, with minimal additional training. The model generalizes to unseen cancer types and treatments, supporting indicat...",
+      "date": "2026-07-03",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04502-7",
+      "doi": "10.1038/s41591-026-04502-7",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04502-7.pdf",
+      "keywords": [
+        "Immunotherapy",
+        "Medicine",
+        "Oncology",
+        "Internal medicine",
+        "Psychology",
+        "Cancer Immunotherapy and Biomarkers",
+        "Radiomics and Machine Learning in Medical Imaging",
+        "Cancer Genomics and Diagnostics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 13,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-11T19:29:36.703195+00:00"
     },
     {
       "id": "rss-0ec61d5c541e",
@@ -1156,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.865249+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.360212+00:00"
     },
     {
       "id": "rss-19259ec0f554",
@@ -1188,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:51:00.337289+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.566311+00:00"
     },
     {
       "id": "rss-cdcec8d11a6a",
@@ -1220,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:51:00.337801+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.566811+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -1252,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.865431+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.360394+00:00"
     },
     {
       "id": "rss-19e287a9fb9c",
@@ -1284,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:51:00.338312+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.567340+00:00"
     },
     {
       "id": "rss-4e904f861292",
@@ -1316,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.865649+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.360573+00:00"
     },
     {
       "id": "rss-5b0f51c03247",
@@ -1348,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.865829+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.360746+00:00"
     },
     {
       "id": "rss-171691b8cedf",
@@ -1380,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.865986+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.360896+00:00"
     },
     {
       "id": "rss-3811b60f2c26",
@@ -1412,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.866172+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.361111+00:00"
     },
     {
       "id": "rss-a8a59a71fab6",
@@ -1444,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.866355+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.361293+00:00"
     },
     {
       "id": "rss-0e554b469f1c",
@@ -1476,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.866531+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.361445+00:00"
     },
     {
       "id": "rss-c83a6084c17d",
@@ -1508,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:51:00.338792+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.567797+00:00"
     },
     {
       "id": "rss-4347e37ce541",
@@ -1540,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:51:00.339365+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.568432+00:00"
     },
     {
       "id": "rss-0439785447ef",
@@ -1572,7 +1668,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:51:00.340067+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.569093+00:00"
+    },
+    {
+      "id": "openalex-239a44a48c00",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "authors": "Cole, Marcos, Bourlon, Fabien, Iribarren, Pablo, Irarrazaval, Inigo",
+      "abstract": "Rosa dos Ventos abrange aspectos relacionados ao Turismo e a Hospitalidade, com foco na Educação, Epistemologia, Gastronomia, Gestão, Cultura e Meio Ambiente, em visão multidisciplinar do fenômeno turístico",
+      "date": "2026-06-23",
+      "year": 2026,
+      "journal": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "source": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.18226/21789061",
+      "doi": "10.18226/21789061",
+      "pdfUrl": "https://doi.org/10.18226/21789061",
+      "keywords": [
+        "Humanities",
+        "Political science",
+        "Art",
+        "Diverse Aspects of Tourism Research",
+        "Social and Economic Solidarity",
+        "Hospitality and Tourism Education",
+        "rosa",
+        "ventos"
+      ],
+      "readTime": "1 min",
+      "citedBy": 134,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-11T19:29:36.946146+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1604,7 +1732,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:54.599698+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.208082+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1636,7 +1764,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:54.600113+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.208497+00:00"
     },
     {
       "id": "rss-6e64d9a2858e",
@@ -1668,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.866699+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.361604+00:00"
     },
     {
       "id": "rss-5d40314c8fc4",
@@ -1700,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:59.866861+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.361760+00:00"
     },
     {
       "id": "rss-93a5db061a72",
@@ -1732,7 +1860,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:51:00.340697+00:00"
+      "_retrievedAt": "2026-07-11T19:29:40.569673+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1764,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.734239+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.702811+00:00"
     },
     {
       "id": "openalex-ff18973ad306",
@@ -1796,7 +1924,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.736284+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.705200+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1828,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:54.599056+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.207452+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -1860,7 +1988,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.738856+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.707817+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -1892,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:56.264936+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.952458+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -1924,7 +2052,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:56.261292+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.948448+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1956,7 +2084,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:54.596915+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.205348+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -1988,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:56.260659+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.947359+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2020,7 +2148,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:54.601018+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.209395+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2052,39 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:54.601522+00:00"
-    },
-    {
-      "id": "openalex-7a2e0cea295d",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Stratigraphy as a low-pass filter: selective preservation of spatial variability on a Holocene carbonate platform",
-      "authors": "Xianyi Liu, Sam Purkis, Peter Burgess, David De Vleeschouwer, Laurent Puyana, Niklas Hohmann",
-      "abstract": "Walther’s law, a fundamental principle in geoscience, predicts that laterally adjacent depositional environments become preserved as a vertical succession of layers (facies). As an expression of uniformitarianism, this law underpins interpretations of Earth’s history, yet it has not been quantitatively tested. We test this law and examine its limitations by quantifying multidecadal changes in environmental heterogeneity (1945-2019) in the Bahamas and extrapolating them to millennial timescales using forward modelling. Virtual stratigraphic successions predicted by Walther’s law contain substantially greater heterogeneity than observed in sediment cores. This discrepancy arises because small and short-lived environment patches undergo rapid turnover and fail to accumulate sufficient sediment for preservation. Our work establishes a quantitative framework for defining preservation thres...",
-      "date": "2026-05-20",
-      "year": 2026,
-      "journal": "OpenAlex",
-      "source": "OpenAlex",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.31223/x5k784",
-      "doi": "10.31223/x5k784",
-      "pdfUrl": "https://eartharxiv.org/repository/object/13113/download/23232/",
-      "keywords": [
-        "Sedimentary depositional environment",
-        "Geology",
-        "Stratigraphy",
-        "Sedimentary rock",
-        "Sediment",
-        "Geology and Paleoclimatology Research",
-        "Paleontology and Stratigraphy of Fossils",
-        "Geological formations and processes"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:56.265251+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.209868+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2116,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:54.598025+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.206446+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2148,7 +2244,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:54.596590+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.205018+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2180,7 +2276,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:54.598665+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.207063+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2208,43 +2304,11 @@
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 1417,
+      "citedBy": 1418,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:54.596187+00:00"
-    },
-    {
-      "id": "openalex-256ec0eeb0dd",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Artificial Intelligence and Big Data for Precision Medicine: A Review of Bioinformatics-Driven Healthcare Applications",
-      "authors": "Mohammad Abdus Sami, Md Lutfor Rahman, Zerin Akter Tanni, Zakia Sultana Munmun, Sabiha Nusrat, Bidhan Biswas",
-      "abstract": "Healthcare is in the middle of a quiet but profound shift. Genomic sequencers, hospital information systems, wearables and imaging archives now generate data faster than clinicians can read it, and that flood is reshaping what “evidence-based care” means. We review more than forty recent studies that bring artificial intelligence (AI), machine learning and big-data analytics into bioinformatics and precision medicine, spanning oncology, drug discovery, cardiology, neurology, public-health surveillance and healthcare operations. Reported accuracies and AUCs range from roughly 80% in early drug-discovery pipelines to above 94% in deep-learning-based pancreatic and breast imaging. Yet our reading also suggests a more cautious story: many models still suffer from limited external validation, opaque decision logic and uneven access to high-quality multi-omics data. We propose a layered con...",
-      "date": "2026-05-09",
-      "year": 2026,
-      "journal": "Frontiers in Computer Science and Artificial Intelligence",
-      "source": "Frontiers in Computer Science and Artificial Intelligence",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.32996/fcsai.2026.5.6.7",
-      "doi": "10.32996/fcsai.2026.5.6.7",
-      "pdfUrl": "https://al-kindipublisher.com/index.php/fcsai/article/download/12680/11358",
-      "keywords": [
-        "Big data",
-        "Computer science",
-        "Workflow",
-        "Data science",
-        "Artificial intelligence",
-        "Artificial Intelligence in Healthcare and Education",
-        "Machine Learning in Healthcare",
-        "Artificial Intelligence in Healthcare"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.739190+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.204605+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2276,7 +2340,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.738517+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.707493+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2308,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:56.260200+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.946885+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2340,7 +2404,71 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:54.597342+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.205775+00:00"
+    },
+    {
+      "id": "openalex-f9bd837049da",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Technical and biological sources of noise confound multiplexed enhancer AAV screening",
+      "authors": "Avery C. Hunker, John K. Mich, Naz Taskin, Amy Torkelson, Trangthanh Pham, Darren Bertagnolli",
+      "abstract": "Cis-acting regulatory enhancer elements are powerful tools for achieving cell type-specific genetic access in adeno-associated virus (AAV) delivery platforms. However, a significant bottleneck in enhancer discovery remains the accurate characterization of their in vivo expression patterns, which currently relies on labor-intensive, gold-standard one-by-one validation. Here, we evaluate multiple barcoded, multiplexed strategies for accelerated profiling of enhancer-driven expression at cell type resolution. As a proof-of-concept, we test small pools of well-validated enhancer AAVs with known activity across diverse cell types in the mouse brain. Despite extensive optimization and testing, we encounter substantial technical and biological noise, including chimeric AAV packaging products, that obscure true enhancer expression patterns. These effects are particularly pronounced for weaker...",
+      "date": "2026-04-28",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-72147-8",
+      "doi": "10.1038/s41467-026-72147-8",
+      "pdfUrl": "https://doi.org/10.1038/s41467-026-72147-8",
+      "keywords": [
+        "Enhancer",
+        "Multiplexing",
+        "Computational biology",
+        "Noise (video)",
+        "Computer science",
+        "Photoacoustic and Ultrasonic Imaging",
+        "Advanced Biosensing Techniques and Applications",
+        "Cell Image Analysis Techniques"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-11T19:29:36.467030+00:00"
+    },
+    {
+      "id": "openalex-ed9f0bc3f5cb",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Proteome-wide prediction of the functional impact of missense variants with ProteoCast",
+      "authors": "Marina Abakarova, María Inés Freiberger, Arnaud Liehrmann, Michaël Rera, Élodie Laine",
+      "abstract": "Abstract Dissecting the functional impact of genetic mutations is essential to advancing our understanding of genotype-phenotype relationships and identifying therapeutic targets. Despite progress in sequencing and genome editing technologies, proteome-wide mutation effect prediction remains challenging. Here we show that evolutionary information alone enables accurate prediction of mutation effects across entire proteomes. ProteoCast is a scalable and interpretable computational method that leverages protein sequence conservation to classify genetic variants and identify functionally important protein sites. We apply ProteoCast to the complete Drosophila melanogaster proteome (22,000 isoforms, 300 million mutations) and validate it against nearly 400,000 natural and experimental variants. It correctly classifies 85% of known lethal mutations as functionally impactful versus 13-18% of...",
+      "date": "2026-04-27",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-72140-1",
+      "doi": "10.1038/s41467-026-72140-1",
+      "pdfUrl": "https://www.nature.com/articles/s41467-026-72140-1.pdf",
+      "keywords": [
+        "Missense mutation",
+        "Proteome",
+        "Computational biology",
+        "Biology",
+        "Genetics",
+        "Genomics and Phylogenetic Studies",
+        "prediction",
+        "variants"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-11T19:29:36.467631+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2372,7 +2500,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:54.600707+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.209082+00:00"
+    },
+    {
+      "id": "openalex-3108caa98114",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "CMIP7 data request: land and land ice priorities and opportunities",
+      "authors": "Yue Li, Gang Tang, Eleanor O’Rourke, Samar Minallah, Martim Mas e Braga, Sophie Nowicki",
+      "abstract": "Abstract. The Land and Land Ice Theme in the Coupled Model Intercomparison Project Phase 7 (CMIP7) represents the current understanding of physical processes in land surface ecosystems, hydrology, cryosphere, and their physical interactions with other Earth system components. Simulations from Earth system models (ESMs) could provide crucial information for assessing planetary safety, such as critical tipping elements, and be used to inform climate risks for improving climate impact assessments and policy decisions. This paper presents a collaborative effort to identify scientific opportunities in the Land and Land Ice Theme of the CMIP7 Data Request. The proposed opportunities build upon advances in ESMs, including new freshwater system and land ice processes being included in CMIP7, as well as the scientific community's demand for high-frequency and sub-grid-scale land surface output...",
+      "date": "2026-04-22",
+      "year": 2026,
+      "journal": "Geoscientific model development",
+      "source": "Geoscientific model development",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.5194/gmd-19-3129-2026",
+      "doi": "10.5194/gmd-19-3129-2026",
+      "pdfUrl": "https://gmd.copernicus.org/articles/19/3129/2026/gmd-19-3129-2026.pdf",
+      "keywords": [
+        "Earth system science",
+        "Environmental resource management",
+        "Cryosphere",
+        "Environmental science",
+        "Land management",
+        "Cryospheric studies and observations",
+        "Arctic and Antarctic ice dynamics",
+        "Climate change and permafrost"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-11T19:29:36.950567+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -2404,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.374125+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.465730+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -2436,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:56.263756+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.951322+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2468,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.375132+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.467937+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2500,7 +2660,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:54.600424+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.208802+00:00"
+    },
+    {
+      "id": "openalex-7ccfc202ecea",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Linker histone H1 functions as a liquid-like glue to organize chromatin in living human cells",
+      "authors": "Masa A. Shimazoe, Jan Huertas, Charles B Phillips, Satoru Ide, Sachiko Tamura, Stephen E. Farr",
+      "abstract": "Linker histone H1, the most abundant chromatin protein, condenses chromatin, modulates DNA transactions such as transcription and DNA replication/repair, and participates in differentiation, development, and tumorigenesis. While recent studies indicate that nucleosomes are clustered as condensed chromatin domains in higher eukaryotic cells, how histone H1 mechanically condenses chromatin remains unclear. Here, using a combination of direct visualization of single-H1 molecules in living human cells and multiscale molecular dynamics simulations, we demonstrate that the majority of H1 behaves like a liquid inside chromatin domains, rather than binding stably to nucleosomes as suggested by the traditional model. H1 functions as a liquid-like \"glue,\" mediating dynamic multivalent electrostatic interactions between nucleosomes within chromatin domains. Consistently, rapid depletion of H1.2...",
+      "date": "2026-04-08",
+      "year": 2026,
+      "journal": "Science Advances",
+      "source": "Science Advances",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1126/sciadv.aec9801",
+      "doi": "10.1126/sciadv.aec9801",
+      "pdfUrl": "https://www.science.org/doi/pdf/10.1126/sciadv.aec9801?download=true",
+      "keywords": [
+        "Histone H1",
+        "Chromatin",
+        "Linker",
+        "Histone",
+        "Cell biology",
+        "Genomics and Chromatin Dynamics",
+        "chromatin",
+        "histone"
+      ],
+      "readTime": "1 min",
+      "citedBy": 9,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-11T19:29:36.462502+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2532,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.375766+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.468606+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -2564,39 +2756,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:56.262272+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.949430+00:00"
     },
     {
-      "id": "openalex-d826f52b28e7",
-      "discipline": "geo",
+      "id": "openalex-557912e64e56",
+      "discipline": "bio",
       "type": "paper",
-      "title": "Recent advances in TROPOMI-based methane source detection: a systematic review",
-      "authors": "Ruoqi Liu, Shun Li, Geli Zhang, Mengyao Liu, X. L. Lu, Shushi Peng",
-      "abstract": "The renewed increase in atmospheric methane (CH4) concentrations since 2007, culminating in record growth rates in 2021, poses a critical challenge to achieving global climate targets. The TROPOspheric Monitoring Instrument (TROPOMI) onboard the Sentinel-5 Precursor satellite provides unprecedented daily global observations of CH4 at a spatial resolution (7 × 7 km2, improved to 5.5 × 7 km2 since August 2019), enabling substantial advances in space-based CH4 monitoring and emission quantification. Here, we synthesize and categorize 133 published studies spanning global, regional and local scales and covering both anthropogenic and natural CH4 sources. Collectively, these studies demonstrate TROPOMI's capability to quantify emissions across diverse spatiotemporal scales, as well as its synergy with other satellite instruments for detecting and attributing facility-level sources, such as...",
-      "date": "2026-04-08",
+      "title": "Charged molecular glue discovery enabled by targeted degron display",
+      "authors": "Zhe Zhuang, Woong Sub Byun, Jakub Chrustowicz, Zuzanna Kozicka, Veronica Lynn Li, Dinah M Abeja",
+      "abstract": "Abstract Small molecules that induce protein interactions hold tremendous potential as new medicines, probes for molecular pathways and tools for agriculture. Explosive growth of targeted protein degradation drug development has spurred renewed interest in proximity-inducing molecules, especially molecular glue degraders (MGDs). These compounds catalyze the destruction of disease-causing proteins by reshaping protein surfaces and promoting cooperative binding between ubiquitylating enzymes and target proteins. MGD discovery for predefined targets is a major challenge in contemporary drug discovery. Here, we solve this important chemical challenge through ‘chemocentric’ MGD discovery of ZZ1, a BET-family protein degrader and a prodrug of a negatively charged glue. ZZ1 activation unmasks a sulfinic acid that binds the modular CTLH ubiquitin ligase complex through a basic pocket in its Y...",
+      "date": "2026-04-06",
       "year": 2026,
-      "journal": "GIScience & Remote Sensing",
-      "source": "GIScience & Remote Sensing",
+      "journal": "Nature Chemical Biology",
+      "source": "Nature Chemical Biology",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1080/15481603.2026.2650822",
-      "doi": "10.1080/15481603.2026.2650822",
-      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/15481603.2026.2650822?needAccess=true",
+      "url": "https://doi.org/10.1038/s41589-026-02182-5",
+      "doi": "10.1038/s41589-026-02182-5",
+      "pdfUrl": "https://doi.org/10.1038/s41589-026-02182-5",
       "keywords": [
-        "Environmental science",
-        "Methane",
-        "Remote sensing",
-        "Methane emissions",
-        "Greenhouse gas",
-        "Spectroscopy and Laser Applications",
-        "Advanced Chemical Sensor Technologies",
-        "Atmospheric and Environmental Gas Dynamics"
+        "Degron",
+        "GLUE",
+        "Nanotechnology",
+        "Computer science",
+        "Chemistry",
+        "Nanofabrication and Lithography Techniques",
+        "Analytical Chemistry and Sensors",
+        "Photonic and Optical Devices"
       ],
       "readTime": "1 min",
-      "citedBy": 2,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:56.265654+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.463117+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -2628,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:56.264566+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.952096+00:00"
     },
     {
       "id": "openalex-8d5e6bfc7e0b",
@@ -2660,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.376368+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.469250+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -2692,7 +2884,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.735227+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.704158+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -2724,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.373802+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.465130+00:00"
     },
     {
       "id": "openalex-43e02d456db7",
@@ -2756,39 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.376032+00:00"
-    },
-    {
-      "id": "openalex-473d91058e75",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Nutrient balance regulates soil microbial health under long-term fertilization",
-      "authors": "Da Lin, Qingxu Ma, Yu-Qiu Ye, Wolfgang Wanek, Andrew S. Gregory, Davey L. Jones",
-      "abstract": "Fertilizer application in intensive agriculture critically influences microbial communities. It is still unclear how long-term input of different nutrients shapes microbial eco-evolutionary strategies and ecological functions. Through 180-year-old field fertilization experiment, alongside microbial culturing, pot experiments, and comprehensive metagenomic data analysis, we show that exclusive fertilization with inorganic chemicals causes carbon-nitrogen imbalances that increase microbial resource competition and antibiotic resistance gene (ARG) levels. Viruses further amplify this expansion through \"piggyback the winner\" strategy. The imbalanced use of nitrogen in chemical fertilizers disrupt ecological niche connections, leading to an increase in virulent viruses and reducing microbial nutrient cycling capacity. In contrast, more balanced nutrient supplies from organic fertilization...",
-      "date": "2026-04-01",
-      "year": 2026,
-      "journal": "Cell Reports",
-      "source": "Cell Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117274",
-      "doi": "10.1016/j.celrep.2026.117274",
-      "pdfUrl": "https://doi.org/10.1016/j.celrep.2026.117274",
-      "keywords": [
-        "Human fertilization",
-        "Nutrient",
-        "Agronomy",
-        "Soil nutrients",
-        "Balance (ability)",
-        "Soil Carbon and Nitrogen Dynamics",
-        "Legume Nitrogen Fixing Symbiosis",
-        "Plant-Microbe Interactions and Immunity"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.377765+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.468872+00:00"
     },
     {
       "id": "openalex-1bdbe1c46708",
@@ -2816,11 +2976,11 @@
         "Intraperitoneal and Appendiceal Malignancies"
       ],
       "readTime": "2 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.738195+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.706087+00:00"
     },
     {
       "id": "openalex-7ecbe579840c",
@@ -2852,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:56.263412+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.950978+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -2884,7 +3044,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:54.599331+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.207723+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -2916,71 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.735908+00:00"
-    },
-    {
-      "id": "openalex-18e8a6f615a1",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Expansion of Antarctic surface melt through the 21st century",
-      "authors": "Yaowen Zheng, Nicholas R. Golledge, Alexandra Gossart, Shoujuan Shu",
-      "abstract": "Climate models show that Antarctic surface melt will increase through the current century. Surface melting changes ice sheet albedo, the availability of liquid water for endemic and invasive species, and may even accelerate ice shelf collapse and global sea level rise. Here we show, using 1 km downscaled projections of potential Antarctic surface melt, that the total area experiencing surface melt will expand by more than 10% by 2100 under a Shared Socio-economic Pathway 3-7.0 scenario, with increased potential melt totals likely to threaten the viability of ice shelves mostly in the West Antarctic Peninsula and Amundsen Sea Embayment, through an elevated risk of hydrofracture. By calculating the latitudinal rate of melt migration we also find that Shared Socio-economic Pathway 1-2.6 is the only emissions scenario under which the rate of future Antarctic surface melt expansion will st...",
-      "date": "2026-03-30",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-71114-7",
-      "doi": "10.1038/s41467-026-71114-7",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-71114-7_reference.pdf",
-      "keywords": [
-        "Geology",
-        "Surface (topology)",
-        "Climate change",
-        "Environmental science",
-        "Earth science",
-        "Polar Research and Ecology",
-        "Arctic and Russian Policy Studies",
-        "Calcium Carbonate Crystallization and Inhibition"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:56.265959+00:00"
-    },
-    {
-      "id": "openalex-7d118a736d5f",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Scaling and quantization of large-scale foundation model enables resource-efficient predictions in network biology",
-      "authors": "Han Chen, M Venkatesh, Javier Gόmez Ortega, Siddharth V Mahesh, Tarak Nath Nandi, Ravi Madduri",
-      "abstract": "Foundation models for network biology are pretrained on large-scale biological data to enable context-aware predictions in a diverse array of downstream tasks through transfer learning. However, increasing model sizes with the expansion of available pretraining data also increases the computational resources required for fine-tuning and inference in downstream applications. Here we first assemble a corpus comprising ~104 million human single-cell transcriptomes from a broad range of tissues and diseases and pretrain successively larger models, defining the scaling laws for transcriptional masked learning. We then demonstrate that model quantization preserves the contextual gene and cell embedding space of the full-precision model, matching performance in zero-shot and fine-tuning applications while requiring only 15% of the time and 34% of the memory as the full model for fine-tuning...",
-      "date": "2026-03-27",
-      "year": 2026,
-      "journal": "Nature Computational Science",
-      "source": "Nature Computational Science",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s43588-026-00972-4",
-      "doi": "10.1038/s43588-026-00972-4",
-      "pdfUrl": "https://www.nature.com/articles/s43588-026-00972-4.pdf",
-      "keywords": [
-        "Inference",
-        "Computer science",
-        "Embedding",
-        "Quantization (signal processing)",
-        "Scaling",
-        "Single-cell and spatial transcriptomics",
-        "Bioinformatics and Genomic Networks",
-        "Cell Image Analysis Techniques"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.378416+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.704808+00:00"
     },
     {
       "id": "openalex-be8055a102c2",
@@ -3012,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:56.261841+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.948999+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -3040,11 +3136,11 @@
         "AI in Service Interactions"
       ],
       "readTime": "1 min",
-      "citedBy": 54,
+      "citedBy": 55,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:54.597664+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.206089+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -3076,7 +3172,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:54.598411+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.206829+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -3108,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.374832+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.467351+00:00"
     },
     {
       "id": "openalex-6ae4c848022b",
@@ -3140,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.376706+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.469572+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -3172,39 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.373508+00:00"
-    },
-    {
-      "id": "openalex-52ea9f4aa286",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Integrative molecular diagnostics for HPV-driven cervical carcinogenesis: a translational review of mechanisms and multimodal risk stratification",
-      "authors": "Deema Fallatah, H. A. Adekola",
-      "abstract": "Despite effective prophylactic vaccines, high-risk human papillomavirus (HPV) infection remains a leading cause of cervical cancer, particularly in regions with limited screening access. Conventional methods, including cytology and HPV DNA testing, lack specificity for identifying lesions at high risk of progression, resulting in overtreatment. This narrative translational review synthesizes current evidence on integrating complementary molecular modalities to improve risk stratification along the biological continuum from HPV infection to malignancy. Persistent high-risk HPV drives carcinogenesis via viral oncoprotein activity, host DNA damage response (DDR) dysregulation, and epigenetic remodeling, yet no single biomarker captures this complexity. Quantitative PCR sensitively detects viral DNA load but not transforming activity; immunocytochemistry for p16INK4a/Ki-67 reflects oncoge...",
-      "date": "2026-03-23",
-      "year": 2026,
-      "journal": "Frontiers in Oncology",
-      "source": "Frontiers in Oncology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fonc.2026.1803942",
-      "doi": "10.3389/fonc.2026.1803942",
-      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/oncology/articles/10.3389/fonc.2026.1803942/pdf",
-      "keywords": [
-        "Molecular diagnostics",
-        "Computational biology",
-        "Epigenetics",
-        "Medicine",
-        "Bioinformatics",
-        "Cervical Cancer and HPV Research",
-        "Reproductive tract infections research",
-        "Endometrial and Cervical Cancer Treatments"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.377085+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.464560+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -3236,39 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.375419+00:00"
-    },
-    {
-      "id": "openalex-3fbd7e025b4e",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Bacteriophage Therapy Against Shigella spp.: A Precision Antimicrobial Strategy",
-      "authors": "Giuseppe Guido Maria Scarlata, Andrej Belančić, D Stimac, Almir Fajkić, Tomislav Meštrović, Ludovico Abenavoli",
-      "abstract": "Shigellosis remains a significant global cause of infectious colitis, increasingly complicated by multidrug-resistant strains and the microbiota-disrupting effects of broad-spectrum antibiotics. Although conventional antimicrobial therapy can reduce symptom duration and bacterial shedding, it also contributes to gut dysbiosis, loss of colonization resistance, and further selection for antimicrobial resistance. These challenges have renewed interest in precision antimicrobial strategies, particularly bacteriophage therapy, which provides strain-level specificity and preserves the gut microbiota. This narrative review evaluates the biological rationale, preclinical and early clinical evidence, safety considerations, and translational challenges associated with bacteriophage therapy targeting Shigella spp. The historical development and mechanistic basis of phage therapy are summarized,...",
-      "date": "2026-03-20",
-      "year": 2026,
-      "journal": "Antibiotics",
-      "source": "Antibiotics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/antibiotics15030317",
-      "doi": "10.3390/antibiotics15030317",
-      "pdfUrl": "https://www.mdpi.com/2079-6382/15/3/317/pdf?version=1773989926",
-      "keywords": [
-        "Lytic cycle",
-        "Phage therapy",
-        "Shigellosis",
-        "Bacteriophage",
-        "Antimicrobial",
-        "Bacteriophages and microbial interactions",
-        "Escherichia coli research studies",
-        "Cancer Research and Treatments"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.377448+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.468273+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -3300,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.374521+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.466456+00:00"
     },
     {
       "id": "openalex-0619fc14a254",
@@ -3332,39 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:56.263024+00:00"
-    },
-    {
-      "id": "openalex-423e3d94c48d",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Sequencing approaches in hereditary cancer testing: strengths, limitations and future directions",
-      "authors": "Sami Belhadj, Christopher J. Hatch, Holly LaDuca, Carolyn Horton, Seth I. Berger, R. Karam",
-      "abstract": "Over the past three decades, Hereditary Cancer Testing (HCT) has evolved from single gene assays into multigene panel testing (MGPT), which allows for the screening of all known hereditary cancer genes in a single assay. MGPT is currently the standard approach for clinical HCT. However, with decreasing sequencing costs and increased instrument throughput, the scalability of exome sequencing (ES) and genome sequencing (GS) for HCT indications is becoming more viable. These methods provide broader insights into the coding exons and/or the entire genome, respectively. ES/GS data can also be reanalyzed to identify variants in novel genes that were not characterized at the time of initial testing, or to support research efforts aimed at uncovering additional associations between germline variants and cancer predisposition. Additionally, the emerging use of long-read sequencing (LRS) is not...",
-      "date": "2026-03-18",
-      "year": 2026,
-      "journal": "European Journal of Human Genetics",
-      "source": "European Journal of Human Genetics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41431-026-02078-x",
-      "doi": "10.1038/s41431-026-02078-x",
-      "pdfUrl": "https://www.nature.com/articles/s41431-026-02078-x.pdf",
-      "keywords": [
-        "Exome sequencing",
-        "Computational biology",
-        "Biology",
-        "DNA sequencing",
-        "Exome",
-        "BRCA gene mutations in cancer",
-        "Genomics and Rare Diseases",
-        "Genetic factors in colorectal cancer"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.378124+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.950183+00:00"
     },
     {
       "id": "openalex-568c4ca27e3e",
@@ -3396,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.737381+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.706833+00:00"
     },
     {
       "id": "openalex-2ee9b3321b5d",
@@ -3424,11 +3424,11 @@
         "Graphene and Nanomaterials Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 7,
+      "citedBy": 8,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.736650+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.705539+00:00"
     },
     {
       "id": "openalex-134f7f76ec80",
@@ -3460,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:56.260895+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.947978+00:00"
     },
     {
       "id": "openalex-a2a154306336",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:56.264131+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.951691+00:00"
     },
     {
       "id": "openalex-c87927273805",
@@ -3524,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:56.262619+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.949761+00:00"
     },
     {
       "id": "openalex-050e5d69ef85",
@@ -3556,7 +3556,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.734927+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.703839+00:00"
     },
     {
       "id": "openalex-5ea2e0ac50cc",
@@ -3588,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-11T13:50:55.735595+00:00"
+      "_retrievedAt": "2026-07-11T19:29:36.704502+00:00"
     }
   ]
 }
