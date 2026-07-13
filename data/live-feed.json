@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T15:08:55.428322+00:00",
+  "generatedAt": "2026-07-13T19:46:13.533112+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -7,452 +7,580 @@
   ],
   "papers": [
     {
-      "id": "rss-252641a1f6e6",
+      "id": "rss-d950695d32aa",
       "discipline": "clinical",
       "type": "news",
-      "title": "Patients whose physicians scored higher in LKA less likely to receive low-value care",
+      "title": "Antidepressant effects seen with transcranial pulse stimulation",
       "authors": "Medical Xpress",
-      "abstract": "Patients whose physicians scored higher in the first year of the American Board of Internal Medicine's (ABIM) Internal Medicine Longitudinal Knowledge Assessment (LKA) were significantly less likely to receive low-value health care services, which cumulatively cost the U.S. health care system an estimated $100 billion each year. The authors say the findings, published today in JAMA Internal Medicine, highlight an association between greater physician knowledge and lower use of tests and interventions that provide little to no benefit to patients.",
+      "abstract": "Prefrontal transcranial pulse stimulation is associated with antidepressant effects, according to a study published online July 6 in JAMA Network Open.",
       "date": "2026-07-13",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-patients-physicians-scored-higher-lka.html",
+      "url": "https://medicalxpress.com/news/2026-07-antidepressant-effects-transcranial-pulse.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "patients",
-        "care",
-        "internal",
-        "medicine",
-        "whose",
-        "physicians",
-        "scored",
-        "higher"
+        "antidepressant",
+        "effects",
+        "transcranial",
+        "pulse",
+        "stimulation",
+        "seen",
+        "prefrontal",
+        "associated"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.600896+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.149988+00:00"
     },
     {
-      "id": "rss-28790bfd636f",
+      "id": "rss-23bd4da87a5f",
       "discipline": "clinical",
       "type": "news",
-      "title": "Populationwide DNA screening expands genetic risk testing beyond major medical centers",
+      "title": "Study finds obesity 'fuels' leukemia, but a combo using popular weight-loss drugs may stop it",
       "authors": "Medical Xpress",
-      "abstract": "Some people inherit genetic changes that put them at higher risk of developing certain cancers or heart disease. A simple genetic test can identify those risks early, creating opportunities to prevent disease or detect it sooner—but only if it reaches the people who could benefit.",
+      "abstract": "Obesity can act as fuel for leukemia, according to a study led by Indiana University School of Medicine scientists. To help patients facing aggressive blood cancers overcome this metabolic risk, researchers identified a potential treatment strategy that combines popular weight-loss medications with anti-inflammatory drugs. The findings were recently published in the Journal of Clinical Investigation.",
       "date": "2026-07-13",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-populationwide-dna-screening-genetic-major.html",
+      "url": "https://medicalxpress.com/news/2026-07-obesity-fuels-leukemia-combo-popular.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "genetic",
-        "risk",
-        "people",
-        "disease",
-        "populationwide",
-        "screening",
-        "expands",
-        "testing"
+        "obesity",
+        "leukemia",
+        "popular",
+        "weight-loss",
+        "drugs",
+        "finds",
+        "fuels",
+        "combo"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.601186+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.150295+00:00"
     },
     {
-      "id": "rss-4e740b5e8767",
+      "id": "rss-8a6f63edbf8d",
       "discipline": "clinical",
       "type": "news",
-      "title": "Trauma triage is challenging: Study assesses how AI might help improve accuracy",
+      "title": "How an adolescent's brain reacts to faces may predict their social future",
       "authors": "Medical Xpress",
-      "abstract": "Making triage decisions in a busy emergency room is tough enough; making triage decisions based on a hurried call with emergency medical staff responding at the scene of an accident is all the more challenging.",
+      "abstract": "It's been said that eyes are a window to the soul, but new research has found that an adolescent's brain response to a face might open a window to their social future. A new study at the University of California, Davis Center for Mind and Brain found that high activity in the amygdala when an adolescent looks at a face showing emotion predicts their social health two years later. Increased amygdala activity for girls predicted more involvement with their peers but less involvement for boys.",
       "date": "2026-07-13",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-trauma-triage-ai-accuracy.html",
+      "url": "https://medicalxpress.com/news/2026-07-adolescent-brain-reacts-social-future.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "triage",
-        "challenging",
-        "making",
-        "decisions",
-        "emergency",
-        "trauma",
-        "assesses",
-        "might"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.601408+00:00"
-    },
-    {
-      "id": "rss-1f2d4173f82f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Expert urges redesign for aged care systems",
-      "authors": "Medical Xpress",
-      "abstract": "Experts are calling for a major overhaul of health and aged care systems to accommodate rising numbers of older people.",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-expert-urges-redesign-aged.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "aged",
-        "care",
-        "systems",
-        "expert",
-        "urges",
-        "redesign",
-        "experts",
-        "calling"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.601593+00:00"
-    },
-    {
-      "id": "rss-bfc63a21e516",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New method separates brain signals to show how complex actions are organized",
-      "authors": "Medical Xpress",
-      "abstract": "A new Northwestern Medicine study has introduced a novel machine learning method for analyzing how the brain organizes complex behaviors, offering fresh evidence that neural activity is built from reusable \"building blocks.\" The study is published in Neuron.",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-analytic-method-reveals-blocks-brain.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "method",
+        "their",
+        "adolescent",
         "brain",
-        "complex",
-        "separates",
-        "signals",
-        "show",
-        "actions",
-        "organized"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.601821+00:00"
-    },
-    {
-      "id": "rss-b523ec21b394",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Neck pain at work may stem from poor sleep, stress and high workload—not just bad posture, AI study shows",
-      "authors": "Medical Xpress",
-      "abstract": "Artificial intelligence could predict an individual office worker's risk of musculoskeletal injury in specific body parts, a study by QUT health and data scientists has found.",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-neck-pain-stem-poor-stress.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "neck",
-        "pain",
-        "work",
-        "stem",
-        "poor",
-        "sleep",
-        "stress",
-        "high"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.602038+00:00"
-    },
-    {
-      "id": "rss-ec40ed015129",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "988 and other mental health crisis lines missing people over 50, according to survey",
-      "authors": "Medical Xpress",
-      "abstract": "In the four years since the launch of the 988 Suicide & Crisis Lifeline, the nationwide service for mental health and substance misuse crisis support, Americans have dialed, texted or chatted online with the service more than 26 million times.",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-mental-health-crisis-lines-people.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "crisis",
-        "mental",
-        "health",
-        "service",
-        "other",
-        "lines",
-        "missing",
-        "people"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.602251+00:00"
-    },
-    {
-      "id": "rss-80e5f23146a1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "The brains of blind people reorganize differently than previously thought",
-      "authors": "Medical Xpress",
-      "abstract": "The development of the human brain is one of the most complex biological processes. During the first years of life, enormous changes take place in the brain that help optimize its functioning. In the first year alone, the surface area of the cerebral cortex increases by about three-quarters, while its thickness grows by roughly one-third. At the beginning of development, the brain creates far more connections between neurons than it actually needs. Over the course of life, frequently used connections are strengthened, while others are eliminated in a process called pruning.",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-brains-people-differently-previously-thought.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "brain",
-        "than",
-        "development",
-        "first",
-        "life",
-        "while",
-        "connections",
-        "brains"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.602524+00:00"
-    },
-    {
-      "id": "rss-89c1124cb2b4",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Novel technology could aid targeted lung cancer treatment",
-      "authors": "Medical Xpress",
-      "abstract": "Scientists have developed a new method for accurately predicting gene changes that cause lung cancer, without the need for slower, more expensive lab techniques. The technology was able to identify specific genetic changes with high accuracy, offering a potentially faster, more efficient and cheaper testing option than traditional methods.",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-technology-aid-lung-cancer-treatment.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "technology",
-        "lung",
-        "cancer",
-        "changes",
-        "more",
-        "novel",
-        "could",
-        "targeted"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.602765+00:00"
-    },
-    {
-      "id": "rss-cb329756bf02",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Epigenetic therapy shows promise against treatment-resistant AML",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at The University of Texas MD Anderson Cancer Center have discovered that an investigational epigenetic therapy remained effective in treatment-resistant acute myeloid leukemia (AML) by activating the Hippo pathway, a tumor-suppressing pathway linked to cancer growth and drug resistance.",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-epigenetic-therapy-treatment-resistant-aml.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "epigenetic",
-        "therapy",
-        "treatment-resistant",
-        "cancer",
-        "pathway",
-        "shows",
-        "promise",
-        "against"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.602981+00:00"
-    },
-    {
-      "id": "rss-d6f770e454c8",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Young blood stem cells rejuvenate aging immune systems in old mice",
-      "authors": "Medical Xpress",
-      "abstract": "By freezing your own healthy blood stem cells in your 20s, thawing them and undergoing a stem cell transplant in your 40s or 50s, it might be possible to rejuvenate your blood-forming and immune systems. Science fiction? At least it works when old mice receive healthy blood stem cells from young mice.",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-young-blood-stem-cells-rejuvenate.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "stem",
-        "your",
-        "blood",
-        "cells",
-        "mice",
-        "young",
-        "rejuvenate",
-        "immune"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.603195+00:00"
-    },
-    {
-      "id": "rss-ae83533a4755",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Heat waves and pollution raise heart risks, doctors warn",
-      "authors": "Medical Xpress",
-      "abstract": "When temperatures climb, the cardiovascular system works harder to keep the body cool by redirecting blood flow from the core to the surface of the skin to allow for evaporation. High temperatures can cause blood to coagulate and thicken, making the process even harder on the heart. During heat waves, deaths related to cardiovascular disease can increase by 12–17%.",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-weather-pollution-affect-heart-health.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "heat",
-        "waves",
-        "heart",
-        "temperatures",
-        "cardiovascular",
-        "harder",
-        "blood",
-        "pollution"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.603433+00:00"
-    },
-    {
-      "id": "rss-f542250d1474",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Advanced climate models used to estimate temperature-related suicide patterns by 2050",
-      "authors": "Medical Xpress",
-      "abstract": "A large international team, including researchers from the University of Tokyo, wanted to know whether and how climate change might increase the number of temperature-related suicides around the world. Previous studies have shown that hotter weather is often linked to a higher risk of suicide, but the present study, published in Nature Mental Health, combined data from an unprecedented 751 locations in 26 countries and used advanced climate models to estimate how the number of temperature-related suicides might change by the 2050s under different climate change scenarios.",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-advanced-climate-temperature-suicide-patterns.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "climate",
-        "temperature-related",
-        "change",
-        "advanced",
-        "used",
-        "estimate",
-        "suicide",
-        "might"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.603682+00:00"
-    },
-    {
-      "id": "rss-06e9b6e845ae",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Social media likes may have a bigger influence on people with depression",
-      "authors": "Medical Xpress",
-      "abstract": "One of the first things many people do after posting on social media is check how many likes they have and who has liked their content. This habit can be an instant mood booster when a post is popular.",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-social-media-bigger-people-depression.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
         "social",
-        "media",
-        "likes",
-        "have",
-        "people",
-        "many",
-        "bigger",
-        "influence"
+        "that",
+        "future",
+        "window",
+        "found"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.603887+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.150631+00:00"
+    },
+    {
+      "id": "rss-76ee51813a58",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Why the fastest-growing Ebola outbreak in history is becoming more challenging",
+      "authors": "Medical Xpress",
+      "abstract": "The Ebola outbreak in eastern Congo is now the fastest-growing one in history, and new challenges keep emerging even as work begins on a study of two badly needed treatments for a type of Ebola that currently has none.",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-fastest-ebola-outbreak-history.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "ebola",
+        "fastest-growing",
+        "outbreak",
+        "history",
+        "becoming",
+        "more",
+        "challenging",
+        "eastern"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.150875+00:00"
+    },
+    {
+      "id": "rss-6cffe7a4d01b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Can beetroot juice boost your sports performance? Here's what the latest study shows",
+      "authors": "Medical Xpress",
+      "abstract": "Evidence that beetroot juice can improve athletic performance has long been inconsistent. While some studies reported benefits, others found little or no effect. Now, a new study combining results from 33 studies provides the clearest evidence yet that it can enhance exercise performance.",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-beetroot-juice-boost-sports-latest.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "performance",
+        "beetroot",
+        "juice",
+        "evidence",
+        "that",
+        "studies",
+        "boost",
+        "your"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.151129+00:00"
+    },
+    {
+      "id": "rss-c73745845a2a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Brains of teens with autism 'tune in' less to unfamiliar voices, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "Like other teenagers, teens on the autism spectrum are itching to exercise their social muscles. They hope for new friends, fun with people who share their interests, maybe even a romantic relationship.",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-brains-teens-autism-tune-unfamiliar.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "teens",
+        "autism",
+        "their",
+        "brains",
+        "tune",
+        "less",
+        "unfamiliar",
+        "voices"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.151392+00:00"
+    },
+    {
+      "id": "rss-02ab05fef286",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Is using screens to calm a child bad? It depends.",
+      "authors": "Medical Xpress",
+      "abstract": "In \"Llama Llama Mad at Mama,\" a popular children's book from 2007, a little Llama Llama goes to the grocery store with his mama and becomes overwhelmed by all the sounds, sights, smells and shopping decisions happening around him. In a scene familiar to every parent, the cartoon animal has an epic meltdown in his shopping cart, screaming and throwing the contents of his mama's shopping list on the floor. Mama Llama gets down to his level and calms him down by turning shopping into a fun game.",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-screens-calm-child-bad.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "llama",
+        "mama",
+        "shopping",
+        "down",
+        "screens",
+        "calm",
+        "child",
+        "depends"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.151701+00:00"
+    },
+    {
+      "id": "rss-2309151909e0",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Study shows promising outcomes for bariatric surgery in adolescents and young adults with severe obesity",
+      "authors": "Medical Xpress",
+      "abstract": "A new study from researchers at LSU's Pennington Biomedical Research Center, FMOL Health | Our Lady of the Lake Regional Medical Center and Metamor Institute demonstrates that metabolic and bariatric surgery can be delivered safely and effectively for adolescents and young adults living with severe obesity, offering promising improvements in weight loss and obesity-related health conditions.",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-outcomes-bariatric-surgery-adolescents-young.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "promising",
+        "bariatric",
+        "surgery",
+        "adolescents",
+        "young",
+        "adults",
+        "severe",
+        "obesity"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.151973+00:00"
+    },
+    {
+      "id": "rss-79c99528e316",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Hormonal changes during puberty linked to emotional distress in young girls",
+      "authors": "Medical Xpress",
+      "abstract": "Testosterone may play a bigger role in the emotional development of girls entering puberty than previously thought, according to new research from the University of Georgia published in Psychoneuroendocrinology. Greater changes in the hormone were linked to more emotional difficulties among girls ages 10–12, even when accounting for levels of other hormones.",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-hormonal-puberty-linked-emotional-distress.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "emotional",
+        "girls",
+        "changes",
+        "puberty",
+        "linked",
+        "hormonal",
+        "during",
+        "distress"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.152253+00:00"
+    },
+    {
+      "id": "rss-87bb77f622c7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Eating an avocado a day lowers heart disease risk factor for people with obesity",
+      "authors": "Medical Xpress",
+      "abstract": "Eating an avocado every day may decrease heart disease risk in adults with obesity, according to a recent study led by researchers in the Penn State Department of Nutritional Sciences and published in the Journal of Clinical Lipidology.",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-avocado-day-lowers-heart-disease.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "eating",
+        "avocado",
+        "heart",
+        "disease",
+        "risk",
+        "obesity",
+        "lowers",
+        "factor"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.152521+00:00"
+    },
+    {
+      "id": "rss-46a36be68aa7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "US appeals court revives private cases alleging Tylenol link to autism",
+      "authors": "Medical Xpress",
+      "abstract": "A U.S. appeals court on Monday vacated the dismissal of hundreds of private lawsuits against Tylenol maker Kenvue that allege scientifically unproven ties between the painkiller and autism.",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-appeals-court-revives-private-cases.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "appeals",
+        "court",
+        "private",
+        "tylenol",
+        "autism",
+        "revives",
+        "cases",
+        "alleging"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.152748+00:00"
+    },
+    {
+      "id": "rss-21a9466efca1",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Can Ozempic prevent cancer? A doctor explains why the headlines are easy to misread",
+      "authors": "Medical Xpress",
+      "abstract": "In the weeks around the 2026 annual meeting of the American Society of Clinical Oncology, my phone kept buzzing with alerts about GLP-1 drugs and cancer. The headlines were everywhere—from NPR and The Washington Post to Substack and heated exchanges on social media—all circling the same claim: Ozempic might lower the risk of cancer.",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-ozempic-cancer-doctor-headlines-easy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "ozempic",
+        "headlines",
+        "prevent",
+        "doctor",
+        "explains",
+        "easy",
+        "misread"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.153026+00:00"
+    },
+    {
+      "id": "rss-ae2247893ca8",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "'Double-donut' structure of SPOP protein reveals mechanism of unexplained cancer mutations",
+      "authors": "Medical Xpress",
+      "abstract": "Mutations to the protein SPOP are widespread in cancer, yet many remain poorly understood. To address this gap, St. Jude Children's Research Hospital scientists obtained structures of SPOP in both the presence and absence of these mutations. Their work captured the fine balance between active and inactive states of SPOP, showing how its activity is regulated and revealing that a key subset of cancer mutations disrupt this balance, providing the missing clue to their roles in disease. The study was published today in Molecular Cell.",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-donut-spop-protein-reveals-mechanism.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "spop",
+        "mutations",
+        "cancer",
+        "protein",
+        "this",
+        "their",
+        "balance",
+        "double-donut"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.153361+00:00"
+    },
+    {
+      "id": "rss-762537b0cc1f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Can AI help make medical records less biased? New study suggests yes—with caveats",
+      "authors": "Medical Xpress",
+      "abstract": "Large language models can identify judgmental language in clinical notes, but the settings play a major role in accuracy.",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-ai-medical-biased-caveats.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "language",
+        "help",
+        "make",
+        "medical",
+        "records",
+        "less",
+        "biased",
+        "suggests"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.153604+00:00"
+    },
+    {
+      "id": "rss-cf7a369f0107",
+      "discipline": "cs",
+      "type": "news",
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "authors": "TechCrunch AI",
+      "abstract": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "apple",
+        "allegations",
+        "trade",
+        "secrets",
+        "lawsuit",
+        "against",
+        "openai",
+        "that"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.178198+00:00"
+    },
+    {
+      "id": "rss-b5cdd22d5b42",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "authors": "TechCrunch AI",
+      "abstract": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "altman",
+        "space",
+        "center",
+        "trash",
+        "talk",
+        "what",
+        "most",
+        "experts"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.178473+00:00"
+    },
+    {
+      "id": "rss-4ffe50148174",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Should AI help you get away with killing your spouse?",
+      "authors": "TechCrunch AI",
+      "abstract": "What does a world of total user-aligned AI actually look like?",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "should",
+        "help",
+        "away",
+        "killing",
+        "your",
+        "spouse",
+        "what",
+        "does"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.178630+00:00"
+    },
+    {
+      "id": "rss-71a44aeb686f",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "authors": "TechCrunch AI",
+      "abstract": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "claude",
+        "india",
+        "anthropic",
+        "starts",
+        "localizing",
+        "pricing",
+        "biggest",
+        "market"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.178786+00:00"
     },
     {
       "id": "rss-ebe1eeb371d0",
@@ -460,7 +588,7 @@
       "type": "news",
       "title": "Waze adds new AI-powered features and customization updates",
       "authors": "TechCrunch AI",
-      "abstract": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+      "abstract": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
       "date": "2026-07-13",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -484,7 +612,71 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.640180+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.178965+00:00"
+    },
+    {
+      "id": "rss-ce688c2211e0",
+      "discipline": "cs",
+      "type": "news",
+      "title": "How MIT students are helping to prevent cyberattacks",
+      "authors": "MIT News AI",
+      "abstract": "Students from the MIT Cybersecurity Clinic help local governments and other vulnerable organizations defend against digital threats.",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "students",
+        "helping",
+        "prevent",
+        "cyberattacks",
+        "cybersecurity",
+        "clinic",
+        "help",
+        "local"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.214372+00:00"
+    },
+    {
+      "id": "rss-d7bb3cddfe2e",
+      "discipline": "cs",
+      "type": "news",
+      "title": "AI agents create virtual playgrounds to help robots get crucial training data",
+      "authors": "MIT News AI",
+      "abstract": "“SceneSmith” system uses collaborative AI agents to create realistic 3D environments of places like kitchens, hotels, and living rooms, where robots can simulate everyday chores.",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "agents",
+        "create",
+        "robots",
+        "virtual",
+        "playgrounds",
+        "help",
+        "crucial",
+        "training"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.214581+00:00"
     },
     {
       "id": "rss-67f98bea1dc8",
@@ -516,7 +708,327 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.708144+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.214746+00:00"
+    },
+    {
+      "id": "rss-35f3c73960fd",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Protecting the living waters of the Channel Islands from marine debris",
+      "authors": "NOAA News",
+      "abstract": "Protecting the living waters of the Channel Islands from marine debris Inspiration Point on Anacapa Island provides a glorious view of the Channel Islands. (Image credit: Claire Fackler, NOAA National Marine Sanctuaries) Download Image July 7, 2026 Channel Islands National Park and Channel Islands National Marine Sanctuary protect some of California’s richest coastal and marine habitats. Keeping these remote islands and surrounding waters free of marine debris requires extensive collaboration among volunteers, conservation organizations, and local lobster fishers who help recover debris from difficult-to-access shorelines. Education 0 Off",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/education/stories/protecting-living-waters-of-channel-islands-from-marine-debris-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "islands",
+        "marine",
+        "channel",
+        "debris",
+        "waters",
+        "national",
+        "protecting",
+        "living"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.384939+00:00"
+    },
+    {
+      "id": "rss-fd9a37f6681c",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Adopt a Drifter Program grows this summer",
+      "authors": "NOAA News",
+      "abstract": "Adopt a Drifter Program grows this summer Teacher at Sea Susan Dee deploys a drifter buoy. (Image credit: NOAA Teacher at Sea) Download Image June 26, 2026 More than 20 years after the first teacher adopted a drifter, NOAA’s Adopt a Drifter Program , co-led by the Global Ocean Monitoring and Observing Program (GOMO) and the Atlantic Oceanographic and Meteorological Laboratory (AOML), continues to grow and evolve this summer. Education 0 Off",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/education/stories/adopt-drifter-program-grows-summer-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "drifter",
+        "program",
+        "adopt",
+        "this",
+        "summer",
+        "teacher",
+        "grows",
+        "image"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.385219+00:00"
+    },
+    {
+      "id": "rss-d6d69b0873be",
+      "discipline": "geo",
+      "type": "news",
+      "title": "The story behind the shot: 2025 winners share tips before the next contest begins",
+      "authors": "NOAA News",
+      "abstract": "The story behind the shot: 2025 winners share tips before the next contest begins Stargazing near the Old Seven Mile Bridge, Florida Keys National Marine Sanctuary (Image credit: Daniel Eidsmoe) Download Image May 19, 2026 Each year, the Get Into Your Sanctuary Photo Contest invites photographers to capture the beauty, biodiversity, and recreational experiences found across national marine sanctuaries and beyond. From quiet intertidal moments along the Olympic Coast to swirling shoals of squid in the Florida Keys and starlit skies over historic bridges, the 2025 winners reveal the many ways people connect with these special places. Education 0 Off",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/education/stories/story-behind-shot-2025-winners-share-tips-before-next-contest-begins-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "winners",
+        "contest",
+        "story",
+        "behind",
+        "shot",
+        "share",
+        "tips",
+        "before"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.385554+00:00"
+    },
+    {
+      "id": "rss-68e47e682229",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Building community resilience through CALM",
+      "authors": "NOAA News",
+      "abstract": "Building community resilience through CALM Upper Lake Park bluff tour in 2025. (Image credit: Lydia Salus, Wisconsin Coastal Management Program) Download Image July 10, 2026 The Takeaway: State partners in Wisconsin joined to create the Collaborative Action for Lake Michigan (CALM) Coastal Resilience network to build resilience and mitigate hazards by increasing coordination among local, regional, and state agencies. Education 0 Off",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/education/stories/building-community-resilience-through-calm-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "resilience",
+        "calm",
+        "building",
+        "community",
+        "lake",
+        "image",
+        "wisconsin",
+        "coastal"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.385803+00:00"
+    },
+    {
+      "id": "rss-e186ac38d0fa",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Florida partners supercharge teacher workshop at the Guana Tolomato Matanzas Reserve",
+      "authors": "NOAA News",
+      "abstract": "Florida partners supercharge teacher workshop at the Guana Tolomato Matanzas Reserve View of the transition between hammock, marsh and the Tolomato River at the Guana Tolomato Matanzas National Estuarine Research Reserve. (Image credit: Savanna Mathis) July 10, 2026 Environmental educators from different organizations, led by Guana Tolomato Matanzas National Estuarine Research Reserve, hosted a two-day Teachers on the Estuary (TOTE) workshop for Florida teachers to explore new curricula, resources, and funding opportunities. Education 0 Off",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/education/stories/florida-partners-supercharge-teacher-workshop-at-guana-tolomato-matanzas-reserve-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "tolomato",
+        "guana",
+        "matanzas",
+        "reserve",
+        "florida",
+        "workshop",
+        "partners",
+        "supercharge"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.386065+00:00"
+    },
+    {
+      "id": "rss-bde592569e0e",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Minnesota, Texas Sea Grant programs to lead next aquaculture leadership academy",
+      "authors": "NOAA News",
+      "abstract": "Minnesota, Texas Sea Grant programs to lead next aquaculture leadership academy Sea Grant Aquaculture Leadership Academy participants tour a Sandbar Oyster Company oyster and salt marsh restoration project North Carolina. (Image credit: LaDon Swann) Download Image April 6, 2026 The leaders will include Fisheries and Aquaculture Extension Educator Julia Grenn and Extension Program Leader and Aquaculture Extension Educator Amy Schrank, both of Minnesota Sea Grant, and Aquaculture Specialist Mario Marquez, Extension Director Christine Hale and Coastal and Marine Extension Agent Amy Nowlin, all of Texas Sea Grant. Education 0 Off",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/education/stories/minnesota-texas-sea-grant-programs-to-lead-next-aquaculture-leadership-academy-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "aquaculture",
+        "grant",
+        "extension",
+        "minnesota",
+        "texas",
+        "leadership",
+        "academy",
+        "programs"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.386397+00:00"
+    },
+    {
+      "id": "rss-de0ae6db61b8",
+      "discipline": "geo",
+      "type": "news",
+      "title": "City nature challenge at Mallows Bay",
+      "authors": "NOAA News",
+      "abstract": "City nature challenge at Mallows Bay Photos uploaded to iNaturalist help record biodiversity in the sanctuary. (Image credit: Taylor Schneider/NOAA) Download Image May 26, 2026 For the fourth year in a row, Mallows Bay-Potomac River National Marine Sanctuary participated in the worldwide City Nature Challenge that occurred from April 24 to 27, 2026. The City Nature Challenge is a friendly collaboration among cities all over the world to share observations of nature using the iNaturalist app. Participants upload photos of the plants, animals, and fungi that they see, where it gets recorded in iNaturalist while crowd-sourced data helps identify the species. Each year, the City Nature Challenge provides a snapshot of global biodiversity, with millions of observations of tens of thousands of different species across the world recorded over one weekend. Education 0 Off",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/education/stories/city-nature-challenge-at-mallows-bay-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nature",
+        "city",
+        "challenge",
+        "mallows",
+        "inaturalist",
+        "photos",
+        "biodiversity",
+        "sanctuary"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.386729+00:00"
+    },
+    {
+      "id": "rss-a8870f3ce44e",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Professional pevelopment workshop brings deep-sea science to Palau’s middle and high school classrooms",
+      "authors": "NOAA News",
+      "abstract": "Professional pevelopment workshop brings deep-sea science to Palau’s middle and high school classrooms A shallow coral reef community in Palau National Marine Sanctuary. (Image credit: Manu San Felix.) Download Image May 20, 2026 From March 31 to April 1, the Palau International Coral Reef Center (PICRC), in collaboration with educators from NOAA Ocean Exploration and Palau’s Ministry of Education, successfully conducted a two-day professional development workshop for 27 school teachers from across Palau. Although the focus was on middle and high school teachers, the workshop attracted a much wider range with teachers from third to ninth grade attending. Education 0 Off",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/education/stories/professional-development-workshop-brings-deep-sea-science-to-palaus-middle-and-high-school",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "palau",
+        "workshop",
+        "school",
+        "professional",
+        "middle",
+        "high",
+        "teachers",
+        "pevelopment"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.387060+00:00"
+    },
+    {
+      "id": "rss-f539e04beda9",
+      "discipline": "geo",
+      "type": "news",
+      "title": "New educational resource kit brings Arctic Report Card to K-16 audiences",
+      "authors": "NOAA News",
+      "abstract": "New educational resource kit brings Arctic Report Card to K-16 audiences (Image credit: Alex Rivest) Download Image May 29, 2026 The Arctic Report Card Educational Resource Kit is a curated collection of resources for anyone interested in the Arctic Report Card (ARC), including educators and students, and designed to be used with all editions of the Arctic Report Card. This resource was created alongside the release of the 20th anniversary Arctic Report Card in December 2025 and the National Science Teaching Association Science Update webinar, held in January 2026. The kit is targeted to students in middle school, high school, and undergraduates, with special sections for younger students. Education 0 Off",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/education/stories/new-educational-resource-kit-brings-arctic-report-card-to-k-16-audiences-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "arctic",
+        "report",
+        "card",
+        "resource",
+        "educational",
+        "students",
+        "brings",
+        "audiences"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.387405+00:00"
+    },
+    {
+      "id": "rss-2cbb29f52f13",
+      "discipline": "geo",
+      "type": "news",
+      "title": "New digital Sea Grant platform expands aquaculture education across the Southeast U.S.",
+      "authors": "NOAA News",
+      "abstract": "New digital Sea Grant platform expands aquaculture education across the Southeast U.S. Crew aboard a small boat operated by the Seagrove Kelp Company harvests farmed kelp from an inlet in southeast Alaska. Undated image. (Image credit: NOAA Fisheries) Download Image June 24, 2026 A tray of succulent oysters on a bed of crushed ice might entice at the Fourth of July party, but you ignore the allure because you’ve been told to only eat them in months that end in “R.” Or you picked up a filet of salmon at the supermarket, saw the “farm-raised” label, and hesitantly put it back. Education 0 Off",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/education/stories/new-digital-sea-grant-platform-expands-aquaculture-education-across-southeast-us-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "education",
+        "southeast",
+        "image",
+        "digital",
+        "grant",
+        "platform",
+        "expands",
+        "aquaculture"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-13T19:46:13.387746+00:00"
     },
     {
       "id": "rss-8a9b6aebaa6d",
@@ -548,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.640378+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.179122+00:00"
     },
     {
       "id": "rss-71e89b4b0622",
@@ -580,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.640553+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.179306+00:00"
     },
     {
       "id": "rss-be4e465cd1e6",
@@ -612,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.640684+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.179509+00:00"
     },
     {
       "id": "rss-a2e9ad7a5ac2",
@@ -644,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.640943+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.179756+00:00"
     },
     {
       "id": "rss-bd0b80e1886c",
@@ -676,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.641091+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.179925+00:00"
     },
     {
       "id": "rss-dc6e61ee60e4",
@@ -708,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.641289+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.180152+00:00"
     },
     {
       "id": "rss-9c3144767ad1",
@@ -740,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.641433+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.180344+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -772,7 +1284,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.666251+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.430367+00:00"
     },
     {
       "id": "rss-725dad01df94",
@@ -804,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.641605+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.180557+00:00"
     },
     {
       "id": "rss-13ae861dbe46",
@@ -836,135 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.641740+00:00"
-    },
-    {
-      "id": "rss-411880d1b78f",
-      "discipline": "cs",
-      "type": "news",
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "authors": "TechCrunch AI",
-      "abstract": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "agent",
-        "startup",
-        "that",
-        "just",
-        "fundraise",
-        "lyzr",
-        "builds",
-        "agents"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.641892+00:00"
-    },
-    {
-      "id": "rss-2d64bd6fb67c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "authors": "TechCrunch AI",
-      "abstract": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "openai",
-        "browser",
-        "shutting",
-        "down",
-        "atlas",
-        "ambitions",
-        "still",
-        "growing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.642037+00:00"
-    },
-    {
-      "id": "rss-aded0637a2db",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-      "authors": "TechCrunch AI",
-      "abstract": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "musk",
-        "elon",
-        "anthropic",
-        "praises",
-        "mythos",
-        "fable",
-        "promises",
-        "should"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.642187+00:00"
-    },
-    {
-      "id": "rss-0da9ec8e7943",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Can AI answer the $3 trillion question?",
-      "authors": "TechCrunch AI",
-      "abstract": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "answer",
-        "trillion",
-        "question",
-        "debate",
-        "returned",
-        "numbers",
-        "even",
-        "bigger"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.642303+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.180707+00:00"
     },
     {
       "id": "rss-e3ae47ff98f8",
@@ -996,39 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.708314+00:00"
-    },
-    {
-      "id": "rss-0d082fc80b65",
-      "discipline": "geo",
-      "type": "news",
-      "title": "VIDEO: What is geodesy?",
-      "authors": "NOAA News",
-      "abstract": "VIDEO: What is geodesy? A geodesist on the National Mall in Washington, D.C., looking through a surveying device. (Image credit: NOAA) Download Image July 9, 2026 Ocean & Coasts geodesy National Geodetic Survey 0 Off",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/video-what-is-geodesy-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "geodesy",
-        "video",
-        "what",
-        "national",
-        "image",
-        "geodesist",
-        "mall",
-        "washington"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:55.234470+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.214906+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -1060,7 +1412,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:51.161868+00:00"
+      "_retrievedAt": "2026-07-13T19:46:10.056855+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -1092,7 +1444,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.664643+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.426968+00:00"
     },
     {
       "id": "rss-904aa85f5191",
@@ -1124,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.708464+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.215067+00:00"
     },
     {
       "id": "rss-319482b50c5b",
@@ -1156,39 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.708606+00:00"
-    },
-    {
-      "id": "rss-e3007bcab77e",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA and partners cut ribbon on new pier, port facility in Charleston, South Carolina",
-      "authors": "NOAA News",
-      "abstract": "NOAA and partners cut ribbon on new pier, port facility in Charleston, South Carolina July 8, 2026 Commerce Department Deputy Secretary Paul Dabbar and NOAA Administrator Neil Jacobs, Ph.D., (fourth and third from the right, respectively) joined other leadership and partners to cut a celebratory ribbon draped across the entrance to NOAA’s newest pier and port facility in Charleston, South Carolina, July 8, 2026. (Image credit: NOAA) Download Image Leadership from the Department of Commerce and NOAA joined partners today in celebrating the official opening of NOAA’s newest facility for marine operations, NOAA’s Charleston Port Facility. The facility, home to NOAA ships Ronald H. Brown and Nancy Foster , will enhance NOAA’s capacity to conduct critical research missions in the Atlantic. The ships in NOAA’s Atlantic fleet collect data essential to protecting marine mammals, coral reefs a...",
-      "date": "2026-07-07",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/noaa-and-partners-cut-ribbon-on-new-pier-port-facility-in-charleston-south-carolina",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "facility",
-        "partners",
-        "port",
-        "charleston",
-        "ribbon",
-        "pier",
-        "south"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:55.235011+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.215229+00:00"
     },
     {
       "id": "rss-a5d229a3d4b5",
@@ -1220,39 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.708767+00:00"
-    },
-    {
-      "id": "rss-c7c8b3bfebe0",
-      "discipline": "geo",
-      "type": "news",
-      "title": "The 20th anniversary of the NOAA Marine Debris Program",
-      "authors": "NOAA News",
-      "abstract": "The 20th anniversary of the NOAA Marine Debris Program Public participants in NOAA’s Marine Debris Monitoring and Assessment Project sort debris items and record data at Nukoli’i Beach, Hawaii in June of 2024. (Image credit: Kauai Surfrider) July 6, 2026 Twenty years ago, the NOAA Marine Debris Program was established as the U.S. Government’s lead to reduce and prevent the adverse impacts of marine debris on our ocean and Great Lakes. Education 0 On",
-      "date": "2026-07-06",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/education/stories/20th-anniversary-of-noaa-marine-debris-program-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "debris",
-        "marine",
-        "noaa",
-        "program",
-        "anniversary",
-        "public",
-        "participants",
-        "monitoring"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:55.235273+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.215448+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -1284,7 +1572,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.925163+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.773054+00:00"
     },
     {
       "id": "rss-0ec61d5c541e",
@@ -1316,71 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.708956+00:00"
-    },
-    {
-      "id": "rss-19259ec0f554",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Sudden danger: the science and stakes of flash flood forecasting",
-      "authors": "NOAA News",
-      "abstract": "Sudden danger: the science and stakes of flash flood forecasting An aerial view of a valley town with streets and houses overcome by flood waters. (Image credit: Christian/stock.adobe.com) July 1, 2026 Research Weather severe storms flooding forecasts 0 Off",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/sudden-danger-science-and-stakes-of-flash-flood-forecasting-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "flood",
-        "sudden",
-        "danger",
-        "stakes",
-        "flash",
-        "forecasting",
-        "aerial",
-        "view"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:55.235467+00:00"
-    },
-    {
-      "id": "rss-cdcec8d11a6a",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA announces regional priorities to advance America-first seafood strategy",
-      "authors": "NOAA News",
-      "abstract": "NOAA announces regional priorities to advance America-first seafood strategy July 2, 2026 The United States is a global leader in fisheries excellence, and aligning foreign fisheries to American standards will increase opportunities for American fishermen and women. (Shutterstock via NOAA Fisheries) Today, NOAA announced regional priorities to revitalize the U.S. seafood sector focused on reducing burdens on domestic fishing, increasing production, improving access, and enhancing economic profitability. This bold, coordinated effort by the Department of Commerce through NOAA Fisheries is in direct response to the President’s Executive Order Restoring American Seafood Competitiveness to increase the sustainable harvest of seafood resources and boost American fishermen. “These regional priorities are a critical step in our efforts to fulfill the President's vision of making the United S...",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/noaa-announces-regional-priorities-to-advance-america-first-seafood-strategy",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "seafood",
-        "regional",
-        "priorities",
-        "fisheries",
-        "american",
-        "announces",
-        "advance"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:55.235960+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.215658+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -1412,39 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.709113+00:00"
-    },
-    {
-      "id": "rss-19e287a9fb9c",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Contract for $99.6M awarded for NOAA Ship Henry B. Bigelow technology upgrade, essential maintenance",
-      "authors": "NOAA News",
-      "abstract": "Contract for $99.6M awarded for NOAA Ship Henry B. Bigelow technology upgrade, essential maintenance July 1, 2026 The NOAA Ship Henry B. Bigelow sailing near its homeport in Newport, Rhode Island. (Image credit: Katherine McGinnis/NOAA OMAO) Download Image NOAA has awarded $99,637,544.00 to JAG Ketchikan, LLC. in Ketchikan, Alaska, to complete expanded upgrades and maintenance on NOAA Ship Henry B. Bigelow. Following the 2027 field season, the ship will undergo this work for a 14-month period. The Bigelow is one of NOAA’s 15 research vessels and studies a wide range of marine life and ocean conditions along the U.S. East Coast with a primary mission to study and monitor fish stocks. “NOAA Ship Henry B. Bigelow is a vital part of NOAA’s fleet” said NOAA Administrator Neil Jacobs, Ph.D. “These critical improvements to the Bigelow will allow NOAA to meet our mission, improve our surveys,...",
-      "date": "2026-06-30",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/noaa-awards-99-point-6-million-dollar-contract-for-noaa-ship-bigelow-technology-upgrade-and-essential-maintenance",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "bigelow",
-        "ship",
-        "henry",
-        "awarded",
-        "maintenance",
-        "contract",
-        "technology"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:55.236452+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.215838+00:00"
     },
     {
       "id": "rss-4e904f861292",
@@ -1476,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.709268+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.216017+00:00"
     },
     {
       "id": "rss-5b0f51c03247",
@@ -1508,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.709419+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.216190+00:00"
     },
     {
       "id": "rss-171691b8cedf",
@@ -1540,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.709551+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.216364+00:00"
     },
     {
       "id": "rss-3811b60f2c26",
@@ -1572,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.709726+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.216557+00:00"
     },
     {
       "id": "rss-a8a59a71fab6",
@@ -1604,135 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.709885+00:00"
-    },
-    {
-      "id": "rss-0e554b469f1c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Improving the speed and energy-efficiency of AI agents",
-      "authors": "MIT News AI",
-      "abstract": "A new system, known as Murakkab, optimizes the design and deployment of multistep workflows that power AI applications.",
-      "date": "2026-06-25",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "improving",
-        "speed",
-        "energy-efficiency",
-        "agents",
-        "system",
-        "known",
-        "murakkab",
-        "optimizes"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.710014+00:00"
-    },
-    {
-      "id": "rss-c83a6084c17d",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Ribbon cutting event for new NOAA facility in North Charleston, South Carolina",
-      "authors": "NOAA News",
-      "abstract": "Ribbon cutting event for new NOAA facility in North Charleston, South Carolina June 25, 2026 Charleston’s waterfront now has a new, state-of-the-art floating pier . The new pier and facility will provide essential support to NOAA Ship Nancy Foster, NOAA Ship Ronald H. Brown, and NOAA Corps officers and civilian mariners who rely on safe, resilient waterfront infrastructure to execute scientific and operational missions. (Image credit: Alan Blackwell/NOAA) Download Image NOAA Marine and Aviation Operations will hold a ribbon cutting ceremony to celebrate the opening of a new pier facility following renovations at the agency’s location in North Charleston, South Carolina. The renovations included demolishing and building a new pier with shoreside power for ships, as well as a warehouse, sea wall and living shoreline, and other supporting infrastructure. Reconstruction of the pier and ot...",
-      "date": "2026-06-24",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/media-advisory/ribbon-cutting-event-for-new-noaa-facility-in-north-charleston-south-carolina",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "pier",
-        "facility",
-        "charleston",
-        "ribbon",
-        "cutting",
-        "north",
-        "south"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:55.236911+00:00"
-    },
-    {
-      "id": "rss-4347e37ce541",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Happy 250th USA! Here's your July 4th weekend forecast",
-      "authors": "NOAA News",
-      "abstract": "Happy 250th USA! Here's your July 4th weekend forecast The NOAA Ship Thomas Jefferson passes by the Statue of Liberty in New York Harbor in 2021. (Image credit: NOAA) Download Image July 2, 2026 Stars, stripes and lots of sun: Much of the central and eastern U.S. will swelter under extreme heat for America’s semiquincentennial celebrations, as the West enjoys more typical summer temperatures. Here’s our national weather summary for Independence Day weekend: A dangerous summer scorcher for millions A persistent heat dome will bake a good chunk of the U.S. late week. High temperatures will soar 10-20 degrees F above average across the eastern third of the U.S. on Friday and Saturday, before the hottest air pushes into the Southeast on Sunday. Heat index temperatures , which measure how hot it feels when you factor in the relative humidity, will range from 105-115 degrees across a good p...",
-      "date": "2026-06-24",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news/happy-250th-usa-heres-your-july-4th-weekend-forecast",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "will",
-        "here",
-        "july",
-        "weekend",
-        "heat",
-        "temperatures",
-        "happy",
-        "your"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:55.237469+00:00"
-    },
-    {
-      "id": "rss-0439785447ef",
-      "discipline": "geo",
-      "type": "news",
-      "title": "New eDNA tool to help track recovery of sunflower sea star, a Pacific Coast ‘apex predator’",
-      "authors": "NOAA News",
-      "abstract": "New eDNA tool to help track recovery of sunflower sea star, a Pacific Coast ‘apex predator’ Michael Peñuelas, a Seattle scuba diver, examines a large sunflower sea star in the Edmonds Marine Park in Puget Sound, Washington, in 2021. (Image credit: Courtesy of Zachary Gold) June 25, 2026 A wasting disease that surged during the intense 2013-2016 Pacific marine heatwave known as the Blob decimated numerous species of sea stars and triggered the collapse of vast coastal kelp forests from the Aleutians to the Baja Peninsula. One of the species most affected was the sunflower sea star , an apex predator that feeds on kelp grazers like sea urchins. As captive breeding programs and the discovery of additional sea star refuges, (like the one found in Greater Farallones National Marine Sanctuary in August 2025 ) fuel hopes for the sunflower sea star, researchers at NOAA’s Pacific Marine Enviro...",
-      "date": "2026-06-24",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/new-edna-tool-to-help-track-recovery-of-sunflower-sea-star-pacific-coast-apex-predator",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "star",
-        "sunflower",
-        "pacific",
-        "marine",
-        "apex",
-        "predator",
-        "edna",
-        "tool"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:55.238128+00:00"
+      "_retrievedAt": "2026-07-13T19:46:13.216740+00:00"
     },
     {
       "id": "openalex-239a44a48c00",
@@ -1764,7 +1828,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:51.160315+00:00"
+      "_retrievedAt": "2026-07-13T19:46:10.055191+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1796,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.379666+00:00"
+      "_retrievedAt": "2026-07-13T19:46:08.982039+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1828,71 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.380072+00:00"
-    },
-    {
-      "id": "rss-6e64d9a2858e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Exploring the societal impacts of AI",
-      "authors": "MIT News AI",
-      "abstract": "During the AI and Society Forum, leading MIT researchers examined critical questions about AI’s influence on employment and democracy.",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/exploring-societal-impacts-of-ai-0623",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "exploring",
-        "societal",
-        "impacts",
-        "during",
-        "society",
-        "forum",
-        "leading",
-        "researchers"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:54.710145+00:00"
-    },
-    {
-      "id": "rss-93a5db061a72",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Moderate harmful algal bloom predicted for western Lake Erie",
-      "authors": "NOAA News",
-      "abstract": "Moderate harmful algal bloom predicted for western Lake Erie Visible blooms could impact coastal recreation by mid-July June 25, 2026 An aerial photo of the green waters of harmful algal bloom in western Lake Erie, July 20, 2020. (Image credit: Courtesy of Zachary Haslick, Aerial Associates) NOAA and its research partners are forecasting a moderate harmful algal bloom (HAB) in western Lake Erie this summer. This year’s bloom is expected to measure 3.5 on the HAB severity index, with a potential range of 3 to 4.5. “Toxic algae affect not only the health of people and Great Lakes ecosystems, but they can negatively impact local and regional economies by preventing people from fishing, swimming, boating and visiting the shoreline,” said Nicole LeBoeuf, assistant administrator for NOAA’s National Ocean Service. “NOAA’s Lake Erie harmful algal bloom forecast is designed to provide timely,...",
-      "date": "2026-06-22",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/moderate-harmful-algal-bloom-predicted-for-western-lake-erie",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "bloom",
-        "harmful",
-        "algal",
-        "lake",
-        "erie",
-        "western",
-        "moderate",
-        "noaa"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:55.238715+00:00"
+      "_retrievedAt": "2026-07-13T19:46:08.982863+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1924,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.924783+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.772696+00:00"
     },
     {
       "id": "openalex-ff18973ad306",
@@ -1956,7 +1956,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.926436+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.774420+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1988,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.379065+00:00"
+      "_retrievedAt": "2026-07-13T19:46:08.980719+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2020,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.928790+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.776953+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2052,7 +2052,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:51.166252+00:00"
+      "_retrievedAt": "2026-07-13T19:46:10.061514+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2084,7 +2084,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:51.162767+00:00"
+      "_retrievedAt": "2026-07-13T19:46:10.057796+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2116,7 +2116,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.377355+00:00"
+      "_retrievedAt": "2026-07-13T19:46:08.977215+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2148,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:51.161457+00:00"
+      "_retrievedAt": "2026-07-13T19:46:10.056476+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2180,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.380930+00:00"
+      "_retrievedAt": "2026-07-13T19:46:08.984687+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2212,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.381393+00:00"
+      "_retrievedAt": "2026-07-13T19:46:08.985588+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2244,7 +2244,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.924552+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.772475+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2276,7 +2276,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.377035+00:00"
+      "_retrievedAt": "2026-07-13T19:46:08.976611+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2308,7 +2308,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.378676+00:00"
+      "_retrievedAt": "2026-07-13T19:46:08.979926+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2340,7 +2340,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.376612+00:00"
+      "_retrievedAt": "2026-07-13T19:46:08.975858+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2372,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.929103+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.777287+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2404,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.928471+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.776629+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2436,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:51.161070+00:00"
+      "_retrievedAt": "2026-07-13T19:46:10.055998+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2468,7 +2468,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.377793+00:00"
+      "_retrievedAt": "2026-07-13T19:46:08.978063+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -2500,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.666521+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.430962+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -2532,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.667070+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.432158+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -2564,7 +2564,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.381722+00:00"
+      "_retrievedAt": "2026-07-13T19:46:08.986009+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2596,7 +2596,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.380613+00:00"
+      "_retrievedAt": "2026-07-13T19:46:08.984043+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -2628,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:51.164766+00:00"
+      "_retrievedAt": "2026-07-13T19:46:10.059921+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -2660,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.665571+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.428915+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -2692,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:51.162182+00:00"
+      "_retrievedAt": "2026-07-13T19:46:10.057173+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2724,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.667347+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.432824+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2756,7 +2756,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.380367+00:00"
+      "_retrievedAt": "2026-07-13T19:46:08.983526+00:00"
     },
     {
       "id": "openalex-7ccfc202ecea",
@@ -2788,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.663998+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.425633+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2820,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.667950+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.433980+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -2852,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:51.163686+00:00"
+      "_retrievedAt": "2026-07-13T19:46:10.058777+00:00"
     },
     {
       "id": "openalex-557912e64e56",
@@ -2884,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.664315+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.426256+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -2916,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:51.165899+00:00"
+      "_retrievedAt": "2026-07-13T19:46:10.061119+00:00"
     },
     {
       "id": "openalex-8d5e6bfc7e0b",
@@ -2948,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.668508+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.435113+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -2980,7 +2980,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.925797+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.773719+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -3012,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.665265+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.428258+00:00"
     },
     {
       "id": "openalex-43e02d456db7",
@@ -3044,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.668198+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.434494+00:00"
     },
     {
       "id": "openalex-1bdbe1c46708",
@@ -3076,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.927256+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.775278+00:00"
     },
     {
       "id": "openalex-7ecbe579840c",
@@ -3108,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:51.165139+00:00"
+      "_retrievedAt": "2026-07-13T19:46:10.060339+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -3140,7 +3140,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.379333+00:00"
+      "_retrievedAt": "2026-07-13T19:46:08.981300+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -3172,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.926085+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.774028+00:00"
     },
     {
       "id": "openalex-be8055a102c2",
@@ -3204,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:51.163281+00:00"
+      "_retrievedAt": "2026-07-13T19:46:10.058356+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -3236,7 +3236,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.378086+00:00"
+      "_retrievedAt": "2026-07-13T19:46:08.978669+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -3268,7 +3268,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.378472+00:00"
+      "_retrievedAt": "2026-07-13T19:46:08.979465+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -3300,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.666812+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.431592+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -3332,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.665003+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.427683+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -3364,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.667616+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.433387+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -3396,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.665930+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.429668+00:00"
     },
     {
       "id": "openalex-7717ed1550fb",
@@ -3428,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.929478+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.777707+00:00"
     },
     {
       "id": "openalex-0619fc14a254",
@@ -3460,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:51.164392+00:00"
+      "_retrievedAt": "2026-07-13T19:46:10.059531+00:00"
     },
     {
       "id": "openalex-568c4ca27e3e",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.927946+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.776023+00:00"
     },
     {
       "id": "openalex-2ee9b3321b5d",
@@ -3524,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:50.926770+00:00"
+      "_retrievedAt": "2026-07-13T19:46:09.774766+00:00"
     },
     {
       "id": "openalex-134f7f76ec80",
@@ -3556,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:51.162382+00:00"
+      "_retrievedAt": "2026-07-13T19:46:10.057406+00:00"
     },
     {
       "id": "openalex-a2a154306336",
@@ -3588,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:51.165495+00:00"
+      "_retrievedAt": "2026-07-13T19:46:10.060727+00:00"
     },
     {
       "id": "openalex-c87927273805",
@@ -3620,7 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-13T15:08:51.164013+00:00"
+      "_retrievedAt": "2026-07-13T19:46:10.059113+00:00"
     }
   ]
 }
