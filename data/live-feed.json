@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T08:25:56.478569+00:00",
+  "generatedAt": "2026-07-17T14:00:17.661464+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -7,452 +7,484 @@
   ],
   "papers": [
     {
-      "id": "rss-daf2eecee685",
+      "id": "rss-85d88fd300d6",
       "discipline": "clinical",
       "type": "news",
-      "title": "Researcher develops an affordable helping hand for stroke recovery",
+      "title": "Yes, breathing wildfire smoke can harm your health—here's what you can do to protect yourself",
       "authors": "Medical Xpress",
-      "abstract": "For millions of stroke survivors, something as simple as picking up a glass of water or holding a sandwich is a daily challenge. Quentin Sanders wants to make those moments easier through wearable robotic technology designed to restore hand function.",
+      "abstract": "Wildfire smoke from fires burning in Canada and northern Minnesota has been pouring across the Great Lakes and northeastern U.S. states, turning skies an eerie shade of orange. In the West, smoke has also been spreading into communities in Colorado and neighboring states as more wildfires burn in hot, dry conditions in July 2026.",
       "date": "2026-07-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-recovery.html",
+      "url": "https://medicalxpress.com/news/2026-07-wildfire-health.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "hand",
-        "stroke",
-        "researcher",
-        "develops",
-        "affordable",
-        "helping",
-        "recovery",
-        "millions"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.059664+00:00"
-    },
-    {
-      "id": "rss-f4801a58353f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Facing funding losses, states call out big businesses with employees on Medicaid",
-      "authors": "Medical Xpress",
-      "abstract": "As the Trump administration's January deadline looms for states to enforce new Medicaid work requirements, some state lawmakers are turning the tables by pushing to publicly name the largest companies that have employees enrolled in the government program covering low-income and disabled people.",
-      "date": "2026-07-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-funding-losses-states-big-businesses.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
+        "smoke",
+        "wildfire",
+        "been",
         "states",
-        "employees",
-        "medicaid",
-        "facing",
-        "funding",
-        "losses",
-        "call",
-        "businesses"
+        "breathing",
+        "harm",
+        "your",
+        "health"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.059956+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.116236+00:00"
     },
     {
-      "id": "rss-3424c3d8ddcb",
+      "id": "rss-4081ec83229f",
       "discipline": "clinical",
       "type": "news",
-      "title": "Research calls for Japan to redesign health and diplomacy by 2040",
+      "title": "Missing metabolite may drive rare childhood brain disorder, new biosensor reveals",
       "authors": "Medical Xpress",
-      "abstract": "Two papers by researchers and policy practitioners provide evidence-based suggestions to help Japan's health system continue to flourish, even as its population rapidly ages.",
+      "abstract": "Scientists at Children's Medical Center Research Institute at UT Southwestern (CRI) have discovered why babies born with a rare inborn error of metabolism called GPT2 deficiency suffer from severe neurological impairment. Using their newly developed biosensor to track the essential metabolite alpha-ketoglutarate (αKG), researchers found that the mitochondrial enzyme GPT2 and transporter protein SLC25A11 work together to control the production and transport of αKG from the mitochondria to the nucleus.",
       "date": "2026-07-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-japan-redesign-health-diplomacy.html",
+      "url": "https://medicalxpress.com/news/2026-07-metabolite-rare-childhood-brain-disorder.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "japan",
-        "health",
-        "calls",
-        "redesign",
-        "diplomacy",
-        "papers",
-        "researchers",
-        "policy"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.060226+00:00"
-    },
-    {
-      "id": "rss-d8292fb2d4a1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Study finds mixed associations between breastfeeding and childhood allergies",
-      "authors": "Medical Xpress",
-      "abstract": "Breastfeeding is widely recognized for its important role in supporting a child's early growth and immune system development. Previous studies have found that exclusive breastfeeding for 4 to 6 months is associated with a lower risk of bronchial asthma and allergic rhinitis during early childhood. Recognizing these health benefits, the World Health Organization recommends exclusive breastfeeding for the first 6 months of life. Despite its positive effects, its impact on food allergies remains inconclusive.",
-      "date": "2026-07-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-associations-breastfeeding-childhood-allergies.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "breastfeeding",
+        "metabolite",
+        "rare",
+        "biosensor",
+        "missing",
+        "drive",
         "childhood",
-        "allergies",
-        "early",
-        "exclusive",
-        "months",
+        "brain",
+        "disorder"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-17T14:00:17.116615+00:00"
+    },
+    {
+      "id": "rss-df57df3855d0",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Two studies advance sudden cardiac arrest prediction",
+      "authors": "Medical Xpress",
+      "abstract": "Warning symptoms, recurrent heart events may identify people at risk for this often-deadly event. Two studies from investigators at Cedars-Sinai Health Sciences University move the medical field closer to solving a longstanding challenge: predicting who is at risk for sudden cardiac arrest.",
+      "date": "2026-07-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-advance-sudden-cardiac.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "studies",
+        "sudden",
+        "cardiac",
+        "arrest",
+        "risk",
+        "advance",
+        "prediction",
+        "warning"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-17T14:00:17.116868+00:00"
+    },
+    {
+      "id": "rss-88528e5f9d9a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "No evidence mobile phones cause brain cancer—new study",
+      "authors": "Medical Xpress",
+      "abstract": "Electromagnetic waves are everywhere. They're the reason you can hear music when you turn on the radio, use Wi-Fi, find your way using satellite navigation, and make calls on a mobile phone. They are a form of electromagnetic radiation and sit at the weaker end of the spectrum, meaning they have the lowest energy and the longest wavelength.",
+      "date": "2026-07-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-evidence-mobile-brain-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "they",
+        "mobile",
+        "electromagnetic",
+        "evidence",
+        "phones",
+        "cause",
+        "brain",
+        "cancer"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-17T14:00:17.117135+00:00"
+    },
+    {
+      "id": "rss-fe40988fff99",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Researchers uncover novel pathway that causes epilepsy",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers have uncovered a novel biological pathway that can lead to seizures when disrupted. The findings also provide a new approach to improve the diagnosis of epilepsy, for which a genetic cause cannot be found in about 50% of individuals with the condition.",
+      "date": "2026-07-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-uncover-pathway-epilepsy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "researchers",
+        "novel",
+        "pathway",
+        "that",
+        "epilepsy",
+        "uncover",
+        "causes",
+        "have"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-17T14:00:17.117428+00:00"
+    },
+    {
+      "id": "rss-e5bbddcc7595",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Analysis shows U.S. nonprofit hospitals embracing more high-risk investments",
+      "authors": "Medical Xpress",
+      "abstract": "Health economics and public health experts have sought to shine a spotlight on the financialization of health care in the 21st century, but most of the literature has focused on how private equity and other financial actors are turning health care organizations like hospitals, nursing homes and physician practices into investment targets. A new paper is one of the first to systematically document how hospitals are also actively engaging in the financialization process as investors.",
+      "date": "2026-07-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-analysis-nonprofit-hospitals-embracing-high.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
         "health",
-        "finds"
+        "hospitals",
+        "financialization",
+        "care",
+        "shows",
+        "nonprofit",
+        "embracing",
+        "more"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.060548+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.117720+00:00"
     },
     {
-      "id": "rss-cba2321f3472",
+      "id": "rss-932bec625aba",
       "discipline": "clinical",
       "type": "news",
-      "title": "GLP-1 receptor agonist use does not increase insulin discontinuation with type 2 diabetes",
+      "title": "Medical spas and pharmacies offering compounded weight-loss drugs despite regulatory concerns",
       "authors": "Medical Xpress",
-      "abstract": "For veterans with type 2 diabetes (T2D) receiving basal insulin therapy, the addition of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) does not increase the rate of insulin discontinuation compared with other glucose-lowering agents, according to a study published online July 14 in the Annals of Internal Medicine.",
+      "abstract": "Despite the end of federal shortages of popular GLP-1 weight-loss medications, the market for compounded alternatives remains strong—and some patients may unknowingly be receiving products from pharmacies with concerning regulatory histories, according to new research from the University of Colorado Anschutz.",
       "date": "2026-07-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-glp-receptor-agonist-insulin-discontinuation.html",
+      "url": "https://medicalxpress.com/news/2026-07-medical-spas-pharmacies-compounded-weight.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "insulin",
-        "glp-",
-        "receptor",
-        "does",
-        "increase",
-        "discontinuation",
-        "type",
-        "diabetes"
+        "pharmacies",
+        "compounded",
+        "weight-loss",
+        "despite",
+        "regulatory",
+        "medical",
+        "spas",
+        "offering"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.060808+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.117986+00:00"
     },
     {
-      "id": "rss-1fe8d689ab38",
+      "id": "rss-0ad51d104b10",
       "discipline": "clinical",
       "type": "news",
-      "title": "Endometriosis presents symptom patterns that go beyond pain",
+      "title": "Cyclosporiasis: What to know and how to prevent it",
       "authors": "Medical Xpress",
-      "abstract": "Migraines, digestive problems, anxiety and depression can be part of endometriosis, although they are often interpreted as separate conditions. Research led by the Sant Pau Research Institute (IR Sant Pau) and published in Human Reproduction has identified different symptom patterns in more than 22,000 women, reinforcing the idea that the disease extends far beyond its traditional gynecological manifestations.",
+      "abstract": "Cyclosporiasis, a parasitic infection causing \"explosive diarrhea,\" is making headlines across the country. Dr. Stacey Rose, associate professor of internal medicine and infectious diseases at Baylor College of Medicine, explains why this illness is not like others that spread from person to person.",
       "date": "2026-07-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-endometriosis-symptom-patterns-pain.html",
+      "url": "https://medicalxpress.com/news/2026-07-cyclosporiasis.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "endometriosis",
-        "symptom",
-        "patterns",
+        "cyclosporiasis",
+        "medicine",
+        "person",
+        "what",
+        "know",
+        "prevent",
+        "parasitic",
+        "infection"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-17T14:00:17.118224+00:00"
+    },
+    {
+      "id": "rss-786d93c4cc22",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Experimental drug may protect the heart in Duchenne muscular dystrophy",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at the USF Health Morsani College of Medicine have identified a potential pathway that could protect cardiac function in people with Duchenne muscular dystrophy (DMD), a progressive and fatal genetic disease that weakens the body's muscles. Published in Molecular Therapy, the new study examined the effects of the experimental drug Setanaxib in two preclinical models of DMD.",
+      "date": "2026-07-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-experimental-drug-heart-duchenne-muscular.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "experimental",
+        "drug",
+        "protect",
+        "duchenne",
+        "muscular",
+        "dystrophy",
         "that",
-        "beyond",
-        "sant",
-        "presents",
-        "pain"
+        "heart"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.061072+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.118508+00:00"
     },
     {
-      "id": "rss-f2d3adb56071",
+      "id": "rss-158c25d83816",
       "discipline": "clinical",
       "type": "news",
-      "title": "Disrupted antioxidant balance linked to the development of 'Skellefteå disease'",
+      "title": "Researchers investigate potential connections between menopausal hormone therapy and ocular health",
       "authors": "Medical Xpress",
-      "abstract": "Researchers at Umeå University have identified changes in the body's major antioxidant systems in patients with hereditary transthyretin (TTR) amyloidosis. The findings support the hypothesis that oxidative stress contributes to disease development and also identify new biomarkers that may help detect individuals at increased risk of developing the disease. The results have been published in the journal Biomarker Research.",
+      "abstract": "Faculty members at the University of Colorado Anschutz School of Medicine are working together across academic departments to learn more about how menopausal hormone therapy, sometimes referred to as hormone replacement therapy, affects women's bodies. Among their many focuses is eye health.",
       "date": "2026-07-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-disrupted-antioxidant-linked-skellefte-disease.html",
+      "url": "https://medicalxpress.com/news/2026-07-potential-menopausal-hormone-therapy-ocular.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "disease",
-        "antioxidant",
-        "development",
-        "have",
-        "that",
-        "disrupted",
-        "balance",
-        "linked"
+        "hormone",
+        "therapy",
+        "menopausal",
+        "health",
+        "researchers",
+        "investigate",
+        "potential",
+        "connections"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.061406+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.118751+00:00"
     },
     {
-      "id": "rss-846498551f13",
+      "id": "rss-cbadc51f048c",
       "discipline": "clinical",
       "type": "news",
-      "title": "Impact of overweight on cancer risk may be significantly underestimated",
+      "title": "A clear message—wildfire smoke plus summer heat is double trouble for heart health",
       "authors": "Medical Xpress",
-      "abstract": "Being overweight and obesity may contribute to significantly more cancer cases than previously thought. This is the conclusion reached by researchers at the German Cancer Research Center (DKFZ). Their analysis shows that when more accurate measures of body fat and methodological biases are considered, more than 10% of all cancer cases can be attributed to increased body weight—nearly twice as many as previous estimates suggested.",
+      "abstract": "Parts of the U.S. are experiencing smoke from Canadian wildfires drifting down and rising summer temperatures, creating a potentially deadly situation, according to the American Heart Association, a relentless force changing the future of health for everyone everywhere.",
       "date": "2026-07-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-impact-overweight-cancer-significantly-underestimated.html",
+      "url": "https://medicalxpress.com/news/2026-07-message-wildfire-summer-heart-health.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cancer",
-        "more",
-        "overweight",
-        "significantly",
-        "cases",
-        "than",
+        "smoke",
+        "summer",
+        "heart",
+        "health",
+        "clear",
+        "message",
+        "wildfire",
+        "plus"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-17T14:00:17.119000+00:00"
+    },
+    {
+      "id": "rss-083f8fdea2ea",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New body index aims to move beyond BMI and works for babies too",
+      "authors": "Medical Xpress",
+      "abstract": "Body Mass Index (BMI) has long been used in public health and clinical settings as a simple tool to classify an individual's physical status based on their height and weight. Originally developed in the 1830s by Belgian mathematician Adolphe Quetelet, BMI was designed to describe the characteristics of the average man rather than to assess an individual's health, and it did not account for age, sex, ethnicity or body composition.",
+      "date": "2026-07-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-body-index-aims-bmi-babies.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
         "body",
-        "impact"
+        "index",
+        "health",
+        "individual",
+        "aims",
+        "move",
+        "beyond",
+        "works"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.061711+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.119261+00:00"
     },
     {
-      "id": "rss-577d1de00e66",
+      "id": "rss-5ba980513265",
       "discipline": "clinical",
       "type": "news",
-      "title": "Toxic waste build-up in the brain may be driving dementia and ALS",
+      "title": "Early inflammation signal drives oral cancer development, highlights path for immunoprevention",
       "authors": "Medical Xpress",
-      "abstract": "University of Manchester scientists have uncovered evidence that a buildup of a common body waste product in the brain could help drive two of the most devastating neurological diseases.",
+      "abstract": "Researchers at The University of Texas MD Anderson Cancer Center identified an immune pathway that may promote the progression of oral precancerous lesions into head and neck squamous cell carcinoma. These results provide insight into how precancers gradually establish immune tolerance that allows cancer development.",
       "date": "2026-07-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-toxic-brain-dementia-als.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "waste",
-        "brain",
-        "toxic",
-        "build-up",
-        "driving",
-        "dementia",
-        "university",
-        "manchester"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.061943+00:00"
-    },
-    {
-      "id": "rss-e596c68a04f7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Brain imaging now reveals receptor dysfunction in living patients with schizophrenia",
-      "authors": "Medical Xpress",
-      "abstract": "A study using positron emission tomography (PET) imaging has found that patients with schizophrenia had significantly lower muscarinic acetylcholine M1 receptor availability (about 13%–19%) across multiple brain regions than healthy individuals. Reduced M1 receptor availability affects several brain regions involved in cognition, learning, memory and executive function. The findings in Biological Psychiatry provide the first in vivo evidence supporting widespread M1 receptor deficits in schizophrenia.",
-      "date": "2026-07-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-brain-imaging-reveals-receptor-dysfunction.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "receptor",
-        "brain",
-        "schizophrenia",
-        "imaging",
-        "patients",
-        "availability",
-        "regions",
-        "reveals"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.062285+00:00"
-    },
-    {
-      "id": "rss-f3fe572ecf7d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "FDA clears first cholesterol pill to rival costly injections",
-      "authors": "Medical Xpress",
-      "abstract": "A new daily pill will give people with stubbornly high cholesterol a cheaper, needle-free way to lower their levels.",
-      "date": "2026-07-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-fda-cholesterol-pill-rival.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cholesterol",
-        "pill",
-        "clears",
-        "first",
-        "rival",
-        "costly",
-        "injections",
-        "daily"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.062498+00:00"
-    },
-    {
-      "id": "rss-6614df93d164",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Brexit nurse exodus linked to more than 3,700 extra hospital deaths, researchers warn",
-      "authors": "Medical Xpress",
-      "abstract": "The sharp fall in EU nurses joining the NHS after the Brexit referendum may have contributed to more than 1,200 additional patient deaths each year in England, according to new research led by the University of Surrey in partnership with the University of Aberdeen, Harvard Business School and Vienna University of Economics and Business (WU).",
-      "date": "2026-07-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-brexit-nurse-exodus-linked-extra.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "university",
-        "brexit",
-        "more",
-        "than",
-        "deaths",
-        "business",
-        "nurse",
-        "exodus"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.062746+00:00"
-    },
-    {
-      "id": "rss-5efe6843df15",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "MicroRNA discovery points to new strategy for slowing lung cancer growth",
-      "authors": "Medical Xpress",
-      "abstract": "Cancer develops when the body's systems for controlling cell growth break down, allowing cells to multiply unchecked. Texas A&M researchers have identified two naturally occurring molecules that appear to help restore those controls, offering a potential new strategy for slowing the progression of lung cancer.",
-      "date": "2026-07-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-microrna-discovery-strategy-lung-cancer.html",
+      "url": "https://medicalxpress.com/news/2026-07-early-inflammation-oral-cancer-highlights.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "cancer",
-        "strategy",
-        "slowing",
-        "lung",
-        "growth",
-        "microrna",
-        "discovery",
-        "points"
+        "oral",
+        "development",
+        "immune",
+        "that",
+        "early",
+        "inflammation",
+        "signal"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.062994+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.119529+00:00"
     },
     {
-      "id": "rss-5954ea029ffd",
+      "id": "rss-fa2dbe651451",
       "discipline": "clinical",
       "type": "news",
-      "title": "About one-third of women 35 years and older report perimenopause uncertainty",
+      "title": "An open-source blueprint to help institutions worldwide launch nurse-led innovation accelerators",
       "authors": "Medical Xpress",
-      "abstract": "Perimenopause uncertainty is prevalent among 34% of women aged 35 years or older, according to a study published online July 14 in Menopause.",
+      "abstract": "Recognizing that nurses are an untapped resource for health care solutions, Penn Nursing has released a comprehensive guide for institutions to build their own nurse-led innovation accelerators. The model, supported by the Bedford Falls Foundation, provides a structured pathway to move nurse-led ideas from simple \"one-offs\" to scalable, commercialized solutions.",
       "date": "2026-07-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-women-years-older-perimenopause-uncertainty.html",
+      "url": "https://medicalxpress.com/news/2026-07-source-blueprint-worldwide-nurse.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "women",
-        "years",
-        "older",
-        "perimenopause",
-        "uncertainty",
-        "about",
-        "one-third",
-        "report"
+        "nurse-led",
+        "institutions",
+        "innovation",
+        "accelerators",
+        "solutions",
+        "open-source",
+        "blueprint",
+        "help"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.063231+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.119776+00:00"
+    },
+    {
+      "id": "rss-ac1e07c98801",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "authors": "TechCrunch AI",
+      "abstract": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+      "date": "2026-07-17",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "million",
+        "first",
+        "financiers",
+        "turning",
+        "inference",
+        "chips",
+        "deal",
+        "chip-backed"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-17T14:00:17.166925+00:00"
     },
     {
       "id": "rss-13bda96af360",
@@ -484,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.082752+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.167174+00:00"
     },
     {
       "id": "rss-1f30727023be",
@@ -516,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.082965+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.167371+00:00"
     },
     {
       "id": "rss-04115fa3c0c2",
@@ -548,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.083151+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.167570+00:00"
     },
     {
       "id": "rss-192d77d506a7",
@@ -580,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.083367+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.167760+00:00"
     },
     {
       "id": "rss-04d63df6bc58",
@@ -612,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.083525+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.167918+00:00"
     },
     {
       "id": "rss-8f2bf07ad1bf",
@@ -644,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.083713+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.168111+00:00"
     },
     {
       "id": "rss-4b4cdb3f7828",
@@ -676,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.083888+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.168289+00:00"
     },
     {
       "id": "rss-e157b663321d",
@@ -708,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.084059+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.168506+00:00"
     },
     {
       "id": "rss-f2d1c6a775cc",
@@ -740,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.084237+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.168666+00:00"
     },
     {
       "id": "rss-306f1cefda1e",
@@ -772,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.084403+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.168824+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -804,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.114071+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.236801+00:00"
     },
     {
       "id": "rss-a19c1a1bfa59",
@@ -836,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.084557+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.168978+00:00"
     },
     {
       "id": "rss-100712c1170e",
@@ -868,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.084723+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.169148+00:00"
     },
     {
       "id": "rss-2092efb3a9f7",
@@ -900,39 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.084885+00:00"
-    },
-    {
-      "id": "rss-cabbc6119a44",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "authors": "TechCrunch AI",
-      "abstract": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
-      "date": "2026-07-15",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "first",
-        "public",
-        "thinking",
-        "machines",
-        "amps",
-        "against",
-        "one-size-fits-all",
-        "open"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.085047+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.169329+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -964,7 +964,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.114287+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.236984+00:00"
+    },
+    {
+      "id": "openalex-b138906c6b33",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "The economically optimal mix and timing of coastal adaptation in Europe to 2150",
+      "authors": "Vanessa Völz, Jochen Hinkel, Daniël Lincke, Lars E. Honsel, Robert J. Nicholls, Rémi Thiéblemont",
+      "abstract": "Coastal adaptation to sea level rise involves combining and sequencing adaptation options into adaptation pathways that include adaptation tipping points, which are moments requiring a switch between options, often due to economic limits. While local case studies show costs depend on the economically optimal timing of actions and adaptation tipping points, this remains unexplored on global and continental scales. We present economically optimal adaptation pathways for Europe's coastal floodplains through 2150. For 95% of the coastline requiring adaptation, the optimal timing for initial actions is immediate due to current economic under-adaptation, a condition in which the costs of additional adaptation are outweighed by the reduction in expected flood damages. By 2150, retreat is economically optimal for 22% of the coastline, incurring lower total costs than protection, which is opti...",
+      "date": "2026-07-15",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-74042-8",
+      "doi": "10.1038/s41467-026-74042-8",
+      "pdfUrl": "https://www.nature.com/articles/s41467-026-74042-8.pdf",
+      "keywords": [
+        "Adaptation (eye)",
+        "Economics",
+        "Biology",
+        "Neuroscience",
+        "Coastal and Marine Dynamics",
+        "adaptation",
+        "optimal",
+        "economically"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-17T14:00:13.573757+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -996,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.114455+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.237147+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -1028,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.114640+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.237363+00:00"
     },
     {
       "id": "rss-ce688c2211e0",
@@ -1060,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.114797+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.237529+00:00"
     },
     {
       "id": "rss-d7bb3cddfe2e",
@@ -1092,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.114980+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.237714+00:00"
     },
     {
       "id": "rss-67f98bea1dc8",
@@ -1124,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.115136+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.237873+00:00"
     },
     {
       "id": "rss-35f3c73960fd",
@@ -1156,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.361116+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.483590+00:00"
     },
     {
       "id": "rss-fd9a37f6681c",
@@ -1188,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.361411+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.483885+00:00"
     },
     {
       "id": "rss-d6d69b0873be",
@@ -1220,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.361707+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.484188+00:00"
     },
     {
       "id": "rss-68e47e682229",
@@ -1252,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.361941+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.484458+00:00"
     },
     {
       "id": "rss-e186ac38d0fa",
@@ -1284,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.362208+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.484715+00:00"
     },
     {
       "id": "rss-bde592569e0e",
@@ -1316,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.362493+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.484990+00:00"
     },
     {
       "id": "rss-de0ae6db61b8",
@@ -1348,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.362797+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.485294+00:00"
     },
     {
       "id": "rss-a8870f3ce44e",
@@ -1380,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.363110+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.485631+00:00"
     },
     {
       "id": "rss-f539e04beda9",
@@ -1412,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.363418+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.485916+00:00"
     },
     {
       "id": "rss-2cbb29f52f13",
@@ -1444,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.363729+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.486219+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -1476,7 +1508,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.529686+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.594130+00:00"
     },
     {
       "id": "rss-e3ae47ff98f8",
@@ -1508,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.115322+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.238031+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -1540,7 +1572,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:53.050056+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.572164+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -1572,7 +1604,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.527959+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.592447+00:00"
     },
     {
       "id": "rss-904aa85f5191",
@@ -1604,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.115483+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.238191+00:00"
     },
     {
       "id": "rss-319482b50c5b",
@@ -1636,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.115643+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.238373+00:00"
     },
     {
       "id": "rss-a5d229a3d4b5",
@@ -1668,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.115797+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.238536+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -1700,7 +1732,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.844597+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.278432+00:00"
     },
     {
       "id": "rss-0ec61d5c541e",
@@ -1732,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.115992+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.238729+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -1764,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.116168+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.238902+00:00"
     },
     {
       "id": "rss-4e904f861292",
@@ -1796,7 +1828,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:56.116376+00:00"
+      "_retrievedAt": "2026-07-17T14:00:17.239077+00:00"
+    },
+    {
+      "id": "openalex-239a44a48c00",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "authors": "Mao, Pascal, Bourlon, Fabien, Vialette, Yannick, Szmulewicz, Pablo, de Grandpré, François",
+      "abstract": "Rosa dos Ventos abrange aspectos relacionados ao Turismo e a Hospitalidade, com foco na Educação, Epistemologia, Gastronomia, Gestão, Cultura e Meio Ambiente, em visão multidisciplinar do fenômeno turístico",
+      "date": "2026-06-23",
+      "year": 2026,
+      "journal": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "source": "Revista Rosa dos Ventos - Turismo e Hospitalidade",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.18226/21789061",
+      "doi": "10.18226/21789061",
+      "pdfUrl": "https://doi.org/10.18226/21789061",
+      "keywords": [
+        "Humanities",
+        "Political science",
+        "Art",
+        "Diverse Aspects of Tourism Research",
+        "Social and Economic Solidarity",
+        "Hospitality and Tourism Education",
+        "rosa",
+        "ventos"
+      ],
+      "readTime": "1 min",
+      "citedBy": 134,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-17T14:00:13.570579+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1828,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.278311+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.184961+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1860,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.279066+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.186224+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1892,39 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.844183+00:00"
-    },
-    {
-      "id": "openalex-ff18973ad306",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Hybrid three-dimensional full-view multi-wavelength photoacoustic and ultrasound breast tomography",
-      "authors": "Maura Dantuma, Felix Lucka, Saskia Kruitwagen, Ashkan Javaherian, Laurens Alink, R.P. Pompe van Meerdervoort",
-      "abstract": "Photoacoustic tomography is a contrast agent-free imaging technique capable of visualizing blood vessels and tumor-associated vascularization in breast tissue. While sophisticated breast imaging systems have been recently developed, there is yet much to be gained in imaging depth, image quality and tissue characterization capability before clinical translation is possible. In response, we have developed a hybrid photoacoustic and ultrasound tomographic system (PAM3). The photoacoustic component has for the first time, in a full-view hemispherical breast system, three-dimensional multi-wavelength imaging capability and implements substantial technical advancements in critical hardware and software sub-systems. The ultrasound component enables three-dimensional ultrasound (computed) tomography from both reflected and transmitted signals from which we currently extract an image of the so...",
-      "date": "2026-06-14",
-      "year": 2026,
-      "journal": "Photoacoustics",
-      "source": "Photoacoustics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.pacs.2026.100847",
-      "doi": "10.1016/j.pacs.2026.100847",
-      "pdfUrl": "https://doi.org/10.1016/j.pacs.2026.100847",
-      "keywords": [
-        "Photoacoustic Doppler effect",
-        "Tomography",
-        "Speed of sound",
-        "Photoacoustic imaging in biomedicine",
-        "Breast imaging",
-        "Photoacoustic and Ultrasonic Imaging",
-        "Nanoplatforms for cancer theranostics",
-        "Advanced X-ray and CT Imaging"
-      ],
-      "readTime": "1 min",
-      "citedBy": 8,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.845956+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.278031+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1956,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.277632+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.183822+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -1988,39 +2020,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.848232+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.281635+00:00"
     },
     {
-      "id": "openalex-0f151e5548fe",
+      "id": "openalex-9e919d4ae811",
       "discipline": "geo",
       "type": "paper",
-      "title": "Metaheuristic-optimized machine learning framework for remote sensing-based alteration mapping of porphyry copper systems",
-      "authors": "Mahnaz Mahboobi, Homayoon Katibeh, Yousef Bahrami, Amin Beiranvand Pour",
-      "abstract": "Remote sensing-based hydrothermal alteration mapping is a pivotal technique in critical mineral exploration, particularly for identifying porphyry copper deposits (PCDs). However, conventional multispectral approaches are often constrained by linear assumptions, spectral mixing, and suboptimal parameter selection, limiting their ability to resolve complex alteration assemblages. This study presents a metaheuristic-optimized machine learning framework that integrates Boosted Trees (BT) and Quadratic Support Vector Machines (QSVM) with the Shuffled Frog Leaping Algorithm (SFLA) to improve alteration zone discrimination using multispectral satellite imagery. ASTER shortwave infrared bands were combined with Sentinel-2 visible, near-infrared, and red-edge features to map argillic, phyllic, propylitic, and iron oxide/hydroxide alteration zones. The framework was applied to the Shahr-e-Baba...",
+      "title": "Digital twins as decision infrastructure: evolution, architecture, and research roadmap",
+      "authors": "Chaowei Yang, Anusha Srirenganathan Malarvizhi, Yahya Masri, Jennifer Seren Smith, Z Li, Qunying Huang",
+      "abstract": "Digital twins (DTs) have evolved from domain-specific simulation tools into integrative cyber–physical–social infrastructures that reshape how complex systems are observed, modeled, and governed. Rather than treating DTs as digital replicas, this paper conceptualizes them as dynamic epistemic architectures that integrate observation, physics-based modeling, AI, and decision processes through persistent bidirectional exchange. Drawing on a systematic review of 251 papers (from 449 screened abstracts within 22,434 publications, supplemented by foundational literature), we examine how this transition is enabled by advances in sensing, scalable computing, data assimilation, uncertainty quantification, and AI–physics integration. We argue that the defining feature of mature DTs is not replication fidelity alone, but their capacity to support uncertainty-aware, scenario-driven decision-maki...",
       "date": "2026-06-07",
       "year": 2026,
-      "journal": "Scientific Reports",
-      "source": "Scientific Reports",
+      "journal": "Big Earth Data",
+      "source": "Big Earth Data",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41598-026-55525-6",
-      "doi": "10.1038/s41598-026-55525-6",
-      "pdfUrl": "https://www.nature.com/articles/s41598-026-55525-6_reference.pdf",
+      "url": "https://doi.org/10.1080/20964471.2026.2678046",
+      "doi": "10.1080/20964471.2026.2678046",
+      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/20964471.2026.2678046?needAccess=true",
       "keywords": [
-        "Porphyry copper deposit",
-        "Multispectral image",
-        "Advanced Spaceborne Thermal Emission and Reflection Radiometer",
+        "Interoperability",
         "Computer science",
-        "Robustness (evolution)",
-        "Geochemistry and Geologic Mapping",
-        "Remote-Sensing Image Classification",
-        "Mineral Processing and Grinding"
+        "Data science",
+        "Scalability",
+        "Knowledge management",
+        "Digital Transformation in Industry",
+        "Smart Grid Security and Resilience",
+        "Systems Engineering Methodologies and Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 2,
+      "citedBy": 3,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:53.054252+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.575813+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2052,7 +2084,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:53.050841+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.572915+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2084,7 +2116,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.275766+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.180799+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2116,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:53.049677+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.571773+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2148,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.279677+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.187225+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2180,46 +2212,14 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.280165+00:00"
-    },
-    {
-      "id": "openalex-7a2e0cea295d",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Stratigraphy as a low-pass filter: selective preservation of spatial variability on a Holocene carbonate platform",
-      "authors": "Xianyi Liu, Sam Purkis, Peter Burgess, David De Vleeschouwer, Laurent Puyana, Niklas Hohmann",
-      "abstract": "Walther’s law, a fundamental principle in geoscience, predicts that laterally adjacent depositional environments become preserved as a vertical succession of layers (facies). As an expression of uniformitarianism, this law underpins interpretations of Earth’s history, yet it has not been quantitatively tested. We test this law and examine its limitations by quantifying multidecadal changes in environmental heterogeneity (1945-2019) in the Bahamas and extrapolating them to millennial timescales using forward modelling. Virtual stratigraphic successions predicted by Walther’s law contain substantially greater heterogeneity than observed in sediment cores. This discrepancy arises because small and short-lived environment patches undergo rapid turnover and fail to accumulate sufficient sediment for preservation. Our work establishes a quantitative framework for defining preservation thres...",
-      "date": "2026-05-20",
-      "year": 2026,
-      "journal": "OpenAlex",
-      "source": "OpenAlex",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.31223/x5k784",
-      "doi": "10.31223/x5k784",
-      "pdfUrl": "https://eartharxiv.org/repository/object/13113/download/23232/",
-      "keywords": [
-        "Sedimentary depositional environment",
-        "Geology",
-        "Stratigraphy",
-        "Sedimentary rock",
-        "Sediment",
-        "Geology and Paleoclimatology Research",
-        "Paleontology and Stratigraphy of Fossils",
-        "Geological formations and processes"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:53.054966+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.188104+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
       "discipline": "clinical",
       "type": "paper",
       "title": "Accelerating scientific discovery with Co-Scientist",
-      "authors": "Juraj Gottweis, Wei‐Hung Weng, Alexander Daryin, Tao Tu, Anil Palepu, Petar Sirkovic",
+      "authors": "Juraj Gottweis, Wei‐Hung Weng, Alexander Daryin, Tao Tu, Petar Sirkovic, Anatoly Myaskovsky",
       "abstract": "Scientific discovery is driven by scientists generating novel hypotheses for complex problems that undergo rigorous experimental validation. To augment this process, we introduce Co-Scientist, a multi-agent AI system built on Gemini for structured scientific thinking and hypothesis generation. Co-Scientist aims to help scientists discover new original knowledge. Conditioned on their research objectives and prior scientific evidence, it formulates demonstrably novel research hypotheses for experimental verification. The system's design involves agents continuously generating, critiquing and refining hypotheses accelerated by scaling test-time compute. Key contributions include: (1) a multi-agent architecture with an asynchronous task execution framework for flexible compute scaling; (2) a tournament evolution process for self-improving hypotheses generation. Automated evaluations show...",
       "date": "2026-05-19",
       "year": 2026,
@@ -2244,7 +2244,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.843966+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.277815+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2276,7 +2276,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.275434+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.180232+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2308,7 +2308,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.277177+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.183144+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2336,11 +2336,11 @@
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 1419,
+      "citedBy": 1420,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.275008+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.179594+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2372,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.848600+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.281972+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2404,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.847832+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.281262+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2436,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:53.049260+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.571350+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2464,11 +2464,11 @@
         "Artificial Intelligence in Law"
       ],
       "readTime": "1 min",
-      "citedBy": 91,
+      "citedBy": 92,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.276249+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.181559+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -2500,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:53.053836+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.576986+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -2532,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.529975+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.594435+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -2564,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.530896+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.595306+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -2596,7 +2596,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.280531+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.188721+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2628,7 +2628,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.279359+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.186698+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -2660,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:53.052643+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.575031+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -2692,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.528972+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.593440+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -2724,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:53.050441+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.572516+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2756,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.531223+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.595638+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2788,7 +2788,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.278644+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.185506+00:00"
     },
     {
       "id": "openalex-7ccfc202ecea",
@@ -2820,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.527274+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.591752+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2852,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.531840+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.596241+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -2884,39 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:53.051832+00:00"
-    },
-    {
-      "id": "openalex-d826f52b28e7",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Recent advances in TROPOMI-based methane source detection: a systematic review",
-      "authors": "Ruoqi Liu, Shun Li, Geli Zhang, Mengyao Liu, X. L. Lu, Shushi Peng",
-      "abstract": "The renewed increase in atmospheric methane (CH4) concentrations since 2007, culminating in record growth rates in 2021, poses a critical challenge to achieving global climate targets. The TROPOspheric Monitoring Instrument (TROPOMI) onboard the Sentinel-5 Precursor satellite provides unprecedented daily global observations of CH4 at a spatial resolution (7 × 7 km2, improved to 5.5 × 7 km2 since August 2019), enabling substantial advances in space-based CH4 monitoring and emission quantification. Here, we synthesize and categorize 133 published studies spanning global, regional and local scales and covering both anthropogenic and natural CH4 sources. Collectively, these studies demonstrate TROPOMI's capability to quantify emissions across diverse spatiotemporal scales, as well as its synergy with other satellite instruments for detecting and attributing facility-level sources, such as...",
-      "date": "2026-04-08",
-      "year": 2026,
-      "journal": "GIScience & Remote Sensing",
-      "source": "GIScience & Remote Sensing",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1080/15481603.2026.2650822",
-      "doi": "10.1080/15481603.2026.2650822",
-      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/15481603.2026.2650822?needAccess=true",
-      "keywords": [
-        "Environmental science",
-        "Methane",
-        "Remote sensing",
-        "Methane emissions",
-        "Greenhouse gas",
-        "Spectroscopy and Laser Applications",
-        "Advanced Chemical Sensor Technologies",
-        "Atmospheric and Environmental Gas Dynamics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:53.054649+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.574193+00:00"
     },
     {
       "id": "openalex-557912e64e56",
@@ -2948,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.527607+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.592079+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -2980,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:53.053461+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.576618+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -3012,7 +2980,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.844898+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.278738+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -3044,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.528652+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.593099+00:00"
     },
     {
       "id": "openalex-1bdbe1c46708",
@@ -3076,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.846492+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.279929+00:00"
     },
     {
       "id": "openalex-65ac17e8114e",
@@ -3108,7 +3076,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.849357+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.282702+00:00"
+    },
+    {
+      "id": "openalex-fd4b6aa3ca96",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Explainable AI in healthcare: a systematic review of XAI use cases in imaging, diagnostics, and rehabilitation",
+      "authors": "Apoorva Aravindkumar, Marimuthu Ramadoss, Saqhibuddeen Ahmed Fakhruddin Ahmed, Vidhya Sampath, Kishor Lakshminarayanan",
+      "abstract": "Background: Explainable artificial intelligence (XAI) is used in healthcare to make machine-learning outputs more transparent and clinically usable. This is important because many machine learning models work like a \"black box\" which can hide bias, reduce trust in the model. XAI addresses this problem by showing which features or image regions influenced a result, either for one patient or across a dataset. Objectives: Our objective is to provide a clear, systematic review of how XAI is being used in healthcare. We summarize the main XAI methods, the data and models they are paired with, and how these explanations support clinical understanding across imaging, diagnosis, and rehabilitation. Methods: = 10) that are identified via PubMed/MEDLINE, IEEE Xplore, and Google Scholar, following PRISMA 2020 guidelines. We included research studies that employed XAI in the three mentioned verti...",
+      "date": "2026-04-01",
+      "year": 2026,
+      "journal": "Frontiers in Artificial Intelligence",
+      "source": "Frontiers in Artificial Intelligence",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/frai.2026.1749527",
+      "doi": "10.3389/frai.2026.1749527",
+      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1749527/pdf",
+      "keywords": [
+        "Rehabilitation",
+        "Systematic review",
+        "Medicine",
+        "Computer science",
+        "MEDLINE",
+        "Explainable Artificial Intelligence (XAI)",
+        "Artificial Intelligence in Healthcare and Education",
+        "Radiomics and Machine Learning in Medical Imaging"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-17T14:00:13.283125+00:00"
     },
     {
       "id": "openalex-ac109ca21f18",
@@ -3140,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.532146+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.596580+00:00"
     },
     {
       "id": "openalex-7ecbe579840c",
@@ -3172,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:53.053041+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.576205+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -3204,7 +3204,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.277927+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.184309+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -3236,39 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.845582+00:00"
-    },
-    {
-      "id": "openalex-18e8a6f615a1",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Expansion of Antarctic surface melt through the 21st century",
-      "authors": "Yaowen Zheng, Nicholas R. Golledge, Alexandra Gossart, Shoujuan Shu",
-      "abstract": "Climate models show that Antarctic surface melt will increase through the current century. Surface melting changes ice sheet albedo, the availability of liquid water for endemic and invasive species, and may even accelerate ice shelf collapse and global sea level rise. Here we show, using 1 km downscaled projections of potential Antarctic surface melt, that the total area experiencing surface melt will expand by more than 10% by 2100 under a Shared Socio-economic Pathway 3-7.0 scenario, with increased potential melt totals likely to threaten the viability of ice shelves mostly in the West Antarctic Peninsula and Amundsen Sea Embayment, through an elevated risk of hydrofracture. By calculating the latitudinal rate of melt migration we also find that Shared Socio-economic Pathway 1-2.6 is the only emissions scenario under which the rate of future Antarctic surface melt expansion will st...",
-      "date": "2026-03-30",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-71114-7",
-      "doi": "10.1038/s41467-026-71114-7",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-71114-7_reference.pdf",
-      "keywords": [
-        "Geology",
-        "Surface (topology)",
-        "Climate change",
-        "Environmental science",
-        "Earth science",
-        "Polar Research and Ecology",
-        "Arctic and Russian Policy Studies",
-        "Calcium Carbonate Crystallization and Inhibition"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:53.055295+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.279414+00:00"
     },
     {
       "id": "openalex-be8055a102c2",
@@ -3300,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:53.051393+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.573462+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -3328,11 +3296,11 @@
         "AI in Service Interactions"
       ],
       "readTime": "1 min",
-      "citedBy": 59,
+      "citedBy": 60,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.276562+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.182053+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -3364,7 +3332,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.276958+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.182764+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -3396,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.530625+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.595040+00:00"
     },
     {
       "id": "openalex-a6b5129285ce",
@@ -3428,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.847521+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.280965+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -3460,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.528368+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.592820+00:00"
     },
     {
       "id": "openalex-30c40f8e9a91",
@@ -3492,7 +3460,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.530313+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.594751+00:00"
+    },
+    {
+      "id": "openalex-1d323943a31f",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "GeoBIM for Geothermal Energy Efficiency in Buildings and Smart Cities: A Review",
+      "authors": "Hugo Alexandre Silva Pinto, Luis M. Ferreira Gomes, Luís Andrade Pais, Miguel Nepomuceno, Luís Filipe Almeida Bernardo, Vanessa Gonçalves",
+      "abstract": "The global drive toward energy transition and carbon neutrality requires integrated and data-driven approaches for managing buildings and smart cities. Existing urban energy assessment frameworks remain fragmented and often lack multiscale interoperability between building-level models and territorial datasets. At the same time, shallow geothermal energy is emerging as an efficient and renewable solution for sustainable heating and cooling. To address these gaps, this study examines the potential of GeoBIM, the integration of Building Information Modeling (BIM) and Geographic Information Systems (GIS), as a unified framework for multiscale energy analysis and for supporting shallow geothermal applications. A systematic literature review was conducted based on the PRISMA framework, combining a systematic literature review using the Scopus database with the critical examination of repre...",
+      "date": "2026-03-23",
+      "year": 2026,
+      "journal": "Smart Cities",
+      "source": "Smart Cities",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/smartcities9030054",
+      "doi": "10.3390/smartcities9030054",
+      "pdfUrl": "https://doi.org/10.3390/smartcities9030054",
+      "keywords": [
+        "Interoperability",
+        "Efficient energy use",
+        "Geothermal gradient",
+        "Renewable energy",
+        "Geothermal energy",
+        "BIM and Construction Integration",
+        "3D Modeling in Geospatial Applications",
+        "Underground infrastructure and sustainability"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-17T14:00:13.575416+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -3524,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.531520+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.595923+00:00"
     },
     {
       "id": "openalex-c2ed165c8d47",
@@ -3556,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.529350+00:00"
+      "_retrievedAt": "2026-07-17T14:00:12.593801+00:00"
     },
     {
       "id": "openalex-7717ed1550fb",
@@ -3588,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:52.849032+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.282417+00:00"
     },
     {
       "id": "openalex-0619fc14a254",
@@ -3620,7 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-17T08:25:53.052250+00:00"
+      "_retrievedAt": "2026-07-17T14:00:13.574642+00:00"
     }
   ]
 }
