@@ -1,11 +1,139 @@
 {
-  "generatedAt": "2026-07-18T13:46:54.404943+00:00",
+  "generatedAt": "2026-07-18T19:28:32.305479+00:00",
   "total": 113,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-14a3f6b23fa7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Q&A: Cyclospora outbreak",
+      "authors": "Medical Xpress",
+      "abstract": "People across the United States are taking a closer look at their lettuce and leafy greens this summer because of an outbreak of cyclosporiasis, a gastrointestinal illness whose most notable symptom is severe, watery diarrhea.",
+      "date": "2026-07-18",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-qa-cyclospora-outbreak.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "outbreak",
+        "cyclospora",
+        "people",
+        "across",
+        "united",
+        "states",
+        "taking",
+        "closer"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-18T19:28:31.389310+00:00"
+    },
+    {
+      "id": "rss-5670cf31df80",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Cutting-edge drug shows promise for patients with NRAS-driven melanoma",
+      "authors": "Medical Xpress",
+      "abstract": "A research team from Huntsman Cancer Institute at the University of Utah (the U) reports that a pathway-targeted therapy could be an effective treatment for certain melanoma patients and fill an unmet clinical need for patients with advanced disease.",
+      "date": "2026-07-18",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-edge-drug-patients-nras-driven.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "patients",
+        "melanoma",
+        "cutting-edge",
+        "drug",
+        "shows",
+        "promise",
+        "nras-driven",
+        "team"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-18T19:28:31.389547+00:00"
+    },
+    {
+      "id": "rss-a324dc70b3a2",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Warm nights linked to ill premature babies in NICUs",
+      "authors": "Medical Xpress",
+      "abstract": "Premature babies in the intensive care unit are particularly at risk of becoming infected with potentially pathogenic bacteria. A team of doctors in Hanover has now investigated which external factors play a role in this. They concluded that climatic conditions have an influence. The study was led and designed by Dr Leonard Knegendorf, a clinician-scientist at TWINCORE, the Centre for Experimental and Clinical Infection Research. The findings were published in the journal Antimicrobial Resistance & Infection Control.",
+      "date": "2026-07-18",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-nights-linked-ill-premature-babies.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "premature",
+        "babies",
+        "infection",
+        "warm",
+        "nights",
+        "linked",
+        "nicus",
+        "intensive"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-18T19:28:31.389798+00:00"
+    },
+    {
+      "id": "rss-1dd3d77b2a57",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New study sheds light on how Epstein-Barr virus may contribute to multiple sclerosis",
+      "authors": "Medical Xpress",
+      "abstract": "Multiple sclerosis (MS) is a chronic autoimmune disorder that attacks the central nervous system. For years, Epstein-Barr virus (EBV) has been strongly linked to MS, as nearly every person diagnosed with the condition shows evidence of past EBV infection. For example, a 2022 study analyzed millions of U.S. military recruits and found that getting infected with EBV increased a person's risk of developing MS 32-fold.",
+      "date": "2026-07-18",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-epstein-barr-virus-contribute-multiple.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "epstein-barr",
+        "virus",
+        "multiple",
+        "sclerosis",
+        "that",
+        "person",
+        "sheds",
+        "light"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-18T19:28:31.390029+00:00"
+    },
     {
       "id": "rss-0d35157140d3",
       "discipline": "clinical",
@@ -36,7 +164,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.341843+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.390231+00:00"
     },
     {
       "id": "rss-a523d7e2a9d8",
@@ -68,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.342135+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.390452+00:00"
     },
     {
       "id": "rss-93773b8c21f1",
@@ -100,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.342420+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.390680+00:00"
     },
     {
       "id": "rss-bab1b2b2e62f",
@@ -132,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.342657+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.390871+00:00"
     },
     {
       "id": "rss-93eae22fa1f3",
@@ -164,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.342954+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.391055+00:00"
     },
     {
       "id": "rss-fb4e8efdf0b6",
@@ -196,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.343183+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.391251+00:00"
     },
     {
       "id": "rss-fa5f26941e30",
@@ -228,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.343417+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.391444+00:00"
     },
     {
       "id": "rss-1f6e496eff95",
@@ -260,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.343693+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.391672+00:00"
     },
     {
       "id": "rss-130f0cf4b1a4",
@@ -292,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.344034+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.391930+00:00"
     },
     {
       "id": "rss-4250ac6dc095",
@@ -324,135 +452,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.344344+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.392204+00:00"
     },
     {
-      "id": "rss-93448284476b",
-      "discipline": "clinical",
+      "id": "rss-9546428c429e",
+      "discipline": "cs",
       "type": "news",
-      "title": "Air pollution mixtures may pose hidden risks during pregnancy",
-      "authors": "Medical Xpress",
-      "abstract": "Pregnancy puts higher oxygen demand on the body, so expectant mothers breathe significantly more air over the course of a day. When air quality is bad, they're also breathing in more harmful pollutants.",
+      "title": "Kimi: Threat or menace?",
+      "authors": "TechCrunch AI",
+      "abstract": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
       "date": "2026-07-18",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-air-pollution-mixtures-pose-hidden.html",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "pregnancy",
-        "more",
-        "pollution",
-        "mixtures",
-        "pose",
-        "hidden",
-        "risks",
-        "during"
+        "kimi",
+        "threat",
+        "menace",
+        "chinese",
+        "company",
+        "moonshot",
+        "released",
+        "version"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.344573+00:00"
-    },
-    {
-      "id": "rss-bced2cacb8c6",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Spain's liver transplants now generate more economic value than they cost, study says",
-      "authors": "Medical Xpress",
-      "abstract": "Public investment in liver transplants not only saves lives and substantially improves patients' survival and quality of life but also generates a positive long-term social and economic return. That is the finding of a pioneering study led by researchers from Pompeu Fabra University (UPF), the National Transplant Organization (ONT) and Vall d'Hebron University Hospital. More than four decades after the first liver transplant in Spain in 1984, this is the first study to perform a global assessment of the impact of these interventions, not only from the perspective of patients' health but also from economic and social perspectives.",
-      "date": "2026-07-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-spain-liver-transplants-generate-economic.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "liver",
-        "economic",
-        "spain",
-        "transplants",
-        "more",
-        "than",
-        "only",
-        "patients"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.344913+00:00"
-    },
-    {
-      "id": "rss-e0f0a22f83fc",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Hypoglossal nerve stimulation for obstructive sleep apnea shows downstream health benefits",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers estimate that more than 80 million U.S. adults are living with obstructive sleep apnea, a condition in which the soft tissue at the back of the throat collapses and blocks the airway during sleep. This blockage causes shallow or irregular breathing that lowers oxygen levels, decreasing sleep quality and raising the risk of diabetes and cardiovascular disease.",
-      "date": "2026-07-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-hypoglossal-nerve-obstructive-apnea-downstream.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "sleep",
-        "obstructive",
-        "apnea",
-        "that",
-        "hypoglossal",
-        "nerve",
-        "stimulation",
-        "shows"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.345180+00:00"
-    },
-    {
-      "id": "rss-d62a412389c9",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New imaging method tracks cancer from whole body to individual cells",
-      "authors": "Medical Xpress",
-      "abstract": "One of the biggest challenges in cancer research has been linking the \"big picture\" seen in medical scans with the microscopic biology that drives tumor growth and dictates how patients respond to treatment. Now, by combining multiple imaging techniques (PET scans, bioluminescence and fluorescence), scientists can detect tumors across the whole body simultaneously, pinpoint key targets and then examine those tumors in detail, including the surrounding cells and tissue.",
-      "date": "2026-07-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-imaging-method-tracks-cancer-body.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "imaging",
-        "cancer",
-        "whole",
-        "body",
-        "cells",
-        "scans",
-        "tumors",
-        "method"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.345456+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.457219+00:00"
     },
     {
       "id": "rss-9a3013be7a58",
@@ -484,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.503280+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.457423+00:00"
     },
     {
       "id": "rss-b99827fc3c78",
@@ -516,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.503520+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.457590+00:00"
     },
     {
       "id": "rss-de227b40c7b7",
@@ -548,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.503701+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.457735+00:00"
     },
     {
       "id": "rss-9a220c0aaeab",
@@ -580,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.503893+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.457864+00:00"
     },
     {
       "id": "rss-7333885bb1e3",
@@ -612,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.504052+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.457988+00:00"
     },
     {
       "id": "rss-3676f34692a3",
@@ -644,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.504215+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.458172+00:00"
     },
     {
       "id": "rss-89027a439aed",
@@ -676,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.504478+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.458429+00:00"
     },
     {
       "id": "rss-97f41d057c5a",
@@ -708,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.504681+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.458606+00:00"
     },
     {
       "id": "rss-bf44671c91a4",
@@ -740,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.504967+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.458821+00:00"
     },
     {
       "id": "rss-ac1e07c98801",
@@ -772,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.505124+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.458948+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -804,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.604376+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.683571+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -836,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.938156+00:00"
+      "_retrievedAt": "2026-07-18T19:28:32.068361+00:00"
     },
     {
       "id": "rss-718b12023caf",
@@ -868,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.938384+00:00"
+      "_retrievedAt": "2026-07-18T19:28:32.068566+00:00"
     },
     {
       "id": "rss-13bda96af360",
@@ -900,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.505297+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.459088+00:00"
     },
     {
       "id": "rss-1f30727023be",
@@ -932,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.505447+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.459221+00:00"
     },
     {
       "id": "rss-04115fa3c0c2",
@@ -964,39 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.505616+00:00"
-    },
-    {
-      "id": "rss-192d77d506a7",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Yes, you can now order DoorDash from the command line",
-      "authors": "TechCrunch AI",
-      "abstract": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
-      "date": "2026-07-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "doordash",
-        "agents",
-        "order",
-        "command",
-        "line",
-        "opening",
-        "limited",
-        "beta"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.505817+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.459369+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.604555+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.683727+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.604729+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.683869+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -1092,7 +1092,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:57.250645+00:00"
+      "_retrievedAt": "2026-07-18T19:28:28.043574+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.604958+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.683996+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.605153+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.684149+00:00"
     },
     {
       "id": "rss-ce688c2211e0",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.605312+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.684335+00:00"
     },
     {
       "id": "rss-d7bb3cddfe2e",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.605494+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.684490+00:00"
     },
     {
       "id": "rss-67f98bea1dc8",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.605653+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.684620+00:00"
     },
     {
       "id": "rss-35f3c73960fd",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.938713+00:00"
+      "_retrievedAt": "2026-07-18T19:28:32.068877+00:00"
     },
     {
       "id": "rss-fd9a37f6681c",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.939002+00:00"
+      "_retrievedAt": "2026-07-18T19:28:32.069110+00:00"
     },
     {
       "id": "rss-d6d69b0873be",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.939302+00:00"
+      "_retrievedAt": "2026-07-18T19:28:32.069391+00:00"
     },
     {
       "id": "rss-68e47e682229",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.939541+00:00"
+      "_retrievedAt": "2026-07-18T19:28:32.069595+00:00"
     },
     {
       "id": "rss-e186ac38d0fa",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.939818+00:00"
+      "_retrievedAt": "2026-07-18T19:28:32.069813+00:00"
     },
     {
       "id": "rss-bde592569e0e",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.940106+00:00"
+      "_retrievedAt": "2026-07-18T19:28:32.070054+00:00"
     },
     {
       "id": "rss-de0ae6db61b8",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.940422+00:00"
+      "_retrievedAt": "2026-07-18T19:28:32.070340+00:00"
     },
     {
       "id": "rss-a8870f3ce44e",
@@ -1508,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.940744+00:00"
+      "_retrievedAt": "2026-07-18T19:28:32.070621+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -1540,7 +1540,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.856627+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.852114+00:00"
     },
     {
       "id": "rss-e3ae47ff98f8",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.605836+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.684750+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -1604,7 +1604,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:57.249044+00:00"
+      "_retrievedAt": "2026-07-18T19:28:28.042100+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -1636,7 +1636,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.855305+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.850847+00:00"
     },
     {
       "id": "rss-904aa85f5191",
@@ -1668,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.606005+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.684879+00:00"
     },
     {
       "id": "rss-319482b50c5b",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.606169+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.685008+00:00"
     },
     {
       "id": "rss-a5d229a3d4b5",
@@ -1732,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.606328+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.685134+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -1764,7 +1764,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:56.697609+00:00"
+      "_retrievedAt": "2026-07-18T19:28:27.429819+00:00"
     },
     {
       "id": "rss-0ec61d5c541e",
@@ -1796,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.606527+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.685316+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -1828,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:46:53.606705+00:00"
+      "_retrievedAt": "2026-07-18T19:28:31.685464+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1860,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.245439+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.281554+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1892,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.246189+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.282254+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1924,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:56.697194+00:00"
+      "_retrievedAt": "2026-07-18T19:28:27.429481+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1956,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.244755+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.280940+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -1988,7 +1988,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:56.700750+00:00"
+      "_retrievedAt": "2026-07-18T19:28:27.432716+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2020,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:57.252306+00:00"
+      "_retrievedAt": "2026-07-18T19:28:28.045006+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2052,7 +2052,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:57.253926+00:00"
+      "_retrievedAt": "2026-07-18T19:28:28.046452+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2084,7 +2084,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:57.249799+00:00"
+      "_retrievedAt": "2026-07-18T19:28:28.042797+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2116,7 +2116,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.242994+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.279286+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2148,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:57.248626+00:00"
+      "_retrievedAt": "2026-07-18T19:28:28.041729+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2180,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.246816+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.282770+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2212,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.247313+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.283209+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2244,7 +2244,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:56.696975+00:00"
+      "_retrievedAt": "2026-07-18T19:28:27.429264+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2276,7 +2276,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.242618+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.278946+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2308,7 +2308,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.244363+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.280577+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2340,7 +2340,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.242238+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.278566+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2372,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:56.701374+00:00"
+      "_retrievedAt": "2026-07-18T19:28:27.433277+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2404,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:56.700437+00:00"
+      "_retrievedAt": "2026-07-18T19:28:27.432425+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2436,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:57.248211+00:00"
+      "_retrievedAt": "2026-07-18T19:28:28.041338+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2468,7 +2468,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.243438+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.279709+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -2500,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:57.253517+00:00"
+      "_retrievedAt": "2026-07-18T19:28:28.046101+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -2532,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.856940+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.852412+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -2564,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.857862+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.853234+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -2596,7 +2596,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.247646+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.283516+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2628,7 +2628,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.246453+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.282492+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -2660,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:57.251537+00:00"
+      "_retrievedAt": "2026-07-18T19:28:28.044327+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -2692,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.856297+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.851757+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -2724,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:57.249379+00:00"
+      "_retrievedAt": "2026-07-18T19:28:28.042421+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2756,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.858175+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.853512+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2788,7 +2788,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.245752+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.281843+00:00"
     },
     {
       "id": "openalex-7ccfc202ecea",
@@ -2820,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.854544+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.850167+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2852,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.858827+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.854076+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -2884,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:57.251135+00:00"
+      "_retrievedAt": "2026-07-18T19:28:28.043968+00:00"
     },
     {
       "id": "openalex-d826f52b28e7",
@@ -2916,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:57.254319+00:00"
+      "_retrievedAt": "2026-07-18T19:28:28.046808+00:00"
     },
     {
       "id": "openalex-557912e64e56",
@@ -2948,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.854945+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.850515+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -2980,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:57.253146+00:00"
+      "_retrievedAt": "2026-07-18T19:28:28.045766+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -3012,7 +3012,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:56.697946+00:00"
+      "_retrievedAt": "2026-07-18T19:28:27.430101+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -3044,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.855978+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.851465+00:00"
     },
     {
       "id": "openalex-43e02d456db7",
@@ -3076,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.859414+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.854611+00:00"
     },
     {
       "id": "openalex-1bdbe1c46708",
@@ -3108,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:56.699132+00:00"
+      "_retrievedAt": "2026-07-18T19:28:27.431220+00:00"
     },
     {
       "id": "openalex-65ac17e8114e",
@@ -3140,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:56.701646+00:00"
+      "_retrievedAt": "2026-07-18T19:28:27.433537+00:00"
     },
     {
       "id": "openalex-fd4b6aa3ca96",
@@ -3172,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:56.702125+00:00"
+      "_retrievedAt": "2026-07-18T19:28:27.433934+00:00"
     },
     {
       "id": "openalex-ac109ca21f18",
@@ -3204,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.859148+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.854368+00:00"
     },
     {
       "id": "openalex-7ecbe579840c",
@@ -3236,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:57.252707+00:00"
+      "_retrievedAt": "2026-07-18T19:28:28.045383+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -3268,7 +3268,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.245087+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.281220+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -3300,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:56.698603+00:00"
+      "_retrievedAt": "2026-07-18T19:28:27.430729+00:00"
     },
     {
       "id": "openalex-be8055a102c2",
@@ -3332,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:57.250351+00:00"
+      "_retrievedAt": "2026-07-18T19:28:28.043302+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -3364,7 +3364,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.243738+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.279990+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -3396,7 +3396,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.244149+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.280377+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -3428,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.857554+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.852966+00:00"
     },
     {
       "id": "openalex-a6b5129285ce",
@@ -3460,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:56.700146+00:00"
+      "_retrievedAt": "2026-07-18T19:28:27.432134+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.855672+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.851205+00:00"
     },
     {
       "id": "openalex-30c40f8e9a91",
@@ -3524,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.857259+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.852699+00:00"
     },
     {
       "id": "openalex-1d323943a31f",
@@ -3556,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:57.251912+00:00"
+      "_retrievedAt": "2026-07-18T19:28:28.044656+00:00"
     },
     {
       "id": "openalex-66c07f9c3579",
@@ -3588,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:55.858464+00:00"
+      "_retrievedAt": "2026-07-18T19:28:26.853774+00:00"
     },
     {
       "id": "openalex-0d7cacb4a5a2",
@@ -3620,7 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T13:45:56.701046+00:00"
+      "_retrievedAt": "2026-07-18T19:28:27.432965+00:00"
     }
   ]
 }
