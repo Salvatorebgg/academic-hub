@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T19:28:32.305479+00:00",
+  "generatedAt": "2026-07-19T03:50:36.717719+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -7,13 +7,45 @@
   ],
   "papers": [
     {
+      "id": "rss-2da8c6ac5bd9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Cancer survivors and providers differ in views on medical cannabis, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "For many cancer survivors, cannabis has become part of how they manage symptoms such as pain, nausea and anxiety. Medical cannabis is now legal in 47 states, Washington, D.C., and three U.S. territories, and its use continues to grow among both the general population and cancer survivors. Yet despite its increasing use, little is known about how survivors and their health care providers view medical cannabis or how comfortable they are discussing it.",
+      "date": "2026-07-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-cancer-survivors-differ-views-medical.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "survivors",
+        "cannabis",
+        "cancer",
+        "medical",
+        "providers",
+        "they",
+        "differ",
+        "views"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-19T03:50:35.532139+00:00"
+    },
+    {
       "id": "rss-14a3f6b23fa7",
       "discipline": "clinical",
       "type": "news",
       "title": "Q&A: Cyclospora outbreak",
       "authors": "Medical Xpress",
       "abstract": "People across the United States are taking a closer look at their lettuce and leafy greens this summer because of an outbreak of cyclosporiasis, a gastrointestinal illness whose most notable symptom is severe, watery diarrhea.",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +68,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.389310+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.532409+00:00"
     },
     {
       "id": "rss-5670cf31df80",
@@ -45,7 +77,7 @@
       "title": "Cutting-edge drug shows promise for patients with NRAS-driven melanoma",
       "authors": "Medical Xpress",
       "abstract": "A research team from Huntsman Cancer Institute at the University of Utah (the U) reports that a pathway-targeted therapy could be an effective treatment for certain melanoma patients and fill an unmet clinical need for patients with advanced disease.",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +100,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.389547+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.532684+00:00"
     },
     {
       "id": "rss-a324dc70b3a2",
@@ -77,7 +109,7 @@
       "title": "Warm nights linked to ill premature babies in NICUs",
       "authors": "Medical Xpress",
       "abstract": "Premature babies in the intensive care unit are particularly at risk of becoming infected with potentially pathogenic bacteria. A team of doctors in Hanover has now investigated which external factors play a role in this. They concluded that climatic conditions have an influence. The study was led and designed by Dr Leonard Knegendorf, a clinician-scientist at TWINCORE, the Centre for Experimental and Clinical Infection Research. The findings were published in the journal Antimicrobial Resistance & Infection Control.",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +132,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.389798+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.532986+00:00"
     },
     {
       "id": "rss-1dd3d77b2a57",
@@ -109,7 +141,7 @@
       "title": "New study sheds light on how Epstein-Barr virus may contribute to multiple sclerosis",
       "authors": "Medical Xpress",
       "abstract": "Multiple sclerosis (MS) is a chronic autoimmune disorder that attacks the central nervous system. For years, Epstein-Barr virus (EBV) has been strongly linked to MS, as nearly every person diagnosed with the condition shows evidence of past EBV infection. For example, a 2022 study analyzed millions of U.S. military recruits and found that getting infected with EBV increased a person's risk of developing MS 32-fold.",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +164,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.390029+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.533264+00:00"
     },
     {
       "id": "rss-0d35157140d3",
@@ -141,7 +173,7 @@
       "title": "Designing better climate research starts with understanding human emotions",
       "authors": "Medical Xpress",
       "abstract": "Have you ever looked at a photograph of a raging wildfire, a flooded neighborhood or a starving polar bear and immediately felt something before you even had time to think? Most of us have.",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.390231+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.533511+00:00"
     },
     {
       "id": "rss-a523d7e2a9d8",
@@ -173,7 +205,7 @@
       "title": "Machine learning improves identification of asthma risk in children",
       "authors": "Medical Xpress",
       "abstract": "A machine learning tool that analyzes information already captured in a child's electronic health record helped pediatricians more accurately assess asthma risk in standardized clinical case scenarios, according to a pilot randomized clinical trial led by a Regenstrief Institute researcher. The study was published in Scientific Reports.",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.390452+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.533776+00:00"
     },
     {
       "id": "rss-93773b8c21f1",
@@ -205,7 +237,7 @@
       "title": "How brain remodeling during adolescence shapes memory",
       "authors": "Medical Xpress",
       "abstract": "Scientists have long known that the human brain continues developing well beyond the teenage years, with important changes involving decision-making and emotional regulation extending into the mid- to late 20s. Now, for the first time, researchers at Albert Einstein College of Medicine have identified a biological process in mice that offers new insight into how memory circuits mature during this extended period of brain development.",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -228,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.390680+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.534046+00:00"
     },
     {
       "id": "rss-bab1b2b2e62f",
@@ -237,7 +269,7 @@
       "title": "Cut the number of choices you make each day. Your brain will thank you",
       "authors": "Medical Xpress",
       "abstract": "Jeans that fit perfectly. The ideal Netflix show for a Tuesday night. Your one and only soulmate. Modern life promises that with enough options, you will happily find the best of everything.",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -260,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.390871+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.534273+00:00"
     },
     {
       "id": "rss-93eae22fa1f3",
@@ -269,7 +301,7 @@
       "title": "Study shows where women live can shape heart health for decades",
       "authors": "Medical Xpress",
       "abstract": "Women who live in disadvantaged neighborhoods face worse heart health and experience faster declines as they approach menopause, according to a long-term study led by the Harvard Pilgrim Health Care Institute.",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -292,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.391055+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.534514+00:00"
     },
     {
       "id": "rss-fb4e8efdf0b6",
@@ -301,7 +333,7 @@
       "title": "First death reported in Legionnaires' disease outbreak in New York City",
       "authors": "Medical Xpress",
       "abstract": "A Legionnaires' disease outbreak that has sickened dozens of people in New York City has claimed its first life, health officials said Friday.",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -324,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.391251+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.534738+00:00"
     },
     {
       "id": "rss-fa5f26941e30",
@@ -333,7 +365,7 @@
       "title": "A sales tax on doctor visits and medicine? In Missouri, some worry",
       "authors": "Medical Xpress",
       "abstract": "Missouri health care advocate Leslie Ortbals and her husband want to start a family, but she worries they can't afford it. The 27-year-old said she takes 10 medications daily to manage multiple chronic illnesses.",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -356,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.391444+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.534965+00:00"
     },
     {
       "id": "rss-1f6e496eff95",
@@ -365,7 +397,7 @@
       "title": "Aussie supermarkets failing to help us eat a healthier diet",
       "authors": "Medical Xpress",
       "abstract": "New research presented at this year's International Congress on Obesity (ICO2026), hosted by the World Obesity Federation (WOF) in Mexico City, Mexico (July 15–17), reveals that few of the world's 21 largest food retailers are taking significant voluntary action to create healthier food environments for children and families.",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -388,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.391672+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.535236+00:00"
     },
     {
       "id": "rss-130f0cf4b1a4",
@@ -397,7 +429,7 @@
       "title": "LIG1 loss exposes a therapeutic vulnerability in triple-negative breast cancer",
       "authors": "Medical Xpress",
       "abstract": "Loss of one copy of the DNA ligase I (LIG1) gene in triple-negative breast cancers (TNBC) with TP53 mutations confers resistance to chemotherapy, but researchers at Baylor College of Medicine and collaborating institutions have identified a vulnerability in these cells and used it to their advantage. The team identified underlying molecular mechanisms of platinum resistance that they neutralized with combinations of available drugs to reduce tumor growth in animal models. This work also highlights LIG1 status as a patient stratification factor for ongoing and future clinical trials. The study appeared in Molecular Cancer Therapeutics.",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -420,39 +452,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.391930+00:00"
-    },
-    {
-      "id": "rss-4250ac6dc095",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Wildfires, smoke and stress lead to reduced birth weight and more premature births",
-      "authors": "Medical Xpress",
-      "abstract": "Exposure to wildfires during pregnancy has negative effects on infant health, according to a study recently published by the Centre for Demographic Studies (CED) at the UAB in the journal Perspectives Demogràfiques. Based on 3.4 million births in Spain between 2008 and 2021, the research identifies two mechanisms: stress and air pollution caused by fine particulate matter (PM2.5) carried by smoke. One effect is a 10% increase in the likelihood of low birth weight. Another effect is an increase in preterm births.",
-      "date": "2026-07-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-wildfires-stress-birth-weight-premature.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "births",
-        "wildfires",
-        "smoke",
-        "stress",
-        "birth",
-        "weight",
-        "effect",
-        "increase"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.392204+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.535563+00:00"
     },
     {
       "id": "rss-9546428c429e",
@@ -484,7 +484,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.457219+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.615973+00:00"
     },
     {
       "id": "rss-9a3013be7a58",
@@ -516,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.457423+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.616215+00:00"
     },
     {
       "id": "rss-b99827fc3c78",
@@ -548,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.457590+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.616415+00:00"
     },
     {
       "id": "rss-de227b40c7b7",
@@ -580,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.457735+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.616641+00:00"
     },
     {
       "id": "rss-9a220c0aaeab",
@@ -612,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.457864+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.616815+00:00"
     },
     {
       "id": "rss-7333885bb1e3",
@@ -644,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.457988+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.616978+00:00"
     },
     {
       "id": "rss-3676f34692a3",
@@ -676,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.458172+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.617149+00:00"
     },
     {
       "id": "rss-89027a439aed",
@@ -708,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.458429+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.617417+00:00"
     },
     {
       "id": "rss-97f41d057c5a",
@@ -740,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.458606+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.617658+00:00"
     },
     {
       "id": "rss-bf44671c91a4",
@@ -772,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.458821+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.617916+00:00"
     },
     {
       "id": "rss-ac1e07c98801",
@@ -804,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.458948+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.618073+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -836,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.683571+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.719703+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -868,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:32.068361+00:00"
+      "_retrievedAt": "2026-07-19T03:50:36.547871+00:00"
     },
     {
       "id": "rss-718b12023caf",
@@ -900,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:32.068566+00:00"
+      "_retrievedAt": "2026-07-19T03:50:36.548107+00:00"
     },
     {
       "id": "rss-13bda96af360",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.459088+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.618246+00:00"
     },
     {
       "id": "rss-1f30727023be",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.459221+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.618395+00:00"
     },
     {
       "id": "rss-04115fa3c0c2",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.459369+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.618592+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.683727+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.719884+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.683869+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.720059+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -1092,7 +1092,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:28.043574+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.702117+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.683996+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.720219+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.684149+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.720407+00:00"
     },
     {
       "id": "rss-ce688c2211e0",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.684335+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.720599+00:00"
     },
     {
       "id": "rss-d7bb3cddfe2e",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.684490+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.720788+00:00"
     },
     {
       "id": "rss-67f98bea1dc8",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.684620+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.720947+00:00"
     },
     {
       "id": "rss-35f3c73960fd",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:32.068877+00:00"
+      "_retrievedAt": "2026-07-19T03:50:36.548434+00:00"
     },
     {
       "id": "rss-fd9a37f6681c",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:32.069110+00:00"
+      "_retrievedAt": "2026-07-19T03:50:36.548728+00:00"
     },
     {
       "id": "rss-d6d69b0873be",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:32.069391+00:00"
+      "_retrievedAt": "2026-07-19T03:50:36.549028+00:00"
     },
     {
       "id": "rss-68e47e682229",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:32.069595+00:00"
+      "_retrievedAt": "2026-07-19T03:50:36.549266+00:00"
     },
     {
       "id": "rss-e186ac38d0fa",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:32.069813+00:00"
+      "_retrievedAt": "2026-07-19T03:50:36.549541+00:00"
     },
     {
       "id": "rss-bde592569e0e",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:32.070054+00:00"
+      "_retrievedAt": "2026-07-19T03:50:36.549830+00:00"
     },
     {
       "id": "rss-de0ae6db61b8",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:32.070340+00:00"
+      "_retrievedAt": "2026-07-19T03:50:36.550145+00:00"
     },
     {
       "id": "rss-a8870f3ce44e",
@@ -1508,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:32.070621+00:00"
+      "_retrievedAt": "2026-07-19T03:50:36.550472+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -1540,7 +1540,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.852114+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.557029+00:00"
     },
     {
       "id": "rss-e3ae47ff98f8",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.684750+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.721106+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -1604,7 +1604,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:28.042100+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.700536+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -1636,7 +1636,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.850847+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.555439+00:00"
     },
     {
       "id": "rss-904aa85f5191",
@@ -1668,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.684879+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.721265+00:00"
     },
     {
       "id": "rss-319482b50c5b",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.685008+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.721425+00:00"
     },
     {
       "id": "rss-a5d229a3d4b5",
@@ -1732,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.685134+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.721609+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -1764,7 +1764,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:27.429819+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.129818+00:00"
     },
     {
       "id": "rss-0ec61d5c541e",
@@ -1796,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.685316+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.721811+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -1828,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:31.685464+00:00"
+      "_retrievedAt": "2026-07-19T03:50:35.721986+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1860,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.281554+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.008993+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1892,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.282254+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.009770+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1924,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:27.429481+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.129424+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1956,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.280940+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.008306+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -1988,7 +1988,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:27.432716+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.133000+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2020,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:28.045006+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.703718+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2052,7 +2052,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:28.046452+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.705261+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2084,7 +2084,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:28.042797+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.701270+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2116,7 +2116,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.279286+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.006466+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2148,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:28.041729+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.700127+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2180,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.282770+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.010350+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2212,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.283209+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.010865+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2244,7 +2244,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:27.429264+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.129208+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2276,7 +2276,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.278946+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.006133+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2308,7 +2308,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.280577+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.007911+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2340,7 +2340,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.278566+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.005749+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2372,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:27.433277+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.133333+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2404,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:27.432425+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.132675+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2436,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:28.041338+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.699707+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2468,7 +2468,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.279709+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.006955+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -2500,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:28.046101+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.704893+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -2532,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.852412+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.557317+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -2564,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.853234+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.558217+00:00"
     },
     {
       "id": "openalex-f765d7fb07bb",
@@ -2596,7 +2596,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.283516+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.011199+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2628,7 +2628,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.282492+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.010039+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -2660,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:28.044327+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.702967+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -2692,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.851757+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.556691+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -2724,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:28.042421+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.700870+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2756,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.853512+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.558541+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2788,7 +2788,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.281843+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.009308+00:00"
     },
     {
       "id": "openalex-7ccfc202ecea",
@@ -2820,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.850167+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.554687+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2852,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.854076+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.558869+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -2884,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:28.043968+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.702574+00:00"
     },
     {
       "id": "openalex-d826f52b28e7",
@@ -2916,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:28.046808+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.705670+00:00"
     },
     {
       "id": "openalex-557912e64e56",
@@ -2948,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.850515+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.555019+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -2980,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:28.045766+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.704519+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -3012,7 +3012,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:27.430101+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.130123+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -3044,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.851465+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.556332+00:00"
     },
     {
       "id": "openalex-43e02d456db7",
@@ -3076,7 +3076,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.854611+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.559442+00:00"
+    },
+    {
+      "id": "openalex-7748aaa80fd7",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Single‐Cell and Spatial Omics: Methods and Applications",
+      "authors": "Xiaoping Cen, Xiaolan Huang, Erle Deng, Xue Gong, Na Tan, J. T. Ye",
+      "abstract": "Single-cell and spatial omics have revolutionized biomedical research by enabling high-resolution molecular profiling across cells and tissues, thereby overcoming key limitations of bulk sequencing and revealing unprecedented cellular heterogeneity and spatial organization central to development, homeostasis, and disease. Specifically, advances in high-throughput, subcellular, and multiomics profiling are promoting the field toward deeper insights. In parallel, computational progress, including generative artificial intelligence (AI) and foundation models, is developing rapidly for manipulating multimodal multiomics data. These advancements have been applied to diverse diseases and biological systems, facilitating innovative biomedical findings. However, a significant gap persists between rapid methodological advances and their systematic application for deciphering human biology and...",
+      "date": "2026-04-01",
+      "year": 2026,
+      "journal": "MedComm",
+      "source": "MedComm",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1002/mco2.70713",
+      "doi": "10.1002/mco2.70713",
+      "pdfUrl": "https://doi.org/10.1002/mco2.70713",
+      "keywords": [
+        "Profiling (computer programming)",
+        "Data science",
+        "Computer science",
+        "Bridging (networking)",
+        "Precision medicine",
+        "Single-cell and spatial transcriptomics",
+        "Cell Image Analysis Techniques",
+        "Cancer Genomics and Diagnostics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-19T03:50:30.559808+00:00"
     },
     {
       "id": "openalex-1bdbe1c46708",
@@ -3108,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:27.431220+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.131336+00:00"
     },
     {
       "id": "openalex-65ac17e8114e",
@@ -3140,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:27.433537+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.133638+00:00"
     },
     {
       "id": "openalex-fd4b6aa3ca96",
@@ -3172,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:27.433934+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.134066+00:00"
     },
     {
       "id": "openalex-ac109ca21f18",
@@ -3204,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.854368+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.559169+00:00"
     },
     {
       "id": "openalex-7ecbe579840c",
@@ -3236,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:28.045383+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.704111+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -3268,7 +3300,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.281220+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.008629+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -3300,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:27.430729+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.130826+00:00"
     },
     {
       "id": "openalex-be8055a102c2",
@@ -3332,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:28.043302+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.701824+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -3364,7 +3396,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.279990+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.007263+00:00"
+    },
+    {
+      "id": "openalex-79674174f41b",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "The extracellular matrix: structure, composition, biological functions, diseases, and therapeutic targets",
+      "authors": "Khairunnisa Mohd Kamal, Ahmad Rohi Ghazali, Gayathri Thevi Selvarajah, Nurul‐Syakima Ab Mutalib, Nadiah Abu, Eng Wee Chua",
+      "abstract": "The extracellular matrix (ECM) is a highly organised and dynamic regulator of tissue structural integrity and biochemical signalling, and its dysregulation is a hallmark of fibrosis and cancer. Recent evidence highlights the critical role of epigenetic mechanisms in controlling ECM-related gene expression and remodelling activity. This review integrates recent advances in understanding how epigenetic mechanisms govern ECM composition, remodelling, and mechanotransduction, and how reciprocal ECM-derived signals reshape the epigenetic landscape. Growing evidence links DNA methylation, histone modifications, and non-coding RNAs to the regulation of key ECM components, matrix-modifying enzymes, and stiffness-associated signalling pathways, including TGF-β, Wnt, and PI3K/Akt are summarised in this review. The bidirectional feedback between altered ECM mechanics and epigenetic enzyme activi...",
+      "date": "2026-03-26",
+      "year": 2026,
+      "journal": "Molecular Biomedicine",
+      "source": "Molecular Biomedicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1186/s43556-026-00436-1",
+      "doi": "10.1186/s43556-026-00436-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s43556-026-00436-1.pdf",
+      "keywords": [
+        "Epigenetics",
+        "Extracellular matrix",
+        "Histone",
+        "Biology",
+        "Regulator",
+        "Proteoglycans and glycosaminoglycans research",
+        "Cell Adhesion Molecules Research",
+        "Liver physiology and pathology"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-19T03:50:31.134416+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -3396,7 +3460,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.280377+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.007686+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -3428,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.852966+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.557949+00:00"
     },
     {
       "id": "openalex-a6b5129285ce",
@@ -3460,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:27.432134+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.132358+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -3492,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.851205+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.556042+00:00"
     },
     {
       "id": "openalex-30c40f8e9a91",
@@ -3524,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.852699+00:00"
+      "_retrievedAt": "2026-07-19T03:50:30.557648+00:00"
     },
     {
       "id": "openalex-1d323943a31f",
@@ -3556,71 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:28.044656+00:00"
-    },
-    {
-      "id": "openalex-66c07f9c3579",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "AP-1 mediates cellular adaptation and memory formation",
-      "authors": "Jingxin Li, Pavithran T. Ravindran, Aoife O’Farrell, Gianna T. Busch, Ryan H. Boe, Zijian Niu",
-      "abstract": "Cellular responses to environmental stimuli are typically thought to be governed by genetically encoded programs. We demonstrate that cancer cells can form and maintain cellular memories when becoming drug resistant, exhibiting characteristics of cellular learning that are dependent on the transcription factor AP-1. We show that cells exposed to a low dose of therapy adapt to become resistant to a high dose, demonstrating that cells can adapt during this time of stress. The application of therapy itself results in the encoding of transient gene expression into cellular memory and that this encoding occurs for both transiently induced and probabilistically arising expression. Chromatin accessibility shows concomitant persistence. A two-color AP-1 reporter system shows that these memories are encoded in cis, constituting an example of activating cis epigenetics. Our findings establish t...",
-      "date": "2026-03-20",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-70862-w",
-      "doi": "10.1038/s41467-026-70862-w",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-70862-w_reference.pdf",
-      "keywords": [
-        "Chromatin",
-        "Cellular adaptation",
-        "Transcription factor",
-        "Cell biology",
-        "Biology",
-        "Pluripotent Stem Cells Research",
-        "Protein Degradation and Inhibitors",
-        "Cancer, Stress, Anesthesia, and Immune Response"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:26.853774+00:00"
-    },
-    {
-      "id": "openalex-0d7cacb4a5a2",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Lab-on-a-Chip and Microfluidics Technologies for Nano Drug Delivery",
-      "authors": "Bochun Guo, Yuchao Zhao, Xunli Zhang",
-      "abstract": "Lab-on-a-Chip (LoC) and microfluidic technologies are rapidly reshaping the development pipeline for nano drug delivery systems (DDSs) by enabling precise control of physicochemical properties, high-throughput screening, and integrated biological evaluation within miniaturized platforms. This review synthesizes recent advances in microfluidic principles, fabrication strategies, and sensing modalities that facilitate continuous flow synthesis, real-time characterization, and adaptive formulation of nanoparticles. We highlight how LoC-enabled systems improve monodispersity, reproducibility, and tunability of liposomes, polymeric nanoparticles, and metallic nanocarriers, while providing powerful tools for assessing pharmacokinetics, drug release, and systemic responses using organ-on-chip (OoC) models. Emerging trends, including AI-driven autonomous optimization, stimuli-responsive mater...",
-      "date": "2026-03-20",
-      "year": 2026,
-      "journal": "Bioengineering",
-      "source": "Bioengineering",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/bioengineering13030363",
-      "doi": "10.3390/bioengineering13030363",
-      "pdfUrl": "https://www.mdpi.com/2306-5354/13/3/363/pdf?version=1773987970",
-      "keywords": [
-        "Nanotechnology",
-        "Microfluidics",
-        "Nanomedicine",
-        "Drug delivery",
-        "Context (archaeology)",
-        "3D Printing in Biomedical Research",
-        "Microfluidic and Bio-sensing Technologies",
-        "Innovative Microfluidic and Catalytic Techniques Innovation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-18T19:28:27.432965+00:00"
+      "_retrievedAt": "2026-07-19T03:50:31.703312+00:00"
     }
   ]
 }
