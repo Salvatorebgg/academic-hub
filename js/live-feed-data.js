@@ -1,11 +1,427 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-07-21T08:41:59.775115+00:00",
+  "generatedAt": "2026-07-21T14:18:55.096215+00:00",
   "total": 112,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-44d278cdb96d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "First trial confirms swimming reduces disability from chronic back pain",
+      "authors": "Medical Xpress",
+      "abstract": "Australian research has shown for the first time that a swimming program can be clinically effective at reducing disability caused by chronic low back pain. Published in the British Journal of Sports Medicine, the EduSwim clinical trial found that an eight-week individualized program of swimming and education, guided by a physiotherapist, improved function and reduced pain significantly more than education alone in people with back pain.",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-trial-disability-chronic-pain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "pain",
+        "swimming",
+        "back",
+        "first",
+        "trial",
+        "disability",
+        "chronic",
+        "that"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-21T14:18:53.902608+00:00"
+    },
+    {
+      "id": "rss-6d0422aaaefe",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New framework launches to improve pulmonary embolism patient care",
+      "authors": "Medical Xpress",
+      "abstract": "The Pulmonary Embolism Reporting and Data Systems (PE-RADS) framework for diagnosing and classifying acute pulmonary embolism using CT and magnetic resonance (MR) angiography was published in Radiology.",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-framework-pulmonary-embolism-patient.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "pulmonary",
+        "embolism",
+        "framework",
+        "launches",
+        "improve",
+        "patient",
+        "care",
+        "reporting"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-21T14:18:53.902816+00:00"
+    },
+    {
+      "id": "rss-9619fceb2efc",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "One of the oldest psychedelics meets modern brain imaging",
+      "authors": "Medical Xpress",
+      "abstract": "For millennia, people have used the psychedelic mescaline as a spiritual and religious tool. Mescaline is a naturally occurring chemical found in cacti, mainly peyote cacti, that are located in the Southwest United States and Mexico. The drug has been used for 5,700 years, according to archaeological evidence, making it one of the oldest hallucinogens.",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-oldest-psychedelics-modern-brain-imaging.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "oldest",
+        "used",
+        "mescaline",
+        "cacti",
+        "psychedelics",
+        "meets",
+        "modern",
+        "brain"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-21T14:18:53.903019+00:00"
+    },
+    {
+      "id": "rss-419acb9404ae",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Charting children's eyes to head off global myopia epidemic",
+      "authors": "Medical Xpress",
+      "abstract": "An international study co-led by The University of Western Australia has created the equivalent of infant growth curve charts for children's eyes to help clinicians identify warning signs of myopia.",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-children-eyes-global-myopia-epidemic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "children",
+        "eyes",
+        "myopia",
+        "charting",
+        "head",
+        "global",
+        "epidemic",
+        "international"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-21T14:18:53.903207+00:00"
+    },
+    {
+      "id": "rss-e333de74a299",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Helping Hawaiʻi adults reduce the risk of type 2 diabetes",
+      "authors": "Medical Xpress",
+      "abstract": "For many adults at risk of type 2 diabetes, knowing where to begin can be one of the biggest obstacles to prevention. A new study from the Healthy Hawaiʻi Evaluation Team (HHET) at the University of Hawaiʻi at Mānoa Thompson School of Social Work and Public Health and the Hawaiʻi State Department of Health (HDOH) found that a statewide media campaign helped encourage more adults to take that first step by enrolling in the National Diabetes Prevention Program (DPP).",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-hawaii-adults-diabetes.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "hawai",
+        "adults",
+        "diabetes",
+        "risk",
+        "type",
+        "prevention",
+        "health",
+        "that"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-21T14:18:53.903457+00:00"
+    },
+    {
+      "id": "rss-c0d3a7a253d0",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New AI-guided technique may improve delivery of brain tumor therapy",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers presented an artificial intelligence (AI)-guided technique at the Society of NeuroInterventional Surgery's (SNIS) 23rd Annual Meeting that may improve the accuracy of delivering experimental therapies directly to malignant brain tumors.",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-ai-technique-delivery-brain-tumor.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "technique",
+        "improve",
+        "brain",
+        "ai-guided",
+        "delivery",
+        "tumor",
+        "therapy",
+        "researchers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-21T14:18:53.903632+00:00"
+    },
+    {
+      "id": "rss-1faf7306a587",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Ripples of activity in the hippocampus prepare the brain for surprising events",
+      "authors": "Medical Xpress",
+      "abstract": "The human brain continuously makes predictions about future events. This process helps humans process familiar stimuli while also allowing them to direct particular attention to unexpected or unfamiliar events and derive important new information. While various past studies explored how the brain predicts familiar occurrences, fewer have tried to uncover the mechanisms that prepare it for surprising events. One region known to play a role in experience-informed future predictions is the hippocampus, the brain's primary long-term memory center.",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-ripples-hippocampus-brain-events.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "events",
+        "hippocampus",
+        "prepare",
+        "surprising",
+        "predictions",
+        "future",
+        "process"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-21T14:18:53.903855+00:00"
+    },
+    {
+      "id": "rss-62504f4a8571",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Study: Few Americans engage in the arts on a typical day despite health benefits",
+      "authors": "Medical Xpress",
+      "abstract": "Only about 1 in 20 Americans engage in arts or cultural activities on any given day, according to a new study analyzing two decades of national survey data—a surprisingly low figure for a behavior researchers increasingly associate with health and well-being.",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-americans-engage-arts-typical-day.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "americans",
+        "engage",
+        "arts",
+        "health",
+        "typical",
+        "despite",
+        "benefits",
+        "only"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-21T14:18:53.904047+00:00"
+    },
+    {
+      "id": "rss-a97a506d239b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Female ER physicians order more tests and admit more patients than male physicians, study shows",
+      "authors": "Medical Xpress",
+      "abstract": "A new UCLA Health study examining more than 1.5 million emergency department (ED) visits found that female physicians request more imaging and laboratory tests and admit more patients to the hospital than their male counterparts working alongside them. But the added testing was just as likely to uncover important findings, suggesting the additional care may have been clinically appropriate.",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-female-er-physicians-patients-male.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "more",
+        "physicians",
+        "than",
+        "female",
+        "tests",
+        "admit",
+        "patients",
+        "male"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-21T14:18:53.904295+00:00"
+    },
+    {
+      "id": "rss-d8132086c4e7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Motherhood may reduce late-life frailty rather than raise it, companion dog model suggests",
+      "authors": "Medical Xpress",
+      "abstract": "Frailty threatens older individuals because it increases their vulnerability to detrimental health outcomes, such as falls, longer hospitalizations or even shortened life expectancy. Biogerontologists are actively exploring a potential health trade-off important to mothers: Whether the production of offspring comes at a maternal cost as a consequence of a diversion of physiological resources that could lead to accelerated aging and increased late-life frailty.",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-motherhood-late-life-frailty-companion.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "frailty",
+        "late-life",
+        "health",
+        "motherhood",
+        "reduce",
+        "rather",
+        "than",
+        "raise"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-21T14:18:53.904507+00:00"
+    },
+    {
+      "id": "rss-f079eba35d5f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Home delivered, medically tailored groceries improve diabetes control",
+      "authors": "Medical Xpress",
+      "abstract": "A study by researchers at U.S. health insurance and medical services provider Kaiser Permanente, the Food is Medicine Institute at the Gerald J. and Dorothy R. Friedman School of Nutrition Science and Policy at Tufts University, and The George Institute for Global Health found that medically tailored grocery deliveries improved blood sugar control among adults living with type 2 diabetes who have public health insurance, compared with usual care.",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-home-medically-tailored-groceries-diabetes.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "health",
+        "medically",
+        "tailored",
+        "diabetes",
+        "control",
+        "insurance",
+        "institute",
+        "home"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-21T14:18:53.904713+00:00"
+    },
+    {
+      "id": "rss-e66c860a47eb",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Sudden cardiac death condition shown to have linked genetic variations",
+      "authors": "Medical Xpress",
+      "abstract": "Scientists have found that the \"sudden\" cardiac death condition related to high-profile deaths or major medical episodes of sports stars including Fabrice Muamba, Christian Erikson and Mark-Vivian Foe, has numerous linked gene variations that highlight a potentially treatable vulnerability.",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-sudden-cardiac-death-condition-shown.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "sudden",
+        "cardiac",
+        "death",
+        "condition",
+        "have",
+        "linked",
+        "variations",
+        "that"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-21T14:18:53.904892+00:00"
+    },
+    {
+      "id": "rss-ac58e50df0a6",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Thymus-derived hormone may suppress age-related inflammation and boost cancer therapy",
+      "authors": "Medical Xpress",
+      "abstract": "Chronic, low-grade inflammation in the body—a phenomenon known as \"inflammaging\" because it increases with age—has been linked to many of today's leading causes of illness and death, including cancer, heart disease, metabolic conditions and neurodegenerative diseases. But scientists have struggled to understand what causes inflammaging or how to reverse its effects.",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-thymus-derived-hormone-suppress-age.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "inflammation",
+        "cancer",
+        "inflammaging",
+        "causes",
+        "thymus-derived",
+        "hormone",
+        "suppress",
+        "age-related"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-21T14:18:53.905118+00:00"
+    },
     {
       "id": "rss-9d1386077cc6",
       "discipline": "clinical",
@@ -36,423 +452,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.268501+00:00"
+      "_retrievedAt": "2026-07-21T14:18:53.905278+00:00"
     },
     {
-      "id": "rss-afa1f26d35b5",
-      "discipline": "clinical",
+      "id": "rss-eaed427f4987",
+      "discipline": "cs",
       "type": "news",
-      "title": "Roadmap charts brain-computer interfaces for depression, anxiety and PTSD",
-      "authors": "Medical Xpress",
-      "abstract": "Brain-computer interfaces (BCIs) have made remarkable progress restoring movement and speech in people with paralysis. While brain-computer interface technology thus far has largely focused on decoding motor function, the disorders responsible for the greatest global burden of brain disease—including depression, anxiety, post-traumatic stress disorder, and obsessive-compulsive disorder—are fundamentally disorders of cognition: how we attend, remember, decide, and regulate emotion. As researchers seek to expand the clinical potential of BCIs, a new review argues that treating cognitive disorders will require fundamentally different approaches than the current BCI motor applications.",
+      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "authors": "TechCrunch AI",
+      "abstract": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
       "date": "2026-07-21",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-roadmap-brain-interfaces-depression-anxiety.html",
+      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "brain-computer",
-        "disorders",
-        "interfaces",
-        "depression",
-        "anxiety",
-        "bcis",
-        "motor",
-        "disorder"
+        "deezer",
+        "more",
+        "than",
+        "daily",
+        "ai-generated",
+        "music",
+        "streamer",
+        "says"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.268958+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.467295+00:00"
     },
     {
-      "id": "rss-018c8fa9420d",
-      "discipline": "clinical",
+      "id": "rss-364b59e586f7",
+      "discipline": "cs",
       "type": "news",
-      "title": "Call for systematic bone health optimization before joint replacement and spinal fusion surgery",
-      "authors": "Medical Xpress",
-      "abstract": "A new position statement from the International Osteoporosis Foundation's (IOF) Committee of Scientific Advisors Fracture Working Group urges orthopedic surgeons and bone health specialists to work together to assess and treat osteoporosis before and after joint replacement and spinal fusion surgery.",
+      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
+      "authors": "TechCrunch AI",
+      "abstract": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
       "date": "2026-07-21",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-systematic-bone-health-optimization-joint.html",
+      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "bone",
-        "health",
-        "before",
-        "joint",
-        "replacement",
-        "spinal",
-        "fusion",
-        "surgery"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.269232+00:00"
-    },
-    {
-      "id": "rss-9ab40a7b121b",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "How ultra-processed food firms hoodwink us into thinking their products are 'healthier' than others",
-      "authors": "Medical Xpress",
-      "abstract": "New research presented at the International Congress on Obesity (ICO2026), hosted by the World Obesity Federation (WOF) in Mexico City, Mexico, July 15–17, shows how various sectors representing the ultra-processed food (UPF) industry use tactics to deny the health risks associated with these products, including attempting to reframe their particular UPFs as healthier and somehow different from others.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-ultra-food-firms-hoodwink-products.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ultra-processed",
-        "food",
-        "their",
-        "products",
-        "healthier",
-        "others",
-        "obesity",
-        "mexico"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.269534+00:00"
-    },
-    {
-      "id": "rss-9539d7d7b13b",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Reddit data reveals federal health workers hit a breaking point as anger surpasses pandemic levels",
-      "authors": "Medical Xpress",
-      "abstract": "As shifting federal priorities, sweeping agency restructurings and deep funding cuts continue to reshape the American public health infrastructure, a new study reveals the toll these disruptions are taking on the federal workforce.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-reddit-reveals-federal-health-workers.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "federal",
-        "reveals",
-        "health",
-        "reddit",
-        "workers",
-        "breaking",
-        "point",
-        "anger"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.269778+00:00"
-    },
-    {
-      "id": "rss-84d8cc253d78",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Many cancer survivors have impairments that make using mobile devices and websites difficult",
-      "authors": "Medical Xpress",
-      "abstract": "Megan (not her real name) had always taken pride in her ability to meet someone once and remember their name. Then came a breast cancer diagnosis in her 40s, chemotherapy and the brain fog that followed. She struggled to focus. She couldn't remember names or where she placed her keys or phone. Long, wordy instructions were a nightmare.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-cancer-survivors-impairments-mobile-devices.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "that",
-        "name",
-        "remember",
-        "many",
-        "survivors",
-        "have",
-        "impairments"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.270121+00:00"
-    },
-    {
-      "id": "rss-0c9c425e99af",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "COVID-19 vaccines remain effective despite helminth-induced immune modulation",
-      "authors": "Medical Xpress",
-      "abstract": "More than a quarter of the world's population is affected by helminth infections, which can profoundly alter the immune system. In a preclinical study, researchers found that mRNA- and protein-based SARS-CoV-2 vaccines effectively protected Schistosoma-infected mice against the virus, despite the mice's distinct immune response profiles. These results suggest that chronic helminth infection does not necessarily compromise vaccine-induced protection. The findings were published in the journal Frontiers in Immunology.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-covid-vaccines-effective-helminth-immune.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "immune",
-        "vaccines",
-        "despite",
-        "helminth",
-        "that",
-        "mice",
-        "covid-",
-        "remain"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.270414+00:00"
-    },
-    {
-      "id": "rss-9d04bcbe3795",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "2015 to 2023 saw decline in health-care-associated infections in the U.S.",
-      "authors": "Medical Xpress",
-      "abstract": "The prevalence of health care-associated infections was lower in 2023 than in 2015 in the United States, according to a study published in the New England Journal of Medicine.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-decline-health-infections.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "infections",
-        "decline",
-        "health-care-associated",
-        "prevalence",
-        "health",
-        "care-associated",
-        "lower",
-        "than"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.270638+00:00"
-    },
-    {
-      "id": "rss-078ff8eab7bb",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Mental health programs alone won't fix psychological injury among public safety workers",
-      "authors": "Medical Xpress",
-      "abstract": "A recent Ontario Coroner's Review documented 34 deaths by suicide among correctional workers over the past 15 years, with 17 of those deaths occurring since 2020.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-mental-health-wont-psychological-injury.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "among",
-        "workers",
-        "deaths",
-        "mental",
-        "health",
-        "programs",
-        "alone",
-        "psychological"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.270894+00:00"
-    },
-    {
-      "id": "rss-e0d1aea798b1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "The bone fractures that often go unlinked to osteoporosis",
-      "authors": "Medical Xpress",
-      "abstract": "Many fractures are early-warning signs of osteoporosis. Yet in everyday clinical care, they often go unrecognized and undocumented as warning signs, according to a new nationwide Austrian study by the Complexity Science Hub (CSH) and the Ludwig Boltzmann Institute for Osteology (LBI Osteology). Men are affected more often.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-bone-fractures-unlinked-osteoporosis.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "often",
-        "fractures",
-        "osteoporosis",
-        "signs",
-        "osteology",
-        "bone",
-        "that",
-        "unlinked"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.271147+00:00"
-    },
-    {
-      "id": "rss-878f774d854f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Around the world, road injuries remain a leading, preventable cause of death among young people",
-      "authors": "Medical Xpress",
-      "abstract": "In 2023, nearly 51 million people were injured and 1.34 million died from road injuries, making road injuries one of the leading global causes of premature death and disability, according to a new study published in The Lancet Public Health",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-world-road-injuries-death-young.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "road",
-        "injuries",
-        "leading",
-        "death",
-        "people",
+        "gritt",
+        "stealth",
         "million",
-        "around",
-        "world"
+        "exits",
+        "robots",
+        "build",
+        "solar",
+        "plants"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.271387+00:00"
-    },
-    {
-      "id": "rss-61b71a9cbd79",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "FDA: Iceberg lettuce recall stands after false positive for Cyclospora",
-      "authors": "Medical Xpress",
-      "abstract": "A multistate outbreak of cyclosporiasis has prompted a voluntary recall of iceberg lettuce sold by Taylor Farms de Mexico of Guanajuato, Mexico.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-fda-iceberg-lettuce-recall-false.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "iceberg",
-        "lettuce",
-        "recall",
-        "mexico",
-        "stands",
-        "after",
-        "false",
-        "positive"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.271600+00:00"
-    },
-    {
-      "id": "rss-828090b3a7a5",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Four-zone scleral lens improves visual performance for irregular corneas",
-      "authors": "Medical Xpress",
-      "abstract": "For adults with irregular corneas, a four-zone scleral lens demonstrates high effectiveness in improving visual performance, according to a study published in the September issue of Eye Discovery.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-zone-scleral-lens-visual-irregular.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "four-zone",
-        "scleral",
-        "lens",
-        "visual",
-        "performance",
-        "irregular",
-        "corneas",
-        "improves"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.271820+00:00"
-    },
-    {
-      "id": "rss-9008039fc576",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Newly identified MRI biomarkers reveal physical brain changes from cognitive training, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "A new neuroimaging study published in the journal Brain Imaging and Behavior provides some of the first evidence that strengthening your brain health through daily habits rewires its physical architecture.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-newly-mri-biomarkers-reveal-physical.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "brain",
-        "physical",
-        "newly",
-        "identified",
-        "biomarkers",
-        "reveal",
-        "changes",
-        "cognitive"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.272075+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.467494+00:00"
     },
     {
       "id": "rss-064c8cdc1029",
@@ -484,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.314742+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.467635+00:00"
     },
     {
       "id": "rss-3ccdc15563be",
@@ -516,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.315023+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.467768+00:00"
     },
     {
       "id": "rss-0a521e37c4c6",
@@ -548,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.315205+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.467897+00:00"
     },
     {
       "id": "rss-30e1c7e6f85a",
@@ -580,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.315391+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.468033+00:00"
     },
     {
       "id": "rss-e1549eddd241",
@@ -612,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.315541+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.468159+00:00"
     },
     {
       "id": "rss-4d0e5307fe43",
@@ -644,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.315700+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.468272+00:00"
     },
     {
       "id": "rss-f4776999d314",
@@ -676,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.315888+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.468393+00:00"
     },
     {
       "id": "rss-b9cfbcf1c9a4",
@@ -708,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.316066+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.468518+00:00"
     },
     {
       "id": "rss-b8a9d64d99d2",
@@ -740,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.316216+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.468629+00:00"
     },
     {
       "id": "rss-0bb904d94a57",
@@ -772,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.316378+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.468753+00:00"
     },
     {
       "id": "rss-40ddb00a4ea2",
@@ -804,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.316519+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.468861+00:00"
     },
     {
       "id": "rss-d24400d8c93e",
@@ -836,71 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.316675+00:00"
-    },
-    {
-      "id": "rss-9546428c429e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Kimi: Threat or menace?",
-      "authors": "TechCrunch AI",
-      "abstract": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "date": "2026-07-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "kimi",
-        "threat",
-        "menace",
-        "chinese",
-        "company",
-        "moonshot",
-        "released",
-        "version"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.316816+00:00"
-    },
-    {
-      "id": "rss-9a3013be7a58",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "authors": "TechCrunch AI",
-      "abstract": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
-      "date": "2026-07-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "neil",
-        "rimer",
-        "thinks",
-        "money",
-        "coming",
-        "back",
-        "venture",
-        "capitalist"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.317012+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.468981+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.344778+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.581448+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.549184+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.852749+00:00"
     },
     {
       "id": "rss-718b12023caf",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.549405+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.852942+00:00"
     },
     {
       "id": "rss-2c39e9060823",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.550090+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.853594+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.344993+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.581587+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.345164+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.581716+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:56.631479+00:00"
+      "_retrievedAt": "2026-07-21T14:18:50.294981+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.345323+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.581832+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.345504+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.581988+00:00"
     },
     {
       "id": "rss-ce688c2211e0",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.345658+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.582121+00:00"
     },
     {
       "id": "rss-d7bb3cddfe2e",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.345838+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.582268+00:00"
     },
     {
       "id": "rss-67f98bea1dc8",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.346026+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.582390+00:00"
     },
     {
       "id": "rss-35f3c73960fd",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.550401+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.853856+00:00"
     },
     {
       "id": "rss-fd9a37f6681c",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.550652+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.854063+00:00"
     },
     {
       "id": "rss-d6d69b0873be",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.550961+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.854329+00:00"
     },
     {
       "id": "rss-68e47e682229",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.551193+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.854526+00:00"
     },
     {
       "id": "rss-e186ac38d0fa",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.551450+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.854731+00:00"
     },
     {
       "id": "rss-bde592569e0e",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.551719+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.854958+00:00"
     },
     {
       "id": "rss-de0ae6db61b8",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.552057+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.855231+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:54.515345+00:00"
+      "_retrievedAt": "2026-07-21T14:18:48.278900+00:00"
     },
     {
       "id": "rss-e3ae47ff98f8",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.346187+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.582512+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:56.629961+00:00"
+      "_retrievedAt": "2026-07-21T14:18:50.293637+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:54.514019+00:00"
+      "_retrievedAt": "2026-07-21T14:18:48.277838+00:00"
     },
     {
       "id": "rss-904aa85f5191",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.346347+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.582636+00:00"
     },
     {
       "id": "rss-319482b50c5b",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.346507+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.582762+00:00"
     },
     {
       "id": "rss-a5d229a3d4b5",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.346664+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.582881+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:55.528225+00:00"
+      "_retrievedAt": "2026-07-21T14:18:49.390418+00:00"
     },
     {
       "id": "rss-0ec61d5c541e",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.346881+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.583035+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -1828,14 +1828,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:59.347065+00:00"
+      "_retrievedAt": "2026-07-21T14:18:54.583189+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
       "discipline": "cs",
       "type": "paper",
       "title": "Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook",
-      "authors": "Ming Jin, Qingsong Wen, Yuxuan Liang, Chaoli Zhang, Siqiao Xue, Xue Wang",
+      "authors": "Ming Jin, Yaxuan Kong, Yuxuan Liang, Chaoli Zhang, Siqiao Xue, Xue Wang",
       "abstract": "Temporal data — including time series and spatio-temporal data — are pervasive in real-world applications. Generated in massive volumes by physical and virtual sensors, they record dynamic system behaviors and enable a wide range of downstream tasks. Effectively analyzing such data is crucial to unlocking their rich information content. Recent advances in large language models and other foundation models have accelerated their use in time series and spatio-temporal data mining. These approaches not only improve pattern recognition and reasoning across diverse domains but also support progress toward artificial general intelligence that can understand and process temporal data. In this survey, we present a comprehensive, up-to-date review of large models tailored or adapted for time series and spatio-temporal data along four dimensions: data types, model categories, model scopes, and a...",
       "date": "2026-06-23",
       "year": 2026,
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:53.443675+00:00"
+      "_retrievedAt": "2026-07-21T14:18:47.708187+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:53.444454+00:00"
+      "_retrievedAt": "2026-07-21T14:18:47.708858+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:55.527819+00:00"
+      "_retrievedAt": "2026-07-21T14:18:49.390103+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:53.443025+00:00"
+      "_retrievedAt": "2026-07-21T14:18:47.707604+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:55.531392+00:00"
+      "_retrievedAt": "2026-07-21T14:18:49.393439+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:56.633002+00:00"
+      "_retrievedAt": "2026-07-21T14:18:50.295950+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:56.634533+00:00"
+      "_retrievedAt": "2026-07-21T14:18:50.297251+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:56.630676+00:00"
+      "_retrievedAt": "2026-07-21T14:18:50.294281+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:53.440798+00:00"
+      "_retrievedAt": "2026-07-21T14:18:47.705621+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:56.629564+00:00"
+      "_retrievedAt": "2026-07-21T14:18:50.292841+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2156,7 +2156,7 @@ window.LIVE_FEED_DATA = {
       "type": "paper",
       "title": "Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era",
       "authors": "Xuansheng Wu, Haiyan Zhao, Yaochen Zhu, Yucheng Shi, Fan Yang, Lijie Hu",
-      "abstract": "Explainable AI (XAI) refers to techniques that provide human-understandable insights into the workings of AI models. Recently, the focus of XAI is being extended toward explaining Large Language Models (LLMs). This extension calls for a significant transformation in the XAI methodologies for two reasons. First, many existing XAI methods cannot be directly applied to LLMs due to their complexity and advanced capabilities. Second, as LLMs are increasingly deployed in diverse applications, the role of XAI shifts from merely opening the “black box” to actively enhancing the productivity and applicability of LLMs in real-world settings. Meanwhile, the conversation and generation abilities of LLMs can reciprocally enhance XAI. Therefore, in this paper, we introduce Usable XAI in the context of LLMs by analyzing (1) how XAI can explain and improve LLM-based AI systems and (2) how XAI techniq...",
+      "abstract": "Explainable AI (XAI) refers to techniques that provide human-understandable insights into the workings of AI models. Recently, the focus of XAI has been extended toward explaining Large Language Models (LLMs). This extension calls for a significant transformation in the XAI methodologies for two reasons. First, many existing XAI methods cannot be directly applied to LLMs due to their complexity and advanced capabilities. Second, as LLMs are increasingly deployed in diverse applications, the role of XAI shifts from merely opening the “black box” to actively enhancing the productivity and applicability of LLMs in real-world settings. Meanwhile, the conversation and generation abilities of LLMs can reciprocally enhance XAI. Therefore, in this article, we introduce Usable XAI in the context of LLMs by analyzing (1) how XAI can explain and improve LLM-based AI systems and (2) how XAI techn...",
       "date": "2026-05-26",
       "year": 2026,
       "journal": "ACM Transactions on Knowledge Discovery from Data",
@@ -2180,14 +2180,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:53.445059+00:00"
+      "_retrievedAt": "2026-07-21T14:18:47.709389+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
       "discipline": "cs",
       "type": "paper",
       "title": "Exploring Code Analysis: Zero-Shot Insights on Syntax and Semantics with LLMs",
-      "authors": "W. F. Mader, Shangqing Liu, Shangqing Liu, Wenhan Wang, Qiang Hu, Wenhan Wang",
+      "authors": "Wei Ma, Shangqing Liu, Shangqing Liu, Qiang Hu, Ye Liu, Wenhan Wang",
       "abstract": "Code analysis is a fundamental problem in Software Engineering (SE), playing a crucial role in tasks such as debugging, performance optimization, and security assessment. Human developers typically approach code analysis through syntax parsing, static semantics inference, and dynamic reasoning. Traditional code analysis tools, while effective, are often limited by language specificity, complex configurations, and lack of cross-language generalization. Recently, large language models (LLMs) have emerged as promising tools for automating various code-related tasks. However, their capabilities for fundamental code analysis remain underexplored. Understanding these capabilities is crucial for assessing and enhancing LLM-based programming tools. We structure our study around three aspects of code analysis aligned with human practices: syntax parsing, static semantics inference, and dynamic...",
       "date": "2026-05-26",
       "year": 2026,
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:53.445552+00:00"
+      "_retrievedAt": "2026-07-21T14:18:47.709802+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2244,14 +2244,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:53.441958+00:00"
+      "_retrievedAt": "2026-07-21T14:18:47.706672+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
       "discipline": "cs",
       "type": "paper",
       "title": "TimeLLM: Time Series Forecasting by Reprogramming Large Language Models",
-      "authors": "Ming Jin, Shiyu Wang, Lintao Ma, Zhixuan Chu, James Y. Zhang, Xiaoming Shi",
+      "authors": "Ming Jin, Shiyu Wang, Yuan-Fang Li, Lintao Ma, James Y. Zhang, Zhixuan Chu",
       "abstract": "Accurate forecasting of time series is essential to many dynamic real-world systems and has attracted extensive research attention. Unlike natural language processing or computer vision, where one large model can often address multiple tasks, most existing forecasting solutions are highly specialized and confined to the single time series data modality. Advancements in multimodal time series foundation models have significantly lagged behind other domains, mainly because large, high-quality time series corpora remain scarce. At the same time, recent evidence suggests that large language models (LLMs) excel at understanding and reasoning across long token sequences. Exploiting those capabilities for forecasting requires a principled way to bridge numeric time series signals and linguistic tokens. This chapter presents Time-LLM, a model reprogramming framework that repurposes frozen LLM...",
       "date": "2026-05-18",
       "year": 2026,
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:53.440468+00:00"
+      "_retrievedAt": "2026-07-21T14:18:47.705311+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2308,14 +2308,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:53.442589+00:00"
+      "_retrievedAt": "2026-07-21T14:18:47.707246+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
       "discipline": "cs",
       "type": "paper",
       "title": "A Survey of Large Language Models",
-      "authors": "Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou",
+      "authors": "Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Zican Dong, Yupeng Hou",
       "abstract": "Abstract The rapid evolution of large language models (LLMs) has driven a transformative shift in artificial intelligence (AI), reshaping both research paradigms and practical applications. Distinguished from their predecessors by unprecedented scale and advanced capabilities, LLMs necessitate new frameworks for understanding their development, behavior, and societal impact. This survey systematically reviews recent advancements in LLM techniques across four key dimensions: (1) pre-training methodologies, which establish core model capabilities through large-scale self-supervised training, architectural innovations, and data curation strategies; (2) post-training techniques, including supervised fine-tuning and reinforcement learning, which adapt foundational models to downstream tasks and enhance their alignment and safety; (3) utilization strategies, such as in-context learning, pro...",
       "date": "2026-05-09",
       "year": 2026,
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:53.440060+00:00"
+      "_retrievedAt": "2026-07-21T14:18:47.704920+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:55.531728+00:00"
+      "_retrievedAt": "2026-07-21T14:18:49.393736+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:55.531070+00:00"
+      "_retrievedAt": "2026-07-21T14:18:49.392822+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2436,14 +2436,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:56.629170+00:00"
+      "_retrievedAt": "2026-07-21T14:18:50.292458+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
       "discipline": "cs",
       "type": "paper",
       "title": "Chatlaw: A Multi-Agent Legal Assistant based on a Role-Aligned Mixture-of-Experts Architecture",
-      "authors": "Jiaxi Cui, Munan Ning, Zongjian Li, Bohua Chen, Yan Yang, Bohua Chen",
+      "authors": "Jiaxi Cui, Munan Ning, Zongjian Li, Hao Li, Yan Yang, Bohua Chen",
       "abstract": "Artificial Intelligence (AI) holds great potential in legal services, yet Large Language Models (LLMs) face two major challenges: limited knowledge of the Chinese legal system and vulnerability to hallucinations. To address these issues, we present Chatlaw, a multi-agent legal assistant. Chatlaw’s framework is designed to emulate the Standard Operating Procedures (SOP) of real law firms, where different roles (e.g., assistant, researcher, senior lawyer) collaborate on a case. To computationally mirror this collaborative structure, we developed a novel Role-Aligned Mixture-of-Experts (RA-MoE) architecture. In this system, the internal \"experts\" are specifically trained to align with the distinct tasks of each agent role (e.g., inquiry, analysis, drafting). These specialized agents (Legal Assistant, Researcher, etc.) then form the collaborative framework. When they interact with users,...",
       "date": "2026-05-01",
       "year": 2026,
@@ -2468,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:53.441266+00:00"
+      "_retrievedAt": "2026-07-21T14:18:47.706030+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -2500,14 +2500,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:56.634182+00:00"
+      "_retrievedAt": "2026-07-21T14:18:50.296923+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
       "discipline": "bio",
       "type": "paper",
       "title": "Technical and biological sources of noise confound multiplexed enhancer AAV screening",
-      "authors": "Avery C. Hunker, John K. Mich, Naz Taskin, Amy Torkelson, Trangthanh Pham, Jean‐Benoît Lalanne",
+      "authors": "Avery C. Hunker, John K. Mich, Naz Taskin, Amy Torkelson, Trangthanh Cardenas, Jean‐Benoît Lalanne",
       "abstract": "Cis-acting regulatory enhancer elements are powerful tools for achieving cell type-specific genetic access in adeno-associated virus (AAV) delivery platforms. However, a significant bottleneck in enhancer discovery remains the accurate characterization of their in vivo expression patterns, which currently relies on labor-intensive, gold-standard one-by-one validation. Here, we evaluate multiple barcoded, multiplexed strategies for accelerated profiling of enhancer-driven expression at cell type resolution. As a proof-of-concept, we test small pools of well-validated enhancer AAVs with known activity across diverse cell types in the mouse brain. Despite extensive optimization and testing, we encounter substantial technical and biological noise, including chimeric AAV packaging products, that obscure true enhancer expression patterns. These effects are particularly pronounced for weaker...",
       "date": "2026-04-28",
       "year": 2026,
@@ -2532,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:54.515640+00:00"
+      "_retrievedAt": "2026-07-21T14:18:48.279416+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -2564,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:54.516934+00:00"
+      "_retrievedAt": "2026-07-21T14:18:48.280200+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2596,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:53.444719+00:00"
+      "_retrievedAt": "2026-07-21T14:18:47.709102+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -2628,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:56.632276+00:00"
+      "_retrievedAt": "2026-07-21T14:18:50.295328+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -2660,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:54.515008+00:00"
+      "_retrievedAt": "2026-07-21T14:18:48.278615+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -2692,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:56.630291+00:00"
+      "_retrievedAt": "2026-07-21T14:18:50.293927+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2724,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:54.517246+00:00"
+      "_retrievedAt": "2026-07-21T14:18:48.280465+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2756,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:53.444028+00:00"
+      "_retrievedAt": "2026-07-21T14:18:47.708476+00:00"
     },
     {
       "id": "openalex-7ccfc202ecea",
@@ -2788,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:54.513304+00:00"
+      "_retrievedAt": "2026-07-21T14:18:48.277264+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2820,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:54.517579+00:00"
+      "_retrievedAt": "2026-07-21T14:18:48.280709+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -2848,11 +2848,11 @@ window.LIVE_FEED_DATA = {
         "Soil and Land Suitability Analysis"
       ],
       "readTime": "1 min",
-      "citedBy": 3,
+      "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:56.631908+00:00"
+      "_retrievedAt": "2026-07-21T14:18:50.293285+00:00"
     },
     {
       "id": "openalex-d826f52b28e7",
@@ -2884,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:56.634941+00:00"
+      "_retrievedAt": "2026-07-21T14:18:50.297583+00:00"
     },
     {
       "id": "openalex-557912e64e56",
@@ -2916,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:54.513637+00:00"
+      "_retrievedAt": "2026-07-21T14:18:48.277560+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -2948,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:56.633778+00:00"
+      "_retrievedAt": "2026-07-21T14:18:50.296617+00:00"
     },
     {
       "id": "openalex-8d5e6bfc7e0b",
@@ -2980,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:54.516633+00:00"
+      "_retrievedAt": "2026-07-21T14:18:48.279967+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -3012,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:55.528531+00:00"
+      "_retrievedAt": "2026-07-21T14:18:49.390677+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -3044,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:54.514669+00:00"
+      "_retrievedAt": "2026-07-21T14:18:48.278363+00:00"
     },
     {
       "id": "openalex-43e02d456db7",
@@ -3076,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:54.518209+00:00"
+      "_retrievedAt": "2026-07-21T14:18:48.281154+00:00"
     },
     {
       "id": "openalex-1bdbe1c46708",
@@ -3108,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:55.529722+00:00"
+      "_retrievedAt": "2026-07-21T14:18:49.391710+00:00"
     },
     {
       "id": "openalex-65ac17e8114e",
@@ -3140,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:55.532046+00:00"
+      "_retrievedAt": "2026-07-21T14:18:49.393965+00:00"
     },
     {
       "id": "openalex-fd4b6aa3ca96",
@@ -3172,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:55.532476+00:00"
+      "_retrievedAt": "2026-07-21T14:18:49.394397+00:00"
     },
     {
       "id": "openalex-ac109ca21f18",
@@ -3204,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:54.517922+00:00"
+      "_retrievedAt": "2026-07-21T14:18:48.280944+00:00"
     },
     {
       "id": "openalex-7ecbe579840c",
@@ -3236,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:56.633393+00:00"
+      "_retrievedAt": "2026-07-21T14:18:50.296292+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -3264,11 +3264,11 @@ window.LIVE_FEED_DATA = {
         "risks"
       ],
       "readTime": "1 min",
-      "citedBy": 37,
+      "citedBy": 38,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:53.443318+00:00"
+      "_retrievedAt": "2026-07-21T14:18:47.707857+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -3300,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:55.529214+00:00"
+      "_retrievedAt": "2026-07-21T14:18:49.391257+00:00"
     },
     {
       "id": "openalex-be8055a102c2",
@@ -3332,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:56.631205+00:00"
+      "_retrievedAt": "2026-07-21T14:18:50.294734+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -3360,43 +3360,11 @@ window.LIVE_FEED_DATA = {
         "AI in Service Interactions"
       ],
       "readTime": "1 min",
-      "citedBy": 60,
+      "citedBy": 62,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:53.441568+00:00"
-    },
-    {
-      "id": "openalex-79674174f41b",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "The extracellular matrix: structure, composition, biological functions, diseases, and therapeutic targets",
-      "authors": "Khairunnisa Mohd Kamal, Ahmad Rohi Ghazali, Gayathri Thevi Selvarajah, Nurul‐Syakima Ab Mutalib, Nadiah Abu, Eng Wee Chua",
-      "abstract": "The extracellular matrix (ECM) is a highly organised and dynamic regulator of tissue structural integrity and biochemical signalling, and its dysregulation is a hallmark of fibrosis and cancer. Recent evidence highlights the critical role of epigenetic mechanisms in controlling ECM-related gene expression and remodelling activity. This review integrates recent advances in understanding how epigenetic mechanisms govern ECM composition, remodelling, and mechanotransduction, and how reciprocal ECM-derived signals reshape the epigenetic landscape. Growing evidence links DNA methylation, histone modifications, and non-coding RNAs to the regulation of key ECM components, matrix-modifying enzymes, and stiffness-associated signalling pathways, including TGF-β, Wnt, and PI3K/Akt are summarised in this review. The bidirectional feedback between altered ECM mechanics and epigenetic enzyme activi...",
-      "date": "2026-03-26",
-      "year": 2026,
-      "journal": "Molecular Biomedicine",
-      "source": "Molecular Biomedicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s43556-026-00436-1",
-      "doi": "10.1186/s43556-026-00436-1",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s43556-026-00436-1.pdf",
-      "keywords": [
-        "Epigenetics",
-        "Extracellular matrix",
-        "Histone",
-        "Biology",
-        "Regulator",
-        "Proteoglycans and glycosaminoglycans research",
-        "Cell Adhesion Molecules Research",
-        "Liver physiology and pathology"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:55.532830+00:00"
+      "_retrievedAt": "2026-07-21T14:18:47.706338+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -3424,11 +3392,11 @@ window.LIVE_FEED_DATA = {
         "Cell Image Analysis Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 47,
+      "citedBy": 48,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:53.442365+00:00"
+      "_retrievedAt": "2026-07-21T14:18:47.707034+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -3456,11 +3424,11 @@ window.LIVE_FEED_DATA = {
         "Histone Deacetylase Inhibitors Research"
       ],
       "readTime": "1 min",
-      "citedBy": 4,
+      "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:54.516290+00:00"
+      "_retrievedAt": "2026-07-21T14:18:48.279164+00:00"
     },
     {
       "id": "openalex-a6b5129285ce",
@@ -3492,7 +3460,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:55.530750+00:00"
+      "_retrievedAt": "2026-07-21T14:18:49.392572+00:00"
+    },
+    {
+      "id": "openalex-0ec471a5f228",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Pembrolizumab and olaparib in homologous-recombination-deficient metastatic pancreatic cancer: the phase 2 POLAR trial",
+      "authors": "Wungki Park, Catherine O’Connor, Joanne F. Chou, Marc Hilmi, Zeynep Tarcan, Carly Schwartz",
+      "abstract": "Homologous recombination deficiency (HRD) arising from BRCA1or BRCA2 or PALB2 mutations confers sensitivity to platinum chemotherapy and PARP inhibition in pancreatic cancer (PC) and may enable prolonged disease control with immune checkpoint blockade (ICB). The phase 2 POLAR trial evaluated maintenance pembrolizumab plus olaparib following platinum-based chemotherapy in biomarker-stratified metastatic PC. Sixty-three participants were enrolled into three cohorts: cohort A (BRCA1/BRCA2-mutated or PALB2-mutated HRD, n = 33), cohort B (non-core HRD, n = 15) and cohort C (platinum sensitive, HRD-wild type, n = 15). Cohort A used a two-stage design with co-primary endpoints of at least 43% Response Evaluation Criteria in Solid Tumors (RECIST) objective response rate (ORR) and at least 77% 6-month progression-free survival (PFS) rate. Among RECIST-evaluable participants in cohort A (n = 20...",
+      "date": "2026-03-25",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04299-5",
+      "doi": "10.1038/s41591-026-04299-5",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04299-5.pdf",
+      "keywords": [
+        "Olaparib",
+        "Medicine",
+        "Cohort",
+        "Pembrolizumab",
+        "Oncology",
+        "PARP inhibition in cancer therapy",
+        "Cancer Immunotherapy and Biomarkers",
+        "Pancreatic and Hepatic Oncology Research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-21T14:18:49.393167+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -3524,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:54.514391+00:00"
+      "_retrievedAt": "2026-07-21T14:18:48.278138+00:00"
     },
     {
       "id": "openalex-30c40f8e9a91",
@@ -3556,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:54.515983+00:00"
+      "_retrievedAt": "2026-07-21T14:18:48.279683+00:00"
     },
     {
       "id": "openalex-1d323943a31f",
@@ -3588,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T08:41:56.632605+00:00"
+      "_retrievedAt": "2026-07-21T14:18:50.295627+00:00"
     }
   ]
 };
