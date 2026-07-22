@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T19:49:06.690992+00:00",
+  "generatedAt": "2026-07-22T03:42:26.207807+00:00",
   "total": 112,
   "sources": [
     "RSS",
@@ -7,452 +7,548 @@
   ],
   "papers": [
     {
-      "id": "rss-87496f091bce",
+      "id": "rss-be678c95a0e9",
       "discipline": "clinical",
       "type": "news",
-      "title": "Elderly people living at home have less control, not more",
+      "title": "Doctors 'cringe' at possibility of documenting which Medicaid enrollees are too sick to work",
       "authors": "Medical Xpress",
-      "abstract": "Today, most older people with disabilities receive help at home, and there are limited places in nursing homes. At the same time, politicians claim that living at home provides independence and control over everyday life.",
-      "date": "2026-07-21",
+      "abstract": "Dr. Alice Thornton has spent more than two decades treating people living with HIV in Lexington, Kentucky. Her team tends to \"cringe\" anytime they hear about patients having to fill out lots of paperwork, like when applying for Social Security Disability payments, because it can be a difficult, burdensome process.",
+      "date": "2026-07-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-elderly-people-home.html",
+      "url": "https://medicalxpress.com/news/2026-07-doctors-cringe-possibility-documenting-medicaid.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "home",
+        "cringe",
+        "doctors",
+        "possibility",
+        "documenting",
+        "which",
+        "medicaid",
+        "enrollees",
+        "sick"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-22T03:42:25.720314+00:00"
+    },
+    {
+      "id": "rss-730b6b749516",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Women with PMOS at four-fold higher risk of heart disease",
+      "authors": "Medical Xpress",
+      "abstract": "Women with polyendocrine metabolic ovarian syndrome (PMOS; also known as polycystic ovary syndrome or PCOS) face a fourfold higher risk of heart disease than women without PMOS, according to a new nationwide U.S. study published in The Lancet Obstetrics, Gynaecology, & Women's Health.",
+      "date": "2026-07-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-women-pmos-higher-heart-disease.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "women",
+        "pmos",
+        "higher",
+        "risk",
+        "heart",
+        "disease",
+        "syndrome",
+        "four-fold"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-22T03:42:25.720608+00:00"
+    },
+    {
+      "id": "rss-f4d2bde0b758",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Latest evidence on risk factors, early intervention, and strategies to prevent heart failure before symptoms develop",
+      "authors": "Medical Xpress",
+      "abstract": "Heart failure already affects more than 60 million people worldwide and is one of the leading causes of hospitalization among people 65 and older. Although it is commonly associated with advanced cardiovascular disease, it actually develops over many years, often without symptoms. Authors of a new expert statement published in the European Heart Journal argue that this is precisely why prevention may become the most effective weapon in tackling one of the greatest challenges of modern medicine.",
+      "date": "2026-07-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-latest-evidence-factors-early-intervention.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "heart",
+        "failure",
+        "symptoms",
+        "people",
+        "latest",
+        "evidence",
+        "risk",
+        "factors"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-22T03:42:25.720911+00:00"
+    },
+    {
+      "id": "rss-9cd5bab265ee",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Research suggests more patients with pre-existing disabilities could benefit from thrombectomy",
+      "authors": "Medical Xpress",
+      "abstract": "Patients with moderate-to-severe disabilities before a stroke are frequently excluded from endovascular thrombectomy (EVT), despite representing a substantial proportion of patients with large-vessel occlusion stroke.",
+      "date": "2026-07-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-patients-pre-disabilities-benefit-thrombectomy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "patients",
+        "disabilities",
+        "thrombectomy",
+        "stroke",
+        "suggests",
+        "more",
+        "pre-existing",
+        "could"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-22T03:42:25.721138+00:00"
+    },
+    {
+      "id": "rss-b6d2257cdbac",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "2018 to 2024 saw rise in insurance denials for brand-name drugs",
+      "authors": "Medical Xpress",
+      "abstract": "Insurance denials of initial attempts to fill brand-name prescription drugs with no generic competitors increased by more than two-thirds from 2018 to 2024, according to a study published online in the Journal of the American Medical Association.",
+      "date": "2026-07-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-denials-brand-drugs.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "insurance",
+        "denials",
+        "brand-name",
+        "drugs",
+        "rise",
+        "initial",
+        "attempts",
+        "fill"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-22T03:42:25.721413+00:00"
+    },
+    {
+      "id": "rss-a12ff2b4f98c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Exploring safer surgical tools to reduce swallowing complications after spine surgery",
+      "authors": "Medical Xpress",
+      "abstract": "Rice University mechanical engineers and Baylor College of Medicine neurosurgeons have identified simple changes to surgical tools that could reduce strain on the esophagus and potentially lower the risk of swallowing difficulties after neck surgery.",
+      "date": "2026-07-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-exploring-safer-surgical-tools-swallowing.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "surgical",
+        "tools",
+        "reduce",
+        "swallowing",
+        "after",
+        "surgery",
+        "exploring",
+        "safer"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-22T03:42:25.721648+00:00"
+    },
+    {
+      "id": "rss-05ee8d5c5006",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Sense of smell linked to mental health",
+      "authors": "Medical Xpress",
+      "abstract": "Subjective olfactory impairment (SOI) is consistently associated with depression, according to a study published in JAMA Otolaryngology-Head & Neck Surgery.",
+      "date": "2026-07-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-linked-mental-health.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "sense",
+        "smell",
+        "linked",
+        "mental",
+        "health",
+        "subjective",
+        "olfactory",
+        "impairment"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-22T03:42:25.721852+00:00"
+    },
+    {
+      "id": "rss-8feeedb7ba28",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Timing of JAK initiation, shingles vaccine administration can affect outcomes in rheumatoid arthritis",
+      "authors": "Medical Xpress",
+      "abstract": "For patients with rheumatoid arthritis (RA), the timing of Janus kinase (JAK) inhibitor initiation relative to administration of recombinant zoster vaccine (RZV) can affect early response and arthritis control, according to a research letter published online July 21 in the Annals of Internal Medicine.",
+      "date": "2026-07-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-jak-shingles-vaccine-administration-affect.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "arthritis",
+        "timing",
+        "initiation",
+        "vaccine",
+        "administration",
+        "affect",
+        "rheumatoid",
+        "shingles"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-22T03:42:25.722089+00:00"
+    },
+    {
+      "id": "rss-255694fe9ff1",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Imbalances in the oral microbiome linked to symptomatic hand osteoarthritis",
+      "authors": "Medical Xpress",
+      "abstract": "A study published online in the open-access journal RMD Open has linked specific imbalances and disruptions in the oral microbiome to symptomatic hand arthritis.",
+      "date": "2026-07-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-imbalances-oral-microbiome-linked-symptomatic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "imbalances",
+        "oral",
+        "microbiome",
+        "linked",
+        "symptomatic",
+        "hand",
+        "osteoarthritis",
+        "published"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-22T03:42:25.722334+00:00"
+    },
+    {
+      "id": "rss-8a54e4c8bf6a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "People are living longer, but spending more years in poor health",
+      "authors": "Medical Xpress",
+      "abstract": "People around the world are living longer than ever before but spending more of those additional years in poor health, according to a new Global Burden of Disease (GBD) study published in The Lancet Public Health.",
+      "date": "2026-07-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-people-longer-years-poor-health.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "health",
         "people",
         "living",
-        "control",
-        "elderly",
-        "have",
-        "less",
-        "more"
+        "longer",
+        "spending",
+        "more",
+        "years",
+        "poor"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.708031+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.722568+00:00"
     },
     {
-      "id": "rss-a12622ceb933",
+      "id": "rss-21fe5de6cb95",
       "discipline": "clinical",
       "type": "news",
-      "title": "Semaglutide sustains lower calorie intake for more than a year, study shows",
+      "title": "Newer obesity drugs linked to fewer alcohol-related hospitalizations for people with alcohol dependence",
       "authors": "Medical Xpress",
-      "abstract": "People taking semaglutide for weight loss continued to consume significantly fewer calories after 60 weeks on the medication, helping explain how the medication supports both initial weight loss and long-term weight maintenance. The study, published in the American Journal of Clinical Nutrition and led by investigators from Penn's Center for Weight and Eating Disorders and Penn Metabolic Medicine, is among the first to examine the long-term effects of semaglutide on eating behavior beyond the initial months of treatment.",
-      "date": "2026-07-21",
+      "abstract": "Use of newer GLP-1 receptor agonists (semaglutide or tirzepatide) for obesity or diabetes among people with alcohol use disorder was associated with a reduction in alcohol-related hospital admissions, according to a study published online in the open-access journal BMJ Open.",
+      "date": "2026-07-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-semaglutide-sustains-calorie-intake-year.html",
+      "url": "https://medicalxpress.com/news/2026-07-obesity-drugs-linked-alcohol-hospitalizations.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "weight",
-        "semaglutide",
-        "loss",
-        "medication",
-        "initial",
-        "long-term",
-        "penn",
-        "eating"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.708364+00:00"
-    },
-    {
-      "id": "rss-372504d4739d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Unpredictable childhood routines reveal mental health risks missed by standard screenings",
-      "authors": "Medical Xpress",
-      "abstract": "Children who grow up in unpredictable environments may face elevated risks for depression, anxiety, sleep disorders and other mental health challenges, according to a new study by researchers at the University of California, Irvine, Chapman University and Rady Children's Hospital Orange County, formerly called Children's Hospital of Orange County.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-unpredictable-childhood-routines-reveal-mental.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "children",
-        "unpredictable",
-        "mental",
-        "health",
-        "risks",
-        "university",
-        "hospital",
-        "orange"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.708680+00:00"
-    },
-    {
-      "id": "rss-3459f115fa30",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Perimenopause and heart health: When chest symptoms need urgent attention",
-      "authors": "Medical Xpress",
-      "abstract": "A racing heart can be frightening at any age. Palpitations are common during perimenopause and may occur alongside hot flashes, anxiety and disturbed sleep. In many cases, they do not indicate a serious heart problem, but they should not automatically be attributed to hormonal changes.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-perimenopause-heart-health-chest-symptoms.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "heart",
-        "perimenopause",
-        "they",
-        "health",
-        "when",
-        "chest",
-        "symptoms",
-        "need"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.708935+00:00"
-    },
-    {
-      "id": "rss-005e89fe39df",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Examining the consequences of discontinuing GLP-1 medications on addiction-related hospitalizations",
-      "authors": "Medical Xpress",
-      "abstract": "GLP-1 receptor agonists are among the active ingredients in so-called weight-loss injections. Originally developed to treat type 2 diabetes, they are now also used to treat severe obesity. In recent years, studies have provided evidence that they may also reduce the consumption of alcohol and other substances. However, it has not been clear whether these potential effects persist after the medication is discontinued.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-consequences-discontinuing-glp-medications-addiction.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "glp-",
-        "treat",
-        "they",
-        "also",
-        "examining",
-        "consequences",
-        "discontinuing",
-        "medications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.709207+00:00"
-    },
-    {
-      "id": "rss-bb44553a0975",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Time for a clock change? Congress considers daylight saving time… again",
-      "authors": "Medical Xpress",
-      "abstract": "In the 108-year history of daylight saving time in the United States, the country has moved three times to institute it year-round: during each of the two world wars and in 1973–74.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-clock-congress-daylight.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "time",
-        "daylight",
-        "saving",
-        "clock",
-        "change",
-        "congress",
-        "considers",
-        "again"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.709481+00:00"
-    },
-    {
-      "id": "rss-ec516434ae43",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "I'm a Philly neonatologist, and every time I discharge a baby from the NICU, I worry about the air they'll breathe",
-      "authors": "Medical Xpress",
-      "abstract": "Discharge day in the neonatal intensive care unit, or NICU, should feel like a finish line. After weeks or months of monitors, alarms, oxygen, feeding tubes, blood tests and waiting, a family can finally take their baby home.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-im-philly-neonatologist-discharge-baby.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "discharge",
-        "baby",
-        "nicu",
-        "philly",
-        "neonatologist",
-        "every",
-        "time",
-        "worry"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.709738+00:00"
-    },
-    {
-      "id": "rss-45a918633e49",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Study finds 1 in 3 Americans without heart disease miss new cholesterol goals—and 3 in 4 go untreated",
-      "authors": "Medical Xpress",
-      "abstract": "A new study by investigators from Mass General Brigham finds that nearly 1 in 3 U.S. adults without heart disease—and almost 4 in 5 of those who have already had a heart attack, stroke or other cardiovascular event—have LDL, or \"bad,\" cholesterol levels above the goals set by the newly released 2026 American cholesterol guidelines. Additionally, among adults without heart disease who were above target, about 3 in 4 are not receiving any cholesterol-lowering medication. The results are published in JAMA.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-americans-heart-disease-cholesterol-goals.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "heart",
-        "without",
-        "disease",
-        "cholesterol",
-        "finds",
-        "goals",
-        "adults",
-        "have"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.710066+00:00"
-    },
-    {
-      "id": "rss-b2c32f5aa3d3",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Healthy aging supplement shows limited benefits in older adults with cognitive impairment",
-      "authors": "Medical Xpress",
-      "abstract": "Nicotinamide adenine dinucleotide, or NAD+, is all the rage in the healthy aging space. Social media influencers tout NAD+ supplements, injections and infusions as anti-aging miracles that can clear brain fog and improve everything from energy and memory to athletic performance and recovery. But the latest research from the University of Delaware suggests the benefits of boosting NAD+ may be more limited than some marketing claims suggest.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-healthy-aging-supplement-limited-benefits.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "healthy",
-        "aging",
-        "limited",
-        "benefits",
-        "supplement",
-        "shows",
-        "older",
-        "adults"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.710340+00:00"
-    },
-    {
-      "id": "rss-735ad0f3df24",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Paradigm shift in oncology: The emergence of point-of-care diagnostic technology",
-      "authors": "Medical Xpress",
-      "abstract": "Who doesn't want cancer testing results at lower cost, with greater speed and accuracy? Interdisciplinary innovators like Cancer Center at Illinois (CCIL) program leader Brian Cunningham are among the pioneers of the emerging field of point-of-care (POC) diagnostic technology aiming to make this dream a reality.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-paradigm-shift-oncology-emergence-diagnostic.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "point-of-care",
-        "diagnostic",
-        "technology",
-        "cancer",
-        "paradigm",
-        "shift",
-        "oncology",
-        "emergence"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.710706+00:00"
-    },
-    {
-      "id": "rss-4c070a637936",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Social media use during adolescence not linked to later mental ill-health",
-      "authors": "Medical Xpress",
-      "abstract": "The amount of time Swedish teenagers spent on social media could not be linked to symptoms of depression or anxiety five years later, according to a new study from Karolinska Institutet published in the Journal of Adolescent Health.",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-social-media-adolescence-linked-mental.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "social",
-        "media",
+        "newer",
+        "obesity",
+        "alcohol-related",
+        "people",
+        "alcohol",
+        "drugs",
         "linked",
-        "later",
-        "during",
-        "adolescence",
-        "mental",
-        "ill-health"
+        "fewer"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.710938+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.722802+00:00"
     },
     {
-      "id": "rss-6359522813ff",
+      "id": "rss-6ffbc94eaaab",
       "discipline": "clinical",
       "type": "news",
-      "title": "Pregnancy complications linked to long-term risk of peripheral artery disease",
+      "title": "Estrogen-like mold toxins linked to corn products found in all pregnant participants in small pilot study",
       "authors": "Medical Xpress",
-      "abstract": "Women who experience pregnancy complications such as gestational diabetes, preeclampsia or preterm delivery have a significantly increased long-term risk of developing peripheral artery disease (PAD) later in life, according to a new study published in PLOS Medicine by Casey Crump of the University of Texas, U.S., and colleagues.",
-      "date": "2026-07-21",
+      "abstract": "Consuming common foods such as corn chips and popcorn may put pregnant women at risk of exposure to mycotoxins—harmful substances produced by mold—according to Rutgers researchers.",
+      "date": "2026-07-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-pregnancy-complications-linked-term-peripheral.html",
+      "url": "https://medicalxpress.com/news/2026-07-estrogen-mold-toxins-linked-corn.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "pregnancy",
-        "complications",
-        "long-term",
-        "risk",
-        "peripheral",
-        "artery",
-        "disease",
-        "linked"
+        "mold",
+        "corn",
+        "pregnant",
+        "estrogen-like",
+        "toxins",
+        "linked",
+        "products",
+        "found"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.711181+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.723042+00:00"
     },
     {
-      "id": "rss-e0804b428026",
+      "id": "rss-73f5091eacb1",
       "discipline": "clinical",
       "type": "news",
-      "title": "Nearly 49,000 brain scans reveal aging signatures linked to dementia, addiction and mental illness",
+      "title": "Cannabis drinks sold next to soda are sending kids to the ER, doctors say",
       "authors": "Medical Xpress",
-      "abstract": "People with dementia, mild cognitive impairment, alcohol addiction or psychiatric disorders such as schizophrenia show increased brain aging, each in specific patterns within the brain, according to a study published in PLOS Medicine by Shile Qi from the Nanjing University of Aeronautics and Astronautics, China, and colleagues.",
-      "date": "2026-07-21",
+      "abstract": "Cannabis beverages are increasingly turning up in stores next to iced tea, sodas and even chocolate milk, and doctors warn that easy access is putting kids at risk.",
+      "date": "2026-07-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-brain-scans-reveal-aging-signatures.html",
+      "url": "https://medicalxpress.com/news/2026-07-cannabis-sold-soda-kids-er.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "brain",
-        "aging",
-        "dementia",
-        "addiction",
-        "nearly",
-        "scans",
-        "reveal",
-        "signatures"
+        "cannabis",
+        "next",
+        "kids",
+        "doctors",
+        "drinks",
+        "sold",
+        "soda",
+        "sending"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.711451+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.723298+00:00"
     },
     {
-      "id": "rss-6936c2e52e05",
+      "id": "rss-9783cbaea1a3",
       "discipline": "clinical",
       "type": "news",
-      "title": "The best surgery for pelvic organ prolapse?",
+      "title": "New protein structure reveals cancer signaling mechanism and potential drug target",
       "authors": "Medical Xpress",
-      "abstract": "Women suffering from pelvic organ prolapse might be best served by surgery that preserves their uterus rather than removing it, a landmark clinical trial reports.",
-      "date": "2026-07-21",
+      "abstract": "Malignant melanoma is one of the most dangerous forms of cancer. Around half of melanomas and about 7% of all other cancers carry a mutation in a protein called BRAF. This mutation disrupts the regulation of cell division, causing cells to multiply in an uncontrolled manner. Researchers at PSI and the University of Zurich have now examined the BRAF protein in greater detail, gaining valuable insights into its complex regulation.",
+      "date": "2026-07-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-surgery-pelvic-prolapse.html",
+      "url": "https://medicalxpress.com/news/2026-07-protein-reveals-cancer-mechanism-potential.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "best",
-        "surgery",
-        "pelvic",
-        "organ",
-        "prolapse",
-        "women",
-        "suffering",
-        "might"
+        "protein",
+        "cancer",
+        "mutation",
+        "braf",
+        "regulation",
+        "structure",
+        "reveals",
+        "signaling"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.711672+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.723581+00:00"
+    },
+    {
+      "id": "rss-7dd14fb3dc3b",
+      "discipline": "cs",
+      "type": "news",
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "authors": "TechCrunch AI",
+      "abstract": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+      "date": "2026-07-22",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "rumor",
+        "anthropic-physical",
+        "intelligence",
+        "roiling",
+        "twitter",
+        "anthropic",
+        "openai",
+        "aggressive"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-22T03:42:25.832388+00:00"
+    },
+    {
+      "id": "rss-0c06cdd925e8",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "authors": "TechCrunch AI",
+      "abstract": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "meta",
+        "testing",
+        "bedtime",
+        "story",
+        "people",
+        "imagination",
+        "last",
+        "tech"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-22T03:42:25.832609+00:00"
+    },
+    {
+      "id": "rss-56d448c6d60e",
+      "discipline": "cs",
+      "type": "news",
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "openai",
+        "hugging",
+        "face",
+        "says",
+        "breached",
+        "pre-release",
+        "come",
+        "forward"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-22T03:42:25.832782+00:00"
     },
     {
       "id": "rss-029ad80f9057",
@@ -484,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.845313+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.832950+00:00"
     },
     {
       "id": "rss-68293c487eed",
@@ -516,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.845629+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.833144+00:00"
     },
     {
       "id": "rss-57000a1e2e66",
@@ -548,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.845790+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.833317+00:00"
     },
     {
       "id": "rss-93e9579369f8",
@@ -580,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.845966+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.833497+00:00"
     },
     {
       "id": "rss-52b3137fb01c",
@@ -612,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.846136+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.833663+00:00"
     },
     {
       "id": "rss-eaed427f4987",
@@ -644,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.846292+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.833813+00:00"
     },
     {
       "id": "rss-364b59e586f7",
@@ -676,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.846487+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.833979+00:00"
     },
     {
       "id": "rss-064c8cdc1029",
@@ -708,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.846657+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.834139+00:00"
     },
     {
       "id": "rss-3ccdc15563be",
@@ -740,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.846824+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.834339+00:00"
     },
     {
       "id": "rss-0a521e37c4c6",
@@ -772,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.846991+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.834512+00:00"
     },
     {
       "id": "rss-30e1c7e6f85a",
@@ -804,103 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.847167+00:00"
-    },
-    {
-      "id": "rss-e1549eddd241",
-      "discipline": "cs",
-      "type": "news",
-      "title": "X relaunches a rebuilt Android app after year-long effort",
-      "authors": "TechCrunch AI",
-      "abstract": "X says the rebuilt version of its Android app is now available globally.",
-      "date": "2026-07-20",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "rebuilt",
-        "android",
-        "relaunches",
-        "after",
-        "year-long",
-        "effort",
-        "says",
-        "version"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.847312+00:00"
-    },
-    {
-      "id": "rss-4d0e5307fe43",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "authors": "TechCrunch AI",
-      "abstract": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
-      "date": "2026-07-20",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "open-weight",
-        "openai",
-        "scared",
-        "should",
-        "talk",
-        "banning",
-        "chinese-made",
-        "llms"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.847483+00:00"
-    },
-    {
-      "id": "rss-f4776999d314",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Adobe camera app’s new feature will critique your photos using AI",
-      "authors": "TechCrunch AI",
-      "abstract": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
-      "date": "2026-07-20",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "adobe",
-        "photos",
-        "camera",
-        "feature",
-        "will",
-        "critique",
-        "your",
-        "project"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.847651+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.834686+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.919034+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.886509+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:06.186298+00:00"
+      "_retrievedAt": "2026-07-22T03:42:26.151977+00:00"
     },
     {
       "id": "rss-718b12023caf",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:06.186547+00:00"
+      "_retrievedAt": "2026-07-22T03:42:26.152205+00:00"
     },
     {
       "id": "rss-2c39e9060823",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:06.187241+00:00"
+      "_retrievedAt": "2026-07-22T03:42:26.152921+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.919214+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.886686+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.919388+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.886858+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -1124,7 +1124,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:00.502860+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.843307+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.919627+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.887018+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.919821+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.887205+00:00"
     },
     {
       "id": "rss-ce688c2211e0",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.919981+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.887405+00:00"
     },
     {
       "id": "rss-d7bb3cddfe2e",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.920167+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.887593+00:00"
     },
     {
       "id": "rss-67f98bea1dc8",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.920329+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.887755+00:00"
     },
     {
       "id": "rss-35f3c73960fd",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:06.187591+00:00"
+      "_retrievedAt": "2026-07-22T03:42:26.153241+00:00"
     },
     {
       "id": "rss-fd9a37f6681c",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:06.187857+00:00"
+      "_retrievedAt": "2026-07-22T03:42:26.153530+00:00"
     },
     {
       "id": "rss-d6d69b0873be",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:06.188152+00:00"
+      "_retrievedAt": "2026-07-22T03:42:26.153826+00:00"
     },
     {
       "id": "rss-68e47e682229",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:06.188388+00:00"
+      "_retrievedAt": "2026-07-22T03:42:26.154062+00:00"
     },
     {
       "id": "rss-e186ac38d0fa",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:06.188671+00:00"
+      "_retrievedAt": "2026-07-22T03:42:26.154337+00:00"
     },
     {
       "id": "rss-bde592569e0e",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:06.188949+00:00"
+      "_retrievedAt": "2026-07-22T03:42:26.154624+00:00"
     },
     {
       "id": "rss-de0ae6db61b8",
@@ -1508,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:06.189259+00:00"
+      "_retrievedAt": "2026-07-22T03:42:26.154935+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -1540,7 +1540,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:58.296504+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.045067+00:00"
     },
     {
       "id": "rss-e3ae47ff98f8",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.920530+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.887918+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -1604,7 +1604,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:00.500665+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.841689+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -1636,7 +1636,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:58.295146+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.043735+00:00"
     },
     {
       "id": "rss-904aa85f5191",
@@ -1668,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.920701+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.888081+00:00"
     },
     {
       "id": "rss-319482b50c5b",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.920866+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.888246+00:00"
     },
     {
       "id": "rss-a5d229a3d4b5",
@@ -1732,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.921026+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.888442+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -1764,7 +1764,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:59.350960+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.406928+00:00"
     },
     {
       "id": "rss-0ec61d5c541e",
@@ -1796,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.921228+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.888644+00:00"
     },
     {
       "id": "rss-7500a6010ad2",
@@ -1828,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:05.921408+00:00"
+      "_retrievedAt": "2026-07-22T03:42:25.888819+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1860,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:57.274961+00:00"
+      "_retrievedAt": "2026-07-22T03:42:20.316514+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1892,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:57.275712+00:00"
+      "_retrievedAt": "2026-07-22T03:42:20.317274+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1924,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:59.350599+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.406564+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1956,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:57.274302+00:00"
+      "_retrievedAt": "2026-07-22T03:42:20.315848+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -1988,7 +1988,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:59.354586+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.410525+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2020,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:00.504038+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.844087+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2052,7 +2052,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:00.505655+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.845725+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2084,7 +2084,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:00.501914+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.842453+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2116,7 +2116,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:57.272128+00:00"
+      "_retrievedAt": "2026-07-22T03:42:20.313635+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2148,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:00.499806+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.840840+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2180,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:57.276289+00:00"
+      "_retrievedAt": "2026-07-22T03:42:20.317860+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2212,7 +2212,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:57.276792+00:00"
+      "_retrievedAt": "2026-07-22T03:42:20.318369+00:00"
+    },
+    {
+      "id": "openalex-7a2e0cea295d",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Stratigraphy as a low-pass filter: selective preservation of spatial variability on a Holocene carbonate platform",
+      "authors": "Xianyi Liu, Sam Purkis, Peter Burgess, David De Vleeschouwer, Laurent Puyana, Niklas Hohmann",
+      "abstract": "Walther’s law, a fundamental principle in geoscience, predicts that laterally adjacent depositional environments become preserved as a vertical succession of layers (facies). As an expression of uniformitarianism, this law underpins interpretations of Earth’s history, yet it has not been quantitatively tested. We test this law and examine its limitations by quantifying multidecadal changes in environmental heterogeneity (1945-2019) in the Bahamas and extrapolating them to millennial timescales using forward modelling. Virtual stratigraphic successions predicted by Walther’s law contain substantially greater heterogeneity than observed in sediment cores. This discrepancy arises because small and short-lived environment patches undergo rapid turnover and fail to accumulate sufficient sediment for preservation. Our work establishes a quantitative framework for defining preservation thres...",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "OpenAlex",
+      "source": "OpenAlex",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.31223/x5k784",
+      "doi": "10.31223/x5k784",
+      "pdfUrl": "https://eartharxiv.org/repository/object/13113/download/23232/",
+      "keywords": [
+        "Sedimentary depositional environment",
+        "Geology",
+        "Stratigraphy",
+        "Sedimentary rock",
+        "Sediment",
+        "Geology and Paleoclimatology Research",
+        "Paleontology and Stratigraphy of Fossils",
+        "Geological formations and processes"
+      ],
+      "readTime": "1 min",
+      "citedBy": 2,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-22T03:42:21.846465+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2244,7 +2276,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:57.273260+00:00"
+      "_retrievedAt": "2026-07-22T03:42:20.314785+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2276,7 +2308,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:57.271805+00:00"
+      "_retrievedAt": "2026-07-22T03:42:20.313302+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2308,7 +2340,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:57.273910+00:00"
+      "_retrievedAt": "2026-07-22T03:42:20.315442+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2340,7 +2372,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:57.271401+00:00"
+      "_retrievedAt": "2026-07-22T03:42:20.312882+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2372,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:59.354926+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.410874+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2404,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:59.353842+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.409774+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2436,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:00.499342+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.840416+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2468,7 +2500,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:57.272592+00:00"
+      "_retrievedAt": "2026-07-22T03:42:20.314084+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -2500,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:00.505255+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.845335+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -2532,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:58.297102+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.045697+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -2564,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:58.298060+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.046346+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2596,7 +2628,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:57.275974+00:00"
+      "_retrievedAt": "2026-07-22T03:42:20.317545+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -2628,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:00.503258+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.843700+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -2660,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:58.296148+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.044743+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -2692,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:00.501144+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.842018+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2724,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:58.298365+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.046658+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2756,7 +2788,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:57.275274+00:00"
+      "_retrievedAt": "2026-07-22T03:42:20.316837+00:00"
     },
     {
       "id": "openalex-7ccfc202ecea",
@@ -2788,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:58.294448+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.043002+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2820,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:58.298736+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.046988+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -2852,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:00.500257+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.841308+00:00"
     },
     {
       "id": "openalex-d826f52b28e7",
@@ -2884,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:00.506045+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.846115+00:00"
     },
     {
       "id": "openalex-557912e64e56",
@@ -2916,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:58.294791+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.043369+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -2948,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:00.504874+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.844935+00:00"
     },
     {
       "id": "openalex-8d5e6bfc7e0b",
@@ -2980,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:58.297784+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.046042+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -3012,7 +3044,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:59.351263+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.407225+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -3044,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:58.295825+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.044416+00:00"
     },
     {
       "id": "openalex-43e02d456db7",
@@ -3076,7 +3108,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:58.299314+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.047612+00:00"
+    },
+    {
+      "id": "openalex-7748aaa80fd7",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Single‐Cell and Spatial Omics: Methods and Applications",
+      "authors": "Xiaoping Cen, Xiaolan Huang, Erle Deng, Xue Gong, Na Tan, J. T. Ye",
+      "abstract": "Single-cell and spatial omics have revolutionized biomedical research by enabling high-resolution molecular profiling across cells and tissues, thereby overcoming key limitations of bulk sequencing and revealing unprecedented cellular heterogeneity and spatial organization central to development, homeostasis, and disease. Specifically, advances in high-throughput, subcellular, and multiomics profiling are promoting the field toward deeper insights. In parallel, computational progress, including generative artificial intelligence (AI) and foundation models, is developing rapidly for manipulating multimodal multiomics data. These advancements have been applied to diverse diseases and biological systems, facilitating innovative biomedical findings. However, a significant gap persists between rapid methodological advances and their systematic application for deciphering human biology and...",
+      "date": "2026-04-01",
+      "year": 2026,
+      "journal": "MedComm",
+      "source": "MedComm",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1002/mco2.70713",
+      "doi": "10.1002/mco2.70713",
+      "pdfUrl": "https://doi.org/10.1002/mco2.70713",
+      "keywords": [
+        "Profiling (computer programming)",
+        "Data science",
+        "Computer science",
+        "Bridging (networking)",
+        "Precision medicine",
+        "Single-cell and spatial transcriptomics",
+        "Cell Image Analysis Techniques",
+        "Cancer Genomics and Diagnostics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-22T03:42:21.047956+00:00"
     },
     {
       "id": "openalex-1bdbe1c46708",
@@ -3108,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:59.352491+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.408436+00:00"
     },
     {
       "id": "openalex-65ac17e8114e",
@@ -3140,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:59.355192+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.411149+00:00"
     },
     {
       "id": "openalex-fd4b6aa3ca96",
@@ -3172,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:59.355632+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.411624+00:00"
     },
     {
       "id": "openalex-ac109ca21f18",
@@ -3204,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:58.299045+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.047330+00:00"
     },
     {
       "id": "openalex-7ecbe579840c",
@@ -3236,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:00.504466+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.844537+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -3268,7 +3332,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:57.274610+00:00"
+      "_retrievedAt": "2026-07-22T03:42:20.316137+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -3300,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:59.351955+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.407904+00:00"
     },
     {
       "id": "openalex-be8055a102c2",
@@ -3332,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:00.502550+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.842994+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -3364,7 +3428,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:57.272898+00:00"
+      "_retrievedAt": "2026-07-22T03:42:20.314414+00:00"
     },
     {
       "id": "openalex-49f4f6d8ba54",
@@ -3396,7 +3460,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:57.273687+00:00"
+      "_retrievedAt": "2026-07-22T03:42:20.315185+00:00"
     },
     {
       "id": "openalex-b474cf7a55f6",
@@ -3428,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:58.296809+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.045393+00:00"
     },
     {
       "id": "openalex-a6b5129285ce",
@@ -3460,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:59.353535+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.409474+00:00"
     },
     {
       "id": "openalex-0ec471a5f228",
@@ -3492,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:59.354235+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.410168+00:00"
     },
     {
       "id": "openalex-fe66a37ab208",
@@ -3524,71 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:58.295538+00:00"
-    },
-    {
-      "id": "openalex-30c40f8e9a91",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Condensin loop extrusion properties, roadblocks, and role in homology search during recombination in S. cerevisiae",
-      "authors": "Vinciane Piveteau, Chloé Dupont, Hossein Salari, Agnès Dumont, Jérôme Savocco, Daniel Jost",
-      "abstract": "The in vivo mechanism, cis-acting roadblocks, and biological functions of DNA loop extrusion by eukaryotic SMC complexes remain incompletely defined. Here, we identify condensin-dependent Hi-C contact stripes at the recombination enhancer (RE) and at rDNA in S. cerevisiae. The RE is an autonomous condensin loading site only active in MATa cells from which oriented, unidirectional loop extrusion proceeds with an estimated processivity ~150-250 kb and a density ~0.04-0.18 that varies across the cell cycle. Centromeres, replication forks, and highly transcribed RNA PolII-dependent genes represent roadblocks for condensin. Cohesin is not an obstacle for condensin, while Top2 promotes its loop extrusion activity. A DNA double-strand break (DSB) at MAT blocks loop extrusion, resulting in the establishment of a ~170 kb-long RE-MAT loop. The RE and the DSB are required and sufficient to form...",
-      "date": "2026-03-23",
-      "year": 2026,
-      "journal": "The EMBO Journal",
-      "source": "The EMBO Journal",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s44318-026-00748-6",
-      "doi": "10.1038/s44318-026-00748-6",
-      "pdfUrl": "https://doi.org/10.1038/s44318-026-00748-6",
-      "keywords": [
-        "Condensin",
-        "Biology",
-        "Processivity",
-        "DNA",
-        "Enhancer",
-        "DNA Repair Mechanisms",
-        "Bacterial Genetics and Biotechnology",
-        "RNA and protein synthesis mechanisms"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T19:48:58.297436+00:00"
-    },
-    {
-      "id": "openalex-1d323943a31f",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "GeoBIM for Geothermal Energy Efficiency in Buildings and Smart Cities: A Review",
-      "authors": "Hugo Alexandre Silva Pinto, Luis M. Ferreira Gomes, Luís Andrade Pais, Miguel Nepomuceno, Luís Filipe Almeida Bernardo, Vanessa Gonçalves",
-      "abstract": "The global drive toward energy transition and carbon neutrality requires integrated and data-driven approaches for managing buildings and smart cities. Existing urban energy assessment frameworks remain fragmented and often lack multiscale interoperability between building-level models and territorial datasets. At the same time, shallow geothermal energy is emerging as an efficient and renewable solution for sustainable heating and cooling. To address these gaps, this study examines the potential of GeoBIM, the integration of Building Information Modeling (BIM) and Geographic Information Systems (GIS), as a unified framework for multiscale energy analysis and for supporting shallow geothermal applications. A systematic literature review was conducted based on the PRISMA framework, combining a systematic literature review using the Scopus database with the critical examination of repre...",
-      "date": "2026-03-23",
-      "year": 2026,
-      "journal": "Smart Cities",
-      "source": "Smart Cities",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/smartcities9030054",
-      "doi": "10.3390/smartcities9030054",
-      "pdfUrl": "https://doi.org/10.3390/smartcities9030054",
-      "keywords": [
-        "Interoperability",
-        "Efficient energy use",
-        "Geothermal gradient",
-        "Renewable energy",
-        "Geothermal energy",
-        "BIM and Construction Integration",
-        "3D Modeling in Geospatial Applications",
-        "Underground infrastructure and sustainability"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-21T19:49:00.503647+00:00"
+      "_retrievedAt": "2026-07-22T03:42:21.044109+00:00"
     }
   ]
 }
