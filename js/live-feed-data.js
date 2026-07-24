@@ -1,6 +1,6 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-07-24T03:40:01.842975+00:00",
-  "total": 100,
+  "generatedAt": "2026-07-24T08:40:22.579453+00:00",
+  "total": 113,
   "sources": [
     "RSS",
     "OpenAlex"
@@ -36,7 +36,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.262268+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.143296+00:00"
     },
     {
       "id": "rss-927c68ca9a7d",
@@ -68,7 +68,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.262575+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.143609+00:00"
     },
     {
       "id": "rss-248e8ac6c8e2",
@@ -100,7 +100,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.262875+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.143933+00:00"
     },
     {
       "id": "rss-d49e5da47634",
@@ -132,7 +132,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.263119+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.144208+00:00"
     },
     {
       "id": "rss-0d4970c35fe9",
@@ -164,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.263375+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.144520+00:00"
     },
     {
       "id": "rss-26db7e32d50b",
@@ -196,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.263608+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.144784+00:00"
     },
     {
       "id": "rss-e74d3375aff8",
@@ -228,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.263808+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.145012+00:00"
     },
     {
       "id": "rss-c5703335fb6b",
@@ -260,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.264064+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.145311+00:00"
     },
     {
       "id": "rss-3465d33951e2",
@@ -292,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.264281+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.145571+00:00"
     },
     {
       "id": "rss-17ae1a330412",
@@ -324,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.264587+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.145897+00:00"
     },
     {
       "id": "rss-e58f16c7081a",
@@ -356,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.264828+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.146137+00:00"
     },
     {
       "id": "rss-845130ea06d8",
@@ -388,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.265071+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.146420+00:00"
     },
     {
       "id": "rss-91b29197dd51",
@@ -420,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.265277+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.146655+00:00"
     },
     {
       "id": "rss-40c2bc2077be",
@@ -452,7 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.265478+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.146865+00:00"
     },
     {
       "id": "rss-8e5c37429d88",
@@ -484,7 +484,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.389519+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.195472+00:00"
+    },
+    {
+      "id": "rss-d746300c673c",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Working to automate nuclear plant operations",
+      "authors": "MIT News AI",
+      "abstract": "PhD student Lauren Fortier is building on the experience she gained operating a nuclear plant for the Navy to solve a critical hurdle in the wider adoption of the energy source.",
+      "date": "2026-07-24",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nuclear",
+        "plant",
+        "working",
+        "automate",
+        "operations",
+        "student",
+        "lauren",
+        "fortier"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T08:40:22.221603+00:00"
     },
     {
       "id": "rss-0aea649f61bc",
@@ -516,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.389717+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.195717+00:00"
     },
     {
       "id": "rss-011862666dec",
@@ -548,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.389851+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.195885+00:00"
     },
     {
       "id": "rss-6856e7e61d85",
@@ -580,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.390015+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.196081+00:00"
     },
     {
       "id": "rss-732e72c1a723",
@@ -612,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.390156+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.196253+00:00"
     },
     {
       "id": "rss-c18a27825874",
@@ -644,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.390276+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.196446+00:00"
     },
     {
       "id": "rss-c0fca1a8817f",
@@ -676,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.390433+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.196618+00:00"
     },
     {
       "id": "rss-2330c54f5811",
@@ -708,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.390551+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.196760+00:00"
     },
     {
       "id": "rss-9be9606a3f10",
@@ -740,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.390689+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.196927+00:00"
     },
     {
       "id": "rss-249e8be14aa9",
@@ -772,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.390808+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.197077+00:00"
     },
     {
       "id": "rss-9ffe2043d2b0",
@@ -804,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.390951+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.197255+00:00"
     },
     {
       "id": "rss-0fc0b751d625",
@@ -836,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.391079+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.197464+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -868,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.456791+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.221805+00:00"
     },
     {
       "id": "rss-6b0c3666cf8e",
@@ -900,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.391218+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.197647+00:00"
     },
     {
       "id": "rss-3f69a0832ac9",
@@ -932,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.391359+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.197814+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -964,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.456966+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.221985+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -996,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:52.213179+00:00"
+      "_retrievedAt": "2026-07-24T08:40:16.582373+00:00"
     },
     {
       "id": "openalex-94ed0f51ed4f",
@@ -1028,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:54.128326+00:00"
+      "_retrievedAt": "2026-07-24T08:40:17.146247+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1060,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.457100+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.222137+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -1092,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.651388+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.429619+00:00"
     },
     {
       "id": "rss-67e6e4628573",
@@ -1124,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.651603+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.429844+00:00"
     },
     {
       "id": "rss-2c39e9060823",
@@ -1156,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.652269+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.430580+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1188,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.457240+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.222355+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1220,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.457403+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.222548+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -1252,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:57.832229+00:00"
+      "_retrievedAt": "2026-07-24T08:40:18.040558+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -1284,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.457536+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.222711+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -1316,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.457692+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.222891+00:00"
     },
     {
       "id": "rss-ce688c2211e0",
@@ -1348,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.457819+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.223043+00:00"
     },
     {
       "id": "rss-d7bb3cddfe2e",
@@ -1380,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.457973+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.223222+00:00"
     },
     {
       "id": "rss-67f98bea1dc8",
@@ -1412,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.458104+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.223415+00:00"
     },
     {
       "id": "rss-35f3c73960fd",
@@ -1444,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.652584+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.430904+00:00"
     },
     {
       "id": "rss-fd9a37f6681c",
@@ -1476,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.652812+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.431175+00:00"
     },
     {
       "id": "rss-d6d69b0873be",
@@ -1508,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.653069+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.431492+00:00"
     },
     {
       "id": "rss-68e47e682229",
@@ -1540,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.653272+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.431730+00:00"
     },
     {
       "id": "rss-e186ac38d0fa",
@@ -1572,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.653507+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.431983+00:00"
     },
     {
       "id": "rss-bde592569e0e",
@@ -1604,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.653747+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.432261+00:00"
     },
     {
       "id": "rss-de0ae6db61b8",
@@ -1636,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.654014+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.432643+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -1668,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:54.125258+00:00"
+      "_retrievedAt": "2026-07-24T08:40:17.142890+00:00"
     },
     {
       "id": "rss-e3ae47ff98f8",
@@ -1700,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.458237+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.223580+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -1732,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:57.830747+00:00"
+      "_retrievedAt": "2026-07-24T08:40:18.038918+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -1764,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:54.124648+00:00"
+      "_retrievedAt": "2026-07-24T08:40:17.142194+00:00"
     },
     {
       "id": "rss-904aa85f5191",
@@ -1796,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.458384+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.223743+00:00"
     },
     {
       "id": "rss-319482b50c5b",
@@ -1828,39 +1860,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.458524+00:00"
+      "_retrievedAt": "2026-07-24T08:40:22.223907+00:00"
     },
     {
-      "id": "rss-a5d229a3d4b5",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Toward a future that preserves benefits of neurotechnology for all",
-      "authors": "MIT News AI",
-      "abstract": "PhD student Rachel Sava, winner of the Envisioning the Future of Computing Prize, explores transformative improvements and dystopian risks of neural technology.",
-      "date": "2026-07-06",
+      "id": "openalex-f2829fa041f5",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Generalizable AI predicts immunotherapy outcomes across cancers and treatments",
+      "authors": "Wan Xiang Shen, Intae Moon, Thinh H. Nguyen, Michelle M. Li, Yepeng Huang, Nitya Nair",
+      "abstract": "Immune checkpoint inhibitors are standard across cancers, yet most patients do not respond and existing biomarkers generalize poorly across tumor types, drugs and clinical settings. We present C ompass , a pan-cancer foundation model that predicts immunotherapy response from bulk tumor transcriptomes using a concept-bottleneck transformer. C ompass encodes gene expression through 44 biologically grounded immune concepts representing immune cell states, tumor-microenvironment interactions, and signaling pathways. Trained on 10,184 tumors across 33 cancer types, C ompass outperforms 22 baseline methods in 16 independent clinical cohorts spanning seven cancers and six immune checkpoint inhibitors, increasing accuracy by 8.5% and area under the precision-recall curve by 15.7%, with minimal additional training. The model generalizes to unseen cancer types and treatments, supporting indicat...",
+      "date": "2026-07-03",
       "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
-      "doi": "",
-      "pdfUrl": "",
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04502-7",
+      "doi": "10.1038/s41591-026-04502-7",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04502-7.pdf",
       "keywords": [
-        "future",
-        "toward",
-        "that",
-        "preserves",
-        "benefits",
-        "neurotechnology",
-        "student",
-        "rachel"
+        "Immunotherapy",
+        "Medicine",
+        "Oncology",
+        "Internal medicine",
+        "Psychology",
+        "Cancer Immunotherapy and Biomarkers",
+        "Radiomics and Machine Learning in Medical Imaging",
+        "Cancer Genomics and Diagnostics"
       ],
       "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
+      "citedBy": 13,
+      "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:40:01.458656+00:00"
+      "_retrievedAt": "2026-07-24T08:40:17.474037+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1892,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:52.215023+00:00"
+      "_retrievedAt": "2026-07-24T08:40:16.584416+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1924,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:52.215736+00:00"
+      "_retrievedAt": "2026-07-24T08:40:16.585182+00:00"
     },
     {
       "id": "openalex-5cffaa86f023",
@@ -1956,7 +1988,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:54.127928+00:00"
+      "_retrievedAt": "2026-07-24T08:40:17.145837+00:00"
+    },
+    {
+      "id": "openalex-c2a093804030",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "International Journal of Complementary & Alternative Medicine",
+      "authors": "OpenAlex indexed authors",
+      "abstract": "There is a growing demand for integrative and complementary therapies for various health conditions, while the mechanisms and biological pathways for some of these therapies are poorly explored.In particular, bioelectric, biomagnetic and anthropogenic fields interact with biological structures such as tissues, cells and DNA.It is suggested that these interactions may create an integrated system of internal communication, with the potential to promote therapeutic benefits.The theoretical model Biofield-Tissue Tensegrity Matrix (BTTM) is presented by combining concepts from physics, biology and medicine to serve as a possible theoretical basis for energy therapies.",
+      "date": "2026-06-20",
+      "year": 2026,
+      "journal": "International Journal of Complementary & Alternative Medicine",
+      "source": "International Journal of Complementary & Alternative Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.15406/ijcam",
+      "doi": "10.15406/ijcam",
+      "pdfUrl": "https://medcraveonline.com/IJCAM/IJCAM-18-00731.pdf",
+      "keywords": [
+        "Library science",
+        "Medicine",
+        "Computer science",
+        "Complementary and Alternative Medicine Studies",
+        "therapies",
+        "complementary",
+        "medicine",
+        "biological"
+      ],
+      "readTime": "1 min",
+      "citedBy": 18,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T08:40:17.473682+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1988,7 +2052,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:52.214418+00:00"
+      "_retrievedAt": "2026-07-24T08:40:16.583714+00:00"
+    },
+    {
+      "id": "openalex-797c77e03bf0",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Advancements in machine learning and deep learning for early detection and management of mental health disorder",
+      "authors": "Kamala Devi Kannan, Senthil Kumar Jagatheesaperumal, Kandala N. V. P. S. Rajesh, Mojtaba Lotfaliany, Roohallah Alizadehsanid, Mohammadreza Mohebbi",
+      "abstract": "For the early identification, diagnosis, and treatment of mental health illnesses, the integration of deep learning (DL) and machine learning (ML) have started playing a significant role. By evaluating complex data from imaging, genetics, and behavioral assessments, these technologies have the potential to improve clinical results significantly. However, they also present unique challenges relating to data integration and ethical issues. The development of ML and DL methods for the early diagnosis and treatment of mental health issues is reviewed in this survey. It examines a range of applications, with a particular emphasis on behavioral assessments, genetic and biomarker analysis, and medical imaging for the diagnosis of diseases like depression, bipolar disorder, and schizophrenia. Predictive modeling for illness development is further discussed in the review, focusing on the funct...",
+      "date": "2026-06-08",
+      "year": 2026,
+      "journal": "Journal of Affective Disorders Reports",
+      "source": "Journal of Affective Disorders Reports",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.jadr.2026.101100",
+      "doi": "10.1016/j.jadr.2026.101100",
+      "pdfUrl": "https://doi.org/10.1016/j.jadr.2026.101100",
+      "keywords": [
+        "Deep learning",
+        "Mental health",
+        "Artificial intelligence",
+        "Psychology",
+        "Computer science",
+        "Mental Health Research Topics",
+        "Digital Mental Health Interventions",
+        "learning"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T08:40:17.476529+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2020,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:57.832966+00:00"
+      "_retrievedAt": "2026-07-24T08:40:18.041349+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2052,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:57.834418+00:00"
+      "_retrievedAt": "2026-07-24T08:40:18.042898+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2084,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:57.831446+00:00"
+      "_retrievedAt": "2026-07-24T08:40:18.039706+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2116,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:52.212355+00:00"
+      "_retrievedAt": "2026-07-24T08:40:16.581524+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2148,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:57.829935+00:00"
+      "_retrievedAt": "2026-07-24T08:40:18.037852+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2180,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:52.216281+00:00"
+      "_retrievedAt": "2026-07-24T08:40:16.585804+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2212,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:52.216790+00:00"
+      "_retrievedAt": "2026-07-24T08:40:16.586322+00:00"
     },
     {
       "id": "openalex-7a2e0cea295d",
@@ -2244,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:57.834712+00:00"
+      "_retrievedAt": "2026-07-24T08:40:18.043212+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2276,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:52.213827+00:00"
+      "_retrievedAt": "2026-07-24T08:40:16.583038+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2308,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:52.212001+00:00"
+      "_retrievedAt": "2026-07-24T08:40:16.581159+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2340,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:52.214027+00:00"
+      "_retrievedAt": "2026-07-24T08:40:16.583254+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2372,7 +2468,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:52.211617+00:00"
+      "_retrievedAt": "2026-07-24T08:40:16.580748+00:00"
+    },
+    {
+      "id": "openalex-256ec0eeb0dd",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Artificial Intelligence and Big Data for Precision Medicine: A Review of Bioinformatics-Driven Healthcare Applications",
+      "authors": "Mohammad Abdus Sami, Md Lutfor Rahman, Zerin Akter Tanni, Zakia Sultana Munmun, Sabiha Nusrat, Bidhan Biswas",
+      "abstract": "Healthcare is in the middle of a quiet but profound shift. Genomic sequencers, hospital information systems, wearables and imaging archives now generate data faster than clinicians can read it, and that flood is reshaping what “evidence-based care” means. We review more than forty recent studies that bring artificial intelligence (AI), machine learning and big-data analytics into bioinformatics and precision medicine, spanning oncology, drug discovery, cardiology, neurology, public-health surveillance and healthcare operations. Reported accuracies and AUCs range from roughly 80% in early drug-discovery pipelines to above 94% in deep-learning-based pancreatic and breast imaging. Yet our reading also suggests a more cautious story: many models still suffer from limited external validation, opaque decision logic and uneven access to high-quality multi-omics data. We propose a layered con...",
+      "date": "2026-05-09",
+      "year": 2026,
+      "journal": "Frontiers in Computer Science and Artificial Intelligence",
+      "source": "Frontiers in Computer Science and Artificial Intelligence",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.32996/fcsai.2026.5.6.7",
+      "doi": "10.32996/fcsai.2026.5.6.7",
+      "pdfUrl": "https://al-kindipublisher.com/index.php/fcsai/article/download/12680/11358",
+      "keywords": [
+        "Big data",
+        "Computer science",
+        "Workflow",
+        "Data science",
+        "Artificial intelligence",
+        "Artificial Intelligence in Healthcare and Education",
+        "Machine Learning in Healthcare",
+        "Artificial Intelligence in Healthcare"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T08:40:17.476868+00:00"
+    },
+    {
+      "id": "openalex-49732882293e",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Metformin inhibits mitochondrial complex I in intestinal epithelium to promote glycaemic control",
+      "authors": "Zachary L. Sebo, Ram P. Chakrabarty, Rogan A. Grant, Karis B. D’Alessandro, Alec Koss, Jenna L. E. Blum",
+      "abstract": "Metformin is a versatile biguanide drug primarily prescribed for type II diabetes. Despite its extensive use, the mechanisms underlying its clinical effects, including attenuated postprandial glucose excursions and elevated intestinal glucose uptake, remain unclear. Here we map these and other effects of metformin to intestine-specific mitochondrial complex I inhibition. Using human metabolomic data and an orthogonal genetics approach in male mice, we demonstrate that metformin suppresses citrulline synthesis, a metabolite generated exclusively by small intestine mitochondria, and increases GDF15 by inhibiting the mitochondrial respiratory chain at complex I. This inhibition co-opts the intestines to function as a glucose sink, driving the uptake of excess glucose and its conversion to lactate and lactoyl-phenylalanine. We also find that glucose lowering by metformin is due to repeate...",
+      "date": "2026-05-08",
+      "year": 2026,
+      "journal": "Nature Metabolism",
+      "source": "Nature Metabolism",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s42255-026-01530-y",
+      "doi": "10.1038/s42255-026-01530-y",
+      "pdfUrl": "https://www.nature.com/articles/s42255-026-01530-y.pdf",
+      "keywords": [
+        "Metformin",
+        "Postprandial",
+        "Biguanide",
+        "Internal medicine",
+        "Endocrinology",
+        "Metabolism, Diabetes, and Cancer",
+        "GDF15 and Related Biomarkers",
+        "Diabetes Treatment and Management"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T08:40:17.476176+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2404,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:57.829522+00:00"
+      "_retrievedAt": "2026-07-24T08:40:18.037417+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2436,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:52.212802+00:00"
+      "_retrievedAt": "2026-07-24T08:40:16.581962+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -2468,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:57.834052+00:00"
+      "_retrievedAt": "2026-07-24T08:40:18.042535+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -2500,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:54.125828+00:00"
+      "_retrievedAt": "2026-07-24T08:40:17.143519+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -2532,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:54.126402+00:00"
+      "_retrievedAt": "2026-07-24T08:40:17.144134+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2564,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:52.215987+00:00"
+      "_retrievedAt": "2026-07-24T08:40:16.585479+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -2596,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:57.832610+00:00"
+      "_retrievedAt": "2026-07-24T08:40:18.040944+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -2628,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:54.124949+00:00"
+      "_retrievedAt": "2026-07-24T08:40:17.142557+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -2660,7 +2820,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:57.831058+00:00"
+      "_retrievedAt": "2026-07-24T08:40:18.039260+00:00"
+    },
+    {
+      "id": "openalex-a528e7ad7434",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Multimodal artificial intelligence in urologic precision oncology: from algorithm to translational medicine (a systemized narrative review)",
+      "authors": "Farid Rajaee Rizi, Maryam Jamadi, Samin Rahimi, Moein Bighamian, Pouya Paidar, Mohammad Javad Taki",
+      "abstract": "Precision oncology in urology increasingly depends on integrating heterogeneous data, including multiparametric imaging, histopathology, genomics, and clinical variables. Multimodal artificial intelligence (AI) offers a unified framework to manage this complexity, supporting refined risk stratification, personalized treatment decisions, and informed patient counseling. This narrative review examines applications of multimodal AI in prostate, bladder, and kidney cancers. Beyond listing individual tools, we emphasize how synergistic data fusion enhances the validation of diagnostic and prognostic performance. Clinical advances include more accurate tumor delineation on multiparametric MRI and predictive modeling of functional outcomes after surgery, underscoring the translational potential of these systems. However, major barriers hinder clinical adoption. Prospective validation remains...",
+      "date": "2026-04-13",
+      "year": 2026,
+      "journal": "Frontiers in Oncology",
+      "source": "Frontiers in Oncology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/fonc.2026.1763359",
+      "doi": "10.3389/fonc.2026.1763359",
+      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/oncology/articles/10.3389/fonc.2026.1763359/pdf",
+      "keywords": [
+        "Computer science",
+        "Artificial intelligence",
+        "Harmonization",
+        "Precision medicine",
+        "Translational research",
+        "Prostate Cancer Diagnosis and Treatment",
+        "Artificial Intelligence in Healthcare and Education",
+        "Radiomics and Machine Learning in Medical Imaging"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T08:40:17.478641+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2692,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:54.125553+00:00"
+      "_retrievedAt": "2026-07-24T08:40:17.143202+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2724,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:52.215328+00:00"
+      "_retrievedAt": "2026-07-24T08:40:16.584755+00:00"
     },
     {
       "id": "openalex-7ccfc202ecea",
@@ -2756,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:54.123709+00:00"
+      "_retrievedAt": "2026-07-24T08:40:17.141186+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2788,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:54.126707+00:00"
+      "_retrievedAt": "2026-07-24T08:40:17.144491+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -2820,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:57.830386+00:00"
+      "_retrievedAt": "2026-07-24T08:40:18.038434+00:00"
     },
     {
       "id": "openalex-d826f52b28e7",
@@ -2852,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:57.835071+00:00"
+      "_retrievedAt": "2026-07-24T08:40:18.043680+00:00"
     },
     {
       "id": "openalex-557912e64e56",
@@ -2884,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:54.124031+00:00"
+      "_retrievedAt": "2026-07-24T08:40:17.141562+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -2916,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:57.833712+00:00"
+      "_retrievedAt": "2026-07-24T08:40:18.042147+00:00"
     },
     {
       "id": "openalex-8d5e6bfc7e0b",
@@ -2948,7 +3140,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:54.126142+00:00"
+      "_retrievedAt": "2026-07-24T08:40:17.143859+00:00"
+    },
+    {
+      "id": "openalex-16c0651ed52d",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Enterococcus Species: Multifaceted Probiotic Potential and Safety Considerations",
+      "authors": "Ojonugwa Precious John, Kayode Olayinka Afolabi, Anayochukwu Chibuike Ngene, Williams Omotola Tanimowo, Mary A. Adewoyin, Michael Bamitale Osho",
+      "abstract": "spp. are common but not predominant commensal bacteria that inhabit the gastrointestinal tracts of humans and animals and are widely distributed in various environmental matrices and diverse food sources. Multiple strains of beneficial enterococci are increasingly utilized as protective cultures, alternatives to antibiotics, and probiotics for controlling pathogens, mitigating disease, modulating the microbiome, and supporting overall host health. They also support food fermentation and safety, enhance sensory properties, and produce bioactive compounds such as bacteriocins with strong pathogen-inhibitory activity and multifarious health benefits. Despite their advantages in health and agrifood systems, their association with healthcare-associated infections and the spread of antimicrobial resistance raises concerns about their safety. These risks underscore the need for stringent saf...",
+      "date": "2026-04-02",
+      "year": 2026,
+      "journal": "Microorganisms",
+      "source": "Microorganisms",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/microorganisms14040815",
+      "doi": "10.3390/microorganisms14040815",
+      "pdfUrl": "https://www.mdpi.com/2076-2607/14/4/815/pdf?version=1775124361",
+      "keywords": [
+        "Probiotic",
+        "Antimicrobial",
+        "Bacteriocin",
+        "Biology",
+        "Biotechnology",
+        "Probiotics and Fermented Foods",
+        "Listeria monocytogenes in Food Safety",
+        "Antimicrobial Resistance in Staphylococcus"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T08:40:17.477903+00:00"
+    },
+    {
+      "id": "openalex-08cf7139c39d",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Cell death in cancer",
+      "authors": "Marcus Conrad, Andreas Strasser, Philipp J. Jost, Junying Yuan, Feng Shao, Peter Vandenabeele",
+      "abstract": "\"Evasion of cell death\" is a hallmark of cancer, enabling transformed cells to withstand oncogenic and therapeutic stress. Restoring cancer cell death is an appealing strategy but requires a deep understanding of cell death programs. Over the past two decades, the cell death field has expanded from apoptosis to include necroptosis, pyroptosis, ferroptosis, and other emerging programs, reshaping cancer biology and revealing therapeutic opportunities. While apoptosis remains the primary radiation- and chemotherapy-induced cell death program, non-apoptotic programs can drive inflammatory responses and orchestrate the interplay among tumor, stroma, and immune components, influencing immunotherapy outcomes. Ferroptosis, an iron-dependent, lipid peroxidation-driven cell death modality, lacks a canonical induction signal and arises from perturbations in lipid, iron, and redox metabolism. Thi...",
+      "date": "2026-04-01",
+      "year": 2026,
+      "journal": "Cell",
+      "source": "Cell",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.cell.2026.03.024",
+      "doi": "10.1016/j.cell.2026.03.024",
+      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.03.024",
+      "keywords": [
+        "Programmed cell death",
+        "Biology",
+        "Apoptosis",
+        "Cancer",
+        "Immunogenic cell death",
+        "Cell death mechanisms and regulation",
+        "Cancer and biochemical research",
+        "Phagocytosis and Immune Regulation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 12,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T08:40:17.474385+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -2980,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:54.124300+00:00"
+      "_retrievedAt": "2026-07-24T08:40:17.141847+00:00"
     },
     {
       "id": "openalex-43e02d456db7",
@@ -3012,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:54.127243+00:00"
+      "_retrievedAt": "2026-07-24T08:40:17.145074+00:00"
     },
     {
       "id": "openalex-7748aaa80fd7",
@@ -3044,7 +3300,103 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:54.127575+00:00"
+      "_retrievedAt": "2026-07-24T08:40:17.145452+00:00"
+    },
+    {
+      "id": "openalex-1bdbe1c46708",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Overall survival with relacorilant and nab-paclitaxel in patients with platinum-resistant ovarian cancer (ROSELLA): a phase 3 randomised controlled trial",
+      "authors": "Domenica Lorusso, Laurence Gladieff, David M O'Malley, Jae-Weon Kim, Gabriel Garbaos, Anna Fagotti",
+      "abstract": "BACKGROUND: Relacorilant is a selective glucocorticoid receptor antagonist that increases the sensitivity of many cancer cell types to chemotherapy. The efficacy and safety of relacorilant plus nab-paclitaxel were assessed in the phase 3 ROSELLA (GOG-3073, ENGOT-ov72, APGOT-Ov10, and LACOG-0223) trial; the combination showed significant improvement in progression-free survival among patients with platinum-resistant ovarian cancer compared with nab-paclitaxel monotherapy. Results of the final overall survival analysis are reported here. METHODS: intravenously on the aforementioned schedule). Patients, aged 18 years or older, with one to three lines of previous anticancer therapy and platinum-resistant disease (progression <6 months from their last dose of platinum) were eligible. The trial was conducted at 117 hospitals and community oncology centres in 14 countries across Australia, E...",
+      "date": "2026-04-01",
+      "year": 2026,
+      "journal": "The Lancet",
+      "source": "The Lancet",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/s0140-6736(26)00462-9",
+      "doi": "10.1016/s0140-6736(26)00462-9",
+      "pdfUrl": "https://doi.org/10.1016/s0140-6736(26)00462-9",
+      "keywords": [
+        "Medicine",
+        "Internal medicine",
+        "Overall survival",
+        "Oncology",
+        "Randomized controlled trial",
+        "Ovarian cancer diagnosis and treatment",
+        "PARP inhibition in cancer therapy",
+        "Intraperitoneal and Appendiceal Malignancies"
+      ],
+      "readTime": "2 min",
+      "citedBy": 7,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T08:40:17.475875+00:00"
+    },
+    {
+      "id": "openalex-65ac17e8114e",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Targeting angiogenesis: Lessons from 25 years of normalizing tumor vasculature",
+      "authors": "Sonu Subudhi, Somin Lee, Rakesh K. Jain",
+      "abstract": "Tumors acquire blood vessels primarily via sprouting angiogenesis and co-option of pre-existing host vasculature, but also via intussusception, vasculogenesis from bone-marrow-derived progenitors, vascular mimicry, and endothelial transdifferentiation. The abnormal structure and function of these vessels, resulting from an imbalance between pro- and anti-angiogenic signaling as well as from the physical forces, impair the delivery and efficacy of therapeutics. We review the evolving narrative of targeting angiogenesis from starving tumors to vascular normalization as a therapeutic principle and highlight recent spatial-omics revelations and the emerging role of neural, microbial, hormonal, and chronological factors. We elaborate on the molecular mechanisms of tumor vessel formation, how dysfunctional vessels cause an abnormal tumor microenvironment characterized by hypoxia, low pH, el...",
+      "date": "2026-04-01",
+      "year": 2026,
+      "journal": "Cell",
+      "source": "Cell",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.cell.2026.03.016",
+      "doi": "10.1016/j.cell.2026.03.016",
+      "pdfUrl": "https://www.cell.com/cell/pdf/S0092-8674(26)00283-7.pdf",
+      "keywords": [
+        "Biology",
+        "Cancer research",
+        "Computational biology",
+        "Disease",
+        "Bioinformatics",
+        "Angiogenesis and VEGF in Cancer",
+        "Biological Stains and Phytochemicals",
+        "Fibroblast Growth Factor Research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T08:40:17.477147+00:00"
+    },
+    {
+      "id": "openalex-fd4b6aa3ca96",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Explainable AI in healthcare: a systematic review of XAI use cases in imaging, diagnostics, and rehabilitation",
+      "authors": "Apoorva Aravindkumar, Marimuthu Ramadoss, Saqhibuddeen Ahmed Fakhruddin Ahmed, Vidhya Sampath, Kishor Lakshminarayanan",
+      "abstract": "Background: Explainable artificial intelligence (XAI) is used in healthcare to make machine-learning outputs more transparent and clinically usable. This is important because many machine learning models work like a \"black box\" which can hide bias, reduce trust in the model. XAI addresses this problem by showing which features or image regions influenced a result, either for one patient or across a dataset. Objectives: Our objective is to provide a clear, systematic review of how XAI is being used in healthcare. We summarize the main XAI methods, the data and models they are paired with, and how these explanations support clinical understanding across imaging, diagnosis, and rehabilitation. Methods: = 10) that are identified via PubMed/MEDLINE, IEEE Xplore, and Google Scholar, following PRISMA 2020 guidelines. We included research studies that employed XAI in the three mentioned verti...",
+      "date": "2026-04-01",
+      "year": 2026,
+      "journal": "Frontiers in Artificial Intelligence",
+      "source": "Frontiers in Artificial Intelligence",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/frai.2026.1749527",
+      "doi": "10.3389/frai.2026.1749527",
+      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1749527/pdf",
+      "keywords": [
+        "Rehabilitation",
+        "Systematic review",
+        "Medicine",
+        "Computer science",
+        "MEDLINE",
+        "Explainable Artificial Intelligence (XAI)",
+        "Artificial Intelligence in Healthcare and Education",
+        "Radiomics and Machine Learning in Medical Imaging"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T08:40:17.477602+00:00"
     },
     {
       "id": "openalex-ac109ca21f18",
@@ -3076,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:54.126993+00:00"
+      "_retrievedAt": "2026-07-24T08:40:17.144803+00:00"
     },
     {
       "id": "openalex-7ecbe579840c",
@@ -3108,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:57.833345+00:00"
+      "_retrievedAt": "2026-07-24T08:40:18.041746+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -3140,7 +3492,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:52.214690+00:00"
+      "_retrievedAt": "2026-07-24T08:40:16.584011+00:00"
+    },
+    {
+      "id": "openalex-d33fed344664",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "T cell adaptation in chronic infections and tumors",
+      "authors": "Hendrik Luxenburger, R Thimme, Maike Hofmann",
+      "abstract": "Abstract Chronic viral infections and cancer challenge immune control by enforcing sustained antigen exposure, which profoundly alters the fate and function of CD8 + T cells. In contrast to acute infections, which induce robust effector differentiation and durable immune memory, persistent infections and tumors drive CD8 + T cells into distinct states of functional adaptation. The best studied chronic adaptation is T cell exhaustion, which is characterized by impaired effector functions, reduced proliferative capacity, sustained expression of inhibitory receptors, and stable transcriptional and epigenetic reprogramming. T cell exhaustion is not a uniform or terminal condition but comprises heterogeneous and dynamic cellular states, including stem-like/precursor populations that retain self-renewal capacity and therapeutic responsiveness. These insights have reshaped our understanding...",
+      "date": "2026-03-30",
+      "year": 2026,
+      "journal": "Cellular and Molecular Immunology",
+      "source": "Cellular and Molecular Immunology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41423-026-01405-y",
+      "doi": "10.1038/s41423-026-01405-y",
+      "pdfUrl": "https://www.nature.com/articles/s41423-026-01405-y.pdf",
+      "keywords": [
+        "Immune system",
+        "Reprogramming",
+        "Biology",
+        "Effector",
+        "Immunology",
+        "Cancer Immunotherapy and Biomarkers",
+        "CAR-T cell therapy research",
+        "T-cell and B-cell Immunology"
+      ],
+      "readTime": "1 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T08:40:17.475060+00:00"
     },
     {
       "id": "openalex-be8055a102c2",
@@ -3172,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:57.831954+00:00"
+      "_retrievedAt": "2026-07-24T08:40:18.040240+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -3204,7 +3588,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-24T03:39:52.213484+00:00"
+      "_retrievedAt": "2026-07-24T08:40:16.582678+00:00"
+    },
+    {
+      "id": "openalex-79674174f41b",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "The extracellular matrix: structure, composition, biological functions, diseases, and therapeutic targets",
+      "authors": "Khairunnisa Mohd Kamal, Ahmad Rohi Ghazali, Gayathri Thevi Selvarajah, Nurul‐Syakima Ab Mutalib, Nadiah Abu, Eng Wee Chua",
+      "abstract": "The extracellular matrix (ECM) is a highly organised and dynamic regulator of tissue structural integrity and biochemical signalling, and its dysregulation is a hallmark of fibrosis and cancer. Recent evidence highlights the critical role of epigenetic mechanisms in controlling ECM-related gene expression and remodelling activity. This review integrates recent advances in understanding how epigenetic mechanisms govern ECM composition, remodelling, and mechanotransduction, and how reciprocal ECM-derived signals reshape the epigenetic landscape. Growing evidence links DNA methylation, histone modifications, and non-coding RNAs to the regulation of key ECM components, matrix-modifying enzymes, and stiffness-associated signalling pathways, including TGF-β, Wnt, and PI3K/Akt are summarised in this review. The bidirectional feedback between altered ECM mechanics and epigenetic enzyme activi...",
+      "date": "2026-03-26",
+      "year": 2026,
+      "journal": "Molecular Biomedicine",
+      "source": "Molecular Biomedicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1186/s43556-026-00436-1",
+      "doi": "10.1186/s43556-026-00436-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s43556-026-00436-1.pdf",
+      "keywords": [
+        "Epigenetics",
+        "Extracellular matrix",
+        "Histone",
+        "Biology",
+        "Regulator",
+        "Proteoglycans and glycosaminoglycans research",
+        "Cell Adhesion Molecules Research",
+        "Liver physiology and pathology"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T08:40:17.478260+00:00"
     }
   ]
 };
