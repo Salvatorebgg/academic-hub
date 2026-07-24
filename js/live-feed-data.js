@@ -1,458 +1,522 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-07-23T19:43:51.748424+00:00",
-  "total": 113,
+  "generatedAt": "2026-07-24T03:40:01.842975+00:00",
+  "total": 100,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
     {
-      "id": "rss-9978ed8dc0e2",
+      "id": "rss-c7f55cbef568",
       "discipline": "clinical",
       "type": "news",
-      "title": "Gene regulation map reveals treatment targets for heart failure",
+      "title": "Poll: Costs are top health care issue for midterm voters, but fraud tops GOP list",
       "authors": "Medical Xpress",
-      "abstract": "Researchers from the University of California San Diego have created the most detailed map to date of how gene regulation breaks down in human heart failure, revealing how genes are controlled in specific cell types as the disease develops and pointing to potential new therapeutic targets.",
-      "date": "2026-07-23",
+      "abstract": "Health care costs top the list of voters' health care priorities for the midterm elections, with half (51%) of all voters and more than half of Democratic (60%) and independent (55%) voters saying the issue is extremely important for candidates to discuss, according to a new KFF Health Tracking Poll.",
+      "date": "2026-07-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-gene-reveals-treatment-heart-failure.html",
+      "url": "https://medicalxpress.com/news/2026-07-poll-health-issue-midterm-voters.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "gene",
-        "regulation",
-        "targets",
-        "heart",
-        "failure",
-        "reveals",
-        "treatment",
-        "researchers"
+        "health",
+        "voters",
+        "care",
+        "poll",
+        "costs",
+        "issue",
+        "midterm",
+        "list"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.725364+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.262268+00:00"
     },
     {
-      "id": "rss-f826af4e0a5a",
+      "id": "rss-927c68ca9a7d",
       "discipline": "clinical",
       "type": "news",
-      "title": "Cruise ship outbreak highlights need for clear communication on emerging disease threats",
+      "title": "Stroke center anesthesia practices may shape patient outcomes after mechanical thrombectomy",
       "authors": "Medical Xpress",
-      "abstract": "A small outbreak of a rare hantavirus on a cruise ship earlier this year captured worldwide attention and sparked concerns about a possible new pandemic. But according to a new University of Maryland School of Medicine (UMSOM) commentary published in JAMA Internal Medicine, the outbreak posed little risk to the general public and offers important lessons about how health officials, scientists and the media should communicate during emerging disease events.",
-      "date": "2026-07-23",
+      "abstract": "A hospital's overall experience with general anesthesia (GA) or conscious sedation (CS) may influence how anesthesia choice affects patient outcomes during mechanical thrombectomy, according to research presented at the Society of NeuroInterventional Surgery (SNIS) 23rd Annual Meeting. The findings suggest that the effectiveness of an anesthesia strategy depends not only on the technique itself but also on the institutional protocols and experience supporting its use.",
+      "date": "2026-07-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-cruise-ship-outbreak-highlights-communication.html",
+      "url": "https://medicalxpress.com/news/2026-07-center-anesthesia-patient-outcomes-mechanical.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "outbreak",
-        "cruise",
-        "ship",
-        "emerging",
-        "disease",
-        "about",
-        "medicine",
-        "highlights"
+        "anesthesia",
+        "patient",
+        "outcomes",
+        "mechanical",
+        "thrombectomy",
+        "experience",
+        "stroke",
+        "center"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.725680+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.262575+00:00"
     },
     {
-      "id": "rss-cdc0f60d1fd6",
+      "id": "rss-248e8ac6c8e2",
       "discipline": "clinical",
       "type": "news",
-      "title": "Brain immunity may undergo a major midlife overhaul linked to neuroinflammation",
+      "title": "Social inequalities shape childhood mortality from leukemia in Brazil",
       "authors": "Medical Xpress",
-      "abstract": "A new study indicates that the immune cell landscape of the hippocampus, a brain region critical for learning and memory, rapidly undergoes substantial remodeling beginning in midlife. This previously unrecognized shift suggests a potential mechanism by which aging may contribute to chronic neuroinflammation commonly observed in neurodegenerative disease.",
-      "date": "2026-07-23",
+      "abstract": "Why do children with lymphoid leukemia face markedly different mortality rates depending on where they live in Brazil? In a collaboration between researchers at LMU and the Federal University of Rio de Janeiro (UFRJ), trends in childhood lymphoid leukemia mortality in Brazil over more than two decades were analyzed, along with the association of regional development and health care structures with the observed disparities. The findings have been published in The Lancet Regional Health—Americas.",
+      "date": "2026-07-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-brain-immunity-major-midlife-overhaul.html",
+      "url": "https://medicalxpress.com/news/2026-07-social-inequalities-childhood-mortality-leukemia.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "brain",
-        "midlife",
-        "neuroinflammation",
-        "immunity",
-        "undergo",
-        "major",
-        "overhaul",
-        "linked"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.725943+00:00"
-    },
-    {
-      "id": "rss-0559d633e9c7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Dormant pigment cells found in vitiligo patches may offer treatment target",
-      "authors": "Medical Xpress",
-      "abstract": "Vitiligo is an autoimmune disease in which the body's immune system attacks and destroys melanocytes, the cells that produce the skin pigment melanin. Once the melanocytes are gone, the skin turns white, leading to the characteristic skin patches of the disease. However, the standard model of vitiligo doesn't explain some of its unusual features. Some vitiligo lesions repigment, and treatments sometimes restore pigmentation even in areas that lack melanocytes, suggesting that the melanocytes may not be fully destroyed.",
-      "date": "2026-07-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-dormant-pigment-cells-vitiligo-patches.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "vitiligo",
-        "melanocytes",
-        "that",
-        "skin",
-        "pigment",
-        "cells",
-        "patches",
-        "disease"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.726237+00:00"
-    },
-    {
-      "id": "rss-a2b1fad99544",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Colorectal cancer isn't the only gastrointestinal cancer rising in young adults",
-      "authors": "Medical Xpress",
-      "abstract": "You may have heard that colorectal cancer is increasingly affecting young adults. However, it is not the only gastrointestinal (GI) cancer that doctors are diagnosing in patients below the age of 50, explains Christina Wu, M.D., an oncologist at Mayo Clinic Comprehensive Cancer Center in Arizona.",
-      "date": "2026-07-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-colorectal-cancer-isnt-gastrointestinal-young.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "colorectal",
-        "only",
-        "gastrointestinal",
-        "young",
-        "adults",
-        "that",
-        "rising"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.726519+00:00"
-    },
-    {
-      "id": "rss-b42d13eff5ec",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Researchers develop AI-based brain stimulation hologram technology",
-      "authors": "Medical Xpress",
-      "abstract": "A research team led by Professor Jae Youn Hwang of DGIST's Department of Electrical Engineering and Computer Science, in collaboration with a team led by Professors Euiheon Chung and Hyuk Sang Kwon of GIST's Department of Biomedical Science and Engineering, has developed an \"AI-based thickness-optimized acoustic hologram (TOAH)\" technology that directly optimizes the thickness of a 3D-printed lens to simultaneously and precisely stimulate multiple regions of the brain.",
-      "date": "2026-07-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-ai-based-brain-hologram-technology.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ai-based",
-        "brain",
-        "hologram",
-        "technology",
-        "team",
-        "department",
-        "engineering",
-        "researchers"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.726792+00:00"
-    },
-    {
-      "id": "rss-451a8116fe8b",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Chemotherapy leaves detectable DNA fingerprints in childhood tumors within 18 months",
-      "authors": "Medical Xpress",
-      "abstract": "Nearly half of childhood tumors treated with common types of chemotherapy showed detectable DNA changes linked to treatment within 18 months, according to a new international study led by The Hospital for Sick Children (SickKids). Researchers say these changes could eventually help clinicians spot treatment resistance earlier, before cancer returns or spreads, opening the door to more precise use of chemotherapy.",
-      "date": "2026-07-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-chemotherapy-dna-fingerprints-childhood-tumors.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "chemotherapy",
-        "detectable",
+        "mortality",
+        "leukemia",
+        "brazil",
         "childhood",
-        "tumors",
-        "within",
-        "months",
-        "changes",
-        "treatment"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.727054+00:00"
-    },
-    {
-      "id": "rss-004e68b4cdfe",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Two new therapies and rapid tests could reshape drug-resistant gonorrhea care",
-      "authors": "Medical Xpress",
-      "abstract": "Drug-resistant Neisseria gonorrhoeae (the bacterium that causes gonorrhea) has become one of the most urgent antimicrobial-resistant threats to public health worldwide. Clinicians expect to be confronted by rising rates of treatment failure in the years to come.",
-      "date": "2026-07-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-therapies-rapid-reshape-drug-resistant.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "drug-resistant",
-        "gonorrhea",
-        "therapies",
-        "rapid",
-        "tests",
-        "could",
-        "reshape",
-        "care"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.727314+00:00"
-    },
-    {
-      "id": "rss-a70315cde99a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "US health officials are investigating a new outbreak of a diarrhea-causing parasite",
-      "authors": "Medical Xpress",
-      "abstract": "Federal health officials are investigating a new outbreak involving the diarrhea-causing parasite cyclospora.",
-      "date": "2026-07-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-health-outbreak-diarrhea-parasite.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
+        "lymphoid",
+        "regional",
         "health",
-        "officials",
-        "investigating",
-        "outbreak",
-        "diarrhea-causing",
-        "parasite",
-        "federal",
-        "involving"
+        "social"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.727529+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.262875+00:00"
     },
     {
-      "id": "rss-01368c3f5cf1",
+      "id": "rss-d49e5da47634",
       "discipline": "clinical",
       "type": "news",
-      "title": "How systemic immune regulation is 'hijacked' during tumor progression",
+      "title": "Novel neurointerventional procedure shows early promise for severe back pain",
       "authors": "Medical Xpress",
-      "abstract": "The immune system plays a critical role in protecting the body from cancer by recognizing and eliminating abnormal cells before they can develop into tumors. This process relies on T cells that can recognize tumor-derived antigens presented by dendritic cells (DCs). However, tumor cells frequently evade immune surveillance and establish immune tolerance through various mechanisms, most of which are thought to occur within the tumor microenvironment.",
-      "date": "2026-07-23",
+      "abstract": "Researchers at the Society of NeuroInterventional Surgery (SNIS) 23rd Annual Meeting presented an experimental neurointerventional technique designed to treat severe back pain, a leading cause of disability and opioid use, by delivering medication directly through the arteries supplying the painful area. The approach uses catheter-based procedures commonly used for stroke treatment to target the source of pain in the spine.",
+      "date": "2026-07-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-immune-hijacked-tumor.html",
+      "url": "https://medicalxpress.com/news/2026-07-neurointerventional-procedure-early-severe-pain.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "immune",
-        "cells",
-        "tumor",
-        "systemic",
-        "regulation",
-        "hijacked",
-        "during",
-        "progression"
+        "neurointerventional",
+        "pain",
+        "severe",
+        "back",
+        "novel",
+        "procedure",
+        "shows",
+        "early"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.727803+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.263119+00:00"
     },
     {
-      "id": "rss-3ce8ff6edd8e",
+      "id": "rss-0d4970c35fe9",
       "discipline": "clinical",
       "type": "news",
-      "title": "RNA testing uncovers 171 mutations driving MET exon 14 skipping in lung cancer",
+      "title": "Molecular imaging enhances diagnosis of fever of unknown origin",
       "authors": "Medical Xpress",
-      "abstract": "New research has shown that RNA-based testing can improve the detection and interpretation of clinically actionable genomic alterations that lead to MET exon 14 skipping in patients with lung cancer—important biomarkers that may be missed by DNA-only approaches. The findings from the study published in The Journal of Molecular Diagnostics are poised to improve diagnostic accuracy and help determine patients' eligibility for MET-targeted therapies.",
-      "date": "2026-07-23",
+      "abstract": "PET/CT can add valuable information to aid the diagnosis of fever of unknown origin (FUO), according to a new multicenter, retrospective study published in the June issue of The Journal of Nuclear Medicine. In a cohort of more than 900 FUO patients, molecular imaging directly influenced clinical management in nearly 75%, contributing to improved patient outcomes, increased patient safety and reduced health care costs.",
+      "date": "2026-07-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-rna-uncovers-mutations-met-exon.html",
+      "url": "https://medicalxpress.com/news/2026-07-molecular-imaging-diagnosis-fever-unknown.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "that",
-        "testing",
-        "exon",
-        "skipping",
-        "lung",
-        "cancer",
-        "improve",
-        "patients"
+        "molecular",
+        "imaging",
+        "diagnosis",
+        "fever",
+        "unknown",
+        "origin",
+        "patient",
+        "enhances"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.728102+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.263375+00:00"
     },
     {
-      "id": "rss-4443f96ca146",
+      "id": "rss-26db7e32d50b",
       "discipline": "clinical",
       "type": "news",
-      "title": "Parents' socioeconomic status is more important than prenatal behaviors to a future child's health, study suggests",
+      "title": "Persistent money struggles tied to faster brain aging",
       "authors": "Medical Xpress",
-      "abstract": "Family socioeconomic position may be a more important determinant of children's health than parental behaviors such as smoking, drinking or caffeine consumption, according to a study published in PLOS Medicine by Gemma Sharp from the University of Exeter, UK, and colleagues.",
-      "date": "2026-07-23",
+      "abstract": "Persistent financial hardship accelerates age-related cognitive decline, according to a new study led by University College London (UCL) researchers. The study, published in Innovation in Aging, looked at data from 2,759 people in the UK who filled out questionnaires throughout their lives as part of the MRC National Survey of Health and Development (also known as the 1946 British cohort study).",
+      "date": "2026-07-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-parents-socioeconomic-status-important-prenatal.html",
+      "url": "https://medicalxpress.com/news/2026-07-persistent-money-struggles-faster-brain.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "socioeconomic",
-        "more",
-        "important",
-        "than",
-        "behaviors",
-        "health",
-        "parents",
-        "status"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.728373+00:00"
-    },
-    {
-      "id": "rss-9bec0d45acca",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "By the Numbers: This year's Ebola outbreak has spread faster than the worst on record",
-      "authors": "Medical Xpress",
-      "abstract": "The Ebola outbreak in Congo has killed over 1,000 people, reaching the grim milestone nearly three times faster than the 2014-2016 Ebola epidemic that is considered the worst on record.",
-      "date": "2026-07-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-year-ebola-outbreak-faster-worst.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ebola",
-        "outbreak",
+        "persistent",
+        "aging",
+        "money",
+        "struggles",
+        "tied",
         "faster",
-        "than",
-        "worst",
-        "record",
-        "numbers",
-        "this"
+        "brain",
+        "financial"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.728606+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.263608+00:00"
     },
     {
-      "id": "rss-bbb08518a697",
+      "id": "rss-e74d3375aff8",
       "discipline": "clinical",
       "type": "news",
-      "title": "Why air travel can be so hard on the body",
+      "title": "What's the deal with peptides? The hyped market under US review",
       "authors": "Medical Xpress",
-      "abstract": "At any given time, hundreds of thousands of people are traveling by air. For many, these journeys will pass without consequence. But for some, a routine flight may trigger a health emergency.",
-      "date": "2026-07-23",
+      "abstract": "Glowing skin, deeper sleep, stronger muscles, an alert mind? Such are the enticing promises of peptides, an increasingly buzzy class of substances touted by influencers and celebrities as the key to an optimized life.",
+      "date": "2026-07-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-air-hard-body.html",
+      "url": "https://medicalxpress.com/news/2026-07-peptides-hyped.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "travel",
-        "hard",
-        "body",
-        "given",
-        "time",
-        "hundreds",
-        "thousands",
-        "people"
+        "peptides",
+        "what",
+        "deal",
+        "hyped",
+        "market",
+        "under",
+        "review",
+        "glowing"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.728825+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.263808+00:00"
+    },
+    {
+      "id": "rss-c5703335fb6b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Children with severe pneumonia can leave hospital sooner after switching to oral antibiotics, trial shows",
+      "authors": "Medical Xpress",
+      "abstract": "Children hospitalized with severe pneumonia can safely switch from injectable to oral antibiotics once they begin to recover, allowing many to return home sooner and complete treatment outside the hospital. That is according to a major international clinical trial led by researchers from City St George's, University of London, UCL Innovative Clinical Trials Unit, and partners across Africa and Europe. The results are published in The Lancet.",
+      "date": "2026-07-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-children-severe-pneumonia-hospital-sooner.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "children",
+        "severe",
+        "pneumonia",
+        "hospital",
+        "sooner",
+        "oral",
+        "antibiotics",
+        "trial"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T03:40:01.264064+00:00"
+    },
+    {
+      "id": "rss-3465d33951e2",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Multi-omics map paves way for personalized medicine in Down syndrome",
+      "authors": "Medical Xpress",
+      "abstract": "In a recent study published in Nature Communications, researchers from the University of Colorado Anschutz Linda Crnic Institute for Down Syndrome (Crnic Institute) discovered unique biological processes altered among individuals with Down syndrome who have different sets of co-occurring conditions. The findings mark a step toward personalized treatment.",
+      "date": "2026-07-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-multi-omics-paves-personalized-medicine.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "down",
+        "syndrome",
+        "personalized",
+        "crnic",
+        "institute",
+        "multi-omics",
+        "paves",
+        "medicine"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T03:40:01.264281+00:00"
+    },
+    {
+      "id": "rss-17ae1a330412",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Natural clotting 'switch' may one day reduce reliance on blood thinners to prevent heart attacks and strokes",
+      "authors": "Medical Xpress",
+      "abstract": "Cardiovascular conditions such as strokes or heart attacks are among the most common causes of death in Germany. Today, treatment and prevention are primarily based on so-called platelet aggregation inhibitors and anticoagulants—types of medication commonly referred to as blood thinners. They inhibit or prevent blood coagulation, which in turn prevents the formation of blood clots and life-threatening medical emergencies such as strokes or heart attacks. However, by intervening directly in the hemostasis process, they increase the risk of dangerous bleeding.",
+      "date": "2026-07-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-natural-clotting-day-reliance-blood.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "blood",
+        "heart",
+        "attacks",
+        "strokes",
+        "thinners",
+        "prevent",
+        "such",
+        "they"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T03:40:01.264587+00:00"
+    },
+    {
+      "id": "rss-e58f16c7081a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Misfolded DNA blueprint: A new origin for genetic disease",
+      "authors": "Medical Xpress",
+      "abstract": "Congenital heart disease is the most common birth defect, affecting approximately 1 in 100 babies born each year. One of the many causes of this disorder is having only one functional copy of the gene TBX5, rather than the two healthy copies inherited from parents.",
+      "date": "2026-07-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-misfolded-dna-blueprint-genetic-disease.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "disease",
+        "misfolded",
+        "blueprint",
+        "origin",
+        "genetic",
+        "congenital",
+        "heart",
+        "most"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T03:40:01.264828+00:00"
+    },
+    {
+      "id": "rss-845130ea06d8",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Research reveals persistent racial disparities in stroke treatment and outcomes",
+      "authors": "Medical Xpress",
+      "abstract": "Three studies presented at the Society of NeuroInterventional Surgery's (SNIS) 23rd Annual Meeting found that racial, geographic and socioeconomic disparities continue to influence stroke treatment and outcomes across the United States. Together, the findings suggest that while advances in stroke care have improved survival and expanded treatment options, not all patients are benefiting equally.",
+      "date": "2026-07-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-reveals-persistent-racial-disparities-treatment.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "stroke",
+        "treatment",
+        "racial",
+        "disparities",
+        "outcomes",
+        "that",
+        "reveals",
+        "persistent"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T03:40:01.265071+00:00"
+    },
+    {
+      "id": "rss-91b29197dd51",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Blurred genome boundaries emerge as a new layer of Alzheimer's biology",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers from Carnegie Mellon University's School of Computer Science, the University of Pittsburgh School of Medicine and the University of Washington have shed new light on Alzheimer's disease that could point to new directions for treatment.",
+      "date": "2026-07-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-blurred-genome-boundaries-emerge-layer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "university",
+        "alzheimer",
+        "school",
+        "blurred",
+        "genome",
+        "boundaries",
+        "emerge",
+        "layer"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T03:40:01.265277+00:00"
+    },
+    {
+      "id": "rss-40c2bc2077be",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Nearly 1.6 million dozen eggs pulled from shelves over Salmonella concerns",
+      "authors": "Medical Xpress",
+      "abstract": "Nearly 1.6 million dozen eggs sold across the South and Southwest are being recalled because they may be contaminated with Salmonella.",
+      "date": "2026-07-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-million-dozen-eggs-shelves-salmonella.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nearly",
+        "million",
+        "dozen",
+        "eggs",
+        "salmonella",
+        "pulled",
+        "shelves",
+        "over"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T03:40:01.265478+00:00"
+    },
+    {
+      "id": "rss-8e5c37429d88",
+      "discipline": "cs",
+      "type": "news",
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "authors": "TechCrunch AI",
+      "abstract": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+      "date": "2026-07-24",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "guardrails",
+        "work",
+        "cybersecurity",
+        "researchers",
+        "impeding",
+        "offensive",
+        "spoke",
+        "several"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T03:40:01.389519+00:00"
+    },
+    {
+      "id": "rss-0aea649f61bc",
+      "discipline": "cs",
+      "type": "news",
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "authors": "TechCrunch AI",
+      "abstract": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+      "date": "2026-07-23",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "rack-scale",
+        "system",
+        "takes",
+        "nvidia",
+        "helios",
+        "challenging",
+        "chipmaker",
+        "rival"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T03:40:01.389717+00:00"
     },
     {
       "id": "rss-011862666dec",
@@ -460,7 +524,7 @@ window.LIVE_FEED_DATA = {
       "type": "news",
       "title": "Anthropic updates Claude voice mode with more capable models",
       "authors": "TechCrunch AI",
-      "abstract": "Claude's new voice model will let you reschedule your meeting or draft an email",
+      "abstract": "Claude's new voice model will let you reschedule your meeting or draft an email.",
       "date": "2026-07-23",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -484,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.866697+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.389851+00:00"
     },
     {
       "id": "rss-6856e7e61d85",
@@ -516,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.866957+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.390015+00:00"
     },
     {
       "id": "rss-732e72c1a723",
@@ -548,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.867152+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.390156+00:00"
     },
     {
       "id": "rss-c18a27825874",
@@ -580,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.867337+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.390276+00:00"
     },
     {
       "id": "rss-c0fca1a8817f",
@@ -612,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.867527+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.390433+00:00"
     },
     {
       "id": "rss-2330c54f5811",
@@ -644,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.867674+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.390551+00:00"
     },
     {
       "id": "rss-9be9606a3f10",
@@ -676,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.867848+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.390689+00:00"
     },
     {
       "id": "rss-249e8be14aa9",
@@ -708,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.867993+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.390808+00:00"
     },
     {
       "id": "rss-9ffe2043d2b0",
@@ -740,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.868164+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.390951+00:00"
     },
     {
       "id": "rss-0fc0b751d625",
@@ -772,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.868343+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.391079+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -804,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.970133+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.456791+00:00"
     },
     {
       "id": "rss-6b0c3666cf8e",
@@ -836,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.868518+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.391218+00:00"
     },
     {
       "id": "rss-3f69a0832ac9",
@@ -868,71 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.868675+00:00"
-    },
-    {
-      "id": "rss-4530e22c1fd3",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-      "authors": "TechCrunch AI",
-      "abstract": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
-      "date": "2026-07-22",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "treasury",
-        "threatens",
-        "sanctions",
-        "after",
-        "white",
-        "house",
-        "claims",
-        "moonshot"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.868838+00:00"
-    },
-    {
-      "id": "rss-36e69f0bdcd2",
-      "discipline": "cs",
-      "type": "news",
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "authors": "TechCrunch AI",
-      "abstract": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
-      "date": "2026-07-22",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "mistake",
-        "openai",
-        "human",
-        "ai-powered",
-        "hugging",
-        "face",
-        "made",
-        "what"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.869030+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.391359+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.970353+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.456966+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -996,7 +996,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.020626+00:00"
+      "_retrievedAt": "2026-07-24T03:39:52.213179+00:00"
+    },
+    {
+      "id": "openalex-94ed0f51ed4f",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "The unique Efg1 fungal virulence regulon in the catheterized bladder environment",
+      "authors": "Alyssa Ann La Bella, Nicholas C Gervais, Kurt N. Kohler, Hope Akegbe, Chloe L. P. Obernuefemann, Christopher Gager",
+      "abstract": "ABSTRACT Urinary catheterization, a common procedure in hospitals and nursing home facilities, is a primary driver of hospital-acquired infections (HAI). These devices frequently lead to catheter-associated urinary tract infections (CAUTIs), which often progress to severe complication, sepsis, and ultimately death. The fungus Candida albicans has emerged as the second most common causative agent of CAUTIs; yet, its pathogenesis is poorly understood, which complicates development of efficient treatments. Previously, we identified the transcription factor Efg1 as a critical virulence driver in C. albicans CAUTIs. However, its specific downstream targets within the unique bladder microenvironment remained unknown. This study identifies, for the first time, the complete Efg1 regulon that is active during growth in human urine. We confirmed the clinical relevance of this discovery, finding...",
+      "date": "2026-07-20",
+      "year": 2026,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "source": "Proceedings of the National Academy of Sciences",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1073/pnas.2533309123",
+      "doi": "10.1073/pnas.2533309123",
+      "pdfUrl": "https://doi.org/10.1073/pnas.2533309123",
+      "keywords": [
+        "Regulon",
+        "Virulence",
+        "Biology",
+        "Microbiology",
+        "Pathogenesis",
+        "Antifungal resistance and susceptibility",
+        "Urinary Tract Infections Management",
+        "Bladder and Urothelial Cancer Treatments"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T03:39:54.128326+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1028,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.970522+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.457100+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -1060,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:51.254052+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.651388+00:00"
     },
     {
       "id": "rss-67e6e4628573",
@@ -1092,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:51.254316+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.651603+00:00"
     },
     {
       "id": "rss-2c39e9060823",
@@ -1124,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:51.255018+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.652269+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1156,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.970682+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.457240+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1188,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.970846+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.457403+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -1220,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:47.878265+00:00"
+      "_retrievedAt": "2026-07-24T03:39:57.832229+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -1252,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.971000+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.457536+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -1284,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.971178+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.457692+00:00"
     },
     {
       "id": "rss-ce688c2211e0",
@@ -1316,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.971356+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.457819+00:00"
     },
     {
       "id": "rss-d7bb3cddfe2e",
@@ -1348,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.971542+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.457973+00:00"
     },
     {
       "id": "rss-67f98bea1dc8",
@@ -1380,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.971700+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.458104+00:00"
     },
     {
       "id": "rss-35f3c73960fd",
@@ -1412,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:51.255451+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.652584+00:00"
     },
     {
       "id": "rss-fd9a37f6681c",
@@ -1444,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:51.255722+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.652812+00:00"
     },
     {
       "id": "rss-d6d69b0873be",
@@ -1476,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:51.256016+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.653069+00:00"
     },
     {
       "id": "rss-68e47e682229",
@@ -1508,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:51.256249+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.653272+00:00"
     },
     {
       "id": "rss-e186ac38d0fa",
@@ -1540,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:51.256530+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.653507+00:00"
     },
     {
       "id": "rss-bde592569e0e",
@@ -1572,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:51.256808+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.653747+00:00"
     },
     {
       "id": "rss-de0ae6db61b8",
@@ -1604,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:51.257119+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.654014+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -1636,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.828961+00:00"
+      "_retrievedAt": "2026-07-24T03:39:54.125258+00:00"
     },
     {
       "id": "rss-e3ae47ff98f8",
@@ -1668,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.971857+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.458237+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -1700,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:47.876684+00:00"
+      "_retrievedAt": "2026-07-24T03:39:57.830747+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -1732,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.828263+00:00"
+      "_retrievedAt": "2026-07-24T03:39:54.124648+00:00"
     },
     {
       "id": "rss-904aa85f5191",
@@ -1764,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.972017+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.458384+00:00"
     },
     {
       "id": "rss-319482b50c5b",
@@ -1796,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.972179+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.458524+00:00"
     },
     {
       "id": "rss-a5d229a3d4b5",
@@ -1828,39 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:50.972357+00:00"
-    },
-    {
-      "id": "openalex-f2829fa041f5",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Generalizable AI predicts immunotherapy outcomes across cancers and treatments",
-      "authors": "Wan Xiang Shen, Intae Moon, Thinh H. Nguyen, Michelle M. Li, Yepeng Huang, Nitya Nair",
-      "abstract": "Immune checkpoint inhibitors are standard across cancers, yet most patients do not respond and existing biomarkers generalize poorly across tumor types, drugs and clinical settings. We present C ompass , a pan-cancer foundation model that predicts immunotherapy response from bulk tumor transcriptomes using a concept-bottleneck transformer. C ompass encodes gene expression through 44 biologically grounded immune concepts representing immune cell states, tumor-microenvironment interactions, and signaling pathways. Trained on 10,184 tumors across 33 cancer types, C ompass outperforms 22 baseline methods in 16 independent clinical cohorts spanning seven cancers and six immune checkpoint inhibitors, increasing accuracy by 8.5% and area under the precision-recall curve by 15.7%, with minimal additional training. The model generalizes to unseen cancer types and treatments, supporting indicat...",
-      "date": "2026-07-03",
-      "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04502-7",
-      "doi": "10.1038/s41591-026-04502-7",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04502-7.pdf",
-      "keywords": [
-        "Immunotherapy",
-        "Medicine",
-        "Oncology",
-        "Internal medicine",
-        "Psychology",
-        "Cancer Immunotherapy and Biomarkers",
-        "Radiomics and Machine Learning in Medical Imaging",
-        "Cancer Genomics and Diagnostics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 13,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:46.863782+00:00"
+      "_retrievedAt": "2026-07-24T03:40:01.458656+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.023003+00:00"
+      "_retrievedAt": "2026-07-24T03:39:52.215023+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1924,39 +1924,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.023772+00:00"
+      "_retrievedAt": "2026-07-24T03:39:52.215736+00:00"
     },
     {
-      "id": "openalex-c2a093804030",
-      "discipline": "clinical",
+      "id": "openalex-5cffaa86f023",
+      "discipline": "bio",
       "type": "paper",
-      "title": "International Journal of Complementary & Alternative Medicine",
-      "authors": "OpenAlex indexed authors",
-      "abstract": "There is a growing demand for integrative and complementary therapies for various health conditions, while the mechanisms and biological pathways for some of these therapies are poorly explored.In particular, bioelectric, biomagnetic and anthropogenic fields interact with biological structures such as tissues, cells and DNA.It is suggested that these interactions may create an integrated system of internal communication, with the potential to promote therapeutic benefits.The theoretical model Biofield-Tissue Tensegrity Matrix (BTTM) is presented by combining concepts from physics, biology and medicine to serve as a possible theoretical basis for energy therapies.",
-      "date": "2026-06-20",
+      "title": "Expansion, functional diversification, and gene fusion events in the Ato protein family",
+      "authors": "F Chakmehdouz Ghasemi, Patrícia Ataíde, Cláudia Barata-Antunes, Yiannis Pyrris, João Alves, Vítor Basto-Fernandes",
+      "abstract": "Abstract Candida albicans , a commensal opportunistic pathogen, exhibits remarkable metabolic flexibility and adaptability to environmental changes. In glucose-limited niches, it utilizes alternative carbon sources such as carboxylic acids, which may influence its pathogenicity. In Saccharomyces cerevisiae , the uptake of monocarboxylates occurs through regulated plasma membrane (PM) transport proteins, such as Ato1 (Ady2), which belongs to the Acetate Uptake Transporter (AceTr) family. In C. albicans , these proteins are notably expanded, consisting of ten Ato-like proteins (ATO1-ATO10), whose functions remain unknown. Here, we investigated the role of Ato proteins in carboxylic acid utilization by C. albicans using in-silico and functional analysis. Our data revealed that several C. albicans Atos retain conserved AceTr motifs but possess distinct structural features, including diffe...",
+      "date": "2026-06-23",
       "year": 2026,
-      "journal": "International Journal of Complementary & Alternative Medicine",
-      "source": "International Journal of Complementary & Alternative Medicine",
+      "journal": "iScience",
+      "source": "iScience",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.15406/ijcam",
-      "doi": "10.15406/ijcam",
-      "pdfUrl": "https://medcraveonline.com/IJCAM/IJCAM-18-00731.pdf",
+      "url": "https://doi.org/10.1016/j.isci.2026.116467",
+      "doi": "10.1016/j.isci.2026.116467",
+      "pdfUrl": "https://doi.org/10.1016/j.isci.2026.116467",
       "keywords": [
-        "Library science",
-        "Medicine",
-        "Computer science",
-        "Complementary and Alternative Medicine Studies",
-        "therapies",
-        "complementary",
-        "medicine",
-        "biological"
+        "Diversification (marketing strategy)",
+        "Fusion protein",
+        "Gene",
+        "Genetics",
+        "Computational biology",
+        "Advanced Proteomics Techniques and Applications",
+        "Mass Spectrometry Techniques and Applications",
+        "Enzyme Structure and Function"
       ],
       "readTime": "1 min",
-      "citedBy": 18,
-      "qualityScore": 80.0,
+      "citedBy": 3,
+      "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:46.863420+00:00"
+      "_retrievedAt": "2026-07-24T03:39:54.127928+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -1988,39 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.022356+00:00"
-    },
-    {
-      "id": "openalex-797c77e03bf0",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Advancements in machine learning and deep learning for early detection and management of mental health disorder",
-      "authors": "Kamala Devi Kannan, Senthil Kumar Jagatheesaperumal, Kandala N. V. P. S. Rajesh, Mojtaba Lotfaliany, Roohallah Alizadehsanid, Mohammadreza Mohebbi",
-      "abstract": "For the early identification, diagnosis, and treatment of mental health illnesses, the integration of deep learning (DL) and machine learning (ML) have started playing a significant role. By evaluating complex data from imaging, genetics, and behavioral assessments, these technologies have the potential to improve clinical results significantly. However, they also present unique challenges relating to data integration and ethical issues. The development of ML and DL methods for the early diagnosis and treatment of mental health issues is reviewed in this survey. It examines a range of applications, with a particular emphasis on behavioral assessments, genetic and biomarker analysis, and medical imaging for the diagnosis of diseases like depression, bipolar disorder, and schizophrenia. Predictive modeling for illness development is further discussed in the review, focusing on the funct...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "Journal of Affective Disorders Reports",
-      "source": "Journal of Affective Disorders Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.jadr.2026.101100",
-      "doi": "10.1016/j.jadr.2026.101100",
-      "pdfUrl": "https://doi.org/10.1016/j.jadr.2026.101100",
-      "keywords": [
-        "Deep learning",
-        "Mental health",
-        "Artificial intelligence",
-        "Psychology",
-        "Computer science",
-        "Mental Health Research Topics",
-        "Digital Mental Health Interventions",
-        "learning"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:46.866959+00:00"
+      "_retrievedAt": "2026-07-24T03:39:52.214418+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2052,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:47.879065+00:00"
+      "_retrievedAt": "2026-07-24T03:39:57.832966+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2084,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:47.881000+00:00"
+      "_retrievedAt": "2026-07-24T03:39:57.834418+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2116,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:47.877436+00:00"
+      "_retrievedAt": "2026-07-24T03:39:57.831446+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2148,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.019796+00:00"
+      "_retrievedAt": "2026-07-24T03:39:52.212355+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2180,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:47.875844+00:00"
+      "_retrievedAt": "2026-07-24T03:39:57.829935+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2212,7 +2180,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.024362+00:00"
+      "_retrievedAt": "2026-07-24T03:39:52.216281+00:00"
+    },
+    {
+      "id": "openalex-8bf44fba3376",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Exploring Code Analysis: Zero-Shot Insights on Syntax and Semantics with LLMs",
+      "authors": "Wei Ma, Shangqing Liu, Shangqing Liu, Qiang Hu, Ye Liu, Wenhan Wang",
+      "abstract": "Code analysis is a fundamental problem in Software Engineering (SE), playing a crucial role in tasks such as debugging, performance optimization, and security assessment. Human developers typically approach code analysis through syntax parsing, static semantics inference, and dynamic reasoning. Traditional code analysis tools, while effective, are often limited by language specificity, complex configurations, and lack of cross-language generalization. Recently, large language models (LLMs) have emerged as promising tools for automating various code-related tasks. However, their capabilities for fundamental code analysis remain underexplored. Understanding these capabilities is crucial for assessing and enhancing LLM-based programming tools. We structure our study around three aspects of code analysis aligned with human practices: syntax parsing, static semantics inference, and dynamic...",
+      "date": "2026-05-26",
+      "year": 2026,
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "source": "ACM Transactions on Software Engineering and Methodology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1145/3818607",
+      "doi": "10.1145/3818607",
+      "pdfUrl": "https://arxiv.org/pdf/2305.12138",
+      "keywords": [
+        "Computer science",
+        "Programming language",
+        "Syntax",
+        "Abstract syntax tree",
+        "Artificial intelligence",
+        "Software Engineering Research",
+        "Artificial Intelligence in Healthcare and Education",
+        "Ferroelectric and Negative Capacitance Devices"
+      ],
+      "readTime": "2 min",
+      "citedBy": 18,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T03:39:52.216790+00:00"
     },
     {
       "id": "openalex-7a2e0cea295d",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:47.881334+00:00"
+      "_retrievedAt": "2026-07-24T03:39:57.834712+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.021305+00:00"
+      "_retrievedAt": "2026-07-24T03:39:52.213827+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.019481+00:00"
+      "_retrievedAt": "2026-07-24T03:39:52.212001+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.021917+00:00"
+      "_retrievedAt": "2026-07-24T03:39:52.214027+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2372,71 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.019083+00:00"
-    },
-    {
-      "id": "openalex-256ec0eeb0dd",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Artificial Intelligence and Big Data for Precision Medicine: A Review of Bioinformatics-Driven Healthcare Applications",
-      "authors": "Mohammad Abdus Sami, Md Lutfor Rahman, Zerin Akter Tanni, Zakia Sultana Munmun, Sabiha Nusrat, Bidhan Biswas",
-      "abstract": "Healthcare is in the middle of a quiet but profound shift. Genomic sequencers, hospital information systems, wearables and imaging archives now generate data faster than clinicians can read it, and that flood is reshaping what “evidence-based care” means. We review more than forty recent studies that bring artificial intelligence (AI), machine learning and big-data analytics into bioinformatics and precision medicine, spanning oncology, drug discovery, cardiology, neurology, public-health surveillance and healthcare operations. Reported accuracies and AUCs range from roughly 80% in early drug-discovery pipelines to above 94% in deep-learning-based pancreatic and breast imaging. Yet our reading also suggests a more cautious story: many models still suffer from limited external validation, opaque decision logic and uneven access to high-quality multi-omics data. We propose a layered con...",
-      "date": "2026-05-09",
-      "year": 2026,
-      "journal": "Frontiers in Computer Science and Artificial Intelligence",
-      "source": "Frontiers in Computer Science and Artificial Intelligence",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.32996/fcsai.2026.5.6.7",
-      "doi": "10.32996/fcsai.2026.5.6.7",
-      "pdfUrl": "https://al-kindipublisher.com/index.php/fcsai/article/download/12680/11358",
-      "keywords": [
-        "Big data",
-        "Computer science",
-        "Workflow",
-        "Data science",
-        "Artificial intelligence",
-        "Artificial Intelligence in Healthcare and Education",
-        "Machine Learning in Healthcare",
-        "Artificial Intelligence in Healthcare"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:46.867318+00:00"
-    },
-    {
-      "id": "openalex-49732882293e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Metformin inhibits mitochondrial complex I in intestinal epithelium to promote glycaemic control",
-      "authors": "Zachary L. Sebo, Ram P. Chakrabarty, Rogan A. Grant, Karis B. D’Alessandro, Alec Koss, Jenna L. E. Blum",
-      "abstract": "Metformin is a versatile biguanide drug primarily prescribed for type II diabetes. Despite its extensive use, the mechanisms underlying its clinical effects, including attenuated postprandial glucose excursions and elevated intestinal glucose uptake, remain unclear. Here we map these and other effects of metformin to intestine-specific mitochondrial complex I inhibition. Using human metabolomic data and an orthogonal genetics approach in male mice, we demonstrate that metformin suppresses citrulline synthesis, a metabolite generated exclusively by small intestine mitochondria, and increases GDF15 by inhibiting the mitochondrial respiratory chain at complex I. This inhibition co-opts the intestines to function as a glucose sink, driving the uptake of excess glucose and its conversion to lactate and lactoyl-phenylalanine. We also find that glucose lowering by metformin is due to repeate...",
-      "date": "2026-05-08",
-      "year": 2026,
-      "journal": "Nature Metabolism",
-      "source": "Nature Metabolism",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s42255-026-01530-y",
-      "doi": "10.1038/s42255-026-01530-y",
-      "pdfUrl": "https://www.nature.com/articles/s42255-026-01530-y.pdf",
-      "keywords": [
-        "Metformin",
-        "Postprandial",
-        "Biguanide",
-        "Internal medicine",
-        "Endocrinology",
-        "Metabolism, Diabetes, and Cancer",
-        "GDF15 and Related Biomarkers",
-        "Diabetes Treatment and Management"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:46.866225+00:00"
+      "_retrievedAt": "2026-07-24T03:39:52.211617+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2468,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:47.875429+00:00"
+      "_retrievedAt": "2026-07-24T03:39:57.829522+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2500,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.020211+00:00"
+      "_retrievedAt": "2026-07-24T03:39:52.212802+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -2532,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:47.880631+00:00"
+      "_retrievedAt": "2026-07-24T03:39:57.834052+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -2564,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.829878+00:00"
+      "_retrievedAt": "2026-07-24T03:39:54.125828+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -2596,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.830521+00:00"
+      "_retrievedAt": "2026-07-24T03:39:54.126402+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2628,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.024026+00:00"
+      "_retrievedAt": "2026-07-24T03:39:52.215987+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -2660,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:47.878681+00:00"
+      "_retrievedAt": "2026-07-24T03:39:57.832610+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -2692,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.828625+00:00"
+      "_retrievedAt": "2026-07-24T03:39:54.124949+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -2724,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:47.877007+00:00"
+      "_retrievedAt": "2026-07-24T03:39:57.831058+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2756,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.829586+00:00"
+      "_retrievedAt": "2026-07-24T03:39:54.125553+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2788,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.023364+00:00"
+      "_retrievedAt": "2026-07-24T03:39:52.215328+00:00"
     },
     {
       "id": "openalex-7ccfc202ecea",
@@ -2820,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.827291+00:00"
+      "_retrievedAt": "2026-07-24T03:39:54.123709+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2852,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.830851+00:00"
+      "_retrievedAt": "2026-07-24T03:39:54.126707+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -2884,7 +2820,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:47.876307+00:00"
+      "_retrievedAt": "2026-07-24T03:39:57.830386+00:00"
+    },
+    {
+      "id": "openalex-d826f52b28e7",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Recent advances in TROPOMI-based methane source detection: a systematic review",
+      "authors": "Ruoqi Liu, Shun Li, Geli Zhang, Mengyao Liu, X. L. Lu, Shushi Peng",
+      "abstract": "The renewed increase in atmospheric methane (CH4) concentrations since 2007, culminating in record growth rates in 2021, poses a critical challenge to achieving global climate targets. The TROPOspheric Monitoring Instrument (TROPOMI) onboard the Sentinel-5 Precursor satellite provides unprecedented daily global observations of CH4 at a spatial resolution (7 × 7 km2, improved to 5.5 × 7 km2 since August 2019), enabling substantial advances in space-based CH4 monitoring and emission quantification. Here, we synthesize and categorize 133 published studies spanning global, regional and local scales and covering both anthropogenic and natural CH4 sources. Collectively, these studies demonstrate TROPOMI's capability to quantify emissions across diverse spatiotemporal scales, as well as its synergy with other satellite instruments for detecting and attributing facility-level sources, such as...",
+      "date": "2026-04-08",
+      "year": 2026,
+      "journal": "GIScience & Remote Sensing",
+      "source": "GIScience & Remote Sensing",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1080/15481603.2026.2650822",
+      "doi": "10.1080/15481603.2026.2650822",
+      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/15481603.2026.2650822?needAccess=true",
+      "keywords": [
+        "Environmental science",
+        "Methane",
+        "Remote sensing",
+        "Methane emissions",
+        "Greenhouse gas",
+        "Spectroscopy and Laser Applications",
+        "Advanced Chemical Sensor Technologies",
+        "Atmospheric and Environmental Gas Dynamics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 2,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-24T03:39:57.835071+00:00"
     },
     {
       "id": "openalex-557912e64e56",
@@ -2916,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.827636+00:00"
+      "_retrievedAt": "2026-07-24T03:39:54.124031+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -2948,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:47.880233+00:00"
+      "_retrievedAt": "2026-07-24T03:39:57.833712+00:00"
     },
     {
       "id": "openalex-8d5e6bfc7e0b",
@@ -2980,71 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.830218+00:00"
-    },
-    {
-      "id": "openalex-16c0651ed52d",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Enterococcus Species: Multifaceted Probiotic Potential and Safety Considerations",
-      "authors": "Ojonugwa Precious John, Kayode Olayinka Afolabi, Anayochukwu Chibuike Ngene, Williams Omotola Tanimowo, Mary A. Adewoyin, Michael Bamitale Osho",
-      "abstract": "spp. are common but not predominant commensal bacteria that inhabit the gastrointestinal tracts of humans and animals and are widely distributed in various environmental matrices and diverse food sources. Multiple strains of beneficial enterococci are increasingly utilized as protective cultures, alternatives to antibiotics, and probiotics for controlling pathogens, mitigating disease, modulating the microbiome, and supporting overall host health. They also support food fermentation and safety, enhance sensory properties, and produce bioactive compounds such as bacteriocins with strong pathogen-inhibitory activity and multifarious health benefits. Despite their advantages in health and agrifood systems, their association with healthcare-associated infections and the spread of antimicrobial resistance raises concerns about their safety. These risks underscore the need for stringent saf...",
-      "date": "2026-04-02",
-      "year": 2026,
-      "journal": "Microorganisms",
-      "source": "Microorganisms",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/microorganisms14040815",
-      "doi": "10.3390/microorganisms14040815",
-      "pdfUrl": "https://www.mdpi.com/2076-2607/14/4/815/pdf?version=1775124361",
-      "keywords": [
-        "Probiotic",
-        "Antimicrobial",
-        "Bacteriocin",
-        "Biology",
-        "Biotechnology",
-        "Probiotics and Fermented Foods",
-        "Listeria monocytogenes in Food Safety",
-        "Antimicrobial Resistance in Staphylococcus"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:46.868349+00:00"
-    },
-    {
-      "id": "openalex-08cf7139c39d",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Cell death in cancer",
-      "authors": "Marcus Conrad, Andreas Strasser, Philipp J. Jost, Junying Yuan, Feng Shao, Peter Vandenabeele",
-      "abstract": "\"Evasion of cell death\" is a hallmark of cancer, enabling transformed cells to withstand oncogenic and therapeutic stress. Restoring cancer cell death is an appealing strategy but requires a deep understanding of cell death programs. Over the past two decades, the cell death field has expanded from apoptosis to include necroptosis, pyroptosis, ferroptosis, and other emerging programs, reshaping cancer biology and revealing therapeutic opportunities. While apoptosis remains the primary radiation- and chemotherapy-induced cell death program, non-apoptotic programs can drive inflammatory responses and orchestrate the interplay among tumor, stroma, and immune components, influencing immunotherapy outcomes. Ferroptosis, an iron-dependent, lipid peroxidation-driven cell death modality, lacks a canonical induction signal and arises from perturbations in lipid, iron, and redox metabolism. Thi...",
-      "date": "2026-04-01",
-      "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.03.024",
-      "doi": "10.1016/j.cell.2026.03.024",
-      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.03.024",
-      "keywords": [
-        "Programmed cell death",
-        "Biology",
-        "Apoptosis",
-        "Cancer",
-        "Immunogenic cell death",
-        "Cell death mechanisms and regulation",
-        "Cancer and biochemical research",
-        "Phagocytosis and Immune Regulation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 12,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:46.864083+00:00"
+      "_retrievedAt": "2026-07-24T03:39:54.126142+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -3076,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.827920+00:00"
+      "_retrievedAt": "2026-07-24T03:39:54.124300+00:00"
     },
     {
       "id": "openalex-43e02d456db7",
@@ -3108,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.831452+00:00"
+      "_retrievedAt": "2026-07-24T03:39:54.127243+00:00"
     },
     {
       "id": "openalex-7748aaa80fd7",
@@ -3140,103 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.831794+00:00"
-    },
-    {
-      "id": "openalex-1bdbe1c46708",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Overall survival with relacorilant and nab-paclitaxel in patients with platinum-resistant ovarian cancer (ROSELLA): a phase 3 randomised controlled trial",
-      "authors": "Domenica Lorusso, Laurence Gladieff, David M O'Malley, Jae-Weon Kim, Gabriel Garbaos, Anna Fagotti",
-      "abstract": "BACKGROUND: Relacorilant is a selective glucocorticoid receptor antagonist that increases the sensitivity of many cancer cell types to chemotherapy. The efficacy and safety of relacorilant plus nab-paclitaxel were assessed in the phase 3 ROSELLA (GOG-3073, ENGOT-ov72, APGOT-Ov10, and LACOG-0223) trial; the combination showed significant improvement in progression-free survival among patients with platinum-resistant ovarian cancer compared with nab-paclitaxel monotherapy. Results of the final overall survival analysis are reported here. METHODS: intravenously on the aforementioned schedule). Patients, aged 18 years or older, with one to three lines of previous anticancer therapy and platinum-resistant disease (progression <6 months from their last dose of platinum) were eligible. The trial was conducted at 117 hospitals and community oncology centres in 14 countries across Australia, E...",
-      "date": "2026-04-01",
-      "year": 2026,
-      "journal": "The Lancet",
-      "source": "The Lancet",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/s0140-6736(26)00462-9",
-      "doi": "10.1016/s0140-6736(26)00462-9",
-      "pdfUrl": "https://doi.org/10.1016/s0140-6736(26)00462-9",
-      "keywords": [
-        "Medicine",
-        "Internal medicine",
-        "Overall survival",
-        "Oncology",
-        "Randomized controlled trial",
-        "Ovarian cancer diagnosis and treatment",
-        "PARP inhibition in cancer therapy",
-        "Intraperitoneal and Appendiceal Malignancies"
-      ],
-      "readTime": "2 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:46.865568+00:00"
-    },
-    {
-      "id": "openalex-65ac17e8114e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Targeting angiogenesis: Lessons from 25 years of normalizing tumor vasculature",
-      "authors": "Sonu Subudhi, Somin Lee, Rakesh K. Jain",
-      "abstract": "Tumors acquire blood vessels primarily via sprouting angiogenesis and co-option of pre-existing host vasculature, but also via intussusception, vasculogenesis from bone-marrow-derived progenitors, vascular mimicry, and endothelial transdifferentiation. The abnormal structure and function of these vessels, resulting from an imbalance between pro- and anti-angiogenic signaling as well as from the physical forces, impair the delivery and efficacy of therapeutics. We review the evolving narrative of targeting angiogenesis from starving tumors to vascular normalization as a therapeutic principle and highlight recent spatial-omics revelations and the emerging role of neural, microbial, hormonal, and chronological factors. We elaborate on the molecular mechanisms of tumor vessel formation, how dysfunctional vessels cause an abnormal tumor microenvironment characterized by hypoxia, low pH, el...",
-      "date": "2026-04-01",
-      "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.03.016",
-      "doi": "10.1016/j.cell.2026.03.016",
-      "pdfUrl": "https://www.cell.com/cell/pdf/S0092-8674(26)00283-7.pdf",
-      "keywords": [
-        "Biology",
-        "Cancer research",
-        "Computational biology",
-        "Disease",
-        "Bioinformatics",
-        "Angiogenesis and VEGF in Cancer",
-        "Biological Stains and Phytochemicals",
-        "Fibroblast Growth Factor Research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:46.867599+00:00"
-    },
-    {
-      "id": "openalex-fd4b6aa3ca96",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Explainable AI in healthcare: a systematic review of XAI use cases in imaging, diagnostics, and rehabilitation",
-      "authors": "Apoorva Aravindkumar, Marimuthu Ramadoss, Saqhibuddeen Ahmed Fakhruddin Ahmed, Vidhya Sampath, Kishor Lakshminarayanan",
-      "abstract": "Background: Explainable artificial intelligence (XAI) is used in healthcare to make machine-learning outputs more transparent and clinically usable. This is important because many machine learning models work like a \"black box\" which can hide bias, reduce trust in the model. XAI addresses this problem by showing which features or image regions influenced a result, either for one patient or across a dataset. Objectives: Our objective is to provide a clear, systematic review of how XAI is being used in healthcare. We summarize the main XAI methods, the data and models they are paired with, and how these explanations support clinical understanding across imaging, diagnosis, and rehabilitation. Methods: = 10) that are identified via PubMed/MEDLINE, IEEE Xplore, and Google Scholar, following PRISMA 2020 guidelines. We included research studies that employed XAI in the three mentioned verti...",
-      "date": "2026-04-01",
-      "year": 2026,
-      "journal": "Frontiers in Artificial Intelligence",
-      "source": "Frontiers in Artificial Intelligence",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/frai.2026.1749527",
-      "doi": "10.3389/frai.2026.1749527",
-      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1749527/pdf",
-      "keywords": [
-        "Rehabilitation",
-        "Systematic review",
-        "Medicine",
-        "Computer science",
-        "MEDLINE",
-        "Explainable Artificial Intelligence (XAI)",
-        "Artificial Intelligence in Healthcare and Education",
-        "Radiomics and Machine Learning in Medical Imaging"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:46.868023+00:00"
+      "_retrievedAt": "2026-07-24T03:39:54.127575+00:00"
     },
     {
       "id": "openalex-ac109ca21f18",
@@ -3268,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.831158+00:00"
+      "_retrievedAt": "2026-07-24T03:39:54.126993+00:00"
     },
     {
       "id": "openalex-7ecbe579840c",
@@ -3300,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:47.879493+00:00"
+      "_retrievedAt": "2026-07-24T03:39:57.833345+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -3332,39 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.022651+00:00"
-    },
-    {
-      "id": "openalex-d33fed344664",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "T cell adaptation in chronic infections and tumors",
-      "authors": "Hendrik Luxenburger, R Thimme, Maike Hofmann",
-      "abstract": "Abstract Chronic viral infections and cancer challenge immune control by enforcing sustained antigen exposure, which profoundly alters the fate and function of CD8 + T cells. In contrast to acute infections, which induce robust effector differentiation and durable immune memory, persistent infections and tumors drive CD8 + T cells into distinct states of functional adaptation. The best studied chronic adaptation is T cell exhaustion, which is characterized by impaired effector functions, reduced proliferative capacity, sustained expression of inhibitory receptors, and stable transcriptional and epigenetic reprogramming. T cell exhaustion is not a uniform or terminal condition but comprises heterogeneous and dynamic cellular states, including stem-like/precursor populations that retain self-renewal capacity and therapeutic responsiveness. These insights have reshaped our understanding...",
-      "date": "2026-03-30",
-      "year": 2026,
-      "journal": "Cellular and Molecular Immunology",
-      "source": "Cellular and Molecular Immunology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41423-026-01405-y",
-      "doi": "10.1038/s41423-026-01405-y",
-      "pdfUrl": "https://www.nature.com/articles/s41423-026-01405-y.pdf",
-      "keywords": [
-        "Immune system",
-        "Reprogramming",
-        "Biology",
-        "Effector",
-        "Immunology",
-        "Cancer Immunotherapy and Biomarkers",
-        "CAR-T cell therapy research",
-        "T-cell and B-cell Immunology"
-      ],
-      "readTime": "1 min",
-      "citedBy": 8,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:46.864766+00:00"
+      "_retrievedAt": "2026-07-24T03:39:52.214690+00:00"
     },
     {
       "id": "openalex-be8055a102c2",
@@ -3396,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:47.877977+00:00"
+      "_retrievedAt": "2026-07-24T03:39:57.831954+00:00"
     },
     {
       "id": "openalex-7364687e917a",
@@ -3428,199 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.020926+00:00"
-    },
-    {
-      "id": "openalex-49f4f6d8ba54",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Towards end-to-end automation of AI research",
-      "authors": "Chris Lu, Cong Lu, R. T. Lange, Yutaro Yamada, Shengran Hu, Jakob Foerster",
-      "abstract": "Abstract The automation of science is a long-standing ambition in artificial intelligence (AI) research 1,2 . Although the community has made substantial progress in automating individual components of the scientific process, a system that autonomously navigates the entire research life cycle—from conception to publication—has remained out of reach. Here we present a pipeline for automating the entire scientific process end to end. We present The AI Scientist, which creates research ideas, writes code, runs experiments, plots and analyses data, writes the entire scientific manuscript, and performs its own peer review. Its ideas, execution and presentation are of sufficient quality that the manuscript generated by this AI system passed the first round of peer review for a workshop of a top-tier machine learning conference. The workshop had an acceptance rate of 70%. Our system leverage...",
-      "date": "2026-03-25",
-      "year": 2026,
-      "journal": "Nature",
-      "source": "Nature",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41586-026-10265-5",
-      "doi": "10.1038/s41586-026-10265-5",
-      "pdfUrl": "https://www.nature.com/articles/s41586-026-10265-5.pdf",
-      "keywords": [
-        "Computer science",
-        "Process (computing)",
-        "Automation",
-        "Presentation (obstetrics)",
-        "Pipeline (software)",
-        "Scientific Computing and Data Management",
-        "Machine Learning in Materials Science",
-        "Cell Image Analysis Techniques"
-      ],
-      "readTime": "1 min",
-      "citedBy": 49,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.021702+00:00"
-    },
-    {
-      "id": "openalex-b474cf7a55f6",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Histone deacetylases and cell-cycle regulators orchestrate cell-identity transitions during Arabidopsis root regeneration",
-      "authors": "Ramin Rahni, Laura R. Lee, Graeme Vissers, Indie Suresh, Brandon M.l. Gorodokin, Pui-Leng Ip",
-      "abstract": "The widespread regenerative capacity of plants is mediated by the ability of specialized cells to reprogram their fate, but the sequential cellular states of regenerating plant cells remain an open question. Here, we characterize the trajectory of cellular reprogramming during Arabidopsis root regeneration using single-cell RNA sequencing, ATAC sequencing, imaging, and mutant analysis. The earliest events during regeneration are dependent on repressive chromatin modification, where Multiome and genetic analysis showed that class I histone deacetylases (HDACs) HDA9 and HDA19 play a role in shutting down old identities and to prevent a runaway stress response. Cell division mediates a second step needed for the acquisition of many new identity markers, where division rates were tuned by the DOF transcription factor OBP1 that accelerates and SMR5, SMR7, and SMR10 that decelerate division...",
-      "date": "2026-03-25",
-      "year": 2026,
-      "journal": "Molecular Plant",
-      "source": "Molecular Plant",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.molp.2026.03.013",
-      "doi": "10.1016/j.molp.2026.03.013",
-      "pdfUrl": "https://doi.org/10.1016/j.molp.2026.03.013",
-      "keywords": [
-        "Biology",
-        "Histone",
-        "Arabidopsis",
-        "Cell biology",
-        "Regeneration (biology)",
-        "Plant Molecular Biology Research",
-        "Plant Gene Expression Analysis",
-        "Histone Deacetylase Inhibitors Research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.829257+00:00"
-    },
-    {
-      "id": "openalex-6ae4c848022b",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Conserved Pathways, Divergent Outcomes: A Cross-Species Genomic Perspective on the Cancer–Neurodegeneration Paradox",
-      "authors": "Bhargavi Rajarathinam, Durga Nandan, Parvathy Venugopal, Amritha M Nair, Subin P. John, Bipin G. Nair",
-      "abstract": "Neurodegeneration and cancer are fundamentally distinct disorders: one signifies gradual neuronal loss while the latter signifies uncontrolled cell growth and survival. However, emerging evidence explores an inverse association between these conditions, suggesting that they do not arise from independent biological processes. Understanding the context-dependent behaviour of major pathways (for example, p53, PI3K/AKT/mTOR, Wnt, and immune-stress signaling) remains pivotal in elucidating the relationship between these two diseases. Pathways promoting early-life fitness, tissue repair, and tumor suppression in dividing cells can become detrimental later in life for post-mitotic neurons. Cross-species genomics studies reveal how evolution has repeatedly adapted these shared networks to balance cancer resistance with survival. Research on species exhibiting exceptional longevity and disease...",
-      "date": "2026-03-25",
-      "year": 2026,
-      "journal": "International Journal of Molecular Sciences",
-      "source": "International Journal of Molecular Sciences",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/ijms27072989",
-      "doi": "10.3390/ijms27072989",
-      "pdfUrl": "https://www.mdpi.com/1422-0067/27/7/2989/pdf?version=1774446857",
-      "keywords": [
-        "Biology",
-        "Longevity",
-        "Genomics",
-        "Disease",
-        "Comparative genomics",
-        "Cancer, Stress, Anesthesia, and Immune Response",
-        "Cancer-related Molecular Pathways",
-        "Neurogenesis and neuroplasticity mechanisms"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:45.832111+00:00"
-    },
-    {
-      "id": "openalex-a6b5129285ce",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Multidimensional tumor heterogeneity and its role in therapeutic resistance",
-      "authors": "Nida Mubin, Mohammed Alnukhali, Nayab Ahmad, James Joseph Driscoll, Anis Ahmad",
-      "abstract": "Tumor heterogeneity is a fundamental driver of therapeutic resistance across solid malignancies, arising from genetic, epigenetic, phenotypic, spatial, temporal, and microenvironmental diversity. In tumors developing at mucosal barrier sites, these heterogeneous features are further shaped by the unique immunological context of mucosal tissues, where immune tolerance, chronic inflammation, and continuous antigen exposure create permissive environments for immune escape and adaptive resistance. Accumulating evidence indicates that myeloid cell plasticity, including functional diversification of granulocytes, macrophages, monocytes, and dendritic cells, represents a critical interface between tumor-intrinsic heterogeneity and mucosal immune regulation. These myeloid populations contribute to spatially organized immunosuppressive niches, altered antigen processing and presentation, and t...",
-      "date": "2026-03-25",
-      "year": 2026,
-      "journal": "Frontiers in Immunology",
-      "source": "Frontiers in Immunology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fimmu.2026.1794130",
-      "doi": "10.3389/fimmu.2026.1794130",
-      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1794130/pdf",
-      "keywords": [
-        "Immune system",
-        "Myeloid",
-        "Biology",
-        "Tumor microenvironment",
-        "Immunology",
-        "Single-cell and spatial transcriptomics",
-        "Immune cells in cancer",
-        "Cancer Immunotherapy and Biomarkers"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:46.865929+00:00"
-    },
-    {
-      "id": "openalex-0ec471a5f228",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Pembrolizumab and olaparib in homologous-recombination-deficient metastatic pancreatic cancer: the phase 2 POLAR trial",
-      "authors": "Wungki Park, Catherine O’Connor, Joanne F. Chou, Marc Hilmi, Zeynep Tarcan, Carly Schwartz",
-      "abstract": "Homologous recombination deficiency (HRD) arising from BRCA1or BRCA2 or PALB2 mutations confers sensitivity to platinum chemotherapy and PARP inhibition in pancreatic cancer (PC) and may enable prolonged disease control with immune checkpoint blockade (ICB). The phase 2 POLAR trial evaluated maintenance pembrolizumab plus olaparib following platinum-based chemotherapy in biomarker-stratified metastatic PC. Sixty-three participants were enrolled into three cohorts: cohort A (BRCA1/BRCA2-mutated or PALB2-mutated HRD, n = 33), cohort B (non-core HRD, n = 15) and cohort C (platinum sensitive, HRD-wild type, n = 15). Cohort A used a two-stage design with co-primary endpoints of at least 43% Response Evaluation Criteria in Solid Tumors (RECIST) objective response rate (ORR) and at least 77% 6-month progression-free survival (PFS) rate. Among RECIST-evaluable participants in cohort A (n = 20...",
-      "date": "2026-03-25",
-      "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04299-5",
-      "doi": "10.1038/s41591-026-04299-5",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04299-5.pdf",
-      "keywords": [
-        "Olaparib",
-        "Medicine",
-        "Cohort",
-        "Pembrolizumab",
-        "Oncology",
-        "PARP inhibition in cancer therapy",
-        "Cancer Immunotherapy and Biomarkers",
-        "Pancreatic and Hepatic Oncology Research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:46.866642+00:00"
-    },
-    {
-      "id": "openalex-5277f245a1ac",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Crop and irrigation types ground-truth dataset for Moroccan agricultural regions",
-      "authors": "Youness Ouassanouan, Jamal Elfarkh, said grich, Abderrahman Liblab, Abdelghani Chehbouni",
-      "abstract": "Accurate information on crop types and irrigation systems is a fundamental input for improving our understanding of land-atmosphere interactions and monitoring agricultural dynamics in semi-arid environments. This paper presents a comprehensive, open-access ground-truth dataset of 10000 geolocated agricultural parcels collected across the five major agricultural regions of Morocco, El Gharb, Tadla, Doukkala, El Haouz, and Souss, between December 2023 and January 2025. The dataset encompasses 45 distinct crop types, including main seasonal crops such as wheat, corn, and alfalfa, as well as perennial crops including olives, citrus, and argan. In addition, six different irrigation systems were observed, from the traditional flood irrigation to advanced pivot systems, reflecting the diversity of Moroccan agro-ecosystems. Field data were collected using the GIS-based mobile application QFi...",
-      "date": "2026-03-25",
-      "year": 2026,
-      "journal": "Scientific Data",
-      "source": "Scientific Data",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41597-026-06993-y",
-      "doi": "10.1038/s41597-026-06993-y",
-      "pdfUrl": "https://www.nature.com/articles/s41597-026-06993-y_reference.pdf",
-      "keywords": [
-        "Irrigation",
-        "Agriculture",
-        "Cropping",
-        "Environmental science",
-        "Crop",
-        "Remote Sensing in Agriculture",
-        "Soil and Land Suitability Analysis",
-        "Remote-Sensing Image Classification"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-23T19:43:47.879843+00:00"
+      "_retrievedAt": "2026-07-24T03:39:52.213484+00:00"
     }
   ]
 };
