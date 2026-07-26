@@ -1,11 +1,203 @@
 {
-  "generatedAt": "2026-07-26T13:53:21.537939+00:00",
-  "total": 113,
+  "generatedAt": "2026-07-26T19:32:06.665884+00:00",
+  "total": 112,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-146862c0528b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Working memory rapidly updates its priorities after distractions, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "When humans tackle many everyday tasks, ranging from driving to completing household chores and work assignments, they rely heavily on working memory. This is the brain's ability to temporarily store and manipulate important information that can help complete a task in the immediate future.",
+      "date": "2026-07-26",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-memory-rapidly-priorities-distractions.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "working",
+        "memory",
+        "rapidly",
+        "updates",
+        "priorities",
+        "after",
+        "distractions",
+        "finds"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-26T19:32:06.278134+00:00"
+    },
+    {
+      "id": "rss-5ac6f916e26b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Testosterone and combat readiness: What does the evidence really show?",
+      "authors": "Medical Xpress",
+      "abstract": "Pete Hegseth, the U.S. defense secretary, recently announced plans to measure testosterone levels in U.S. soldiers with a promise of \"ensuring you have the right testosterone levels to operate at your absolute best.\" Soldiers found to have low testosterone would be offered treatment, although accepting it would remain voluntary.",
+      "date": "2026-07-26",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-testosterone-combat-readiness-evidence.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "testosterone",
+        "levels",
+        "soldiers",
+        "have",
+        "would",
+        "combat",
+        "readiness",
+        "what"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-26T19:32:06.278428+00:00"
+    },
+    {
+      "id": "rss-81f2d4144579",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "AI analyzes surgical technique to improve prostate cancer care",
+      "authors": "Medical Xpress",
+      "abstract": "The movements of a surgeon in a procedure—called \"surgical gestures\"—can be used to predict patient recovery, according to Cedars-Sinai investigators. Their findings, published in npj Digital Medicine, suggest this technology could help surgeons refine their techniques and improve patient outcomes.",
+      "date": "2026-07-26",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-ai-surgical-technique-prostate-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "surgical",
+        "improve",
+        "patient",
+        "their",
+        "analyzes",
+        "technique",
+        "prostate",
+        "cancer"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-26T19:32:06.278736+00:00"
+    },
+    {
+      "id": "rss-0d3b10180f94",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Premature babies who do not catch up well on growth may suffer brain abnormalities",
+      "authors": "Medical Xpress",
+      "abstract": "Nutrition and growth during the first years of life are critical to the development of children born prematurely. A new study from the University of Granada analyzes the long-term consequences of extrauterine growth restriction (EUGR), which affects 37% of premature infants. The researchers identified possible persistent structural brain abnormalities.",
+      "date": "2026-07-26",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-premature-babies-growth-brain-abnormalities.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "growth",
+        "premature",
+        "brain",
+        "abnormalities",
+        "babies",
+        "catch",
+        "well",
+        "suffer"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-26T19:32:06.279003+00:00"
+    },
+    {
+      "id": "rss-8d1e31fb02d2",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Leadership helps reduce stress in operating rooms",
+      "authors": "Medical Xpress",
+      "abstract": "The success of an operation depends on more than expertise and technical skills. A study by Leiden researchers shows that surgeons' leadership skills under pressure play a crucial role. \"The ability to perform under pressure starts long before the operation does.\"",
+      "date": "2026-07-26",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-leadership-stress-rooms.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "leadership",
+        "operation",
+        "skills",
+        "under",
+        "pressure",
+        "helps",
+        "reduce",
+        "stress"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-26T19:32:06.279248+00:00"
+    },
+    {
+      "id": "rss-23f9bf3bd77a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Early respiratory infections may explain half of younger siblings' earnings gap",
+      "authors": "Medical Xpress",
+      "abstract": "Younger siblings are often portrayed as reckless, scatterbrained and less put-together than their older siblings. Social science researchers have underpinned these portrayals with data, showing that younger siblings obtain, on average, slightly less education and earn slightly less in adulthood.",
+      "date": "2026-07-26",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-early-respiratory-infections-younger-siblings.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "siblings",
+        "younger",
+        "less",
+        "slightly",
+        "early",
+        "respiratory",
+        "infections",
+        "explain"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-26T19:32:06.279496+00:00"
+    },
     {
       "id": "rss-26032694f069",
       "discipline": "clinical",
@@ -36,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.170144+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.279761+00:00"
     },
     {
       "id": "rss-5ea93a2135c3",
@@ -68,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.170443+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.280029+00:00"
     },
     {
       "id": "rss-98add6a573c2",
@@ -100,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.170684+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.280254+00:00"
     },
     {
       "id": "rss-182b85cc2f36",
@@ -132,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.170977+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.280516+00:00"
     },
     {
       "id": "rss-14e74d4cbc74",
@@ -164,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.171219+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.280792+00:00"
     },
     {
       "id": "rss-686f5122e7cf",
@@ -196,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.171467+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.281048+00:00"
     },
     {
       "id": "rss-0eade0454c92",
@@ -228,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.171708+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.281292+00:00"
     },
     {
       "id": "rss-67a0e721c192",
@@ -260,199 +452,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.172031+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.281571+00:00"
     },
     {
-      "id": "rss-1a29b42feb60",
-      "discipline": "clinical",
+      "id": "rss-f8ab48f9fab5",
+      "discipline": "cs",
       "type": "news",
-      "title": "US panel endorses more unproven if buzzy peptides",
-      "authors": "Medical Xpress",
-      "abstract": "A U.S. review panel on Friday recommended loosening restrictions on all but one of a buzzy class of peptides, dismissing protests from medical experts who say none are well studied enough to justify wide access.",
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "authors": "TechCrunch AI",
+      "abstract": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
       "date": "2026-07-26",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-panel-endorses-unproven-buzzy-peptides.html",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "panel",
-        "buzzy",
-        "peptides",
-        "endorses",
-        "more",
-        "unproven",
-        "review",
-        "friday"
+        "unprecedented",
+        "hugging",
+        "face",
+        "calls",
+        "radical",
+        "transparency",
+        "after",
+        "openai"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.172258+00:00"
-    },
-    {
-      "id": "rss-2712d5cf7f7d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "The next skincare revolution could start with your immune system",
-      "authors": "Medical Xpress",
-      "abstract": "Moisturizers, sunscreens and anti-aging creams are usually sold on familiar promises: to keep water in the skin, strengthen its protective barrier, protect against sun damage or reduce visible signs of aging. These functions remain central to healthy skin.",
-      "date": "2026-07-26",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-skincare-revolution-immune.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "skin",
-        "next",
-        "skincare",
-        "revolution",
-        "could",
-        "start",
-        "your",
-        "immune"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.172488+00:00"
-    },
-    {
-      "id": "rss-0e62d81503a2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "US court rules abortion pill restrictions 'unlawful'",
-      "authors": "Medical Xpress",
-      "abstract": "A federal court in Virginia has ruled that restrictions imposed by the U.S. drug regulator on the abortion pill mifepristone are \"unlawful\" and ordered the Trump administration to reconsider them.",
-      "date": "2026-07-26",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-court-abortion-pill-restrictions-unlawful.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "court",
-        "abortion",
-        "pill",
-        "restrictions",
-        "unlawful",
-        "rules",
-        "federal",
-        "virginia"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.172704+00:00"
-    },
-    {
-      "id": "rss-321f5d8d9434",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "'Pro version' of cisplatin keeps its cancer-killing power while reducing side effects",
-      "authors": "Medical Xpress",
-      "abstract": "Cisplatin is one of the most successful cancer medicines ever developed. Doctors use it to treat many cancers, including lung, ovarian, breast, testicular and head and neck cancers. However, cisplatin has a serious problem. It does not attack only cancer cells. It can also reach healthy organs and damage them. In particular, cisplatin can harm the kidneys and peripheral nerves. Patients receiving cisplatin often experience pain, tingling, numbness or weakness in their hands and feet. These side effects can become so severe that doctors must reduce the dose or stop treatment completely.",
-      "date": "2026-07-26",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-pro-version-cisplatin-cancer-power.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cisplatin",
-        "side",
-        "effects",
-        "cancer",
-        "doctors",
-        "cancers",
-        "version",
-        "keeps"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.173033+00:00"
-    },
-    {
-      "id": "rss-4d475dab9d1f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Jetting off for a summer vacation? How to eat and drink to minimize jet lag",
-      "authors": "Medical Xpress",
-      "abstract": "Jet lag threatens to turn even a dream vacation into a slog.",
-      "date": "2026-07-26",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-jetting-summer-vacation-minimize-jet.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "vacation",
-        "jetting",
-        "summer",
-        "drink",
-        "minimize",
-        "threatens",
-        "turn",
-        "even"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.173235+00:00"
-    },
-    {
-      "id": "rss-7dd1f3dafeb7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Dealing with post-pandemic sleep issues—it's not too late",
-      "authors": "Medical Xpress",
-      "abstract": "Disrupted sleep and anxiety may be ongoing issues for many people after the pandemic, whether due to COVID-19 directly or to the stress and anxiety caused by the global pandemic, and may contribute to the fatigue commonly reported by people with Post-COVID-19 Syndrome (PCS, or \"long COVID\").",
-      "date": "2026-07-26",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-pandemic-issues-late.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "sleep",
-        "issues",
-        "anxiety",
-        "people",
-        "pandemic",
-        "dealing",
-        "post-pandemic",
-        "late"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.173496+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.297697+00:00"
     },
     {
       "id": "rss-003d1d48e7d5",
@@ -484,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.191293+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.297954+00:00"
     },
     {
       "id": "rss-9bea0fa038aa",
@@ -516,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.191517+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.298132+00:00"
     },
     {
       "id": "rss-4dd4f0c1a46e",
@@ -548,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.191710+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.298313+00:00"
     },
     {
       "id": "rss-d8902d1c04de",
@@ -580,7 +612,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.191921+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.298495+00:00"
+    },
+    {
+      "id": "openalex-1a4374889b53",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Exploring Large Language Model‐Based Intelligent Agents: Definitions, Methods, and Prospects",
+      "authors": "Yuheng Cheng, Ceyao Zhang, Zhengwen Zhang, Xiangrui Meng, Sirui Hong, Wenhao Li",
+      "abstract": "ABSTRACT The concept of the intelligent agent represents a long‐standing pursuit in artificial intelligence. Recent breakthroughs in large language models (LLMs) have catalyzed a paradigm shift, enabling the development of sophisticated agents that exhibit advanced reasoning, planning, and tool‐use capabilities across diverse domains. These LLM‐based agents, which leverage natural language as a universal interface for cognition and interaction, are rapidly advancing from theoretical constructs to practical applications, ranging from autonomous task assistants to complex multi‐agent simulations of social and economic systems. This paper provides an integrative survey of this burgeoning field. We first establish an organizing framework for understanding LLM‐based agents, systematically deconstructing both single‐agent and multi‐agent systems into their core components. We analyze the ar...",
+      "date": "2026-07-24",
+      "year": 2026,
+      "journal": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
+      "source": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1002/widm.70111",
+      "doi": "10.1002/widm.70111",
+      "pdfUrl": "https://arxiv.org/pdf/2401.03428",
+      "keywords": [
+        "Computer science",
+        "Implementation",
+        "Interface (matter)",
+        "Natural language",
+        "Natural language understanding",
+        "Topic Modeling",
+        "Natural Language Processing Techniques",
+        "agents"
+      ],
+      "readTime": "1 min",
+      "citedBy": 37,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-26T19:32:02.265856+00:00"
     },
     {
       "id": "rss-24a67a0d4d98",
@@ -612,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.192088+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.298695+00:00"
     },
     {
       "id": "rss-9f4a16285535",
@@ -644,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.192279+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.298897+00:00"
     },
     {
       "id": "rss-5cce1d6cb5f8",
@@ -676,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.192424+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.299047+00:00"
     },
     {
       "id": "rss-62f760bb89f7",
@@ -708,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.192589+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.299217+00:00"
     },
     {
       "id": "rss-4ca1ff7e7f47",
@@ -740,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.192752+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.299387+00:00"
     },
     {
       "id": "rss-3f09b5a35f77",
@@ -772,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.192919+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.299528+00:00"
     },
     {
       "id": "rss-170722ec4cfb",
@@ -804,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.193165+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.299820+00:00"
     },
     {
       "id": "rss-2109c373a4e6",
@@ -836,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.193325+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.299989+00:00"
     },
     {
       "id": "rss-8e5c37429d88",
@@ -868,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.193502+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.300169+00:00"
     },
     {
       "id": "rss-d746300c673c",
@@ -900,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.225996+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.339677+00:00"
     },
     {
       "id": "rss-e3531be54cc3",
@@ -932,39 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.418385+00:00"
-    },
-    {
-      "id": "rss-0aea649f61bc",
-      "discipline": "cs",
-      "type": "news",
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "authors": "TechCrunch AI",
-      "abstract": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-      "date": "2026-07-23",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "rack-scale",
-        "system",
-        "takes",
-        "nvidia",
-        "helios",
-        "challenging",
-        "chipmaker",
-        "rival"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.193656+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.549704+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -996,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.226187+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.339875+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1028,39 +1060,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.537612+00:00"
-    },
-    {
-      "id": "openalex-6f1beac60f93",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Cultural evolution of music and language",
-      "authors": "Yuto Ozaki, Marianne de Heer Kloots, Andrea Ravignani, Patrick E. Savage",
-      "abstract": "Abstract Music and language are both forms of communication universally observed across human societies, prompting researchers to investigate why and how they evolved. Such research initially focused on the biological evolution of the capacities to create and perceive language and music; later work has been increasingly tackling the cultural evolution angle to study the mechanisms and processes driving the diversity and regularities of music and language. In this chapter, we review key studies of the cultural evolution of music and language. We group the review into observational studies (e.g. phylogenetic analysis), experimental studies (e.g. transmission chains), simulation studies (e.g. agent-based models), and music-language relationships (e.g. song/speech melody/prosody). Furthermore, we highlight key ideas that each discipline can learn from the other, and promising research top...",
-      "date": "2026-07-22",
-      "year": 2026,
-      "journal": "Oxford University Press eBooks",
-      "source": "Oxford University Press eBooks",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1093/oxfordhb/9780192894700.013.0028",
-      "doi": "10.1093/oxfordhb/9780192894700.013.0028",
-      "pdfUrl": "https://psyarxiv.com/s7apx/download",
-      "keywords": [
-        "Parallels",
-        "Cultural transmission in animals",
-        "Sociocultural evolution",
-        "Cognitive science",
-        "Music psychology",
-        "Language and cultural evolution",
-        "Animal Vocal Communication and Behavior",
-        "Music and Audio Processing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 19,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.332257+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.528706+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.226363+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.340052+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -1124,7 +1124,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.328898+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.264196+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.226510+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.340206+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.418618+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.549938+00:00"
     },
     {
       "id": "rss-67e6e4628573",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.418853+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.550149+00:00"
     },
     {
       "id": "rss-2c39e9060823",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.419549+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.550825+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1284,7 +1284,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.226665+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.340367+00:00"
+    },
+    {
+      "id": "openalex-56385e95541c",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Understanding graft-versus-host disease. Preliminary findings regarding the effects of exercise in affected patients",
+      "authors": "Carmen Fiuza‐Luces, Nuria Garatachea, Nathan A. Berger, Nathan A. Berger, Manuel Ramı́rez, Alejandro Lucía",
+      "abstract": "Advances in this century regarding allogeneic hematopoietic stem cell transplantation (allo-HSCT) have led to an expanding population of long-term survivors, many of whom suffer severe side effects, particularly those related to graft-versushost disease (GVHD), a potentially multi-systemic disorder caused by immunoeffector donor lymphocytes that destroy host tissues. The GVHD, especially in its chronic form (cGVHD), generates considerable morbidity and compromises the physical capacity of patients. We have reviewed the main pathophysiological aspects of the disease as well as the data available on the effects of exercise in GVHD, based on animal and human patient research. Although exercise training as an adjunct therapy to improve health outcomes after allo-HSCT shows promise (particularly, this lifestyle intervention can improve physical fitness and possibly immune function while at...",
+      "date": "2026-07-15",
+      "year": 2026,
+      "journal": "PubMed",
+      "source": "PubMed",
+      "sourceApi": "OpenAlex",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25826127",
+      "doi": "10.22029/eir.2015.1698",
+      "pdfUrl": "http://zaguan.unizar.es/record/61323",
+      "keywords": [
+        "Medicine",
+        "Disease",
+        "Hematopoietic stem cell transplantation",
+        "Graft-versus-host disease",
+        "Intensive care medicine",
+        "Hematopoietic Stem Cell Transplantation",
+        "disease",
+        "effects"
+      ],
+      "readTime": "1 min",
+      "citedBy": 23,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-26T19:32:02.761316+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1316,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.226855+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.340531+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -1348,7 +1380,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.975342+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.965222+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -1380,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.227024+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.340710+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -1412,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.227202+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.340892+00:00"
     },
     {
       "id": "rss-ce688c2211e0",
@@ -1444,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.227353+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.341045+00:00"
     },
     {
       "id": "rss-d7bb3cddfe2e",
@@ -1476,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.227530+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.341225+00:00"
     },
     {
       "id": "rss-67f98bea1dc8",
@@ -1508,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.227686+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.341386+00:00"
     },
     {
       "id": "rss-35f3c73960fd",
@@ -1540,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.419891+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.551130+00:00"
     },
     {
       "id": "rss-fd9a37f6681c",
@@ -1572,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.420158+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.551379+00:00"
     },
     {
       "id": "rss-d6d69b0873be",
@@ -1604,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.420448+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.551682+00:00"
     },
     {
       "id": "rss-68e47e682229",
@@ -1636,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.420684+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.551915+00:00"
     },
     {
       "id": "rss-e186ac38d0fa",
@@ -1668,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.420980+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.552161+00:00"
     },
     {
       "id": "rss-bde592569e0e",
@@ -1700,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.421262+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.552430+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -1732,7 +1764,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.538971+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.530074+00:00"
     },
     {
       "id": "rss-e3ae47ff98f8",
@@ -1764,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.227864+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.341544+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -1796,7 +1828,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.973403+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.963245+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -1828,7 +1860,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.537992+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.529067+00:00"
     },
     {
       "id": "rss-904aa85f5191",
@@ -1860,7 +1892,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.228033+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.341734+00:00"
     },
     {
       "id": "rss-319482b50c5b",
@@ -1892,7 +1924,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:21.228196+00:00"
+      "_retrievedAt": "2026-07-26T19:32:06.341905+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -1924,7 +1956,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.784146+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.761926+00:00"
+    },
+    {
+      "id": "openalex-7162a76ca107",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Advancing bioinformatics with language models: components, applications, and perspectives",
+      "authors": "Jiajia Liu, Mengyuan Yang, Yankai Yu, Haixia Xu, Tiangang Wang, Kang Li",
+      "abstract": "Large language models (LLMs) are a class of artificial intelligence models based on deep learning, which have great performance in various tasks, especially in natural language processing (NLP). Large language models typically consist of artificial neural networks with numerous parameters, trained on large amounts of unlabeled input using self-supervised or semi-supervised learning. However, their potential for solving bioinformatics problems may even exceed their proficiency in modeling human language. In this review, we will provide a comprehensive overview of the essential components of large language models (LLMs) in bioinformatics, spanning genomics, transcriptomics, proteomics, drug discovery, and single-cell analysis. Key aspects covered include tokenization methods for diverse data types, the architecture of transformer models, the core attention mechanism, and the pre-trainin...",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Briefings in Bioinformatics",
+      "source": "Briefings in Bioinformatics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1093/bib/bbag367",
+      "doi": "10.1093/bib/bbag367",
+      "pdfUrl": "https://doi.org/10.1093/bib/bbag367",
+      "keywords": [
+        "Computer science",
+        "Artificial intelligence",
+        "Language model",
+        "Natural language processing",
+        "Natural language",
+        "RNA modifications and cancer",
+        "Machine Learning in Bioinformatics",
+        "Topic Modeling"
+      ],
+      "readTime": "1 min",
+      "citedBy": 27,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-26T19:32:02.267256+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1956,7 +2020,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.330552+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.266205+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -1988,7 +2052,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.331314+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.266958+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2020,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.783729+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.761528+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2052,7 +2116,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.329908+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.265200+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2084,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.786584+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.764842+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2116,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.976131+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.966036+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2148,7 +2212,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.977709+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.967610+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2180,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.974561+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.964425+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2212,7 +2276,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.328009+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.263343+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2244,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.972499+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.962057+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2276,39 +2340,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.331920+00:00"
-    },
-    {
-      "id": "openalex-8bf44fba3376",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Exploring Code Analysis: Zero-Shot Insights on Syntax and Semantics with LLMs",
-      "authors": "Wei Ma, Shangqing Liu, Shangqing Liu, Qiang Hu, Ye Liu, Wenhan Wang",
-      "abstract": "Code analysis is a fundamental problem in Software Engineering (SE), playing a crucial role in tasks such as debugging, performance optimization, and security assessment. Human developers typically approach code analysis through syntax parsing, static semantics inference, and dynamic reasoning. Traditional code analysis tools, while effective, are often limited by language specificity, complex configurations, and lack of cross-language generalization. Recently, large language models (LLMs) have emerged as promising tools for automating various code-related tasks. However, their capabilities for fundamental code analysis remain underexplored. Understanding these capabilities is crucial for assessing and enhancing LLM-based programming tools. We structure our study around three aspects of code analysis aligned with human practices: syntax parsing, static semantics inference, and dynamic...",
-      "date": "2026-05-26",
-      "year": 2026,
-      "journal": "ACM Transactions on Software Engineering and Methodology",
-      "source": "ACM Transactions on Software Engineering and Methodology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3818607",
-      "doi": "10.1145/3818607",
-      "pdfUrl": "https://arxiv.org/pdf/2305.12138",
-      "keywords": [
-        "Computer science",
-        "Programming language",
-        "Syntax",
-        "Abstract syntax tree",
-        "Artificial intelligence",
-        "Software Engineering Research",
-        "Artificial Intelligence in Healthcare and Education",
-        "Ferroelectric and Negative Capacitance Devices"
-      ],
-      "readTime": "2 min",
-      "citedBy": 18,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.332745+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.267845+00:00"
     },
     {
       "id": "openalex-7a2e0cea295d",
@@ -2340,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.978082+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.967968+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2372,7 +2404,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.329269+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.264559+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2404,7 +2436,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.327632+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.263015+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2436,7 +2468,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.329492+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.264811+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2468,7 +2500,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.327224+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.262600+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2500,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.786949+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.765187+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2532,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.786255+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.764057+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2564,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.972085+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.961231+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2596,7 +2628,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.328467+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.263809+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -2628,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.977342+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.967243+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -2660,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.539273+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.530374+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -2692,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.539910+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.531013+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2724,7 +2756,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.331573+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.267513+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -2756,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.975727+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.965609+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -2788,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.538311+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.529389+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -2820,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.974163+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.964025+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2852,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.538610+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.529728+00:00"
     },
     {
       "id": "openalex-7a392a0ca13d",
@@ -2884,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.541337+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.532450+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -2916,7 +2948,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.330889+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.266516+00:00"
     },
     {
       "id": "openalex-7ccfc202ecea",
@@ -2948,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.536998+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.528067+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -2980,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.540242+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.531341+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -3012,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.973014+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.962840+00:00"
     },
     {
       "id": "openalex-e90314f807eb",
@@ -3044,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.540987+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.532098+00:00"
     },
     {
       "id": "openalex-557912e64e56",
@@ -3076,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.537322+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.528389+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -3108,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.976963+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.966870+00:00"
     },
     {
       "id": "openalex-8d5e6bfc7e0b",
@@ -3140,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.539613+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.530733+00:00"
     },
     {
       "id": "openalex-16c0651ed52d",
@@ -3172,39 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.787977+00:00"
-    },
-    {
-      "id": "openalex-fc702833bf18",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Suppression of Tumor Aggression Through Metabolic Reprogramming via Oxamate Targeting LDHA",
-      "authors": "Yurii V. Stepanov, Galyna Solyanik, Yulia Yakshibaeva, Denis Kolesnik, Liudmyla Stepanova, Iuliia Golovynska",
-      "abstract": "Lactate dehydrogenase (LDH) is a key glycolytic enzyme that catalyzes the interconversion of pyruvate and lactate, with LDHA gaining particular attention for its overexpression in various malignancies and pivotal role in the Warburg effect-driven metabolic reprogramming. Elevated LDHA activity supports rapid ATP production under hypoxic conditions, maintains NAD+ regeneration, and promotes lactate accumulation, creating an acidic tumor microenvironment (TME) that favors invasion and immune evasion. Accumulating evidence demonstrates that LDHA is essential for primary tumor growth and critically involved in circulating tumor cell (CTC) survival, anoikis resistance, and metastatic spread. These functions are mediated by its regulation of adhesion molecules, cytoskeletal remodeling, and energy adaptation that enable CTCs to withstand mechanical shear stress and immune surveillance in the...",
-      "date": "2026-04-02",
-      "year": 2026,
-      "journal": "International Journal of Molecular Sciences",
-      "source": "International Journal of Molecular Sciences",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/ijms27073245",
-      "doi": "10.3390/ijms27073245",
-      "pdfUrl": "https://www.mdpi.com/1422-0067/27/7/3245/pdf?version=1775139623",
-      "keywords": [
-        "Lactate dehydrogenase A",
-        "Warburg effect",
-        "Glycolysis",
-        "Biology",
-        "Cancer research",
-        "Cancer, Hypoxia, and Metabolism",
-        "Cancer Research and Treatments",
-        "Cancer Cells and Metastasis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.788669+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.765812+00:00"
     },
     {
       "id": "openalex-718a89dc1f3c",
@@ -3236,7 +3236,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.536679+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.527780+00:00"
     },
     {
       "id": "openalex-08cf7139c39d",
@@ -3268,39 +3268,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.784448+00:00"
-    },
-    {
-      "id": "openalex-43e02d456db7",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Mapping intratumor heterogeneity across layers for advancing immunotherapy",
-      "authors": "Jean-Christophe Marine, Osnat Bartok, Shira Sagie, Pietro Paolo Vitiello, Alberto Bardelli, Chen Weller",
-      "abstract": "Intratumor heterogeneity (ITH) encompasses genetic, epigenetic, transcriptional, proteomic, and immunopeptidomic diversity. Beyond genetic heterogeneity, it is increasingly clear that non-mutational heterogeneity and plasticity generate dynamic cancer cell states with distinct immune visibility. These layers of complexity converge on the immunopeptidome, the repertoire of peptides displayed by major histocompatibility complex molecules through which tumor cells are surveyed by T cells. Variation in antigen processing, presentation, and peptide abundance across cancer clones and cell states yields spatially and temporally distinct immunological niches that shape immune recognition and therapeutic response. Here, we summarize how multidimensional ITH manifests across cancer types and constrains immunotherapy efficacy. We propose that integrating measurements across layers is a promising...",
-      "date": "2026-04-01",
-      "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.03.025",
-      "doi": "10.1016/j.cell.2026.03.025",
-      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.03.025",
-      "keywords": [
-        "Biology",
-        "Immunotherapy",
-        "Computational biology",
-        "Cancer immunotherapy",
-        "Cancer research",
-        "Cancer Immunotherapy and Biomarkers",
-        "Single-cell and spatial transcriptomics",
-        "Advanced Biosensing Techniques and Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.541607+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.762233+00:00"
     },
     {
       "id": "openalex-1bdbe1c46708",
@@ -3332,7 +3300,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.785948+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.763744+00:00"
+    },
+    {
+      "id": "openalex-fd4b6aa3ca96",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Explainable AI in healthcare: a systematic review of XAI use cases in imaging, diagnostics, and rehabilitation",
+      "authors": "Apoorva Aravindkumar, Marimuthu Ramadoss, Saqhibuddeen Ahmed Fakhruddin Ahmed, Vidhya Sampath, Kishor Lakshminarayanan",
+      "abstract": "Background: Explainable artificial intelligence (XAI) is used in healthcare to make machine-learning outputs more transparent and clinically usable. This is important because many machine learning models work like a \"black box\" which can hide bias, reduce trust in the model. XAI addresses this problem by showing which features or image regions influenced a result, either for one patient or across a dataset. Objectives: Our objective is to provide a clear, systematic review of how XAI is being used in healthcare. We summarize the main XAI methods, the data and models they are paired with, and how these explanations support clinical understanding across imaging, diagnosis, and rehabilitation. Methods: = 10) that are identified via PubMed/MEDLINE, IEEE Xplore, and Google Scholar, following PRISMA 2020 guidelines. We included research studies that employed XAI in the three mentioned verti...",
+      "date": "2026-04-01",
+      "year": 2026,
+      "journal": "Frontiers in Artificial Intelligence",
+      "source": "Frontiers in Artificial Intelligence",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/frai.2026.1749527",
+      "doi": "10.3389/frai.2026.1749527",
+      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1749527/pdf",
+      "keywords": [
+        "Rehabilitation",
+        "Systematic review",
+        "Medicine",
+        "Computer science",
+        "MEDLINE",
+        "Explainable Artificial Intelligence (XAI)",
+        "Artificial Intelligence in Healthcare and Education",
+        "Radiomics and Machine Learning in Medical Imaging"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-26T19:32:02.764491+00:00"
     },
     {
       "id": "openalex-65ac17e8114e",
@@ -3364,39 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.787228+00:00"
-    },
-    {
-      "id": "openalex-fd4b6aa3ca96",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Explainable AI in healthcare: a systematic review of XAI use cases in imaging, diagnostics, and rehabilitation",
-      "authors": "Apoorva Aravindkumar, Marimuthu Ramadoss, Saqhibuddeen Ahmed Fakhruddin Ahmed, Vidhya Sampath, Kishor Lakshminarayanan",
-      "abstract": "Background: Explainable artificial intelligence (XAI) is used in healthcare to make machine-learning outputs more transparent and clinically usable. This is important because many machine learning models work like a \"black box\" which can hide bias, reduce trust in the model. XAI addresses this problem by showing which features or image regions influenced a result, either for one patient or across a dataset. Objectives: Our objective is to provide a clear, systematic review of how XAI is being used in healthcare. We summarize the main XAI methods, the data and models they are paired with, and how these explanations support clinical understanding across imaging, diagnosis, and rehabilitation. Methods: = 10) that are identified via PubMed/MEDLINE, IEEE Xplore, and Google Scholar, following PRISMA 2020 guidelines. We included research studies that employed XAI in the three mentioned verti...",
-      "date": "2026-04-01",
-      "year": 2026,
-      "journal": "Frontiers in Artificial Intelligence",
-      "source": "Frontiers in Artificial Intelligence",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/frai.2026.1749527",
-      "doi": "10.3389/frai.2026.1749527",
-      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1749527/pdf",
-      "keywords": [
-        "Rehabilitation",
-        "Systematic review",
-        "Medicine",
-        "Computer science",
-        "MEDLINE",
-        "Explainable Artificial Intelligence (XAI)",
-        "Artificial Intelligence in Healthcare and Education",
-        "Radiomics and Machine Learning in Medical Imaging"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.787654+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.765467+00:00"
     },
     {
       "id": "openalex-9d1081035304",
@@ -3428,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.973792+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.963679+00:00"
     },
     {
       "id": "openalex-ca85588cf4c0",
@@ -3460,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.975050+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.964927+00:00"
     },
     {
       "id": "openalex-ac109ca21f18",
@@ -3492,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.540549+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.531674+00:00"
     },
     {
       "id": "openalex-7ecbe579840c",
@@ -3524,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.976525+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.966439+00:00"
     },
     {
       "id": "openalex-f8ecad124d2a",
@@ -3556,7 +3524,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.330199+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.265483+00:00"
     },
     {
       "id": "openalex-d33fed344664",
@@ -3588,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.785410+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.763200+00:00"
     },
     {
       "id": "openalex-5e99026077e3",
@@ -3620,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-26T13:53:18.788287+00:00"
+      "_retrievedAt": "2026-07-26T19:32:02.766123+00:00"
     }
   ]
 }
