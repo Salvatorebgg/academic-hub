@@ -1,98 +1,226 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-07-30T19:48:46.336925+00:00",
-  "total": 112,
+  "generatedAt": "2026-07-31T03:47:24.892311+00:00",
+  "total": 113,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
     {
-      "id": "rss-c63ecbe78a5b",
+      "id": "rss-6afcfedd92a7",
       "discipline": "clinical",
       "type": "news",
-      "title": "Gut microbe's protective coating links intestinal colonization to lower inflammation",
+      "title": "Eosinophilic esophagitis prevalence may be higher than thought in pediatric patients with asthma",
       "authors": "Medical Xpress",
-      "abstract": "The human gut harbors more than 40 trillion bacteria assembled into complex communities collectively known as the gut microbiota, which is closely linked to human health and disease. Mediterraneibacter gnavus (formerly Ruminococcus gnavus) is a commensal bacterium in the Lachnospiraceae family that is normally found in healthy individuals.",
-      "date": "2026-07-30",
+      "abstract": "Screening for eosinophilic esophagitis (EoE) in a pediatric asthma clinic may identify more patients than previously thought, according to a study published online June 23 in The Journal of Allergy and Clinical Immunology: In Practice.",
+      "date": "2026-07-31",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-gut-microbe-coating-links-intestinal.html",
+      "url": "https://medicalxpress.com/news/2026-07-eosinophilic-esophagitis-prevalence-higher-thought.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "human",
-        "gnavus",
-        "microbe",
-        "protective",
-        "coating",
-        "links",
-        "intestinal",
-        "colonization"
+        "eosinophilic",
+        "esophagitis",
+        "than",
+        "thought",
+        "pediatric",
+        "patients",
+        "asthma",
+        "prevalence"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.730934+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.243151+00:00"
     },
     {
-      "id": "rss-c740c764a5ee",
+      "id": "rss-bc1d7dd459d3",
       "discipline": "clinical",
       "type": "news",
-      "title": "A quantum machine learning framework to predict neoantigen immune response",
+      "title": "Combination therapy improves progression-free survival for patients with metastatic dMMR colorectal cancer",
       "authors": "Medical Xpress",
-      "abstract": "Cleveland Clinic and IBM researchers are using quantum computing to tackle one of the most challenging problems in immuno-oncology: predicting which tumor mutations will trigger an immune response.",
-      "date": "2026-07-30",
+      "abstract": "Patients with deficient DNA mismatch repair (dMMR) or microsatellite instability-high (MSI-H) metastatic colorectal cancer experienced a 58% reduction in the risk of disease progression or death when treated with atezolizumab (Tecentriq) plus modified FOLFOX6 and bevacizumab (Avastin), compared with atezolizumab alone, according to results from the NRG-GI004/SWOG S1610 COMMIT trial published in the Journal of Clinical Oncology. The combination also produced higher response rates and substantially reduced primary disease progression.",
+      "date": "2026-07-31",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-quantum-machine-framework-neoantigen-immune.html",
+      "url": "https://medicalxpress.com/news/2026-07-combination-therapy-free-survival-patients.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "quantum",
-        "immune",
-        "response",
-        "machine",
-        "learning",
-        "framework",
-        "predict",
-        "neoantigen"
+        "combination",
+        "patients",
+        "metastatic",
+        "dmmr",
+        "colorectal",
+        "cancer",
+        "disease",
+        "progression"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.731196+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.243503+00:00"
     },
     {
-      "id": "rss-39430ea40223",
+      "id": "rss-90043565822d",
       "discipline": "clinical",
       "type": "news",
-      "title": "Newly discovered microprotein linked to type 2 diabetes, shows promise as a precision treatment",
+      "title": "Researchers call for urgent overhaul of pain care amid opioid crisis",
       "authors": "Medical Xpress",
-      "abstract": "A previously unknown microprotein hidden within the human mitochondrial genome may help explain certain forms of type 2 diabetes and could point toward a new precision medicine approach to treating it, according to a new USC study.",
-      "date": "2026-07-30",
+      "abstract": "A new position paper from researchers at the University of Aberdeen warns that opioid use disorder in the U.K. is a \"large and probably underestimated\" problem, and that without urgent action, opioid addiction and opioid-related deaths will continue to rise.",
+      "date": "2026-07-31",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-newly-microprotein-linked-diabetes-precision.html",
+      "url": "https://medicalxpress.com/news/2026-07-urgent-overhaul-pain-opioid-crisis.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "microprotein",
-        "type",
-        "diabetes",
-        "precision",
-        "newly",
-        "discovered",
-        "linked",
+        "opioid",
+        "researchers",
+        "urgent",
+        "that",
+        "call",
+        "overhaul",
+        "pain",
+        "care"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:24.243799+00:00"
+    },
+    {
+      "id": "rss-dc309af7f0e6",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Mental distress, fatigue common in childhood survivors of leukemia, lymphoma",
+      "authors": "Medical Xpress",
+      "abstract": "Adult childhood cancer survivors (CCS) of acute lymphoblastic leukemia (ALL), acute myeloid leukemia (AML) and non-Hodgkin lymphoma (NHL) frequently report mental distress, fatigue and executive function (EF) impairment, according to a study published online in Current Oncology.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-mental-distress-fatigue-common-childhood.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "leukemia",
+        "mental",
+        "distress",
+        "fatigue",
+        "childhood",
+        "survivors",
+        "lymphoma",
+        "acute"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:24.244060+00:00"
+    },
+    {
+      "id": "rss-e8db8cd6cde5",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "FDA approves Simtriyo for treating ADHD in children and adults",
+      "authors": "Medical Xpress",
+      "abstract": "The U.S. Food and Drug Administration has approved Simtriyo (centanafadine) for the treatment of attention-deficit/hyperactivity disorder (ADHD) in adults and children 6 years and older weighing ≥20 kg.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-fda-simtriyo-adhd-children-adults.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "simtriyo",
+        "adhd",
+        "children",
+        "adults",
+        "approves",
+        "treating",
+        "food",
+        "drug"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:24.244324+00:00"
+    },
+    {
+      "id": "rss-8ca24c243f83",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Living by the coast linked to worse midlife health in England and Wales",
+      "authors": "Medical Xpress",
+      "abstract": "People living on the coast in midlife are more likely to have worse health, a new study of England and Wales led by UCL researchers finds.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-coast-linked-worse-midlife-health.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "living",
+        "coast",
+        "worse",
+        "midlife",
+        "health",
+        "england",
+        "wales",
+        "linked"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:24.244557+00:00"
+    },
+    {
+      "id": "rss-7e931cc9deef",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Trial shows specialist long COVID care may reduce fatigue",
+      "authors": "Medical Xpress",
+      "abstract": "The largest clinical trial of long COVID care to date has found that specialist NHS long COVID services may help reduce fatigue, one of the condition's most common and disabling symptoms. The findings, published in Nature Medicine and led by researchers and clinicians from UCL and UCLH, come from the STIMULATE-ICP trial.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-trial-specialist-covid-fatigue.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "trial",
+        "long",
+        "covid",
+        "specialist",
+        "care",
+        "reduce",
+        "fatigue",
         "shows"
       ],
       "readTime": "1 min",
@@ -100,359 +228,391 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.731453+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.244973+00:00"
     },
     {
-      "id": "rss-2a141b779e30",
+      "id": "rss-f865b9980acc",
       "discipline": "clinical",
       "type": "news",
-      "title": "Immune navigation system discovery could lead to better treatments for chronic inflammation",
+      "title": "This amino acid may help the body fight tumors and viral infections",
       "authors": "Medical Xpress",
-      "abstract": "A scientific collaboration between the University of Bath (UK) and the UMass Chan Medical School (U.S.) has determined how a specific type of white blood cell—neutrophils—moves through the body.",
-      "date": "2026-07-30",
+      "abstract": "The amino acid arginine helps keep the human body humming, most notably by synthesizing proteins that carry out a range of cellular processes. It's produced by our bodies and found in common high-protein foods. Low levels of arginine are associated with a number of diseases, including colon cancer.",
+      "date": "2026-07-31",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-immune-discovery-treatments-chronic-inflammation.html",
+      "url": "https://medicalxpress.com/news/2026-07-amino-acid-body-tumors-viral.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "immune",
-        "navigation",
-        "system",
-        "discovery",
+        "amino",
+        "acid",
+        "body",
+        "arginine",
+        "this",
+        "help",
+        "fight",
+        "tumors"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:24.245381+00:00"
+    },
+    {
+      "id": "rss-71901cb2464d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Probiotic-derived bioactive metabolite reverses gut dysfunction and boosts HIV treatment response",
+      "authors": "Medical Xpress",
+      "abstract": "Scientists at the UC Davis School of Medicine have identified a naturally occurring metabolite that repairs gut damage caused by HIV infection and significantly improves the effectiveness of antiretroviral therapy (ART) in a nonhuman primate model of HIV/AIDS.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-probiotic-derived-bioactive-metabolite-reverses.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "metabolite",
+        "probiotic-derived",
+        "bioactive",
+        "reverses",
+        "dysfunction",
+        "boosts",
+        "treatment",
+        "response"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:24.245631+00:00"
+    },
+    {
+      "id": "rss-cc68451029c0",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Renal impairment linked to age-related macular degeneration",
+      "authors": "Medical Xpress",
+      "abstract": "Renal impairment and age-related macular degeneration (AMD) are interrelated, with higher odds of AMD among individuals with chronic kidney disease (CKD), according to a review published in the American Journal of Ophthalmology.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-renal-impairment-linked-age-macular.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "renal",
+        "impairment",
+        "age-related",
+        "macular",
+        "degeneration",
+        "linked",
+        "interrelated",
+        "higher"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:24.245914+00:00"
+    },
+    {
+      "id": "rss-c5d71095bb20",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Mice value advance knowledge, even when it reduces water rewards",
+      "authors": "Medical Xpress",
+      "abstract": "We all hunger for information. Sometimes this drive leads us to a tangible reward, such as looking up reviews to find the perfect restaurant. But often we seek knowledge as an end unto itself, as when Galileo pointed his telescope at the night sky or Alice followed the rabbit down its hole. How do our brains lead us on such curiosity-driven quests for information?",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-mice-advance-knowledge-rewards.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "knowledge",
+        "when",
+        "information",
+        "such",
+        "mice",
+        "value",
+        "advance",
+        "even"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:24.246189+00:00"
+    },
+    {
+      "id": "rss-166a84e0a50c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Early surgery for bacterial eye infection offers hope to patients",
+      "authors": "Medical Xpress",
+      "abstract": "Early vitrectomy surgery for acute endophthalmitis, a rare eye condition, may potentially benefit patients' vision more than the current antibiotic-first approach, according to a study led by researchers at University College London (UCL) and Moorfields Eye Hospital.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-early-surgery-bacterial-eye-infection.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "early",
+        "surgery",
+        "patients",
+        "bacterial",
+        "infection",
+        "offers",
+        "hope",
+        "vitrectomy"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:24.246421+00:00"
+    },
+    {
+      "id": "rss-08008b62e725",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Supercharged millet could help children's gut health without usual supplement side effects",
+      "authors": "Medical Xpress",
+      "abstract": "Every day in the urban slums of Mumbai, hundreds of young children were fed toddler-appropriate porridge, soft curry or fresh-baked goods. For some, these were made of ordinary pearl millet, an ancient grain common in the Indian diet. For others, they were made of a specially bred variety packed with nearly three times the iron and more zinc than typical grain. The difference was largely imperceptible on the palate. But deep in the children's guts, something meaningful was beginning to happen.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-supercharged-millet-children-gut-health.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "children",
+        "were",
+        "millet",
+        "made",
+        "grain",
+        "supercharged",
         "could",
-        "lead",
-        "better",
-        "treatments"
+        "help"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.731749+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.246956+00:00"
     },
     {
-      "id": "rss-87e655798032",
+      "id": "rss-13c113d1566b",
       "discipline": "clinical",
       "type": "news",
-      "title": "ICU design guidelines highlight how hospital environments shape patient care and safety",
+      "title": "Exosome treatment may curb heart scarring after heart attacks",
       "authors": "Medical Xpress",
-      "abstract": "International guidelines developed with contributions from a Texas A&M University College of Nursing researcher confirm the importance of thoughtful intensive care unit (ICU) design and encourage the involvement of nurses in the process to improve workflow, safety and staff well-being.",
-      "date": "2026-07-30",
+      "abstract": "Many people who survive a heart attack will later develop heart failure due to the scarring that occurs as the heart heals. Researchers at Uppsala University are now presenting a new type of biological treatment that is administered directly into the damaged blood vessel and stimulates healing. In the study, they also demonstrate how a new PET (Positron Emission Tomography) method can be used to identify patients with ongoing scarring and, ultimately, enable personalized treatment.",
+      "date": "2026-07-31",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-icu-guidelines-highlight-hospital-environments.html",
+      "url": "https://medicalxpress.com/news/2026-07-exosome-treatment-curb-heart-scarring.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "design",
-        "guidelines",
-        "care",
-        "safety",
-        "highlight",
-        "hospital",
-        "environments",
-        "shape"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.732018+00:00"
-    },
-    {
-      "id": "rss-57f5f1ba46e8",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Preeclampsia rates in minority communities shed light on the social roots of maternal health disparities",
-      "authors": "Medical Xpress",
-      "abstract": "In November 2020, Lupe was in the final weeks of her pregnancy when dark spots began distorting her vision. Lupe, a participant in a study on emotional distress and maternal health in El Paso, Texas, recounted her birth experience in a postpartum interview. (All participant names, including Lupe's, are pseudonyms used to protect privacy.)",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-preeclampsia-minority-communities-social-roots.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "lupe",
-        "maternal",
-        "health",
-        "participant",
-        "preeclampsia",
-        "rates",
-        "minority",
-        "communities"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.732287+00:00"
-    },
-    {
-      "id": "rss-5907e97cb831",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Three-week digital training linked to motor gains and brain connectivity changes in Parkinson's patients",
-      "authors": "Medical Xpress",
-      "abstract": "A new study from Reichman University has found that a short, three-week digital training program, combined with standard drug treatment for Parkinson's disease, led to significant improvements in patients' motor function and measurable changes in the brain's motor circuits.",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-week-digital-linked-motor-gains.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "motor",
-        "three-week",
-        "digital",
-        "training",
-        "brain",
-        "changes",
-        "parkinson",
-        "patients"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.732558+00:00"
-    },
-    {
-      "id": "rss-8a957cbe6845",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Molecular lever that regulates neuron signaling may guide treatments for epilepsy, pain and Alzheimer's disease",
-      "authors": "Medical Xpress",
-      "abstract": "Neurons transmit information to the next cell by converting electrical signals into chemical signals. A critical step in this process is the influx of calcium ions into the cell through voltage-gated calcium channels. A research team led by Professor Byung Chang Suh of the Department of Brain Sciences has, for the first time, uncovered a molecular mechanism that regulates the N-type voltage-gated calcium channel (CaV2.2), which plays a critical role in neural signal transmission.",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-molecular-lever-neuron-treatments-epilepsy.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "calcium",
-        "molecular",
+        "heart",
+        "treatment",
+        "scarring",
         "that",
-        "regulates",
-        "cell",
-        "signals",
-        "critical",
-        "voltage-gated"
+        "exosome",
+        "curb",
+        "after",
+        "attacks"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.732856+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.247310+00:00"
     },
     {
-      "id": "rss-ab4c99397832",
-      "discipline": "clinical",
+      "id": "rss-f0b8b0bdbef3",
+      "discipline": "cs",
       "type": "news",
-      "title": "Flawed studies linking hormone therapy to breast cancer made doctors reluctant to prescribe it for menopause relief",
-      "authors": "Medical Xpress",
-      "abstract": "Although menopause is not a new phenomenon by any means, the past few years of what some have called the \"menopause moment\" have brought it to the forefront of the national conversation.",
-      "date": "2026-07-30",
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "authors": "TechCrunch AI",
+      "abstract": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "date": "2026-07-31",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-flawed-linking-hormone-therapy-breast.html",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "menopause",
-        "have",
-        "flawed",
-        "studies",
-        "linking",
-        "hormone",
-        "therapy",
-        "breast"
+        "anthropic",
+        "three",
+        "says",
+        "breached",
+        "companies",
+        "during",
+        "security",
+        "tests"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.733089+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.342352+00:00"
     },
     {
-      "id": "rss-216dc024a1ed",
-      "discipline": "clinical",
+      "id": "rss-17bbc4c12740",
+      "discipline": "cs",
       "type": "news",
-      "title": "Novel AI framework enables efficient collaboration between generalist and specialist models for disease diagnosis",
-      "authors": "Medical Xpress",
-      "abstract": "A research team from The Hong Kong University of Science and Technology (HKUST) has developed a novel AI framework, the Generalist–Specialist Collaboration (GSCo), which enables a generalist foundation model and specialist models to collaborate on disease diagnosis. GSCo outperforms both standalone models in tasks such as medical imaging, visual question answering and radiology report generation, while significantly reducing the cost of adapting medical models to new clinical tasks.",
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "authors": "TechCrunch AI",
+      "abstract": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
       "date": "2026-07-30",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-ai-framework-enables-efficient-collaboration.html",
+      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "generalist",
-        "specialist",
-        "novel",
-        "framework",
-        "enables",
-        "collaboration",
-        "disease",
-        "diagnosis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.733402+00:00"
-    },
-    {
-      "id": "rss-7a7869e409d7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New research identifies barriers transgender individuals face related to breast cancer risk",
-      "authors": "Medical Xpress",
-      "abstract": "Transgender and gender-diverse (TGD) individuals experience significant health care disparities across the oncology spectrum of care. Systemic barriers, past harmful health care experiences, the sociopolitical climate and other impediments to accessing health care combine to influence these disparities. TGD individuals undergoing gender-affirming mastectomy (\"top surgery\") face unique challenges related to breast cancer risk assessment and screening. Currently, a patient can undergo top surgery without understanding how that procedure will affect their lifelong breast and chest cancer risk—and, critically, without knowing whether they carry predispositions that could fundamentally reshape their surgical decisions.",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-barriers-transgender-individuals-breast-cancer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "care",
-        "individuals",
-        "breast",
-        "cancer",
-        "risk",
-        "health",
-        "barriers",
-        "transgender"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.733773+00:00"
-    },
-    {
-      "id": "rss-9be0ba5f1145",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Forgotten memories can leave silent traces in the brain",
-      "authors": "Medical Xpress",
-      "abstract": "Memory is not a perfect record. Some memories fade, while others remain hidden and can be brought back by reminders. But reminders can also distort what is remembered, and scientists still know little about how the brain accurately recovers memories or forms false ones.",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-forgotten-memories-silent-brain.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "memories",
-        "brain",
-        "reminders",
-        "forgotten",
-        "leave",
-        "silent",
-        "traces",
-        "memory"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.734016+00:00"
-    },
-    {
-      "id": "rss-2e1bff1cb946",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Study sheds light on why children of divorce face higher risk of lifetime depression",
-      "authors": "Medical Xpress",
-      "abstract": "A study of more than 128,000 U.S. adults found that those who experienced parental divorce during childhood had 41% higher odds of depression in adulthood than those whose parents remained married. Yet the findings suggest that parental divorce itself may not be the main driver of later depression. When parental mental illness and parental substance use were taken into account, the association between parental divorce and lifetime depression declined substantially and was no longer statistically significant.",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-children-divorce-higher-lifetime-depression.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "parental",
-        "divorce",
-        "depression",
-        "higher",
-        "lifetime",
-        "than",
-        "that",
-        "those"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.734302+00:00"
-    },
-    {
-      "id": "rss-3f12952229d9",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Perilla oil improved platelet function and lowered inflammation in smokers, trial finds",
-      "authors": "Medical Xpress",
-      "abstract": "Cardiovascular disease (CVD) is among the leading causes of death worldwide. In South Korea, it is the second-leading cause of death, and its incidence has continued to rise in recent years. CVD places a substantial burden on public health systems, society and the economy while also reducing quality of life. As a result, identifying effective strategies for prevention and management remains a major public health priority.",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-perilla-oil-platelet-function-lowered.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "death",
         "public",
-        "health",
-        "perilla",
-        "improved",
-        "platelet",
-        "function",
-        "lowered"
+        "fund",
+        "still",
+        "hedge",
+        "situational",
+        "awareness",
+        "have",
+        "sold"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.734591+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.342603+00:00"
+    },
+    {
+      "id": "rss-6d411f84c296",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "authors": "TechCrunch AI",
+      "abstract": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "date": "2026-07-30",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "reddit",
+        "reports",
+        "solid",
+        "quarter",
+        "shows",
+        "signs",
+        "impact",
+        "financial"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:24.342814+00:00"
+    },
+    {
+      "id": "rss-e4bce1b7077b",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "authors": "TechCrunch AI",
+      "abstract": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "date": "2026-07-30",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "investors",
+        "love",
+        "long",
+        "cloud",
+        "host",
+        "amazon",
+        "slowing",
+        "down"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:24.342987+00:00"
+    },
+    {
+      "id": "rss-47516e49d93c",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "authors": "TechCrunch AI",
+      "abstract": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+      "date": "2026-07-30",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "judge",
+        "trump",
+        "evidence",
+        "anthropic",
+        "supply-chain",
+        "risk",
+        "says",
+        "admin"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:24.343177+00:00"
     },
     {
       "id": "rss-ffa6da44b286",
@@ -484,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.848383+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.343342+00:00"
     },
     {
       "id": "rss-a3fdcb09e2ab",
@@ -516,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.848692+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.343554+00:00"
     },
     {
       "id": "rss-3cd9ffc60a28",
@@ -548,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.848892+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.343755+00:00"
     },
     {
       "id": "rss-2496ebbddd1a",
@@ -580,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.849077+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.343937+00:00"
     },
     {
       "id": "rss-33abbb809baf",
@@ -612,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.849259+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.344116+00:00"
     },
     {
       "id": "rss-c215d4007a76",
@@ -644,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.849424+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.344277+00:00"
     },
     {
       "id": "rss-e4c2e896a8a4",
@@ -676,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.849650+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.344453+00:00"
     },
     {
       "id": "rss-7cadce40a363",
@@ -708,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.849842+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.344638+00:00"
     },
     {
       "id": "rss-7e2c15bf3306",
@@ -740,167 +900,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.850068+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.344875+00:00"
     },
     {
-      "id": "rss-8a0ea9f032ff",
+      "id": "rss-f7328a645416",
       "discipline": "cs",
       "type": "news",
-      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-      "authors": "TechCrunch AI",
-      "abstract": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+      "title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
+      "authors": "MIT News AI",
+      "abstract": "Director of CSAIL and MIT professor honored for her contributions to robotics, artificial intelligence, and autonomous systems.",
       "date": "2026-07-30",
       "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
       "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "url": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "ventures",
-        "dili",
-        "raises",
-        "bring",
-        "compliance",
-        "infrastructure",
-        "boom",
-        "series"
+        "daniela",
+        "receives",
+        "bavarian",
+        "minister-president",
+        "high-tech",
+        "prize",
+        "director",
+        "csail"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.850247+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.555061+00:00"
     },
     {
-      "id": "rss-6e99fea2aeb5",
+      "id": "rss-22e3c70241d7",
       "discipline": "cs",
       "type": "news",
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "authors": "TechCrunch AI",
-      "abstract": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "title": "Connecting research to policy on Capitol Hill",
+      "authors": "MIT News AI",
+      "abstract": "MIT students and postdocs discussed science funding and research with policymakers in Washington during the MIT Science Policy Initiative’s annual Congressional Visit Days.",
       "date": "2026-07-30",
       "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
       "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "url": "https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "microsoft",
-        "openly",
-        "competing",
-        "openai",
-        "anthropic",
-        "more",
-        "than",
-        "ever"
+        "policy",
+        "connecting",
+        "capitol",
+        "hill",
+        "students",
+        "postdocs",
+        "discussed",
+        "funding"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.850408+00:00"
-    },
-    {
-      "id": "rss-0576630bd85b",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-      "authors": "TechCrunch AI",
-      "abstract": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-      "date": "2026-07-29",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "zuckerberg",
-        "that",
-        "billions",
-        "will",
-        "agents",
-        "mark",
-        "predicts",
-        "people"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.850601+00:00"
-    },
-    {
-      "id": "rss-a841332e276a",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-      "authors": "TechCrunch AI",
-      "abstract": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
-      "date": "2026-07-29",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "microsoft",
-        "logs",
-        "anthropic",
-        "investment",
-        "openai",
-        "mixed",
-        "when",
-        "reported"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.850778+00:00"
-    },
-    {
-      "id": "rss-25d6ef189b69",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-      "authors": "TechCrunch AI",
-      "abstract": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
-      "date": "2026-07-29",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "zuckerberg",
-        "meta",
-        "enterprise",
-        "opportunity",
-        "agents",
-        "says",
-        "extends",
-        "beyond"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.850964+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.555266+00:00"
     },
     {
       "id": "rss-61c6d7b63768",
@@ -932,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.906565+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.555452+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -960,11 +1024,11 @@ window.LIVE_FEED_DATA = {
         "agents"
       ],
       "readTime": "1 min",
-      "citedBy": 37,
+      "citedBy": 38,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.703561+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.337832+00:00"
     },
     {
       "id": "rss-d746300c673c",
@@ -996,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.906756+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.555618+00:00"
     },
     {
       "id": "rss-e3531be54cc3",
@@ -1028,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:46.271240+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.707841+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -1060,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.906936+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.555814+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1092,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.959222+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.915328+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -1124,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.705972+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.340137+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -1156,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.907106+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.555993+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -1167,8 +1231,8 @@ window.LIVE_FEED_DATA = {
       "abstract": "Abstract Accurate medical image segmentation is critical for early medical diagnosis. Most existing methods are based on U-shape structure and use element-wise addition or concatenation to fuse different level features progressively in decoder. However, both the two operations easily generate plenty of redundant information, which will weaken the complementarity between different level features, resulting in inaccurate localization and blurred edges of lesions. To address this challenge, we propose a general multi-scale in multi-scale subtraction network (M 2 SNet) to finish diverse segmentation from medical image. Specifically, we first design a basic subtraction unit (SU) to produce the difference features between adjacent levels in encoder. Next, we expand the single-scale SU to the intra-layer multi-scale SU, which can provide the decoder with both pixel-level and structure-level...",
       "date": "2026-07-20",
       "year": 2026,
-      "journal": "International Journal of Automation and Computing",
-      "source": "International Journal of Automation and Computing",
+      "journal": "Machine Intelligence Research",
+      "source": "Machine Intelligence Research",
       "sourceApi": "OpenAlex",
       "url": "https://doi.org/10.1007/s11633-026-1662-9",
       "doi": "10.1007/s11633-026-1662-9",
@@ -1188,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.702159+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.336443+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1220,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.907252+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.556143+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -1252,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:46.271465+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.708076+00:00"
     },
     {
       "id": "rss-67e6e4628573",
@@ -1284,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:46.271704+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.708289+00:00"
     },
     {
       "id": "rss-2c39e9060823",
@@ -1316,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:46.272360+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.709008+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1348,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.907406+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.556296+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -1380,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.248713+00:00"
+      "_retrievedAt": "2026-07-31T03:47:18.515477+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1412,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.907594+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.556457+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -1444,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.598441+00:00"
+      "_retrievedAt": "2026-07-31T03:47:19.057822+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -1476,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.907751+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.556609+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -1508,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.907932+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.556819+00:00"
     },
     {
       "id": "rss-ce688c2211e0",
@@ -1540,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.908084+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.556993+00:00"
     },
     {
       "id": "rss-d7bb3cddfe2e",
@@ -1572,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.908268+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.557177+00:00"
     },
     {
       "id": "rss-67f98bea1dc8",
@@ -1604,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.908458+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.557338+00:00"
     },
     {
       "id": "rss-35f3c73960fd",
@@ -1636,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:46.272693+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.709327+00:00"
     },
     {
       "id": "rss-fd9a37f6681c",
@@ -1668,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:46.272945+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.709587+00:00"
     },
     {
       "id": "rss-d6d69b0873be",
@@ -1700,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:46.273227+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.709904+00:00"
     },
     {
       "id": "rss-68e47e682229",
@@ -1732,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:46.273455+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.710142+00:00"
     },
     {
       "id": "rss-e186ac38d0fa",
@@ -1764,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:46.273724+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.710399+00:00"
     },
     {
       "id": "rss-bde592569e0e",
@@ -1796,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:46.273993+00:00"
+      "_retrievedAt": "2026-07-31T03:47:24.710682+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -1828,39 +1892,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.960566+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.916660+00:00"
     },
     {
-      "id": "rss-e3ae47ff98f8",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Tiny robot boats build floating structures",
-      "authors": "MIT News AI",
-      "abstract": "MIT researchers developed FloatForm, a swarm of small aquatic robots that snap together like ants forming a raft, assembling into reconfigurable structures on the water.",
-      "date": "2026-07-09",
+      "id": "openalex-da65fc09ba51",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Geospatial foundation models enable data-efficient tree species mapping in temperate mountain forests",
+      "authors": "James Ball, Jana Annika Wicklein, Zhengpeng Feng, Jovana Knezevic, Sadiq Jaffer, Anil Madhavapeddy",
+      "abstract": "Accurate mapping of tree species from satellite data remains challenging in heterogeneous mountain forests due to environmental gradients, mixed stands, and limited training labels. Geospatial foundation models (GFMs) learn rich representations from large multi-sensor archives , but their utility for species-level mapping remains unclear . Here, we evaluate two GFM embeddings, AlphaEarth and Tessera, for tree species classification in a demanding mountain landscape (Trentino, Italy; 18 species and groups), versus conventional Sentinel-1+2 composites, across experiments spanning classification accuracy, label efficiency, classifier complexity, environmental covariates, label impurity, and temporal transferability. GFM embeddings consistently outperform conventional baselines (weighted F1 = 0.83 vs. 0.80; macro F1 = 0.55 vs. 0.50), approaching saturation with only 5% of training parcels...",
+      "date": "2026-07-10",
       "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709",
-      "doi": "",
-      "pdfUrl": "",
+      "journal": "Science of Remote Sensing",
+      "source": "Science of Remote Sensing",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.srs.2026.100466",
+      "doi": "10.1016/j.srs.2026.100466",
+      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S2666017226001045/pdf",
       "keywords": [
-        "structures",
-        "tiny",
-        "robot",
-        "boats",
-        "build",
-        "floating",
-        "researchers",
-        "developed"
+        "Geospatial analysis",
+        "Geography",
+        "Temperate climate",
+        "Remote sensing",
+        "Foundation (evidence)",
+        "Species Distribution and Climate Change",
+        "Remote Sensing and LiDAR Applications",
+        "Ecology and Vegetation Dynamics Studies"
       ],
       "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
+      "citedBy": 2,
+      "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.908644+00:00"
+      "_retrievedAt": "2026-07-31T03:47:19.061215+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -1892,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.596951+00:00"
+      "_retrievedAt": "2026-07-31T03:47:19.056787+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -1924,39 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.959590+00:00"
-    },
-    {
-      "id": "rss-904aa85f5191",
-      "discipline": "cs",
-      "type": "news",
-      "title": "How novice coders can develop AI programs for military applications",
-      "authors": "MIT News AI",
-      "abstract": "A USAF cadet and a Lincoln Laboratory researcher found AI chatbots can help nontechnical service members produce viable software applications for their unique problems.",
-      "date": "2026-07-07",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "applications",
-        "novice",
-        "coders",
-        "develop",
-        "programs",
-        "military",
-        "usaf",
-        "cadet"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:45.908807+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.915676+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -1988,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.249283+00:00"
+      "_retrievedAt": "2026-07-31T03:47:18.516074+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2020,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.705060+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.339214+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2052,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.703921+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.338155+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2084,7 +2116,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.704754+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.338899+00:00"
+    },
+    {
+      "id": "openalex-5cffaa86f023",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Expansion, functional diversification, and gene fusion events in the Ato protein family",
+      "authors": "F Chakmehdouz Ghasemi, Patrícia Ataíde, Cláudia Barata-Antunes, Yiannis Pyrris, João Alves, Vítor Basto-Fernandes",
+      "abstract": "Abstract Candida albicans , a commensal opportunistic pathogen, exhibits remarkable metabolic flexibility and adaptability to environmental changes. In glucose-limited niches, it utilizes alternative carbon sources such as carboxylic acids, which may influence its pathogenicity. In Saccharomyces cerevisiae , the uptake of monocarboxylates occurs through regulated plasma membrane (PM) transport proteins, such as Ato1 (Ady2), which belongs to the Acetate Uptake Transporter (AceTr) family. In C. albicans , these proteins are notably expanded, consisting of ten Ato-like proteins (ATO1-ATO10), whose functions remain unknown. Here, we investigated the role of Ato proteins in carboxylic acid utilization by C. albicans using in-silico and functional analysis. Our data revealed that several C. albicans Atos retain conserved AceTr motifs but possess distinct structural features, including diffe...",
+      "date": "2026-06-23",
+      "year": 2026,
+      "journal": "iScience",
+      "source": "iScience",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.isci.2026.116467",
+      "doi": "10.1016/j.isci.2026.116467",
+      "pdfUrl": "https://doi.org/10.1016/j.isci.2026.116467",
+      "keywords": [
+        "Diversification (marketing strategy)",
+        "Fusion protein",
+        "Gene",
+        "Genetics",
+        "Computational biology",
+        "Advanced Proteomics Techniques and Applications",
+        "Mass Spectrometry Techniques and Applications",
+        "Enzyme Structure and Function"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:17.919498+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2116,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.248924+00:00"
+      "_retrievedAt": "2026-07-31T03:47:18.515684+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2148,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.703155+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.337444+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2180,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.252133+00:00"
+      "_retrievedAt": "2026-07-31T03:47:18.517368+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2212,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.599246+00:00"
+      "_retrievedAt": "2026-07-31T03:47:19.058943+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2244,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.600436+00:00"
+      "_retrievedAt": "2026-07-31T03:47:19.060106+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2276,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.597697+00:00"
+      "_retrievedAt": "2026-07-31T03:47:19.057514+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2308,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.701311+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.335585+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2340,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.596106+00:00"
+      "_retrievedAt": "2026-07-31T03:47:19.055940+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2372,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.705645+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.339807+00:00"
     },
     {
       "id": "openalex-7a2e0cea295d",
@@ -2404,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.600780+00:00"
+      "_retrievedAt": "2026-07-31T03:47:19.060830+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2432,11 +2496,11 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence in Healthcare and Education"
       ],
       "readTime": "1 min",
-      "citedBy": 59,
+      "citedBy": 60,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.702542+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.336823+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2468,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.700981+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.335227+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2500,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.702768+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.337056+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2532,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.700587+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.334821+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2564,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.252464+00:00"
+      "_retrievedAt": "2026-07-31T03:47:18.517696+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2596,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.251045+00:00"
+      "_retrievedAt": "2026-07-31T03:47:18.516716+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2628,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.595238+00:00"
+      "_retrievedAt": "2026-07-31T03:47:19.055475+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2660,7 +2724,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.701773+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.336051+00:00"
+    },
+    {
+      "id": "openalex-e2538de02ecf",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Zinc as a master regulator of intracellular organelle homeostasis",
+      "authors": "Sofia Brito, Jiyoon Kim, Bum-Ho Bin",
+      "abstract": "Zinc (Zn²⁺) is an essential trace element that supports a vast array of cellular processes, including enzymatic catalysis, gene expression, immune regulation and signaling. Its unique redox-inert properties and ability to bind diverse proteins make it indispensable for cellular homeostasis. Zinc is dynamically distributed within cells, where its compartmentalization across organelles, such as the nucleus, endoplasmic reticulum, Golgi apparatus, mitochondria, lysosomes, endosomes and peroxisomes, enables specialized functions crucial for organelle integrity and interorganelle communication. The present Review provides a comprehensive account of organelle-specific zinc homeostasis, highlighting the intricate roles of zinc transporters, metallothioneins and metallochaperones in regulating zinc flux and buffering. Here we discuss how zinc modulates structural and enzymatic processes, stre...",
+      "date": "2026-05-01",
+      "year": 2026,
+      "journal": "Experimental & Molecular Medicine",
+      "source": "Experimental & Molecular Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s12276-026-01706-2",
+      "doi": "10.1038/s12276-026-01706-2",
+      "pdfUrl": "https://www.nature.com/articles/s12276-026-01706-2.pdf",
+      "keywords": [
+        "Endosome",
+        "Regulator",
+        "Cell biology",
+        "Zinc",
+        "Compartmentalization (fire protection)",
+        "Trace Elements in Health",
+        "Ferroptosis and cancer prognosis",
+        "Heavy Metal Exposure and Toxicity"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:18.519367+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -2692,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.600066+00:00"
+      "_retrievedAt": "2026-07-31T03:47:19.059682+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -2724,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.960862+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.916978+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -2756,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.961853+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.917961+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2788,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.705321+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.339477+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -2820,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.598856+00:00"
+      "_retrievedAt": "2026-07-31T03:47:19.058206+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -2852,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.959913+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.916025+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -2884,7 +2980,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.597280+00:00"
+      "_retrievedAt": "2026-07-31T03:47:19.057120+00:00"
+    },
+    {
+      "id": "openalex-ecc34b946b2e",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Overcoming barriers to delivery of biologics by novel approaches and advanced delivery systems",
+      "authors": "Stephen Dela Ahator, Silvia Franzè, Sybil Obuobi, Giulia Anderluzzi, Gøril Eide Flaten, Nataša Škalko‐Basnet",
+      "abstract": "Biologics is emerging as fastest growing field of drug development offering specificity and high therapeutic potential. However, their therapeutic efficacy is dependent on their route of administration and targeted delivery. Unlike small molecules, biologics face stability, permeability, solubility and immunogenicity challenges due to their inherent features. Hence tailored approaches are required in formulation development to assure their time-and site-specific action. In this review, we summarized the general and route-specific barriers that this group of drugs encounter once in contact with administration site. We listed the most common approaches to overcome the barriers and presented examples of different delivery systems that were proposed to deal with route-specific challenges. We also addressed the role devices play in assisted drug delivery and their choices related to expect...",
+      "date": "2026-04-16",
+      "year": 2026,
+      "journal": "Advanced Drug Delivery Reviews",
+      "source": "Advanced Drug Delivery Reviews",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.addr.2026.115875",
+      "doi": "10.1016/j.addr.2026.115875",
+      "pdfUrl": "https://doi.org/10.1016/j.addr.2026.115875",
+      "keywords": [
+        "Delivery system",
+        "Medicine",
+        "Pharmaceutical technology",
+        "Drug delivery",
+        "Computer science",
+        "Monoclonal and Polyclonal Antibodies Research",
+        "Viral Infectious Diseases and Gene Expression in Insects",
+        "Protein purification and stability"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:18.518740+00:00"
+    },
+    {
+      "id": "openalex-1c8cc4075423",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Spatiotemporal Evolution and Multi-Scenario Prediction of Ecosystem Service Value in Wuhan East Lake Based on the PLUS Model",
+      "authors": "Jingyao Xiong, Hongbing Chen, Liya Zhao",
+      "abstract": "Urban lake scenic areas serve as crucial ecological barriers but face acute conflicts between expansion and conservation. Existing research has often overlooked microscale landscape fragmentation and its associated ecological effects. Focusing on the Wuhan East Lake ecotourism scenic area (Wuhan East Lake), this study investigated the spatiotemporal impacts of micro-scale land-use transitions on ecosystem service value (ESV). To evaluate the historical evolution of ESV from 2010 to 2024, an improved equivalent factor method was coupled with a patch-generating land-use simulation (PLUS) model. Spatial autocorrelation and landscape pattern metrics were then incorporated to diagnose structural degradation and establish a foundation for simulating the four development scenarios for 2035. Results demonstrate that sporadic construction expansion led to a decline in total ESV from 2.445 to 2...",
+      "date": "2026-04-14",
+      "year": 2026,
+      "journal": "Land",
+      "source": "Land",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/land15040639",
+      "doi": "10.3390/land15040639",
+      "pdfUrl": "https://www.mdpi.com/2073-445X/15/4/639/pdf?version=1776162634",
+      "keywords": [
+        "Ecosystem services",
+        "Environmental resource management",
+        "Fragmentation (computing)",
+        "Ecosystem",
+        "Geography",
+        "Land Use and Ecosystem Services",
+        "Flood Risk Assessment and Management",
+        "Urban Green Space and Health"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:19.058543+00:00"
     },
     {
       "id": "openalex-a528e7ad7434",
@@ -2916,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.251814+00:00"
+      "_retrievedAt": "2026-07-31T03:47:18.517057+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -2948,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.960212+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.916326+00:00"
     },
     {
       "id": "openalex-7a392a0ca13d",
@@ -2980,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.961211+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.917321+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -3012,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.704284+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.338455+00:00"
     },
     {
       "id": "openalex-7ccfc202ecea",
@@ -3044,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.958636+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.914687+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -3076,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.962179+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.918290+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -3108,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.596571+00:00"
+      "_retrievedAt": "2026-07-31T03:47:19.056391+00:00"
     },
     {
       "id": "openalex-d826f52b28e7",
@@ -3140,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.601168+00:00"
+      "_retrievedAt": "2026-07-31T03:47:19.060493+00:00"
     },
     {
       "id": "openalex-e90314f807eb",
@@ -3172,7 +3332,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.962931+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.918703+00:00"
+    },
+    {
+      "id": "openalex-2f6d80ec93bc",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Trends and Disparities in the Use of Next-Generation Sequencing in Patients With Cancer in the United States",
+      "authors": "Chadi Hage Chehade, Zeynep İrem Özay, Yeonjung Jo, Georges Gebrael, Nicolas Sayegh, Micah Ostrowski",
+      "abstract": "Importance: Life-prolonging targeted therapies are available based on alterations detected on next-generation sequencing (NGS); however, clinical data on NGS adoption are limited. Objective: To assess trends and disparities in NGS among patients with common advanced or metastatic cancers. Design, Setting, and Participants: Retrospective cohort study of 280 US-based cancer clinics (approximately 800 sites of care) using electronic health record-derived deidentified information from Flatiron Health Research Database. Participants were patients diagnosed with metastatic breast (mBC), metastatic prostate (mPC), advanced non-small cell lung (aNSCLC), metastatic colorectal (mCRC), and metastatic pancreatic (mPanC) cancers between January 1, 2018, and December 30, 2022. Data were analyzed from April 2024 to December 2025. Main Outcomes and Measures: Time to NGS from diagnosis, considering de...",
+      "date": "2026-04-07",
+      "year": 2026,
+      "journal": "JAMA Network Open",
+      "source": "JAMA Network Open",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1001/jamanetworkopen.2026.5585",
+      "doi": "10.1001/jamanetworkopen.2026.5585",
+      "pdfUrl": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2847397/hage_chehade_2026_oi_260199_1774906634.25115.pdf",
+      "keywords": [
+        "Medicine",
+        "Medicaid",
+        "Cancer",
+        "Cohort",
+        "Race (biology)",
+        "Cancer Genomics and Diagnostics",
+        "Genomics and Rare Diseases",
+        "Lung Cancer Treatments and Mutations"
+      ],
+      "readTime": "2 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:18.519915+00:00"
     },
     {
       "id": "openalex-557912e64e56",
@@ -3204,7 +3396,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.958952+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.915050+00:00"
+    },
+    {
+      "id": "openalex-e28246dfcacc",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Unraveling the Genetic and Molecular Architecture of Autism Spectrum Disorder: Implications for Clinical Genetics and Genomic Diagnostics",
+      "authors": "Simone Treccarichi, Mirella Vinci, Miriam Virgillito, Antonino Musumeci, Francesca Bruno, Carla Papa",
+      "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental condition that occurs in early childhood, characterized by a broad range of clinical manifestations and impairments in social communication. It represents one of the most prevalent neurodevelopmental disorders, affecting approximately 1% of the general population. The phenotypic heterogeneity of ASD arises from different genetic causes, including chromosomal abnormalities, copy number variants (CNVs), and single-nucleotide variants (SNVs), which may occur as de novo or inherited events. Moreover, the polygenic and multifactorial nature of ASD, together with epigenetic regulation and environmental influences, contributes substantially to its complex genetic architecture. Molecular diagnosis remains challenging and relies on multiple genomic approaches, such as array comparative genomic hybridization (array-CGH), whole-exome sequenc...",
+      "date": "2026-04-04",
+      "year": 2026,
+      "journal": "International Journal of Molecular Sciences",
+      "source": "International Journal of Molecular Sciences",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/ijms27073278",
+      "doi": "10.3390/ijms27073278",
+      "pdfUrl": "https://www.mdpi.com/1422-0067/27/7/3278/pdf?version=1775298941",
+      "keywords": [
+        "Genetic architecture",
+        "Biology",
+        "Epigenetics",
+        "Genetics",
+        "Autism spectrum disorder",
+        "Autism Spectrum Disorder Research",
+        "Genetics and Neurodevelopmental Disorders",
+        "Genomic variations and chromosomal abnormalities"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T03:47:17.919114+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -3236,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.599684+00:00"
+      "_retrievedAt": "2026-07-31T03:47:19.059324+00:00"
     },
     {
       "id": "openalex-8d5e6bfc7e0b",
@@ -3268,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.961572+00:00"
+      "_retrievedAt": "2026-07-31T03:47:17.917662+00:00"
     },
     {
       "id": "openalex-16c0651ed52d",
@@ -3300,295 +3524,103 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.253374+00:00"
+      "_retrievedAt": "2026-07-31T03:47:18.518011+00:00"
     },
     {
-      "id": "openalex-718a89dc1f3c",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "New approach methodologies for drug discovery",
-      "authors": "Wenqiang Liu, Paul Pang, Catherine A. Wu, Danilo A. Tagle, Joseph C. Wu",
-      "abstract": "Traditional animal-based drug discovery has high failure rates, prompting the search for and adoption of human-centered new approach methodologies (NAMs). Rapid advances in stem cell-, organoid-, and in silico-based NAMs, supported by evolving frameworks from the National Institutes of Health (NIH) and the Food and Drug Administration (FDA), now span the entire drug-discovery continuum, from disease modeling and drug design to efficacy testing. Our review highlights recent progress across these domains, including the identification of therapeutic candidates, the development of cutting-edge models and technologies, and the potential of NAMs themselves as treatments in preclinical and clinical contexts, while examining the key biological, technical, and regulatory bottlenecks that need to be addressed to enable robust translational adoption. We conclude by discussing the translational a...",
-      "date": "2026-04-01",
-      "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.02.012",
-      "doi": "10.1016/j.cell.2026.02.012",
-      "pdfUrl": "https://www.cell.com/cell/pdf/S0092-8674(26)00217-5.pdf",
-      "keywords": [
-        "Drug discovery",
-        "Biology",
-        "Drug development",
-        "Translational research",
-        "Paradigm shift",
-        "Computational Drug Discovery Methods",
-        "Cancer Research and Treatment",
-        "Molecular spectroscopy and chirality"
-      ],
-      "readTime": "1 min",
-      "citedBy": 10,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.958312+00:00"
-    },
-    {
-      "id": "openalex-08cf7139c39d",
+      "id": "openalex-fc702833bf18",
       "discipline": "clinical",
       "type": "paper",
-      "title": "Cell death in cancer",
-      "authors": "Marcus Conrad, Andreas Strasser, Philipp J. Jost, Junying Yuan, Feng Shao, Peter Vandenabeele",
-      "abstract": "\"Evasion of cell death\" is a hallmark of cancer, enabling transformed cells to withstand oncogenic and therapeutic stress. Restoring cancer cell death is an appealing strategy but requires a deep understanding of cell death programs. Over the past two decades, the cell death field has expanded from apoptosis to include necroptosis, pyroptosis, ferroptosis, and other emerging programs, reshaping cancer biology and revealing therapeutic opportunities. While apoptosis remains the primary radiation- and chemotherapy-induced cell death program, non-apoptotic programs can drive inflammatory responses and orchestrate the interplay among tumor, stroma, and immune components, influencing immunotherapy outcomes. Ferroptosis, an iron-dependent, lipid peroxidation-driven cell death modality, lacks a canonical induction signal and arises from perturbations in lipid, iron, and redox metabolism. Thi...",
-      "date": "2026-04-01",
+      "title": "Suppression of Tumor Aggression Through Metabolic Reprogramming via Oxamate Targeting LDHA",
+      "authors": "Yurii V. Stepanov, Galyna Solyanik, Yulia Yakshibaeva, Denis Kolesnik, Liudmyla Stepanova, Iuliia Golovynska",
+      "abstract": "Lactate dehydrogenase (LDH) is a key glycolytic enzyme that catalyzes the interconversion of pyruvate and lactate, with LDHA gaining particular attention for its overexpression in various malignancies and pivotal role in the Warburg effect-driven metabolic reprogramming. Elevated LDHA activity supports rapid ATP production under hypoxic conditions, maintains NAD+ regeneration, and promotes lactate accumulation, creating an acidic tumor microenvironment (TME) that favors invasion and immune evasion. Accumulating evidence demonstrates that LDHA is essential for primary tumor growth and critically involved in circulating tumor cell (CTC) survival, anoikis resistance, and metastatic spread. These functions are mediated by its regulation of adhesion molecules, cytoskeletal remodeling, and energy adaptation that enable CTCs to withstand mechanical shear stress and immune surveillance in the...",
+      "date": "2026-04-02",
       "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
+      "journal": "International Journal of Molecular Sciences",
+      "source": "International Journal of Molecular Sciences",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.03.024",
-      "doi": "10.1016/j.cell.2026.03.024",
-      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.03.024",
+      "url": "https://doi.org/10.3390/ijms27073245",
+      "doi": "10.3390/ijms27073245",
+      "pdfUrl": "https://www.mdpi.com/1422-0067/27/7/3245/pdf?version=1775139623",
       "keywords": [
-        "Programmed cell death",
+        "Lactate dehydrogenase A",
+        "Warburg effect",
+        "Glycolysis",
         "Biology",
-        "Apoptosis",
-        "Cancer",
-        "Immunogenic cell death",
-        "Cell death mechanisms and regulation",
-        "Cancer and biochemical research",
-        "Phagocytosis and Immune Regulation"
+        "Cancer research",
+        "Cancer, Hypoxia, and Metabolism",
+        "Cancer Research and Treatments",
+        "Cancer Cells and Metastasis"
       ],
       "readTime": "1 min",
-      "citedBy": 12,
-      "qualityScore": 80.0,
+      "citedBy": 5,
+      "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.249603+00:00"
+      "_retrievedAt": "2026-07-31T03:47:18.518382+00:00"
     },
     {
-      "id": "openalex-473d91058e75",
-      "discipline": "bio",
+      "id": "openalex-f5a45d4ca0e2",
+      "discipline": "clinical",
       "type": "paper",
-      "title": "Nutrient balance regulates soil microbial health under long-term fertilization",
-      "authors": "Da Lin, Qingxu Ma, Yu-Qiu Ye, Wolfgang Wanek, Andrew S. Gregory, Davey L. Jones",
-      "abstract": "Fertilizer application in intensive agriculture critically influences microbial communities. It is still unclear how long-term input of different nutrients shapes microbial eco-evolutionary strategies and ecological functions. Through 180-year-old field fertilization experiment, alongside microbial culturing, pot experiments, and comprehensive metagenomic data analysis, we show that exclusive fertilization with inorganic chemicals causes carbon-nitrogen imbalances that increase microbial resource competition and antibiotic resistance gene (ARG) levels. Viruses further amplify this expansion through \"piggyback the winner\" strategy. The imbalanced use of nitrogen in chemical fertilizers disrupt ecological niche connections, leading to an increase in virulent viruses and reducing microbial nutrient cycling capacity. In contrast, more balanced nutrient supplies from organic fertilization...",
-      "date": "2026-04-01",
+      "title": "Antibody–Drug Conjugates (ADCs): A Review of Structural Design, Technological Evolution, and Future Perspectives",
+      "authors": "Guiying Wu, Zhenhai Yuan, Ming Chen, Xuan Tang, Fang Wang, Daizhou Zhang",
+      "abstract": "Antibody-drug conjugates (ADCs) have become an important class of targeted anticancer therapeutics by integrating the tumor selectivity of monoclonal antibodies with the potent cytotoxicity of small-molecule payloads through rational linker design. This review summarizes the structural fundamentals of ADCs, including antibodies, linkers, and payloads, and describes their coordinated mechanism of action. We trace the evolutionary trajectory of ADCs across three generations, highlighting key breakthroughs, limitations, and representative agents for each era. Furthermore, we elaborate on cleavage mechanisms of linkers (cleavable and non-cleavable). We also categorize and discuss cytotoxic payloads, covering traditional microtubule-disrupting agents, DNA-damaging agents, and novel mechanism-based payloads, along with their modification strategies and preclinical/clinical performance. Fina...",
+      "date": "2026-04-02",
       "year": 2026,
-      "journal": "Cell Reports",
-      "source": "Cell Reports",
+      "journal": "Molecules",
+      "source": "Molecules",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117274",
-      "doi": "10.1016/j.celrep.2026.117274",
-      "pdfUrl": "https://doi.org/10.1016/j.celrep.2026.117274",
+      "url": "https://doi.org/10.3390/molecules31071180",
+      "doi": "10.3390/molecules31071180",
+      "pdfUrl": "https://www.mdpi.com/1420-3049/31/7/1180/pdf?version=1775124541",
       "keywords": [
-        "Human fertilization",
-        "Nutrient",
-        "Agronomy",
-        "Soil nutrients",
-        "Balance (ability)",
-        "Soil Carbon and Nitrogen Dynamics",
-        "Legume Nitrogen Fixing Symbiosis",
-        "Plant-Microbe Interactions and Immunity"
+        "Computational biology",
+        "Linker",
+        "Monoclonal antibody",
+        "Cytotoxicity",
+        "Conjugate",
+        "HER2/EGFR in Cancer Research",
+        "Monoclonal and Polyclonal Antibodies Research",
+        "Advanced Breast Cancer Therapies"
       ],
       "readTime": "1 min",
       "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:41.962463+00:00"
+      "_retrievedAt": "2026-07-31T03:47:18.519025+00:00"
     },
     {
-      "id": "openalex-1bdbe1c46708",
+      "id": "openalex-0296e76b4f7f",
       "discipline": "clinical",
       "type": "paper",
-      "title": "Overall survival with relacorilant and nab-paclitaxel in patients with platinum-resistant ovarian cancer (ROSELLA): a phase 3 randomised controlled trial",
-      "authors": "Domenica Lorusso, Laurence Gladieff, David M O'Malley, Jae-Weon Kim, Gabriel Garbaos, Anna Fagotti",
-      "abstract": "BACKGROUND: Relacorilant is a selective glucocorticoid receptor antagonist that increases the sensitivity of many cancer cell types to chemotherapy. The efficacy and safety of relacorilant plus nab-paclitaxel were assessed in the phase 3 ROSELLA (GOG-3073, ENGOT-ov72, APGOT-Ov10, and LACOG-0223) trial; the combination showed significant improvement in progression-free survival among patients with platinum-resistant ovarian cancer compared with nab-paclitaxel monotherapy. Results of the final overall survival analysis are reported here. METHODS: intravenously on the aforementioned schedule). Patients, aged 18 years or older, with one to three lines of previous anticancer therapy and platinum-resistant disease (progression <6 months from their last dose of platinum) were eligible. The trial was conducted at 117 hospitals and community oncology centres in 14 countries across Australia, E...",
-      "date": "2026-04-01",
+      "title": "Artificial intelligence-powered liquid biopsy in cancer: a paradigm shift in cancer detection and personalized care",
+      "authors": "Sherihan G. AbdelHamid, Esraa M. Halawa, Eslam Ibrahim, Mahmoud ElHefnawi",
+      "abstract": "Liquid biopsy has evolved as a transformative strategy revolutionizing the oncology field. It encompasses the detection of circulating biomarkers derived from tumors including circulating tumor DNA, extracellular vesicles, tumor educated platelets, circulating tumor cells, and circulating RNAs within body fluids. Nonetheless, its application in the clinical settings continues to be constrained by issues related to limited sensitivity, specificity, and lack of standardization. This review uniquely examines the convergence of artificial intelligence (AI) and machine learning (ML) algorithms with liquid biopsy to overcome these barriers and advance precision oncology. Focusing on four major malignancies; breast, lung, colorectal cancers, and hepatocellular carcinoma; we critically evaluate how AI-powered liquid biopsy improves early detection of cancer, prognosis prediction, and monitori...",
+      "date": "2026-04-02",
       "year": 2026,
-      "journal": "The Lancet",
-      "source": "The Lancet",
+      "journal": "Cancer Cell International",
+      "source": "Cancer Cell International",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/s0140-6736(26)00462-9",
-      "doi": "10.1016/s0140-6736(26)00462-9",
-      "pdfUrl": "https://doi.org/10.1016/s0140-6736(26)00462-9",
+      "url": "https://doi.org/10.1186/s12935-026-04263-w",
+      "doi": "10.1186/s12935-026-04263-w",
+      "pdfUrl": "https://doi.org/10.1186/s12935-026-04263-w",
       "keywords": [
+        "Liquid biopsy",
         "Medicine",
-        "Internal medicine",
-        "Overall survival",
-        "Oncology",
-        "Randomized controlled trial",
-        "Ovarian cancer diagnosis and treatment",
-        "PARP inhibition in cancer therapy",
-        "Intraperitoneal and Appendiceal Malignancies"
-      ],
-      "readTime": "2 min",
-      "citedBy": 8,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.250750+00:00"
-    },
-    {
-      "id": "openalex-fd4b6aa3ca96",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Explainable AI in healthcare: a systematic review of XAI use cases in imaging, diagnostics, and rehabilitation",
-      "authors": "Apoorva Aravindkumar, Marimuthu Ramadoss, Saqhibuddeen Ahmed Fakhruddin Ahmed, Vidhya Sampath, Kishor Lakshminarayanan",
-      "abstract": "Background: Explainable artificial intelligence (XAI) is used in healthcare to make machine-learning outputs more transparent and clinically usable. This is important because many machine learning models work like a \"black box\" which can hide bias, reduce trust in the model. XAI addresses this problem by showing which features or image regions influenced a result, either for one patient or across a dataset. Objectives: Our objective is to provide a clear, systematic review of how XAI is being used in healthcare. We summarize the main XAI methods, the data and models they are paired with, and how these explanations support clinical understanding across imaging, diagnosis, and rehabilitation. Methods: = 10) that are identified via PubMed/MEDLINE, IEEE Xplore, and Google Scholar, following PRISMA 2020 guidelines. We included research studies that employed XAI in the three mentioned verti...",
-      "date": "2026-04-01",
-      "year": 2026,
-      "journal": "Frontiers in Artificial Intelligence",
-      "source": "Frontiers in Artificial Intelligence",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/frai.2026.1749527",
-      "doi": "10.3389/frai.2026.1749527",
-      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1749527/pdf",
-      "keywords": [
-        "Rehabilitation",
-        "Systematic review",
-        "Medicine",
-        "Computer science",
-        "MEDLINE",
-        "Explainable Artificial Intelligence (XAI)",
-        "Artificial Intelligence in Healthcare and Education",
-        "Radiomics and Machine Learning in Medical Imaging"
+        "Transformative learning",
+        "Personalized medicine",
+        "Biopsy",
+        "Cancer Genomics and Diagnostics",
+        "Cancer Cells and Metastasis",
+        "Extracellular vesicles in disease"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.251460+00:00"
-    },
-    {
-      "id": "openalex-9c69b5205f24",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "European Society of Neuroendocrine Tumors ( ENETS ) 2025 guidance paper for lung and thymic carcinoids",
-      "authors": "Eric Baudin, Alice Durand, Wieneke Buikhuisen, Jaume Capdevila, Martyn Caplin, C. M. Deroose",
-      "abstract": "This ENETS guidance paper, developed by a multidisciplinary working group, provides up-to-date and practical advice on the diagnosis and management of lung and thymic carcinoids, based on recent developments and study results. These recommendations aim to provide practical recommendations for the diagnosis, treatment and follow-up of these tumours, and pave the road for more standardised care for our patients expecting improved outcomes. This paper is structured on a question-answer format in order to address common dilemmas encountered in clinical practice, including controversial issues and areas of uncertainty, based on the best available evidence and expert opinion when good quality evidence is not available. Each recommendation will provide a level of evidence and grade of recommendation as per the GRADE system (adapted from the Infectious Disease Society of United States Public...",
-      "date": "2026-04-01",
-      "year": 2026,
-      "journal": "Journal of Neuroendocrinology",
-      "source": "Journal of Neuroendocrinology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1111/jne.70174",
-      "doi": "10.1111/jne.70174",
-      "pdfUrl": "https://doi.org/10.1111/jne.70174",
-      "keywords": [
-        "Neuroendocrine tumors",
-        "Medicine",
-        "Grading (engineering)",
-        "Multidisciplinary approach",
-        "Expert opinion",
-        "Neuroendocrine Tumor Research Advances",
-        "Myasthenia Gravis and Thymoma",
-        "Thyroid Cancer Diagnosis and Treatment"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.252803+00:00"
-    },
-    {
-      "id": "openalex-65ac17e8114e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Targeting angiogenesis: Lessons from 25 years of normalizing tumor vasculature",
-      "authors": "Sonu Subudhi, Somin Lee, Rakesh K. Jain",
-      "abstract": "Tumors acquire blood vessels primarily via sprouting angiogenesis and co-option of pre-existing host vasculature, but also via intussusception, vasculogenesis from bone-marrow-derived progenitors, vascular mimicry, and endothelial transdifferentiation. The abnormal structure and function of these vessels, resulting from an imbalance between pro- and anti-angiogenic signaling as well as from the physical forces, impair the delivery and efficacy of therapeutics. We review the evolving narrative of targeting angiogenesis from starving tumors to vascular normalization as a therapeutic principle and highlight recent spatial-omics revelations and the emerging role of neural, microbial, hormonal, and chronological factors. We elaborate on the molecular mechanisms of tumor vessel formation, how dysfunctional vessels cause an abnormal tumor microenvironment characterized by hypoxia, low pH, el...",
-      "date": "2026-04-01",
-      "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.03.016",
-      "doi": "10.1016/j.cell.2026.03.016",
-      "pdfUrl": "https://www.cell.com/cell/pdf/S0092-8674(26)00283-7.pdf",
-      "keywords": [
-        "Biology",
-        "Cancer research",
-        "Computational biology",
-        "Disease",
-        "Bioinformatics",
-        "Angiogenesis and VEGF in Cancer",
-        "Biological Stains and Phytochemicals",
-        "Fibroblast Growth Factor Research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.253077+00:00"
-    },
-    {
-      "id": "openalex-9d1081035304",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Modelling climate-driven agricultural land use change in a data-limited region: a big data analytics framework for the Kabul River Basin (KRB)",
-      "authors": "Muhammad Zubair, Zeeshan Zafar, Rana Muhammad Amir Latif, Rana Muhammad Zulqarnain, Qaiser Abbas, Muhammad Usman Azhar",
-      "abstract": "In regions characterized by data scarcity, understanding the intricate coupling between hydrological variability and land-use transitions is paramount for regional stability. This study introduces an integrated big data analytics framework to assess the impact of discharge from the Kabul River Basin (KRB) on agricultural sustainability in Pakistan. Leveraging the Google Earth Engine (GEE) platform, we implemented a supervised random forest classification of Landsat multi-temporal imagery (1996–2021) to quantify land use and land cover (LULC) dynamics. The results revealed significant landscape instability: agricultural land contracted by 16.45%, while built-up areas expanded by 25.94%. Furthermore, a critical 37% collapse in surface water extent was observed following its 2006 peak, providing physical evidence of increasing hydrological stress. To address the ‘precipitation paradox’ i...",
-      "date": "2026-04-01",
-      "year": 2026,
-      "journal": "Geocarto International",
-      "source": "Geocarto International",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1080/10106049.2026.2651496",
-      "doi": "10.1080/10106049.2026.2651496",
-      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/10106049.2026.2651496?needAccess=true",
-      "keywords": [
-        "Big data",
-        "Drainage basin",
-        "Geography",
-        "Land use",
-        "Land use, land-use change and forestry",
-        "Land Use and Ecosystem Services",
-        "Climate change impacts on agriculture",
-        "Hydrology and Watershed Management Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.595690+00:00"
-    },
-    {
-      "id": "openalex-ca85588cf4c0",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Cross evaluation of optical versus sentinel-1 and 2 fusion data for tropical ecosystem mapping",
-      "authors": "Sajib Sarker, Md. Arif Chowdhury, Xin Wang, Abul Azad",
-      "abstract": "Advances in satellite technology have greatly enhanced ecosystem mapping, a key aspect of environmental studies. This study applies a hybrid model to assess the efficiency of combining Sentinel-1 and Sentinel-2 data versus using Sentinel-2 alone across three priority ecosystems in Bangladesh: wetlands (Hakaluki Haor), riverine areas (Padma-Jamuna confluence), and mangroves (Sundarbans). Results indicate that integrating Sentinel-1 improves mapping accuracy across diverse ecosystems. Unlike previous studies that demonstrated the general advantages of Sentinel-1 and 2 fusions, this study provides a cross-ecosystem evaluation across mangrove, riverine, and wetland environments using a unified RF–SVM hybrid model, offering comparative insights on how fusion benefits vary by ecosystem type. The study utilizes C-band dual-polarization Synthetic Aperture Radar (SAR) data from Sentinel-1 alon...",
-      "date": "2026-04-01",
-      "year": 2026,
-      "journal": "Discover Geoscience",
-      "source": "Discover Geoscience",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s44288-026-00512-7",
-      "doi": "10.1007/s44288-026-00512-7",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s44288-026-00512-7.pdf",
-      "keywords": [
-        "Remote sensing",
-        "Synthetic aperture radar",
-        "Sensor fusion",
-        "Environmental science",
-        "Random forest",
-        "Remote Sensing in Agriculture",
-        "Synthetic Aperture Radar (SAR) Applications and Techniques",
-        "Coastal wetland ecosystem dynamics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-30T19:48:42.598148+00:00"
+      "_retrievedAt": "2026-07-31T03:47:18.520232+00:00"
     }
   ]
 };
