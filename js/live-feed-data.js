@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-07-31T14:32:04.980059+00:00",
+  "generatedAt": "2026-07-31T19:49:50.405832+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -7,284 +7,380 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-86aac4130cf5",
+      "id": "rss-a771f29b2c64",
       "discipline": "clinical",
       "type": "news",
-      "title": "X-chromosome inactivation attracts mutations that increase risk of hemophilia and muscular dystrophy",
+      "title": "Platelet-rich plasma, shockwave therapy show therapeutic efficacy in interstitial cystitis",
       "authors": "Medical Xpress",
-      "abstract": "In a study published in the journal Science, researchers in Queensland and the United States discovered that the human X chromosome attracts an unusual kind of DNA mutation, potentially doubling the risk of certain genetic disorders, including hemophilia and muscular dystrophy.",
+      "abstract": "For patients with interstitial cystitis (IC)/bladder pain syndrome (BPS), the combination of platelet-rich plasma (PRP) and low-intensity extracorporeal shock wave therapy (LI-ESWT) shows therapeutic efficacy, according to a study recently published in Frontiers in Bioengineering and Biotechnology.",
       "date": "2026-07-31",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-chromosome-inactivation-mutations-hemophilia-muscular.html",
+      "url": "https://medicalxpress.com/news/2026-07-platelet-rich-plasma-shockwave-therapy.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "attracts",
-        "that",
-        "risk",
-        "hemophilia",
-        "muscular",
-        "dystrophy",
-        "x-chromosome",
-        "inactivation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.143135+00:00"
-    },
-    {
-      "id": "rss-149cee883cd7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "ACSS2 protein identified as therapeutic target for metastatic liver tumors",
-      "authors": "Medical Xpress",
-      "abstract": "Liver metastases are one of the most common sites of cancer spread, and the survival rates are very low. However, Cancer Center at Illinois (CCIL) researchers recently identified a new promising therapeutic target.",
-      "date": "2026-07-31",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-acss2-protein-therapeutic-metastatic-liver.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "identified",
+        "platelet-rich",
+        "plasma",
+        "therapy",
         "therapeutic",
-        "target",
+        "efficacy",
+        "interstitial",
+        "cystitis",
+        "shockwave"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:49.645698+00:00"
+    },
+    {
+      "id": "rss-758ce92bd436",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Liver tumors may depend on LARS to withstand stress and keep multiplying",
+      "authors": "Medical Xpress",
+      "abstract": "Illinois researchers made a breakthrough discovery in the fight against liver cancer. Collaborators Lin-Feng Chen, Susan A. Martinis, and graduate student Xiaodan Lin found that decreasing protein levels of leucyl-tRNA synthetase (LARS) impedes liver cancer cell multiplication.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-liver-tumors-lars-stress.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
         "liver",
+        "lars",
         "cancer",
-        "acss",
-        "protein",
-        "metastatic"
+        "tumors",
+        "depend",
+        "withstand",
+        "stress",
+        "keep"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.143325+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.645981+00:00"
     },
     {
-      "id": "rss-c11c85979b44",
+      "id": "rss-cb44251266bc",
       "discipline": "clinical",
       "type": "news",
-      "title": "Natural tooth count indicates long-term survival following pancreatic cancer surgery",
+      "title": "Cannabinoid pathways may offer targets for kidney disease as CKD affects 850 million people",
       "authors": "Medical Xpress",
-      "abstract": "Oral health is known to be linked to overall health, and research has shown relationships with a variety of diseases. Impaired oral health has been linked to prognosis in colorectal cancer and esophageal cancer. Previous studies have also shown an association between oral health and postoperative complications in pancreatic ductal adenocarcinoma (PDAC), one of the more lethal forms of cancer.",
+      "abstract": "Approximately 850 million people globally (9.1% of the world's population) have chronic kidney disease (CKD). The number of affected individuals has grown steadily during the past 20 years and is on track to continue rising. Existing drugs, such as RAAS inhibitors and angiotensin receptor blockers, are commonly prescribed, but their effectiveness varies from patient to patient. Moreover, these drugs can slow disease progression but cannot stop it.",
       "date": "2026-07-31",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-natural-tooth-term-survival-pancreatic.html",
+      "url": "https://medicalxpress.com/news/2026-07-cannabinoid-pathways-kidney-disease-ckd.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cancer",
-        "health",
-        "oral",
-        "pancreatic",
-        "linked",
-        "shown",
-        "natural",
-        "tooth"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.143514+00:00"
-    },
-    {
-      "id": "rss-3849bb75c62e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Personalized care could help more women achieve their breastfeeding goals, new research finds",
-      "authors": "Medical Xpress",
-      "abstract": "Breastfeeding support should move beyond simply encouraging women to breastfeed and instead focus on providing personalized, compassionate and culturally sensitive care, according to new research published in Women and Birth as part of World Breastfeeding Week. The commentary reviews some of the latest breastfeeding research and argues that while most women understand the benefits of breastfeeding and want to breastfeed, many are still not receiving the tailored support they need to achieve their own feeding goals.",
-      "date": "2026-07-31",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-personalized-women-breastfeeding-goals.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "breastfeeding",
-        "women",
-        "personalized",
-        "care",
-        "achieve",
-        "their",
-        "goals",
-        "support"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.143726+00:00"
-    },
-    {
-      "id": "rss-d94638ef9fe7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Why eGoT gets better answers: Teaching AI to connect the dots across domains",
-      "authors": "Medical Xpress",
-      "abstract": "Ever notice how chatbots often insist on making up an answer instead of admitting defeat? Like a student desperately scribbling nonsense to avoid handing in a blank page, large language models (LLMs) seem to live by the make-it-up-as-you-go principle.",
-      "date": "2026-07-31",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-egot-ai-dots-domains.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "egot",
-        "gets",
-        "better",
-        "answers",
-        "teaching",
-        "connect",
-        "dots",
-        "across"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.143891+00:00"
-    },
-    {
-      "id": "rss-ea7f647218eb",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Why does an irregular heartbeat show up 40 years early for some people?",
-      "authors": "Medical Xpress",
-      "abstract": "An estimated 10 million Americans have atrial fibrillation (AFib), according to the National Institutes of Health's National Heart, Lung, and Blood Institute. AFib is a condition in which the upper chambers of the heart beat out of rhythm with the lower chambers, leading to less efficient blood flow. It is usually the result of age and the lifelong cardiovascular strains on an older heart, but some families carry a rare mutation that puts them at high risk for AF much earlier in life, raising the risk of complications such as stroke or even sudden death.",
-      "date": "2026-07-31",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-irregular-heartbeat-years-early-people.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "heart",
-        "some",
-        "afib",
-        "national",
-        "blood",
-        "chambers",
-        "risk",
-        "does"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.144101+00:00"
-    },
-    {
-      "id": "rss-e9b0470fa221",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Biventricular repair linked to better outcomes in superior-inferior ventricles treatment",
-      "authors": "Medical Xpress",
-      "abstract": "The complexity of superior-inferior ventricles—a condition in which one ventricle is positioned on top of the other—has often limited surgical treatment.",
-      "date": "2026-07-31",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-biventricular-linked-outcomes-superior-inferior.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "superior-inferior",
-        "ventricles",
-        "treatment",
-        "biventricular",
-        "repair",
-        "linked",
-        "better",
-        "outcomes"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.144263+00:00"
-    },
-    {
-      "id": "rss-36cc9998dd9e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Bringing a more personalized approach to alcohol treatment: Q&A",
-      "authors": "Medical Xpress",
-      "abstract": "For people diagnosed with alcohol use disorder (AUD), the traditional therapeutic goal has long been total abstinence. It's a time-tested approach that, for many people, continues to be the best solution.",
-      "date": "2026-07-31",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-personalized-approach-alcohol-treatment-qa.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "approach",
-        "alcohol",
+        "disease",
+        "kidney",
+        "million",
         "people",
-        "bringing",
-        "more",
-        "personalized",
-        "treatment",
-        "diagnosed"
+        "drugs",
+        "patient",
+        "cannabinoid",
+        "pathways"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.144424+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.646277+00:00"
     },
     {
-      "id": "rss-4baefe2982a4",
+      "id": "rss-ef4a0a58f299",
       "discipline": "clinical",
       "type": "news",
-      "title": "Gluten-free diet reshapes gut bacteria after celiac diagnosis in children",
+      "title": "Beyond 'healthy' obesity: New framework weighs organ damage and daily limitations",
       "authors": "Medical Xpress",
-      "abstract": "Celiac disease is an autoimmune condition triggered by gluten that affects 1% to 3% of people globally and is caused by a mix of known genetic factors and unknown environmental ones.",
+      "abstract": "A new approach to defining obesity could help physicians better determine which patients need more intensive treatment by focusing on the effects of excess adiposity on organs and tissues rather than relying primarily on whether a person meets a set of metabolic risk thresholds.",
       "date": "2026-07-31",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-gluten-free-diet-reshapes-gut.html",
+      "url": "https://medicalxpress.com/news/2026-07-healthy-obesity-framework-daily-limitations.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "celiac",
-        "gluten-free",
-        "diet",
-        "reshapes",
-        "bacteria",
-        "after",
-        "diagnosis",
+        "obesity",
+        "beyond",
+        "healthy",
+        "framework",
+        "weighs",
+        "organ",
+        "damage",
+        "daily"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:49.646530+00:00"
+    },
+    {
+      "id": "rss-bdadb15df427",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "For mind and body: Community gathering places may counteract cognitive disability",
+      "authors": "Medical Xpress",
+      "abstract": "Community gathering places, where residents lead group activities, have been promoted across Japan as part of long-term care prevention efforts to extend healthy life expectancy. These often involve exercise and social interaction and are meant to help prevent cognitive decline. However, previous studies have reported inconsistent findings regarding their association with cognitive disability.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-mind-body-community-counteract-cognitive.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cognitive",
+        "community",
+        "gathering",
+        "places",
+        "disability",
+        "have",
+        "mind",
+        "body"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:49.646843+00:00"
+    },
+    {
+      "id": "rss-ff12cfba3662",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Microglia reveal sex-specific brain recovery mechanism after ketamine anesthesia",
+      "authors": "Medical Xpress",
+      "abstract": "During ketamine anesthesia, the brain's nerve cells fall silent—as consciousness returns, they begin to reconnect. For the first time, researchers at the Institute of Science and Technology Austria (ISTA) have shown that immune cells in the brain play a critical role in this process—with differences between female and male brains. The findings were published in Science Advances.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-microglia-reveal-sex-specific-brain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "ketamine",
+        "anesthesia",
+        "cells",
+        "microglia",
+        "reveal",
+        "sex-specific",
+        "recovery"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:49.647134+00:00"
+    },
+    {
+      "id": "rss-8d941951c65d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Chromosome-protecting protein may help explain muscle repair and the rarity of muscle cancers",
+      "authors": "Medical Xpress",
+      "abstract": "A protein best known for protecting the ends of chromosomes also helps muscle stem cells preserve their identity and repair damaged tissue, according to a new study from researchers at the Perelman School of Medicine at the University of Pennsylvania. The findings offer new clues for treating muscular dystrophy and provide new insights into the mechanisms of cancer.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-chromosome-protein-muscle-rarity-cancers.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "muscle",
+        "protein",
+        "repair",
+        "chromosome-protecting",
+        "help",
+        "explain",
+        "rarity",
+        "cancers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:49.647398+00:00"
+    },
+    {
+      "id": "rss-7d0e14d6525b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Study shows that social inequality exacerbates barriers to physical activity",
+      "authors": "Medical Xpress",
+      "abstract": "A 10-year study of residents of São Paulo, Brazil, reveals that leisure-time physical activity is highly unequal and that the gap between social strata is widening. While highly educated white men are exercising more, women from racial minorities with low levels of education have the lowest rates of physical activity during leisure time. In contrast, exercise associated with urban transportation, such as walking to work, is distributed more evenly across different population segments.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-social-inequality-exacerbates-barriers-physical.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "that",
+        "physical",
+        "activity",
+        "social",
+        "highly",
+        "more",
+        "shows",
+        "inequality"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:49.647712+00:00"
+    },
+    {
+      "id": "rss-fa1e301a4807",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Why your doctors keep leaving",
+      "authors": "Medical Xpress",
+      "abstract": "If it feels harder to keep the same doctor, you're not imagining it. Health care leaders say retirements, burnout and changing workforce expectations are making it complicated to keep experienced clinicians in place.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-doctors.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "keep",
+        "your",
+        "doctors",
+        "leaving",
+        "feels",
+        "harder",
+        "same",
+        "doctor"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:49.647943+00:00"
+    },
+    {
+      "id": "rss-bb21c706c31f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "AI can accurately detect left ventricular dysfunction from electrocardiograms",
+      "authors": "Medical Xpress",
+      "abstract": "Artificial intelligence (AI) analysis of electrocardiogram (ECG) data can simultaneously detect subtypes of left ventricular (LV) dysfunction and heart failure with preserved ejection fraction (HFpEF), according to a study published online July 28 in the Journal of the American Heart Association.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-ai-accurately-left-ventricular-dysfunction.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "detect",
+        "left",
+        "ventricular",
+        "dysfunction",
+        "heart",
+        "accurately",
+        "electrocardiograms",
+        "artificial"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:49.648180+00:00"
+    },
+    {
+      "id": "rss-b48f418a930b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Eating a wide variety of plants every day could be more beneficial than taking a probiotic",
+      "authors": "Medical Xpress",
+      "abstract": "Eating a wide variety of plants every day could be more beneficial to the microbiome than taking a standard probiotic. New research led by scientists from King's College London and ZOE found that consuming a daily blend with more than 30 different plants resulted in increased populations of \"favorable\" gut bacteria compared with a probiotic control. The work is published in the British Journal of Nutrition.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-wide-variety-day-beneficial-probiotic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "plants",
+        "more",
+        "than",
+        "probiotic",
+        "eating",
+        "wide",
+        "variety",
+        "every"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:49.648444+00:00"
+    },
+    {
+      "id": "rss-953f421ea7f1",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Press-needle therapy shows potential for pediatric allergic rhinitis",
+      "authors": "Medical Xpress",
+      "abstract": "For children with allergic rhinitis (AR), press-needle therapy, especially in addition to medication, is potentially effective in improving clinical response, symptoms and quality of life, according to a review published in the September issue of the International Journal of Pediatric Otorhinolaryngology.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-needle-therapy-potential-pediatric-allergic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "press-needle",
+        "therapy",
+        "pediatric",
+        "allergic",
+        "rhinitis",
+        "shows",
+        "potential",
         "children"
       ],
       "readTime": "1 min",
@@ -292,167 +388,295 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.144568+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.648691+00:00"
     },
     {
-      "id": "rss-1ea9c4ae9555",
+      "id": "rss-c8fa6ee9990e",
       "discipline": "clinical",
       "type": "news",
-      "title": "People with frailty explain what they really want from digital health tools",
+      "title": "New study links exposure to fungicides and insecticides to changes in the age of menarche",
       "authors": "Medical Xpress",
-      "abstract": "\"Older adults with pre-frailty and frailty are vulnerable to malnutrition, yet they often lack access to tailored, credible and accessible nutrition education,\" says researcher Adeline Lau, from Flinders University's Caring Futures Institute.",
+      "abstract": "Puberty is a process regulated by the endocrine system, and its timing can be altered by environmental factors. Several recent studies point to a trend toward earlier onset of puberty in girls, a phenomenon linked to a complex interplay among genetics, lifestyle and exposure to chemicals capable of interfering with hormones. Among these substances are certain pesticides, widely used in agriculture and present in some everyday foods.",
       "date": "2026-07-31",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-people-frailty-digital-health-tools.html",
+      "url": "https://medicalxpress.com/news/2026-07-links-exposure-fungicides-insecticides-age.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "frailty",
-        "they",
-        "people",
-        "explain",
-        "what",
-        "really",
+        "exposure",
+        "puberty",
+        "among",
+        "links",
+        "fungicides",
+        "insecticides",
+        "changes",
+        "menarche"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:49.648965+00:00"
+    },
+    {
+      "id": "rss-c685722fc970",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Not all exercise is equal when it comes to metabolic syndrome risk",
+      "authors": "Medical Xpress",
+      "abstract": "Not every disease announces itself with obvious symptoms. Some develop quietly, going unnoticed until they begin to take a serious toll on health. Metabolic syndrome (MetS) is one of them. Rather than a single disease, it is a combination of at least three conditions—including high blood pressure, high blood sugar, excess belly fat, high triglycerides and low HDL (good) cholesterol—that together raise the risk of heart disease, stroke and type 2 diabetes.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-equal-metabolic-syndrome.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "disease",
+        "high",
+        "metabolic",
+        "syndrome",
+        "risk",
+        "blood",
+        "exercise",
+        "equal"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:49.649261+00:00"
+    },
+    {
+      "id": "rss-6ed5ffae06fd",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "authors": "TechCrunch AI",
+      "abstract": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "earth",
+        "nixes",
+        "feature",
+        "after",
+        "launch",
+        "amid",
+        "criticism"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:49.727048+00:00"
+    },
+    {
+      "id": "rss-66467b9e48df",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "authors": "TechCrunch AI",
+      "abstract": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "altman",
+        "after",
+        "openai",
+        "only",
+        "wants",
+        "pump",
+        "brakes",
+        "years"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:49.727400+00:00"
+    },
+    {
+      "id": "rss-24b562820bab",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "authors": "TechCrunch AI",
+      "abstract": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "snapchat",
+        "spotlight",
+        "longer",
+        "rewards",
+        "fully",
+        "ai-generated",
+        "content",
+        "adjusted"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:49.727596+00:00"
+    },
+    {
+      "id": "rss-fc76f29b279d",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Siri AI could come with a paywall for power users",
+      "authors": "TechCrunch AI",
+      "abstract": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "siri",
+        "users",
+        "apple",
+        "could",
+        "come",
+        "paywall",
+        "power",
+        "cook"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:49.727806+00:00"
+    },
+    {
+      "id": "rss-3ec740f586de",
+      "discipline": "cs",
+      "type": "news",
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "authors": "TechCrunch AI",
+      "abstract": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "spacex",
+        "remove",
+        "unpermitted",
+        "turbines",
+        "another",
+        "year",
+        "building",
+        "power"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:49.727999+00:00"
+    },
+    {
+      "id": "rss-c232657fdde4",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "authors": "TechCrunch AI",
+      "abstract": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "voice",
+        "smallest",
+        "raises",
+        "build",
+        "ultra-fast",
+        "that",
+        "sounds",
+        "genuinely"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:49.728157+00:00"
+    },
+    {
+      "id": "rss-3b137e58f8ec",
+      "discipline": "cs",
+      "type": "news",
+      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "authors": "TechCrunch AI",
+      "abstract": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "after",
+        "openai",
+        "labs",
         "want",
-        "digital"
+        "pump",
+        "brakes",
+        "amazon",
+        "spacex"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.144734+00:00"
-    },
-    {
-      "id": "rss-867f693c30c2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Mighty mitochondria: Scientists uncover new role for fighting bacterial infections, including drug-resistant superbugs",
-      "authors": "Medical Xpress",
-      "abstract": "Beyond the nucleus, no other organelle in eukaryotic cells captures the public's imagination quite like mitochondria: They are the engines of cellular energy production; they possess their own DNA, and they are passed from generation to generation from mothers to offspring.",
-      "date": "2026-07-31",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-mighty-mitochondria-scientists-uncover-role.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "they",
-        "mitochondria",
-        "generation",
-        "mighty",
-        "scientists",
-        "uncover",
-        "role",
-        "fighting"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.144905+00:00"
-    },
-    {
-      "id": "rss-8c650266ea7e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Long COVID and immune 'soldier' cells: Q&A",
-      "authors": "Medical Xpress",
-      "abstract": "Extreme fatigue, a racing pulse, shortness of breath, brain fog, aching joints—the symptoms of long COVID can vary widely, change unpredictably and be difficult to recognize as signs of the condition. Long COVID also remains difficult to treat, as no standard treatments yet exist.",
-      "date": "2026-07-31",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-covid-immune-soldier-cells-qa.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "long",
-        "covid",
-        "difficult",
-        "immune",
-        "soldier",
-        "cells",
-        "extreme",
-        "fatigue"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.145083+00:00"
-    },
-    {
-      "id": "rss-ad5b7cbb8ccb",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New guideline on managing adult bronchiectasis",
-      "authors": "Medical Xpress",
-      "abstract": "The American College of Chest Physicians (CHEST) has released a new clinical guideline on the management of adult bronchiectasis. Published in the journal CHEST, the guideline contains 13 evidence-based recommendations intended to standardize bronchiectasis management.",
-      "date": "2026-07-31",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-guideline-adult-bronchiectasis.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "guideline",
-        "bronchiectasis",
-        "chest",
-        "adult",
-        "management",
-        "managing",
-        "american",
-        "college"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.145234+00:00"
-    },
-    {
-      "id": "rss-2cba3190ed78",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "How children talk can indicate risk for future mental health problems",
-      "authors": "Medical Xpress",
-      "abstract": "Linguistic models that analyzed the words children used when talking about stressful events were better at predicting future mental health problems than a panel of human experts.",
-      "date": "2026-07-31",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-children-future-mental-health-problems.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "children",
-        "future",
-        "mental",
-        "health",
-        "problems",
-        "talk",
-        "indicate",
-        "risk"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.145378+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.728407+00:00"
     },
     {
       "id": "rss-f0b8b0bdbef3",
@@ -460,7 +684,7 @@ window.LIVE_FEED_DATA = {
       "type": "news",
       "title": "Anthropic says its own AI models breached three companies during security tests",
       "authors": "TechCrunch AI",
-      "abstract": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "abstract": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
       "date": "2026-07-31",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -484,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.241360+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.728591+00:00"
     },
     {
       "id": "rss-17bbc4c12740",
@@ -516,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.241539+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.728801+00:00"
     },
     {
       "id": "rss-6d411f84c296",
@@ -548,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.241663+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.728977+00:00"
     },
     {
       "id": "rss-e4bce1b7077b",
@@ -580,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.241792+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.729133+00:00"
     },
     {
       "id": "rss-47516e49d93c",
@@ -612,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.241916+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.729315+00:00"
     },
     {
       "id": "rss-ffa6da44b286",
@@ -644,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.242020+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.729478+00:00"
     },
     {
       "id": "rss-a3fdcb09e2ab",
@@ -676,231 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.242145+00:00"
-    },
-    {
-      "id": "rss-3cd9ffc60a28",
-      "discipline": "cs",
-      "type": "news",
-      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-      "authors": "TechCrunch AI",
-      "abstract": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "linkedin",
-        "ai-generated",
-        "slop",
-        "adds",
-        "button",
-        "report",
-        "introducing",
-        "ways"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.242263+00:00"
-    },
-    {
-      "id": "rss-2496ebbddd1a",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "authors": "TechCrunch AI",
-      "abstract": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "okta",
-        "buys",
-        "security",
-        "startup",
-        "permiso",
-        "source",
-        "says",
-        "about"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.242374+00:00"
-    },
-    {
-      "id": "rss-33abbb809baf",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Meta says AI is making it easier to build new apps — and more are coming",
-      "authors": "TechCrunch AI",
-      "abstract": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "meta",
-        "says",
-        "making",
-        "easier",
-        "build",
-        "apps",
-        "more",
-        "consumer"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.242489+00:00"
-    },
-    {
-      "id": "rss-c215d4007a76",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "authors": "TechCrunch AI",
-      "abstract": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nscale",
-        "anyscale",
-        "buys",
-        "seeks",
-        "more",
-        "compute",
-        "stack",
-        "british"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.242594+00:00"
-    },
-    {
-      "id": "rss-e4c2e896a8a4",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-      "authors": "TechCrunch AI",
-      "abstract": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "engineers",
-        "forward-deployed",
-        "industry",
-        "latest",
-        "talent",
-        "obsession",
-        "estimates",
-        "only"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.242717+00:00"
-    },
-    {
-      "id": "rss-7cadce40a363",
-      "discipline": "cs",
-      "type": "news",
-      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-      "authors": "TechCrunch AI",
-      "abstract": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hugging",
-        "face",
-        "openai",
-        "cybersecurity",
-        "breach",
-        "hacker",
-        "noisy",
-        "fast"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.242837+00:00"
-    },
-    {
-      "id": "rss-7e2c15bf3306",
-      "discipline": "cs",
-      "type": "news",
-      "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-      "authors": "TechCrunch AI",
-      "abstract": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "disrupt",
-        "biggest",
-        "stage",
-        "more",
-        "techcrunch",
-        "features",
-        "leaders",
-        "amazon"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.242954+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.729691+00:00"
     },
     {
       "id": "rss-f7328a645416",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.419081+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.829007+00:00"
     },
     {
       "id": "rss-22e3c70241d7",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.419219+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.829205+00:00"
     },
     {
       "id": "rss-61c6d7b63768",
@@ -996,7 +996,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.419340+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.829391+00:00"
+    },
+    {
+      "id": "openalex-1331590492a4",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models",
+      "authors": "Weijia Zhang, Jindong Han, Zhao Xu, Hang Ni, Tengfei Lyu, Hao Liu",
+      "abstract": "The integration of machine learning techniques has become a cornerstone in the development of intelligent urban services, significantly contributing to the enhancement of urban efficiency, sustainability, and overall livability. Recent advancements in foundational models, such as ChatGPT, have introduced a paradigm shift within the fields of machine learning and artificial intelligence. These models, with their exceptional capacity for contextual comprehension, problem-solving, and task adaptability, present a transformative opportunity to reshape the future of smart cities and drive progress toward Urban General Intelligence (UGI). Despite increasing attention to Urban Foundation Models (UFMs), this rapidly evolving field faces critical challenges, including the lack of clear definitions, systematic reviews, and universalizable solutions. To address these issues, this paper first int...",
+      "date": "2026-07-29",
+      "year": 2026,
+      "journal": "ACM Transactions on Intelligent Systems and Technology",
+      "source": "ACM Transactions on Intelligent Systems and Technology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1145/3821528",
+      "doi": "10.1145/3821528",
+      "pdfUrl": "https://arxiv.org/pdf/2402.01749",
+      "keywords": [
+        "Foundation (evidence)",
+        "Management science",
+        "Engineering ethics",
+        "Regional science",
+        "Political science",
+        "Human Mobility and Location-Based Analysis",
+        "Smart Cities and Technologies",
+        "urban"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:46.129017+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -1028,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:56.420461+00:00"
+      "_retrievedAt": "2026-07-31T19:49:43.538607+00:00"
     },
     {
       "id": "rss-d746300c673c",
@@ -1060,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.419446+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.829557+00:00"
     },
     {
       "id": "rss-e3531be54cc3",
@@ -1092,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.785556+00:00"
+      "_retrievedAt": "2026-07-31T19:49:50.212851+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -1124,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.419558+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.829753+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1140,7 +1172,7 @@ window.LIVE_FEED_DATA = {
       "sourceApi": "OpenAlex",
       "url": "https://doi.org/10.1126/science.adt8307",
       "doi": "10.1126/science.adt8307",
-      "pdfUrl": "https://www.biorxiv.org/content/biorxiv/early/2024/10/17/2024.10.14.618338.full.pdf",
+      "pdfUrl": "https://doi.org/10.1126/science.adt8307",
       "keywords": [
         "Reprogramming",
         "Epigenetics",
@@ -1156,7 +1188,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:57.527390+00:00"
+      "_retrievedAt": "2026-07-31T19:49:44.388482+00:00"
+    },
+    {
+      "id": "openalex-9acebec7e1d9",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Single-cell analysis of the epigenome and 3D chromatin architecture in the human retina",
+      "authors": "Ying Yuan, Pooja Biswas, Nathan R. Zemke, Kelsey Dang, Yue Wu, Matteo D’Antonio",
+      "abstract": "Most genetic risk variants linked to ocular diseases are nonprotein coding and presumably contribute to disease through dysregulation of gene expression; however, understanding their mechanisms has been impeded by incomplete annotation of transcriptional regulatory elements across retinal cell types. To address this, we carried out single-cell multiomics assays to investigate gene expression, chromatin accessibility, DNA methylome, and three-dimensional (3D) chromatin architecture in human retina, macula, and retinal pigment epithelium/choroid. We identified 420,824 unique candidate regulatory elements and characterized their chromatin states in 23 retinal cell types. Comparative analysis of chromatin landscapes between human and mouse retina cells further revealed both evolutionarily conserved and divergent retinal gene-regulatory programs. Leveraging the advancements in deep-learnin...",
+      "date": "2026-07-23",
+      "year": 2026,
+      "journal": "Science Advances",
+      "source": "Science Advances",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1126/sciadv.adv9162",
+      "doi": "10.1126/sciadv.adv9162",
+      "pdfUrl": "https://www.science.org/doi/pdf/10.1126/sciadv.adv9162?download=true",
+      "keywords": [
+        "Epigenome",
+        "Retina",
+        "Chromatin",
+        "Computer science",
+        "Architecture",
+        "Single-cell and spatial transcriptomics",
+        "Retinal Development and Disorders",
+        "Cell Image Analysis Techniques"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:44.390153+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -1188,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:56.422135+00:00"
+      "_retrievedAt": "2026-07-31T19:49:43.540912+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -1220,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.419665+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.829930+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -1252,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:56.419468+00:00"
+      "_retrievedAt": "2026-07-31T19:49:43.537220+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1284,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.419781+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.830078+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -1316,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.785738+00:00"
+      "_retrievedAt": "2026-07-31T19:49:50.213089+00:00"
     },
     {
       "id": "rss-67e6e4628573",
@@ -1348,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.785888+00:00"
+      "_retrievedAt": "2026-07-31T19:49:50.213308+00:00"
     },
     {
       "id": "rss-2c39e9060823",
@@ -1380,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.786424+00:00"
+      "_retrievedAt": "2026-07-31T19:49:50.214064+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1412,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.419890+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.830232+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -1444,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:58.374945+00:00"
+      "_retrievedAt": "2026-07-31T19:49:45.314620+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1476,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.419997+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.830394+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -1508,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:59.011680+00:00"
+      "_retrievedAt": "2026-07-31T19:49:46.132077+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -1540,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.420096+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.830548+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -1572,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.420211+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.830747+00:00"
     },
     {
       "id": "rss-ce688c2211e0",
@@ -1604,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.420306+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.830905+00:00"
     },
     {
       "id": "rss-d7bb3cddfe2e",
@@ -1636,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.420424+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.831089+00:00"
     },
     {
       "id": "rss-67f98bea1dc8",
@@ -1668,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.420536+00:00"
+      "_retrievedAt": "2026-07-31T19:49:49.831249+00:00"
     },
     {
       "id": "rss-35f3c73960fd",
@@ -1700,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.786655+00:00"
+      "_retrievedAt": "2026-07-31T19:49:50.214382+00:00"
     },
     {
       "id": "rss-fd9a37f6681c",
@@ -1732,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.786851+00:00"
+      "_retrievedAt": "2026-07-31T19:49:50.214642+00:00"
     },
     {
       "id": "rss-d6d69b0873be",
@@ -1764,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.787058+00:00"
+      "_retrievedAt": "2026-07-31T19:49:50.214960+00:00"
     },
     {
       "id": "rss-68e47e682229",
@@ -1796,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.787221+00:00"
+      "_retrievedAt": "2026-07-31T19:49:50.215195+00:00"
     },
     {
       "id": "rss-e186ac38d0fa",
@@ -1828,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.787396+00:00"
+      "_retrievedAt": "2026-07-31T19:49:50.215446+00:00"
     },
     {
       "id": "rss-bde592569e0e",
@@ -1860,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:32:04.787590+00:00"
+      "_retrievedAt": "2026-07-31T19:49:50.215769+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -1892,39 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:57.528345+00:00"
-    },
-    {
-      "id": "openalex-da65fc09ba51",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Geospatial foundation models enable data-efficient tree species mapping in temperate mountain forests",
-      "authors": "James Ball, Jana Annika Wicklein, Zhengpeng Feng, Jovana Knezevic, Sadiq Jaffer, Anil Madhavapeddy",
-      "abstract": "Accurate mapping of tree species from satellite data remains challenging in heterogeneous mountain forests due to environmental gradients, mixed stands, and limited training labels. Geospatial foundation models (GFMs) learn rich representations from large multi-sensor archives , but their utility for species-level mapping remains unclear . Here, we evaluate two GFM embeddings, AlphaEarth and Tessera, for tree species classification in a demanding mountain landscape (Trentino, Italy; 18 species and groups), versus conventional Sentinel-1+2 composites, across experiments spanning classification accuracy, label efficiency, classifier complexity, environmental covariates, label impurity, and temporal transferability. GFM embeddings consistently outperform conventional baselines (weighted F1 = 0.83 vs. 0.80; macro F1 = 0.55 vs. 0.50), approaching saturation with only 5% of training parcels...",
-      "date": "2026-07-10",
-      "year": 2026,
-      "journal": "Science of Remote Sensing",
-      "source": "Science of Remote Sensing",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.srs.2026.100466",
-      "doi": "10.1016/j.srs.2026.100466",
-      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S2666017226001045/pdf",
-      "keywords": [
-        "Geospatial analysis",
-        "Geography",
-        "Temperate climate",
-        "Remote sensing",
-        "Foundation (evidence)",
-        "Species Distribution and Climate Change",
-        "Remote Sensing and LiDAR Applications",
-        "Ecology and Vegetation Dynamics Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:59.014119+00:00"
+      "_retrievedAt": "2026-07-31T19:49:44.389855+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -1956,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:59.011182+00:00"
+      "_retrievedAt": "2026-07-31T19:49:46.131368+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -1988,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:57.527641+00:00"
+      "_retrievedAt": "2026-07-31T19:49:44.388859+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2020,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:58.375360+00:00"
+      "_retrievedAt": "2026-07-31T19:49:45.315255+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2052,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:56.421466+00:00"
+      "_retrievedAt": "2026-07-31T19:49:43.539995+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2084,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:57.529740+00:00"
+      "_retrievedAt": "2026-07-31T19:49:44.392566+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2116,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:56.420708+00:00"
+      "_retrievedAt": "2026-07-31T19:49:43.538957+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2148,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:56.421239+00:00"
+      "_retrievedAt": "2026-07-31T19:49:43.539661+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2180,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:58.375099+00:00"
+      "_retrievedAt": "2026-07-31T19:49:45.314888+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2212,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:56.420194+00:00"
+      "_retrievedAt": "2026-07-31T19:49:43.538252+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2244,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:58.376324+00:00"
+      "_retrievedAt": "2026-07-31T19:49:45.316578+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2276,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:59.012501+00:00"
+      "_retrievedAt": "2026-07-31T19:49:46.133227+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2308,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:59.013317+00:00"
+      "_retrievedAt": "2026-07-31T19:49:46.134401+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2340,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:59.011469+00:00"
+      "_retrievedAt": "2026-07-31T19:49:46.131783+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2372,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:56.418846+00:00"
+      "_retrievedAt": "2026-07-31T19:49:43.536359+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2404,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:59.010334+00:00"
+      "_retrievedAt": "2026-07-31T19:49:46.130638+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2436,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:56.421897+00:00"
+      "_retrievedAt": "2026-07-31T19:49:43.540565+00:00"
     },
     {
       "id": "openalex-7a2e0cea295d",
@@ -2468,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:59.013840+00:00"
+      "_retrievedAt": "2026-07-31T19:49:46.135132+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2496,11 +2528,11 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence in Healthcare and Education"
       ],
       "readTime": "1 min",
-      "citedBy": 60,
+      "citedBy": 61,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:56.419742+00:00"
+      "_retrievedAt": "2026-07-31T19:49:43.537579+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2532,7 +2564,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:56.418577+00:00"
+      "_retrievedAt": "2026-07-31T19:49:43.536026+00:00"
+    },
+    {
+      "id": "openalex-6f0bebdd8d63",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "From complexity to clarity: aging bone marrow niche in bone and blood regeneration and malignancy",
+      "authors": "Nainita Roy, Hanyu Liu, Allison L Horenberg, Arvind P. Pathak, Junyu Chen, Saravana K. Ramasamy",
+      "abstract": "The bone marrow niche (BMN) plays a central role in regulating hematopoietic stem-cell (HSC) maintenance, lineage commitment, and immune homeostasis, while also supporting osteogenesis and maintaining skeletal integrity. Once considered static, the BMN is now recognized as a dynamic and responsive microenvironment that integrates local signals and systemic cues to meet physiological demands and respond to stress. Aging causes profound and progressive changes to this niche, leading to functional decline across both hematopoietic and stromal compartments. Recent advances in high-resolution imaging, single-cell and spatial transcriptomics, and in vivo lineage tracing have revealed remarkable heterogeneity and plasticity within the vascular and mesenchymal elements of this niche. Yet, key questions remain unresolved, including the identity and hierarchy of mesenchymal and osteolineage cel...",
+      "date": "2026-05-18",
+      "year": 2026,
+      "journal": "Bone Research",
+      "source": "Bone Research",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41413-026-00543-3",
+      "doi": "10.1038/s41413-026-00543-3",
+      "pdfUrl": "https://www.nature.com/articles/s41413-026-00543-3.pdf",
+      "keywords": [
+        "Bone marrow",
+        "Mesenchymal stem cell",
+        "Haematopoiesis",
+        "Biology",
+        "Stromal cell",
+        "Hematopoietic Stem Cell Transplantation",
+        "Mesenchymal stem cell research",
+        "Immune cells in cancer"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-07-31T19:49:45.317302+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2564,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:56.419904+00:00"
+      "_retrievedAt": "2026-07-31T19:49:43.537858+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2596,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:56.418273+00:00"
+      "_retrievedAt": "2026-07-31T19:49:43.535602+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2628,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:58.376565+00:00"
+      "_retrievedAt": "2026-07-31T19:49:45.316938+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2660,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:58.375859+00:00"
+      "_retrievedAt": "2026-07-31T19:49:45.315930+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2692,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:59.010024+00:00"
+      "_retrievedAt": "2026-07-31T19:49:46.129779+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2724,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:56.419180+00:00"
+      "_retrievedAt": "2026-07-31T19:49:43.536822+00:00"
     },
     {
       "id": "openalex-e2538de02ecf",
@@ -2756,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:58.377792+00:00"
+      "_retrievedAt": "2026-07-31T19:49:45.319023+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -2788,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:59.013053+00:00"
+      "_retrievedAt": "2026-07-31T19:49:46.134027+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -2820,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:57.528550+00:00"
+      "_retrievedAt": "2026-07-31T19:49:44.390450+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -2852,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:57.529240+00:00"
+      "_retrievedAt": "2026-07-31T19:49:44.391455+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2884,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:56.421658+00:00"
+      "_retrievedAt": "2026-07-31T19:49:43.540259+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -2916,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:59.011982+00:00"
+      "_retrievedAt": "2026-07-31T19:49:46.132470+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -2948,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:57.527894+00:00"
+      "_retrievedAt": "2026-07-31T19:49:44.389189+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -2980,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:59.010575+00:00"
+      "_retrievedAt": "2026-07-31T19:49:46.130992+00:00"
     },
     {
       "id": "openalex-ecc34b946b2e",
@@ -3012,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:58.377323+00:00"
+      "_retrievedAt": "2026-07-31T19:49:45.318339+00:00"
     },
     {
       "id": "openalex-1c8cc4075423",
@@ -3044,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:59.012225+00:00"
+      "_retrievedAt": "2026-07-31T19:49:46.132836+00:00"
     },
     {
       "id": "openalex-a528e7ad7434",
@@ -3076,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:58.376095+00:00"
+      "_retrievedAt": "2026-07-31T19:49:45.316259+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -3108,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:57.528107+00:00"
+      "_retrievedAt": "2026-07-31T19:49:44.389494+00:00"
     },
     {
       "id": "openalex-7a392a0ca13d",
@@ -3140,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:57.528802+00:00"
+      "_retrievedAt": "2026-07-31T19:49:44.390833+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -3172,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:56.420932+00:00"
+      "_retrievedAt": "2026-07-31T19:49:43.539257+00:00"
     },
     {
       "id": "openalex-7ccfc202ecea",
@@ -3204,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:57.526955+00:00"
+      "_retrievedAt": "2026-07-31T19:49:44.387875+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -3236,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:57.529473+00:00"
+      "_retrievedAt": "2026-07-31T19:49:44.392194+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -3264,11 +3328,11 @@ window.LIVE_FEED_DATA = {
         "Soil and Land Suitability Analysis"
       ],
       "readTime": "1 min",
-      "citedBy": 4,
+      "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:59.010909+00:00"
+      "_retrievedAt": "2026-07-31T19:49:46.130229+00:00"
     },
     {
       "id": "openalex-d826f52b28e7",
@@ -3300,39 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:59.013603+00:00"
-    },
-    {
-      "id": "openalex-e90314f807eb",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "CD19-negative relapse after CAR-T cell therapy: mechanisms of antigen escape and lineage switch",
-      "authors": "Jiawen Huang, Xiaobing Huang, D. Yu",
-      "abstract": "CD19 chimeric antigen receptor (CAR)-T cell therapy has transformed the treatment of relapsed/refractory B-cell malignancies, achieving high remission rates. Nonetheless, 20%-40% of patients eventually relapse, classified as either CD19 + or CD19 − relapse. Most relapses are CD19 + , largely due to reduced potency and poor persistence of CAR-T cells after infusion. In contrast, a substantial fraction of patients develops CD19 − relapse driven by selective pressure from CAR-T cell therapy. Post-CAR-T cell CD19 − relapse primarily arises through three mechanisms. First, pre-existing CD19 − subclones, particularly those with progenitor-like features, expand because of their survival advantages. Second, CD19 expression is downregulated through pre-existing or newly acquired genetic alterations (mutations and abnormal splicing), epigenetic silencing, and post-transcriptional dysregulation....",
-      "date": "2026-04-07",
-      "year": 2026,
-      "journal": "Frontiers in Immunology",
-      "source": "Frontiers in Immunology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fimmu.2026.1692287",
-      "doi": "10.3389/fimmu.2026.1692287",
-      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1692287/pdf",
-      "keywords": [
-        "CD19",
-        "Myeloid",
-        "Cancer research",
-        "Epigenetics",
-        "Chimeric antigen receptor",
-        "CAR-T cell therapy research",
-        "Virus-based gene therapy research",
-        "Monoclonal and Polyclonal Antibodies Research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:57.530044+00:00"
+      "_retrievedAt": "2026-07-31T19:49:46.134810+00:00"
     },
     {
       "id": "openalex-2f6d80ec93bc",
@@ -3364,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:58.378182+00:00"
+      "_retrievedAt": "2026-07-31T19:49:45.319585+00:00"
     },
     {
       "id": "openalex-557912e64e56",
@@ -3396,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:57.527189+00:00"
+      "_retrievedAt": "2026-07-31T19:49:44.388202+00:00"
     },
     {
       "id": "openalex-e28246dfcacc",
@@ -3424,11 +3456,11 @@ window.LIVE_FEED_DATA = {
         "Genomic variations and chromosomal abnormalities"
       ],
       "readTime": "1 min",
-      "citedBy": 3,
+      "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:57.530320+00:00"
+      "_retrievedAt": "2026-07-31T19:49:44.391856+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -3460,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:59.012788+00:00"
+      "_retrievedAt": "2026-07-31T19:49:46.133622+00:00"
     },
     {
       "id": "openalex-8d5e6bfc7e0b",
@@ -3492,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:57.529050+00:00"
+      "_retrievedAt": "2026-07-31T19:49:44.391179+00:00"
     },
     {
       "id": "openalex-16c0651ed52d",
@@ -3524,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:58.376793+00:00"
+      "_retrievedAt": "2026-07-31T19:49:45.317595+00:00"
     },
     {
       "id": "openalex-fc702833bf18",
@@ -3556,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:58.377071+00:00"
+      "_retrievedAt": "2026-07-31T19:49:45.317990+00:00"
     },
     {
       "id": "openalex-f5a45d4ca0e2",
@@ -3588,39 +3620,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:58.377524+00:00"
-    },
-    {
-      "id": "openalex-0296e76b4f7f",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Artificial intelligence-powered liquid biopsy in cancer: a paradigm shift in cancer detection and personalized care",
-      "authors": "Sherihan G. AbdelHamid, Esraa M. Halawa, Eslam Ibrahim, Mahmoud ElHefnawi",
-      "abstract": "Liquid biopsy has evolved as a transformative strategy revolutionizing the oncology field. It encompasses the detection of circulating biomarkers derived from tumors including circulating tumor DNA, extracellular vesicles, tumor educated platelets, circulating tumor cells, and circulating RNAs within body fluids. Nonetheless, its application in the clinical settings continues to be constrained by issues related to limited sensitivity, specificity, and lack of standardization. This review uniquely examines the convergence of artificial intelligence (AI) and machine learning (ML) algorithms with liquid biopsy to overcome these barriers and advance precision oncology. Focusing on four major malignancies; breast, lung, colorectal cancers, and hepatocellular carcinoma; we critically evaluate how AI-powered liquid biopsy improves early detection of cancer, prognosis prediction, and monitori...",
-      "date": "2026-04-02",
-      "year": 2026,
-      "journal": "Cancer Cell International",
-      "source": "Cancer Cell International",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s12935-026-04263-w",
-      "doi": "10.1186/s12935-026-04263-w",
-      "pdfUrl": "https://doi.org/10.1186/s12935-026-04263-w",
-      "keywords": [
-        "Liquid biopsy",
-        "Medicine",
-        "Transformative learning",
-        "Personalized medicine",
-        "Biopsy",
-        "Cancer Genomics and Diagnostics",
-        "Cancer Cells and Metastasis",
-        "Extracellular vesicles in disease"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-07-31T14:31:58.378406+00:00"
+      "_retrievedAt": "2026-07-31T19:49:45.318623+00:00"
     }
   ]
 };
