@@ -1,11 +1,235 @@
 {
-  "generatedAt": "2026-08-01T13:51:33.993072+00:00",
+  "generatedAt": "2026-08-01T19:31:14.522921+00:00",
   "total": 113,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-f0c61ee65de7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Eye contact helps infants 'tune in' to speaker's brainwaves and learn language",
+      "authors": "Medical Xpress",
+      "abstract": "Infants use eye contact with speakers to work out what to pay attention to and synchronize their brainwaves, helping them learn language, scientists in Cambridge and Singapore have shown.",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-eye-contact-infants-tune-speaker.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "contact",
+        "infants",
+        "brainwaves",
+        "learn",
+        "language",
+        "helps",
+        "tune",
+        "speaker"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-01T19:31:13.985180+00:00"
+    },
+    {
+      "id": "rss-cb53a6aae083",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Your personality changes more across your life than you think, according to new study",
+      "authors": "Medical Xpress",
+      "abstract": "Personality traits have long been seen as set in stone, with many believing they stop changing once we reach adulthood. A recent study, however, challenges this long-held belief, suggesting that personality changes far more than most people realize. In the first part of the study, researchers surveyed 887 U.S. residents who rated the Big Five personality traits—extraversion, agreeableness, conscientiousness, neuroticism and openness—as some of the most stable characteristics of a person's life.",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-personality-life.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "personality",
+        "your",
+        "changes",
+        "more",
+        "life",
+        "than",
+        "traits",
+        "most"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-01T19:31:13.985540+00:00"
+    },
+    {
+      "id": "rss-32485f61fff7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Soy lysolecithin counters high-salt diet-induced hypertension and cognitive impairment",
+      "authors": "Medical Xpress",
+      "abstract": "High-salt (HS) intake is a major global health concern, closely linked to hypertension and growing evidence of cognitive and emotional decline. Although salt is a routine part of daily diets, long-term overconsumption can negatively affect both the cardiovascular system and the central nervous system, underscoring the need for practical dietary strategies to mitigate these adverse health effects.",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-soy-lysolecithin-counters-high-salt.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "high-salt",
+        "hypertension",
+        "cognitive",
+        "health",
+        "system",
+        "lysolecithin",
+        "counters",
+        "diet-induced"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-01T19:31:13.985847+00:00"
+    },
+    {
+      "id": "rss-955b1ab51cdb",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Compression wraps offer no healing advantage for venous leg ulcers, clinical trial finds",
+      "authors": "Medical Xpress",
+      "abstract": "Compression wraps are unlikely to help venous leg ulcers heal faster than standard compression treatments, according to a clinical trial led by University of Manchester and York researchers.",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-compression-advantage-venous-leg-ulcers.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "compression",
+        "wraps",
+        "venous",
+        "ulcers",
+        "clinical",
+        "trial",
+        "offer",
+        "healing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-01T19:31:13.986078+00:00"
+    },
+    {
+      "id": "rss-b8083f7368e4",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New wearable stickers simplify cystic fibrosis diagnosis",
+      "authors": "Medical Xpress",
+      "abstract": "A pair of wearable stickers may transform diagnostic sweat testing for cystic fibrosis (CF), a genetic disorder that causes problems with digestion and breathing.",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-wearable-stickers-cystic-fibrosis-diagnosis.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "wearable",
+        "stickers",
+        "cystic",
+        "fibrosis",
+        "simplify",
+        "diagnosis",
+        "pair",
+        "transform"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-01T19:31:13.986294+00:00"
+    },
+    {
+      "id": "rss-d84cdfa5d35f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Reshaping the gut microbiome can boost chemotherapy delivery to tumors",
+      "authors": "Medical Xpress",
+      "abstract": "A new study led by researchers at The University of Texas MD Anderson Cancer Center has identified a way to reshape the gut microbiome that can enhance the delivery of certain chemotherapies to tumors, offering a potential strategy to make nanoparticle-based cancer drugs more effective.",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-reshaping-gut-microbiome-boost-chemotherapy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "microbiome",
+        "delivery",
+        "tumors",
+        "cancer",
+        "reshaping",
+        "boost",
+        "chemotherapy",
+        "researchers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-01T19:31:13.986531+00:00"
+    },
+    {
+      "id": "rss-37d3b75bd60e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Study suggests a shared logic of sensory processing across vertebrate brains",
+      "authors": "Medical Xpress",
+      "abstract": "How does the brain make sense of what we see, hear and feel, and transform these separate signals into a coherent perception of the world?",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-07-logic-sensory-vertebrate-brains.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "suggests",
+        "shared",
+        "logic",
+        "sensory",
+        "processing",
+        "across",
+        "vertebrate",
+        "brains"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-01T19:31:13.986785+00:00"
+    },
     {
       "id": "rss-d08c5bd5d100",
       "discipline": "clinical",
@@ -36,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.458833+00:00"
+      "_retrievedAt": "2026-08-01T19:31:13.987075+00:00"
     },
     {
       "id": "rss-37c8d24192fc",
@@ -68,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.459175+00:00"
+      "_retrievedAt": "2026-08-01T19:31:13.987374+00:00"
     },
     {
       "id": "rss-7f9c954c8d24",
@@ -100,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.459459+00:00"
+      "_retrievedAt": "2026-08-01T19:31:13.987635+00:00"
     },
     {
       "id": "rss-445a93008c32",
@@ -132,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.459709+00:00"
+      "_retrievedAt": "2026-08-01T19:31:13.987901+00:00"
     },
     {
       "id": "rss-f6a4af0b3d25",
@@ -164,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.460050+00:00"
+      "_retrievedAt": "2026-08-01T19:31:13.988183+00:00"
     },
     {
       "id": "rss-741cec2b85a3",
@@ -196,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.460286+00:00"
+      "_retrievedAt": "2026-08-01T19:31:13.988408+00:00"
     },
     {
       "id": "rss-6292e53a647b",
@@ -228,231 +452,71 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.460521+00:00"
+      "_retrievedAt": "2026-08-01T19:31:13.988629+00:00"
     },
     {
-      "id": "rss-82320203fbd4",
-      "discipline": "clinical",
+      "id": "rss-a74655542c03",
+      "discipline": "cs",
       "type": "news",
-      "title": "Metabolic dysfunction-associated steatotic liver disease linked to higher odds of eosinophilic esophagitis",
-      "authors": "Medical Xpress",
-      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is significantly associated with eosinophilic esophagitis (EoE), according to a study published online July 22 in the Journal of Gastroenterology and Hepatology.",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
       "date": "2026-08-01",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-metabolic-dysfunction-steatotic-liver-disease.html",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "metabolic",
-        "dysfunction-associated",
-        "steatotic",
-        "liver",
-        "disease",
-        "eosinophilic",
-        "esophagitis",
-        "linked"
+        "case",
+        "altman",
+        "still",
+        "making",
+        "parenting",
+        "chatgpt",
+        "openai",
+        "seemed"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.460777+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.080658+00:00"
     },
     {
-      "id": "rss-daf41d5a2690",
-      "discipline": "clinical",
+      "id": "rss-dfbef6afc92a",
+      "discipline": "cs",
       "type": "news",
-      "title": "Nicotine levels are rising among teens who vape, new study warns",
-      "authors": "Medical Xpress",
-      "abstract": "Vape devices are flooding teens' bodies with increasingly heavy doses of addictive nicotine, a new study finds. Average urine levels of a key nicotine metabolite, cotinine, nearly tripled among teenagers over a period of a few months in late 2024, researchers report in JAMA Psychiatry.",
+      "title": "This $9 key physically locks your most addictive apps",
+      "authors": "TechCrunch AI",
+      "abstract": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
       "date": "2026-08-01",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-nicotine-teens-vape.html",
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "nicotine",
-        "levels",
-        "among",
-        "teens",
-        "vape",
-        "rising",
-        "warns",
-        "devices"
+        "this",
+        "physically",
+        "your",
+        "apps",
+        "locks",
+        "most",
+        "addictive",
+        "requires"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.461035+00:00"
-    },
-    {
-      "id": "rss-832671c1392f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "A third of patients with chronic rhinosinusitis with nasal polyps exhibit anxiety symptoms",
-      "authors": "Medical Xpress",
-      "abstract": "A considerable proportion of patients with chronic rhinosinusitis with nasal polyps (CRSwNP) exhibit anxiety symptoms, according to a study published in the Journal of Inflammation Research.",
-      "date": "2026-08-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-patients-chronic-rhinosinusitis-nasal-polyps.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "patients",
-        "chronic",
-        "rhinosinusitis",
-        "nasal",
-        "polyps",
-        "exhibit",
-        "anxiety",
-        "symptoms"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.461259+00:00"
-    },
-    {
-      "id": "rss-bd667366e1f4",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Hyperuricemia predicts mortality with chronic kidney disease",
-      "authors": "Medical Xpress",
-      "abstract": "Hyperuricemia independently predicts mortality in chronic kidney disease (CKD), according to a study published online July 13 in the Journal of Clinical Medicine.",
-      "date": "2026-08-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-hyperuricemia-mortality-chronic-kidney-disease.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hyperuricemia",
-        "predicts",
-        "mortality",
-        "chronic",
-        "kidney",
-        "disease",
-        "independently",
-        "according"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.461468+00:00"
-    },
-    {
-      "id": "rss-7fd59d91be99",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Exacerbation risk profiles vary with house dust mite sensitization in pediatric asthma",
-      "authors": "Medical Xpress",
-      "abstract": "For children with asthma, exacerbation risk is associated with distinct profiles depending on house dust mite (HDM) sensitization status, according to a study published online July 16 in the International Journal of Occupational Medicine and Environmental Health.",
-      "date": "2026-08-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-exacerbation-profiles-vary-house-mite.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "exacerbation",
-        "risk",
-        "profiles",
-        "house",
-        "dust",
-        "mite",
-        "sensitization",
-        "asthma"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.461698+00:00"
-    },
-    {
-      "id": "rss-a771f29b2c64",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Platelet-rich plasma, shockwave therapy show therapeutic efficacy in interstitial cystitis",
-      "authors": "Medical Xpress",
-      "abstract": "For patients with interstitial cystitis (IC)/bladder pain syndrome (BPS), the combination of platelet-rich plasma (PRP) and low-intensity extracorporeal shock wave therapy (LI-ESWT) shows therapeutic efficacy, according to a study recently published in Frontiers in Bioengineering and Biotechnology.",
-      "date": "2026-08-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-platelet-rich-plasma-shockwave-therapy.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "platelet-rich",
-        "plasma",
-        "therapy",
-        "therapeutic",
-        "efficacy",
-        "interstitial",
-        "cystitis",
-        "shockwave"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.461958+00:00"
-    },
-    {
-      "id": "rss-758ce92bd436",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Liver tumors may depend on LARS to withstand stress and keep multiplying",
-      "authors": "Medical Xpress",
-      "abstract": "Illinois researchers made a breakthrough discovery in the fight against liver cancer. Collaborators Lin-Feng Chen, Susan A. Martinis, and graduate student Xiaodan Lin found that decreasing protein levels of leucyl-tRNA synthetase (LARS) impedes liver cancer cell multiplication.",
-      "date": "2026-08-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-07-liver-tumors-lars-stress.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "liver",
-        "lars",
-        "cancer",
-        "tumors",
-        "depend",
-        "withstand",
-        "stress",
-        "keep"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.462193+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.080925+00:00"
     },
     {
       "id": "rss-3f5ca59f61a7",
@@ -484,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.575452+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.081099+00:00"
     },
     {
       "id": "rss-5652f3d049a9",
@@ -516,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.575654+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.081250+00:00"
     },
     {
       "id": "rss-6ed5ffae06fd",
@@ -548,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.575861+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.081431+00:00"
     },
     {
       "id": "rss-66467b9e48df",
@@ -580,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.576130+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.081727+00:00"
     },
     {
       "id": "rss-24b562820bab",
@@ -612,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.576301+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.081906+00:00"
     },
     {
       "id": "rss-fc76f29b279d",
@@ -644,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.576457+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.082061+00:00"
     },
     {
       "id": "rss-3ec740f586de",
@@ -676,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.576634+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.082232+00:00"
     },
     {
       "id": "rss-c232657fdde4",
@@ -708,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.576833+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.082384+00:00"
     },
     {
       "id": "rss-3b137e58f8ec",
@@ -740,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.577095+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.082628+00:00"
     },
     {
       "id": "rss-f0b8b0bdbef3",
@@ -772,7 +836,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.577253+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.082826+00:00"
+    },
+    {
+      "id": "openalex-e22ded591b71",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Rice crop monitoring using new generation Synthetic Aperture Radar (SAR) imagery",
+      "authors": "Nguyen Lam-Dao",
+      "abstract": "Rice cultivation systems in various countries of the world have been changing in recent years. These changes have been observed in the Mekong River Delta, Vietnam, specifically in An Giang province. The changes in rice cultural practices have impacts on remote sensing methods developed for rice monitoring, in particular, methods using new generation radar data. The objectives of the study were a) to understand the relationship between radar backscatter coefficients and selected parameters (e.g. plant age and biomass) of rice crops over an entire growth cycle, b) to develop algorithms for mapping rice cropping systems, and c) to develop a rice yield prediction model using time-series Envisat (Environmental Satellite) Advanced Synthetic Aperture Radar (ASAR) imagery. Ground data collection and in situ measurement of rice crop parameters were conducted at 35 sampling fields in An Giang p...",
+      "date": "2026-07-30",
+      "year": 2026,
+      "journal": "University of Southern Queensland ePrints (University of Southern Queensland)",
+      "source": "University of Southern Queensland ePrints (University of Southern Queensland)",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.26192/9z73z",
+      "doi": "10.26192/9z73z",
+      "pdfUrl": "http://eprints.usq.edu.au/6646/3/Lam-Dao_2009_whole.pdf",
+      "keywords": [
+        "Synthetic aperture radar",
+        "Remote sensing",
+        "Environmental science",
+        "Radar",
+        "Cropping",
+        "Remote Sensing and Land Use",
+        "Remote Sensing in Agriculture",
+        "rice"
+      ],
+      "readTime": "4 min",
+      "citedBy": 13,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-01T19:31:09.693302+00:00"
     },
     {
       "id": "rss-17bbc4c12740",
@@ -804,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.577433+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.083013+00:00"
     },
     {
       "id": "rss-6d411f84c296",
@@ -836,71 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.577599+00:00"
-    },
-    {
-      "id": "rss-e4bce1b7077b",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "authors": "TechCrunch AI",
-      "abstract": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "investors",
-        "love",
-        "long",
-        "cloud",
-        "host",
-        "amazon",
-        "slowing",
-        "down"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.577778+00:00"
-    },
-    {
-      "id": "rss-47516e49d93c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "authors": "TechCrunch AI",
-      "abstract": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "judge",
-        "trump",
-        "evidence",
-        "anthropic",
-        "supply-chain",
-        "risk",
-        "says",
-        "admin"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.577969+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.083184+00:00"
     },
     {
       "id": "rss-f7328a645416",
@@ -932,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.706147+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.112321+00:00"
     },
     {
       "id": "rss-22e3c70241d7",
@@ -964,7 +996,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.706341+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.112523+00:00"
+    },
+    {
+      "id": "openalex-82bfb13f8d46",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Past, present and future rainfall trends in Queensland",
+      "authors": "David Andrew Cottrill Cottrill",
+      "abstract": "Queensland and much of eastern Australia have had significant rainfall declines since ~1951, causing economic hardship on rural and urban communities. However, no significant attempt has been made to identify and understand the physical causes of the rainfall declines over southeast Queensland (SE QLD) and whether they are likely to continue into the 21st century under higher levels of global warming. In this research, climate observations, models and global climate data as well as palaeoclimate information are used to investigate past, present and future rainfall trends in SE QLD. Five global climate models (GCMs) from the Intergovernmental Panel on Climate Change Fourth Assessment Report (IPCC–AR4) show a significant decrease in rainfall will occur over the SE QLD region during the 21st century. Observations since ~1951 show the mean sea level pressure (MSLP) has been increasing ove...",
+      "date": "2026-07-30",
+      "year": 2026,
+      "journal": "OpenAlex",
+      "source": "OpenAlex",
+      "sourceApi": "OpenAlex",
+      "url": "http://eprints.usq.edu.au/6407/",
+      "doi": "10.26192/9z62q",
+      "pdfUrl": "http://eprints.usq.edu.au/6407/3/Cottrill_2009_whole.pdf",
+      "keywords": [
+        "Ridge",
+        "Geography",
+        "Climatology",
+        "Subtropics",
+        "Climate change",
+        "Geological and Geophysical Studies",
+        "Geophysics and Gravity Measurements",
+        "Climate variability and models"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-01T19:31:09.696062+00:00"
     },
     {
       "id": "rss-61c6d7b63768",
@@ -996,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.706525+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.112765+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -1028,7 +1092,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.426956+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.693663+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -1060,7 +1124,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.313462+00:00"
+      "_retrievedAt": "2026-08-01T19:31:07.271982+00:00"
     },
     {
       "id": "rss-d746300c673c",
@@ -1092,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.706689+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.112954+00:00"
     },
     {
       "id": "rss-e3531be54cc3",
@@ -1124,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.932020+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.327934+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -1156,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.706939+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.113132+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1188,7 +1252,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.709273+00:00"
+      "_retrievedAt": "2026-08-01T19:31:08.346588+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -1220,7 +1284,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.710923+00:00"
+      "_retrievedAt": "2026-08-01T19:31:08.348236+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -1252,7 +1316,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.315810+00:00"
+      "_retrievedAt": "2026-08-01T19:31:07.274276+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -1284,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.707106+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.113304+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -1316,7 +1380,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.311885+00:00"
+      "_retrievedAt": "2026-08-01T19:31:07.270609+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1348,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.707249+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.113450+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -1380,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.932250+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.328172+00:00"
     },
     {
       "id": "rss-67e6e4628573",
@@ -1412,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.932461+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.328393+00:00"
     },
     {
       "id": "rss-2c39e9060823",
@@ -1444,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.933182+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.329123+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1476,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.707399+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.113606+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -1508,7 +1572,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.151423+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.073767+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1540,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.707555+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.113796+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -1572,7 +1636,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.430027+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.697423+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -1604,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.707705+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.113957+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -1636,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.707925+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.114137+00:00"
     },
     {
       "id": "rss-ce688c2211e0",
@@ -1668,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.708076+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.114290+00:00"
     },
     {
       "id": "rss-d7bb3cddfe2e",
@@ -1700,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.708253+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.114472+00:00"
     },
     {
       "id": "rss-67f98bea1dc8",
@@ -1732,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.708409+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.114633+00:00"
     },
     {
       "id": "rss-35f3c73960fd",
@@ -1764,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.933504+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.329446+00:00"
     },
     {
       "id": "rss-fd9a37f6681c",
@@ -1796,7 +1860,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.933786+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.329760+00:00"
     },
     {
       "id": "rss-d6d69b0873be",
@@ -1828,7 +1892,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.934095+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.330064+00:00"
     },
     {
       "id": "rss-68e47e682229",
@@ -1860,7 +1924,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.934331+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.330299+00:00"
     },
     {
       "id": "rss-e186ac38d0fa",
@@ -1892,7 +1956,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.934582+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.330552+00:00"
     },
     {
       "id": "rss-bde592569e0e",
@@ -1924,7 +1988,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:33.934905+00:00"
+      "_retrievedAt": "2026-08-01T19:31:14.330893+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -1956,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.710605+00:00"
+      "_retrievedAt": "2026-08-01T19:31:08.347942+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -1988,7 +2052,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.429298+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.696437+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2020,7 +2084,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.709618+00:00"
+      "_retrievedAt": "2026-08-01T19:31:08.346959+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2052,7 +2116,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.152037+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.074355+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2084,7 +2148,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.314886+00:00"
+      "_retrievedAt": "2026-08-01T19:31:07.273333+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2116,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.713297+00:00"
+      "_retrievedAt": "2026-08-01T19:31:08.350718+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2148,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.313820+00:00"
+      "_retrievedAt": "2026-08-01T19:31:07.272296+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2180,7 +2244,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.314554+00:00"
+      "_retrievedAt": "2026-08-01T19:31:07.273027+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2212,7 +2276,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.151631+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.073984+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2244,7 +2308,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.313017+00:00"
+      "_retrievedAt": "2026-08-01T19:31:07.271599+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2276,7 +2340,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.153362+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.075689+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2308,39 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.431155+00:00"
-    },
-    {
-      "id": "openalex-0f151e5548fe",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Metaheuristic-optimized machine learning framework for remote sensing-based alteration mapping of porphyry copper systems",
-      "authors": "Mahnaz Mahboobi, Homayoon Katibeh, Yousef Bahrami, Amin Beiranvand Pour",
-      "abstract": "Remote sensing-based hydrothermal alteration mapping is a pivotal technique in critical mineral exploration, particularly for identifying porphyry copper deposits (PCDs). However, conventional multispectral approaches are often constrained by linear assumptions, spectral mixing, and suboptimal parameter selection, limiting their ability to resolve complex alteration assemblages. This study presents a metaheuristic-optimized machine learning framework that integrates Boosted Trees (BT) and Quadratic Support Vector Machines (QSVM) with the Shuffled Frog Leaping Algorithm (SFLA) to improve alteration zone discrimination using multispectral satellite imagery. ASTER shortwave infrared bands were combined with Sentinel-2 visible, near-infrared, and red-edge features to map argillic, phyllic, propylitic, and iron oxide/hydroxide alteration zones. The framework was applied to the Shahr-e-Baba...",
-      "date": "2026-06-07",
-      "year": 2026,
-      "journal": "Scientific Reports",
-      "source": "Scientific Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41598-026-55525-6",
-      "doi": "10.1038/s41598-026-55525-6",
-      "pdfUrl": "https://www.nature.com/articles/s41598-026-55525-6_reference.pdf",
-      "keywords": [
-        "Porphyry copper deposit",
-        "Multispectral image",
-        "Advanced Spaceborne Thermal Emission and Reflection Radiometer",
-        "Computer science",
-        "Robustness (evolution)",
-        "Geochemistry and Geologic Mapping",
-        "Remote-Sensing Image Classification",
-        "Mineral Processing and Grinding"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.432326+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.698586+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2372,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.429711+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.696850+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2404,7 +2436,39 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.311050+00:00"
+      "_retrievedAt": "2026-08-01T19:31:07.269756+00:00"
+    },
+    {
+      "id": "openalex-33d4ca0564d8",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "EHA Guidelines on management of chronic lymphocytic leukemia and Richter transformation",
+      "authors": "Barbara Eichhorst, Paolo Ghia, Francesc Bosch, Ruth Clifford, Michael Gregor, Romain Guieze",
+      "abstract": "Previous editions of the European guidelines for the management of chronic lymphocytic leukemia (CLL) were developed by experts in CLL under the auspices of the European Society for Medical Oncology (ESMO). These previous editions have served as a reference text for many physicians caring for patients with CLL. The current, 2026 edition, represents the new, updated guidelines that, for the first time (and in agreement with ESMO), were written on behalf of the European Hematology Association (EHA), which will be solely responsible for subsequent editions, published annually to keep pace of the fast-moving field of CLL research and clinical applications. The new guidelines support approaching the management of CLL in a more holistic fashion, from the initial diagnosis (including active surveillance) to treatment need, with particular emphasis on the interplay between disease- and patien...",
+      "date": "2026-06-01",
+      "year": 2026,
+      "journal": "HemaSphere",
+      "source": "HemaSphere",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1002/hem3.70403",
+      "doi": "10.1002/hem3.70403",
+      "pdfUrl": "https://doi.org/10.1002/hem3.70403",
+      "keywords": [
+        "Medicine",
+        "Guideline",
+        "Chronic lymphocytic leukemia",
+        "Obinutuzumab",
+        "Venetoclax",
+        "Chronic Lymphocytic Leukemia Research",
+        "Phagocytosis and Immune Regulation",
+        "Chronic Myeloid Leukemia Treatments"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-01T19:31:09.079918+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2436,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.428574+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.695309+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2468,39 +2532,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.315465+00:00"
-    },
-    {
-      "id": "openalex-7a2e0cea295d",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Stratigraphy as a low-pass filter: selective preservation of spatial variability on a Holocene carbonate platform",
-      "authors": "Xianyi Liu, Sam Purkis, Peter Burgess, David De Vleeschouwer, Laurent Puyana, Niklas Hohmann",
-      "abstract": "Walther’s law, a fundamental principle in geoscience, predicts that laterally adjacent depositional environments become preserved as a vertical succession of layers (facies). As an expression of uniformitarianism, this law underpins interpretations of Earth’s history, yet it has not been quantitatively tested. We test this law and examine its limitations by quantifying multidecadal changes in environmental heterogeneity (1945-2019) in the Bahamas and extrapolating them to millennial timescales using forward modelling. Virtual stratigraphic successions predicted by Walther’s law contain substantially greater heterogeneity than observed in sediment cores. This discrepancy arises because small and short-lived environment patches undergo rapid turnover and fail to accumulate sufficient sediment for preservation. Our work establishes a quantitative framework for defining preservation thres...",
-      "date": "2026-05-20",
-      "year": 2026,
-      "journal": "OpenAlex",
-      "source": "OpenAlex",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.31223/x5k784",
-      "doi": "10.31223/x5k784",
-      "pdfUrl": "https://eartharxiv.org/repository/object/13113/download/23232/",
-      "keywords": [
-        "Sedimentary depositional environment",
-        "Geology",
-        "Stratigraphy",
-        "Sedimentary rock",
-        "Sediment",
-        "Geology and Paleoclimatology Research",
-        "Paleontology and Stratigraphy of Fossils",
-        "Geological formations and processes"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.433050+00:00"
+      "_retrievedAt": "2026-08-01T19:31:07.273958+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2528,11 +2560,11 @@
         "Artificial Intelligence in Healthcare and Education"
       ],
       "readTime": "1 min",
-      "citedBy": 61,
+      "citedBy": 62,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.312366+00:00"
+      "_retrievedAt": "2026-08-01T19:31:07.270990+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2564,7 +2596,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.310681+00:00"
+      "_retrievedAt": "2026-08-01T19:31:07.269375+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -2596,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.154125+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.076440+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2628,7 +2660,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.312601+00:00"
+      "_retrievedAt": "2026-08-01T19:31:07.271215+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2656,11 +2688,11 @@
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 1423,
+      "citedBy": 1424,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.310288+00:00"
+      "_retrievedAt": "2026-08-01T19:31:07.268957+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2692,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.153698+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.076067+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2724,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.152686+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.075038+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2756,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.427693+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.694437+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2788,7 +2820,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.311484+00:00"
+      "_retrievedAt": "2026-08-01T19:31:07.270218+00:00"
     },
     {
       "id": "openalex-e2538de02ecf",
@@ -2820,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.154874+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.077220+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -2852,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.431952+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.699376+00:00"
     },
     {
       "id": "openalex-0014575d52b0",
@@ -2884,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.155740+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.078138+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -2916,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.711220+00:00"
+      "_retrievedAt": "2026-08-01T19:31:08.348527+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -2948,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.712204+00:00"
+      "_retrievedAt": "2026-08-01T19:31:08.349571+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -2980,7 +3012,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.315152+00:00"
+      "_retrievedAt": "2026-08-01T19:31:07.273594+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -3012,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.430413+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.697861+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -3044,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.709965+00:00"
+      "_retrievedAt": "2026-08-01T19:31:08.347279+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -3076,7 +3108,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.428936+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.695634+00:00"
+    },
+    {
+      "id": "openalex-b405599e1257",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "On-Orbit Space AI: Federated, Multi-Agent, and Collaborative Algorithms for Satellite Constellations",
+      "authors": "Ziyang Wang",
+      "abstract": "Satellite constellations are transforming space systems from isolated spacecraft into networked, software-defined platforms capable of on-orbit perception, decision making, and adaptation. Yet many of the existing AI studies remain centered on single-satellite inference, while constellation-scale autonomy introduces fundamentally new algorithmic requirements: learning and coordination under dynamic inter-satellite connectivity, strict SWaP-C limits, radiation-induced faults, non-IID data, concept drift, and safety-critical operational constraints. This survey consolidates the emerging field of on-orbit space AI through three complementary paradigms: (i) federated learning for cross-satellite training, personalization, and secure aggregation; (ii) multi-agent algorithms for cooperative planning, resource allocation, scheduling, formation control, and collision avoidance; and (iii) coll...",
+      "date": "2026-04-17",
+      "year": 2026,
+      "journal": "Algorithms",
+      "source": "Algorithms",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/a19040318",
+      "doi": "10.3390/a19040318",
+      "pdfUrl": "https://www.mdpi.com/1999-4893/19/4/318/pdf?version=1776432485",
+      "keywords": [
+        "Constellation",
+        "Computer science",
+        "Inference",
+        "Field (mathematics)",
+        "Space (punctuation)",
+        "Satellite Communication Systems",
+        "Spacecraft Dynamics and Control",
+        "Space Satellite Systems and Control"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-01T19:31:09.697127+00:00"
     },
     {
       "id": "openalex-ecc34b946b2e",
@@ -3108,39 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.154478+00:00"
-    },
-    {
-      "id": "openalex-69ce03bd3e31",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Prospective evaluation of genomics-guided off-label treatment",
-      "authors": "K. Verkerk, A C Spiekman, S. F. Haj Mohammad, F. A. J. Verbeek, Hans Timmer, Maud A. van Maren",
-      "abstract": "Anticancer drugs are frequently used off-label for tumours that are genetically similar to the approved indication. However, outcomes are rarely captured systematically, limiting evidence-based decision-making and risking repeated futile treatment. The Drug Rediscovery Protocol (DRUP; ClinicalTrials.gov ID: NCT02925234 ) prospectively evaluates such off-label use in patients in the Netherlands with advanced solid tumours who lack standard treatment options and harbour actionable genomic alterations1. Here we present results of 1,610 patients who began treatment with 37 different off-label drugs between July 2016 and May 2024 in the DRUP trial. Of these patients, 1,363 were response-evaluable, including 533 (39.1%) with rare cancers. The clinical benefit rate (confirmed response or stable disease for at least 16 weeks) was 34.9% (95% confidence interval, 32.2–37.6) and the objective re...",
-      "date": "2026-04-15",
-      "year": 2026,
-      "journal": "Nature",
-      "source": "Nature",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41586-026-10405-x",
-      "doi": "10.1038/s41586-026-10405-x",
-      "pdfUrl": "https://www.nature.com/articles/s41586-026-10405-x.pdf",
-      "keywords": [
-        "Medicine",
-        "Reimbursement",
-        "Confidence interval",
-        "Limiting",
-        "Protocol (science)",
-        "Pharmaceutical studies and practices",
-        "Statistical Methods in Clinical Trials",
-        "Neuroblastoma Research and Treatments"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.157536+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.076851+00:00"
     },
     {
       "id": "openalex-1c8cc4075423",
@@ -3172,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.430767+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.698201+00:00"
     },
     {
       "id": "openalex-a528e7ad7434",
@@ -3204,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.153041+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.075366+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -3236,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.710271+00:00"
+      "_retrievedAt": "2026-08-01T19:31:08.347581+00:00"
     },
     {
       "id": "openalex-7a392a0ca13d",
@@ -3268,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.711561+00:00"
+      "_retrievedAt": "2026-08-01T19:31:08.348926+00:00"
     },
     {
       "id": "openalex-ec9559e049f8",
@@ -3300,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.157104+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.079530+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -3332,7 +3364,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.314137+00:00"
+      "_retrievedAt": "2026-08-01T19:31:07.272593+00:00"
     },
     {
       "id": "openalex-7ccfc202ecea",
@@ -3364,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.708641+00:00"
+      "_retrievedAt": "2026-08-01T19:31:08.345988+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -3396,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.712939+00:00"
+      "_retrievedAt": "2026-08-01T19:31:08.350334+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -3428,39 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.428171+00:00"
-    },
-    {
-      "id": "openalex-d826f52b28e7",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Recent advances in TROPOMI-based methane source detection: a systematic review",
-      "authors": "Ruoqi Liu, Shun Li, Geli Zhang, Mengyao Liu, X. L. Lu, Shushi Peng",
-      "abstract": "The renewed increase in atmospheric methane (CH4) concentrations since 2007, culminating in record growth rates in 2021, poses a critical challenge to achieving global climate targets. The TROPOspheric Monitoring Instrument (TROPOMI) onboard the Sentinel-5 Precursor satellite provides unprecedented daily global observations of CH4 at a spatial resolution (7 × 7 km2, improved to 5.5 × 7 km2 since August 2019), enabling substantial advances in space-based CH4 monitoring and emission quantification. Here, we synthesize and categorize 133 published studies spanning global, regional and local scales and covering both anthropogenic and natural CH4 sources. Collectively, these studies demonstrate TROPOMI's capability to quantify emissions across diverse spatiotemporal scales, as well as its synergy with other satellite instruments for detecting and attributing facility-level sources, such as...",
-      "date": "2026-04-08",
-      "year": 2026,
-      "journal": "GIScience & Remote Sensing",
-      "source": "GIScience & Remote Sensing",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1080/15481603.2026.2650822",
-      "doi": "10.1080/15481603.2026.2650822",
-      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/15481603.2026.2650822?needAccess=true",
-      "keywords": [
-        "Environmental science",
-        "Methane",
-        "Remote sensing",
-        "Methane emissions",
-        "Greenhouse gas",
-        "Spectroscopy and Laser Applications",
-        "Advanced Chemical Sensor Technologies",
-        "Atmospheric and Environmental Gas Dynamics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.432708+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.694902+00:00"
     },
     {
       "id": "openalex-2f6d80ec93bc",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.155395+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.077794+00:00"
     },
     {
       "id": "openalex-557912e64e56",
@@ -3524,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.708999+00:00"
+      "_retrievedAt": "2026-08-01T19:31:08.346313+00:00"
     },
     {
       "id": "openalex-e28246dfcacc",
@@ -3556,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.712578+00:00"
+      "_retrievedAt": "2026-08-01T19:31:08.349997+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -3588,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:29.431544+00:00"
+      "_retrievedAt": "2026-08-01T19:31:09.699006+00:00"
     },
     {
       "id": "openalex-8d5e6bfc7e0b",
@@ -3620,7 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T13:51:28.711928+00:00"
+      "_retrievedAt": "2026-08-01T19:31:08.349293+00:00"
     }
   ]
 }
