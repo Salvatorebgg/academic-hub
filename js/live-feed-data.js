@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-08-01T19:31:14.522921+00:00",
+  "generatedAt": "2026-08-02T03:49:45.999040+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -13,7 +13,7 @@ window.LIVE_FEED_DATA = {
       "title": "Eye contact helps infants 'tune in' to speaker's brainwaves and learn language",
       "authors": "Medical Xpress",
       "abstract": "Infants use eye contact with speakers to work out what to pay attention to and synchronize their brainwaves, helping them learn language, scientists in Cambridge and Singapore have shown.",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +36,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:13.985180+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.280945+00:00"
     },
     {
       "id": "rss-cb53a6aae083",
@@ -45,7 +45,7 @@ window.LIVE_FEED_DATA = {
       "title": "Your personality changes more across your life than you think, according to new study",
       "authors": "Medical Xpress",
       "abstract": "Personality traits have long been seen as set in stone, with many believing they stop changing once we reach adulthood. A recent study, however, challenges this long-held belief, suggesting that personality changes far more than most people realize. In the first part of the study, researchers surveyed 887 U.S. residents who rated the Big Five personality traits—extraversion, agreeableness, conscientiousness, neuroticism and openness—as some of the most stable characteristics of a person's life.",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +68,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:13.985540+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.281275+00:00"
     },
     {
       "id": "rss-32485f61fff7",
@@ -77,7 +77,7 @@ window.LIVE_FEED_DATA = {
       "title": "Soy lysolecithin counters high-salt diet-induced hypertension and cognitive impairment",
       "authors": "Medical Xpress",
       "abstract": "High-salt (HS) intake is a major global health concern, closely linked to hypertension and growing evidence of cognitive and emotional decline. Although salt is a routine part of daily diets, long-term overconsumption can negatively affect both the cardiovascular system and the central nervous system, underscoring the need for practical dietary strategies to mitigate these adverse health effects.",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +100,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:13.985847+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.281510+00:00"
     },
     {
       "id": "rss-955b1ab51cdb",
@@ -109,7 +109,7 @@ window.LIVE_FEED_DATA = {
       "title": "Compression wraps offer no healing advantage for venous leg ulcers, clinical trial finds",
       "authors": "Medical Xpress",
       "abstract": "Compression wraps are unlikely to help venous leg ulcers heal faster than standard compression treatments, according to a clinical trial led by University of Manchester and York researchers.",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +132,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:13.986078+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.281695+00:00"
     },
     {
       "id": "rss-b8083f7368e4",
@@ -141,7 +141,7 @@ window.LIVE_FEED_DATA = {
       "title": "New wearable stickers simplify cystic fibrosis diagnosis",
       "authors": "Medical Xpress",
       "abstract": "A pair of wearable stickers may transform diagnostic sweat testing for cystic fibrosis (CF), a genetic disorder that causes problems with digestion and breathing.",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:13.986294+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.281879+00:00"
     },
     {
       "id": "rss-d84cdfa5d35f",
@@ -173,7 +173,7 @@ window.LIVE_FEED_DATA = {
       "title": "Reshaping the gut microbiome can boost chemotherapy delivery to tumors",
       "authors": "Medical Xpress",
       "abstract": "A new study led by researchers at The University of Texas MD Anderson Cancer Center has identified a way to reshape the gut microbiome that can enhance the delivery of certain chemotherapies to tumors, offering a potential strategy to make nanoparticle-based cancer drugs more effective.",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:13.986531+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.282099+00:00"
     },
     {
       "id": "rss-37d3b75bd60e",
@@ -205,7 +205,7 @@ window.LIVE_FEED_DATA = {
       "title": "Study suggests a shared logic of sensory processing across vertebrate brains",
       "authors": "Medical Xpress",
       "abstract": "How does the brain make sense of what we see, hear and feel, and transform these separate signals into a coherent perception of the world?",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -228,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:13.986785+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.282277+00:00"
     },
     {
       "id": "rss-d08c5bd5d100",
@@ -237,7 +237,7 @@ window.LIVE_FEED_DATA = {
       "title": "Study of 2 million newborns ties skipped vitamin K shot to higher bleeding risk",
       "authors": "Medical Xpress",
       "abstract": "Newborns receive several routine immunizations shortly after birth. Prophylactic vitamin K is one such recommended shot. It activates several coagulation factors necessary for blood to clot properly, preventing vitamin K deficiency bleeding (VKDB), a condition that can be life-threatening. As more parents refuse prophylactic vitamin K for their children, researchers in Sweden wanted to examine trends in newborn vitamin K shots over time and any associations with infant bleeding diagnoses.",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -260,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:13.987075+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.282508+00:00"
     },
     {
       "id": "rss-37c8d24192fc",
@@ -269,7 +269,7 @@ window.LIVE_FEED_DATA = {
       "title": "Ivermectin taken at the start of pregnancy is not associated with an increased risk of adverse pregnancy outcomes",
       "authors": "Medical Xpress",
       "abstract": "A study led by the Barcelona Institute for Global Health (ISGlobal), an institution supported by the \"la Caixa\" Foundation, found no increased risk of miscarriage, stillbirth or major congenital anomalies among women inadvertently exposed to ivermectin from two weeks before conception through the first four weeks of pregnancy. The findings, published in eClinicalMedicine, add to the available evidence on the safety of this antiparasitic drug during the very early stages of pregnancy, although the researchers stress that the number of cases remains too small to warrant changes to current recommendations.",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -292,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:13.987374+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.282758+00:00"
     },
     {
       "id": "rss-7f9c954c8d24",
@@ -301,7 +301,7 @@ window.LIVE_FEED_DATA = {
       "title": "Simple triage protocol cuts ER wait times without adding beds or staff, new study finds",
       "authors": "Medical Xpress",
       "abstract": "Emergency departments across the country face a common challenge: how to reduce long wait times without adding more beds, hiring more staff or expanding facilities. New research suggests one answer may be hiding in plain sight—making better decisions about where patients receive care.",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -324,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:13.987635+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.282971+00:00"
     },
     {
       "id": "rss-445a93008c32",
@@ -333,7 +333,7 @@ window.LIVE_FEED_DATA = {
       "title": "CRISPR acts as commander-in-chief for backup defenses in bacteria",
       "authors": "Medical Xpress",
       "abstract": "The main function of CRISPR-Cas systems is to defend bacteria against various threats, including viruses called bacteriophages. Researchers have continued to study all varieties of CRISPR-Cas systems (to date, two classes, seven types and 46 subtypes have been identified) to understand their capabilities.",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -356,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:13.987901+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.283220+00:00"
     },
     {
       "id": "rss-f6a4af0b3d25",
@@ -365,7 +365,7 @@ window.LIVE_FEED_DATA = {
       "title": "Rat study finds early secondhand smoke exposure can alter tooth enamel mineralization",
       "authors": "Medical Xpress",
       "abstract": "Exposure to secondhand cigarette smoke during the first days of life can cause changes in tooth enamel mineralization without causing visible changes to the teeth. This was demonstrated in an animal model study conducted by researchers at the Ribeirão Preto School of Dentistry at the University of São Paulo (FORP-USP) in Brazil. The results were published in May in the scientific journal Calcified Tissue International.",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -388,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:13.988183+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.283454+00:00"
     },
     {
       "id": "rss-741cec2b85a3",
@@ -397,7 +397,7 @@ window.LIVE_FEED_DATA = {
       "title": "The first 72 hours: Hospital routines may undermine breastfeeding",
       "authors": "Medical Xpress",
       "abstract": "An evidence review of international research suggests widespread misconceptions within the medical community about early milk production, pacifiers and breast pumps may be undermining breastfeeding success in the critical first days after birth.",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -420,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:13.988408+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.283634+00:00"
     },
     {
       "id": "rss-6292e53a647b",
@@ -429,7 +429,7 @@ window.LIVE_FEED_DATA = {
       "title": "Link between liver fibrosis in MASLD, ASCVD varies by glycemic status",
       "authors": "Medical Xpress",
       "abstract": "For patients with metabolic dysfunction-associated steatotic liver disease (MASLD), the association between liver fibrosis and atherosclerotic cardiovascular disease (ASCVD) varies with glycemic status, according to a study published in Hepatology Communications.",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -452,7 +452,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:13.988629+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.283817+00:00"
+    },
+    {
+      "id": "rss-82a2e493a2ea",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "authors": "TechCrunch AI",
+      "abstract": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "minnesota",
+        "nudify",
+        "apps",
+        "judge",
+        "denies",
+        "request",
+        "block",
+        "despite"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-02T03:49:45.378198+00:00"
+    },
+    {
+      "id": "rss-c1f9c1b4d032",
+      "discipline": "cs",
+      "type": "news",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "authors": "TechCrunch AI",
+      "abstract": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "green",
+        "healthy",
+        "that",
+        "youtuber",
+        "hank",
+        "says",
+        "usage",
+        "offered"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-02T03:49:45.378400+00:00"
     },
     {
       "id": "rss-a74655542c03",
@@ -484,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.080658+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.378531+00:00"
     },
     {
       "id": "rss-dfbef6afc92a",
@@ -516,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.080925+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.378669+00:00"
     },
     {
       "id": "rss-3f5ca59f61a7",
@@ -548,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.081099+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.378803+00:00"
     },
     {
       "id": "rss-5652f3d049a9",
@@ -580,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.081250+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.378914+00:00"
     },
     {
       "id": "rss-6ed5ffae06fd",
@@ -612,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.081431+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.379070+00:00"
     },
     {
       "id": "rss-66467b9e48df",
@@ -644,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.081727+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.379295+00:00"
     },
     {
       "id": "rss-24b562820bab",
@@ -676,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.081906+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.379427+00:00"
     },
     {
       "id": "rss-fc76f29b279d",
@@ -708,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.082061+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.379548+00:00"
     },
     {
       "id": "rss-3ec740f586de",
@@ -740,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.082232+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.379685+00:00"
     },
     {
       "id": "rss-c232657fdde4",
@@ -772,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.082384+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.379806+00:00"
     },
     {
       "id": "rss-3b137e58f8ec",
@@ -804,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.082628+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.380022+00:00"
     },
     {
       "id": "rss-f0b8b0bdbef3",
@@ -836,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.082826+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.380157+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -868,71 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.693302+00:00"
-    },
-    {
-      "id": "rss-17bbc4c12740",
-      "discipline": "cs",
-      "type": "news",
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "authors": "TechCrunch AI",
-      "abstract": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "public",
-        "fund",
-        "still",
-        "hedge",
-        "situational",
-        "awareness",
-        "have",
-        "sold"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.083013+00:00"
-    },
-    {
-      "id": "rss-6d411f84c296",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "authors": "TechCrunch AI",
-      "abstract": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "reddit",
-        "reports",
-        "solid",
-        "quarter",
-        "shows",
-        "signs",
-        "impact",
-        "financial"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.083184+00:00"
+      "_retrievedAt": "2026-08-02T03:49:40.733722+00:00"
     },
     {
       "id": "rss-f7328a645416",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.112321+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.539320+00:00"
     },
     {
       "id": "rss-22e3c70241d7",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.112523+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.539548+00:00"
     },
     {
       "id": "openalex-82bfb13f8d46",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.696062+00:00"
+      "_retrievedAt": "2026-08-02T03:49:40.736218+00:00"
     },
     {
       "id": "rss-61c6d7b63768",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.112765+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.539725+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.693663+00:00"
+      "_retrievedAt": "2026-08-02T03:49:40.734090+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:07.271982+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.189909+00:00"
     },
     {
       "id": "rss-d746300c673c",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.112954+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.539895+00:00"
     },
     {
       "id": "rss-e3531be54cc3",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.327934+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.784680+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.113132+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.540109+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:08.346588+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.830054+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:08.348236+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.831560+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:07.274276+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.191969+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.113304+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.540258+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:07.270609+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.188702+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.113450+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.540376+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.328172+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.784892+00:00"
     },
     {
       "id": "rss-67e6e4628573",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.328393+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.785105+00:00"
     },
     {
       "id": "rss-2c39e9060823",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.329123+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.785794+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.113606+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.540530+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.073767+00:00"
+      "_retrievedAt": "2026-08-02T03:49:39.817710+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.113796+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.540696+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.697423+00:00"
+      "_retrievedAt": "2026-08-02T03:49:40.737413+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.113957+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.540831+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.114137+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.541050+00:00"
     },
     {
       "id": "rss-ce688c2211e0",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.114290+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.541234+00:00"
     },
     {
       "id": "rss-d7bb3cddfe2e",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.114472+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.541400+00:00"
     },
     {
       "id": "rss-67f98bea1dc8",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.114633+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.541567+00:00"
     },
     {
       "id": "rss-35f3c73960fd",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.329446+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.786086+00:00"
     },
     {
       "id": "rss-fd9a37f6681c",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.329760+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.786320+00:00"
     },
     {
       "id": "rss-d6d69b0873be",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.330064+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.786587+00:00"
     },
     {
       "id": "rss-68e47e682229",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.330299+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.786792+00:00"
     },
     {
       "id": "rss-e186ac38d0fa",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.330552+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.787036+00:00"
     },
     {
       "id": "rss-bde592569e0e",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:14.330893+00:00"
+      "_retrievedAt": "2026-08-02T03:49:45.787291+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:08.347942+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.831293+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.696437+00:00"
+      "_retrievedAt": "2026-08-02T03:49:40.736554+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:08.346959+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.830384+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.074355+00:00"
+      "_retrievedAt": "2026-08-02T03:49:39.818255+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:07.273333+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.191160+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:08.350718+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.833462+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:07.272296+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.190212+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:07.273027+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.190868+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.073984+00:00"
+      "_retrievedAt": "2026-08-02T03:49:39.817906+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:07.271599+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.189588+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.075689+00:00"
+      "_retrievedAt": "2026-08-02T03:49:39.819427+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.698586+00:00"
+      "_retrievedAt": "2026-08-02T03:49:40.738416+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.696850+00:00"
+      "_retrievedAt": "2026-08-02T03:49:40.736904+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2436,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:07.269756+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.187908+00:00"
     },
     {
       "id": "openalex-33d4ca0564d8",
@@ -2468,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.079918+00:00"
+      "_retrievedAt": "2026-08-02T03:49:39.823081+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2500,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.695309+00:00"
+      "_retrievedAt": "2026-08-02T03:49:40.735563+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2532,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:07.273958+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.191665+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2564,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:07.270990+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.189040+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2596,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:07.269375+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.187609+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -2628,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.076440+00:00"
+      "_retrievedAt": "2026-08-02T03:49:39.820065+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2660,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:07.271215+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.189239+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2692,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:07.268957+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.187229+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2724,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.076067+00:00"
+      "_retrievedAt": "2026-08-02T03:49:39.819725+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2756,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.075038+00:00"
+      "_retrievedAt": "2026-08-02T03:49:39.818830+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2788,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.694437+00:00"
+      "_retrievedAt": "2026-08-02T03:49:40.734775+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2820,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:07.270218+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.188340+00:00"
     },
     {
       "id": "openalex-e2538de02ecf",
@@ -2852,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.077220+00:00"
+      "_retrievedAt": "2026-08-02T03:49:39.820676+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -2884,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.699376+00:00"
+      "_retrievedAt": "2026-08-02T03:49:40.739111+00:00"
     },
     {
       "id": "openalex-0014575d52b0",
@@ -2916,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.078138+00:00"
+      "_retrievedAt": "2026-08-02T03:49:39.821461+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -2948,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:08.348527+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.831826+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -2980,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:08.349571+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.832476+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -3012,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:07.273594+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.191392+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -3044,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.697861+00:00"
+      "_retrievedAt": "2026-08-02T03:49:40.737754+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -3076,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:08.347279+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.830678+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -3108,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.695634+00:00"
+      "_retrievedAt": "2026-08-02T03:49:40.735859+00:00"
     },
     {
       "id": "openalex-b405599e1257",
@@ -3140,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.697127+00:00"
+      "_retrievedAt": "2026-08-02T03:49:40.737155+00:00"
     },
     {
       "id": "openalex-ecc34b946b2e",
@@ -3172,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.076851+00:00"
+      "_retrievedAt": "2026-08-02T03:49:39.820374+00:00"
     },
     {
       "id": "openalex-1c8cc4075423",
@@ -3204,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.698201+00:00"
+      "_retrievedAt": "2026-08-02T03:49:40.738071+00:00"
     },
     {
       "id": "openalex-a528e7ad7434",
@@ -3236,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.075366+00:00"
+      "_retrievedAt": "2026-08-02T03:49:39.819134+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -3268,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:08.347581+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.830953+00:00"
     },
     {
       "id": "openalex-7a392a0ca13d",
@@ -3300,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:08.348926+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.832174+00:00"
     },
     {
       "id": "openalex-ec9559e049f8",
@@ -3332,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.079530+00:00"
+      "_retrievedAt": "2026-08-02T03:49:39.822732+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -3364,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:07.272593+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.190485+00:00"
     },
     {
       "id": "openalex-7ccfc202ecea",
@@ -3396,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:08.345988+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.829469+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -3428,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:08.350334+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.833120+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -3460,7 +3460,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.694902+00:00"
+      "_retrievedAt": "2026-08-02T03:49:40.735200+00:00"
+    },
+    {
+      "id": "openalex-e90314f807eb",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "CD19-negative relapse after CAR-T cell therapy: mechanisms of antigen escape and lineage switch",
+      "authors": "Jiawen Huang, Xiaobing Huang, D. Yu",
+      "abstract": "CD19 chimeric antigen receptor (CAR)-T cell therapy has transformed the treatment of relapsed/refractory B-cell malignancies, achieving high remission rates. Nonetheless, 20%-40% of patients eventually relapse, classified as either CD19 + or CD19 − relapse. Most relapses are CD19 + , largely due to reduced potency and poor persistence of CAR-T cells after infusion. In contrast, a substantial fraction of patients develops CD19 − relapse driven by selective pressure from CAR-T cell therapy. Post-CAR-T cell CD19 − relapse primarily arises through three mechanisms. First, pre-existing CD19 − subclones, particularly those with progenitor-like features, expand because of their survival advantages. Second, CD19 expression is downregulated through pre-existing or newly acquired genetic alterations (mutations and abnormal splicing), epigenetic silencing, and post-transcriptional dysregulation....",
+      "date": "2026-04-07",
+      "year": 2026,
+      "journal": "Frontiers in Immunology",
+      "source": "Frontiers in Immunology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/fimmu.2026.1692287",
+      "doi": "10.3389/fimmu.2026.1692287",
+      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1692287/pdf",
+      "keywords": [
+        "CD19",
+        "Myeloid",
+        "Cancer research",
+        "Epigenetics",
+        "Chimeric antigen receptor",
+        "CAR-T cell therapy research",
+        "Virus-based gene therapy research",
+        "Monoclonal and Polyclonal Antibodies Research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-02T03:49:38.833845+00:00"
     },
     {
       "id": "openalex-2f6d80ec93bc",
@@ -3492,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.077794+00:00"
+      "_retrievedAt": "2026-08-02T03:49:39.821159+00:00"
     },
     {
       "id": "openalex-557912e64e56",
@@ -3524,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:08.346313+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.829766+00:00"
     },
     {
       "id": "openalex-e28246dfcacc",
@@ -3556,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:08.349997+00:00"
+      "_retrievedAt": "2026-08-02T03:49:38.832811+00:00"
     },
     {
       "id": "openalex-9b7c534bd9d9",
@@ -3588,39 +3620,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:09.699006+00:00"
-    },
-    {
-      "id": "openalex-8d5e6bfc7e0b",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "A simple cell-cycle control system in Marchantia polymorpha provides a framework for understanding plant cell proliferation",
-      "authors": "Facundo Romani, Ignacy Bonter, Marius Rebmann, Go Takahashi, Fernando Guzman-Chavez, Francesco De Batté",
-      "abstract": "Eukaryotic cell division is controlled by cyclins and cyclin-dependent kinases (CDKs). The high number of cyclin-CDK pairs in flowering plants hinders functional analysis due to redundancy, and how this system might have worked in early land plant ancestors remains unresolved. Our phylogenetic analysis showed that non-seed plants have a simple system of cell cycle genes, suggesting that the complexity in seed plants is a derived feature. To explore simpler systems, we studied the liverwort Marchantia polymorpha, which possesses a reduced, nonredundant set of core cell cycle genes. Single-cell RNA-seq and live imaging of fluorescent reporters revealed phase-specific expression of cell cycle genes during cell division, characterized by 1 predominant cyclin per phase in the vegetative gametophyte, with limited overlap at transitions. Live imaging of tagged cyclins indicated that protein...",
-      "date": "2026-04-03",
-      "year": 2026,
-      "journal": "The Plant Cell",
-      "source": "The Plant Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1093/plcell/koag103",
-      "doi": "10.1093/plcell/koag103",
-      "pdfUrl": "https://doi.org/10.1093/plcell/koag103",
-      "keywords": [
-        "Biology",
-        "Multicellular organism",
-        "Cell cycle",
-        "Cyclin",
-        "Cell biology",
-        "Plant Molecular Biology Research",
-        "Microtubule and mitosis dynamics",
-        "Photosynthetic Processes and Mechanisms"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-01T19:31:08.349293+00:00"
+      "_retrievedAt": "2026-08-02T03:49:40.738767+00:00"
     }
   ]
 };
