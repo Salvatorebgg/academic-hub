@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T19:54:38.793440+00:00",
+  "generatedAt": "2026-08-04T03:33:58.576654+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -7,460 +7,524 @@
   ],
   "papers": [
     {
-      "id": "rss-a00ebc5af9ff",
+      "id": "rss-ba442ceb6a3c",
       "discipline": "clinical",
       "type": "news",
-      "title": "Emotion regulation therapy may help reduce problem alcohol use",
+      "title": "NICE referral criteria miss up to 95% of women under 50 who go on to develop breast cancer within 10 years",
       "authors": "Medical Xpress",
-      "abstract": "A new treatment designed to improve emotional regulation in people with alcohol use disorder may help them drink less often. In a study of people receiving cognitive behavioral therapy (CBT) for alcohol use disorder, those who also received emotion regulation treatment had a greater percentage of nondrinking days. The results, published in Alcohol: Clinical and Experimental Research, suggest that emotion regulation treatment may be a beneficial supplement to cognitive behavioral therapy for people who report drinking heavily in response to negative emotional experiences.",
-      "date": "2026-08-03",
+      "abstract": "The National Institute for Health and Care Excellence (NICE) criteria used to decide who should be referred by GPs for further breast cancer risk assessment and specialist care miss up to 95% of women under 50 who will go on to develop the disease in the next 10 years, new research by researchers at the University of Cambridge and The Institute of Cancer Research, London, has found.",
+      "date": "2026-08-04",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-emotion-therapy-problem-alcohol.html",
+      "url": "https://medicalxpress.com/news/2026-08-nice-referral-criteria-women-breast.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "regulation",
-        "alcohol",
-        "emotion",
-        "therapy",
-        "treatment",
-        "people",
-        "help",
-        "emotional"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.255198+00:00"
-    },
-    {
-      "id": "rss-47833ff9731e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Breast milk protein osteopontin may shield infants from respiratory infections",
-      "authors": "Medical Xpress",
-      "abstract": "QIMR Berghofer researchers have found how breast milk supports infant immunity via a protein called osteopontin. The study also identifies a potential way of mimicking this protective effect in baby formula. The findings, published today in the journal Cell, reveal osteopontin triggers a cascade of biological signals that support immune cell development in a baby's liver and lungs and help protect against potentially deadly respiratory infections.",
-      "date": "2026-08-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-breast-protein-osteopontin-shield-infants.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "osteopontin",
-        "breast",
-        "milk",
-        "protein",
-        "respiratory",
-        "infections",
-        "baby",
-        "cell"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.255544+00:00"
-    },
-    {
-      "id": "rss-ad4f7fbe0da5",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Rare chromosomal differences found in children with fetal alcohol spectrum disorder",
-      "authors": "Medical Xpress",
-      "abstract": "One in four children diagnosed with fetal alcohol spectrum disorder was found to have rare chromosomal differences at considerably higher rates than the general population, according to a study published in Alcohol: Clinical and Experimental Research. Half of those differences were associated with harmful or potentially harmful genetic variations. The study's authors recommend high-resolution genetic testing whenever fetal alcohol spectrum disorder is diagnosed to provide a more complete clinical diagnosis and identify opportunities for improved medical management.",
-      "date": "2026-08-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-rare-chromosomal-differences-children-fetal.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "alcohol",
-        "differences",
-        "fetal",
-        "spectrum",
-        "disorder",
-        "rare",
-        "chromosomal",
-        "found"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.255858+00:00"
-    },
-    {
-      "id": "rss-317d87a5e5fd",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Rare bone disease often goes untreated while patients quietly live with chronic pain",
-      "authors": "Medical Xpress",
-      "abstract": "Teeth and bones are among the hardest structures in the human body, but certain inherited conditions can rob them of that strength. One of them is hypophosphatasia (HPP), a rare, lifelong genetic bone disorder that disrupts the development of bones and teeth, leaving them unusually soft and fragile. A recent study set out to determine how common HPP is across Central and Eastern Europe and how it presents in patients.",
-      "date": "2026-08-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-rare-bone-disease-untreated-patients.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "them",
-        "rare",
-        "bone",
-        "patients",
-        "teeth",
-        "bones",
-        "that",
-        "disease"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.256146+00:00"
-    },
-    {
-      "id": "rss-b5d2d5171aa8",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "African-led study delivers one of the largest microbiome feedback initiatives",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers have developed and evaluated a feedback initiative, returning gut microbiome results from a landmark microbiome study to 778 women in South Africa and Kenya. The results came from the AWI-Gen 2 study published in Nature in 2025, the largest population-representative survey of African gut metagenomes conducted to date.",
-      "date": "2026-08-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-african-largest-microbiome-feedback.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "microbiome",
-        "largest",
-        "feedback",
-        "results",
-        "african-led",
-        "delivers",
-        "initiatives",
-        "researchers"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.256436+00:00"
-    },
-    {
-      "id": "rss-fd6f5c30ba6b",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Gut protein mapping captures microbial and host responses during intestinal inflammation",
-      "authors": "Medical Xpress",
-      "abstract": "The trillions of microorganisms living in our intestine influence our health, from digestion and metabolism to immunity. Yet scientists still struggle to understand how these microbes shape these important physiological functions because gut microbiomes are extraordinarily complex, redundant, and dynamic. New technologies are therefore essential for advancing microbiome research. Researchers at the University of Vienna have now reported effective strategies for simultaneously measuring thousands of microbial and host proteins. The findings have been published in Nature Communications.",
-      "date": "2026-08-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-gut-protein-captures-microbial-host.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "microbial",
-        "host",
-        "these",
-        "have",
-        "protein",
-        "mapping",
-        "captures",
-        "responses"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.256751+00:00"
-    },
-    {
-      "id": "rss-10b474c28fd1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Michigan reports first 2 US deaths in outbreak of cyclospora",
-      "authors": "Medical Xpress",
-      "abstract": "Two people have died in the cyclospora outbreak in Michigan in the first confirmed deaths in the U.S. related to the microscopic parasite, state health officials announced Monday.",
-      "date": "2026-08-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-michigan-deaths-outbreak-cyclospora.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "michigan",
-        "first",
-        "deaths",
-        "outbreak",
-        "cyclospora",
-        "reports",
-        "people",
-        "have"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.256978+00:00"
-    },
-    {
-      "id": "rss-67ee8cf8dbab",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New insights into genetic architecture of a rare systemic inflammatory disease in East Asian populations",
-      "authors": "Medical Xpress",
-      "abstract": "Eosinophilic granulomatosis with polyangiitis (EGPA) is a systemic inflammatory disease characterized by eosinophilia, an abnormal increase in eosinophils—a type of white blood cell—and inflammation of small blood vessels across multiple organs, which can lead to organ damage. The disease is often preceded by asthma or chronic rhinosinusitis and has been designated an intractable disease in Japan.",
-      "date": "2026-08-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-insights-genetic-architecture-rare-inflammatory.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "disease",
-        "systemic",
-        "inflammatory",
-        "blood",
-        "insights",
-        "genetic",
-        "architecture",
-        "rare"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.257280+00:00"
-    },
-    {
-      "id": "rss-cb1df6c446d1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Parkinson's gene linked to early dysfunction in brain cells",
-      "authors": "Medical Xpress",
-      "abstract": "Northwestern Medicine scientists have uncovered how a major Parkinson's disease gene disrupts the brain's most vulnerable dopamine-producing neurons before detectable neuronal loss. The study offers new clues for developing treatments that target the disease in its earliest stages, said the study's senior author, Loukia Parisiadou, Ph.D., assistant professor of pharmacology. The findings are published in Nature Communications.",
-      "date": "2026-08-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-parkinson-gene-linked-early-dysfunction.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "parkinson",
-        "gene",
-        "brain",
-        "disease",
-        "linked",
-        "early",
-        "dysfunction",
-        "cells"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.257581+00:00"
-    },
-    {
-      "id": "rss-7c6c92ba305d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Research: Steam increases physiological strain during sauna bathing",
-      "authors": "Medical Xpress",
-      "abstract": "A newly published Finnish study demonstrates that, in addition to temperature, air humidity is a significant determinant of physiological strain during sauna bathing. As humidity increases, both heart rate and core temperature rise more markedly, indicating a greater cardiovascular and thermoregulatory load.",
-      "date": "2026-08-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-steam-physiological-strain-sauna.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "increases",
-        "physiological",
-        "strain",
-        "during",
-        "sauna",
-        "bathing",
-        "temperature",
-        "humidity"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.257836+00:00"
-    },
-    {
-      "id": "rss-b2ca3cebff29",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Video-based peer support can boost breastfeeding rates and maternal confidence",
-      "authors": "Medical Xpress",
-      "abstract": "A research team from the School of Nursing at the LKS Faculty of Medicine of the University of Hong Kong (HKUMed) has found that video-call support from trained peer mothers helped first-time mothers breastfeed more successfully. Among mothers who received this support, the study revealed a 42.6% relative increase in the number of mothers exclusively breastfeeding their babies at two months after birth, along with greater confidence in breastfeeding. This is the first-of-its-kind randomized clinical trial in Hong Kong to evaluate video-call-based peer support for breastfeeding and is also one of the first trials globally to rigorously examine the effectiveness of this digital approach in improving breastfeeding outcomes. The research findings were published in JAMA Network Open.",
-      "date": "2026-08-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-video-based-peer-boost-breastfeeding.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "breastfeeding",
-        "support",
-        "mothers",
-        "peer",
-        "this",
-        "confidence",
-        "hong",
-        "kong"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.258174+00:00"
-    },
-    {
-      "id": "rss-f8a487feca60",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Sweat, brain signals, eye movements and AI used to detect depression and suicide risk",
-      "authors": "Medical Xpress",
-      "abstract": "Suicide rates in the U.S. have been rising at an alarming rate over the past few decades, with rates among veterans 1.5 times higher than those of the general public, USC Suzanne Dworak-Peck School of Social Work's study shows.",
-      "date": "2026-08-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-brain-eye-movements-ai-depression.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "suicide",
-        "rates",
-        "sweat",
-        "brain",
-        "signals",
-        "movements",
-        "used",
-        "detect"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.258445+00:00"
-    },
-    {
-      "id": "rss-56e0602147e8",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Premature menopause linked to high blood pressure",
-      "authors": "Medical Xpress",
-      "abstract": "Women who enter menopause at an earlier age have an increased risk of high blood pressure, a new study says.",
-      "date": "2026-08-03",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-premature-menopause-linked-high-blood.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "menopause",
-        "high",
-        "blood",
-        "pressure",
-        "premature",
-        "linked",
+        "cancer",
+        "nice",
+        "criteria",
+        "miss",
         "women",
-        "enter"
+        "under",
+        "develop",
+        "breast"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.258665+00:00"
+      "_retrievedAt": "2026-08-04T03:33:57.996065+00:00"
     },
     {
-      "id": "rss-1daf76e0649b",
+      "id": "rss-d6fd323ded5b",
       "discipline": "clinical",
       "type": "news",
-      "title": "A public health challenge has led to a more efficient way to allocate all sorts of resources",
+      "title": "Are governments hungry to make healthy food retail policies stick?",
       "authors": "Medical Xpress",
-      "abstract": "Optimization models do an excellent job of ensuring products get where they are needed in the most efficient way possible, but those models require an impractical amount of computing power when dealing with large-scale problems—such as distributing vaccines to millions of people. Researchers have now demonstrated a way to drastically reduce the computing power needed to run these optimization models while still producing near-optimal results.",
-      "date": "2026-08-03",
+      "abstract": "The places we live, work, study and play are important locations for governments to improve population health by curbing unhealthy diets that cause preventable diseases and deaths. Think cafes in public hospitals, eateries in public-sector workplaces, canteens in public schools and food outlets in community sports centers.",
+      "date": "2026-08-04",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-health-efficient-allocate-resources.html",
+      "url": "https://medicalxpress.com/news/2026-07-hungry-healthy-food-retail-policies.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "efficient",
-        "optimization",
-        "needed",
-        "computing",
-        "power",
+        "governments",
+        "food",
         "public",
-        "health",
-        "challenge"
+        "hungry",
+        "make",
+        "healthy",
+        "retail",
+        "policies"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.258971+00:00"
+      "_retrievedAt": "2026-08-04T03:33:57.996360+00:00"
     },
     {
-      "id": "rss-48ae9420240d",
+      "id": "rss-42c91f73c102",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Has the definition of autism become too broad to be useful?",
+      "authors": "Medical Xpress",
+      "abstract": "The definition of autism may have become so broad that it risks confusion and even misdiagnosis, according to a new editorial by UCL professor Dame Uta Frith, whose pioneering research in the 1960s and '70s laid the foundations for how we understand autism.",
+      "date": "2026-08-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-definition-autism-broad.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "autism",
+        "definition",
+        "become",
+        "broad",
+        "useful",
+        "have",
+        "that",
+        "risks"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-04T03:33:57.996611+00:00"
+    },
+    {
+      "id": "rss-6c67ef8252c7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "The relationship between the look of streets, feelings of safety, and sleep",
+      "authors": "Medical Xpress",
+      "abstract": "Your neighborhood's \"streetscape\"—the physical environment of your street—is something you have probably never consciously thought about, despite seeing it every day. But what if the streetscape was affecting you on a subconscious level and disrupting your sleep?",
+      "date": "2026-08-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-relationship-streets-safety.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "your",
+        "sleep",
+        "streetscape",
+        "relationship",
+        "look",
+        "streets",
+        "feelings",
+        "safety"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-04T03:33:57.996882+00:00"
+    },
+    {
+      "id": "rss-9e8db16c8412",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "How your conscious and unconscious mind interact",
+      "authors": "Medical Xpress",
+      "abstract": "Have you ever heard the phrase \"you only use 10% of your brain\"? In reality, there is no way to measure consciousness in percentage terms—partly because the brain has no static baseline.",
+      "date": "2026-08-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-conscious-unconscious-mind-interact.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "your",
+        "brain",
+        "conscious",
+        "unconscious",
+        "mind",
+        "interact",
+        "have",
+        "ever"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-04T03:33:57.997162+00:00"
+    },
+    {
+      "id": "rss-eca06d824a50",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Farewell Romeo and Juliet. Is digital tech killing old-fashioned love?",
+      "authors": "Medical Xpress",
+      "abstract": "The use of dating apps and pornography websites has grown rapidly in recent years, supporting what may develop into a form of addiction—while potentially undermining traditional beliefs in romance and 'true' love. To delve deeper, international experts surveyed 664 users of dating apps and online porn to assess people's views on love and the \"existential value we place on it,\" says Flinders University psychology researcher Dr. Reza Shabahang, the first author of a new article in BMC Psychology.",
+      "date": "2026-08-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-farewell-romeo-juliet-digital-tech.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "love",
+        "dating",
+        "apps",
+        "psychology",
+        "farewell",
+        "romeo",
+        "juliet",
+        "digital"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-04T03:33:57.997488+00:00"
+    },
+    {
+      "id": "rss-c9c0ea876c58",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "In memory care deserts, senior centers can help close the gap in brain‑related health care",
+      "authors": "Medical Xpress",
+      "abstract": "About 90 miles (145 kilometers) north of Phoenix, the town of Yarnell nestles atop a winding mountain road. Phoenix, a sprawling city of more than 1.6 million people, has one physician for every 2,407 people. But in Yarnell and other rural areas in Arizona, the ratio is one physician for every 3,896 people. Like many rural residents across the U.S., people in this small town face major barriers to care—especially those with cognitive issues.",
+      "date": "2026-08-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-memory-senior-centers-gap-brainrelated.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "people",
+        "care",
+        "phoenix",
+        "town",
+        "yarnell",
+        "physician",
+        "every",
+        "rural"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-04T03:33:57.997803+00:00"
+    },
+    {
+      "id": "rss-5026453a1092",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Hot weather can make pain worse. Here's why",
+      "authors": "Medical Xpress",
+      "abstract": "This summer's amber heat warnings have brought with them many health risks.",
+      "date": "2026-08-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-hot-weather-pain-worse.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "weather",
+        "make",
+        "pain",
+        "worse",
+        "here",
+        "this",
+        "summer",
+        "amber"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-04T03:33:57.998014+00:00"
+    },
+    {
+      "id": "rss-214254f49d3c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Blood marker tracks hidden progression in multiple sclerosis",
+      "authors": "Medical Xpress",
+      "abstract": "Modern therapies have transformed care for people with multiple sclerosis (MS). Yet the disease continues to progress in a substantial proportion of patients, even in the absence of relapses. Detecting and treating this gradual worsening of disability remains one of the greatest challenges in MS care. Researchers from the University of Basel, Switzerland, now report on a blood marker that could help track disease progression and monitor treatment response.",
+      "date": "2026-08-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-blood-marker-tracks-hidden-multiple.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "blood",
+        "marker",
+        "progression",
+        "multiple",
+        "sclerosis",
+        "care",
+        "disease",
+        "tracks"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-04T03:33:57.998318+00:00"
+    },
+    {
+      "id": "rss-3d5d2438f346",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "AI-enabled measurements of 'local brain aging' offer detailed insights on dementia and more",
+      "authors": "Medical Xpress",
+      "abstract": "USC researchers have developed an approach that uses artificial intelligence to generate detailed maps that highlight differences in how distinct parts of the brain age. The new model also sheds light on how patterns of brain changes correlate with changes in cognitive function across the lifespan, according to a new USC study published in the journal Proceedings of the National Academy of Sciences.",
+      "date": "2026-08-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-ai-enabled-local-brain-aging.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "detailed",
+        "that",
+        "changes",
+        "ai-enabled",
+        "measurements",
+        "local",
+        "aging"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-04T03:33:57.998593+00:00"
+    },
+    {
+      "id": "rss-1ea9afc15e1e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New Mexico measles outbreak estimated to cost $5.4 million",
+      "authors": "Medical Xpress",
+      "abstract": "A cost analysis of the 2025 measles outbreak in New Mexico found that the outbreak carried an estimated societal cost of $5.4 million, or more than $53,000 per case. Vaccination-related activities accounted for the largest share of the public health response, underscoring both the high cost of containing outbreaks and the value of maintaining strong vaccination coverage to prevent them.",
+      "date": "2026-08-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-mexico-measles-outbreak-million.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cost",
+        "outbreak",
+        "mexico",
+        "measles",
+        "estimated",
+        "million",
+        "found",
+        "that"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-04T03:33:57.998849+00:00"
+    },
+    {
+      "id": "rss-4ab34d0c74a9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Children who fetch or open drinks for adults may be at increased risk for problematic alcohol use",
+      "authors": "Medical Xpress",
+      "abstract": "When tweens and young adolescents bring or pour drinks for adults, they may perceive that their parents approve of underage drinking, increasing the risk of early drinking initiation and later harmful alcohol use. Findings from a new study help clarify that this family practice may have unintended negative consequences. Certain well-intentioned parenting practices, including permitting children to taste alcohol, are strongly linked to later teen drinking—though why and how are not well understood.",
+      "date": "2026-08-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-children-adults-problematic-alcohol.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "alcohol",
+        "drinking",
+        "children",
+        "drinks",
+        "adults",
+        "risk",
+        "that",
+        "later"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-04T03:33:57.999194+00:00"
+    },
+    {
+      "id": "rss-63a60f341955",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Adults with fetal alcohol spectrum disorder help illuminate a dire need for effective housing",
+      "authors": "Medical Xpress",
+      "abstract": "Canadian adults with fetal alcohol spectrum disorder (FASD) experience compounding barriers to housing because of a systemic misunderstanding of the disability, resulting in a dire need for change. This is among the findings of a study that identifies successful pathways to housing for people with FASD and potentially other complex neurodevelopmental disabilities. The United Nations and Canadian government assert that people with disabilities have a right to housing choices and supports for safe living. In reality, they face multiple barriers, including unaffordability, staff turnover, limited personal autonomy and long waitlists. These issues are amplified for people with stigmatized and complex conditions, including FASD, contributing to cycles of adversity.",
+      "date": "2026-08-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-adults-fetal-alcohol-spectrum-disorder.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "housing",
+        "fasd",
+        "people",
+        "adults",
+        "fetal",
+        "alcohol",
+        "spectrum",
+        "disorder"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-04T03:33:57.999528+00:00"
+    },
+    {
+      "id": "rss-17bcc8e7b016",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Drug spending increasingly rewards pharmaceutical innovation over 'me-too' medicines",
+      "authors": "Medical Xpress",
+      "abstract": "A long-running debate over prescription drug costs has centered on whether drug manufacturers are better rewarded for truly innovative medicines or so-called \"me-too\" drugs that may offer only incremental improvements over existing treatments but still command high prices.",
+      "date": "2026-08-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-drug-rewards-pharmaceutical-medicines.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "drug",
+        "over",
+        "me-too",
+        "medicines",
+        "spending",
+        "increasingly",
+        "rewards",
+        "pharmaceutical"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-04T03:33:57.999770+00:00"
+    },
+    {
+      "id": "rss-f5dcb21ba18b",
       "discipline": "cs",
       "type": "news",
-      "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
       "authors": "TechCrunch AI",
-      "abstract": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "abstract": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+      "date": "2026-08-03",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "after",
+        "quarter",
+        "palantir",
+        "alex",
+        "karp",
+        "that",
+        "killer",
+        "calls"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-04T03:33:58.049993+00:00"
+    },
+    {
+      "id": "rss-3f0993f5c893",
+      "discipline": "cs",
+      "type": "news",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "authors": "TechCrunch AI",
+      "abstract": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+      "date": "2026-08-03",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "vibe-coding",
+        "superblocks",
+        "helping",
+        "startup",
+        "implications",
+        "allows",
+        "tool",
+        "embedded"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-04T03:33:58.050361+00:00"
+    },
+    {
+      "id": "rss-912b2766ba2e",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "authors": "TechCrunch AI",
+      "abstract": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
       "date": "2026-08-03",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -470,21 +534,21 @@
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "designarena",
+        "design",
+        "arena",
         "million",
         "creators",
         "raise",
         "bring",
         "taste",
-        "used",
-        "people"
+        "used"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.355102+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.050539+00:00"
     },
     {
       "id": "rss-7523f99334c7",
@@ -516,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.355335+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.050724+00:00"
     },
     {
       "id": "rss-b1bb3ea4a5bf",
@@ -524,7 +588,7 @@
       "type": "news",
       "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
       "authors": "TechCrunch AI",
-      "abstract": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genuinely useful, yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+      "abstract": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
       "date": "2026-08-03",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -534,9 +598,9 @@
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "siri",
         "apple",
         "finally",
+        "siri",
         "assistant",
         "fixed",
         "does",
@@ -548,13 +612,13 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.355625+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.050914+00:00"
     },
     {
-      "id": "rss-51e3a0db9ec5",
+      "id": "rss-296bf47d4b7b",
       "discipline": "cs",
       "type": "news",
-      "title": "Congress’s favorite AI tool? ChatGPT",
+      "title": "Congress’ favorite AI tool? ChatGPT",
       "authors": "TechCrunch AI",
       "abstract": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
       "date": "2026-08-03",
@@ -580,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.355811+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.051127+00:00"
     },
     {
       "id": "rss-e5d719bf07d0",
@@ -612,7 +676,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.355976+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.051295+00:00"
+    },
+    {
+      "id": "rss-bfc25c3f4f29",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Alexander Rakhlin named director of the MIT Statistics and Data Science Center",
+      "authors": "MIT News AI",
+      "abstract": "An expert in machine learning, statistics, and computation, Rakhlin succeeds Professor Ankur Moitra.",
+      "date": "2026-08-03",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "rakhlin",
+        "statistics",
+        "alexander",
+        "named",
+        "director",
+        "center",
+        "expert",
+        "machine"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-04T03:33:58.177378+00:00"
     },
     {
       "id": "rss-f98fe1bd86a3",
@@ -644,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.356142+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.051453+00:00"
     },
     {
       "id": "rss-82a2e493a2ea",
@@ -676,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.356313+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.051618+00:00"
     },
     {
       "id": "rss-c1f9c1b4d032",
@@ -708,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.356516+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.051790+00:00"
     },
     {
       "id": "rss-a74655542c03",
@@ -740,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.356697+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.051967+00:00"
     },
     {
       "id": "rss-dfbef6afc92a",
@@ -772,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.356850+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.052158+00:00"
     },
     {
       "id": "rss-3f5ca59f61a7",
@@ -804,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.357007+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.052323+00:00"
     },
     {
       "id": "rss-5652f3d049a9",
@@ -836,71 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.357149+00:00"
-    },
-    {
-      "id": "rss-6ed5ffae06fd",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "authors": "TechCrunch AI",
-      "abstract": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-      "date": "2026-07-31",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "earth",
-        "nixes",
-        "feature",
-        "after",
-        "launch",
-        "amid",
-        "criticism"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.357316+00:00"
-    },
-    {
-      "id": "rss-66467b9e48df",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "authors": "TechCrunch AI",
-      "abstract": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
-      "date": "2026-07-31",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "altman",
-        "after",
-        "openai",
-        "only",
-        "wants",
-        "pump",
-        "brakes",
-        "years"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.357600+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.052466+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -932,7 +964,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:33.380654+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.936950+00:00"
     },
     {
       "id": "rss-f7328a645416",
@@ -964,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.403294+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.177555+00:00"
     },
     {
       "id": "rss-22e3c70241d7",
@@ -996,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.403524+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.177740+00:00"
     },
     {
       "id": "openalex-82bfb13f8d46",
@@ -1028,7 +1060,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:33.383375+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.939678+00:00"
     },
     {
       "id": "rss-61c6d7b63768",
@@ -1060,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.403716+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.177922+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -1092,7 +1124,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:33.381019+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.937346+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -1124,7 +1156,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:31.746293+00:00"
+      "_retrievedAt": "2026-08-04T03:33:52.569702+00:00"
     },
     {
       "id": "rss-d746300c673c",
@@ -1156,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.403888+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.178112+00:00"
     },
     {
       "id": "rss-e3531be54cc3",
@@ -1188,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.681508+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.445933+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -1220,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.404063+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.178292+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1252,7 +1284,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.066888+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.049980+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -1284,7 +1316,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.070088+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.051647+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -1316,7 +1348,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:31.748665+00:00"
+      "_retrievedAt": "2026-08-04T03:33:52.572727+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -1348,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.404238+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.178460+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -1380,7 +1412,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:31.744873+00:00"
+      "_retrievedAt": "2026-08-04T03:33:52.568260+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1412,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.404409+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.178604+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -1444,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.681742+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.446192+00:00"
     },
     {
       "id": "rss-67e6e4628573",
@@ -1476,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.681958+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.446410+00:00"
     },
     {
       "id": "rss-2c39e9060823",
@@ -1508,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.682688+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.447142+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1540,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.404575+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.178759+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -1572,7 +1604,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.691579+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.551589+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1604,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.404741+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.178922+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -1636,7 +1668,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:33.384724+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.941152+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -1668,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.404898+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.179099+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -1700,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.405078+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.179289+00:00"
     },
     {
       "id": "rss-ce688c2211e0",
@@ -1732,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.405229+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.179442+00:00"
     },
     {
       "id": "rss-d7bb3cddfe2e",
@@ -1764,39 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.405434+00:00"
-    },
-    {
-      "id": "rss-67f98bea1dc8",
-      "discipline": "cs",
-      "type": "news",
-      "title": "New method aims to keep kids safe from illegal AI-generated content",
-      "authors": "MIT News AI",
-      "abstract": "Researchers developed an auditing technique to test generative AI models for malicious capabilities, without prompting them for illegal outputs.",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "illegal",
-        "method",
-        "aims",
-        "keep",
-        "kids",
-        "safe",
-        "ai-generated",
-        "content"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.405600+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.179624+00:00"
     },
     {
       "id": "rss-35f3c73960fd",
@@ -1828,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.683010+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.447472+00:00"
     },
     {
       "id": "rss-fd9a37f6681c",
@@ -1860,7 +1860,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.683273+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.447738+00:00"
     },
     {
       "id": "rss-d6d69b0873be",
@@ -1892,7 +1892,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.683596+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.448049+00:00"
     },
     {
       "id": "rss-68e47e682229",
@@ -1924,7 +1924,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.683836+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.448296+00:00"
     },
     {
       "id": "rss-e186ac38d0fa",
@@ -1956,7 +1956,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.684094+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.448556+00:00"
     },
     {
       "id": "rss-bde592569e0e",
@@ -1988,7 +1988,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:38.684407+00:00"
+      "_retrievedAt": "2026-08-04T03:33:58.448842+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2020,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.069492+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.051353+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2052,7 +2052,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:33.383755+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.940099+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2084,7 +2084,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.067630+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.050364+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2116,7 +2116,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.692166+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.552225+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2148,7 +2148,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:31.747718+00:00"
+      "_retrievedAt": "2026-08-04T03:33:52.571719+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2180,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.073548+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.053365+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2212,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:31.746652+00:00"
+      "_retrievedAt": "2026-08-04T03:33:52.570059+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2244,7 +2244,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:31.747407+00:00"
+      "_retrievedAt": "2026-08-04T03:33:52.571176+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2276,7 +2276,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.691794+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.551821+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2308,7 +2308,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:31.745918+00:00"
+      "_retrievedAt": "2026-08-04T03:33:52.569329+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2340,7 +2340,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.693518+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.554016+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2372,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:33.385880+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.942286+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2404,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:33.386651+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.943057+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2436,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:33.384155+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.940510+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2468,7 +2468,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:31.744014+00:00"
+      "_retrievedAt": "2026-08-04T03:33:52.567333+00:00"
     },
     {
       "id": "openalex-1694495e202e",
@@ -2500,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.075312+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.054331+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2532,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:33.382634+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.938936+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2564,7 +2564,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:31.748302+00:00"
+      "_retrievedAt": "2026-08-04T03:33:52.572389+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2596,7 +2596,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:31.745239+00:00"
+      "_retrievedAt": "2026-08-04T03:33:52.568645+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2628,7 +2628,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:31.743681+00:00"
+      "_retrievedAt": "2026-08-04T03:33:52.566969+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -2660,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.695629+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.557632+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2692,7 +2692,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:31.745516+00:00"
+      "_retrievedAt": "2026-08-04T03:33:52.568875+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2724,7 +2724,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:31.743263+00:00"
+      "_retrievedAt": "2026-08-04T03:33:52.566543+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2756,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.693868+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.554569+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2788,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.692852+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.552913+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2820,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:33.381771+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.938095+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2852,7 +2852,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:31.744482+00:00"
+      "_retrievedAt": "2026-08-04T03:33:52.567793+00:00"
     },
     {
       "id": "openalex-e2538de02ecf",
@@ -2884,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.696340+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.558571+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -2916,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:33.386252+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.942662+00:00"
     },
     {
       "id": "openalex-0014575d52b0",
@@ -2948,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.697215+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.559499+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -2980,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.070740+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.051943+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -3012,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.072070+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.052595+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -3044,7 +3044,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:31.747983+00:00"
+      "_retrievedAt": "2026-08-04T03:33:52.572028+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -3076,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:33.385111+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.941534+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -3108,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.068236+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.050687+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -3140,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:33.382959+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.939287+00:00"
     },
     {
       "id": "openalex-b405599e1257",
@@ -3172,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:33.384439+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.940793+00:00"
     },
     {
       "id": "openalex-ecc34b946b2e",
@@ -3204,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.695989+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.558205+00:00"
     },
     {
       "id": "openalex-69ce03bd3e31",
@@ -3236,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.697664+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.560266+00:00"
     },
     {
       "id": "openalex-1c8cc4075423",
@@ -3268,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:33.385478+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.941868+00:00"
     },
     {
       "id": "openalex-a528e7ad7434",
@@ -3300,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.693176+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.553511+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -3332,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.068826+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.050986+00:00"
     },
     {
       "id": "openalex-7a392a0ca13d",
@@ -3364,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.071494+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.052318+00:00"
     },
     {
       "id": "openalex-ec9559e049f8",
@@ -3396,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.695222+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.556942+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -3428,7 +3428,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:31.746965+00:00"
+      "_retrievedAt": "2026-08-04T03:33:52.570466+00:00"
     },
     {
       "id": "openalex-7ccfc202ecea",
@@ -3460,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.065678+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.049366+00:00"
     },
     {
       "id": "openalex-e80ab870ed69",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.072787+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.052928+00:00"
     },
     {
       "id": "openalex-178ac453ea4b",
@@ -3524,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:33.382213+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.938538+00:00"
     },
     {
       "id": "openalex-e90314f807eb",
@@ -3556,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.074395+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.053788+00:00"
     },
     {
       "id": "openalex-2f6d80ec93bc",
@@ -3588,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.696882+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.559138+00:00"
     },
     {
       "id": "openalex-557912e64e56",
@@ -3620,7 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-03T19:54:32.066333+00:00"
+      "_retrievedAt": "2026-08-04T03:33:53.049699+00:00"
     }
   ]
 }
