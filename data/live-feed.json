@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T14:32:31.103904+00:00",
+  "generatedAt": "2026-08-07T00:14:20.934285+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -7,188 +7,284 @@
   ],
   "papers": [
     {
-      "id": "rss-b9b5293cc14f",
+      "id": "rss-c15bf1b430d7",
       "discipline": "clinical",
       "type": "news",
-      "title": "The human side of robotic surgery: Tracking surgeons' stress in the operating room",
+      "title": "Gene mutations behind serious bone marrow conditions identified",
       "authors": "Medical Xpress",
-      "abstract": "Robot-assisted surgery (RAS) is one of the most advanced tools in modern medicine. These systems give surgeons extreme precision, allowing procedures to be performed through small incisions that minimize both pain and recovery time. Yet even with this sophisticated technology, operations still depend on a human surgeon, who must stay intensely focused for hours while making medical decisions. With RAS increasingly adopted worldwide, understanding what it demands of surgeons is critical.",
-      "date": "2026-08-06",
+      "abstract": "Inherited bone marrow failure syndrome, or IBMFS, describes a group of disorders in which inherited genetic abnormalities impair the bone marrow's ability to produce sufficient healthy blood cells. Patients with these disorders are also at increased risk of developing myelodysplastic syndromes—MDS—a group of blood cancers in which the bone marrow produces excess abnormal blood cells and insufficient healthy ones.",
+      "date": "2026-08-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-human-side-robotic-surgery-tracking.html",
+      "url": "https://medicalxpress.com/news/2026-08-gene-mutations-bone-marrow-conditions.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "surgeons",
-        "human",
-        "surgery",
-        "side",
-        "robotic",
-        "tracking",
-        "stress",
-        "operating"
+        "bone",
+        "marrow",
+        "blood",
+        "inherited",
+        "group",
+        "disorders",
+        "which",
+        "healthy"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.669509+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.402325+00:00"
     },
     {
-      "id": "rss-b53393cb1c75",
+      "id": "rss-2b692b676185",
       "discipline": "clinical",
       "type": "news",
-      "title": "Liver disease and HIV: Study reveals major gaps in liver fibrosis screening and offers a promising solution",
+      "title": "Wildfire smoke sends more Oregonians to emergency rooms",
       "authors": "Medical Xpress",
-      "abstract": "Thanks to antiretroviral therapy and improved control of viral hepatitis (HBV and HCV), people living with HIV generally live longer and healthier lives. However, liver disease remains common in this population and is one of the leading causes of death.",
-      "date": "2026-08-06",
+      "abstract": "Days of poor air quality from thick wildfire smoke are pushing more Oregonians into emergency rooms and urgent care clinics, state health officials say.",
+      "date": "2026-08-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-liver-disease-hiv-reveals-major.html",
+      "url": "https://medicalxpress.com/news/2026-08-wildfire-oregonians-emergency-rooms.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "liver",
-        "disease",
-        "reveals",
-        "major",
-        "gaps",
-        "fibrosis",
-        "screening",
-        "offers"
+        "wildfire",
+        "smoke",
+        "more",
+        "oregonians",
+        "emergency",
+        "rooms",
+        "sends",
+        "days"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.669790+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.402524+00:00"
     },
     {
-      "id": "rss-aacdc1a618ea",
+      "id": "rss-ad8836e4dfe1",
       "discipline": "clinical",
       "type": "news",
-      "title": "Expert explainer: Strategies to improve childhood vaccination uptake",
+      "title": "Immune-inspired public health strategy improves detection of disease-carrying insects",
       "authors": "Medical Xpress",
-      "abstract": "Protecting children is a shared responsibility, says health and rehabilitation sciences Ph.D. candidate Meron Mengistu. As a graduate researcher in the Faculty of Health Sciences at the University of Western Ontario, her work focuses on improving childhood vaccination rates across the globe.",
-      "date": "2026-08-06",
+      "abstract": "A disease surveillance strategy modeled on the body's immune system detected more disease-carrying insects than the traditional top-down approach, according to a study led by researchers from the Perelman School of Medicine at the University of Pennsylvania and the Universidad Peruana Cayetano Heredia in Peru.",
+      "date": "2026-08-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-expert-strategies-childhood-vaccination-uptake.html",
+      "url": "https://medicalxpress.com/news/2026-08-immune-health-strategy-disease-insects.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "childhood",
-        "vaccination",
-        "health",
-        "sciences",
-        "expert",
-        "explainer",
-        "strategies",
-        "improve"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.670044+00:00"
-    },
-    {
-      "id": "rss-75a6b80da50f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Report: AI adoption by health systems is outpacing governance, infrastructure and strategy",
-      "authors": "Medical Xpress",
-      "abstract": "Health systems and hospitals are widely adopting AI solutions in administrative and clinical workflows, but there are significant gaps in strategy, validation, testing environments and success measurement, according to a new report from the Center for Connected Medicine at UPMC and KLAS Research.",
-      "date": "2026-08-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-ai-health-outpacing-infrastructure-strategy.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "report",
-        "health",
-        "systems",
         "strategy",
-        "adoption",
-        "outpacing",
-        "governance",
-        "infrastructure"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.670355+00:00"
-    },
-    {
-      "id": "rss-261bdd54538e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Scorching summers and heat waves linked to poorer mental health in children",
-      "authors": "Medical Xpress",
-      "abstract": "As record-breaking heat grips communities worldwide and Australia prepares for an intense El Niño summer, new research provides the first global review linking high temperatures and heat waves to poorer mental health in children and young people.",
-      "date": "2026-08-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-summers-linked-poorer-mental-health.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "heat",
-        "waves",
-        "poorer",
-        "mental",
+        "disease-carrying",
+        "insects",
+        "immune-inspired",
+        "public",
         "health",
-        "children",
-        "scorching",
-        "summers"
+        "improves",
+        "detection"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.670633+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.402711+00:00"
     },
     {
-      "id": "rss-773a55b420f0",
+      "id": "rss-31a8954c474a",
       "discipline": "clinical",
       "type": "news",
-      "title": "Map of tonsil's genetic 'spaghetti' yields insights into immunity",
+      "title": "Trauma analysis finds brain injuries more common among e-scooter riders than motorcyclists",
       "authors": "Medical Xpress",
-      "abstract": "About 2 meters (6.6 feet) of genetic material must fit into the nucleus of each of most of our trillions of cells, coiling and winding to form what looks like a tangled mess. But when genes are used, how they are used and how often they are used are completely intertwined with that mess.",
-      "date": "2026-08-06",
+      "abstract": "E-scooter riders in England and Wales may face a higher risk of brain and internal organ injuries than motorcyclists and cyclists, according to a study published in Scientific Reports. The authors recommend increasing e-scooter safety through measures including mandatory helmet legislation, stricter speed limits and e-scooter design improvements such as deformable handlebar grips and enhanced braking.",
+      "date": "2026-08-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-tonsil-genetic-spaghetti-yields-insights.html",
+      "url": "https://medicalxpress.com/news/2026-08-trauma-analysis-brain-injuries-common.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "used",
-        "genetic",
-        "mess",
-        "they",
-        "tonsil",
-        "spaghetti",
-        "yields",
+        "e-scooter",
+        "brain",
+        "injuries",
+        "riders",
+        "than",
+        "motorcyclists",
+        "trauma",
+        "finds"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T00:14:20.402902+00:00"
+    },
+    {
+      "id": "rss-620cc260f9d2",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "FDA approves first drug for full range of narcolepsy symptoms",
+      "authors": "Medical Xpress",
+      "abstract": "The U.S. Food and Drug Administration has approved Orzeyful (oveporexton) tablets to treat narcolepsy type 1 in adults. Orzeyful marks the first medication approved for the full range of symptoms associated with narcolepsy type 1 and is the first approved drug to directly target the loss of orexin signaling that causes the disease.",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-fda-drug-full-range-narcolepsy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "first",
+        "drug",
+        "narcolepsy",
+        "approved",
+        "full",
+        "range",
+        "symptoms",
+        "orzeyful"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T00:14:20.403079+00:00"
+    },
+    {
+      "id": "rss-78b0ca284c06",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Wearable fingertip sensor identifies physical patterns linked to stress and anxiety",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers have shown that measurements taken from a person's fingertip could help identify physical patterns associated with stress, anxiety and depression. The international study, involving experts from Aston University, used a wearable device that shines light into the skin to measure blood flow through the smallest blood vessels as well as changes in the activity of the surrounding tissue.",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-wearable-fingertip-sensor-physical-patterns.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "wearable",
+        "fingertip",
+        "physical",
+        "patterns",
+        "stress",
+        "anxiety",
+        "that",
+        "blood"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T00:14:20.403264+00:00"
+    },
+    {
+      "id": "rss-31d4339766b7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Night shift work linked to a higher risk of long COVID",
+      "authors": "Medical Xpress",
+      "abstract": "The first evidence that night work and chronic insomnia may increase the risk of developing long COVID comes from a new study led by ISGlobal, a center supported by the \"la Caixa\" Foundation, in collaboration with the Germans Trias i Pujol Research Institute (IGTP) through the GCAT | Genomes for Life cohort.",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-night-shift-linked-higher-covid.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "night",
+        "work",
+        "risk",
+        "long",
+        "covid",
+        "shift",
+        "linked",
+        "higher"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T00:14:20.403448+00:00"
+    },
+    {
+      "id": "rss-cbdc703889c5",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Three proteins help organs tailor shared circadian clock to their individual needs, mouse study finds",
+      "authors": "Medical Xpress",
+      "abstract": "LMU researchers have elucidated how different organs adapt the same clock machinery to regulate their individual needs over the course of a day.",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-proteins-tailor-circadian-clock-individual.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "organs",
+        "clock",
+        "their",
+        "individual",
+        "needs",
+        "three",
+        "proteins",
+        "help"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T00:14:20.403604+00:00"
+    },
+    {
+      "id": "rss-d2ef9515dede",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "From planning to action: Fundamental insights on movement planning in the brain",
+      "authors": "Medical Xpress",
+      "abstract": "When the signal sounds, all the runners push off from their starting blocks and set off sprinting. We can act within fractions of a second because we plan movements in our brains in advance, before carrying them out. At the interdisciplinary research center BrainLinks–BrainTools at the University of Freiburg, a team of 15 researchers from the fields of biology, artificial intelligence and neurotechnology has investigated in greater detail how the transition from mentally preparing a movement to actually executing it with one's muscles is controlled at the neural level. In their article, published in the journal Cell Reports, the researchers propose an improved model for understanding the neural processes involved in movement planning.",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-action-fundamental-insights-movement-brain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "planning",
+        "movement",
+        "their",
+        "researchers",
+        "neural",
+        "action",
+        "fundamental",
         "insights"
       ],
       "readTime": "1 min",
@@ -196,263 +292,327 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.670896+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.403867+00:00"
     },
     {
-      "id": "rss-ffe04c94170d",
+      "id": "rss-5c86a6c7887c",
       "discipline": "clinical",
       "type": "news",
-      "title": "New insights into leading cause of back pain",
+      "title": "Ion channel identified as key factor in iron metabolism",
       "authors": "Medical Xpress",
-      "abstract": "Neck and back pain could be caused by changes in gene activity that trigger the breakdown of the spine's natural shock absorbers, new research suggests.",
-      "date": "2026-08-06",
+      "abstract": "Researchers have deciphered the role of an ion channel in iron homeostasis, opening new possibilities for treating iron metabolism disorders.",
+      "date": "2026-08-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-insights-pain.html",
+      "url": "https://medicalxpress.com/news/2026-08-ion-channel-key-factor-iron.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "back",
-        "pain",
-        "insights",
-        "leading",
-        "cause",
-        "neck",
-        "could",
-        "caused"
+        "iron",
+        "channel",
+        "metabolism",
+        "identified",
+        "factor",
+        "researchers",
+        "have",
+        "deciphered"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.671113+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.404011+00:00"
     },
     {
-      "id": "rss-e6583131d50e",
+      "id": "rss-cd1c7e585a9b",
       "discipline": "clinical",
       "type": "news",
-      "title": "Four-fifths of NHS trusts still using pen and paper for record keeping",
+      "title": "Outreach to bone marrow transplant survivors and their primary care doctors can markedly cut skin cancer risk",
       "authors": "Medical Xpress",
-      "abstract": "Twenty-five years after the government's first push to digitize the NHS, an investigation by The BMJ reveals that only about a fifth of hospital trusts in England are using fully electronic systems for clinical recordkeeping.",
-      "date": "2026-08-06",
+      "abstract": "Experts at City of Hope, one of the nation's largest and most advanced cancer research and treatment organizations, are shining a spotlight on the risk of skin cancer faced by hematopoietic cell transplant (HCT) survivors, as well as the need for early detection. New City of Hope research published in Journal of the National Comprehensive Cancer Network shows how a cost-effective, scalable education program targeting survivors and their doctors can significantly improve screening.",
+      "date": "2026-08-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-fifths-nhs-pen-paper.html",
+      "url": "https://medicalxpress.com/news/2026-08-outreach-bone-marrow-transplant-survivors.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "trusts",
-        "four-fifths",
-        "still",
-        "paper",
-        "record",
-        "keeping",
-        "twenty-five",
-        "years"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.671370+00:00"
-    },
-    {
-      "id": "rss-23f67c5d11cd",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Why adults living with HIV are at high risk for diabetes",
-      "authors": "Medical Xpress",
-      "abstract": "A new UC San Francisco study helps explain why people with HIV remain at elevated risk for type 2 diabetes despite effective suppression of the virus with modern medications.",
-      "date": "2026-08-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-adults-hiv-high-diabetes.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
+        "cancer",
+        "survivors",
+        "transplant",
+        "their",
+        "doctors",
+        "skin",
         "risk",
-        "diabetes",
-        "adults",
-        "living",
-        "high",
-        "francisco",
-        "helps",
-        "explain"
+        "city"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.671603+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.404211+00:00"
     },
     {
-      "id": "rss-979c2b4404a8",
+      "id": "rss-c09f5c1fb2e8",
       "discipline": "clinical",
       "type": "news",
-      "title": "Common blood storage bags may leach microplastics into stored blood",
+      "title": "Hidden DNA regulators may drive neurodevelopmental disorders by reducing FOXG1 protein",
       "authors": "Medical Xpress",
-      "abstract": "In the 1970s, PVC bags revolutionized the storage of blood and blood products for transfusion. Disposable plastic (PVC) bags replaced reusable glass bottles, making the process more convenient and safer from contamination. Over half a century later, the same disposable plastic bags are creating a new kind of problem because of microplastics (MPs). These tiny particles, less than 5 millimeters in size, are formed by the polymer degradation of plastic materials as they break down and age.",
-      "date": "2026-08-06",
+      "abstract": "A new study from the laboratory of Gemma Carvill, Ph.D., associate professor in the Ken and Ruth Davee Department of Neurology's Division of Epilepsy and Clinical Neurophysiology, has uncovered variants in noncoding regulatory regions of the genome that contribute to the development of neurodevelopmental disorders.",
+      "date": "2026-08-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-common-blood-storage-bags-leach.html",
+      "url": "https://medicalxpress.com/news/2026-08-hidden-dna-neurodevelopmental-disorders-foxg1.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "blood",
-        "bags",
-        "plastic",
-        "storage",
-        "microplastics",
-        "disposable",
-        "common",
-        "leach"
+        "neurodevelopmental",
+        "disorders",
+        "hidden",
+        "regulators",
+        "drive",
+        "reducing",
+        "foxg",
+        "protein"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.671888+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.404378+00:00"
     },
     {
-      "id": "rss-93679c63aa35",
+      "id": "rss-d43d672b4b90",
       "discipline": "clinical",
       "type": "news",
-      "title": "Depression linked to smaller volume in key memory region of older adults",
+      "title": "Oviduct folds speed egg transport but are not essential, study suggests",
       "authors": "Medical Xpress",
-      "abstract": "Researchers from the USC Mark and Mary Stevens Neuroimaging and Informatics Institute (Stevens INI) at the Keck School of Medicine of USC have found that depression is associated with smaller volume in a specific part of the hippocampus, a brain region essential for learning and memory.",
-      "date": "2026-08-06",
+      "abstract": "After ovulation, an egg travels through the oviduct (Fallopian tube) toward the uterus (womb). This journey is essential for reproduction: Fertilization normally occurs in the oviduct, and the resulting zygote continues developing as it moves toward the uterus.",
+      "date": "2026-08-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-depression-linked-smaller-volume-key.html",
+      "url": "https://medicalxpress.com/news/2026-08-oviduct-egg-essential.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "depression",
-        "smaller",
-        "volume",
-        "memory",
-        "region",
-        "stevens",
-        "linked",
-        "older"
+        "oviduct",
+        "essential",
+        "toward",
+        "uterus",
+        "folds",
+        "speed",
+        "transport",
+        "suggests"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.672131+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.404578+00:00"
     },
     {
-      "id": "rss-156172d0e65f",
+      "id": "rss-130e52e7be49",
       "discipline": "clinical",
       "type": "news",
-      "title": "Widely used early warning score may help guide the urgency of antibiotic treatment for suspected sepsis",
+      "title": "Critical immune pathway may explain how skin allergies can trigger systemic reactions",
       "authors": "Medical Xpress",
-      "abstract": "A study of nearly 100,000 adults treated for suspected infection suggests that the National Early Warning Score (NEWS2), a score based on routinely collected vital signs that is widely used to identify patients at risk of clinical deterioration, may help clinicians identify which patients are most likely to benefit from immediate antibiotic treatment and which may safely undergo further evaluation before receiving antibiotics.",
-      "date": "2026-08-06",
+      "abstract": "The human body experiences allergic reactions when the immune system mistakenly overreacts to harmless substances, known as allergens, such as pollen, dust or certain foods. While this often causes mild symptoms such as sneezing or a runny nose, it can sometimes trigger a severe, life-threatening reaction called anaphylaxis.",
+      "date": "2026-08-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-widely-early-score-urgency-antibiotic.html",
+      "url": "https://medicalxpress.com/news/2026-08-critical-immune-pathway-skin-allergies.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "score",
-        "widely",
-        "used",
-        "early",
-        "warning",
-        "help",
-        "antibiotic",
-        "treatment"
+        "immune",
+        "trigger",
+        "reactions",
+        "such",
+        "critical",
+        "pathway",
+        "explain",
+        "skin"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.672423+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.404751+00:00"
     },
     {
-      "id": "rss-51822a131a7a",
-      "discipline": "clinical",
+      "id": "rss-624e10f67db4",
+      "discipline": "cs",
       "type": "news",
-      "title": "Closing the gap between suspecting a heart attack and confirming it",
-      "authors": "Medical Xpress",
-      "abstract": "A person having a heart attack may be only feet from medical care but miles from the laboratory testing needed to confirm it. That gap matters, especially for rural patients, those in nursing homes, ambulances and other places where access to specialized diagnostics is limited.",
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "authors": "TechCrunch AI",
+      "abstract": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
       "date": "2026-08-06",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-gap-heart.html",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "heart",
-        "attack",
-        "closing",
-        "suspecting",
-        "confirming",
-        "person",
-        "having",
-        "only"
+        "openai",
+        "smart",
+        "speaker",
+        "will",
+        "reportedly",
+        "sell",
+        "additional",
+        "details"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.672657+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.468680+00:00"
     },
     {
-      "id": "rss-5870327750e6",
-      "discipline": "clinical",
+      "id": "rss-7a35d3306a74",
+      "discipline": "cs",
       "type": "news",
-      "title": "Targeting MDA-9 restrains head and neck tumor growth and eliminates therapy resistance",
-      "authors": "Medical Xpress",
-      "abstract": "Chemotherapy remains a cornerstone of treatment for head and neck cancers, the seventh-most-common type of cancer worldwide. However, the disease is often diagnosed at a late stage, once it has already spread to other organs, and the majority of patients receiving active treatment will develop resistance to chemotherapy within months, underscoring the need for more effective care strategies.",
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
       "date": "2026-08-06",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-mda-restrains-neck-tumor-growth.html",
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "head",
-        "neck",
-        "resistance",
-        "chemotherapy",
-        "treatment",
-        "targeting",
-        "mda-",
-        "restrains"
+        "chatgpt",
+        "free",
+        "users",
+        "brings",
+        "unlimited",
+        "text",
+        "chats",
+        "openai"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.672909+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.468839+00:00"
+    },
+    {
+      "id": "rss-b8b38bd59c3b",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "authors": "TechCrunch AI",
+      "abstract": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
+      "date": "2026-08-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "automate",
+        "work",
+        "setting",
+        "running",
+        "raises",
+        "grunt",
+        "company",
+        "taking"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T00:14:20.468969+00:00"
+    },
+    {
+      "id": "rss-4b5734de97c2",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "authors": "TechCrunch AI",
+      "abstract": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
+      "date": "2026-08-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "dating",
+        "apps",
+        "like",
+        "ditto",
+        "ditch",
+        "swiping",
+        "favor",
+        "matchmaking"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T00:14:20.469091+00:00"
+    },
+    {
+      "id": "rss-53d0109428de",
+      "discipline": "cs",
+      "type": "news",
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "authors": "TechCrunch AI",
+      "abstract": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected.",
+      "date": "2026-08-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "apple",
+        "openai",
+        "security",
+        "practices",
+        "undermine",
+        "trade",
+        "secrets",
+        "that"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T00:14:20.469251+00:00"
     },
     {
       "id": "rss-8fdcdbbb0341",
@@ -484,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.903168+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.469356+00:00"
     },
     {
       "id": "rss-dac35efb638c",
@@ -492,7 +652,7 @@
       "type": "news",
       "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
       "authors": "TechCrunch AI",
-      "abstract": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
+      "abstract": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
       "date": "2026-08-06",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -502,21 +662,21 @@
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "what",
         "ex-spotify",
         "employees",
         "raise",
         "bring",
         "behind",
         "recommendations",
-        "e-commerce"
+        "e-commerce",
+        "startup"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.903471+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.469508+00:00"
     },
     {
       "id": "rss-098b77a3f6f4",
@@ -548,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.903674+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.469627+00:00"
     },
     {
       "id": "rss-5ea5b0cee0d0",
@@ -580,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.903880+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.469754+00:00"
     },
     {
       "id": "rss-365853a6e96a",
@@ -612,7 +772,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.904046+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.469860+00:00"
+    },
+    {
+      "id": "rss-6962610856a0",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Pacific Hurricanes Fausto and Genevieve actually had origins near Africa",
+      "authors": "NOAA News",
+      "abstract": "Pacific Hurricanes Fausto and Genevieve actually had origins near Africa NOAA satellites track hurricanes from their earliest beginnings NOAA's GOES West satellite captured this image of three tropical cyclones — Hurricanes Fausto and Genevieve and Typhoon Dolphin — swirling simultaneously in the Pacific Ocean. The image was taken on Tuesday, July 27, at 3:30 PM PDT/ 22:30 UTC. None of the three tropical cyclones made landfall in the United States. Fausto contributed to high surf conditions in Hawaii, and Genevieve also brought high surf to southern California. Typhoon Dolphin continued its track west toward Asia. (Image credit: NOAA Satellites) Download Image August 6, 2026 It may be surprising, but two of the hurricanes that swirled in the Pacific last week began their journeys thousands of miles away off the western coast of Africa. Both Hurricanes Fausto and Genevieve developed fr...",
+      "date": "2026-08-06",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/pacific-hurricanes-fausto-and-genevieve-actually-had-origins-near-africa",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "hurricanes",
+        "fausto",
+        "genevieve",
+        "pacific",
+        "image",
+        "africa",
+        "noaa",
+        "actually"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T00:14:20.729113+00:00"
     },
     {
       "id": "rss-9c4bbacf8285",
@@ -644,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.904206+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.469962+00:00"
     },
     {
       "id": "rss-1553656d2550",
@@ -676,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.904413+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.470068+00:00"
     },
     {
       "id": "rss-78d895005a79",
@@ -708,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.904587+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.470179+00:00"
     },
     {
       "id": "rss-60fcf1b4e83e",
@@ -740,167 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.904772+00:00"
-    },
-    {
-      "id": "rss-d46500e47bfb",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Hark previews its browser use agent for completing tasks",
-      "authors": "TechCrunch AI",
-      "abstract": "Hark claims that its browser use agent is faster and cheaper than competition.",
-      "date": "2026-08-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hark",
-        "browser",
-        "agent",
-        "previews",
-        "completing",
-        "tasks",
-        "claims",
-        "that"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.904920+00:00"
-    },
-    {
-      "id": "rss-394b09e52c87",
-      "discipline": "cs",
-      "type": "news",
-      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-      "authors": "TechCrunch AI",
-      "abstract": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "date": "2026-08-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "real",
-        "world",
-        "stage",
-        "techcrunch",
-        "disrupt",
-        "features",
-        "robots",
-        "automated"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.905110+00:00"
-    },
-    {
-      "id": "rss-28b94327a26f",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Anthropic is hiring an AI chip design team",
-      "authors": "TechCrunch AI",
-      "abstract": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
-      "date": "2026-08-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "anthropic",
-        "team",
-        "hiring",
-        "chip",
-        "design",
-        "building",
-        "designing",
-        "custom"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.905296+00:00"
-    },
-    {
-      "id": "rss-a5e8dacde908",
-      "discipline": "cs",
-      "type": "news",
-      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "authors": "TechCrunch AI",
-      "abstract": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
-      "date": "2026-08-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "macpaw",
-        "liquid",
-        "building",
-        "taps",
-        "offer",
-        "on-device",
-        "inference",
-        "devs"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.905459+00:00"
-    },
-    {
-      "id": "rss-275ec37b30f8",
-      "discipline": "cs",
-      "type": "news",
-      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "authors": "TechCrunch AI",
-      "abstract": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
-      "date": "2026-08-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "weather",
-        "windborne",
-        "makes",
-        "prediction",
-        "better",
-        "make",
-        "lucrative",
-        "systems"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:29.905610+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.470296+00:00"
     },
     {
       "id": "rss-ead5f2bab0c6",
@@ -932,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.022678+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.543588+00:00"
     },
     {
       "id": "rss-a22dcd5db9ed",
@@ -964,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.022853+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.543713+00:00"
     },
     {
       "id": "rss-933ba0ff85bb",
@@ -996,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.537625+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.729289+00:00"
     },
     {
       "id": "rss-80e5754b3acd",
@@ -1028,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.538021+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.729576+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -1060,7 +1092,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.329719+00:00"
+      "_retrievedAt": "2026-08-07T00:13:20.654510+00:00"
     },
     {
       "id": "rss-bfc25c3f4f29",
@@ -1092,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.023011+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.543823+00:00"
     },
     {
       "id": "openalex-5abd16320b31",
@@ -1124,7 +1156,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.332966+00:00"
+      "_retrievedAt": "2026-08-07T00:13:20.656696+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -1156,7 +1188,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:25.535586+00:00"
+      "_retrievedAt": "2026-08-07T00:13:22.803871+00:00"
     },
     {
       "id": "rss-f7328a645416",
@@ -1188,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.023166+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.543928+00:00"
     },
     {
       "id": "rss-22e3c70241d7",
@@ -1220,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.023399+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.544050+00:00"
     },
     {
       "id": "rss-164ec90a306e",
@@ -1252,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.538669+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.730040+00:00"
     },
     {
       "id": "rss-82cbbc4a1e19",
@@ -1284,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.539325+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.730581+00:00"
     },
     {
       "id": "openalex-82bfb13f8d46",
@@ -1316,7 +1348,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:25.538289+00:00"
+      "_retrievedAt": "2026-08-07T00:13:22.805649+00:00"
     },
     {
       "id": "rss-61c6d7b63768",
@@ -1348,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.023585+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.544173+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -1380,7 +1412,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:25.535950+00:00"
+      "_retrievedAt": "2026-08-07T00:13:22.804168+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -1412,7 +1444,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:23.724174+00:00"
+      "_retrievedAt": "2026-08-07T00:13:19.950504+00:00"
     },
     {
       "id": "rss-d746300c673c",
@@ -1444,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.023750+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.544286+00:00"
     },
     {
       "id": "rss-e3531be54cc3",
@@ -1476,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.539639+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.730770+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -1508,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.023921+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.544412+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1540,7 +1572,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.330260+00:00"
+      "_retrievedAt": "2026-08-07T00:13:20.654976+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -1572,7 +1604,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.332331+00:00"
+      "_retrievedAt": "2026-08-07T00:13:20.656221+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -1604,7 +1636,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:23.726545+00:00"
+      "_retrievedAt": "2026-08-07T00:13:19.952192+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -1636,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.024092+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.544534+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -1668,7 +1700,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:23.722699+00:00"
+      "_retrievedAt": "2026-08-07T00:13:19.949510+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1700,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.024233+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.544633+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -1732,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.539859+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.730922+00:00"
     },
     {
       "id": "rss-67e6e4628573",
@@ -1764,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.540066+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.731067+00:00"
     },
     {
       "id": "rss-2c39e9060823",
@@ -1796,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.540774+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.731665+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1828,7 +1860,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.024416+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.544736+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -1860,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.942066+00:00"
+      "_retrievedAt": "2026-08-07T00:13:21.650832+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1892,7 +1924,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.024579+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.544846+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -1924,7 +1956,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:25.539679+00:00"
+      "_retrievedAt": "2026-08-07T00:13:22.806679+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -1956,7 +1988,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.024731+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.544952+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -1988,7 +2020,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.024982+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.545075+00:00"
     },
     {
       "id": "rss-35f3c73960fd",
@@ -2020,39 +2052,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.541090+00:00"
-    },
-    {
-      "id": "rss-fd9a37f6681c",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Adopt a Drifter Program grows this summer",
-      "authors": "NOAA News",
-      "abstract": "Adopt a Drifter Program grows this summer Teacher at Sea Susan Dee deploys a drifter buoy. (Image credit: NOAA Teacher at Sea) Download Image June 26, 2026 More than 20 years after the first teacher adopted a drifter, NOAA’s Adopt a Drifter Program , co-led by the Global Ocean Monitoring and Observing Program (GOMO) and the Atlantic Oceanographic and Meteorological Laboratory (AOML), continues to grow and evolve this summer. Education 0 Off",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/education/stories/adopt-drifter-program-grows-summer-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "drifter",
-        "program",
-        "adopt",
-        "this",
-        "summer",
-        "teacher",
-        "grows",
-        "image"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:30.541368+00:00"
+      "_retrievedAt": "2026-08-07T00:14:20.731896+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2084,7 +2084,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.332001+00:00"
+      "_retrievedAt": "2026-08-07T00:13:20.656004+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2116,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:25.538666+00:00"
+      "_retrievedAt": "2026-08-07T00:13:22.805936+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2148,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.330977+00:00"
+      "_retrievedAt": "2026-08-07T00:13:20.655240+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2176,11 +2176,11 @@
         "Cancer Genomics and Diagnostics"
       ],
       "readTime": "1 min",
-      "citedBy": 14,
+      "citedBy": 15,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.942669+00:00"
+      "_retrievedAt": "2026-08-07T00:13:21.651270+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2212,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:23.725607+00:00"
+      "_retrievedAt": "2026-08-07T00:13:19.951527+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2244,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.334409+00:00"
+      "_retrievedAt": "2026-08-07T00:13:20.657466+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2276,7 +2276,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:23.724531+00:00"
+      "_retrievedAt": "2026-08-07T00:13:19.950749+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2308,7 +2308,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:23.725268+00:00"
+      "_retrievedAt": "2026-08-07T00:13:19.951292+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2340,7 +2340,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.942301+00:00"
+      "_retrievedAt": "2026-08-07T00:13:21.650995+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2372,7 +2372,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:23.723796+00:00"
+      "_retrievedAt": "2026-08-07T00:13:19.950230+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2404,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.944262+00:00"
+      "_retrievedAt": "2026-08-07T00:13:21.652761+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2436,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:25.540909+00:00"
+      "_retrievedAt": "2026-08-07T00:13:22.807504+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2468,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:25.541703+00:00"
+      "_retrievedAt": "2026-08-07T00:13:22.808047+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2500,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:25.539059+00:00"
+      "_retrievedAt": "2026-08-07T00:13:22.806241+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2532,7 +2532,39 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:23.721789+00:00"
+      "_retrievedAt": "2026-08-07T00:13:19.948865+00:00"
+    },
+    {
+      "id": "openalex-1694495e202e",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "BINSEQ: A family of high-performance binary formats for nucleotide sequences",
+      "authors": "Noam Teyssier, Alexander Dobin",
+      "abstract": "A bstract Modern genomics produces billions of sequencing records per run, which are typically stored as gzip-compressed FASTQ files. While this format is widely used, it is not optimal for high-throughput processing due to its reliance on single-threaded decompression and sequential parsing of irregularly sized records. This limitation is particularly problematic for applications that would benefit from parallel processing, such as read mapping, variant calling, and de novo assembly. Here, we present BINSEQ, a family of simple binary formats that enable high-throughput parallel processing of sequencing data. The BINSEQ family consists of two complementary implementations: BQ, optimized for fixed-length reads using a two-bit or four-bit encoding scheme with true random record access capability, and VBQ, designed for variable-length sequences with optional quality scores and block-base...",
+      "date": "2026-05-28",
+      "year": 2026,
+      "journal": "PLoS Computational Biology",
+      "source": "PLoS Computational Biology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1371/journal.pcbi.1014181",
+      "doi": "10.1371/journal.pcbi.1014181",
+      "pdfUrl": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1014181&type=printable",
+      "keywords": [
+        "Binary number",
+        "Nucleotide",
+        "Computer science",
+        "Computational biology",
+        "Genetics",
+        "Plant Genetic and Mutation Studies",
+        "Coding theory and cryptography",
+        "binseq"
+      ],
+      "readTime": "2 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T00:13:20.657830+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2564,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:25.537566+00:00"
+      "_retrievedAt": "2026-08-07T00:13:22.805073+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2596,7 +2628,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:23.726180+00:00"
+      "_retrievedAt": "2026-08-07T00:13:19.951950+00:00"
+    },
+    {
+      "id": "openalex-7a2e0cea295d",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Stratigraphy as a low-pass filter: selective preservation of spatial variability on a Holocene carbonate platform",
+      "authors": "Xianyi Liu, Sam Purkis, Peter Burgess, David De Vleeschouwer, Laurent Puyana, Niklas Hohmann",
+      "abstract": "Walther’s law, a fundamental principle in geoscience, predicts that laterally adjacent depositional environments become preserved as a vertical succession of layers (facies). As an expression of uniformitarianism, this law underpins interpretations of Earth’s history, yet it has not been quantitatively tested. We test this law and examine its limitations by quantifying multidecadal changes in environmental heterogeneity (1945-2019) in the Bahamas and extrapolating them to millennial timescales using forward modelling. Virtual stratigraphic successions predicted by Walther’s law contain substantially greater heterogeneity than observed in sediment cores. This discrepancy arises because small and short-lived environment patches undergo rapid turnover and fail to accumulate sufficient sediment for preservation. Our work establishes a quantitative framework for defining preservation thres...",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "OpenAlex",
+      "source": "OpenAlex",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.31223/x5k784",
+      "doi": "10.31223/x5k784",
+      "pdfUrl": "https://eartharxiv.org/repository/object/13113/download/23232/",
+      "keywords": [
+        "Sedimentary depositional environment",
+        "Geology",
+        "Stratigraphy",
+        "Sedimentary rock",
+        "Sediment",
+        "Geology and Paleoclimatology Research",
+        "Paleontology and Stratigraphy of Fossils",
+        "Geological formations and processes"
+      ],
+      "readTime": "1 min",
+      "citedBy": 2,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T00:13:22.808277+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2628,7 +2692,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:23.723083+00:00"
+      "_retrievedAt": "2026-08-07T00:13:19.949781+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2660,7 +2724,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:23.721392+00:00"
+      "_retrievedAt": "2026-08-07T00:13:19.948613+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -2688,11 +2752,11 @@
         "Immune cells in cancer"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.946353+00:00"
+      "_retrievedAt": "2026-08-07T00:13:21.652050+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2724,7 +2788,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:23.723336+00:00"
+      "_retrievedAt": "2026-08-07T00:13:19.949942+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2756,7 +2820,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:23.720945+00:00"
+      "_retrievedAt": "2026-08-07T00:13:19.948280+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2788,7 +2852,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.944620+00:00"
+      "_retrievedAt": "2026-08-07T00:13:21.653017+00:00"
+    },
+    {
+      "id": "openalex-54438cbb0a67",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "The ISG Atlas: a loss-of-function analysis characterizes antiviral properties of interferon stimulated genes",
+      "authors": "Karsten Krey, Jennifer Risso-Ballester, Sabri Hamad, Susanne Maidl, Sara Bilekova, Quirin Emslander",
+      "abstract": "The innate immune system requires the activity of interferon-stimulated genes (ISGs) to mount its protective response against viruses. However, the activity of ISGs against viruses varies widely and is orchestrated by the interplay of hundreds of ISGs. Utilizing a time-resolved, arrayed loss-of-function screen, we systematically investigate 285 ISGs for their virus-modulating activity against eight viruses. The quantitated data from the screen results do not necessarily result in similar quantitative biological effects of gene function but indicates virus specificity of many ISGs and pan-proviral activity of some ISGs, such as RNA 2',3'-cyclic phosphate and 5'-OH ligase (RTCB). Co-depletions of selected candidates identify ISGs with synergistic functions, highlighting particularly strong synergies between ISGs inhibiting entry pathways and ISGs involved in IFN signaling. Among unexplo...",
+      "date": "2026-05-08",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-72732-x",
+      "doi": "10.1038/s41467-026-72732-x",
+      "pdfUrl": "https://www.nature.com/articles/s41467-026-72732-x.pdf",
+      "keywords": [
+        "Interferon",
+        "Innate immune system",
+        "Biology",
+        "Gene",
+        "Endosome",
+        "interferon and immune responses",
+        "RNA regulation and disease",
+        "Cytokine Signaling Pathways and Interactions"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T00:13:20.658073+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2820,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.943619+00:00"
+      "_retrievedAt": "2026-08-07T00:13:21.652272+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2852,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:25.536708+00:00"
+      "_retrievedAt": "2026-08-07T00:13:22.804754+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2884,7 +2980,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:23.722252+00:00"
+      "_retrievedAt": "2026-08-07T00:13:19.949207+00:00"
     },
     {
       "id": "openalex-e2538de02ecf",
@@ -2916,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.947055+00:00"
+      "_retrievedAt": "2026-08-07T00:13:21.655117+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -2948,39 +3044,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:25.541319+00:00"
+      "_retrievedAt": "2026-08-07T00:13:22.807776+00:00"
     },
     {
-      "id": "openalex-0014575d52b0",
+      "id": "openalex-0026215bd6f7",
       "discipline": "clinical",
       "type": "paper",
-      "title": "Evolutionary characterization of lung cancer metastasis",
-      "authors": "Sonya Hessey, Abigail Bunkum, Ariana Huebner, Kerstin Haase, Kristiana Grigoriadis, Cristina Naceur-Lombardelli",
-      "abstract": ". Here, using 501 longitudinally collected primary and metastatic tumour samples from 24 patients with non-small cell lung cancer (NSCLC) enrolled in the TRACERx lung study and PEACE autopsy programme, we infer tumour evolution from diagnosis to death. With DNA-sequencing data encompassing 70% of the metastases that were radiologically detected before death and paired multi-region sampled primary tumours, we show that the genomes of metastases diverge markedly from those of their ancestral primary tumour, with additional driver alterations and genome doubling events occurring after metastatic dissemination. In 62.5% of patients, multiple primary tumour subclones disseminated, each founding a distinct metastasis. These metastases served as sources of onward spread: more than half of the metastases sampled were seeded by other metastases. The duration that metastases existed in situ inf...",
+      "title": "Cardiovascular–kidney–metabolic syndrome: a comprehensive review of pathophysiology, epidemiology, diagnosis, and management",
+      "authors": "Stanislovas S. Jankauskas, Klara Komici, Fahimeh Varzideh, Luigi Simone Aversa, Urna Kansakar, Maria Luisa D'Onghia",
+      "abstract": "Cardiovascular-kidney-metabolic (CKM) syndrome is a multisystem condition integrating metabolic dysfunction, chronic kidney disease (CKD), and cardiovascular disease into a unified framework. CKM syndrome encompasses progressive metabolic derangements, renal injury, and cardiovascular remodeling, which interact to amplify morbidity and mortality. Lifestyle interventions (including structured weight loss, dietary modification, physical activity, and sleep optimization) form a cornerstone of prevention and management. Pharmacologic strategies targeting the renin-angiotensin-aldosterone system, sodium-glucose cotransporter 2 inhibitors, glucagon-like peptide-1 receptor agonists, and lipid-lowering therapies provide additional multisystem benefits. In this comprehensive review, we systematically examine the most updated evidence on CKM syndrome, in terms of pathophysiology, epidemiology,...",
       "date": "2026-04-29",
       "year": 2026,
-      "journal": "Nature",
-      "source": "Nature",
+      "journal": "Cardiovascular Diabetology",
+      "source": "Cardiovascular Diabetology",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41586-026-10428-4",
-      "doi": "10.1038/s41586-026-10428-4",
-      "pdfUrl": "https://www.nature.com/articles/s41586-026-10428-4.pdf",
+      "url": "https://doi.org/10.1186/s12933-026-03177-1",
+      "doi": "10.1186/s12933-026-03177-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s12933-026-03177-1.pdf",
       "keywords": [
-        "Metastasis",
-        "Lung cancer",
-        "Primary tumor",
-        "Autopsy",
-        "Somatic evolution in cancer",
-        "Cancer Genomics and Diagnostics",
-        "Genomic variations and chromosomal abnormalities",
-        "Microtubule and mitosis dynamics"
+        "Medicine",
+        "Intensive care medicine",
+        "Disease",
+        "Kidney disease",
+        "Psychological intervention",
+        "Diabetes Treatment and Management",
+        "Chronic Kidney Disease and Diabetes",
+        "Renin-Angiotensin System Studies"
       ],
       "readTime": "1 min",
-      "citedBy": 4,
+      "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.947406+00:00"
+      "_retrievedAt": "2026-08-07T00:13:21.654268+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -3012,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.332648+00:00"
+      "_retrievedAt": "2026-08-07T00:13:20.656449+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -3044,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.333247+00:00"
+      "_retrievedAt": "2026-08-07T00:13:20.656907+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -3076,7 +3172,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:23.725875+00:00"
+      "_retrievedAt": "2026-08-07T00:13:19.951720+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -3108,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:25.540064+00:00"
+      "_retrievedAt": "2026-08-07T00:13:22.806968+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -3136,11 +3232,43 @@
         "Antibiotic Use and Resistance"
       ],
       "readTime": "1 min",
-      "citedBy": 7,
+      "citedBy": 8,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.330629+00:00"
+      "_retrievedAt": "2026-08-07T00:13:20.654765+00:00"
+    },
+    {
+      "id": "openalex-b085d32d7fe5",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Ciltacabtagene autoleucel in high-risk smoldering multiple myeloma: the CAR-PRISM phase 2 trial",
+      "authors": "Omar Nadeem, David M. Cordas dos Santos, Sarah Nikiforow, Anna Bosch, Elizabeth O’Donnell, Robert Redd",
+      "abstract": "High-risk smoldering multiple myeloma (HR-SMM) carries an increased risk of progression to multiple myeloma, making it an ideal setting to test whether chimeric antigen receptor (CAR) T cell therapy can achieve curative outcomes. Here in this phase 2 study, patients with HR-SMM received ciltacabtagene autoleucel (cilta-cel) at 0.3–0.5 × 106 or >0.5 × 106 viable CAR+ T cells per kilogram without induction or bridging therapy. Patients with >40% marrow involvement were excluded. Primary endpoints were dose-limiting toxicities (DLTs) and treatment-emergent adverse events; secondary endpoints included response and minimal residual disease (MRD) negativity. As of 11 February 2026, 20 patients had been treated. The trial met the prespecified endpoints. No DLTs occurred. Adverse events included transient cytopenias (90% grade 3/4) and cytokine release syndrome (100% grade 1/2). Non-immune ef...",
+      "date": "2026-04-20",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04365-y",
+      "doi": "10.1038/s41591-026-04365-y",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04365-y.pdf",
+      "keywords": [
+        "Phase (matter)",
+        "Materials science",
+        "Medicine",
+        "Chemistry",
+        "Phases of clinical research",
+        "CAR-T cell therapy research",
+        "Multiple Myeloma Research and Treatments",
+        "Protein Degradation and Inhibitors"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T00:13:21.654854+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -3172,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:25.537889+00:00"
+      "_retrievedAt": "2026-08-07T00:13:22.805324+00:00"
     },
     {
       "id": "openalex-b405599e1257",
@@ -3204,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:25.539341+00:00"
+      "_retrievedAt": "2026-08-07T00:13:22.806452+00:00"
     },
     {
       "id": "openalex-ecc34b946b2e",
@@ -3236,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.946711+00:00"
+      "_retrievedAt": "2026-08-07T00:13:21.654547+00:00"
     },
     {
       "id": "openalex-1c8cc4075423",
@@ -3268,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:25.540515+00:00"
+      "_retrievedAt": "2026-08-07T00:13:22.807214+00:00"
     },
     {
       "id": "openalex-a528e7ad7434",
@@ -3300,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.943944+00:00"
+      "_retrievedAt": "2026-08-07T00:13:21.652523+00:00"
     },
     {
       "id": "openalex-925ecf6ab58e",
@@ -3332,7 +3460,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.942955+00:00"
+      "_retrievedAt": "2026-08-07T00:13:21.651505+00:00"
     },
     {
       "id": "openalex-7a392a0ca13d",
@@ -3364,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.331348+00:00"
+      "_retrievedAt": "2026-08-07T00:13:20.655515+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -3396,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.331659+00:00"
+      "_retrievedAt": "2026-08-07T00:13:20.655747+00:00"
     },
     {
       "id": "openalex-ec9559e049f8",
@@ -3428,39 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.945954+00:00"
-    },
-    {
-      "id": "openalex-900ceae5cf59",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Optimizing next-generation CAR-macrophages against solid tumors: challenges and potential strategies",
-      "authors": "Yizhao Chen, Lucheng Zhou, Xinlei Chen, Shuai Wang, Weiwei Chen, Zixuan Li",
-      "abstract": "Chimeric antigen receptor macrophage (CAR-M) therapy has emerged as a highly promising novel platform in solid tumor immunotherapy. Leveraging its inherent tumor-homing capacity, potent phagocytic function, and potential to remodel the tumor microenvironment (TME), CAR-M offers a new strategic approach to address the limitations faced by CAR-T therapy in solid tumors, such as poor infiltration and immunosuppression. Despite these mechanistic advantages, clinical outcomes with first-generation CAR-M constructs have been modest, largely due to their limited in vivo persistence and effector activity. In this review, we summarize the core challenges limiting the efficacy and clinical application of CAR-M, and provide an in-depth discussion of engineering strategies aimed at enhancing its anti-tumor activity through optimization of the CAR molecular structure. Beyond CAR-M engineering, we...",
-      "date": "2026-04-10",
-      "year": 2026,
-      "journal": "Journal of Hematology & Oncology",
-      "source": "Journal of Hematology & Oncology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s13045-026-01792-9",
-      "doi": "10.1186/s13045-026-01792-9",
-      "pdfUrl": "https://doi.org/10.1186/s13045-026-01792-9",
-      "keywords": [
-        "Limiting",
-        "Modalities",
-        "Chimeric antigen receptor",
-        "Risk analysis (engineering)",
-        "Computer science",
-        "CAR-T cell therapy research",
-        "Immune cells in cancer",
-        "Phagocytosis and Immune Regulation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.947745+00:00"
+      "_retrievedAt": "2026-08-07T00:13:21.654054+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -3492,7 +3588,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:23.724847+00:00"
+      "_retrievedAt": "2026-08-07T00:13:19.950978+00:00"
     },
     {
       "id": "openalex-3e1354c11e08",
@@ -3524,103 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.334006+00:00"
-    },
-    {
-      "id": "openalex-7ccfc202ecea",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Linker histone H1 functions as a liquid-like glue to organize chromatin in living human cells",
-      "authors": "Masa A. Shimazoe, Jan Huertas, Charles B Phillips, Satoru Ide, Sachiko Tamura, Stephen E. Farr",
-      "abstract": "Linker histone H1, the most abundant chromatin protein, condenses chromatin, modulates DNA transactions such as transcription and DNA replication/repair, and participates in differentiation, development, and tumorigenesis. While recent studies indicate that nucleosomes are clustered as condensed chromatin domains in higher eukaryotic cells, how histone H1 mechanically condenses chromatin remains unclear. Here, using a combination of direct visualization of single-H1 molecules in living human cells and multiscale molecular dynamics simulations, we demonstrate that the majority of H1 behaves like a liquid inside chromatin domains, rather than binding stably to nucleosomes as suggested by the traditional model. H1 functions as a liquid-like \"glue,\" mediating dynamic multivalent electrostatic interactions between nucleosomes within chromatin domains. Consistently, rapid depletion of H1.2...",
-      "date": "2026-04-08",
-      "year": 2026,
-      "journal": "Science Advances",
-      "source": "Science Advances",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1126/sciadv.aec9801",
-      "doi": "10.1126/sciadv.aec9801",
-      "pdfUrl": "https://www.science.org/doi/pdf/10.1126/sciadv.aec9801?download=true",
-      "keywords": [
-        "Histone H1",
-        "Chromatin",
-        "Linker",
-        "Histone",
-        "Cell biology",
-        "Genomics and Chromatin Dynamics",
-        "chromatin",
-        "histone"
-      ],
-      "readTime": "1 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.329994+00:00"
-    },
-    {
-      "id": "openalex-e80ab870ed69",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Synthetic super-enhancers enable precision viral immunotherapy",
-      "authors": "Ute Koeber, Mantas Matjusaitis, Neza Alfazema, Katharine Furlong, Zeyu Wang, R. Clyde White",
-      "abstract": "Abstract Cell-type-specific promoters are used in gene therapy to restrict expression of the therapeutic payload. However, these promoters often have suboptimal strength, selectivity and size. Here, leveraging recent insights into the function of enhancers, we developed synthetic super-enhancers (SSEs) by assembling functionally validated enhancer fragments into multipart arrays. Focusing on the core SOX2-driven and SOX9-driven transcriptional regulatory network in glioblastoma stem cells (GSCs) 1 , we engineered SSEs with robust activity and high selectivity. Single-cell profiling, biochemical analyses and genome-binding data indicated that SSEs integrate neurodevelopmental and signalling-state transcription factors to trigger the formation of large multimeric complexes of transcription factors. Moreover, GSC-selective expression of a combination of cytotoxic (HSV-TK and ganciclovir)...",
-      "date": "2026-04-08",
-      "year": 2026,
-      "journal": "Nature",
-      "source": "Nature",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41586-026-10329-6",
-      "doi": "10.1038/s41586-026-10329-6",
-      "pdfUrl": "https://doi.org/10.1038/s41586-026-10329-6",
-      "keywords": [
-        "Enhancer",
-        "Computational biology",
-        "Promoter",
-        "Transcription factor",
-        "Transgene",
-        "Virus-based gene therapy research",
-        "Single-cell and spatial transcriptomics",
-        "RNA Interference and Gene Delivery"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:24.333634+00:00"
-    },
-    {
-      "id": "openalex-178ac453ea4b",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Seasonal controls on groundwater irrigation quality in a semi-arid granitic watershed of Telangana, India: an integrated IWQI-GIS-multivariate approach",
-      "authors": "Mamatha Ullengula, Ratnakar Dhakate, N. Subba Rao, Pradeep Kumar Badapalli, Karuturi Venkata Suryabhagavan, Sakram Gugulothu",
-      "abstract": "Groundwater is a vital resource for irrigation in arid and semi-arid regions. This study evaluates groundwater suitability for irrigation in the granitic watershed of Dilawarpur Mandal, Nirmal District, Telangana, India, using 61 groundwater samples collected during pre- and post-monsoon seasons. Major physicochemical parameters (pH, EC, TDS, Ca 2+ , Mg 2+ , Na + , K + , HCO 3 − , Cl − , SO 4 2− , and F − ) were analysed. Irrigation suitability was assessed using the Irrigation Water Quality Index ( IWQI ) in conjunction with EC, %Na⁺ , SAR , SSP , KR , MHR , PI , and RSC . Multivariate statistical techniques, including Pearson correlation, Principal Component Analysis (PCA), Hierarchical Cluster Analysis (HCA), and Multiple Linear Regression (MLR), were applied to identify dominant hydrochemical controls and evaluate predictive relationships. Although elevated EC indicates moderate t...",
-      "date": "2026-04-08",
-      "year": 2026,
-      "journal": "Scientific Reports",
-      "source": "Scientific Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41598-026-46780-8",
-      "doi": "10.1038/s41598-026-46780-8",
-      "pdfUrl": "https://www.nature.com/articles/s41598-026-46780-8_reference.pdf",
-      "keywords": [
-        "Environmental science",
-        "Irrigation",
-        "Groundwater",
-        "Hydrology (agriculture)",
-        "Watershed",
-        "Groundwater and Isotope Geochemistry",
-        "Groundwater and Watershed Analysis",
-        "Soil and Land Suitability Analysis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-06T14:32:25.537150+00:00"
+      "_retrievedAt": "2026-08-07T00:13:20.657185+00:00"
     }
   ]
 }
