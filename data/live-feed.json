@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T13:35:59.820033+00:00",
+  "generatedAt": "2026-08-07T19:12:29.729995+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -7,452 +7,548 @@
   ],
   "papers": [
     {
-      "id": "rss-0f8a3bf1a6e2",
+      "id": "rss-e6387486bea1",
       "discipline": "clinical",
       "type": "news",
-      "title": "Medicaid work rule leaves homeless people in the cold",
+      "title": "Deep learning refines how bionic eyes communicate with the brain",
       "authors": "Medical Xpress",
-      "abstract": "In the spring, the federal government finalized regulations requiring millions of people who receive Medicaid benefits to prove they're working, volunteering or going to school to keep their coverage.",
+      "abstract": "Researchers from three institutions, including UC Santa Barbara, have demonstrated that artificial intelligence has the potential to make future visual prostheses, like a bionic eye, more precise, predictable and responsive to an individual user.",
       "date": "2026-08-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-medicaid-homeless-people-cold.html",
+      "url": "https://medicalxpress.com/news/2026-08-deep-refines-bionic-eyes-communicate.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "medicaid",
-        "people",
-        "work",
-        "rule",
-        "leaves",
-        "homeless",
-        "cold",
-        "spring"
+        "bionic",
+        "deep",
+        "learning",
+        "refines",
+        "eyes",
+        "communicate",
+        "brain",
+        "researchers"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.190642+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.186823+00:00"
     },
     {
-      "id": "rss-c464d4a09284",
+      "id": "rss-d10518e46341",
       "discipline": "clinical",
       "type": "news",
-      "title": "Study identifies care steps that start head and neck cancer patients on lifesaving treatment sooner",
+      "title": "Protective drug dexrazoxane reduces heart damage in pediatric cancer survivors years after treatment ends",
       "authors": "Medical Xpress",
-      "abstract": "For patients with advanced head and neck cancer, surgery is often the first step in treatment. Many also need radiation therapy to destroy remaining cancer cells and reduce the risk that their cancer will return. Starting radiation within six weeks of surgery gives patients the best chance of beating their cancer. But for more than half of patients nationwide, that does not happen.",
+      "abstract": "A new study reveals that the cardioprotective drug dexrazoxane significantly reduces heart damage caused by chemotherapy in pediatric cancer patients 15 years or more after treatment ends.",
       "date": "2026-08-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-neck-cancer-patients-lifesaving-treatment.html",
+      "url": "https://medicalxpress.com/news/2026-08-drug-dexrazoxane-heart-pediatric-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "drug",
+        "dexrazoxane",
+        "reduces",
+        "heart",
+        "damage",
+        "pediatric",
+        "cancer",
+        "years"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T19:12:29.187080+00:00"
+    },
+    {
+      "id": "rss-db98afc813cf",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Why the body's inflammatory alarm misfires in familial Mediterranean fever",
+      "authors": "Medical Xpress",
+      "abstract": "Familial Mediterranean fever (FMF) is a hereditary autoinflammatory disease in which the body's own immune system overreacts to minimal or inappropriate stimuli, producing recurrent attacks of fever and painful inflammation. The disease is caused by mutations in MEFV, the gene that encodes a protein called pyrin.",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-body-inflammatory-alarm-misfires-familial.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "fever",
+        "body",
+        "familial",
+        "mediterranean",
+        "disease",
+        "inflammatory",
+        "alarm",
+        "misfires"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T19:12:29.187322+00:00"
+    },
+    {
+      "id": "rss-275f2f9d7590",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "High glucose thickens cancer cells' sugar shield, helping them evade immune attack",
+      "authors": "Medical Xpress",
+      "abstract": "Like spies evading detection by mastering disguises, many cancer cells are adorned with a copious coat of sugar-derived molecules that throws the proverbial hounds of the immune system off the scent.",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-high-glucose-thickens-cancer-cells.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "cancer",
-        "patients",
-        "that",
-        "head",
-        "neck",
-        "treatment",
-        "surgery",
-        "radiation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.190978+00:00"
-    },
-    {
-      "id": "rss-af454efcfbfe",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Study: Variable outcomes of stem cell injections for knee osteoarthritis",
-      "authors": "Medical Xpress",
-      "abstract": "Knee osteoarthritis (KOA) affects more than 1 in 10 people older than 40, impairing patients' mobility and quality of life. With limited treatment options, stem cell injections have been promoted as a treatment, but clinical trial evidence of efficacy is often lacking, despite claims from clinics selling untested options. Even where well-designed clinical trials have been performed, there is no clear consensus about the benefits of stem cell injections for KOA, likely because of the many variables at play.",
-      "date": "2026-08-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-variable-outcomes-stem-cell-knee.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "stem",
-        "cell",
-        "injections",
-        "knee",
-        "osteoarthritis",
-        "than",
-        "treatment",
-        "options"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.191280+00:00"
-    },
-    {
-      "id": "rss-b45d36d1195a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Greater intentions to take hypertension medication, fewer intentions to change lifestyle",
-      "authors": "Medical Xpress",
-      "abstract": "Having high blood pressure is associated with greater intentions to follow doctors' recommendations to take medication but lower intentions to make recommended lifestyle changes than among people without high blood pressure, according to a new study published in Hypertension.",
-      "date": "2026-08-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-greater-intentions-hypertension-medication-lifestyle.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "intentions",
-        "greater",
-        "take",
-        "hypertension",
-        "medication",
-        "lifestyle",
+        "cells",
+        "immune",
         "high",
-        "blood"
+        "glucose",
+        "thickens",
+        "sugar",
+        "shield"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.191526+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.187533+00:00"
     },
     {
-      "id": "rss-b94c2add0502",
+      "id": "rss-3982ffb5505d",
       "discipline": "clinical",
       "type": "news",
-      "title": "Study identifies promising therapy to prevent relapses in rare neurological disease",
+      "title": "Barbie and Ken get a reality check after 30 years",
       "authors": "Medical Xpress",
-      "abstract": "An international study led by Mayo Clinic researchers has identified interleukin-6 (IL-6) receptor blockers as a promising option for preventing relapses in myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD). MOGAD is a rare autoimmune neurological disorder that can cause vision loss, paralysis and other serious neurological complications.",
+      "abstract": "She's the blonde bombshell and he's her square-jawed sidekick. But nearly 70 years after the impossibly perfect Barbie and Ken made their debut, a new study from Adelaide University and UNSW Sydney shows the iconic pair are finally looking a little more like the rest of us.",
       "date": "2026-08-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-therapy-relapses-rare-neurological-disease.html",
+      "url": "https://medicalxpress.com/news/2026-08-barbie-ken-reality-years.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "neurological",
-        "promising",
-        "relapses",
-        "rare",
+        "barbie",
+        "after",
+        "years",
+        "reality",
+        "check",
+        "blonde",
+        "bombshell",
+        "square-jawed"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T19:12:29.187766+00:00"
+    },
+    {
+      "id": "rss-f5e535d33965",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "'Mindfulness-based cognitive therapy' may reduce internet gaming disorder in college students",
+      "authors": "Medical Xpress",
+      "abstract": "A research team led by Professor Anderson Sungmin Yoon and Minah Kim of Sungkyunkwan University (SKKU) has developed a \"Mindfulness-Based Cognitive Therapy for Gaming (MBCT-G)\" program to address internet gaming disorder among college students and has found promising evidence of its therapeutic effectiveness.",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-mindfulness-based-cognitive-therapy-internet.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "gaming",
+        "mindfulness-based",
+        "cognitive",
+        "therapy",
+        "internet",
+        "disorder",
+        "college",
+        "students"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T19:12:29.187989+00:00"
+    },
+    {
+      "id": "rss-413e64ea4c53",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Radiopharmaceutical may benefit patients with metastatic prostate cancer sooner",
+      "authors": "Medical Xpress",
+      "abstract": "Earlier use of a targeted radionuclide therapy delays metastatic prostate cancer progression when administered as part of a trio of drugs, according to a Phase III clinical trial led by Weill Cornell Medicine, NewYork-Presbyterian, Memorial Sloan Kettering Cancer Center and investigators at several other institutions worldwide.",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-radiopharmaceutical-benefit-patients-metastatic-prostate.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "metastatic",
+        "prostate",
+        "radiopharmaceutical",
+        "benefit",
+        "patients",
+        "sooner",
+        "earlier"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T19:12:29.188210+00:00"
+    },
+    {
+      "id": "rss-c27cf360485e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "How drugs leach out of your sweat (and can spoil your sofa)",
+      "authors": "Medical Xpress",
+      "abstract": "Like all consumer products, sofas come with instructions for how best to use and maintain them. But it may surprise you that many furniture companies warn medicines can seep out in your sweat or body oils and damage your leather sofa.",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-drugs-leach-sofa.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "your",
+        "sweat",
+        "sofa",
+        "drugs",
+        "leach",
+        "spoil",
+        "like",
+        "consumer"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T19:12:29.188419+00:00"
+    },
+    {
+      "id": "rss-f627fb428a97",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Q&A: Medicare spending on clinical care for people aging with HIV projected to rise steeply over next decade",
+      "authors": "Medical Xpress",
+      "abstract": "As more Americans with HIV live into older age, Medicare spending on their care is projected to rise dramatically from $10.9 billion in 2026 to $27.3 billion in 2035, with HIV medications accounting for nearly two-thirds of total costs.",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-qa-medicare-clinical-people-aging.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "medicare",
+        "spending",
+        "care",
+        "projected",
+        "rise",
+        "billion",
+        "clinical",
+        "people"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T19:12:29.188665+00:00"
+    },
+    {
+      "id": "rss-77f5ca54d87a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Parkinson's-linked α-synuclein blocks protein transport in neurons, disrupting cells' waste recycling",
+      "authors": "Medical Xpress",
+      "abstract": "Parkinson's disease affects more than 10 million people worldwide. The disease is characterized by the buildup of abnormal clumps of the protein alpha-synuclein inside brain cells, but scientists have long struggled to understand exactly how these toxic forms of the protein cause neurons to malfunction and eventually die.",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-parkinson-linked-synuclein-blocks-protein.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "protein",
+        "parkinson",
+        "neurons",
+        "cells",
         "disease",
-        "mogad",
-        "identifies",
-        "therapy"
+        "s-linked",
+        "synuclein",
+        "blocks"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.191785+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.188920+00:00"
     },
     {
-      "id": "rss-c4531f4ac7a8",
+      "id": "rss-8dd9a9cef03f",
       "discipline": "clinical",
       "type": "news",
-      "title": "Ketamine triggers morning cortisol surge tied to fewer suicidal thoughts—but the link remains uncertain",
+      "title": "D-serine accelerates gastric tumor growth by suppressing killer T cells",
       "authors": "Medical Xpress",
-      "abstract": "In 1970, ketamine was approved as an anesthetic. It works by blocking receptors in the brain. Suicidal tendencies are among the dangers that accompany severe depression. Doctors have found that a low dose of ketamine, much lower than what is used for anesthesia, can quickly ease depression and suicidal thoughts. It often works within hours to a day, much faster than conventional antidepressants.",
+      "abstract": "One of the crucial steps in cancer proliferation is evading killer immune cells. Cancer cells use a variety of signaling molecules to evade the immune system. Immune checkpoint inhibitor (ICI) therapy interferes with some of these evasion tactics, improving the immune system's ability to suppress tumors. However, the success of ICI therapy depends on the specific signals being secreted by the tumor.",
       "date": "2026-08-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-ketamine-triggers-morning-cortisol-surge.html",
+      "url": "https://medicalxpress.com/news/2026-08-d-serine-gastric-tumor-growth.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "ketamine",
-        "suicidal",
-        "thoughts",
-        "works",
+        "immune",
+        "cells",
+        "tumor",
+        "killer",
+        "cancer",
+        "system",
+        "therapy",
+        "d-serine"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T19:12:29.189154+00:00"
+    },
+    {
+      "id": "rss-2b420fdbe665",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "From growth to function: Gene helps human heart cells decide when to mature",
+      "authors": "Medical Xpress",
+      "abstract": "Understanding how heart muscle cells stop dividing and acquire the characteristics needed to sustain lifelong cardiac function remains one of the greatest challenges in cardiovascular biology. Leveraging human induced pluripotent stem (iPS) cell technology, a team led by Associate Professor Yoshinori Yoshida (Department of Clinical Application, CiRA, Kyoto University) and Associate Professor Antonio Lucena-Cacace (WPI-PRIMe, The University of Osaka) has identified PRDM16 as an important regulator governing the balance between proliferation and maturation in human iPSC-derived cardiomyocytes.",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-growth-function-gene-human-heart.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "human",
+        "function",
+        "heart",
+        "cells",
+        "associate",
+        "professor",
+        "university",
+        "growth"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T19:12:29.189414+00:00"
+    },
+    {
+      "id": "rss-e1117fdb7fee",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Newer AI models still reproduce racial and gender stereotypes in medicine",
+      "authors": "Medical Xpress",
+      "abstract": "Flinders University researchers have evaluated two next-generation reasoning large language models (LLMs)—o3-mini and DeepSeek-R1—and found that when asked to describe fictional patients with common medical conditions, the models frequently reproduced racial and gender stereotypes, indicating that advancements in AI reasoning do not inherently improve representational fairness.",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-ai-racial-gender-stereotypes-medicine.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "racial",
+        "gender",
+        "stereotypes",
+        "reasoning",
         "that",
-        "depression",
-        "much",
-        "than"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.192127+00:00"
-    },
-    {
-      "id": "rss-87895bdd54ab",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Tips for avoiding potentially serious mosquito-borne illnesses",
-      "authors": "Medical Xpress",
-      "abstract": "West Nile virus is the most common mosquito-borne disease in the United States—and this summer, cases are rising unusually early. According to the U.S. Centers for Disease Control and Prevention (CDC), the country has recorded its highest number of West Nile cases this early in the season since 2004.",
-      "date": "2026-08-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-potentially-mosquito-borne-illnesses.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "mosquito-borne",
-        "west",
-        "nile",
-        "disease",
-        "this",
-        "cases",
-        "early",
-        "tips"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.192397+00:00"
-    },
-    {
-      "id": "rss-44538fdddc20",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Expert shares practical tips for treating hair loss",
-      "authors": "Medical Xpress",
-      "abstract": "Hair loss is often caused by a combination of heredity and aging, says Dr. Dawn Davis, a Mayo Clinic dermatologist. Treatments that may slow that type of hair loss and help regrow hair, including over-the-counter therapies such as shampoos, are available. And they can be effective.",
-      "date": "2026-08-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-expert-hair-loss.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hair",
-        "loss",
-        "that",
-        "expert",
-        "shares",
-        "practical",
-        "tips",
-        "treating"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.192644+00:00"
-    },
-    {
-      "id": "rss-b477abbafe7f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Study finds many Colorado jails still lack public opioid treatment policies despite state mandate",
-      "authors": "Medical Xpress",
-      "abstract": "Four years after Colorado passed a law requiring county jails to provide medications for opioid use disorder (MOUD) and to publish their policies for MOUD care, researchers at the University of Colorado Anschutz have found that many jails still lack publicly available policies explaining how they provide this lifesaving treatment.",
-      "date": "2026-08-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-colorado-lack-opioid-treatment-policies.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "colorado",
-        "jails",
-        "policies",
-        "many",
+        "newer",
         "still",
-        "lack",
-        "opioid",
-        "treatment"
+        "reproduce"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.192928+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.189664+00:00"
     },
     {
-      "id": "rss-d0d16f4d3ae3",
+      "id": "rss-bd5bd018e4a7",
       "discipline": "clinical",
       "type": "news",
-      "title": "FLT3 inhibitors trigger ferroptosis, exposing new weakness in acute myeloid leukemia",
+      "title": "Early respiratory infections linked to atopic dermatitis diagnosis",
       "authors": "Medical Xpress",
-      "abstract": "A study published in Nature Cell Biology reports a new vulnerability in acute myeloid leukemia (AML) that might lead to novel therapies to treat the cancer while minimizing harm to normal cells. Researchers at Baylor College of Medicine and collaborating institutions studied a new mechanism by which drugs that neutralize FLT3 mutations work.",
+      "abstract": "Early respiratory infection burden is associated with atopic dermatitis (AD) diagnosis in childhood, according to a study published online July 29 in JAMA Dermatology.",
       "date": "2026-08-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-flt3-inhibitors-trigger-ferroptosis-exposing.html",
+      "url": "https://medicalxpress.com/news/2026-08-early-respiratory-infections-linked-atopic.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "acute",
-        "myeloid",
-        "leukemia",
-        "that",
-        "inhibitors",
-        "trigger",
-        "ferroptosis",
-        "exposing"
+        "early",
+        "respiratory",
+        "atopic",
+        "dermatitis",
+        "diagnosis",
+        "infections",
+        "linked",
+        "infection"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.193189+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.189849+00:00"
     },
     {
-      "id": "rss-c4b0529a0777",
-      "discipline": "clinical",
+      "id": "rss-5a73d9bd9529",
+      "discipline": "cs",
       "type": "news",
-      "title": "US sees a big jump in nausea cases among frequent marijuana users in the hospital",
-      "authors": "Medical Xpress",
-      "abstract": "In the past year, the U.S. has seen a jump in frequent marijuana users going to the hospital with a nausea and vomiting condition, according to a report released Thursday.",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "authors": "TechCrunch AI",
+      "abstract": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
       "date": "2026-08-07",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-big-nausea-cases-frequent-marijuana.html",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "jump",
-        "nausea",
-        "frequent",
-        "marijuana",
-        "users",
-        "hospital",
-        "sees",
-        "cases"
+        "browser",
+        "agents",
+        "cloudflare",
+        "kitesurf",
+        "launches",
+        "built",
+        "introduced",
+        "cloud-hosted"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.193410+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.315083+00:00"
     },
     {
-      "id": "rss-02c665a1ff69",
-      "discipline": "clinical",
+      "id": "rss-9c0bdcecce12",
+      "discipline": "cs",
       "type": "news",
-      "title": "Contagious measles case reported at California theme park",
-      "authors": "Medical Xpress",
-      "abstract": "Recent visitors to the popular Universal Studios theme park in California may have been exposed to measles, the local health department said, as cases of the once-eradicated disease soar in the United States.",
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "authors": "TechCrunch AI",
+      "abstract": "Airbnb will debut a new AI-powered search experience with a toggle.",
       "date": "2026-08-07",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-contagious-measles-case-california-theme.html",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "measles",
-        "california",
-        "theme",
-        "park",
-        "contagious",
-        "case",
-        "reported",
-        "recent"
+        "airbnb",
+        "search",
+        "says",
+        "helping",
+        "ship",
+        "features",
+        "faster",
+        "tests"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.193633+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.315274+00:00"
     },
     {
-      "id": "rss-2f1aa5d04d76",
-      "discipline": "clinical",
+      "id": "rss-e84825b76f6c",
+      "discipline": "cs",
       "type": "news",
-      "title": "Wildfires now the dominant contributor to unhealthy levels of air pollution for pregnant women in the US",
-      "authors": "Medical Xpress",
-      "abstract": "Wildfires are well-known health risks. Now, in a new Frontiers in Environmental Health study, researchers in the U.S. have—for the first time—evaluated how prenatal PM2.5 exposure has changed over space and time on a national scale and what role wildfires play in shaping these trends.",
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "authors": "TechCrunch AI",
+      "abstract": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s Claude constitution, it’s a theory that doesn’t paint Silicon Valley in a very flattering light. In Lepore’s upcoming book, The Rise and Fall of the Artificial State, the Pulitzer […]",
       "date": "2026-08-07",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-wildfires-dominant-contributor-unhealthy-air.html",
+      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "wildfires",
-        "health",
-        "time",
-        "dominant",
-        "contributor",
-        "unhealthy",
-        "levels",
-        "pollution"
+        "lepore",
+        "jill",
+        "artificial",
+        "state",
+        "silicon",
+        "valley",
+        "theory",
+        "leaders"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.193920+00:00"
-    },
-    {
-      "id": "rss-c15bf1b430d7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Gene mutations behind serious bone marrow conditions identified",
-      "authors": "Medical Xpress",
-      "abstract": "Inherited bone marrow failure syndrome, or IBMFS, describes a group of disorders in which inherited genetic abnormalities impair the bone marrow's ability to produce sufficient healthy blood cells. Patients with these disorders are also at increased risk of developing myelodysplastic syndromes—MDS—a group of blood cancers in which the bone marrow produces excess abnormal blood cells and insufficient healthy ones.",
-      "date": "2026-08-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-gene-mutations-bone-marrow-conditions.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "bone",
-        "marrow",
-        "blood",
-        "inherited",
-        "group",
-        "disorders",
-        "which",
-        "healthy"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.194210+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.315573+00:00"
     },
     {
       "id": "rss-814da1428ca3",
@@ -460,7 +556,7 @@
       "type": "news",
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
       "authors": "TechCrunch AI",
-      "abstract": "Meta's total fine has raked up to $942 million in this case",
+      "abstract": "Meta's total fine has raked up to $942 million in this case.",
       "date": "2026-08-07",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -484,7 +580,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.255789+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.315734+00:00"
+    },
+    {
+      "id": "rss-dd9abed37891",
+      "discipline": "geo",
+      "type": "news",
+      "title": "The USS Monitor, Part 1: History and Legacy",
+      "authors": "NOAA News",
+      "abstract": "The USS Monitor, Part 1: History and Legacy July 26, 2026 The USS Monitor, Part 1: History and Legacy Sanctuaries heritage history shipwreck sanctuaries Heritage stories 0 0 Off 0",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/multimedia/podcast/uss-monitor-part-1-history-and-legacy-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "history",
+        "monitor",
+        "part",
+        "legacy",
+        "sanctuaries",
+        "heritage",
+        "july",
+        "shipwreck"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-07T19:12:29.542429+00:00"
     },
     {
       "id": "rss-624e10f67db4",
@@ -516,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.256079+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.315884+00:00"
     },
     {
       "id": "rss-7a35d3306a74",
@@ -548,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.256242+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.316014+00:00"
     },
     {
       "id": "rss-b8b38bd59c3b",
@@ -580,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.256419+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.316161+00:00"
     },
     {
       "id": "rss-4b5734de97c2",
@@ -612,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.256603+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.316312+00:00"
     },
     {
       "id": "rss-53d0109428de",
@@ -644,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.256852+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.316508+00:00"
     },
     {
       "id": "rss-8fdcdbbb0341",
@@ -676,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.257015+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.316649+00:00"
     },
     {
       "id": "rss-dac35efb638c",
@@ -708,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.257191+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.316798+00:00"
     },
     {
       "id": "rss-098b77a3f6f4",
@@ -740,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.257358+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.316939+00:00"
     },
     {
       "id": "rss-5ea5b0cee0d0",
@@ -772,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.257541+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.317101+00:00"
     },
     {
       "id": "rss-365853a6e96a",
@@ -804,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.257699+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.317232+00:00"
     },
     {
       "id": "rss-6962610856a0",
@@ -836,103 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.613683+00:00"
-    },
-    {
-      "id": "rss-9c4bbacf8285",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "authors": "TechCrunch AI",
-      "abstract": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-      "date": "2026-08-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "meta",
-        "code",
-        "agent",
-        "complex",
-        "launches",
-        "muse",
-        "large",
-        "bases"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.257878+00:00"
-    },
-    {
-      "id": "rss-1553656d2550",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "authors": "TechCrunch AI",
-      "abstract": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-      "date": "2026-08-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "klaviyo",
-        "acquires",
-        "elias",
-        "torres",
-        "agency",
-        "full-circle",
-        "reunion",
-        "tech"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.258054+00:00"
-    },
-    {
-      "id": "rss-78d895005a79",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "authors": "TechCrunch AI",
-      "abstract": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-      "date": "2026-08-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "other",
-        "jeff",
-        "dean",
-        "researchers",
-        "leaving",
-        "launch",
-        "their"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.258219+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.543013+00:00"
     },
     {
       "id": "rss-ead5f2bab0c6",
@@ -964,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.282408+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.385554+00:00"
     },
     {
       "id": "rss-a22dcd5db9ed",
@@ -996,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.282586+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.385763+00:00"
     },
     {
       "id": "rss-933ba0ff85bb",
@@ -1028,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.613940+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.543215+00:00"
     },
     {
       "id": "rss-80e5754b3acd",
@@ -1060,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.614290+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.543545+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -1092,7 +1124,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:54.770866+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.292919+00:00"
     },
     {
       "id": "rss-bfc25c3f4f29",
@@ -1124,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.282745+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.385907+00:00"
     },
     {
       "id": "openalex-5abd16320b31",
@@ -1156,7 +1188,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:54.773755+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.295601+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -1188,7 +1220,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:56.167246+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.924256+00:00"
     },
     {
       "id": "rss-f7328a645416",
@@ -1220,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.282926+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.386037+00:00"
     },
     {
       "id": "rss-22e3c70241d7",
@@ -1252,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.283109+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.386193+00:00"
     },
     {
       "id": "rss-164ec90a306e",
@@ -1260,7 +1292,7 @@
       "type": "news",
       "title": "NOAA maintains prediction for below-normal Atlantic hurricane season",
       "authors": "NOAA News",
-      "abstract": "NOAA maintains prediction for below-normal Atlantic hurricane season Need for U.S. residents to prepare remains August 6, 2026 This image of Tropical Storm Bertha was captured by NOAA's GOES East (GOES-19 satellite) on July 22, 2026 at 1:15 p.m. ET. (Image credit: Tropical Storm Bertha captured by NOAA Satellites) Download Image With the climatological peak of hurricane season approaching in early September, NOAA’s prediction for below-normal activity in the Atlantic basin remains. Forecasters from NOAA’s National Weather Service updated today the number of expected named storms to 7-13 (with winds of 39 mph or greater), of which 2-6 could become hurricanes (winds of 74 mph or greater), including 0-2 major hurricanes (winds of 111 mph or greater). These ranges cover the entire season from June 1 through November 30 and are inclusive of the two tropical storms that have already formed....",
+      "abstract": "NOAA maintains prediction for below-normal Atlantic hurricane season Preparedness remains key throughout the season August 6, 2026 This image of Tropical Storm Bertha was captured by NOAA's GOES East (GOES-19 satellite) on July 22, 2026 at 1:15 p.m. ET. (Image credit: Tropical Storm Bertha captured by NOAA Satellites) Download Image With the climatological peak of hurricane season approaching in early September, NOAA’s prediction for below-normal activity in the Atlantic basin remains. Forecasters from NOAA’s National Weather Service updated today the number of expected named storms to 7-13 (with winds of 39 mph or greater), of which 2-6 could become hurricanes (winds of 74 mph or greater), including 0-2 major hurricanes (winds of 111 mph or greater). These ranges cover the entire season from June 1 through November 30 and are inclusive of the two tropical storms that have already for...",
       "date": "2026-07-30",
       "year": 2026,
       "journal": "NOAA News",
@@ -1284,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.614889+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.544144+00:00"
     },
     {
       "id": "rss-82cbbc4a1e19",
@@ -1316,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.615488+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.544746+00:00"
     },
     {
       "id": "openalex-82bfb13f8d46",
@@ -1348,7 +1380,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:56.169501+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.926419+00:00"
     },
     {
       "id": "rss-61c6d7b63768",
@@ -1380,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.283285+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.386341+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -1412,7 +1444,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:56.167608+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.924611+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -1444,7 +1476,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:53.693367+00:00"
+      "_retrievedAt": "2026-08-07T19:12:24.951772+00:00"
     },
     {
       "id": "rss-d746300c673c",
@@ -1476,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.283445+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.386476+00:00"
     },
     {
       "id": "rss-e3531be54cc3",
@@ -1508,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.615734+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.544970+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -1540,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.283610+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.386615+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1572,7 +1604,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:54.771475+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.293493+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -1604,7 +1636,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:54.773140+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.295037+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -1636,7 +1668,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:53.695701+00:00"
+      "_retrievedAt": "2026-08-07T19:12:24.954046+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -1668,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.283773+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.386772+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -1700,7 +1732,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:53.691964+00:00"
+      "_retrievedAt": "2026-08-07T19:12:24.950437+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1732,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.283943+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.386893+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -1764,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.616006+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.545155+00:00"
     },
     {
       "id": "rss-67e6e4628573",
@@ -1796,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.616212+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.545327+00:00"
     },
     {
       "id": "rss-2c39e9060823",
@@ -1828,7 +1860,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.616863+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.545994+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1860,7 +1892,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.284097+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.387018+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -1892,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:55.346162+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.613456+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1924,7 +1956,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.284256+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.387151+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -1956,7 +1988,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:56.170867+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.927696+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -1988,7 +2020,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.284407+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.387278+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -2020,39 +2052,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.284581+00:00"
-    },
-    {
-      "id": "rss-35f3c73960fd",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Protecting the living waters of the Channel Islands from marine debris",
-      "authors": "NOAA News",
-      "abstract": "Protecting the living waters of the Channel Islands from marine debris Inspiration Point on Anacapa Island provides a glorious view of the Channel Islands. (Image credit: Claire Fackler, NOAA National Marine Sanctuaries) Download Image July 7, 2026 Channel Islands National Park and Channel Islands National Marine Sanctuary protect some of California’s richest coastal and marine habitats. Keeping these remote islands and surrounding waters free of marine debris requires extensive collaboration among volunteers, conservation organizations, and local lobster fishers who help recover debris from difficult-to-access shorelines. Education 0 Off",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/education/stories/protecting-living-waters-of-channel-islands-from-marine-debris-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "islands",
-        "marine",
-        "channel",
-        "debris",
-        "waters",
-        "national",
-        "protecting",
-        "living"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:59.617169+00:00"
+      "_retrievedAt": "2026-08-07T19:12:29.387429+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2084,7 +2084,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:54.772823+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.294766+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2116,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:56.169893+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.926783+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2148,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:54.771817+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.293835+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2180,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:55.346729+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.614039+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2212,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:53.694777+00:00"
+      "_retrievedAt": "2026-08-07T19:12:24.953145+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2244,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:54.774815+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.296586+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2276,7 +2276,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:53.693695+00:00"
+      "_retrievedAt": "2026-08-07T19:12:24.952091+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2308,7 +2308,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:53.694468+00:00"
+      "_retrievedAt": "2026-08-07T19:12:24.952837+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2340,7 +2340,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:55.346371+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.613676+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2372,7 +2372,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:53.692990+00:00"
+      "_retrievedAt": "2026-08-07T19:12:24.951392+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2404,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:55.348686+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.615919+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2436,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:56.172012+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.928775+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2468,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:56.172743+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.929468+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2500,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:56.170294+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.927156+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2532,7 +2532,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:53.691099+00:00"
+      "_retrievedAt": "2026-08-07T19:12:24.949576+00:00"
     },
     {
       "id": "openalex-1694495e202e",
@@ -2564,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:54.775376+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.297079+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2596,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:56.168760+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.925739+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2628,7 +2628,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:53.695372+00:00"
+      "_retrievedAt": "2026-08-07T19:12:24.953715+00:00"
     },
     {
       "id": "openalex-7a2e0cea295d",
@@ -2660,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:56.173082+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.929777+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2692,7 +2692,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:53.692341+00:00"
+      "_retrievedAt": "2026-08-07T19:12:24.950808+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2724,7 +2724,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:53.690724+00:00"
+      "_retrievedAt": "2026-08-07T19:12:24.949252+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -2756,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:55.347745+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.615002+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2788,7 +2788,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:53.692565+00:00"
+      "_retrievedAt": "2026-08-07T19:12:24.951016+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2820,7 +2820,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:53.690310+00:00"
+      "_retrievedAt": "2026-08-07T19:12:24.948828+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2852,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:55.349045+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.616240+00:00"
     },
     {
       "id": "openalex-54438cbb0a67",
@@ -2884,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:54.775705+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.297373+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2916,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:55.348059+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.615283+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2948,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:56.168357+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.925339+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2980,7 +2980,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:53.691551+00:00"
+      "_retrievedAt": "2026-08-07T19:12:24.950056+00:00"
     },
     {
       "id": "openalex-e2538de02ecf",
@@ -3012,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:55.351845+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.619052+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -3044,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:56.172380+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.929122+00:00"
     },
     {
       "id": "openalex-0026215bd6f7",
@@ -3076,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:55.350688+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.617951+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -3108,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:54.773436+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.295307+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -3140,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:54.774080+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.295907+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -3172,7 +3172,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:53.695066+00:00"
+      "_retrievedAt": "2026-08-07T19:12:24.953391+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -3204,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:56.171262+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.928069+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -3236,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:54.771199+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.293233+00:00"
     },
     {
       "id": "openalex-b085d32d7fe5",
@@ -3268,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:55.351478+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.618711+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -3300,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:56.169106+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.926049+00:00"
     },
     {
       "id": "openalex-b405599e1257",
@@ -3332,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:56.170561+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.927406+00:00"
     },
     {
       "id": "openalex-ecc34b946b2e",
@@ -3364,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:55.351070+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.618295+00:00"
     },
     {
       "id": "openalex-1c8cc4075423",
@@ -3396,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:56.171599+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.928394+00:00"
     },
     {
       "id": "openalex-a528e7ad7434",
@@ -3428,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:55.348375+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.615590+00:00"
     },
     {
       "id": "openalex-925ecf6ab58e",
@@ -3460,7 +3460,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:55.347035+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.614307+00:00"
     },
     {
       "id": "openalex-7a392a0ca13d",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:54.772187+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.294159+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -3524,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:54.772487+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.294441+00:00"
     },
     {
       "id": "openalex-ec9559e049f8",
@@ -3556,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:55.350402+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.617681+00:00"
     },
     {
       "id": "openalex-310ebb2dc2e7",
@@ -3588,7 +3588,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:53.694043+00:00"
+      "_retrievedAt": "2026-08-07T19:12:24.952385+00:00"
     },
     {
       "id": "openalex-3e1354c11e08",
@@ -3620,7 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T13:35:54.774456+00:00"
+      "_retrievedAt": "2026-08-07T19:12:25.296250+00:00"
     }
   ]
 }
