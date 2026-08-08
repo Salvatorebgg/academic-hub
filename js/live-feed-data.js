@@ -1,11 +1,171 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-08-08T13:09:46.326326+00:00",
+  "generatedAt": "2026-08-08T18:56:21.324507+00:00",
   "total": 113,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-d7540da04fd8",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Expert comment: How do wildfires affect health and what can be done about it?",
+      "authors": "Medical Xpress",
+      "abstract": "For people living in the northern hemisphere, this summer has been beset by deadly wildfires across parts of Europe, the U.S. and Canada. In the U.K., more than 21,000 hectares (52,000 acres) had already burned by late July 2026 across 66 fires larger than 30 hectares (74 acres), while England and Wales recorded their driest July in nearly two centuries and many areas moved into official drought.",
+      "date": "2026-08-08",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-expert-comment-wildfires-affect-health.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "wildfires",
+        "across",
+        "than",
+        "hectares",
+        "acres",
+        "july",
+        "expert",
+        "comment"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T18:56:20.533718+00:00"
+    },
+    {
+      "id": "rss-a9186edd8624",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "AI could help Medicaid enrollees meet 80-hour work rules",
+      "authors": "Medical Xpress",
+      "abstract": "Complex health care policies are often challenging to implement. That's a reality states across the country will deal with as new Medicaid work requirements are rolled out next year.",
+      "date": "2026-08-08",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-ai-medicaid-enrollees-hour.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "medicaid",
+        "work",
+        "could",
+        "help",
+        "enrollees",
+        "meet",
+        "hour",
+        "rules"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T18:56:20.533994+00:00"
+    },
+    {
+      "id": "rss-b8a84aa97df1",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Study points to new target for treating aggressive brain cancer",
+      "authors": "Medical Xpress",
+      "abstract": "Glioblastoma remains one of the deadliest cancers, with limited treatment advances and tumors that often resist radiation and chemotherapy. New research from The Ohio State University Comprehensive Cancer Center–Arthur G. James Cancer Hospital and Richard J. Solove Research Institute points to SET as a potential target for making glioblastoma cells more vulnerable to treatment.",
+      "date": "2026-08-08",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-aggressive-brain-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "points",
+        "target",
+        "glioblastoma",
+        "treatment",
+        "treating",
+        "aggressive",
+        "brain"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T18:56:20.534291+00:00"
+    },
+    {
+      "id": "rss-fa843b2d3c7a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "ADHD diagnoses and prescriptions have increased globally across all age groups, our review shows",
+      "authors": "Medical Xpress",
+      "abstract": "Diagnoses of attention-deficit/hyperactivity disorder (ADHD) have increased in many countries across all age groups, according to our latest review. We have also shown that prescriptions for ADHD treatments have seen similar increases across all age groups.",
+      "date": "2026-08-08",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-adhd-prescriptions-globally-age-groups.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "have",
+        "adhd",
+        "across",
+        "groups",
+        "diagnoses",
+        "prescriptions",
+        "increased",
+        "review"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T18:56:20.534574+00:00"
+    },
+    {
+      "id": "rss-f08154267d3e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Study reveals prefrontal cortex can hinder learning more efficient behaviors",
+      "authors": "Medical Xpress",
+      "abstract": "The prefrontal cortex, a brain region long associated with learning more flexible behaviors, can sometimes block the ability to think outside the box, a new study in mice shows. The finding by biologists at Emory University was published in Science Advances.",
+      "date": "2026-08-08",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-reveals-prefrontal-cortex-hinder-efficient.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "prefrontal",
+        "cortex",
+        "learning",
+        "more",
+        "behaviors",
+        "reveals",
+        "hinder",
+        "efficient"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T18:56:20.534825+00:00"
+    },
     {
       "id": "rss-2ea64f95d0f2",
       "discipline": "clinical",
@@ -36,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.280838+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.535111+00:00"
     },
     {
       "id": "rss-7cb076b200c7",
@@ -68,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.281174+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.535370+00:00"
     },
     {
       "id": "rss-30e6b41697db",
@@ -100,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.281437+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.535682+00:00"
     },
     {
       "id": "rss-9d4ce274d170",
@@ -132,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.281695+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.535938+00:00"
     },
     {
       "id": "rss-cf1b35898a2a",
@@ -164,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.282046+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.536256+00:00"
     },
     {
       "id": "rss-f37f6b8ca231",
@@ -196,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.282432+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.536649+00:00"
     },
     {
       "id": "rss-e6387486bea1",
@@ -228,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.282678+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.536898+00:00"
     },
     {
       "id": "rss-d10518e46341",
@@ -260,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.282912+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.537133+00:00"
     },
     {
       "id": "rss-db98afc813cf",
@@ -292,167 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.283191+00:00"
-    },
-    {
-      "id": "rss-275f2f9d7590",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "High glucose thickens cancer cells' sugar shield, helping them evade immune attack",
-      "authors": "Medical Xpress",
-      "abstract": "Like spies evading detection by mastering disguises, many cancer cells are adorned with a copious coat of sugar-derived molecules that throws the proverbial hounds of the immune system off the scent.",
-      "date": "2026-08-08",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-high-glucose-thickens-cancer-cells.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "cells",
-        "immune",
-        "high",
-        "glucose",
-        "thickens",
-        "sugar",
-        "shield"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.283428+00:00"
-    },
-    {
-      "id": "rss-3982ffb5505d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Barbie and Ken get a reality check after 30 years",
-      "authors": "Medical Xpress",
-      "abstract": "She's the blonde bombshell and he's her square-jawed sidekick. But nearly 70 years after the impossibly perfect Barbie and Ken made their debut, a new study from Adelaide University and UNSW Sydney shows the iconic pair are finally looking a little more like the rest of us.",
-      "date": "2026-08-08",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-barbie-ken-reality-years.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "barbie",
-        "after",
-        "years",
-        "reality",
-        "check",
-        "blonde",
-        "bombshell",
-        "square-jawed"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.283674+00:00"
-    },
-    {
-      "id": "rss-f5e535d33965",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "'Mindfulness-based cognitive therapy' may reduce internet gaming disorder in college students",
-      "authors": "Medical Xpress",
-      "abstract": "A research team led by Professor Anderson Sungmin Yoon and Minah Kim of Sungkyunkwan University (SKKU) has developed a \"Mindfulness-Based Cognitive Therapy for Gaming (MBCT-G)\" program to address internet gaming disorder among college students and has found promising evidence of its therapeutic effectiveness.",
-      "date": "2026-08-08",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-mindfulness-based-cognitive-therapy-internet.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "gaming",
-        "mindfulness-based",
-        "cognitive",
-        "therapy",
-        "internet",
-        "disorder",
-        "college",
-        "students"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.283927+00:00"
-    },
-    {
-      "id": "rss-413e64ea4c53",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Radiopharmaceutical may benefit patients with metastatic prostate cancer sooner",
-      "authors": "Medical Xpress",
-      "abstract": "Earlier use of a targeted radionuclide therapy delays metastatic prostate cancer progression when administered as part of a trio of drugs, according to a Phase III clinical trial led by Weill Cornell Medicine, NewYork-Presbyterian, Memorial Sloan Kettering Cancer Center and investigators at several other institutions worldwide.",
-      "date": "2026-08-08",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-radiopharmaceutical-benefit-patients-metastatic-prostate.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "metastatic",
-        "prostate",
-        "radiopharmaceutical",
-        "benefit",
-        "patients",
-        "sooner",
-        "earlier"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.284204+00:00"
-    },
-    {
-      "id": "rss-c27cf360485e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "How drugs leach out of your sweat (and can spoil your sofa)",
-      "authors": "Medical Xpress",
-      "abstract": "Like all consumer products, sofas come with instructions for how best to use and maintain them. But it may surprise you that many furniture companies warn medicines can seep out in your sweat or body oils and damage your leather sofa.",
-      "date": "2026-08-08",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-drugs-leach-sofa.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "your",
-        "sweat",
-        "sofa",
-        "drugs",
-        "leach",
-        "spoil",
-        "like",
-        "consumer"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.284441+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.537384+00:00"
     },
     {
       "id": "rss-ef596fa80f1f",
@@ -484,7 +484,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.327482+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.589018+00:00"
     },
     {
       "id": "rss-98471e9149b1",
@@ -516,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.327747+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.589250+00:00"
     },
     {
       "id": "rss-5a73d9bd9529",
@@ -548,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.327986+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.589463+00:00"
     },
     {
       "id": "rss-9c0bdcecce12",
@@ -580,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.328178+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.589632+00:00"
     },
     {
       "id": "rss-e84825b76f6c",
@@ -612,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.328554+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.589958+00:00"
     },
     {
       "id": "rss-814da1428ca3",
@@ -644,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.328712+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.590119+00:00"
     },
     {
       "id": "rss-a67dae29b725",
@@ -676,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:46.165403+00:00"
+      "_retrievedAt": "2026-08-08T18:56:21.006192+00:00"
     },
     {
       "id": "rss-dd9abed37891",
@@ -708,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:46.165623+00:00"
+      "_retrievedAt": "2026-08-08T18:56:21.006406+00:00"
     },
     {
       "id": "rss-624e10f67db4",
@@ -740,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.328886+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.590291+00:00"
     },
     {
       "id": "rss-7a35d3306a74",
@@ -772,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.329065+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.590468+00:00"
     },
     {
       "id": "rss-b8b38bd59c3b",
@@ -804,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.329238+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.590650+00:00"
     },
     {
       "id": "rss-4b5734de97c2",
@@ -836,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.329411+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.590833+00:00"
     },
     {
       "id": "rss-53d0109428de",
@@ -868,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.329628+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.591063+00:00"
     },
     {
       "id": "rss-8fdcdbbb0341",
@@ -900,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.329777+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.591222+00:00"
     },
     {
       "id": "rss-dac35efb638c",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.329945+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.591400+00:00"
     },
     {
       "id": "rss-098b77a3f6f4",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.330143+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.591602+00:00"
     },
     {
       "id": "rss-6962610856a0",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:46.166341+00:00"
+      "_retrievedAt": "2026-08-08T18:56:21.007035+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.779287+00:00"
+      "_retrievedAt": "2026-08-08T18:56:15.616199+00:00"
     },
     {
       "id": "rss-ead5f2bab0c6",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.351375+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.658121+00:00"
     },
     {
       "id": "rss-a22dcd5db9ed",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.351556+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.658306+00:00"
     },
     {
       "id": "rss-933ba0ff85bb",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:46.166576+00:00"
+      "_retrievedAt": "2026-08-08T18:56:21.007266+00:00"
     },
     {
       "id": "rss-80e5754b3acd",
@@ -1156,39 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:46.166947+00:00"
-    },
-    {
-      "id": "openalex-22d15dc3d4da",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Mapping enhancer–gene regulatory interactions from single-cell data",
-      "authors": "Maya U. Sheth, Wei‐Lin Qiu, X. Rosa, Andreas R. Gschwind, Evelyn Jagoda, Anthony S. Tan",
-      "abstract": "Mapping enhancers and their target genes in specific cell types is crucial for understanding gene regulation and human disease genetics. However, accurately predicting enhancer-gene regulatory interactions from single-cell datasets has been challenging. Here we introduce a family of classification models, scE2G, to predict enhancer-gene regulation. These models use features from single-cell assay for transposase-accessible chromatin with sequencing (ATAC-seq) or multiomic RNA and ATAC-seq data, and are trained on a CRISPR perturbation dataset including >10,000 evaluated element-gene pairs. We benchmark scE2G models against CRISPR perturbations, fine-mapped expression quantitative trait loci and genome-wide association study variant-gene associations and demonstrate state-of-the-art performance at prediction tasks across several cell types and categories of perturbations. We apply scE2...",
-      "date": "2026-08-03",
-      "year": 2026,
-      "journal": "Nature Genetics",
-      "source": "Nature Genetics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41588-026-02695-8",
-      "doi": "10.1038/s41588-026-02695-8",
-      "pdfUrl": "https://www.nature.com/articles/s41588-026-02695-8.pdf",
-      "keywords": [
-        "Enhancer",
-        "Computational biology",
-        "Gene",
-        "Cell",
-        "Biology",
-        "Single-cell and spatial transcriptomics",
-        "Genomics and Chromatin Dynamics",
-        "Cell Image Analysis Techniques"
-      ],
-      "readTime": "1 min",
-      "citedBy": 22,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.776901+00:00"
+      "_retrievedAt": "2026-08-08T18:56:21.007683+00:00"
     },
     {
       "id": "rss-bfc25c3f4f29",
@@ -1220,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.351719+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.658527+00:00"
     },
     {
       "id": "openalex-5abd16320b31",
@@ -1252,7 +1220,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.780215+00:00"
+      "_retrievedAt": "2026-08-08T18:56:15.617145+00:00"
+    },
+    {
+      "id": "openalex-22d15dc3d4da",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Mapping enhancer–gene regulatory interactions from single-cell data",
+      "authors": "Maya U. Sheth, Wei‐Lin Qiu, X. Rosa, Andreas R. Gschwind, Evelyn Jagoda, Anthony S. Tan",
+      "abstract": "Mapping enhancers and their target genes in specific cell types is crucial for understanding gene regulation and human disease genetics. However, accurately predicting enhancer-gene regulatory interactions from single-cell datasets has been challenging. Here we introduce a family of classification models, scE2G, to predict enhancer-gene regulation. These models use features from single-cell assay for transposase-accessible chromatin with sequencing (ATAC-seq) or multiomic RNA and ATAC-seq data, and are trained on a CRISPR perturbation dataset including >10,000 evaluated element-gene pairs. We benchmark scE2G models against CRISPR perturbations, fine-mapped expression quantitative trait loci and genome-wide association study variant-gene associations and demonstrate state-of-the-art performance at prediction tasks across several cell types and categories of perturbations. We apply scE2...",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "Nature Genetics",
+      "source": "Nature Genetics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41588-026-02695-8",
+      "doi": "10.1038/s41588-026-02695-8",
+      "pdfUrl": "https://www.nature.com/articles/s41588-026-02695-8.pdf",
+      "keywords": [
+        "Enhancer",
+        "Computational biology",
+        "Gene",
+        "Cell",
+        "Biology",
+        "Single-cell and spatial transcriptomics",
+        "Genomics and Chromatin Dynamics",
+        "Cell Image Analysis Techniques"
+      ],
+      "readTime": "1 min",
+      "citedBy": 22,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T18:56:15.613481+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:40.428869+00:00"
+      "_retrievedAt": "2026-08-08T18:56:17.347300+00:00"
     },
     {
       "id": "rss-f7328a645416",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.351875+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.658705+00:00"
     },
     {
       "id": "rss-22e3c70241d7",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.352083+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.658888+00:00"
     },
     {
       "id": "rss-164ec90a306e",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:46.167604+00:00"
+      "_retrievedAt": "2026-08-08T18:56:21.008309+00:00"
     },
     {
       "id": "rss-82cbbc4a1e19",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:46.168289+00:00"
+      "_retrievedAt": "2026-08-08T18:56:21.008989+00:00"
     },
     {
       "id": "openalex-82bfb13f8d46",
@@ -1426,7 +1426,7 @@ window.LIVE_FEED_DATA = {
       "journal": "OpenAlex",
       "source": "OpenAlex",
       "sourceApi": "OpenAlex",
-      "url": "http://eprints.usq.edu.au/6407/",
+      "url": "http://eprints.usq.edu.au/6407/4/Cottrill_2009_Appendix_6.xls",
       "doi": "10.26192/9z62q",
       "pdfUrl": "http://eprints.usq.edu.au/6407/3/Cottrill_2009_whole.pdf",
       "keywords": [
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:40.431165+00:00"
+      "_retrievedAt": "2026-08-08T18:56:17.349633+00:00"
     },
     {
       "id": "rss-61c6d7b63768",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.352262+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.659073+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:40.429276+00:00"
+      "_retrievedAt": "2026-08-08T18:56:17.347722+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.114054+00:00"
+      "_retrievedAt": "2026-08-08T18:56:14.714914+00:00"
     },
     {
       "id": "rss-d746300c673c",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.352424+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.659240+00:00"
     },
     {
       "id": "rss-e3531be54cc3",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:46.168549+00:00"
+      "_retrievedAt": "2026-08-08T18:56:21.009247+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.352591+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.659439+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.777544+00:00"
+      "_retrievedAt": "2026-08-08T18:56:15.614517+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.779576+00:00"
+      "_retrievedAt": "2026-08-08T18:56:15.616527+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.116062+00:00"
+      "_retrievedAt": "2026-08-08T18:56:14.716975+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.352754+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.659620+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.112661+00:00"
+      "_retrievedAt": "2026-08-08T18:56:14.713325+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.352898+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.659769+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:46.168762+00:00"
+      "_retrievedAt": "2026-08-08T18:56:21.009517+00:00"
     },
     {
       "id": "rss-67e6e4628573",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:46.168989+00:00"
+      "_retrievedAt": "2026-08-08T18:56:21.009743+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.353078+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.659925+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:39.533198+00:00"
+      "_retrievedAt": "2026-08-08T18:56:16.395255+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.353240+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.660089+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:40.432787+00:00"
+      "_retrievedAt": "2026-08-08T18:56:17.351272+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.353393+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.660249+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:45.353574+00:00"
+      "_retrievedAt": "2026-08-08T18:56:20.660450+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.778917+00:00"
+      "_retrievedAt": "2026-08-08T18:56:15.615868+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:40.431542+00:00"
+      "_retrievedAt": "2026-08-08T18:56:17.350013+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.777905+00:00"
+      "_retrievedAt": "2026-08-08T18:56:15.614864+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:39.533768+00:00"
+      "_retrievedAt": "2026-08-08T18:56:16.395860+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.115133+00:00"
+      "_retrievedAt": "2026-08-08T18:56:14.716033+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.780845+00:00"
+      "_retrievedAt": "2026-08-08T18:56:15.618113+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.114385+00:00"
+      "_retrievedAt": "2026-08-08T18:56:14.715244+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.114804+00:00"
+      "_retrievedAt": "2026-08-08T18:56:14.715720+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2372,39 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:39.533410+00:00"
-    },
-    {
-      "id": "openalex-9ae00385fc6f",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Traditional fermented food microbial ecosystems oriented towards industrial standards: multi-dimensional characterization and artificial regulation",
-      "authors": "M T Wu, Yi-Xiang Wang, Yu Wang, Youqiang Xu, Baoguo Sun",
-      "abstract": "Fermented food microbial ecosystems are dynamic and shaped by microbes, substrates, and environments, but traditional spontaneous fermentation causes variability in quality and safety, limiting standardization. This review highlighted multi-omics integration to comprehensively characterize microbial composition, dynamics, interactions, metabolites, and phages, and summarized regulation strategies including functional strains, synthetic microbial communities, bacteriophage control, and physicochemical modulation. Finally, the futures and challenges from empirical practice to predictable, scalable industrial fermentation were proposed.",
-      "date": "2026-06-11",
-      "year": 2026,
-      "journal": "npj Science of Food",
-      "source": "npj Science of Food",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41538-026-00916-2",
-      "doi": "10.1038/s41538-026-00916-2",
-      "pdfUrl": "https://www.nature.com/articles/s41538-026-00916-2_reference.pdf",
-      "keywords": [
-        "Biochemical engineering",
-        "Fermentation",
-        "Biotechnology",
-        "Limiting",
-        "Food industry",
-        "Bacteriophages and microbial interactions",
-        "Probiotics and Fermented Foods",
-        "Microbial Community Ecology and Physiology"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.781087+00:00"
+      "_retrievedAt": "2026-08-08T18:56:16.395500+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2436,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.113666+00:00"
+      "_retrievedAt": "2026-08-08T18:56:14.714504+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2468,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:39.536046+00:00"
+      "_retrievedAt": "2026-08-08T18:56:16.398113+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2500,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:40.433922+00:00"
+      "_retrievedAt": "2026-08-08T18:56:17.352481+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2532,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:40.434684+00:00"
+      "_retrievedAt": "2026-08-08T18:56:17.353244+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2564,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:40.432228+00:00"
+      "_retrievedAt": "2026-08-08T18:56:17.350711+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2596,39 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.111775+00:00"
-    },
-    {
-      "id": "openalex-1694495e202e",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "BINSEQ: A family of high-performance binary formats for nucleotide sequences",
-      "authors": "Noam Teyssier, Alexander Dobin",
-      "abstract": "A bstract Modern genomics produces billions of sequencing records per run, which are typically stored as gzip-compressed FASTQ files. While this format is widely used, it is not optimal for high-throughput processing due to its reliance on single-threaded decompression and sequential parsing of irregularly sized records. This limitation is particularly problematic for applications that would benefit from parallel processing, such as read mapping, variant calling, and de novo assembly. Here, we present BINSEQ, a family of simple binary formats that enable high-throughput parallel processing of sequencing data. The BINSEQ family consists of two complementary implementations: BQ, optimized for fixed-length reads using a two-bit or four-bit encoding scheme with true random record access capability, and VBQ, designed for variable-length sequences with optional quality scores and block-base...",
-      "date": "2026-05-28",
-      "year": 2026,
-      "journal": "PLoS Computational Biology",
-      "source": "PLoS Computational Biology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1371/journal.pcbi.1014181",
-      "doi": "10.1371/journal.pcbi.1014181",
-      "pdfUrl": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1014181&type=printable",
-      "keywords": [
-        "Binary number",
-        "Nucleotide",
-        "Computer science",
-        "Computational biology",
-        "Genetics",
-        "Plant Genetic and Mutation Studies",
-        "Coding theory and cryptography",
-        "binseq"
-      ],
-      "readTime": "2 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.781560+00:00"
+      "_retrievedAt": "2026-08-08T18:56:14.712474+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2660,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:40.430425+00:00"
+      "_retrievedAt": "2026-08-08T18:56:17.348886+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2692,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.115715+00:00"
+      "_retrievedAt": "2026-08-08T18:56:14.716640+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2724,7 +2660,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.116550+00:00"
+      "_retrievedAt": "2026-08-08T18:56:14.717484+00:00"
+    },
+    {
+      "id": "openalex-8611d8370ef3",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Streptavidins Coordinate Biotin Sequestration and Self‐Resistance Within a Biotin‐Pathway Antibiotic Network",
+      "authors": "Sumire Kurosawa, Jingjun Mo, Xiaotong Diao, Feng Xie, Tingting Wang, Haowen Zhao",
+      "abstract": "Streptavidin, the well-known biotin-binding protein extensively used in biotechnology, is naturally co-produced in Streptomyces avidinii alongside stravidins-inhibitors of biotin biosynthesis. Here, we uncover and activate a conserved genomic region flanked by two streptavidin genes, revealing multiple biosynthetic gene clusters that produce diverse biotin-related metabolites, including stravidins, acidomycin, α-methyl-KAPA, α-methyldesthiobiotin, and the novel non-proteinogenic amino acid 2-aminonona-5,7-dienedioic acid (ANDA). We show α-methyldesthiobiotin arises from α-methyl-KAPA, illustrating how methylated analogues interfere with distinct steps of biotin biosynthesis. Contrary to the view that streptavidin functions solely by sequestering biotin, our biochemical, structural, and bioactivity analyses demonstrate that it also binds acidomycin, neutralizing its antibacterial activ...",
+      "date": "2026-05-23",
+      "year": 2026,
+      "journal": "Advanced Science",
+      "source": "Advanced Science",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1002/advs.202523813",
+      "doi": "10.1002/advs.202523813",
+      "pdfUrl": "https://doi.org/10.1002/advs.202523813",
+      "keywords": [
+        "Streptavidin",
+        "Biotin",
+        "Biochemistry",
+        "Chemistry",
+        "Amino acid",
+        "Biotin and Related Studies",
+        "RNA and protein synthesis mechanisms",
+        "Microbial Natural Products and Biosynthesis"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T18:56:15.617483+00:00"
     },
     {
       "id": "openalex-fcbf1470edaa",
@@ -2756,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:40.431809+00:00"
+      "_retrievedAt": "2026-08-08T18:56:17.350284+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2788,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.113056+00:00"
+      "_retrievedAt": "2026-08-08T18:56:14.713830+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2820,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.111422+00:00"
+      "_retrievedAt": "2026-08-08T18:56:14.712118+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -2852,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:39.534791+00:00"
+      "_retrievedAt": "2026-08-08T18:56:16.396878+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2884,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.113281+00:00"
+      "_retrievedAt": "2026-08-08T18:56:14.714057+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2912,11 +2880,11 @@ window.LIVE_FEED_DATA = {
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 1434,
+      "citedBy": 1435,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.110985+00:00"
+      "_retrievedAt": "2026-08-08T18:56:14.711712+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2948,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:39.536392+00:00"
+      "_retrievedAt": "2026-08-08T18:56:16.398850+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2980,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:39.535098+00:00"
+      "_retrievedAt": "2026-08-08T18:56:16.397173+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -3012,7 +2980,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:40.430015+00:00"
+      "_retrievedAt": "2026-08-08T18:56:17.348479+00:00"
+    },
+    {
+      "id": "openalex-b393cd9c8f8c",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Expanding the human proteome with microproteins and peptideins",
+      "authors": "Eric W. Deutsch, Leron W. Kok, Jonathan M. Mudge, Cristian F. Valls, Irwin Jungreis, Jorge Ruiz‐Orera",
+      "abstract": "A major scientific drive is to characterize the protein-coding genome, which is a primary basis for studying human health. But the fundamental question remains of what has been missed in previous analyses. Over the past decade, the translation of non-canonical open reading frames (ncORFs) has been observed across human cell types and disease states1–3, with major implications for biomedical science. However, a key gap in knowledge has been which ncORFs produce small microproteins or alternative protein molecules that contribute to the human proteome. Here we report the collaborative efforts of the TransCODE Consortium4 to produce a consensus landscape of protein-level evidence for ncORFs. We show that about 25% of a set of 7,264 ncORFs gives rise to detectable peptides in a large-scale analysis of 95,520 proteomics experiments. We develop an annotation framework for ncORF-encoded micr...",
+      "date": "2026-05-06",
+      "year": 2026,
+      "journal": "Nature",
+      "source": "Nature",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41586-026-10459-x",
+      "doi": "10.1038/s41586-026-10459-x",
+      "pdfUrl": "https://doi.org/10.1038/s41586-026-10459-x",
+      "keywords": [
+        "Human proteome project",
+        "Computational biology",
+        "Proteome",
+        "ENCODE",
+        "Open reading frame",
+        "RNA and protein synthesis mechanisms",
+        "Biomedical Text Mining and Ontologies",
+        "Machine Learning in Bioinformatics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 15,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T18:56:15.613893+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -3044,7 +3044,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.112256+00:00"
+      "_retrievedAt": "2026-08-08T18:56:14.712926+00:00"
+    },
+    {
+      "id": "openalex-e2538de02ecf",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Zinc as a master regulator of intracellular organelle homeostasis",
+      "authors": "Sofia Brito, Jiyoon Kim, Bum-Ho Bin",
+      "abstract": "Zinc (Zn²⁺) is an essential trace element that supports a vast array of cellular processes, including enzymatic catalysis, gene expression, immune regulation and signaling. Its unique redox-inert properties and ability to bind diverse proteins make it indispensable for cellular homeostasis. Zinc is dynamically distributed within cells, where its compartmentalization across organelles, such as the nucleus, endoplasmic reticulum, Golgi apparatus, mitochondria, lysosomes, endosomes and peroxisomes, enables specialized functions crucial for organelle integrity and interorganelle communication. The present Review provides a comprehensive account of organelle-specific zinc homeostasis, highlighting the intricate roles of zinc transporters, metallothioneins and metallochaperones in regulating zinc flux and buffering. Here we discuss how zinc modulates structural and enzymatic processes, stre...",
+      "date": "2026-05-01",
+      "year": 2026,
+      "journal": "Experimental & Molecular Medicine",
+      "source": "Experimental & Molecular Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s12276-026-01706-2",
+      "doi": "10.1038/s12276-026-01706-2",
+      "pdfUrl": "https://www.nature.com/articles/s12276-026-01706-2.pdf",
+      "keywords": [
+        "Endosome",
+        "Regulator",
+        "Cell biology",
+        "Zinc",
+        "Compartmentalization (fire protection)",
+        "Trace Elements in Health",
+        "Ferroptosis and cancer prognosis",
+        "Heavy Metal Exposure and Toxicity"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T18:56:16.398487+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -3076,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:40.434316+00:00"
+      "_retrievedAt": "2026-08-08T18:56:17.352862+00:00"
     },
     {
       "id": "openalex-0026215bd6f7",
@@ -3108,7 +3140,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:39.535382+00:00"
+      "_retrievedAt": "2026-08-08T18:56:16.397471+00:00"
+    },
+    {
+      "id": "openalex-0014575d52b0",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Evolutionary characterization of lung cancer metastasis",
+      "authors": "Sonya Hessey, Abigail Bunkum, Ariana Huebner, Kerstin Haase, Kristiana Grigoriadis, Cristina Naceur-Lombardelli",
+      "abstract": ". Here, using 501 longitudinally collected primary and metastatic tumour samples from 24 patients with non-small cell lung cancer (NSCLC) enrolled in the TRACERx lung study and PEACE autopsy programme, we infer tumour evolution from diagnosis to death. With DNA-sequencing data encompassing 70% of the metastases that were radiologically detected before death and paired multi-region sampled primary tumours, we show that the genomes of metastases diverge markedly from those of their ancestral primary tumour, with additional driver alterations and genome doubling events occurring after metastatic dissemination. In 62.5% of patients, multiple primary tumour subclones disseminated, each founding a distinct metastasis. These metastases served as sources of onward spread: more than half of the metastases sampled were seeded by other metastases. The duration that metastases existed in situ inf...",
+      "date": "2026-04-29",
+      "year": 2026,
+      "journal": "Nature",
+      "source": "Nature",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41586-026-10428-4",
+      "doi": "10.1038/s41586-026-10428-4",
+      "pdfUrl": "https://www.nature.com/articles/s41586-026-10428-4.pdf",
+      "keywords": [
+        "Metastasis",
+        "Lung cancer",
+        "Primary tumor",
+        "Autopsy",
+        "Somatic evolution in cancer",
+        "Cancer Genomics and Diagnostics",
+        "Genomic variations and chromosomal abnormalities",
+        "Microtubule and mitosis dynamics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T18:56:16.399177+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -3140,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.779864+00:00"
+      "_retrievedAt": "2026-08-08T18:56:15.616830+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -3172,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.780489+00:00"
+      "_retrievedAt": "2026-08-08T18:56:15.617764+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -3204,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.115399+00:00"
+      "_retrievedAt": "2026-08-08T18:56:14.716297+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -3236,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:40.433205+00:00"
+      "_retrievedAt": "2026-08-08T18:56:17.351722+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -3268,39 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.777260+00:00"
-    },
-    {
-      "id": "openalex-b085d32d7fe5",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Ciltacabtagene autoleucel in high-risk smoldering multiple myeloma: the CAR-PRISM phase 2 trial",
-      "authors": "Omar Nadeem, David M. Cordas dos Santos, Sarah Nikiforow, Anna Bosch, Elizabeth O’Donnell, Robert Redd",
-      "abstract": "High-risk smoldering multiple myeloma (HR-SMM) carries an increased risk of progression to multiple myeloma, making it an ideal setting to test whether chimeric antigen receptor (CAR) T cell therapy can achieve curative outcomes. Here in this phase 2 study, patients with HR-SMM received ciltacabtagene autoleucel (cilta-cel) at 0.3–0.5 × 106 or >0.5 × 106 viable CAR+ T cells per kilogram without induction or bridging therapy. Patients with >40% marrow involvement were excluded. Primary endpoints were dose-limiting toxicities (DLTs) and treatment-emergent adverse events; secondary endpoints included response and minimal residual disease (MRD) negativity. As of 11 February 2026, 20 patients had been treated. The trial met the prespecified endpoints. No DLTs occurred. Adverse events included transient cytopenias (90% grade 3/4) and cytokine release syndrome (100% grade 1/2). Non-immune ef...",
-      "date": "2026-04-20",
-      "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04365-y",
-      "doi": "10.1038/s41591-026-04365-y",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04365-y.pdf",
-      "keywords": [
-        "Phase (matter)",
-        "Materials science",
-        "Medicine",
-        "Chemistry",
-        "Phases of clinical research",
-        "CAR-T cell therapy research",
-        "Multiple Myeloma Research and Treatments",
-        "Protein Degradation and Inhibitors"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:39.538148+00:00"
+      "_retrievedAt": "2026-08-08T18:56:15.614218+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -3332,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:40.430752+00:00"
+      "_retrievedAt": "2026-08-08T18:56:17.349216+00:00"
     },
     {
       "id": "openalex-b405599e1257",
@@ -3364,71 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:40.432497+00:00"
-    },
-    {
-      "id": "openalex-ecc34b946b2e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Overcoming barriers to delivery of biologics by novel approaches and advanced delivery systems",
-      "authors": "Stephen Dela Ahator, Silvia Franzè, Sybil Obuobi, Giulia Anderluzzi, Gøril Eide Flaten, Nataša Škalko‐Basnet",
-      "abstract": "Biologics is emerging as fastest growing field of drug development offering specificity and high therapeutic potential. However, their therapeutic efficacy is dependent on their route of administration and targeted delivery. Unlike small molecules, biologics face stability, permeability, solubility and immunogenicity challenges due to their inherent features. Hence tailored approaches are required in formulation development to assure their time-and site-specific action. In this review, we summarized the general and route-specific barriers that this group of drugs encounter once in contact with administration site. We listed the most common approaches to overcome the barriers and presented examples of different delivery systems that were proposed to deal with route-specific challenges. We also addressed the role devices play in assisted drug delivery and their choices related to expect...",
-      "date": "2026-04-16",
-      "year": 2026,
-      "journal": "Advanced Drug Delivery Reviews",
-      "source": "Advanced Drug Delivery Reviews",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.addr.2026.115875",
-      "doi": "10.1016/j.addr.2026.115875",
-      "pdfUrl": "https://doi.org/10.1016/j.addr.2026.115875",
-      "keywords": [
-        "Delivery system",
-        "Medicine",
-        "Pharmaceutical technology",
-        "Drug delivery",
-        "Computer science",
-        "Monoclonal and Polyclonal Antibodies Research",
-        "Viral Infectious Diseases and Gene Expression in Insects",
-        "Protein purification and stability"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:39.538496+00:00"
-    },
-    {
-      "id": "openalex-b31b1eeff6ea",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Evaluation of Regorafenib in Newly Diagnosed and Recurrent Glioblastoma: GBM AGILE Phase II/III Bayesian Randomized Platform Trial",
-      "authors": "Patrick Y. Wen, Donald A. Berry, Meredith Buxton, Howard Colman, John de Groot, Michael Lim",
-      "abstract": "PURPOSE: GBM AGILE (ClinicalTrials.gov identifier: NCT03970447) is a phase II/III Bayesian adaptive platform registration trial testing multiple arms against a common control; the primary end point is overall survival (OS). Regorafenib, a multikinase inhibitor, showed OS benefit in recurrent (RD) glioblastoma in the phase II REGOMA trial and entered GBM AGILE as the first investigational arm. METHODS: Patient subtypes included in the regorafenib arm of GBM AGILE were newly diagnosed unmethylated (NDU) and RD glioblastoma. Prospective defined sets of subtypes, or arm signatures, were NDU, RD, and all (NDU + RD). As the first investigational arm in GBM AGILE, regorafenib was equally randomized to the control arm. Treatment in the control arm is temozolomide + radiotherapy (in newly diagnosed) or lomustine (in RD). Efficacy was assessed by OS hazard ratio (HR), arm/control, and demonstra...",
-      "date": "2026-04-14",
-      "year": 2026,
-      "journal": "Journal of Clinical Oncology",
-      "source": "Journal of Clinical Oncology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1200/jco-25-01137",
-      "doi": "10.1200/jco-25-01137",
-      "pdfUrl": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO-25-01137",
-      "keywords": [
-        "Regorafenib",
-        "Medicine",
-        "Temozolomide",
-        "Clinical endpoint",
-        "Oncology",
-        "Glioma Diagnosis and Treatment",
-        "Statistical Methods in Clinical Trials",
-        "Melanoma and MAPK Pathways"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:39.538905+00:00"
+      "_retrievedAt": "2026-08-08T18:56:17.350984+00:00"
     },
     {
       "id": "openalex-1c8cc4075423",
@@ -3460,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:40.433543+00:00"
+      "_retrievedAt": "2026-08-08T18:56:17.352069+00:00"
     },
     {
       "id": "openalex-a528e7ad7434",
@@ -3492,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:39.535702+00:00"
+      "_retrievedAt": "2026-08-08T18:56:16.397797+00:00"
     },
     {
       "id": "openalex-925ecf6ab58e",
@@ -3524,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:39.534083+00:00"
+      "_retrievedAt": "2026-08-08T18:56:16.396144+00:00"
     },
     {
       "id": "openalex-7a392a0ca13d",
@@ -3556,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.778287+00:00"
+      "_retrievedAt": "2026-08-08T18:56:15.615203+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -3588,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:38.778586+00:00"
+      "_retrievedAt": "2026-08-08T18:56:15.615534+00:00"
     },
     {
       "id": "openalex-ec9559e049f8",
@@ -3620,7 +3588,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T13:09:39.537727+00:00"
+      "_retrievedAt": "2026-08-08T18:56:16.400583+00:00"
+    },
+    {
+      "id": "openalex-1bda52965c6f",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "PARP inhibitors and breast cancer: from therapeutic breakthrough to resistance challenge",
+      "authors": "Weiyun Wang, Chenghui Cai, Sisi Qin, Liujun He, Qinhao Liang, Siyao Tang",
+      "abstract": "Breast cancer remains the leading cause of cancer-related mortality among women worldwide. Poly(ADP-ribose) polymerase (PARP) inhibitors have emerged as a critical therapeutic option, particularly for patients with triple-negative breast cancer and other HER2-negative metastatic breast cancer harboring BRCA mutations. Despite their clinical success, the emergence of primary and acquired resistance to PARP inhibitors poses a significant challenge, limiting their long-term effectiveness. Here we provide a comprehensive overview of the mechanisms underlying the action of PARP inhibitors, as well as their clinical development and application. In addition, we discuss the factors driving resistance and potential strategies to overcome it in the context of PARP inhibitors.",
+      "date": "2026-04-10",
+      "year": 2026,
+      "journal": "Experimental & Molecular Medicine",
+      "source": "Experimental & Molecular Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s12276-026-01673-8",
+      "doi": "10.1038/s12276-026-01673-8",
+      "pdfUrl": "https://www.nature.com/articles/s12276-026-01673-8.pdf",
+      "keywords": [
+        "Poly ADP ribose polymerase",
+        "Breast cancer",
+        "Medicine",
+        "Acquired resistance",
+        "Context (archaeology)",
+        "PARP inhibition in cancer therapy",
+        "Advanced Breast Cancer Therapies",
+        "BRCA gene mutations in cancer"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T18:56:16.400855+00:00"
     }
   ]
 };
