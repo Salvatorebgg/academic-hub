@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T02:19:46.368435+00:00",
+  "generatedAt": "2026-08-08T07:11:32.857792+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -36,7 +36,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:45.944278+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.167070+00:00"
     },
     {
       "id": "rss-f37f6b8ca231",
@@ -68,7 +68,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:45.944703+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.167526+00:00"
     },
     {
       "id": "rss-e6387486bea1",
@@ -100,7 +100,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:45.944959+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.167803+00:00"
     },
     {
       "id": "rss-d10518e46341",
@@ -132,7 +132,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:45.945202+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.168065+00:00"
     },
     {
       "id": "rss-db98afc813cf",
@@ -164,7 +164,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:45.945497+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.168345+00:00"
     },
     {
       "id": "rss-275f2f9d7590",
@@ -196,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:45.945745+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.168623+00:00"
     },
     {
       "id": "rss-3982ffb5505d",
@@ -228,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:45.945995+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.168848+00:00"
     },
     {
       "id": "rss-f5e535d33965",
@@ -260,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:45.946253+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.169067+00:00"
     },
     {
       "id": "rss-413e64ea4c53",
@@ -292,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:45.946529+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.169284+00:00"
     },
     {
       "id": "rss-c27cf360485e",
@@ -324,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:45.946776+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.169500+00:00"
     },
     {
       "id": "rss-f627fb428a97",
@@ -356,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:45.947028+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.169719+00:00"
     },
     {
       "id": "rss-77f5ca54d87a",
@@ -388,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:45.947305+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.169962+00:00"
     },
     {
       "id": "rss-8dd9a9cef03f",
@@ -420,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:45.947601+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.170194+00:00"
     },
     {
       "id": "rss-2b420fdbe665",
@@ -452,7 +452,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:45.947900+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.170459+00:00"
     },
     {
       "id": "rss-ef596fa80f1f",
@@ -484,7 +484,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.012584+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.225157+00:00"
     },
     {
       "id": "rss-98471e9149b1",
@@ -516,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.012811+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.225355+00:00"
     },
     {
       "id": "rss-5a73d9bd9529",
@@ -548,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.012995+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.225541+00:00"
     },
     {
       "id": "rss-9c0bdcecce12",
@@ -580,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.013153+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.225678+00:00"
     },
     {
       "id": "rss-e84825b76f6c",
@@ -612,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.013483+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.225952+00:00"
     },
     {
       "id": "rss-814da1428ca3",
@@ -644,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.013643+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.226087+00:00"
     },
     {
       "id": "rss-a67dae29b725",
@@ -676,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.183793+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.612900+00:00"
     },
     {
       "id": "rss-dd9abed37891",
@@ -708,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.183992+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.613150+00:00"
     },
     {
       "id": "rss-624e10f67db4",
@@ -740,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.013808+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.226234+00:00"
     },
     {
       "id": "rss-7a35d3306a74",
@@ -772,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.013957+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.226367+00:00"
     },
     {
       "id": "rss-b8b38bd59c3b",
@@ -804,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.014132+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.226530+00:00"
     },
     {
       "id": "rss-4b5734de97c2",
@@ -836,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.014325+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.226682+00:00"
     },
     {
       "id": "rss-53d0109428de",
@@ -868,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.014570+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.226875+00:00"
     },
     {
       "id": "rss-8fdcdbbb0341",
@@ -900,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.014720+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.227007+00:00"
     },
     {
       "id": "rss-dac35efb638c",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.014887+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.227154+00:00"
     },
     {
       "id": "rss-098b77a3f6f4",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.015055+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.227301+00:00"
     },
     {
       "id": "rss-6962610856a0",
@@ -996,7 +996,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.184620+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.613862+00:00"
+    },
+    {
+      "id": "openalex-356d70f6418b",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Identification of methylation-sensitive human transcription factors using meSMiLE-seq",
+      "authors": "Antoni J. Gralak, Kateřina Faltejsková, Ally Yang, Clemence Steiner, Julie Russeil, Nadia Grenningloh",
+      "abstract": "Transcription factors (TFs) are key players in eukaryotic gene regulation, but the DNA binding specificity of many TFs remains unknown. Here, we assayed 284 mostly poorly characterized, putative human TFs using selective microfluidics-based ligand enrichment followed by sequencing (SMiLE-seq), revealing 72 new DNA binding motifs. To investigate whether some of the 158 TFs for which we did not find motifs preferably bind epigenetically modified DNA (i.e. methylated CG dinucleotides), we developed methylation-sensitive SMiLE-seq (meSMiLE-seq). This microfluidic assay simultaneously probes the affinity of a protein to methylated and unmethylated DNA, augmenting the capabilities of the original method to infer methylation-aware binding sites. We assayed 114 TFs with meSMiLE-seq and identified DNA-binding models for 48 proteins, including the known methylation-sensitive binding modes for P...",
+      "date": "2026-08-05",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-71387-y",
+      "doi": "10.1038/s41467-026-71387-y",
+      "pdfUrl": "https://www.nature.com/articles/s41467-026-71387-y.pdf",
+      "keywords": [
+        "DNA methylation",
+        "Methylated DNA immunoprecipitation",
+        "Methylation",
+        "Transcription factor",
+        "Biology",
+        "Epigenetics and DNA Methylation",
+        "Cancer-related gene regulation",
+        "RNA modifications and cancer"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T07:11:26.374603+00:00"
     },
     {
       "id": "rss-ead5f2bab0c6",
@@ -1028,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.088232+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.289203+00:00"
     },
     {
       "id": "rss-a22dcd5db9ed",
@@ -1060,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.088430+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.289358+00:00"
     },
     {
       "id": "rss-933ba0ff85bb",
@@ -1092,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.184853+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.614114+00:00"
     },
     {
       "id": "rss-80e5754b3acd",
@@ -1124,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.185290+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.614533+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -1156,7 +1188,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.730118+00:00"
+      "_retrievedAt": "2026-08-08T07:11:26.372515+00:00"
     },
     {
       "id": "rss-bfc25c3f4f29",
@@ -1188,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.088592+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.289519+00:00"
     },
     {
       "id": "openalex-5abd16320b31",
@@ -1220,7 +1252,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.732970+00:00"
+      "_retrievedAt": "2026-08-08T07:11:26.375444+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -1252,7 +1284,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.791314+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.829549+00:00"
     },
     {
       "id": "rss-f7328a645416",
@@ -1284,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.088744+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.289656+00:00"
     },
     {
       "id": "rss-22e3c70241d7",
@@ -1316,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.088917+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.289812+00:00"
     },
     {
       "id": "rss-164ec90a306e",
@@ -1348,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.185955+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.615251+00:00"
     },
     {
       "id": "rss-82cbbc4a1e19",
@@ -1380,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.186645+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.615999+00:00"
     },
     {
       "id": "openalex-82bfb13f8d46",
@@ -1412,7 +1444,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.793620+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.831691+00:00"
     },
     {
       "id": "rss-61c6d7b63768",
@@ -1444,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.089091+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.289967+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -1476,7 +1508,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.791704+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.829957+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -1508,7 +1540,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.086415+00:00"
+      "_retrievedAt": "2026-08-08T07:11:25.594701+00:00"
     },
     {
       "id": "rss-d746300c673c",
@@ -1540,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.089252+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.290110+00:00"
     },
     {
       "id": "rss-e3531be54cc3",
@@ -1572,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.186907+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.616290+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -1604,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.089475+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.290257+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1636,7 +1668,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.730738+00:00"
+      "_retrievedAt": "2026-08-08T07:11:26.373070+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -1668,7 +1700,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.732355+00:00"
+      "_retrievedAt": "2026-08-08T07:11:26.374868+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -1700,7 +1732,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.088427+00:00"
+      "_retrievedAt": "2026-08-08T07:11:25.596490+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -1732,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.089650+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.290412+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -1764,7 +1796,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.085028+00:00"
+      "_retrievedAt": "2026-08-08T07:11:25.593473+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1796,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.089796+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.290541+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -1828,7 +1860,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.187121+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.616548+00:00"
     },
     {
       "id": "rss-67e6e4628573",
@@ -1860,7 +1892,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.187328+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.616776+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1892,7 +1924,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.089949+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.290676+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -1924,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.264433+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.107191+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1956,7 +1988,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.090110+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.290819+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -1988,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.794975+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.833175+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -2020,7 +2052,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.090265+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.290956+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -2052,7 +2084,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:46.090474+00:00"
+      "_retrievedAt": "2026-08-08T07:11:32.291114+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2084,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.732048+00:00"
+      "_retrievedAt": "2026-08-08T07:11:26.374282+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2116,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.793999+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.832037+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2148,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.731081+00:00"
+      "_retrievedAt": "2026-08-08T07:11:26.373393+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2180,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.265003+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.107722+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2212,7 +2244,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.087496+00:00"
+      "_retrievedAt": "2026-08-08T07:11:25.595647+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2244,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.733639+00:00"
+      "_retrievedAt": "2026-08-08T07:11:26.376018+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2276,7 +2308,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.086748+00:00"
+      "_retrievedAt": "2026-08-08T07:11:25.594988+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2308,39 +2340,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.087164+00:00"
-    },
-    {
-      "id": "openalex-5cffaa86f023",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Expansion, functional diversification, and gene fusion events in the Ato protein family",
-      "authors": "F Chakmehdouz Ghasemi, Patrícia Ataíde, Cláudia Barata-Antunes, Yiannis Pyrris, João Alves, Vítor Basto-Fernandes",
-      "abstract": "Abstract Candida albicans , a commensal opportunistic pathogen, exhibits remarkable metabolic flexibility and adaptability to environmental changes. In glucose-limited niches, it utilizes alternative carbon sources such as carboxylic acids, which may influence its pathogenicity. In Saccharomyces cerevisiae , the uptake of monocarboxylates occurs through regulated plasma membrane (PM) transport proteins, such as Ato1 (Ady2), which belongs to the Acetate Uptake Transporter (AceTr) family. In C. albicans , these proteins are notably expanded, consisting of ten Ato-like proteins (ATO1-ATO10), whose functions remain unknown. Here, we investigated the role of Ato proteins in carboxylic acid utilization by C. albicans using in-silico and functional analysis. Our data revealed that several C. albicans Atos retain conserved AceTr motifs but possess distinct structural features, including diffe...",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "iScience",
-      "source": "iScience",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.isci.2026.116467",
-      "doi": "10.1016/j.isci.2026.116467",
-      "pdfUrl": "https://doi.org/10.1016/j.isci.2026.116467",
-      "keywords": [
-        "Diversification (marketing strategy)",
-        "Fusion protein",
-        "Gene",
-        "Genetics",
-        "Computational biology",
-        "Advanced Proteomics Techniques and Applications",
-        "Mass Spectrometry Techniques and Applications",
-        "Enzyme Structure and Function"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.734837+00:00"
+      "_retrievedAt": "2026-08-08T07:11:25.595361+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2372,7 +2372,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.264648+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.107394+00:00"
+    },
+    {
+      "id": "openalex-9ae00385fc6f",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Traditional fermented food microbial ecosystems oriented towards industrial standards: multi-dimensional characterization and artificial regulation",
+      "authors": "M T Wu, Yi-Xiang Wang, Yu Wang, Youqiang Xu, Baoguo Sun",
+      "abstract": "Fermented food microbial ecosystems are dynamic and shaped by microbes, substrates, and environments, but traditional spontaneous fermentation causes variability in quality and safety, limiting standardization. This review highlighted multi-omics integration to comprehensively characterize microbial composition, dynamics, interactions, metabolites, and phages, and summarized regulation strategies including functional strains, synthetic microbial communities, bacteriophage control, and physicochemical modulation. Finally, the futures and challenges from empirical practice to predictable, scalable industrial fermentation were proposed.",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "npj Science of Food",
+      "source": "npj Science of Food",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41538-026-00916-2",
+      "doi": "10.1038/s41538-026-00916-2",
+      "pdfUrl": "https://www.nature.com/articles/s41538-026-00916-2_reference.pdf",
+      "keywords": [
+        "Biochemical engineering",
+        "Fermentation",
+        "Biotechnology",
+        "Limiting",
+        "Food industry",
+        "Bacteriophages and microbial interactions",
+        "Probiotics and Fermented Foods",
+        "Microbial Community Ecology and Physiology"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T07:11:26.376219+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2404,7 +2436,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.086029+00:00"
+      "_retrievedAt": "2026-08-08T07:11:25.594351+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2436,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.267014+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.109764+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2468,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.796116+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.834228+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2500,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.796892+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.834918+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2532,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.794415+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.832659+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2564,7 +2596,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.084160+00:00"
+      "_retrievedAt": "2026-08-08T07:11:25.592692+00:00"
     },
     {
       "id": "openalex-1694495e202e",
@@ -2596,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.734102+00:00"
+      "_retrievedAt": "2026-08-08T07:11:26.376776+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2628,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.792873+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.831014+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2660,7 +2692,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.088080+00:00"
+      "_retrievedAt": "2026-08-08T07:11:25.596165+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2692,39 +2724,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.088916+00:00"
+      "_retrievedAt": "2026-08-08T07:11:25.596945+00:00"
     },
     {
-      "id": "openalex-7a2e0cea295d",
+      "id": "openalex-fcbf1470edaa",
       "discipline": "geo",
       "type": "paper",
-      "title": "Stratigraphy as a low-pass filter: selective preservation of spatial variability on a Holocene carbonate platform",
-      "authors": "Xianyi Liu, Sam Purkis, Peter Burgess, David De Vleeschouwer, Laurent Puyana, Niklas Hohmann",
-      "abstract": "Walther’s law, a fundamental principle in geoscience, predicts that laterally adjacent depositional environments become preserved as a vertical succession of layers (facies). As an expression of uniformitarianism, this law underpins interpretations of Earth’s history, yet it has not been quantitatively tested. We test this law and examine its limitations by quantifying multidecadal changes in environmental heterogeneity (1945-2019) in the Bahamas and extrapolating them to millennial timescales using forward modelling. Virtual stratigraphic successions predicted by Walther’s law contain substantially greater heterogeneity than observed in sediment cores. This discrepancy arises because small and short-lived environment patches undergo rapid turnover and fail to accumulate sufficient sediment for preservation. Our work establishes a quantitative framework for defining preservation thres...",
-      "date": "2026-05-20",
+      "title": "Abrupt stream acidification and metal mobilization from permafrost degradation",
+      "authors": "Elliott K. Skierszkan, Andras J. Szeitz, Matthew B.J. Lindsay, Sean K. Carey",
+      "abstract": "Stream chemistry and ecosystem function are being transformed by abrupt acceleration of sulfide-mineral oxidation in permafrost-underlain headwater catchments of the Yukon and Mackenzie river basins-the two largest (sub)Arctic rivers in North America. Over the past decade, dozens of acidic (pH ~3) seepages have emerged in these headwaters, causing vegetation dieback and mobilizing metals at acutely toxic concentrations in receiving streams. Acid generated during sulfide-mineral oxidation also accelerates carbon dioxide emissions by driving carbonate-mineral dissolution. Downstream (sub)Arctic rivers show statistically significant multidecadal increases in sulfate concentrations, yet their metal concentrations remain stable because of attenuation and dilution processes. Headwater stream acidification signals a major perturbation in metal, carbon, and sulfur cycling linked to permafrost...",
+      "date": "2026-05-21",
       "year": 2026,
-      "journal": "OpenAlex",
-      "source": "OpenAlex",
+      "journal": "Science",
+      "source": "Science",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.31223/x5k784",
-      "doi": "10.31223/x5k784",
-      "pdfUrl": "https://eartharxiv.org/repository/object/13113/download/23232/",
+      "url": "https://doi.org/10.1126/science.aea2898",
+      "doi": "10.1126/science.aea2898",
+      "pdfUrl": "",
       "keywords": [
-        "Sedimentary depositional environment",
-        "Geology",
-        "Stratigraphy",
-        "Sedimentary rock",
-        "Sediment",
-        "Geology and Paleoclimatology Research",
-        "Paleontology and Stratigraphy of Fossils",
-        "Geological formations and processes"
+        "Biogeochemical cycle",
+        "Permafrost",
+        "Ecosystem",
+        "Sulfate",
+        "Environmental science",
+        "Climate change and permafrost",
+        "Smart Materials for Construction",
+        "Mine drainage and remediation techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 2,
+      "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.797210+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.832283+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2752,11 +2784,11 @@
         "Artificial Intelligence in Healthcare and Education"
       ],
       "readTime": "1 min",
-      "citedBy": 64,
+      "citedBy": 67,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.085418+00:00"
+      "_retrievedAt": "2026-08-08T07:11:25.593804+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2788,7 +2820,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.083826+00:00"
+      "_retrievedAt": "2026-08-08T07:11:25.592357+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -2820,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.266045+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.108647+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2852,7 +2884,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.085646+00:00"
+      "_retrievedAt": "2026-08-08T07:11:25.594001+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2880,11 +2912,11 @@
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 1428,
+      "citedBy": 1434,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.083435+00:00"
+      "_retrievedAt": "2026-08-08T07:11:25.591994+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2916,39 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.267368+00:00"
-    },
-    {
-      "id": "openalex-54438cbb0a67",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "The ISG Atlas: a loss-of-function analysis characterizes antiviral properties of interferon stimulated genes",
-      "authors": "Karsten Krey, Jennifer Risso-Ballester, Sabri Hamad, Susanne Maidl, Sara Bilekova, Quirin Emslander",
-      "abstract": "The innate immune system requires the activity of interferon-stimulated genes (ISGs) to mount its protective response against viruses. However, the activity of ISGs against viruses varies widely and is orchestrated by the interplay of hundreds of ISGs. Utilizing a time-resolved, arrayed loss-of-function screen, we systematically investigate 285 ISGs for their virus-modulating activity against eight viruses. The quantitated data from the screen results do not necessarily result in similar quantitative biological effects of gene function but indicates virus specificity of many ISGs and pan-proviral activity of some ISGs, such as RNA 2',3'-cyclic phosphate and 5'-OH ligase (RTCB). Co-depletions of selected candidates identify ISGs with synergistic functions, highlighting particularly strong synergies between ISGs inhibiting entry pathways and ISGs involved in IFN signaling. Among unexplo...",
-      "date": "2026-05-08",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-72732-x",
-      "doi": "10.1038/s41467-026-72732-x",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-72732-x.pdf",
-      "keywords": [
-        "Interferon",
-        "Innate immune system",
-        "Biology",
-        "Gene",
-        "Endosome",
-        "interferon and immune responses",
-        "RNA regulation and disease",
-        "Cytokine Signaling Pathways and Interactions"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.734452+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.110073+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2980,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.266361+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.108918+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -3012,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.792462+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.830642+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -3044,39 +3044,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.084628+00:00"
-    },
-    {
-      "id": "openalex-e2538de02ecf",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Zinc as a master regulator of intracellular organelle homeostasis",
-      "authors": "Sofia Brito, Jiyoon Kim, Bum-Ho Bin",
-      "abstract": "Zinc (Zn²⁺) is an essential trace element that supports a vast array of cellular processes, including enzymatic catalysis, gene expression, immune regulation and signaling. Its unique redox-inert properties and ability to bind diverse proteins make it indispensable for cellular homeostasis. Zinc is dynamically distributed within cells, where its compartmentalization across organelles, such as the nucleus, endoplasmic reticulum, Golgi apparatus, mitochondria, lysosomes, endosomes and peroxisomes, enables specialized functions crucial for organelle integrity and interorganelle communication. The present Review provides a comprehensive account of organelle-specific zinc homeostasis, highlighting the intricate roles of zinc transporters, metallothioneins and metallochaperones in regulating zinc flux and buffering. Here we discuss how zinc modulates structural and enzymatic processes, stre...",
-      "date": "2026-05-01",
-      "year": 2026,
-      "journal": "Experimental & Molecular Medicine",
-      "source": "Experimental & Molecular Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s12276-026-01706-2",
-      "doi": "10.1038/s12276-026-01706-2",
-      "pdfUrl": "https://www.nature.com/articles/s12276-026-01706-2.pdf",
-      "keywords": [
-        "Endosome",
-        "Regulator",
-        "Cell biology",
-        "Zinc",
-        "Compartmentalization (fire protection)",
-        "Trace Elements in Health",
-        "Ferroptosis and cancer prognosis",
-        "Heavy Metal Exposure and Toxicity"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.270271+00:00"
+      "_retrievedAt": "2026-08-08T07:11:25.593103+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -3108,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.796517+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.834575+00:00"
     },
     {
       "id": "openalex-0026215bd6f7",
@@ -3136,11 +3104,11 @@
         "Renin-Angiotensin System Studies"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.269111+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.109169+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -3172,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.732656+00:00"
+      "_retrievedAt": "2026-08-08T07:11:26.375137+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -3204,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.733243+00:00"
+      "_retrievedAt": "2026-08-08T07:11:26.375695+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -3236,7 +3204,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.087763+00:00"
+      "_retrievedAt": "2026-08-08T07:11:25.595880+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -3268,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.795387+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.833571+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -3300,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.730464+00:00"
+      "_retrievedAt": "2026-08-08T07:11:26.372818+00:00"
     },
     {
       "id": "openalex-b085d32d7fe5",
@@ -3332,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.269917+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.111742+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -3364,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.793205+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.831317+00:00"
     },
     {
       "id": "openalex-b405599e1257",
@@ -3396,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.794686+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.832904+00:00"
     },
     {
       "id": "openalex-ecc34b946b2e",
@@ -3428,7 +3396,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.269505+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.112064+00:00"
+    },
+    {
+      "id": "openalex-b31b1eeff6ea",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Evaluation of Regorafenib in Newly Diagnosed and Recurrent Glioblastoma: GBM AGILE Phase II/III Bayesian Randomized Platform Trial",
+      "authors": "Patrick Y. Wen, Donald A. Berry, Meredith Buxton, Howard Colman, John de Groot, Michael Lim",
+      "abstract": "PURPOSE: GBM AGILE (ClinicalTrials.gov identifier: NCT03970447) is a phase II/III Bayesian adaptive platform registration trial testing multiple arms against a common control; the primary end point is overall survival (OS). Regorafenib, a multikinase inhibitor, showed OS benefit in recurrent (RD) glioblastoma in the phase II REGOMA trial and entered GBM AGILE as the first investigational arm. METHODS: Patient subtypes included in the regorafenib arm of GBM AGILE were newly diagnosed unmethylated (NDU) and RD glioblastoma. Prospective defined sets of subtypes, or arm signatures, were NDU, RD, and all (NDU + RD). As the first investigational arm in GBM AGILE, regorafenib was equally randomized to the control arm. Treatment in the control arm is temozolomide + radiotherapy (in newly diagnosed) or lomustine (in RD). Efficacy was assessed by OS hazard ratio (HR), arm/control, and demonstra...",
+      "date": "2026-04-14",
+      "year": 2026,
+      "journal": "Journal of Clinical Oncology",
+      "source": "Journal of Clinical Oncology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1200/jco-25-01137",
+      "doi": "10.1200/jco-25-01137",
+      "pdfUrl": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO-25-01137",
+      "keywords": [
+        "Regorafenib",
+        "Medicine",
+        "Temozolomide",
+        "Clinical endpoint",
+        "Oncology",
+        "Glioma Diagnosis and Treatment",
+        "Statistical Methods in Clinical Trials",
+        "Melanoma and MAPK Pathways"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T07:11:27.112451+00:00"
     },
     {
       "id": "openalex-1c8cc4075423",
@@ -3460,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.795734+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.833880+00:00"
     },
     {
       "id": "openalex-a528e7ad7434",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.266686+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.109468+00:00"
     },
     {
       "id": "openalex-925ecf6ab58e",
@@ -3524,7 +3524,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.265289+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.107987+00:00"
     },
     {
       "id": "openalex-7a392a0ca13d",
@@ -3556,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.731428+00:00"
+      "_retrievedAt": "2026-08-08T07:11:26.373704+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -3588,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:01.731724+00:00"
+      "_retrievedAt": "2026-08-08T07:11:26.373976+00:00"
     },
     {
       "id": "openalex-ec9559e049f8",
@@ -3620,7 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T02:19:02.268811+00:00"
+      "_retrievedAt": "2026-08-08T07:11:27.111337+00:00"
     }
   ]
 }
