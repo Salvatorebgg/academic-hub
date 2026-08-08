@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T19:12:29.729995+00:00",
+  "generatedAt": "2026-08-08T02:19:46.368435+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -7,13 +7,77 @@
   ],
   "papers": [
     {
+      "id": "rss-cf1b35898a2a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Everyday packaging plastic may compound fatty liver risk from burgers and sodas",
+      "authors": "Medical Xpress",
+      "abstract": "Microplastics have become nearly impossible to avoid. They have been detected in oceans, drinking water and even the human body, but scientists are still uncovering how they affect human health. Now, researchers at the Texas A&M College of Veterinary Medicine and Biomedical Sciences (VMBS) have uncovered evidence that one of the world's most common plastics may do more than pollute the environment. Their findings suggest that polyethylene may contribute to fatty liver disease and worsen the condition when combined with an unhealthy diet.",
+      "date": "2026-08-08",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-everyday-packaging-plastic-compound-fatty.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "have",
+        "fatty",
+        "liver",
+        "they",
+        "human",
+        "that",
+        "everyday",
+        "packaging"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T02:19:45.944278+00:00"
+    },
+    {
+      "id": "rss-f37f6b8ca231",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Psychedelics amplify brain connectivity through serotonin receptors, study suggests",
+      "authors": "Medical Xpress",
+      "abstract": "Psychedelics like psilocybin (from magic mushrooms), LSD, DMT and mescaline profoundly alter how we perceive, feel and think. After decades of neglect, they are again the subject of serious scientific inquiry, largely because of their promise for treating depression, anxiety, addiction and other conditions. But this therapeutic promise has run ahead of a more basic understanding: While a great deal of attention has gone to whether psychedelics help treat mental disorders, far less has gone to what they actually do in a general sense—the fundamental way they change perception, thought and consciousness. Only by understanding these basic mechanisms can we ever make sense of the therapeutic effects.",
+      "date": "2026-08-08",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-psychedelics-amplify-brain-serotonin-receptors.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "psychedelics",
+        "they",
+        "promise",
+        "therapeutic",
+        "basic",
+        "understanding",
+        "gone",
+        "sense"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T02:19:45.944703+00:00"
+    },
+    {
       "id": "rss-e6387486bea1",
       "discipline": "clinical",
       "type": "news",
       "title": "Deep learning refines how bionic eyes communicate with the brain",
       "authors": "Medical Xpress",
       "abstract": "Researchers from three institutions, including UC Santa Barbara, have demonstrated that artificial intelligence has the potential to make future visual prostheses, like a bionic eye, more precise, predictable and responsive to an individual user.",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +100,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.186823+00:00"
+      "_retrievedAt": "2026-08-08T02:19:45.944959+00:00"
     },
     {
       "id": "rss-d10518e46341",
@@ -45,7 +109,7 @@
       "title": "Protective drug dexrazoxane reduces heart damage in pediatric cancer survivors years after treatment ends",
       "authors": "Medical Xpress",
       "abstract": "A new study reveals that the cardioprotective drug dexrazoxane significantly reduces heart damage caused by chemotherapy in pediatric cancer patients 15 years or more after treatment ends.",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +132,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.187080+00:00"
+      "_retrievedAt": "2026-08-08T02:19:45.945202+00:00"
     },
     {
       "id": "rss-db98afc813cf",
@@ -77,7 +141,7 @@
       "title": "Why the body's inflammatory alarm misfires in familial Mediterranean fever",
       "authors": "Medical Xpress",
       "abstract": "Familial Mediterranean fever (FMF) is a hereditary autoinflammatory disease in which the body's own immune system overreacts to minimal or inappropriate stimuli, producing recurrent attacks of fever and painful inflammation. The disease is caused by mutations in MEFV, the gene that encodes a protein called pyrin.",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +164,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.187322+00:00"
+      "_retrievedAt": "2026-08-08T02:19:45.945497+00:00"
     },
     {
       "id": "rss-275f2f9d7590",
@@ -109,7 +173,7 @@
       "title": "High glucose thickens cancer cells' sugar shield, helping them evade immune attack",
       "authors": "Medical Xpress",
       "abstract": "Like spies evading detection by mastering disguises, many cancer cells are adorned with a copious coat of sugar-derived molecules that throws the proverbial hounds of the immune system off the scent.",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.187533+00:00"
+      "_retrievedAt": "2026-08-08T02:19:45.945745+00:00"
     },
     {
       "id": "rss-3982ffb5505d",
@@ -141,7 +205,7 @@
       "title": "Barbie and Ken get a reality check after 30 years",
       "authors": "Medical Xpress",
       "abstract": "She's the blonde bombshell and he's her square-jawed sidekick. But nearly 70 years after the impossibly perfect Barbie and Ken made their debut, a new study from Adelaide University and UNSW Sydney shows the iconic pair are finally looking a little more like the rest of us.",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.187766+00:00"
+      "_retrievedAt": "2026-08-08T02:19:45.945995+00:00"
     },
     {
       "id": "rss-f5e535d33965",
@@ -173,7 +237,7 @@
       "title": "'Mindfulness-based cognitive therapy' may reduce internet gaming disorder in college students",
       "authors": "Medical Xpress",
       "abstract": "A research team led by Professor Anderson Sungmin Yoon and Minah Kim of Sungkyunkwan University (SKKU) has developed a \"Mindfulness-Based Cognitive Therapy for Gaming (MBCT-G)\" program to address internet gaming disorder among college students and has found promising evidence of its therapeutic effectiveness.",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.187989+00:00"
+      "_retrievedAt": "2026-08-08T02:19:45.946253+00:00"
     },
     {
       "id": "rss-413e64ea4c53",
@@ -205,7 +269,7 @@
       "title": "Radiopharmaceutical may benefit patients with metastatic prostate cancer sooner",
       "authors": "Medical Xpress",
       "abstract": "Earlier use of a targeted radionuclide therapy delays metastatic prostate cancer progression when administered as part of a trio of drugs, according to a Phase III clinical trial led by Weill Cornell Medicine, NewYork-Presbyterian, Memorial Sloan Kettering Cancer Center and investigators at several other institutions worldwide.",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -228,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.188210+00:00"
+      "_retrievedAt": "2026-08-08T02:19:45.946529+00:00"
     },
     {
       "id": "rss-c27cf360485e",
@@ -237,7 +301,7 @@
       "title": "How drugs leach out of your sweat (and can spoil your sofa)",
       "authors": "Medical Xpress",
       "abstract": "Like all consumer products, sofas come with instructions for how best to use and maintain them. But it may surprise you that many furniture companies warn medicines can seep out in your sweat or body oils and damage your leather sofa.",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -260,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.188419+00:00"
+      "_retrievedAt": "2026-08-08T02:19:45.946776+00:00"
     },
     {
       "id": "rss-f627fb428a97",
@@ -269,7 +333,7 @@
       "title": "Q&A: Medicare spending on clinical care for people aging with HIV projected to rise steeply over next decade",
       "authors": "Medical Xpress",
       "abstract": "As more Americans with HIV live into older age, Medicare spending on their care is projected to rise dramatically from $10.9 billion in 2026 to $27.3 billion in 2035, with HIV medications accounting for nearly two-thirds of total costs.",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -292,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.188665+00:00"
+      "_retrievedAt": "2026-08-08T02:19:45.947028+00:00"
     },
     {
       "id": "rss-77f5ca54d87a",
@@ -301,7 +365,7 @@
       "title": "Parkinson's-linked α-synuclein blocks protein transport in neurons, disrupting cells' waste recycling",
       "authors": "Medical Xpress",
       "abstract": "Parkinson's disease affects more than 10 million people worldwide. The disease is characterized by the buildup of abnormal clumps of the protein alpha-synuclein inside brain cells, but scientists have long struggled to understand exactly how these toxic forms of the protein cause neurons to malfunction and eventually die.",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -324,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.188920+00:00"
+      "_retrievedAt": "2026-08-08T02:19:45.947305+00:00"
     },
     {
       "id": "rss-8dd9a9cef03f",
@@ -333,7 +397,7 @@
       "title": "D-serine accelerates gastric tumor growth by suppressing killer T cells",
       "authors": "Medical Xpress",
       "abstract": "One of the crucial steps in cancer proliferation is evading killer immune cells. Cancer cells use a variety of signaling molecules to evade the immune system. Immune checkpoint inhibitor (ICI) therapy interferes with some of these evasion tactics, improving the immune system's ability to suppress tumors. However, the success of ICI therapy depends on the specific signals being secreted by the tumor.",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -356,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.189154+00:00"
+      "_retrievedAt": "2026-08-08T02:19:45.947601+00:00"
     },
     {
       "id": "rss-2b420fdbe665",
@@ -365,7 +429,7 @@
       "title": "From growth to function: Gene helps human heart cells decide when to mature",
       "authors": "Medical Xpress",
       "abstract": "Understanding how heart muscle cells stop dividing and acquire the characteristics needed to sustain lifelong cardiac function remains one of the greatest challenges in cardiovascular biology. Leveraging human induced pluripotent stem (iPS) cell technology, a team led by Associate Professor Yoshinori Yoshida (Department of Clinical Application, CiRA, Kyoto University) and Associate Professor Antonio Lucena-Cacace (WPI-PRIMe, The University of Osaka) has identified PRDM16 as an important regulator governing the balance between proliferation and maturation in human iPSC-derived cardiomyocytes.",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -388,71 +452,71 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.189414+00:00"
+      "_retrievedAt": "2026-08-08T02:19:45.947900+00:00"
     },
     {
-      "id": "rss-e1117fdb7fee",
-      "discipline": "clinical",
+      "id": "rss-ef596fa80f1f",
+      "discipline": "cs",
       "type": "news",
-      "title": "Newer AI models still reproduce racial and gender stereotypes in medicine",
-      "authors": "Medical Xpress",
-      "abstract": "Flinders University researchers have evaluated two next-generation reasoning large language models (LLMs)—o3-mini and DeepSeek-R1—and found that when asked to describe fictional patients with common medical conditions, the models frequently reproduced racial and gender stereotypes, indicating that advancements in AI reasoning do not inherently improve representational fairness.",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
       "date": "2026-08-07",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-ai-racial-gender-stereotypes-medicine.html",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "racial",
-        "gender",
-        "stereotypes",
-        "reasoning",
-        "that",
-        "newer",
-        "still",
-        "reproduce"
+        "openai",
+        "development",
+        "says",
+        "slowed",
+        "astra",
+        "over",
+        "security",
+        "concerns"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.189664+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.012584+00:00"
     },
     {
-      "id": "rss-bd5bd018e4a7",
-      "discipline": "clinical",
+      "id": "rss-98471e9149b1",
+      "discipline": "cs",
       "type": "news",
-      "title": "Early respiratory infections linked to atopic dermatitis diagnosis",
-      "authors": "Medical Xpress",
-      "abstract": "Early respiratory infection burden is associated with atopic dermatitis (AD) diagnosis in childhood, according to a study published online July 29 in JAMA Dermatology.",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "authors": "TechCrunch AI",
+      "abstract": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
       "date": "2026-08-07",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-early-respiratory-infections-linked-atopic.html",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "early",
-        "respiratory",
-        "atopic",
-        "dermatitis",
-        "diagnosis",
-        "infections",
-        "linked",
-        "infection"
+        "after",
+        "rippling",
+        "employee",
+        "blew",
+        "millions",
+        "months",
+        "built",
+        "tool"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.189849+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.012811+00:00"
     },
     {
       "id": "rss-5a73d9bd9529",
@@ -460,7 +524,7 @@
       "type": "news",
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "authors": "TechCrunch AI",
-      "abstract": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "abstract": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
       "date": "2026-08-07",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -470,21 +534,21 @@
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "browser",
         "agents",
-        "cloudflare",
         "kitesurf",
+        "browser",
+        "cloudflare",
         "launches",
         "built",
-        "introduced",
-        "cloud-hosted"
+        "cloud-hosted",
+        "designed"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.315083+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.012995+00:00"
     },
     {
       "id": "rss-9c0bdcecce12",
@@ -516,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.315274+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.013153+00:00"
     },
     {
       "id": "rss-e84825b76f6c",
@@ -548,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.315573+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.013483+00:00"
     },
     {
       "id": "rss-814da1428ca3",
@@ -556,7 +620,7 @@
       "type": "news",
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
       "authors": "TechCrunch AI",
-      "abstract": "Meta's total fine has raked up to $942 million in this case.",
+      "abstract": "Meta's total fine has racked up to $942 million in this case.",
       "date": "2026-08-07",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -580,7 +644,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.315734+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.013643+00:00"
+    },
+    {
+      "id": "rss-a67dae29b725",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Environmental education in action at Fla.'s Guana Tolomato Matanzas Reserve",
+      "authors": "NOAA News",
+      "abstract": "Environmental education in action at Fla.'s Guana Tolomato Matanzas Reserve A view of Moses Creek conservation area in Florida's Guana Tolomato Matanzas Reserve. (Image credit: NOAA) Download Image August 7, 2026 Ocean & Coasts 0 Off",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/environmental-education-in-action-at-guana-tolomato-matanzas-reserve-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "guana",
+        "tolomato",
+        "matanzas",
+        "reserve",
+        "environmental",
+        "education",
+        "action",
+        "image"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T02:19:46.183793+00:00"
     },
     {
       "id": "rss-dd9abed37891",
@@ -612,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.542429+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.183992+00:00"
     },
     {
       "id": "rss-624e10f67db4",
@@ -644,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.315884+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.013808+00:00"
     },
     {
       "id": "rss-7a35d3306a74",
@@ -676,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.316014+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.013957+00:00"
     },
     {
       "id": "rss-b8b38bd59c3b",
@@ -708,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.316161+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.014132+00:00"
     },
     {
       "id": "rss-4b5734de97c2",
@@ -740,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.316312+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.014325+00:00"
     },
     {
       "id": "rss-53d0109428de",
@@ -772,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.316508+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.014570+00:00"
     },
     {
       "id": "rss-8fdcdbbb0341",
@@ -804,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.316649+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.014720+00:00"
     },
     {
       "id": "rss-dac35efb638c",
@@ -836,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.316798+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.014887+00:00"
     },
     {
       "id": "rss-098b77a3f6f4",
@@ -868,71 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.316939+00:00"
-    },
-    {
-      "id": "rss-5ea5b0cee0d0",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "authors": "TechCrunch AI",
-      "abstract": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
-      "date": "2026-08-06",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "maps",
-        "features",
-        "adds",
-        "agentic",
-        "including",
-        "food",
-        "ordering"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.317101+00:00"
-    },
-    {
-      "id": "rss-365853a6e96a",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "authors": "TechCrunch AI",
-      "abstract": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-      "date": "2026-08-06",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "omilia",
-        "raises",
-        "scale",
-        "customer",
-        "support",
-        "platform",
-        "series",
-        "company"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.317232+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.015055+00:00"
     },
     {
       "id": "rss-6962610856a0",
@@ -964,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.543013+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.184620+00:00"
     },
     {
       "id": "rss-ead5f2bab0c6",
@@ -996,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.385554+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.088232+00:00"
     },
     {
       "id": "rss-a22dcd5db9ed",
@@ -1028,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.385763+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.088430+00:00"
     },
     {
       "id": "rss-933ba0ff85bb",
@@ -1060,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.543215+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.184853+00:00"
     },
     {
       "id": "rss-80e5754b3acd",
@@ -1092,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.543545+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.185290+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -1124,7 +1156,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.292919+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.730118+00:00"
     },
     {
       "id": "rss-bfc25c3f4f29",
@@ -1156,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.385907+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.088592+00:00"
     },
     {
       "id": "openalex-5abd16320b31",
@@ -1188,7 +1220,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.295601+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.732970+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -1220,7 +1252,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.924256+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.791314+00:00"
     },
     {
       "id": "rss-f7328a645416",
@@ -1252,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.386037+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.088744+00:00"
     },
     {
       "id": "rss-22e3c70241d7",
@@ -1284,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.386193+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.088917+00:00"
     },
     {
       "id": "rss-164ec90a306e",
@@ -1316,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.544144+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.185955+00:00"
     },
     {
       "id": "rss-82cbbc4a1e19",
@@ -1348,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.544746+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.186645+00:00"
     },
     {
       "id": "openalex-82bfb13f8d46",
@@ -1380,7 +1412,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.926419+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.793620+00:00"
     },
     {
       "id": "rss-61c6d7b63768",
@@ -1412,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.386341+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.089091+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -1444,7 +1476,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.924611+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.791704+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -1476,7 +1508,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:24.951772+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.086415+00:00"
     },
     {
       "id": "rss-d746300c673c",
@@ -1508,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.386476+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.089252+00:00"
     },
     {
       "id": "rss-e3531be54cc3",
@@ -1540,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.544970+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.186907+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -1572,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.386615+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.089475+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1604,7 +1636,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.293493+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.730738+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -1636,7 +1668,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.295037+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.732355+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -1668,7 +1700,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:24.954046+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.088427+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -1700,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.386772+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.089650+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -1732,7 +1764,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:24.950437+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.085028+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1764,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.386893+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.089796+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -1796,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.545155+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.187121+00:00"
     },
     {
       "id": "rss-67e6e4628573",
@@ -1828,39 +1860,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.545327+00:00"
-    },
-    {
-      "id": "rss-2c39e9060823",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Lights, camera, seafood! Bertha Fontaine and the Fisheries Test Kitchen",
-      "authors": "NOAA News",
-      "abstract": "Lights, camera, seafood! Bertha Fontaine and the Fisheries Test Kitchen Fontaine (center) frequently demonstrated seafood recipes on television programs. (Image credit: NOAA Magazine, Volume 2 Number 3, July 1972) Download Image July 20, 2026 As the U.S. government expanded its effort in the 1950s and 1960s to promote American seafood, the need for charismatic spokespeople became clear — people like Bertha Fontaine. The scene: Boxy television cameras point toward a brightly lit table. Plates of meticulously styled seafood ingredients sit between charming decorations. With her hair in a voluminous bouffant, an energetic woman in a neat dress and a long strand of pearls speaks to the camera in a soft Southern accent, describing the process as she carefully arranges shrimp on a round of pizza dough. This is an appearance by Bertha Fontaine of the Bureau of Commercial Fisheries’ Test Kitc...",
-      "date": "2026-07-17",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/heritage/stories/lights-camera-seafood-bertha-fontaine-and-fisheries-test-kitchen",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "seafood",
-        "fontaine",
-        "bertha",
-        "camera",
-        "fisheries",
-        "test",
-        "lights",
-        "kitchen"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.545994+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.187328+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1892,7 +1892,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.387018+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.089949+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -1924,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.613456+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.264433+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1956,7 +1956,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.387151+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.090110+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -1988,7 +1988,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.927696+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.794975+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -2020,7 +2020,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.387278+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.090265+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -2052,7 +2052,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:29.387429+00:00"
+      "_retrievedAt": "2026-08-08T02:19:46.090474+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2084,7 +2084,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.294766+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.732048+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2116,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.926783+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.793999+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2148,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.293835+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.731081+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2180,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.614039+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.265003+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2212,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:24.953145+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.087496+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2244,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.296586+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.733639+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2276,7 +2276,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:24.952091+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.086748+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2308,7 +2308,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:24.952837+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.087164+00:00"
+    },
+    {
+      "id": "openalex-5cffaa86f023",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Expansion, functional diversification, and gene fusion events in the Ato protein family",
+      "authors": "F Chakmehdouz Ghasemi, Patrícia Ataíde, Cláudia Barata-Antunes, Yiannis Pyrris, João Alves, Vítor Basto-Fernandes",
+      "abstract": "Abstract Candida albicans , a commensal opportunistic pathogen, exhibits remarkable metabolic flexibility and adaptability to environmental changes. In glucose-limited niches, it utilizes alternative carbon sources such as carboxylic acids, which may influence its pathogenicity. In Saccharomyces cerevisiae , the uptake of monocarboxylates occurs through regulated plasma membrane (PM) transport proteins, such as Ato1 (Ady2), which belongs to the Acetate Uptake Transporter (AceTr) family. In C. albicans , these proteins are notably expanded, consisting of ten Ato-like proteins (ATO1-ATO10), whose functions remain unknown. Here, we investigated the role of Ato proteins in carboxylic acid utilization by C. albicans using in-silico and functional analysis. Our data revealed that several C. albicans Atos retain conserved AceTr motifs but possess distinct structural features, including diffe...",
+      "date": "2026-06-23",
+      "year": 2026,
+      "journal": "iScience",
+      "source": "iScience",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.isci.2026.116467",
+      "doi": "10.1016/j.isci.2026.116467",
+      "pdfUrl": "https://doi.org/10.1016/j.isci.2026.116467",
+      "keywords": [
+        "Diversification (marketing strategy)",
+        "Fusion protein",
+        "Gene",
+        "Genetics",
+        "Computational biology",
+        "Advanced Proteomics Techniques and Applications",
+        "Mass Spectrometry Techniques and Applications",
+        "Enzyme Structure and Function"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T02:19:01.734837+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2340,7 +2372,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.613676+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.264648+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2372,7 +2404,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:24.951392+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.086029+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2404,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.615919+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.267014+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2436,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.928775+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.796116+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2468,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.929468+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.796892+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2500,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.927156+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.794415+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2532,7 +2564,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:24.949576+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.084160+00:00"
     },
     {
       "id": "openalex-1694495e202e",
@@ -2564,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.297079+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.734102+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2596,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.925739+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.792873+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2628,7 +2660,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:24.953715+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.088080+00:00"
+    },
+    {
+      "id": "openalex-8bf44fba3376",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Exploring Code Analysis: Zero-Shot Insights on Syntax and Semantics with LLMs",
+      "authors": "Wei Ma, Shangqing Liu, Shangqing Liu, Qiang Hu, Ye Liu, Wenhan Wang",
+      "abstract": "Code analysis is a fundamental problem in Software Engineering (SE), playing a crucial role in tasks such as debugging, performance optimization, and security assessment. Human developers typically approach code analysis through syntax parsing, static semantics inference, and dynamic reasoning. Traditional code analysis tools, while effective, are often limited by language specificity, complex configurations, and lack of cross-language generalization. Recently, large language models (LLMs) have emerged as promising tools for automating various code-related tasks. However, their capabilities for fundamental code analysis remain underexplored. Understanding these capabilities is crucial for assessing and enhancing LLM-based programming tools. We structure our study around three aspects of code analysis aligned with human practices: syntax parsing, static semantics inference, and dynamic...",
+      "date": "2026-05-26",
+      "year": 2026,
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "source": "ACM Transactions on Software Engineering and Methodology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1145/3818607",
+      "doi": "10.1145/3818607",
+      "pdfUrl": "https://arxiv.org/pdf/2305.12138",
+      "keywords": [
+        "Computer science",
+        "Programming language",
+        "Syntax",
+        "Abstract syntax tree",
+        "Artificial intelligence",
+        "Software Engineering Research",
+        "Artificial Intelligence in Healthcare and Education",
+        "Ferroelectric and Negative Capacitance Devices"
+      ],
+      "readTime": "2 min",
+      "citedBy": 18,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-08T02:19:01.088916+00:00"
     },
     {
       "id": "openalex-7a2e0cea295d",
@@ -2660,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.929777+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.797210+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2692,7 +2756,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:24.950808+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.085418+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2724,7 +2788,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:24.949252+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.083826+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -2756,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.615002+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.266045+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2788,7 +2852,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:24.951016+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.085646+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2820,7 +2884,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:24.948828+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.083435+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2852,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.616240+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.267368+00:00"
     },
     {
       "id": "openalex-54438cbb0a67",
@@ -2884,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.297373+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.734452+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2916,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.615283+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.266361+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2948,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.925339+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.792462+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2980,7 +3044,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:24.950056+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.084628+00:00"
     },
     {
       "id": "openalex-e2538de02ecf",
@@ -3012,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.619052+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.270271+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -3044,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.929122+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.796517+00:00"
     },
     {
       "id": "openalex-0026215bd6f7",
@@ -3076,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.617951+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.269111+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -3108,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.295307+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.732656+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -3140,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.295907+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.733243+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -3172,7 +3236,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:24.953391+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.087763+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -3204,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.928069+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.795387+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -3236,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.293233+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.730464+00:00"
     },
     {
       "id": "openalex-b085d32d7fe5",
@@ -3268,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.618711+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.269917+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -3300,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.926049+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.793205+00:00"
     },
     {
       "id": "openalex-b405599e1257",
@@ -3332,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.927406+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.794686+00:00"
     },
     {
       "id": "openalex-ecc34b946b2e",
@@ -3364,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.618295+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.269505+00:00"
     },
     {
       "id": "openalex-1c8cc4075423",
@@ -3396,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.928394+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.795734+00:00"
     },
     {
       "id": "openalex-a528e7ad7434",
@@ -3428,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.615590+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.266686+00:00"
     },
     {
       "id": "openalex-925ecf6ab58e",
@@ -3460,7 +3524,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.614307+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.265289+00:00"
     },
     {
       "id": "openalex-7a392a0ca13d",
@@ -3492,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.294159+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.731428+00:00"
     },
     {
       "id": "openalex-8b9a2b633761",
@@ -3524,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.294441+00:00"
+      "_retrievedAt": "2026-08-08T02:19:01.731724+00:00"
     },
     {
       "id": "openalex-ec9559e049f8",
@@ -3556,71 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.617681+00:00"
-    },
-    {
-      "id": "openalex-310ebb2dc2e7",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "A Survey on Retrieval-Augmented Text Generation for Large Language Models",
-      "authors": "Yizheng Huang, Jimmy Xiangji Huang",
-      "abstract": "Retrieval-Augmented Generation (RAG) merges information retrieval (IR) techniques with deep learning advancements to address the static limitations of large language models (LLMs) by enabling the dynamic integration of up-to-date external information. This methodology, focusing primarily on the text domain, provides a cost-effective solution to the generation of plausible but possibly incorrect responses by LLMs, thereby enhancing the accuracy and reliability of their outputs through the use of real-world data. As RAG grows in complexity and incorporates multiple concepts that can influence its performance, this article organizes the RAG paradigm into four categories: pre-retrieval, retrieval, post-retrieval, and generation, offering a detailed perspective from the retrieval viewpoint. It outlines RAG’s mechanics and discusses the field’s progression through the analysis of significan...",
-      "date": "2026-04-09",
-      "year": 2026,
-      "journal": "ACM Computing Surveys",
-      "source": "ACM Computing Surveys",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3805774",
-      "doi": "10.1145/3805774",
-      "pdfUrl": "https://doi.org/10.1145/3805774",
-      "keywords": [
-        "Computer science",
-        "Natural language processing",
-        "Language model",
-        "Information retrieval",
-        "Artificial intelligence",
-        "Topic Modeling",
-        "Natural Language Processing Techniques",
-        "generation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 34,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:24.952385+00:00"
-    },
-    {
-      "id": "openalex-3e1354c11e08",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Synthetic microbiomes in bioengineered rhizospheres: new frontiers for climate-resilient agriculture",
-      "authors": "Krishnendu Adhikary, Samy Selim, Riya Sarkar, Krishnendu Ganguly, Joy Das, Mohammed S. Almuhayawi",
-      "abstract": "Climate change poses significant threats to global agricultural productivity, necessitating innovative strategies to ensure food security and ecological sustainability. One promising avenue lies in the deliberate design and deployment of synthetic microbiomes and engineered rhizospheres to enhance plant resilience under environmental stress. This review places particular emphasis on multi-kingdom microbial interactions including bacteria, fungi, protists, and archaea and their potential for tailored, stress-specific applications within engineered rhizosphere systems. By integrating knowledge from microbial ecology, genomics, and systems biology, researchers have begun to unravel the complex interactions between plants and their associated microbial communities. Engineered microbial assemblies tailored to specific host plants and environmental conditions have shown potential in stabili...",
-      "date": "2026-04-09",
-      "year": 2026,
-      "journal": "Frontiers in Microbiology",
-      "source": "Frontiers in Microbiology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fmicb.2026.1780132",
-      "doi": "10.3389/fmicb.2026.1780132",
-      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1780132/pdf",
-      "keywords": [
-        "Rhizosphere",
-        "Microbiome",
-        "Metagenomics",
-        "Biology",
-        "Food security",
-        "Plant-Microbe Interactions and Immunity",
-        "Legume Nitrogen Fixing Symbiosis",
-        "Biocrusts and Microbial Ecology"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-07T19:12:25.296250+00:00"
+      "_retrievedAt": "2026-08-08T02:19:02.268811+00:00"
     }
   ]
 }
