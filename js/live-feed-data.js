@@ -1,11 +1,171 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-08-09T07:14:09.007739+00:00",
-  "total": 103,
+  "generatedAt": "2026-08-09T13:13:15.214208+00:00",
+  "total": 113,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-9da0a2fad284",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Dense breasts or breast cancer in the family? What screening changes mean for you",
+      "authors": "Medical Xpress",
+      "abstract": "The way women are screened for breast cancer in Australia is changing. According to a newly released review, this means moving away from screening based largely on someone's age. Instead, screening would be tailored according to individual risk.",
+      "date": "2026-08-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-dense-breasts-breast-cancer-family.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "screening",
+        "breast",
+        "cancer",
+        "according",
+        "dense",
+        "breasts",
+        "family",
+        "what"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T13:13:14.408024+00:00"
+    },
+    {
+      "id": "rss-9c21a791a163",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Protein 'switch' determines whether liposarcoma cells will become aggressive",
+      "authors": "Medical Xpress",
+      "abstract": "New research from an expert in cancer biology explains what triggers liposarcoma cells to become more or less aggressive and identifies potential targets that could keep aggressive tumors in check. A study led by Blake Wilde, Ph.D., of Roswell Park Comprehensive Cancer Center highlights how this discovery may pave the way for new treatment options for this cancer.",
+      "date": "2026-08-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-protein-liposarcoma-cells-aggressive.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "aggressive",
+        "cancer",
+        "liposarcoma",
+        "cells",
+        "become",
+        "this",
+        "protein",
+        "switch"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T13:13:14.408310+00:00"
+    },
+    {
+      "id": "rss-d36a93fa7d83",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Early Alzheimer's patients pursuing lecanemab show low adherence to brain health advice",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at the Mass General Brigham Neuroscience Institute found that most patients with early Alzheimer's disease are not optimally adhering to recommendations for improving their brain health, including exercising, getting adequate sleep, preventing hypertension and eating a heart-healthy diet. The results, published in The Journal of Prevention of Alzheimer's Disease, show that fewer than 3% of the studied patients followed all 15 brain health recommendations the researchers examined. Both patients with early Alzheimer's disease who pursued treatment with lecanemab, an anti-amyloid antibody medication for Alzheimer's disease, and patients who did not pursue anti-amyloid therapy had poor adherence to brain health recommendations, with no significant difference between the groups.",
+      "date": "2026-08-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-early-alzheimer-patients-pursuing-lecanemab.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "alzheimer",
+        "patients",
+        "brain",
+        "health",
+        "disease",
+        "early",
+        "recommendations",
+        "lecanemab"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T13:13:14.408630+00:00"
+    },
+    {
+      "id": "rss-038e87d5d33a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New targeting method separates opioid pain relief from reward learning in mice",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at Duke University School of Medicine are investigating how to keep opioids' pain-relieving benefits while reducing their addictive potential. In a study published in Nature, they report a step toward that goal.",
+      "date": "2026-08-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-method-opioid-pain-relief-reward.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "targeting",
+        "method",
+        "separates",
+        "opioid",
+        "pain",
+        "relief",
+        "reward",
+        "learning"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T13:13:14.408870+00:00"
+    },
+    {
+      "id": "rss-a8151cc279eb",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "What is emotional regulation? A child psychologist explains",
+      "authors": "Medical Xpress",
+      "abstract": "If you've followed mental health topics on TikTok or Instagram lately, you have probably heard the term emotional regulation. But emotional regulation isn't just a trendy buzzword. It's a nuanced concept that psychologists like me have been studying for decades.",
+      "date": "2026-08-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-emotional-child-psychologist.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "emotional",
+        "regulation",
+        "have",
+        "what",
+        "child",
+        "psychologist",
+        "explains",
+        "followed"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T13:13:14.409087+00:00"
+    },
     {
       "id": "rss-662a6cbc4d79",
       "discipline": "clinical",
@@ -36,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.815572+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.409304+00:00"
     },
     {
       "id": "rss-d7540da04fd8",
@@ -68,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.815912+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.409548+00:00"
     },
     {
       "id": "rss-a9186edd8624",
@@ -100,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.816152+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.409761+00:00"
     },
     {
       "id": "rss-b8a84aa97df1",
@@ -132,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.816443+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.410022+00:00"
     },
     {
       "id": "rss-fa843b2d3c7a",
@@ -164,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.816737+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.410233+00:00"
     },
     {
       "id": "rss-f08154267d3e",
@@ -196,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.816992+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.410442+00:00"
     },
     {
       "id": "rss-2ea64f95d0f2",
@@ -228,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.817277+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.410690+00:00"
     },
     {
       "id": "rss-7cb076b200c7",
@@ -260,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.817537+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.410929+00:00"
     },
     {
       "id": "rss-30e6b41697db",
@@ -292,167 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.817811+00:00"
-    },
-    {
-      "id": "rss-9d4ce274d170",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Malaria vaccine add-ons activate three antibody targets, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "Malaria kills more than half a million people a year, most of them young children in Africa. Two vaccines are now recommended by the World Health Organization: RTS,S and R21. Both are helpful interventions, but neither works as well or as long as public health officials would like.",
-      "date": "2026-08-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-malaria-vaccine-ons-antibody.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "malaria",
-        "health",
-        "vaccine",
-        "add-ons",
-        "activate",
-        "three",
-        "antibody",
-        "targets"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.818062+00:00"
-    },
-    {
-      "id": "rss-cf1b35898a2a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Everyday packaging plastic may compound fatty liver risk from burgers and sodas",
-      "authors": "Medical Xpress",
-      "abstract": "Microplastics have become nearly impossible to avoid. They have been detected in oceans, drinking water and even the human body, but scientists are still uncovering how they affect human health. Now, researchers at the Texas A&M College of Veterinary Medicine and Biomedical Sciences (VMBS) have uncovered evidence that one of the world's most common plastics may do more than pollute the environment. Their findings suggest that polyethylene may contribute to fatty liver disease and worsen the condition when combined with an unhealthy diet.",
-      "date": "2026-08-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-everyday-packaging-plastic-compound-fatty.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "have",
-        "fatty",
-        "liver",
-        "they",
-        "human",
-        "that",
-        "everyday",
-        "packaging"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.818371+00:00"
-    },
-    {
-      "id": "rss-f37f6b8ca231",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Psychedelics amplify brain connectivity through serotonin receptors, study suggests",
-      "authors": "Medical Xpress",
-      "abstract": "Psychedelics like psilocybin (from magic mushrooms), LSD, DMT and mescaline profoundly alter how we perceive, feel and think. After decades of neglect, they are again the subject of serious scientific inquiry, largely because of their promise for treating depression, anxiety, addiction and other conditions. But this therapeutic promise has run ahead of a more basic understanding: While a great deal of attention has gone to whether psychedelics help treat mental disorders, far less has gone to what they actually do in a general sense—the fundamental way they change perception, thought and consciousness. Only by understanding these basic mechanisms can we ever make sense of the therapeutic effects.",
-      "date": "2026-08-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-psychedelics-amplify-brain-serotonin-receptors.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "psychedelics",
-        "they",
-        "promise",
-        "therapeutic",
-        "basic",
-        "understanding",
-        "gone",
-        "sense"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.818761+00:00"
-    },
-    {
-      "id": "rss-e6387486bea1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Deep learning refines how bionic eyes communicate with the brain",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers from three institutions, including UC Santa Barbara, have demonstrated that artificial intelligence has the potential to make future visual prostheses, like a bionic eye, more precise, predictable and responsive to an individual user.",
-      "date": "2026-08-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-deep-refines-bionic-eyes-communicate.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "bionic",
-        "deep",
-        "learning",
-        "refines",
-        "eyes",
-        "communicate",
-        "brain",
-        "researchers"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.819000+00:00"
-    },
-    {
-      "id": "rss-d10518e46341",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Protective drug dexrazoxane reduces heart damage in pediatric cancer survivors years after treatment ends",
-      "authors": "Medical Xpress",
-      "abstract": "A new study reveals that the cardioprotective drug dexrazoxane significantly reduces heart damage caused by chemotherapy in pediatric cancer patients 15 years or more after treatment ends.",
-      "date": "2026-08-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-drug-dexrazoxane-heart-pediatric-cancer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "drug",
-        "dexrazoxane",
-        "reduces",
-        "heart",
-        "damage",
-        "pediatric",
-        "cancer",
-        "years"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.819229+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.411135+00:00"
     },
     {
       "id": "rss-75ef36063bcf",
@@ -484,7 +484,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.868751+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.529618+00:00"
     },
     {
       "id": "rss-d0d0c88d1fe7",
@@ -516,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.868982+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.529829+00:00"
     },
     {
       "id": "rss-ef596fa80f1f",
@@ -548,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.869201+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.529991+00:00"
     },
     {
       "id": "rss-98471e9149b1",
@@ -580,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.869406+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.530136+00:00"
     },
     {
       "id": "rss-5a73d9bd9529",
@@ -612,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.869640+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.530280+00:00"
     },
     {
       "id": "rss-9c0bdcecce12",
@@ -644,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.869831+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.530405+00:00"
     },
     {
       "id": "rss-e84825b76f6c",
@@ -676,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.870142+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.530691+00:00"
     },
     {
       "id": "rss-814da1428ca3",
@@ -708,7 +708,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.870296+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.530841+00:00"
+    },
+    {
+      "id": "rss-a67dae29b725",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Environmental education in action at Fla.'s Guana Tolomato Matanzas Reserve",
+      "authors": "NOAA News",
+      "abstract": "Environmental education in action at Fla.'s Guana Tolomato Matanzas Reserve A view of Moses Creek conservation area in Florida's Guana Tolomato Matanzas Reserve. (Image credit: NOAA) Download Image August 7, 2026 Ocean & Coasts 0 Off",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/environmental-education-in-action-at-guana-tolomato-matanzas-reserve-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "guana",
+        "tolomato",
+        "matanzas",
+        "reserve",
+        "environmental",
+        "education",
+        "action",
+        "image"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T13:13:14.903817+00:00"
+    },
+    {
+      "id": "rss-dd9abed37891",
+      "discipline": "geo",
+      "type": "news",
+      "title": "The USS Monitor, Part 1: History and Legacy",
+      "authors": "NOAA News",
+      "abstract": "The USS Monitor, Part 1: History and Legacy July 26, 2026 The USS Monitor, Part 1: History and Legacy Sanctuaries heritage history shipwreck sanctuaries Heritage stories 0 0 Off 0",
+      "date": "2026-08-07",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/multimedia/podcast/uss-monitor-part-1-history-and-legacy-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "history",
+        "monitor",
+        "part",
+        "legacy",
+        "sanctuaries",
+        "heritage",
+        "july",
+        "shipwreck"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T13:13:14.904006+00:00"
     },
     {
       "id": "rss-624e10f67db4",
@@ -740,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.870468+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.530986+00:00"
     },
     {
       "id": "rss-7a35d3306a74",
@@ -772,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.870644+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.531112+00:00"
     },
     {
       "id": "rss-b8b38bd59c3b",
@@ -804,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.870826+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.531251+00:00"
     },
     {
       "id": "rss-4b5734de97c2",
@@ -836,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.871004+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.531394+00:00"
     },
     {
       "id": "rss-53d0109428de",
@@ -868,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.871227+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.531587+00:00"
     },
     {
       "id": "rss-8fdcdbbb0341",
@@ -900,7 +964,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.871379+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.531713+00:00"
+    },
+    {
+      "id": "rss-6962610856a0",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Pacific Hurricanes Fausto and Genevieve actually had origins near Africa",
+      "authors": "NOAA News",
+      "abstract": "Pacific Hurricanes Fausto and Genevieve actually had origins near Africa NOAA satellites track hurricanes from their earliest beginnings NOAA's GOES West satellite captured this image of three tropical cyclones — Hurricanes Fausto and Genevieve and Typhoon Dolphin — swirling simultaneously in the Pacific Ocean. The image was taken on Tuesday, July 27, at 3:30 PM PDT/ 22:30 UTC. None of the three tropical cyclones made landfall in the United States. Fausto contributed to high surf conditions in Hawaii, and Genevieve also brought high surf to southern California. Typhoon Dolphin continued its track west toward Asia. (Image credit: NOAA Satellites) Download Image August 6, 2026 It may be surprising, but two of the hurricanes that swirled in the Pacific last week began their journeys thousands of miles away off the western coast of Africa. Both Hurricanes Fausto and Genevieve developed fr...",
+      "date": "2026-08-06",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/pacific-hurricanes-fausto-and-genevieve-actually-had-origins-near-africa",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "hurricanes",
+        "fausto",
+        "genevieve",
+        "pacific",
+        "image",
+        "africa",
+        "noaa",
+        "actually"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T13:13:14.904580+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -932,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:51.362767+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.355559+00:00"
     },
     {
       "id": "rss-ead5f2bab0c6",
@@ -964,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.933929+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.674138+00:00"
     },
     {
       "id": "rss-a22dcd5db9ed",
@@ -996,7 +1092,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.934102+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.674299+00:00"
+    },
+    {
+      "id": "rss-933ba0ff85bb",
+      "discipline": "geo",
+      "type": "news",
+      "title": "New turbulence detection tool aims to make commercial flights smoother",
+      "authors": "NOAA News",
+      "abstract": "New turbulence detection tool aims to make commercial flights smoother An American Eagle Embraer E175LR plane approaches Ronald Reagan National Airport (DCA) on May 16, 2026, in Washington, DC. (Image credit: Al Drago/Getty Images) August 4, 2026 Weather aviation weather forecasting 0 Off",
+      "date": "2026-08-04",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news/new-turbulence-detection-tool-aims-to-make-commercial-flights-smoother-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "turbulence",
+        "detection",
+        "tool",
+        "aims",
+        "make",
+        "commercial",
+        "flights",
+        "smoother"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T13:13:14.904800+00:00"
+    },
+    {
+      "id": "rss-80e5754b3acd",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA Announces 2026 Small Business of the Year Award Recipient",
+      "authors": "NOAA News",
+      "abstract": "NOAA Announces 2026 Small Business of the Year Award Recipient August 4, 2026 NOAA has named Industrial Economics, Inc. (IEc) as its Small Business of the Year, honoring the firm for exceptional performance, technical innovation, and outstanding environmental stewardship in executing a complex marine restoration project. Faced with challenging environmental conditions and significant logistical delays, IEc leveraged cutting-edge technical and process innovations to safely repair damaged reef infrastructure and accelerate long-term ecosystem recovery. The team’s operational agility and seamless execution allowed them to maintain a flawless safety record while substantially exceeding target goals for restored habitat area. NOAA commends Industrial Economics, Inc. for its unwavering commitment to excellence, field safety, and dedication to protecting vital marine habitats. Acquisition &...",
+      "date": "2026-08-04",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/acquisition-grants/small-business/news/noaa-announces-2026-small-business-of-year-award-recipient",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noaa",
+        "small",
+        "business",
+        "year",
+        "announces",
+        "award",
+        "recipient",
+        "industrial"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T13:13:14.905145+00:00"
     },
     {
       "id": "rss-bfc25c3f4f29",
@@ -1028,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.934257+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.674434+00:00"
     },
     {
       "id": "openalex-5abd16320b31",
@@ -1060,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:51.363696+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.356419+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -1092,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:51.360662+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.353613+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -1124,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.679133+00:00"
+      "_retrievedAt": "2026-08-09T13:13:09.446091+00:00"
     },
     {
       "id": "rss-f7328a645416",
@@ -1156,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.934423+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.674566+00:00"
     },
     {
       "id": "rss-22e3c70241d7",
@@ -1188,7 +1348,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.934621+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.674724+00:00"
+    },
+    {
+      "id": "rss-164ec90a306e",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA maintains prediction for below-normal Atlantic hurricane season",
+      "authors": "NOAA News",
+      "abstract": "NOAA maintains prediction for below-normal Atlantic hurricane season Preparedness remains key throughout the season August 6, 2026 This image of Tropical Storm Bertha was captured by NOAA's GOES East (GOES-19 satellite) on July 22, 2026 at 1:15 p.m. ET. (Image credit: Tropical Storm Bertha captured by NOAA Satellites) Download Image With the climatological peak of hurricane season approaching in early September, NOAA’s prediction for below-normal activity in the Atlantic basin remains. Forecasters from NOAA’s National Weather Service updated today the number of expected named storms to 7-13 (with winds of 39 mph or greater), of which 2-6 could become hurricanes (winds of 74 mph or greater), including 0-2 major hurricanes (winds of 111 mph or greater). These ranges cover the entire season from June 1 through November 30 and are inclusive of the two tropical storms that have already for...",
+      "date": "2026-07-30",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noaa",
+        "season",
+        "prediction",
+        "below-normal",
+        "atlantic",
+        "hurricane",
+        "image",
+        "tropical"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T13:13:14.905766+00:00"
+    },
+    {
+      "id": "rss-82cbbc4a1e19",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA and partners find smaller-than-anticipated hypoxic zone in Gulf of America",
+      "authors": "NOAA News",
+      "abstract": "NOAA and partners find smaller-than-anticipated hypoxic zone in Gulf of America Tropical Storm Bertha mixed water column, reducing size August 5, 2026 Measuring a 'dead zone': Scientists retrieve the CTD (conductivity, temperature, depth) package of ocean sensors after profiling dissolved oxygen at a station during the Shelfwide Hypoxia Cruise in the Gulf of America. (Image credit: Courtesy of Cassandra Glaspie/LSU) Download Image NOAA-supported scientists announced today that this year’s Gulf of America hypoxic zone is approximately 1,332 square miles, making it the 2nd smallest zone on record in 40 years of measurement. Hypoxic areas, also called “dead zones,” are areas with little to no oxygen in the water, which can negatively impact fish, shellfish, corals and aquatic plants by making critical habitat unavailable to bottom species. The annual hypoxic zone survey was led by scient...",
+      "date": "2026-07-30",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/noaa-and-partners-find-smaller-than-anticipated-hypoxic-zone-in-gulf-of-america",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "zone",
+        "hypoxic",
+        "gulf",
+        "america",
+        "noaa",
+        "partners",
+        "find",
+        "smaller-than-anticipated"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T13:13:14.906394+00:00"
     },
     {
       "id": "openalex-82bfb13f8d46",
@@ -1220,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.681389+00:00"
+      "_retrievedAt": "2026-08-09T13:13:09.448284+00:00"
     },
     {
       "id": "rss-61c6d7b63768",
@@ -1252,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.934819+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.674912+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -1284,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.679498+00:00"
+      "_retrievedAt": "2026-08-09T13:13:09.446449+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -1316,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:50.471103+00:00"
+      "_retrievedAt": "2026-08-09T13:13:07.630177+00:00"
     },
     {
       "id": "rss-d746300c673c",
@@ -1348,7 +1572,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.934981+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.675049+00:00"
+    },
+    {
+      "id": "rss-e3531be54cc3",
+      "discipline": "geo",
+      "type": "news",
+      "title": "HEART Force: Students help solve community problems",
+      "authors": "NOAA News",
+      "abstract": "HEART Force: Students help solve community problems Big CIRES logo with smaller CU Boulder and NOAA logos on the right. (Image credit: CIRES at CU Boulder) Download Image July 24, 2026 A unique Colorado program gives students a seat at the table — and helps communities become safer, stronger, and more connected. Office of Education 0 Off",
+      "date": "2026-07-24",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/office-education/news/heart-force-students-help-solve-community-problems-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "students",
+        "heart",
+        "force",
+        "help",
+        "solve",
+        "community",
+        "problems",
+        "cires"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T13:13:14.906626+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -1380,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.935147+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.675188+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1412,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:51.361707+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.354591+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -1444,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:51.363064+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.355847+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -1476,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:50.473146+00:00"
+      "_retrievedAt": "2026-08-09T13:13:07.632089+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -1508,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.935312+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.675325+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -1540,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:50.469706+00:00"
+      "_retrievedAt": "2026-08-09T13:13:07.628892+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1572,7 +1828,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.935456+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.675444+00:00"
+    },
+    {
+      "id": "rss-289aae00ca76",
+      "discipline": "geo",
+      "type": "news",
+      "title": "West Coast Gray Whale Population Increases",
+      "authors": "NOAA News",
+      "abstract": "West Coast Gray Whale Population Increases Gray whales were nearly hunted to extinction by commercial whaling. Protections under the MMPA, ESA, and the end of commercial whaling have allowed the species to recover. (Image credit: NOAA Fisheries (Permit #19091).) Download Image July 17, 2026 0 Off",
+      "date": "2026-07-17",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/west-coast-gray-whale-estimate-shows-increase-new-count-determines-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "gray",
+        "west",
+        "coast",
+        "whale",
+        "population",
+        "increases",
+        "commercial",
+        "whaling"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T13:13:14.906851+00:00"
+    },
+    {
+      "id": "rss-67e6e4628573",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Humpback whale freed in Alaska",
+      "authors": "NOAA News",
+      "abstract": "Humpback whale freed in Alaska The NOAA Fisheries response team uses poles with specialized knives to cut entangling lines. (Image credit: Alaska Department of Fish and Game/Jamie Musbach (NOAA Fisheries Permit # 24359)) Download Image July 17, 2026 Fisheries whales 0 Off",
+      "date": "2026-07-17",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/humpback-whale-disentangled-in-alaska-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "alaska",
+        "fisheries",
+        "humpback",
+        "whale",
+        "freed",
+        "noaa",
+        "image",
+        "response"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T13:13:14.907041+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1604,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.935640+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.675572+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -1636,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.062037+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.860142+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1668,7 +1988,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.935820+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.675703+00:00"
+    },
+    {
+      "id": "openalex-11754f2742e9",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Granular component sub-phases direct ribosome biogenesis in the nucleolus",
+      "authors": "Priyanka Dogra, Mylene C. Ferrolino, Suparna Khatun, Qi Miao, Michele Tolbert, Aaron Pitre",
+      "abstract": "The hierarchical, multiphase organization of the nucleolus underlies ribosome biogenesis. Ribonucleoprotein particles that regulate ribosomal subunit assembly are heterogeneously distributed in the nucleolar granular component (GC). However, the molecular origins of the GC's spatial heterogeneity and their link to ribosome subunit assembly remain poorly understood. Here, using super-resolution microscopy in DLD-1 cells, we uncover that key GC biomolecules-NPM1, SURF6, and ribosomal RNA (rRNA)-are heterogeneously localized within GC sub-phases. In vitro reconstitution with E. coli- and human-derived rRNA revealed that these GC biomolecules form multiphase condensates with a SURF6/rRNA-rich core and NPM1-rich shell, providing a mechanistic basis for this heterogeneity. SURF6's association with rRNA weakens upon ribosome subunit assembly, enabling NPM1 to extract assembled subunits from...",
+      "date": "2026-07-15",
+      "year": 2026,
+      "journal": "Molecular Cell",
+      "source": "Molecular Cell",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.molcel.2026.06.035",
+      "doi": "10.1016/j.molcel.2026.06.035",
+      "pdfUrl": "https://doi.org/10.1016/j.molcel.2026.06.035",
+      "keywords": [
+        "Ribosome biogenesis",
+        "Nucleolus",
+        "Component (thermodynamics)",
+        "Biogenesis",
+        "Ribosome",
+        "RNA modifications and cancer",
+        "RNA Research and Splicing",
+        "RNA and protein synthesis mechanisms"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T13:13:08.356686+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -1700,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.683029+00:00"
+      "_retrievedAt": "2026-08-09T13:13:09.449787+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -1732,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.935979+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.675847+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -1764,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:56.936158+00:00"
+      "_retrievedAt": "2026-08-09T13:13:14.675999+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -1796,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:51.362399+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.355247+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -1828,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.681787+00:00"
+      "_retrievedAt": "2026-08-09T13:13:09.448632+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -1860,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:51.362060+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.354931+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -1892,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.062630+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.860675+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -1924,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:50.472199+00:00"
+      "_retrievedAt": "2026-08-09T13:13:07.631189+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -1956,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:51.364676+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.357600+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -1988,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:50.471425+00:00"
+      "_retrievedAt": "2026-08-09T13:13:07.630486+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2020,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:50.471887+00:00"
+      "_retrievedAt": "2026-08-09T13:13:07.630898+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2052,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.062250+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.860338+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -2084,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:51.364903+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.357813+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2116,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:50.470731+00:00"
+      "_retrievedAt": "2026-08-09T13:13:07.629830+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2148,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.064642+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.862548+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2180,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.684160+00:00"
+      "_retrievedAt": "2026-08-09T13:13:09.450827+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2212,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.684912+00:00"
+      "_retrievedAt": "2026-08-09T13:13:09.451508+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2244,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.682444+00:00"
+      "_retrievedAt": "2026-08-09T13:13:09.449259+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2276,39 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:50.468890+00:00"
-    },
-    {
-      "id": "openalex-1694495e202e",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "BINSEQ: A family of high-performance binary formats for nucleotide sequences",
-      "authors": "Noam Teyssier, Alexander Dobin",
-      "abstract": "A bstract Modern genomics produces billions of sequencing records per run, which are typically stored as gzip-compressed FASTQ files. While this format is widely used, it is not optimal for high-throughput processing due to its reliance on single-threaded decompression and sequential parsing of irregularly sized records. This limitation is particularly problematic for applications that would benefit from parallel processing, such as read mapping, variant calling, and de novo assembly. Here, we present BINSEQ, a family of simple binary formats that enable high-throughput parallel processing of sequencing data. The BINSEQ family consists of two complementary implementations: BQ, optimized for fixed-length reads using a two-bit or four-bit encoding scheme with true random record access capability, and VBQ, designed for variable-length sequences with optional quality scores and block-base...",
-      "date": "2026-05-28",
-      "year": 2026,
-      "journal": "PLoS Computational Biology",
-      "source": "PLoS Computational Biology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1371/journal.pcbi.1014181",
-      "doi": "10.1371/journal.pcbi.1014181",
-      "pdfUrl": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1014181&type=printable",
-      "keywords": [
-        "Binary number",
-        "Nucleotide",
-        "Computer science",
-        "Computational biology",
-        "Genetics",
-        "Plant Genetic and Mutation Studies",
-        "Coding theory and cryptography",
-        "binseq"
-      ],
-      "readTime": "2 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:51.365373+00:00"
+      "_retrievedAt": "2026-08-09T13:13:07.628065+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2340,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.680675+00:00"
+      "_retrievedAt": "2026-08-09T13:13:09.447595+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2372,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:50.472819+00:00"
+      "_retrievedAt": "2026-08-09T13:13:07.631730+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2404,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:50.473650+00:00"
+      "_retrievedAt": "2026-08-09T13:13:07.632564+00:00"
     },
     {
       "id": "openalex-8611d8370ef3",
@@ -2436,7 +2756,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:51.364019+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.357010+00:00"
+    },
+    {
+      "id": "openalex-0fed25de6e90",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Lactate metabolism and lactylation in cancer: from pathogenesis to therapeutic advances",
+      "authors": "Chunyao Fang, Suiqing Zhou, Kai Yu, Liren Zhang, Wenxin Lian, Xiaofeng Tie",
+      "abstract": "Lactate and its mediated modification, lactylation, are receiving increasing attention in the field of tumor biology. This review provides a comprehensive overview of the mechanistic involvement of lactate and lactylation in key oncogenic processes, such as tumor initiation, proliferation, invasion, metastasis, recurrence, and drug resistance. Rather than being a passive byproduct of glycolysis, lactate actively shapes the tumor microenvironment (TME), modulates immune responses, drives metabolic adaptation, and influences epigenetic and transcriptomic regulation. Lactylation, as a novel epigenetic mechanism, links cellular metabolism with gene expression by modifying histone and nonhistone proteins, thereby regulating chromatin accessibility, immune evasion, and DNA repair. Notably, this article proposes a new perspective: lactate accumulation in certain tumors may constitute an adap...",
+      "date": "2026-05-21",
+      "year": 2026,
+      "journal": "Signal Transduction and Targeted Therapy",
+      "source": "Signal Transduction and Targeted Therapy",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41392-026-02672-x",
+      "doi": "10.1038/s41392-026-02672-x",
+      "pdfUrl": "https://www.nature.com/articles/s41392-026-02672-x.pdf",
+      "keywords": [
+        "Pathogenesis",
+        "Medicine",
+        "Pharmacology",
+        "Metabolism",
+        "Bioinformatics",
+        "Cancer, Hypoxia, and Metabolism",
+        "Metabolism, Diabetes, and Cancer",
+        "Amino Acid Enzymes and Metabolism"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T13:13:08.863871+00:00"
     },
     {
       "id": "openalex-fcbf1470edaa",
@@ -2468,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.682054+00:00"
+      "_retrievedAt": "2026-08-09T13:13:09.448890+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2500,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:50.470066+00:00"
+      "_retrievedAt": "2026-08-09T13:13:07.629242+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2532,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:50.468534+00:00"
+      "_retrievedAt": "2026-08-09T13:13:07.627690+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -2564,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.063355+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.861384+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2596,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:50.470284+00:00"
+      "_retrievedAt": "2026-08-09T13:13:07.629448+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2628,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:50.468149+00:00"
+      "_retrievedAt": "2026-08-09T13:13:07.627292+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2660,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.065336+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.863211+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2692,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.063677+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.861663+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2724,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.680249+00:00"
+      "_retrievedAt": "2026-08-09T13:13:09.447206+00:00"
     },
     {
       "id": "openalex-b393cd9c8f8c",
@@ -2756,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:51.361081+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.354025+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -2788,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:50.469312+00:00"
+      "_retrievedAt": "2026-08-09T13:13:07.628502+00:00"
     },
     {
       "id": "openalex-e2538de02ecf",
@@ -2820,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.065000+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.862893+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -2852,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.684524+00:00"
+      "_retrievedAt": "2026-08-09T13:13:09.451170+00:00"
     },
     {
       "id": "openalex-0026215bd6f7",
@@ -2884,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.063966+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.861940+00:00"
     },
     {
       "id": "openalex-0014575d52b0",
@@ -2916,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.065697+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.863519+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -2948,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:51.363356+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.356124+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -2980,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:51.364292+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.357264+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -3012,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:50.472458+00:00"
+      "_retrievedAt": "2026-08-09T13:13:07.631434+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -3044,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.683408+00:00"
+      "_retrievedAt": "2026-08-09T13:13:09.450147+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -3076,39 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:51.361408+00:00"
-    },
-    {
-      "id": "openalex-b085d32d7fe5",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Ciltacabtagene autoleucel in high-risk smoldering multiple myeloma: the CAR-PRISM phase 2 trial",
-      "authors": "Omar Nadeem, David M. Cordas dos Santos, Sarah Nikiforow, Anna Bosch, Elizabeth O’Donnell, Robert Redd",
-      "abstract": "High-risk smoldering multiple myeloma (HR-SMM) carries an increased risk of progression to multiple myeloma, making it an ideal setting to test whether chimeric antigen receptor (CAR) T cell therapy can achieve curative outcomes. Here in this phase 2 study, patients with HR-SMM received ciltacabtagene autoleucel (cilta-cel) at 0.3–0.5 × 106 or >0.5 × 106 viable CAR+ T cells per kilogram without induction or bridging therapy. Patients with >40% marrow involvement were excluded. Primary endpoints were dose-limiting toxicities (DLTs) and treatment-emergent adverse events; secondary endpoints included response and minimal residual disease (MRD) negativity. As of 11 February 2026, 20 patients had been treated. The trial met the prespecified endpoints. No DLTs occurred. Adverse events included transient cytopenias (90% grade 3/4) and cytokine release syndrome (100% grade 1/2). Non-immune ef...",
-      "date": "2026-04-20",
-      "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04365-y",
-      "doi": "10.1038/s41591-026-04365-y",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04365-y.pdf",
-      "keywords": [
-        "Phase (matter)",
-        "Materials science",
-        "Medicine",
-        "Chemistry",
-        "Phases of clinical research",
-        "CAR-T cell therapy research",
-        "Multiple Myeloma Research and Treatments",
-        "Protein Degradation and Inhibitors"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.066467+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.354335+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -3140,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.681004+00:00"
+      "_retrievedAt": "2026-08-09T13:13:09.447918+00:00"
     },
     {
       "id": "openalex-b405599e1257",
@@ -3172,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.682738+00:00"
+      "_retrievedAt": "2026-08-09T13:13:09.449504+00:00"
     },
     {
       "id": "openalex-ecc34b946b2e",
@@ -3204,39 +3524,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.066066+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.864656+00:00"
     },
     {
-      "id": "openalex-b31b1eeff6ea",
+      "id": "openalex-aa583909b472",
       "discipline": "clinical",
       "type": "paper",
-      "title": "Evaluation of Regorafenib in Newly Diagnosed and Recurrent Glioblastoma: GBM AGILE Phase II/III Bayesian Randomized Platform Trial",
-      "authors": "Patrick Y. Wen, Donald A. Berry, Meredith Buxton, Howard Colman, John de Groot, Michael Lim",
-      "abstract": "PURPOSE: GBM AGILE (ClinicalTrials.gov identifier: NCT03970447) is a phase II/III Bayesian adaptive platform registration trial testing multiple arms against a common control; the primary end point is overall survival (OS). Regorafenib, a multikinase inhibitor, showed OS benefit in recurrent (RD) glioblastoma in the phase II REGOMA trial and entered GBM AGILE as the first investigational arm. METHODS: Patient subtypes included in the regorafenib arm of GBM AGILE were newly diagnosed unmethylated (NDU) and RD glioblastoma. Prospective defined sets of subtypes, or arm signatures, were NDU, RD, and all (NDU + RD). As the first investigational arm in GBM AGILE, regorafenib was equally randomized to the control arm. Treatment in the control arm is temozolomide + radiotherapy (in newly diagnosed) or lomustine (in RD). Efficacy was assessed by OS hazard ratio (HR), arm/control, and demonstra...",
+      "title": "European Reference Networks – a flagship activity of the EU in the field of rare and complex diseases: from 2017 to 2025",
+      "authors": "Holm Graeßner, Sophie Ripp, Alberto M. Pereira, F Schaefer, Irene Mathijssen, Jean‐Yves Blay",
+      "abstract": "BACKGROUND: Although individual rare and complex diseases (RDs) affect small patient populations, together they impact an estimated 27–36 million people across the European Union. Addressing this major public health challenge has been a long-term priority for the European Union, leading to the establishment of the European Reference Networks (ERNs) in 2017. MAIN BODY: ERNs are cross-border networks connecting clinical expert centres to share knowledge, improve and harmonise diagnosis and care for patients with rare and complex diseases. Since their inception, 24 ERNs have united 1,606 expert centres across 375 hospitals in all EU Member States and Norway. Their activities span multidisciplinary clinical collaboration, patient-centred governance, education and training, and the development of clinical guidelines. Over 4900 extremely rare or difficult cases have been discussed among exp...",
       "date": "2026-04-14",
       "year": 2026,
-      "journal": "Journal of Clinical Oncology",
-      "source": "Journal of Clinical Oncology",
+      "journal": "Orphanet Journal of Rare Diseases",
+      "source": "Orphanet Journal of Rare Diseases",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1200/jco-25-01137",
-      "doi": "10.1200/jco-25-01137",
-      "pdfUrl": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO-25-01137",
+      "url": "https://doi.org/10.1186/s13023-026-04341-2",
+      "doi": "10.1186/s13023-026-04341-2",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s13023-026-04341-2.pdf",
       "keywords": [
-        "Regorafenib",
-        "Medicine",
-        "Temozolomide",
-        "Clinical endpoint",
-        "Oncology",
-        "Glioma Diagnosis and Treatment",
-        "Statistical Methods in Clinical Trials",
-        "Melanoma and MAPK Pathways"
+        "Multidisciplinary approach",
+        "Business",
+        "European commission",
+        "Member states",
+        "Resilience (materials science)",
+        "Genomics and Rare Diseases",
+        "Health Systems, Economic Evaluations, Quality of Life",
+        "Dermatological and Skeletal Disorders"
       ],
       "readTime": "1 min",
-      "citedBy": 4,
+      "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.066899+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.864328+00:00"
     },
     {
       "id": "openalex-1c8cc4075423",
@@ -3268,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.683774+00:00"
+      "_retrievedAt": "2026-08-09T13:13:09.450455+00:00"
     },
     {
       "id": "openalex-a528e7ad7434",
@@ -3300,7 +3620,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T07:13:52.064293+00:00"
+      "_retrievedAt": "2026-08-09T13:13:08.862245+00:00"
     }
   ]
 };
