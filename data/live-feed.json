@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T18:56:21.324507+00:00",
+  "generatedAt": "2026-08-09T02:26:24.663607+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -7,13 +7,45 @@
   ],
   "papers": [
     {
+      "id": "rss-662a6cbc4d79",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Telomere-to-telomere brown rat genome could sharpen disease research models",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers have created the most complete genetic profile of the brown rat to date, according to a UTHealth Houston-led team, paving the way for scientists to more accurately investigate genetic links to conditions like heart disease, kidney disease, high blood pressure and stroke.",
+      "date": "2026-08-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-telomere-brown-rat-genome-sharpen.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "disease",
+        "brown",
+        "genetic",
+        "telomere-to-telomere",
+        "genome",
+        "could",
+        "sharpen",
+        "researchers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T02:26:23.835209+00:00"
+    },
+    {
       "id": "rss-d7540da04fd8",
       "discipline": "clinical",
       "type": "news",
       "title": "Expert comment: How do wildfires affect health and what can be done about it?",
       "authors": "Medical Xpress",
       "abstract": "For people living in the northern hemisphere, this summer has been beset by deadly wildfires across parts of Europe, the U.S. and Canada. In the U.K., more than 21,000 hectares (52,000 acres) had already burned by late July 2026 across 66 fires larger than 30 hectares (74 acres), while England and Wales recorded their driest July in nearly two centuries and many areas moved into official drought.",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +68,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.533718+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.835538+00:00"
     },
     {
       "id": "rss-a9186edd8624",
@@ -45,7 +77,7 @@
       "title": "AI could help Medicaid enrollees meet 80-hour work rules",
       "authors": "Medical Xpress",
       "abstract": "Complex health care policies are often challenging to implement. That's a reality states across the country will deal with as new Medicaid work requirements are rolled out next year.",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +100,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.533994+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.835774+00:00"
     },
     {
       "id": "rss-b8a84aa97df1",
@@ -77,7 +109,7 @@
       "title": "Study points to new target for treating aggressive brain cancer",
       "authors": "Medical Xpress",
       "abstract": "Glioblastoma remains one of the deadliest cancers, with limited treatment advances and tumors that often resist radiation and chemotherapy. New research from The Ohio State University Comprehensive Cancer Center–Arthur G. James Cancer Hospital and Richard J. Solove Research Institute points to SET as a potential target for making glioblastoma cells more vulnerable to treatment.",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +132,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.534291+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.836060+00:00"
     },
     {
       "id": "rss-fa843b2d3c7a",
@@ -109,7 +141,7 @@
       "title": "ADHD diagnoses and prescriptions have increased globally across all age groups, our review shows",
       "authors": "Medical Xpress",
       "abstract": "Diagnoses of attention-deficit/hyperactivity disorder (ADHD) have increased in many countries across all age groups, according to our latest review. We have also shown that prescriptions for ADHD treatments have seen similar increases across all age groups.",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +164,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.534574+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.836304+00:00"
     },
     {
       "id": "rss-f08154267d3e",
@@ -141,7 +173,7 @@
       "title": "Study reveals prefrontal cortex can hinder learning more efficient behaviors",
       "authors": "Medical Xpress",
       "abstract": "The prefrontal cortex, a brain region long associated with learning more flexible behaviors, can sometimes block the ability to think outside the box, a new study in mice shows. The finding by biologists at Emory University was published in Science Advances.",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.534825+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.836582+00:00"
     },
     {
       "id": "rss-2ea64f95d0f2",
@@ -173,7 +205,7 @@
       "title": "Two-stage process helps metastatic cancer cells hide, then multiply in the lungs",
       "authors": "Medical Xpress",
       "abstract": "Most cancer deaths are caused not by the initial tumor but by the spread of cancer cells to distant organs in the process called metastasis. Since it occurs at the cellular level, the earliest stages of metastasis are difficult to observe in patients. A new study, published in Science, has made headway in understanding this process by mapping how some cancer cells survive in a new organ, even when most are eliminated by the immune system.",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.535111+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.836871+00:00"
     },
     {
       "id": "rss-7cb076b200c7",
@@ -205,7 +237,7 @@
       "title": "AI-designed E. coli killer points toward new ways to fight antibiotic-resistant bacteria",
       "authors": "Medical Xpress",
       "abstract": "In science, the suffix \"phage\" means to devour. Thus, the name bacteriophage might conjure images of tiny creatures that \"eat\" bacteria. While that conception isn't 100% scientifically accurate, bacteriophages are lethal killers of bacteria nonetheless, and scientists are excited about engineering phage DNA as a path to new antibiotics.",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -228,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.535370+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.837134+00:00"
     },
     {
       "id": "rss-30e6b41697db",
@@ -237,7 +269,7 @@
       "title": "Social prescribing boosts health checks without raising costs",
       "authors": "Medical Xpress",
       "abstract": "Patients referred to social prescribing are more likely to seek health care in the short term but could end up needing their primary care physician less often within a year, according to a new study by University of Manchester researchers published in eClinicalMedicine.",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -260,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.535682+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.837388+00:00"
     },
     {
       "id": "rss-9d4ce274d170",
@@ -269,7 +301,7 @@
       "title": "Malaria vaccine add-ons activate three antibody targets, study finds",
       "authors": "Medical Xpress",
       "abstract": "Malaria kills more than half a million people a year, most of them young children in Africa. Two vaccines are now recommended by the World Health Organization: RTS,S and R21. Both are helpful interventions, but neither works as well or as long as public health officials would like.",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -292,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.535938+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.837638+00:00"
     },
     {
       "id": "rss-cf1b35898a2a",
@@ -301,7 +333,7 @@
       "title": "Everyday packaging plastic may compound fatty liver risk from burgers and sodas",
       "authors": "Medical Xpress",
       "abstract": "Microplastics have become nearly impossible to avoid. They have been detected in oceans, drinking water and even the human body, but scientists are still uncovering how they affect human health. Now, researchers at the Texas A&M College of Veterinary Medicine and Biomedical Sciences (VMBS) have uncovered evidence that one of the world's most common plastics may do more than pollute the environment. Their findings suggest that polyethylene may contribute to fatty liver disease and worsen the condition when combined with an unhealthy diet.",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -324,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.536256+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.837948+00:00"
     },
     {
       "id": "rss-f37f6b8ca231",
@@ -333,7 +365,7 @@
       "title": "Psychedelics amplify brain connectivity through serotonin receptors, study suggests",
       "authors": "Medical Xpress",
       "abstract": "Psychedelics like psilocybin (from magic mushrooms), LSD, DMT and mescaline profoundly alter how we perceive, feel and think. After decades of neglect, they are again the subject of serious scientific inquiry, largely because of their promise for treating depression, anxiety, addiction and other conditions. But this therapeutic promise has run ahead of a more basic understanding: While a great deal of attention has gone to whether psychedelics help treat mental disorders, far less has gone to what they actually do in a general sense—the fundamental way they change perception, thought and consciousness. Only by understanding these basic mechanisms can we ever make sense of the therapeutic effects.",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -356,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.536649+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.838312+00:00"
     },
     {
       "id": "rss-e6387486bea1",
@@ -365,7 +397,7 @@
       "title": "Deep learning refines how bionic eyes communicate with the brain",
       "authors": "Medical Xpress",
       "abstract": "Researchers from three institutions, including UC Santa Barbara, have demonstrated that artificial intelligence has the potential to make future visual prostheses, like a bionic eye, more precise, predictable and responsive to an individual user.",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -388,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.536898+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.838575+00:00"
     },
     {
       "id": "rss-d10518e46341",
@@ -397,7 +429,7 @@
       "title": "Protective drug dexrazoxane reduces heart damage in pediatric cancer survivors years after treatment ends",
       "authors": "Medical Xpress",
       "abstract": "A new study reveals that the cardioprotective drug dexrazoxane significantly reduces heart damage caused by chemotherapy in pediatric cancer patients 15 years or more after treatment ends.",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -420,39 +452,71 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.537133+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.838806+00:00"
     },
     {
-      "id": "rss-db98afc813cf",
-      "discipline": "clinical",
+      "id": "rss-75ef36063bcf",
+      "discipline": "cs",
       "type": "news",
-      "title": "Why the body's inflammatory alarm misfires in familial Mediterranean fever",
-      "authors": "Medical Xpress",
-      "abstract": "Familial Mediterranean fever (FMF) is a hereditary autoinflammatory disease in which the body's own immune system overreacts to minimal or inappropriate stimuli, producing recurrent attacks of fever and painful inflammation. The disease is caused by mutations in MEFV, the gene that encodes a protein called pyrin.",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "authors": "TechCrunch AI",
+      "abstract": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
       "date": "2026-08-08",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-body-inflammatory-alarm-misfires-familial.html",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "fever",
-        "body",
-        "familial",
-        "mediterranean",
-        "disease",
-        "inflammatory",
-        "alarm",
-        "misfires"
+        "planned",
+        "amazon",
+        "center",
+        "could",
+        "become",
+        "climate",
+        "biggest",
+        "polluter"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.537384+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.896705+00:00"
+    },
+    {
+      "id": "rss-d0d0c88d1fe7",
+      "discipline": "cs",
+      "type": "news",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "authors": "TechCrunch AI",
+      "abstract": "NextSlide says its team members are now working on ChatGPT.",
+      "date": "2026-08-08",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nextslide",
+        "openai",
+        "acquires",
+        "presentation",
+        "startup",
+        "says",
+        "team",
+        "members"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T02:26:23.896904+00:00"
     },
     {
       "id": "rss-ef596fa80f1f",
@@ -484,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.589018+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.897092+00:00"
     },
     {
       "id": "rss-98471e9149b1",
@@ -516,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.589250+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.897268+00:00"
     },
     {
       "id": "rss-5a73d9bd9529",
@@ -548,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.589463+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.897481+00:00"
     },
     {
       "id": "rss-9c0bdcecce12",
@@ -580,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.589632+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.897639+00:00"
     },
     {
       "id": "rss-e84825b76f6c",
@@ -612,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.589958+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.897943+00:00"
     },
     {
       "id": "rss-814da1428ca3",
@@ -644,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.590119+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.898097+00:00"
     },
     {
       "id": "rss-a67dae29b725",
@@ -676,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:21.006192+00:00"
+      "_retrievedAt": "2026-08-09T02:26:24.390017+00:00"
     },
     {
       "id": "rss-dd9abed37891",
@@ -708,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:21.006406+00:00"
+      "_retrievedAt": "2026-08-09T02:26:24.390226+00:00"
     },
     {
       "id": "rss-624e10f67db4",
@@ -740,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.590291+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.898262+00:00"
     },
     {
       "id": "rss-7a35d3306a74",
@@ -772,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.590468+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.898434+00:00"
     },
     {
       "id": "rss-b8b38bd59c3b",
@@ -804,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.590650+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.898612+00:00"
     },
     {
       "id": "rss-4b5734de97c2",
@@ -836,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.590833+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.898785+00:00"
     },
     {
       "id": "rss-53d0109428de",
@@ -868,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.591063+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.899006+00:00"
     },
     {
       "id": "rss-8fdcdbbb0341",
@@ -900,71 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.591222+00:00"
-    },
-    {
-      "id": "rss-dac35efb638c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "authors": "TechCrunch AI",
-      "abstract": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
-      "date": "2026-08-06",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ex-spotify",
-        "employees",
-        "raise",
-        "bring",
-        "behind",
-        "recommendations",
-        "e-commerce",
-        "startup"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.591400+00:00"
-    },
-    {
-      "id": "rss-098b77a3f6f4",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "authors": "TechCrunch AI",
-      "abstract": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
-      "date": "2026-08-06",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "mirendil",
-        "google",
-        "cloud",
-        "self-improving",
-        "exclusive",
-        "inks",
-        "deal",
-        "scale"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.591602+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.899156+00:00"
     },
     {
       "id": "rss-6962610856a0",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:21.007035+00:00"
+      "_retrievedAt": "2026-08-09T02:26:24.390873+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1028,7 +1028,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:15.616199+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.887277+00:00"
     },
     {
       "id": "rss-ead5f2bab0c6",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.658121+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.929943+00:00"
     },
     {
       "id": "rss-a22dcd5db9ed",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.658306+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.930120+00:00"
     },
     {
       "id": "rss-933ba0ff85bb",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:21.007266+00:00"
+      "_retrievedAt": "2026-08-09T02:26:24.391111+00:00"
     },
     {
       "id": "rss-80e5754b3acd",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:21.007683+00:00"
+      "_retrievedAt": "2026-08-09T02:26:24.391491+00:00"
     },
     {
       "id": "rss-bfc25c3f4f29",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.658527+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.930279+00:00"
     },
     {
       "id": "openalex-5abd16320b31",
@@ -1220,7 +1220,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:15.617145+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.888234+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -1252,7 +1252,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:15.613481+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.885163+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -1284,7 +1284,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:17.347300+00:00"
+      "_retrievedAt": "2026-08-09T02:26:19.733443+00:00"
     },
     {
       "id": "rss-f7328a645416",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.658705+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.930495+00:00"
     },
     {
       "id": "rss-22e3c70241d7",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.658888+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.930681+00:00"
     },
     {
       "id": "rss-164ec90a306e",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:21.008309+00:00"
+      "_retrievedAt": "2026-08-09T02:26:24.392107+00:00"
     },
     {
       "id": "rss-82cbbc4a1e19",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:21.008989+00:00"
+      "_retrievedAt": "2026-08-09T02:26:24.392766+00:00"
     },
     {
       "id": "openalex-82bfb13f8d46",
@@ -1444,7 +1444,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:17.349633+00:00"
+      "_retrievedAt": "2026-08-09T02:26:19.735693+00:00"
     },
     {
       "id": "rss-61c6d7b63768",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.659073+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.930859+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -1508,7 +1508,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:17.347722+00:00"
+      "_retrievedAt": "2026-08-09T02:26:19.733809+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -1540,7 +1540,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:14.714914+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.074497+00:00"
     },
     {
       "id": "rss-d746300c673c",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.659240+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.931023+00:00"
     },
     {
       "id": "rss-e3531be54cc3",
@@ -1604,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:21.009247+00:00"
+      "_retrievedAt": "2026-08-09T02:26:24.393017+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -1636,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.659439+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.931190+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1668,7 +1668,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:15.614517+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.886205+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -1700,7 +1700,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:15.616527+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.887608+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -1732,7 +1732,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:14.716975+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.076553+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -1764,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.659620+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.931373+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -1796,7 +1796,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:14.713325+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.072964+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1828,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.659769+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.931524+00:00"
     },
     {
       "id": "rss-289aae00ca76",
@@ -1860,7 +1860,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:21.009517+00:00"
+      "_retrievedAt": "2026-08-09T02:26:24.393227+00:00"
     },
     {
       "id": "rss-67e6e4628573",
@@ -1892,7 +1892,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:21.009743+00:00"
+      "_retrievedAt": "2026-08-09T02:26:24.393466+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1924,7 +1924,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.659925+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.931677+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -1956,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:16.395255+00:00"
+      "_retrievedAt": "2026-08-09T02:26:18.968702+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1988,7 +1988,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.660089+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.931837+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2020,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:17.351272+00:00"
+      "_retrievedAt": "2026-08-09T02:26:19.737325+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -2052,7 +2052,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.660249+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.931990+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -2084,7 +2084,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:20.660450+00:00"
+      "_retrievedAt": "2026-08-09T02:26:23.932166+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2116,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:15.615868+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.886938+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2148,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:17.350013+00:00"
+      "_retrievedAt": "2026-08-09T02:26:19.736067+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2180,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:15.614864+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.886596+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2212,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:16.395860+00:00"
+      "_retrievedAt": "2026-08-09T02:26:18.969262+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2244,7 +2244,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:14.716033+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.075618+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2276,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:15.618113+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.889254+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2308,7 +2308,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:14.715244+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.074841+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2340,7 +2340,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:14.715720+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.075266+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2372,7 +2372,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:16.395500+00:00"
+      "_retrievedAt": "2026-08-09T02:26:18.968912+00:00"
+    },
+    {
+      "id": "openalex-9ae00385fc6f",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Traditional fermented food microbial ecosystems oriented towards industrial standards: multi-dimensional characterization and artificial regulation",
+      "authors": "M T Wu, Yi-Xiang Wang, Yu Wang, Youqiang Xu, Baoguo Sun",
+      "abstract": "Fermented food microbial ecosystems are dynamic and shaped by microbes, substrates, and environments, but traditional spontaneous fermentation causes variability in quality and safety, limiting standardization. This review highlighted multi-omics integration to comprehensively characterize microbial composition, dynamics, interactions, metabolites, and phages, and summarized regulation strategies including functional strains, synthetic microbial communities, bacteriophage control, and physicochemical modulation. Finally, the futures and challenges from empirical practice to predictable, scalable industrial fermentation were proposed.",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "npj Science of Food",
+      "source": "npj Science of Food",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41538-026-00916-2",
+      "doi": "10.1038/s41538-026-00916-2",
+      "pdfUrl": "https://www.nature.com/articles/s41538-026-00916-2_reference.pdf",
+      "keywords": [
+        "Biochemical engineering",
+        "Fermentation",
+        "Biotechnology",
+        "Limiting",
+        "Food industry",
+        "Bacteriophages and microbial interactions",
+        "Probiotics and Fermented Foods",
+        "Microbial Community Ecology and Physiology"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T02:26:17.889524+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2404,7 +2436,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:14.714504+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.074073+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2436,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:16.398113+00:00"
+      "_retrievedAt": "2026-08-09T02:26:18.971226+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2468,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:17.352481+00:00"
+      "_retrievedAt": "2026-08-09T02:26:19.738500+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2500,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:17.353244+00:00"
+      "_retrievedAt": "2026-08-09T02:26:19.739249+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2532,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:17.350711+00:00"
+      "_retrievedAt": "2026-08-09T02:26:19.736762+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2564,7 +2596,39 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:14.712474+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.072091+00:00"
+    },
+    {
+      "id": "openalex-1694495e202e",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "BINSEQ: A family of high-performance binary formats for nucleotide sequences",
+      "authors": "Noam Teyssier, Alexander Dobin",
+      "abstract": "A bstract Modern genomics produces billions of sequencing records per run, which are typically stored as gzip-compressed FASTQ files. While this format is widely used, it is not optimal for high-throughput processing due to its reliance on single-threaded decompression and sequential parsing of irregularly sized records. This limitation is particularly problematic for applications that would benefit from parallel processing, such as read mapping, variant calling, and de novo assembly. Here, we present BINSEQ, a family of simple binary formats that enable high-throughput parallel processing of sequencing data. The BINSEQ family consists of two complementary implementations: BQ, optimized for fixed-length reads using a two-bit or four-bit encoding scheme with true random record access capability, and VBQ, designed for variable-length sequences with optional quality scores and block-base...",
+      "date": "2026-05-28",
+      "year": 2026,
+      "journal": "PLoS Computational Biology",
+      "source": "PLoS Computational Biology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1371/journal.pcbi.1014181",
+      "doi": "10.1371/journal.pcbi.1014181",
+      "pdfUrl": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1014181&type=printable",
+      "keywords": [
+        "Binary number",
+        "Nucleotide",
+        "Computer science",
+        "Computational biology",
+        "Genetics",
+        "Plant Genetic and Mutation Studies",
+        "Coding theory and cryptography",
+        "binseq"
+      ],
+      "readTime": "2 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T02:26:17.890017+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2596,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:17.348886+00:00"
+      "_retrievedAt": "2026-08-09T02:26:19.734948+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2628,7 +2692,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:14.716640+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.076201+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2660,7 +2724,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:14.717484+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.077043+00:00"
     },
     {
       "id": "openalex-8611d8370ef3",
@@ -2692,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:15.617483+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.888597+00:00"
     },
     {
       "id": "openalex-fcbf1470edaa",
@@ -2724,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:17.350284+00:00"
+      "_retrievedAt": "2026-08-09T02:26:19.736331+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2756,7 +2820,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:14.713830+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.073336+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2788,7 +2852,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:14.712118+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.071751+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -2820,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:16.396878+00:00"
+      "_retrievedAt": "2026-08-09T02:26:18.969996+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2852,7 +2916,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:14.714057+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.073607+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2884,7 +2948,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:14.711712+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.071309+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2916,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:16.398850+00:00"
+      "_retrievedAt": "2026-08-09T02:26:18.971934+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -2948,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:16.397173+00:00"
+      "_retrievedAt": "2026-08-09T02:26:18.970288+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -2980,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:17.348479+00:00"
+      "_retrievedAt": "2026-08-09T02:26:19.734545+00:00"
     },
     {
       "id": "openalex-b393cd9c8f8c",
@@ -3012,7 +3076,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:15.613893+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.885601+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -3044,7 +3108,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:14.712926+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.072562+00:00"
     },
     {
       "id": "openalex-e2538de02ecf",
@@ -3076,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:16.398487+00:00"
+      "_retrievedAt": "2026-08-09T02:26:18.971600+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -3108,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:17.352862+00:00"
+      "_retrievedAt": "2026-08-09T02:26:19.738876+00:00"
     },
     {
       "id": "openalex-0026215bd6f7",
@@ -3140,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:16.397471+00:00"
+      "_retrievedAt": "2026-08-09T02:26:18.970588+00:00"
     },
     {
       "id": "openalex-0014575d52b0",
@@ -3172,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:16.399177+00:00"
+      "_retrievedAt": "2026-08-09T02:26:18.972253+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -3204,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:15.616830+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.887908+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -3236,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:15.617764+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.888881+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -3268,7 +3332,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:14.716297+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.075884+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -3300,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:17.351722+00:00"
+      "_retrievedAt": "2026-08-09T02:26:19.737752+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -3332,7 +3396,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:15.614218+00:00"
+      "_retrievedAt": "2026-08-09T02:26:17.885929+00:00"
+    },
+    {
+      "id": "openalex-b085d32d7fe5",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Ciltacabtagene autoleucel in high-risk smoldering multiple myeloma: the CAR-PRISM phase 2 trial",
+      "authors": "Omar Nadeem, David M. Cordas dos Santos, Sarah Nikiforow, Anna Bosch, Elizabeth O’Donnell, Robert Redd",
+      "abstract": "High-risk smoldering multiple myeloma (HR-SMM) carries an increased risk of progression to multiple myeloma, making it an ideal setting to test whether chimeric antigen receptor (CAR) T cell therapy can achieve curative outcomes. Here in this phase 2 study, patients with HR-SMM received ciltacabtagene autoleucel (cilta-cel) at 0.3–0.5 × 106 or >0.5 × 106 viable CAR+ T cells per kilogram without induction or bridging therapy. Patients with >40% marrow involvement were excluded. Primary endpoints were dose-limiting toxicities (DLTs) and treatment-emergent adverse events; secondary endpoints included response and minimal residual disease (MRD) negativity. As of 11 February 2026, 20 patients had been treated. The trial met the prespecified endpoints. No DLTs occurred. Adverse events included transient cytopenias (90% grade 3/4) and cytokine release syndrome (100% grade 1/2). Non-immune ef...",
+      "date": "2026-04-20",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04365-y",
+      "doi": "10.1038/s41591-026-04365-y",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04365-y.pdf",
+      "keywords": [
+        "Phase (matter)",
+        "Materials science",
+        "Medicine",
+        "Chemistry",
+        "Phases of clinical research",
+        "CAR-T cell therapy research",
+        "Multiple Myeloma Research and Treatments",
+        "Protein Degradation and Inhibitors"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T02:26:18.973028+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -3364,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:17.349216+00:00"
+      "_retrievedAt": "2026-08-09T02:26:19.735279+00:00"
     },
     {
       "id": "openalex-b405599e1257",
@@ -3396,7 +3492,71 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:17.350984+00:00"
+      "_retrievedAt": "2026-08-09T02:26:19.737033+00:00"
+    },
+    {
+      "id": "openalex-ecc34b946b2e",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Overcoming barriers to delivery of biologics by novel approaches and advanced delivery systems",
+      "authors": "Stephen Dela Ahator, Silvia Franzè, Sybil Obuobi, Giulia Anderluzzi, Gøril Eide Flaten, Nataša Škalko‐Basnet",
+      "abstract": "Biologics is emerging as fastest growing field of drug development offering specificity and high therapeutic potential. However, their therapeutic efficacy is dependent on their route of administration and targeted delivery. Unlike small molecules, biologics face stability, permeability, solubility and immunogenicity challenges due to their inherent features. Hence tailored approaches are required in formulation development to assure their time-and site-specific action. In this review, we summarized the general and route-specific barriers that this group of drugs encounter once in contact with administration site. We listed the most common approaches to overcome the barriers and presented examples of different delivery systems that were proposed to deal with route-specific challenges. We also addressed the role devices play in assisted drug delivery and their choices related to expect...",
+      "date": "2026-04-16",
+      "year": 2026,
+      "journal": "Advanced Drug Delivery Reviews",
+      "source": "Advanced Drug Delivery Reviews",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.addr.2026.115875",
+      "doi": "10.1016/j.addr.2026.115875",
+      "pdfUrl": "https://doi.org/10.1016/j.addr.2026.115875",
+      "keywords": [
+        "Delivery system",
+        "Medicine",
+        "Pharmaceutical technology",
+        "Drug delivery",
+        "Computer science",
+        "Monoclonal and Polyclonal Antibodies Research",
+        "Viral Infectious Diseases and Gene Expression in Insects",
+        "Protein purification and stability"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T02:26:18.972633+00:00"
+    },
+    {
+      "id": "openalex-b31b1eeff6ea",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Evaluation of Regorafenib in Newly Diagnosed and Recurrent Glioblastoma: GBM AGILE Phase II/III Bayesian Randomized Platform Trial",
+      "authors": "Patrick Y. Wen, Donald A. Berry, Meredith Buxton, Howard Colman, John de Groot, Michael Lim",
+      "abstract": "PURPOSE: GBM AGILE (ClinicalTrials.gov identifier: NCT03970447) is a phase II/III Bayesian adaptive platform registration trial testing multiple arms against a common control; the primary end point is overall survival (OS). Regorafenib, a multikinase inhibitor, showed OS benefit in recurrent (RD) glioblastoma in the phase II REGOMA trial and entered GBM AGILE as the first investigational arm. METHODS: Patient subtypes included in the regorafenib arm of GBM AGILE were newly diagnosed unmethylated (NDU) and RD glioblastoma. Prospective defined sets of subtypes, or arm signatures, were NDU, RD, and all (NDU + RD). As the first investigational arm in GBM AGILE, regorafenib was equally randomized to the control arm. Treatment in the control arm is temozolomide + radiotherapy (in newly diagnosed) or lomustine (in RD). Efficacy was assessed by OS hazard ratio (HR), arm/control, and demonstra...",
+      "date": "2026-04-14",
+      "year": 2026,
+      "journal": "Journal of Clinical Oncology",
+      "source": "Journal of Clinical Oncology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1200/jco-25-01137",
+      "doi": "10.1200/jco-25-01137",
+      "pdfUrl": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO-25-01137",
+      "keywords": [
+        "Regorafenib",
+        "Medicine",
+        "Temozolomide",
+        "Clinical endpoint",
+        "Oncology",
+        "Glioma Diagnosis and Treatment",
+        "Statistical Methods in Clinical Trials",
+        "Melanoma and MAPK Pathways"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-09T02:26:18.973451+00:00"
     },
     {
       "id": "openalex-1c8cc4075423",
@@ -3428,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:17.352069+00:00"
+      "_retrievedAt": "2026-08-09T02:26:19.738093+00:00"
     },
     {
       "id": "openalex-a528e7ad7434",
@@ -3460,167 +3620,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:16.397797+00:00"
-    },
-    {
-      "id": "openalex-925ecf6ab58e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Use of AI as a Research Recruitment Tool: Ethical Elements, Considerations, and Recommendations",
-      "authors": "Peter Rentzepis, Donna L. Snyder, Trevor Baker, Barbara E. Bierer",
-      "abstract": "Recruitment is often the most time-consuming and expensive step of clinical trials. As such, it is the most common stage for AI implementation, due to its power to hasten timelines, reduce costs and workloads, and potentially increase the representativeness of study cohorts. Yet, formal regulatory guidance on the use and ethics of AI specifically for clinical trial recruitment is limited, and best practices have yet to be defined. Here, we discuss the use of AI in the trial recruitment process across five domains, synthesize the ethical elements that apply to AI recruitment, and advance a framework of considerations and recommendations across use cases and ethical elements. The ethical elements, tensions, and recommendations discussed here will help inform the practices of and oversight by investigators, commercial recruitment entities, contract research organizations, sponsors, regul...",
-      "date": "2026-04-10",
-      "year": 2026,
-      "journal": "The American Journal of Bioethics",
-      "source": "The American Journal of Bioethics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1080/15265161.2026.2649234",
-      "doi": "10.1080/15265161.2026.2649234",
-      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/15265161.2026.2649234",
-      "keywords": [
-        "Engineering ethics",
-        "Representativeness heuristic",
-        "Process (computing)",
-        "Research ethics",
-        "Psychology",
-        "Artificial Intelligence in Healthcare and Education",
-        "Ethics in Clinical Research",
-        "Ethics and Social Impacts of AI"
-      ],
-      "readTime": "1 min",
-      "citedBy": 14,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:16.396144+00:00"
-    },
-    {
-      "id": "openalex-7a392a0ca13d",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "The WHO priority list of antibiotic-resistant bacteria: challenges and opportunities for next-generation antimicrobial development",
-      "authors": "Emad M. Abdallah, Abdulrahman Mohammed Alhudhaibi, Mahmoud M. Dahab, Abdullah Al Noman, Pranav Sharma, Tarek H. Taha",
-      "abstract": "Antimicrobial resistance (AMR) remains one of the most serious global threats to public health, driven by the rapid emergence and dissemination of multidrug-resistant bacterial pathogens that compromise existing antibiotic therapies. In response, the World Health Organization (WHO) has defined priority lists of antibiotic-resistant bacteria to guide research, innovation, and drug development efforts. This narrative review synthesizes current knowledge on the molecular mechanisms underlying resistance in WHO-priority pathogens, including reduced membrane permeability, efflux pump overexpression, enzymatic drug inactivation, target modification, biofilm formation, and horizontal gene transfer. Beyond mechanistic insights, we critically evaluate the therapeutic limitations of conventional antibiotics, the failure of traditional discovery pipelines, and the growing clinical and economic b...",
-      "date": "2026-04-10",
-      "year": 2026,
-      "journal": "Frontiers in Pharmacology",
-      "source": "Frontiers in Pharmacology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fphar.2026.1699987",
-      "doi": "10.3389/fphar.2026.1699987",
-      "pdfUrl": "https://public-pages-files-2025.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1699987/pdf",
-      "keywords": [
-        "Antibiotic resistance",
-        "Biotechnology",
-        "Drug resistance",
-        "Biopharmaceutical",
-        "Multidisciplinary approach",
-        "Antibiotic Resistance in Bacteria",
-        "Antimicrobial Peptides and Activities",
-        "Vibrio bacteria research studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:15.615203+00:00"
-    },
-    {
-      "id": "openalex-8b9a2b633761",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Single-cell TCR mapping reveals spatially coordinated T cell states in head and neck cancer",
-      "authors": "Kelli A. McCord, Emerald Kan, Sean Hyslop, Amanda Y. Xia, Colby J. Hofferek, James S. Lewis",
-      "abstract": "Current spatial T cell receptor (TCR) profiling approaches lack the resolution needed to link clonal identity, transcriptional state, and spatial positioning of individual T cells in the tumor microenvironment. Here, we introduce a spatial TCR profiling strategy that resolves individual T cell clones together with their transcriptional states at single-cell resolution and applied the method to human head and neck squamous cell carcinoma. Presumed tumor-specific T cells were broadly dispersed throughout the tumor microenvironment, and cells of the same clone occupied distinct transcriptional states in different locations: Immune-rich regions contained more plastic or progenitor cells, whereas tumor-dense regions were enriched for exhausted states. Patients exhibited notably different spatial architectures of antitumor T cell responses, revealing variation that was not captured by high-...",
-      "date": "2026-04-10",
-      "year": 2026,
-      "journal": "Science Immunology",
-      "source": "Science Immunology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1126/sciimmunol.aec3133",
-      "doi": "10.1126/sciimmunol.aec3133",
-      "pdfUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13138865/",
-      "keywords": [
-        "T-cell receptor",
-        "Biology",
-        "Flow cytometry",
-        "T cell",
-        "Transcriptome",
-        "Single-cell and spatial transcriptomics",
-        "Cancer Immunotherapy and Biomarkers",
-        "CAR-T cell therapy research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:15.615534+00:00"
-    },
-    {
-      "id": "openalex-ec9559e049f8",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Overcoming MEN1-mediated resistance with menin inhibitor switching in KMT2A-rearranged acute myeloid leukemia",
-      "authors": "Kuo‐Kai Chin, Maher Abdul-Hay, Mihir Shukla, Mark B. Geyer, R. Tamari, Kaitlyn Ko",
-      "abstract": "Menin inhibitors (MENINi) are novel targeted therapies for acute leukemias characterized by HOX gene dysregulation (e.g., KMT2A -rearranged, NPM1 -mutated), and they function by disrupting the interaction between the scaffolding protein menin and MLL1 [ 1 , 2 ]. The MENINi revumenib and ziftomenib are FDA-approved for relapsed or refractory (R/R) acute leukemia based on phase 1/2 data showing complete remission (CR) or CR with partial hematologic recovery (CRh) rates of approximately 20% [ 3 , 4 , 5 ]. Numerous additional MENINi studies are ongoing [ 6 ]. Despite compelling efficacy, treatment with MENINi can lead to the acquisition of resistance mutations [ 7 , 8 ]. Notably, MEN1 mutations, which occur in up to 40% of patients treated with revumenib monotherapy as assessed by ultrasensitive droplet digital polymerase chain reaction (ddPCR), can impair MENINi binding and reactivate le...",
-      "date": "2026-04-10",
-      "year": 2026,
-      "journal": "Leukemia",
-      "source": "Leukemia",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41375-026-02959-6",
-      "doi": "10.1038/s41375-026-02959-6",
-      "pdfUrl": "https://www.nature.com/articles/s41375-026-02959-6.pdf",
-      "keywords": [
-        "Cancer research",
-        "Myeloid leukemia",
-        "Medicine",
-        "Leukemia",
-        "Myeloid",
-        "Neuroendocrine Tumor Research Advances",
-        "Complement system in diseases",
-        "Phagocytosis and Immune Regulation"
-      ],
-      "readTime": "6 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:16.400583+00:00"
-    },
-    {
-      "id": "openalex-1bda52965c6f",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "PARP inhibitors and breast cancer: from therapeutic breakthrough to resistance challenge",
-      "authors": "Weiyun Wang, Chenghui Cai, Sisi Qin, Liujun He, Qinhao Liang, Siyao Tang",
-      "abstract": "Breast cancer remains the leading cause of cancer-related mortality among women worldwide. Poly(ADP-ribose) polymerase (PARP) inhibitors have emerged as a critical therapeutic option, particularly for patients with triple-negative breast cancer and other HER2-negative metastatic breast cancer harboring BRCA mutations. Despite their clinical success, the emergence of primary and acquired resistance to PARP inhibitors poses a significant challenge, limiting their long-term effectiveness. Here we provide a comprehensive overview of the mechanisms underlying the action of PARP inhibitors, as well as their clinical development and application. In addition, we discuss the factors driving resistance and potential strategies to overcome it in the context of PARP inhibitors.",
-      "date": "2026-04-10",
-      "year": 2026,
-      "journal": "Experimental & Molecular Medicine",
-      "source": "Experimental & Molecular Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s12276-026-01673-8",
-      "doi": "10.1038/s12276-026-01673-8",
-      "pdfUrl": "https://www.nature.com/articles/s12276-026-01673-8.pdf",
-      "keywords": [
-        "Poly ADP ribose polymerase",
-        "Breast cancer",
-        "Medicine",
-        "Acquired resistance",
-        "Context (archaeology)",
-        "PARP inhibition in cancer therapy",
-        "Advanced Breast Cancer Therapies",
-        "BRCA gene mutations in cancer"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-08T18:56:16.400855+00:00"
+      "_retrievedAt": "2026-08-09T02:26:18.970910+00:00"
     }
   ]
 }
