@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-09T02:26:24.663607+00:00",
-  "total": 113,
+  "generatedAt": "2026-08-09T07:14:09.007739+00:00",
+  "total": 103,
   "sources": [
     "RSS",
     "OpenAlex"
@@ -36,7 +36,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.835209+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.815572+00:00"
     },
     {
       "id": "rss-d7540da04fd8",
@@ -68,7 +68,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.835538+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.815912+00:00"
     },
     {
       "id": "rss-a9186edd8624",
@@ -100,7 +100,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.835774+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.816152+00:00"
     },
     {
       "id": "rss-b8a84aa97df1",
@@ -132,7 +132,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.836060+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.816443+00:00"
     },
     {
       "id": "rss-fa843b2d3c7a",
@@ -164,7 +164,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.836304+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.816737+00:00"
     },
     {
       "id": "rss-f08154267d3e",
@@ -196,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.836582+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.816992+00:00"
     },
     {
       "id": "rss-2ea64f95d0f2",
@@ -228,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.836871+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.817277+00:00"
     },
     {
       "id": "rss-7cb076b200c7",
@@ -260,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.837134+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.817537+00:00"
     },
     {
       "id": "rss-30e6b41697db",
@@ -292,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.837388+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.817811+00:00"
     },
     {
       "id": "rss-9d4ce274d170",
@@ -324,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.837638+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.818062+00:00"
     },
     {
       "id": "rss-cf1b35898a2a",
@@ -356,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.837948+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.818371+00:00"
     },
     {
       "id": "rss-f37f6b8ca231",
@@ -388,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.838312+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.818761+00:00"
     },
     {
       "id": "rss-e6387486bea1",
@@ -420,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.838575+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.819000+00:00"
     },
     {
       "id": "rss-d10518e46341",
@@ -452,7 +452,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.838806+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.819229+00:00"
     },
     {
       "id": "rss-75ef36063bcf",
@@ -484,7 +484,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.896705+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.868751+00:00"
     },
     {
       "id": "rss-d0d0c88d1fe7",
@@ -516,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.896904+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.868982+00:00"
     },
     {
       "id": "rss-ef596fa80f1f",
@@ -548,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.897092+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.869201+00:00"
     },
     {
       "id": "rss-98471e9149b1",
@@ -580,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.897268+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.869406+00:00"
     },
     {
       "id": "rss-5a73d9bd9529",
@@ -612,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.897481+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.869640+00:00"
     },
     {
       "id": "rss-9c0bdcecce12",
@@ -644,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.897639+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.869831+00:00"
     },
     {
       "id": "rss-e84825b76f6c",
@@ -676,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.897943+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.870142+00:00"
     },
     {
       "id": "rss-814da1428ca3",
@@ -708,71 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.898097+00:00"
-    },
-    {
-      "id": "rss-a67dae29b725",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Environmental education in action at Fla.'s Guana Tolomato Matanzas Reserve",
-      "authors": "NOAA News",
-      "abstract": "Environmental education in action at Fla.'s Guana Tolomato Matanzas Reserve A view of Moses Creek conservation area in Florida's Guana Tolomato Matanzas Reserve. (Image credit: NOAA) Download Image August 7, 2026 Ocean & Coasts 0 Off",
-      "date": "2026-08-07",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/environmental-education-in-action-at-guana-tolomato-matanzas-reserve-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "guana",
-        "tolomato",
-        "matanzas",
-        "reserve",
-        "environmental",
-        "education",
-        "action",
-        "image"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:24.390017+00:00"
-    },
-    {
-      "id": "rss-dd9abed37891",
-      "discipline": "geo",
-      "type": "news",
-      "title": "The USS Monitor, Part 1: History and Legacy",
-      "authors": "NOAA News",
-      "abstract": "The USS Monitor, Part 1: History and Legacy July 26, 2026 The USS Monitor, Part 1: History and Legacy Sanctuaries heritage history shipwreck sanctuaries Heritage stories 0 0 Off 0",
-      "date": "2026-08-07",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/multimedia/podcast/uss-monitor-part-1-history-and-legacy-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "history",
-        "monitor",
-        "part",
-        "legacy",
-        "sanctuaries",
-        "heritage",
-        "july",
-        "shipwreck"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:24.390226+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.870296+00:00"
     },
     {
       "id": "rss-624e10f67db4",
@@ -804,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.898262+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.870468+00:00"
     },
     {
       "id": "rss-7a35d3306a74",
@@ -836,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.898434+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.870644+00:00"
     },
     {
       "id": "rss-b8b38bd59c3b",
@@ -868,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.898612+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.870826+00:00"
     },
     {
       "id": "rss-4b5734de97c2",
@@ -900,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.898785+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.871004+00:00"
     },
     {
       "id": "rss-53d0109428de",
@@ -932,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.899006+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.871227+00:00"
     },
     {
       "id": "rss-8fdcdbbb0341",
@@ -964,39 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.899156+00:00"
-    },
-    {
-      "id": "rss-6962610856a0",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Pacific Hurricanes Fausto and Genevieve actually had origins near Africa",
-      "authors": "NOAA News",
-      "abstract": "Pacific Hurricanes Fausto and Genevieve actually had origins near Africa NOAA satellites track hurricanes from their earliest beginnings NOAA's GOES West satellite captured this image of three tropical cyclones — Hurricanes Fausto and Genevieve and Typhoon Dolphin — swirling simultaneously in the Pacific Ocean. The image was taken on Tuesday, July 27, at 3:30 PM PDT/ 22:30 UTC. None of the three tropical cyclones made landfall in the United States. Fausto contributed to high surf conditions in Hawaii, and Genevieve also brought high surf to southern California. Typhoon Dolphin continued its track west toward Asia. (Image credit: NOAA Satellites) Download Image August 6, 2026 It may be surprising, but two of the hurricanes that swirled in the Pacific last week began their journeys thousands of miles away off the western coast of Africa. Both Hurricanes Fausto and Genevieve developed fr...",
-      "date": "2026-08-06",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/pacific-hurricanes-fausto-and-genevieve-actually-had-origins-near-africa",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hurricanes",
-        "fausto",
-        "genevieve",
-        "pacific",
-        "image",
-        "africa",
-        "noaa",
-        "actually"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:24.390873+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.871379+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1028,7 +932,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.887277+00:00"
+      "_retrievedAt": "2026-08-09T07:13:51.362767+00:00"
     },
     {
       "id": "rss-ead5f2bab0c6",
@@ -1060,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.929943+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.933929+00:00"
     },
     {
       "id": "rss-a22dcd5db9ed",
@@ -1092,71 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.930120+00:00"
-    },
-    {
-      "id": "rss-933ba0ff85bb",
-      "discipline": "geo",
-      "type": "news",
-      "title": "New turbulence detection tool aims to make commercial flights smoother",
-      "authors": "NOAA News",
-      "abstract": "New turbulence detection tool aims to make commercial flights smoother An American Eagle Embraer E175LR plane approaches Ronald Reagan National Airport (DCA) on May 16, 2026, in Washington, DC. (Image credit: Al Drago/Getty Images) August 4, 2026 Weather aviation weather forecasting 0 Off",
-      "date": "2026-08-04",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news/new-turbulence-detection-tool-aims-to-make-commercial-flights-smoother-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "turbulence",
-        "detection",
-        "tool",
-        "aims",
-        "make",
-        "commercial",
-        "flights",
-        "smoother"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:24.391111+00:00"
-    },
-    {
-      "id": "rss-80e5754b3acd",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA Announces 2026 Small Business of the Year Award Recipient",
-      "authors": "NOAA News",
-      "abstract": "NOAA Announces 2026 Small Business of the Year Award Recipient August 4, 2026 NOAA has named Industrial Economics, Inc. (IEc) as its Small Business of the Year, honoring the firm for exceptional performance, technical innovation, and outstanding environmental stewardship in executing a complex marine restoration project. Faced with challenging environmental conditions and significant logistical delays, IEc leveraged cutting-edge technical and process innovations to safely repair damaged reef infrastructure and accelerate long-term ecosystem recovery. The team’s operational agility and seamless execution allowed them to maintain a flawless safety record while substantially exceeding target goals for restored habitat area. NOAA commends Industrial Economics, Inc. for its unwavering commitment to excellence, field safety, and dedication to protecting vital marine habitats. Acquisition &...",
-      "date": "2026-08-04",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/acquisition-grants/small-business/news/noaa-announces-2026-small-business-of-year-award-recipient",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "small",
-        "business",
-        "year",
-        "announces",
-        "award",
-        "recipient",
-        "industrial"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:24.391491+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.934102+00:00"
     },
     {
       "id": "rss-bfc25c3f4f29",
@@ -1188,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.930279+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.934257+00:00"
     },
     {
       "id": "openalex-5abd16320b31",
@@ -1220,7 +1060,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.888234+00:00"
+      "_retrievedAt": "2026-08-09T07:13:51.363696+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -1252,7 +1092,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.885163+00:00"
+      "_retrievedAt": "2026-08-09T07:13:51.360662+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -1284,7 +1124,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:19.733443+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.679133+00:00"
     },
     {
       "id": "rss-f7328a645416",
@@ -1316,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.930495+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.934423+00:00"
     },
     {
       "id": "rss-22e3c70241d7",
@@ -1348,71 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.930681+00:00"
-    },
-    {
-      "id": "rss-164ec90a306e",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA maintains prediction for below-normal Atlantic hurricane season",
-      "authors": "NOAA News",
-      "abstract": "NOAA maintains prediction for below-normal Atlantic hurricane season Preparedness remains key throughout the season August 6, 2026 This image of Tropical Storm Bertha was captured by NOAA's GOES East (GOES-19 satellite) on July 22, 2026 at 1:15 p.m. ET. (Image credit: Tropical Storm Bertha captured by NOAA Satellites) Download Image With the climatological peak of hurricane season approaching in early September, NOAA’s prediction for below-normal activity in the Atlantic basin remains. Forecasters from NOAA’s National Weather Service updated today the number of expected named storms to 7-13 (with winds of 39 mph or greater), of which 2-6 could become hurricanes (winds of 74 mph or greater), including 0-2 major hurricanes (winds of 111 mph or greater). These ranges cover the entire season from June 1 through November 30 and are inclusive of the two tropical storms that have already for...",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "season",
-        "prediction",
-        "below-normal",
-        "atlantic",
-        "hurricane",
-        "image",
-        "tropical"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:24.392107+00:00"
-    },
-    {
-      "id": "rss-82cbbc4a1e19",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA and partners find smaller-than-anticipated hypoxic zone in Gulf of America",
-      "authors": "NOAA News",
-      "abstract": "NOAA and partners find smaller-than-anticipated hypoxic zone in Gulf of America Tropical Storm Bertha mixed water column, reducing size August 5, 2026 Measuring a 'dead zone': Scientists retrieve the CTD (conductivity, temperature, depth) package of ocean sensors after profiling dissolved oxygen at a station during the Shelfwide Hypoxia Cruise in the Gulf of America. (Image credit: Courtesy of Cassandra Glaspie/LSU) Download Image NOAA-supported scientists announced today that this year’s Gulf of America hypoxic zone is approximately 1,332 square miles, making it the 2nd smallest zone on record in 40 years of measurement. Hypoxic areas, also called “dead zones,” are areas with little to no oxygen in the water, which can negatively impact fish, shellfish, corals and aquatic plants by making critical habitat unavailable to bottom species. The annual hypoxic zone survey was led by scient...",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/noaa-and-partners-find-smaller-than-anticipated-hypoxic-zone-in-gulf-of-america",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "zone",
-        "hypoxic",
-        "gulf",
-        "america",
-        "noaa",
-        "partners",
-        "find",
-        "smaller-than-anticipated"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:24.392766+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.934621+00:00"
     },
     {
       "id": "openalex-82bfb13f8d46",
@@ -1444,7 +1220,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:19.735693+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.681389+00:00"
     },
     {
       "id": "rss-61c6d7b63768",
@@ -1476,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.930859+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.934819+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -1508,7 +1284,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:19.733809+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.679498+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -1540,7 +1316,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.074497+00:00"
+      "_retrievedAt": "2026-08-09T07:13:50.471103+00:00"
     },
     {
       "id": "rss-d746300c673c",
@@ -1572,39 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.931023+00:00"
-    },
-    {
-      "id": "rss-e3531be54cc3",
-      "discipline": "geo",
-      "type": "news",
-      "title": "HEART Force: Students help solve community problems",
-      "authors": "NOAA News",
-      "abstract": "HEART Force: Students help solve community problems Big CIRES logo with smaller CU Boulder and NOAA logos on the right. (Image credit: CIRES at CU Boulder) Download Image July 24, 2026 A unique Colorado program gives students a seat at the table — and helps communities become safer, stronger, and more connected. Office of Education 0 Off",
-      "date": "2026-07-24",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/office-education/news/heart-force-students-help-solve-community-problems-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "students",
-        "heart",
-        "force",
-        "help",
-        "solve",
-        "community",
-        "problems",
-        "cires"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:24.393017+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.934981+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -1636,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.931190+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.935147+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1668,7 +1412,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.886205+00:00"
+      "_retrievedAt": "2026-08-09T07:13:51.361707+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -1700,7 +1444,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.887608+00:00"
+      "_retrievedAt": "2026-08-09T07:13:51.363064+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -1732,7 +1476,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.076553+00:00"
+      "_retrievedAt": "2026-08-09T07:13:50.473146+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -1764,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.931373+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.935312+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -1796,7 +1540,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.072964+00:00"
+      "_retrievedAt": "2026-08-09T07:13:50.469706+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1828,71 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.931524+00:00"
-    },
-    {
-      "id": "rss-289aae00ca76",
-      "discipline": "geo",
-      "type": "news",
-      "title": "West Coast Gray Whale Population Increases",
-      "authors": "NOAA News",
-      "abstract": "West Coast Gray Whale Population Increases Gray whales were nearly hunted to extinction by commercial whaling. Protections under the MMPA, ESA, and the end of commercial whaling have allowed the species to recover. (Image credit: NOAA Fisheries (Permit #19091).) Download Image July 17, 2026 0 Off",
-      "date": "2026-07-17",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/west-coast-gray-whale-estimate-shows-increase-new-count-determines-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "gray",
-        "west",
-        "coast",
-        "whale",
-        "population",
-        "increases",
-        "commercial",
-        "whaling"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:24.393227+00:00"
-    },
-    {
-      "id": "rss-67e6e4628573",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Humpback whale freed in Alaska",
-      "authors": "NOAA News",
-      "abstract": "Humpback whale freed in Alaska The NOAA Fisheries response team uses poles with specialized knives to cut entangling lines. (Image credit: Alaska Department of Fish and Game/Jamie Musbach (NOAA Fisheries Permit # 24359)) Download Image July 17, 2026 Fisheries whales 0 Off",
-      "date": "2026-07-17",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/humpback-whale-disentangled-in-alaska-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "alaska",
-        "fisheries",
-        "humpback",
-        "whale",
-        "freed",
-        "noaa",
-        "image",
-        "response"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:24.393466+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.935456+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -1924,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.931677+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.935640+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -1956,7 +1636,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:18.968702+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.062037+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -1988,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.931837+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.935820+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2020,7 +1700,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:19.737325+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.683029+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -2052,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.931990+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.935979+00:00"
     },
     {
       "id": "rss-d0967a459326",
@@ -2084,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:23.932166+00:00"
+      "_retrievedAt": "2026-08-09T07:13:56.936158+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2116,7 +1796,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.886938+00:00"
+      "_retrievedAt": "2026-08-09T07:13:51.362399+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2148,7 +1828,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:19.736067+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.681787+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2180,7 +1860,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.886596+00:00"
+      "_retrievedAt": "2026-08-09T07:13:51.362060+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2212,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:18.969262+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.062630+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2244,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.075618+00:00"
+      "_retrievedAt": "2026-08-09T07:13:50.472199+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2276,7 +1956,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.889254+00:00"
+      "_retrievedAt": "2026-08-09T07:13:51.364676+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2308,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.074841+00:00"
+      "_retrievedAt": "2026-08-09T07:13:50.471425+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2340,7 +2020,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.075266+00:00"
+      "_retrievedAt": "2026-08-09T07:13:50.471887+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2372,7 +2052,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:18.968912+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.062250+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -2404,7 +2084,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.889524+00:00"
+      "_retrievedAt": "2026-08-09T07:13:51.364903+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2436,7 +2116,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.074073+00:00"
+      "_retrievedAt": "2026-08-09T07:13:50.470731+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2468,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:18.971226+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.064642+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2500,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:19.738500+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.684160+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2532,7 +2212,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:19.739249+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.684912+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2564,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:19.736762+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.682444+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2596,7 +2276,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.072091+00:00"
+      "_retrievedAt": "2026-08-09T07:13:50.468890+00:00"
     },
     {
       "id": "openalex-1694495e202e",
@@ -2628,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.890017+00:00"
+      "_retrievedAt": "2026-08-09T07:13:51.365373+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2660,7 +2340,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:19.734948+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.680675+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2692,7 +2372,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.076201+00:00"
+      "_retrievedAt": "2026-08-09T07:13:50.472819+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2724,7 +2404,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.077043+00:00"
+      "_retrievedAt": "2026-08-09T07:13:50.473650+00:00"
     },
     {
       "id": "openalex-8611d8370ef3",
@@ -2756,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.888597+00:00"
+      "_retrievedAt": "2026-08-09T07:13:51.364019+00:00"
     },
     {
       "id": "openalex-fcbf1470edaa",
@@ -2788,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:19.736331+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.682054+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2820,7 +2500,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.073336+00:00"
+      "_retrievedAt": "2026-08-09T07:13:50.470066+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2852,7 +2532,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.071751+00:00"
+      "_retrievedAt": "2026-08-09T07:13:50.468534+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -2884,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:18.969996+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.063355+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2916,7 +2596,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.073607+00:00"
+      "_retrievedAt": "2026-08-09T07:13:50.470284+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2948,7 +2628,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.071309+00:00"
+      "_retrievedAt": "2026-08-09T07:13:50.468149+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -2980,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:18.971934+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.065336+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -3012,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:18.970288+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.063677+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -3044,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:19.734545+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.680249+00:00"
     },
     {
       "id": "openalex-b393cd9c8f8c",
@@ -3076,7 +2756,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.885601+00:00"
+      "_retrievedAt": "2026-08-09T07:13:51.361081+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -3108,7 +2788,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.072562+00:00"
+      "_retrievedAt": "2026-08-09T07:13:50.469312+00:00"
     },
     {
       "id": "openalex-e2538de02ecf",
@@ -3140,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:18.971600+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.065000+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -3172,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:19.738876+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.684524+00:00"
     },
     {
       "id": "openalex-0026215bd6f7",
@@ -3204,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:18.970588+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.063966+00:00"
     },
     {
       "id": "openalex-0014575d52b0",
@@ -3236,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:18.972253+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.065697+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -3268,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.887908+00:00"
+      "_retrievedAt": "2026-08-09T07:13:51.363356+00:00"
     },
     {
       "id": "openalex-ed9f0bc3f5cb",
@@ -3300,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.888881+00:00"
+      "_retrievedAt": "2026-08-09T07:13:51.364292+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -3332,7 +3012,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.075884+00:00"
+      "_retrievedAt": "2026-08-09T07:13:50.472458+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -3364,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:19.737752+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.683408+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -3396,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:17.885929+00:00"
+      "_retrievedAt": "2026-08-09T07:13:51.361408+00:00"
     },
     {
       "id": "openalex-b085d32d7fe5",
@@ -3428,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:18.973028+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.066467+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -3460,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:19.735279+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.681004+00:00"
     },
     {
       "id": "openalex-b405599e1257",
@@ -3492,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:19.737033+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.682738+00:00"
     },
     {
       "id": "openalex-ecc34b946b2e",
@@ -3524,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:18.972633+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.066066+00:00"
     },
     {
       "id": "openalex-b31b1eeff6ea",
@@ -3556,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:18.973451+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.066899+00:00"
     },
     {
       "id": "openalex-1c8cc4075423",
@@ -3588,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:19.738093+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.683774+00:00"
     },
     {
       "id": "openalex-a528e7ad7434",
@@ -3620,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-09T02:26:18.970910+00:00"
+      "_retrievedAt": "2026-08-09T07:13:52.064293+00:00"
     }
   ]
 }
