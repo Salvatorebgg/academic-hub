@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-08-11T13:39:38.492127+00:00",
+  "generatedAt": "2026-08-11T19:17:16.217668+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -7,452 +7,644 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-3bb9dcb1f8aa",
+      "id": "rss-f3651992480f",
       "discipline": "clinical",
       "type": "news",
-      "title": "New math model sheds light on multiple sclerosis relapse and recovery cycles",
+      "title": "Single-cell atlas reveals how spinal neurons help coordinate walking and other rhythmic movements",
       "authors": "Medical Xpress",
-      "abstract": "A new mathematical model that reproduces the relapsing-remitting pattern of multiple sclerosis (MS) offers scientists a tool to better understand how the disease progresses. The model, developed by QUT researchers from the School of Mathematical Sciences, is published in the Journal of the Royal Society Interface.",
+      "abstract": "Scientists at St. Jude Children's Research Hospital created a single-cell atlas of a key class of spinal neurons involved in motor coordination. From that resource, they identified a small subgroup of interneurons associated with the speed of rhythmic movements such as walking. The findings, which have implications for understanding spinal cord function and recovery from injury, are published in Nature Communications.",
       "date": "2026-08-11",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-math-multiple-sclerosis-relapse-recovery.html",
+      "url": "https://medicalxpress.com/news/2026-08-cell-atlas-reveals-spinal-neurons.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
+        "spinal",
+        "single-cell",
+        "atlas",
+        "neurons",
+        "walking",
+        "rhythmic",
+        "movements",
+        "reveals"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.523137+00:00"
+    },
+    {
+      "id": "rss-c3e4922b2850",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "27% of UK health care workers report long COVID symptoms",
+      "authors": "Medical Xpress",
+      "abstract": "More than one in four UK health care workers have been affected by long COVID, with symptoms lasting beyond three months, according to an NHS research program involving a UCL team.",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-uk-health-workers-covid-symptoms.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "health",
+        "care",
+        "workers",
+        "long",
+        "covid",
+        "symptoms",
+        "report",
+        "more"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.523403+00:00"
+    },
+    {
+      "id": "rss-a0e708b6c3e6",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "The difference between heat exhaustion and heatstroke explained",
+      "authors": "Medical Xpress",
+      "abstract": "With temperatures forecast to climb to 36°C (97°F) in parts of the UK, heat health alerts are once again in place—and for many people, it will mean more than an uncomfortable few days.",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-difference-exhaustion-heatstroke.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "heat",
+        "difference",
+        "exhaustion",
+        "heatstroke",
+        "explained",
+        "temperatures",
+        "forecast",
+        "climb"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.523690+00:00"
+    },
+    {
+      "id": "rss-8615919197bb",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "A free, continuously updated guide to bipolar disorder treatments",
+      "authors": "Medical Xpress",
+      "abstract": "The most comprehensive review to date has identified the most effective bipolar disorder treatments across different age groups and mood phases. It was published in The BMJ.",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-free-bipolar-disorder-treatments.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "bipolar",
+        "disorder",
+        "treatments",
+        "most",
+        "free",
+        "continuously",
+        "updated",
+        "guide"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.523925+00:00"
+    },
+    {
+      "id": "rss-9c1c14173176",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Sleep could help identify people at risk of developing Alzheimer's disease at an earlier stage",
+      "authors": "Medical Xpress",
+      "abstract": "What if certain signs of the disease were to manifest subtly during sleep, long before the first memory problems appear? This is the line of inquiry being explored by a team of researchers at ULiège.",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-people-alzheimer-disease-earlier-stage.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "sleep",
+        "disease",
+        "could",
+        "help",
+        "identify",
+        "people",
+        "risk",
+        "developing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.524181+00:00"
+    },
+    {
+      "id": "rss-f6ac659dd6c9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Youth mental health program saves nearly $10 for every dollar invested",
+      "authors": "Medical Xpress",
+      "abstract": "An innovative youth mental health service model can improve care and ease pressure on Canada's health care system, a new study led by researchers at McGill University demonstrates.",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-youth-mental-health-dollar-invested.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "health",
+        "youth",
+        "mental",
+        "care",
+        "program",
+        "saves",
+        "nearly",
+        "every"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.524414+00:00"
+    },
+    {
+      "id": "rss-5944241fb1aa",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "More screen time in childhood associated with better cognitive processing in adolescence",
+      "authors": "Medical Xpress",
+      "abstract": "In a study conducted at the Universities of Jyväskylä and Eastern Finland, more screen time since childhood was associated with better cognitive processing in adolescence. According to one of the researchers, we should not regard screen time solely as harmful. The most important thing is to find a balance between physical activity and screen time that promotes active thinking.",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-screen-childhood-cognitive-adolescence.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "screen",
+        "time",
+        "more",
+        "childhood",
+        "associated",
+        "better",
+        "cognitive",
+        "processing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.524746+00:00"
+    },
+    {
+      "id": "rss-8371043dd640",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Wearable microneedle patch empowers conventional ultrasound for continuous glucose monitoring",
+      "authors": "Medical Xpress",
+      "abstract": "Long-term diabetes management requires continuous blood glucose monitoring to detect abnormalities early and intervene in time. However, conventional fingertip blood sampling is both painful and inconvenient, while most continuous glucose monitoring (CGM) products currently available on the market rely on biological enzymes—requiring regular replacement, incurring higher costs and demanding stringent storage conditions.",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-wearable-microneedle-patch-empowers-conventional.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "continuous",
+        "glucose",
+        "monitoring",
+        "conventional",
+        "blood",
+        "wearable",
+        "microneedle",
+        "patch"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.525039+00:00"
+    },
+    {
+      "id": "rss-198d098f7c34",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Thyroid's two hormone-producing cell types develop separately before merging, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "The thyroid gland consists of two types of hormone-producing cells that regulate the body's metabolism and calcium balance. In mammals, these cell types merge into a single organ, whereas in other vertebrates, they develop into separate organs. How this fusion occurs has long remained unclear, even though developmental defects can lead to congenital abnormalities of the thyroid gland.",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-thyroid-hormone-cell-merging.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "thyroid",
+        "types",
+        "hormone-producing",
+        "cell",
+        "develop",
+        "gland",
+        "separately",
+        "before"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.525318+00:00"
+    },
+    {
+      "id": "rss-233e71185dc9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Wearable tech for babies shows that night awakenings more common than parents believe",
+      "authors": "Medical Xpress",
+      "abstract": "Almost half of Finnish parents feel that their infants' sleep is abnormal. However, measuring sleep disturbances is complicated. In her doctoral thesis, University of Helsinki researcher Sofie de Sena investigated infant sleep using a smart wearable system called NAPPA (NAPping PAnts). It measures infant sleep at home and provides information on body position, respiration and activity.",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-wearable-tech-babies-night-awakenings.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "sleep",
+        "wearable",
+        "that",
+        "parents",
+        "infant",
+        "tech",
+        "babies",
+        "shows"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.525617+00:00"
+    },
+    {
+      "id": "rss-19766346bf79",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Protein secreted by immune cells may help drive brain aging",
+      "authors": "Medical Xpress",
+      "abstract": "Brain-resident immune cells that have reached an old-age state called \"senescence\" secrete a protein that causes dysfunction in other brain cells, according to a study led by investigators at Weill Cornell Medicine. The discovery sheds light on how aging impairs memory and cognition and makes the brain vulnerable to neurodegenerative disorders.",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-protein-secreted-immune-cells-brain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cells",
+        "brain",
+        "protein",
+        "immune",
+        "aging",
+        "that",
+        "secreted",
+        "help"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.525873+00:00"
+    },
+    {
+      "id": "rss-7e00ee69d7b0",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Digital training program helps support consistent symptom monitoring in outpatient psychiatry",
+      "authors": "Medical Xpress",
+      "abstract": "Questionnaires that track depression, anxiety and other symptoms can help psychiatrists determine whether a patient is improving. But incorporating those measures into routine care requires clinicians to know how to interpret the results and use them in treatment decisions.",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-digital-symptom-outpatient-psychiatry.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "digital",
+        "training",
+        "program",
+        "helps",
+        "support",
+        "consistent",
+        "symptom",
+        "monitoring"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.526114+00:00"
+    },
+    {
+      "id": "rss-604f0c1db957",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Detection of optic nerve inflammation enables earlier multiple sclerosis diagnoses",
+      "authors": "Medical Xpress",
+      "abstract": "Multiple sclerosis (MS) is the most common chronic autoimmune disease of the central nervous system. An early and accurate diagnosis is crucial for improving the effectiveness of treatment and reducing nerve damage. To standardize and speed up diagnosis, the so-called McDonald criteria were introduced in 2001 and have since been revised several times. They combine clinical findings—such as visual disturbances, sensory disturbances or unsteadiness of gait—with results from magnetic resonance imaging (MRI), which reveals changes in the brain and spinal cord, as well as inflammatory markers in the cerebrospinal fluid.",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-optic-nerve-inflammation-enables-earlier.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nerve",
         "multiple",
         "sclerosis",
-        "mathematical",
-        "math",
-        "sheds",
-        "light",
-        "relapse",
-        "recovery"
+        "diagnosis",
+        "disturbances",
+        "detection",
+        "optic",
+        "inflammation"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.015038+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.526466+00:00"
     },
     {
-      "id": "rss-601da53d0496",
+      "id": "rss-61999e8136e5",
       "discipline": "clinical",
       "type": "news",
-      "title": "Long before adulthood, a chemical mark may quietly shape how the brain handles stress",
+      "title": "Bone deterioration alone does not explain the higher fracture risk in older adults with type 2 diabetes",
       "authors": "Medical Xpress",
-      "abstract": "Stress or trauma during childhood may leave people more vulnerable to mental health struggles and stress later in life. Scientists think one reason could be that early-life stress leaves lasting molecular bookmarks on DNA, without changing the genetic sequence itself. A recent study published in the Journal of Neuroscience digs deeper into the biology of chemical marks left behind by stress.",
+      "abstract": "A new study published in Diabetes Care finds that bone loss alone does not explain the increased fracture risk observed in some older adults with type 2 diabetes. The article, \"Type 2 Diabetes and Longitudinal Changes in Cortical and Trabecular Bone Density, Microarchitecture, and Strength: The Framingham Study,\" sought to better understand why people with type 2 diabetes are at greater risk of fractures.",
       "date": "2026-08-11",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-adulthood-chemical-quietly-brain-stress.html",
+      "url": "https://medicalxpress.com/news/2026-08-bone-deterioration-higher-fracture-older.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "stress",
-        "chemical",
-        "long",
-        "before",
-        "adulthood",
-        "mark",
-        "quietly",
-        "shape"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.015260+00:00"
-    },
-    {
-      "id": "rss-27564cbdb2f0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Steroids reduce inflammation in chronic mycobacterial lung infections without limiting antimicrobial defense",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers from Trinity College Dublin and St. James's Hospital have shown that dexamethasone, a commonly prescribed anti-inflammatory steroid, can reduce harmful inflammation triggered by Mycobacterium avium without weakening the ability of human immune cells to control the infection.",
-      "date": "2026-08-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-steroids-inflammation-chronic-mycobacterial-lung.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "reduce",
-        "inflammation",
-        "without",
-        "steroids",
-        "chronic",
-        "mycobacterial",
-        "lung",
-        "infections"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.015437+00:00"
-    },
-    {
-      "id": "rss-1752ae26a42d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Balancing heart risk and surgical delays in complex preoperative care",
-      "authors": "Medical Xpress",
-      "abstract": "In a new Annals \"Beyond the Guidelines\" feature, a general internal medicine physician and a cardiologist discuss how to evaluate and manage perioperative cardiovascular risk in an older patient with multiple chronic conditions who is preparing for noncardiac surgery. Using the 2024 American Heart Association/American College of Cardiology guideline, which emphasizes a stepwise patient-centered and team-based approach to preoperative cardiac assessment, the experts explore how clinicians can balance the need for preoperative testing with the risks of unnecessary procedures and surgical delays.",
-      "date": "2026-08-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-heart-surgical-delays-complex-preoperative.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "preoperative",
-        "heart",
-        "risk",
-        "surgical",
-        "delays",
-        "american",
-        "balancing",
-        "complex"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.015654+00:00"
-    },
-    {
-      "id": "rss-71a156d3bc57",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Dietary advice leaves a 'bitter' taste",
-      "authors": "Medical Xpress",
-      "abstract": "New research investigated the dietary preferences of 9,000 Australians, finding that people whose diets included foods with higher levels of 'bitterness' had healthier, more nutritious diets.",
-      "date": "2026-08-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-dietary-advice-bitter.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "dietary",
-        "diets",
-        "advice",
-        "leaves",
-        "bitter",
-        "taste",
-        "investigated",
-        "preferences"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.015802+00:00"
-    },
-    {
-      "id": "rss-a02f2040bdb2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Portable eye exam equipment aims to reduce barriers in rural health care",
-      "authors": "Medical Xpress",
-      "abstract": "Around 75% of American adults need vision correction, but access to eye care remains uneven, particularly in rural communities and for patients with mobility limitations. To help close those gaps, Dr. Nick Panzo and Dr. Hamza Memon, Texas A&M University School of Engineering Medicine (EnMed) graduates, are developing portable eye exam equipment about the size of a virtual reality headset. The device is designed to make comprehensive eye exams more accessible by bringing a key piece of ophthalmology equipment out of clinics and into a wider range of health care settings.",
-      "date": "2026-08-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-portable-eye-exam-equipment-aims.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "equipment",
-        "care",
-        "portable",
-        "exam",
-        "rural",
-        "health",
-        "aims",
-        "reduce"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.016020+00:00"
-    },
-    {
-      "id": "rss-a08ce3116ea2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Improving inpatient diabetes care with team approach that puts safety first",
-      "authors": "Medical Xpress",
-      "abstract": "UC Davis Health has significantly and sustainably improved inpatient glycemic care through a coordinated, system-wide approach, according to a study published in Diabetes, Obesity, and Cardiometabolic Care. The article describes how UC Davis Health developed and implemented a multidisciplinary inpatient glycemic management model that improved blood glucose outcomes across the medical center without increasing hypoglycemia—a critical patient safety concern in hospitalized populations.",
-      "date": "2026-08-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-inpatient-diabetes-team-approach-safety.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "inpatient",
-        "care",
         "diabetes",
-        "approach",
-        "that",
-        "safety",
-        "davis",
-        "health"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.016233+00:00"
-    },
-    {
-      "id": "rss-58355379d697",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Sarcoidosis shifts lung immune-cell communication, single-cell data suggest",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at National Jewish Health and partner institutions have discovered specific changes in immune cells in the lungs of people with sarcoidosis. Their findings help explain how this inflammatory disease develops and could support the development of new treatments in the future.",
-      "date": "2026-08-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-reveal-insights-immune-cell-sarcoidosis.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "sarcoidosis",
-        "shifts",
-        "lung",
-        "immune-cell",
-        "communication",
-        "single-cell",
-        "suggest",
-        "researchers"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.016398+00:00"
-    },
-    {
-      "id": "rss-9bb58f5d15b2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Endocrine-disrupting chemical exposure may be linked to high blood pressure during pregnancy",
-      "authors": "Medical Xpress",
-      "abstract": "Phthalates, which are chemicals found in plastics, personal care products and hundreds of other consumer goods, may contribute to high blood pressure in pregnant women, according to a study published in the Journal of the Endocrine Society.",
-      "date": "2026-08-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-endocrine-disrupting-chemical-exposure-linked.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "high",
-        "blood",
-        "pressure",
-        "endocrine-disrupting",
-        "chemical",
-        "exposure",
-        "linked",
-        "during"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.016566+00:00"
-    },
-    {
-      "id": "rss-67f7b121fe27",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Have trouble sleeping in a new place? Most do because of the first-night effect",
-      "authors": "Medical Xpress",
-      "abstract": "The first night in a new place is always the same for Robinson Leoni: He takes longer to fall asleep, wakes up more often during the night and gets less sleep overall.",
-      "date": "2026-08-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-night-effect.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "place",
-        "night",
-        "have",
-        "trouble",
-        "sleeping",
-        "most",
-        "because",
-        "first-night"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.016718+00:00"
-    },
-    {
-      "id": "rss-ae424a109c78",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Brain immune cell map explains how defenses shift during Alzheimer's progression",
-      "authors": "Medical Xpress",
-      "abstract": "The brain's immune cells are increasingly recognized as key players in Alzheimer's disease, but exactly how they change as the disease develops has remained unclear. A new study published in Nature Genetics provides the most comprehensive map to date of these cells, identifying a protective subtype of brain immune cells that expands as Alzheimer's disease progresses and uncovering the molecular pathway that enables these cells to help defend the brain. The findings offer new insights that could inform future Alzheimer's therapies.",
-      "date": "2026-08-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-brain-immune-cell-defenses-shift.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "brain",
-        "alzheimer",
-        "cells",
-        "immune",
-        "disease",
-        "that",
-        "these",
-        "cell"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.016914+00:00"
-    },
-    {
-      "id": "rss-6bb20bd35ae8",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Sugar restriction in first 1,000 days from conception linked to lower risk for dementia",
-      "authors": "Medical Xpress",
-      "abstract": "Sugar restriction in the first 1,000 days from conception is associated with a lower risk of dementia, according to a study published online July 29 in Neurology.",
-      "date": "2026-08-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-sugar-restriction-days-conception-linked.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "sugar",
-        "restriction",
-        "first",
-        "days",
-        "conception",
-        "lower",
+        "type",
+        "bone",
         "risk",
-        "dementia"
+        "alone",
+        "does",
+        "explain",
+        "fracture"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.017056+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.526750+00:00"
     },
     {
-      "id": "rss-f96beaa45c02",
-      "discipline": "clinical",
+      "id": "rss-e1c20b00aaaf",
+      "discipline": "cs",
       "type": "news",
-      "title": "New melanoma drug based on herpes virus granted FDA accelerated approval",
-      "authors": "Medical Xpress",
-      "abstract": "Federal regulators have granted accelerated approval to a novel therapy for advanced melanoma—giving doctors another weapon to fight this challenging skin cancer.",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
       "date": "2026-08-11",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-melanoma-drug-based-herpes-virus.html",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "melanoma",
-        "granted",
-        "accelerated",
-        "approval",
-        "drug",
-        "herpes",
-        "virus",
-        "federal"
+        "openai",
+        "chatgpt",
+        "desktop",
+        "linux",
+        "launches",
+        "finally",
+        "bringing",
+        "dedicated"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.017210+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.586635+00:00"
     },
     {
-      "id": "rss-d700c91e0257",
-      "discipline": "clinical",
+      "id": "rss-c1393f767ebf",
+      "discipline": "cs",
       "type": "news",
-      "title": "AAP releases influenza vaccine recommendations for all children 6 months and older",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers from the American Academy of Pediatrics Committee on Infectious Diseases updated recommendations for the use of influenza vaccines and antiviral medications in the prevention and treatment of influenza in children during the 2026–2027 influenza season.",
+      "title": "Google’s Gemini app surges to one billion users",
+      "authors": "TechCrunch AI",
+      "abstract": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
       "date": "2026-08-11",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-aap-influenza-vaccine-children-months.html",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "influenza",
-        "recommendations",
-        "children",
-        "releases",
-        "vaccine",
-        "months",
-        "older",
-        "researchers"
+        "gemini",
+        "billion",
+        "users",
+        "google",
+        "surges",
+        "keeping",
+        "pace",
+        "openai"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.017375+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.586923+00:00"
+    },
+    {
+      "id": "rss-312462f7c632",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "authors": "TechCrunch AI",
+      "abstract": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "openai",
+        "longtime",
+        "brad",
+        "lightcap",
+        "leaving",
+        "start",
+        "something",
+        "longest-serving"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.587184+00:00"
+    },
+    {
+      "id": "rss-1e80ec34fcda",
+      "discipline": "cs",
+      "type": "news",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "authors": "TechCrunch AI",
+      "abstract": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "river",
+        "general",
+        "catalyst",
+        "leads",
+        "round",
+        "month-old",
+        "startup",
+        "founded"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.587406+00:00"
+    },
+    {
+      "id": "rss-f8967fc9fddf",
+      "discipline": "cs",
+      "type": "news",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "authors": "TechCrunch AI",
+      "abstract": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "anthropic",
+        "made",
+        "progress",
+        "unsolved",
+        "problems",
+        "more",
+        "than",
+        "unreleased"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.587699+00:00"
+    },
+    {
+      "id": "rss-7b1f5371ca3e",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "authors": "TechCrunch AI",
+      "abstract": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "spotify",
+        "will",
+        "persona",
+        "profiles",
+        "exclude",
+        "their",
+        "music",
+        "recommendations"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.587890+00:00"
     },
     {
       "id": "rss-5f692f21bcb2",
@@ -484,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.081486+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.588041+00:00"
     },
     {
       "id": "rss-9f0d4f63b8ee",
@@ -516,7 +708,327 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.081678+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.588181+00:00"
+    },
+    {
+      "id": "rss-9e943868ef25",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Madeline Yarkin",
+      "authors": "NOAA News",
+      "abstract": "Animal Science California Polytechnic State University-San Luis Obispo Hollings Scholarship 2026",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/hollings-scholarship/our-people/madeline-yarkin",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "madeline",
+        "yarkin",
+        "animal",
+        "california",
+        "polytechnic",
+        "state",
+        "university-san",
+        "luis"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.940064+00:00"
+    },
+    {
+      "id": "rss-83a26370caba",
+      "discipline": "geo",
+      "type": "news",
+      "title": "David Winchester",
+      "authors": "NOAA News",
+      "abstract": "Mechanical Engineering Morehouse College Hollings Scholarship 2026",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/hollings-scholarship/our-people/david-winchester",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "david",
+        "winchester",
+        "mechanical",
+        "engineering",
+        "morehouse",
+        "college",
+        "hollings",
+        "scholarship"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.940263+00:00"
+    },
+    {
+      "id": "rss-2125ae46d0b0",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Amberlyn Wilson",
+      "authors": "NOAA News",
+      "abstract": "Marine Biology Nova Southeastern University Hollings Scholarship 2026",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/hollings-scholarship/our-people/amberlyn-wilson",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "amberlyn",
+        "wilson",
+        "marine",
+        "biology",
+        "nova",
+        "southeastern",
+        "university",
+        "hollings"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.940430+00:00"
+    },
+    {
+      "id": "rss-584592a2ff86",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Rohan Warrier",
+      "authors": "NOAA News",
+      "abstract": "Economics University of Maryland College Park Hollings Scholarship 2026",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/hollings-scholarship/our-people/rohan-warrier",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "rohan",
+        "warrier",
+        "economics",
+        "university",
+        "maryland",
+        "college",
+        "park",
+        "hollings"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.940621+00:00"
+    },
+    {
+      "id": "rss-78bb94bacc5f",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Jenny Wang",
+      "authors": "NOAA News",
+      "abstract": "Computer Science University of Maryland College Park Hollings Scholarship 2026",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/hollings-scholarship/our-people/jenny-wang",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "jenny",
+        "wang",
+        "computer",
+        "university",
+        "maryland",
+        "college",
+        "park",
+        "hollings"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.940785+00:00"
+    },
+    {
+      "id": "rss-b55136a98d41",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Sophia Voulgaris",
+      "authors": "NOAA News",
+      "abstract": "Electrical Engineering Clemson University Hollings Scholarship 2026",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/hollings-scholarship/our-people/sophia-voulgaris",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "sophia",
+        "voulgaris",
+        "electrical",
+        "engineering",
+        "clemson",
+        "university",
+        "hollings",
+        "scholarship"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.940944+00:00"
+    },
+    {
+      "id": "rss-a7e6d1b68b98",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Milla Vogelezang-Liu",
+      "authors": "NOAA News",
+      "abstract": "Chemical Engineering Brown University Hollings Scholarship 2026",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/hollings-scholarship/our-people/milla-vogelezang-liu",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "milla",
+        "vogelezang-liu",
+        "chemical",
+        "engineering",
+        "brown",
+        "university",
+        "hollings",
+        "scholarship"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.941107+00:00"
+    },
+    {
+      "id": "rss-427a35a4ac00",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Leila Vergara",
+      "authors": "NOAA News",
+      "abstract": "Environmental Policy University of Maryland College Park Hollings Scholarship 2026",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/hollings-scholarship/our-people/leila-vergara",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "leila",
+        "vergara",
+        "environmental",
+        "policy",
+        "university",
+        "maryland",
+        "college",
+        "park"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.941270+00:00"
+    },
+    {
+      "id": "rss-9659fab4b6e3",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Wyatt Van Dyke",
+      "authors": "NOAA News",
+      "abstract": "Meteorology Iowa State University Hollings Scholarship 2026",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/hollings-scholarship/our-people/wyatt-van-dyke",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "wyatt",
+        "dyke",
+        "meteorology",
+        "iowa",
+        "state",
+        "university",
+        "hollings",
+        "scholarship"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.941404+00:00"
+    },
+    {
+      "id": "rss-aa3c598413ba",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Courtney Urbanek",
+      "authors": "NOAA News",
+      "abstract": "Wildlife Ecology University of Wisconsin-Madison Hollings Scholarship 2026",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/hollings-scholarship/our-people/courtney-urbanek",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "courtney",
+        "urbanek",
+        "wildlife",
+        "ecology",
+        "university",
+        "wisconsin-madison",
+        "hollings",
+        "scholarship"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:15.941569+00:00"
     },
     {
       "id": "rss-28ee317ce026",
@@ -548,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.081797+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.588333+00:00"
     },
     {
       "id": "rss-ae8654a75424",
@@ -580,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.081931+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.588570+00:00"
     },
     {
       "id": "rss-aa80a2aae089",
@@ -612,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.082043+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.588744+00:00"
     },
     {
       "id": "rss-43166a2e6d23",
@@ -644,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.082174+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.588928+00:00"
     },
     {
       "id": "rss-7cbd24edc061",
@@ -676,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.082278+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.589082+00:00"
     },
     {
       "id": "rss-fdb29d787f22",
@@ -708,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.153623+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.718921+00:00"
     },
     {
       "id": "rss-64fd81d10b37",
@@ -740,167 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.082375+00:00"
-    },
-    {
-      "id": "rss-70326a2f3382",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "authors": "TechCrunch AI",
-      "abstract": "Programming with Claude Code will soon require even less human oversight.",
-      "date": "2026-08-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "claude",
-        "code",
-        "anthropic",
-        "turning",
-        "auto",
-        "mode",
-        "default",
-        "programming"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.082475+00:00"
-    },
-    {
-      "id": "rss-440813c0e156",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "authors": "TechCrunch AI",
-      "abstract": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-      "date": "2026-08-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "jill",
-        "lepore",
-        "fiction",
-        "historian",
-        "says",
-        "silicon",
-        "valley",
-        "misreads"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.082601+00:00"
-    },
-    {
-      "id": "rss-2c2450ed258e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The AI safety test is becoming a safety risk",
-      "authors": "TechCrunch AI",
-      "abstract": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.",
-      "date": "2026-08-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "safety",
-        "test",
-        "becoming",
-        "risk",
-        "agents",
-        "escaping",
-        "cybersecurity",
-        "testing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.082712+00:00"
-    },
-    {
-      "id": "rss-1ba43abc9115",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
-      "authors": "TechCrunch AI",
-      "abstract": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040.",
-      "date": "2026-08-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "amazon",
-        "carbon",
-        "emissions",
-        "planned",
-        "center",
-        "could",
-        "become",
-        "biggest"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.082841+00:00"
-    },
-    {
-      "id": "rss-d0d0c88d1fe7",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "authors": "TechCrunch AI",
-      "abstract": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”",
-      "date": "2026-08-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "presentation",
-        "startup",
-        "openai",
-        "acquires",
-        "nextslide",
-        "founder",
-        "ahmed",
-        "beshry"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.082951+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.589229+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -932,135 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:33.481051+00:00"
-    },
-    {
-      "id": "rss-ef596fa80f1f",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "authors": "TechCrunch AI",
-      "abstract": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "date": "2026-08-07",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "openai",
-        "development",
-        "says",
-        "slowed",
-        "astra",
-        "over",
-        "security",
-        "concerns"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.083069+00:00"
-    },
-    {
-      "id": "rss-a67dae29b725",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Environmental education in action at Fla.'s Guana Tolomato Matanzas Reserve",
-      "authors": "NOAA News",
-      "abstract": "Environmental education in action at Fla.'s Guana Tolomato Matanzas Reserve A view of Moses Creek conservation area in Florida's Guana Tolomato Matanzas Reserve. (Image credit: NOAA) Download Image August 7, 2026 Ocean & Coasts 0 Off",
-      "date": "2026-08-07",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/environmental-education-in-action-at-guana-tolomato-matanzas-reserve-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "guana",
-        "tolomato",
-        "matanzas",
-        "reserve",
-        "environmental",
-        "education",
-        "action",
-        "image"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.291627+00:00"
-    },
-    {
-      "id": "rss-dd9abed37891",
-      "discipline": "geo",
-      "type": "news",
-      "title": "The USS Monitor, Part 1: History and Legacy",
-      "authors": "NOAA News",
-      "abstract": "The USS Monitor, Part 1: History and Legacy July 26, 2026 The USS Monitor, Part 1: History and Legacy Sanctuaries heritage history shipwreck sanctuaries Heritage stories 0 0 Off 0",
-      "date": "2026-08-07",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/multimedia/podcast/uss-monitor-part-1-history-and-legacy-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "history",
-        "monitor",
-        "part",
-        "legacy",
-        "sanctuaries",
-        "heritage",
-        "july",
-        "shipwreck"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.291771+00:00"
-    },
-    {
-      "id": "rss-6962610856a0",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Pacific Hurricanes Fausto and Genevieve actually had origins near Africa",
-      "authors": "NOAA News",
-      "abstract": "Pacific Hurricanes Fausto and Genevieve actually had origins near Africa NOAA satellites track hurricanes from their earliest beginnings NOAA's GOES West satellite captured this image of three tropical cyclones — Hurricanes Fausto and Genevieve and Typhoon Dolphin — swirling simultaneously in the Pacific Ocean. The image was taken on Tuesday, July 27, at 3:30 PM PDT/ 22:30 UTC. None of the three tropical cyclones made landfall in the United States. Fausto contributed to high surf conditions in Hawaii, and Genevieve also brought high surf to southern California. Typhoon Dolphin continued its track west toward Asia. (Image credit: NOAA Satellites) Download Image August 6, 2026 It may be surprising, but two of the hurricanes that swirled in the Pacific last week began their journeys thousands of miles away off the western coast of Africa. Both Hurricanes Fausto and Genevieve developed fr...",
-      "date": "2026-08-06",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/pacific-hurricanes-fausto-and-genevieve-actually-had-origins-near-africa",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hurricanes",
-        "fausto",
-        "genevieve",
-        "pacific",
-        "image",
-        "africa",
-        "noaa",
-        "actually"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.292220+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.997356+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1092,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:33.481299+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.997728+00:00"
     },
     {
       "id": "rss-ead5f2bab0c6",
@@ -1124,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.153745+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.719090+00:00"
     },
     {
       "id": "rss-a22dcd5db9ed",
@@ -1156,71 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.153858+00:00"
-    },
-    {
-      "id": "rss-933ba0ff85bb",
-      "discipline": "geo",
-      "type": "news",
-      "title": "New turbulence detection tool aims to make commercial flights smoother",
-      "authors": "NOAA News",
-      "abstract": "New turbulence detection tool aims to make commercial flights smoother An American Eagle Embraer E175LR plane approaches Ronald Reagan National Airport (DCA) on May 16, 2026, in Washington, DC. (Image credit: Al Drago/Getty Images) August 4, 2026 Weather aviation weather forecasting 0 Off",
-      "date": "2026-08-04",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news/new-turbulence-detection-tool-aims-to-make-commercial-flights-smoother-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "turbulence",
-        "detection",
-        "tool",
-        "aims",
-        "make",
-        "commercial",
-        "flights",
-        "smoother"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.292380+00:00"
-    },
-    {
-      "id": "rss-80e5754b3acd",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA Announces 2026 Small Business of the Year Award Recipient",
-      "authors": "NOAA News",
-      "abstract": "NOAA Announces 2026 Small Business of the Year Award Recipient August 4, 2026 NOAA has named Industrial Economics, Inc. (IEc) as its Small Business of the Year, honoring the firm for exceptional performance, technical innovation, and outstanding environmental stewardship in executing a complex marine restoration project. Faced with challenging environmental conditions and significant logistical delays, IEc leveraged cutting-edge technical and process innovations to safely repair damaged reef infrastructure and accelerate long-term ecosystem recovery. The team’s operational agility and seamless execution allowed them to maintain a flawless safety record while substantially exceeding target goals for restored habitat area. NOAA commends Industrial Economics, Inc. for its unwavering commitment to excellence, field safety, and dedication to protecting vital marine habitats. Acquisition &...",
-      "date": "2026-08-04",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/acquisition-grants/small-business/news/noaa-announces-2026-small-business-of-year-award-recipient",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "small",
-        "business",
-        "year",
-        "announces",
-        "award",
-        "recipient",
-        "industrial"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.292662+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.719251+00:00"
     },
     {
       "id": "rss-bfc25c3f4f29",
@@ -1252,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.153964+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.719405+00:00"
     },
     {
       "id": "openalex-5abd16320b31",
@@ -1284,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:33.482176+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.998958+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -1316,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:33.479505+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.995127+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -1330,7 +1490,7 @@ window.LIVE_FEED_DATA = {
       "journal": "University of Southern Queensland ePrints (University of Southern Queensland)",
       "source": "University of Southern Queensland ePrints (University of Southern Queensland)",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.26192/9z73z",
+      "url": "http://eprints.usq.edu.au/6646/1/Lam-Dao_2009_front.pdf",
       "doi": "10.26192/9z73z",
       "pdfUrl": "http://eprints.usq.edu.au/6646/3/Lam-Dao_2009_whole.pdf",
       "keywords": [
@@ -1348,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.736562+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.997141+00:00"
     },
     {
       "id": "rss-f7328a645416",
@@ -1380,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.154067+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.719625+00:00"
     },
     {
       "id": "rss-22e3c70241d7",
@@ -1412,71 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.154182+00:00"
-    },
-    {
-      "id": "rss-164ec90a306e",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA maintains prediction for below-normal Atlantic hurricane season",
-      "authors": "NOAA News",
-      "abstract": "NOAA maintains prediction for below-normal Atlantic hurricane season Preparedness remains key throughout the season August 6, 2026 This image of Tropical Storm Bertha was captured by NOAA's GOES East (GOES-19 satellite) on July 22, 2026 at 1:15 p.m. ET. (Image credit: Tropical Storm Bertha captured by NOAA Satellites) Download Image With the climatological peak of hurricane season approaching in early September, NOAA’s prediction for below-normal activity in the Atlantic basin remains. Forecasters from NOAA’s National Weather Service updated today the number of expected named storms to 7-13 (with winds of 39 mph or greater), of which 2-6 could become hurricanes (winds of 74 mph or greater), including 0-2 major hurricanes (winds of 111 mph or greater). These ranges cover the entire season from June 1 through November 30 and are inclusive of the two tropical storms that have already for...",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/noaa-maintains-prediction-for-below-normal-atlantic-hurricane-season",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "season",
-        "prediction",
-        "below-normal",
-        "atlantic",
-        "hurricane",
-        "image",
-        "tropical"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.293135+00:00"
-    },
-    {
-      "id": "rss-82cbbc4a1e19",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA and partners find smaller-than-anticipated hypoxic zone in Gulf of America",
-      "authors": "NOAA News",
-      "abstract": "NOAA and partners find smaller-than-anticipated hypoxic zone in Gulf of America Tropical Storm Bertha mixed water column, reducing size August 5, 2026 Measuring a 'dead zone': Scientists retrieve the CTD (conductivity, temperature, depth) package of ocean sensors after profiling dissolved oxygen at a station during the Shelfwide Hypoxia Cruise in the Gulf of America. (Image credit: Courtesy of Cassandra Glaspie/LSU) Download Image NOAA-supported scientists announced today that this year’s Gulf of America hypoxic zone is approximately 1,332 square miles, making it the 2nd smallest zone on record in 40 years of measurement. Hypoxic areas, also called “dead zones,” are areas with little to no oxygen in the water, which can negatively impact fish, shellfish, corals and aquatic plants by making critical habitat unavailable to bottom species. The annual hypoxic zone survey was led by scient...",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/noaa-and-partners-find-smaller-than-anticipated-hypoxic-zone-in-gulf-of-america",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "zone",
-        "hypoxic",
-        "gulf",
-        "america",
-        "noaa",
-        "partners",
-        "find",
-        "smaller-than-anticipated"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.293632+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.719803+00:00"
     },
     {
       "id": "openalex-82bfb13f8d46",
@@ -1508,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.738238+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.999487+00:00"
     },
     {
       "id": "rss-61c6d7b63768",
@@ -1540,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.154296+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.719977+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -1572,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.736842+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.997530+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -1604,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:32.335184+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.392795+00:00"
     },
     {
       "id": "rss-d746300c673c",
@@ -1636,39 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.154402+00:00"
-    },
-    {
-      "id": "rss-e3531be54cc3",
-      "discipline": "geo",
-      "type": "news",
-      "title": "HEART Force: Students help solve community problems",
-      "authors": "NOAA News",
-      "abstract": "HEART Force: Students help solve community problems Big CIRES logo with smaller CU Boulder and NOAA logos on the right. (Image credit: CIRES at CU Boulder) Download Image July 24, 2026 A unique Colorado program gives students a seat at the table — and helps communities become safer, stronger, and more connected. Office of Education 0 Off",
-      "date": "2026-07-24",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/office-education/news/heart-force-students-help-solve-community-problems-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "students",
-        "heart",
-        "force",
-        "help",
-        "solve",
-        "community",
-        "problems",
-        "cires"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.293818+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.720139+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -1700,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.154511+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.720305+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1732,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:33.480268+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.996272+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -1764,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:33.481512+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.998012+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -1796,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:32.336637+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.394783+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -1828,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.154663+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.720492+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -1860,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:32.334201+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.391409+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1892,71 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.154761+00:00"
-    },
-    {
-      "id": "rss-289aae00ca76",
-      "discipline": "geo",
-      "type": "news",
-      "title": "West Coast Gray Whale Population Increases",
-      "authors": "NOAA News",
-      "abstract": "West Coast Gray Whale Population Increases Gray whales were nearly hunted to extinction by commercial whaling. Protections under the MMPA, ESA, and the end of commercial whaling have allowed the species to recover. (Image credit: NOAA Fisheries (Permit #19091).) Download Image July 17, 2026 0 Off",
-      "date": "2026-07-17",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/west-coast-gray-whale-estimate-shows-increase-new-count-determines-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "gray",
-        "west",
-        "coast",
-        "whale",
-        "population",
-        "increases",
-        "commercial",
-        "whaling"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.293961+00:00"
-    },
-    {
-      "id": "rss-67e6e4628573",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Humpback whale freed in Alaska",
-      "authors": "NOAA News",
-      "abstract": "Humpback whale freed in Alaska The NOAA Fisheries response team uses poles with specialized knives to cut entangling lines. (Image credit: Alaska Department of Fish and Game/Jamie Musbach (NOAA Fisheries Permit # 24359)) Download Image July 17, 2026 Fisheries whales 0 Off",
-      "date": "2026-07-17",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/humpback-whale-disentangled-in-alaska-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "alaska",
-        "fisheries",
-        "humpback",
-        "whale",
-        "freed",
-        "noaa",
-        "image",
-        "response"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.294105+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.720647+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:33.481953+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.998640+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.154862+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.720799+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.172332+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.555592+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.154965+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.720959+00:00"
     },
     {
       "id": "openalex-11754f2742e9",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:33.482383+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.999243+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.739410+00:00"
+      "_retrievedAt": "2026-08-11T19:17:11.001901+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:38.155063+00:00"
+      "_retrievedAt": "2026-08-11T19:17:15.721111+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:33.480781+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.996985+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.738510+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.999863+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:33.480532+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.996644+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.172772+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.556159+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:32.335964+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.393869+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:32.335420+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.393118+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:32.335739+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.393551+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2436,7 +2436,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.172487+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.555805+00:00"
+    },
+    {
+      "id": "openalex-6c44a5bfc030",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Omics-driven plant breeding through phenomics-enviromics crosstalk",
+      "authors": "Huihui Li, Shang Gao, Takele Weldu Gebrewahid, Wenxue Li, Jiankang Wang, Zanping Han",
+      "abstract": "Genomics, including all molecular omics, is driven by molecular data, while phenomics and enviromics rely on phenotypic and environmental data. Yet phenotyping is often conducted under poorly characterized environments, limiting the interpretation of phenotypic variation and constraining genetic gain. Integrating high-throughput phenotyping with envirotyping is hence vital to resolve genomic effects. This perspective introduces phenomics-enviromics (PE) crosstalk as a framework for coordinated data collection and integration to advance omics and precision plant breeding. Satellites, unmanned aerial and ground vehicles, and controlled indoor facilities, combined with AI-assisted typing technologies and modeling, are establishing the basis for synchronous, high-throughput PE crosstalk to enhance interpretability, prediction, and crop resilience. Genomics, phenomics, and enviromics const...",
+      "date": "2026-06-12",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-73097-x",
+      "doi": "10.1038/s41467-026-73097-x",
+      "pdfUrl": "https://www.nature.com/articles/s41467-026-73097-x_reference.pdf",
+      "keywords": [
+        "Phenomics",
+        "Crosstalk",
+        "Limiting",
+        "Biology",
+        "Computational biology",
+        "Genetic Mapping and Diversity in Plants and Animals",
+        "Smart Agriculture and AI",
+        "Remote Sensing in Agriculture"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:11.002200+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2468,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:32.334921+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.392405+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2500,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.174221+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.558502+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2528,43 +2560,11 @@ window.LIVE_FEED_DATA = {
         "Systems Engineering Methodologies and Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 3,
+      "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.740234+00:00"
-    },
-    {
-      "id": "openalex-0f151e5548fe",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Metaheuristic-optimized machine learning framework for remote sensing-based alteration mapping of porphyry copper systems",
-      "authors": "Mahnaz Mahboobi, Homayoon Katibeh, Yousef Bahrami, Amin Beiranvand Pour",
-      "abstract": "Remote sensing-based hydrothermal alteration mapping is a pivotal technique in critical mineral exploration, particularly for identifying porphyry copper deposits (PCDs). However, conventional multispectral approaches are often constrained by linear assumptions, spectral mixing, and suboptimal parameter selection, limiting their ability to resolve complex alteration assemblages. This study presents a metaheuristic-optimized machine learning framework that integrates Boosted Trees (BT) and Quadratic Support Vector Machines (QSVM) with the Shuffled Frog Leaping Algorithm (SFLA) to improve alteration zone discrimination using multispectral satellite imagery. ASTER shortwave infrared bands were combined with Sentinel-2 visible, near-infrared, and red-edge features to map argillic, phyllic, propylitic, and iron oxide/hydroxide alteration zones. The framework was applied to the Shahr-e-Baba...",
-      "date": "2026-06-07",
-      "year": 2026,
-      "journal": "Scientific Reports",
-      "source": "Scientific Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41598-026-55525-6",
-      "doi": "10.1038/s41598-026-55525-6",
-      "pdfUrl": "https://www.nature.com/articles/s41598-026-55525-6_reference.pdf",
-      "keywords": [
-        "Porphyry copper deposit",
-        "Multispectral image",
-        "Advanced Spaceborne Thermal Emission and Reflection Radiometer",
-        "Computer science",
-        "Robustness (evolution)",
-        "Geochemistry and Geologic Mapping",
-        "Remote-Sensing Image Classification",
-        "Mineral Processing and Grinding"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.740787+00:00"
+      "_retrievedAt": "2026-08-11T19:17:11.000532+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2596,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.739006+00:00"
+      "_retrievedAt": "2026-08-11T19:17:11.000934+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2628,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:32.333575+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.390616+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2642,7 +2642,7 @@ window.LIVE_FEED_DATA = {
       "journal": "e-space (Manchester Metropolitan University)",
       "source": "e-space (Manchester Metropolitan University)",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.83056/mmu.32479191",
+      "url": "https://e-space.mmu.ac.uk/620851/1/PeterJohnLawrence_Thesis_2018.pdf",
       "doi": "10.83056/mmu.32479191",
       "pdfUrl": "https://e-space.mmu.ac.uk/620851/1/PeterJohnLawrence_Thesis_2018.pdf",
       "keywords": [
@@ -2660,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.737707+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.998753+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2692,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:32.336380+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.394450+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2724,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:32.336997+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.395263+00:00"
     },
     {
       "id": "openalex-8611d8370ef3",
@@ -2756,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:33.482621+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.999943+00:00"
     },
     {
       "id": "openalex-0fed25de6e90",
@@ -2788,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.175232+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.559890+00:00"
     },
     {
       "id": "openalex-fcbf1470edaa",
@@ -2820,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.738714+00:00"
+      "_retrievedAt": "2026-08-11T19:17:11.000129+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2852,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:32.334466+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.391795+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2884,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:32.333314+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.390266+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -2916,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.173515+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.557175+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2948,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:32.334637+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.392015+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2976,11 +2976,11 @@ window.LIVE_FEED_DATA = {
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 1436,
+      "citedBy": 1465,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:32.333009+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.389874+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -3012,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.174740+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.559191+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -3044,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.173749+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.557487+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -3076,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.737386+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.998325+00:00"
     },
     {
       "id": "openalex-b393cd9c8f8c",
@@ -3108,7 +3108,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:33.479825+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.995651+00:00"
+    },
+    {
+      "id": "openalex-9f512bfa44b1",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Establishing the first Afro-Caribbean breast cancer cell lines reveals ECM pathway enrichment and distinctive drug sensitivities",
+      "authors": "Shannique Clarke, Isabella Allen, Jovanka Ravix, Maycon Marção, Felipe Carcanholo, Albert Doughan",
+      "abstract": "Women of African ancestry develop more aggressive breast cancer (BCa) with poorer survival outcomes, yet only 8% of available cell lines represent this population, impeding targeted treatment development. Here, we aimed to establish and characterize new cell lines from an Afro-Caribbean patient to better understand population-specific BCa biology. We developed three lines (ACRJ-BC24 parent, α, and β) from a patient with 100% African ancestry. Karyotype analysis revealed progressive chromosomal instability, with the β-clone showing X-11 translocations correlating with higher Ki-67 expression and enhanced tumorigenic capacity. Immunohistochemistry and immunoblotting demonstrated their transition from hormone-positive to triple-negative phenotypes. Transcriptional profiling identified significant enrichment in extracellular matrix organization pathways mechanistically linked to chromosom...",
+      "date": "2026-05-06",
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "source": "Scientific Reports",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41598-026-51649-x",
+      "doi": "10.1038/s41598-026-51649-x",
+      "pdfUrl": "https://www.nature.com/articles/s41598-026-51649-x_reference.pdf",
+      "keywords": [
+        "Cancer research",
+        "Drug",
+        "Breast cancer",
+        "Biology",
+        "Cell culture",
+        "Biological Research and Disease Studies",
+        "HER2/EGFR in Cancer Research",
+        "Lung Cancer Treatments and Mutations"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:09.999620+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -3140,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:32.333909+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.391036+00:00"
     },
     {
       "id": "openalex-e2538de02ecf",
@@ -3172,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.174483+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.558858+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -3200,11 +3232,43 @@ window.LIVE_FEED_DATA = {
         "Urban Stormwater Management Solutions"
       ],
       "readTime": "1 min",
-      "citedBy": 2,
+      "citedBy": 3,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.740503+00:00"
+      "_retrievedAt": "2026-08-11T19:17:11.001304+00:00"
+    },
+    {
+      "id": "openalex-1feb025759ab",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "The neuroimmune axis in breast cancer: from mechanistic insights to clinical applications",
+      "authors": "Wu Yimao, Kaiyu Zhang, 夏新亚, Tianqi Zhang, Naijun Jiang, Yu Zhang",
+      "abstract": "BACKGROUND: Breast cancer is the most commonly diagnosed malignancy in women worldwide, and its marked heterogeneity together with the complexity of the tumor microenvironment contributes to substantial variability in therapeutic responses. Although conventional studies have mainly focused on tumor cell-intrinsic alterations, increasing evidence has identified the neuroimmune axis as a critical regulator of breast cancer progression and treatment resistance. MAIN BODY: The neuroimmune axis involves bidirectional crosstalk between the nervous system and the immune system, mediated by neurotransmitters, neuropeptides, and neurotrophins. These mediators modulate immune cell activity and reshape tumor behaviors, including proliferation, epithelial-mesenchymal transition, angiogenesis, and metastasis, while immune-derived cytokines can in turn remodel neural circuits and sustain a pro-tumo...",
+      "date": "2026-04-30",
+      "year": 2026,
+      "journal": "BMC Medicine",
+      "source": "BMC Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1186/s12916-026-04870-4",
+      "doi": "10.1186/s12916-026-04870-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s12916-026-04870-4.pdf",
+      "keywords": [
+        "Neuroscience",
+        "Breast cancer",
+        "Immune system",
+        "Crosstalk",
+        "Medicine",
+        "Cancer, Stress, Anesthesia, and Immune Response",
+        "Advanced Breast Cancer Therapies",
+        "Cancer Immunotherapy and Biomarkers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-11T19:17:10.558141+00:00"
     },
     {
       "id": "openalex-0026215bd6f7",
@@ -3236,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.173237+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.556812+00:00"
     },
     {
       "id": "openalex-0014575d52b0",
@@ -3268,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.174979+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.559538+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -3300,39 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:33.481736+00:00"
-    },
-    {
-      "id": "openalex-ed9f0bc3f5cb",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Proteome-wide prediction of the functional impact of missense variants with ProteoCast",
-      "authors": "Marina Abakarova, María Inés Freiberger, Arnaud Liehrmann, Michaël Rera, Élodie Laine",
-      "abstract": "Abstract Dissecting the functional impact of genetic mutations is essential to advancing our understanding of genotype-phenotype relationships and identifying therapeutic targets. Despite progress in sequencing and genome editing technologies, proteome-wide mutation effect prediction remains challenging. Here we show that evolutionary information alone enables accurate prediction of mutation effects across entire proteomes. ProteoCast is a scalable and interpretable computational method that leverages protein sequence conservation to classify genetic variants and identify functionally important protein sites. We apply ProteoCast to the complete Drosophila melanogaster proteome (22,000 isoforms, 300 million mutations) and validate it against nearly 400,000 natural and experimental variants. It correctly classifies 85% of known lethal mutations as functionally impactful versus 13-18% of...",
-      "date": "2026-04-27",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-72140-1",
-      "doi": "10.1038/s41467-026-72140-1",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-72140-1.pdf",
-      "keywords": [
-        "Missense mutation",
-        "Proteome",
-        "Computational biology",
-        "Biology",
-        "Genetics",
-        "Genomics and Phylogenetic Studies",
-        "prediction",
-        "variants"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:33.482819+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.998301+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -3364,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:32.336153+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.394124+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -3396,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.739703+00:00"
+      "_retrievedAt": "2026-08-11T19:17:11.002609+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -3428,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:33.480067+00:00"
+      "_retrievedAt": "2026-08-11T19:17:09.995993+00:00"
     },
     {
       "id": "openalex-489301e6519e",
@@ -3460,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.737952+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.999080+00:00"
     },
     {
       "id": "openalex-b405599e1257",
@@ -3492,39 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.739201+00:00"
-    },
-    {
-      "id": "openalex-ecc34b946b2e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Overcoming barriers to delivery of biologics by novel approaches and advanced delivery systems",
-      "authors": "Stephen Dela Ahator, Silvia Franzè, Sybil Obuobi, Giulia Anderluzzi, Gøril Eide Flaten, Nataša Škalko‐Basnet",
-      "abstract": "Biologics is emerging as fastest growing field of drug development offering specificity and high therapeutic potential. However, their therapeutic efficacy is dependent on their route of administration and targeted delivery. Unlike small molecules, biologics face stability, permeability, solubility and immunogenicity challenges due to their inherent features. Hence tailored approaches are required in formulation development to assure their time-and site-specific action. In this review, we summarized the general and route-specific barriers that this group of drugs encounter once in contact with administration site. We listed the most common approaches to overcome the barriers and presented examples of different delivery systems that were proposed to deal with route-specific challenges. We also addressed the role devices play in assisted drug delivery and their choices related to expect...",
-      "date": "2026-04-16",
-      "year": 2026,
-      "journal": "Advanced Drug Delivery Reviews",
-      "source": "Advanced Drug Delivery Reviews",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.addr.2026.115875",
-      "doi": "10.1016/j.addr.2026.115875",
-      "pdfUrl": "https://doi.org/10.1016/j.addr.2026.115875",
-      "keywords": [
-        "Delivery system",
-        "Medicine",
-        "Pharmaceutical technology",
-        "Drug delivery",
-        "Computer science",
-        "Monoclonal and Polyclonal Antibodies Research",
-        "Viral Infectious Diseases and Gene Expression in Insects",
-        "Protein purification and stability"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.175845+00:00"
+      "_retrievedAt": "2026-08-11T19:17:11.001605+00:00"
     },
     {
       "id": "openalex-aa583909b472",
@@ -3556,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.175590+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.560361+00:00"
     },
     {
       "id": "openalex-1c8cc4075423",
@@ -3588,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.739946+00:00"
+      "_retrievedAt": "2026-08-11T19:17:11.002955+00:00"
     },
     {
       "id": "openalex-a528e7ad7434",
@@ -3620,7 +3620,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-11T13:39:34.173986+00:00"
+      "_retrievedAt": "2026-08-11T19:17:10.557812+00:00"
     }
   ]
 };
