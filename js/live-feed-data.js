@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-08-15T18:45:29.267529+00:00",
+  "generatedAt": "2026-08-16T01:56:43.011871+00:00",
   "total": 112,
   "sources": [
     "RSS",
@@ -7,13 +7,77 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
+      "id": "rss-3e5a9d81fa72",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Britain's quarter century: Experts in sex, mental health, nutrition and addiction assess nation's changing well-being",
+      "authors": "Medical Xpress",
+      "abstract": "A good way to follow the health of a nation is to glance at what is known as period life expectancy. This calculates how long a person born today would live if the current death rates remained exactly the same for the rest of their life. This had two major turning points in the UK over the period: a marked slowdown in improvements from around 2011 and a sharp, historically unprecedented fall in 2020 during the COVID-19 pandemic.",
+      "date": "2026-08-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-britain-quarter-century-experts-sex.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "health",
+        "nation",
+        "period",
+        "life",
+        "this",
+        "britain",
+        "quarter",
+        "century"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-16T01:56:42.081449+00:00"
+    },
+    {
+      "id": "rss-6f6adcfda946",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New approach opens rare immune cells to genetic risk research",
+      "authors": "Medical Xpress",
+      "abstract": "Much of how genetic risk leads to disease has remained hidden. In many cases, genetic variants linked to disease do not act on nearby genes along the chromosome. Instead, they influence genes located far away along the DNA sequence. This happens because DNA is folded inside the cell, bringing distant regions into physical contact.",
+      "date": "2026-08-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-approach-rare-immune-cells-genetic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "genetic",
+        "risk",
+        "disease",
+        "genes",
+        "along",
+        "approach",
+        "opens",
+        "rare"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-16T01:56:42.081674+00:00"
+    },
+    {
       "id": "rss-c4b0dd141e19",
       "discipline": "clinical",
       "type": "news",
       "title": "New obesity definitions reveal ill health more accurately than body mass index",
       "authors": "Medical Xpress",
       "abstract": "Traditionally, obesity has been classified primarily using BMI, a measure of weight relative to height that provides limited information about whether excess fat is actually affecting a person's health. BMI levels have historically played a central role in determining eligibility and priority for metabolic bariatric surgery—operations on the stomach that help people lose weight and treat health conditions, such as type 2 diabetes.",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +100,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.550110+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.081895+00:00"
     },
     {
       "id": "rss-4081d926a624",
@@ -45,7 +109,7 @@ window.LIVE_FEED_DATA = {
       "title": "High-speed microscopy reveals electrical activity across the brain",
       "authors": "Medical Xpress",
       "abstract": "Within the brain, neurons compute by generating electrical impulses. These signals travel throughout neurons, which are in turn connected in vast networks that control brain functions such as sensory perception, memory formation and movement.",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +132,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.550363+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.082055+00:00"
     },
     {
       "id": "rss-a4cd03a1e035",
@@ -77,7 +141,7 @@ window.LIVE_FEED_DATA = {
       "title": "FDA approves first self-balancing, personal exoskeleton",
       "authors": "Medical Xpress",
       "abstract": "The U.S. Food and Drug Administration has cleared Eve (Wandercraft), the first self-balancing personal exoskeleton for eligible adult wheelchair users living with spinal cord injury.",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.550568+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.082205+00:00"
     },
     {
       "id": "rss-7c50ac0aff9a",
@@ -109,7 +173,7 @@ window.LIVE_FEED_DATA = {
       "title": "Brain activity reveals how people juggle changing goals in real time",
       "authors": "Medical Xpress",
       "abstract": "Nature never sits still, and neither does anything living within it, since paths keep shifting as things move through the world. Decisions work the same way, changing shape as we go rather than settling once and for all. You set out on a certain route to the office, then traffic forces you onto another, or you plan to cook a certain meal, then realize you're missing an ingredient and end up making something else with whatever's in the fridge. Our brains' ability to adapt to changing situations plays an important role in this process.",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.550847+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.082409+00:00"
     },
     {
       "id": "rss-03bac704d55a",
@@ -141,7 +205,7 @@ window.LIVE_FEED_DATA = {
       "title": "Could saunas and ice baths affect male fertility? Here's what the evidence says",
       "authors": "Medical Xpress",
       "abstract": "The internet's obsession with \"maxxing\" has turned almost every aspect of self-improvement into a trend.",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.551049+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.082548+00:00"
     },
     {
       "id": "rss-fbd99e59c29d",
@@ -173,7 +237,7 @@ window.LIVE_FEED_DATA = {
       "title": "Two devices in one: Metasurface could bring medical imaging to smaller sensors",
       "authors": "Medical Xpress",
       "abstract": "Researchers have developed a technology for building more compact point-of-care medical imaging devices by creating a material that acts as two devices in one.",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.551236+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.082701+00:00"
     },
     {
       "id": "rss-80f93d6ce8c9",
@@ -205,7 +269,7 @@ window.LIVE_FEED_DATA = {
       "title": "Revived rhenium isotope generators answer call for prostate cancer research and other therapies",
       "authors": "Medical Xpress",
       "abstract": "Haswitha Sabbineni has an idea that could lead to a targeted treatment for prostate cancer. To obtain the rare isotope she needed to test the treatment, she turned to the Department of Energy's (DOE) Oak Ridge National Laboratory (ORNL). The lab is one of the few places in the world capable of making many specialized isotopes—among them, rhenium-188 (Re-188), which is produced when tungsten-188 (W-188) undergoes radioactive decay.",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -228,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.551505+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.082903+00:00"
     },
     {
       "id": "rss-99630a85cd05",
@@ -237,7 +301,7 @@ window.LIVE_FEED_DATA = {
       "title": "Study reports significant reduction in postsurgical scar depth following DC microcurrent stimulation",
       "authors": "Medical Xpress",
       "abstract": "A new pilot study reports that direct-current (DC) microcurrent stimulation was associated with a statistically significant reduction in measured postsurgical scar depth immediately following a single treatment. The article, \"Effects of DC microcurrent stimulation on scar remodeling and tissue recovery,\" has been accepted for publication in the Journal of Bodywork and Movement Therapies.",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -260,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.551730+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.083084+00:00"
     },
     {
       "id": "rss-ef46251a97fb",
@@ -269,7 +333,7 @@ window.LIVE_FEED_DATA = {
       "title": "Ebola kills a victim every 30 minutes in DR Congo: UN",
       "authors": "Medical Xpress",
       "abstract": "The Ebola virus in the Democratic Republic of the Congo is now killing a victim every 30 minutes, a top UN humanitarian official said Friday, calling for greater international action.",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -292,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.551962+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.083226+00:00"
     },
     {
       "id": "rss-6b410709dcc9",
@@ -301,7 +365,7 @@ window.LIVE_FEED_DATA = {
       "title": "Winter is coming: How vaccines help protect against respiratory illness",
       "authors": "Medical Xpress",
       "abstract": "August is National Immunization Awareness Month—the perfect time to prepare for the viruses and bacteria that spread each fall and winter.",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -324,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.552192+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.083374+00:00"
     },
     {
       "id": "rss-38ea6d6e018a",
@@ -333,7 +397,7 @@ window.LIVE_FEED_DATA = {
       "title": "Too hot to think? Why extreme heat can affect how well our brain works",
       "authors": "Medical Xpress",
       "abstract": "Ever feel that the arrival of summer sun makes you feel a bit dopey? You wouldn't be the only one. Soaring temperatures are known for their ability to slow our thought processes, making even everyday tasks seem like a baffling ordeal.",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -356,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.552402+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.083532+00:00"
     },
     {
       "id": "rss-0fa44a39ac96",
@@ -365,7 +429,7 @@ window.LIVE_FEED_DATA = {
       "title": "Sleep disturbances linked to genetic Alzheimer's risk",
       "authors": "Medical Xpress",
       "abstract": "A person's sleep patterns could be an early sign of Alzheimer's disease, a new study says. A greater number of micro-awakenings during sleep is linked to a greater genetic risk for Alzheimer's, researchers report in the journal Sleep.",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -388,71 +452,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.552600+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.083701+00:00"
     },
     {
-      "id": "rss-23e4d7064894",
-      "discipline": "clinical",
+      "id": "rss-08064c0964de",
+      "discipline": "cs",
       "type": "news",
-      "title": "New trend of injecting banned peptides to 'optimise' the body",
-      "authors": "Medical Xpress",
-      "abstract": "Thomas's phone alarm buzzes at 9:30 p.m.—it's time for the aspiring bodybuilder to start injecting several banned peptides into his stomach.",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "authors": "TechCrunch AI",
+      "abstract": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
       "date": "2026-08-15",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-trend-peptides-optimise-body.html",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "injecting",
-        "banned",
-        "peptides",
-        "trend",
-        "optimise",
-        "body",
-        "thomas",
-        "phone"
+        "woman",
+        "claims",
+        "stepfather",
+        "used",
+        "grok",
+        "transform",
+        "childhood",
+        "photo"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.552792+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.183192+00:00"
     },
     {
-      "id": "rss-da13ddb92b68",
-      "discipline": "clinical",
+      "id": "rss-a5d1c2a56dd9",
+      "discipline": "cs",
       "type": "news",
-      "title": "Imaging turnaround time increased from 2023 to 2024",
-      "authors": "Medical Xpress",
-      "abstract": "Imaging turnaround times continued to increase across modalities through 2024, according to a study published online Aug. 3 in Journal of the American College of Radiology.",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "authors": "TechCrunch AI",
+      "abstract": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
       "date": "2026-08-15",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-imaging-turnaround.html",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "imaging",
-        "turnaround",
-        "time",
-        "increased",
-        "times",
-        "continued",
-        "increase",
-        "across"
+        "will",
+        "work",
+        "anthropic",
+        "shares",
+        "more",
+        "details",
+        "about",
+        "claude"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.552988+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.183360+00:00"
     },
     {
       "id": "rss-a5052a9cc231",
@@ -484,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.615779+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.183464+00:00"
     },
     {
       "id": "rss-f7428cae9c7f",
@@ -516,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.616030+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.183568+00:00"
     },
     {
       "id": "rss-29f37c5e4c65",
@@ -548,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.616284+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.183768+00:00"
     },
     {
       "id": "rss-a4b2d3027e67",
@@ -580,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.616423+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.183875+00:00"
     },
     {
       "id": "rss-b4e58ceedbed",
@@ -612,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.616562+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.183980+00:00"
     },
     {
       "id": "rss-ed65c57a16b0",
@@ -644,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.616773+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.184147+00:00"
     },
     {
       "id": "rss-0c9816ec6921",
@@ -676,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.616926+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.184257+00:00"
     },
     {
       "id": "rss-c13708898d81",
@@ -708,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.617067+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.184360+00:00"
     },
     {
       "id": "rss-8a9e2c40bf10",
@@ -740,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.617212+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.184473+00:00"
     },
     {
       "id": "rss-fe798c5743c7",
@@ -772,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.617334+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.184574+00:00"
     },
     {
       "id": "rss-25e0b9b045a7",
@@ -804,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.617482+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.184710+00:00"
     },
     {
       "id": "rss-09112907c32a",
@@ -836,71 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.617614+00:00"
-    },
-    {
-      "id": "rss-d0e64de35881",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "authors": "TechCrunch AI",
-      "abstract": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "date": "2026-08-13",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "microsoft",
-        "copilot",
-        "apps",
-        "kills",
-        "unsuccessful",
-        "features",
-        "while",
-        "merging"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.617742+00:00"
-    },
-    {
-      "id": "rss-e46dd70fbc75",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "authors": "TechCrunch AI",
-      "abstract": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-      "date": "2026-08-13",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nvidia",
-        "plan",
-        "gpus",
-        "risky",
-        "brilliant",
-        "especially",
-        "aging",
-        "make"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.617895+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.184822+00:00"
     },
     {
       "id": "rss-0c86d5cea5d3",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:29.014433+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.602967+00:00"
     },
     {
       "id": "rss-9e943868ef25",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:29.014585+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.603087+00:00"
     },
     {
       "id": "rss-83a26370caba",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:29.014708+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.603184+00:00"
     },
     {
       "id": "rss-2125ae46d0b0",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:29.014825+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.603275+00:00"
     },
     {
       "id": "rss-584592a2ff86",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:29.014958+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.603365+00:00"
     },
     {
       "id": "rss-78bb94bacc5f",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:29.015075+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.603453+00:00"
     },
     {
       "id": "rss-b55136a98d41",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:29.015184+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.603580+00:00"
     },
     {
       "id": "rss-a7e6d1b68b98",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:29.015290+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.603686+00:00"
     },
     {
       "id": "rss-427a35a4ac00",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:29.015401+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.603778+00:00"
     },
     {
       "id": "rss-9659fab4b6e3",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:29.015511+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.603863+00:00"
     },
     {
       "id": "rss-fdb29d787f22",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.765836+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.383948+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.256144+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.110743+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.256474+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.110985+00:00"
     },
     {
       "id": "rss-ead5f2bab0c6",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.766021+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.384069+00:00"
     },
     {
       "id": "rss-a22dcd5db9ed",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.766166+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.384178+00:00"
     },
     {
       "id": "rss-bfc25c3f4f29",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.766301+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.384280+00:00"
     },
     {
       "id": "openalex-5abd16320b31",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.258018+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.112101+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.254142+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.109208+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:24.178694+00:00"
+      "_retrievedAt": "2026-08-16T01:55:25.173545+00:00"
     },
     {
       "id": "rss-f7328a645416",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.766429+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.384383+00:00"
     },
     {
       "id": "rss-22e3c70241d7",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.766577+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.384500+00:00"
     },
     {
       "id": "openalex-82bfb13f8d46",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:24.181257+00:00"
+      "_retrievedAt": "2026-08-16T01:55:25.175278+00:00"
     },
     {
       "id": "rss-61c6d7b63768",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.766731+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.384616+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:24.179077+00:00"
+      "_retrievedAt": "2026-08-16T01:55:25.173833+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:22.774001+00:00"
+      "_retrievedAt": "2026-08-16T01:55:23.449369+00:00"
     },
     {
       "id": "rss-d746300c673c",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.766876+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.384768+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.767017+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.384882+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.255455+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.110220+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.257408+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.111660+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:22.776093+00:00"
+      "_retrievedAt": "2026-08-16T01:55:23.451033+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.767158+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.384993+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:22.772735+00:00"
+      "_retrievedAt": "2026-08-16T01:55:23.448345+00:00"
     },
     {
       "id": "rss-dca948e1bfe4",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.767279+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.385086+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.256767+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.111201+00:00"
     },
     {
       "id": "rss-4e38261c947c",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.767405+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.385185+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.715732+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.677522+00:00"
     },
     {
       "id": "rss-929ca6d6204c",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.767541+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.385291+00:00"
     },
     {
       "id": "openalex-11754f2742e9",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.258300+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.112309+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:24.183156+00:00"
+      "_retrievedAt": "2026-08-16T01:55:25.176540+00:00"
     },
     {
       "id": "rss-8f2f4e1eb87a",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:28.767671+00:00"
+      "_retrievedAt": "2026-08-16T01:56:42.385389+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.257133+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.111441+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:24.181609+00:00"
+      "_retrievedAt": "2026-08-16T01:55:25.175552+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.255195+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.110021+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.716282+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.677965+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:22.774989+00:00"
+      "_retrievedAt": "2026-08-16T01:55:23.450153+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:22.774305+00:00"
+      "_retrievedAt": "2026-08-16T01:55:23.449603+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:22.774694+00:00"
+      "_retrievedAt": "2026-08-16T01:55:23.449925+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2436,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.715942+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.677696+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -2468,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:24.183433+00:00"
+      "_retrievedAt": "2026-08-16T01:55:25.176764+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2500,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:22.773654+00:00"
+      "_retrievedAt": "2026-08-16T01:55:23.449105+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -2532,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:22.775242+00:00"
+      "_retrievedAt": "2026-08-16T01:55:23.450357+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2564,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.718766+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.679937+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2596,7 +2596,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:24.182236+00:00"
+      "_retrievedAt": "2026-08-16T01:55:25.176036+00:00"
+    },
+    {
+      "id": "openalex-0f151e5548fe",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Metaheuristic-optimized machine learning framework for remote sensing-based alteration mapping of porphyry copper systems",
+      "authors": "Mahnaz Mahboobi, Homayoon Katibeh, Yousef Bahrami, Amin Beiranvand Pour",
+      "abstract": "Remote sensing-based hydrothermal alteration mapping is a pivotal technique in critical mineral exploration, particularly for identifying porphyry copper deposits (PCDs). However, conventional multispectral approaches are often constrained by linear assumptions, spectral mixing, and suboptimal parameter selection, limiting their ability to resolve complex alteration assemblages. This study presents a metaheuristic-optimized machine learning framework that integrates Boosted Trees (BT) and Quadratic Support Vector Machines (QSVM) with the Shuffled Frog Leaping Algorithm (SFLA) to improve alteration zone discrimination using multispectral satellite imagery. ASTER shortwave infrared bands were combined with Sentinel-2 visible, near-infrared, and red-edge features to map argillic, phyllic, propylitic, and iron oxide/hydroxide alteration zones. The framework was applied to the Shahr-e-Baba...",
+      "date": "2026-06-07",
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "source": "Scientific Reports",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41598-026-55525-6",
+      "doi": "10.1038/s41598-026-55525-6",
+      "pdfUrl": "https://www.nature.com/articles/s41598-026-55525-6_reference.pdf",
+      "keywords": [
+        "Porphyry copper deposit",
+        "Multispectral image",
+        "Advanced Spaceborne Thermal Emission and Reflection Radiometer",
+        "Computer science",
+        "Robustness (evolution)",
+        "Geochemistry and Geologic Mapping",
+        "Remote-Sensing Image Classification",
+        "Mineral Processing and Grinding"
+      ],
+      "readTime": "1 min",
+      "citedBy": 2,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-16T01:55:25.177578+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2628,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:24.182609+00:00"
+      "_retrievedAt": "2026-08-16T01:55:25.176327+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2660,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:22.771942+00:00"
+      "_retrievedAt": "2026-08-16T01:55:23.447720+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
@@ -2692,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.255791+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.110471+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2724,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:24.180197+00:00"
+      "_retrievedAt": "2026-08-16T01:55:25.174713+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2756,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:22.775772+00:00"
+      "_retrievedAt": "2026-08-16T01:55:23.450791+00:00"
     },
     {
       "id": "openalex-0fed25de6e90",
@@ -2788,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.717898+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.679241+00:00"
     },
     {
       "id": "openalex-fcbf1470edaa",
@@ -2820,7 +2852,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:24.181855+00:00"
+      "_retrievedAt": "2026-08-16T01:55:25.175757+00:00"
+    },
+    {
+      "id": "openalex-7a2e0cea295d",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Stratigraphy as a low-pass filter: selective preservation of spatial variability on a Holocene carbonate platform",
+      "authors": "Xianyi Liu, Sam Purkis, Peter Burgess, David De Vleeschouwer, Laurent Puyana, Niklas Hohmann",
+      "abstract": "Walther’s law, a fundamental principle in geoscience, predicts that laterally adjacent depositional environments become preserved as a vertical succession of layers (facies). As an expression of uniformitarianism, this law underpins interpretations of Earth’s history, yet it has not been quantitatively tested. We test this law and examine its limitations by quantifying multidecadal changes in environmental heterogeneity (1945-2019) in the Bahamas and extrapolating them to millennial timescales using forward modelling. Virtual stratigraphic successions predicted by Walther’s law contain substantially greater heterogeneity than observed in sediment cores. This discrepancy arises because small and short-lived environment patches undergo rapid turnover and fail to accumulate sufficient sediment for preservation. Our work establishes a quantitative framework for defining preservation thres...",
+      "date": "2026-05-20",
+      "year": 2026,
+      "journal": "OpenAlex",
+      "source": "OpenAlex",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.31223/x5k784",
+      "doi": "10.31223/x5k784",
+      "pdfUrl": "https://eartharxiv.org/repository/object/13113/download/23232/",
+      "keywords": [
+        "Sedimentary depositional environment",
+        "Geology",
+        "Stratigraphy",
+        "Sedimentary rock",
+        "Sediment",
+        "Geology and Paleoclimatology Research",
+        "Paleontology and Stratigraphy of Fossils",
+        "Geological formations and processes"
+      ],
+      "readTime": "1 min",
+      "citedBy": 2,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-16T01:55:25.177826+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2852,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:22.773087+00:00"
+      "_retrievedAt": "2026-08-16T01:55:23.448612+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -2884,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:22.771611+00:00"
+      "_retrievedAt": "2026-08-16T01:55:23.447454+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -2916,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.716974+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.678498+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -2948,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:22.773291+00:00"
+      "_retrievedAt": "2026-08-16T01:55:23.448813+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -2980,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:22.771226+00:00"
+      "_retrievedAt": "2026-08-16T01:55:23.447153+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -3012,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.719428+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.680435+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -3044,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.718170+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.679454+00:00"
     },
     {
       "id": "openalex-65a242028261",
@@ -3076,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.720057+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.680922+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -3108,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:24.179790+00:00"
+      "_retrievedAt": "2026-08-16T01:55:25.174393+00:00"
     },
     {
       "id": "openalex-ce025cbf9384",
@@ -3140,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:24.184156+00:00"
+      "_retrievedAt": "2026-08-16T01:55:25.177311+00:00"
     },
     {
       "id": "openalex-b393cd9c8f8c",
@@ -3172,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.254533+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.109511+00:00"
     },
     {
       "id": "openalex-9f512bfa44b1",
@@ -3204,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.258632+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.112561+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -3236,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:22.772370+00:00"
+      "_retrievedAt": "2026-08-16T01:55:23.448055+00:00"
     },
     {
       "id": "openalex-e2538de02ecf",
@@ -3268,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.719117+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.680191+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -3300,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:24.180881+00:00"
+      "_retrievedAt": "2026-08-16T01:55:25.174992+00:00"
     },
     {
       "id": "openalex-1feb025759ab",
@@ -3332,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.718475+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.679704+00:00"
     },
     {
       "id": "openalex-0026215bd6f7",
@@ -3364,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.717234+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.678717+00:00"
     },
     {
       "id": "openalex-0014575d52b0",
@@ -3396,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.719734+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.680685+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -3428,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.257681+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.111872+00:00"
     },
     {
       "id": "openalex-0a27bcec88aa",
@@ -3460,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:22.775482+00:00"
+      "_retrievedAt": "2026-08-16T01:55:23.450550+00:00"
     },
     {
       "id": "openalex-3108caa98114",
@@ -3492,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:24.183792+00:00"
+      "_retrievedAt": "2026-08-16T01:55:25.177046+00:00"
     },
     {
       "id": "openalex-eb45e1d0ee3f",
@@ -3524,71 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:23.254848+00:00"
-    },
-    {
-      "id": "openalex-489301e6519e",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "On digital twins in defense: overview and applications",
-      "authors": "Marco Giberna, Holger Voos, Paulo J. Tavares, J. P. Nunes, Tobias Sorg, Andrea Masini",
-      "abstract": "Digital twins (DTs) have emerged as a transformative technology for modeling and simulation in various industries, including defense. This paper provides a comprehensive review of DT applications in defense modeling and simulation, focusing on how DTs can enhance simulation fidelity, interoperability, and decision support within defense systems. We consolidate existing research into a unified framework that links DT concepts, simulation-driven applications, and real-world deployments in defense scenarios. We discuss the role of the DT in applications like planning, training, execution, monitoring, and debriefing. We introduce a standardized DT characterization framework suitable for defense applications that aligns with industrial modeling and simulation standards and present a taxonomy of defense-specific use cases, highlighting recurring requirements. In addition, practical evidence...",
-      "date": "2026-04-17",
-      "year": 2026,
-      "journal": "The Journal of Defense Modeling and Simulation Applications Methodology Technology",
-      "source": "The Journal of Defense Modeling and Simulation Applications Methodology Technology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1177/15485129261441817",
-      "doi": "10.1177/15485129261441817",
-      "pdfUrl": "https://arxiv.org/pdf/2508.05717",
-      "keywords": [
-        "Key (lock)",
-        "Computer science",
-        "Data science",
-        "Systems engineering",
-        "Process management",
-        "Advancements in Semiconductor Devices and Circuit Design",
-        "Radiation Effects in Electronics",
-        "Semiconductor Quantum Structures and Devices"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:24.180506+00:00"
-    },
-    {
-      "id": "openalex-b405599e1257",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "On-Orbit Space AI: Federated, Multi-Agent, and Collaborative Algorithms for Satellite Constellations",
-      "authors": "Ziyang Wang",
-      "abstract": "Satellite constellations are transforming space systems from isolated spacecraft into networked, software-defined platforms capable of on-orbit perception, decision making, and adaptation. Yet many of the existing AI studies remain centered on single-satellite inference, while constellation-scale autonomy introduces fundamentally new algorithmic requirements: learning and coordination under dynamic inter-satellite connectivity, strict SWaP-C limits, radiation-induced faults, non-IID data, concept drift, and safety-critical operational constraints. This survey consolidates the emerging field of on-orbit space AI through three complementary paradigms: (i) federated learning for cross-satellite training, personalization, and secure aggregation; (ii) multi-agent algorithms for cooperative planning, resource allocation, scheduling, formation control, and collision avoidance; and (iii) coll...",
-      "date": "2026-04-17",
-      "year": 2026,
-      "journal": "Algorithms",
-      "source": "Algorithms",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/a19040318",
-      "doi": "10.3390/a19040318",
-      "pdfUrl": "https://www.mdpi.com/1999-4893/19/4/318/pdf?version=1776432485",
-      "keywords": [
-        "Constellation",
-        "Computer science",
-        "Inference",
-        "Field (mathematics)",
-        "Space (punctuation)",
-        "Satellite Communication Systems",
-        "Spacecraft Dynamics and Control",
-        "Space Satellite Systems and Control"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-15T18:45:24.182879+00:00"
+      "_retrievedAt": "2026-08-16T01:55:24.109763+00:00"
     }
   ]
 };
