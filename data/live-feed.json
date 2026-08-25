@@ -1,11 +1,331 @@
 {
-  "generatedAt": "2026-08-25T07:06:15.464625+00:00",
+  "generatedAt": "2026-08-25T13:08:54.728567+00:00",
   "total": 112,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-29ea8523519e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Researchers map the development and behavior of B cells in melanoma",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers have created one of the most detailed maps to date of how white blood cells called B cells develop and behave inside melanoma tumors, a type of skin cancer. The study, led by King's College London and published in the Journal of Experimental & Clinical Cancer Research, provides new insights into how B cells develop, organize and interact within the melanoma tumor microenvironment before and after immunotherapy.",
+      "date": "2026-08-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-behavior-cells-melanoma.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cells",
+        "melanoma",
+        "researchers",
+        "develop",
+        "cancer",
+        "development",
+        "behavior",
+        "have"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-25T13:08:53.807113+00:00"
+    },
+    {
+      "id": "rss-44ede05beb2a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "'Certified safe' personal care products may not undergo finished-product lab testing, analysis finds",
+      "authors": "Medical Xpress",
+      "abstract": "None of the certification programs consumers rely on to find safer personal care products require laboratory testing of the products they certify, according to a new analysis. All judge chemical safety from ingredient lists and paperwork supplied by manufacturers, an approach that cannot catch contaminants, impurities or anything else that was never meant to be in the bottle.",
+      "date": "2026-08-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-certified-safe-personal-products-finished.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "products",
+        "personal",
+        "care",
+        "testing",
+        "that",
+        "certified",
+        "safe",
+        "undergo"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-25T13:08:53.807403+00:00"
+    },
+    {
+      "id": "rss-f27c3e687561",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New clues to the genetic roots of hair-pulling and skin-picking",
+      "authors": "Medical Xpress",
+      "abstract": "Two disorders with big names—trichotillomania (repeated hair-pulling) and excoriation disorder (repeated skin-picking)—were the focus of a recent Yale study looking at potential genetic causes. The two disorders are part of a group called body-focused repetitive behaviors, or BFRBs.",
+      "date": "2026-08-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-clues-genetic-roots-hair-skin.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "genetic",
+        "hair-pulling",
+        "skin-picking",
+        "disorders",
+        "repeated",
+        "clues",
+        "roots",
+        "names"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-25T13:08:53.807648+00:00"
+    },
+    {
+      "id": "rss-f6df2e1571f4",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New initiative drives dramatic improvements in adolescent behavioral health screening",
+      "authors": "Medical Xpress",
+      "abstract": "A nationwide quality improvement initiative led by researchers and clinicians from UC Davis Health, the American Academy of Pediatrics and partner organizations resulted in significant increases in screening and follow-up care for adolescent substance use and mental health concerns across pediatric primary care clinics.",
+      "date": "2026-08-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-adolescent-behavioral-health-screening.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "health",
+        "initiative",
+        "adolescent",
+        "screening",
+        "care",
+        "drives",
+        "dramatic",
+        "improvements"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-25T13:08:53.807872+00:00"
+    },
+    {
+      "id": "rss-6f90255a3720",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Songwriting survivorship: Music therapy study examines the needs and challenges of cancer survivors",
+      "authors": "Medical Xpress",
+      "abstract": "Beyond lifelong physical conditions, cancer survivorship can bring long-term mental health concerns, such as anxiety, depression and isolation. In an effort to support cancer survivors, researchers from Drexel University are exploring music therapy as a way to better understand what they're going through and help them manage these posttreatment challenges.",
+      "date": "2026-08-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-songwriting-survivorship-music-therapy-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "survivorship",
+        "music",
+        "therapy",
+        "challenges",
+        "survivors",
+        "songwriting",
+        "examines"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-25T13:08:53.808126+00:00"
+    },
+    {
+      "id": "rss-efd82e73491e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Internal body awareness does not predict mental health, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "The human brain continuously receives information from inside the body that helps detect physical needs and emotional states, such as a racing heartbeat, shortness of breath, hunger, thirst, pain and body temperature. Its ability to sense and interpret these internal signals is known as interoception.",
+      "date": "2026-08-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-internal-body-awareness-mental-health.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "body",
+        "internal",
+        "awareness",
+        "does",
+        "predict",
+        "mental",
+        "health",
+        "finds"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-25T13:08:53.808343+00:00"
+    },
+    {
+      "id": "rss-25fccbd7c710",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Prenatal organophosphate pesticide exposure not linked to autism traits",
+      "authors": "Medical Xpress",
+      "abstract": "Prenatal organophosphate pesticide (OP) exposure is not associated with autism-related traits in childhood, according to a study published online Aug. 24 in JAMA Pediatrics.",
+      "date": "2026-08-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-prenatal-organophosphate-pesticide-exposure-linked.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "prenatal",
+        "organophosphate",
+        "pesticide",
+        "exposure",
+        "traits",
+        "linked",
+        "autism",
+        "associated"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-25T13:08:53.808530+00:00"
+    },
+    {
+      "id": "rss-e7ef1d0e87ae",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Loneliness rewires the brain to drive alcohol use, preclinical study finds",
+      "authors": "Medical Xpress",
+      "abstract": "Loneliness can reprogram the brain in ways that increase alcohol consumption, according to a new preclinical study led by Northwestern University and the Salk Institute for Biological Studies. The scientists identified, for the first time, a brain mechanism through which isolation escalates alcohol use in male mice but suppresses it in females.",
+      "date": "2026-08-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-loneliness-rewires-brain-alcohol-preclinical.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "alcohol",
+        "loneliness",
+        "preclinical",
+        "rewires",
+        "drive",
+        "finds",
+        "reprogram"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-25T13:08:53.808756+00:00"
+    },
+    {
+      "id": "rss-24ae738f49bd",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "At least 1 in 4 former NFL players who died between 2016 and 2021 had CTE, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "In a new study from Mass General Brigham, Boston University (BU), and the Concussion & CTE Foundation, researchers found evidence that at least one in four former NFL players who died between 2016 and 2021 had chronic traumatic encephalopathy (CTE) at the time of death, a much higher prevalence compared with the general population.",
+      "date": "2026-08-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-nfl-players-died-cte.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "least",
+        "former",
+        "players",
+        "died",
+        "general",
+        "finds",
+        "mass",
+        "brigham"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-25T13:08:53.808977+00:00"
+    },
+    {
+      "id": "rss-b7a6321ec3af",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "'Supportive' brain cells may actively drive cognitive decline",
+      "authors": "Medical Xpress",
+      "abstract": "Brain cells that produce the protective coating around nerve fibers can become dysfunctional with age and may actively contribute to cognitive decline, according to new research.",
+      "date": "2026-08-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-brain-cells-cognitive-decline.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "cells",
+        "actively",
+        "cognitive",
+        "decline",
+        "supportive",
+        "drive",
+        "that"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-25T13:08:53.809177+00:00"
+    },
     {
       "id": "rss-d2430dc65553",
       "discipline": "clinical",
@@ -36,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.005288+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.809354+00:00"
     },
     {
       "id": "rss-812c9d8fcf87",
@@ -68,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.005539+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.809529+00:00"
     },
     {
       "id": "rss-6ff22edd86a0",
@@ -100,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.005820+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.809765+00:00"
     },
     {
       "id": "rss-06250765795c",
@@ -132,327 +452,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.006050+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.809957+00:00"
     },
     {
-      "id": "rss-e47cf37ea49b",
-      "discipline": "clinical",
+      "id": "rss-d1298d62d232",
+      "discipline": "cs",
       "type": "news",
-      "title": "How much of a cancer drug is too much? Patients, researchers challenge FDA-approved dosages",
-      "authors": "Medical Xpress",
-      "abstract": "Northwestern University economist Chuck Manski studies decision-making amid uncertainty. That prepared him better than many other cancer patients to decide whether to stay on an immunotherapy treatment that was making him very ill.",
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "authors": "TechCrunch AI",
+      "abstract": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
       "date": "2026-08-25",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-cancer-drug-patients-fda-dosages.html",
+      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "much",
-        "cancer",
-        "patients",
-        "that",
-        "drug",
-        "researchers",
-        "challenge",
-        "fda-approved"
+        "openai",
+        "head",
+        "product",
+        "world",
+        "seems",
+        "ready",
+        "interview",
+        "thibault"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.006387+00:00"
-    },
-    {
-      "id": "rss-4df99b141988",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Biological changes in firefighters' urine and blood seen 24 hours after fighting a fire",
-      "authors": "Medical Xpress",
-      "abstract": "New research from UTHealth Houston found firefighters experience measurable biological changes in their blood and urine within 24 hours of fighting a fire—changes that may help identify early cancer risk, the leading cause of death among firefighters.",
-      "date": "2026-08-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-biological-firefighters-urine-blood-hours.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "changes",
-        "firefighters",
-        "biological",
-        "urine",
-        "blood",
-        "hours",
-        "fighting",
-        "fire"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.006662+00:00"
-    },
-    {
-      "id": "rss-2db68def02c3",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Altered ribosomes help explain how an enzyme fuels tumor growth",
-      "authors": "Medical Xpress",
-      "abstract": "A new Northwestern Medicine study has identified a previously unknown mechanism by which an enzyme promotes cancer cell proliferation, establishing it as a promising therapeutic target for cancer, according to findings published in Nature Communications.",
-      "date": "2026-08-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-ribosomes-enzyme-fuels-tumor-growth.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "enzyme",
-        "cancer",
-        "altered",
-        "ribosomes",
-        "help",
-        "explain",
-        "fuels",
-        "tumor"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.006900+00:00"
-    },
-    {
-      "id": "rss-81b4d417f913",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Updated obesity guideline supports personalized care and continued use of effective weight-loss medications",
-      "authors": "Medical Xpress",
-      "abstract": "The U.S. Department of Veterans Affairs and Department of Defense (VA/DoD) updated their obesity management guideline in 2025 to reflect advances in obesity assessment and treatments. The guideline emphasizes assessing health risks beyond body mass index (BMI) alone, using comprehensive lifestyle intervention as the foundation of care, and flexibly integrating medications, including GLP-1 therapies, as well as endoscopic and surgical options when appropriate.",
-      "date": "2026-08-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-obesity-guideline-personalized-effective-weight.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "obesity",
-        "guideline",
-        "updated",
-        "care",
-        "medications",
-        "department",
-        "supports",
-        "personalized"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.007196+00:00"
-    },
-    {
-      "id": "rss-d1c7cf353b16",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Mulberry leaves and fruit may influence gut bacteria linked to metabolism",
-      "authors": "Medical Xpress",
-      "abstract": "Mulberry has long been used as both food and traditional medicine. Today, scientists are investigating whether its compounds can influence the gut microbiota and, through it, metabolism. A review involving researchers from Wroclaw Medical University shows that the mulberry species, plant part used and processing method may all matter for these effects.",
-      "date": "2026-08-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-mulberry-fruit-gut-bacteria-linked.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "mulberry",
-        "influence",
-        "metabolism",
-        "used",
-        "leaves",
-        "fruit",
-        "bacteria",
-        "linked"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.007451+00:00"
-    },
-    {
-      "id": "rss-734895cd15ab",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Small-molecule inhibitors shown to promote robust antitumor immunity",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers in Purdue University's College of Pharmacy have developed and validated a new series of small-molecule inhibitors that promote antitumor immunity and hold promise as anticancer agents.",
-      "date": "2026-08-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-small-molecule-inhibitors-shown-robust.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "small-molecule",
-        "inhibitors",
-        "promote",
-        "antitumor",
-        "immunity",
-        "shown",
-        "robust",
-        "researchers"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.007668+00:00"
-    },
-    {
-      "id": "rss-dac1ed61a1d5",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New guidelines emphasize pollen monitoring for allergy management",
-      "authors": "Medical Xpress",
-      "abstract": "Allergic rhinitis and asthma are among the most common chronic diseases today, affecting hundreds of millions of people worldwide. One contributing factor is climate change, which is extending pollen seasons, increasing pollen in the air and potentially making it more allergenic. The latest guidelines from the European Academy of Allergy and Clinical Immunology (EAACI), developed with scientists from Wroclaw Medical University, show that effective allergy management goes beyond medication. Modern pollen monitoring systems, environmental forecasts and preventive measures are becoming increasingly important.",
-      "date": "2026-08-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-guidelines-emphasize-pollen-allergy.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "pollen",
-        "allergy",
-        "guidelines",
-        "monitoring",
-        "management",
-        "emphasize",
-        "allergic",
-        "rhinitis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.007955+00:00"
-    },
-    {
-      "id": "rss-c534034e50fd",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Thrombectomy provides 1-year gains for patients with severe stroke",
-      "authors": "Medical Xpress",
-      "abstract": "A one-year follow-up analysis of a landmark clinical trial suggests that patients with severe strokes experienced better long-term outcomes after undergoing endovascular thrombectomy compared with medical management alone, according to findings published in JAMA.",
-      "date": "2026-08-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-thrombectomy-year-gains-patients-severe.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "thrombectomy",
-        "patients",
-        "severe",
-        "provides",
-        "year",
-        "gains",
-        "stroke",
-        "one-year"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.008204+00:00"
-    },
-    {
-      "id": "rss-0892284aeac0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Woodlands in urban areas linked to reduced antidepressant use",
-      "authors": "Medical Xpress",
-      "abstract": "Improving and maintaining woodlands in deprived communities is linked to reduced antidepressant and anti-anxiety medication use, research suggests.",
-      "date": "2026-08-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-woodlands-urban-areas-linked-antidepressant.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "woodlands",
-        "linked",
-        "reduced",
-        "antidepressant",
-        "urban",
-        "areas",
-        "improving",
-        "maintaining"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.008414+00:00"
-    },
-    {
-      "id": "rss-1fd03dba9f1c",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Bird bulking: Exercise in youth decreases energy used for moving as an adult",
-      "authors": "Medical Xpress",
-      "abstract": "Physical activity in adulthood may depend on exercise during growth, according to a new study led by Penn State researchers. The study, conducted in birds, is the first to directly demonstrate that experiences during development influence how efficiently adults use energy during movement.",
-      "date": "2026-08-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-bird-bulking-youth-decreases-energy.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "during",
-        "exercise",
-        "energy",
-        "bird",
-        "bulking",
-        "youth",
-        "decreases",
-        "used"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.008650+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.965625+00:00"
     },
     {
       "id": "rss-f3bcb5569c06",
@@ -484,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.038822+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.965839+00:00"
     },
     {
       "id": "rss-9257cc68472e",
@@ -516,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.039042+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.965995+00:00"
     },
     {
       "id": "rss-412a4e833d7a",
@@ -548,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.039259+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.966168+00:00"
     },
     {
       "id": "rss-74c7726943c5",
@@ -580,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.039462+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.966333+00:00"
     },
     {
       "id": "rss-368f20aa2164",
@@ -612,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.039658+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.966497+00:00"
     },
     {
       "id": "rss-2ad2be8866db",
@@ -644,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.039821+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.966632+00:00"
     },
     {
       "id": "rss-d2a71aa9192b",
@@ -676,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.039995+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.966773+00:00"
     },
     {
       "id": "rss-dcdf7d1c8cd0",
@@ -708,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.123230+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.175630+00:00"
     },
     {
       "id": "rss-d6397f663104",
@@ -740,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.040181+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.966906+00:00"
     },
     {
       "id": "rss-c583a44bace9",
@@ -772,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.040358+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.967062+00:00"
     },
     {
       "id": "rss-34a30dd2f83a",
@@ -804,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.040523+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.967199+00:00"
     },
     {
       "id": "rss-f648217bcd78",
@@ -836,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.040702+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.967356+00:00"
     },
     {
       "id": "rss-e4c5c7877c44",
@@ -868,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.040866+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.967485+00:00"
     },
     {
       "id": "rss-64669da0a399",
@@ -900,39 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.041055+00:00"
-    },
-    {
-      "id": "rss-5818ea98b0f4",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "authors": "TechCrunch AI",
-      "abstract": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge.",
-      "date": "2026-08-22",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "openai",
-        "says",
-        "california",
-        "should",
-        "strengthen",
-        "safety",
-        "bill",
-        "global"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.041260+00:00"
+      "_retrievedAt": "2026-08-25T13:08:53.967642+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -964,7 +964,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.460508+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.140637+00:00"
     },
     {
       "id": "rss-aeae30b99dc0",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.123425+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.175789+00:00"
     },
     {
       "id": "rss-fd216968fbb9",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.341734+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.361495+00:00"
     },
     {
       "id": "rss-b79fe6018e2d",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.341961+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.361702+00:00"
     },
     {
       "id": "rss-a8343bb3730e",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.342195+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.361890+00:00"
     },
     {
       "id": "rss-64d6d015a3c3",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.123633+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.175967+00:00"
     },
     {
       "id": "rss-33d77e1bca30",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.123819+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.176144+00:00"
     },
     {
       "id": "rss-0c86d5cea5d3",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.342565+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.362270+00:00"
     },
     {
       "id": "rss-9e943868ef25",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.342760+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.362402+00:00"
     },
     {
       "id": "rss-83a26370caba",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.342903+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.362518+00:00"
     },
     {
       "id": "rss-2125ae46d0b0",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.343044+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.362631+00:00"
     },
     {
       "id": "rss-584592a2ff86",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.343207+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.362741+00:00"
     },
     {
       "id": "rss-78bb94bacc5f",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.343358+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.362853+00:00"
     },
     {
       "id": "rss-b55136a98d41",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.343496+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.362963+00:00"
     },
     {
       "id": "rss-fdb29d787f22",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.124008+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.176300+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1444,7 +1444,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.090948+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.666665+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1476,7 +1476,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.091627+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.667256+00:00"
     },
     {
       "id": "rss-ead5f2bab0c6",
@@ -1508,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.124186+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.176427+00:00"
     },
     {
       "id": "rss-a22dcd5db9ed",
@@ -1540,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.124356+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.176557+00:00"
     },
     {
       "id": "rss-bfc25c3f4f29",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.124515+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.176680+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -1604,7 +1604,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.089457+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.665244+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -1636,7 +1636,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.897291+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.710266+00:00"
     },
     {
       "id": "rss-f7328a645416",
@@ -1668,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.124668+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.176803+00:00"
     },
     {
       "id": "rss-22e3c70241d7",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.124839+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.176943+00:00"
     },
     {
       "id": "openalex-82bfb13f8d46",
@@ -1732,7 +1732,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.899898+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.712737+00:00"
     },
     {
       "id": "rss-61c6d7b63768",
@@ -1764,39 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.125014+00:00"
-    },
-    {
-      "id": "openalex-cc20596fdff7",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "In vivo CRISPR base editing for treatment of Huntington’s disease",
-      "authors": "Shraddha Shirguppe, Michael Gapinske, Devyani Swami, Kyrollos Shenouda, Angelo Miskalis, Nicholas Gosstola",
-      "abstract": "Huntington's disease (HD) is an inherited and ultimately fatal neurodegenerative disorder caused by an expanded polyglutamine-encoding CAG repeat within exon 1 of the huntingtin (HTT) gene, which produces a mutant protein that destroys striatal and cortical neurons. Importantly, a critical event in the pathogenesis of HD is the proteolytic cleavage of the mutant HTT protein by caspase-6, which generates fragments of the N-terminal domain of the protein that form highly toxic aggregates. Given the role that proteolysis of the mutant HTT protein plays in HD, strategies for preventing this process hold potential for treating the disorder. By screening 141 CRISPR base editor variants targeting splice elements in the HTT gene, we identified platforms capable of producing HTT protein isoforms resistant to caspase-6-mediated proteolysis via editing of the splice acceptor sequence for exon 13...",
-      "date": "2026-07-29",
-      "year": 2026,
-      "journal": "Nature Biomedical Engineering",
-      "source": "Nature Biomedical Engineering",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41551-026-01747-y",
-      "doi": "10.1038/s41551-026-01747-y",
-      "pdfUrl": "https://www.nature.com/articles/s41551-026-01747-y.pdf",
-      "keywords": [
-        "Huntingtin",
-        "Exon",
-        "Mutant",
-        "Exon skipping",
-        "Gene knockin",
-        "Genetic Neurodegenerative Diseases",
-        "CRISPR and Genetic Engineering",
-        "protein"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.094278+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.177098+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -1828,7 +1796,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.897662+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.710627+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -1860,7 +1828,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:03.470475+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.046799+00:00"
     },
     {
       "id": "rss-d746300c673c",
@@ -1892,7 +1860,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.125200+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.177231+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -1924,7 +1892,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.125374+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.177367+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1956,7 +1924,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.091271+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.666917+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -1988,7 +1956,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.093263+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.668687+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2020,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:03.472895+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.048907+00:00"
     },
     {
       "id": "rss-851164c7ad86",
@@ -2052,7 +2020,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:15.125546+00:00"
+      "_retrievedAt": "2026-08-25T13:08:54.177503+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2084,7 +2052,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:03.469063+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.045548+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2116,7 +2084,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.092597+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.668100+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2148,7 +2116,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.457482+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.137855+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2180,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.902084+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.714737+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2212,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.092936+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.668419+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2244,7 +2212,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.901791+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.714470+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2276,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.900295+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.713103+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2308,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.090591+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.666317+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2340,7 +2308,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.458050+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.138413+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2372,7 +2340,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:03.471605+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.047779+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2404,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.093924+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.669319+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2436,7 +2404,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:03.470804+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.047103+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2468,7 +2436,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:03.471280+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.047500+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2500,7 +2468,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.457692+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.138070+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -2532,7 +2500,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.899514+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.712369+00:00"
+    },
+    {
+      "id": "openalex-9ae00385fc6f",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Traditional fermented food microbial ecosystems oriented towards industrial standards: multi-dimensional characterization and artificial regulation",
+      "authors": "M T Wu, Yi-Xiang Wang, Yu Wang, Youqiang Xu, Baoguo Sun",
+      "abstract": "Fermented food microbial ecosystems are dynamic and shaped by microbes, substrates, and environments, but traditional spontaneous fermentation causes variability in quality and safety, limiting standardization. This review highlighted multi-omics integration to comprehensively characterize microbial composition, dynamics, interactions, metabolites, and phages, and summarized regulation strategies including functional strains, synthetic microbial communities, bacteriophage control, and physicochemical modulation. Finally, the futures and challenges from empirical practice to predictable, scalable industrial fermentation were proposed.",
+      "date": "2026-06-11",
+      "year": 2026,
+      "journal": "npj Science of Food",
+      "source": "npj Science of Food",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41538-026-00916-2",
+      "doi": "10.1038/s41538-026-00916-2",
+      "pdfUrl": "https://www.nature.com/articles/s41538-026-00916-2_reference.pdf",
+      "keywords": [
+        "Biochemical engineering",
+        "Fermentation",
+        "Biotechnology",
+        "Limiting",
+        "Food industry",
+        "Bacteriophages and microbial interactions",
+        "Probiotics and Fermented Foods",
+        "Microbial Community Ecology and Physiology"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-25T13:08:48.669522+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2564,7 +2564,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:03.470084+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.046467+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -2596,7 +2596,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:03.471891+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.048044+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2628,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.461946+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.141906+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2660,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.900951+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.713711+00:00"
     },
     {
       "id": "openalex-0f151e5548fe",
@@ -2692,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.903286+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.715817+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2724,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.901400+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.714099+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2756,7 +2756,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:03.468213+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.044726+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
@@ -2784,11 +2784,11 @@
         "Machine Learning in Bioinformatics"
       ],
       "readTime": "1 min",
-      "citedBy": 10,
+      "citedBy": 12,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.090242+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.665963+00:00"
     },
     {
       "id": "openalex-33d4ca0564d8",
@@ -2820,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.461617+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.141610+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2852,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.899212+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.712095+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2884,7 +2884,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:03.472233+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.048332+00:00"
     },
     {
       "id": "openalex-0fed25de6e90",
@@ -2916,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.459824+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.140035+00:00"
     },
     {
       "id": "openalex-fcbf1470edaa",
@@ -2948,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.900568+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.713352+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2980,7 +2980,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:03.469464+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.045884+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -3012,7 +3012,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:03.467839+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.044408+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -3040,11 +3040,11 @@
         "Immune cells in cancer"
       ],
       "readTime": "1 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
+      "citedBy": 10,
+      "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.459174+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.139436+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -3076,7 +3076,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:03.469692+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.046099+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -3108,7 +3108,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:03.467423+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.044004+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -3140,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.460124+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.140310+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -3172,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.898411+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.711347+00:00"
     },
     {
       "id": "openalex-ce025cbf9384",
@@ -3204,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.902483+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.715093+00:00"
     },
     {
       "id": "openalex-b393cd9c8f8c",
@@ -3236,7 +3236,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.089858+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.665635+00:00"
     },
     {
       "id": "openalex-72ba884e6702",
@@ -3268,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.462339+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.142274+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -3300,7 +3300,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:03.468666+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.045179+00:00"
     },
     {
       "id": "openalex-d9d3322c6558",
@@ -3332,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.092276+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.667794+00:00"
     },
     {
       "id": "openalex-e2538de02ecf",
@@ -3364,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.461249+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.141276+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -3396,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.898787+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.711703+00:00"
     },
     {
       "id": "openalex-0538798b1bc1",
@@ -3428,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.902889+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.715473+00:00"
     },
     {
       "id": "openalex-1feb025759ab",
@@ -3460,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.460847+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.140943+00:00"
     },
     {
       "id": "openalex-8595aa7859b0",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.091924+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.667527+00:00"
     },
     {
       "id": "openalex-0026215bd6f7",
@@ -3524,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.459466+00:00"
+      "_retrievedAt": "2026-08-25T13:08:49.139693+00:00"
     },
     {
       "id": "openalex-8ca4790ff0ad",
@@ -3556,7 +3556,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:03.472553+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.048610+00:00"
     },
     {
       "id": "openalex-f9bd837049da",
@@ -3588,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-25T07:06:04.093569+00:00"
+      "_retrievedAt": "2026-08-25T13:08:48.668958+00:00"
     }
   ]
 }
