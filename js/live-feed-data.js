@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-08-27T09:43:06.775283+00:00",
+  "generatedAt": "2026-08-27T22:13:54.600043+00:00",
   "total": 112,
   "sources": [
     "RSS",
@@ -7,452 +7,708 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-7c0a82befab0",
+      "id": "rss-0cadbdcb206e",
       "discipline": "clinical",
       "type": "news",
-      "title": "Stroke rehab should start early and address physical, cognitive and mental health",
+      "title": "Parkinson's disease imposes growing economic burden on Europe, analysis finds",
       "authors": "Medical Xpress",
-      "abstract": "A stroke can change life in an instant, affecting everything from walking and speaking to memory, mood and the ability to perform everyday tasks. Recovery often continues for months or even years as survivors of stroke work to regain independence and quality of life. A new guideline from the American Stroke Association, a division of the American Heart Association, emphasizes that every person who has a stroke should receive a personalized assessment and begin rehabilitation during their hospital stay once they are medically stable, supported by a team of specialists who can address physical, cognitive, communication and emotional challenges throughout recovery. The 2026 Guideline for Adult Stroke Rehabilitation and Recovery was published today in the journal Stroke.",
+      "abstract": "The annual societal cost of Parkinson's disease across Europe reached €22.8 billion in 2019, equivalent to €28.8 billion at 2025 prices, according to a new study published in Movement Disorders. As the number of people living with Parkinson's disease continues to grow, researchers warn that health and social care systems are likely to face increasing pressure.",
       "date": "2026-08-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-rehab-early-physical-cognitive-mental.html",
+      "url": "https://medicalxpress.com/news/2026-08-parkinson-disease-imposes-economic-burden.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "stroke",
-        "recovery",
-        "should",
-        "address",
-        "physical",
-        "cognitive",
-        "life",
-        "guideline"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.808565+00:00"
-    },
-    {
-      "id": "rss-21e2decfd230",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "More accurate risk assessment developed for Alzheimer's disease among nonwhite patients",
-      "authors": "Medical Xpress",
-      "abstract": "Late-onset Alzheimer's disease (AD) is a progressive disorder characterized by cognitive decline and memory impairment, affecting an estimated 6.9 million people in the U.S. The clinical course of AD unfolds over many years, often beginning with subtle cognitive changes before progressing to overt dementia. Although the rate of decline varies among individuals, growing evidence suggests that genetic factors play a central role in shaping both the onset and trajectory of cognitive deterioration.",
-      "date": "2026-08-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-accurate-alzheimer-disease-nonwhite-patients.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cognitive",
-        "alzheimer",
+        "parkinson",
         "disease",
-        "among",
-        "decline",
-        "more",
-        "accurate",
-        "risk"
+        "europe",
+        "billion",
+        "imposes",
+        "growing",
+        "economic",
+        "burden"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.808868+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.159281+00:00"
     },
     {
-      "id": "rss-250e5c243ab6",
+      "id": "rss-74fa0a81d8d6",
       "discipline": "clinical",
       "type": "news",
-      "title": "FDA approves new treatment for hard-to-treat pancreatic cancer",
+      "title": "Pre-cancerous blood cells may fuel disease risk by prematurely aging the bone marrow",
       "authors": "Medical Xpress",
-      "abstract": "The U.S. Food and Drug Administration announced Wednesday the approval of a treatment for pancreatic cancer that could usher in a new era in managing one of the deadliest forms of the disease.",
+      "abstract": "Precancerous blood cells can actively reshape their surroundings, prematurely aging cells in the bone marrow to create conditions that favor their own growth and potentially increase the risk of blood cancer, according to a new study by researchers at The Jackson Laboratory (JAX).",
       "date": "2026-08-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-fda-treatment-hard-pancreatic-cancer.html",
+      "url": "https://medicalxpress.com/news/2026-08-pre-cancerous-blood-cells-fuel.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "treatment",
-        "pancreatic",
-        "cancer",
-        "approves",
-        "hard-to-treat",
-        "food",
-        "drug",
-        "administration"
+        "blood",
+        "cells",
+        "risk",
+        "prematurely",
+        "aging",
+        "bone",
+        "marrow",
+        "their"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.809078+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.159539+00:00"
     },
     {
-      "id": "rss-5e99dea79638",
+      "id": "rss-c5be66c51661",
       "discipline": "clinical",
       "type": "news",
-      "title": "New start-up aims to cut cost of producing proteins for cancer care and diagnostics",
+      "title": "Heart failure drugs may work within days by boosting cells' energy supply",
       "authors": "Medical Xpress",
-      "abstract": "A new University of Kent start-up has been launched to commercialize biotechnology that could make it cheaper and easier to produce proteins used in cancer treatments, vaccines and diagnostic tests. Sirius Proteins was registered this month, taking technology developed and patented at Kent a step closer to wider commercial use.",
+      "abstract": "Researchers have discovered that SGLT2 inhibitors, a class of drugs originally developed to treat diabetes and now widely used for heart failure, work by activating a key enzyme that helps heart cells produce and use energy more efficiently. The study, published today in Science, potentially solves a longstanding gap in knowledge about these drugs and opens the door to potential new treatments for heart failure.",
       "date": "2026-08-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-aims-proteins-cancer-diagnostics.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "proteins",
-        "start-up",
-        "cancer",
-        "kent",
-        "aims",
-        "cost",
-        "producing",
-        "care"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.809314+00:00"
-    },
-    {
-      "id": "rss-5fd97a4a16c5",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Rethinking oral cancer treatment: A review of next-generation drug delivery systems",
-      "authors": "Medical Xpress",
-      "abstract": "A new review by a team of researchers from Indonesia, Japan and China, led by Professor Nurhasni Hasan from the Faculty of Pharmacy at Hasanuddin University in Indonesia, examines how emerging local drug delivery systems could be designed to overcome barriers to treating oral squamous cell carcinoma (OSCC), which is one of the most common malignancies affecting the oral cavity and head and neck region and contributes significantly to the global burden of cancer-related morbidity and mortality.",
-      "date": "2026-08-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-rethinking-oral-cancer-treatment-generation.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "oral",
-        "review",
-        "drug",
-        "delivery",
-        "systems",
-        "indonesia",
-        "rethinking",
-        "cancer"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.809596+00:00"
-    },
-    {
-      "id": "rss-974fec2e74ee",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Overuse of inhalers found to increase heart attack risk in asthma and COPD patients",
-      "authors": "Medical Xpress",
-      "abstract": "Overuse of reliever inhalers is associated with higher risks of developing and dying from cardiovascular disease, including heart failure, heart attack and ischemic stroke, in patients with asthma and COPD, according to a study published today in ERJ Open Research.",
-      "date": "2026-08-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-overuse-inhalers-heart-asthma-copd.html",
+      "url": "https://medicalxpress.com/news/2026-08-heart-failure-drugs-days-boosting.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "heart",
-        "overuse",
-        "inhalers",
-        "attack",
-        "asthma",
-        "copd",
-        "patients",
-        "found"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.809806+00:00"
-    },
-    {
-      "id": "rss-b6f1d7844091",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Standard breast cancer classification may overlook important differences",
-      "authors": "Medical Xpress",
-      "abstract": "Breast cancer is often classified as either estrogen receptor-positive (hormone-sensitive) or not. However, a new study from Karolinska Institutet suggests that this simplified classification may overlook important biological differences between patients that could affect treatment decisions. The results are published in The Lancet Regional Health – Europe.",
-      "date": "2026-08-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-standard-breast-cancer-classification-overlook.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "breast",
-        "cancer",
-        "classification",
-        "overlook",
-        "important",
-        "differences",
+        "failure",
+        "drugs",
+        "work",
+        "cells",
+        "energy",
         "that",
-        "standard"
+        "within"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.810050+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.159805+00:00"
     },
     {
-      "id": "rss-d92eaaee8158",
+      "id": "rss-b0d7d1edb31b",
       "discipline": "clinical",
       "type": "news",
-      "title": "Temporary psychotic symptoms after seizures may be an early warning sign of future mental illness",
+      "title": "Researchers develop scalable method to generate key immune cells for cancer therapy",
       "authors": "Medical Xpress",
-      "abstract": "Some people with epilepsy experience delusions, hallucinations, paranoia and confusion after a seizure. While these episodes usually last only days, a new study led by researchers at Carilion Clinic suggests they may place patients at significantly higher risk of developing psychiatric disorders later.",
+      "abstract": "Researchers at the Center for Regenerative Medicine (CReM) at Boston Medical Center (BMC) and Boston University (BU) have developed a scalable method for generating CD4+ helper T cells from induced pluripotent stem cells (iPSCs), overcoming a longstanding challenge in the development of stem cell-based immunotherapies. The findings, published in Stem Cell Reports, could help advance efforts to create off-the-shelf CAR-T cell therapies that can be produced at scale and made more readily available to patients.",
       "date": "2026-08-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-temporary-psychotic-symptoms-seizures-early.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "after",
-        "temporary",
-        "psychotic",
-        "symptoms",
-        "seizures",
-        "early",
-        "warning",
-        "sign"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.810269+00:00"
-    },
-    {
-      "id": "rss-f161a4071094",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Eminent cardiologist involved in treatment guidelines received £50 million from drug research contracts",
-      "authors": "Medical Xpress",
-      "abstract": "A British cardiologist and former president of the European Society of Cardiology (ESC) has been judged by the ESC to have committed severe misconduct after a Danish TV documentary reported that he had been involved in drawing up guidelines for the use of the heart drug ivabradine (Corlanor, Procoralan) while profiting from lucrative contracts with the drug's maker.",
-      "date": "2026-08-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-eminent-cardiologist-involved-treatment-guidelines.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "drug",
-        "cardiologist",
-        "involved",
-        "guidelines",
-        "contracts",
-        "been",
-        "eminent",
-        "treatment"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.810531+00:00"
-    },
-    {
-      "id": "rss-2f21ceae0fcc",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Stem cells can contribute to new treatments for heart attacks and Parkinson's",
-      "authors": "Medical Xpress",
-      "abstract": "On the forearms of those working in the laboratory at the University of Oslo, one thing stands out: mysterious round or cross-shaped scars on the skin. Here, researchers need skin cells, and they themselves step up in the service of research. The skin cells are allowed to grow and multiply, and then the work begins to reprogram them into so-called iPS cells, induced pluripotent stem cells. These are cells that can divide indefinitely and give rise to all types of specialized cells in the body. They can, for example, become muscle, blood or nerve cells.",
-      "date": "2026-08-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-stem-cells-contribute-treatments-heart.html",
+      "url": "https://medicalxpress.com/news/2026-08-scalable-method-generate-key-immune.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "cells",
-        "skin",
         "stem",
-        "they",
-        "contribute",
-        "treatments",
-        "heart",
-        "attacks"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.810804+00:00"
-    },
-    {
-      "id": "rss-e8a28b956e29",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "25 years after 9/11, research reveals lasting effects on World Trade Center responders",
-      "authors": "Medical Xpress",
-      "abstract": "Twenty-five years after 9/11, FIU researcher Dr. Roberto Lucchini is still working with World Trade Center responders to understand how the toxic exposures and psychological trauma they experienced may affect their health decades later.",
-      "date": "2026-08-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-years-reveals-effects-world-center.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "years",
-        "after",
-        "world",
-        "trade",
+        "researchers",
+        "scalable",
+        "method",
         "center",
-        "responders",
-        "reveals",
-        "lasting"
+        "boston",
+        "cell"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.811005+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.160070+00:00"
     },
     {
-      "id": "rss-eaa028dc405a",
+      "id": "rss-1812ed210513",
       "discipline": "clinical",
       "type": "news",
-      "title": "Vagus nerve stimulation hints at a vascular pathway to support long-term learning",
+      "title": "Beyond hunger: Food insecurity in later life linked to dementia",
       "authors": "Medical Xpress",
-      "abstract": "Do you ever feel like sometimes you can master a new dance step almost immediately, while other times you struggle to nail it despite repeated practice? This might be due to skill or effort, but also to something less obvious: whether the brain is in a state that allows learning to take hold.",
+      "abstract": "Older adults who experienced food insecurity in both midlife and later life had nearly four times the risk of probable dementia as those who remained food secure, according to new University of Michigan research.",
       "date": "2026-08-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-vagus-nerve-hints-vascular-pathway.html",
+      "url": "https://medicalxpress.com/news/2026-08-hunger-food-insecurity-life-linked.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "learning",
-        "vagus",
-        "nerve",
-        "stimulation",
-        "hints",
-        "vascular",
-        "pathway",
-        "support"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.811220+00:00"
-    },
-    {
-      "id": "rss-8e8347b5cc22",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Early nicotine vapor exposure increases nicotine seeking later in life, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "Nicotine vaping during adolescence may leave a lasting imprint on the brain's reward system, driving nicotine-seeking behavior well into adulthood even after long stretches without any exposure, according to new research led by scientists at The University of Texas at El Paso.",
-      "date": "2026-08-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-early-nicotine-vapor-exposure-life.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nicotine",
-        "exposure",
-        "early",
-        "vapor",
-        "increases",
-        "seeking",
+        "food",
+        "insecurity",
         "later",
-        "life"
+        "life",
+        "dementia",
+        "beyond",
+        "hunger",
+        "linked"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.811440+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.160272+00:00"
     },
     {
-      "id": "rss-2e718c8b791d",
+      "id": "rss-27fae86661a5",
       "discipline": "clinical",
       "type": "news",
-      "title": "Precision medicine identifies influential protein in bladder cancer progression and chemotherapy effectiveness",
+      "title": "Cell therapy substantially reduces severe rheumatoid arthritis in first clinical trial",
       "authors": "Medical Xpress",
-      "abstract": "Researchers investigating the role of progranulin in cancer progression have previously identified the signaling receptor EphA2 as critical in tumor establishment and a potential target to enhance the effectiveness of chemotherapy. While the exact molecular mechanisms of action are still not well understood, the growth factor progranulin is known to be involved in several human pathologies, including frontotemporal dementia (FTD), immune response and cancer. A new study identifies the protein FAM120A as a critical effector in the progranulin/EphA2 tumorigenic axis.",
+      "abstract": "Immunotherapies such as CAR T-cell therapy are used primarily to treat cancer. In the future, these patient-specific therapies, manufactured from patients' own immune cells, could also help cure autoimmune diseases. Six patients with particularly severe rheumatoid arthritis have now received this treatment at Charité—Universitätsmedizin Berlin. In the journal Nature Medicine, the researchers report the results from the world's first clinical trial of its kind: Disease activity decreased substantially in all participants. By the end of the observation period, three of the patients no longer required any medication for rheumatoid arthritis.",
       "date": "2026-08-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-precision-medicine-influential-protein-bladder.html",
+      "url": "https://medicalxpress.com/news/2026-08-cell-therapy-substantially-severe-rheumatoid.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cancer",
-        "progranulin",
-        "identifies",
-        "protein",
-        "progression",
-        "chemotherapy",
-        "effectiveness",
-        "epha"
+        "rheumatoid",
+        "arthritis",
+        "patients",
+        "therapy",
+        "substantially",
+        "severe",
+        "first",
+        "clinical"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.811696+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.160581+00:00"
+    },
+    {
+      "id": "rss-9e1c16fade10",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "South Africa sounds alarm as infant vaccinations plummet",
+      "authors": "Medical Xpress",
+      "abstract": "South Africa's infant vaccination rate has fallen to its lowest level in years, with more than a third of babies receiving no vaccines at the start of 2026, the health department said Thursday.",
+      "date": "2026-08-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-south-africa-alarm-infant-vaccinations.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "south",
+        "africa",
+        "infant",
+        "sounds",
+        "alarm",
+        "vaccinations",
+        "plummet",
+        "vaccination"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.160798+00:00"
+    },
+    {
+      "id": "rss-36b2c3b92a22",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Chess as a therapeutic tool: Two studies show potential for improved quality of life",
+      "authors": "Medical Xpress",
+      "abstract": "For several years, researchers at the Central Institute of Mental Health (CIMH) have been investigating whether chess-based cognitive training can also have therapeutic benefits. Two recent studies involving people with alcohol dependence, as well as children and adolescents with mental health conditions, now show that such training can improve quality of life and enhance cognitive abilities.",
+      "date": "2026-08-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-chess-therapeutic-tool-potential-quality.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "therapeutic",
+        "studies",
+        "show",
+        "quality",
+        "life",
+        "mental",
+        "health",
+        "have"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.161035+00:00"
+    },
+    {
+      "id": "rss-38a5ce0d2f1e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Injectable microgels for targeted keloid radiotherapy",
+      "authors": "Medical Xpress",
+      "abstract": "Keloids are abnormal fibroproliferative scars that form when overactive fibroblasts produce excessive collagen after skin injury. Unlike ordinary scars, they can extend beyond the original wound and cause itching, pain and tenderness.",
+      "date": "2026-08-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-microgels-keloid-radiotherapy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "scars",
+        "injectable",
+        "microgels",
+        "targeted",
+        "keloid",
+        "radiotherapy",
+        "keloids",
+        "abnormal"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.161227+00:00"
+    },
+    {
+      "id": "rss-dad1f39ef09a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Practice helps the brain separate tasks and improve multitasking ability",
+      "authors": "Medical Xpress",
+      "abstract": "It is commonly perceived that multitasking is highly inefficient, with the brain often \"crashing\" or scrambling when trying to do two things at once. A recent study by City University of Hong Kong (CityUHK) has uncovered the mechanism behind this, revealing how the brain dynamically reorganizes itself to break through this cognitive bottleneck and achieve efficient, simultaneous multitasking.",
+      "date": "2026-08-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-brain-tasks-multitasking-ability.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "multitasking",
+        "this",
+        "practice",
+        "helps",
+        "separate",
+        "tasks",
+        "improve"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.161447+00:00"
+    },
+    {
+      "id": "rss-37af15827def",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Parkinson's an unexpected and unpredictable journey for Pacific Peoples",
+      "authors": "Medical Xpress",
+      "abstract": "For Pacific Peoples, being diagnosed with Parkinson's is like being in a va'a/vaka on an unpredictable wave on the high seas, a University of Otago – Ōtākou Whakaihu Waka study has found.",
+      "date": "2026-08-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-parkinson-unexpected-unpredictable-journey-pacific.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "parkinson",
+        "unpredictable",
+        "pacific",
+        "peoples",
+        "being",
+        "unexpected",
+        "journey",
+        "diagnosed"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.161649+00:00"
+    },
+    {
+      "id": "rss-7d1af583843a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Current shingles vaccine linked to lower risk of coronary heart disease, stroke and heart failure",
+      "authors": "Medical Xpress",
+      "abstract": "Shingles is a painful and serious condition affecting many older people. It is caused by the herpes zoster virus, which can flare up in people who previously had chickenpox. A vaccine against shingles (Zostavax) was introduced in 2006. In many countries, including the U.K. and U.S., Zostavax has now been withdrawn and replaced by a much more effective recombinant vaccine (Shingrix). In the U.K., Shingrix is being offered by the NHS to all older people and certain other groups.",
+      "date": "2026-08-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-current-shingles-vaccine-linked-coronary.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "shingles",
+        "vaccine",
+        "people",
+        "heart",
+        "many",
+        "older",
+        "zostavax",
+        "shingrix"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.161916+00:00"
+    },
+    {
+      "id": "rss-d41367563528",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "An 'undruggable' cancer target meets an RNA-based strategy to curb tumor growth",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at Umeå University have developed a strategy to slow the growth of tumor cells. By targeting the genetic instructions that control the production of a key cancer-related protein, they were able to inhibit tumor cell growth. The findings are published in the Proceedings of the National Academy of Sciences.",
+      "date": "2026-08-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-undruggable-cancer-rna-based-strategy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "tumor",
+        "growth",
+        "strategy",
+        "undruggable",
+        "cancer",
+        "target",
+        "meets",
+        "rna-based"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.162144+00:00"
+    },
+    {
+      "id": "rss-1e6da9d244cd",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Considerable global disparities found in access to dermatological care",
+      "authors": "Medical Xpress",
+      "abstract": "Global access to dermatological care varies significantly, with 42% of countries reporting inadequate or extremely poor access, according to a study published online Aug. 26 in JAMA Dermatology.",
+      "date": "2026-08-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-considerable-global-disparities-access-dermatological.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "access",
+        "global",
+        "dermatological",
+        "care",
+        "considerable",
+        "disparities",
+        "found",
+        "varies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.162327+00:00"
+    },
+    {
+      "id": "rss-61341f4451e7",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "authors": "TechCrunch AI",
+      "abstract": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+      "date": "2026-08-27",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "zoph",
+        "thinking",
+        "machines",
+        "openai",
+        "google",
+        "barret",
+        "co-founder",
+        "ousted"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.264799+00:00"
+    },
+    {
+      "id": "rss-fb67f4e0e7e5",
+      "discipline": "cs",
+      "type": "news",
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "authors": "TechCrunch AI",
+      "abstract": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+      "date": "2026-08-27",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "companies",
+        "openai",
+        "anthropic",
+        "google",
+        "other",
+        "call",
+        "action",
+        "defend"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.265034+00:00"
+    },
+    {
+      "id": "rss-e4c388785b72",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "authors": "TechCrunch AI",
+      "abstract": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+      "date": "2026-08-27",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "mode",
+        "track",
+        "flight",
+        "prices",
+        "help",
+        "book",
+        "hotels"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.265226+00:00"
+    },
+    {
+      "id": "rss-e9230c9b4bcd",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "authors": "TechCrunch AI",
+      "abstract": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+      "date": "2026-08-27",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "hugging",
+        "face",
+        "robot",
+        "microduck",
+        "selling",
+        "cute",
+        "open",
+        "source"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.265380+00:00"
+    },
+    {
+      "id": "rss-7d87269dc2f6",
+      "discipline": "cs",
+      "type": "news",
+      "title": "AI’s memory crunch is coming for Android apps",
+      "authors": "TechCrunch AI",
+      "abstract": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+      "date": "2026-08-27",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "memory",
+        "android",
+        "apps",
+        "crunch",
+        "coming",
+        "google",
+        "setting",
+        "memory-use"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.265527+00:00"
+    },
+    {
+      "id": "rss-dbb833aff294",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "authors": "TechCrunch AI",
+      "abstract": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+      "date": "2026-08-27",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "rogue",
+        "companies",
+        "here",
+        "times",
+        "gone",
+        "hacked",
+        "other",
+        "recap"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.265677+00:00"
+    },
+    {
+      "id": "rss-00505505d3b9",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "authors": "TechCrunch AI",
+      "abstract": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
+      "date": "2026-08-27",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "plaud",
+        "case",
+        "record",
+        "earphones",
+        "come",
+        "esim-enabled",
+        "talking",
+        "agents"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.265849+00:00"
+    },
+    {
+      "id": "rss-b39319d0136f",
+      "discipline": "cs",
+      "type": "news",
+      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+      "date": "2026-08-27",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "openai",
+        "chatgpt",
+        "free",
+        "tiers",
+        "india",
+        "start",
+        "showing",
+        "more"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.265996+00:00"
     },
     {
       "id": "rss-fa9bfc279a7e",
@@ -460,7 +716,7 @@ window.LIVE_FEED_DATA = {
       "type": "news",
       "title": "Nvidia closes in on Hugging Face acquisition",
       "authors": "TechCrunch AI",
-      "abstract": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+      "abstract": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
       "date": "2026-08-27",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -484,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.986515+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.266139+00:00"
     },
     {
       "id": "rss-06012447239a",
@@ -516,7 +772,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.986718+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.266271+00:00"
+    },
+    {
+      "id": "rss-1912139c3820",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Looking beyond natural sequences",
+      "authors": "MIT News AI",
+      "abstract": "A new machine-learning framework aims to improve the success rate of computational protein design while moving away from results that reproduce sequences found in nature.",
+      "date": "2026-08-27",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "sequences",
+        "looking",
+        "beyond",
+        "natural",
+        "machine-learning",
+        "framework",
+        "aims",
+        "improve"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.334161+00:00"
     },
     {
       "id": "rss-cee47982cc73",
@@ -548,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.986893+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.266419+00:00"
     },
     {
       "id": "rss-5a3b549667cb",
@@ -580,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.987027+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.266544+00:00"
     },
     {
       "id": "rss-b2462c9d6a14",
@@ -612,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.987161+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.266672+00:00"
     },
     {
       "id": "rss-9d0bf3dc6bad",
@@ -644,263 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.987277+00:00"
-    },
-    {
-      "id": "rss-c56ee7c86580",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "authors": "TechCrunch AI",
-      "abstract": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-      "date": "2026-08-26",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "report",
-        "openai",
-        "releases",
-        "official",
-        "hugging",
-        "face",
-        "breach",
-        "which"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.987421+00:00"
-    },
-    {
-      "id": "rss-66c4b8443cb3",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "authors": "TechCrunch AI",
-      "abstract": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-      "date": "2026-08-26",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "podcasts",
-        "searchable",
-        "agents",
-        "radar",
-        "makes",
-        "usable",
-        "particle",
-        "podcast"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.987569+00:00"
-    },
-    {
-      "id": "rss-22b0b20f41f0",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "authors": "TechCrunch AI",
-      "abstract": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-      "date": "2026-08-26",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "visual",
-        "ex-meta",
-        "scientists",
-        "want",
-        "bring",
-        "factory",
-        "floor",
-        "perceptron"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.987696+00:00"
-    },
-    {
-      "id": "rss-7ac4992ca28c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-      "authors": "TechCrunch AI",
-      "abstract": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
-      "date": "2026-08-26",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "gates",
-        "bill",
-        "wants",
-        "robot",
-        "human",
-        "reserved",
-        "jobs",
-        "mitigate"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.987832+00:00"
-    },
-    {
-      "id": "rss-e4692f74b507",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-      "authors": "TechCrunch AI",
-      "abstract": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
-      "date": "2026-08-26",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "behind",
-        "mysterious",
-        "alpha",
-        "surprise",
-        "confirms",
-        "open",
-        "topping",
-        "benchmarks"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.987960+00:00"
-    },
-    {
-      "id": "rss-a0ecf6486878",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "authors": "TechCrunch AI",
-      "abstract": "Robot bodies are waiting for their AI brains to catch up.",
-      "date": "2026-08-26",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "robot",
-        "their",
-        "brain",
-        "builders",
-        "pushing",
-        "gpt-",
-        "bodies",
-        "waiting"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.988074+00:00"
-    },
-    {
-      "id": "rss-ef056eea5d63",
-      "discipline": "cs",
-      "type": "news",
-      "title": "QueryStory wants you to believe what AI is telling you",
-      "authors": "TechCrunch AI",
-      "abstract": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-      "date": "2026-08-26",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "querystory",
-        "wants",
-        "believe",
-        "what",
-        "telling",
-        "startup",
-        "came",
-        "stealth"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.988202+00:00"
-    },
-    {
-      "id": "rss-f71e2b2a67f8",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Arga Labs is building a better way to train enterprise AI agents",
-      "authors": "TechCrunch AI",
-      "abstract": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
-      "date": "2026-08-26",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "arga",
-        "labs",
-        "building",
-        "better",
-        "train",
-        "enterprise",
-        "agents",
-        "raised"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:05.988349+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.266799+00:00"
     },
     {
       "id": "rss-6afe29cd1ab2",
@@ -932,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.167853+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.334339+00:00"
     },
     {
       "id": "rss-dcdf7d1c8cd0",
@@ -964,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.168013+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.334483+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -996,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.704973+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.347569+00:00"
     },
     {
       "id": "rss-aeae30b99dc0",
@@ -1028,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.168153+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.334619+00:00"
     },
     {
       "id": "rss-fd216968fbb9",
@@ -1060,7 +1092,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.425077+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.529904+00:00"
+    },
+    {
+      "id": "rss-da060db7124c",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA to rebuild historic science lab in Beaufort, North Carolina",
+      "authors": "NOAA News",
+      "abstract": "NOAA to rebuild historic science lab in Beaufort, North Carolina New North Carolina facility will continue to provide world-class NOAA science nationwide August 27, 2026 NOAA's Beaufort Laboratory moved to its current location on Pivers Island, North Carolina, in 1902. This aerial image of the laboratory complex was taken in 2014. (Image credit: NOAA) Download Image Today, NOAA announced plans to fund the reconstruction of a new laboratory in Beaufort, North Carolina. This new lab will replace the former building that was permanently closed in 2024 due to significant hurricane-related structural damage. The project will be funded using $64 million from the 2025 Disaster Relief Supplemental Appropriations Act . Design and preconstruction work is expected to begin in early 2027. Established in 1899, the NOAA Beaufort Laboratory is the nation’s second-oldest federal marine science labora...",
+      "date": "2026-08-19",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/noaa-to-rebuild-historic-science-lab-in-beaufort-north-carolina",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noaa",
+        "beaufort",
+        "north",
+        "carolina",
+        "laboratory",
+        "will",
+        "image",
+        "rebuild"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.530377+00:00"
+    },
+    {
+      "id": "rss-2776ccb476cc",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA boosts weather data collection capabilities with new Mesonet contract",
+      "authors": "NOAA News",
+      "abstract": "NOAA boosts weather data collection capabilities with new Mesonet contract August 27, 2026 An array of observational equipment used by NOAA. The National Mesonet Program includes devices such as radars, weather balloons, ground-based temperature sensors, and ocean buoys. (Image credit: NOAA) Download Image NOAA’s National Weather Service will expand the National Mesonet Program offsite link — an observational weather “network of networks” that delivers critical information required for improved weather prediction and warnings across the United States — through a new contract that begins on September 1. “NOAA gathers environmental information from a wide variety of sources, and a growing list of private industry partners have joined our agency to collect this vital data,” said Ken Graham, director, NOAA’s National Weather Service. “This agreement streamlines the process that turns raw...",
+      "date": "2026-08-19",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/noaa-boosts-weather-data-collection-capabilities-with-new-mesonet-contract",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noaa",
+        "weather",
+        "mesonet",
+        "national",
+        "contract",
+        "that",
+        "boosts",
+        "collection"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:54.530905+00:00"
     },
     {
       "id": "rss-b79fe6018e2d",
@@ -1092,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.425277+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.531096+00:00"
     },
     {
       "id": "rss-a8343bb3730e",
@@ -1124,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.425473+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.531275+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1156,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:02.209202+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.748256+00:00"
     },
     {
       "id": "rss-64d6d015a3c3",
@@ -1188,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.168335+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.334807+00:00"
     },
     {
       "id": "rss-33d77e1bca30",
@@ -1220,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.168490+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.334966+00:00"
     },
     {
       "id": "rss-0c86d5cea5d3",
@@ -1252,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.425806+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.531613+00:00"
     },
     {
       "id": "rss-9e943868ef25",
@@ -1284,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.425932+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.531741+00:00"
     },
     {
       "id": "rss-83a26370caba",
@@ -1316,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.426048+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.531876+00:00"
     },
     {
       "id": "rss-2125ae46d0b0",
@@ -1348,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.426156+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.531993+00:00"
     },
     {
       "id": "rss-584592a2ff86",
@@ -1380,71 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.426262+00:00"
-    },
-    {
-      "id": "rss-78bb94bacc5f",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Jenny Wang",
-      "authors": "NOAA News",
-      "abstract": "Computer Science University of Maryland College Park Hollings Scholarship 2026",
-      "date": "2026-08-11",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/hollings-scholarship/our-people/jenny-wang",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "jenny",
-        "wang",
-        "computer",
-        "university",
-        "maryland",
-        "college",
-        "park",
-        "hollings"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.426394+00:00"
-    },
-    {
-      "id": "rss-b55136a98d41",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Sophia Voulgaris",
-      "authors": "NOAA News",
-      "abstract": "Electrical Engineering Clemson University Hollings Scholarship 2026",
-      "date": "2026-08-11",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/hollings-scholarship/our-people/sophia-voulgaris",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "sophia",
-        "voulgaris",
-        "electrical",
-        "engineering",
-        "clemson",
-        "university",
-        "hollings",
-        "scholarship"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.426506+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.532107+00:00"
     },
     {
       "id": "rss-fdb29d787f22",
@@ -1476,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.168641+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.335124+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1504,43 +1536,11 @@ window.LIVE_FEED_DATA = {
         "Neuroinflammation and Neurodegeneration Mechanisms"
       ],
       "readTime": "1 min",
-      "citedBy": 7,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.271113+00:00"
-    },
-    {
-      "id": "openalex-a0089f3bc951",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Examination of hydro climatic trend and drought analysis for climate resilience in the eastern escarpment of Abaya Chamo sub-basin, Rift Valley Lake Basin, Ethiopia",
-      "authors": "Muse Wldmchel Shomre, Muse Wldmchel Shomre, Dawit Yohannes Meskele, Yishak Beyene Moloro",
-      "abstract": "A robust assessment of hydroclimatic variability is critical for strengthening drought resilience and optimizing water resource management in climate-sensitive and data-limited regions. This study provides one of the first comprehensive integrated hydroclimatic analyses of the eastern escarpment of the Abaya-Chamo sub-basin, evaluating multi-decadal trends in rainfall, temperature, streamflow, and drought through the Mann-Kendall trend test, Indicators of Hydrologic Alteration (IHA), and drought indices derived using DrinC software. Rainfall trends were largely insignificant across five monitoring stations, except at Hagereselam station, which exhibited an upward trend. Maximum monthly temperatures increased significantly at all stations except Dilla, while minimum temperatures rose at Fisehagenet, Yirgachefe, and Hagereselam. Streamflow analysis at the Tore gauging station revealed e...",
-      "date": "2026-08-06",
-      "year": 2026,
-      "journal": "PLoS ONE",
-      "source": "PLoS ONE",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1371/journal.pone.0354913",
-      "doi": "10.1371/journal.pone.0354913",
-      "pdfUrl": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0354913&type=printable",
-      "keywords": [
-        "Escarpment",
-        "Structural basin",
-        "Rift",
-        "Geography",
-        "Geology",
-        "Rangeland Management and Livestock Ecology",
-        "Hydrology and Watershed Management Studies",
-        "Flood Risk Assessment and Management"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:02.209597+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.111704+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.272023+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.112037+00:00"
     },
     {
       "id": "rss-ead5f2bab0c6",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.168764+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.335253+00:00"
     },
     {
       "id": "rss-a22dcd5db9ed",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.168894+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.335386+00:00"
     },
     {
       "id": "rss-bfc25c3f4f29",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.169018+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.335515+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.269767+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.109718+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:02.203907+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.742557+00:00"
     },
     {
       "id": "rss-f7328a645416",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.169139+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.335641+00:00"
     },
     {
       "id": "rss-22e3c70241d7",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.169278+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.335794+00:00"
     },
     {
       "id": "openalex-82bfb13f8d46",
@@ -1807,8 +1807,8 @@ window.LIVE_FEED_DATA = {
       "abstract": "Queensland and much of eastern Australia have had significant rainfall declines since ~1951, causing economic hardship on rural and urban communities. However, no significant attempt has been made to identify and understand the physical causes of the rainfall declines over southeast Queensland (SE QLD) and whether they are likely to continue into the 21st century under higher levels of global warming. In this research, climate observations, models and global climate data as well as palaeoclimate information are used to investigate past, present and future rainfall trends in SE QLD. Five global climate models (GCMs) from the Intergovernmental Panel on Climate Change Fourth Assessment Report (IPCC–AR4) show a significant decrease in rainfall will occur over the SE QLD region during the 21st century. Observations since ~1951 show the mean sea level pressure (MSLP) has been increasing ove...",
       "date": "2026-07-30",
       "year": 2026,
-      "journal": "OpenAlex",
-      "source": "OpenAlex",
+      "journal": "University of Southern Queensland ePrints (University of Southern Queensland)",
+      "source": "University of Southern Queensland ePrints (University of Southern Queensland)",
       "sourceApi": "OpenAlex",
       "url": "http://eprints.usq.edu.au/6407/4/Cottrill_2009_Appendix_6.xls",
       "doi": "10.26192/9z62q",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:02.206189+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.745083+00:00"
     },
     {
       "id": "rss-61c6d7b63768",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.169434+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.335945+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:02.204265+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.742948+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:00.671102+00:00"
+      "_retrievedAt": "2026-08-27T22:13:49.802069+00:00"
     },
     {
       "id": "rss-8fffb20db69e",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.169571+00:00"
+      "_retrievedAt": "2026-08-27T22:13:54.336082+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.271384+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.111029+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.273518+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.113492+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2052,39 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:00.673003+00:00"
-    },
-    {
-      "id": "rss-851164c7ad86",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83",
-      "authors": "MIT News AI",
-      "abstract": "Known for his clear and elegant writing style, Bertsekas shaped fields from control and optimization to large-scale computation and artificial intelligence.",
-      "date": "2026-07-22",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "bertsekas",
-        "professor",
-        "emeritus",
-        "dimitri",
-        "influential",
-        "computer",
-        "scientist",
-        "prolific"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:06.169707+00:00"
+      "_retrievedAt": "2026-08-27T22:13:49.803948+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2116,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:00.669744+00:00"
+      "_retrievedAt": "2026-08-27T22:13:49.800733+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2148,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.272304+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.112322+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2180,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.702308+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.345068+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2212,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:02.207738+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.746347+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2244,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.273842+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.113820+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2276,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:02.208095+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.746714+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2308,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:02.206562+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.745442+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2340,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.271708+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.111355+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2372,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.702891+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.345598+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2404,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:00.672124+00:00"
+      "_retrievedAt": "2026-08-27T22:13:49.803068+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2436,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.272670+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.112662+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2468,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:00.671429+00:00"
+      "_retrievedAt": "2026-08-27T22:13:49.802366+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2479,8 +2447,8 @@ window.LIVE_FEED_DATA = {
       "abstract": "This thesis presents a system to recognise and classify road and traffic signs for the purpose of developing an inventory of them which could assist the highway engineers' tasks of updating and maintaining them. It uses images taken by a camera from a moving vehicle. The system is based on three major stages: colour segmentation, recognition, and classification. Four colour segmentation algorithms are developed and tested. They are a shadow and highlight invariant, a dynamic threshold, a modification of de la Escalera's algorithm and a Fuzzy colour segmentation algorithm. All algorithms are tested using hundreds of images and the shadow-highlight invariant algorithm is eventually chosen as the best performer. This is because it is immune to shadows and highlights. It is also robust as it was tested in different lighting conditions, weather conditions, and times of the day. Approximate...",
       "date": "2026-06-23",
       "year": 2026,
-      "journal": "Research Output (Edinburgh Napier University)",
-      "source": "Research Output (Edinburgh Napier University)",
+      "journal": "Edinburgh Napier Research Repository (Edinburgh Napier University)",
+      "source": "Edinburgh Napier Research Repository (Edinburgh Napier University)",
       "sourceApi": "OpenAlex",
       "url": "http://researchrepository.napier.ac.uk/id/eprint/9466",
       "doi": "10.17869/enu.233020",
@@ -2500,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:00.671833+00:00"
+      "_retrievedAt": "2026-08-27T22:13:49.802768+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2532,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.702552+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.345261+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -2560,11 +2528,11 @@ window.LIVE_FEED_DATA = {
         "Remote Sensing in Agriculture"
       ],
       "readTime": "1 min",
-      "citedBy": 4,
+      "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:02.206837+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.743963+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -2596,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.274042+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.114025+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2628,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:00.670677+00:00"
+      "_retrievedAt": "2026-08-27T22:13:49.801703+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -2660,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:00.672399+00:00"
+      "_retrievedAt": "2026-08-27T22:13:49.803328+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2692,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.706628+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.349145+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2724,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:02.207193+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.745815+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2756,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:02.208482+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.747132+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2788,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:00.668915+00:00"
+      "_retrievedAt": "2026-08-27T22:13:49.799930+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
@@ -2820,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.270502+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.110473+00:00"
     },
     {
       "id": "openalex-c696aff78c58",
@@ -2852,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:00.673274+00:00"
+      "_retrievedAt": "2026-08-27T22:13:49.804224+00:00"
     },
     {
       "id": "openalex-33d4ca0564d8",
@@ -2884,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.705954+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.348500+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2916,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:02.205459+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.744354+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2948,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:00.672695+00:00"
+      "_retrievedAt": "2026-08-27T22:13:49.803621+00:00"
     },
     {
       "id": "openalex-0fed25de6e90",
@@ -2980,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.704641+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.347246+00:00"
     },
     {
       "id": "openalex-fcbf1470edaa",
@@ -3012,7 +2980,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:02.207464+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.746073+00:00"
+    },
+    {
+      "id": "openalex-218d85dc8916",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Enhancing soil science research with multi-agent artificial intelligence systems",
+      "authors": "Budiman Minasny, Alex McBratney, José A.M. Demattê, Mercedes Román Dobarco, Pete Smith",
+      "abstract": "Soil science is entering a new era characterized by the integration of artificial intelligence (AI) multi-agent systems, extending the field beyond traditional machine learning (ML) applications such as digital soil mapping and spectroscopy. While current ML tools are effective for specific tasks, they often lack the reasoning, contextual integration, and adaptability required to address complex, dynamic soil systems. We propose multi-agent AI systems—autonomous, interactive software agents capable of perceptual processing, planning, and scientific reasoning—as a novel framework to support and accelerate soil science research. These agents can fulfill diverse roles, including synthesizing data from field sensors and remote sensing to create dynamic digital soil twins, generating hypotheses, designing experiments, and simulating climate-driven changes in soil function. To illustrate th...",
+      "date": "2026-05-21",
+      "year": 2026,
+      "journal": "Frontiers in Science",
+      "source": "Frontiers in Science",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/fsci.2026.1721295",
+      "doi": "10.3389/fsci.2026.1721295",
+      "pdfUrl": "https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2026.1721295/pdf",
+      "keywords": [
+        "Computer science",
+        "Adaptability",
+        "Field (mathematics)",
+        "Data science",
+        "Artificial intelligence",
+        "Soil Geostatistics and Mapping",
+        "Scientific Computing and Data Management",
+        "Geochemistry and Geologic Mapping"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:50.747495+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -3044,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:00.670082+00:00"
+      "_retrievedAt": "2026-08-27T22:13:49.801125+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -3076,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:00.668591+00:00"
+      "_retrievedAt": "2026-08-27T22:13:49.799592+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -3108,7 +3108,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.703946+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.346618+00:00"
+    },
+    {
+      "id": "openalex-ef1b53780e96",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "CRISPR-Cas systems as next-generation antimicrobials: a systemic review of mechanisms, delivery strategies, and translational challenges",
+      "authors": "Maha S.I. Wizrah",
+      "abstract": "Introduction: The rapid global increase in multidrug-resistant (MDR) bacteria has compromised the effectiveness of conventional antibiotics, stressing the urgent need for alternative antimicrobial strategies. CRISPR-Cas systems, originally evolved as bacterial adaptive immune mechanisms, provide programmable and highly specific tools for targeting antimicrobial resistance (AMR) determinants. Objective: This systematic review aims to evaluate the antibacterial mechanisms, delivery strategies, preclinical evidence, safety considerations, and translational potential of CRISPR-Cas systems for combating MDR bacterial infections. Methods: experimental or preclinical investigations assessing CRISPR-Cas systems (Cas9, Cas12, Cas13, or related effectors) for antibacterial activity or antibiotic resensitization. Data were extracted on CRISPR effector type, bacterial target, delivery platform, a...",
+      "date": "2026-05-11",
+      "year": 2026,
+      "journal": "Frontiers in Microbiology",
+      "source": "Frontiers in Microbiology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/fmicb.2026.1747931",
+      "doi": "10.3389/fmicb.2026.1747931",
+      "pdfUrl": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1747931/pdf",
+      "keywords": [
+        "CRISPR",
+        "Antibiotic resistance",
+        "Translational research",
+        "Antimicrobial",
+        "Medicine",
+        "CRISPR and Genetic Engineering",
+        "Clostridium difficile and Clostridium perfringens research",
+        "PARP inhibition in cancer therapy"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-08-27T22:13:50.349493+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -3140,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:00.670284+00:00"
+      "_retrievedAt": "2026-08-27T22:13:49.801332+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -3168,43 +3200,11 @@ window.LIVE_FEED_DATA = {
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 1502,
+      "citedBy": 1504,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:00.668182+00:00"
-    },
-    {
-      "id": "openalex-256ec0eeb0dd",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Artificial Intelligence and Big Data for Precision Medicine: A Review of Bioinformatics-Driven Healthcare Applications",
-      "authors": "Mohammad Abdus Sami, Md Lutfor Rahman, Zerin Akter Tanni, Zakia Sultana Munmun, Sabiha Nusrat, Bidhan Biswas",
-      "abstract": "Healthcare is in the middle of a quiet but profound shift. Genomic sequencers, hospital information systems, wearables and imaging archives now generate data faster than clinicians can read it, and that flood is reshaping what “evidence-based care” means. We review more than forty recent studies that bring artificial intelligence (AI), machine learning and big-data analytics into bioinformatics and precision medicine, spanning oncology, drug discovery, cardiology, neurology, public-health surveillance and healthcare operations. Reported accuracies and AUCs range from roughly 80% in early drug-discovery pipelines to above 94% in deep-learning-based pancreatic and breast imaging. Yet our reading also suggests a more cautious story: many models still suffer from limited external validation, opaque decision logic and uneven access to high-quality multi-omics data. We propose a layered con...",
-      "date": "2026-05-09",
-      "year": 2026,
-      "journal": "Frontiers in Computer Science and Artificial Intelligence",
-      "source": "Frontiers in Computer Science and Artificial Intelligence",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.32996/fcsai.2026.5.6.7",
-      "doi": "10.32996/fcsai.2026.5.6.7",
-      "pdfUrl": "https://al-kindipublisher.com/index.php/fcsai/article/download/12680/11358",
-      "keywords": [
-        "Big data",
-        "Computer science",
-        "Workflow",
-        "Data science",
-        "Artificial intelligence",
-        "Artificial Intelligence in Healthcare and Education",
-        "Machine Learning in Healthcare",
-        "Artificial Intelligence in Healthcare"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.706950+00:00"
+      "_retrievedAt": "2026-08-27T22:13:49.799207+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -3236,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.705250+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.347861+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -3268,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:02.205049+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.743662+00:00"
     },
     {
       "id": "openalex-b393cd9c8f8c",
@@ -3300,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.270153+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.110127+00:00"
     },
     {
       "id": "openalex-be3c1de6b319",
@@ -3332,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.270768+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.110746+00:00"
     },
     {
       "id": "openalex-190171b8b4fb",
@@ -3364,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:00.669368+00:00"
+      "_retrievedAt": "2026-08-27T22:13:49.800366+00:00"
     },
     {
       "id": "openalex-d9d3322c6558",
@@ -3396,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.272951+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.112949+00:00"
     },
     {
       "id": "openalex-e2538de02ecf",
@@ -3428,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.706278+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.348838+00:00"
     },
     {
       "id": "openalex-82fa988e3628",
@@ -3460,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:02.205819+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.744702+00:00"
     },
     {
       "id": "openalex-0538798b1bc1",
@@ -3492,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:02.208857+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.747893+00:00"
     },
     {
       "id": "openalex-1feb025759ab",
@@ -3524,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.705603+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.348171+00:00"
     },
     {
       "id": "openalex-0026215bd6f7",
@@ -3556,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.704262+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.346911+00:00"
     },
     {
       "id": "openalex-8595aa7859b0",
@@ -3588,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-08-27T09:43:01.273223+00:00"
+      "_retrievedAt": "2026-08-27T22:13:50.113220+00:00"
     }
   ]
 };
