@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T16:32:32.095583+00:00",
+  "generatedAt": "2026-09-02T21:00:44.206942+00:00",
   "total": 112,
   "sources": [
     "RSS",
@@ -7,452 +7,580 @@
   ],
   "papers": [
     {
-      "id": "rss-4903a8e229ec",
+      "id": "rss-56c9b601217a",
       "discipline": "clinical",
       "type": "news",
-      "title": "Researchers uncover promising new target for treating high blood pressure",
+      "title": "How HIV affects the eyes of aging adults",
       "authors": "Medical Xpress",
-      "abstract": "University of Missouri researchers are studying high blood pressure, one of the world's deadliest health threats. Recently, they identified a protein that contributes to arterial stiffening and inflammation, opening the door to a new approach for preventing and treating the condition before it leads to heart attacks or strokes.",
+      "abstract": "Older adults with well-controlled HIV may have a higher prevalence of certain eye conditions, particularly dry eye, compared with similar adults without HIV, according to a new study led by a University of Colorado Anschutz Department of Ophthalmology faculty member.",
       "date": "2026-09-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-uncover-high-blood-pressure.html",
+      "url": "https://medicalxpress.com/news/2026-09-hiv-affects-eyes-aging-adults.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "researchers",
-        "treating",
-        "high",
-        "blood",
-        "pressure",
-        "uncover",
-        "promising",
-        "target"
+        "adults",
+        "affects",
+        "eyes",
+        "aging",
+        "older",
+        "well-controlled",
+        "have",
+        "higher"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.447277+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.233690+00:00"
     },
     {
-      "id": "rss-40baff23c8cd",
+      "id": "rss-8482e1d476fd",
       "discipline": "clinical",
       "type": "news",
-      "title": "Understanding the neural processes underlying limb apraxia",
+      "title": "Daraxonrasib demonstrates initial antitumor activity in RAS-mutant lung cancer",
       "authors": "Medical Xpress",
-      "abstract": "Limb apraxia is a neurological disorder that can occur after damage to the brain's left hemisphere and is characterized by difficulty using tools despite normal motor control and cognition. It affects roughly a quarter of stroke survivors and is observed in other conditions, including Alzheimer's disease.",
+      "abstract": "Daraxonrasib, an oral RAS inhibitor therapy, achieved durable responses in pretreated patients with RAS-mutant non-small cell lung cancer (NSCLC) in a phase 1/2 trial led by The University of Texas MD Anderson Cancer Center.",
       "date": "2026-09-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-neural-underlying-limb-apraxia.html",
+      "url": "https://medicalxpress.com/news/2026-09-daraxonrasib-antitumor-ras-mutant-lung.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "limb",
-        "apraxia",
-        "understanding",
-        "neural",
-        "processes",
-        "underlying",
-        "neurological",
-        "disorder"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.447532+00:00"
-    },
-    {
-      "id": "rss-c3854867074f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Largest study supports three courses of radiation for children with deadly brain tumor",
-      "authors": "Medical Xpress",
-      "abstract": "Children with one of the deadliest forms of brain cancer may benefit from an additional course of radiation therapy after their disease returns, according to new research from the Icahn School of Medicine at Mount Sinai. The study, published in Practical Radiation Oncology, is the first to examine the experience of giving three courses of radiation treatment to patients with diffuse intrinsic pontine glioma (DIPG) that has recurred.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-largest-courses-children-deadly-brain.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "radiation",
-        "three",
-        "courses",
-        "children",
-        "brain",
-        "largest",
-        "supports",
-        "deadly"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.447805+00:00"
-    },
-    {
-      "id": "rss-b1a92ee09e99",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Why some stroke patients fare better than others",
-      "authors": "Medical Xpress",
-      "abstract": "A clot forms. Blood flow to the brain is blocked. Starved of oxygen, neurons begin to die. This scenario, known as an ischemic stroke, plays out in roughly 21,000 people worldwide each day, threatening them with long-term disability or even death. In recent decades, the advent of drugs and mechanical tools for removing clots has revolutionized stroke care.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-patients-fare.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "stroke",
-        "some",
-        "patients",
-        "fare",
-        "better",
-        "than",
-        "others",
-        "clot"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.448033+00:00"
-    },
-    {
-      "id": "rss-d5907dbf6465",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Co-designed counseling improves postpartum contraceptive choices, but organizational barriers remain",
-      "authors": "Medical Xpress",
-      "abstract": "Becoming pregnant again soon after giving birth is associated with risks for both mother and child. A study led by Karolinska Institutet and published in The Lancet Obstetrics, Gynecology & Women's Health shows that approaches and guidance developed jointly by midwives and mothers can increase the proportion of women who choose effective contraception after childbirth, but also that organizational barriers limit opportunities for equitable care.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-postpartum-contraceptive-choices-organizational-barriers.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "organizational",
-        "barriers",
-        "after",
-        "women",
-        "that",
-        "co-designed",
-        "counseling",
-        "improves"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.448289+00:00"
-    },
-    {
-      "id": "rss-4f7bdbef9bfd",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Pre-surgery immunotherapy may improve treatment for deadly brain cancer",
-      "authors": "Medical Xpress",
-      "abstract": "With a five-year survival rate of barely 5%, glioblastoma remains one of the deadliest brain cancers. First-line treatment consists of surgery to remove as much tumor tissue as possible.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-pre-surgery-immunotherapy-treatment-deadly.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "treatment",
-        "brain",
-        "pre-surgery",
-        "immunotherapy",
-        "improve",
-        "deadly",
         "cancer",
-        "five-year"
+        "daraxonrasib",
+        "ras-mutant",
+        "lung",
+        "demonstrates",
+        "initial",
+        "antitumor",
+        "activity"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.448486+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.234000+00:00"
     },
     {
-      "id": "rss-15fa1185bee3",
+      "id": "rss-ffead81e8c3a",
       "discipline": "clinical",
       "type": "news",
-      "title": "Breathing without brakes: An unexpected cause of Rett syndrome symptoms",
+      "title": "Less-intensive drug combination is more effective in treating acute myeloid leukemia, clinical trial finds",
       "authors": "Medical Xpress",
-      "abstract": "Hyperventilating. Breath-holding until they turn blue. This abnormal breathing is frequent and disturbing in people with Rett syndrome, a rare genetic disease. Now University of Connecticut researchers report in Current Biology why those episodes happen and show how medications for an entirely different disease might help.",
+      "abstract": "Investigators from the Mass General Brigham Cancer Institute have found that adults with newly diagnosed acute myeloid leukemia (AML) receiving a less-intensive combination of azacitidine and venetoclax had more than twice as much time before treatment failed, the leukemia returned or worsened, or they died, compared with patients receiving intensive chemotherapy. Published in the New England Journal of Medicine, the findings could change the initial treatment approach for many patients with AML.",
       "date": "2026-09-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-unexpected-rett-syndrome-symptoms.html",
+      "url": "https://medicalxpress.com/news/2026-09-intensive-drug-combination-effective-acute.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "breathing",
-        "rett",
-        "syndrome",
-        "disease",
-        "without",
-        "brakes",
-        "unexpected",
-        "cause"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.448723+00:00"
-    },
-    {
-      "id": "rss-90bfa019cde4",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Berry compound reduces fat buildup in muscle cells, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "Ectopic lipid accumulation in skeletal muscle is a major health concern driven by factors like high-fat diets, lack of exercise and aging. Unlike subcutaneous fat, these intracellular lipid droplets interfere with normal muscle function and reduce the body's ability to efficiently use glucose and fatty acids. This condition impairs metabolic flexibility and leads to insulin resistance. Therefore, finding ways to control excessive lipid buildup in skeletal muscle is crucial for extending a healthy lifespan and preventing lifestyle-related disorders.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-berry-compound-fat-buildup-muscle.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "muscle",
-        "lipid",
-        "buildup",
-        "skeletal",
-        "berry",
-        "compound",
-        "reduces",
-        "cells"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.448985+00:00"
-    },
-    {
-      "id": "rss-0d2f9a7cc134",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "GLP-1 treatment late in life extends lifespan in animal model",
-      "authors": "Medical Xpress",
-      "abstract": "A study published in Nature has shown that the GLP-1 drug semaglutide extended the lifespan of older, healthy mice by tempering the detrimental effects of aging. Researchers at the University of California, Berkeley, directly compared the effects of the treatment with those of reduced food intake. They found that the drug mimicked the anti-aging benefits of calorie restriction, conferring even greater benefits in some areas.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-glp-treatment-late-life-lifespan.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "glp-",
-        "treatment",
-        "lifespan",
-        "that",
-        "drug",
-        "effects",
-        "benefits",
-        "late"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.449218+00:00"
-    },
-    {
-      "id": "rss-669a8847d621",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Level of education most strongly linked to survival after hip fracture",
-      "authors": "Medical Xpress",
-      "abstract": "Level of education is the socioeconomic factor most strongly associated with survival rates after acute hip surgery. This is shown in a Linköping University study of 58,000 people. The results can be used to better identify patients who may need more support after surgery.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-strongly-linked-survival-hip-fracture.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "after",
-        "level",
-        "education",
-        "most",
-        "strongly",
-        "survival",
-        "surgery",
-        "linked"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.449441+00:00"
-    },
-    {
-      "id": "rss-f06393325084",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Healthier fats linked to longer survival after prostate cancer diagnosis",
-      "authors": "Medical Xpress",
-      "abstract": "Men diagnosed with nonmetastatic prostate cancer can generally expect to live for many years after their diagnosis. However, cardiovascular disease and other cancers remain important threats to their long-term health. For many survivors, this raises an important question: What can I do to live a longer, healthier life?",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-healthier-fats-linked-longer-survival.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "healthier",
-        "longer",
-        "after",
-        "prostate",
-        "cancer",
-        "diagnosis",
-        "live",
-        "many"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.449667+00:00"
-    },
-    {
-      "id": "rss-43aac5e50d26",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Genetic tests may miss reaction risk from drug prescribed to millions",
-      "authors": "Medical Xpress",
-      "abstract": "A genetic marker already used to flag the risk of a life-threatening reaction to the antibiotic vancomycin also identifies patients at risk of that reaction to lamotrigine—and it is missing from the gene panels clinicians order before prescribing the drug, Vanderbilt Health-led researchers report in JAMA Network Open. The two variants those panels do test for showed no association with lamotrigine reaction in a U.S. population.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-genetic-reaction-drug-millions.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "reaction",
-        "risk",
-        "genetic",
-        "drug",
-        "lamotrigine",
-        "panels",
-        "tests",
-        "miss"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.449934+00:00"
-    },
-    {
-      "id": "rss-aa2bcb74a365",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Genetics of personality may shape more life outcomes than previously thought",
-      "authors": "Medical Xpress",
-      "abstract": "An international consortium of researchers found that more than 1,200 different genetic variants are associated with the Big Five personality traits—and, surprisingly, these personality genetics are linked to dozens of life outcomes.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-genetics-personality-life-outcomes-previously.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "personality",
-        "genetics",
+        "leukemia",
+        "less-intensive",
+        "combination",
         "more",
-        "life",
-        "outcomes",
-        "than",
-        "shape",
-        "previously"
+        "acute",
+        "myeloid",
+        "receiving",
+        "treatment"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.450145+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.234339+00:00"
     },
     {
-      "id": "rss-dbea0efacfd1",
+      "id": "rss-d93c609f8ffe",
       "discipline": "clinical",
       "type": "news",
-      "title": "How wildfire smoke may contribute to neurodegenerative diseases",
+      "title": "Autism diagnoses rising fastest among girls and women, study finds",
       "authors": "Medical Xpress",
-      "abstract": "Researchers at Barrow Neurological Institute in Phoenix have uncovered how wildfire smoke may trigger harmful inflammation in the brain, offering new insight into why prolonged smoke exposure has been associated with neurological diseases such as Parkinson's and Alzheimer's.",
+      "abstract": "A new Saint Louis University study of nearly a decade of health records finds that the recent rise in autism spectrum disorder (ASD) diagnoses is being driven largely by girls and women, who are being identified at significantly higher rates than in years past, often years later than boys and men.",
       "date": "2026-09-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-wildfire-contribute-neurodegenerative-diseases.html",
+      "url": "https://medicalxpress.com/news/2026-09-autism-fastest-girls-women.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "smoke",
-        "wildfire",
-        "diseases",
-        "neurological",
-        "contribute",
-        "neurodegenerative",
-        "researchers",
-        "barrow"
+        "autism",
+        "diagnoses",
+        "girls",
+        "women",
+        "finds",
+        "being",
+        "than",
+        "years"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.450347+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.234633+00:00"
+    },
+    {
+      "id": "rss-8bc84c584c44",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "DR Congo Ebola vaccine trials to begin by November: WHO",
+      "authors": "Medical Xpress",
+      "abstract": "Trials for three potential vaccines against the Ebola strain that has killed thousands in the Democratic Republic of Congo should begin by October or November, the World Health Organization said Wednesday.",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-dr-congo-ebola-vaccine-trials.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "congo",
+        "ebola",
+        "trials",
+        "begin",
+        "november",
+        "vaccine",
+        "three",
+        "potential"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-02T21:00:43.234890+00:00"
+    },
+    {
+      "id": "rss-9f63b3547f7a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Genetic pathway offers new insight into timing of early brain development",
+      "authors": "Medical Xpress",
+      "abstract": "Melbourne researchers have uncovered a critical signaling pathway that controls the timing of brain development, shedding new light on how neurodevelopmental disorders may develop. The research, led by Murdoch Children's Research Institute (MCRI) and published in Nature Communications, has revealed the genetic processes that shape brain development and what can happen when they are disrupted.",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-genetic-pathway-insight-early-brain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "development",
+        "genetic",
+        "pathway",
+        "timing",
+        "that",
+        "offers",
+        "insight"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-02T21:00:43.235174+00:00"
+    },
+    {
+      "id": "rss-a5d88b982cec",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "In Canada, immigration status is associated with length of ICU stay after stroke",
+      "authors": "Medical Xpress",
+      "abstract": "Among people who have a stroke in Canada, immigrants were admitted to the intensive care unit (ICU) at similar rates to long-term residents or people who were born in Canada, but they were more likely to have longer stays in the ICU, according to a study published Sept. 2, 2026, in Neurology.",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-canada-immigration-status-length-icu.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "canada",
+        "were",
+        "stroke",
+        "people",
+        "have",
+        "immigration",
+        "status",
+        "associated"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-02T21:00:43.235440+00:00"
+    },
+    {
+      "id": "rss-70f2a04bd86a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Mini-tumors reveal new drug combinations for liver cancer",
+      "authors": "Medical Xpress",
+      "abstract": "Liver cancer is difficult to treat because tumors vary greatly from patient to patient. Researchers at the University of Basel have captured this diversity by creating a collection of mini-tumors, which they use to systematically search for new treatment options. They tested more than 1,600 compounds using these organoids and used the results to develop promising drug combinations.",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-mini-tumors-reveal-drug-combinations.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "mini-tumors",
+        "drug",
+        "combinations",
+        "liver",
+        "cancer",
+        "patient",
+        "they",
+        "reveal"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-02T21:00:43.235727+00:00"
+    },
+    {
+      "id": "rss-07d5e7297167",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Novel spatial technology may improve our understanding of cancer biology",
+      "authors": "Medical Xpress",
+      "abstract": "Northwestern Medicine scientists have developed a novel high-resolution spatial genomics platform that may enhance future research into how genome organization and genetic alterations contribute to disease development, including cancer, as detailed in a recent study published in Nature Methods.",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-spatial-technology-cancer-biology.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "novel",
+        "spatial",
+        "cancer",
+        "technology",
+        "improve",
+        "understanding",
+        "biology",
+        "northwestern"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-02T21:00:43.235948+00:00"
+    },
+    {
+      "id": "rss-dee8989263dc",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Lab-grown tissue reveals how inflammation may drive heart relaxation failure",
+      "authors": "Medical Xpress",
+      "abstract": "Scientists study the underlying causes of a disease or test potential new drugs in animal models or cells obtained from human biopsy specimens before clinical trials. However, disease models in animals do not mimic actual human disease, and biopsy specimens are difficult to access for research purposes. Lab-grown tissues engineered from stem cells reprogrammed from human cells, called human induced pluripotent stem cells (hiPSCs), are rapidly emerging as a more reliable and accessible model in medical research.",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-lab-grown-tissue-reveals-inflammation.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cells",
+        "human",
+        "disease",
+        "lab-grown",
+        "biopsy",
+        "specimens",
+        "stem",
+        "tissue"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-02T21:00:43.236192+00:00"
+    },
+    {
+      "id": "rss-5fc70f7b0914",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Micro-LED mask improves skin elasticity beyond injections alone",
+      "authors": "Medical Xpress",
+      "abstract": "Home beauty devices that allow users to care for their skin conveniently at home have grown popular recently, but conventional LED masks are limited by their rigid structures and point-emitting LEDs, which must be positioned away from the skin to spread light over a broader area. This inherently prevents close skin contact and increases optical loss.",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-micro-mask-skin-elasticity.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "skin",
+        "home",
+        "their",
+        "micro-led",
+        "mask",
+        "improves",
+        "elasticity",
+        "beyond"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-02T21:00:43.236410+00:00"
+    },
+    {
+      "id": "rss-d5efb314b1fd",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Powerful new tool reveals potential 'goldmine' of cancer targets hidden in 'junk DNA'",
+      "authors": "Medical Xpress",
+      "abstract": "A QIMR Berghofer-led team has developed a powerful tool to explore and understand the mysterious workings of the vast region of the human genome once dismissed as \"junk DNA,\" discovering thousands of molecules that could hold the key to new precision cancer treatments.",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-powerful-tool-reveals-potential-goldmine.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "powerful",
+        "tool",
+        "cancer",
+        "junk",
+        "reveals",
+        "potential",
+        "goldmine",
+        "targets"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-02T21:00:43.236628+00:00"
+    },
+    {
+      "id": "rss-221c7d9f3556",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New mechanism shows how immune cells fine-tune adhesion during infection and recovery",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at the University of Liverpool helped uncover how the body adapts its immune defenses during periods of increased demand, such as infection, inflammation and recovery following stem cell transplantation.",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-mechanism-immune-cells-fine-tune.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "immune",
+        "during",
+        "infection",
+        "recovery",
+        "mechanism",
+        "shows",
+        "cells",
+        "fine-tune"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-02T21:00:43.236824+00:00"
+    },
+    {
+      "id": "rss-af9fa1422e01",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Babies face a higher death risk when their mother is experiencing intimate partner violence",
+      "authors": "Medical Xpress",
+      "abstract": "Children whose mothers experience violence from a partner have a higher chance of dying before their fifth birthday, according to a major international study led by Curtin University. The research found that intimate partner violence was linked to a greater risk of babies and young children dying, highlighting how preventing violence against women could also help save children's lives.",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-babies-higher-death-mother-experiencing.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "violence",
+        "partner",
+        "children",
+        "babies",
+        "higher",
+        "risk",
+        "their",
+        "intimate"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-02T21:00:43.237054+00:00"
+    },
+    {
+      "id": "rss-34806a56da70",
+      "discipline": "cs",
+      "type": "news",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "openai",
+        "reasoning",
+        "technique",
+        "that",
+        "alarms",
+        "safety",
+        "experts",
+        "astra"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-02T21:00:43.344466+00:00"
+    },
+    {
+      "id": "rss-ef9809308a4f",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "authors": "TechCrunch AI",
+      "abstract": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real. A handful of startups have cropped up in the past couple of […]",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "real",
+        "pangram",
+        "spero",
+        "detection",
+        "harder",
+        "than",
+        "fake",
+        "internet"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-02T21:00:43.344804+00:00"
+    },
+    {
+      "id": "rss-a78e6812a3e4",
+      "discipline": "cs",
+      "type": "news",
+      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+      "authors": "TechCrunch AI",
+      "abstract": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real. A handful of startups have cropped up in the past couple of […]",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "internet",
+        "dangerously",
+        "close",
+        "dead",
+        "theory",
+        "says",
+        "pangram",
+        "trust"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-02T21:00:43.345037+00:00"
+    },
+    {
+      "id": "rss-fb8f9cfc78f8",
+      "discipline": "cs",
+      "type": "news",
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "authors": "TechCrunch AI",
+      "abstract": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "government",
+        "sides",
+        "openai",
+        "issue",
+        "training",
+        "llms",
+        "copyrighted",
+        "material"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-02T21:00:43.345203+00:00"
     },
     {
       "id": "rss-d2563ac43474",
@@ -460,7 +588,7 @@
       "type": "news",
       "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
       "authors": "TechCrunch AI",
-      "abstract": "Wonderful's $550M Series C was led by Insight Partners, with Salesforce, Index Ventures, IVP, Vine Ventures, 9Yards and Bessemer participating.",
+      "abstract": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
       "date": "2026-09-02",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -471,7 +599,7 @@
       "pdfUrl": "",
       "keywords": [
         "wonderful",
-        "ventures",
+        "products",
         "more",
         "than",
         "doubles",
@@ -484,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.565435+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.345349+00:00"
     },
     {
       "id": "rss-86c630b36187",
@@ -516,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.565693+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.345501+00:00"
     },
     {
       "id": "rss-1d5291c84a9d",
@@ -548,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.565857+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.345652+00:00"
     },
     {
       "id": "rss-2b401e472f03",
@@ -580,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.566021+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.345810+00:00"
     },
     {
       "id": "rss-b7e9de1a446b",
@@ -612,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.566149+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.345938+00:00"
     },
     {
       "id": "rss-368c175ba5f4",
@@ -644,7 +772,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.566292+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.346083+00:00"
+    },
+    {
+      "id": "rss-341504e67552",
+      "discipline": "cs",
+      "type": "news",
+      "title": "From MIT to IBM, expediting AI and quantum deployment",
+      "authors": "MIT News AI",
+      "abstract": "MIT affiliates engage with the MIT-IBM Computing Research Lab to bring rigorous theory to production systems.",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "expediting",
+        "quantum",
+        "deployment",
+        "affiliates",
+        "engage",
+        "mit-ibm",
+        "computing",
+        "bring"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-02T21:00:43.394115+00:00"
     },
     {
       "id": "rss-e51d07a6b736",
@@ -676,7 +836,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.653045+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.394294+00:00"
+    },
+    {
+      "id": "openalex-b0b9c1c36e09",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Journal of Strategic Security",
+      "authors": "OpenAlex indexed authors",
+      "abstract": "The Journal of Strategic Security (JSS) is a peer-reviewed professional journal published quarterly by Henley-Putnam School of Strategic Security. The Journal provides a multi-disciplinary forum for scholarship and discussion of strategic security issues drawing from the fields of global security, international relations, intelligence, terrorism and counterterrorism studies, among others. The Journal encourages diversity in theoretical foundations, research methods, and approaches. Quantitative and qualitative studies, for example, each offer valuable contributions to the field of strategic security. Academic disciplines of international relations, political science, psychology, sociology, anthropology, criminology, economics, and history are welcome, as are the applied scholarly fields of security studies, strategic studies, and intelligence studies. JSS emphasizes contemporary secur...",
+      "date": "2026-09-01",
+      "year": 2026,
+      "journal": "Journal of Strategic Security",
+      "source": "Journal of Strategic Security",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.5038/1944-0472",
+      "doi": "10.5038/1944-0472",
+      "pdfUrl": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=2026&context=jss",
+      "keywords": [
+        "Political science",
+        "Terrorism, Counterterrorism, and Political Violence",
+        "International Relations and Foreign Policy",
+        "security",
+        "strategic",
+        "journal",
+        "studies",
+        "fields"
+      ],
+      "readTime": "1 min",
+      "citedBy": 117,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-02T21:00:05.543237+00:00"
     },
     {
       "id": "rss-6a2308bdfaf9",
@@ -708,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.566450+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.346247+00:00"
     },
     {
       "id": "rss-6b515fd6dc86",
@@ -740,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.566588+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.346394+00:00"
     },
     {
       "id": "rss-58bb30b2056b",
@@ -772,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.566757+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.346551+00:00"
     },
     {
       "id": "rss-8abfb27f2366",
@@ -804,135 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.566891+00:00"
-    },
-    {
-      "id": "rss-3d73331a1b56",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "authors": "TechCrunch AI",
-      "abstract": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "canva",
-        "answer",
-        "tool",
-        "where",
-        "prompt",
-        "instead",
-        "design"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.567038+00:00"
-    },
-    {
-      "id": "rss-bc2db00358d7",
-      "discipline": "cs",
-      "type": "news",
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "authors": "TechCrunch AI",
-      "abstract": "OpenAI said that the integration provides read-only access to health records for clinicians.",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "health",
-        "integration",
-        "clinicians",
-        "chatgpt",
-        "adds",
-        "epic",
-        "import",
-        "patient"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.567165+00:00"
-    },
-    {
-      "id": "rss-a8fa3ab5708b",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "authors": "TechCrunch AI",
-      "abstract": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "sequoia-incubated",
-        "empirik",
-        "launches",
-        "predict",
-        "outages",
-        "before",
-        "they",
-        "happen"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.567287+00:00"
-    },
-    {
-      "id": "rss-1fc69de6faad",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-      "authors": "TechCrunch AI",
-      "abstract": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "amazon",
-        "when",
-        "that",
-        "alexa",
-        "alert",
-        "something",
-        "might",
-        "tempt"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.567443+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.346733+00:00"
     },
     {
       "id": "rss-920fbd87ebe7",
@@ -964,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.653218+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.394446+00:00"
     },
     {
       "id": "rss-212fba1ccc92",
@@ -996,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.653360+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.394582+00:00"
     },
     {
       "id": "rss-7849fc211ef2",
@@ -1028,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.892784+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.962603+00:00"
     },
     {
       "id": "rss-eb2e1816547e",
@@ -1060,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.893260+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.963175+00:00"
     },
     {
       "id": "rss-8921f471d133",
@@ -1092,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.893494+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.963453+00:00"
     },
     {
       "id": "rss-86e8b2b3fe45",
@@ -1124,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.653491+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.394731+00:00"
     },
     {
       "id": "rss-210f19a3c800",
@@ -1156,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.653672+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.394873+00:00"
     },
     {
       "id": "rss-1912139c3820",
@@ -1188,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.653820+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.395009+00:00"
     },
     {
       "id": "rss-6afe29cd1ab2",
@@ -1220,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.653962+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.395154+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1252,7 +1316,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.519692+00:00"
+      "_retrievedAt": "2026-09-02T21:00:07.375807+00:00"
     },
     {
       "id": "rss-dcdf7d1c8cd0",
@@ -1284,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.654089+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.395289+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1316,7 +1380,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.800339+00:00"
+      "_retrievedAt": "2026-09-02T21:00:10.180353+00:00"
     },
     {
       "id": "rss-aeae30b99dc0",
@@ -1348,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.654212+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.395422+00:00"
     },
     {
       "id": "rss-fd216968fbb9",
@@ -1380,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.893813+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.963819+00:00"
     },
     {
       "id": "rss-da060db7124c",
@@ -1412,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.894268+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.964344+00:00"
     },
     {
       "id": "rss-2776ccb476cc",
@@ -1444,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.894823+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.964951+00:00"
     },
     {
       "id": "rss-b79fe6018e2d",
@@ -1476,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.895011+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.965184+00:00"
     },
     {
       "id": "rss-a8343bb3730e",
@@ -1508,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.895187+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.965410+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1540,7 +1604,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:12.028516+00:00"
+      "_retrievedAt": "2026-09-02T21:00:12.135918+00:00"
     },
     {
       "id": "rss-64d6d015a3c3",
@@ -1572,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.654368+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.395589+00:00"
     },
     {
       "id": "rss-33d77e1bca30",
@@ -1604,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.654513+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.395755+00:00"
     },
     {
       "id": "rss-0c86d5cea5d3",
@@ -1636,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.895519+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.965831+00:00"
     },
     {
       "id": "rss-9e943868ef25",
@@ -1668,39 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.895667+00:00"
-    },
-    {
-      "id": "openalex-3102df6dbe7b",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "UNCOVERseq enables sensitive and controlled gene editing off-target nomination across CRISPR-Cas modalities and systems",
-      "authors": "Kyle J. Kinney, Kun Jia, He Zhang, Ellen Schmaljohn, Thomas F. Osborne, Bernice Thommandru",
-      "abstract": "Abstract The rapid development of CRISPR-Cas gene editing technologies has revolutionized genetic medicine, offering unprecedented precision and potential for treating a wide array of genetic disorders. However, assessing the risks of unintended gene editing effects remains critical, and is complicated by new editing modalities and unclear analytical guidelines. We present UNCOVERseq (Unbiased Nomination of CRISPR Off-target Variants using Enhanced RhPCR), an improved in cellulo off-target nomination workflow designed to sensitively nominate off-target sites (<0.01% editing) with defined input requirements and analytical process controls to provide empirical performance evidence across diverse circumstances. Using this workflow, we nominated off-targets across 192 guide RNAs (gRNAs) and demonstrated superior performance compared to existing methodologies. We identified a subset of six...",
-      "date": "2026-08-11",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-74623-7",
-      "doi": "10.1038/s41467-026-74623-7",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-74623-7.pdf",
-      "keywords": [
-        "Nomination",
-        "CRISPR",
-        "Modalities",
-        "Genome editing",
-        "Computer science",
-        "CRISPR and Genetic Engineering",
-        "editing",
-        "off-target"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.520812+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.965996+00:00"
     },
     {
       "id": "rss-fdb29d787f22",
@@ -1732,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.654674+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.395916+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1764,7 +1796,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.518367+00:00"
+      "_retrievedAt": "2026-09-02T21:00:07.374357+00:00"
     },
     {
       "id": "openalex-a0089f3bc951",
@@ -1796,7 +1828,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:12.028916+00:00"
+      "_retrievedAt": "2026-09-02T21:00:12.136313+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1828,7 +1860,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.518715+00:00"
+      "_retrievedAt": "2026-09-02T21:00:07.374690+00:00"
     },
     {
       "id": "openalex-31da6159b300",
@@ -1860,7 +1892,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:12.029230+00:00"
+      "_retrievedAt": "2026-09-02T21:00:12.136634+00:00"
     },
     {
       "id": "rss-ead5f2bab0c6",
@@ -1892,39 +1924,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.654799+00:00"
-    },
-    {
-      "id": "rss-a22dcd5db9ed",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The benefits of medical AI assistance vary based on user expertise",
-      "authors": "MIT News AI",
-      "abstract": "Study finds non-experts deferred to LLM-based diagnostic assistance, even when it was wrong, while clinicians caught AI errors.",
-      "date": "2026-08-04",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "assistance",
-        "benefits",
-        "medical",
-        "vary",
-        "user",
-        "expertise",
-        "finds",
-        "non-experts"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:31.654931+00:00"
+      "_retrievedAt": "2026-09-02T21:00:43.396048+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -1956,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.516418+00:00"
+      "_retrievedAt": "2026-09-02T21:00:07.372356+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -1988,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:12.023783+00:00"
+      "_retrievedAt": "2026-09-02T21:00:12.130890+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2020,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:12.024136+00:00"
+      "_retrievedAt": "2026-09-02T21:00:12.131317+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2052,7 +2052,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.221239+00:00"
+      "_retrievedAt": "2026-09-02T21:00:05.544817+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2084,7 +2084,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.517688+00:00"
+      "_retrievedAt": "2026-09-02T21:00:07.373714+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2116,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.519976+00:00"
+      "_retrievedAt": "2026-09-02T21:00:07.376072+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2148,7 +2148,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.223127+00:00"
+      "_retrievedAt": "2026-09-02T21:00:05.546632+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2180,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.219937+00:00"
+      "_retrievedAt": "2026-09-02T21:00:05.543928+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2212,7 +2212,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.519011+00:00"
+      "_retrievedAt": "2026-09-02T21:00:07.374965+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2244,7 +2244,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.797475+00:00"
+      "_retrievedAt": "2026-09-02T21:00:10.177603+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2276,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:12.026775+00:00"
+      "_retrievedAt": "2026-09-02T21:00:12.134786+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2308,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.520291+00:00"
+      "_retrievedAt": "2026-09-02T21:00:07.376377+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2336,11 +2336,11 @@
         "Ecology and Vegetation Dynamics Studies"
       ],
       "readTime": "1 min",
-      "citedBy": 3,
+      "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:12.027137+00:00"
+      "_retrievedAt": "2026-09-02T21:00:12.133268+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2372,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:12.025894+00:00"
+      "_retrievedAt": "2026-09-02T21:00:12.133621+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2404,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.518016+00:00"
+      "_retrievedAt": "2026-09-02T21:00:07.374029+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2436,7 +2436,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.798012+00:00"
+      "_retrievedAt": "2026-09-02T21:00:10.178133+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2464,11 +2464,11 @@
         "Topic Modeling"
       ],
       "readTime": "1 min",
-      "citedBy": 27,
+      "citedBy": 28,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.222245+00:00"
+      "_retrievedAt": "2026-09-02T21:00:05.545775+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2500,7 +2500,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.519353+00:00"
+      "_retrievedAt": "2026-09-02T21:00:07.375289+00:00"
+    },
+    {
+      "id": "openalex-f64c9923322b",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Genome-wide absolute quantification of chromatin looping",
+      "authors": "James M. Jusuf, Jin H. Yang, Jack Toppen, Simon Grosse‐Holz, Michele Gabriele, Pia Mach",
+      "abstract": "3D genomics methods such as Hi-C and Micro-C have uncovered chromatin loops across the genome and linked these loops to gene regulation. However, these methods only measure 3D interaction probabilities on a relative scale. Here, we overcome this limitation by using live imaging data to calibrate Micro-C in mouse embryonic stem cells, thus obtaining absolute looping probabilities for 65,929 Micro-C identified chromatin loops. We find that the looped state is generally rare, with a mean pairwise looping probability of 1.2% and a maximum of 25% across the quantified loops. On average, CTCF-CTCF loops are stronger than cis-regulatory loops (2.2% vs. <1%). Our findings can be extended to human cells with available Micro-C data under certain assumptions. Overall, we establish an approach for genome-wide absolute loop quantification and report that loops occur with low probabilities, general...",
+      "date": "2026-06-30",
+      "year": 2026,
+      "journal": "PubMed Central",
+      "source": "PubMed Central",
+      "sourceApi": "OpenAlex",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13523127/",
+      "doi": "10.1038/s41594-026-01819-2",
+      "pdfUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13523127/pdf/nihms-2196701.pdf",
+      "keywords": [
+        "Chromatin",
+        "Pairwise comparison",
+        "Measure (data warehouse)",
+        "Loop (graph theory)",
+        "Genome",
+        "Genomics and Chromatin Dynamics",
+        "Developmental Biology and Gene Regulation",
+        "Genomic variations and chromosomal abnormalities"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-02T21:00:07.376645+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2532,7 +2564,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.221544+00:00"
+      "_retrievedAt": "2026-09-02T21:00:05.545113+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2564,7 +2596,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.221961+00:00"
+      "_retrievedAt": "2026-09-02T21:00:05.545493+00:00"
     },
     {
       "id": "openalex-c3aaf692321e",
@@ -2596,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.802138+00:00"
+      "_retrievedAt": "2026-09-02T21:00:10.182057+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2628,7 +2660,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.797684+00:00"
+      "_retrievedAt": "2026-09-02T21:00:10.177816+00:00"
     },
     {
       "id": "openalex-ff18973ad306",
@@ -2660,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.799396+00:00"
+      "_retrievedAt": "2026-09-02T21:00:10.179771+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -2692,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:12.025148+00:00"
+      "_retrievedAt": "2026-09-02T21:00:12.132509+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -2720,11 +2752,11 @@
         "Microbial Community Ecology and Physiology"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.520492+00:00"
+      "_retrievedAt": "2026-09-02T21:00:07.375491+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2756,7 +2788,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.220891+00:00"
+      "_retrievedAt": "2026-09-02T21:00:05.544469+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -2788,7 +2820,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.222501+00:00"
+      "_retrievedAt": "2026-09-02T21:00:05.546032+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2820,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:12.026248+00:00"
+      "_retrievedAt": "2026-09-02T21:00:12.133972+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2852,39 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:12.027503+00:00"
-    },
-    {
-      "id": "openalex-b0b9c1c36e09",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Journal of Strategic Security",
-      "authors": "OpenAlex indexed authors",
-      "abstract": "The Journal of Strategic Security (JSS) is a peer-reviewed professional journal published quarterly by Henley-Putnam School of Strategic Security. The Journal provides a multi-disciplinary forum for scholarship and discussion of strategic security issues drawing from the fields of global security, international relations, intelligence, terrorism and counterterrorism studies, among others. The Journal encourages diversity in theoretical foundations, research methods, and approaches. Quantitative and qualitative studies, for example, each offer valuable contributions to the field of strategic security. Academic disciplines of international relations, political science, psychology, sociology, anthropology, criminology, economics, and history are welcome, as are the applied scholarly fields of security studies, strategic studies, and intelligence studies. JSS emphasizes contemporary secur...",
-      "date": "2026-06-05",
-      "year": 2026,
-      "journal": "Journal of Strategic Security",
-      "source": "Journal of Strategic Security",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5038/1944-0472",
-      "doi": "10.5038/1944-0472",
-      "pdfUrl": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=2026&context=jss",
-      "keywords": [
-        "Political science",
-        "Terrorism, Counterterrorism, and Political Violence",
-        "International Relations and Foreign Policy",
-        "security",
-        "strategic",
-        "journal",
-        "studies",
-        "fields"
-      ],
-      "readTime": "1 min",
-      "citedBy": 117,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.219537+00:00"
+      "_retrievedAt": "2026-09-02T21:00:12.135148+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
@@ -2916,7 +2916,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.517155+00:00"
+      "_retrievedAt": "2026-09-02T21:00:07.373129+00:00"
     },
     {
       "id": "openalex-c696aff78c58",
@@ -2948,7 +2948,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.223394+00:00"
+      "_retrievedAt": "2026-09-02T21:00:05.546893+00:00"
     },
     {
       "id": "openalex-33d4ca0564d8",
@@ -2980,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.800709+00:00"
+      "_retrievedAt": "2026-09-02T21:00:10.180687+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -3012,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:12.025527+00:00"
+      "_retrievedAt": "2026-09-02T21:00:12.132916+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -3044,7 +3044,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.222818+00:00"
+      "_retrievedAt": "2026-09-02T21:00:05.546316+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -3076,7 +3076,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.223865+00:00"
+      "_retrievedAt": "2026-09-02T21:00:05.547339+00:00"
     },
     {
       "id": "openalex-0fed25de6e90",
@@ -3104,11 +3104,11 @@
         "Amino Acid Enzymes and Metabolism"
       ],
       "readTime": "1 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
+      "citedBy": 10,
+      "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.799737+00:00"
+      "_retrievedAt": "2026-09-02T21:00:10.179427+00:00"
     },
     {
       "id": "openalex-fcbf1470edaa",
@@ -3124,7 +3124,7 @@
       "sourceApi": "OpenAlex",
       "url": "https://doi.org/10.1126/science.aea2898",
       "doi": "10.1126/science.aea2898",
-      "pdfUrl": "https://harvest.usask.ca/bitstreams/4b9871e3-ce67-4e74-a957-191a8efa3e90/download",
+      "pdfUrl": "https://hdl.handle.net/20.500.14718/45038",
       "keywords": [
         "Biogeochemical cycle",
         "Permafrost",
@@ -3140,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:12.026496+00:00"
+      "_retrievedAt": "2026-09-02T21:00:12.134213+00:00"
     },
     {
       "id": "openalex-218d85dc8916",
@@ -3172,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:12.027877+00:00"
+      "_retrievedAt": "2026-09-02T21:00:12.135505+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -3200,11 +3200,11 @@
         "Artificial Intelligence in Healthcare and Education"
       ],
       "readTime": "1 min",
-      "citedBy": 79,
+      "citedBy": 81,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.220289+00:00"
+      "_retrievedAt": "2026-09-02T21:00:05.543571+00:00"
     },
     {
       "id": "openalex-9542d06993f1",
@@ -3232,11 +3232,11 @@
         "Agriculture, Land Use, Rural Development"
       ],
       "readTime": "1 min",
-      "citedBy": 3,
+      "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:12.028166+00:00"
+      "_retrievedAt": "2026-09-02T21:00:12.134495+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -3268,7 +3268,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.219218+00:00"
+      "_retrievedAt": "2026-09-02T21:00:05.542948+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -3300,7 +3300,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.799043+00:00"
+      "_retrievedAt": "2026-09-02T21:00:10.179116+00:00"
     },
     {
       "id": "openalex-ef1b53780e96",
@@ -3332,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.801379+00:00"
+      "_retrievedAt": "2026-09-02T21:00:10.181320+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -3364,7 +3364,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.220495+00:00"
+      "_retrievedAt": "2026-09-02T21:00:05.544120+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -3392,11 +3392,11 @@
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 1511,
+      "citedBy": 1515,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.218825+00:00"
+      "_retrievedAt": "2026-09-02T21:00:05.542558+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -3428,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.801033+00:00"
+      "_retrievedAt": "2026-09-02T21:00:10.180994+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -3460,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.800012+00:00"
+      "_retrievedAt": "2026-09-02T21:00:10.180040+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:12.024859+00:00"
+      "_retrievedAt": "2026-09-02T21:00:12.132159+00:00"
     },
     {
       "id": "openalex-f24c80435674",
@@ -3524,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.801768+00:00"
+      "_retrievedAt": "2026-09-02T21:00:10.181693+00:00"
     },
     {
       "id": "openalex-b393cd9c8f8c",
@@ -3552,11 +3552,11 @@
         "Machine Learning in Bioinformatics"
       ],
       "readTime": "1 min",
-      "citedBy": 22,
+      "citedBy": 23,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.516820+00:00"
+      "_retrievedAt": "2026-09-02T21:00:07.372804+00:00"
     },
     {
       "id": "openalex-be3c1de6b319",
@@ -3588,7 +3588,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T16:32:11.517421+00:00"
+      "_retrievedAt": "2026-09-02T21:00:07.373393+00:00"
     }
   ]
 }
