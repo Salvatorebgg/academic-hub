@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-09-02T21:00:44.206942+00:00",
+  "generatedAt": "2026-09-03T04:19:41.182899+00:00",
   "total": 112,
   "sources": [
     "RSS",
@@ -7,452 +7,548 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-56c9b601217a",
+      "id": "rss-51be5939d30c",
       "discipline": "clinical",
       "type": "news",
-      "title": "How HIV affects the eyes of aging adults",
+      "title": "Some hair loss in men is linked to weight loss drug use",
       "authors": "Medical Xpress",
-      "abstract": "Older adults with well-controlled HIV may have a higher prevalence of certain eye conditions, particularly dry eye, compared with similar adults without HIV, according to a new study led by a University of Colorado Anschutz Department of Ophthalmology faculty member.",
-      "date": "2026-09-02",
+      "abstract": "Men already genetically at risk for the most common form of hair loss have a 7% added risk of losing their hair if they use drugs like Ozempic, Wegovy and Zepbound for type 2 diabetes and obesity, a new study shows.",
+      "date": "2026-09-03",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-hiv-affects-eyes-aging-adults.html",
+      "url": "https://medicalxpress.com/news/2026-09-hair-loss-men-linked-weight.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "adults",
-        "affects",
-        "eyes",
-        "aging",
-        "older",
-        "well-controlled",
-        "have",
-        "higher"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.233690+00:00"
-    },
-    {
-      "id": "rss-8482e1d476fd",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Daraxonrasib demonstrates initial antitumor activity in RAS-mutant lung cancer",
-      "authors": "Medical Xpress",
-      "abstract": "Daraxonrasib, an oral RAS inhibitor therapy, achieved durable responses in pretreated patients with RAS-mutant non-small cell lung cancer (NSCLC) in a phase 1/2 trial led by The University of Texas MD Anderson Cancer Center.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-daraxonrasib-antitumor-ras-mutant-lung.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "daraxonrasib",
-        "ras-mutant",
-        "lung",
-        "demonstrates",
-        "initial",
-        "antitumor",
-        "activity"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.234000+00:00"
-    },
-    {
-      "id": "rss-ffead81e8c3a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Less-intensive drug combination is more effective in treating acute myeloid leukemia, clinical trial finds",
-      "authors": "Medical Xpress",
-      "abstract": "Investigators from the Mass General Brigham Cancer Institute have found that adults with newly diagnosed acute myeloid leukemia (AML) receiving a less-intensive combination of azacitidine and venetoclax had more than twice as much time before treatment failed, the leukemia returned or worsened, or they died, compared with patients receiving intensive chemotherapy. Published in the New England Journal of Medicine, the findings could change the initial treatment approach for many patients with AML.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-intensive-drug-combination-effective-acute.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "leukemia",
-        "less-intensive",
-        "combination",
-        "more",
-        "acute",
-        "myeloid",
-        "receiving",
-        "treatment"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.234339+00:00"
-    },
-    {
-      "id": "rss-d93c609f8ffe",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Autism diagnoses rising fastest among girls and women, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "A new Saint Louis University study of nearly a decade of health records finds that the recent rise in autism spectrum disorder (ASD) diagnoses is being driven largely by girls and women, who are being identified at significantly higher rates than in years past, often years later than boys and men.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-autism-fastest-girls-women.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "autism",
-        "diagnoses",
-        "girls",
-        "women",
-        "finds",
-        "being",
-        "than",
-        "years"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.234633+00:00"
-    },
-    {
-      "id": "rss-8bc84c584c44",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "DR Congo Ebola vaccine trials to begin by November: WHO",
-      "authors": "Medical Xpress",
-      "abstract": "Trials for three potential vaccines against the Ebola strain that has killed thousands in the Democratic Republic of Congo should begin by October or November, the World Health Organization said Wednesday.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-dr-congo-ebola-vaccine-trials.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "congo",
-        "ebola",
-        "trials",
-        "begin",
-        "november",
-        "vaccine",
-        "three",
-        "potential"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.234890+00:00"
-    },
-    {
-      "id": "rss-9f63b3547f7a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Genetic pathway offers new insight into timing of early brain development",
-      "authors": "Medical Xpress",
-      "abstract": "Melbourne researchers have uncovered a critical signaling pathway that controls the timing of brain development, shedding new light on how neurodevelopmental disorders may develop. The research, led by Murdoch Children's Research Institute (MCRI) and published in Nature Communications, has revealed the genetic processes that shape brain development and what can happen when they are disrupted.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-genetic-pathway-insight-early-brain.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "brain",
-        "development",
-        "genetic",
-        "pathway",
-        "timing",
-        "that",
-        "offers",
-        "insight"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.235174+00:00"
-    },
-    {
-      "id": "rss-a5d88b982cec",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "In Canada, immigration status is associated with length of ICU stay after stroke",
-      "authors": "Medical Xpress",
-      "abstract": "Among people who have a stroke in Canada, immigrants were admitted to the intensive care unit (ICU) at similar rates to long-term residents or people who were born in Canada, but they were more likely to have longer stays in the ICU, according to a study published Sept. 2, 2026, in Neurology.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-canada-immigration-status-length-icu.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "canada",
-        "were",
-        "stroke",
-        "people",
-        "have",
-        "immigration",
-        "status",
-        "associated"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.235440+00:00"
-    },
-    {
-      "id": "rss-70f2a04bd86a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Mini-tumors reveal new drug combinations for liver cancer",
-      "authors": "Medical Xpress",
-      "abstract": "Liver cancer is difficult to treat because tumors vary greatly from patient to patient. Researchers at the University of Basel have captured this diversity by creating a collection of mini-tumors, which they use to systematically search for new treatment options. They tested more than 1,600 compounds using these organoids and used the results to develop promising drug combinations.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-mini-tumors-reveal-drug-combinations.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "mini-tumors",
-        "drug",
-        "combinations",
-        "liver",
-        "cancer",
-        "patient",
-        "they",
-        "reveal"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.235727+00:00"
-    },
-    {
-      "id": "rss-07d5e7297167",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Novel spatial technology may improve our understanding of cancer biology",
-      "authors": "Medical Xpress",
-      "abstract": "Northwestern Medicine scientists have developed a novel high-resolution spatial genomics platform that may enhance future research into how genome organization and genetic alterations contribute to disease development, including cancer, as detailed in a recent study published in Nature Methods.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-spatial-technology-cancer-biology.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "novel",
-        "spatial",
-        "cancer",
-        "technology",
-        "improve",
-        "understanding",
-        "biology",
-        "northwestern"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.235948+00:00"
-    },
-    {
-      "id": "rss-dee8989263dc",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Lab-grown tissue reveals how inflammation may drive heart relaxation failure",
-      "authors": "Medical Xpress",
-      "abstract": "Scientists study the underlying causes of a disease or test potential new drugs in animal models or cells obtained from human biopsy specimens before clinical trials. However, disease models in animals do not mimic actual human disease, and biopsy specimens are difficult to access for research purposes. Lab-grown tissues engineered from stem cells reprogrammed from human cells, called human induced pluripotent stem cells (hiPSCs), are rapidly emerging as a more reliable and accessible model in medical research.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-lab-grown-tissue-reveals-inflammation.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cells",
-        "human",
-        "disease",
-        "lab-grown",
-        "biopsy",
-        "specimens",
-        "stem",
-        "tissue"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.236192+00:00"
-    },
-    {
-      "id": "rss-5fc70f7b0914",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Micro-LED mask improves skin elasticity beyond injections alone",
-      "authors": "Medical Xpress",
-      "abstract": "Home beauty devices that allow users to care for their skin conveniently at home have grown popular recently, but conventional LED masks are limited by their rigid structures and point-emitting LEDs, which must be positioned away from the skin to spread light over a broader area. This inherently prevents close skin contact and increases optical loss.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-micro-mask-skin-elasticity.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "skin",
-        "home",
-        "their",
-        "micro-led",
-        "mask",
-        "improves",
-        "elasticity",
-        "beyond"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.236410+00:00"
-    },
-    {
-      "id": "rss-d5efb314b1fd",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Powerful new tool reveals potential 'goldmine' of cancer targets hidden in 'junk DNA'",
-      "authors": "Medical Xpress",
-      "abstract": "A QIMR Berghofer-led team has developed a powerful tool to explore and understand the mysterious workings of the vast region of the human genome once dismissed as \"junk DNA,\" discovering thousands of molecules that could hold the key to new precision cancer treatments.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-powerful-tool-reveals-potential-goldmine.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "powerful",
-        "tool",
-        "cancer",
-        "junk",
-        "reveals",
-        "potential",
-        "goldmine",
-        "targets"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.236628+00:00"
-    },
-    {
-      "id": "rss-221c7d9f3556",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New mechanism shows how immune cells fine-tune adhesion during infection and recovery",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at the University of Liverpool helped uncover how the body adapts its immune defenses during periods of increased demand, such as infection, inflammation and recovery following stem cell transplantation.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-mechanism-immune-cells-fine-tune.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "immune",
-        "during",
-        "infection",
-        "recovery",
-        "mechanism",
-        "shows",
-        "cells",
-        "fine-tune"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.236824+00:00"
-    },
-    {
-      "id": "rss-af9fa1422e01",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Babies face a higher death risk when their mother is experiencing intimate partner violence",
-      "authors": "Medical Xpress",
-      "abstract": "Children whose mothers experience violence from a partner have a higher chance of dying before their fifth birthday, according to a major international study led by Curtin University. The research found that intimate partner violence was linked to a greater risk of babies and young children dying, highlighting how preventing violence against women could also help save children's lives.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-babies-higher-death-mother-experiencing.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "violence",
-        "partner",
-        "children",
-        "babies",
-        "higher",
+        "hair",
+        "loss",
         "risk",
-        "their",
-        "intimate"
+        "some",
+        "linked",
+        "weight",
+        "drug",
+        "already"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.237054+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.093947+00:00"
+    },
+    {
+      "id": "rss-222bbb5a0f64",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Trump and RFK Jr.'s health industry deals haven't been enforced and are at risk of vanishing",
+      "authors": "Medical Xpress",
+      "abstract": "In the thick of his competitive reelection race in Michigan, Republican Rep. Tom Barrett joined Health and Human Services Secretary Robert F. Kennedy Jr. at a sprawling 400-acre (162-hectare) apple orchard, farm and winery. They touted Trump administration efforts to improve the American diet, including the removal of some artificial dyes from processed foods.",
+      "date": "2026-09-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-trump-rfk-jr-health-industry.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "trump",
+        "health",
+        "industry",
+        "deals",
+        "haven",
+        "been",
+        "enforced",
+        "risk"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-03T04:19:40.094360+00:00"
+    },
+    {
+      "id": "rss-45d872bc283f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Endometriosis: A long‑ignored disease, despite symptoms that can be traced back to ancient times",
+      "authors": "Medical Xpress",
+      "abstract": "Intense pelvic pain, severely painful periods, infertility—these symptoms associated with endometriosis appeared in medical texts as far back as antiquity. Yet this disease, which affects 10% of women of reproductive age, long remained ignored. The reason: the long history of medical and social representations of female pain.",
+      "date": "2026-09-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-endometriosis-longignored-disease-symptoms-ancient.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "long",
+        "endometriosis",
+        "ignored",
+        "disease",
+        "symptoms",
+        "back",
+        "pain",
+        "medical"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-03T04:19:40.094659+00:00"
+    },
+    {
+      "id": "rss-7c614f69aaf9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Childhood sleep apnea: When snoring is more than a noisy night",
+      "authors": "Medical Xpress",
+      "abstract": "A child who snores loudly every night might seem like a funny sight. But if that snoring accompanies repeated narrowing or blockage of the airway, the effects can reach far beyond a noisy night.",
+      "date": "2026-09-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-childhood-apnea-noisy-night.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "night",
+        "snoring",
+        "noisy",
+        "childhood",
+        "sleep",
+        "apnea",
+        "when",
+        "more"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-03T04:19:40.094895+00:00"
+    },
+    {
+      "id": "rss-3e6f9eeae484",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Giardiasis cases are rising in England: Should we be worried?",
+      "authors": "Medical Xpress",
+      "abstract": "Cases of giardiasis, an intestinal infection that causes diarrhea, bloating and gas, have reached their highest level in England since 2016, according to newly published data from the UK Health Security Agency (UKHSA).",
+      "date": "2026-09-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-giardiasis-cases-england.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "giardiasis",
+        "cases",
+        "england",
+        "rising",
+        "should",
+        "worried",
+        "intestinal",
+        "infection"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-03T04:19:40.095170+00:00"
+    },
+    {
+      "id": "rss-a871a1b106bf",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Alcohol-linked cancer's toll extends far beyond the liver, with deaths rising across age groups",
+      "authors": "Medical Xpress",
+      "abstract": "Alcohol-attributable cancer deaths in the U.S. doubled between 1990 and 2023, a new study found. The study also revealed that alcohol-linked cancer deaths are not limited to older adults or liver cancer. Among adults ages 20–54, colorectal cancer was the leading alcohol-attributable cancer death in men, while breast cancer ranked first in women. The study also showed a growing burden from colorectal, esophageal, pancreatic and other cancers.",
+      "date": "2026-09-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-alcohol-linked-cancer-toll-liver.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "deaths",
+        "alcohol-linked",
+        "liver",
+        "alcohol-attributable",
+        "also",
+        "adults",
+        "colorectal"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-03T04:19:40.095479+00:00"
+    },
+    {
+      "id": "rss-1f68e6553ef9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Boosting indoor light could help support healthy aging in older adults in urban areas",
+      "authors": "Medical Xpress",
+      "abstract": "Bright light therapy lamps can improve sleep, activity levels and circadian rhythms among older adults in urban areas who have diminished exposure to natural light, a new study from the University of Surrey reports. Scientists believe such methods could provide a nonpharmacological, low-cost way to support healthy aging in urban areas.",
+      "date": "2026-09-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-boosting-indoor-healthy-aging-older.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "light",
+        "urban",
+        "areas",
+        "could",
+        "support",
+        "healthy",
+        "aging",
+        "older"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-03T04:19:40.095736+00:00"
+    },
+    {
+      "id": "rss-644adb888f07",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Brain scans reveal new link between progesterone and women's mood",
+      "authors": "Medical Xpress",
+      "abstract": "The influence of the hormone progesterone on mood is well known. Now, researchers from the University of Barcelona have shown how higher levels of progesterone during the menstrual cycle are linked to less distinct patterns of activity in areas of the brain involved in controlling emotions.",
+      "date": "2026-09-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-brain-scans-reveal-link-progesterone.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "progesterone",
+        "brain",
+        "mood",
+        "scans",
+        "reveal",
+        "link",
+        "women",
+        "influence"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-03T04:19:40.095977+00:00"
+    },
+    {
+      "id": "rss-22003291ed67",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Scientists uncover shared biology behind profound fatigue in five major illnesses",
+      "authors": "Medical Xpress",
+      "abstract": "A shared biological mechanism that helps explain chronic exhaustion in conditions including long COVID and PTSD has been identified by researchers at the University of East Anglia and Oxford BioDynamics. The paper, published in the Journal of Translational Medicine, reveals striking biological similarities among five major illnesses that until now have largely been viewed as separate disorders.",
+      "date": "2026-09-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-scientists-uncover-biology-profound-fatigue.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "shared",
+        "five",
+        "major",
+        "illnesses",
+        "biological",
+        "that",
+        "been",
+        "scientists"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-03T04:19:40.096265+00:00"
+    },
+    {
+      "id": "rss-70b68bf548ad",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Women bear the brunt of alcohol-related fear, Australian research finds",
+      "authors": "Medical Xpress",
+      "abstract": "Women are nearly three-quarters more likely than men to experience fear because of other people's alcohol consumption, University of Queensland research published in the International Journal of Drug Policy has found.",
+      "date": "2026-09-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-women-brunt-alcohol-australian.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "women",
+        "fear",
+        "bear",
+        "brunt",
+        "alcohol-related",
+        "australian",
+        "finds",
+        "nearly"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-03T04:19:40.096489+00:00"
+    },
+    {
+      "id": "rss-9d424c627511",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "When we eat helps set the liver's metabolic rhythms",
+      "authors": "Medical Xpress",
+      "abstract": "When we think about metabolism, we usually ask, \"What did I eat? How much sugar, fat or protein was in the meal?\" But through our research, we have become interested in another question: \"When did I eat it?\" This matters because metabolism does not work at the same pace throughout the day.",
+      "date": "2026-09-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-liver-metabolic-rhythms.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "when",
+        "metabolism",
+        "helps",
+        "liver",
+        "metabolic",
+        "rhythms",
+        "think",
+        "about"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-03T04:19:40.096723+00:00"
+    },
+    {
+      "id": "rss-079a7cc1df86",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Residential context has larger impact on ovarian cancer survival in Black women",
+      "authors": "Medical Xpress",
+      "abstract": "Residential context has a stronger association with survival for Black than White women with epithelial ovarian cancer (EOC), according to a study published online Aug. 10 in JAMA Network Open.",
+      "date": "2026-09-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-residential-context-larger-impact-ovarian.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "residential",
+        "context",
+        "ovarian",
+        "cancer",
+        "survival",
+        "black",
+        "women",
+        "larger"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-03T04:19:40.096941+00:00"
+    },
+    {
+      "id": "rss-fe63b6959711",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Targeting two proteins to prevent pulmonary hypertension",
+      "authors": "Medical Xpress",
+      "abstract": "UIC researchers have identified two therapeutic targets for pulmonary arterial hypertension, an as-yet-incurable disease that can be caused by a parasite laying eggs in the abdomen. The targets represent an opportunity to diagnose, prevent and treat the life-threatening condition. The study is published in the journal Proceedings of the National Academy of Sciences.",
+      "date": "2026-09-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-proteins-pulmonary-hypertension.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "prevent",
+        "pulmonary",
+        "hypertension",
+        "targets",
+        "targeting",
+        "proteins",
+        "researchers",
+        "have"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-03T04:19:40.097208+00:00"
+    },
+    {
+      "id": "rss-8cfb027ac752",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Exercise alters brain activity during cognitive tasks, advanced imaging finds",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at AIST, in collaboration with the University of Texas Southwestern Medical Center in the United States, examined changes in brain activity during cognitive tasks before and after acute aerobic exercise in healthy young and older adults. The study is published in the Journal of Magnetic Resonance Imaging.",
+      "date": "2026-09-03",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-brain-cognitive-tasks-advanced-imaging.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "exercise",
+        "brain",
+        "activity",
+        "during",
+        "cognitive",
+        "tasks",
+        "imaging",
+        "alters"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-03T04:19:40.097454+00:00"
+    },
+    {
+      "id": "rss-1fb9b793de47",
+      "discipline": "cs",
+      "type": "news",
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "authors": "TechCrunch AI",
+      "abstract": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "builders",
+        "stage",
+        "practical",
+        "techcrunch",
+        "disrupt",
+        "brings",
+        "strategies",
+        "scaling"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-03T04:19:40.299771+00:00"
+    },
+    {
+      "id": "rss-ab262db7bb7a",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "authors": "TechCrunch AI",
+      "abstract": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "palo",
+        "alto",
+        "networks",
+        "paid",
+        "thrive-backed",
+        "console",
+        "sources",
+        "acquisition"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-03T04:19:40.300000+00:00"
+    },
+    {
+      "id": "rss-3497e2038d6e",
+      "discipline": "cs",
+      "type": "news",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "authors": "TechCrunch AI",
+      "abstract": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "real",
+        "world",
+        "stage",
+        "techcrunch",
+        "disrupt",
+        "features",
+        "nvidia",
+        "robots"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-03T04:19:40.300256+00:00"
     },
     {
       "id": "rss-34806a56da70",
@@ -484,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.344466+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.300454+00:00"
     },
     {
       "id": "rss-ef9809308a4f",
@@ -516,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.344804+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.300739+00:00"
     },
     {
       "id": "rss-a78e6812a3e4",
@@ -548,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.345037+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.300987+00:00"
     },
     {
       "id": "rss-fb8f9cfc78f8",
@@ -580,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.345203+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.301193+00:00"
     },
     {
       "id": "rss-d2563ac43474",
@@ -612,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.345349+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.301358+00:00"
     },
     {
       "id": "rss-86c630b36187",
@@ -644,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.345501+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.301524+00:00"
     },
     {
       "id": "rss-1d5291c84a9d",
@@ -676,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.345652+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.301681+00:00"
     },
     {
       "id": "rss-2b401e472f03",
@@ -708,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.345810+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.301855+00:00"
     },
     {
       "id": "rss-b7e9de1a446b",
@@ -740,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.345938+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.301999+00:00"
     },
     {
       "id": "rss-368c175ba5f4",
@@ -772,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.346083+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.302249+00:00"
     },
     {
       "id": "rss-341504e67552",
@@ -804,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.394115+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.417900+00:00"
     },
     {
       "id": "rss-e51d07a6b736",
@@ -836,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.394294+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.418152+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -868,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:05.543237+00:00"
+      "_retrievedAt": "2026-09-03T04:19:33.531988+00:00"
     },
     {
       "id": "rss-6a2308bdfaf9",
@@ -900,103 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.346247+00:00"
-    },
-    {
-      "id": "rss-6b515fd6dc86",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "authors": "TechCrunch AI",
-      "abstract": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "openai",
-        "astra",
-        "very",
-        "good",
-        "breaking",
-        "computer",
-        "systems",
-        "previewed"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.346394+00:00"
-    },
-    {
-      "id": "rss-58bb30b2056b",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "authors": "TechCrunch AI",
-      "abstract": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "features",
-        "android",
-        "update",
-        "tackles",
-        "motion",
-        "sickness",
-        "accessibility"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.346551+00:00"
-    },
-    {
-      "id": "rss-8abfb27f2366",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "authors": "TechCrunch AI",
-      "abstract": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "fable",
-        "anthropic",
-        "release",
-        "cheaper",
-        "less",
-        "restrictive",
-        "includes",
-        "changes"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.346733+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.302445+00:00"
     },
     {
       "id": "rss-920fbd87ebe7",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.394446+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.418342+00:00"
     },
     {
       "id": "rss-212fba1ccc92",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.394582+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.418500+00:00"
     },
     {
       "id": "rss-7849fc211ef2",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.962603+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.685443+00:00"
     },
     {
       "id": "rss-eb2e1816547e",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.963175+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.685937+00:00"
     },
     {
       "id": "rss-8921f471d133",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.963453+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.686257+00:00"
     },
     {
       "id": "rss-86e8b2b3fe45",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.394731+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.418651+00:00"
     },
     {
       "id": "rss-210f19a3c800",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.394873+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.418811+00:00"
     },
     {
       "id": "rss-1912139c3820",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.395009+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.418963+00:00"
     },
     {
       "id": "rss-6afe29cd1ab2",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.395154+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.419148+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:07.375807+00:00"
+      "_retrievedAt": "2026-09-03T04:19:34.582385+00:00"
     },
     {
       "id": "rss-dcdf7d1c8cd0",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.395289+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.419306+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:10.180353+00:00"
+      "_retrievedAt": "2026-09-03T04:19:35.459343+00:00"
     },
     {
       "id": "rss-aeae30b99dc0",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.395422+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.419456+00:00"
     },
     {
       "id": "rss-fd216968fbb9",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.963819+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.686576+00:00"
     },
     {
       "id": "rss-da060db7124c",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.964344+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.687036+00:00"
     },
     {
       "id": "rss-2776ccb476cc",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.964951+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.687584+00:00"
     },
     {
       "id": "rss-b79fe6018e2d",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.965184+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.687788+00:00"
     },
     {
       "id": "rss-a8343bb3730e",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.965410+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.687985+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:12.135918+00:00"
+      "_retrievedAt": "2026-09-03T04:19:36.217808+00:00"
     },
     {
       "id": "rss-64d6d015a3c3",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.395589+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.419639+00:00"
     },
     {
       "id": "rss-33d77e1bca30",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.395755+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.419808+00:00"
     },
     {
       "id": "rss-0c86d5cea5d3",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.965831+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.688395+00:00"
     },
     {
       "id": "rss-9e943868ef25",
@@ -1732,7 +1732,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.965996+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.688544+00:00"
+    },
+    {
+      "id": "openalex-3102df6dbe7b",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "UNCOVERseq enables sensitive and controlled gene editing off-target nomination across CRISPR-Cas modalities and systems",
+      "authors": "Kyle J. Kinney, Kun Jia, He Zhang, Ellen Schmaljohn, Thomas F. Osborne, Bernice Thommandru",
+      "abstract": "Abstract The rapid development of CRISPR-Cas gene editing technologies has revolutionized genetic medicine, offering unprecedented precision and potential for treating a wide array of genetic disorders. However, assessing the risks of unintended gene editing effects remains critical, and is complicated by new editing modalities and unclear analytical guidelines. We present UNCOVERseq (Unbiased Nomination of CRISPR Off-target Variants using Enhanced RhPCR), an improved in cellulo off-target nomination workflow designed to sensitively nominate off-target sites (<0.01% editing) with defined input requirements and analytical process controls to provide empirical performance evidence across diverse circumstances. Using this workflow, we nominated off-targets across 192 guide RNAs (gRNAs) and demonstrated superior performance compared to existing methodologies. We identified a subset of six...",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-74623-7",
+      "doi": "10.1038/s41467-026-74623-7",
+      "pdfUrl": "https://www.nature.com/articles/s41467-026-74623-7.pdf",
+      "keywords": [
+        "Nomination",
+        "CRISPR",
+        "Modalities",
+        "Genome editing",
+        "Computer science",
+        "CRISPR and Genetic Engineering",
+        "editing",
+        "off-target"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-03T04:19:34.583638+00:00"
     },
     {
       "id": "rss-fdb29d787f22",
@@ -1764,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.395916+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.419984+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1796,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:07.374357+00:00"
+      "_retrievedAt": "2026-09-03T04:19:34.580786+00:00"
     },
     {
       "id": "openalex-a0089f3bc951",
@@ -1828,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:12.136313+00:00"
+      "_retrievedAt": "2026-09-03T04:19:36.218219+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1860,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:07.374690+00:00"
+      "_retrievedAt": "2026-09-03T04:19:34.581142+00:00"
     },
     {
       "id": "openalex-31da6159b300",
@@ -1892,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:12.136634+00:00"
+      "_retrievedAt": "2026-09-03T04:19:36.218557+00:00"
     },
     {
       "id": "rss-ead5f2bab0c6",
@@ -1924,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:43.396048+00:00"
+      "_retrievedAt": "2026-09-03T04:19:40.420153+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -1956,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:07.372356+00:00"
+      "_retrievedAt": "2026-09-03T04:19:34.579017+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -1988,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:12.130890+00:00"
+      "_retrievedAt": "2026-09-03T04:19:36.212752+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2020,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:12.131317+00:00"
+      "_retrievedAt": "2026-09-03T04:19:36.213138+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2052,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:05.544817+00:00"
+      "_retrievedAt": "2026-09-03T04:19:33.533714+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2084,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:07.373714+00:00"
+      "_retrievedAt": "2026-09-03T04:19:34.580058+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2116,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:07.376072+00:00"
+      "_retrievedAt": "2026-09-03T04:19:34.582669+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2148,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:05.546632+00:00"
+      "_retrievedAt": "2026-09-03T04:19:33.535711+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2180,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:05.543928+00:00"
+      "_retrievedAt": "2026-09-03T04:19:33.532743+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2212,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:07.374965+00:00"
+      "_retrievedAt": "2026-09-03T04:19:34.581455+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2244,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:10.177603+00:00"
+      "_retrievedAt": "2026-09-03T04:19:35.456258+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2276,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:12.134786+00:00"
+      "_retrievedAt": "2026-09-03T04:19:36.216623+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2308,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:07.376377+00:00"
+      "_retrievedAt": "2026-09-03T04:19:34.582995+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2340,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:12.133268+00:00"
+      "_retrievedAt": "2026-09-03T04:19:36.214964+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2372,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:12.133621+00:00"
+      "_retrievedAt": "2026-09-03T04:19:36.215359+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2404,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:07.374029+00:00"
+      "_retrievedAt": "2026-09-03T04:19:34.580421+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2436,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:10.178133+00:00"
+      "_retrievedAt": "2026-09-03T04:19:35.456812+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2468,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:05.545775+00:00"
+      "_retrievedAt": "2026-09-03T04:19:33.534776+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2500,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:07.375289+00:00"
+      "_retrievedAt": "2026-09-03T04:19:34.581802+00:00"
     },
     {
       "id": "openalex-f64c9923322b",
@@ -2532,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:07.376645+00:00"
+      "_retrievedAt": "2026-09-03T04:19:34.583315+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2564,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:05.545113+00:00"
+      "_retrievedAt": "2026-09-03T04:19:33.534032+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2596,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:05.545493+00:00"
+      "_retrievedAt": "2026-09-03T04:19:33.534474+00:00"
     },
     {
       "id": "openalex-c3aaf692321e",
@@ -2628,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:10.182057+00:00"
+      "_retrievedAt": "2026-09-03T04:19:35.461233+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2660,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:10.177816+00:00"
+      "_retrievedAt": "2026-09-03T04:19:35.456466+00:00"
     },
     {
       "id": "openalex-ff18973ad306",
@@ -2692,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:10.179771+00:00"
+      "_retrievedAt": "2026-09-03T04:19:35.458666+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -2724,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:12.132509+00:00"
+      "_retrievedAt": "2026-09-03T04:19:36.214180+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -2756,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:07.375491+00:00"
+      "_retrievedAt": "2026-09-03T04:19:34.582020+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2788,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:05.544469+00:00"
+      "_retrievedAt": "2026-09-03T04:19:33.533359+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -2820,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:05.546032+00:00"
+      "_retrievedAt": "2026-09-03T04:19:33.535051+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2852,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:12.133972+00:00"
+      "_retrievedAt": "2026-09-03T04:19:36.215738+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2884,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:12.135148+00:00"
+      "_retrievedAt": "2026-09-03T04:19:36.217017+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
@@ -2916,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:07.373129+00:00"
+      "_retrievedAt": "2026-09-03T04:19:34.579792+00:00"
     },
     {
       "id": "openalex-c696aff78c58",
@@ -2948,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:05.546893+00:00"
+      "_retrievedAt": "2026-09-03T04:19:33.535994+00:00"
     },
     {
       "id": "openalex-33d4ca0564d8",
@@ -2980,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:10.180687+00:00"
+      "_retrievedAt": "2026-09-03T04:19:35.459694+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -3012,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:12.132916+00:00"
+      "_retrievedAt": "2026-09-03T04:19:36.214579+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -3044,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:05.546316+00:00"
+      "_retrievedAt": "2026-09-03T04:19:33.535387+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -3076,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:05.547339+00:00"
+      "_retrievedAt": "2026-09-03T04:19:33.536481+00:00"
     },
     {
       "id": "openalex-0fed25de6e90",
@@ -3108,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:10.179427+00:00"
+      "_retrievedAt": "2026-09-03T04:19:35.458299+00:00"
     },
     {
       "id": "openalex-fcbf1470edaa",
@@ -3140,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:12.134213+00:00"
+      "_retrievedAt": "2026-09-03T04:19:36.216002+00:00"
     },
     {
       "id": "openalex-218d85dc8916",
@@ -3172,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:12.135505+00:00"
+      "_retrievedAt": "2026-09-03T04:19:36.217438+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -3204,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:05.543571+00:00"
+      "_retrievedAt": "2026-09-03T04:19:33.532369+00:00"
     },
     {
       "id": "openalex-9542d06993f1",
@@ -3236,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:12.134495+00:00"
+      "_retrievedAt": "2026-09-03T04:19:36.216337+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -3268,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:05.542948+00:00"
+      "_retrievedAt": "2026-09-03T04:19:33.531671+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -3300,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:10.179116+00:00"
+      "_retrievedAt": "2026-09-03T04:19:35.457923+00:00"
     },
     {
       "id": "openalex-ef1b53780e96",
@@ -3332,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:10.181320+00:00"
+      "_retrievedAt": "2026-09-03T04:19:35.460418+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -3364,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:05.544120+00:00"
+      "_retrievedAt": "2026-09-03T04:19:33.532956+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -3396,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:05.542558+00:00"
+      "_retrievedAt": "2026-09-03T04:19:33.531278+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -3428,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:10.180994+00:00"
+      "_retrievedAt": "2026-09-03T04:19:35.460027+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -3460,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:10.180040+00:00"
+      "_retrievedAt": "2026-09-03T04:19:35.458957+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -3492,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:12.132159+00:00"
+      "_retrievedAt": "2026-09-03T04:19:36.213863+00:00"
     },
     {
       "id": "openalex-f24c80435674",
@@ -3524,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:10.181693+00:00"
+      "_retrievedAt": "2026-09-03T04:19:35.460811+00:00"
     },
     {
       "id": "openalex-b393cd9c8f8c",
@@ -3556,39 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:07.372804+00:00"
-    },
-    {
-      "id": "openalex-be3c1de6b319",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Charting spatial ligand-target activity using Renoir",
-      "authors": "Narein Rao, Tanush Kumar, Dina Kazemi, Shaozhi Hou, Atefeh Khakpoor, Merrin Mary Eapen",
-      "abstract": "Abstract The advancement of single-cell RNA sequencing (scRNA-seq) and spatial transcriptomics has enabled the inference of cellular interactions in a tissue microenvironment. Despite the development of cell-cell interaction inference methods, there is a lack of methods capable of mapping the influence of ligands on downstream target genes across a spatial topology with specific cell type composition, with the potential to shed light on niche-specific relationship between ligands and their downstream targets. Here we present Renoir for charting the ligand-target activities across a spatial topology and delineating spatial communication niches harboring specific ligand-target activities. Renoir also spatially maps pathway-level activity of ligand-target genesets and identifies domain-specific ligand-target activities. Across spatial datasets with varying resolution (spot to single-cell...",
-      "date": "2026-05-05",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-72388-7",
-      "doi": "10.1038/s41467-026-72388-7",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-72388-7.pdf",
-      "keywords": [
-        "Crosstalk",
-        "Computational biology",
-        "Context (archaeology)",
-        "Biology",
-        "Transcriptome",
-        "Single-cell and spatial transcriptomics",
-        "Immune cells in cancer",
-        "Cancer Genomics and Diagnostics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 11,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-02T21:00:07.373393+00:00"
+      "_retrievedAt": "2026-09-03T04:19:34.579435+00:00"
     }
   ]
 };
