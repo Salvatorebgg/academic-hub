@@ -1,458 +1,554 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-09-04T11:13:57.079165+00:00",
-  "total": 102,
+  "generatedAt": "2026-09-04T16:18:56.508406+00:00",
+  "total": 112,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
     {
-      "id": "rss-d121c5aa109a",
+      "id": "rss-69a7dff517ef",
       "discipline": "clinical",
       "type": "news",
-      "title": "Study identifies potential new target for treating atherosclerosis",
+      "title": "Study finds liposuction reduces lipedema pain more than conservative treatment",
       "authors": "Medical Xpress",
-      "abstract": "Researchers at the Marshall University Joan C. Edwards School of Medicine have identified a cellular signaling pathway in fat cells that may play an important role in the development of atherosclerosis, offering a potential new target for treating the disease.",
+      "abstract": "A study titled \"Liposuction versus conservative therapy for patients with lipoedema: A randomized controlled multi-center clinical trial\" published in The Lancet, provides the first large-scale, multicenter evidence base for the surgical treatment of lipedema.",
       "date": "2026-09-04",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-potential-atherosclerosis.html",
+      "url": "https://medicalxpress.com/news/2026-09-liposuction-lipedema-pain-treatment.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "potential",
-        "target",
-        "treating",
-        "atherosclerosis",
-        "identifies",
-        "researchers",
-        "marshall",
-        "university"
+        "liposuction",
+        "lipedema",
+        "conservative",
+        "treatment",
+        "finds",
+        "reduces",
+        "pain",
+        "more"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.025713+00:00"
+      "_retrievedAt": "2026-09-04T16:18:55.975948+00:00"
     },
     {
-      "id": "rss-dad1f39ef09a",
+      "id": "rss-f64151c396a0",
       "discipline": "clinical",
       "type": "news",
-      "title": "Practice helps the brain separate tasks and improve multitasking ability",
+      "title": "AI may help identify breast cancers missed by mammograms, but clinical benefit remains uncertain",
       "authors": "Medical Xpress",
-      "abstract": "Why is it so difficult to perform two tasks at the same time? For decades, scientists have debated whether multitasking is limited by a \"central bottleneck\" that restricts simultaneous processing or by competition for limited neural resources shared across tasks. But neither view fully explains how the brain manages these competing demands or how practice transforms an interference-prone system into more efficient multitasking.",
+      "abstract": "Artificial intelligence may help radiologists identify subtle signs of breast cancers that are missed during routine mammograms, and some AI systems may even identify patterns associated with an increased risk of cancer before it becomes visible on a mammogram, but there are still many significant limitations, according to a review led by investigators at the UCLA Health Jonsson Comprehensive Cancer Center.",
       "date": "2026-09-04",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-08-brain-tasks-multitasking-ability.html",
+      "url": "https://medicalxpress.com/news/2026-09-ai-breast-cancers-mammograms-clinical.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "tasks",
-        "multitasking",
-        "practice",
-        "brain",
-        "limited",
-        "helps",
-        "separate",
-        "improve"
+        "identify",
+        "help",
+        "breast",
+        "cancers",
+        "missed",
+        "mammograms",
+        "cancer",
+        "clinical"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.026032+00:00"
+      "_retrievedAt": "2026-09-04T16:18:55.976255+00:00"
     },
     {
-      "id": "rss-524abe030cb2",
+      "id": "rss-715c94d59059",
       "discipline": "clinical",
       "type": "news",
-      "title": "Micro-bladder model offers clues to stopping recurrent UTIs",
+      "title": "Aging blocks the retina's ability to regrow lost neurons, a first-of-its-kind study finds",
       "authors": "Medical Xpress",
-      "abstract": "A lab-grown micro bladder may explain why urinary tract infections (UTIs) return so frequently, according to a study led by researchers at UCL, the University of Oxford and the University of Leicester.",
+      "abstract": "A new study from the laboratory of Levi Todd, Ph.D., at Upstate Medical University has found that aging significantly limits the ability of support cells in the retina, called glia, to be reprogrammed into new neurons, a finding with important implications for the future of regenerative medicine for age-related neurodegenerative diseases such as Alzheimer's, Parkinson's and glaucoma.",
       "date": "2026-09-04",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-micro-bladder-clues-recurrent-utis.html",
+      "url": "https://medicalxpress.com/news/2026-09-aging-blocks-retina-ability-regrow.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "utis",
-        "university",
-        "micro-bladder",
-        "offers",
-        "clues",
-        "stopping",
-        "recurrent",
-        "lab-grown"
+        "aging",
+        "retina",
+        "ability",
+        "neurons",
+        "blocks",
+        "regrow",
+        "lost",
+        "first-of-its-kind"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.026248+00:00"
+      "_retrievedAt": "2026-09-04T16:18:55.976551+00:00"
     },
     {
-      "id": "rss-9cb779b82815",
+      "id": "rss-9fc600713d61",
       "discipline": "clinical",
       "type": "news",
-      "title": "New Zealand approves use of party drug MDMA to treat trauma",
+      "title": "Putting a price on preventive care: How Medicaid compares to other insurers in Virginia",
       "authors": "Medical Xpress",
-      "abstract": "Two psychiatrists in New Zealand won approval Friday to prescribe pharmaceutical-grade MDMA to people with severe post-traumatic stress disorder.",
+      "abstract": "Medicaid has a reputation for paying doctors less than other health insurers. But exactly how much less has been difficult to establish, particularly for the vast majority of Medicaid patients whose care is provided through private health plans.",
       "date": "2026-09-04",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-zealand-party-drug-mdma-trauma.html",
+      "url": "https://medicalxpress.com/news/2026-09-price-medicaid-virginia.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "zealand",
-        "mdma",
-        "approves",
-        "party",
-        "drug",
-        "treat",
-        "trauma",
-        "psychiatrists"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.026438+00:00"
-    },
-    {
-      "id": "rss-abb2774aec49",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "GLP-1 use among young children with obesity in US remains rare but is rising rapidly",
-      "authors": "Medical Xpress",
-      "abstract": "Although the number of U.S. children under age 12 with obesity who are prescribed the weight-loss drugs Saxenda, Wegovy and Zepbound remains low, it was 310 times higher in June 2026 than in 2019, when the drugs were first prescribed, a new study shows.",
-      "date": "2026-09-04",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-glp-young-children-obesity-rare.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "children",
-        "obesity",
-        "remains",
-        "prescribed",
-        "drugs",
-        "glp-",
-        "among",
-        "young"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.026651+00:00"
-    },
-    {
-      "id": "rss-4fc2cd9c6e89",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "$50B rural health transformation program needs more transparency, groups say",
-      "authors": "Medical Xpress",
-      "abstract": "One year into its creation, a $50 billion federal program aimed at improving rural health care lacks transparency, which could make it difficult to protect against fraud, identify successful projects and ensure the program delivers on its promise to transform the system.",
-      "date": "2026-09-04",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-50b-rural-health-transparency-groups.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "program",
-        "rural",
-        "health",
-        "transparency",
-        "transformation",
-        "needs",
-        "more",
-        "groups"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.026858+00:00"
-    },
-    {
-      "id": "rss-f33b87fd0dd7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Your health insurance rates are going to rise next year: Here's why",
-      "authors": "Medical Xpress",
-      "abstract": "Employer health care costs are on track to climb about 11% next year, the sharpest jump in more than two decades.",
-      "date": "2026-09-04",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-health-year.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "health",
-        "next",
-        "year",
-        "your",
-        "insurance",
-        "rates",
-        "going",
-        "rise"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.027067+00:00"
-    },
-    {
-      "id": "rss-ecf2299a01a5",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Wildfires pose a growing threat to dialysis care",
-      "authors": "Medical Xpress",
-      "abstract": "In the midst of another intense wildfire season, a new study sheds light on the risks wildfires pose to life-sustaining dialysis care for thousands of Canadians.",
-      "date": "2026-09-04",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-wildfires-pose-threat-dialysis.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "wildfires",
-        "pose",
-        "dialysis",
+        "medicaid",
         "care",
-        "growing",
-        "threat",
-        "midst",
-        "another"
+        "other",
+        "insurers",
+        "less",
+        "health",
+        "putting",
+        "price"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.027251+00:00"
+      "_retrievedAt": "2026-09-04T16:18:55.976803+00:00"
     },
     {
-      "id": "rss-8cd802fb996e",
+      "id": "rss-4a565e5a115b",
       "discipline": "clinical",
       "type": "news",
-      "title": "Snacking is not as unhealthy as you might think",
+      "title": "Health warnings could reduce young people's social media use, study finds",
       "authors": "Medical Xpress",
-      "abstract": "Snacking, it turns out, is not all about chips, cookies and chocolate. Dutch millennials often consume nutritious foods, such as fruit, bread and yogurt, between their main meals. This is one of the findings from the doctoral research of Mariëlle de Vaal. Moreover, snacking behavior revolves not only around the food or drink consumed, but also around people's motives and the situation in which they eat or drink.",
+      "abstract": "Pop-up messages that warn of the harms of social media—such as mental health consequences—have the potential to reduce young people's social media use, a new Stanford Medicine study has found. The online experiment of about 1,000 teens and young adults found that warnings also boosted people's knowledge of the risks of social media use.",
       "date": "2026-09-04",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-snacking-unhealthy.html",
+      "url": "https://medicalxpress.com/news/2026-09-health-young-people-social-media.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "snacking",
-        "around",
-        "drink",
-        "unhealthy",
-        "might",
-        "think",
-        "turns",
-        "about"
+        "social",
+        "media",
+        "young",
+        "people",
+        "health",
+        "warnings",
+        "reduce",
+        "that"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.027516+00:00"
+      "_retrievedAt": "2026-09-04T16:18:55.977088+00:00"
     },
     {
-      "id": "rss-0c4f45481276",
+      "id": "rss-55642ecc9418",
       "discipline": "clinical",
       "type": "news",
-      "title": "Novel PET/MRI approach improves detection of endometriosis in difficult-to-assess areas",
+      "title": "Tumor biology could guide mantle cell lymphoma treatment from the time of diagnosis",
       "authors": "Medical Xpress",
-      "abstract": "A new PET/MRI technique that targets fibroblast activation protein (FAP) overexpressed in endometriosis is more effective at identifying lesions than conventional imaging. According to new research published in The Journal of Nuclear Medicine, this approach was particularly effective in regions of the pelvis and abdomen that are typically difficult to image. By accurately mapping the extent of endometriosis, FAP-targeted PET/MRI has the potential to enable more personalized management and improve patient outcomes.",
+      "abstract": "Today, treatment decisions for patients with mantle cell lymphoma are heavily based on age alone, although the disease can range from slow-growing (indolent) to very aggressive. In a new journal article, Ingrid Glimelius and co-authors suggest that it is time to let the disease's biology also guide treatment—and provide more effective interventions earlier for those at the highest risk of aggressive disease, while avoiding unnecessarily intensive treatment for patients with indolent disease.",
       "date": "2026-09-04",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-petmri-approach-endometriosis-difficult-areas.html",
+      "url": "https://medicalxpress.com/news/2026-09-tumor-biology-mantle-cell-lymphoma.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "endometriosis",
-        "approach",
-        "that",
-        "more",
-        "effective",
-        "novel",
-        "improves",
-        "detection"
+        "treatment",
+        "disease",
+        "biology",
+        "guide",
+        "mantle",
+        "cell",
+        "lymphoma",
+        "time"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.027761+00:00"
+      "_retrievedAt": "2026-09-04T16:18:55.977395+00:00"
     },
     {
-      "id": "rss-4f60bc0a0588",
+      "id": "rss-7b074aae273e",
       "discipline": "clinical",
       "type": "news",
-      "title": "Fake doctor reviews often trusted more than real ones, study finds",
+      "title": "Cancer drug tames atherosclerosis inflammation and plaque in animal models",
       "authors": "Medical Xpress",
-      "abstract": "New research reveals fraudulent clinician reviews often seem more credible because they include richer personal health details that real patients are reluctant to share publicly. Researchers say these detailed narratives exploit a gap between the information people want to read and what real patients are willing to share.",
+      "abstract": "A new Yale study has identified a promising therapeutic avenue for atherosclerosis, a condition caused by inflammation and plaque buildup in arteries. Martin Schwartz, Ph.D., Robert W. Berliner Professor of Medicine (Cardiology) and the study's principal investigator, investigates how the mechanical forces from blood flow and pressure affect the cells lining the arteries and how cell responses to forces contribute to cardiovascular disease.",
       "date": "2026-09-04",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-fake-doctor-real.html",
+      "url": "https://medicalxpress.com/news/2026-09-cancer-drug-atherosclerosis-inflammation-plaque.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "real",
-        "reviews",
-        "often",
-        "more",
-        "patients",
-        "share",
-        "fake",
-        "doctor"
+        "atherosclerosis",
+        "inflammation",
+        "plaque",
+        "arteries",
+        "forces",
+        "cancer",
+        "drug",
+        "tames"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.027984+00:00"
+      "_retrievedAt": "2026-09-04T16:18:55.977743+00:00"
     },
     {
-      "id": "rss-10f566985035",
+      "id": "rss-8b2c3524580c",
       "discipline": "clinical",
       "type": "news",
-      "title": "AI scribes may fail to capture patients' experiences",
+      "title": "Voice disorder may be an early sign of dementia, study suggests",
       "authors": "Medical Xpress",
-      "abstract": "The use of artificial intelligence (AI) tools to take notes can change the nature of interactions between patients and clinicians, sometimes missing vital information, according to the results of a new review.",
+      "abstract": "Those experiencing worsening voice quality—in pitch, clarity, volume, reduced vocal range or other voice disorders—and no hearing loss may be at 58% greater risk of cognitive impairment or dementia than those who are not experiencing a voice disorder, according to the first large-scale study of diagnosed voice disorders and cognitive decline.",
       "date": "2026-09-04",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-ai-scribes-capture-patients.html",
+      "url": "https://medicalxpress.com/news/2026-09-voice-disorder-early-dementia.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "patients",
-        "scribes",
-        "fail",
-        "capture",
-        "experiences",
-        "artificial",
-        "intelligence",
-        "tools"
+        "voice",
+        "disorder",
+        "dementia",
+        "those",
+        "experiencing",
+        "disorders",
+        "cognitive",
+        "early"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.028183+00:00"
+      "_retrievedAt": "2026-09-04T16:18:55.978020+00:00"
     },
     {
-      "id": "rss-96ad25ae2dd0",
+      "id": "rss-84aa6d8cd4b2",
       "discipline": "clinical",
       "type": "news",
-      "title": "Pig kidney xenotransplant successfully bridges patient with end-stage kidney disease to human transplant",
+      "title": "Testosterone maxxing is all the rage—but when it comes to fatherhood, less might be more",
       "authors": "Medical Xpress",
-      "abstract": "In January 2026, Tim Andrews, who had received a genetically edited pig kidney in January 2025, became the recipient of a human kidney. A new Mass General Brigham paper, published in The Lancet, details Andrews' experience and how xenotransplantation could bridge the gap between end-stage kidney failure and a human transplant, allowing a patient to forgo dialysis in the meantime.",
+      "abstract": "Testosterone is having a moment. On social media, it's being lauded for everything from building muscle to gaining wealth and sexual dominance.",
       "date": "2026-09-04",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-pig-kidney-xenotransplant-successfully-bridges.html",
+      "url": "https://medicalxpress.com/news/2026-09-testosterone-maxxing-rage-fatherhood.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "kidney",
-        "human",
-        "patient",
-        "end-stage",
-        "transplant",
-        "january",
-        "andrews",
-        "xenotransplant"
+        "testosterone",
+        "maxxing",
+        "rage",
+        "when",
+        "comes",
+        "fatherhood",
+        "less",
+        "might"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.028411+00:00"
+      "_retrievedAt": "2026-09-04T16:18:55.978251+00:00"
     },
     {
-      "id": "rss-4901501b4f49",
+      "id": "rss-622a900d7c05",
       "discipline": "clinical",
       "type": "news",
-      "title": "How the developing human brain takes instructions: Two studies reveal what guides its most important stem cells",
+      "title": "Experimental brain implants are on the rise. What happens after the trials are over?",
       "authors": "Medical Xpress",
-      "abstract": "As the human brain takes shape before birth, a remarkable type of stem cell helps give it many of the features that make it distinctly human. These cells, called radial glia, make billions of decisions that determine which kinds of brain cells are created, when they appear and how the cortex—the seat of thought, memory and language—takes form.",
+      "abstract": "In 2024, Elon Musk's Neuralink put its first brain implant into a human amid doubt from scientists and allegations of animal cruelty.",
       "date": "2026-09-04",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-human-brain-reveal-important-stem.html",
+      "url": "https://medicalxpress.com/news/2026-09-experimental-brain-implants-trials.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "human",
         "brain",
-        "takes",
-        "cells",
-        "stem",
-        "that",
-        "make",
-        "developing"
+        "experimental",
+        "implants",
+        "rise",
+        "what",
+        "happens",
+        "after",
+        "trials"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.028674+00:00"
+      "_retrievedAt": "2026-09-04T16:18:55.978471+00:00"
+    },
+    {
+      "id": "rss-07a882e32c50",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "AI models show promising results in ICU mortality predictions",
+      "authors": "Medical Xpress",
+      "abstract": "Predicting mortality risk in intensive care unit (ICU) patients is a crucial part of medical treatment, and recent research has found artificial intelligence could help clinicians make more efficient and accurate decisions.",
+      "date": "2026-09-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-ai-results-icu-mortality.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "mortality",
+        "show",
+        "promising",
+        "results",
+        "predictions",
+        "predicting",
+        "risk",
+        "intensive"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:55.978726+00:00"
+    },
+    {
+      "id": "rss-1db5da75f7cb",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Local neural wiring may set the brain's range of activity patterns",
+      "authors": "Medical Xpress",
+      "abstract": "The human brain contains billions of neurons, specialized nerve cells that receive, transmit and process information through electrical and chemical signals. Human thoughts, sensory perceptions and behaviors are known to emerge not from the activity of individual neurons but from collective patterns of activity distributed across different neuron populations.",
+      "date": "2026-09-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-local-neural-wiring-brain-range.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "activity",
+        "brain",
+        "patterns",
+        "human",
+        "neurons",
+        "local",
+        "neural",
+        "wiring"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:55.978980+00:00"
+    },
+    {
+      "id": "rss-abb9a69860a2",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "The workout recovery techniques backed by science—and the ones that are just hype",
+      "authors": "Medical Xpress",
+      "abstract": "Finishing a tough workout always feels good. That is, until a few hours later, when those uncomfortable muscle aches start setting in. This discomfort can linger for days—making easy, everyday tasks a challenge.",
+      "date": "2026-09-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-workout-recovery-techniques-science-hype.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "workout",
+        "that",
+        "recovery",
+        "techniques",
+        "backed",
+        "ones",
+        "just",
+        "hype"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:55.979230+00:00"
+    },
+    {
+      "id": "rss-1c11306f1000",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Systems-level approaches crucial to translating research into aged care practice",
+      "authors": "Medical Xpress",
+      "abstract": "Research continues to improve knowledge and understanding, but translating this research into clinical practice remains a challenge.",
+      "date": "2026-09-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-approaches-crucial-aged.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "translating",
+        "practice",
+        "systems-level",
+        "approaches",
+        "crucial",
+        "aged",
+        "care",
+        "continues"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:55.979439+00:00"
+    },
+    {
+      "id": "rss-c8adb3d88cd1",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "authors": "TechCrunch AI",
+      "abstract": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
+      "date": "2026-09-04",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "apple",
+        "ternus",
+        "cook",
+        "week",
+        "next",
+        "begins",
+        "nvidia",
+        "bets"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:56.023924+00:00"
+    },
+    {
+      "id": "rss-9b54c54a4d26",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "authors": "TechCrunch AI",
+      "abstract": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+      "date": "2026-09-04",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "photos",
+        "gemini",
+        "spark",
+        "manage",
+        "your",
+        "library",
+        "edit"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:56.024162+00:00"
+    },
+    {
+      "id": "rss-489de2ba4433",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+      "authors": "TechCrunch AI",
+      "abstract": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+      "date": "2026-09-04",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "apply",
+        "less",
+        "than",
+        "hours",
+        "your",
+        "techcrunch",
+        "disrupt",
+        "side"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:56.024351+00:00"
     },
     {
       "id": "rss-9e8c85364c4b",
@@ -484,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.065463+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.024543+00:00"
     },
     {
       "id": "rss-886f6bf79011",
@@ -516,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.065657+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.024713+00:00"
     },
     {
       "id": "rss-74c94e2b14b5",
@@ -548,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.065798+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.024864+00:00"
     },
     {
       "id": "rss-7937ae83566e",
@@ -580,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.065958+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.025026+00:00"
     },
     {
       "id": "rss-3162d99a2179",
@@ -612,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.066117+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.025204+00:00"
     },
     {
       "id": "rss-1e135f89b920",
@@ -644,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.066253+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.025361+00:00"
     },
     {
       "id": "rss-94736a3481e5",
@@ -676,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.066411+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.025562+00:00"
     },
     {
       "id": "rss-c45253a18283",
@@ -708,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.066577+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.025764+00:00"
     },
     {
       "id": "rss-e081f71145bb",
@@ -740,7 +836,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.066703+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.025914+00:00"
+    },
+    {
+      "id": "rss-54300972963a",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Watching wildlife? Here's how to view marine animals safely",
+      "authors": "NOAA News",
+      "abstract": "Watching wildlife? Here's how to view marine animals safely A Hawaiian monk seal laying on a beach. The sign in the foreground instructs people to walk a safe distance around the seal. (Image credit: istock) Download Image September 3, 2026 Fisheries marine mammals 0 Off",
+      "date": "2026-09-03",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/watching-wildlife-how-to-share-shore-and-sea-with-marine-animals-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "marine",
+        "watching",
+        "wildlife",
+        "here",
+        "view",
+        "animals",
+        "safely",
+        "seal"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:56.289407+00:00"
     },
     {
       "id": "rss-1fb9b793de47",
@@ -772,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.066843+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.026083+00:00"
     },
     {
       "id": "rss-ab262db7bb7a",
@@ -804,103 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.066983+00:00"
-    },
-    {
-      "id": "rss-3497e2038d6e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "authors": "TechCrunch AI",
-      "abstract": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "real",
-        "world",
-        "stage",
-        "techcrunch",
-        "disrupt",
-        "features",
-        "nvidia",
-        "robots"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.067153+00:00"
-    },
-    {
-      "id": "rss-34806a56da70",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "authors": "TechCrunch AI",
-      "abstract": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "openai",
-        "reasoning",
-        "technique",
-        "that",
-        "alarms",
-        "safety",
-        "experts",
-        "astra"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.067302+00:00"
-    },
-    {
-      "id": "rss-ef9809308a4f",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "authors": "TechCrunch AI",
-      "abstract": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real. A handful of startups have cropped up in the past couple of […]",
-      "date": "2026-09-02",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "real",
-        "pangram",
-        "spero",
-        "detection",
-        "harder",
-        "than",
-        "fake",
-        "internet"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.067527+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.026240+00:00"
     },
     {
       "id": "rss-341504e67552",
@@ -932,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.145776+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.088905+00:00"
     },
     {
       "id": "rss-e51d07a6b736",
@@ -964,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.145985+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.089103+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -996,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.233078+00:00"
+      "_retrievedAt": "2026-09-04T16:18:51.293421+00:00"
     },
     {
       "id": "rss-920fbd87ebe7",
@@ -1028,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.146146+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.089276+00:00"
     },
     {
       "id": "rss-212fba1ccc92",
@@ -1060,7 +1092,103 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.146282+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.089435+00:00"
+    },
+    {
+      "id": "rss-7849fc211ef2",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Anita Vanek",
+      "authors": "NOAA News",
+      "abstract": "Executive Director for Operations and Finance Anita Vanek is NOAA’s Executive Director for Operations and Finance, providing leadership across the agency’s corporate services and operational functions. She works to strengthen organizational effectiveness, financial stewardship, workforce management, and business operations in support of NOAA’s mission. Prior to joining NOAA, Anita spent 13 years at the National Institute of Standards and Technology (NIST), most recently serving as Chief Operating Officer and Chief Administrative Officer. In that role, she provided executive leadership across a broad portfolio that included finance, human capital, facilities, security, acquisitions, and enterprise operations, supporting a complex organization with thousands of employees and multiple facilities. Before entering federal service, Anita’s career focused on process improvement, project mana...",
+      "date": "2026-09-01",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/our-people/leadership/anita-vanek",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "anita",
+        "operations",
+        "executive",
+        "finance",
+        "noaa",
+        "vanek",
+        "director",
+        "leadership"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:56.289824+00:00"
+    },
+    {
+      "id": "rss-eb2e1816547e",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA announces priorities to promote science-based American seafood dominance",
+      "authors": "NOAA News",
+      "abstract": "NOAA announces priorities to promote science-based American seafood dominance September 2, 2026 Docked fishing boats at Yaquina Bay in Newport, Oregon. (Image credit: iStock) Today, NOAA announced priorities for advancing reforms within NOAA Fisheries to move towards regulations grounded in science that support American seafood dominance. These agency-level actions follow the Regional Priorities guidance that was released on July 2, 2026, to apply the same standard of accountability to NOAA’s own operations, regulatory frameworks, and scientific pipelines. This priority list serves as an operational roadmap of NOAA Fisheries’ direct support of the President's Executive order on Restoring American Seafood Competitiveness and will lead to the broader interagency America First Seafood Strategy that will be released in the coming months. “Through these priorities, the agency is taking act...",
+      "date": "2026-09-01",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/noaa-announces-priorities-to-promote-science-based-american-seafood-dominance",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noaa",
+        "priorities",
+        "seafood",
+        "american",
+        "dominance",
+        "that",
+        "announces",
+        "promote"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:56.290286+00:00"
+    },
+    {
+      "id": "rss-8921f471d133",
+      "discipline": "geo",
+      "type": "news",
+      "title": "The 2027 NOAA Hollings Scholarship application is now open!",
+      "authors": "NOAA News",
+      "abstract": "The 2027 NOAA Hollings Scholarship application is now open! NOAA undergraduate scholars complete 10-week summer internship projects that span NOAA's mission. (Image credit: NOAA Office of Education) Download Image September 1, 2026 The Hollings undergraduate scholarships application is open through January 31, 2027, 11:59 p.m. Eastern Time. Office of Education Hollings Scholarship 0 Off",
+      "date": "2026-09-01",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/office-education/hollings-scholarship/news/2027-noaa-hollings-scholarship-application-is-now-open-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noaa",
+        "hollings",
+        "scholarship",
+        "application",
+        "open",
+        "undergraduate",
+        "image",
+        "office"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:56.290575+00:00"
     },
     {
       "id": "rss-86e8b2b3fe45",
@@ -1092,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.146413+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.089618+00:00"
     },
     {
       "id": "rss-210f19a3c800",
@@ -1124,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.146551+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.089784+00:00"
     },
     {
       "id": "rss-1912139c3820",
@@ -1156,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.146684+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.089942+00:00"
     },
     {
       "id": "rss-6afe29cd1ab2",
@@ -1188,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.146824+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.090110+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1220,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.505886+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.062004+00:00"
     },
     {
       "id": "rss-dcdf7d1c8cd0",
@@ -1252,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.146964+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.090264+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1284,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.892338+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.749320+00:00"
     },
     {
       "id": "rss-aeae30b99dc0",
@@ -1316,7 +1444,167 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.147093+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.090417+00:00"
+    },
+    {
+      "id": "rss-fd216968fbb9",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Testing the waters: A day at the nation’s largest oil spill simulation tank",
+      "authors": "NOAA News",
+      "abstract": "Testing the waters: A day at the nation’s largest oil spill simulation tank Located at Naval Weapons Station Earle Waterfront in Leonardo, New Jersey, the National Oil Spill Response Research and Renewable Energy Test Facility (Ohmsett) features a massive 2.6-million-gallon outdoor saltwater tank that serves as the nation’s testing ground for evaluating full-scale oil spill response equipment and marine technologies under realistic ocean conditions. (Image credit: Bureau of Safety and Environmental Enforcement, bsee.gov) Download Image August 20, 2026 Ocean & Coasts 0 Off",
+      "date": "2026-08-20",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/testing-waters-day-at-nations-largest-oil-spill-simulation-tank-ext-0",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "spill",
+        "testing",
+        "nation",
+        "tank",
+        "waters",
+        "largest",
+        "simulation",
+        "response"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:56.290897+00:00"
+    },
+    {
+      "id": "rss-da060db7124c",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA to rebuild historic science lab in Beaufort, North Carolina",
+      "authors": "NOAA News",
+      "abstract": "NOAA to rebuild historic science lab in Beaufort, North Carolina New North Carolina facility will continue to provide world-class NOAA science nationwide August 27, 2026 NOAA's Beaufort Laboratory moved to its current location on Pivers Island, North Carolina, in 1902. This aerial image of the laboratory complex was taken in 2014. (Image credit: NOAA's Beaufort Lab in 2014) Download Image Today, NOAA announced plans to fund the reconstruction of a new laboratory in Beaufort, North Carolina. This new lab will replace the former building that was permanently closed in 2024 due to significant hurricane-related structural damage. The project will be funded using $64 million from the 2025 Disaster Relief Supplemental Appropriations Act . Design and preconstruction work is expected to begin in early 2027. Established in 1899, the NOAA Beaufort Laboratory is the nation’s second-oldest federa...",
+      "date": "2026-08-19",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/noaa-to-rebuild-historic-science-lab-in-beaufort-north-carolina",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noaa",
+        "beaufort",
+        "north",
+        "carolina",
+        "laboratory",
+        "will",
+        "image",
+        "rebuild"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:56.291361+00:00"
+    },
+    {
+      "id": "rss-2776ccb476cc",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA boosts weather data collection capabilities with new Mesonet contract",
+      "authors": "NOAA News",
+      "abstract": "NOAA boosts weather data collection capabilities with new Mesonet contract August 27, 2026 An array of observational equipment used by NOAA. The National Mesonet Program includes devices such as radars, weather balloons, ground-based temperature sensors, and ocean buoys. (Image credit: NOAA) Download Image NOAA’s National Weather Service will expand the National Mesonet Program offsite link — an observational weather “network of networks” that delivers critical information required for improved weather prediction and warnings across the United States — through a new contract that begins on September 1. “NOAA gathers environmental information from a wide variety of sources, and a growing list of private industry partners have joined our agency to collect this vital data,” said Ken Graham, director, NOAA’s National Weather Service. “This agreement streamlines the process that turns raw...",
+      "date": "2026-08-19",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/noaa-boosts-weather-data-collection-capabilities-with-new-mesonet-contract",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noaa",
+        "weather",
+        "mesonet",
+        "national",
+        "contract",
+        "that",
+        "boosts",
+        "collection"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:56.291914+00:00"
+    },
+    {
+      "id": "rss-b79fe6018e2d",
+      "discipline": "geo",
+      "type": "news",
+      "title": "American tuna gets a boost: Increased bluefin tuna quotas mean more opportunities for U.S. fishermen",
+      "authors": "NOAA News",
+      "abstract": "American tuna gets a boost: Increased bluefin tuna quotas mean more opportunities for U.S. fishermen Bluefin tuna. (Image credit: NOAA) Download Image August 19, 2026 Fisheries 0 Off",
+      "date": "2026-08-19",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/american-tuna-gets-boost-increased-bluefin-tuna-quotas-mean-more-opportunities-for-us-fishermen-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "tuna",
+        "bluefin",
+        "american",
+        "gets",
+        "boost",
+        "increased",
+        "quotas",
+        "mean"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:56.292119+00:00"
+    },
+    {
+      "id": "rss-a8343bb3730e",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA Fisheries Tech Week: Launching into the future with advanced technologies",
+      "authors": "NOAA News",
+      "abstract": "NOAA Fisheries Tech Week: Launching into the future with advanced technologies NOAA Fisheries Technology Week splash page. (Image credit: NOAA Fisheries) Download Image August 19, 2026 Fisheries Information Technology 0 Off",
+      "date": "2026-08-19",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/technology-week-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "fisheries",
+        "noaa",
+        "week",
+        "tech",
+        "launching",
+        "future",
+        "advanced",
+        "technologies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:56.292318+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1348,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:40.263470+00:00"
+      "_retrievedAt": "2026-09-04T16:18:53.567447+00:00"
     },
     {
       "id": "rss-64d6d015a3c3",
@@ -1380,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.147251+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.090636+00:00"
     },
     {
       "id": "rss-33d77e1bca30",
@@ -1412,7 +1700,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.147401+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.090811+00:00"
+    },
+    {
+      "id": "rss-0c86d5cea5d3",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA Announces 2026 Small Business of the Year Award Recipient",
+      "authors": "NOAA News",
+      "abstract": "NOAA Announces 2026 Small Business of the Year Award Recipient August 13, 2026 NOAA has named Industrial Economics, Inc. (IEc) as its Small Business of the Year, honoring the firm for exceptional performance, technical innovation, and outstanding environmental stewardship in executing a complex marine restoration project. Faced with challenging environmental conditions and significant logistical delays, IEc leveraged cutting-edge technical and process innovations to safely repair damaged reef infrastructure and accelerate long-term ecosystem recovery. The team’s operational agility and seamless execution allowed them to maintain a flawless safety record while substantially exceeding target goals for restored habitat area. NOAA commends Industrial Economics, Inc. for its unwavering commitment to excellence, field safety, and dedication to protecting vital marine habitats. Acquisition &...",
+      "date": "2026-08-13",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/acquisition-grants/small-business/news/noaa-announces-2026-small-business-of-year-award-recipient-0",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noaa",
+        "small",
+        "business",
+        "year",
+        "announces",
+        "award",
+        "recipient",
+        "industrial"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:56.292693+00:00"
     },
     {
       "id": "openalex-3102df6dbe7b",
@@ -1444,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.507145+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.063305+00:00"
     },
     {
       "id": "rss-fdb29d787f22",
@@ -1476,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.147550+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.090997+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1508,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.504365+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.060375+00:00"
     },
     {
       "id": "openalex-a0089f3bc951",
@@ -1540,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:40.263854+00:00"
+      "_retrievedAt": "2026-09-04T16:18:53.567861+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1572,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.504690+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.060740+00:00"
     },
     {
       "id": "openalex-31da6159b300",
@@ -1604,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:40.264191+00:00"
+      "_retrievedAt": "2026-09-04T16:18:53.568195+00:00"
     },
     {
       "id": "rss-ead5f2bab0c6",
@@ -1636,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:45.147675+00:00"
+      "_retrievedAt": "2026-09-04T16:18:56.091161+00:00"
     },
     {
       "id": "openalex-5abd16320b31",
@@ -1668,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.507446+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.063639+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -1700,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.503047+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.058975+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -1732,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:40.258668+00:00"
+      "_retrievedAt": "2026-09-04T16:18:53.562408+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -1764,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:40.259042+00:00"
+      "_retrievedAt": "2026-09-04T16:18:53.562803+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -1796,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.234758+00:00"
+      "_retrievedAt": "2026-09-04T16:18:51.295222+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -1828,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.503674+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.059635+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -1860,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.506183+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.062300+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -1892,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.236669+00:00"
+      "_retrievedAt": "2026-09-04T16:18:51.297233+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -1924,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.233816+00:00"
+      "_retrievedAt": "2026-09-04T16:18:51.294207+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -1956,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.504988+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.061048+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -1988,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.889447+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.745917+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2020,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:40.262341+00:00"
+      "_retrievedAt": "2026-09-04T16:18:53.566273+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2052,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.506535+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.062681+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2084,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:40.260789+00:00"
+      "_retrievedAt": "2026-09-04T16:18:53.564636+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2116,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:40.261156+00:00"
+      "_retrievedAt": "2026-09-04T16:18:53.565011+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2148,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.504014+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.060007+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2180,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.889996+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.746471+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2212,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.235785+00:00"
+      "_retrievedAt": "2026-09-04T16:18:51.296292+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2244,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.505326+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.061395+00:00"
     },
     {
       "id": "openalex-f64c9923322b",
@@ -2276,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.506817+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.062981+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2308,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.235089+00:00"
+      "_retrievedAt": "2026-09-04T16:18:51.295564+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2319,8 +2639,8 @@ window.LIVE_FEED_DATA = {
       "abstract": "This thesis presents a system to recognise and classify road and traffic signs for the purpose of developing an inventory of them which could assist the highway engineers' tasks of updating and maintaining them. It uses images taken by a camera from a moving vehicle. The system is based on three major stages: colour segmentation, recognition, and classification. Four colour segmentation algorithms are developed and tested. They are a shadow and highlight invariant, a dynamic threshold, a modification of de la Escalera's algorithm and a Fuzzy colour segmentation algorithm. All algorithms are tested using hundreds of images and the shadow-highlight invariant algorithm is eventually chosen as the best performer. This is because it is immune to shadows and highlights. It is also robust as it was tested in different lighting conditions, weather conditions, and times of the day. Approximate...",
       "date": "2026-06-23",
       "year": 2026,
-      "journal": "Edinburgh Napier Research Repository (Edinburgh Napier University)",
-      "source": "Edinburgh Napier Research Repository (Edinburgh Napier University)",
+      "journal": "Research Output (Edinburgh Napier University)",
+      "source": "Research Output (Edinburgh Napier University)",
       "sourceApi": "OpenAlex",
       "url": "http://researchrepository.napier.ac.uk/id/eprint/9466",
       "doi": "10.17869/enu.233020",
@@ -2340,39 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.235496+00:00"
-    },
-    {
-      "id": "openalex-c3aaf692321e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Hyperpolarization of [1‐ 13 C]Ketoisocaproate‐d 2 by Reversible Exchange with Parahydrogen Enables Profiling of Branched‐Chain‐Amino‐Acid Metabolism in Cellulo and in Vivo",
-      "authors": "Stefan Petersen, Philipp Groß, Paul M. Schmidt, Henri de Maissin, Asitan Rittinger, Robert Willing",
-      "abstract": "ABSTRACT Hyperpolarized 1 3 C magnetic resonance imaging (MRI) is the only method to image metabolic fluxes in real time, non‐invasively, and in vivo. To date, however, most studies have used [1‐ 1 3 C]pyruvate and dynamic nuclear polarization (dDNP). Here, we establish efficient hyperpolarization (HP) of protio and partially‐deuterated [1‐ 1 3 C]ketoisocaproate (KIC) using Spin‐Lock‐Induced‐Crossing‐Signal Amplification by Reversible Exchange (SLIC‐SABRE), a high‐throughput, uncomplex and low‐cost method based on parahydrogen. We demonstrate 13 C polarization up to ≈28% and T 1 relaxation times > 200 s at 1 T in methanol‐d 4 . A rapid purification procedure allowed us to obtain biocompatible formulations with ≈11% 13 C polarization at the time of injection, sufficient for in cellulo and in vivo studies. We found that branched‐chain‐amino‐acid transaminase (BCAT) activity leads to HP...",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "Advanced Science",
-      "source": "Advanced Science",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/advs.76213",
-      "doi": "10.1002/advs.76213",
-      "pdfUrl": "https://doi.org/10.1002/advs.76213",
-      "keywords": [
-        "Hyperpolarization (physics)",
-        "In vivo",
-        "Chemistry",
-        "Spin isomers of hydrogen",
-        "Polarization (electrochemistry)",
-        "Advanced NMR Techniques and Applications",
-        "Advanced MRI Techniques and Applications",
-        "Electron Spin Resonance Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.894112+00:00"
+      "_retrievedAt": "2026-09-04T16:18:51.295988+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2404,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.889641+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.746124+00:00"
     },
     {
       "id": "openalex-ff18973ad306",
@@ -2436,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.891721+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.748317+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -2468,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:40.260044+00:00"
+      "_retrievedAt": "2026-09-04T16:18:53.563837+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -2500,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.505569+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.061667+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2532,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.234415+00:00"
+      "_retrievedAt": "2026-09-04T16:18:51.294865+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -2564,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.236062+00:00"
+      "_retrievedAt": "2026-09-04T16:18:51.296589+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2596,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:40.261516+00:00"
+      "_retrievedAt": "2026-09-04T16:18:53.565389+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2628,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:40.262717+00:00"
+      "_retrievedAt": "2026-09-04T16:18:53.566689+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
@@ -2660,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.503417+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.059340+00:00"
     },
     {
       "id": "openalex-c696aff78c58",
@@ -2692,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.236950+00:00"
+      "_retrievedAt": "2026-09-04T16:18:51.297573+00:00"
     },
     {
       "id": "openalex-33d4ca0564d8",
@@ -2724,7 +3012,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.892672+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.749708+00:00"
+    },
+    {
+      "id": "openalex-d767b74ad31a",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Targeting Fibroblast Activation Protein with [177Lu]Lu-FAP-2286 in Patients with Advanced Solid Tumors in the Phase I LuMIERE Trial",
+      "authors": "Jonathan McConathy, Vadim S. Koshkin, Yusuf Menda, Jordi Rodon, Ajit H. Goenka, Ryan H. Moy",
+      "abstract": "PURPOSE: Fibroblast activation protein (FAP) is an attractive target for radiopharmaceutical therapy. Phase I of the LuMIERE study (ClinicalTrials.gov, NCT04939610) investigated the safety of [177Lu]Lu-FAP-2286 (177Lu-FAP-2286) in heavily pretreated patients with advanced solid tumors and identified the recommended phase II dosage (RP2D). PATIENTS AND METHODS: LuMIERE is a prospective, open-label, nonrandomized, phase I/II, multicenter study. Phase I followed a Bayesian optimal interval design evaluating four escalating activity levels of 177Lu-FAP-2286 (3.70, 5.55, 7.40, and 9.25 GBq). Patients were selected by positive [68Ga]Ga-FAP-2286 (68Ga-FAP-2286, also known as [68Ga]Ga-HKG301) PET/CT imaging on all target lesions [maximum standardized uptake value (SUVmax) ≥1.5× SUVmean of mediastinal blood pool]. 177Lu-FAP-2286 was administered intravenously every 6 weeks for ≤6 cycles. The p...",
+      "date": "2026-06-01",
+      "year": 2026,
+      "journal": "Clinical Cancer Research",
+      "source": "Clinical Cancer Research",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1158/1078-0432.ccr-25-4356",
+      "doi": "10.1158/1078-0432.ccr-25-4356",
+      "pdfUrl": "https://doi.org/10.1158/1078-0432.ccr-25-4356",
+      "keywords": [
+        "Medicine",
+        "Response Evaluation Criteria in Solid Tumors",
+        "Adverse effect",
+        "Clinical endpoint",
+        "Internal medicine",
+        "Peptidase Inhibition and Analysis",
+        "Radiopharmaceutical Chemistry and Applications",
+        "Orthopedic Infections and Treatments"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T16:18:52.750122+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2756,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:40.260425+00:00"
+      "_retrievedAt": "2026-09-04T16:18:53.564236+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2788,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.236361+00:00"
+      "_retrievedAt": "2026-09-04T16:18:51.296905+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -2820,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.237402+00:00"
+      "_retrievedAt": "2026-09-04T16:18:51.298063+00:00"
     },
     {
       "id": "openalex-0fed25de6e90",
@@ -2852,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.891367+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.747945+00:00"
     },
     {
       "id": "openalex-fcbf1470edaa",
@@ -2884,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:40.261763+00:00"
+      "_retrievedAt": "2026-09-04T16:18:53.565677+00:00"
     },
     {
       "id": "openalex-218d85dc8916",
@@ -2916,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:40.263106+00:00"
+      "_retrievedAt": "2026-09-04T16:18:53.567077+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -2948,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.233439+00:00"
+      "_retrievedAt": "2026-09-04T16:18:51.293814+00:00"
     },
     {
       "id": "openalex-9542d06993f1",
@@ -2980,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:40.262071+00:00"
+      "_retrievedAt": "2026-09-04T16:18:53.565987+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -3012,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.232736+00:00"
+      "_retrievedAt": "2026-09-04T16:18:51.293089+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -3044,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.891041+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.747590+00:00"
     },
     {
       "id": "openalex-ef1b53780e96",
@@ -3076,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.893353+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.750483+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -3108,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.234036+00:00"
+      "_retrievedAt": "2026-09-04T16:18:51.294440+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -3136,11 +3456,11 @@ window.LIVE_FEED_DATA = {
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 1517,
+      "citedBy": 1519,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.232333+00:00"
+      "_retrievedAt": "2026-09-04T16:18:51.292696+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -3168,11 +3488,11 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence in Healthcare"
       ],
       "readTime": "1 min",
-      "citedBy": 7,
+      "citedBy": 8,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.893006+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.748674+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -3204,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.892007+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.748973+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -3236,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:40.259748+00:00"
+      "_retrievedAt": "2026-09-04T16:18:53.563537+00:00"
     },
     {
       "id": "openalex-f24c80435674",
@@ -3268,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T11:13:39.893726+00:00"
+      "_retrievedAt": "2026-09-04T16:18:52.750907+00:00"
     }
   ]
 };
