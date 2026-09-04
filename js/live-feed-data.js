@@ -1,11 +1,139 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-09-04T04:27:38.108633+00:00",
-  "total": 112,
+  "generatedAt": "2026-09-04T11:13:57.079165+00:00",
+  "total": 102,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-d121c5aa109a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Study identifies potential new target for treating atherosclerosis",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at the Marshall University Joan C. Edwards School of Medicine have identified a cellular signaling pathway in fat cells that may play an important role in the development of atherosclerosis, offering a potential new target for treating the disease.",
+      "date": "2026-09-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-potential-atherosclerosis.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "potential",
+        "target",
+        "treating",
+        "atherosclerosis",
+        "identifies",
+        "researchers",
+        "marshall",
+        "university"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T11:13:45.025713+00:00"
+    },
+    {
+      "id": "rss-dad1f39ef09a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Practice helps the brain separate tasks and improve multitasking ability",
+      "authors": "Medical Xpress",
+      "abstract": "Why is it so difficult to perform two tasks at the same time? For decades, scientists have debated whether multitasking is limited by a \"central bottleneck\" that restricts simultaneous processing or by competition for limited neural resources shared across tasks. But neither view fully explains how the brain manages these competing demands or how practice transforms an interference-prone system into more efficient multitasking.",
+      "date": "2026-09-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-08-brain-tasks-multitasking-ability.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "tasks",
+        "multitasking",
+        "practice",
+        "brain",
+        "limited",
+        "helps",
+        "separate",
+        "improve"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T11:13:45.026032+00:00"
+    },
+    {
+      "id": "rss-524abe030cb2",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Micro-bladder model offers clues to stopping recurrent UTIs",
+      "authors": "Medical Xpress",
+      "abstract": "A lab-grown micro bladder may explain why urinary tract infections (UTIs) return so frequently, according to a study led by researchers at UCL, the University of Oxford and the University of Leicester.",
+      "date": "2026-09-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-micro-bladder-clues-recurrent-utis.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "utis",
+        "university",
+        "micro-bladder",
+        "offers",
+        "clues",
+        "stopping",
+        "recurrent",
+        "lab-grown"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T11:13:45.026248+00:00"
+    },
+    {
+      "id": "rss-9cb779b82815",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New Zealand approves use of party drug MDMA to treat trauma",
+      "authors": "Medical Xpress",
+      "abstract": "Two psychiatrists in New Zealand won approval Friday to prescribe pharmaceutical-grade MDMA to people with severe post-traumatic stress disorder.",
+      "date": "2026-09-04",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-zealand-party-drug-mdma-trauma.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "zealand",
+        "mdma",
+        "approves",
+        "party",
+        "drug",
+        "treat",
+        "trauma",
+        "psychiatrists"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-04T11:13:45.026438+00:00"
+    },
     {
       "id": "rss-abb2774aec49",
       "discipline": "clinical",
@@ -36,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.131675+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.026651+00:00"
     },
     {
       "id": "rss-4fc2cd9c6e89",
@@ -68,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.131951+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.026858+00:00"
     },
     {
       "id": "rss-f33b87fd0dd7",
@@ -100,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.132173+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.027067+00:00"
     },
     {
       "id": "rss-ecf2299a01a5",
@@ -132,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.132387+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.027251+00:00"
     },
     {
       "id": "rss-8cd802fb996e",
@@ -164,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.132702+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.027516+00:00"
     },
     {
       "id": "rss-0c4f45481276",
@@ -196,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.132987+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.027761+00:00"
     },
     {
       "id": "rss-4f60bc0a0588",
@@ -228,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.133233+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.027984+00:00"
     },
     {
       "id": "rss-10f566985035",
@@ -260,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.133475+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.028183+00:00"
     },
     {
       "id": "rss-96ad25ae2dd0",
@@ -292,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.133755+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.028411+00:00"
     },
     {
       "id": "rss-4901501b4f49",
@@ -324,135 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.134044+00:00"
-    },
-    {
-      "id": "rss-8b3fc8564dfb",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Patients diagnosed with lung cancer found to have more microplastic in their lungs",
-      "authors": "Medical Xpress",
-      "abstract": "People with lung cancer are more likely to have microplastics in their lungs and to have larger quantities of microplastics in their lungs, according to research that will be presented at the European Respiratory Society (ERS) Congress in Barcelona, Spain.",
-      "date": "2026-09-04",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-patients-lung-cancer-microplastic-lungs.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "have",
-        "their",
-        "lungs",
-        "lung",
-        "cancer",
-        "more",
-        "microplastics",
-        "patients"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.134282+00:00"
-    },
-    {
-      "id": "rss-68b9d27e74ef",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Gestational diabetes history linked to earlier, potentially more severe type 2 diabetes",
-      "authors": "Medical Xpress",
-      "abstract": "New research to be presented at the Annual Meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy (Sept. 28–Oct. 2) shows that among women who develop type 2 diabetes (T2D), those who had gestational diabetes (GD) during pregnancy develop T2D, on average, almost 13 years earlier than those who did not. Those who had GD are also twice as likely to have more advanced disease requiring insulin treatment for their T2D within the first two years after their T2D diagnosis than those who did not have GD.",
-      "date": "2026-09-04",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-gestational-diabetes-history-linked-earlier.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "diabetes",
-        "those",
-        "gestational",
-        "earlier",
-        "more",
-        "type",
-        "develop",
-        "years"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.134623+00:00"
-    },
-    {
-      "id": "rss-eb1a711bc79a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Eating jetlag: Weekend meal shifts associated with higher heart disease risk in men",
-      "authors": "Medical Xpress",
-      "abstract": "A team of researchers from INRAE, Inserm, Sorbonne Paris Nord University, Université Paris Cité and the CNAM has published the first study exploring the association between eating jetlag and the risk of cardiovascular disease. Eating jetlag refers to the difference in the timing of meals between weekdays—when mealtimes are often shaped by work schedules—and weekends or days off. This shift in eating patterns may disrupt the body's biological rhythms and could have implications for cardiovascular health.",
-      "date": "2026-09-04",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-jetlag-weekend-meal-shifts-higher.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "eating",
-        "jetlag",
-        "disease",
-        "risk",
-        "paris",
-        "cardiovascular",
-        "weekend",
-        "meal"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.134932+00:00"
-    },
-    {
-      "id": "rss-b8272cf7c3e8",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Over 90% of people carry this virus—and it can cause more than chickenpox and shingles",
-      "authors": "Medical Xpress",
-      "abstract": "New research published in Nature Reviews Disease Primers is shedding light on the surprisingly broad range of neurological and systemic diseases that can be caused by varicella zoster virus (VZV), the virus that causes chickenpox and shingles.",
-      "date": "2026-09-04",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-people-virus-chickenpox-shingles.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "virus",
-        "chickenpox",
-        "shingles",
-        "that",
-        "over",
-        "people",
-        "carry",
-        "this"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.135179+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.028674+00:00"
     },
     {
       "id": "rss-9e8c85364c4b",
@@ -484,7 +484,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.252384+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.065463+00:00"
     },
     {
       "id": "rss-886f6bf79011",
@@ -516,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.252668+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.065657+00:00"
     },
     {
       "id": "rss-74c94e2b14b5",
@@ -548,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.252845+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.065798+00:00"
     },
     {
       "id": "rss-7937ae83566e",
@@ -580,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.253026+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.065958+00:00"
     },
     {
       "id": "rss-3162d99a2179",
@@ -612,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.253223+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.066117+00:00"
     },
     {
       "id": "rss-1e135f89b920",
@@ -644,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.253395+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.066253+00:00"
     },
     {
       "id": "rss-94736a3481e5",
@@ -676,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.253625+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.066411+00:00"
     },
     {
       "id": "rss-c45253a18283",
@@ -708,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.253826+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.066577+00:00"
     },
     {
       "id": "rss-e081f71145bb",
@@ -740,39 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.253976+00:00"
-    },
-    {
-      "id": "rss-9012558a95e0",
-      "discipline": "geo",
-      "type": "news",
-      "title": "How to view marine animals safely",
-      "authors": "NOAA News",
-      "abstract": "How to view marine animals safely A Hawaiian monk seal laying on a beach. The sign in the foreground instructs people to walk a safe distance around the seal. (Image credit: istock) Download Image September 3, 2026 Fisheries marine mammals 0 Off",
-      "date": "2026-09-03",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/watching-wildlife-how-to-share-shore-and-sea-with-marine-animals-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "marine",
-        "view",
-        "animals",
-        "safely",
-        "seal",
-        "image",
-        "hawaiian",
-        "monk"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.752362+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.066703+00:00"
     },
     {
       "id": "rss-1fb9b793de47",
@@ -804,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.254142+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.066843+00:00"
     },
     {
       "id": "rss-ab262db7bb7a",
@@ -836,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.254293+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.066983+00:00"
     },
     {
       "id": "rss-3497e2038d6e",
@@ -868,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.254504+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.067153+00:00"
     },
     {
       "id": "rss-34806a56da70",
@@ -900,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.254684+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.067302+00:00"
     },
     {
       "id": "rss-ef9809308a4f",
@@ -932,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.254937+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.067527+00:00"
     },
     {
       "id": "rss-341504e67552",
@@ -964,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.472249+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.145776+00:00"
     },
     {
       "id": "rss-e51d07a6b736",
@@ -996,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.472510+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.145985+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1028,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:30.952743+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.233078+00:00"
     },
     {
       "id": "rss-920fbd87ebe7",
@@ -1060,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.472701+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.146146+00:00"
     },
     {
       "id": "rss-212fba1ccc92",
@@ -1092,103 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.472861+00:00"
-    },
-    {
-      "id": "rss-7849fc211ef2",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Anita Vanek",
-      "authors": "NOAA News",
-      "abstract": "Executive Director for Operations and Finance Anita Vanek is NOAA’s Executive Director for Operations and Finance, providing leadership across the agency’s corporate services and operational functions. She works to strengthen organizational effectiveness, financial stewardship, workforce management, and business operations in support of NOAA’s mission. Prior to joining NOAA, Anita spent 13 years at the National Institute of Standards and Technology (NIST), most recently serving as Chief Operating Officer and Chief Administrative Officer. In that role, she provided executive leadership across a broad portfolio that included finance, human capital, facilities, security, acquisitions, and enterprise operations, supporting a complex organization with thousands of employees and multiple facilities. Before entering federal service, Anita’s career focused on process improvement, project mana...",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/our-people/leadership/anita-vanek",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "anita",
-        "operations",
-        "executive",
-        "finance",
-        "noaa",
-        "vanek",
-        "director",
-        "leadership"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.752775+00:00"
-    },
-    {
-      "id": "rss-eb2e1816547e",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA announces priorities to promote science-based American seafood dominance",
-      "authors": "NOAA News",
-      "abstract": "NOAA announces priorities to promote science-based American seafood dominance September 2, 2026 Docked fishing boats at Yaquina Bay in Newport, Oregon. (Image credit: iStock) Today, NOAA announced priorities for advancing reforms within NOAA Fisheries to move towards regulations grounded in science that support American seafood dominance. These agency-level actions follow the Regional Priorities guidance that was released on July 2, 2026, to apply the same standard of accountability to NOAA’s own operations, regulatory frameworks, and scientific pipelines. This priority list serves as an operational roadmap of NOAA Fisheries’ direct support of the President's Executive order on Restoring American Seafood Competitiveness and will lead to the broader interagency America First Seafood Strategy that will be released in the coming months. “Through these priorities, the agency is taking act...",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/noaa-announces-priorities-to-promote-science-based-american-seafood-dominance",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "priorities",
-        "seafood",
-        "american",
-        "dominance",
-        "that",
-        "announces",
-        "promote"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.753225+00:00"
-    },
-    {
-      "id": "rss-8921f471d133",
-      "discipline": "geo",
-      "type": "news",
-      "title": "The 2027 NOAA Hollings Scholarship application is now open!",
-      "authors": "NOAA News",
-      "abstract": "The 2027 NOAA Hollings Scholarship application is now open! NOAA undergraduate scholars complete 10-week summer internship projects that span NOAA's mission. (Image credit: NOAA Office of Education) Download Image September 1, 2026 The Hollings undergraduate scholarships application is open through January 31, 2027, 11:59 p.m. Eastern Time. Office of Education Hollings Scholarship 0 Off",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/office-education/hollings-scholarship/news/2027-noaa-hollings-scholarship-application-is-now-open-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "hollings",
-        "scholarship",
-        "application",
-        "open",
-        "undergraduate",
-        "image",
-        "office"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.753479+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.146282+00:00"
     },
     {
       "id": "rss-86e8b2b3fe45",
@@ -1220,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.473014+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.146413+00:00"
     },
     {
       "id": "rss-210f19a3c800",
@@ -1252,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.473175+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.146551+00:00"
     },
     {
       "id": "rss-1912139c3820",
@@ -1284,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.473329+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.146684+00:00"
     },
     {
       "id": "rss-6afe29cd1ab2",
@@ -1316,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.473515+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.146824+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1348,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:31.761829+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.505886+00:00"
     },
     {
       "id": "rss-dcdf7d1c8cd0",
@@ -1380,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.473674+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.146964+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1412,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.297371+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.892338+00:00"
     },
     {
       "id": "rss-aeae30b99dc0",
@@ -1444,167 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.473823+00:00"
-    },
-    {
-      "id": "rss-fd216968fbb9",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Testing the waters: A day at the nation’s largest oil spill simulation tank",
-      "authors": "NOAA News",
-      "abstract": "Testing the waters: A day at the nation’s largest oil spill simulation tank Located at Naval Weapons Station Earle Waterfront in Leonardo, New Jersey, the National Oil Spill Response Research and Renewable Energy Test Facility (Ohmsett) features a massive 2.6-million-gallon outdoor saltwater tank that serves as the nation’s testing ground for evaluating full-scale oil spill response equipment and marine technologies under realistic ocean conditions. (Image credit: Bureau of Safety and Environmental Enforcement, bsee.gov) Download Image August 20, 2026 Ocean & Coasts 0 Off",
-      "date": "2026-08-20",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/testing-waters-day-at-nations-largest-oil-spill-simulation-tank-ext-0",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "spill",
-        "testing",
-        "nation",
-        "tank",
-        "waters",
-        "largest",
-        "simulation",
-        "response"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.753784+00:00"
-    },
-    {
-      "id": "rss-da060db7124c",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA to rebuild historic science lab in Beaufort, North Carolina",
-      "authors": "NOAA News",
-      "abstract": "NOAA to rebuild historic science lab in Beaufort, North Carolina New North Carolina facility will continue to provide world-class NOAA science nationwide August 27, 2026 NOAA's Beaufort Laboratory moved to its current location on Pivers Island, North Carolina, in 1902. This aerial image of the laboratory complex was taken in 2014. (Image credit: NOAA's Beaufort Lab in 2014) Download Image Today, NOAA announced plans to fund the reconstruction of a new laboratory in Beaufort, North Carolina. This new lab will replace the former building that was permanently closed in 2024 due to significant hurricane-related structural damage. The project will be funded using $64 million from the 2025 Disaster Relief Supplemental Appropriations Act . Design and preconstruction work is expected to begin in early 2027. Established in 1899, the NOAA Beaufort Laboratory is the nation’s second-oldest federa...",
-      "date": "2026-08-19",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/noaa-to-rebuild-historic-science-lab-in-beaufort-north-carolina",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "beaufort",
-        "north",
-        "carolina",
-        "laboratory",
-        "will",
-        "image",
-        "rebuild"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.754233+00:00"
-    },
-    {
-      "id": "rss-2776ccb476cc",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA boosts weather data collection capabilities with new Mesonet contract",
-      "authors": "NOAA News",
-      "abstract": "NOAA boosts weather data collection capabilities with new Mesonet contract August 27, 2026 An array of observational equipment used by NOAA. The National Mesonet Program includes devices such as radars, weather balloons, ground-based temperature sensors, and ocean buoys. (Image credit: NOAA) Download Image NOAA’s National Weather Service will expand the National Mesonet Program offsite link — an observational weather “network of networks” that delivers critical information required for improved weather prediction and warnings across the United States — through a new contract that begins on September 1. “NOAA gathers environmental information from a wide variety of sources, and a growing list of private industry partners have joined our agency to collect this vital data,” said Ken Graham, director, NOAA’s National Weather Service. “This agreement streamlines the process that turns raw...",
-      "date": "2026-08-19",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/noaa-boosts-weather-data-collection-capabilities-with-new-mesonet-contract",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "weather",
-        "mesonet",
-        "national",
-        "contract",
-        "that",
-        "boosts",
-        "collection"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.754766+00:00"
-    },
-    {
-      "id": "rss-b79fe6018e2d",
-      "discipline": "geo",
-      "type": "news",
-      "title": "American tuna gets a boost: Increased bluefin tuna quotas mean more opportunities for U.S. fishermen",
-      "authors": "NOAA News",
-      "abstract": "American tuna gets a boost: Increased bluefin tuna quotas mean more opportunities for U.S. fishermen Bluefin tuna. (Image credit: NOAA) Download Image August 19, 2026 Fisheries 0 Off",
-      "date": "2026-08-19",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/american-tuna-gets-boost-increased-bluefin-tuna-quotas-mean-more-opportunities-for-us-fishermen-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "tuna",
-        "bluefin",
-        "american",
-        "gets",
-        "boost",
-        "increased",
-        "quotas",
-        "mean"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.754963+00:00"
-    },
-    {
-      "id": "rss-a8343bb3730e",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA Fisheries Tech Week: Launching into the future with advanced technologies",
-      "authors": "NOAA News",
-      "abstract": "NOAA Fisheries Tech Week: Launching into the future with advanced technologies NOAA Fisheries Technology Week splash page. (Image credit: NOAA Fisheries) Download Image August 19, 2026 Fisheries Information Technology 0 Off",
-      "date": "2026-08-19",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/technology-week-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "fisheries",
-        "noaa",
-        "week",
-        "tech",
-        "launching",
-        "future",
-        "advanced",
-        "technologies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.755154+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.147093+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1636,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.905252+00:00"
+      "_retrievedAt": "2026-09-04T11:13:40.263470+00:00"
     },
     {
       "id": "rss-64d6d015a3c3",
@@ -1668,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.474005+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.147251+00:00"
     },
     {
       "id": "rss-33d77e1bca30",
@@ -1700,39 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.474177+00:00"
-    },
-    {
-      "id": "rss-0c86d5cea5d3",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA Announces 2026 Small Business of the Year Award Recipient",
-      "authors": "NOAA News",
-      "abstract": "NOAA Announces 2026 Small Business of the Year Award Recipient August 13, 2026 NOAA has named Industrial Economics, Inc. (IEc) as its Small Business of the Year, honoring the firm for exceptional performance, technical innovation, and outstanding environmental stewardship in executing a complex marine restoration project. Faced with challenging environmental conditions and significant logistical delays, IEc leveraged cutting-edge technical and process innovations to safely repair damaged reef infrastructure and accelerate long-term ecosystem recovery. The team’s operational agility and seamless execution allowed them to maintain a flawless safety record while substantially exceeding target goals for restored habitat area. NOAA commends Industrial Economics, Inc. for its unwavering commitment to excellence, field safety, and dedication to protecting vital marine habitats. Acquisition &...",
-      "date": "2026-08-13",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/acquisition-grants/small-business/news/noaa-announces-2026-small-business-of-year-award-recipient-0",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "small",
-        "business",
-        "year",
-        "announces",
-        "award",
-        "recipient",
-        "industrial"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.755523+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.147401+00:00"
     },
     {
       "id": "openalex-3102df6dbe7b",
@@ -1764,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:31.763090+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.507145+00:00"
     },
     {
       "id": "rss-fdb29d787f22",
@@ -1796,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.474353+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.147550+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1828,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:31.760239+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.504365+00:00"
     },
     {
       "id": "openalex-a0089f3bc951",
@@ -1860,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.905669+00:00"
+      "_retrievedAt": "2026-09-04T11:13:40.263854+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1892,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:31.760599+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.504690+00:00"
     },
     {
       "id": "openalex-31da6159b300",
@@ -1924,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.906000+00:00"
+      "_retrievedAt": "2026-09-04T11:13:40.264191+00:00"
     },
     {
       "id": "rss-ead5f2bab0c6",
@@ -1956,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:37.474523+00:00"
+      "_retrievedAt": "2026-09-04T11:13:45.147675+00:00"
     },
     {
       "id": "openalex-5abd16320b31",
@@ -1988,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:31.763404+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.507446+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2020,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:31.758865+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.503047+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2052,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.900217+00:00"
+      "_retrievedAt": "2026-09-04T11:13:40.258668+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2084,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.900615+00:00"
+      "_retrievedAt": "2026-09-04T11:13:40.259042+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2116,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:30.954484+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.234758+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2148,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:31.759522+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.503674+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2180,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:31.762110+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.506183+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2212,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:30.956504+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.236669+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2244,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:30.953497+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.233816+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2276,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:31.760907+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.504988+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2308,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.294346+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.889447+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2340,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.904079+00:00"
+      "_retrievedAt": "2026-09-04T11:13:40.262341+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2372,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:31.762469+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.506535+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2404,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.902425+00:00"
+      "_retrievedAt": "2026-09-04T11:13:40.260789+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2436,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.902814+00:00"
+      "_retrievedAt": "2026-09-04T11:13:40.261156+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2468,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:31.759873+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.504014+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2500,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.294919+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.889996+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2532,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:30.955561+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.235785+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2564,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:31.761257+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.505326+00:00"
     },
     {
       "id": "openalex-f64c9923322b",
@@ -2596,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:31.762763+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.506817+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2628,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:30.954815+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.235089+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2660,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:30.955233+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.235496+00:00"
     },
     {
       "id": "openalex-c3aaf692321e",
@@ -2692,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.299220+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.894112+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2724,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.294574+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.889641+00:00"
     },
     {
       "id": "openalex-ff18973ad306",
@@ -2756,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.296730+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.891721+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -2788,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.901651+00:00"
+      "_retrievedAt": "2026-09-04T11:13:40.260044+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -2820,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:31.761504+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.505569+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2852,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:30.954094+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.234415+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -2884,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:30.955844+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.236062+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2916,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.903192+00:00"
+      "_retrievedAt": "2026-09-04T11:13:40.261516+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2948,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.904491+00:00"
+      "_retrievedAt": "2026-09-04T11:13:40.262717+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
@@ -2980,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:31.759226+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.503417+00:00"
     },
     {
       "id": "openalex-c696aff78c58",
@@ -3012,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:30.956798+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.236950+00:00"
     },
     {
       "id": "openalex-33d4ca0564d8",
@@ -3044,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.297748+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.892672+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -3076,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.902049+00:00"
+      "_retrievedAt": "2026-09-04T11:13:40.260425+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -3108,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:30.956156+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.236361+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -3140,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:30.957271+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.237402+00:00"
     },
     {
       "id": "openalex-0fed25de6e90",
@@ -3172,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.296341+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.891367+00:00"
     },
     {
       "id": "openalex-fcbf1470edaa",
@@ -3204,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.903473+00:00"
+      "_retrievedAt": "2026-09-04T11:13:40.261763+00:00"
     },
     {
       "id": "openalex-218d85dc8916",
@@ -3236,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.904883+00:00"
+      "_retrievedAt": "2026-09-04T11:13:40.263106+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -3268,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:30.953104+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.233439+00:00"
     },
     {
       "id": "openalex-9542d06993f1",
@@ -3300,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.903787+00:00"
+      "_retrievedAt": "2026-09-04T11:13:40.262071+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -3332,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:30.952399+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.232736+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -3364,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.295995+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.891041+00:00"
     },
     {
       "id": "openalex-ef1b53780e96",
@@ -3396,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.298451+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.893353+00:00"
     },
     {
       "id": "openalex-9a5db7877473",
@@ -3428,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:30.953714+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.234036+00:00"
     },
     {
       "id": "openalex-c56ca7a563ce",
@@ -3460,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:30.951997+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.232333+00:00"
     },
     {
       "id": "openalex-256ec0eeb0dd",
@@ -3492,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.298075+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.893006+00:00"
     },
     {
       "id": "openalex-49732882293e",
@@ -3524,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.297026+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.892007+00:00"
     },
     {
       "id": "openalex-c591ec3e2c01",
@@ -3556,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.901333+00:00"
+      "_retrievedAt": "2026-09-04T11:13:40.259748+00:00"
     },
     {
       "id": "openalex-f24c80435674",
@@ -3588,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-04T04:27:32.298839+00:00"
+      "_retrievedAt": "2026-09-04T11:13:39.893726+00:00"
     }
   ]
 };
