@@ -1,11 +1,107 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-09-13T11:47:55.352327+00:00",
+  "generatedAt": "2026-09-13T16:14:46.509688+00:00",
   "total": 110,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-c13c98084298",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Protein restriction may trigger body-wide program linked to longer life",
+      "authors": "Medical Xpress",
+      "abstract": "A new perspective from LSU's Pennington Biomedical Research Center proposes a new way of understanding how dietary protein restriction may promote healthy aging and extend lifespan: through a coordinated physiological response that connects cellular nutrient sensing with hormones, the brain and changes throughout the body.",
+      "date": "2026-09-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-protein-restriction-trigger-body-wide.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "protein",
+        "restriction",
+        "trigger",
+        "body-wide",
+        "program",
+        "linked",
+        "longer",
+        "life"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-13T16:14:45.764144+00:00"
+    },
+    {
+      "id": "rss-a9af8a614178",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Early blood protein clues could identify children at risk of cardiometabolic disease",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at Vanderbilt Health, UTHealth Houston and the University of North Carolina at Chapel Hill have identified early signs of cardiovascular-kidney-metabolic disease (CKMD) in children as young as 8 years old that potentially can be reversed with a new class of weight-loss drugs widely used by adults.",
+      "date": "2026-09-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-early-blood-protein-clues-children.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "early",
+        "children",
+        "disease",
+        "blood",
+        "protein",
+        "clues",
+        "could",
+        "identify"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-13T16:14:45.764414+00:00"
+    },
+    {
+      "id": "rss-cdfb1233b117",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Smartphones could be used to screen for cataracts and other eye problems",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers have found a high level of agreement between cataract referral decisions based on smartphone images reviewed remotely and those made by ophthalmologists examining patients in person at rural eye camps.",
+      "date": "2026-09-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-smartphones-screen-cataracts-eye-problems.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "smartphones",
+        "could",
+        "used",
+        "screen",
+        "cataracts",
+        "other",
+        "problems",
+        "researchers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-13T16:14:45.764627+00:00"
+    },
     {
       "id": "rss-91b246b8579e",
       "discipline": "clinical",
@@ -36,7 +132,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.077806+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.764883+00:00"
     },
     {
       "id": "rss-0d01222d345a",
@@ -68,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.078106+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.765105+00:00"
     },
     {
       "id": "rss-201433a7874b",
@@ -100,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.078379+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.765343+00:00"
     },
     {
       "id": "rss-965cf5d3ae8f",
@@ -132,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.078634+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.765563+00:00"
     },
     {
       "id": "rss-a1cdadc16dfb",
@@ -164,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.078918+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.765818+00:00"
     },
     {
       "id": "rss-58d400405109",
@@ -196,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.079202+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.766059+00:00"
     },
     {
       "id": "rss-d3ac6677676e",
@@ -228,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.079463+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.766301+00:00"
     },
     {
       "id": "rss-cf27b82de904",
@@ -260,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.079739+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.766556+00:00"
     },
     {
       "id": "rss-d1bdf90028bd",
@@ -292,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.080016+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.766787+00:00"
     },
     {
       "id": "rss-ea8187a9595a",
@@ -324,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.080283+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.767040+00:00"
     },
     {
       "id": "rss-e16d6104396a",
@@ -356,103 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.080625+00:00"
-    },
-    {
-      "id": "rss-03f599cc47e7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Study suggests profile of people diagnosed with ADHD and autism has changed over the past decade",
-      "authors": "Medical Xpress",
-      "abstract": "A study led by the Barcelona Institute for Global Health (ISGlobal) and Aarhus University shows that children and adolescents diagnosed with attention-deficit/hyperactivity disorder (ADHD) or autism spectrum disorder (ASD) in Denmark today share more characteristics with their peers in the general population than those diagnosed a decade ago.",
-      "date": "2026-09-13",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-profile-people-adhd-autism-decade.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "diagnosed",
-        "adhd",
-        "autism",
-        "decade",
-        "disorder",
-        "suggests",
-        "profile",
-        "people"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.080882+00:00"
-    },
-    {
-      "id": "rss-10907371498f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "AI virtual cell uses protein dynamics to predict personalized breast cancer treatments",
-      "authors": "Medical Xpress",
-      "abstract": "Not all cancer cells are the same, and neither are their responses to drugs. Finding the right drug for the right cancer cell is a long battle in drug development and in designing effective treatments. A new AI tool called ProteinTalks makes this task easier by accurately predicting whether a drug will be effective against a cancer cell line, finding new drug combinations and identifying proteins linked to drug resistance.",
-      "date": "2026-09-13",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-ai-virtual-cell-protein-dynamics.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "drug",
-        "cancer",
-        "cell",
-        "treatments",
-        "finding",
-        "right",
-        "effective",
-        "virtual"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.081177+00:00"
-    },
-    {
-      "id": "rss-e4d9fbc6fb67",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Ketamine reveals shifting brain activity patterns linked to depression improvement in older adults",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at Texas A&M University's Naresh K. Vashisht College of Medicine have identified time-specific patterns of brain activity following ketamine treatment in older adults with treatment-resistant depression.",
-      "date": "2026-09-13",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-ketamine-reveals-shifting-brain-patterns.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ketamine",
-        "brain",
-        "activity",
-        "patterns",
-        "depression",
-        "older",
-        "adults",
-        "reveals"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.081414+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.767366+00:00"
     },
     {
       "id": "rss-ee98b6927121",
@@ -484,7 +484,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.099269+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.855152+00:00"
     },
     {
       "id": "rss-fd39dbebba89",
@@ -516,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.099486+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.855357+00:00"
     },
     {
       "id": "rss-08851bee78d5",
@@ -548,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.099652+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.855501+00:00"
     },
     {
       "id": "rss-edd9f760646c",
@@ -580,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.099852+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.855675+00:00"
     },
     {
       "id": "rss-b54a5121f67b",
@@ -612,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.100044+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.855811+00:00"
     },
     {
       "id": "rss-b48bab865684",
@@ -644,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.100208+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.855962+00:00"
     },
     {
       "id": "rss-d0705b066f62",
@@ -676,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.100367+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.856098+00:00"
     },
     {
       "id": "rss-76f8d754caaf",
@@ -708,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.100530+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.856235+00:00"
     },
     {
       "id": "rss-560326c6a7b3",
@@ -740,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.100817+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.856484+00:00"
     },
     {
       "id": "rss-aae96fe039d3",
@@ -772,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.100991+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.856612+00:00"
     },
     {
       "id": "rss-7dcdb7c08293",
@@ -804,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.141856+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.992665+00:00"
     },
     {
       "id": "rss-2c31b4ed8792",
@@ -836,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.101164+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.856746+00:00"
     },
     {
       "id": "rss-6f50979df3ae",
@@ -868,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.101332+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.856876+00:00"
     },
     {
       "id": "rss-a084a7eb8c7d",
@@ -900,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.101487+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.857018+00:00"
     },
     {
       "id": "rss-b6fcb6c74aaf",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.101656+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.857163+00:00"
     },
     {
       "id": "rss-77c91c056111",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.142078+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.992840+00:00"
     },
     {
       "id": "rss-4bb6898d3482",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.280061+00:00"
+      "_retrievedAt": "2026-09-13T16:14:46.225299+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.474342+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.225399+00:00"
     },
     {
       "id": "rss-54300972963a",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.280298+00:00"
+      "_retrievedAt": "2026-09-13T16:14:46.225515+00:00"
     },
     {
       "id": "rss-341504e67552",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.142241+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.993000+00:00"
     },
     {
       "id": "rss-e51d07a6b736",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.142425+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.993171+00:00"
     },
     {
       "id": "rss-40f54edf2446",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.280872+00:00"
+      "_retrievedAt": "2026-09-13T16:14:46.226106+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.470479+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.221741+00:00"
     },
     {
       "id": "rss-920fbd87ebe7",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.142598+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.993317+00:00"
     },
     {
       "id": "rss-212fba1ccc92",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.142755+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.993448+00:00"
     },
     {
       "id": "rss-7849fc211ef2",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.281248+00:00"
+      "_retrievedAt": "2026-09-13T16:14:46.226438+00:00"
     },
     {
       "id": "rss-eb2e1816547e",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.281691+00:00"
+      "_retrievedAt": "2026-09-13T16:14:46.226858+00:00"
     },
     {
       "id": "rss-8921f471d133",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.281942+00:00"
+      "_retrievedAt": "2026-09-13T16:14:46.227080+00:00"
     },
     {
       "id": "rss-86e8b2b3fe45",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.142905+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.993576+00:00"
     },
     {
       "id": "rss-210f19a3c800",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.143100+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.993710+00:00"
     },
     {
       "id": "rss-1912139c3820",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.143256+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.993840+00:00"
     },
     {
       "id": "rss-6afe29cd1ab2",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.143424+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.993996+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1508,7 +1508,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.765203+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.791608+00:00"
+    },
+    {
+      "id": "openalex-d78a9511ef89",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Time‐Aware UNet and Super‐Resolution Deep Residual Networks for Spatial Downscaling",
+      "authors": "Mika Sipilä, Sabrina Maggio, Sandra De Iaco, Klaus Nordhausen, Monica Palma, Sara Taskinen",
+      "abstract": "ABSTRACT Satellite observations of atmospheric pollutants are often available only at coarse spatial resolution, which limits their use in local‐scale environmental analysis. Spatial downscaling methods aim to transform such data into high‐resolution fields. In this work, two widely used deep learning architectures—the super‐resolution deep residual network (SRDRN) and the encoder–decoder‐based UNet—for spatial downscaling, are extended with a lightweight temporal module that encodes observation time using either sinusoidal or radial basis function representations and integrates temporal features with spatial information. The proposed time‐aware extensions are evaluated in a case study on ozone downscaling over Italy. Results show that, with only a minor increase in computational cost, incorporating temporal information significantly improves downscaling accuracy and accelerates model...",
+      "date": "2026-08-26",
+      "year": 2026,
+      "journal": "Environmetrics",
+      "source": "Environmetrics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1002/env.70134",
+      "doi": "10.1002/env.70134",
+      "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/env.70134",
+      "keywords": [
+        "Downscaling",
+        "Residual",
+        "Environmental science",
+        "Baseline (sea)",
+        "Convergence (economics)",
+        "Climate variability and models",
+        "Meteorological Phenomena and Simulations",
+        "Solar Radiation and Photovoltaics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 2,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-13T16:13:37.709203+00:00"
     },
     {
       "id": "rss-dcdf7d1c8cd0",
@@ -1540,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.143578+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.994129+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1572,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.188327+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.215714+00:00"
     },
     {
       "id": "rss-aeae30b99dc0",
@@ -1604,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.143731+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.994258+00:00"
     },
     {
       "id": "rss-fd216968fbb9",
@@ -1636,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.282246+00:00"
+      "_retrievedAt": "2026-09-13T16:14:46.227359+00:00"
     },
     {
       "id": "rss-da060db7124c",
@@ -1668,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.282693+00:00"
+      "_retrievedAt": "2026-09-13T16:14:46.227785+00:00"
     },
     {
       "id": "rss-2776ccb476cc",
@@ -1700,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.283252+00:00"
+      "_retrievedAt": "2026-09-13T16:14:46.228319+00:00"
     },
     {
       "id": "rss-b79fe6018e2d",
@@ -1732,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.283455+00:00"
+      "_retrievedAt": "2026-09-13T16:14:46.228496+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1764,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.583911+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.707455+00:00"
     },
     {
       "id": "rss-64d6d015a3c3",
@@ -1796,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.143915+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.994419+00:00"
     },
     {
       "id": "rss-33d77e1bca30",
@@ -1828,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:47:55.144113+00:00"
+      "_retrievedAt": "2026-09-13T16:14:45.994573+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1860,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.765536+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.791915+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1892,39 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.763764+00:00"
-    },
-    {
-      "id": "openalex-a0089f3bc951",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Examination of hydro climatic trend and drought analysis for climate resilience in the eastern escarpment of Abaya Chamo sub-basin, Rift Valley Lake Basin, Ethiopia",
-      "authors": "Muse Wldmchel Shomre, Muse Wldmchel Shomre, Dawit Yohannes Meskele, Yishak Beyene Moloro",
-      "abstract": "A robust assessment of hydroclimatic variability is critical for strengthening drought resilience and optimizing water resource management in climate-sensitive and data-limited regions. This study provides one of the first comprehensive integrated hydroclimatic analyses of the eastern escarpment of the Abaya-Chamo sub-basin, evaluating multi-decadal trends in rainfall, temperature, streamflow, and drought through the Mann-Kendall trend test, Indicators of Hydrologic Alteration (IHA), and drought indices derived using DrinC software. Rainfall trends were largely insignificant across five monitoring stations, except at Hagereselam station, which exhibited an upward trend. Maximum monthly temperatures increased significantly at all stations except Dilla, while minimum temperatures rose at Fisehagenet, Yirgachefe, and Hagereselam. Streamflow analysis at the Tore gauging station revealed e...",
-      "date": "2026-08-06",
-      "year": 2026,
-      "journal": "PLoS ONE",
-      "source": "PLoS ONE",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1371/journal.pone.0354913",
-      "doi": "10.1371/journal.pone.0354913",
-      "pdfUrl": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0354913&type=printable",
-      "keywords": [
-        "Escarpment",
-        "Structural basin",
-        "Rift",
-        "Geography",
-        "Geology",
-        "Rangeland Management and Livestock Ecology",
-        "Hydrology and Watershed Management Studies",
-        "Flood Risk Assessment and Management"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.585845+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.790330+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.764161+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.790647+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.475452+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.226416+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.760669+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.788555+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.580720+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.704398+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.581104+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.704735+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.472078+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.223269+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.763008+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.789641+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.765832+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.792215+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.474084+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.225161+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.471287+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.222516+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.764474+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.790951+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.185221+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.212777+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.584217+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.707722+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.766208+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.792527+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.582193+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.705808+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2436,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.582560+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.706193+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2468,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.763384+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.789978+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -2500,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.584658+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.708164+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2532,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.185774+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.213323+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2564,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.473154+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.224284+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2596,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.764834+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.791304+00:00"
     },
     {
       "id": "openalex-f64c9923322b",
@@ -2628,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.766501+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.792789+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2660,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.472412+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.223579+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2692,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.472830+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.223994+00:00"
     },
     {
       "id": "openalex-c3aaf692321e",
@@ -2724,7 +2724,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.189157+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.216499+00:00"
+    },
+    {
+      "id": "openalex-a29127dc905f",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Shear Wave Elastography in Musculoskeletal Imaging: A Narrative Review",
+      "authors": "Enes Gürün, Mesut Öztürk, Mustafa Başaran, Ahmet Emin Okutan",
+      "abstract": "Shear wave elastography (SWE) is an increasingly investigated ultrasound-based technique in musculoskeletal imaging that provides quantitative information on tissue stiffness and biomechanical properties. This narrative review aims to summarize the basic principles, technical considerations, current clinical applications, limitations, and future perspectives of SWE in musculoskeletal imaging. Unlike conventional grayscale and Doppler ultrasonography, which mainly assess morphology and vascularity, SWE may provide additional functional information in major musculoskeletal tissues, including tendons and ligaments, skeletal muscles, peripheral nerves, fibrocartilaginous structures, plantar fascia, and selected soft tissue lesions. Current evidence suggests potential roles for SWE in detecting early biomechanical alterations, assessing disease severity, differentiating symptomatic from as...",
+      "date": "2026-06-22",
+      "year": 2026,
+      "journal": "Journal of Clinical Medicine",
+      "source": "Journal of Clinical Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/jcm15124843",
+      "doi": "10.3390/jcm15124843",
+      "pdfUrl": "https://www.mdpi.com/2077-0383/15/12/4843/pdf?version=1782289561",
+      "keywords": [
+        "Medicine",
+        "Narrative review",
+        "Elastography",
+        "Asymptomatic",
+        "Soft tissue",
+        "Ultrasound Imaging and Elastography",
+        "Tendon Structure and Treatment",
+        "Foot and Ankle Surgery"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-13T16:13:37.216811+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2756,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.185428+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.212988+00:00"
     },
     {
       "id": "openalex-ff18973ad306",
@@ -2788,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.187609+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.215052+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -2820,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.581405+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.705052+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -2852,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.762432+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.789390+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2884,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.471691+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.222904+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -2916,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.473429+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.224542+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2948,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.189477+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.217140+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2980,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.582960+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.706554+00:00"
     },
     {
       "id": "openalex-e83a54581c00",
@@ -3012,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.189785+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.217434+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -3044,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.585074+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.708537+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
@@ -3072,11 +3104,11 @@ window.LIVE_FEED_DATA = {
         "Machine Learning in Bioinformatics"
       ],
       "readTime": "1 min",
-      "citedBy": 15,
+      "citedBy": 16,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.761977+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.789188+00:00"
     },
     {
       "id": "openalex-c696aff78c58",
@@ -3108,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.474626+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.225666+00:00"
     },
     {
       "id": "openalex-33d4ca0564d8",
@@ -3140,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.187976+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.215390+00:00"
     },
     {
       "id": "openalex-d767b74ad31a",
@@ -3172,39 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.188741+00:00"
-    },
-    {
-      "id": "openalex-93ba88b6125e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Nanomedicine in 2026: Illustrative Quantitative Analyses of EPR Heterogeneity, Clinical Trial Attrition, and Emerging Horizons for Active Nanotherapeutics",
-      "authors": "Sayed Mortaza Fayez",
-      "abstract": "2026 is a turning point for nanomedicine, marking the field's transition from decades of preclinical promise toward tangible clinical impact. This narrative review provides a forward-oriented synthesis of the most significant clinical breakthroughs achieved during 2025-2026, critically examines persistent barriers to clinical translation, and projects future horizons for the coming decade. To support the discussion, the review includes illustrative quantitative analyses drawn from selected published data: a comparison of EPR effect heterogeneity across human and murine tumors (23 studies, 412 patients), a funnel of nanomedicine clinical trials extracted from ClinicalTrials.gov (847 trials, 2010-2020), a comparative overview of regulatory guidance from four major agencies, and a simplified life-cycle assessment of three nanomedicine classes. These analyses are intended to highlight tre...",
-      "date": "2026-06-01",
-      "year": 2026,
-      "journal": "International Journal of Nanomedicine",
-      "source": "International Journal of Nanomedicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.2147/ijn.s618407",
-      "doi": "10.2147/ijn.s618407",
-      "pdfUrl": "https://www.dovepress.com/article/download/116224",
-      "keywords": [
-        "Nanomedicine",
-        "Clinical trial",
-        "Nanotechnology",
-        "Drug delivery",
-        "Medicine",
-        "Nanoplatforms for cancer theranostics",
-        "Nanoparticle-Based Drug Delivery",
-        "Radiopharmaceutical Chemistry and Applications"
-      ],
-      "readTime": "2 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.190238+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.216124+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -3236,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.581796+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.705444+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -3268,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.473737+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.224836+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -3300,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.475144+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.226131+00:00"
     },
     {
       "id": "openalex-0fed25de6e90",
@@ -3332,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.187235+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.214686+00:00"
     },
     {
       "id": "openalex-fcbf1470edaa",
@@ -3364,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.583227+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.706797+00:00"
     },
     {
       "id": "openalex-218d85dc8916",
@@ -3396,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.585461+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.708900+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -3428,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.470844+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.222137+00:00"
     },
     {
       "id": "openalex-9542d06993f1",
@@ -3460,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.583537+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.707099+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -3492,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:46.470120+00:00"
+      "_retrievedAt": "2026-09-13T16:13:36.221393+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -3524,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-13T11:46:47.186864+00:00"
+      "_retrievedAt": "2026-09-13T16:13:37.214354+00:00"
     }
   ]
 };
