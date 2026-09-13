@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-09-12T20:31:05.768712+00:00",
+  "generatedAt": "2026-09-13T04:43:19.463042+00:00",
   "total": 110,
   "sources": [
     "RSS",
@@ -7,13 +7,269 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
+      "id": "rss-965cf5d3ae8f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Training nurses like athletes",
+      "authors": "Medical Xpress",
+      "abstract": "Chandler Browning always dreamed of being part of The University of Texas at Arlington's nationally recognized nursing program and pursuing her goal of becoming a certified registered nurse anesthetist. Now in her first semester as a nursing student, she is experiencing firsthand UTA's latest innovation in nursing education: treating nurses as \"clinical athletes.\"",
+      "date": "2026-09-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-nurses-athletes.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nursing",
+        "nurses",
+        "athletes",
+        "training",
+        "like",
+        "chandler",
+        "browning",
+        "always"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-13T04:43:18.670017+00:00"
+    },
+    {
+      "id": "rss-a1cdadc16dfb",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Trial supports MRI surveillance over preventive brain radiation in small-cell lung cancer",
+      "authors": "Medical Xpress",
+      "abstract": "Results from the international phase 3 SWOG S1827 MAVERICK trial show that brain MRI surveillance alone improved cognitive failure-free survival compared with MRI surveillance plus prophylactic cranial irradiation (PCI) in patients with small-cell lung cancer (SCLC). The findings support MRI surveillance alone as the standard of care for patients with SCLC, according to research presented at the International Association for the Study of Lung Cancer (IASLC) 2026 World Conference on Lung Cancer (WCLC).",
+      "date": "2026-09-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-trial-mri-surveillance-brain-small.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "surveillance",
+        "lung",
+        "cancer",
+        "trial",
+        "brain",
+        "small-cell",
+        "international",
+        "alone"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-13T04:43:18.670337+00:00"
+    },
+    {
+      "id": "rss-58d400405109",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Ivonescimab significantly improves overall survival versus pembrolizumab in advanced lung cancer",
+      "authors": "Medical Xpress",
+      "abstract": "Ivonescimab significantly prolonged overall survival compared with pembrolizumab as first-line treatment for patients with PD-L1-positive advanced non-small cell lung cancer (NSCLC), according to a prespecified interim analysis of the phase 3 HARMONi-2 trial presented today at the IASLC 2026 World Conference on Lung Cancer.",
+      "date": "2026-09-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-ivonescimab-significantly-survival-pembrolizumab-advanced.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "lung",
+        "cancer",
+        "ivonescimab",
+        "significantly",
+        "overall",
+        "survival",
+        "pembrolizumab",
+        "advanced"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-13T04:43:18.670601+00:00"
+    },
+    {
+      "id": "rss-d3ac6677676e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Trial shows risvutatug rezetecan significantly improves overall survival in relapsed small-cell lung cancer",
+      "authors": "Medical Xpress",
+      "abstract": "Results from the randomized Phase III ARTEMIS-008 trial show that risvutatug rezetecan (Ris-Rez), a B7-H3-directed antibody-drug conjugate, significantly improved overall survival compared with topotecan in patients with relapsed small-cell lung cancer (SCLC) whose disease progressed on or after platinum-based chemotherapy. The findings were presented today at the IASLC 2026 World Conference on Lung Cancer (WCLC).",
+      "date": "2026-09-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-trial-risvutatug-rezetecan-significantly-survival.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "lung",
+        "cancer",
+        "trial",
+        "risvutatug",
+        "rezetecan",
+        "significantly",
+        "overall",
+        "survival"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-13T04:43:18.670896+00:00"
+    },
+    {
+      "id": "rss-cf27b82de904",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Combination therapy does not meet primary endpoints in first-line PD-L1-high metastatic non-small cell lung cancer",
+      "authors": "Medical Xpress",
+      "abstract": "Sacituzumab govitecan (SG) plus pembrolizumab did not demonstrate a statistically significant improvement in progression-free survival compared with pembrolizumab alone as first-line treatment for patients with metastatic non-small cell lung cancer (NSCLC) and a PD-L1 tumor proportion score (TPS) of 50% or greater, according to primary results from the phase 3 EVOKE-03/KEYNOTE-D46 trial presented at the International Association for the Study of Lung Cancer (IASLC) 2026 World Conference on Lung Cancer (WCLC).",
+      "date": "2026-09-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-combination-therapy-primary-endpoints-line.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "lung",
+        "cancer",
+        "primary",
+        "first-line",
+        "pd-l",
+        "metastatic",
+        "non-small",
+        "cell"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-13T04:43:18.671197+00:00"
+    },
+    {
+      "id": "rss-d1bdf90028bd",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Tam-Peli extends survival by nearly four months in relapsed small-cell lung cancer",
+      "authors": "Medical Xpress",
+      "abstract": "The phase 3 TAISHAN-302 trial found that tambotatug pelitecan (Tam-Peli, YL201), a novel anti-B7-H3 antibody-drug conjugate, significantly improved overall survival, progression-free survival and objective response rate compared with topotecan in patients with relapsed small-cell lung cancer (SCLC). The findings were presented at the International Association for the Study of Lung Cancer (IASLC) 2026 World Conference on Lung Cancer (WCLC).",
+      "date": "2026-09-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-tam-peli-survival-months-relapsed.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "lung",
+        "cancer",
+        "survival",
+        "tam-peli",
+        "relapsed",
+        "small-cell",
+        "extends",
+        "nearly"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-13T04:43:18.671468+00:00"
+    },
+    {
+      "id": "rss-ea8187a9595a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Simple perception test can accurately predict success of laser surgery for age-related vision loss",
+      "authors": "Medical Xpress",
+      "abstract": "Laser blended vision is a treatment for presbyopia, the natural deterioration of our ability to see things close up that develops in people 40 and older. This type of laser surgery aims to correct one eye for seeing clearly in the distance and the other for near vision. It relies on the brain's ability to coordinate both eyes for clear vision at all ranges, which most, but not all, people can do.",
+      "date": "2026-09-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-simple-perception-accurately-success-laser.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "vision",
+        "laser",
+        "surgery",
+        "ability",
+        "people",
+        "simple",
+        "perception",
+        "test"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-13T04:43:18.671741+00:00"
+    },
+    {
+      "id": "rss-e16d6104396a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Shedding new light on DNA repair in early human embryos, with implications for gene editing",
+      "authors": "Medical Xpress",
+      "abstract": "Treating inherited diseases is one of the greatest challenges in modern medicine. In the future, targeted gene corrections at the earliest stages of embryonic development could help prevent certain inherited diseases from developing and being passed on to future generations. However, the safety of such approaches depends on how human embryos repair the DNA damage caused during gene editing and on the limitations of available technologies. These questions are addressed in a study published in the journal Nature, led by first author Štěpán Jeřábek, who is affiliated with both Columbia University and IOCB Prague. The research also involved two other IOCB Prague scientists, Iva Pichová and Michal Doležal.",
+      "date": "2026-09-13",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-dna-early-human-embryos-implications.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "gene",
+        "repair",
+        "human",
+        "embryos",
+        "editing",
+        "inherited",
+        "diseases",
+        "future"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-13T04:43:18.672143+00:00"
+    },
+    {
       "id": "rss-03f599cc47e7",
       "discipline": "clinical",
       "type": "news",
       "title": "Study suggests profile of people diagnosed with ADHD and autism has changed over the past decade",
       "authors": "Medical Xpress",
       "abstract": "A study led by the Barcelona Institute for Global Health (ISGlobal) and Aarhus University shows that children and adolescents diagnosed with attention-deficit/hyperactivity disorder (ADHD) or autism spectrum disorder (ASD) in Denmark today share more characteristics with their peers in the general population than those diagnosed a decade ago.",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.369716+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.672415+00:00"
     },
     {
       "id": "rss-10907371498f",
@@ -45,7 +301,7 @@ window.LIVE_FEED_DATA = {
       "title": "AI virtual cell uses protein dynamics to predict personalized breast cancer treatments",
       "authors": "Medical Xpress",
       "abstract": "Not all cancer cells are the same, and neither are their responses to drugs. Finding the right drug for the right cancer cell is a long battle in drug development and in designing effective treatments. A new AI tool called ProteinTalks makes this task easier by accurately predicting whether a drug will be effective against a cancer cell line, finding new drug combinations and identifying proteins linked to drug resistance.",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.370004+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.672691+00:00"
     },
     {
       "id": "rss-e4d9fbc6fb67",
@@ -77,7 +333,7 @@ window.LIVE_FEED_DATA = {
       "title": "Ketamine reveals shifting brain activity patterns linked to depression improvement in older adults",
       "authors": "Medical Xpress",
       "abstract": "Researchers at Texas A&M University's Naresh K. Vashisht College of Medicine have identified time-specific patterns of brain activity following ketamine treatment in older adults with treatment-resistant depression.",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.370235+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.672960+00:00"
     },
     {
       "id": "rss-6165d6d5fd93",
@@ -109,7 +365,7 @@ window.LIVE_FEED_DATA = {
       "title": "New research reveals underlying mechanisms of eye inflammation",
       "authors": "Medical Xpress",
       "abstract": "A new study published in The American Journal of Pathology provides new evidence that immune cells enter the retina via the body's standard pathway, identifying PECAM as the gatekeeper and neutrophils as proresolving mediators. This research offers new insights into how eye inflammation develops and could lead to better-targeted treatment options.",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.370449+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.673211+00:00"
     },
     {
       "id": "rss-be1999d81774",
@@ -141,7 +397,7 @@ window.LIVE_FEED_DATA = {
       "title": "Wound-healing peptides curb bacterial colonization in cystic fibrosis airway models",
       "authors": "Medical Xpress",
       "abstract": "Cystic fibrosis, one of the most common genetic diseases in Switzerland, promotes chronic bacterial infections by impairing the protective barrier of the airways. Scientists at the University of Geneva (UNIGE) have discovered that this dysfunction is caused by the abnormal activation of a protein, connexin 43, which disrupts cellular organization and compromises the integrity of the airways.",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.370672+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.673468+00:00"
     },
     {
       "id": "rss-e26304fd5458",
@@ -173,7 +429,7 @@ window.LIVE_FEED_DATA = {
       "title": "Investigational EGFR x HER3 therapy supports Phase III dose after lung cancer trial",
       "authors": "Medical Xpress",
       "abstract": "An investigational EGFR x HER3 antibody-drug conjugate demonstrated promising efficacy with a tolerable safety profile in patients with previously treated EGFR-mutated non-small cell lung cancer (NSCLC), supporting selection of the 2.5 mg/kg dose for evaluation in the global Phase III IZABRIGHT-Lung01 registrational study.",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,263 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.370871+00:00"
-    },
-    {
-      "id": "rss-e2bf51a384c5",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Perioperative atezolizumab + chemotherapy more than doubles event-free survival in resectable stage II–IIIB NSCLC",
-      "authors": "Medical Xpress",
-      "abstract": "Patients with resectable stage II–IIIB non-small cell lung cancer (NSCLC) treated with perioperative atezolizumab plus platinum-based chemotherapy experienced a median event-free survival of 62.8 months compared with 34.9 months for patients receiving chemotherapy alone, according to final results from the Phase III IMpower030 trial.",
-      "date": "2026-09-12",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-perioperative-atezolizumab-chemotherapy-event-free.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "chemotherapy",
-        "perioperative",
-        "atezolizumab",
-        "event-free",
-        "survival",
-        "resectable",
-        "stage",
-        "iiib"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.371128+00:00"
-    },
-    {
-      "id": "rss-dd8c8e10141e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Local consolidative therapy does not improve survival after dual immunotherapy in metastatic NSCLC",
-      "authors": "Medical Xpress",
-      "abstract": "Adding local consolidative therapy (LCT) after induction treatment with nivolumab plus ipilimumab did not improve overall survival or progression-free survival in patients with metastatic non-small cell lung cancer (NSCLC), including those with oligometastatic disease, according to results presented at the International Association for the Study of Lung Cancer (IASLC) 2026 World Conference on Lung Cancer (WCLC).",
-      "date": "2026-09-12",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-local-therapy-survival-dual-immunotherapy.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "survival",
-        "lung",
-        "cancer",
-        "local",
-        "consolidative",
-        "therapy",
-        "improve",
-        "after"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.371352+00:00"
-    },
-    {
-      "id": "rss-814a89c467c8",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Pumitamig plus elfetabart drozuntecan shows encouraging early activity in small cell lung cancer",
-      "authors": "Medical Xpress",
-      "abstract": "The investigational combination of pumitamig and elfetabart drozuntecan (elfe-D) demonstrated a manageable safety profile and encouraging early antitumor activity in patients with small cell lung cancer (SCLC), according to first clinical data from the ongoing Phase Ib/II BNT324-01 trial presented at the International Association for the Study of Lung Cancer (IASLC) 2026 World Conference on Lung Cancer (WCLC).",
-      "date": "2026-09-12",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-pumitamig-ifinatamab-deruxtecan-early-small.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "lung",
-        "cancer",
-        "pumitamig",
-        "elfetabart",
-        "drozuntecan",
-        "encouraging",
-        "early",
-        "activity"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.371570+00:00"
-    },
-    {
-      "id": "rss-043cd39ded87",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Extended-interval tarlatamab dosing shows consistent activity and safety in previously treated small cell lung cancer",
-      "authors": "Medical Xpress",
-      "abstract": "Extended-interval dosing regimens of tarlatamab demonstrated efficacy, safety and pharmacokinetic profiles generally consistent with the established every-two-week regimen in patients with previously treated small cell lung cancer (SCLC), according to results from the randomized Phase II DeLLphi-309 study presented at the International Association for the Study of Lung Cancer (IASLC) 2026 World Conference on Lung Cancer (WCLC).",
-      "date": "2026-09-12",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-interval-tarlatamab-dosing-safety-previously.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "lung",
-        "cancer",
-        "extended-interval",
-        "tarlatamab",
-        "dosing",
-        "consistent",
-        "safety",
-        "previously"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.371794+00:00"
-    },
-    {
-      "id": "rss-e20464ae528b",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Subcutaneous tarlatamab shows favorable safety profile and antitumor activity in extensive-stage small cell lung cancer",
-      "authors": "Medical Xpress",
-      "abstract": "Subcutaneous administration of tarlatamab was well tolerated and demonstrated preliminary antitumor activity in patients with previously treated extensive-stage small cell lung cancer (ES-SCLC), according to findings from the phase 1b DeLLphi-308 study presented at the International Association for the Study of Lung Cancer (IASLC) 2026 World Conference on Lung Cancer (WCLC).",
-      "date": "2026-09-12",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-subcutaneous-tarlatamab-favorable-safety-profile.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "lung",
-        "cancer",
-        "subcutaneous",
-        "tarlatamab",
-        "antitumor",
-        "activity",
-        "extensive-stage",
-        "small"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.372006+00:00"
-    },
-    {
-      "id": "rss-142328f87278",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "PET/MRI improves presurgical lesion detection in pediatric epilepsy",
-      "authors": "Medical Xpress",
-      "abstract": "In children with difficult-to-diagnose epilepsy, PET/MRI can pinpoint areas of the brain responsible for seizures, even when MRI scans are negative or inconclusive. A new study of a large pediatric cohort, including children younger than 6, found that combining PET/MRI findings with EEG results and a structured presurgical evaluation improved the identification of seizure-causing brain tissue and informed treatment decisions. This research was published in the August issue of The Journal of Nuclear Medicine.",
-      "date": "2026-09-12",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-petmri-presurgical-lesion-pediatric-epilepsy.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "presurgical",
-        "pediatric",
-        "epilepsy",
-        "children",
-        "brain",
-        "improves",
-        "lesion",
-        "detection"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.372255+00:00"
-    },
-    {
-      "id": "rss-de9c50e0970f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Rheumatoid arthritis: Timely diagnosis and early treatment initiation are key determinants of prognosis",
-      "authors": "Medical Xpress",
-      "abstract": "Early, consistently managed treatment can have a decisive impact on the course of rheumatoid arthritis and prevent permanent joint damage. An international review led by Josef S. Smolen of the Medical University of Vienna highlights, based on current research, which diagnostic and therapeutic measures are crucial for a good outcome in patients with this disease.",
-      "date": "2026-09-12",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-rheumatoid-arthritis-diagnosis-early-treatment.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "rheumatoid",
-        "arthritis",
-        "early",
-        "treatment",
-        "timely",
-        "diagnosis",
-        "initiation",
-        "determinants"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.372472+00:00"
-    },
-    {
-      "id": "rss-f71d147a5fbf",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Trends reported in vaccination coverage for adolescents for 2025",
-      "authors": "Medical Xpress",
-      "abstract": "Diphtheria toxoid and acellular pertussis (Tdap) and quadrivalent meningococcal conjugate (MenACWY) vaccination coverage for adolescents remained around 90% in 2025, and human papillomavirus (HPV) vaccination did not increase for the fourth consecutive year, according to research published in the U.S. Centers for Disease Control and Prevention Morbidity and Mortality Weekly Report.",
-      "date": "2026-09-12",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-trends-vaccination-coverage-adolescents.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "vaccination",
-        "coverage",
-        "adolescents",
-        "trends",
-        "reported",
-        "diphtheria",
-        "toxoid",
-        "acellular"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.372677+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.673711+00:00"
     },
     {
       "id": "rss-ee98b6927121",
@@ -484,7 +484,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.408810+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.762528+00:00"
     },
     {
       "id": "rss-fd39dbebba89",
@@ -516,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.409010+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.762750+00:00"
     },
     {
       "id": "rss-08851bee78d5",
@@ -548,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.409170+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.762956+00:00"
     },
     {
       "id": "rss-edd9f760646c",
@@ -580,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.409333+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.763163+00:00"
     },
     {
       "id": "rss-b54a5121f67b",
@@ -612,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.409458+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.763326+00:00"
     },
     {
       "id": "rss-b48bab865684",
@@ -644,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.409583+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.763487+00:00"
     },
     {
       "id": "rss-d0705b066f62",
@@ -676,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.409706+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.763647+00:00"
     },
     {
       "id": "rss-76f8d754caaf",
@@ -708,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.409835+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.763811+00:00"
     },
     {
       "id": "rss-560326c6a7b3",
@@ -740,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.410088+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.764117+00:00"
     },
     {
       "id": "rss-aae96fe039d3",
@@ -772,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.410212+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.764273+00:00"
     },
     {
       "id": "rss-7dcdb7c08293",
@@ -804,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.451591+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.901981+00:00"
     },
     {
       "id": "rss-2c31b4ed8792",
@@ -836,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.410340+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.764438+00:00"
     },
     {
       "id": "rss-6f50979df3ae",
@@ -868,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.410464+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.764600+00:00"
     },
     {
       "id": "rss-a084a7eb8c7d",
@@ -900,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.410581+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.764754+00:00"
     },
     {
       "id": "rss-b6fcb6c74aaf",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.410709+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.764949+00:00"
     },
     {
       "id": "rss-77c91c056111",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.451748+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.902172+00:00"
     },
     {
       "id": "rss-4bb6898d3482",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.598019+00:00"
+      "_retrievedAt": "2026-09-13T04:43:19.274418+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:30:59.629671+00:00"
+      "_retrievedAt": "2026-09-13T04:42:30.649800+00:00"
     },
     {
       "id": "rss-54300972963a",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.598253+00:00"
+      "_retrievedAt": "2026-09-13T04:43:19.274657+00:00"
     },
     {
       "id": "rss-341504e67552",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.451873+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.902331+00:00"
     },
     {
       "id": "rss-e51d07a6b736",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.452044+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.902514+00:00"
     },
     {
       "id": "rss-40f54edf2446",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.598809+00:00"
+      "_retrievedAt": "2026-09-13T04:43:19.275348+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:30:59.626271+00:00"
+      "_retrievedAt": "2026-09-13T04:42:30.645902+00:00"
     },
     {
       "id": "rss-920fbd87ebe7",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.452187+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.902685+00:00"
     },
     {
       "id": "rss-212fba1ccc92",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.452309+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.902869+00:00"
     },
     {
       "id": "rss-7849fc211ef2",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.599130+00:00"
+      "_retrievedAt": "2026-09-13T04:43:19.275715+00:00"
     },
     {
       "id": "rss-eb2e1816547e",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.599526+00:00"
+      "_retrievedAt": "2026-09-13T04:43:19.276201+00:00"
     },
     {
       "id": "rss-8921f471d133",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.599732+00:00"
+      "_retrievedAt": "2026-09-13T04:43:19.276442+00:00"
     },
     {
       "id": "rss-86e8b2b3fe45",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.452424+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.903031+00:00"
     },
     {
       "id": "rss-210f19a3c800",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.452547+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.903196+00:00"
     },
     {
       "id": "rss-1912139c3820",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.452665+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.903354+00:00"
     },
     {
       "id": "rss-6afe29cd1ab2",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.452792+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.903522+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.019869+00:00"
+      "_retrievedAt": "2026-09-13T04:42:31.351462+00:00"
     },
     {
       "id": "rss-dcdf7d1c8cd0",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.452910+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.903679+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.546268+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.070931+00:00"
     },
     {
       "id": "rss-aeae30b99dc0",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.453037+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.903854+00:00"
     },
     {
       "id": "rss-fd216968fbb9",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.599990+00:00"
+      "_retrievedAt": "2026-09-13T04:43:19.276748+00:00"
     },
     {
       "id": "rss-da060db7124c",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.600404+00:00"
+      "_retrievedAt": "2026-09-13T04:43:19.277239+00:00"
     },
     {
       "id": "rss-2776ccb476cc",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.600858+00:00"
+      "_retrievedAt": "2026-09-13T04:43:19.277765+00:00"
     },
     {
       "id": "rss-b79fe6018e2d",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.601044+00:00"
+      "_retrievedAt": "2026-09-13T04:43:19.278000+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:01.059832+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.720413+00:00"
     },
     {
       "id": "rss-64d6d015a3c3",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.453195+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.904048+00:00"
     },
     {
       "id": "rss-33d77e1bca30",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:05.453381+00:00"
+      "_retrievedAt": "2026-09-13T04:43:18.904224+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.020173+00:00"
+      "_retrievedAt": "2026-09-13T04:42:31.351790+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.018681+00:00"
+      "_retrievedAt": "2026-09-13T04:42:31.350061+00:00"
     },
     {
       "id": "openalex-a0089f3bc951",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:01.061585+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.722370+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.018973+00:00"
+      "_retrievedAt": "2026-09-13T04:42:31.350399+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:30:59.630632+00:00"
+      "_retrievedAt": "2026-09-13T04:42:30.651009+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.016967+00:00"
+      "_retrievedAt": "2026-09-13T04:42:31.348146+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:01.057009+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.717164+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:01.057350+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.717536+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:30:59.627672+00:00"
+      "_retrievedAt": "2026-09-13T04:42:30.647464+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.018055+00:00"
+      "_retrievedAt": "2026-09-13T04:42:31.349328+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.020438+00:00"
+      "_retrievedAt": "2026-09-13T04:42:31.352121+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:30:59.629447+00:00"
+      "_retrievedAt": "2026-09-13T04:42:30.649540+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:30:59.626965+00:00"
+      "_retrievedAt": "2026-09-13T04:42:30.646662+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.019267+00:00"
+      "_retrievedAt": "2026-09-13T04:42:31.350701+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.543474+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.067781+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:01.060103+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.720711+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.020740+00:00"
+      "_retrievedAt": "2026-09-13T04:42:31.352456+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:01.058324+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.718655+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2436,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:01.058655+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.719046+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2468,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.018358+00:00"
+      "_retrievedAt": "2026-09-13T04:42:31.349672+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -2500,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:01.060509+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.721176+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2532,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.543982+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.068369+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2564,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:30:59.628633+00:00"
+      "_retrievedAt": "2026-09-13T04:42:30.648563+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2596,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.019585+00:00"
+      "_retrievedAt": "2026-09-13T04:42:31.351136+00:00"
     },
     {
       "id": "openalex-f64c9923322b",
@@ -2628,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.021000+00:00"
+      "_retrievedAt": "2026-09-13T04:42:31.352746+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2660,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:30:59.627953+00:00"
+      "_retrievedAt": "2026-09-13T04:42:30.647797+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2692,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:30:59.628367+00:00"
+      "_retrievedAt": "2026-09-13T04:42:30.648253+00:00"
     },
     {
       "id": "openalex-c3aaf692321e",
@@ -2724,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.546964+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.071736+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2756,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.543662+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.068021+00:00"
     },
     {
       "id": "openalex-ff18973ad306",
@@ -2788,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.545621+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.070208+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -2820,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:01.057618+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.717861+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -2852,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.017794+00:00"
+      "_retrievedAt": "2026-09-13T04:42:31.349055+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2884,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:30:59.627352+00:00"
+      "_retrievedAt": "2026-09-13T04:42:30.647093+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -2916,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:30:59.628867+00:00"
+      "_retrievedAt": "2026-09-13T04:42:30.648865+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -2948,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.547275+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.072086+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2980,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:01.058985+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.719428+00:00"
     },
     {
       "id": "openalex-e83a54581c00",
@@ -3012,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.547566+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.072393+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -3044,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:01.060862+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.721567+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
@@ -3076,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.017593+00:00"
+      "_retrievedAt": "2026-09-13T04:42:31.348808+00:00"
     },
     {
       "id": "openalex-c696aff78c58",
@@ -3108,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:30:59.629919+00:00"
+      "_retrievedAt": "2026-09-13T04:42:30.650120+00:00"
     },
     {
       "id": "openalex-33d4ca0564d8",
@@ -3140,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.545943+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.070563+00:00"
     },
     {
       "id": "openalex-d767b74ad31a",
@@ -3172,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.546625+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.071352+00:00"
     },
     {
       "id": "openalex-93ba88b6125e",
@@ -3204,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.547957+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.072826+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -3236,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:01.057968+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.718269+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -3268,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:30:59.629157+00:00"
+      "_retrievedAt": "2026-09-13T04:42:30.649205+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -3300,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:30:59.630362+00:00"
+      "_retrievedAt": "2026-09-13T04:42:30.650597+00:00"
     },
     {
       "id": "openalex-0fed25de6e90",
@@ -3332,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.545284+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.069816+00:00"
     },
     {
       "id": "openalex-fcbf1470edaa",
@@ -3364,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:01.059228+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.719697+00:00"
     },
     {
       "id": "openalex-218d85dc8916",
@@ -3396,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:01.061226+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.721972+00:00"
     },
     {
       "id": "openalex-fa98d117320f",
@@ -3428,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:30:59.626613+00:00"
+      "_retrievedAt": "2026-09-13T04:42:30.646277+00:00"
     },
     {
       "id": "openalex-9542d06993f1",
@@ -3460,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:01.059498+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.720036+00:00"
     },
     {
       "id": "openalex-6ec2090c6af0",
@@ -3492,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:30:59.625896+00:00"
+      "_retrievedAt": "2026-09-13T04:42:30.645511+00:00"
     },
     {
       "id": "openalex-6f0bebdd8d63",
@@ -3524,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-12T20:31:00.544956+00:00"
+      "_retrievedAt": "2026-09-13T04:42:32.069466+00:00"
     }
   ]
 };
