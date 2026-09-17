@@ -1,458 +1,586 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-09-17T11:37:06.389508+00:00",
-  "total": 96,
+  "generatedAt": "2026-09-17T16:57:07.613556+00:00",
+  "total": 111,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
     {
-      "id": "rss-47921dfc8c16",
+      "id": "rss-cb0bbb960cdb",
       "discipline": "clinical",
       "type": "news",
-      "title": "Most Australians doubt health system is ready for climate-related emergencies, national survey finds",
+      "title": "Standing heart rates reveal overlap between long COVID and POTS",
       "authors": "Medical Xpress",
-      "abstract": "Most Australians recognize climate change as a serious national issue, and many believe it poses a serious risk to their personal health, according to new research led by the Australian Institute of Health Innovation (AIHI) at Macquarie University and published in the Medical Journal of Australia.",
+      "abstract": "Dizziness, fatigue, brain fog and a racing heart. They're commonly associated with long COVID, but new Adelaide University research suggests that for some people, these symptoms may also be indications of postural orthostatic tachycardia syndrome (POTS), a debilitating and difficult-to-diagnose condition.",
       "date": "2026-09-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-australians-health-ready-climate-emergencies.html",
+      "url": "https://medicalxpress.com/news/2026-09-heart-reveal-overlap-covid-pots.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
+        "heart",
+        "long",
+        "covid",
+        "pots",
+        "standing",
+        "rates",
+        "reveal",
+        "overlap"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:57:07.152550+00:00"
+    },
+    {
+      "id": "rss-a3c1f3ae1026",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Decades of male‑focused medical research could bias health care AI",
+      "authors": "Medical Xpress",
+      "abstract": "Many people will learn CPR using a flat-chested manikin. A 2024 study of 20 models of CPR manikins sold worldwide found that three-quarters were described as male or had no sex specified. Of the 20, only one offered a breast overlay.",
+      "date": "2026-09-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-decades-malefocused-medical-bias-health.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "male",
+        "decades",
+        "focused",
+        "medical",
+        "could",
+        "bias",
         "health",
-        "most",
-        "australians",
-        "national",
-        "serious",
-        "doubt",
-        "system",
-        "ready"
+        "care"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:05.976685+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.152836+00:00"
     },
     {
-      "id": "rss-a89da355ddc8",
+      "id": "rss-c107ccd23ca3",
       "discipline": "clinical",
       "type": "news",
-      "title": "Smooth-gradient fMRI technique could improve brain mapping during behavior",
+      "title": "The aging brain is not declining. It's adapting, say researchers",
       "authors": "Medical Xpress",
-      "abstract": "Neuroscientists and medical researchers now have a wide range of imaging techniques to study the brain and its activity. One of the most widely used is functional magnetic resonance imaging (fMRI), a noninvasive technique that detects blood-related changes associated with neural activity.",
+      "abstract": "The aging brain is often viewed through a lens of cognitive decline, with older adults seen as compensating for their fading memory. New research in Perspectives on Psychological Science challenges that view. Drawing evidence from molecular biology and neuroimaging, researchers at the University of Arizona argue that late-life cognition is a natural phase of human development, one that prioritizes wisdom over details.",
       "date": "2026-09-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-smooth-gradient-fmri-technique-brain.html",
+      "url": "https://medicalxpress.com/news/2026-09-aging-brain-declining.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "fmri",
-        "technique",
-        "brain",
-        "imaging",
-        "activity",
-        "smooth-gradient",
-        "could",
-        "improve"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:05.976899+00:00"
-    },
-    {
-      "id": "rss-1f65502303b0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Greater access to help needed for women with nausea during pregnancy",
-      "authors": "Medical Xpress",
-      "abstract": "Medical assistance can help women suffering from severe nausea and vomiting during pregnancy, but insufficient recognition of hyperemesis gravidarum (HG) means many are not getting the help they need to overcome this severe and debilitating form of morning sickness.",
-      "date": "2026-09-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-greater-access-women-nausea-pregnancy.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "help",
-        "women",
-        "nausea",
-        "during",
-        "pregnancy",
-        "severe",
-        "greater",
-        "access"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:05.977070+00:00"
-    },
-    {
-      "id": "rss-51d867d1dc55",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New way to assess pace of aging could accelerate anti-aging breakthroughs",
-      "authors": "Medical Xpress",
-      "abstract": "Twelve candidate indicators, based on studies in mice, could make developing anti-aging interventions faster—while offering new insights into age-related diseases.",
-      "date": "2026-09-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-pace-aging-anti-breakthroughs.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "could",
-        "anti-aging",
-        "assess",
-        "pace",
+        "that",
         "aging",
-        "accelerate",
-        "breakthroughs",
-        "twelve"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:05.977238+00:00"
-    },
-    {
-      "id": "rss-ea31e1eb9cc2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Anti-seizure drug fights aggressive childhood brain tumors, study shows",
-      "authors": "Medical Xpress",
-      "abstract": "An existing anti-seizure drug slows the growth of a devastating group of childhood cancers, new Stanford Medicine-led research has shown. The tumors, called diffuse midline gliomas, strike the brain and spinal cord. They affect 300 to 400 U.S. children per year and have a five-year survival rate of about 1%.",
-      "date": "2026-09-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-anti-seizure-drug-aggressive-childhood.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "anti-seizure",
-        "drug",
-        "childhood",
         "brain",
-        "tumors",
-        "fights",
-        "aggressive",
-        "shows"
+        "researchers",
+        "declining",
+        "adapting",
+        "often",
+        "viewed"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:05.977413+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.153118+00:00"
     },
     {
-      "id": "rss-b1f0202ce2ca",
+      "id": "rss-31ce3ff11e1f",
       "discipline": "clinical",
       "type": "news",
-      "title": "Intermittent fasting shows promise in slowing Huntington's disease progression",
+      "title": "Women's kidney health may be overlooked, delaying critical prevention and treatment opportunities",
       "authors": "Medical Xpress",
-      "abstract": "A simple change in when people eat may offer a promising new approach for Huntington's disease, according to research led by Oregon Health & Science University.",
+      "abstract": "Chronic kidney disease (CKD) affects about 1 in 10 women worldwide, yet diagnosis is often delayed and women are less likely to receive critical treatments like dialysis or a kidney transplant compared with men, according to a new American Heart Association scientific statement published today in the journal Circulation.",
       "date": "2026-09-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-intermittent-fasting-huntington-disease.html",
+      "url": "https://medicalxpress.com/news/2026-09-women-kidney-health-overlooked-delaying.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "huntington",
-        "disease",
-        "intermittent",
-        "fasting",
-        "shows",
-        "promise",
-        "slowing",
-        "progression"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:05.977567+00:00"
-    },
-    {
-      "id": "rss-2ffff6582950",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Fiji declares national HIV crisis",
-      "authors": "Medical Xpress",
-      "abstract": "Fiji has declared a national HIV crisis as sexual transmission and illicit drug use help spread the virus, now infecting an estimated one in 60 adults in the Pacific nation.",
-      "date": "2026-09-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-fiji-declares-national-hiv-crisis.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "fiji",
-        "national",
-        "crisis",
-        "declares",
-        "declared",
-        "sexual",
-        "transmission",
-        "illicit"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:05.977713+00:00"
-    },
-    {
-      "id": "rss-ba46b956ebd6",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Study finds irritability long after concussions in veterans is linked to PTSD, chronic pain and hearing difficulties",
-      "authors": "Medical Xpress",
-      "abstract": "New research from the CU Anschutz Marcus Institute for Brain Health shows that irritability is strongly associated with post-traumatic stress disorder (PTSD) symptoms, chronic pain and difficulty understanding speech in noisy environments among military veterans with chronic mild traumatic brain injury (mTBI), or concussion.",
-      "date": "2026-09-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-concussions-veterans-linked-ptsd-chronic.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "chronic",
-        "irritability",
-        "veterans",
-        "ptsd",
-        "pain",
-        "brain",
-        "finds",
-        "long"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:05.977904+00:00"
-    },
-    {
-      "id": "rss-9a0a93617ef3",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "More than half of Americans have been victims of violence, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "The number of Americans who have personally been victims of physical or sexual violence is much higher than one might think, a new report says. More than half of U.S. adults have experienced physical violence in their lifetimes, and nearly half have experienced sexual violence, researchers found.",
-      "date": "2026-09-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-americans-victims-violence.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "have",
-        "violence",
-        "than",
-        "half",
-        "more",
-        "americans",
-        "been",
-        "victims"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:05.978070+00:00"
-    },
-    {
-      "id": "rss-1fe035d6c14e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Global sexual and reproductive health and rights under threat, warn experts",
-      "authors": "Medical Xpress",
-      "abstract": "As world leaders gather at the 81st session of the U.N. General Assembly (UNGA 81), experts in a special collection of articles published by The BMJ warn that the proposed merger of U.N. Women and the U.N. Population Fund (UNFPA)—two vital institutions for protecting sexual and reproductive health and rights (SRHR)—will weaken global commitments to gender equality.",
-      "date": "2026-09-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-global-sexual-reproductive-health-rights.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "global",
-        "sexual",
-        "reproductive",
+        "women",
+        "kidney",
+        "critical",
         "health",
-        "rights",
-        "warn",
-        "experts",
-        "under"
+        "overlooked",
+        "delaying",
+        "prevention",
+        "treatment"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:05.978260+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.153379+00:00"
     },
     {
-      "id": "rss-bd3aefd9a6ff",
+      "id": "rss-157c0901a654",
       "discipline": "clinical",
       "type": "news",
-      "title": "Genetic risk for PTSD may vary depending on the type of trauma experienced, large study suggests",
+      "title": "The body's warmth sensor is secretly a pain switch—blocking it may ease arthritis",
       "authors": "Medical Xpress",
-      "abstract": "A study reveals that your genes may make you more vulnerable to post-traumatic stress disorder (PTSD) from certain types of trauma—particularly childhood neglect—than from others.",
+      "abstract": "Chronic pain, including arthritis pain, affects more than one-third of U.K. adults. Current painkillers such as methotrexate and nonsteroidal anti-inflammatory drugs (NSAIDs) work by damping down the immune system, which is overproducing inflammatory agents that cause pain, but relief is often short-lived and incomplete, and they can leave patients more vulnerable to infection.",
       "date": "2026-09-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-genetic-ptsd-vary-trauma-experienced.html",
+      "url": "https://medicalxpress.com/news/2026-09-body-warmth-sensor-secretly-pain.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "ptsd",
-        "trauma",
-        "genetic",
-        "risk",
-        "vary",
-        "depending",
-        "type",
-        "experienced"
+        "pain",
+        "arthritis",
+        "more",
+        "body",
+        "warmth",
+        "sensor",
+        "secretly",
+        "switch"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:05.978417+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.153697+00:00"
     },
     {
-      "id": "rss-b57886929595",
+      "id": "rss-599c1ebf8bb7",
       "discipline": "clinical",
       "type": "news",
-      "title": "Nearly a decade of research strengthens the case for vitamin D in pregnancy",
+      "title": "Using 'neurodivergent' as a catch‑all term is problematic—here's why",
       "authors": "Medical Xpress",
-      "abstract": "A common and often overlooked nutrient deficiency may play a bigger role in pregnancy outcomes than previously recognized. In a recent analysis published in the Journal of Perinatology, neonatologist and pediatrician Carol L. Wagner, M.D., and Anjali G. Borsum, an M.D. candidate at MUSC's College of Medicine, found that among more than 15,000 pregnancies studied at MUSC, women with the lowest vitamin D levels faced the highest risk of preterm birth.",
+      "abstract": "The term \"neurodivergent\" is being used more and more often in everyday conversation, on social media and even in scientific research.",
       "date": "2026-09-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-decade-case-vitamin-d-pregnancy.html",
+      "url": "https://medicalxpress.com/news/2026-09-neurodivergent-catchall-term-problematic.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "vitamin",
-        "pregnancy",
+        "neurodivergent",
+        "term",
+        "more",
+        "catch",
+        "problematic",
+        "here",
+        "being",
+        "used"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:57:07.153927+00:00"
+    },
+    {
+      "id": "rss-25983d223d34",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Cancer biologists bring in the B-cell reinforcements for immunotherapy",
+      "authors": "Medical Xpress",
+      "abstract": "Cancer is the second-leading cause of death in the United States, according to a 2026 Cancer Research Institute report. Cancer biologists are keenly aware of this statistic, as it drives innovations that revolutionize cancer care—innovations like immunotherapy. Immunotherapy fights cancer using the body's own immune system, often by boosting the performance of specialized adaptive immune cells called T cells.",
+      "date": "2026-09-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-cancer-biologists-cell-immunotherapy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "immunotherapy",
+        "biologists",
+        "innovations",
+        "immune",
+        "cells",
+        "bring",
+        "b-cell"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:57:07.154216+00:00"
+    },
+    {
+      "id": "rss-9585afd595e4",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Boosted Bacille Calmette-Guérin vaccine strategy significantly reduces tuberculosis relapse, scientists find",
+      "authors": "Medical Xpress",
+      "abstract": "Tuberculosis (TB) remains one of the world's leading causes of death, and preventing post-treatment relapse continues to be a major global health challenge. But a new study led by scientists at the Hackensack Meridian Center for Discovery and Innovation (CDI) reveals that combining an immunotherapy with the traditional Bacille Calmette-Guérin (BCG) vaccine drastically lowers the risk of TB relapse in preclinical models.",
+      "date": "2026-09-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-boosted-bacille-calmette-gurin-vaccine.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "relapse",
+        "bacille",
+        "calmette-gu",
+        "vaccine",
+        "tuberculosis",
+        "scientists",
+        "boosted",
+        "strategy"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:57:07.154521+00:00"
+    },
+    {
+      "id": "rss-f5e62c1ad4e1",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Wildfire smoke may be more harmful than other air pollution, two studies find",
+      "authors": "Medical Xpress",
+      "abstract": "As climate change drives more frequent and intense wildfires, researchers at the Icahn School of Medicine at Mount Sinai have published two large-scale studies showing that wildfire smoke may pose greater health risks than other sources of air pollution, with higher risks of hospitalization for cardiovascular and respiratory disease and poorer survival among patients with lung cancer.",
+      "date": "2026-09-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-wildfire-air-pollution.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "wildfire",
+        "smoke",
+        "more",
         "than",
-        "musc",
-        "nearly",
-        "decade",
-        "strengthens",
-        "case"
+        "other",
+        "pollution",
+        "studies",
+        "risks"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:05.978617+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.154784+00:00"
     },
     {
-      "id": "rss-77148bd7d2df",
+      "id": "rss-3f079a6d87ae",
       "discipline": "clinical",
       "type": "news",
-      "title": "Simple urine test could guide kidney-protective treatment choices in type 2 diabetes",
+      "title": "If you're on GLP‑1 drugs and plan to fast for Yom Kippur, here's what you need to know",
       "authors": "Medical Xpress",
-      "abstract": "Type 2 diabetes increases the risk of chronic kidney disease, making prevention of kidney failure a key part of treatment. Newer diabetes medications, including GLP-1s and SGLT2 inhibitors, can reduce the risk of kidney disease, but previous studies have included large proportions of patients who already had signs of kidney damage, making it unclear whether the findings applied to patients without kidney damage.",
+      "abstract": "Millions of people worldwide—as many as 1 in 8 adults in the U.S.—are taking GLP-1 medications, such as Ozempic, Mounjaro, Wegovy and Zepbound, to treat diabetes or for weight loss.",
       "date": "2026-09-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-simple-urine-kidney-treatment-choices.html",
+      "url": "https://medicalxpress.com/news/2026-09-youre-glp1-drugs-fast-yom.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "drugs",
+        "plan",
+        "fast",
+        "kippur",
+        "here",
+        "what",
+        "need",
+        "know"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:57:07.155023+00:00"
+    },
+    {
+      "id": "rss-f07d50a4c318",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Early-adult BMI may lower postmenopausal breast cancer risk through breast density",
+      "authors": "Medical Xpress",
+      "abstract": "Women with a higher body mass index (BMI) in early adulthood may have a lower risk of developing breast cancer after menopause because of lasting changes in the structure of their breast tissue, according to researchers at The University of Manchester and Manchester University NHS Foundation Trust.",
+      "date": "2026-09-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-early-adult-bmi-postmenopausal-breast.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "breast",
+        "lower",
+        "cancer",
+        "risk",
+        "university",
+        "manchester",
+        "early-adult",
+        "postmenopausal"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:57:07.155266+00:00"
+    },
+    {
+      "id": "rss-ebf6199ebb28",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Women experience less pain during IUD insertion using a new method",
+      "authors": "Medical Xpress",
+      "abstract": "A simple method involving local anesthesia in the uterus can reduce pain during IUD insertion, according to a new study from Karolinska Institutet, published in the journal JAMA. The method also increased the proportion of women who found the procedure tolerable. The results may encourage more women to choose an IUD as a contraceptive method.",
+      "date": "2026-09-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-women-pain-iud-insertion-method.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "method",
+        "women",
+        "pain",
+        "during",
+        "insertion",
+        "experience",
+        "less",
+        "simple"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:57:07.155537+00:00"
+    },
+    {
+      "id": "rss-d5a1e1c6378a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Tumor profiling reveals enzyme as a candidate target in aggressive brain cancer",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at the Icahn School of Medicine at Mount Sinai and collaborators have identified candidate treatment targets and potential prognostic markers for high-grade glioma, an aggressive brain cancer, in children, adolescents and young adults.",
+      "date": "2026-09-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-tumor-profiling-reveals-enzyme-candidate.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "candidate",
+        "aggressive",
+        "brain",
+        "cancer",
+        "tumor",
+        "profiling",
+        "reveals",
+        "enzyme"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:57:07.155767+00:00"
+    },
+    {
+      "id": "rss-3d23080fb36b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Stem cell model of diabetic kidney disease identifies inflammation as a therapeutic target",
+      "authors": "Medical Xpress",
+      "abstract": "Stem cell researchers have identified inflammatory pathways that may play a key role in driving kidney damage in diabetic kidney disease (DKD), pointing to potential new approaches for protecting the kidneys. Using stem cell-derived kidney organoids, Dr. Benjamin Freedman and colleagues from the University of Washington found that exposure to high sugar levels triggered inflammation and disrupted the organoids' typical kidney tissue-like structure, causing individual kidney cells to detach. These changes were reminiscent of those observed in kidney biopsies and urine samples from patients with DKD. The research was published today in the journal Stem Cell Reports.",
+      "date": "2026-09-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-stem-cell-diabetic-kidney-disease.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "kidney",
-        "diabetes",
-        "treatment",
-        "type",
-        "risk",
+        "stem",
+        "cell",
+        "diabetic",
         "disease",
-        "making",
-        "patients"
+        "inflammation",
+        "that",
+        "organoids"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:05.978819+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.156074+00:00"
     },
     {
-      "id": "rss-161223a41fca",
-      "discipline": "clinical",
+      "id": "rss-35476f0782e7",
+      "discipline": "cs",
       "type": "news",
-      "title": "US officials sidelined warnings about flawed COVID vaccine safety algorithm, investigation finds",
-      "authors": "Medical Xpress",
-      "abstract": "U.S. health officials knowingly relied on a compromised algorithm to detect signals of harm from mRNA COVID-19 vaccines and silenced efforts to fix it, finds an investigation published by The BMJ today.",
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "authors": "TechCrunch AI",
+      "abstract": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
       "date": "2026-09-17",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-sidelined-flawed-covid-vaccine-safety.html",
+      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "officials",
-        "algorithm",
-        "investigation",
-        "finds",
-        "sidelined",
-        "warnings",
-        "about",
-        "flawed"
+        "huawei",
+        "launch",
+        "chip",
+        "nvidia",
+        "plans",
+        "takes",
+        "accelerating",
+        "next-generation"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:05.978975+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.192833+00:00"
+    },
+    {
+      "id": "rss-1347f253ec2a",
+      "discipline": "cs",
+      "type": "news",
+      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+      "authors": "TechCrunch AI",
+      "abstract": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "date": "2026-09-17",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "days",
+        "left",
+        "exhibit",
+        "disrupt",
+        "your",
+        "techcrunch",
+        "last",
+        "book"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:57:07.193070+00:00"
+    },
+    {
+      "id": "rss-a5ee7fb885d6",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "authors": "TechCrunch AI",
+      "abstract": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+      "date": "2026-09-17",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "make",
+        "rival",
+        "agents",
+        "instinct",
+        "meta",
+        "muse",
+        "both",
+        "ability"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:57:07.193249+00:00"
+    },
+    {
+      "id": "rss-53c5c19732a9",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "authors": "TechCrunch AI",
+      "abstract": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+      "date": "2026-09-17",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "nvidia",
+        "anthropic",
+        "emerald",
+        "find",
+        "grid",
+        "centers",
+        "want"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:57:07.193419+00:00"
     },
     {
       "id": "rss-9816138b459e",
@@ -460,7 +588,7 @@ window.LIVE_FEED_DATA = {
       "type": "news",
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
       "authors": "TechCrunch AI",
-      "abstract": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "abstract": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
       "date": "2026-09-17",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -484,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.026178+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.193597+00:00"
     },
     {
       "id": "rss-84191864446f",
@@ -516,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.026395+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.193830+00:00"
     },
     {
       "id": "rss-d42fda3b7a71",
@@ -548,7 +676,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.026512+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.193989+00:00"
+    },
+    {
+      "id": "rss-188abdd7fd48",
+      "discipline": "geo",
+      "type": "news",
+      "title": "The Great Miami Hurricane of 1926: A century of science advancing warnings from hours to days",
+      "authors": "NOAA News",
+      "abstract": "The Great Miami Hurricane of 1926: A century of science advancing warnings from hours to days (Image credit: Courtesy of the Museum of Miami) Download Image September 17, 2026 Weather Research history hurricanes forecasts advisories, watches, warnings 0 Off",
+      "date": "2026-09-17",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/stories/great-miami-hurricane-of-1926-century-of-science-advancing-warnings-from-hours-to-days",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "miami",
+        "warnings",
+        "great",
+        "hurricane",
+        "century",
+        "advancing",
+        "hours",
+        "days"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:57:07.481951+00:00"
     },
     {
       "id": "rss-7ca49fd1fa32",
@@ -580,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.026640+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.194183+00:00"
     },
     {
       "id": "rss-655b214fa25c",
@@ -612,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.026756+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.194357+00:00"
     },
     {
       "id": "rss-24b2c030583c",
@@ -644,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.026879+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.194538+00:00"
     },
     {
       "id": "rss-1551b4fe293e",
@@ -676,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.026985+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.194707+00:00"
     },
     {
       "id": "rss-a0e6e1f2b89d",
@@ -708,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.027102+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.194881+00:00"
     },
     {
       "id": "rss-576d7c6c16ff",
@@ -740,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.027196+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.195028+00:00"
     },
     {
       "id": "rss-8ae2aece97ff",
@@ -772,135 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.027325+00:00"
-    },
-    {
-      "id": "rss-17f3dc284c17",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Threads’ new features let podcasters promote shows and reach listeners",
-      "authors": "TechCrunch AI",
-      "abstract": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
-      "date": "2026-09-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "threads",
-        "podcasters",
-        "features",
-        "promote",
-        "shows",
-        "reach",
-        "listeners",
-        "rolling"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.027449+00:00"
-    },
-    {
-      "id": "rss-ce8507b369c8",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-      "authors": "TechCrunch AI",
-      "abstract": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
-      "date": "2026-09-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "startup",
-        "next",
-        "judging",
-        "battlefield",
-        "contenders",
-        "techcrunch",
-        "disrupt",
-        "wave"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.027567+00:00"
-    },
-    {
-      "id": "rss-894c05fdbc41",
-      "discipline": "cs",
-      "type": "news",
-      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-      "authors": "TechCrunch AI",
-      "abstract": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "date": "2026-09-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "your",
-        "days",
-        "left",
-        "exhibit",
-        "front",
-        "disrupt",
-        "brand",
-        "high-value"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.027692+00:00"
-    },
-    {
-      "id": "rss-6641b0f5f0da",
-      "discipline": "cs",
-      "type": "news",
-      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-      "authors": "TechCrunch AI",
-      "abstract": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
-      "date": "2026-09-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hynix",
-        "reportedly",
-        "talks",
-        "intel",
-        "build",
-        "memory",
-        "chips",
-        "told"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.027813+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.195222+00:00"
     },
     {
       "id": "rss-a74392b37559",
@@ -932,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.063828+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.287197+00:00"
     },
     {
       "id": "rss-040fa3bc1672",
@@ -964,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.063953+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.287366+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -996,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:55.830804+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.492150+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1028,15 +1060,15 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.308099+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.482207+00:00"
     },
     {
-      "id": "rss-1b38bb2ada9b",
+      "id": "rss-b0ad43b43ecb",
       "discipline": "geo",
       "type": "news",
-      "title": "Pelican rescued at NOAA Fisheries lab",
+      "title": "Knocking for help: A pelican’s unlikely rescue",
       "authors": "NOAA News",
-      "abstract": "Pelican rescued at NOAA Fisheries lab (Image credit: NOAA Fisheries) Download Image September 15, 2026 Fisheries 0 Off",
+      "abstract": "Knocking for help: A pelican’s unlikely rescue (Image credit: NOAA Fisheries) Download Image September 15, 2026 Fisheries wildlife fish coastal ecosystems 0 Off",
       "date": "2026-09-15",
       "year": 2026,
       "journal": "NOAA News",
@@ -1046,21 +1078,21 @@ window.LIVE_FEED_DATA = {
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "fisheries",
-        "noaa",
+        "knocking",
+        "help",
         "pelican",
-        "rescued",
+        "unlikely",
+        "rescue",
         "image",
-        "credit",
-        "download",
-        "september"
+        "fisheries",
+        "credit"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.308231+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.482421+00:00"
     },
     {
       "id": "rss-3975041a07bd",
@@ -1092,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.064081+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.287593+00:00"
     },
     {
       "id": "rss-d4de56183b8d",
@@ -1124,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.064190+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.287767+00:00"
     },
     {
       "id": "rss-7dcdb7c08293",
@@ -1156,7 +1188,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.064305+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.287936+00:00"
+    },
+    {
+      "id": "rss-0aa9231559e8",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA selects Tomorrow.io to help advance U.S. weather forecasting",
+      "authors": "NOAA News",
+      "abstract": "NOAA selects Tomorrow.io to help advance U.S. weather forecasting September 17, 2026 NOAA National Severe Storms Laboratory mobile radar tracks a thunderstorm in Nebraska. (Undated image.) (Image credit: NOAA) Download Image NOAA has selected Tomorrow.io to provide contracting support for the Earth Prediction Innovation Center (EPIC), the backbone of NOAA’s operational weather forecast modeling suite. This contract advances NOAA’s historic effort to accelerate the development of NOAA’s next-generation Earth modeling system, the Unified Forecast System (UFS), through open science. “With EPIC, we have a once-in-a-generation opportunity to cement U.S. leadership in weather prediction by leveraging the full power of the public, private, and academic sectors,” said NOAA Administrator Neil Jacobs, Ph.D. “We will accelerate the transition of scientific research into operations through a unif...",
+      "date": "2026-09-11",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news-release/noaa-selects-tomorrowio-to-help-advance-us-weather-forecasting",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noaa",
+        "weather",
+        "tomorrow",
+        "image",
+        "selects",
+        "help",
+        "advance",
+        "forecasting"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:57:07.483014+00:00"
     },
     {
       "id": "rss-77c91c056111",
@@ -1188,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.064417+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.288102+00:00"
     },
     {
       "id": "rss-4bb6898d3482",
@@ -1220,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.308633+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.483551+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1252,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:55.833009+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.495355+00:00"
     },
     {
       "id": "rss-54300972963a",
@@ -1284,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.308805+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.483779+00:00"
     },
     {
       "id": "rss-341504e67552",
@@ -1316,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.064518+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.288249+00:00"
     },
     {
       "id": "rss-e51d07a6b736",
@@ -1348,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.064635+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.288421+00:00"
     },
     {
       "id": "rss-40f54edf2446",
@@ -1380,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.309264+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.484379+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1412,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:55.830161+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.491316+00:00"
     },
     {
       "id": "rss-920fbd87ebe7",
@@ -1444,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.064744+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.288609+00:00"
     },
     {
       "id": "rss-212fba1ccc92",
@@ -1476,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.064876+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.288762+00:00"
     },
     {
       "id": "rss-7849fc211ef2",
@@ -1508,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.309528+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.484760+00:00"
     },
     {
       "id": "rss-eb2e1816547e",
@@ -1540,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.309926+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.485215+00:00"
     },
     {
       "id": "rss-8921f471d133",
@@ -1572,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.310113+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.485453+00:00"
     },
     {
       "id": "rss-86e8b2b3fe45",
@@ -1604,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.064976+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.288906+00:00"
     },
     {
       "id": "rss-210f19a3c800",
@@ -1636,7 +1700,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.065079+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.289062+00:00"
+    },
+    {
+      "id": "openalex-ecd3ebebd570",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Bőrgyógyászati és Venerológiai Szemle",
+      "authors": "OpenAlex indexed authors",
+      "abstract": "A napsugárzás korai és késői biológiai hatásainak kivédésre közel 100 évvel ezelőtt jelent meg az első fényvédőkrém.Az elmúlt években bizonyította hatékonyságát a bőröregedés, pigmentációs zavarok, DNS károsodás és fotokarcinogenezis megelőzésében.Kezdetekben a fő cél az ultraibolya B (UVB) sugárzás okozta károsodások kivédése volt, majd későbbiekben a figyelem az ultraibolya A (UVA) irányába fordult.Ma már azt is tudjuk, hogy a bőr öregedésében a látható és infravörös fény is szerepet játszik, így ezt is figyelembe kell venni, amikor fényvédőt választunk.A szerzők a közleményben röviden összefoglalják a fényvédőkrémekkel kapcsolatos legfontosabb tudnivalókat érintve néhány aktuális kérdéskört.Kulcsszavak:",
+      "date": "2026-08-31",
+      "year": 2026,
+      "journal": "Bőrgyógyászati és Venerológiai Szemle",
+      "source": "Bőrgyógyászati és Venerológiai Szemle",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.7188/bvsz",
+      "doi": "10.7188/bvsz",
+      "pdfUrl": "https://doi.org/10.7188/bvsz",
+      "keywords": [
+        "Psychology",
+        "Clinical practice guidelines implementation",
+        "giai",
+        "reged",
+        "rosod",
+        "ultraibolya",
+        "szati",
+        "venerol"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:56:59.197251+00:00"
     },
     {
       "id": "rss-1912139c3820",
@@ -1668,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.065181+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.289214+00:00"
     },
     {
       "id": "rss-6afe29cd1ab2",
@@ -1700,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.065290+00:00"
+      "_retrievedAt": "2026-09-17T16:57:07.289377+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1732,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:56.224832+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.877741+00:00"
     },
     {
       "id": "openalex-d78a9511ef89",
@@ -1764,71 +1860,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:58.459643+00:00"
+      "_retrievedAt": "2026-09-17T16:56:59.598357+00:00"
     },
     {
-      "id": "rss-fd216968fbb9",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Testing the waters: A day at the nation’s largest oil spill simulation tank",
-      "authors": "NOAA News",
-      "abstract": "Testing the waters: A day at the nation’s largest oil spill simulation tank Located at Naval Weapons Station Earle Waterfront in Leonardo, New Jersey, the National Oil Spill Response Research and Renewable Energy Test Facility (Ohmsett) features a massive 2.6-million-gallon outdoor saltwater tank that serves as the nation’s testing ground for evaluating full-scale oil spill response equipment and marine technologies under realistic ocean conditions. (Image credit: Bureau of Safety and Environmental Enforcement, bsee.gov) Download Image August 20, 2026 Ocean & Coasts 0 Off",
-      "date": "2026-08-20",
+      "id": "openalex-3b7d32d6ce88",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Microtubule regulation in cancer cells",
+      "authors": "Alex Matov",
+      "abstract": "Introduction: The notion of microtubule (MT) dynamics relates to the changes in the length of MT polymers in living cells. They are governed by a stochastic process related to the rates and chances of adding or removing tubulin dimers at the ends of MT polymers, termed dynamic instability. The ability of each MT to swiftly switch between stages of adding or removing dimers at the tip of its lattice is critical for the overall success of the mitotic spindle, a molecular machinery built dynamically by MTs and associated molecular motor proteins, in properly segregating the duplicated DNA into the two daughter cells. When changes in the genetic and epigenetic regulation of the cell affect this ability, for example, by increasing the rates of hydrolysis of bound to tubulin dimers incorporated in the MT lattice, that results in segregation errors and is a hallmark of disease. Methods: In c...",
+      "date": "2026-08-21",
       "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/testing-waters-day-at-nations-largest-oil-spill-simulation-tank-ext-0",
-      "doi": "",
-      "pdfUrl": "",
+      "journal": "Frontiers in Cell and Developmental Biology",
+      "source": "Frontiers in Cell and Developmental Biology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/fcell.2025.1677302",
+      "doi": "10.3389/fcell.2025.1677302",
+      "pdfUrl": "https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2025.1677302/pdf",
       "keywords": [
-        "spill",
-        "testing",
-        "nation",
-        "tank",
-        "waters",
-        "largest",
-        "simulation",
-        "response"
+        "Microtubule",
+        "Cancer",
+        "Cell biology",
+        "Biology",
+        "Medicine",
+        "Microtubule and mitosis dynamics",
+        "Ubiquitin and proteasome pathways",
+        "Epigenetics and DNA Methylation"
       ],
       "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
+      "citedBy": 7,
+      "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.310344+00:00"
-    },
-    {
-      "id": "rss-da060db7124c",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA to rebuild historic science lab in Beaufort, North Carolina",
-      "authors": "NOAA News",
-      "abstract": "NOAA to rebuild historic science lab in Beaufort, North Carolina New North Carolina facility will continue to provide world-class NOAA science nationwide August 27, 2026 NOAA's Beaufort Laboratory moved to its current location on Pivers Island, North Carolina, in 1902. This aerial image of the laboratory complex was taken in 2014. (Image credit: NOAA's Beaufort Lab in 2014) Download Image Today, NOAA announced plans to fund the reconstruction of a new laboratory in Beaufort, North Carolina. This new lab will replace the former building that was permanently closed in 2024 due to significant hurricane-related structural damage. The project will be funded using $64 million from the 2025 Disaster Relief Supplemental Appropriations Act . Design and preconstruction work is expected to begin in early 2027. Established in 1899, the NOAA Beaufort Laboratory is the nation’s second-oldest federa...",
-      "date": "2026-08-19",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/noaa-to-rebuild-historic-science-lab-in-beaufort-north-carolina",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "beaufort",
-        "north",
-        "carolina",
-        "laboratory",
-        "will",
-        "image",
-        "rebuild"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-17T11:37:06.310697+00:00"
+      "_retrievedAt": "2026-09-17T16:56:59.194834+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1860,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:58.458271+00:00"
+      "_retrievedAt": "2026-09-17T16:56:59.596439+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1892,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:56.225067+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.878086+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1924,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:56.223874+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.876296+00:00"
     },
     {
       "id": "openalex-a0089f3bc951",
@@ -1956,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:58.459952+00:00"
+      "_retrievedAt": "2026-09-17T16:56:59.598795+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1988,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:56.224118+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.876666+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2020,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:55.833811+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.496452+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2052,7 +2116,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:56.222452+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.874293+00:00"
+    },
+    {
+      "id": "openalex-764f0dadc5c7",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Research agenda and related workforce requirements inspired by Lived Experience Experts and grounded in health equity for the Bleeding Disorders Research Collaborative",
+      "authors": "Jill M. Johnsen, Tyler W. Buckner, Glaivy Batsuli, Samantha Carlson, Erin Burke Cirelli, Donna DiMichele",
+      "abstract": "BACKGROUND: Inheritable bleeding disorders (BDs) research has not historically reflected the diversity or needs of the entire community. The National Bleeding Disorders Foundation charged seven multidisciplinary working groups (WGs) with developing a U.S. National Research Blueprint (NRB) for a Bleeding Disorders Research Collaborative (BDRC) inspired by Lived Experience Experts (LEE) and grounded in health equity, diversity, and inclusion (HEDI). RESEARCH DESIGN AND METHODS: The Research and Development and Workforce WGs, in collaboration with the HEDI and LEE WGs, met virtually and in-person to develop recommendations for BDRC operationalization. RESULTS: An agenda of 327 feasible research priorities spanning nine main topics, each with four to six scientific areas of interest is proposed. It captures the hope that new diagnostic and therapeutic technologies and innovative research...",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Expert Review of Hematology",
+      "source": "Expert Review of Hematology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1080/17474086.2026.2688867",
+      "doi": "10.1080/17474086.2026.2688867",
+      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/17474086.2026.2688867?needAccess=true",
+      "keywords": [
+        "Medicine",
+        "Lived experience",
+        "Workforce",
+        "Equity (law)",
+        "Grounded theory",
+        "Mental Health and Patient Involvement",
+        "Health Policy Implementation Science",
+        "Participatory Visual Research Methods"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:56:59.197602+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2084,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:58.456133+00:00"
+      "_retrievedAt": "2026-09-17T16:56:59.593479+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2116,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:58.456400+00:00"
+      "_retrievedAt": "2026-09-17T16:56:59.593874+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2148,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:55.831377+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.492941+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2180,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:56.223350+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.875554+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2212,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:56.225274+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.878391+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2244,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:55.832827+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.495098+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2276,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:55.830494+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.491757+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2308,7 +2404,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:56.224331+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.876988+00:00"
+    },
+    {
+      "id": "openalex-56385e95541c",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Understanding graft-versus-host disease. Preliminary findings regarding the effects of exercise in affected patients",
+      "authors": "Carmen Fiuza‐Luces, Nuria Garatachea, Nathan A. Berger, Nathan A. Berger, Manuel Ramı́rez, Alejandro Lucía",
+      "abstract": "Advances in this century regarding allogeneic hematopoietic stem cell transplantation (allo-HSCT) have led to an expanding population of long-term survivors, many of whom suffer severe side effects, particularly those related to graft-versushost disease (GVHD), a potentially multi-systemic disorder caused by immunoeffector donor lymphocytes that destroy host tissues. The GVHD, especially in its chronic form (cGVHD), generates considerable morbidity and compromises the physical capacity of patients. We have reviewed the main pathophysiological aspects of the disease as well as the data available on the effects of exercise in GVHD, based on animal and human patient research. Although exercise training as an adjunct therapy to improve health outcomes after allo-HSCT shows promise (particularly, this lifestyle intervention can improve physical fitness and possibly immune function while at...",
+      "date": "2026-07-15",
+      "year": 2026,
+      "journal": "PubMed",
+      "source": "PubMed",
+      "sourceApi": "OpenAlex",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25826127",
+      "doi": "10.22029/eir.2015.1698",
+      "pdfUrl": "http://zaguan.unizar.es/record/61323",
+      "keywords": [
+        "Medicine",
+        "Disease",
+        "Hematopoietic stem cell transplantation",
+        "Graft-versus-host disease",
+        "Intensive care medicine",
+        "Hematopoietic Stem Cell Transplantation",
+        "disease",
+        "effects"
+      ],
+      "readTime": "1 min",
+      "citedBy": 23,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:56:59.192425+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2340,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:58.458484+00:00"
+      "_retrievedAt": "2026-09-17T16:56:59.596758+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2372,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:56.225513+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.878756+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2404,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:58.457483+00:00"
+      "_retrievedAt": "2026-09-17T16:56:59.595389+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2436,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:58.457753+00:00"
+      "_retrievedAt": "2026-09-17T16:56:59.595796+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2468,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:56.223600+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.875919+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -2500,7 +2628,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:58.458842+00:00"
+      "_retrievedAt": "2026-09-17T16:56:59.597219+00:00"
+    },
+    {
+      "id": "openalex-f2829fa041f5",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Generalizable AI predicts immunotherapy outcomes across cancers and treatments",
+      "authors": "Wan Xiang Shen, Intae Moon, Thinh H. Nguyen, Michelle M. Li, Yepeng Huang, Nitya Nair",
+      "abstract": "Immune checkpoint inhibitors are standard across cancers, yet most patients do not respond and existing biomarkers generalize poorly across tumor types, drugs and clinical settings. We present C ompass , a pan-cancer foundation model that predicts immunotherapy response from bulk tumor transcriptomes using a concept-bottleneck transformer. C ompass encodes gene expression through 44 biologically grounded immune concepts representing immune cell states, tumor-microenvironment interactions, and signaling pathways. Trained on 10,184 tumors across 33 cancer types, C ompass outperforms 22 baseline methods in 16 independent clinical cohorts spanning seven cancers and six immune checkpoint inhibitors, increasing accuracy by 8.5% and area under the precision-recall curve by 15.7%, with minimal additional training. The model generalizes to unseen cancer types and treatments, supporting indicat...",
+      "date": "2026-07-03",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04502-7",
+      "doi": "10.1038/s41591-026-04502-7",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04502-7.pdf",
+      "keywords": [
+        "Immunotherapy",
+        "Medicine",
+        "Oncology",
+        "Internal medicine",
+        "Psychology",
+        "Cancer Immunotherapy and Biomarkers",
+        "Radiomics and Machine Learning in Medical Imaging",
+        "Cancer Genomics and Diagnostics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 16,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:56:59.193357+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2532,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:55.832157+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.493998+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2564,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:56.224591+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.877360+00:00"
     },
     {
       "id": "openalex-f64c9923322b",
@@ -2596,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:56.225716+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.879056+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2628,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:55.831615+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.493257+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2660,7 +2820,135 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:55.831934+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.493690+00:00"
+    },
+    {
+      "id": "openalex-c3aaf692321e",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Hyperpolarization of [1‐ 13 C]Ketoisocaproate‐d 2 by Reversible Exchange with Parahydrogen Enables Profiling of Branched‐Chain‐Amino‐Acid Metabolism in Cellulo and in Vivo",
+      "authors": "Stefan Petersen, Philipp Groß, Paul M. Schmidt, Henri de Maissin, Asitan Rittinger, Robert Willing",
+      "abstract": "ABSTRACT Hyperpolarized 1 3 C magnetic resonance imaging (MRI) is the only method to image metabolic fluxes in real time, non‐invasively, and in vivo. To date, however, most studies have used [1‐ 1 3 C]pyruvate and dynamic nuclear polarization (dDNP). Here, we establish efficient hyperpolarization (HP) of protio and partially‐deuterated [1‐ 1 3 C]ketoisocaproate (KIC) using Spin‐Lock‐Induced‐Crossing‐Signal Amplification by Reversible Exchange (SLIC‐SABRE), a high‐throughput, uncomplex and low‐cost method based on parahydrogen. We demonstrate 13 C polarization up to ≈28% and T 1 relaxation times > 200 s at 1 T in methanol‐d 4 . A rapid purification procedure allowed us to obtain biocompatible formulations with ≈11% 13 C polarization at the time of injection, sufficient for in cellulo and in vivo studies. We found that branched‐chain‐amino‐acid transaminase (BCAT) activity leads to HP...",
+      "date": "2026-06-23",
+      "year": 2026,
+      "journal": "Advanced Science",
+      "source": "Advanced Science",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1002/advs.76213",
+      "doi": "10.1002/advs.76213",
+      "pdfUrl": "https://doi.org/10.1002/advs.76213",
+      "keywords": [
+        "Hyperpolarization (physics)",
+        "In vivo",
+        "Chemistry",
+        "Spin isomers of hydrogen",
+        "Polarization (electrochemistry)",
+        "Advanced NMR Techniques and Applications",
+        "Advanced MRI Techniques and Applications",
+        "Electron Spin Resonance Studies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:56:59.195634+00:00"
+    },
+    {
+      "id": "openalex-a29127dc905f",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Shear Wave Elastography in Musculoskeletal Imaging: A Narrative Review",
+      "authors": "Enes Gürün, Mesut Öztürk, Mustafa Başaran, Ahmet Emin Okutan",
+      "abstract": "Shear wave elastography (SWE) is an increasingly investigated ultrasound-based technique in musculoskeletal imaging that provides quantitative information on tissue stiffness and biomechanical properties. This narrative review aims to summarize the basic principles, technical considerations, current clinical applications, limitations, and future perspectives of SWE in musculoskeletal imaging. Unlike conventional grayscale and Doppler ultrasonography, which mainly assess morphology and vascularity, SWE may provide additional functional information in major musculoskeletal tissues, including tendons and ligaments, skeletal muscles, peripheral nerves, fibrocartilaginous structures, plantar fascia, and selected soft tissue lesions. Current evidence suggests potential roles for SWE in detecting early biomechanical alterations, assessing disease severity, differentiating symptomatic from as...",
+      "date": "2026-06-22",
+      "year": 2026,
+      "journal": "Journal of Clinical Medicine",
+      "source": "Journal of Clinical Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/jcm15124843",
+      "doi": "10.3390/jcm15124843",
+      "pdfUrl": "https://www.mdpi.com/2077-0383/15/12/4843/pdf?version=1782289561",
+      "keywords": [
+        "Medicine",
+        "Narrative review",
+        "Elastography",
+        "Asymptomatic",
+        "Soft tissue",
+        "Ultrasound Imaging and Elastography",
+        "Tendon Structure and Treatment",
+        "Foot and Ankle Surgery"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:56:59.195972+00:00"
+    },
+    {
+      "id": "openalex-c2a093804030",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "International Journal of Complementary & Alternative Medicine",
+      "authors": "OpenAlex indexed authors",
+      "abstract": "There is a growing demand for integrative and complementary therapies for various health conditions, while the mechanisms and biological pathways for some of these therapies are poorly explored.In particular, bioelectric, biomagnetic and anthropogenic fields interact with biological structures such as tissues, cells and DNA.It is suggested that these interactions may create an integrated system of internal communication, with the potential to promote therapeutic benefits.The theoretical model Biofield-Tissue Tensegrity Matrix (BTTM) is presented by combining concepts from physics, biology and medicine to serve as a possible theoretical basis for energy therapies.",
+      "date": "2026-06-20",
+      "year": 2026,
+      "journal": "International Journal of Complementary & Alternative Medicine",
+      "source": "International Journal of Complementary & Alternative Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.15406/ijcam",
+      "doi": "10.15406/ijcam",
+      "pdfUrl": "https://medcraveonline.com/IJCAM/IJCAM-18-00731.pdf",
+      "keywords": [
+        "Library science",
+        "Medicine",
+        "Computer science",
+        "Complementary and Alternative Medicine Studies",
+        "therapies",
+        "complementary",
+        "medicine",
+        "biological"
+      ],
+      "readTime": "1 min",
+      "citedBy": 18,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:56:59.192660+00:00"
+    },
+    {
+      "id": "openalex-ff18973ad306",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Hybrid three-dimensional full-view multi-wavelength photoacoustic and ultrasound breast tomography",
+      "authors": "Maura Dantuma, Felix Lucka, Saskia Kruitwagen, Laurens Alink, R.P. Pompe van Meerdervoort, M. Nanninga",
+      "abstract": "Photoacoustic tomography is a contrast agent-free imaging technique capable of visualizing blood vessels and tumor-associated vascularization in breast tissue. While sophisticated breast imaging systems have been recently developed, there is yet much to be gained in imaging depth, image quality and tissue characterization capability before clinical translation is possible. In response, we have developed a hybrid photoacoustic and ultrasound tomographic system (PAM3). The photoacoustic component has for the first time, in a full-view hemispherical breast system, three-dimensional multi-wavelength imaging capability and implements substantial technical advancements in critical hardware and software sub-systems. The ultrasound component enables three-dimensional ultrasound (computed) tomography from both reflected and transmitted signals from which we currently extract an image of the so...",
+      "date": "2026-06-14",
+      "year": 2026,
+      "journal": "Photoacoustics",
+      "source": "Photoacoustics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.pacs.2026.100847",
+      "doi": "10.1016/j.pacs.2026.100847",
+      "pdfUrl": "https://doi.org/10.1016/j.pacs.2026.100847",
+      "keywords": [
+        "Photoacoustic Doppler effect",
+        "Tomography",
+        "Speed of sound",
+        "Photoacoustic imaging in biomedicine",
+        "Breast imaging",
+        "Photoacoustic and Ultrasonic Imaging",
+        "Nanoplatforms for cancer theranostics",
+        "Advanced X-ray and CT Imaging"
+      ],
+      "readTime": "1 min",
+      "citedBy": 9,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:56:59.194117+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -2692,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:58.456621+00:00"
+      "_retrievedAt": "2026-09-17T16:56:59.594179+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -2724,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:56.223152+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.875238+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -2756,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:55.831107+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.492574+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -2788,7 +3076,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:55.832355+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.494273+00:00"
+    },
+    {
+      "id": "openalex-797c77e03bf0",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Advancements in machine learning and deep learning for early detection and management of mental health disorder",
+      "authors": "Kamala Devi Kannan, Senthil Kumar Jagatheesaperumal, Kandala N. V. P. S. Rajesh, Mojtaba Lotfaliany, Roohallah Alizadehsanid, Mohammadreza Mohebbi",
+      "abstract": "For the early identification, diagnosis, and treatment of mental health illnesses, the integration of deep learning (DL) and machine learning (ML) have started playing a significant role. By evaluating complex data from imaging, genetics, and behavioral assessments, these technologies have the potential to improve clinical results significantly. However, they also present unique challenges relating to data integration and ethical issues. The development of ML and DL methods for the early diagnosis and treatment of mental health issues is reviewed in this survey. It examines a range of applications, with a particular emphasis on behavioral assessments, genetic and biomarker analysis, and medical imaging for the diagnosis of diseases like depression, bipolar disorder, and schizophrenia. Predictive modeling for illness development is further discussed in the review, focusing on the funct...",
+      "date": "2026-06-08",
+      "year": 2026,
+      "journal": "Journal of Affective Disorders Reports",
+      "source": "Journal of Affective Disorders Reports",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.jadr.2026.101100",
+      "doi": "10.1016/j.jadr.2026.101100",
+      "pdfUrl": "https://doi.org/10.1016/j.jadr.2026.101100",
+      "keywords": [
+        "Deep learning",
+        "Mental health",
+        "Artificial intelligence",
+        "Psychology",
+        "Computer science",
+        "Mental Health Research Topics",
+        "Digital Mental Health Interventions",
+        "learning"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:56:59.196286+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -2820,7 +3140,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:58.456912+00:00"
+      "_retrievedAt": "2026-09-17T16:56:59.594588+00:00"
+    },
+    {
+      "id": "openalex-e83a54581c00",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: 2026 update",
+      "authors": "Gregg Nelson, Alon D. Altman, Amy Metcalfe, Christina Fotopoulou, Jolyn Taylor, G. Glaser",
+      "abstract": "BACKGROUND: This is the third updated enhanced recovery after surgery (ERAS®) society guideline presenting a consensus for optimal perioperative care in gynecologic oncology surgery. METHODS: A database search of publications using Embase and PubMed was performed (2018-2025). Studies for key elements within the ERAS gynecologic oncology protocol were selected with emphasis on meta-analyses, randomized controlled trials, and large prospective cohort studies. These studies were then reviewed and graded according to the grading of recommendations, assessment, development and evaluation (GRADE) system. RESULTS: All recommendations on ERAS protocol items are based on best available evidence. The level of evidence for each item is presented accordingly. CONCLUSIONS: The updated evidence base and recommendation for items within the ERAS gynecologic oncology perioperative care pathway are pre...",
+      "date": "2026-06-06",
+      "year": 2026,
+      "journal": "Gynecologic Oncology",
+      "source": "Gynecologic Oncology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.ygyno.2026.05.022",
+      "doi": "10.1016/j.ygyno.2026.05.022",
+      "pdfUrl": "https://www.gynecologiconcology-online.net/article/S0090-8258(26)01999-2/pdf",
+      "keywords": [
+        "Medicine",
+        "Surgery",
+        "Gynecologic surgical procedures",
+        "General surgery",
+        "MEDLINE",
+        "Enhanced Recovery After Surgery",
+        "Nausea and vomiting management",
+        "Dietary Effects on Health"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:56:59.196613+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -2852,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:58.459142+00:00"
+      "_retrievedAt": "2026-09-17T16:56:59.597650+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
@@ -2884,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:55.834078+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.496835+00:00"
     },
     {
       "id": "openalex-c696aff78c58",
@@ -2916,7 +3268,103 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:55.833217+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.495675+00:00"
+    },
+    {
+      "id": "openalex-33d4ca0564d8",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "EHA Guidelines on management of chronic lymphocytic leukemia and Richter transformation",
+      "authors": "Barbara Eichhorst, Paolo Ghia, Francesc Bosch, Ruth Clifford, Michael Gregor, Romain Guieze",
+      "abstract": "Previous editions of the European guidelines for the management of chronic lymphocytic leukemia (CLL) were developed by experts in CLL under the auspices of the European Society for Medical Oncology (ESMO). These previous editions have served as a reference text for many physicians caring for patients with CLL. The current, 2026 edition, represents the new, updated guidelines that, for the first time (and in agreement with ESMO), were written on behalf of the European Hematology Association (EHA), which will be solely responsible for subsequent editions, published annually to keep pace of the fast-moving field of CLL research and clinical applications. The new guidelines support approaching the management of CLL in a more holistic fashion, from the initial diagnosis (including active surveillance) to treatment need, with particular emphasis on the interplay between disease- and patien...",
+      "date": "2026-06-01",
+      "year": 2026,
+      "journal": "HemaSphere",
+      "source": "HemaSphere",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1002/hem3.70403",
+      "doi": "10.1002/hem3.70403",
+      "pdfUrl": "https://doi.org/10.1002/hem3.70403",
+      "keywords": [
+        "Medicine",
+        "Guideline",
+        "Chronic lymphocytic leukemia",
+        "Obinutuzumab",
+        "Venetoclax",
+        "Chronic Lymphocytic Leukemia Research",
+        "Phagocytosis and Immune Regulation",
+        "Chronic Myeloid Leukemia Treatments"
+      ],
+      "readTime": "1 min",
+      "citedBy": 9,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:56:59.194468+00:00"
+    },
+    {
+      "id": "openalex-d767b74ad31a",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Targeting Fibroblast Activation Protein with [177Lu]Lu-FAP-2286 in Patients with Advanced Solid Tumors in the Phase I LuMIERE Trial",
+      "authors": "Jonathan McConathy, Vadim S. Koshkin, Yusuf Menda, Jordi Rodon, Ajit H. Goenka, Ryan H. Moy",
+      "abstract": "PURPOSE: Fibroblast activation protein (FAP) is an attractive target for radiopharmaceutical therapy. Phase I of the LuMIERE study (ClinicalTrials.gov, NCT04939610) investigated the safety of [177Lu]Lu-FAP-2286 (177Lu-FAP-2286) in heavily pretreated patients with advanced solid tumors and identified the recommended phase II dosage (RP2D). PATIENTS AND METHODS: LuMIERE is a prospective, open-label, nonrandomized, phase I/II, multicenter study. Phase I followed a Bayesian optimal interval design evaluating four escalating activity levels of 177Lu-FAP-2286 (3.70, 5.55, 7.40, and 9.25 GBq). Patients were selected by positive [68Ga]Ga-FAP-2286 (68Ga-FAP-2286, also known as [68Ga]Ga-HKG301) PET/CT imaging on all target lesions [maximum standardized uptake value (SUVmax) ≥1.5× SUVmean of mediastinal blood pool]. 177Lu-FAP-2286 was administered intravenously every 6 weeks for ≤6 cycles. The p...",
+      "date": "2026-06-01",
+      "year": 2026,
+      "journal": "Clinical Cancer Research",
+      "source": "Clinical Cancer Research",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1158/1078-0432.ccr-25-4356",
+      "doi": "10.1158/1078-0432.ccr-25-4356",
+      "pdfUrl": "https://doi.org/10.1158/1078-0432.ccr-25-4356",
+      "keywords": [
+        "Medicine",
+        "Response Evaluation Criteria in Solid Tumors",
+        "Adverse effect",
+        "Clinical endpoint",
+        "Internal medicine",
+        "Peptidase Inhibition and Analysis",
+        "Radiopharmaceutical Chemistry and Applications",
+        "Orthopedic Infections and Treatments"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:56:59.195236+00:00"
+    },
+    {
+      "id": "openalex-93ba88b6125e",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Nanomedicine in 2026: Illustrative Quantitative Analyses of EPR Heterogeneity, Clinical Trial Attrition, and Emerging Horizons for Active Nanotherapeutics",
+      "authors": "Sayed Mortaza Fayez",
+      "abstract": "2026 is a turning point for nanomedicine, marking the field's transition from decades of preclinical promise toward tangible clinical impact. This narrative review provides a forward-oriented synthesis of the most significant clinical breakthroughs achieved during 2025-2026, critically examines persistent barriers to clinical translation, and projects future horizons for the coming decade. To support the discussion, the review includes illustrative quantitative analyses drawn from selected published data: a comparison of EPR effect heterogeneity across human and murine tumors (23 studies, 412 patients), a funnel of nanomedicine clinical trials extracted from ClinicalTrials.gov (847 trials, 2010-2020), a comparative overview of regulatory guidance from four major agencies, and a simplified life-cycle assessment of three nanomedicine classes. These analyses are intended to highlight tre...",
+      "date": "2026-06-01",
+      "year": 2026,
+      "journal": "International Journal of Nanomedicine",
+      "source": "International Journal of Nanomedicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.2147/ijn.s618407",
+      "doi": "10.2147/ijn.s618407",
+      "pdfUrl": "https://www.dovepress.com/article/download/116224",
+      "keywords": [
+        "Nanomedicine",
+        "Clinical trial",
+        "Nanotechnology",
+        "Drug delivery",
+        "Medicine",
+        "Nanoplatforms for cancer theranostics",
+        "Nanoparticle-Based Drug Delivery",
+        "Radiopharmaceutical Chemistry and Applications"
+      ],
+      "readTime": "2 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:56:59.197040+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -2948,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:58.457205+00:00"
+      "_retrievedAt": "2026-09-17T16:56:59.595000+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -2980,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:55.832584+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.494749+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -3012,7 +3460,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:55.833568+00:00"
+      "_retrievedAt": "2026-09-17T16:56:58.496156+00:00"
+    },
+    {
+      "id": "openalex-0fed25de6e90",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Lactate metabolism and lactylation in cancer: from pathogenesis to therapeutic advances",
+      "authors": "Chunyao Fang, Suiqing Zhou, Kai Yu, Liren Zhang, Wenxin Lian, Xiaofeng Tie",
+      "abstract": "Lactate and its mediated modification, lactylation, are receiving increasing attention in the field of tumor biology. This review provides a comprehensive overview of the mechanistic involvement of lactate and lactylation in key oncogenic processes, such as tumor initiation, proliferation, invasion, metastasis, recurrence, and drug resistance. Rather than being a passive byproduct of glycolysis, lactate actively shapes the tumor microenvironment (TME), modulates immune responses, drives metabolic adaptation, and influences epigenetic and transcriptomic regulation. Lactylation, as a novel epigenetic mechanism, links cellular metabolism with gene expression by modifying histone and nonhistone proteins, thereby regulating chromatin accessibility, immune evasion, and DNA repair. Notably, this article proposes a new perspective: lactate accumulation in certain tumors may constitute an adap...",
+      "date": "2026-05-21",
+      "year": 2026,
+      "journal": "Signal Transduction and Targeted Therapy",
+      "source": "Signal Transduction and Targeted Therapy",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41392-026-02672-x",
+      "doi": "10.1038/s41392-026-02672-x",
+      "pdfUrl": "https://www.nature.com/articles/s41392-026-02672-x.pdf",
+      "keywords": [
+        "Pathogenesis",
+        "Medicine",
+        "Pharmacology",
+        "Metabolism",
+        "Bioinformatics",
+        "Cancer, Hypoxia, and Metabolism",
+        "Metabolism, Diabetes, and Cancer",
+        "Amino Acid Enzymes and Metabolism"
+      ],
+      "readTime": "1 min",
+      "citedBy": 10,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-17T16:56:59.193749+00:00"
     },
     {
       "id": "openalex-fcbf1470edaa",
@@ -3044,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:58.457985+00:00"
+      "_retrievedAt": "2026-09-17T16:56:59.596064+00:00"
     },
     {
       "id": "openalex-218d85dc8916",
@@ -3076,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-17T11:36:58.459434+00:00"
+      "_retrievedAt": "2026-09-17T16:56:59.598057+00:00"
     }
   ]
 };
