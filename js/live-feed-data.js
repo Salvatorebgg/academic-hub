@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-09-19T04:33:46.719458+00:00",
+  "generatedAt": "2026-09-19T10:54:33.558422+00:00",
   "total": 111,
   "sources": [
     "RSS",
@@ -36,7 +36,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.226009+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.789781+00:00"
     },
     {
       "id": "rss-69a665c0512b",
@@ -68,7 +68,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.226319+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.789968+00:00"
     },
     {
       "id": "rss-14f8444818f7",
@@ -100,7 +100,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.226591+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.790102+00:00"
     },
     {
       "id": "rss-ee217aa1ac96",
@@ -132,7 +132,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.226874+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.790258+00:00"
     },
     {
       "id": "rss-660cb2b07397",
@@ -164,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.227161+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.790434+00:00"
     },
     {
       "id": "rss-7424365b4a1c",
@@ -196,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.227461+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.790590+00:00"
     },
     {
       "id": "rss-5e3ddda7f2c5",
@@ -228,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.227709+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.790719+00:00"
     },
     {
       "id": "rss-61c876d87fb9",
@@ -260,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.227936+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.790843+00:00"
     },
     {
       "id": "rss-428a21d2c6b3",
@@ -292,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.228180+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.790976+00:00"
     },
     {
       "id": "rss-017068bfcf5c",
@@ -324,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.228454+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.791118+00:00"
     },
     {
       "id": "rss-a2d7109ad924",
@@ -356,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.228693+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.791242+00:00"
     },
     {
       "id": "rss-73ffde5cc1eb",
@@ -388,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.228962+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.791401+00:00"
     },
     {
       "id": "rss-213246738ab4",
@@ -420,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.229194+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.791533+00:00"
     },
     {
       "id": "rss-88549e805e9a",
@@ -452,7 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.229474+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.791679+00:00"
     },
     {
       "id": "rss-f394f915c5e1",
@@ -484,7 +484,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.289763+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.931148+00:00"
     },
     {
       "id": "rss-cba9e0597ed2",
@@ -516,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.289995+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.931279+00:00"
     },
     {
       "id": "rss-3f78844d57e5",
@@ -548,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.290164+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.931370+00:00"
     },
     {
       "id": "rss-2e30e478e4f8",
@@ -580,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.290333+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.931499+00:00"
     },
     {
       "id": "rss-633104ca85c3",
@@ -612,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.290530+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.931590+00:00"
     },
     {
       "id": "rss-07c44ad3ac4b",
@@ -644,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.290690+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.931672+00:00"
     },
     {
       "id": "rss-96d1d6298ed0",
@@ -676,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.290880+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.931774+00:00"
     },
     {
       "id": "rss-ef317b7ddbed",
@@ -708,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.291037+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.931857+00:00"
     },
     {
       "id": "rss-38cfcefff3e1",
@@ -740,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.291216+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.931953+00:00"
     },
     {
       "id": "rss-0d091c19ecd3",
@@ -772,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.291428+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.932055+00:00"
     },
     {
       "id": "rss-e64474bb3d4b",
@@ -804,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.291705+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.932208+00:00"
     },
     {
       "id": "rss-5934c09d8405",
@@ -836,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.291962+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.932344+00:00"
     },
     {
       "id": "rss-b5018abbd6ef",
@@ -868,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.292125+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.932465+00:00"
     },
     {
       "id": "rss-5990e68ea8e9",
@@ -900,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.292313+00:00"
+      "_retrievedAt": "2026-09-19T10:54:32.932571+00:00"
     },
     {
       "id": "rss-38146f5c87bf",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.359932+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.067859+00:00"
     },
     {
       "id": "rss-188abdd7fd48",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.590452+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.343738+00:00"
     },
     {
       "id": "rss-a74392b37559",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.360119+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.067966+00:00"
     },
     {
       "id": "rss-040fa3bc1672",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.360278+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.068057+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.250570+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.254277+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.590717+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.343891+00:00"
     },
     {
       "id": "rss-b0ad43b43ecb",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.590927+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.344014+00:00"
     },
     {
       "id": "rss-3975041a07bd",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.360497+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.068159+00:00"
     },
     {
       "id": "rss-d4de56183b8d",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.360672+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.068249+00:00"
     },
     {
       "id": "rss-7dcdb7c08293",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.360846+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.068343+00:00"
     },
     {
       "id": "rss-0aa9231559e8",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.591522+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.344362+00:00"
     },
     {
       "id": "rss-77c91c056111",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.361018+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.068461+00:00"
     },
     {
       "id": "rss-4bb6898d3482",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.592034+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.344686+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.253750+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.256120+00:00"
     },
     {
       "id": "rss-54300972963a",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.592259+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.344814+00:00"
     },
     {
       "id": "rss-341504e67552",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.361169+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.068544+00:00"
     },
     {
       "id": "rss-e51d07a6b736",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.361346+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.068675+00:00"
     },
     {
       "id": "rss-40f54edf2446",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.592877+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.345179+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.249688+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.253767+00:00"
     },
     {
       "id": "rss-920fbd87ebe7",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.361586+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.068793+00:00"
     },
     {
       "id": "rss-212fba1ccc92",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.361749+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.068877+00:00"
     },
     {
       "id": "rss-7849fc211ef2",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.593234+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.345400+00:00"
     },
     {
       "id": "rss-eb2e1816547e",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.593727+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.345681+00:00"
     },
     {
       "id": "rss-8921f471d133",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.593968+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.345819+00:00"
     },
     {
       "id": "rss-86e8b2b3fe45",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.361901+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.068958+00:00"
     },
     {
       "id": "rss-210f19a3c800",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.362064+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.069047+00:00"
     },
     {
       "id": "openalex-ecd3ebebd570",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.953057+00:00"
+      "_retrievedAt": "2026-09-19T10:54:22.455508+00:00"
     },
     {
       "id": "rss-1912139c3820",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:46.362221+00:00"
+      "_retrievedAt": "2026-09-19T10:54:33.069137+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.576031+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.836965+00:00"
     },
     {
       "id": "openalex-d78a9511ef89",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:38.303945+00:00"
+      "_retrievedAt": "2026-09-19T10:54:23.401219+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.950573+00:00"
+      "_retrievedAt": "2026-09-19T10:54:22.453905+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:38.302009+00:00"
+      "_retrievedAt": "2026-09-19T10:54:23.399808+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.576364+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.837200+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.574646+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.836118+00:00"
     },
     {
       "id": "openalex-a0089f3bc951",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:38.304348+00:00"
+      "_retrievedAt": "2026-09-19T10:54:23.401478+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2052,39 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.574991+00:00"
-    },
-    {
-      "id": "openalex-31da6159b300",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Accelerating biomass loss from forest disturbances across Europe",
-      "authors": "Katja Kowalski, Alba Viana‐Soto, Martin Brandt, Philippe Ciais, Wanda De Keersmaecker, Rasmus Fensholt",
-      "abstract": "Abstract Forest disturbances are rising globally due to climate change and land-use pressures, weakening the terrestrial carbon sink. However, declines in aboveground biomass from tree cover loss remain poorly quantified, limiting our understanding of the role of disturbances in global carbon dynamics. Here we present a spatially explicit estimate of aboveground biomass losses from natural disturbances and harvest across Europe’s 216 million hectares of forests, using satellite remote sensing. From 1985 to 2023, gross aboveground biomass losses totalled 6.5 ± 0.8 Pg. Of these, 18% were caused by high-severity natural disturbances, whereas stand-replacing harvests accounted for 82%. From 2018 onward, aboveground biomass losses increased by 46% reaching annual values unprecedented in the preceding four decades. This acceleration coincided with high natural disturbance activity in biomas...",
-      "date": "2026-08-05",
-      "year": 2026,
-      "journal": "Nature Geoscience",
-      "source": "Nature Geoscience",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41561-026-02032-y",
-      "doi": "10.1038/s41561-026-02032-y",
-      "pdfUrl": "https://www.nature.com/articles/s41561-026-02032-y.pdf",
-      "keywords": [
-        "Environmental science",
-        "Biomass (ecology)",
-        "Carbon sink",
-        "Temperate climate",
-        "Disturbance (geology)",
-        "Remote Sensing and LiDAR Applications",
-        "Forest Ecology and Biodiversity Studies",
-        "Forest Management and Policy"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:38.304717+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.836324+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2116,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.254880+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.256770+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2148,7 +2116,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.572667+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.834932+00:00"
+    },
+    {
+      "id": "openalex-c47d537bde45",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Mixed Pain: Toward a Consensus Definition and a Mechanism‐Based Framework",
+      "authors": "Rainer Freynhagen, Bart Morlion, A. Alcántara Montero, Daniel Ciampi de Andrade, Andrés Hernández-Ortiz, Paul W. Hodges",
+      "abstract": "BACKGROUND: For decades, clinicians and researchers have struggled to classify pain conditions that do not fit neatly into the nociceptive, neuropathic or nociplastic frameworks. Many common disorders-from chronic low back pain to cancer pain and osteoarthritis-exhibit overlapping mechanisms and have long fallen into the 'grey zone' of mixed pain. This area has intrigued researchers yet frustrated clinicians due to the absence of a clear, unified definition. METHODS: Through an international consensus process led by global leading experts, mixed pain has now been defined as pain that is associated with a lesion, disease or disorder resulting in an overlap of at least two mechanistic pain descriptors (nociceptive, neuropathic or nociplastic). CONCLUSIONS: This new definition may help provide the context needed to align research, refine diagnosis and design mechanism-based therapies for...",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "European Journal of Pain",
+      "source": "European Journal of Pain",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1002/ejp.70356",
+      "doi": "10.1002/ejp.70356",
+      "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ejp.70356",
+      "keywords": [
+        "Ambiguity",
+        "Terminology",
+        "Context (archaeology)",
+        "Neuropathic pain",
+        "Confusion",
+        "Pain Mechanisms and Treatments",
+        "Musculoskeletal pain and rehabilitation",
+        "Pain Management and Treatment"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-19T10:54:22.455756+00:00"
     },
     {
       "id": "openalex-764f0dadc5c7",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.953391+00:00"
+      "_retrievedAt": "2026-09-19T10:54:22.455985+00:00"
     },
     {
       "id": "openalex-ccab700ac08b",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.953737+00:00"
+      "_retrievedAt": "2026-09-19T10:54:22.456204+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:38.299324+00:00"
+      "_retrievedAt": "2026-09-19T10:54:23.398203+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:38.299735+00:00"
+      "_retrievedAt": "2026-09-19T10:54:23.398437+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2308,39 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.251358+00:00"
-    },
-    {
-      "id": "openalex-3d03dfc7e37b",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study",
-      "authors": "Michael Pavlides, Yasaman Vali, Ferenc E. Mózes, Kristy Wonders, Salma Akhtar, Paul Hockings",
-      "abstract": "There is a need for robust evaluations of noninvasive biomarkers for metabolic dysfunction-associated steatotic liver disease. This prospective multicenter study assessed the diagnostic accuracy of imaging (including liver stiffness measurement (LSM) using magnetic resonance elastography (MRE) and FibroScan (vibration-controlled transient elastography (VCTE)), serum biomarkers (including NIS2+) and composite scores (including Agile 3+ and Agile 4) for centrally read steatohepatitis and fibrosis. For cirrhosis, several biomarkers exceeded the minimum acceptable performance criterion (MAC), including MRE (area under the receiver operating curve (AUC) 0.91; P < 0.01), VCTE-LSM (AUC 0.87; P < 0.01), Agile 3+ (AUC 0.89; P < 0.01) and Agile 4 (AUC 0.88; P < 0.01). Among 357 participants, fibrosis stages F0-F4 were present in 12%, 16%, 25%, 32% and 15%, respectively. NIS2+ had the highest di...",
-      "date": "2026-07-24",
-      "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04496-2",
-      "doi": "10.1038/s41591-026-04496-2",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04496-2.pdf",
-      "keywords": [
-        "Magnetic resonance elastography",
-        "Steatohepatitis",
-        "Medicine",
-        "Transient elastography",
-        "Elastography",
-        "Liver Disease Diagnosis and Treatment",
-        "Liver Disease and Transplantation",
-        "Nutrition and Health in Aging"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.954112+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.254767+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2372,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.573891+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.835681+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2404,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.576699+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.837392+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2436,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.253475+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.255967+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2468,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.250139+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.254031+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2500,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.575295+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.836545+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2532,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.948877+00:00"
+      "_retrievedAt": "2026-09-19T10:54:22.452878+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2564,7 +2532,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:38.302297+00:00"
+      "_retrievedAt": "2026-09-19T10:54:23.399991+00:00"
+    },
+    {
+      "id": "openalex-6d68435c2e60",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "From physical surfaces to human-centric heat stress: LST and UTCI heat mapping reveals nonlinear effects of urban morphology",
+      "authors": "Yuan Wang, Shengao Yi, Xiaojiang Li, Pengyuan Liu, Zhiwei Yang, Ronita Bardhan",
+      "abstract": "Heat exposure connects the built environment and public health, directly shaping the livability and sustainability of urban areas. Fully understanding the spatial heterogeneity of heat exposure and its driving factors is therefore a vital prerequisite for climate-adaptive urban planning. However, most planning-oriented studies rely on land surface temperature (LST), and whether LST adequately represents human heat exposure and how it differs from physiologically relevant heat stress remains insufficiently examined. Here, adopting Landsat-retrieved 30-m LST and GPU-accelerated 1-m universal thermal climate index (UTCI) in Singapore, this study establishes a comprehensive “Modeling-Comparing-Assessing” framework to systematically evaluate the spatial and mechanistic discrepancies between the two metrics. We further investigate pronounced non-stationary and threshold-based quantitative r...",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "Sustainable Cities and Society",
+      "source": "Sustainable Cities and Society",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.scs.2026.107659",
+      "doi": "10.1016/j.scs.2026.107659",
+      "pdfUrl": "https://doi.org/10.1016/j.scs.2026.107659",
+      "keywords": [
+        "Urban heat island",
+        "Nonlinear system",
+        "Environmental science",
+        "Morphology (biology)",
+        "Urban morphology",
+        "Urban Heat Island Mitigation",
+        "Land Use and Ecosystem Services",
+        "Wind and Air Flow Studies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-19T10:54:23.400238+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2596,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.577037+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.837629+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2628,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:38.301234+00:00"
+      "_retrievedAt": "2026-09-19T10:54:23.399342+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2660,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:38.301628+00:00"
+      "_retrievedAt": "2026-09-19T10:54:23.399580+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2692,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.574239+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.835892+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -2724,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:38.302763+00:00"
+      "_retrievedAt": "2026-09-19T10:54:23.400524+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2756,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.949840+00:00"
+      "_retrievedAt": "2026-09-19T10:54:22.453469+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2788,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.252485+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.255416+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2820,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.575696+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.836761+00:00"
     },
     {
       "id": "openalex-f64c9923322b",
@@ -2852,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.577327+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.837816+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2884,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.251725+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.254958+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2916,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.252152+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.255205+00:00"
     },
     {
       "id": "openalex-c3aaf692321e",
@@ -2948,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.951370+00:00"
+      "_retrievedAt": "2026-09-19T10:54:22.454405+00:00"
     },
     {
       "id": "openalex-bb50663ea11d",
@@ -2980,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:38.303189+00:00"
+      "_retrievedAt": "2026-09-19T10:54:23.400789+00:00"
     },
     {
       "id": "openalex-a29127dc905f",
@@ -3012,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.951733+00:00"
+      "_retrievedAt": "2026-09-19T10:54:22.454613+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -3044,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.949101+00:00"
+      "_retrievedAt": "2026-09-19T10:54:22.453013+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -3076,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:38.300038+00:00"
+      "_retrievedAt": "2026-09-19T10:54:23.398625+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -3108,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.573610+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.835511+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -3140,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.250986+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.254543+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -3172,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.252773+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.255586+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -3204,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.952058+00:00"
+      "_retrievedAt": "2026-09-19T10:54:22.454803+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -3236,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:38.300444+00:00"
+      "_retrievedAt": "2026-09-19T10:54:23.398859+00:00"
     },
     {
       "id": "openalex-e83a54581c00",
@@ -3268,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.952364+00:00"
+      "_retrievedAt": "2026-09-19T10:54:22.455018+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -3300,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:38.303633+00:00"
+      "_retrievedAt": "2026-09-19T10:54:23.401043+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
@@ -3332,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.255243+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.256982+00:00"
     },
     {
       "id": "openalex-c696aff78c58",
@@ -3364,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.254051+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.256290+00:00"
     },
     {
       "id": "openalex-33d4ca0564d8",
@@ -3396,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.950197+00:00"
+      "_retrievedAt": "2026-09-19T10:54:22.453691+00:00"
     },
     {
       "id": "openalex-d767b74ad31a",
@@ -3428,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.950984+00:00"
+      "_retrievedAt": "2026-09-19T10:54:22.454158+00:00"
     },
     {
       "id": "openalex-93ba88b6125e",
@@ -3460,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.952838+00:00"
+      "_retrievedAt": "2026-09-19T10:54:22.455334+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -3492,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:38.300850+00:00"
+      "_retrievedAt": "2026-09-19T10:54:23.399110+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -3524,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.253096+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.255775+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -3556,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-19T04:33:37.254564+00:00"
+      "_retrievedAt": "2026-09-19T10:54:21.256589+00:00"
     }
   ]
 };
