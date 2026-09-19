@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:52:15.150092+00:00",
+  "generatedAt": "2026-09-19T04:33:46.719458+00:00",
   "total": 111,
   "sources": [
     "RSS",
@@ -7,13 +7,173 @@
   ],
   "papers": [
     {
+      "id": "rss-398818397abd",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "States bet big on rural health startups, with a Silicon Valley twist",
+      "authors": "Medical Xpress",
+      "abstract": "When Josh Fleig, Louisiana's chief innovation officer, learned his state had set aside $20 million a year for five years to invest in startup rural health care companies, his reaction was not surprising: \"Wow!\"",
+      "date": "2026-09-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-states-big-rural-health-startups.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "rural",
+        "health",
+        "states",
+        "startups",
+        "silicon",
+        "valley",
+        "twist",
+        "when"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-19T04:33:46.226009+00:00"
+    },
+    {
+      "id": "rss-69a665c0512b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Higher physical activity may prevent more type 2 diabetes cases among older adults",
+      "authors": "Medical Xpress",
+      "abstract": "New research being presented at the Annual Meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy (Sept. 28–Oct. 2), suggests that higher levels of moderate-to-vigorous physical activity (MVPA) are associated with a substantially lower risk of developing type 2 diabetes (T2D), particularly among younger adults.",
+      "date": "2026-09-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-higher-physical-diabetes-cases-older.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "diabetes",
+        "higher",
+        "physical",
+        "activity",
+        "type",
+        "among",
+        "adults",
+        "prevent"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-19T04:33:46.226319+00:00"
+    },
+    {
+      "id": "rss-14f8444818f7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Common eye disease can cause hallucinations, but few people know it",
+      "authors": "Medical Xpress",
+      "abstract": "Seeing people, flowers or patterns that aren't really there can be frightening. But for people with serious vision loss, these visions are often a known and harmless side effect, experts say.",
+      "date": "2026-09-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-common-eye-disease-hallucinations-people.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "people",
+        "common",
+        "disease",
+        "cause",
+        "hallucinations",
+        "know",
+        "seeing",
+        "flowers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-19T04:33:46.226591+00:00"
+    },
+    {
+      "id": "rss-ee217aa1ac96",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Running marathons with type 1 diabetes can be safe, small study shows",
+      "authors": "Medical Xpress",
+      "abstract": "New research to be presented at the Annual Meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, from Sept. 28–Oct. 2 shows that, with the use of continuous glucose monitoring (CGM) devices, people with type 1 diabetes can complete a marathon safely and achieve finishing times similar to runners without diabetes.",
+      "date": "2026-09-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-marathons-diabetes-safe-small.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "diabetes",
+        "type",
+        "shows",
+        "running",
+        "marathons",
+        "safe",
+        "small",
+        "presented"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-19T04:33:46.226874+00:00"
+    },
+    {
+      "id": "rss-660cb2b07397",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Sex is safe in type 1 diabetes, shows small study using continuous glucose monitoring devices",
+      "authors": "Medical Xpress",
+      "abstract": "New research to be presented at the Annual Meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2, shows, with the use of continuous glucose monitoring (CGM) devices, that sexual intercourse is safe for people living with type 1 diabetes. The study is by Dr. Dominica Orłowska, Medical University of Warsaw, Warsaw, Poland, and colleagues.",
+      "date": "2026-09-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-sex-safe-diabetes-small-glucose.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "diabetes",
+        "safe",
+        "type",
+        "shows",
+        "continuous",
+        "glucose",
+        "monitoring",
+        "devices"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-19T04:33:46.227161+00:00"
+    },
+    {
       "id": "rss-7424365b4a1c",
       "discipline": "clinical",
       "type": "news",
       "title": "Accelerated research, increased investment signal landmark year for food is medicine",
       "authors": "Medical Xpress",
       "abstract": "The emerging public health field of food is medicine (FIM) experienced a rapid increase in published research studies and substantial progress in advancing public policy. These trends demonstrate the growing potential for health care-integrated nutrition interventions to improve health outcomes cost-effectively, according to a new report from the American Heart Association's Health Care by Food initiative.",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.560675+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.227461+00:00"
     },
     {
       "id": "rss-5e3ddda7f2c5",
@@ -45,7 +205,7 @@
       "title": "A single protein may help aggressive breast cancer spread to the brain and evade immune defenses",
       "authors": "Medical Xpress",
       "abstract": "Researchers at Wake Forest University School of Medicine have identified a protein that may help an aggressive form of breast cancer spread to the brain and escape the body's immune defenses.",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.560923+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.227709+00:00"
     },
     {
       "id": "rss-61c876d87fb9",
@@ -77,7 +237,7 @@
       "title": "Strength training not tied to ventricular arrhythmia in those with arrhythmogenic cardiomyopathy",
       "authors": "Medical Xpress",
       "abstract": "Strength training is not linked to ventricular arrhythmia for people living with arrhythmogenic cardiomyopathy (ACM), according to a study published online Sept. 10 in JACC: Clinical Electrophysiology.",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.561147+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.227936+00:00"
     },
     {
       "id": "rss-428a21d2c6b3",
@@ -109,7 +269,7 @@
       "title": "Small study suggests around half of US teens witness online harm, and around a third have been targeted",
       "authors": "Medical Xpress",
       "abstract": "A survey of 472 US adolescents across 47 states found 44.7% had witnessed online harassment and 29.8% had experienced it directly in the past four weeks. Perhaps surprisingly, the same proportion of the teens reported being targeted for harm offline as online.",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.561368+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.228180+00:00"
     },
     {
       "id": "rss-017068bfcf5c",
@@ -141,7 +301,7 @@
       "title": "Large study finds no added risk of rare artery tear following chiropractic neck care",
       "authors": "Medical Xpress",
       "abstract": "Getting your neck adjusted by a chiropractor does not appear to raise the risk of a rare but serious artery injury, according to a large observational study from a multidisciplinary collaboration including researchers at University Hospitals Cleveland Medical Center, Case Western Reserve University School of Medicine, Cleveland Clinic and Duke University.",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.561594+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.228454+00:00"
     },
     {
       "id": "rss-a2d7109ad924",
@@ -173,7 +333,7 @@
       "title": "AI system tracks rehabilitation exercises on simple devices",
       "authors": "Medical Xpress",
       "abstract": "A lightweight artificial intelligence (AI) system designed to assess rehabilitation exercises in real time could make computer-assisted therapy more practical on low-powered devices, according to research in the International Journal of Business Intelligence and Data Mining.",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.561795+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.228693+00:00"
     },
     {
       "id": "rss-73ffde5cc1eb",
@@ -205,7 +365,7 @@
       "title": "How a single viral protein hijacks immune cells to supercharge COVID-19 infection",
       "authors": "Medical Xpress",
       "abstract": "In the sickest COVID-19 patients, SARS-CoV-2 doesn't just cause severe damage by directly infecting airway cells. The virus can also trigger hyperinflammation—a cycle in which immune cells themselves become infected, stop fighting the virus and instead trigger high levels of inflammation throughout the lungs.",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -228,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.562039+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.228962+00:00"
     },
     {
       "id": "rss-213246738ab4",
@@ -237,7 +397,7 @@
       "title": "Gene that drives blood cancer drug resistance uncovered with new CRISPR activation tool",
       "authors": "Medical Xpress",
       "abstract": "Researchers have uncovered a previously unknown gene that causes resistance to a leading blood cancer drug, as well as several genes that accelerate lymphoma growth, using a powerful new CRISPR activation library.",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -260,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.562265+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.229194+00:00"
     },
     {
       "id": "rss-88549e805e9a",
@@ -269,7 +429,7 @@
       "title": "AI reads doctors' notes at scale, revealing data absent from coded medical records",
       "authors": "Medical Xpress",
       "abstract": "Every time a person sees a doctor, the visit produces two kinds of records. There are the tidy checkbox fields: the billing codes, the lab values, the prescription entries. And there is the note the clinician actually writes, describing what the patient said, how they are coping, what side effects they mentioned and why a medication was changed.",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -292,167 +452,199 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.562494+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.229474+00:00"
     },
     {
-      "id": "rss-4da0b28c032d",
-      "discipline": "clinical",
+      "id": "rss-f394f915c5e1",
+      "discipline": "cs",
       "type": "news",
-      "title": "Nighttime light may disrupt sleep in people with schizophrenia",
-      "authors": "Medical Xpress",
-      "abstract": "Sleep problems are common in people with schizophrenia and can worsen quality of life, psychiatric symptoms, cognition and daily functioning. Nighttime light is known to interfere with normal sleep and circadian rhythms in the general population, but its relationship with sleep in schizophrenia had not been examined using both objective and subjective measures.",
-      "date": "2026-09-18",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "authors": "TechCrunch AI",
+      "abstract": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "date": "2026-09-19",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-nighttime-disrupt-people-schizophrenia.html",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "sleep",
-        "schizophrenia",
-        "nighttime",
-        "light",
-        "people",
-        "disrupt",
-        "problems",
-        "common"
+        "india",
+        "forces",
+        "caller-id",
+        "apps",
+        "feed",
+        "spam",
+        "reports",
+        "telcos"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.562709+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.289763+00:00"
     },
     {
-      "id": "rss-3314065e292b",
-      "discipline": "clinical",
+      "id": "rss-cba9e0597ed2",
+      "discipline": "cs",
       "type": "news",
-      "title": "Supplements and weight loss top misinformation themes in EU influencer posts analyzed",
-      "authors": "Medical Xpress",
-      "abstract": "Scrolling through social media can mean encountering a supplement promising better health, a drink offering quick weight loss or a food promoted as a \"superfood.\" For people looking for advice on what to eat, distinguishing reliable information from misleading claims can be difficult. On Tuesday, EUFIC and Fundación Maldita.es organized an Infoodmation stakeholder workshop that offered a closer look at these messages, where they appear and who may be particularly vulnerable to them. Supplements and weight loss were the most prominent misinformation topics examined in food-related posts by popular influencers across 16 European countries.",
-      "date": "2026-09-18",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "authors": "TechCrunch AI",
+      "abstract": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "date": "2026-09-19",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-supplements-weight-loss-misinformation-themes.html",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "weight",
-        "loss",
-        "supplements",
-        "misinformation",
-        "posts",
-        "themes",
-        "influencer",
-        "analyzed"
+        "norwood",
+        "tilly",
+        "press",
+        "tour",
+        "going",
+        "about",
+        "well",
+        "expect"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.563003+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.289995+00:00"
     },
     {
-      "id": "rss-1f1bc90c4f97",
-      "discipline": "clinical",
+      "id": "rss-3f78844d57e5",
+      "discipline": "cs",
       "type": "news",
-      "title": "B cells may help predict risk of colitis from immunotherapy",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at The University of Texas MD Anderson Cancer Center have identified a previously unknown role for B cells, adaptive immune cells, in triggering and sustaining colitis as a side effect of immune checkpoint inhibitors, a widely used form of cancer immunotherapy.",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "authors": "TechCrunch AI",
+      "abstract": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
       "date": "2026-09-18",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-cells-colitis-immunotherapy.html",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cells",
-        "colitis",
-        "immunotherapy",
-        "cancer",
-        "immune",
-        "help",
-        "predict",
-        "risk"
+        "startups",
+        "startup",
+        "that",
+        "builds",
+        "other",
+        "raised",
+        "all-in",
+        "physical"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.563221+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.290164+00:00"
     },
     {
-      "id": "rss-55d4bc45f6ab",
-      "discipline": "clinical",
+      "id": "rss-2e30e478e4f8",
+      "discipline": "cs",
       "type": "news",
-      "title": "Screening method identifies leukemia drug candidates from more than 4 million compounds",
-      "authors": "Medical Xpress",
-      "abstract": "A cancer cell behaves differently from a healthy cell, with unique features that enable rapid growth and bypass quality controls. Rice University's Natasha Kirienko is interested in finding these unique features and exploiting them to advance cancer treatments. In a paper recently published in the journal Leukemia, her team used a new screening method to identify drugs that could target these unique features, or vulnerabilities, of cancer cells without unduly harming healthy cells.",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "authors": "TechCrunch AI",
+      "abstract": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
       "date": "2026-09-18",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-screening-method-leukemia-drug-candidates.html",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cancer",
-        "unique",
-        "features",
-        "screening",
-        "method",
-        "leukemia",
-        "cell",
-        "healthy"
+        "that",
+        "anthropic",
+        "have",
+        "been",
+        "operating",
+        "conducts",
+        "biology",
+        "experiments"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.563469+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.290333+00:00"
     },
     {
-      "id": "rss-9a1a49ef3853",
-      "discipline": "clinical",
+      "id": "rss-633104ca85c3",
+      "discipline": "cs",
       "type": "news",
-      "title": "Brain circuit linked to food cravings during pregnancy identified",
-      "authors": "Medical Xpress",
-      "abstract": "Why do food cravings become so strong during pregnancy? Researchers at LSU's Pennington Biomedical Research Center, in collaboration with colleagues, have identified a brain mechanism that may help explain how pregnancy changes motivation to seek certain highly palatable foods. This collaborative study was led by Dr. Yanlin He of Pennington Biomedical Research Center, together with Dr. Pingwen Xu of the University of Illinois Chicago and Dr. Chunmei Wang of Baylor College of Medicine.",
+      "title": "AI hallucination nearly triggers US military operation",
+      "authors": "TechCrunch AI",
+      "abstract": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
       "date": "2026-09-18",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-brain-circuit-linked-food-cravings.html",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "pregnancy",
-        "brain",
-        "food",
-        "cravings",
-        "during",
-        "identified",
-        "pennington",
-        "biomedical"
+        "hallucination",
+        "nearly",
+        "triggers",
+        "military",
+        "operation",
+        "important",
+        "service",
+        "members"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.563705+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.290530+00:00"
+    },
+    {
+      "id": "rss-07c44ad3ac4b",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "authors": "TechCrunch AI",
+      "abstract": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "date": "2026-09-18",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "accenture",
+        "anthropic",
+        "first",
+        "embedded",
+        "evaluator",
+        "about",
+        "take",
+        "most"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-19T04:33:46.290690+00:00"
     },
     {
       "id": "rss-96d1d6298ed0",
@@ -484,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.623762+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.290880+00:00"
     },
     {
       "id": "rss-ef317b7ddbed",
@@ -516,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.623961+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.291037+00:00"
     },
     {
       "id": "rss-38cfcefff3e1",
@@ -548,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.624146+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.291216+00:00"
     },
     {
       "id": "rss-0d091c19ecd3",
@@ -580,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.624317+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.291428+00:00"
     },
     {
       "id": "rss-e64474bb3d4b",
@@ -612,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.624560+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.291705+00:00"
     },
     {
       "id": "rss-5934c09d8405",
@@ -644,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.624778+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.291962+00:00"
     },
     {
       "id": "rss-b5018abbd6ef",
@@ -676,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.624915+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.292125+00:00"
     },
     {
       "id": "rss-5990e68ea8e9",
@@ -708,135 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.625073+00:00"
-    },
-    {
-      "id": "rss-e8c153676bac",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-      "authors": "TechCrunch AI",
-      "abstract": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-      "date": "2026-09-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "your",
-        "muse",
-        "take",
-        "meta",
-        "hits",
-        "letting",
-        "actions",
-        "computer"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.625251+00:00"
-    },
-    {
-      "id": "rss-4850c317f696",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-      "authors": "TechCrunch AI",
-      "abstract": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-      "date": "2026-09-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "robinhood",
-        "abhishek",
-        "fatehpuria",
-        "winning",
-        "modern",
-        "financial",
-        "consumer",
-        "techcrunch"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.625408+00:00"
-    },
-    {
-      "id": "rss-3e9e410a0ebd",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "authors": "TechCrunch AI",
-      "abstract": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-      "date": "2026-09-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "researchers",
-        "used",
-        "anthropic",
-        "claude",
-        "openai",
-        "hack",
-        "security",
-        "exploit"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.625564+00:00"
-    },
-    {
-      "id": "rss-2942ea5ce917",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-      "authors": "TechCrunch AI",
-      "abstract": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "date": "2026-09-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "exhibit",
-        "disrupt",
-        "your",
-        "clock",
-        "ticking",
-        "final",
-        "hours",
-        "techcrunch"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.625715+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.292313+00:00"
     },
     {
       "id": "rss-38146f5c87bf",
@@ -868,71 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.716448+00:00"
-    },
-    {
-      "id": "rss-272b87261e82",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "authors": "TechCrunch AI",
-      "abstract": "The round values the data center giant at $30.9 billion.",
-      "date": "2026-09-17",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "crusoe",
-        "raises",
-        "build",
-        "massive",
-        "centers",
-        "small",
-        "modular",
-        "factories"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.625845+00:00"
-    },
-    {
-      "id": "rss-f1b0739ba005",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "authors": "TechCrunch AI",
-      "abstract": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
-      "date": "2026-09-17",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "deepmind",
-        "institute",
-        "they",
-        "will",
-        "launches",
-        "widen",
-        "debate"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.626005+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.359932+00:00"
     },
     {
       "id": "rss-188abdd7fd48",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:15.014437+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.590452+00:00"
     },
     {
       "id": "rss-a74392b37559",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.716615+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.360119+00:00"
     },
     {
       "id": "rss-040fa3bc1672",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.716754+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.360278+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1060,7 +1060,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.388117+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.250570+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:15.014672+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.590717+00:00"
     },
     {
       "id": "rss-b0ad43b43ecb",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:15.014857+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.590927+00:00"
     },
     {
       "id": "rss-3975041a07bd",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.716910+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.360497+00:00"
     },
     {
       "id": "rss-d4de56183b8d",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.717044+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.360672+00:00"
     },
     {
       "id": "rss-7dcdb7c08293",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.717215+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.360846+00:00"
     },
     {
       "id": "rss-0aa9231559e8",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:15.015431+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.591522+00:00"
     },
     {
       "id": "rss-77c91c056111",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.717365+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.361018+00:00"
     },
     {
       "id": "rss-4bb6898d3482",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:15.015915+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.592034+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1348,7 +1348,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.391055+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.253750+00:00"
     },
     {
       "id": "rss-54300972963a",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:15.016108+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.592259+00:00"
     },
     {
       "id": "rss-341504e67552",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.717491+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.361169+00:00"
     },
     {
       "id": "rss-e51d07a6b736",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.717640+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.361346+00:00"
     },
     {
       "id": "rss-40f54edf2446",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:15.016797+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.592877+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1508,7 +1508,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.387333+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.249688+00:00"
     },
     {
       "id": "rss-920fbd87ebe7",
@@ -1540,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.717779+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.361586+00:00"
     },
     {
       "id": "rss-212fba1ccc92",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.717904+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.361749+00:00"
     },
     {
       "id": "rss-7849fc211ef2",
@@ -1604,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:15.017162+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.593234+00:00"
     },
     {
       "id": "rss-eb2e1816547e",
@@ -1636,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:15.017600+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.593727+00:00"
     },
     {
       "id": "rss-8921f471d133",
@@ -1668,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:15.017813+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.593968+00:00"
     },
     {
       "id": "rss-86e8b2b3fe45",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.718025+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.361901+00:00"
     },
     {
       "id": "rss-210f19a3c800",
@@ -1732,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.718169+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.362064+00:00"
     },
     {
       "id": "openalex-ecd3ebebd570",
@@ -1764,7 +1764,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.268771+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.953057+00:00"
     },
     {
       "id": "rss-1912139c3820",
@@ -1796,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:14.718299+00:00"
+      "_retrievedAt": "2026-09-19T04:33:46.362221+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1828,7 +1828,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.876182+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.576031+00:00"
     },
     {
       "id": "openalex-d78a9511ef89",
@@ -1860,7 +1860,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.592519+00:00"
+      "_retrievedAt": "2026-09-19T04:33:38.303945+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1892,7 +1892,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.266434+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.950573+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1924,7 +1924,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.590750+00:00"
+      "_retrievedAt": "2026-09-19T04:33:38.302009+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1956,7 +1956,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.876504+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.576364+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1988,7 +1988,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.874879+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.574646+00:00"
     },
     {
       "id": "openalex-a0089f3bc951",
@@ -2020,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.592894+00:00"
+      "_retrievedAt": "2026-09-19T04:33:38.304348+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2052,7 +2052,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.875216+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.574991+00:00"
+    },
+    {
+      "id": "openalex-31da6159b300",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Accelerating biomass loss from forest disturbances across Europe",
+      "authors": "Katja Kowalski, Alba Viana‐Soto, Martin Brandt, Philippe Ciais, Wanda De Keersmaecker, Rasmus Fensholt",
+      "abstract": "Abstract Forest disturbances are rising globally due to climate change and land-use pressures, weakening the terrestrial carbon sink. However, declines in aboveground biomass from tree cover loss remain poorly quantified, limiting our understanding of the role of disturbances in global carbon dynamics. Here we present a spatially explicit estimate of aboveground biomass losses from natural disturbances and harvest across Europe’s 216 million hectares of forests, using satellite remote sensing. From 1985 to 2023, gross aboveground biomass losses totalled 6.5 ± 0.8 Pg. Of these, 18% were caused by high-severity natural disturbances, whereas stand-replacing harvests accounted for 82%. From 2018 onward, aboveground biomass losses increased by 46% reaching annual values unprecedented in the preceding four decades. This acceleration coincided with high natural disturbance activity in biomas...",
+      "date": "2026-08-05",
+      "year": 2026,
+      "journal": "Nature Geoscience",
+      "source": "Nature Geoscience",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41561-026-02032-y",
+      "doi": "10.1038/s41561-026-02032-y",
+      "pdfUrl": "https://www.nature.com/articles/s41561-026-02032-y.pdf",
+      "keywords": [
+        "Environmental science",
+        "Biomass (ecology)",
+        "Carbon sink",
+        "Temperate climate",
+        "Disturbance (geology)",
+        "Remote Sensing and LiDAR Applications",
+        "Forest Ecology and Biodiversity Studies",
+        "Forest Management and Policy"
+      ],
+      "readTime": "1 min",
+      "citedBy": 2,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-19T04:33:38.304717+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2084,7 +2116,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.392053+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.254880+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2116,7 +2148,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.873033+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.572667+00:00"
     },
     {
       "id": "openalex-764f0dadc5c7",
@@ -2148,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.269083+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.953391+00:00"
     },
     {
       "id": "openalex-ccab700ac08b",
@@ -2180,7 +2212,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.269402+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.953737+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2212,7 +2244,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.587927+00:00"
+      "_retrievedAt": "2026-09-19T04:33:38.299324+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2244,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.588298+00:00"
+      "_retrievedAt": "2026-09-19T04:33:38.299735+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2276,7 +2308,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.388901+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.251358+00:00"
+    },
+    {
+      "id": "openalex-3d03dfc7e37b",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study",
+      "authors": "Michael Pavlides, Yasaman Vali, Ferenc E. Mózes, Kristy Wonders, Salma Akhtar, Paul Hockings",
+      "abstract": "There is a need for robust evaluations of noninvasive biomarkers for metabolic dysfunction-associated steatotic liver disease. This prospective multicenter study assessed the diagnostic accuracy of imaging (including liver stiffness measurement (LSM) using magnetic resonance elastography (MRE) and FibroScan (vibration-controlled transient elastography (VCTE)), serum biomarkers (including NIS2+) and composite scores (including Agile 3+ and Agile 4) for centrally read steatohepatitis and fibrosis. For cirrhosis, several biomarkers exceeded the minimum acceptable performance criterion (MAC), including MRE (area under the receiver operating curve (AUC) 0.91; P < 0.01), VCTE-LSM (AUC 0.87; P < 0.01), Agile 3+ (AUC 0.89; P < 0.01) and Agile 4 (AUC 0.88; P < 0.01). Among 357 participants, fibrosis stages F0-F4 were present in 12%, 16%, 25%, 32% and 15%, respectively. NIS2+ had the highest di...",
+      "date": "2026-07-24",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04496-2",
+      "doi": "10.1038/s41591-026-04496-2",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04496-2.pdf",
+      "keywords": [
+        "Magnetic resonance elastography",
+        "Steatohepatitis",
+        "Medicine",
+        "Transient elastography",
+        "Elastography",
+        "Liver Disease Diagnosis and Treatment",
+        "Liver Disease and Transplantation",
+        "Nutrition and Health in Aging"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-19T04:33:37.954112+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2308,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.874191+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.573891+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2340,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.876777+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.576699+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2372,7 +2436,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.390820+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.253475+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2404,7 +2468,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.387735+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.250139+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2436,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.875507+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.575295+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2468,7 +2532,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.264514+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.948877+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2500,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.591022+00:00"
+      "_retrievedAt": "2026-09-19T04:33:38.302297+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2532,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.877092+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.577037+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2564,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.589752+00:00"
+      "_retrievedAt": "2026-09-19T04:33:38.301234+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2596,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.590113+00:00"
+      "_retrievedAt": "2026-09-19T04:33:38.301628+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2628,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.874525+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.574239+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -2660,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.591472+00:00"
+      "_retrievedAt": "2026-09-19T04:33:38.302763+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2692,7 +2756,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.265423+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.949840+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2724,7 +2788,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.389913+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.252485+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2756,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.875848+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.575696+00:00"
     },
     {
       "id": "openalex-f64c9923322b",
@@ -2788,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.877394+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.577327+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2820,7 +2884,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.389233+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.251725+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2852,7 +2916,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.389631+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.252152+00:00"
     },
     {
       "id": "openalex-c3aaf692321e",
@@ -2884,7 +2948,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.267210+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.951370+00:00"
+    },
+    {
+      "id": "openalex-bb50663ea11d",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Cropland parcels mapping method and distribution characteristics in northeast china's black soil region based on meter-level remote sensing images and cloud platform",
+      "authors": "Jia Zheng, Ting-yan Guo, Huanjun Liu, X B Zheng, Z Tao, Chunmei Wang",
+      "abstract": "Cropland parcels (CPs) constitute the fundamental physical units of agricultural production and management. However, their regional-scale mapping from meter-level very-high-resolution (VHR) imagery remains challenging due to computational constraints, tile-induced boundary fragmentation, and semantic confusion associated with single-date observations. To address these challenges, we develop a cloud-based method for large-scale cropland parcel mapping from meter-level VHR imagery. This method consists of geospatial tiling, HRNet-based boundary extraction from VHR imagery, and parcel-level post-processing, including morphology-based parcel merging and Sentinel-2 phenology-based filtering. This framework enables efficient large-area processing while preserving parcel continuity and boundary integrity. Using this framework, we generate NECCPB-1, a high-resolution cropland parcel boundary...",
+      "date": "2026-06-23",
+      "year": 2026,
+      "journal": "GIScience & Remote Sensing",
+      "source": "GIScience & Remote Sensing",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1080/15481603.2026.2690325",
+      "doi": "10.1080/15481603.2026.2690325",
+      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/15481603.2026.2690325?needAccess=true",
+      "keywords": [
+        "Remote sensing",
+        "Boundary (topology)",
+        "Geospatial analysis",
+        "Environmental science",
+        "Land cover",
+        "Remote Sensing in Agriculture",
+        "Land Use and Ecosystem Services",
+        "Remote-Sensing Image Classification"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-19T04:33:38.303189+00:00"
     },
     {
       "id": "openalex-a29127dc905f",
@@ -2916,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.267530+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.951733+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2948,7 +3044,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.264722+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.949101+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -2980,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.588597+00:00"
+      "_retrievedAt": "2026-09-19T04:33:38.300038+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -3008,11 +3104,11 @@
         "Microbial Community Ecology and Physiology"
       ],
       "readTime": "1 min",
-      "citedBy": 8,
+      "citedBy": 9,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.873917+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.573610+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -3044,7 +3140,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.388554+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.250986+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -3076,7 +3172,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.390207+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.252773+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -3108,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.267833+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.952058+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -3140,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.588974+00:00"
+      "_retrievedAt": "2026-09-19T04:33:38.300444+00:00"
     },
     {
       "id": "openalex-e83a54581c00",
@@ -3172,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.268136+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.952364+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -3204,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.591853+00:00"
+      "_retrievedAt": "2026-09-19T04:33:38.303633+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
@@ -3236,7 +3332,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.392436+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.255243+00:00"
     },
     {
       "id": "openalex-c696aff78c58",
@@ -3268,7 +3364,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.391337+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.254051+00:00"
     },
     {
       "id": "openalex-33d4ca0564d8",
@@ -3296,11 +3392,11 @@
         "Chronic Myeloid Leukemia Treatments"
       ],
       "readTime": "1 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
+      "citedBy": 10,
+      "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.266088+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.950197+00:00"
     },
     {
       "id": "openalex-d767b74ad31a",
@@ -3332,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.266830+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.950984+00:00"
     },
     {
       "id": "openalex-93ba88b6125e",
@@ -3364,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.268563+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.952838+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -3396,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.589376+00:00"
+      "_retrievedAt": "2026-09-19T04:33:38.300850+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -3428,7 +3524,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.390516+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.253096+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -3460,103 +3556,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:05.391778+00:00"
-    },
-    {
-      "id": "openalex-0fed25de6e90",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Lactate metabolism and lactylation in cancer: from pathogenesis to therapeutic advances",
-      "authors": "Chunyao Fang, Suiqing Zhou, Kai Yu, Liren Zhang, Wenxin Lian, Xiaofeng Tie",
-      "abstract": "Lactate and its mediated modification, lactylation, are receiving increasing attention in the field of tumor biology. This review provides a comprehensive overview of the mechanistic involvement of lactate and lactylation in key oncogenic processes, such as tumor initiation, proliferation, invasion, metastasis, recurrence, and drug resistance. Rather than being a passive byproduct of glycolysis, lactate actively shapes the tumor microenvironment (TME), modulates immune responses, drives metabolic adaptation, and influences epigenetic and transcriptomic regulation. Lactylation, as a novel epigenetic mechanism, links cellular metabolism with gene expression by modifying histone and nonhistone proteins, thereby regulating chromatin accessibility, immune evasion, and DNA repair. Notably, this article proposes a new perspective: lactate accumulation in certain tumors may constitute an adap...",
-      "date": "2026-05-21",
-      "year": 2026,
-      "journal": "Signal Transduction and Targeted Therapy",
-      "source": "Signal Transduction and Targeted Therapy",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41392-026-02672-x",
-      "doi": "10.1038/s41392-026-02672-x",
-      "pdfUrl": "https://www.nature.com/articles/s41392-026-02672-x.pdf",
-      "keywords": [
-        "Pathogenesis",
-        "Medicine",
-        "Pharmacology",
-        "Metabolism",
-        "Bioinformatics",
-        "Cancer, Hypoxia, and Metabolism",
-        "Metabolism, Diabetes, and Cancer",
-        "Amino Acid Enzymes and Metabolism"
-      ],
-      "readTime": "1 min",
-      "citedBy": 10,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.265752+00:00"
-    },
-    {
-      "id": "openalex-fcbf1470edaa",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Abrupt stream acidification and metal mobilization from permafrost degradation",
-      "authors": "Elliott K. Skierszkan, Andras J. Szeitz, Matthew B.J. Lindsay, Sean K. Carey",
-      "abstract": "Stream chemistry and ecosystem function are being transformed by abrupt acceleration of sulfide-mineral oxidation in permafrost-underlain headwater catchments of the Yukon and Mackenzie river basins-the two largest (sub)Arctic rivers in North America. Over the past decade, dozens of acidic (pH ~3) seepages have emerged in these headwaters, causing vegetation dieback and mobilizing metals at acutely toxic concentrations in receiving streams. Acid generated during sulfide-mineral oxidation also accelerates carbon dioxide emissions by driving carbonate-mineral dissolution. Downstream (sub)Arctic rivers show statistically significant multidecadal increases in sulfate concentrations, yet their metal concentrations remain stable because of attenuation and dilution processes. Headwater stream acidification signals a major perturbation in metal, carbon, and sulfur cycling linked to permafrost...",
-      "date": "2026-05-21",
-      "year": 2026,
-      "journal": "Science",
-      "source": "Science",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1126/science.aea2898",
-      "doi": "10.1126/science.aea2898",
-      "pdfUrl": "https://hdl.handle.net/20.500.14718/45038",
-      "keywords": [
-        "Biogeochemical cycle",
-        "Permafrost",
-        "Ecosystem",
-        "Sulfate",
-        "Environmental science",
-        "Climate change and permafrost",
-        "Smart Materials for Construction",
-        "Mine drainage and remediation techniques"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.590381+00:00"
-    },
-    {
-      "id": "openalex-218d85dc8916",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Enhancing soil science research with multi-agent artificial intelligence systems",
-      "authors": "Budiman Minasny, Alex McBratney, José A.M. Demattê, Mercedes Román Dobarco, Pete Smith",
-      "abstract": "Soil science is entering a new era characterized by the integration of artificial intelligence (AI) multi-agent systems, extending the field beyond traditional machine learning (ML) applications such as digital soil mapping and spectroscopy. While current ML tools are effective for specific tasks, they often lack the reasoning, contextual integration, and adaptability required to address complex, dynamic soil systems. We propose multi-agent AI systems—autonomous, interactive software agents capable of perceptual processing, planning, and scientific reasoning—as a novel framework to support and accelerate soil science research. These agents can fulfill diverse roles, including synthesizing data from field sensors and remote sensing to create dynamic digital soil twins, generating hypotheses, designing experiments, and simulating climate-driven changes in soil function. To illustrate th...",
-      "date": "2026-05-21",
-      "year": 2026,
-      "journal": "Frontiers in Science",
-      "source": "Frontiers in Science",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fsci.2026.1721295",
-      "doi": "10.3389/fsci.2026.1721295",
-      "pdfUrl": "https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2026.1721295/pdf",
-      "keywords": [
-        "Computer science",
-        "Adaptability",
-        "Field (mathematics)",
-        "Data science",
-        "Artificial intelligence",
-        "Soil Geostatistics and Mapping",
-        "Scientific Computing and Data Management",
-        "Geochemistry and Geologic Mapping"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-18T20:52:06.592244+00:00"
+      "_retrievedAt": "2026-09-19T04:33:37.254564+00:00"
     }
   ]
 }
