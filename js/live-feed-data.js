@@ -1,11 +1,139 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-09-22T04:50:27.915196+00:00",
+  "generatedAt": "2026-09-22T11:33:19.252976+00:00",
   "total": 111,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-3ea477c0ce06",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Researchers highlight how brain economy principles could transform clinical care",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers from The University of Texas Medical Branch (UTMB) are helping advance a growing global movement that reimagines health care through the lens of brain health.",
+      "date": "2026-09-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-highlight-brain-economy-principles-clinical.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "researchers",
+        "brain",
+        "care",
+        "health",
+        "highlight",
+        "economy",
+        "principles",
+        "could"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-22T11:33:18.804493+00:00"
+    },
+    {
+      "id": "rss-ebc8e7223fe3",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Patients with chronic pain may benefit from group medical visits",
+      "authors": "Medical Xpress",
+      "abstract": "More than one in five U.S. adults lives with chronic pain, which isolation and stigma can worsen. Group medical visits allow multiple patients with a common condition to receive care alongside health education and peer support.",
+      "date": "2026-09-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-patients-chronic-pain-benefit-group.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "patients",
+        "chronic",
+        "pain",
+        "group",
+        "medical",
+        "visits",
+        "benefit",
+        "more"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-22T11:33:18.804758+00:00"
+    },
+    {
+      "id": "rss-f17376a4906d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Brain-mapping framework reveals shifts in information flow during pain and movie watching",
+      "authors": "Medical Xpress",
+      "abstract": "In the brain, information travels among distributed networks, groups of interconnected regions that work together and contribute to specific behaviors, feelings or thoughts. To study how information travels through these networks under different conditions, many neuroscientists rely on functional magnetic resonance imaging (fMRI), a noninvasive imaging technique that measures blood-oxygen changes indirectly linked to neural activity.",
+      "date": "2026-09-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-brain-framework-reveals-shifts-pain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "information",
+        "travels",
+        "networks",
+        "that",
+        "imaging",
+        "brain-mapping",
+        "framework",
+        "reveals"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-22T11:33:18.805064+00:00"
+    },
+    {
+      "id": "rss-2ceeca4236b3",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Physician warmth and competence may help patients worry less over normal test results",
+      "authors": "Medical Xpress",
+      "abstract": "Communicating normal test results that reveal no abnormalities isn't always enough to ease a patient's worries. In a study published in The Annals of Family Medicine journal, researchers asked 349 participants to imagine having gastrointestinal symptoms and a relative recently diagnosed with bowel cancer. Participants then watched one of four videos in which a physician delivered the same identical normal test results.",
+      "date": "2026-09-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-physician-warmth-patients-results.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "normal",
+        "test",
+        "results",
+        "physician",
+        "participants",
+        "warmth",
+        "competence",
+        "help"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-22T11:33:18.805345+00:00"
+    },
     {
       "id": "rss-5d03c2535bf0",
       "discipline": "clinical",
@@ -36,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.271685+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.805615+00:00"
     },
     {
       "id": "rss-dc1a1c96de30",
@@ -68,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.271970+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.805916+00:00"
     },
     {
       "id": "rss-b28cbe897078",
@@ -100,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.272196+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.806168+00:00"
     },
     {
       "id": "rss-4fe099fae71e",
@@ -132,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.272440+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.806434+00:00"
     },
     {
       "id": "rss-2089aa4bacc9",
@@ -164,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.272721+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.806724+00:00"
     },
     {
       "id": "rss-5941d5a95e71",
@@ -196,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.272921+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.806980+00:00"
     },
     {
       "id": "rss-da502d1a96ce",
@@ -228,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.273108+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.807199+00:00"
     },
     {
       "id": "rss-2b0f9b5a3596",
@@ -260,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.273315+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.807435+00:00"
     },
     {
       "id": "rss-839536420126",
@@ -292,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.273554+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.807706+00:00"
     },
     {
       "id": "rss-00a57faa37d3",
@@ -324,135 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.273831+00:00"
-    },
-    {
-      "id": "rss-ecdea9513584",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Lupus patients can lower their heart disease risk by sticking to one common treatment, study says",
-      "authors": "Medical Xpress",
-      "abstract": "Lupus patients can significantly decrease their risk of heart disease if they consistently take their medication, a new study says. People with lupus had a higher risk of heart disease if they didn't consistently take hydroxychloroquine (HCQ), the most common treatment for the disease, researchers report in the journal Arthritis Care & Research.",
-      "date": "2026-09-22",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-lupus-patients-heart-disease-common.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "disease",
-        "lupus",
-        "their",
-        "heart",
-        "risk",
-        "patients",
-        "common",
-        "treatment"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.274066+00:00"
-    },
-    {
-      "id": "rss-c593641ea890",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "U.S. alcohol use falls for first time since the COVID-19 pandemic but remains above pre-pandemic levels",
-      "authors": "Medical Xpress",
-      "abstract": "Alcohol use among U.S. adults has fallen for the first time since the COVID-19 pandemic began, though rates remain higher than pre-pandemic levels, according to a new Keck Medicine of USC study published in Annals of Internal Medicine.",
-      "date": "2026-09-22",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-alcohol-falls-covid-pandemic-pre.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "alcohol",
-        "first",
-        "time",
-        "since",
-        "covid-",
-        "pandemic",
-        "pre-pandemic",
-        "levels"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.274276+00:00"
-    },
-    {
-      "id": "rss-d9e518dd25de",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "A stubborn medical mystery: Insights into signs and origins of a disorder that causes overly flexible joints",
-      "authors": "Medical Xpress",
-      "abstract": "Some genetic disorders have a clear connection between the affected gene product and the suite of symptoms produced. But genes do not work in isolation, and many other conditions can be bafflingly complex, as when an affected gene product affects the function of many tissues throughout the body. Ehlers-Danlos syndrome, a collection of genetic disorders of connective tissue, is particularly challenging for those who live with it because of its varied and poorly understood effects.",
-      "date": "2026-09-22",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-stubborn-medical-mystery-insights-disorder.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "genetic",
-        "disorders",
-        "affected",
-        "gene",
-        "product",
-        "many",
-        "stubborn",
-        "medical"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.274529+00:00"
-    },
-    {
-      "id": "rss-19ebd3e1b5af",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Experimental drug raises energy expenditure but fails to activate brown fat in human study",
-      "authors": "Medical Xpress",
-      "abstract": "Brown fat burns energy to generate heat and is therefore considered a promising target for new obesity treatments. Researchers at the University of Basel and University Hospital Basel have tested whether a drug can activate brown fat in humans. Their results show that a pharmaceutical approach may be more difficult than expected.",
-      "date": "2026-09-22",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-experimental-drug-energy-expenditure-brown.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "brown",
-        "drug",
-        "energy",
-        "activate",
-        "university",
-        "basel",
-        "experimental",
-        "raises"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.274766+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.808023+00:00"
     },
     {
       "id": "rss-3009615246ec",
@@ -484,7 +484,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.398082+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.865088+00:00"
     },
     {
       "id": "rss-7ccbf269c3f1",
@@ -516,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.398281+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.865305+00:00"
     },
     {
       "id": "rss-df0429b07268",
@@ -548,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.398480+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.865525+00:00"
     },
     {
       "id": "rss-bd17858b5771",
@@ -580,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.398644+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.865715+00:00"
     },
     {
       "id": "rss-4eea84eb1d0d",
@@ -612,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.398824+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.865917+00:00"
     },
     {
       "id": "rss-445454600554",
@@ -644,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.398971+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.866100+00:00"
     },
     {
       "id": "rss-ae603905cd4b",
@@ -676,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.399131+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.866293+00:00"
     },
     {
       "id": "rss-cc0ce9215762",
@@ -708,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.399269+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.866459+00:00"
     },
     {
       "id": "rss-e86aa76ac1e2",
@@ -740,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.399412+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.866632+00:00"
     },
     {
       "id": "rss-6c84fb5b4f4b",
@@ -772,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.399574+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.866814+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -804,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.791869+00:00"
+      "_retrievedAt": "2026-09-22T11:33:19.115202+00:00"
     },
     {
       "id": "rss-11b1822f9a4a",
@@ -836,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.792151+00:00"
+      "_retrievedAt": "2026-09-22T11:33:19.115504+00:00"
     },
     {
       "id": "rss-5068f0d4c798",
@@ -868,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.399727+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.867021+00:00"
     },
     {
       "id": "rss-4d4a9e0f07e8",
@@ -900,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.399886+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.867215+00:00"
     },
     {
       "id": "rss-d977e1370622",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.400008+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.867368+00:00"
     },
     {
       "id": "rss-cc68827b77f6",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.400134+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.867522+00:00"
     },
     {
       "id": "rss-38146f5c87bf",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.605734+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.934960+00:00"
     },
     {
       "id": "rss-188abdd7fd48",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.792346+00:00"
+      "_retrievedAt": "2026-09-22T11:33:19.115731+00:00"
     },
     {
       "id": "rss-a74392b37559",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.605905+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.935155+00:00"
     },
     {
       "id": "rss-040fa3bc1672",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.606043+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.935316+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:18.743411+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.113787+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.792550+00:00"
+      "_retrievedAt": "2026-09-22T11:33:19.115996+00:00"
     },
     {
       "id": "rss-b0ad43b43ecb",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.792735+00:00"
+      "_retrievedAt": "2026-09-22T11:33:19.116199+00:00"
     },
     {
       "id": "rss-3975041a07bd",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.606201+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.935492+00:00"
     },
     {
       "id": "rss-d4de56183b8d",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.606335+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.935653+00:00"
     },
     {
       "id": "rss-7dcdb7c08293",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.606480+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.935820+00:00"
     },
     {
       "id": "rss-0aa9231559e8",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.793267+00:00"
+      "_retrievedAt": "2026-09-22T11:33:19.116735+00:00"
     },
     {
       "id": "rss-77c91c056111",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.606619+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.936024+00:00"
     },
     {
       "id": "rss-4bb6898d3482",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.793756+00:00"
+      "_retrievedAt": "2026-09-22T11:33:19.117241+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:18.748506+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.116849+00:00"
     },
     {
       "id": "rss-54300972963a",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.793953+00:00"
+      "_retrievedAt": "2026-09-22T11:33:19.117457+00:00"
     },
     {
       "id": "rss-341504e67552",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.606756+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.936176+00:00"
     },
     {
       "id": "rss-e51d07a6b736",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.606903+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.936352+00:00"
     },
     {
       "id": "rss-40f54edf2446",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.794510+00:00"
+      "_retrievedAt": "2026-09-22T11:33:19.118085+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:18.742602+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.112972+00:00"
     },
     {
       "id": "rss-920fbd87ebe7",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.607041+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.936516+00:00"
     },
     {
       "id": "rss-212fba1ccc92",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.607167+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.936667+00:00"
     },
     {
       "id": "rss-7849fc211ef2",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.794873+00:00"
+      "_retrievedAt": "2026-09-22T11:33:19.118444+00:00"
     },
     {
       "id": "rss-86e8b2b3fe45",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.607288+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.936816+00:00"
     },
     {
       "id": "rss-210f19a3c800",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.607418+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.937004+00:00"
     },
     {
       "id": "openalex-ecd3ebebd570",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.418073+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.968479+00:00"
     },
     {
       "id": "rss-1912139c3820",
@@ -1796,14 +1796,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:27.607544+00:00"
+      "_retrievedAt": "2026-09-22T11:33:18.937161+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
       "discipline": "bio",
       "type": "paper",
       "title": "Triptolide sensitizes cancer cells to nucleoside DNA methyltransferase inhibitors through inhibition of DCTPP1-mediated cell-intrinsic resistance",
-      "authors": "Jianyong Liu, Qingli He, Jianya Zhou, Ajay Vaghasia, Roshan Chikarmane, Glenn Hauk",
+      "authors": "Jianyong Liu, Qingli He, Jianya Zhou, Ajay M. Vaghasia, Roshan Chikarmane, Glenn Hauk",
       "abstract": "Abnormal DNA hypermethylation mediated by DNA methyltransferases (DNMT) is a nearly universal hallmark of human cancers. However, while DNA methyltransferase inhibitors (DNMTi) such as decitabine and azacitidine are effective in treating myelodysplatic syndrome/leukemia, they have had limited utility for the majority of other cancers. Through a chemical library screen, we identify that triptolide, a diterpenoid epoxide from Tripterygium wilfordii, and multiple of its analogs, significantly augment the epigenetic and anti-cancer effects of decitabine in vitro and in vivo. These effects are attributable to inhibition of DCTPP1-mediated cleavage of 5-aza-deoxycytidine triphosphate, the convergent activated metabolite of nucleoside DNMTi, leading to enhanced drug incorporation into genomic DNA, increased DNMT degradation, enhanced DNA demethylation and associated transcriptional reprogram...",
       "date": "2026-08-26",
       "year": 2026,
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.114514+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.526742+00:00"
     },
     {
       "id": "openalex-d78a9511ef89",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.690506+00:00"
+      "_retrievedAt": "2026-09-22T11:33:11.381892+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1892,14 +1892,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.413927+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.965479+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
       "discipline": "geo",
       "type": "paper",
       "title": "Getting the story straight: common misconceptions around volcanoes and eruptions with case studies of recent events",
-      "authors": "Janine Krippner, Sam Poppe, Cristian Farías, Edward Venzke, M. P. Poland, Boris Behncke",
+      "authors": "Janine B. Krippner, Sam Poppe, Cristian Farías, Edward Venzke, Michael P. Poland, Boris Behncke",
       "abstract": "Abstract The ability to rapidly disseminate scientific knowledge across the world has never been greater. This is paralleled by the ability of rumors to spread equally far and fast. Popular misconceptions can take root and, without correction, take on the appearance of facts. Commonly misunderstood topics include those with attention-grabbing phrasing (e.g. “Pacific Ring of Fire”, “supervolcanoes”, or “mega-tsunamis”), the intersection of volcanic research with high-profile science topics (climate or human health), aspirational science goals (eruption forecasts), and basic terminology (volcanic ash versus smoke, or magma “chambers”). In this paper, we describe eighteen misconceptions grouped in six themes (seismology, volcanoes and climate, systems and structures, volcanic hazards, timescales, photographs and footage) commonly encountered by volcanologists who are actively engaging wi...",
       "date": "2026-08-19",
       "year": 2026,
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.688344+00:00"
+      "_retrievedAt": "2026-09-22T11:33:11.380442+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1956,14 +1956,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.114841+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.527098+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
       "discipline": "bio",
       "type": "paper",
       "title": "LRRK2 G2019S variant is associated with transcriptional changes in Parkinson’s disease human myeloid cells under proinflammatory environment",
-      "authors": "Elisa Navarro, Anastasia G. Efthymiou, Daniele Mattei, Madison Parks, Giulietta Riboldi, Ricardo A. Vialle",
+      "authors": "Elisa Navarro, Anastasia G. Efthymiou, Daniele Mattei, Madison Parks, Giulietta Maria Riboldi, Ricardo A. Vialle",
       "abstract": "The G2019S mutation in the leucine-rich repeat kinase 2 (LRRK2) gene is a major risk factor for the development of Parkinson's disease (PD). LRRK2, although ubiquitously expressed, is highly abundant in cells of the innate immune system. Given the importance of central and peripheral immune cells in the development of PD, we sought to investigate the consequences of the G2019S mutation on microglial and monocyte transcriptome and function. We have generated large-scale transcriptomic profiles of isogenic human induced microglial cells (iMGLs) and patient derived monocytes carrying the G2019S mutation under baseline culture conditions and following exposure to the proinflammatory factors IFNγ and LPS. We demonstrate that the G2019S mutation exerts a profound impact on the transcriptomic profile of these myeloid cells, and describe corresponding functional differences in iMGLs. The G201...",
       "date": "2026-08-08",
       "year": 2026,
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.113258+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.525409+00:00"
     },
     {
       "id": "openalex-a0089f3bc951",
@@ -2020,14 +2020,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.690900+00:00"
+      "_retrievedAt": "2026-09-22T11:33:11.382291+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
       "discipline": "bio",
       "type": "paper",
       "title": "Identification of methylation-sensitive human transcription factors using meSMiLE-seq",
-      "authors": "Antoni J. Gralak, Kateřina Faltejsková, Ally Yang, Clemence Steiner, Julie Russeil, Nadia Grenningloh",
+      "authors": "Antoni J. Gralak, Kateřina Faltejsková, Ally W. H. Yang, Clemence Steiner, Julie Russeil, Nadia Grenningloh",
       "abstract": "Transcription factors (TFs) are key players in eukaryotic gene regulation, but the DNA binding specificity of many TFs remains unknown. Here, we assayed 284 mostly poorly characterized, putative human TFs using selective microfluidics-based ligand enrichment followed by sequencing (SMiLE-seq), revealing 72 new DNA binding motifs. To investigate whether some of the 158 TFs for which we did not find motifs preferably bind epigenetically modified DNA (i.e. methylated CG dinucleotides), we developed methylation-sensitive SMiLE-seq (meSMiLE-seq). This microfluidic assay simultaneously probes the affinity of a protein to methylated and unmethylated DNA, augmenting the capabilities of the original method to infer methylation-aware binding sites. We assayed 114 TFs with meSMiLE-seq and identified DNA-binding models for 48 proteins, including the known methylation-sensitive binding modes for P...",
       "date": "2026-08-05",
       "year": 2026,
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.113568+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.525745+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2084,14 +2084,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:18.750357+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.117953+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
       "discipline": "bio",
       "type": "paper",
       "title": "Mapping enhancer–gene regulatory interactions from single-cell data",
-      "authors": "Maya U. Sheth, Wei‐Lin Qiu, X. Rosa, Andreas R. Gschwind, Evelyn Jagoda, Anthony S. Tan",
+      "authors": "Maya U. Sheth, Wei‐Lin Qiu, X. Rosa Ma, Andreas R. Gschwind, Evelyn Jagoda, Anthony S. Tan",
       "abstract": "Mapping enhancers and their target genes in specific cell types is crucial for understanding gene regulation and human disease genetics. However, accurately predicting enhancer-gene regulatory interactions from single-cell datasets has been challenging. Here we introduce a family of classification models, scE2G, to predict enhancer-gene regulation. These models use features from single-cell assay for transposase-accessible chromatin with sequencing (ATAC-seq) or multiomic RNA and ATAC-seq data, and are trained on a CRISPR perturbation dataset including >10,000 evaluated element-gene pairs. We benchmark scE2G models against CRISPR perturbations, fine-mapped expression quantitative trait loci and genome-wide association study variant-gene associations and demonstrate state-of-the-art performance at prediction tasks across several cell types and categories of perturbations. We apply scE2...",
       "date": "2026-08-01",
       "year": 2026,
@@ -2116,14 +2116,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.111444+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.523445+00:00"
     },
     {
       "id": "openalex-c47d537bde45",
       "discipline": "clinical",
       "type": "paper",
       "title": "Mixed Pain: Toward a Consensus Definition and a Mechanism‐Based Framework",
-      "authors": "Rainer Freynhagen, Bart Morlion, A. Alcántara Montero, Daniel Ciampi de Andrade, Andrés Hernández-Ortiz, Paul W. Hodges",
+      "authors": "Rainer Freynhagen, Bart Morlion, Antonio Alcántara Montero, Daniel Ciampi de Andrade, Andrés Hernández-Ortiz, Paul W. Hodges",
       "abstract": "BACKGROUND: For decades, clinicians and researchers have struggled to classify pain conditions that do not fit neatly into the nociceptive, neuropathic or nociplastic frameworks. Many common disorders-from chronic low back pain to cancer pain and osteoarthritis-exhibit overlapping mechanisms and have long fallen into the 'grey zone' of mixed pain. This area has intrigued researchers yet frustrated clinicians due to the absence of a clear, unified definition. METHODS: Through an international consensus process led by global leading experts, mixed pain has now been defined as pain that is associated with a lesion, disease or disorder resulting in an overlap of at least two mechanistic pain descriptors (nociceptive, neuropathic or nociplastic). CONCLUSIONS: This new definition may help provide the context needed to align research, refine diagnosis and design mechanism-based therapies for...",
       "date": "2026-08-01",
       "year": 2026,
@@ -2148,14 +2148,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.418441+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.968843+00:00"
     },
     {
       "id": "openalex-764f0dadc5c7",
       "discipline": "clinical",
       "type": "paper",
       "title": "Research agenda and related workforce requirements inspired by Lived Experience Experts and grounded in health equity for the Bleeding Disorders Research Collaborative",
-      "authors": "Jill M. Johnsen, Tyler W. Buckner, Glaivy Batsuli, Samantha Carlson, Erin Burke Cirelli, Donna DiMichele",
+      "authors": "Jill M. Johnsen, Tyler W. Buckner, Glaivy M. Batsuli, Samantha A. Carlson, Erin Burke Cirelli, Donna DiMichele",
       "abstract": "BACKGROUND: Inheritable bleeding disorders (BDs) research has not historically reflected the diversity or needs of the entire community. The National Bleeding Disorders Foundation charged seven multidisciplinary working groups (WGs) with developing a U.S. National Research Blueprint (NRB) for a Bleeding Disorders Research Collaborative (BDRC) inspired by Lived Experience Experts (LEE) and grounded in health equity, diversity, and inclusion (HEDI). RESEARCH DESIGN AND METHODS: The Research and Development and Workforce WGs, in collaboration with the HEDI and LEE WGs, met virtually and in-person to develop recommendations for BDRC operationalization. RESULTS: An agenda of 327 feasible research priorities spanning nine main topics, each with four to six scientific areas of interest is proposed. It captures the hope that new diagnostic and therapeutic technologies and innovative research...",
       "date": "2026-07-31",
       "year": 2026,
@@ -2180,39 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.418798+00:00"
-    },
-    {
-      "id": "openalex-ccab700ac08b",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Lived Experience Expert, community engagement, policy, and health equity, diversity, and inclusion elements of the Bleeding Disorders Research Collaborative",
-      "authors": "Kyle A. Davis, Nathan Mermilliod, Jeremy Griffin, Samantha Carlson, Erin Burke Cirelli, Michelle Conde",
-      "abstract": "BACKGROUND: The U.S. National Bleeding Disorders Foundation charged seven multidisciplinary working groups (WGs) with developing a National Research Blueprint (NRB) for a novel Bleeding Disorders Research Collaborative (BDRC) firmly rooted in health equity, diversity, and inclusion (HEDI) and centering the knowledge of people living with inheritable bleeding disorders, the Lived Experience Experts (LEEs). RESEARCH DESIGN AND METHODS: The HEDI, LEE, Community Engagement, and Policy WGs met virtually to develop recommendations for BDRC design and operationalization. RESULTS: Engaging, empowering, and elevating guidance and practices to ground BDRC research and operations in HEDI principles are detailed. The full potential of integrating LEE knowledge throughout research conduct and BDRC governance is explored, potential barriers identified, and solutions proposed. Investing in relations...",
-      "date": "2026-07-31",
-      "year": 2026,
-      "journal": "Expert Review of Hematology",
-      "source": "Expert Review of Hematology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1080/17474086.2026.2688870",
-      "doi": "10.1080/17474086.2026.2688870",
-      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/17474086.2026.2688870?needAccess=true",
-      "keywords": [
-        "Medicine",
-        "Lived experience",
-        "Inclusion (mineral)",
-        "Gerontology",
-        "Psychiatry",
-        "Mental Health and Patient Involvement",
-        "Health Policy Implementation Science",
-        "Diabetes Management and Education"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.419105+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.969204+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2244,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.685852+00:00"
+      "_retrievedAt": "2026-09-22T11:33:11.376982+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2276,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.686204+00:00"
+      "_retrievedAt": "2026-09-22T11:33:11.377343+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2308,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:18.744634+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.114585+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2340,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.112569+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.524677+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2372,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.115112+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.527388+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2404,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:18.748069+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.116590+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2436,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:18.743026+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.113388+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2468,14 +2436,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.113868+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.526064+00:00"
     },
     {
       "id": "openalex-56385e95541c",
       "discipline": "clinical",
       "type": "paper",
       "title": "Understanding graft-versus-host disease. Preliminary findings regarding the effects of exercise in affected patients",
-      "authors": "Carmen Fiuza‐Luces, Nuria Garatachea, Nathan A. Berger, Nathan A. Berger, Manuel Ramı́rez, Alejandro Lucía",
+      "authors": "Carmen Fiuza‐Luces, Nuria Garatachea, Nathan A. Berger, Nathan A. Berger, Manuel R. Ramírez, Alejandro Lucía",
       "abstract": "Advances in this century regarding allogeneic hematopoietic stem cell transplantation (allo-HSCT) have led to an expanding population of long-term survivors, many of whom suffer severe side effects, particularly those related to graft-versushost disease (GVHD), a potentially multi-systemic disorder caused by immunoeffector donor lymphocytes that destroy host tissues. The GVHD, especially in its chronic form (cGVHD), generates considerable morbidity and compromises the physical capacity of patients. We have reviewed the main pathophysiological aspects of the disease as well as the data available on the effects of exercise in GVHD, based on animal and human patient research. Although exercise training as an adjunct therapy to improve health outcomes after allo-HSCT shows promise (particularly, this lifestyle intervention can improve physical fitness and possibly immune function while at...",
       "date": "2026-07-15",
       "year": 2026,
@@ -2500,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.411105+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.963804+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2532,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.688620+00:00"
+      "_retrievedAt": "2026-09-22T11:33:11.380729+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -2560,11 +2528,11 @@ window.LIVE_FEED_DATA = {
         "Wind and Air Flow Studies"
       ],
       "readTime": "1 min",
-      "citedBy": 3,
+      "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.689016+00:00"
+      "_retrievedAt": "2026-09-22T11:33:11.378846+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2596,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.115434+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.527715+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2628,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.687621+00:00"
+      "_retrievedAt": "2026-09-22T11:33:11.379247+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2660,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.687984+00:00"
+      "_retrievedAt": "2026-09-22T11:33:11.379613+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2692,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.112909+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.525041+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -2724,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.689436+00:00"
+      "_retrievedAt": "2026-09-22T11:33:11.381199+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2756,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.412690+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.964746+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2788,14 +2756,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:18.746449+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.115643+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
       "discipline": "bio",
       "type": "paper",
       "title": "Transcriptional regulation of disease-relevant microglial activation programs",
-      "authors": "Amanda McQuade, Reet Mishra, Venus Hagan, Weiwei Liang, Peter Colias, Vincent Cele Castillo",
+      "authors": "Amanda McQuade, Reet Mishra, Venus Hagan, Weiwei Liang, Peter J. Colias, Vincent Cele Castillo",
       "abstract": "Summary Microglia, the brain’s innate immune cells, can adopt a wide variety of activation states relevant to health and disease. Dysregulation of microglial activation occurs in numerous brain disorders, and driving or inhibiting specific states could be therapeutic. To discover regulators of microglia activation states, we conducted CRISPR interference screens in iPSC-derived microglia for inhibitors and activators of six microglial states. We characterized 31 regulators at the single-cell transcriptomic and cell-surface proteome level in two distinct iPSC-derived microglia models, uncovering new protein markers of relevant states. We functionally characterized several multi- state regulators. ZNF532 and PRDM1 knockdown drive disease-associated, lipid-rich signatures and enhance phagocytosis while showing opposing effects on antigen-presentation signatures. DNMT1 knockdown results i...",
       "date": "2026-07-01",
       "year": 2026,
@@ -2820,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.114211+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.526421+00:00"
     },
     {
       "id": "openalex-f64c9923322b",
@@ -2852,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.115723+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.528030+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2884,14 +2852,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:18.745198+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.114924+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
       "discipline": "cs",
       "type": "paper",
       "title": "Traffic and road sign recognition",
-      "authors": "Hasan Fleyeh",
+      "authors": "Hasan A. Fleyeh",
       "abstract": "This thesis presents a system to recognise and classify road and traffic signs for the purpose of developing an inventory of them which could assist the highway engineers' tasks of updating and maintaining them. It uses images taken by a camera from a moving vehicle. The system is based on three major stages: colour segmentation, recognition, and classification. Four colour segmentation algorithms are developed and tested. They are a shadow and highlight invariant, a dynamic threshold, a modification of de la Escalera's algorithm and a Fuzzy colour segmentation algorithm. All algorithms are tested using hundreds of images and the shadow-highlight invariant algorithm is eventually chosen as the best performer. This is because it is immune to shadows and highlights. It is also robust as it was tested in different lighting conditions, weather conditions, and times of the day. Approximate...",
       "date": "2026-06-23",
       "year": 2026,
@@ -2916,14 +2884,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:18.745918+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.115340+00:00"
     },
     {
       "id": "openalex-c3aaf692321e",
       "discipline": "clinical",
       "type": "paper",
       "title": "Hyperpolarization of [1‐ 13 C]Ketoisocaproate‐d 2 by Reversible Exchange with Parahydrogen Enables Profiling of Branched‐Chain‐Amino‐Acid Metabolism in Cellulo and in Vivo",
-      "authors": "Stefan Petersen, Philipp Groß, Paul M. Schmidt, Henri de Maissin, Asitan Rittinger, Robert Willing",
+      "authors": "Stefan Petersen, Philipp R. Groß, Paul M. Schmidt, Henri de Maissin, Asitan Rittinger, Robert Willing",
       "abstract": "ABSTRACT Hyperpolarized 1 3 C magnetic resonance imaging (MRI) is the only method to image metabolic fluxes in real time, non‐invasively, and in vivo. To date, however, most studies have used [1‐ 1 3 C]pyruvate and dynamic nuclear polarization (dDNP). Here, we establish efficient hyperpolarization (HP) of protio and partially‐deuterated [1‐ 1 3 C]ketoisocaproate (KIC) using Spin‐Lock‐Induced‐Crossing‐Signal Amplification by Reversible Exchange (SLIC‐SABRE), a high‐throughput, uncomplex and low‐cost method based on parahydrogen. We demonstrate 13 C polarization up to ≈28% and T 1 relaxation times > 200 s at 1 T in methanol‐d 4 . A rapid purification procedure allowed us to obtain biocompatible formulations with ≈11% 13 C polarization at the time of injection, sufficient for in cellulo and in vivo studies. We found that branched‐chain‐amino‐acid transaminase (BCAT) activity leads to HP...",
       "date": "2026-06-23",
       "year": 2026,
@@ -2948,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.415334+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.966304+00:00"
     },
     {
       "id": "openalex-bb50663ea11d",
@@ -2976,11 +2944,11 @@ window.LIVE_FEED_DATA = {
         "Remote-Sensing Image Classification"
       ],
       "readTime": "1 min",
-      "citedBy": 3,
+      "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.689867+00:00"
+      "_retrievedAt": "2026-09-22T11:33:11.380059+00:00"
     },
     {
       "id": "openalex-a29127dc905f",
@@ -3012,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.415927+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.966639+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -3044,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.411473+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.964042+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -3076,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.686500+00:00"
+      "_retrievedAt": "2026-09-22T11:33:11.377646+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -3108,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.112312+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.524404+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -3140,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:18.744027+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.114223+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -3172,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:18.746936+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.115941+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -3204,14 +3172,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.416483+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.967028+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
       "discipline": "geo",
       "type": "paper",
       "title": "Digital twins as decision infrastructure: evolution, architecture, and research roadmap",
-      "authors": "Chaowei Yang, Anusha Srirenganathan Malarvizhi, Yahya Masri, Jennifer Seren Smith, Z Li, Qunying Huang",
+      "authors": "Chaowei Phil Yang, Anusha Srirenganathan Malarvizhi, Yahya Masri, Jennifer Seren Smith, Zhenlong Li, Qunying Huang",
       "abstract": "Digital twins (DTs) have evolved from domain-specific simulation tools into integrative cyber–physical–social infrastructures that reshape how complex systems are observed, modeled, and governed. Rather than treating DTs as digital replicas, this paper conceptualizes them as dynamic epistemic architectures that integrate observation, physics-based modeling, AI, and decision processes through persistent bidirectional exchange. Drawing on a systematic review of 251 papers (from 449 screened abstracts within 22,434 publications, supplemented by foundational literature), we examine how this transition is enabled by advances in sensing, scalable computing, data assimilation, uncertainty quantification, and AI–physics integration. We argue that the defining feature of mature DTs is not replication fidelity alone, but their capacity to support uncertainty-aware, scenario-driven decision-maki...",
       "date": "2026-06-07",
       "year": 2026,
@@ -3236,14 +3204,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.686875+00:00"
+      "_retrievedAt": "2026-09-22T11:33:11.378045+00:00"
     },
     {
       "id": "openalex-e83a54581c00",
       "discipline": "clinical",
       "type": "paper",
       "title": "Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: 2026 update",
-      "authors": "Gregg Nelson, Alon D. Altman, Amy Metcalfe, Christina Fotopoulou, Jolyn Taylor, G. Glaser",
+      "authors": "Gregg Nelson, Alon D. Altman, Amy Metcalfe, Christina Fotopoulou, Jolyn Taylor, Gretchen Glaser",
       "abstract": "BACKGROUND: This is the third updated enhanced recovery after surgery (ERAS®) society guideline presenting a consensus for optimal perioperative care in gynecologic oncology surgery. METHODS: A database search of publications using Embase and PubMed was performed (2018-2025). Studies for key elements within the ERAS gynecologic oncology protocol were selected with emphasis on meta-analyses, randomized controlled trials, and large prospective cohort studies. These studies were then reviewed and graded according to the grading of recommendations, assessment, development and evaluation (GRADE) system. RESULTS: All recommendations on ERAS protocol items are based on best available evidence. The level of evidence for each item is presented accordingly. CONCLUSIONS: The updated evidence base and recommendation for items within the ERAS gynecologic oncology perioperative care pathway are pre...",
       "date": "2026-06-06",
       "year": 2026,
@@ -3268,14 +3236,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.417062+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.967357+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
       "discipline": "geo",
       "type": "paper",
       "title": "Community views on hydrogeology education: A global perspective from 2024",
-      "authors": "Stéphanie Musy, James M. Thornton, Ty Ferre, Amanda Sills, Daniel Hunkeler, Philip Brunner",
+      "authors": "Stephanie L. Musy, James M. Thornton, Ty Ferre, Amanda Sills, Daniel Hunkeler, Philip Brunner",
       "abstract": "Abstract Groundwater is the Earth’s largest reservoir of available freshwater. As climate change and increasing anthropogenic pressures continue to affect its availability and quality, the discipline of hydrogeology is evolving rapidly. Training enough professionals capable of understanding and managing groundwater resources effectively is therefore more critical than ever. However, there is a perceived global shortage of adequately trained hydrogeologists—raising concerns about society’s capacity to address future groundwater-related challenges. To obtain quantitative data regarding this perception and to evaluate the current state of hydrogeology education and workforce dynamics more generally, a global survey was conducted of hydrogeology professionals, recent graduates, and current students. Five hundred seventy-three individuals from 82 countries responded, providing contemporary...",
       "date": "2026-06-06",
       "year": 2026,
@@ -3300,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.690237+00:00"
+      "_retrievedAt": "2026-09-22T11:33:11.381584+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
@@ -3332,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:18.751026+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.118316+00:00"
     },
     {
       "id": "openalex-c696aff78c58",
@@ -3364,14 +3332,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:18.749027+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.117161+00:00"
     },
     {
       "id": "openalex-33d4ca0564d8",
       "discipline": "clinical",
       "type": "paper",
       "title": "EHA Guidelines on management of chronic lymphocytic leukemia and Richter transformation",
-      "authors": "Barbara Eichhorst, Paolo Ghia, Francesc Bosch, Ruth Clifford, Michael Gregor, Romain Guieze",
+      "authors": "Barbara F. Eichhorst, Paolo Ghia, Francesc Bosch, Ruth Clifford, Michael Gregor, Romain Guieze",
       "abstract": "Previous editions of the European guidelines for the management of chronic lymphocytic leukemia (CLL) were developed by experts in CLL under the auspices of the European Society for Medical Oncology (ESMO). These previous editions have served as a reference text for many physicians caring for patients with CLL. The current, 2026 edition, represents the new, updated guidelines that, for the first time (and in agreement with ESMO), were written on behalf of the European Hematology Association (EHA), which will be solely responsible for subsequent editions, published annually to keep pace of the fast-moving field of CLL research and clinical applications. The new guidelines support approaching the management of CLL in a more holistic fashion, from the initial diagnosis (including active surveillance) to treatment need, with particular emphasis on the interplay between disease- and patien...",
       "date": "2026-06-01",
       "year": 2026,
@@ -3396,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.413297+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.965129+00:00"
     },
     {
       "id": "openalex-d767b74ad31a",
@@ -3428,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.414624+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.965912+00:00"
     },
     {
       "id": "openalex-93ba88b6125e",
@@ -3460,7 +3428,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.417825+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.967789+00:00"
+    },
+    {
+      "id": "openalex-a92be95cf61e",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "MAGE-A4/MAGE-A8-targeted TCR-based bispecific T cell engager in recurrent and/or refractory solid tumors: a phase 1 trial",
+      "authors": "Martin Wermke, Sebastian Ochsenreither, Dirk Jaeger, Heiko Becker, Annalen Bleckmann, Farastuk Bozorgmehr",
+      "abstract": "IMA401 is a T cell receptor (TCR)-based next-generation bispecific T cell engaging receptor (TCER) targeting an HLA-A*02:01-presented peptide derived from MAGE-A4/MAGE-A8 with its high-affinity TCR-based domain, incorporating a low-affinity T-cell-recruiting domain and an optimized Fc domain to prolong half-life. In this prespecified interim analysis of a phase 1 first-in-human trial, 61 patients with advanced solid tumors received intravenous IMA401 (0.0066 mg-2.5 mg) with or without pembrolizumab. The primary endpoint was determination of the maximum tolerated dose (MTD) and/or recommended phase 2 dose (RP2D) of IMA401 monotherapy and in combination with pembrolizumab. Secondary objectives included safety and tolerability, antitumor activity and pharmacokinetics. The MTD was not reached as defined by the clinical trial protocol, and the RP2D was 1-2 mg IMA401 biweekly. Treatment-rel...",
+      "date": "2026-05-31",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04455-x",
+      "doi": "10.1038/s41591-026-04455-x",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04455-x.pdf",
+      "keywords": [
+        "T cell",
+        "Cancer research",
+        "Chemistry",
+        "Refractory (planetary science)",
+        "Molecular biology",
+        "CAR-T cell therapy research",
+        "Immunotherapy and Immune Responses",
+        "Monoclonal and Polyclonal Antibodies Research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-22T11:33:10.968251+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -3492,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:19.687252+00:00"
+      "_retrievedAt": "2026-09-22T11:33:11.378448+00:00"
     },
     {
       "id": "openalex-e8c4c692e177",
@@ -3524,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:18.747457+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.116264+00:00"
     },
     {
       "id": "openalex-8bf44fba3376",
@@ -3556,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-22T04:50:18.749847+00:00"
+      "_retrievedAt": "2026-09-22T11:33:10.117630+00:00"
     }
   ]
 };
