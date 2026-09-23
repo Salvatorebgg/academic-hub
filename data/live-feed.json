@@ -1,11 +1,235 @@
 {
-  "generatedAt": "2026-09-23T04:41:23.102427+00:00",
-  "total": 111,
+  "generatedAt": "2026-09-23T11:30:19.947870+00:00",
+  "total": 83,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-161fbd083a3c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Behavioral problems in trauma-exposed youth linked to later smoking, drug and alcohol use, and poor diet",
+      "authors": "Medical Xpress",
+      "abstract": "Experiencing childhood trauma appears to increase a young person's likelihood of smoking, substance use and developing unhealthy eating habits by contributing to behavioral problems during adolescence, such as impulsivity and poor self-control. This is the finding of new research led by the University of Bath in the UK and colleagues at the University of São Paulo in Brazil.",
+      "date": "2026-09-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-behavioral-problems-trauma-exposed-youth.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "behavioral",
+        "problems",
+        "smoking",
+        "poor",
+        "university",
+        "trauma-exposed",
+        "youth",
+        "linked"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-23T11:30:19.142794+00:00"
+    },
+    {
+      "id": "rss-9f2bcea34c32",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Researchers uncover dual role of B7-H3 in prostate tumor immune suppression",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at The University of Texas MD Anderson Cancer Center have identified a previously unknown pathway that prostate tumors leverage to suppress the immune system by reshaping the tumor microenvironment to resist treatment. A combined targeted therapy approach improved antitumor responses and prolonged survival in preclinical models of castration-resistant prostate cancer.",
+      "date": "2026-09-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-uncover-dual-role-b7-h3.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "prostate",
+        "researchers",
+        "tumor",
+        "immune",
+        "cancer",
+        "uncover",
+        "dual",
+        "role"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-23T11:30:19.142955+00:00"
+    },
+    {
+      "id": "rss-b52a9438c29a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "At-home electrical vestibular stimulation headset could ease PTSD symptoms",
+      "authors": "Medical Xpress",
+      "abstract": "Posttraumatic stress disorder (PTSD) is a mental health condition that can develop after someone experiences one or more traumatic events. It is characterized by intrusive memories, nightmares, avoidance of triggering stimuli or situations, mood changes, heightened arousal and increased physical reactivity.",
+      "date": "2026-09-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-home-electrical-vestibular-headset-ease.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "ptsd",
+        "at-home",
+        "electrical",
+        "vestibular",
+        "stimulation",
+        "headset",
+        "could",
+        "ease"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-23T11:30:19.143085+00:00"
+    },
+    {
+      "id": "rss-11b4d7cd366d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Drug delivery system slowly releases pain-relieving nerve block over weeks",
+      "authors": "Medical Xpress",
+      "abstract": "Most local anesthetics used in medicine last only eight to 12 hours, or a day at most. Now, Boston Children's Hospital researchers have formulated a more effective slow-release injectable drug delivery system that achieved pain-numbing anesthetic effects lasting two to three weeks in rats, compared with a commercial formulation lasting about four to eight hours.",
+      "date": "2026-09-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-drug-delivery-slowly-pain-relieving.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "drug",
+        "delivery",
+        "system",
+        "weeks",
+        "most",
+        "eight",
+        "hours",
+        "lasting"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-23T11:30:19.143230+00:00"
+    },
+    {
+      "id": "rss-83c8a93e9168",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Pharmacist-led medication review can improve medication use in older adults with cancer",
+      "authors": "Medical Xpress",
+      "abstract": "There is a pressing need to optimize medication strategies in older adults with cancer, many of whom take ≥5 medications. A randomized controlled trial published in the Journal of Internal Medicine demonstrated that an advisory letter containing the results of a pharmacist-led comprehensive medication review sent to physicians can decrease common medication problems among older cancer patients during rehabilitation.",
+      "date": "2026-09-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-pharmacist-medication-older-adults-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "medication",
+        "older",
+        "cancer",
+        "pharmacist-led",
+        "review",
+        "adults",
+        "improve",
+        "there"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-23T11:30:19.143385+00:00"
+    },
+    {
+      "id": "rss-c7100e522761",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Why are US mortality rates increasing relative to other countries?",
+      "authors": "Medical Xpress",
+      "abstract": "Research in The Milbank Quarterly reveals that for decades, U.S. mortality rates have exceeded rates in peer countries and have been increasing across many causes of death, especially among young adults and people living in certain regions of the country.",
+      "date": "2026-09-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-mortality-countries.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "rates",
+        "mortality",
+        "increasing",
+        "countries",
+        "have",
+        "relative",
+        "other",
+        "milbank"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-23T11:30:19.143505+00:00"
+    },
+    {
+      "id": "rss-ce7c09211a66",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Higher-quality evidence finds no causal link between prenatal acetaminophen use and neurodevelopmental disorders",
+      "authors": "Medical Xpress",
+      "abstract": "Various studies over the years have linked prenatal use of the pain reliever paracetamol (acetaminophen) with neurodevelopmental disorders such as autism and attention-deficit/hyperactivity disorder (ADHD) in children, but many of the studies were small, poorly designed or found only weak associations. A recent \"umbrella\" review in Developmental Medicine & Child Neurology reveals that the available scientific evidence does not support a causal relationship between paracetamol and neurodevelopmental disorders.",
+      "date": "2026-09-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-higher-quality-evidence-causal-link.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "neurodevelopmental",
+        "disorders",
+        "evidence",
+        "causal",
+        "prenatal",
+        "acetaminophen",
+        "studies",
+        "paracetamol"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-23T11:30:19.143658+00:00"
+    },
     {
       "id": "rss-ab33bd4ccc66",
       "discipline": "clinical",
@@ -36,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.585103+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.143773+00:00"
     },
     {
       "id": "rss-4bf95ea3908c",
@@ -68,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.585415+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.143896+00:00"
     },
     {
       "id": "rss-d36ea201835a",
@@ -100,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.585655+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.144008+00:00"
     },
     {
       "id": "rss-fad1832c0707",
@@ -132,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.585886+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.144121+00:00"
     },
     {
       "id": "rss-32a9b24bcbbc",
@@ -164,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.586235+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.144292+00:00"
     },
     {
       "id": "rss-ac7c01a85cc1",
@@ -196,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.586497+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.144412+00:00"
     },
     {
       "id": "rss-0d5e7fa8a385",
@@ -228,231 +452,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.586739+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.144529+00:00"
     },
     {
-      "id": "rss-4cff5f87d0ed",
-      "discipline": "clinical",
+      "id": "rss-fe94968e64d9",
+      "discipline": "cs",
       "type": "news",
-      "title": "Every extra 100 grams of ultra-processed food linked to higher disease risks",
-      "authors": "Medical Xpress",
-      "abstract": "Higher ultra-processed food (UPF) intake is linked to a heightened risk of several major chronic health issues, such as digestive diseases, high blood pressure and metabolic syndrome/diabetes, as well as death, finds a pooled data analysis of the available evidence published in the open-access journal Family Medicine and Community Health.",
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "authors": "TechCrunch AI",
+      "abstract": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
       "date": "2026-09-23",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-extra-grams-ultra-food-linked.html",
+      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "ultra-processed",
-        "food",
-        "linked",
-        "higher",
-        "health",
-        "every",
-        "extra",
-        "grams"
+        "prime",
+        "minister",
+        "about",
+        "already",
+        "fighting",
+        "yesterday",
+        "battle",
+        "greece"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.586993+00:00"
-    },
-    {
-      "id": "rss-18061c3efb8c",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Teens as young as 13 referred for ketamine-linked bladder problems at UK clinic",
-      "authors": "Medical Xpress",
-      "abstract": "Non-prescribed ketamine use may start at age 13, data from a UK clinic dedicated to treating bladder problems associated with misuse of the drug suggest. The findings were published in a clinical letter in the Archives of Disease in Childhood.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-teens-young-ketamine-linked-bladder.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "bladder",
-        "problems",
-        "clinic",
-        "teens",
-        "young",
-        "referred",
-        "ketamine-linked",
-        "non-prescribed"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.587250+00:00"
-    },
-    {
-      "id": "rss-500c9f2dd3f8",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "What happens when you can't see a family doctor regularly?",
-      "authors": "Medical Xpress",
-      "abstract": "Lynn Ramirez, 65, takes maintenance medications common to many older Americans. And like her fellow Americans, Ramirez finds that her shaky access to a family doctor sometimes gets in the way of obtaining her medications.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-family-doctor-regularly.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "family",
-        "doctor",
-        "ramirez",
-        "medications",
-        "americans",
-        "what",
-        "happens",
-        "when"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.587490+00:00"
-    },
-    {
-      "id": "rss-424f372f8001",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Blinatumomab improves event-free survival in children with high-risk B-cell ALL",
-      "authors": "Medical Xpress",
-      "abstract": "Blinatumomab is associated with significantly higher event-free survival among children with newly diagnosed high-risk B-cell acute lymphoblastic leukemia (ALL), according to a study published in the Sept. 17 issue of the New England Journal of Medicine.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-blinatumomab-event-free-survival-children.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "blinatumomab",
-        "event-free",
-        "survival",
-        "children",
-        "high-risk",
-        "b-cell",
-        "improves",
-        "associated"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.587724+00:00"
-    },
-    {
-      "id": "rss-b0461f92abb7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Researchers develop interactive tool to track agricultural injuries, strengthen prevention efforts",
-      "authors": "Medical Xpress",
-      "abstract": "Agriculture is one of the most dangerous occupations in the United States. Each year, vehicles, machinery, environmental hazards and other incidents cause thousands of injuries and hundreds of fatalities. A thorough understanding of the main risks is key to preventing accidents and promoting agricultural safety.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-interactive-tool-track-agricultural-injuries.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "agricultural",
-        "injuries",
-        "researchers",
-        "develop",
-        "interactive",
-        "tool",
-        "track",
-        "strengthen"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.587967+00:00"
-    },
-    {
-      "id": "rss-5bddb7fa142c",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Cirrhosis can recur after liver transplant",
-      "authors": "Medical Xpress",
-      "abstract": "Cirrhosis can recur after liver transplantation, according to a study published online Sept. 3 in Portal Hypertension & Cirrhosis.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-cirrhosis-recur-liver-transplant.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cirrhosis",
-        "recur",
-        "after",
-        "liver",
-        "transplant",
-        "transplantation",
-        "according",
-        "published"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.588198+00:00"
-    },
-    {
-      "id": "rss-bfcbaa82d8dc",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "AI could cut medical device recalls by nearly a third, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "Most medical devices do not enter the market through rigorous safety testing but by being deemed similar enough to something already approved—the \"predicate\" device—through a mechanism known as the FDA's 510(k) pathway. But similar is not a synonym for safe. While the assumption may be that substantial equivalence is a reasonable stand-in for a safety review, some devices cleared with this method are still recalled, and the FDA spends valuable time reviewing devices the same way, regardless of how risky they appear on paper.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-ai-medical-device-recalls.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "devices",
-        "medical",
-        "device",
-        "safety",
-        "similar",
-        "could",
-        "recalls",
-        "nearly"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.588598+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.216263+00:00"
     },
     {
       "id": "rss-ecb6f74a3fdc",
@@ -484,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.698240+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.216404+00:00"
     },
     {
       "id": "rss-6441e1a95651",
@@ -516,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.698476+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.216489+00:00"
     },
     {
       "id": "rss-250b9a8174ec",
@@ -548,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.698639+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.216563+00:00"
     },
     {
       "id": "rss-56b3dbe8be8b",
@@ -580,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.698824+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.216653+00:00"
     },
     {
       "id": "rss-c5b0f8148103",
@@ -612,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.698983+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.216728+00:00"
     },
     {
       "id": "rss-1264a5ffdf7c",
@@ -644,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.699134+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.216801+00:00"
     },
     {
       "id": "rss-23cd016772aa",
@@ -676,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.699314+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.216874+00:00"
     },
     {
       "id": "rss-9fd0657a1a6d",
@@ -708,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.699503+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.216963+00:00"
     },
     {
       "id": "rss-ce5afe8a7d8c",
@@ -740,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.699703+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.217060+00:00"
     },
     {
       "id": "rss-84b740bb24f8",
@@ -772,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.699887+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.217151+00:00"
     },
     {
       "id": "rss-0312ea1f26bc",
@@ -804,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.700053+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.217243+00:00"
     },
     {
       "id": "rss-8049bdec6479",
@@ -836,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.700220+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.217313+00:00"
     },
     {
       "id": "rss-d8500faae945",
@@ -868,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.700402+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.217395+00:00"
     },
     {
       "id": "rss-2eaa3a09d482",
@@ -900,39 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.756606+00:00"
-    },
-    {
-      "id": "rss-3009615246ec",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "authors": "TechCrunch AI",
-      "abstract": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "date": "2026-09-21",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "apple",
-        "built",
-        "stores",
-        "doesn",
-        "silicon",
-        "valley",
-        "shopping",
-        "store"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.700568+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.332643+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:23.023996+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.699571+00:00"
     },
     {
       "id": "rss-4d47532c7c63",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:23.024337+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.699749+00:00"
     },
     {
       "id": "rss-bf9122547ba1",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:23.024834+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.700017+00:00"
     },
     {
       "id": "rss-38146f5c87bf",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.756784+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.332744+00:00"
     },
     {
       "id": "rss-188abdd7fd48",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:23.025066+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.700134+00:00"
     },
     {
       "id": "rss-a74392b37559",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.756955+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.332832+00:00"
     },
     {
       "id": "rss-040fa3bc1672",
@@ -1156,39 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.757110+00:00"
-    },
-    {
-      "id": "openalex-e93dd4d183a9",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models",
-      "authors": "Guangji Bai, Zheng Chai, Ling Chen, Shiyu Wang, Jiaying Lu, Nan Zhang",
-      "abstract": "The burgeoning field of Large Language Models (LLMs), exemplified by sophisticated models like OpenAI’s ChatGPT, represents a significant advancement in artificial intelligence. These models, however, bring forth substantial challenges in high consumption of computational, memory, energy, and financial resources, especially in environments with limited resource capabilities. This survey aims to systematically address these challenges by reviewing a broad spectrum of techniques designed to enhance the resource efficiency of LLMs. We categorize methods based on their optimization focus—covering computational, memory, energy, financial, and network resources—and their applicability across various stages of an LLM’s lifecycle, including architecture design, pre-training, fine-tuning, and system design. Additionally, the survey introduces a nuanced categorization of resource efficiency tec...",
-      "date": "2026-09-15",
-      "year": 2026,
-      "journal": "ACM Computing Surveys",
-      "source": "ACM Computing Surveys",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3845797",
-      "doi": "10.1145/3845797",
-      "pdfUrl": "https://doi.org/10.1145/3845797",
-      "keywords": [
-        "Computer science",
-        "Resource (disambiguation)",
-        "Categorization",
-        "Data science",
-        "Field (mathematics)",
-        "Topic Modeling",
-        "Natural Language Processing Techniques",
-        "Ferroelectric and Negative Capacitance Devices"
-      ],
-      "readTime": "1 min",
-      "citedBy": 40,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.403307+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.332910+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1220,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:23.025338+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.700269+00:00"
     },
     {
       "id": "rss-b0ad43b43ecb",
@@ -1252,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:23.025559+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.700369+00:00"
     },
     {
       "id": "rss-3975041a07bd",
@@ -1284,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.757317+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.332999+00:00"
     },
     {
       "id": "rss-d4de56183b8d",
@@ -1316,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.757480+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.333080+00:00"
     },
     {
       "id": "rss-7dcdb7c08293",
@@ -1348,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.757648+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.333167+00:00"
     },
     {
       "id": "rss-0aa9231559e8",
@@ -1380,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:23.026139+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.700675+00:00"
     },
     {
       "id": "rss-77c91c056111",
@@ -1412,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.757816+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.333273+00:00"
     },
     {
       "id": "rss-4bb6898d3482",
@@ -1444,39 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:23.026675+00:00"
-    },
-    {
-      "id": "openalex-cd9c5bfb977c",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "MERCATOR",
-      "authors": "Guillaume Bailly, Thomas Louche",
-      "abstract": "The advancement of predictive models by Machine Learning Algorithms (ML) associated with environmental data enables the improvement of models of environmental fragility, which are essential tools for decision-making.This study aimed to derive a prediction of environmental fragility by testing ML associated with environmental covariates in the state of Minas Gerais.We use physical-environmental variables (soil, geology, climate, relief) with a weight of fragility for the attributes and calculation of the average to obtain a model of Potential Environmental Fragility (PEF).Subsequently, we extracted the PEF values to a 4,800-point grid, which was used to generate a new prediction by ML called PEFML.This prediction was based on testing five algorithms and a set of 105 environmental covariates.The results indicated that the best-performing PEFML prediction was the Random Forest model (R2...",
-      "date": "2026-09-04",
-      "year": 2026,
-      "journal": "OpenAlex",
-      "source": "OpenAlex",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.4215/rm0000.0000.0000",
-      "doi": "10.4215/rm0000.0000.0000",
-      "pdfUrl": "http://www.mercator.ufc.br/mercator/article/view/e21034/1503",
-      "keywords": [
-        "Mercator projection",
-        "Geography",
-        "Cartography",
-        "environmental",
-        "fragility",
-        "prediction",
-        "algorithms",
-        "associated"
-      ],
-      "readTime": "1 min",
-      "citedBy": 18,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.406382+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.701391+00:00"
     },
     {
       "id": "rss-54300972963a",
@@ -1508,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:23.026897+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.701627+00:00"
     },
     {
       "id": "rss-341504e67552",
@@ -1540,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.757965+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.333346+00:00"
     },
     {
       "id": "rss-e51d07a6b736",
@@ -1572,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.758139+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.333439+00:00"
     },
     {
       "id": "rss-40f54edf2446",
@@ -1604,39 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:23.027572+00:00"
-    },
-    {
-      "id": "openalex-b0b9c1c36e09",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Journal of Strategic Security",
-      "authors": "OpenAlex indexed authors",
-      "abstract": "The Journal of Strategic Security (JSS) is a peer-reviewed professional journal published quarterly by Henley-Putnam School of Strategic Security. The Journal provides a multi-disciplinary forum for scholarship and discussion of strategic security issues drawing from the fields of global security, international relations, intelligence, terrorism and counterterrorism studies, among others. The Journal encourages diversity in theoretical foundations, research methods, and approaches. Quantitative and qualitative studies, for example, each offer valuable contributions to the field of strategic security. Academic disciplines of international relations, political science, psychology, sociology, anthropology, criminology, economics, and history are welcome, as are the applied scholarly fields of security studies, strategic studies, and intelligence studies. JSS emphasizes contemporary secur...",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "Journal of Strategic Security",
-      "source": "Journal of Strategic Security",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5038/1944-0472",
-      "doi": "10.5038/1944-0472",
-      "pdfUrl": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=2026&context=jss",
-      "keywords": [
-        "Political science",
-        "Terrorism, Counterterrorism, and Political Violence",
-        "International Relations and Foreign Policy",
-        "security",
-        "strategic",
-        "journal",
-        "studies",
-        "fields"
-      ],
-      "readTime": "1 min",
-      "citedBy": 117,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.402422+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.702594+00:00"
     },
     {
       "id": "rss-920fbd87ebe7",
@@ -1668,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.758330+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.333527+00:00"
     },
     {
       "id": "rss-212fba1ccc92",
@@ -1700,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.758483+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.333604+00:00"
     },
     {
       "id": "rss-86e8b2b3fe45",
@@ -1732,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.758636+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.333680+00:00"
     },
     {
       "id": "rss-210f19a3c800",
@@ -1764,39 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:22.758796+00:00"
-    },
-    {
-      "id": "openalex-ecd3ebebd570",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Bőrgyógyászati és Venerológiai Szemle",
-      "authors": "OpenAlex indexed authors",
-      "abstract": "A napsugárzás korai és késői biológiai hatásainak kivédésre közel 100 évvel ezelőtt jelent meg az első fényvédőkrém.Az elmúlt években bizonyította hatékonyságát a bőröregedés, pigmentációs zavarok, DNS károsodás és fotokarcinogenezis megelőzésében.Kezdetekben a fő cél az ultraibolya B (UVB) sugárzás okozta károsodások kivédése volt, majd későbbiekben a figyelem az ultraibolya A (UVA) irányába fordult.Ma már azt is tudjuk, hogy a bőr öregedésében a látható és infravörös fény is szerepet játszik, így ezt is figyelembe kell venni, amikor fényvédőt választunk.A szerzők a közleményben röviden összefoglalják a fényvédőkrémekkel kapcsolatos legfontosabb tudnivalókat érintve néhány aktuális kérdéskört.Kulcsszavak:",
-      "date": "2026-08-31",
-      "year": 2026,
-      "journal": "Bőrgyógyászati és Venerológiai Szemle",
-      "source": "Bőrgyógyászati és Venerológiai Szemle",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.7188/bvsz",
-      "doi": "10.7188/bvsz",
-      "pdfUrl": "https://doi.org/10.7188/bvsz",
-      "keywords": [
-        "Psychology",
-        "Clinical practice guidelines implementation",
-        "giai",
-        "reged",
-        "rosod",
-        "ultraibolya",
-        "szati",
-        "venerol"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.151658+00:00"
+      "_retrievedAt": "2026-09-23T11:30:19.333759+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1828,39 +1700,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.762693+00:00"
-    },
-    {
-      "id": "openalex-d78a9511ef89",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Time‐Aware UNet and Super‐Resolution Deep Residual Networks for Spatial Downscaling",
-      "authors": "Mika Sipilä, Sabrina Maggio, Sandra De Iaco, Klaus Nordhausen, Monica Palma, Sara Taskinen",
-      "abstract": "ABSTRACT Satellite observations of atmospheric pollutants are often available only at coarse spatial resolution, which limits their use in local‐scale environmental analysis. Spatial downscaling methods aim to transform such data into high‐resolution fields. In this work, two widely used deep learning architectures—the super‐resolution deep residual network (SRDRN) and the encoder–decoder‐based UNet—for spatial downscaling, are extended with a lightweight temporal module that encodes observation time using either sinusoidal or radial basis function representations and integrates temporal features with spatial information. The proposed time‐aware extensions are evaluated in a case study on ozone downscaling over Italy. Results show that, with only a minor increase in computational cost, incorporating temporal information significantly improves downscaling accuracy and accelerates model...",
-      "date": "2026-08-26",
-      "year": 2026,
-      "journal": "Environmetrics",
-      "source": "Environmetrics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/env.70134",
-      "doi": "10.1002/env.70134",
-      "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/env.70134",
-      "keywords": [
-        "Downscaling",
-        "Residual",
-        "Environmental science",
-        "Baseline (sea)",
-        "Convergence (economics)",
-        "Climate variability and models",
-        "Meteorological Phenomena and Simulations",
-        "Solar Radiation and Photovoltaics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.507014+00:00"
+      "_retrievedAt": "2026-09-23T11:30:08.782370+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1892,39 +1732,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.148616+00:00"
-    },
-    {
-      "id": "openalex-2ba26c514329",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Getting the story straight: common misconceptions around volcanoes and eruptions with case studies of recent events",
-      "authors": "Janine B. Krippner, Sam Poppe, Cristian Farías, Edward Venzke, Michael P. Poland, Boris Behncke",
-      "abstract": "Abstract The ability to rapidly disseminate scientific knowledge across the world has never been greater. This is paralleled by the ability of rumors to spread equally far and fast. Popular misconceptions can take root and, without correction, take on the appearance of facts. Commonly misunderstood topics include those with attention-grabbing phrasing (e.g. “Pacific Ring of Fire”, “supervolcanoes”, or “mega-tsunamis”), the intersection of volcanic research with high-profile science topics (climate or human health), aspirational science goals (eruption forecasts), and basic terminology (volcanic ash versus smoke, or magma “chambers”). In this paper, we describe eighteen misconceptions grouped in six themes (seismology, volcanoes and climate, systems and structures, volcanic hazards, timescales, photographs and footage) commonly encountered by volcanologists who are actively engaging wi...",
-      "date": "2026-08-19",
-      "year": 2026,
-      "journal": "Journal of Applied Volcanology",
-      "source": "Journal of Applied Volcanology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s13617-026-00168-5",
-      "doi": "10.1186/s13617-026-00168-5",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s13617-026-00168-5.pdf",
-      "keywords": [
-        "Volcano",
-        "Earth science",
-        "Intersection (aeronautics)",
-        "Terminology",
-        "Geology",
-        "Geological and Geochemical Analysis",
-        "earthquake and tectonic studies",
-        "Seismology and Earthquake Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.505175+00:00"
+      "_retrievedAt": "2026-09-23T11:30:09.545533+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1952,11 +1760,11 @@
         "RNA Research and Splicing"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.763022+00:00"
+      "_retrievedAt": "2026-09-23T11:30:08.781428+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1988,7 +1796,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.761341+00:00"
+      "_retrievedAt": "2026-09-23T11:30:08.781632+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2020,39 +1828,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.761682+00:00"
-    },
-    {
-      "id": "openalex-76c84c6076eb",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits",
-      "authors": "Ronghui Zhu, Emma Dann, Jun Yan, Justine Reyes Retana, Ryunosuke Goto, Reese C Guitche",
-      "abstract": "Abstract Gene regulatory networks encode the fundamental logic of cellular functions, but systematic network mapping remains challenging, especially in cell states relevant to human biology and disease. Here, we perturbed all expressed genes across 22 million primary human CD4+ T cells from four donors and developed a probe-based perturb-seq platform to measure the transcriptome effects in cells at rest and after stimulation. These data allow us to map genes that regulate known and novel pathways, including novel regulators of cytokine production. Importantly, active regulators and the gene programs they control change dramatically across stimulation conditions. Perturbation signatures enabled us to model T cell states observed in population-scale transcriptomic atlases, nominating regulators of Th1 and Th2 polarization and of age-related T cell phenotypes. Finally, we leveraged pertu...",
-      "date": "2026-08-01",
-      "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.08.002",
-      "doi": "10.1016/j.cell.2026.08.002",
-      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.08.002",
-      "keywords": [
-        "Biology",
-        "Transcriptome",
-        "ENCODE",
-        "Gene",
-        "Immune system",
-        "Single-cell and spatial transcriptomics",
-        "T-cell and B-cell Immunology",
-        "vaccines and immunoinformatics approaches"
-      ],
-      "readTime": "1 min",
-      "citedBy": 17,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.407846+00:00"
+      "_retrievedAt": "2026-09-23T11:30:08.781815+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2084,167 +1860,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.759402+00:00"
+      "_retrievedAt": "2026-09-23T11:30:08.780378+00:00"
     },
     {
-      "id": "openalex-c47d537bde45",
-      "discipline": "clinical",
+      "id": "openalex-76c84c6076eb",
+      "discipline": "bio",
       "type": "paper",
-      "title": "Mixed Pain: Toward a Consensus Definition and a Mechanism‐Based Framework",
-      "authors": "Rainer Freynhagen, Bart Morlion, Antonio Alcántara Montero, Daniel Ciampi de Andrade, Andrés Hernández-Ortiz, Paul W. Hodges",
-      "abstract": "BACKGROUND: For decades, clinicians and researchers have struggled to classify pain conditions that do not fit neatly into the nociceptive, neuropathic or nociplastic frameworks. Many common disorders-from chronic low back pain to cancer pain and osteoarthritis-exhibit overlapping mechanisms and have long fallen into the 'grey zone' of mixed pain. This area has intrigued researchers yet frustrated clinicians due to the absence of a clear, unified definition. METHODS: Through an international consensus process led by global leading experts, mixed pain has now been defined as pain that is associated with a lesion, disease or disorder resulting in an overlap of at least two mechanistic pain descriptors (nociceptive, neuropathic or nociplastic). CONCLUSIONS: This new definition may help provide the context needed to align research, refine diagnosis and design mechanism-based therapies for...",
+      "title": "Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits",
+      "authors": "Ronghui Zhu, Emma Dann, Jun Yan, Justine Reyes Retana, Ryunosuke Goto, Reese C Guitche",
+      "abstract": "Abstract Gene regulatory networks encode the fundamental logic of cellular functions, but systematic network mapping remains challenging, especially in cell states relevant to human biology and disease. Here, we perturbed all expressed genes across 22 million primary human CD4+ T cells from four donors and developed a probe-based perturb-seq platform to measure the transcriptome effects in cells at rest and after stimulation. These data allow us to map genes that regulate known and novel pathways, including novel regulators of cytokine production. Importantly, active regulators and the gene programs they control change dramatically across stimulation conditions. Perturbation signatures enabled us to model T cell states observed in population-scale transcriptomic atlases, nominating regulators of Th1 and Th2 polarization and of age-related T cell phenotypes. Finally, we leveraged pertu...",
       "date": "2026-08-01",
       "year": 2026,
-      "journal": "European Journal of Pain",
-      "source": "European Journal of Pain",
+      "journal": "Cell",
+      "source": "Cell",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/ejp.70356",
-      "doi": "10.1002/ejp.70356",
-      "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ejp.70356",
+      "url": "https://doi.org/10.1016/j.cell.2026.08.002",
+      "doi": "10.1016/j.cell.2026.08.002",
+      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.08.002",
       "keywords": [
-        "Ambiguity",
-        "Terminology",
-        "Context (archaeology)",
-        "Neuropathic pain",
-        "Confusion",
-        "Pain Mechanisms and Treatments",
-        "Musculoskeletal pain and rehabilitation",
-        "Pain Management and Treatment"
+        "Biology",
+        "Transcriptome",
+        "ENCODE",
+        "Gene",
+        "Immune system",
+        "Single-cell and spatial transcriptomics",
+        "T-cell and B-cell Immunology",
+        "vaccines and immunoinformatics approaches"
       ],
       "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.152033+00:00"
-    },
-    {
-      "id": "openalex-764f0dadc5c7",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Research agenda and related workforce requirements inspired by Lived Experience Experts and grounded in health equity for the Bleeding Disorders Research Collaborative",
-      "authors": "Jill M. Johnsen, Tyler W. Buckner, Glaivy M. Batsuli, Samantha A. Carlson, Erin Burke Cirelli, Donna DiMichele",
-      "abstract": "BACKGROUND: Inheritable bleeding disorders (BDs) research has not historically reflected the diversity or needs of the entire community. The National Bleeding Disorders Foundation charged seven multidisciplinary working groups (WGs) with developing a U.S. National Research Blueprint (NRB) for a Bleeding Disorders Research Collaborative (BDRC) inspired by Lived Experience Experts (LEE) and grounded in health equity, diversity, and inclusion (HEDI). RESEARCH DESIGN AND METHODS: The Research and Development and Workforce WGs, in collaboration with the HEDI and LEE WGs, met virtually and in-person to develop recommendations for BDRC operationalization. RESULTS: An agenda of 327 feasible research priorities spanning nine main topics, each with four to six scientific areas of interest is proposed. It captures the hope that new diagnostic and therapeutic technologies and innovative research...",
-      "date": "2026-07-31",
-      "year": 2026,
-      "journal": "Expert Review of Hematology",
-      "source": "Expert Review of Hematology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1080/17474086.2026.2688867",
-      "doi": "10.1080/17474086.2026.2688867",
-      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/17474086.2026.2688867?needAccess=true",
-      "keywords": [
-        "Medicine",
-        "Lived experience",
-        "Workforce",
-        "Equity (law)",
-        "Grounded theory",
-        "Mental Health and Patient Involvement",
-        "Health Policy Implementation Science",
-        "Participatory Visual Research Methods"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.152391+00:00"
-    },
-    {
-      "id": "openalex-e22ded591b71",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Rice crop monitoring using new generation Synthetic Aperture Radar (SAR) imagery",
-      "authors": "Nguyen Lam-Dao",
-      "abstract": "Rice cultivation systems in various countries of the world have been changing in recent years. These changes have been observed in the Mekong River Delta, Vietnam, specifically in An Giang province. The changes in rice cultural practices have impacts on remote sensing methods developed for rice monitoring, in particular, methods using new generation radar data. The objectives of the study were a) to understand the relationship between radar backscatter coefficients and selected parameters (e.g. plant age and biomass) of rice crops over an entire growth cycle, b) to develop algorithms for mapping rice cropping systems, and c) to develop a rice yield prediction model using time-series Envisat (Environmental Satellite) Advanced Synthetic Aperture Radar (ASAR) imagery. Ground data collection and in situ measurement of rice crop parameters were conducted at 35 sampling fields in An Giang p...",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "University of Southern Queensland ePrints (University of Southern Queensland)",
-      "source": "University of Southern Queensland ePrints (University of Southern Queensland)",
-      "sourceApi": "OpenAlex",
-      "url": "http://eprints.usq.edu.au/6646/1/Lam-Dao_2009_front.pdf",
-      "doi": "10.26192/9z73z",
-      "pdfUrl": "http://eprints.usq.edu.au/6646/3/Lam-Dao_2009_whole.pdf",
-      "keywords": [
-        "Synthetic aperture radar",
-        "Remote sensing",
-        "Environmental science",
-        "Radar",
-        "Cropping",
-        "Remote Sensing and Land Use",
-        "Remote Sensing in Agriculture",
-        "rice"
-      ],
-      "readTime": "4 min",
-      "citedBy": 13,
+      "citedBy": 19,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.501671+00:00"
-    },
-    {
-      "id": "openalex-1331590492a4",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models",
-      "authors": "Weijia Zhang, Jindong Han, Zhao Xu, Hang Ni, Tengfei Lyu, Hao Liu",
-      "abstract": "The integration of machine learning techniques has become a cornerstone in the development of intelligent urban services, significantly contributing to the enhancement of urban efficiency, sustainability, and overall livability. Recent advancements in foundational models, such as ChatGPT, have introduced a paradigm shift within the fields of machine learning and artificial intelligence. These models, with their exceptional capacity for contextual comprehension, problem-solving, and task adaptability, present a transformative opportunity to reshape the future of smart cities and drive progress toward Urban General Intelligence (UGI). Despite increasing attention to Urban Foundation Models (UFMs), this rapidly evolving field faces critical challenges, including the lack of clear definitions, systematic reviews, and universalizable solutions. To address these issues, this paper first int...",
-      "date": "2026-07-29",
-      "year": 2026,
-      "journal": "ACM Transactions on Intelligent Systems and Technology",
-      "source": "ACM Transactions on Intelligent Systems and Technology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3821528",
-      "doi": "10.1145/3821528",
-      "pdfUrl": "https://arxiv.org/pdf/2402.01749",
-      "keywords": [
-        "Foundation (evidence)",
-        "Management science",
-        "Engineering ethics",
-        "Regional science",
-        "Political science",
-        "Human Mobility and Location-Based Analysis",
-        "Smart Cities and Technologies",
-        "urban"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.502031+00:00"
-    },
-    {
-      "id": "openalex-1a4374889b53",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Exploring Large Language Model‐Based Intelligent Agents: Definitions, Methods, and Prospects",
-      "authors": "Yuheng Cheng, Ceyao Zhang, Zhengwen Zhang, Xiangrui Meng, Sirui Hong, Wenhao Li",
-      "abstract": "ABSTRACT The concept of the intelligent agent represents a long‐standing pursuit in artificial intelligence. Recent breakthroughs in large language models (LLMs) have catalyzed a paradigm shift, enabling the development of sophisticated agents that exhibit advanced reasoning, planning, and tool‐use capabilities across diverse domains. These LLM‐based agents, which leverage natural language as a universal interface for cognition and interaction, are rapidly advancing from theoretical constructs to practical applications, ranging from autonomous task assistants to complex multi‐agent simulations of social and economic systems. This paper provides an integrative survey of this burgeoning field. We first establish an organizing framework for understanding LLM‐based agents, systematically deconstructing both single‐agent and multi‐agent systems into their core components. We analyze the ar...",
-      "date": "2026-07-24",
-      "year": 2026,
-      "journal": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
-      "source": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/widm.70111",
-      "doi": "10.1002/widm.70111",
-      "pdfUrl": "https://arxiv.org/pdf/2401.03428",
-      "keywords": [
-        "Computer science",
-        "Implementation",
-        "Interface (matter)",
-        "Natural language",
-        "Natural language understanding",
-        "Topic Modeling",
-        "Natural Language Processing Techniques",
-        "agents"
-      ],
-      "readTime": "1 min",
-      "citedBy": 38,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.404078+00:00"
+      "_retrievedAt": "2026-09-23T11:30:08.780561+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2276,7 +1924,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.760615+00:00"
+      "_retrievedAt": "2026-09-23T11:30:08.781047+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2308,71 +1956,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.763369+00:00"
-    },
-    {
-      "id": "openalex-6f1beac60f93",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Cultural evolution of music and language",
-      "authors": "Yuto Ozaki, Marianne de Heer Kloots, Andrea Ravignani, Patrick E. Savage",
-      "abstract": "Abstract Music and language are both forms of communication universally observed across human societies, prompting researchers to investigate why and how they evolved. Such research initially focused on the biological evolution of the capacities to create and perceive language and music; later work has been increasingly tackling the cultural evolution angle to study the mechanisms and processes driving the diversity and regularities of music and language. In this chapter, we review key studies of the cultural evolution of music and language. We group the review into observational studies (e.g. phylogenetic analysis), experimental studies (e.g. transmission chains), simulation studies (e.g. agent-based models), and music-language relationships (e.g. song/speech melody/prosody). Furthermore, we highlight key ideas that each discipline can learn from the other, and promising research top...",
-      "date": "2026-07-22",
-      "year": 2026,
-      "journal": "Oxford University Press eBooks",
-      "source": "Oxford University Press eBooks",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1093/oxfordhb/9780192894700.013.0028",
-      "doi": "10.1093/oxfordhb/9780192894700.013.0028",
-      "pdfUrl": "https://psyarxiv.com/s7apx/download",
-      "keywords": [
-        "Parallels",
-        "Cultural transmission in animals",
-        "Sociocultural evolution",
-        "Cognitive science",
-        "Music psychology",
-        "Language and cultural evolution",
-        "Animal Vocal Communication and Behavior",
-        "Music and Audio Processing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 19,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.406095+00:00"
-    },
-    {
-      "id": "openalex-65c3e45e4caf",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "M2SNet: Multi-scale in Multi-scale Subtraction Network for Medical Image Segmentation",
-      "authors": "Xiaoqi Zhao, Hongpeng Jia, Youwei Pang, Long Lv, Feng Tian, Lihe Zhang",
-      "abstract": "Abstract Accurate medical image segmentation is critical for early medical diagnosis. Most existing methods are based on U-shape structure and use element-wise addition or concatenation to fuse different level features progressively in decoder. However, both the two operations easily generate plenty of redundant information, which will weaken the complementarity between different level features, resulting in inaccurate localization and blurred edges of lesions. To address this challenge, we propose a general multi-scale in multi-scale subtraction network (M 2 SNet) to finish diverse segmentation from medical image. Specifically, we first design a basic subtraction unit (SU) to produce the difference features between adjacent levels in encoder. Next, we expand the single-scale SU to the intra-layer multi-scale SU, which can provide the decoder with both pixel-level and structure-level...",
-      "date": "2026-07-20",
-      "year": 2026,
-      "journal": "Machine Intelligence Research",
-      "source": "Machine Intelligence Research",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s11633-026-1662-9",
-      "doi": "10.1007/s11633-026-1662-9",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11633-026-1662-9.pdf",
-      "keywords": [
-        "Computer science",
-        "Artificial intelligence",
-        "Segmentation",
-        "Subtraction",
-        "Scale (ratio)",
-        "Advanced Neural Network Applications",
-        "Medical Imaging and Analysis",
-        "Radiomics and Machine Learning in Medical Imaging"
-      ],
-      "readTime": "1 min",
-      "citedBy": 81,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.402876+00:00"
+      "_retrievedAt": "2026-09-23T11:30:08.782532+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2404,7 +1988,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.761983+00:00"
+      "_retrievedAt": "2026-09-23T11:30:08.781978+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2436,103 +2020,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.146884+00:00"
-    },
-    {
-      "id": "openalex-b138906c6b33",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "The economically optimal mix and timing of coastal adaptation in Europe to 2150",
-      "authors": "Vanessa Völz, Jochen Hinkel, Daniël Lincke, Lars E. Honsel, Robert J. Nicholls, Rémi Thiéblemont",
-      "abstract": "Coastal adaptation to sea level rise involves combining and sequencing adaptation options into adaptation pathways that include adaptation tipping points, which are moments requiring a switch between options, often due to economic limits. While local case studies show costs depend on the economically optimal timing of actions and adaptation tipping points, this remains unexplored on global and continental scales. We present economically optimal adaptation pathways for Europe's coastal floodplains through 2150. For 95% of the coastline requiring adaptation, the optimal timing for initial actions is immediate due to current economic under-adaptation, a condition in which the costs of additional adaptation are outweighed by the reduction in expected flood damages. By 2150, retreat is economically optimal for 22% of the coastline, incurring lower total costs than protection, which is opti...",
-      "date": "2026-07-15",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-74042-8",
-      "doi": "10.1038/s41467-026-74042-8",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-74042-8.pdf",
-      "keywords": [
-        "Adaptation (eye)",
-        "Economics",
-        "Biology",
-        "Neuroscience",
-        "Coastal and Marine Dynamics",
-        "adaptation",
-        "optimal",
-        "economically"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.505503+00:00"
-    },
-    {
-      "id": "openalex-4a46ff2c29ce",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Oceanographic Buoys for Marine Monitoring: A Review of Instrumentation, Applications, and Emerging Technologies",
-      "authors": "Francisco Portillo, Nadia Rotbi, Nicolas Padilla, Consolacion Gil, John Alexander Taborda, Alfredo Alcayde",
-      "abstract": "Oceanographic buoys are essential platforms for marine observation, supporting real-time monitoring, climate studies, operational oceanography, coastal management, and offshore activities. This review maps the scientific literature on oceanographic buoys and identifies the main research sectors that structure the field. A Scopus search using TITLE-ABS-KEY((oceanographic OR metocean OR “ocean observing” OR “ocean observation”) AND (buoy OR buoys)) retrieved 1876 documents published between 1938 and 2026. The records were processed using a network-based sector detection and visualization workflow. Five thematic sectors were identified: platform engineering, sensors, moorings, and autonomous systems; marine wind, waves, metocean, and offshore energy applications; physical oceanography, sea-surface temperature (SST), currents, and environmental variability; coastal and ocean observing net...",
-      "date": "2026-07-14",
-      "year": 2026,
-      "journal": "Journal of Marine Science and Engineering",
-      "source": "Journal of Marine Science and Engineering",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/jmse14141291",
-      "doi": "10.3390/jmse14141291",
-      "pdfUrl": "https://www.mdpi.com/2077-1312/14/14/1291/pdf?version=1784015519",
-      "keywords": [
-        "Thematic map",
-        "Buoy",
-        "Submarine pipeline",
-        "Oceanography",
-        "Ocean observations",
-        "Oceanographic and Atmospheric Processes",
-        "Maritime Navigation and Safety",
-        "Ocean Waves and Remote Sensing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.505852+00:00"
-    },
-    {
-      "id": "openalex-6d68435c2e60",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "From physical surfaces to human-centric heat stress: LST and UTCI heat mapping reveals nonlinear effects of urban morphology",
-      "authors": "Yuan Wang, Shengao Yi, Xiaojiang Li, Pengyuan Liu, Zhiwei Yang, Ronita Bardhan",
-      "abstract": "Heat exposure connects the built environment and public health, directly shaping the livability and sustainability of urban areas. Fully understanding the spatial heterogeneity of heat exposure and its driving factors is therefore a vital prerequisite for climate-adaptive urban planning. However, most planning-oriented studies rely on land surface temperature (LST), and whether LST adequately represents human heat exposure and how it differs from physiologically relevant heat stress remains insufficiently examined. Here, adopting Landsat-retrieved 30-m LST and GPU-accelerated 1-m universal thermal climate index (UTCI) in Singapore, this study establishes a comprehensive “Modeling-Comparing-Assessing” framework to systematically evaluate the spatial and mechanistic discrepancies between the two metrics. We further investigate pronounced non-stationary and threshold-based quantitative r...",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "Sustainable Cities and Society",
-      "source": "Sustainable Cities and Society",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.scs.2026.107659",
-      "doi": "10.1016/j.scs.2026.107659",
-      "pdfUrl": "https://doi.org/10.1016/j.scs.2026.107659",
-      "keywords": [
-        "Urban heat island",
-        "Nonlinear system",
-        "Environmental science",
-        "Morphology (biology)",
-        "Urban morphology",
-        "Urban Heat Island Mitigation",
-        "Land Use and Ecosystem Services",
-        "Wind and Air Flow Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.503584+00:00"
+      "_retrievedAt": "2026-09-23T11:30:09.544609+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2564,71 +2052,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.763719+00:00"
-    },
-    {
-      "id": "openalex-da65fc09ba51",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Geospatial foundation models enable data-efficient tree species mapping in temperate mountain forests",
-      "authors": "James Ball, Jana Annika Wicklein, Zhengpeng Feng, Jovana Knezevic, Sadiq Jaffer, Anil Madhavapeddy",
-      "abstract": "Accurate mapping of tree species from satellite data remains challenging in heterogeneous mountain forests due to environmental gradients, mixed stands, and limited training labels. Geospatial foundation models (GFMs) learn rich representations from large multi-sensor archives , but their utility for species-level mapping remains unclear . Here, we evaluate two GFM embeddings, AlphaEarth and Tessera, for tree species classification in a demanding mountain landscape (Trentino, Italy; 18 species and groups), versus conventional Sentinel-1+2 composites, across experiments spanning classification accuracy, label efficiency, classifier complexity, environmental covariates, label impurity, and temporal transferability. GFM embeddings consistently outperform conventional baselines (weighted F1 = 0.83 vs. 0.80; macro F1 = 0.55 vs. 0.50), approaching saturation with only 5% of training parcels...",
-      "date": "2026-07-10",
-      "year": 2026,
-      "journal": "Science of Remote Sensing",
-      "source": "Science of Remote Sensing",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.srs.2026.100466",
-      "doi": "10.1016/j.srs.2026.100466",
-      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S2666017226001045/pdf",
-      "keywords": [
-        "Geospatial analysis",
-        "Geography",
-        "Temperate climate",
-        "Remote sensing",
-        "Foundation (evidence)",
-        "Species Distribution and Climate Change",
-        "Remote Sensing and LiDAR Applications",
-        "Ecology and Vegetation Dynamics Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.503970+00:00"
-    },
-    {
-      "id": "openalex-8b2f36e2f016",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "CMIP7 data request: ocean and sea ice priorities and opportunities",
-      "authors": "Baylor Fox‐Kemper, Patricia DeRepentigny, Anne‐Marie Tréguier, Christian Stepanek, Eleanor O’Rourke, Chloe Mackallah",
-      "abstract": "Abstract. The ocean and sea ice are central to Earth's climate system, influencing global heat and carbon cycles, weather patterns, and sea level rise. Recent decades have seen rapid advances in Earth System Models (ESMs), but limitations remain in simulating and comparing key oceanic and cryospheric processes across models. A recurring challenge in model intercomparison efforts like the Coupled Model Intercomparison Project (CMIP) is determining the output variables that best represent essential mechanisms while remaining manageable in volume and complexity. Here we present the CMIP7 ocean and sea ice data request, developed through an international, community-based process to prioritize variables for model output. We identify seven opportunities—science-based use cases spanning ocean and cryosphere drivers and responses, paleoclimate, polar amplification, extremes, wind waves, and r...",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "Geoscientific model development",
-      "source": "Geoscientific model development",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5194/gmd-19-6043-2026",
-      "doi": "10.5194/gmd-19-6043-2026",
-      "pdfUrl": "https://gmd.copernicus.org/articles/19/6043/2026/gmd-19-6043-2026.pdf",
-      "keywords": [
-        "Coupled model intercomparison project",
-        "Sea ice",
-        "Earth system science",
-        "Cryosphere",
-        "Climatology",
-        "Climate variability and models",
-        "Geology and Paleoclimatology Research",
-        "Oceanographic and Atmospheric Processes"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.504359+00:00"
+      "_retrievedAt": "2026-09-23T11:30:08.782719+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2660,39 +2084,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.760952+00:00"
-    },
-    {
-      "id": "openalex-c805cc5d5da5",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "MULTI-MODEL INTEGRATION AND PARAMETRIC GEOHAZARD MODELS FOR MULTI-HAZARD SUSCEPTIBILITY ASSESSMENT IN A FAN-SHAPED CATCHMENT (CRNIČKA REKA, NORTH MACEDONIA)",
-      "authors": "Bojana Aleksova, Ivica Milevski, İbrahim Dursun, Duško Vujačić, Youssef M. Youssef",
-      "abstract": "Fan-shaped landforms, particularly fluvial fans, are inherently prone to multiple geohazards because steep slopes, weak lithology, sparse vegetation, and rapid runoff response often coincide within limited spatial areas. This study evaluates multi-hazard susceptibility in the Crnička Reka catchment, eastern North Macedonia, by comparing GIS-based parametric models with FAHP-based multi-criteria analysis. Excessive soil erosion, landslide susceptibility, and flash-flood susceptibility were first assessed individually using the Erosion Potential Model, Landslide Susceptibility Index, and Flash Flood Potential Index, and were then integrated through spatial overlay to identify multi-hazard zones. The EPM results indicate an average erosion coefficient of Z = 0.5, with total erosion production of 5,304 m³/year and a specific erosion rate of 780.9 m³/km²/year, mainly concentrated in the lo...",
-      "date": "2026-07-04",
-      "year": 2026,
-      "journal": "Carpathian Journal of Earth and Environmental Sciences",
-      "source": "Carpathian Journal of Earth and Environmental Sciences",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.26471/cjees/2026/021/369",
-      "doi": "10.26471/cjees/2026/021/369",
-      "pdfUrl": "https://www.cjees.ro/actions/actionDownload.php?fileId=1758",
-      "keywords": [
-        "Surface runoff",
-        "Flash flood",
-        "Geology",
-        "Parametric statistics",
-        "Drainage basin",
-        "Landslides and related hazards",
-        "Soil erosion and sediment transport",
-        "Flood Risk Assessment and Management"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.506324+00:00"
+      "_retrievedAt": "2026-09-23T11:30:08.781248+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2724,11 +2116,11 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.147884+00:00"
+      "_retrievedAt": "2026-09-23T11:30:09.545137+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
-      "discipline": "cs",
+      "discipline": "bio",
       "type": "paper",
       "title": "Advancing bioinformatics with language models: components, applications, and perspectives",
       "authors": "Jiajia Liu, Mengyuan Yang, Yankai Yu, Haixia Xu, Tiangang Wang, Kang Li",
@@ -2756,7 +2148,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.405129+00:00"
+      "_retrievedAt": "2026-09-23T11:30:08.780111+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2788,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.762364+00:00"
+      "_retrievedAt": "2026-09-23T11:30:08.782189+00:00"
     },
     {
       "id": "openalex-f64c9923322b",
@@ -2820,71 +2212,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.764010+00:00"
+      "_retrievedAt": "2026-09-23T11:30:08.782879+00:00"
     },
     {
-      "id": "openalex-d12f8c68ebf5",
-      "discipline": "cs",
+      "id": "openalex-10ad267fea93",
+      "discipline": "clinical",
       "type": "paper",
-      "title": "Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook",
-      "authors": "Ming Jin, Yaxuan Kong, Yuxuan Liang, Chaoli Zhang, Siqiao Xue, Xue Wang",
-      "abstract": "Temporal data-including time series and spatio-temporal data- are pervasive in real-world applications. Generated in massive volumes by physical and virtual sensors, they record dynamic system behaviors and enable a wide range of downstream tasks. Effectively analyzing such data is crucial to unlocking their rich information content. Recent advances in large language models and other foundation models have accelerated their use in time series and spatio-temporal data mining. These approaches not only improve pattern recognition and reasoning across diverse domains but also support progress toward artificial general intelligence that can understand and process temporal data. In this survey, we present a comprehensive, up-to-date review of large models tailored or adapted for time series and spatio-temporal data along four dimensions: data types, model categories, model scopes, and appl...",
-      "date": "2026-06-23",
+      "title": "Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial",
+      "authors": "Marc Steffen Raab, Niels Weinhold, Klaus Martin Kortüm, Jan Krönke, Roland Fenk, Katja Christina Weisel",
+      "abstract": "Abstract Advancements in frontline therapies have substantially improved outcomes in newly diagnosed multiple myeloma (NDMM); however, many patients will not achieve deep responses and will relapse. Teclistamab, a BCMA×CD3 bispecific antibody, in combination with daratumumab, has demonstrated strong efficacy in relapsed/refractory multiple myeloma versus standard of care as early as first relapse. This ongoing phase 2 GMMG-HD10/DSMM-XX (MajesTEC-5) study evaluates teclistamab-based regimens in transplant-eligible NDMM. In this prespecified pooled analysis of three cohorts, 49 patients received teclistamab/daratumumab/lenalidomide (Tec-DR; arms A and A1) or Tec-DR with bortezomib (Tec-DVR; arm B). Primary endpoints were incidence and severity of adverse events (AEs) and serious AEs; secondary endpoints included overall response rate (ORR), minimal residual disease (MRD) negativity and...",
+      "date": "2026-06-25",
       "year": 2026,
-      "journal": "ACM Computing Surveys",
-      "source": "ACM Computing Surveys",
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3821637",
-      "doi": "10.1145/3821637",
-      "pdfUrl": "https://doi.org/10.1145/3821637",
+      "url": "https://doi.org/10.1038/s41591-026-04471-x",
+      "doi": "10.1038/s41591-026-04471-x",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04471-x.pdf",
       "keywords": [
-        "Computer science",
-        "Data science",
-        "Temporal database",
-        "Categorization",
-        "Data mining",
-        "Time Series Analysis and Forecasting",
-        "Advanced Text Analysis Techniques",
-        "Topic Modeling"
+        "Medicine",
+        "Internal medicine",
+        "Leukopenia",
+        "Multiple myeloma",
+        "Bortezomib",
+        "Multiple Myeloma Research and Treatments",
+        "Radiopharmaceutical Chemistry and Applications",
+        "Protein Degradation and Inhibitors"
       ],
       "readTime": "1 min",
-      "citedBy": 35,
-      "qualityScore": 80.0,
+      "citedBy": 6,
+      "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.404424+00:00"
-    },
-    {
-      "id": "openalex-a7c159f1f11b",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Traffic and road sign recognition",
-      "authors": "Hasan A. Fleyeh",
-      "abstract": "This thesis presents a system to recognise and classify road and traffic signs for the purpose of developing an inventory of them which could assist the highway engineers' tasks of updating and maintaining them. It uses images taken by a camera from a moving vehicle. The system is based on three major stages: colour segmentation, recognition, and classification. Four colour segmentation algorithms are developed and tested. They are a shadow and highlight invariant, a dynamic threshold, a modification of de la Escalera's algorithm and a Fuzzy colour segmentation algorithm. All algorithms are tested using hundreds of images and the shadow-highlight invariant algorithm is eventually chosen as the best performer. This is because it is immune to shadows and highlights. It is also robust as it was tested in different lighting conditions, weather conditions, and times of the day. Approximate...",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "Research Output (Edinburgh Napier University)",
-      "source": "Research Output (Edinburgh Napier University)",
-      "sourceApi": "OpenAlex",
-      "url": "http://researchrepository.napier.ac.uk/id/eprint/9466",
-      "doi": "10.17869/enu.233020",
-      "pdfUrl": "http://researchrepository.napier.ac.uk/id/eprint/9466",
-      "keywords": [
-        "Transport engineering",
-        "Traffic sign",
-        "Road traffic",
-        "Sign (mathematics)",
-        "Computer science",
-        "Image Processing and 3D Reconstruction",
-        "Handwritten Text Recognition Techniques",
-        "Safety Warnings and Signage"
-      ],
-      "readTime": "2 min",
-      "citedBy": 30,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.404828+00:00"
+      "_retrievedAt": "2026-09-23T11:30:09.545961+00:00"
     },
     {
       "id": "openalex-c3aaf692321e",
@@ -2916,39 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.149512+00:00"
-    },
-    {
-      "id": "openalex-bb50663ea11d",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Cropland parcels mapping method and distribution characteristics in northeast china's black soil region based on meter-level remote sensing images and cloud platform",
-      "authors": "Jia Zheng, Ting-yan Guo, Huanjun Liu, X B Zheng, Z Tao, Chunmei Wang",
-      "abstract": "Cropland parcels (CPs) constitute the fundamental physical units of agricultural production and management. However, their regional-scale mapping from meter-level very-high-resolution (VHR) imagery remains challenging due to computational constraints, tile-induced boundary fragmentation, and semantic confusion associated with single-date observations. To address these challenges, we develop a cloud-based method for large-scale cropland parcel mapping from meter-level VHR imagery. This method consists of geospatial tiling, HRNet-based boundary extraction from VHR imagery, and parcel-level post-processing, including morphology-based parcel merging and Sentinel-2 phenology-based filtering. This framework enables efficient large-area processing while preserving parcel continuity and boundary integrity. Using this framework, we generate NECCPB-1, a high-resolution cropland parcel boundary...",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "GIScience & Remote Sensing",
-      "source": "GIScience & Remote Sensing",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1080/15481603.2026.2690325",
-      "doi": "10.1080/15481603.2026.2690325",
-      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/15481603.2026.2690325?needAccess=true",
-      "keywords": [
-        "Remote sensing",
-        "Boundary (topology)",
-        "Geospatial analysis",
-        "Environmental science",
-        "Land cover",
-        "Remote Sensing in Agriculture",
-        "Land Use and Ecosystem Services",
-        "Remote-Sensing Image Classification"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.504800+00:00"
+      "_retrievedAt": "2026-09-23T11:30:09.546619+00:00"
     },
     {
       "id": "openalex-a29127dc905f",
@@ -2980,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.149870+00:00"
+      "_retrievedAt": "2026-09-23T11:30:09.546798+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -3012,39 +2340,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.147101+00:00"
+      "_retrievedAt": "2026-09-23T11:30:09.544737+00:00"
     },
     {
-      "id": "openalex-6c44a5bfc030",
-      "discipline": "geo",
+      "id": "openalex-771740d27607",
+      "discipline": "clinical",
       "type": "paper",
-      "title": "Omics-driven plant breeding through phenomics-enviromics crosstalk",
-      "authors": "Huihui Li, Shang Gao, Takele Weldu Gebrewahid, Wenxue Li, Jiankang Wang, Zanping Han",
-      "abstract": "Genomics, including all molecular omics, is driven by molecular data, while phenomics and enviromics rely on phenotypic and environmental data. Yet phenotyping is often conducted under poorly characterized environments, limiting the interpretation of phenotypic variation and constraining genetic gain. Integrating high-throughput phenotyping with envirotyping is hence vital to resolve genomic effects. This perspective introduces phenomics-enviromics (PE) crosstalk as a framework for coordinated data collection and integration to advance omics and precision plant breeding. Satellites, unmanned aerial and ground vehicles, and controlled indoor facilities, combined with AI-assisted typing technologies and modeling, are establishing the basis for synchronous, high-throughput PE crosstalk to enhance interpretability, prediction, and crop resilience. Genomics, phenomics, and enviromics const...",
+      "title": "Stimuli-responsive nanocarriers for precision targeted and controlled antimicrobial drug delivery in drug-resistant infections",
+      "authors": "Li Dai, Xiaoyan Sun",
+      "abstract": ". Conventional antibiotics exhibit non-specific systemic distribution, frequently fail to achieve sustained therapeutic concentrations at infection sites, and expose both pathogenic and commensal microbiota to sub-inhibitory levels that accelerate resistance selection. In contrast, infected tissues exhibit distinct and dynamic microenvironmental features-including acidic pH, elevated reactive oxygen species, pathogen-associated enzymatic activity, hypoxia, and localized inflammatory signaling-that are largely absent in healthy tissues and provide exploitable triggers for targeted therapy. Stimuli-responsive nanocarriers are engineered to sense and respond to these pathological cues, enabling spatiotemporally controlled and infection-specific drug release while minimizing systemic exposure. In this review, we systematically analyze the mechanistic foundations of pH-, enzyme-, redox-, a...",
       "date": "2026-06-12",
       "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
+      "journal": "Frontiers in Microbiology",
+      "source": "Frontiers in Microbiology",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-73097-x",
-      "doi": "10.1038/s41467-026-73097-x",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-73097-x_reference.pdf",
+      "url": "https://doi.org/10.3389/fmicb.2026.1803769",
+      "doi": "10.3389/fmicb.2026.1803769",
+      "pdfUrl": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1803769/pdf",
       "keywords": [
-        "Phenomics",
-        "Crosstalk",
-        "Limiting",
-        "Biology",
-        "Computational biology",
-        "Genetic Mapping and Diversity in Plants and Animals",
-        "Smart Agriculture and AI",
-        "Remote Sensing in Agriculture"
+        "Nanocarriers",
+        "Antimicrobial",
+        "Drug delivery",
+        "Antibiotics",
+        "Drug",
+        "Nanoplatforms for cancer theranostics",
+        "Graphene and Nanomaterials Applications",
+        "Nanoparticle-Based Drug Delivery"
       ],
       "readTime": "1 min",
       "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.502362+00:00"
+      "_retrievedAt": "2026-09-23T11:30:09.546993+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -3076,71 +2404,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.760334+00:00"
+      "_retrievedAt": "2026-09-23T11:30:08.780886+00:00"
     },
     {
-      "id": "openalex-42a964175819",
-      "discipline": "cs",
+      "id": "openalex-7a70a48faaec",
+      "discipline": "clinical",
       "type": "paper",
-      "title": "HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs)",
-      "authors": "Tarek Ali, Panos Kostakos, Saeid Sheikhi",
-      "abstract": "Machine learning (ML) methods for network anomaly detection are emerging as effective proactive strategies in threat hunting, substantially reducing the time required for threat detection and response. However, the challenges in training and maintaining ML models, coupled with frequent false positives, diminish their acceptance and trustworthiness. In response, Explainable AI (XAI) techniques have been introduced to enable cybersecurity operations teams to assess alerts generated by AI systems more confidently. Despite these advancements, XAI tools have encountered limited acceptance from incident responders and have struggled to meet the decision-making needs of both analysts and model maintainers. Large Language Models (LLMs) offer a unique approach to tackling these challenges. Through tuning, LLMs have the ability to discern patterns across vast amounts of information and meet var...",
+      "title": "Post-adjuvant chemotherapy in ctDNA-positive patients with resected colorectal cancer: a randomized phase 3 trial",
+      "authors": "Hideaki Bando, Jun Watanabe, Yusuke Takahashi, Masahito Kotaka, Nobuhisa Matsuhashi, Eiji Oki",
+      "abstract": "Tumor-informed circulating tumor DNA (ctDNA) enables detection of molecular residual disease (MRD) after curative resection of colorectal cancer (CRC), but whether early intervention improves outcomes remains uncertain. ALTAIR was a randomized, double-blind, phase 3 trial embedded in the CIRCULATE-Japan platform evaluating a post-adjuvant ctDNA surveillance strategy with treatment initiation upon molecular recurrence. Patients with resected stage 0–IV CRC who became ctDNA positive after completion of standard-of-care therapy and had no radiological evidence of disease were randomly assigned (1:1) to receive trifluridine/tipiracil (FTD/TPI) or placebo for 6 months. The primary endpoint was investigator-assessed disease-free survival (DFS). Between July 2020 and June 2023, 243 patients were randomized to FTD/TPI (n = 122) or placebo (n = 121). Median DFS was 9.30 months with FTD/TPI and...",
       "date": "2026-06-08",
       "year": 2026,
-      "journal": "Telecom",
-      "source": "Telecom",
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/telecom7030073",
-      "doi": "10.3390/telecom7030073",
-      "pdfUrl": "https://doi.org/10.3390/telecom7030073",
+      "url": "https://doi.org/10.1038/s41591-026-04428-0",
+      "doi": "10.1038/s41591-026-04428-0",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04428-0.pdf",
       "keywords": [
-        "Computer science",
-        "Intrusion detection system",
-        "Anomaly detection",
-        "False positive paradox",
-        "Artificial intelligence",
-        "Network Security and Intrusion Detection",
-        "Information and Cyber Security",
-        "Anomaly Detection Techniques and Applications"
+        "Medicine",
+        "Placebo",
+        "Colorectal cancer",
+        "Internal medicine",
+        "Clinical endpoint",
+        "Cancer Genomics and Diagnostics",
+        "Colorectal Cancer Treatments and Studies",
+        "Cancer Cells and Metastasis"
       ],
       "readTime": "1 min",
-      "citedBy": 40,
-      "qualityScore": 80.0,
+      "citedBy": 6,
+      "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.403715+00:00"
-    },
-    {
-      "id": "openalex-af6666a0b36a",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Conducting Qualitative Interviews with AI",
-      "authors": "Felix Chopra, Ingar Haaland",
-      "abstract": "Qualitative interviews offer rich insights into human behavior, but their lack of scalability has limited their use in economics. This paper introduces and evaluates AI-led interviews as a novel method for collecting qualitative data. Across different economic contexts, a comprehensive set of quality metrics demonstrates the high quality of AI-led interviews. We then demonstrate that AI-led interviews generate thematically richer responses than other survey methods for collecting qualitative data at scale. A decomposition exercise shows that the benefits of AI-led interviews mainly arise from asking dynamic probing questions. Importantly, AI-led interviews make themes visible that would otherwise be unobserved. These themes matter: We show that responses in AI-led interviews are internally valid and predict future behavior six months later. Finally, we demonstrate that AI-led intervie...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "CESifo",
-      "source": "CESifo",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.65864/ch6grwpore",
-      "doi": "10.65864/ch6grwpore",
-      "pdfUrl": "https://www.ifo.de/sites/default/files/docbase/docs/cesifo1_wp10666.pdf",
-      "keywords": [
-        "Generalizability theory",
-        "Qualitative research",
-        "Qualitative property",
-        "Data collection",
-        "Sample (material)",
-        "Sports Analytics and Performance",
-        "Forecasting Techniques and Applications",
-        "Flood Risk Assessment and Management"
-      ],
-      "readTime": "1 min",
-      "citedBy": 25,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.405447+00:00"
+      "_retrievedAt": "2026-09-23T11:30:09.546163+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -3172,39 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.150224+00:00"
-    },
-    {
-      "id": "openalex-9e919d4ae811",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Digital twins as decision infrastructure: evolution, architecture, and research roadmap",
-      "authors": "Chaowei Phil Yang, Anusha Srirenganathan Malarvizhi, Yahya Masri, Jennifer Seren Smith, Zhenlong Li, Qunying Huang",
-      "abstract": "Digital twins (DTs) have evolved from domain-specific simulation tools into integrative cyber–physical–social infrastructures that reshape how complex systems are observed, modeled, and governed. Rather than treating DTs as digital replicas, this paper conceptualizes them as dynamic epistemic architectures that integrate observation, physics-based modeling, AI, and decision processes through persistent bidirectional exchange. Drawing on a systematic review of 251 papers (from 449 screened abstracts within 22,434 publications, supplemented by foundational literature), we examine how this transition is enabled by advances in sensing, scalable computing, data assimilation, uncertainty quantification, and AI–physics integration. We argue that the defining feature of mature DTs is not replication fidelity alone, but their capacity to support uncertainty-aware, scenario-driven decision-maki...",
-      "date": "2026-06-07",
-      "year": 2026,
-      "journal": "Big Earth Data",
-      "source": "Big Earth Data",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1080/20964471.2026.2678046",
-      "doi": "10.1080/20964471.2026.2678046",
-      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/20964471.2026.2678046?needAccess=true",
-      "keywords": [
-        "Interoperability",
-        "Computer science",
-        "Data science",
-        "Scalability",
-        "Knowledge management",
-        "Digital Transformation in Industry",
-        "Smart Grid Security and Resilience",
-        "Systems Engineering Methodologies and Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.502748+00:00"
+      "_retrievedAt": "2026-09-23T11:30:09.547165+00:00"
     },
     {
       "id": "openalex-e83a54581c00",
@@ -3232,47 +2496,15 @@
         "Dietary Effects on Health"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.150539+00:00"
-    },
-    {
-      "id": "openalex-3559bddd3558",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Community views on hydrogeology education: A global perspective from 2024",
-      "authors": "Stephanie L. Musy, James M. Thornton, Ty Ferre, Amanda Sills, Daniel Hunkeler, Philip Brunner",
-      "abstract": "Abstract Groundwater is the Earth’s largest reservoir of available freshwater. As climate change and increasing anthropogenic pressures continue to affect its availability and quality, the discipline of hydrogeology is evolving rapidly. Training enough professionals capable of understanding and managing groundwater resources effectively is therefore more critical than ever. However, there is a perceived global shortage of adequately trained hydrogeologists—raising concerns about society’s capacity to address future groundwater-related challenges. To obtain quantitative data regarding this perception and to evaluate the current state of hydrogeology education and workforce dynamics more generally, a global survey was conducted of hydrogeology professionals, recent graduates, and current students. Five hundred seventy-three individuals from 82 countries responded, providing contemporary...",
-      "date": "2026-06-06",
-      "year": 2026,
-      "journal": "Hydrogeology Journal",
-      "source": "Hydrogeology Journal",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s10040-026-03089-0",
-      "doi": "10.1007/s10040-026-03089-0",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s10040-026-03089-0.pdf",
-      "keywords": [
-        "Hydrogeology",
-        "Discipline",
-        "Workforce",
-        "Training (meteorology)",
-        "Work (physics)",
-        "Geography Education and Pedagogy",
-        "Groundwater and Isotope Geochemistry",
-        "Groundwater flow and contamination studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.506720+00:00"
+      "_retrievedAt": "2026-09-23T11:30:09.545702+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
-      "discipline": "cs",
+      "discipline": "bio",
       "type": "paper",
       "title": "Multi-omics and artificial intelligence for precision drug discovery and potential clinical applications",
       "authors": "Yuqing Liu, Kun Zhu, Weijun Peng, Zhaoqian Liu, Xiaoyuan Mao",
@@ -3300,39 +2532,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.406744+00:00"
+      "_retrievedAt": "2026-09-23T11:30:08.780760+00:00"
     },
     {
-      "id": "openalex-c696aff78c58",
-      "discipline": "cs",
+      "id": "openalex-28255416d814",
+      "discipline": "clinical",
       "type": "paper",
-      "title": "Retrieval-augmented generation for natural language processing: a survey",
-      "authors": "Shangyu Wu, Ying Xiong, Yufei Cui, Haolun Wu, Can Chen, Ye Yuan",
-      "abstract": "Large language models (LLMs) have achieved strong empirical performance in various fields, benefiting from their huge amount of parameters that store knowledge. However, LLMs still suffer from several key issues, such as hallucination problems, knowledge update issues, and lacking domain-specific expertise. The appearance of retrieval-augmented generation (RAG), which leverages an external knowledge base to augment LLMs, mitigates these limitations. This paper presents a systematic review of RAG techniques for natural language processing (NLP), with a focus on retrievers and retrieval fusions. We introduce a novel taxonomy of retrieval fusions, such as query-based, logits-based, latent, and parametric fusion, and provide structured comparisons across accessibility, efficiency, and use cases. The paper further examines RAG applications across diverse NLP tasks, discusses evaluation met...",
-      "date": "2026-06-01",
+      "title": "GLP-1 Agonists Are Associated With a Significant Reduction in Breast Cancer Incidence in Women",
+      "authors": "E. Robert McDonald, Laura B. Gillis, Peter Edward Gabriel, Kham Xapakdy, Anthony Young, Abigail Doucette",
+      "abstract": "PURPOSE Excess weight is a key modifiable risk factor for breast cancer. Glucagon-like peptide-1 receptor agonists (GLP-1) promote weight loss and improve metabolic health, but their effect on breast cancer risk remains unclear. METHODS We conducted a retrospective cohort study from January 1, 2022, to June 30, 2025, using electronic health records. We identified 217,624 unique women who underwent breast imaging; restricting to ages 45-80 years with a BMI ≥25 and a documented imaging outcome (n = 111,646; median age 61 years). The primary outcome was breast cancer detection. GLP-1 use was defined as a first prescription before the examination date and assessed in relation to race, ethnicity, age, and type 2 diabetes. To address potential confounding between these covariates and GLP-1 exposure, we performed one-to-one, case-control matching using propensity scores on the basis of age,...",
+      "date": "2026-06-02",
       "year": 2026,
-      "journal": "Artificial Intelligence Review",
-      "source": "Artificial Intelligence Review",
+      "journal": "JCO Oncology Practice",
+      "source": "JCO Oncology Practice",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s10462-026-11605-7",
-      "doi": "10.1007/s10462-026-11605-7",
-      "pdfUrl": "https://doi.org/10.1007/s10462-026-11605-7",
+      "url": "https://doi.org/10.1200/op-26-00485",
+      "doi": "10.1200/op-26-00485",
+      "pdfUrl": "https://ascopubs.org/doi/pdfdirect/10.1200/OP-26-00485",
       "keywords": [
-        "Computer science",
-        "Natural language processing",
-        "Natural (archaeology)",
-        "Natural language generation",
-        "Artificial intelligence",
-        "Topic Modeling",
-        "Natural Language Processing Techniques",
-        "language"
+        "Medicine",
+        "Breast cancer",
+        "Propensity score matching",
+        "Incidence (geometry)",
+        "Internal medicine",
+        "Diabetes Treatment and Management",
+        "Metabolism, Diabetes, and Cancer",
+        "Bariatric Surgery and Outcomes"
       ],
       "readTime": "1 min",
-      "citedBy": 18,
-      "qualityScore": 80.0,
+      "citedBy": 5,
+      "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.407035+00:00"
+      "_retrievedAt": "2026-09-23T11:30:09.547399+00:00"
     },
     {
       "id": "openalex-33d4ca0564d8",
@@ -3364,7 +2596,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.148262+00:00"
+      "_retrievedAt": "2026-09-23T11:30:09.545344+00:00"
     },
     {
       "id": "openalex-d767b74ad31a",
@@ -3396,167 +2628,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.149022+00:00"
+      "_retrievedAt": "2026-09-23T11:30:09.546402+00:00"
     },
     {
-      "id": "openalex-93ba88b6125e",
+      "id": "openalex-491ae913aa3a",
       "discipline": "clinical",
       "type": "paper",
-      "title": "Nanomedicine in 2026: Illustrative Quantitative Analyses of EPR Heterogeneity, Clinical Trial Attrition, and Emerging Horizons for Active Nanotherapeutics",
-      "authors": "Sayed Mortaza Fayez",
-      "abstract": "2026 is a turning point for nanomedicine, marking the field's transition from decades of preclinical promise toward tangible clinical impact. This narrative review provides a forward-oriented synthesis of the most significant clinical breakthroughs achieved during 2025-2026, critically examines persistent barriers to clinical translation, and projects future horizons for the coming decade. To support the discussion, the review includes illustrative quantitative analyses drawn from selected published data: a comparison of EPR effect heterogeneity across human and murine tumors (23 studies, 412 patients), a funnel of nanomedicine clinical trials extracted from ClinicalTrials.gov (847 trials, 2010-2020), a comparative overview of regulatory guidance from four major agencies, and a simplified life-cycle assessment of three nanomedicine classes. These analyses are intended to highlight tre...",
+      "title": "SEZ6-targeting antibody−drug conjugate ABBV-706 in advanced small cell lung cancer and solid tumors: a phase 1 trial",
+      "authors": "Lauren Averett Byers, Byoung Chul Cho, Alissa J. Cooper, Anne C. Chiang, Ji-Youn Han, Muhammad Furqan",
+      "abstract": "Abstract Seizure-related homolog 6 (SEZ6) is expressed in small cell lung cancer (SCLC) and neuroendocrine neoplasms. In an open label, phase 1 trial, ABBV-706, an antibody−drug conjugate with a SEZ6-directed antibody linked to topoisomerase-1 inhibitor (Top1i), was administered intravenously every 3 weeks (Q3W) to 288 patients with advanced solid tumors; 240 received monotherapy, including 124 with relapsed/refractory (R/R) SCLC. Primary objectives of dose escalation (part 1, advanced solid tumors), dose optimization and expansion (part 2, R/R SCLC only) and dose expansion (part 4, central nervous system tumors and high-grade neuroendocrine neoplasms only) were to evaluate the safety, tolerability, pharmacokinetics (PK), immunogenicity and antitumor activity of ABBV-706 monotherapy and, from parts 1 and 2, to determine the recommended phase 2 dose (RP2D) of ABBV-706 in R/R SCLC. In t...",
       "date": "2026-06-01",
-      "year": 2026,
-      "journal": "International Journal of Nanomedicine",
-      "source": "International Journal of Nanomedicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.2147/ijn.s618407",
-      "doi": "10.2147/ijn.s618407",
-      "pdfUrl": "https://www.dovepress.com/article/download/116224",
-      "keywords": [
-        "Nanomedicine",
-        "Clinical trial",
-        "Nanotechnology",
-        "Drug delivery",
-        "Medicine",
-        "Nanoplatforms for cancer theranostics",
-        "Nanoparticle-Based Drug Delivery",
-        "Radiopharmaceutical Chemistry and Applications"
-      ],
-      "readTime": "2 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.150974+00:00"
-    },
-    {
-      "id": "openalex-a92be95cf61e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "MAGE-A4/MAGE-A8-targeted TCR-based bispecific T cell engager in recurrent and/or refractory solid tumors: a phase 1 trial",
-      "authors": "Martin Wermke, Sebastian Ochsenreither, Dirk Jaeger, Heiko Becker, Annalen Bleckmann, Farastuk Bozorgmehr",
-      "abstract": "IMA401 is a T cell receptor (TCR)-based next-generation bispecific T cell engaging receptor (TCER) targeting an HLA-A*02:01-presented peptide derived from MAGE-A4/MAGE-A8 with its high-affinity TCR-based domain, incorporating a low-affinity T-cell-recruiting domain and an optimized Fc domain to prolong half-life. In this prespecified interim analysis of a phase 1 first-in-human trial, 61 patients with advanced solid tumors received intravenous IMA401 (0.0066 mg-2.5 mg) with or without pembrolizumab. The primary endpoint was determination of the maximum tolerated dose (MTD) and/or recommended phase 2 dose (RP2D) of IMA401 monotherapy and in combination with pembrolizumab. Secondary objectives included safety and tolerability, antitumor activity and pharmacokinetics. The MTD was not reached as defined by the clinical trial protocol, and the RP2D was 1-2 mg IMA401 biweekly. Treatment-rel...",
-      "date": "2026-05-31",
       "year": 2026,
       "journal": "Nature Medicine",
       "source": "Nature Medicine",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04455-x",
-      "doi": "10.1038/s41591-026-04455-x",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04455-x.pdf",
+      "url": "https://doi.org/10.1038/s41591-026-04452-0",
+      "doi": "10.1038/s41591-026-04452-0",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04452-0.pdf",
       "keywords": [
-        "T cell",
-        "Cancer research",
-        "Chemistry",
-        "Refractory (planetary science)",
-        "Molecular biology",
-        "CAR-T cell therapy research",
-        "Immunotherapy and Immune Responses",
-        "Monoclonal and Polyclonal Antibodies Research"
+        "Medicine",
+        "Pharmacokinetics",
+        "Lung cancer",
+        "Internal medicine",
+        "Adverse effect",
+        "Lung Cancer Research Studies",
+        "HER2/EGFR in Cancer Research",
+        "Microtubule and mitosis dynamics"
       ],
       "readTime": "1 min",
       "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.151429+00:00"
-    },
-    {
-      "id": "openalex-ca751a9a90a6",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "How to create a saltmarsh: understanding the roles of topography, redox and nutrient dynamics",
-      "authors": "Peter J. Lawrence",
-      "abstract": "The restoration of saltmarsh is critical given the importance of the habitat and the degradation and losses it faces. However, success of saltmarsh restoration has been limited, particularly in replacing plant communities, despite like-for-like replacement being a legal requirement. Previous research found elevation in the tidal frame and sediment redox potential are important drivers of vegetation communities, and are different between restored and natural marshes. However, elevation and sediment redox potential together are insufficient to explain differences in plant communities. Topographic features are thought to alter redox potential-elevation relationships, though its role in plant communities is not currently known. Nutrient concentrations can also impact vegetation, however we lack evidence as to the typical concentrations in natural saltmarsh or restored sites, and how close...",
-      "date": "2026-05-28",
-      "year": 2026,
-      "journal": "e-space (Manchester Metropolitan University)",
-      "source": "e-space (Manchester Metropolitan University)",
-      "sourceApi": "OpenAlex",
-      "url": "https://e-space.mmu.ac.uk/620851/1/PeterJohnLawrence_Thesis_2018.pdf",
-      "doi": "10.83056/mmu.32479191",
-      "pdfUrl": "https://e-space.mmu.ac.uk/620851/1/PeterJohnLawrence_Thesis_2018.pdf",
-      "keywords": [
-        "Salt marsh",
-        "Marsh",
-        "Nutrient",
-        "Environmental science",
-        "Ecology",
-        "Coastal wetland ecosystem dynamics",
-        "Geology and Paleoclimatology Research",
-        "Geological formations and processes"
-      ],
-      "readTime": "2 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:15.503153+00:00"
-    },
-    {
-      "id": "openalex-e8c4c692e177",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era",
-      "authors": "Xuansheng Wu, Haiyan Zhao, Yaochen Zhu, Yucheng Shi, Fan Yang, Lijie Hu",
-      "abstract": "Explainable AI (XAI) refers to techniques that provide human-understandable insights into the workings of AI models. Recently, the focus of XAI has been extended toward explaining Large Language Models (LLMs). This extension calls for a significant transformation in the XAI methodologies for two reasons. First, many existing XAI methods cannot be directly applied to LLMs due to their complexity and advanced capabilities. Second, as LLMs are increasingly deployed in diverse applications, the role of XAI shifts from merely opening the “black box” to actively enhancing the productivity and applicability of LLMs in real-world settings. Meanwhile, the conversation and generation abilities of LLMs can reciprocally enhance XAI. Therefore, in this article, we introduce Usable XAI in the context of LLMs by analyzing (1) how XAI can explain and improve LLM-based AI systems and (2) how XAI techn...",
-      "date": "2026-05-26",
-      "year": 2026,
-      "journal": "ACM Transactions on Knowledge Discovery from Data",
-      "source": "ACM Transactions on Knowledge Discovery from Data",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3816150",
-      "doi": "10.1145/3816150",
-      "pdfUrl": "https://doi.org/10.1145/3816150",
-      "keywords": [
-        "USable",
-        "Business",
-        "Computer science",
-        "World Wide Web",
-        "Scientific Computing and Data Management",
-        "Artificial Intelligence in Law",
-        "llms",
-        "usable"
-      ],
-      "readTime": "1 min",
-      "citedBy": 22,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.405765+00:00"
-    },
-    {
-      "id": "openalex-8bf44fba3376",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Exploring Code Analysis: Zero-Shot Insights on Syntax and Semantics with LLMs",
-      "authors": "Wei Ma, Shangqing Liu, Shangqing Liu, Qiang Hu, Ye Liu, Wenhan Wang",
-      "abstract": "Code analysis is a fundamental problem in Software Engineering (SE), playing a crucial role in tasks such as debugging, performance optimization, and security assessment. Human developers typically approach code analysis through syntax parsing, static semantics inference, and dynamic reasoning. Traditional code analysis tools, while effective, are often limited by language specificity, complex configurations, and lack of cross-language generalization. Recently, large language models (LLMs) have emerged as promising tools for automating various code-related tasks. However, their capabilities for fundamental code analysis remain underexplored. Understanding these capabilities is crucial for assessing and enhancing LLM-based programming tools. We structure our study around three aspects of code analysis aligned with human practices: syntax parsing, static semantics inference, and dynamic...",
-      "date": "2026-05-26",
-      "year": 2026,
-      "journal": "ACM Transactions on Software Engineering and Methodology",
-      "source": "ACM Transactions on Software Engineering and Methodology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3818607",
-      "doi": "10.1145/3818607",
-      "pdfUrl": "https://arxiv.org/pdf/2305.12138",
-      "keywords": [
-        "Computer science",
-        "Programming language",
-        "Syntax",
-        "Abstract syntax tree",
-        "Artificial intelligence",
-        "Software Engineering Research",
-        "Artificial Intelligence in Healthcare and Education",
-        "Ferroelectric and Negative Capacitance Devices"
-      ],
-      "readTime": "2 min",
-      "citedBy": 18,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T04:41:14.407539+00:00"
+      "_retrievedAt": "2026-09-23T11:30:09.547664+00:00"
     }
   ]
 }
