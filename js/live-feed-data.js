@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-09-23T21:27:56.236159+00:00",
+  "generatedAt": "2026-09-24T04:44:52.035122+00:00",
   "total": 111,
   "sources": [
     "RSS",
@@ -7,452 +7,612 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-530e8f1976d2",
+      "id": "rss-3115a353983e",
       "discipline": "clinical",
       "type": "news",
-      "title": "Shorter, gentler exercise programs may ease pain more than tougher workouts",
+      "title": "Cancer incidence remains higher in people with type 2 diabetes, with the gap widening in recent years",
       "authors": "Medical Xpress",
-      "abstract": "From osteoarthritis to a splitting migraine, when you're experiencing pain, exercise can seem like the last thing you want or think you should do. But according to new Adelaide University research published in PAIN Reports, it could be one of the most effective ways to help ease your symptoms.",
-      "date": "2026-09-23",
+      "abstract": "A nationwide study presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2 has found that people with type 2 diabetes (T2D) have a higher risk of developing cancer. Cancer incidence has risen more among people with T2D than among those without diabetes over the past 25 years, largely driven by obesity-related cancers.",
+      "date": "2026-09-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-shorter-gentler-ease-pain-tougher.html",
+      "url": "https://medicalxpress.com/news/2026-09-cancer-incidence-higher-people-diabetes.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "diabetes",
+        "cancer",
+        "people",
+        "incidence",
+        "higher",
+        "type",
+        "years",
+        "among"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:51.495154+00:00"
+    },
+    {
+      "id": "rss-e3d2aec5e357",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "People with dementia want to participate in research, according to study",
+      "authors": "Medical Xpress",
+      "abstract": "For a long time, dementia research has been shaped by concerns that participation may be too burdensome for people with cognitive impairment. However, a recent study led by professors Eino Solje and Anna Mäki-Petäjä-Leinonen found the opposite: 90% of participants reported no burden from participating. Many described the experience as positive, interesting and even refreshing.",
+      "date": "2026-09-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-people-dementia.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "people",
+        "dementia",
+        "want",
+        "participate",
+        "according",
+        "long",
+        "time",
+        "been"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:51.495469+00:00"
+    },
+    {
+      "id": "rss-45c6a170904e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New pathways identified to reduce pain and depressive symptoms associated with fibromyalgia",
+      "authors": "Medical Xpress",
+      "abstract": "Fibromyalgia is a chronic condition affecting between 2% and 6% of the global population, characterized by widespread, persistent pain often associated with fatigue, sleep disturbances, cognitive difficulties and affective symptoms. Despite its high prevalence—particularly among women—the mechanisms contributing to the development and persistence of the disease are not yet fully understood.",
+      "date": "2026-09-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-pathways-pain-depressive-symptoms-fibromyalgia.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "pain",
-        "exercise",
-        "ease",
-        "shorter",
-        "gentler",
-        "programs",
-        "more",
-        "than"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.708322+00:00"
-    },
-    {
-      "id": "rss-29de39ce1669",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Study identifies potential RAS inhibitor-immunotherapy strategy for pancreatic cancer",
-      "authors": "Medical Xpress",
-      "abstract": "Pancreatic cancer does not respond to most immunotherapies, but RAS inhibitors could alter tumors to make them more sensitive to a novel immunotherapeutic approach. In pancreatic tumors with RAS mutations, RAS inhibitors cause massive cell death and reduce immunosuppression. These changes tend to be temporary because tumors develop resistance to the therapy.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-potential-ras-inhibitor-immunotherapy-strategy.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "pancreatic",
-        "tumors",
-        "cancer",
-        "inhibitors",
-        "identifies",
-        "potential",
-        "inhibitor-immunotherapy",
-        "strategy"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.708655+00:00"
-    },
-    {
-      "id": "rss-4dc150a7e1eb",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Mortality, comorbidity risk increased with generalized pustular psoriasis",
-      "authors": "Medical Xpress",
-      "abstract": "Generalized pustular psoriasis (GPP) is associated with higher mortality and comorbidity risks than psoriasis vulgaris (PV), according to a study published online Sept. 2 in Frontiers in Immunology. The risks also were higher than those among nonpsoriatic controls.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-mortality-comorbidity-generalized-pustular-psoriasis.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "psoriasis",
-        "mortality",
-        "comorbidity",
-        "generalized",
-        "pustular",
-        "higher",
-        "risks",
-        "than"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.708911+00:00"
-    },
-    {
-      "id": "rss-b6f2d2fff7cc",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Researchers identify cellular stress-protection system that may help tumors withstand chemotherapy",
-      "authors": "Medical Xpress",
-      "abstract": "Many cancer treatments work by exploiting weaknesses in tumor cells, overwhelming their ability to survive, repair damage or continue growing. Yet some cancer cells manage to survive treatment. A new study from Texas A&M University sheds light on one reason why: Some cancer cells have a survival toolkit.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-cellular-stress-tumors-chemotherapy.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "cells",
-        "survive",
-        "some",
-        "researchers",
-        "identify",
-        "cellular",
-        "stress-protection"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.709182+00:00"
-    },
-    {
-      "id": "rss-962b70e9f92a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Scientists unveil the most detailed and precise map of the mouse motor cortex to date",
-      "authors": "Medical Xpress",
-      "abstract": "The brain's motor cortex plans, controls and executes voluntary muscle movements. Whether you're playing catch, writing your name or chewing food, it all points back to this region and its connections to other parts of the brain. Yet despite extensive study, scientists still haven't created a detailed map of how the mouse motor cortex is internally organized. Most brain atlases have divided it into two general regions—primary and secondary—based on differences in connectivity, but this doesn't provide a detailed or consistent picture.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-scientists-unveil-precise-mouse-motor.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "detailed",
-        "motor",
-        "cortex",
-        "brain",
-        "scientists",
-        "most",
-        "mouse",
-        "this"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.709519+00:00"
-    },
-    {
-      "id": "rss-6d49c2ffeb5a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Examining how heavy training affects elite soccer athletes",
-      "authors": "Medical Xpress",
-      "abstract": "As athletes and coaches work to outperform their competition, physical training becomes a key resource for gaining an advantage. However, new research led by a University of Oklahoma faculty member shows that heavier training loads can hurt next-day performance, suggesting coaches should consider each athlete's individual needs.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-heavy-affects-elite-soccer-athletes.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "training",
-        "athletes",
-        "coaches",
-        "examining",
-        "heavy",
-        "affects",
-        "elite",
-        "soccer"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.709827+00:00"
-    },
-    {
-      "id": "rss-745bc19e7217",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "High-fat diets suppress enzyme in immune cells, promoting fat tissue inflammation in mice",
-      "authors": "Medical Xpress",
-      "abstract": "A group of innate immune cells, known as group 2 lymphoid cells (ILC2), are essential for maintaining a stable metabolism in adipose tissue. Obesity significantly impairs the number and function of ILC2 cells, leading to the progression of metabolism-related inflammation. Until now, it was unknown how ILC2 cells are disrupted in obesity.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-high-fat-diets-suppress-enzyme.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cells",
-        "immune",
-        "tissue",
-        "inflammation",
-        "group",
-        "obesity",
-        "high-fat",
-        "diets"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.710086+00:00"
-    },
-    {
-      "id": "rss-92c3f581c4aa",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Cancer's 'rogue DNA' relies on two proteins to prevent and repair breaks",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at Memorial Sloan Kettering Cancer Center (MSK) and their colleagues have discovered that a type of rogue DNA found in aggressive cancers has a hidden structural weakness—and that blocking a single repair protein can cause it to fall apart, suggesting a new therapeutic opportunity.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-cancer-rogue-dna-proteins.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "rogue",
-        "repair",
-        "that",
-        "relies",
-        "proteins",
-        "prevent",
-        "breaks"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.710348+00:00"
-    },
-    {
-      "id": "rss-f7138fc9c2b9",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Stroke rates nearly doubled among adults 20 to 54 in Cincinnati region since 1990s",
-      "authors": "Medical Xpress",
-      "abstract": "Stroke is becoming more common among younger adults, according to a study published in Neurology. Researchers found that strokes among adults ages 20 to 54 nearly doubled over nearly three decades, even as short-term survival after stroke improved.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-adults-cincinnati-region-1990s.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "stroke",
-        "nearly",
-        "among",
-        "adults",
-        "doubled",
-        "rates",
-        "cincinnati",
-        "region"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.710607+00:00"
-    },
-    {
-      "id": "rss-e3e52a5395e0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Study reviews potential health effects of mobile phone use during pregnancy",
-      "authors": "Medical Xpress",
-      "abstract": "A systematic review of the scientific literature on mobile phone use during pregnancy and fetal outcomes examines the potential health effects of exposure. While some studies included in the review found no significant association between short- or long-term mobile phone use and major pregnancy outcomes, most associated prolonged or intensive use with a range of adverse outcomes, particularly cardiovascular abnormalities and shorter gestational duration.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-potential-health-effects-mobile-pregnancy.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "mobile",
-        "phone",
-        "pregnancy",
-        "outcomes",
-        "potential",
-        "health",
-        "effects",
-        "during"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.710882+00:00"
-    },
-    {
-      "id": "rss-1df8d9dd2ad1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Transient ischemic attack associated with increased risk of dementia",
-      "authors": "Medical Xpress",
-      "abstract": "Having a transient ischemic attack (TIA) is associated with an increased risk of developing dementia, according to a new study published in Neurology. The study does not prove that a transient ischemic attack causes dementia; it only shows an association.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-transient-ischemic-dementia.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "transient",
-        "ischemic",
-        "attack",
-        "dementia",
+        "symptoms",
         "associated",
-        "increased",
-        "risk",
-        "having"
+        "fibromyalgia",
+        "pathways",
+        "identified",
+        "reduce",
+        "depressive"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.711112+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.495828+00:00"
     },
     {
-      "id": "rss-1ab6d07cc5c5",
+      "id": "rss-9ce6adf60190",
       "discipline": "clinical",
       "type": "news",
-      "title": "Collagen scaffolding helps cancer cells survive inside nutrient-starved tumors",
+      "title": "Tumor digital twins took months to build—AI now drafts them in minutes",
       "authors": "Medical Xpress",
-      "abstract": "In a study focused on aggressive breast and pancreatic cancers, scientists have discovered how tumors surrounded by a protective \"scaffold\" of dense, scar-like tissue manage to thrive—despite the scaffold severely restricting the blood supply and nutrient delivery essential for growth.",
-      "date": "2026-09-23",
+      "abstract": "Until now, building a digital model of a tumor required scientists to review extensive literature, train in specialized software and master multiple programming languages. From start to finish, the process often took months, if not years, of specialized work.",
+      "date": "2026-09-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-collagen-scaffolding-cancer-cells-survive.html",
+      "url": "https://medicalxpress.com/news/2026-09-tumor-digital-twins-months-ai.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "tumors",
-        "scaffold",
-        "collagen",
-        "scaffolding",
+        "tumor",
+        "digital",
+        "took",
+        "months",
+        "specialized",
+        "twins",
+        "build",
+        "drafts"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:51.496097+00:00"
+    },
+    {
+      "id": "rss-625f30d0ebdb",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Organic applesauce recalled over high levels of mold toxin",
+      "authors": "Medical Xpress",
+      "abstract": "Wakefern Food Corp. has recalled jars of its Wholesome Pantry Organic Unsweetened Apple Sauce after federal testing found high levels of patulin, a toxin made by mold.",
+      "date": "2026-09-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-applesauce-recalled-high-mold-toxin.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "organic",
+        "recalled",
+        "high",
+        "levels",
+        "mold",
+        "toxin",
+        "applesauce",
+        "over"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:51.496329+00:00"
+    },
+    {
+      "id": "rss-20d0bebfbe65",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Predictive anatomical guidance system helps novice users acquire trauma ultrasound images",
+      "authors": "Medical Xpress",
+      "abstract": "Ultrasound is widely used in emergency and trauma care because it can provide rapid information at a patient's bedside. One of its most common applications is the focused assessment with sonography for trauma (FAST) examination, which helps clinicians look for signs of internal bleeding and free fluid in injured patients.",
+      "date": "2026-09-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-anatomical-guidance-novice-users-trauma.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "trauma",
         "helps",
-        "cancer",
-        "cells",
-        "survive"
+        "ultrasound",
+        "predictive",
+        "anatomical",
+        "guidance",
+        "system",
+        "novice"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.711368+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.496609+00:00"
     },
     {
-      "id": "rss-393e8f06bb10",
+      "id": "rss-1d1207a63629",
       "discipline": "clinical",
       "type": "news",
-      "title": "Decades of aerobic exercise may help older adults age with more resilience",
+      "title": "Scientists find the gene that drives T-cell exhaustion, revealing new strategy to improve immune responses",
       "authors": "Medical Xpress",
-      "abstract": "Doctors have long recommended investing in physical health for its potential long-term benefits, especially as we age. Over 30 years, regular exercise might help preserve our functional ability.",
-      "date": "2026-09-23",
+      "abstract": "Immunotherapy, which uses a patient's immune system to treat disease, has increased survival for some adults and children with cancer. However, it has had limited success against many pediatric solid tumors, in part because T cells can become functionally impaired or \"exhausted.\" St. Jude Children's Research Hospital scientists published results in Nature showing that the gene ZMYND8 is a major regulator of CD8+ T-cell exhaustion. The results also showed that removing the gene improves antitumor and antiviral responses on its own and may have a synergistic effect with immunotherapy.",
+      "date": "2026-09-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-decades-aerobic-older-adults-age.html",
+      "url": "https://medicalxpress.com/news/2026-09-scientists-gene-cell-exhaustion-revealing.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "exercise",
-        "help",
-        "decades",
-        "aerobic",
-        "older",
-        "adults",
-        "more",
-        "resilience"
+        "gene",
+        "that",
+        "scientists",
+        "t-cell",
+        "exhaustion",
+        "immune",
+        "responses",
+        "immunotherapy"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.711613+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.496929+00:00"
     },
     {
-      "id": "rss-9320783801c2",
+      "id": "rss-d0112d12b1be",
       "discipline": "clinical",
       "type": "news",
-      "title": "Psilocybin may help the brain recover from concussion, new study finds",
+      "title": "Appendicitis patients assessed after 72 hours have 48% rupture rate, global data show",
       "authors": "Medical Xpress",
-      "abstract": "A concussion is often described as a \"mild\" traumatic brain injury. Yet repeated blows to the head rarely feel mild, and their effects—including changes in movement, memory, mood and brain function—may last for months or years.",
-      "date": "2026-09-23",
+      "abstract": "A new global study into appendicitis has found major inequalities in care, with some countries having little access to CT imaging or minimally invasive surgery—resulting in poorer patient outcomes.",
+      "date": "2026-09-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-psilocybin-brain-recover-concussion.html",
+      "url": "https://medicalxpress.com/news/2026-09-appendicitis-patients-hours-rupture-global.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "appendicitis",
+        "global",
+        "patients",
+        "assessed",
+        "after",
+        "hours",
+        "have",
+        "rupture"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:51.497177+00:00"
+    },
+    {
+      "id": "rss-afdd1abaab65",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Oral menopausal hormone therapy linked to higher blood clot risk; transdermal treatment shows no overall increase",
+      "authors": "Medical Xpress",
+      "abstract": "Current use of oral menopausal hormone therapy (commonly known as hormone replacement therapy or HRT) is associated with an increased risk of blood clots in the legs or lungs regardless of dose or treatment duration, finds a large Danish study published by The BMJ.",
+      "date": "2026-09-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-oral-menopausal-hormone-therapy-linked.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "hormone",
+        "therapy",
+        "oral",
+        "menopausal",
+        "blood",
+        "risk",
+        "treatment",
+        "linked"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:51.497427+00:00"
+    },
+    {
+      "id": "rss-67d0b688fbfc",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Probiotics linked to fewer deaths in premature babies",
+      "authors": "Medical Xpress",
+      "abstract": "Probiotic supplementation in very preterm babies was linked to a lower risk of both severe intestinal disease and death. This is shown by a new study from the Karolinska Institutet, published in JAMA Network Open. The findings are based on data from nearly 4,700 babies born prematurely in Sweden.",
+      "date": "2026-09-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-probiotics-linked-deaths-premature-babies.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "babies",
+        "linked",
+        "probiotics",
+        "fewer",
+        "deaths",
+        "premature",
+        "probiotic",
+        "supplementation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:51.497697+00:00"
+    },
+    {
+      "id": "rss-f44c9574df23",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Weight loss alone does not explain lower heart disease risk for those on semaglutide",
+      "authors": "Medical Xpress",
+      "abstract": "Semaglutide is known to reduce the risk of serious heart disease. However, a new study published in the European Heart Journal suggests that this effect cannot be entirely explained by patients losing weight on the drug.",
+      "date": "2026-09-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-weight-loss-heart-disease-semaglutide.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "heart",
+        "weight",
+        "disease",
+        "risk",
+        "semaglutide",
+        "loss",
+        "alone",
+        "does"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:51.497932+00:00"
+    },
+    {
+      "id": "rss-d00f4f6a7775",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Two-thirds of adults in the UK with high blood pressure do not know they have it",
+      "authors": "Medical Xpress",
+      "abstract": "More than one-third of adults in England have high blood pressure, and two-thirds of them are unaware of their diagnosis, according to a new study of 1.4 million adults published in BMJ Public Health. The study also reported that only half of adults with high blood pressure who are treated by a doctor have their condition adequately controlled.",
+      "date": "2026-09-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-thirds-adults-uk-high-blood.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "adults",
+        "high",
+        "blood",
+        "pressure",
+        "have",
+        "two-thirds",
+        "their",
+        "know"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:51.498189+00:00"
+    },
+    {
+      "id": "rss-12fec1f4fb38",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "First map of mouse brain lipids reveals over 500 biochemical zones",
+      "authors": "Medical Xpress",
+      "abstract": "The brain is often described in terms of cells and wiring. However, much of it is made of lipids that form the membranes of neurons, wrap nerve fibers with myelin and help brain cells send and receive signals.",
+      "date": "2026-09-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-mouse-brain-lipids-reveals-biochemical.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "brain",
-        "concussion",
-        "mild",
-        "psilocybin",
-        "help",
-        "recover",
-        "finds",
-        "often"
+        "lipids",
+        "cells",
+        "first",
+        "mouse",
+        "reveals",
+        "over",
+        "biochemical"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.711864+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.498418+00:00"
+    },
+    {
+      "id": "rss-fcb17a49ea6f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Childhood cancer survivors' cells repair low-dose radiation damage more efficiently, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "A study of how cells repair radiation-induced genetic damage offers clues to why some people develop cancer early in life or more than once. The findings were recently published in the journal Proceedings of the National Academy of Sciences.",
+      "date": "2026-09-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-childhood-cancer-survivors-cells-dose.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "cells",
+        "repair",
+        "damage",
+        "more",
+        "childhood",
+        "survivors",
+        "low-dose"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:51.498681+00:00"
+    },
+    {
+      "id": "rss-15939c90f765",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "authors": "TechCrunch AI",
+      "abstract": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "date": "2026-09-24",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "meta",
+        "coming",
+        "muse",
+        "everything",
+        "agent",
+        "mark",
+        "zuckerberg",
+        "kicked"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:51.534198+00:00"
+    },
+    {
+      "id": "rss-0610c78575e4",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "authors": "TechCrunch AI",
+      "abstract": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+      "date": "2026-09-24",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "muse",
+        "agent",
+        "meta",
+        "made",
+        "tamagotchi-like",
+        "wearable",
+        "tiny",
+        "hardware"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:51.534427+00:00"
+    },
+    {
+      "id": "rss-15bfac0aca91",
+      "discipline": "cs",
+      "type": "news",
+      "title": "The promise and peril of using visual AI to study cities",
+      "authors": "MIT News AI",
+      "abstract": "In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life.",
+      "date": "2026-09-24",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "city",
+        "promise",
+        "peril",
+        "visual",
+        "cities",
+        "their",
+        "book",
+        "sees"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:51.624626+00:00"
+    },
+    {
+      "id": "rss-a6eb3ee323c1",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Meta introduces camera-free AI glasses",
+      "authors": "TechCrunch AI",
+      "abstract": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "date": "2026-09-23",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "meta",
+        "camera-free",
+        "glasses",
+        "introduces",
+        "says",
+        "will",
+        "lighter",
+        "have"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:51.534608+00:00"
+    },
+    {
+      "id": "rss-5cfcaf75b6d8",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Anthropic says its biology lab has already found something big",
+      "authors": "TechCrunch AI",
+      "abstract": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "date": "2026-09-23",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "anthropic",
+        "biology",
+        "says",
+        "already",
+        "found",
+        "something",
+        "maybe",
+        "biggest"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:51.534784+00:00"
     },
     {
       "id": "rss-eebd645eac41",
@@ -484,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.774777+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.534955+00:00"
     },
     {
       "id": "rss-54cb6a80db58",
@@ -516,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.774991+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.535106+00:00"
     },
     {
       "id": "rss-19471f8af8f0",
@@ -548,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.775158+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.535260+00:00"
     },
     {
       "id": "rss-7484b704999b",
@@ -580,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.775332+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.535423+00:00"
     },
     {
       "id": "rss-bcdda4b09509",
@@ -612,39 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.775517+00:00"
-    },
-    {
-      "id": "rss-935d51414e76",
-      "discipline": "cs",
-      "type": "news",
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "authors": "TechCrunch AI",
-      "abstract": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "strictlyvc",
-        "techcrunch",
-        "disrupt",
-        "changing",
-        "inside",
-        "rules",
-        "venture",
-        "capital"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.775724+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.535618+00:00"
     },
     {
       "id": "rss-c926b99e72b0",
@@ -676,7 +804,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.775878+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.535778+00:00"
+    },
+    {
+      "id": "rss-935d51414e76",
+      "discipline": "cs",
+      "type": "news",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "authors": "TechCrunch AI",
+      "abstract": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
+      "date": "2026-09-23",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "strictlyvc",
+        "techcrunch",
+        "disrupt",
+        "changing",
+        "inside",
+        "rules",
+        "venture",
+        "capital"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:51.535952+00:00"
     },
     {
       "id": "rss-115a4dcfa398",
@@ -708,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.776054+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.536129+00:00"
     },
     {
       "id": "rss-88e91b3b5f51",
@@ -740,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.776245+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.536324+00:00"
     },
     {
       "id": "rss-f27c71bec78f",
@@ -772,39 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.776401+00:00"
-    },
-    {
-      "id": "rss-fe94968e64d9",
-      "discipline": "cs",
-      "type": "news",
-      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-      "authors": "TechCrunch AI",
-      "abstract": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "prime",
-        "minister",
-        "about",
-        "already",
-        "fighting",
-        "yesterday",
-        "battle",
-        "greece"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.776618+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.536480+00:00"
     },
     {
       "id": "rss-c6dd1d7e00a5",
@@ -836,103 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.850852+00:00"
-    },
-    {
-      "id": "rss-ecb6f74a3fdc",
-      "discipline": "cs",
-      "type": "news",
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "authors": "TechCrunch AI",
-      "abstract": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
-      "date": "2026-09-22",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "techcrunch",
-        "founder",
-        "summit",
-        "hardest",
-        "agenda",
-        "revealed",
-        "unlock",
-        "fundraising"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.776821+00:00"
-    },
-    {
-      "id": "rss-6441e1a95651",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "authors": "TechCrunch AI",
-      "abstract": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-      "date": "2026-09-22",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "snorkel",
-        "triples",
-        "valuation",
-        "demand",
-        "training",
-        "booms",
-        "seven-year-old",
-        "startup"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.776978+00:00"
-    },
-    {
-      "id": "rss-250b9a8174ec",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "authors": "TechCrunch AI",
-      "abstract": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-      "date": "2026-09-22",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "qualcomm",
-        "launches",
-        "smartphone",
-        "chips",
-        "emphasis",
-        "said",
-        "that",
-        "chip"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.777124+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.624824+00:00"
     },
     {
       "id": "rss-2eaa3a09d482",
@@ -964,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.851055+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.625009+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -996,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:56.041895+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.888363+00:00"
     },
     {
       "id": "rss-4d47532c7c63",
@@ -1028,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:56.042201+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.888692+00:00"
     },
     {
       "id": "rss-bf9122547ba1",
@@ -1060,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:56.042719+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.889170+00:00"
     },
     {
       "id": "rss-38146f5c87bf",
@@ -1092,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.851215+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.625164+00:00"
     },
     {
       "id": "rss-188abdd7fd48",
@@ -1124,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:56.042959+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.889394+00:00"
     },
     {
       "id": "rss-a74392b37559",
@@ -1156,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.851380+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.625326+00:00"
     },
     {
       "id": "rss-040fa3bc1672",
@@ -1188,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.851533+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.625476+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1220,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:46.614772+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.142864+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1252,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:56.043205+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.889652+00:00"
     },
     {
       "id": "rss-b0ad43b43ecb",
@@ -1284,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:56.043409+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.889855+00:00"
     },
     {
       "id": "rss-3975041a07bd",
@@ -1316,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.851739+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.625667+00:00"
     },
     {
       "id": "rss-d4de56183b8d",
@@ -1348,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.851910+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.625827+00:00"
     },
     {
       "id": "rss-7dcdb7c08293",
@@ -1380,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.852077+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.625993+00:00"
     },
     {
       "id": "rss-0aa9231559e8",
@@ -1412,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:56.044003+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.890403+00:00"
     },
     {
       "id": "rss-77c91c056111",
@@ -1444,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.852243+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.626157+00:00"
     },
     {
       "id": "rss-4bb6898d3482",
@@ -1476,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:56.044512+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.890923+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1508,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:46.618196+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.145966+00:00"
     },
     {
       "id": "rss-54300972963a",
@@ -1540,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:56.044768+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.891138+00:00"
     },
     {
       "id": "rss-341504e67552",
@@ -1572,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.852391+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.626305+00:00"
     },
     {
       "id": "rss-e51d07a6b736",
@@ -1604,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.852563+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.626474+00:00"
     },
     {
       "id": "rss-40f54edf2446",
@@ -1636,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:56.045370+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.891771+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1668,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:46.613906+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.141976+00:00"
     },
     {
       "id": "rss-920fbd87ebe7",
@@ -1700,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.852756+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.626662+00:00"
     },
     {
       "id": "rss-212fba1ccc92",
@@ -1732,39 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.852911+00:00"
-    },
-    {
-      "id": "rss-86e8b2b3fe45",
-      "discipline": "cs",
-      "type": "news",
-      "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
-      "authors": "MIT News AI",
-      "abstract": "The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research.",
-      "date": "2026-08-31",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "quantum",
-        "initiative",
-        "launches",
-        "postdoctoral",
-        "fellowship",
-        "program",
-        "institute",
-        "welcomes"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:55.853060+00:00"
+      "_retrievedAt": "2026-09-24T04:44:51.626818+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.016948+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.713510+00:00"
     },
     {
       "id": "openalex-d78a9511ef89",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.758494+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.935590+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.328717+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.408761+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.756682+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.933759+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.015154+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.711754+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.015521+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.712123+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.015917+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.712460+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:46.617605+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.145332+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.013246+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.709864+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.753133+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.930216+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.753502+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.930615+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:46.615557+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.143661+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.014431+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.711046+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.017238+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.713860+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:46.617944+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.145700+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:46.614339+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.142422+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.016223+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.712828+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.327057+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.406948+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.756981+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.934051+00:00"
     },
     {
       "id": "openalex-4a46ff2c29ce",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.757321+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.934385+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -2436,7 +2436,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.755062+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.932147+00:00"
+    },
+    {
+      "id": "openalex-46707e85ee4f",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "High temperature Nb-Si alloys using data science: optimization of fracture toughness and high-temperature strength",
+      "authors": "Chao Xu, Dezhi Chen, Xiaofu Zhang, Qi Wang, Jingyue Yu, Shu Wang",
+      "abstract": "Abstract High temperature Nb-Si based alloys face a critical challenge: achieving adequate room-temperature fracture toughness ( > 18 MPa·m 1/2 ) for processing while maintaining high-temperature strength, properties that typically compete with each other. Here, we overcome this inherent trade-off through machine learning-guided alloy design, employing a three-step feature screening strategy to identify 6 key descriptors from 200 initial features. SHAP analysis reveals how melting enthalpy and atomic radius mismatch control property outcomes, enabling targeted multi-objective optimization via NSGA-II algorithm. The optimized Nb-12.26Si-21.35Ti-1.98Al-1.96Cr-0.51Hf-4.34Zr-4.35 V alloy achieves an as-cast fracture toughness of 18.92 MPa·m 1/2 while maintaining 322 MPa strength at 1250 °C, surpassing all reported as-cast Nb-Si alloys. Microstructural analysis shows that the superior prop...",
+      "date": "2026-07-10",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-75353-6",
+      "doi": "10.1038/s41467-026-75353-6",
+      "pdfUrl": "https://doi.org/10.1038/s41467-026-75353-6",
+      "keywords": [
+        "Materials science",
+        "Fracture toughness",
+        "Alloy",
+        "Deflection (physics)",
+        "Toughness",
+        "Intermetallics and Advanced Alloy Properties",
+        "MXene and MAX Phase Materials",
+        "Titanium Alloys Microstructure and Properties"
+      ],
+      "readTime": "1 min",
+      "citedBy": 15,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:42.146992+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2468,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.017590+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.714196+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2500,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.755441+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.932532+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2532,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.755827+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.932928+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2564,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.014821+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.711395+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -2596,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.757797+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.934886+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2628,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.328002+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.408027+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2660,7 +2692,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:46.616668+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.144753+00:00"
+    },
+    {
+      "id": "openalex-5a31a7e0a2f8",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "L2 Selves, Control-Value Appraisals, and Engagement in AI-Supported Informal Digital Learning of English: An SEM and fsQCA Approach",
+      "authors": "Xueheng Zhou, Honggang Liu",
+      "abstract": "This study examined learner engagement in AI-supported informal digital learning of English (IDLE) by integrating L2 selves and control-value appraisals within a Control-Value Theory framework. Drawing on data from 653 Chinese university students, the study employed structural equation modeling (SEM) to test the associations among ideal L2 self, ought-to L2 self, control appraisal, intrinsic value appraisal, extrinsic value appraisal, and learner engagement. It further used fuzzy-set qualitative comparative analysis (fsQCA) to identify configurational pathways associated with high engagement. The SEM results showed that both ideal L2 self and ought-to L2 self were positively associated with the three types of control-value appraisals, which were in turn positively associated with engagement. Mediation analysis indicated that control appraisal, intrinsic value appraisal, and extrinsic...",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Journal of Intelligence",
+      "source": "Journal of Intelligence",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/jintelligence14070127",
+      "doi": "10.3390/jintelligence14070127",
+      "pdfUrl": "https://www.mdpi.com/2079-3200/14/7/127/pdf?version=1782885273",
+      "keywords": [
+        "Structural equation modeling",
+        "Mediation",
+        "Qualitative comparative analysis",
+        "Psychology",
+        "Value (mathematics)",
+        "Innovative Teaching and Learning Methods",
+        "Psychometric Methodologies and Testing",
+        "Second Language Learning and Teaching"
+      ],
+      "readTime": "1 min",
+      "citedBy": 15,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-24T04:44:42.147299+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2692,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.016610+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.713187+00:00"
     },
     {
       "id": "openalex-f64c9923322b",
@@ -2724,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.017888+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.714483+00:00"
     },
     {
       "id": "openalex-10ad267fea93",
@@ -2756,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.329486+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.409583+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2788,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:46.615922+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.143999+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2820,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:46.616334+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.144421+00:00"
     },
     {
       "id": "openalex-c3aaf692321e",
@@ -2852,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.330725+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.410899+00:00"
     },
     {
       "id": "openalex-bb50663ea11d",
@@ -2884,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.756253+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.933359+00:00"
     },
     {
       "id": "openalex-a29127dc905f",
@@ -2916,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.331075+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.411242+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2948,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.327273+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.407165+00:00"
     },
     {
       "id": "openalex-771740d27607",
@@ -2980,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.331425+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.411617+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -3012,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.753850+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.930932+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -3044,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.014158+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.710768+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -3076,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:46.615182+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.143264+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -3108,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:46.616956+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.145033+00:00"
     },
     {
       "id": "openalex-7a70a48faaec",
@@ -3140,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.329877+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.409989+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -3172,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.331770+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.411944+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -3204,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.754230+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.931316+00:00"
     },
     {
       "id": "openalex-e83a54581c00",
@@ -3236,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.329026+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.409075+00:00"
     },
     {
       "id": "openalex-3559bddd3558",
@@ -3268,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.758200+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.935280+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
@@ -3300,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:46.618550+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.146327+00:00"
     },
     {
       "id": "openalex-28255416d814",
@@ -3332,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.332176+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.412346+00:00"
     },
     {
       "id": "openalex-c696aff78c58",
@@ -3364,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:46.618865+00:00"
+      "_retrievedAt": "2026-09-24T04:44:42.146653+00:00"
     },
     {
       "id": "openalex-33d4ca0564d8",
@@ -3396,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.328355+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.408379+00:00"
     },
     {
       "id": "openalex-d767b74ad31a",
@@ -3428,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.330288+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.410407+00:00"
     },
     {
       "id": "openalex-491ae913aa3a",
@@ -3460,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.332659+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.412835+00:00"
     },
     {
       "id": "openalex-ca751a9a90a6",
@@ -3492,71 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:47.754659+00:00"
-    },
-    {
-      "id": "openalex-e8c4c692e177",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era",
-      "authors": "Xuansheng Wu, Haiyan Zhao, Yaochen Zhu, Yucheng Shi, Fan Yang, Lijie Hu",
-      "abstract": "Explainable AI (XAI) refers to techniques that provide human-understandable insights into the workings of AI models. Recently, the focus of XAI has been extended toward explaining Large Language Models (LLMs). This extension calls for a significant transformation in the XAI methodologies for two reasons. First, many existing XAI methods cannot be directly applied to LLMs due to their complexity and advanced capabilities. Second, as LLMs are increasingly deployed in diverse applications, the role of XAI shifts from merely opening the “black box” to actively enhancing the productivity and applicability of LLMs in real-world settings. Meanwhile, the conversation and generation abilities of LLMs can reciprocally enhance XAI. Therefore, in this article, we introduce Usable XAI in the context of LLMs by analyzing (1) how XAI can explain and improve LLM-based AI systems and (2) how XAI techn...",
-      "date": "2026-05-26",
-      "year": 2026,
-      "journal": "ACM Transactions on Knowledge Discovery from Data",
-      "source": "ACM Transactions on Knowledge Discovery from Data",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3816150",
-      "doi": "10.1145/3816150",
-      "pdfUrl": "https://doi.org/10.1145/3816150",
-      "keywords": [
-        "USable",
-        "Business",
-        "Computer science",
-        "World Wide Web",
-        "Scientific Computing and Data Management",
-        "Artificial Intelligence in Law",
-        "llms",
-        "usable"
-      ],
-      "readTime": "1 min",
-      "citedBy": 22,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:46.617277+00:00"
-    },
-    {
-      "id": "openalex-8bf44fba3376",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Exploring Code Analysis: Zero-Shot Insights on Syntax and Semantics with LLMs",
-      "authors": "Wei Ma, Shangqing Liu, Shangqing Liu, Qiang Hu, Ye Liu, Wenhan Wang",
-      "abstract": "Code analysis is a fundamental problem in Software Engineering (SE), playing a crucial role in tasks such as debugging, performance optimization, and security assessment. Human developers typically approach code analysis through syntax parsing, static semantics inference, and dynamic reasoning. Traditional code analysis tools, while effective, are often limited by language specificity, complex configurations, and lack of cross-language generalization. Recently, large language models (LLMs) have emerged as promising tools for automating various code-related tasks. However, their capabilities for fundamental code analysis remain underexplored. Understanding these capabilities is crucial for assessing and enhancing LLM-based programming tools. We structure our study around three aspects of code analysis aligned with human practices: syntax parsing, static semantics inference, and dynamic...",
-      "date": "2026-05-26",
-      "year": 2026,
-      "journal": "ACM Transactions on Software Engineering and Methodology",
-      "source": "ACM Transactions on Software Engineering and Methodology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3818607",
-      "doi": "10.1145/3818607",
-      "pdfUrl": "https://arxiv.org/pdf/2305.12138",
-      "keywords": [
-        "Computer science",
-        "Programming language",
-        "Syntax",
-        "Abstract syntax tree",
-        "Artificial intelligence",
-        "Software Engineering Research",
-        "Artificial Intelligence in Healthcare and Education",
-        "Ferroelectric and Negative Capacitance Devices"
-      ],
-      "readTime": "2 min",
-      "citedBy": 18,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-23T21:27:46.619336+00:00"
+      "_retrievedAt": "2026-09-24T04:44:43.931741+00:00"
     }
   ]
 };
