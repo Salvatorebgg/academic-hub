@@ -1,11 +1,171 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-09-25T04:53:26.290656+00:00",
-  "total": 111,
+  "generatedAt": "2026-09-25T11:47:01.030157+00:00",
+  "total": 81,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-d544e812aabd",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Experimental gene-silencing therapy offers hope for hepatitis B cure",
+      "authors": "Medical Xpress",
+      "abstract": "Chronic hepatitis B is a long-lasting condition caused by the hepatitis B virus (HBV) that affects about 240 million people worldwide. Most people infected show no symptoms for years, but when symptoms do appear, they can include fatigue, jaundice and abdominal pain. Current antiviral treatments are designed to keep the virus under control, but they are not a cure, and medications are usually taken indefinitely.",
+      "date": "2026-09-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-experimental-gene-silencing-therapy-hepatitis.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "hepatitis",
+        "cure",
+        "virus",
+        "people",
+        "symptoms",
+        "they",
+        "experimental",
+        "gene-silencing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-25T11:47:00.575116+00:00"
+    },
+    {
+      "id": "rss-f3496ec7d1f6",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Anti-epileptic drug may reduce migraine aura",
+      "authors": "Medical Xpress",
+      "abstract": "A new study by researchers at Lund University in Sweden found that 85% of patients with aura-dominant migraine experienced a reduction in monthly aura days by at least half following treatment with the anti-epileptic drug lamotrigine.",
+      "date": "2026-09-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-anti-epileptic-drug-migraine-aura.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "anti-epileptic",
+        "drug",
+        "migraine",
+        "aura",
+        "reduce",
+        "researchers",
+        "lund",
+        "university"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-25T11:47:00.575383+00:00"
+    },
+    {
+      "id": "rss-47ad212fb916",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "AI model uses routine imaging to identify patients at risk for serious treatment-induced lung inflammation",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at The University of Texas MD Anderson Cancer Center have developed an artificial intelligence (AI) model that can identify lung cancer patients at increased risk of developing a serious immunotherapy-related side effect before treatment begins, offering a possible path toward more personalized monitoring and prevention strategies.",
+      "date": "2026-09-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-ai-routine-imaging-patients-treatment.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "identify",
+        "patients",
+        "risk",
+        "serious",
+        "lung",
+        "cancer",
+        "uses",
+        "routine"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-25T11:47:00.575649+00:00"
+    },
+    {
+      "id": "rss-5f7488ce5e2e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Stroke may change brain cells in ways that help gliomas grow",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at Texas Children's Duncan Neurological Research Institute (Duncan NRI), Baylor College of Medicine and collaborating institutions report in Nature Cancer that stroke promotes glioma growth. They also identified cellular and molecular mediators involved in the process, linking brain injury to malignant brain tumors.",
+      "date": "2026-09-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-brain-cells-ways-gliomas.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "stroke",
+        "that",
+        "duncan",
+        "change",
+        "cells",
+        "ways",
+        "help"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-25T11:47:00.575931+00:00"
+    },
+    {
+      "id": "rss-4462a3a75055",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Coal-powered economic growth linked to rising urban air pollution and deaths in India",
+      "authors": "Medical Xpress",
+      "abstract": "Research led by the University of Oxford has found that rapid economic growth brought major gains in access to electricity and cleaner cooking in India, but growing reliance on coal-fired power has contributed to worsening outdoor air pollution and a sharp rise in urban air pollution-related deaths. The study is published in Nature Cities.",
+      "date": "2026-09-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-coal-powered-economic-growth-linked.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "economic",
+        "growth",
+        "urban",
+        "pollution",
+        "deaths",
+        "india",
+        "coal-powered",
+        "linked"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-25T11:47:00.576191+00:00"
+    },
     {
       "id": "rss-8edac3c725a2",
       "discipline": "clinical",
@@ -36,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.739317+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.576451+00:00"
     },
     {
       "id": "rss-0fd3c0ca7094",
@@ -68,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.739613+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.576719+00:00"
     },
     {
       "id": "rss-47014372e45c",
@@ -100,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.739897+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.577010+00:00"
     },
     {
       "id": "rss-fa6152650bb9",
@@ -132,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.740147+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.577255+00:00"
     },
     {
       "id": "rss-37756d1b4305",
@@ -164,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.740448+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.577556+00:00"
     },
     {
       "id": "rss-34a01ba726e5",
@@ -196,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.740715+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.577845+00:00"
     },
     {
       "id": "rss-3a0c799dac76",
@@ -228,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.741011+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.578083+00:00"
     },
     {
       "id": "rss-9f046a8457b9",
@@ -260,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.741307+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.578368+00:00"
     },
     {
       "id": "rss-204bfbb39566",
@@ -292,167 +452,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.741536+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.578593+00:00"
     },
     {
-      "id": "rss-20e985eae161",
-      "discipline": "clinical",
+      "id": "rss-d6bfc368fd1d",
+      "discipline": "cs",
       "type": "news",
-      "title": "Blood proteins shift during Alzheimer's treatment and may help monitor the effects of the medication",
-      "authors": "Medical Xpress",
-      "abstract": "Patients with early symptoms of Alzheimer's disease may be prescribed anti-amyloid therapy, which can help clear the sticky clumps of amyloid protein in the brain that characterize Alzheimer's. While these treatments cannot cure Alzheimer's or restore cognitive function to normal, they have been shown to slow the progression of the disease. Their effects may vary, and clinicians have had no way to monitor treatment in an individual patient besides expensive brain scans.",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "authors": "TechCrunch AI",
+      "abstract": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
       "date": "2026-09-25",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-blood-proteins-shift-alzheimer-treatment.html",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "alzheimer",
-        "treatment",
-        "help",
-        "monitor",
-        "effects",
-        "disease",
-        "brain",
-        "have"
+        "india",
+        "lightspeed",
+        "targets",
+        "fund",
+        "focusing",
+        "early-stage",
+        "venture",
+        "firm"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.741834+00:00"
-    },
-    {
-      "id": "rss-9a8e6c3a5aa5",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "COVID-19 pandemic drove violence and moral suffering for nurses in Latin America",
-      "authors": "Medical Xpress",
-      "abstract": "The COVID-19 pandemic created unprecedented challenges for health professionals around the world. A new study published in the journal Nursing Inquiry describes violence that nurses and midwives in Latin America endured—not only physical aggression, but also ethical and emotional harm.",
-      "date": "2026-09-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-covid-pandemic-drove-violence-moral.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "covid-",
-        "pandemic",
-        "violence",
-        "nurses",
-        "latin",
-        "america",
-        "drove",
-        "moral"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.742101+00:00"
-    },
-    {
-      "id": "rss-198e742e9a1b",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Chronic pain after cesarean delivery linked to poorer quality of life for months and years after giving birth",
-      "authors": "Medical Xpress",
-      "abstract": "A new synthesis of global evidence, published in Anaesthesia finds that chronic postsurgical pain after cesarean delivery is associated with substantial impairment in women's quality of life and everyday functioning in the months and years after giving birth.",
-      "date": "2026-09-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-chronic-pain-cesarean-delivery-linked.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "after",
-        "chronic",
-        "pain",
-        "cesarean",
-        "delivery",
-        "quality",
-        "life",
-        "months"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.742344+00:00"
-    },
-    {
-      "id": "rss-8e8a623acfa8",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Risk of death rises with rate of overcrowding, corridor care in hospital emergency department",
-      "authors": "Medical Xpress",
-      "abstract": "The risk of death for patients treated in the emergency department increases by 1% for every 10% increase in occupancy, according to research that will be presented at the European Emergency Medicine Congress.",
-      "date": "2026-09-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-death-overcrowding-corridor-hospital-emergency.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "emergency",
-        "risk",
-        "death",
-        "department",
-        "rises",
-        "rate",
-        "overcrowding",
-        "corridor"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.742566+00:00"
-    },
-    {
-      "id": "rss-0402cf0e4cd4",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New ambulance triage method could reduce emergency visits for chest pain",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers in the Netherlands have found that about 30% of emergency department visits by patients with chest pain could be avoided if ambulance crews used a high-sensitivity troponin test alongside other measures during prehospital triage.",
-      "date": "2026-09-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-ambulance-triage-method-emergency-chest.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ambulance",
-        "triage",
-        "could",
-        "emergency",
-        "visits",
-        "chest",
-        "pain",
-        "method"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.742790+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.613461+00:00"
     },
     {
       "id": "rss-6825f2fe1b82",
@@ -484,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.789018+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.613690+00:00"
     },
     {
       "id": "rss-ab1cf37d1fcd",
@@ -516,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.789240+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.613883+00:00"
     },
     {
       "id": "rss-c664fb3f59e5",
@@ -548,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.789407+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.614046+00:00"
     },
     {
       "id": "rss-82786eba0ff3",
@@ -580,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.789613+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.614251+00:00"
     },
     {
       "id": "rss-de284b0b7e7e",
@@ -612,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.789792+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.614424+00:00"
     },
     {
       "id": "rss-7e3e320a7620",
@@ -644,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.789995+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.614598+00:00"
     },
     {
       "id": "rss-ca1c080d0b1b",
@@ -676,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.790195+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.614818+00:00"
     },
     {
       "id": "rss-03086b45dacd",
@@ -708,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.790381+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.615010+00:00"
     },
     {
       "id": "rss-97de9138ff84",
@@ -740,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.790532+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.615161+00:00"
     },
     {
       "id": "rss-bf91ac367ce9",
@@ -772,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.790709+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.615335+00:00"
     },
     {
       "id": "rss-1cbc8082ac14",
@@ -804,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.790901+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.615498+00:00"
     },
     {
       "id": "rss-7bff494e7392",
@@ -836,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.791068+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.615657+00:00"
     },
     {
       "id": "rss-2c7da4c6ae1d",
@@ -868,39 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.791261+00:00"
-    },
-    {
-      "id": "rss-60f516a5dafd",
-      "discipline": "cs",
-      "type": "news",
-      "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
-      "authors": "TechCrunch AI",
-      "abstract": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off.",
-      "date": "2026-09-24",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "days",
-        "left",
-        "save",
-        "techcrunch",
-        "disrupt",
-        "pass",
-        "reason",
-        "attend"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.791445+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.615858+00:00"
     },
     {
       "id": "rss-9c55cfccdd04",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.877673+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.683835+00:00"
     },
     {
       "id": "rss-15bfac0aca91",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.877901+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.684036+00:00"
     },
     {
       "id": "rss-c6dd1d7e00a5",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.878092+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.684214+00:00"
     },
     {
       "id": "rss-2eaa3a09d482",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.878271+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.684396+00:00"
     },
     {
       "id": "rss-a969e28ae72b",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:26.081696+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.887029+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:26.082094+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.887407+00:00"
     },
     {
       "id": "rss-4d47532c7c63",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:26.082376+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.887686+00:00"
     },
     {
       "id": "rss-bf9122547ba1",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:26.082883+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.888209+00:00"
     },
     {
       "id": "rss-38146f5c87bf",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.878427+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.684552+00:00"
     },
     {
       "id": "rss-188abdd7fd48",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:26.083113+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.888434+00:00"
     },
     {
       "id": "rss-a74392b37559",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.878589+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.684714+00:00"
     },
     {
       "id": "rss-040fa3bc1672",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.878738+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.684892+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:14.360365+00:00"
+      "_retrievedAt": "2026-09-25T11:46:48.004241+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:26.083354+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.888671+00:00"
     },
     {
       "id": "rss-b0ad43b43ecb",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:26.083551+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.888918+00:00"
     },
     {
       "id": "rss-3975041a07bd",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.878931+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.685065+00:00"
     },
     {
       "id": "rss-d4de56183b8d",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.879086+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.685220+00:00"
     },
     {
       "id": "rss-7dcdb7c08293",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.879252+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.685389+00:00"
     },
     {
       "id": "rss-0aa9231559e8",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:26.084135+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.889468+00:00"
     },
     {
       "id": "rss-77c91c056111",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.879416+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.685554+00:00"
     },
     {
       "id": "rss-4bb6898d3482",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:26.084648+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.890031+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:14.365840+00:00"
+      "_retrievedAt": "2026-09-25T11:46:48.007132+00:00"
     },
     {
       "id": "rss-54300972963a",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:26.084898+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.890259+00:00"
     },
     {
       "id": "rss-341504e67552",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.879563+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.685702+00:00"
     },
     {
       "id": "rss-e51d07a6b736",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.879734+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.685906+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:14.358780+00:00"
+      "_retrievedAt": "2026-09-25T11:46:48.001933+00:00"
     },
     {
       "id": "rss-920fbd87ebe7",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:25.879924+00:00"
+      "_retrievedAt": "2026-09-25T11:47:00.686075+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1796,103 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.152886+00:00"
-    },
-    {
-      "id": "openalex-d78a9511ef89",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Time‐Aware UNet and Super‐Resolution Deep Residual Networks for Spatial Downscaling",
-      "authors": "Mika Sipilä, Sabrina Maggio, Sandra De Iaco, Klaus Nordhausen, Monica Palma, Sara Taskinen",
-      "abstract": "ABSTRACT Satellite observations of atmospheric pollutants are often available only at coarse spatial resolution, which limits their use in local‐scale environmental analysis. Spatial downscaling methods aim to transform such data into high‐resolution fields. In this work, two widely used deep learning architectures—the super‐resolution deep residual network (SRDRN) and the encoder–decoder‐based UNet—for spatial downscaling, are extended with a lightweight temporal module that encodes observation time using either sinusoidal or radial basis function representations and integrates temporal features with spatial information. The proposed time‐aware extensions are evaluated in a case study on ozone downscaling over Italy. Results show that, with only a minor increase in computational cost, incorporating temporal information significantly improves downscaling accuracy and accelerates model...",
-      "date": "2026-08-26",
-      "year": 2026,
-      "journal": "Environmetrics",
-      "source": "Environmetrics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/env.70134",
-      "doi": "10.1002/env.70134",
-      "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/env.70134",
-      "keywords": [
-        "Downscaling",
-        "Residual",
-        "Environmental science",
-        "Baseline (sea)",
-        "Convergence (economics)",
-        "Climate variability and models",
-        "Meteorological Phenomena and Simulations",
-        "Solar Radiation and Photovoltaics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 2,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:16.515943+00:00"
-    },
-    {
-      "id": "openalex-3b7d32d6ce88",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Microtubule regulation in cancer cells",
-      "authors": "Alex Matov",
-      "abstract": "Introduction: The notion of microtubule (MT) dynamics relates to the changes in the length of MT polymers in living cells. They are governed by a stochastic process related to the rates and chances of adding or removing tubulin dimers at the ends of MT polymers, termed dynamic instability. The ability of each MT to swiftly switch between stages of adding or removing dimers at the tip of its lattice is critical for the overall success of the mitotic spindle, a molecular machinery built dynamically by MTs and associated molecular motor proteins, in properly segregating the duplicated DNA into the two daughter cells. When changes in the genetic and epigenetic regulation of the cell affect this ability, for example, by increasing the rates of hydrolysis of bound to tubulin dimers incorporated in the MT lattice, that results in segregation errors and is a hallmark of disease. Methods: In c...",
-      "date": "2026-08-21",
-      "year": 2026,
-      "journal": "Frontiers in Cell and Developmental Biology",
-      "source": "Frontiers in Cell and Developmental Biology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fcell.2025.1677302",
-      "doi": "10.3389/fcell.2025.1677302",
-      "pdfUrl": "https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2025.1677302/pdf",
-      "keywords": [
-        "Microtubule",
-        "Cancer",
-        "Cell biology",
-        "Biology",
-        "Medicine",
-        "Microtubule and mitosis dynamics",
-        "Ubiquitin and proteasome pathways",
-        "Epigenetics and DNA Methylation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.895084+00:00"
-    },
-    {
-      "id": "openalex-2ba26c514329",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Getting the story straight: common misconceptions around volcanoes and eruptions with case studies of recent events",
-      "authors": "Janine B. Krippner, Sam Poppe, Cristian Farías, Edward Venzke, Michael P. Poland, Boris Behncke",
-      "abstract": "Abstract The ability to rapidly disseminate scientific knowledge across the world has never been greater. This is paralleled by the ability of rumors to spread equally far and fast. Popular misconceptions can take root and, without correction, take on the appearance of facts. Commonly misunderstood topics include those with attention-grabbing phrasing (e.g. “Pacific Ring of Fire”, “supervolcanoes”, or “mega-tsunamis”), the intersection of volcanic research with high-profile science topics (climate or human health), aspirational science goals (eruption forecasts), and basic terminology (volcanic ash versus smoke, or magma “chambers”). In this paper, we describe eighteen misconceptions grouped in six themes (seismology, volcanoes and climate, systems and structures, volcanic hazards, timescales, photographs and footage) commonly encountered by volcanologists who are actively engaging wi...",
-      "date": "2026-08-19",
-      "year": 2026,
-      "journal": "Journal of Applied Volcanology",
-      "source": "Journal of Applied Volcanology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s13617-026-00168-5",
-      "doi": "10.1186/s13617-026-00168-5",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s13617-026-00168-5.pdf",
-      "keywords": [
-        "Volcano",
-        "Earth science",
-        "Intersection (aeronautics)",
-        "Terminology",
-        "Geology",
-        "Geological and Geochemical Analysis",
-        "earthquake and tectonic studies",
-        "Seismology and Earthquake Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:16.514124+00:00"
+      "_retrievedAt": "2026-09-25T11:46:49.535498+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1920,11 +1824,43 @@ window.LIVE_FEED_DATA = {
         "RNA Research and Splicing"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.151122+00:00"
+      "_retrievedAt": "2026-09-25T11:46:49.533365+00:00"
+    },
+    {
+      "id": "openalex-f5c2c318cf9f",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Explainable artificial intelligence (XAI): From inherent explainability to large language models",
+      "authors": "Fuseini Mumuni, Alhassan Mumuni",
+      "abstract": "Artificial Intelligence (AI) has continued to achieve tremendous success in recent times. However, the decision logic of these frameworks is often not transparent, making it difficult for stakeholders to understand, interpret or explain their behavior. This limitation hinders trust in machine learning systems and causes a general reluctance towards their adoption in practical applications, particularly in mission-critical domains like healthcare and autonomous driving. Explainable AI (XAI) techniques facilitate the explainability or interpretability of machine learning models, enabling users to discern the basis of the decision and possibly avert undesirable behavior. This comprehensive survey details the advancements of explainable AI methods, from inherently interpretable models to modern approaches for achieving interpretability of various black box models, including large language...",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "Array",
+      "source": "Array",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.array.2026.101133",
+      "doi": "10.1016/j.array.2026.101133",
+      "pdfUrl": "https://doi.org/10.1016/j.array.2026.101133",
+      "keywords": [
+        "Artificial intelligence",
+        "Computer science",
+        "Natural language processing",
+        "Explainable Artificial Intelligence (XAI)",
+        "explainable",
+        "artificial",
+        "intelligence",
+        "explainability"
+      ],
+      "readTime": "1 min",
+      "citedBy": 20,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-25T11:46:48.005877+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1956,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.151491+00:00"
+      "_retrievedAt": "2026-09-25T11:46:49.534128+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1988,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.151859+00:00"
+      "_retrievedAt": "2026-09-25T11:46:49.534463+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2020,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:14.365085+00:00"
+      "_retrievedAt": "2026-09-25T11:46:48.006178+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2052,71 +1988,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.149221+00:00"
+      "_retrievedAt": "2026-09-25T11:46:49.531863+00:00"
     },
     {
-      "id": "openalex-e22ded591b71",
-      "discipline": "geo",
+      "id": "openalex-cc20596fdff7",
+      "discipline": "bio",
       "type": "paper",
-      "title": "Rice crop monitoring using new generation Synthetic Aperture Radar (SAR) imagery",
-      "authors": "Nguyen Lam-Dao",
-      "abstract": "Rice cultivation systems in various countries of the world have been changing in recent years. These changes have been observed in the Mekong River Delta, Vietnam, specifically in An Giang province. The changes in rice cultural practices have impacts on remote sensing methods developed for rice monitoring, in particular, methods using new generation radar data. The objectives of the study were a) to understand the relationship between radar backscatter coefficients and selected parameters (e.g. plant age and biomass) of rice crops over an entire growth cycle, b) to develop algorithms for mapping rice cropping systems, and c) to develop a rice yield prediction model using time-series Envisat (Environmental Satellite) Advanced Synthetic Aperture Radar (ASAR) imagery. Ground data collection and in situ measurement of rice crop parameters were conducted at 35 sampling fields in An Giang p...",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "University of Southern Queensland ePrints (University of Southern Queensland)",
-      "source": "University of Southern Queensland ePrints (University of Southern Queensland)",
-      "sourceApi": "OpenAlex",
-      "url": "http://eprints.usq.edu.au/6646/1/Lam-Dao_2009_front.pdf",
-      "doi": "10.26192/9z73z",
-      "pdfUrl": "http://eprints.usq.edu.au/6646/3/Lam-Dao_2009_whole.pdf",
-      "keywords": [
-        "Synthetic aperture radar",
-        "Remote sensing",
-        "Environmental science",
-        "Radar",
-        "Cropping",
-        "Remote Sensing and Land Use",
-        "Remote Sensing in Agriculture",
-        "rice"
-      ],
-      "readTime": "4 min",
-      "citedBy": 13,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:16.510508+00:00"
-    },
-    {
-      "id": "openalex-1331590492a4",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models",
-      "authors": "Weijia Zhang, Jindong Han, Zhao Xu, Hang Ni, Tengfei Lyu, Hao Liu",
-      "abstract": "The integration of machine learning techniques has become a cornerstone in the development of intelligent urban services, significantly contributing to the enhancement of urban efficiency, sustainability, and overall livability. Recent advancements in foundational models, such as ChatGPT, have introduced a paradigm shift within the fields of machine learning and artificial intelligence. These models, with their exceptional capacity for contextual comprehension, problem-solving, and task adaptability, present a transformative opportunity to reshape the future of smart cities and drive progress toward Urban General Intelligence (UGI). Despite increasing attention to Urban Foundation Models (UFMs), this rapidly evolving field faces critical challenges, including the lack of clear definitions, systematic reviews, and universalizable solutions. To address these issues, this paper first int...",
+      "title": "In vivo CRISPR base editing for treatment of Huntington’s disease",
+      "authors": "Shraddha Shirguppe, Michael Gapinske, Devyani Swami, Kyrollos Shenouda, Angelo Miskalis, Nicholas C. Gosstola",
+      "abstract": "Huntington's disease (HD) is an inherited and ultimately fatal neurodegenerative disorder caused by an expanded polyglutamine-encoding CAG repeat within exon 1 of the huntingtin (HTT) gene, which produces a mutant protein that destroys striatal and cortical neurons. Importantly, a critical event in the pathogenesis of HD is the proteolytic cleavage of the mutant HTT protein by caspase-6, which generates fragments of the N-terminal domain of the protein that form highly toxic aggregates. Given the role that proteolysis of the mutant HTT protein plays in HD, strategies for preventing this process hold potential for treating the disorder. By screening 141 CRISPR base editor variants targeting splice elements in the HTT gene, we identified platforms capable of producing HTT protein isoforms resistant to caspase-6-mediated proteolysis via editing of the splice acceptor sequence for exon 13...",
       "date": "2026-07-29",
       "year": 2026,
-      "journal": "ACM Transactions on Intelligent Systems and Technology",
-      "source": "ACM Transactions on Intelligent Systems and Technology",
+      "journal": "Nature Biomedical Engineering",
+      "source": "Nature Biomedical Engineering",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3821528",
-      "doi": "10.1145/3821528",
-      "pdfUrl": "https://arxiv.org/pdf/2402.01749",
+      "url": "https://doi.org/10.1038/s41551-026-01747-y",
+      "doi": "10.1038/s41551-026-01747-y",
+      "pdfUrl": "https://www.nature.com/articles/s41551-026-01747-y.pdf",
       "keywords": [
-        "Foundation (evidence)",
-        "Management science",
-        "Engineering ethics",
-        "Regional science",
-        "Political science",
-        "Human Mobility and Location-Based Analysis",
-        "Smart Cities and Technologies",
-        "urban"
+        "Huntingtin",
+        "Exon",
+        "Mutant",
+        "Exon skipping",
+        "Gene knockin",
+        "Genetic Neurodegenerative Diseases",
+        "CRISPR and Genetic Engineering",
+        "protein"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:16.510906+00:00"
+      "_retrievedAt": "2026-09-25T11:46:49.535832+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2144,18 +2048,18 @@ window.LIVE_FEED_DATA = {
         "agents"
       ],
       "readTime": "1 min",
-      "citedBy": 38,
+      "citedBy": 41,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:14.361916+00:00"
+      "_retrievedAt": "2026-09-25T11:46:48.003469+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
       "discipline": "bio",
       "type": "paper",
       "title": "Epigenetic and 3D genome reprogramming during the aging of the human hippocampus",
-      "authors": "Nathan R. Zemke, Seo Yeon Lee, Sainath Mamde, Bing Yang, Nicole Berchtold, B. Maximiliano Garduño",
+      "authors": "Nathan R. Zemke, Seo Yeon Lee, Sainath Mamde, Bing Yang, Nicole C. Berchtold, B. Maximiliano Garduño",
       "abstract": "Age-related cognitive decline is associated with altered physiology of the hippocampus. While changes in gene expression have been observed in aging brain, the regulatory mechanisms underlying these changes remain underexplored. We generated single-nucleus gene expression, chromatin accessibility, DNA methylation, and 3D genome data from 40 human hippocampal tissues spanning adult lifespan. We observed a striking loss of astrocytes, OPC, and endothelial cells during aging, including astrocytes that play a role in regulating synapses. Microglia undergo a dramatic switch from a homeostatic state to a primed inflammatory state through DNA methylome and 3D genome reprogramming. Aged cells experience erosion of their 3D genome architecture. Our study identifies age-associated changes in cell types/states and gene regulatory features that provide insight into cognitive decline during human...",
       "date": "2026-07-23",
       "year": 2026,
@@ -2176,11 +2080,11 @@ window.LIVE_FEED_DATA = {
         "Epigenetics and DNA Methylation"
       ],
       "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
+      "citedBy": 16,
+      "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.150410+00:00"
+      "_retrievedAt": "2026-09-25T11:46:49.532816+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2212,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.153187+00:00"
+      "_retrievedAt": "2026-09-25T11:46:49.536126+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2244,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:14.365494+00:00"
+      "_retrievedAt": "2026-09-25T11:46:48.006506+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2276,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:14.359587+00:00"
+      "_retrievedAt": "2026-09-25T11:46:48.002395+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2308,167 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.152173+00:00"
-    },
-    {
-      "id": "openalex-56385e95541c",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Understanding graft-versus-host disease. Preliminary findings regarding the effects of exercise in affected patients",
-      "authors": "Carmen Fiuza‐Luces, Nuria Garatachea, Nathan A. Berger, Nathan A. Berger, Manuel R. Ramírez, Alejandro Lucía",
-      "abstract": "Advances in this century regarding allogeneic hematopoietic stem cell transplantation (allo-HSCT) have led to an expanding population of long-term survivors, many of whom suffer severe side effects, particularly those related to graft-versushost disease (GVHD), a potentially multi-systemic disorder caused by immunoeffector donor lymphocytes that destroy host tissues. The GVHD, especially in its chronic form (cGVHD), generates considerable morbidity and compromises the physical capacity of patients. We have reviewed the main pathophysiological aspects of the disease as well as the data available on the effects of exercise in GVHD, based on animal and human patient research. Although exercise training as an adjunct therapy to improve health outcomes after allo-HSCT shows promise (particularly, this lifestyle intervention can improve physical fitness and possibly immune function while at...",
-      "date": "2026-07-15",
-      "year": 2026,
-      "journal": "PubMed",
-      "source": "PubMed",
-      "sourceApi": "OpenAlex",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/25826127",
-      "doi": "10.22029/eir.2015.1698",
-      "pdfUrl": "http://zaguan.unizar.es/record/61323",
-      "keywords": [
-        "Medicine",
-        "Disease",
-        "Hematopoietic stem cell transplantation",
-        "Graft-versus-host disease",
-        "Intensive care medicine",
-        "Hematopoietic Stem Cell Transplantation",
-        "disease",
-        "effects"
-      ],
-      "readTime": "1 min",
-      "citedBy": 23,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.893339+00:00"
-    },
-    {
-      "id": "openalex-b138906c6b33",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "The economically optimal mix and timing of coastal adaptation in Europe to 2150",
-      "authors": "Vanessa Völz, Jochen Hinkel, Daniël Lincke, Lars E. Honsel, Robert J. Nicholls, Rémi Thiéblemont",
-      "abstract": "Coastal adaptation to sea level rise involves combining and sequencing adaptation options into adaptation pathways that include adaptation tipping points, which are moments requiring a switch between options, often due to economic limits. While local case studies show costs depend on the economically optimal timing of actions and adaptation tipping points, this remains unexplored on global and continental scales. We present economically optimal adaptation pathways for Europe's coastal floodplains through 2150. For 95% of the coastline requiring adaptation, the optimal timing for initial actions is immediate due to current economic under-adaptation, a condition in which the costs of additional adaptation are outweighed by the reduction in expected flood damages. By 2150, retreat is economically optimal for 22% of the coastline, incurring lower total costs than protection, which is opti...",
-      "date": "2026-07-15",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-74042-8",
-      "doi": "10.1038/s41467-026-74042-8",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-74042-8.pdf",
-      "keywords": [
-        "Adaptation (eye)",
-        "Economics",
-        "Biology",
-        "Neuroscience",
-        "Coastal and Marine Dynamics",
-        "adaptation",
-        "optimal",
-        "economically"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:16.514412+00:00"
-    },
-    {
-      "id": "openalex-4a46ff2c29ce",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Oceanographic Buoys for Marine Monitoring: A Review of Instrumentation, Applications, and Emerging Technologies",
-      "authors": "Francisco Portillo, Nadia Rotbi, Nicolas Padilla, Consolacion Gil, John Alexander Taborda, Alfredo Alcayde",
-      "abstract": "Oceanographic buoys are essential platforms for marine observation, supporting real-time monitoring, climate studies, operational oceanography, coastal management, and offshore activities. This review maps the scientific literature on oceanographic buoys and identifies the main research sectors that structure the field. A Scopus search using TITLE-ABS-KEY((oceanographic OR metocean OR “ocean observing” OR “ocean observation”) AND (buoy OR buoys)) retrieved 1876 documents published between 1938 and 2026. The records were processed using a network-based sector detection and visualization workflow. Five thematic sectors were identified: platform engineering, sensors, moorings, and autonomous systems; marine wind, waves, metocean, and offshore energy applications; physical oceanography, sea-surface temperature (SST), currents, and environmental variability; coastal and ocean observing net...",
-      "date": "2026-07-14",
-      "year": 2026,
-      "journal": "Journal of Marine Science and Engineering",
-      "source": "Journal of Marine Science and Engineering",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/jmse14141291",
-      "doi": "10.3390/jmse14141291",
-      "pdfUrl": "https://www.mdpi.com/2077-1312/14/14/1291/pdf?version=1784015519",
-      "keywords": [
-        "Thematic map",
-        "Buoy",
-        "Submarine pipeline",
-        "Oceanography",
-        "Ocean observations",
-        "Oceanographic and Atmospheric Processes",
-        "Maritime Navigation and Safety",
-        "Ocean Waves and Remote Sensing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:16.514746+00:00"
-    },
-    {
-      "id": "openalex-6d68435c2e60",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "From physical surfaces to human-centric heat stress: LST and UTCI heat mapping reveals nonlinear effects of urban morphology",
-      "authors": "Yuan Wang, Shengao Yi, Xiaojiang Li, Pengyuan Liu, Zhiwei Yang, Ronita Bardhan",
-      "abstract": "Heat exposure connects the built environment and public health, directly shaping the livability and sustainability of urban areas. Fully understanding the spatial heterogeneity of heat exposure and its driving factors is therefore a vital prerequisite for climate-adaptive urban planning. However, most planning-oriented studies rely on land surface temperature (LST), and whether LST adequately represents human heat exposure and how it differs from physiologically relevant heat stress remains insufficiently examined. Here, adopting Landsat-retrieved 30-m LST and GPU-accelerated 1-m universal thermal climate index (UTCI) in Singapore, this study establishes a comprehensive “Modeling-Comparing-Assessing” framework to systematically evaluate the spatial and mechanistic discrepancies between the two metrics. We further investigate pronounced non-stationary and threshold-based quantitative r...",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "Sustainable Cities and Society",
-      "source": "Sustainable Cities and Society",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.scs.2026.107659",
-      "doi": "10.1016/j.scs.2026.107659",
-      "pdfUrl": "https://doi.org/10.1016/j.scs.2026.107659",
-      "keywords": [
-        "Urban heat island",
-        "Nonlinear system",
-        "Environmental science",
-        "Morphology (biology)",
-        "Urban morphology",
-        "Urban Heat Island Mitigation",
-        "Land Use and Ecosystem Services",
-        "Wind and Air Flow Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:16.512520+00:00"
-    },
-    {
-      "id": "openalex-46707e85ee4f",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "High temperature Nb-Si alloys using data science: optimization of fracture toughness and high-temperature strength",
-      "authors": "Chao Xu, Dezhi Chen, Xiaofu Zhang, Qi Wang, Jingyue Yu, Shu Wang",
-      "abstract": "Abstract High temperature Nb-Si based alloys face a critical challenge: achieving adequate room-temperature fracture toughness ( > 18 MPa·m 1/2 ) for processing while maintaining high-temperature strength, properties that typically compete with each other. Here, we overcome this inherent trade-off through machine learning-guided alloy design, employing a three-step feature screening strategy to identify 6 key descriptors from 200 initial features. SHAP analysis reveals how melting enthalpy and atomic radius mismatch control property outcomes, enabling targeted multi-objective optimization via NSGA-II algorithm. The optimized Nb-12.26Si-21.35Ti-1.98Al-1.96Cr-0.51Hf-4.34Zr-4.35 V alloy achieves an as-cast fracture toughness of 18.92 MPa·m 1/2 while maintaining 322 MPa strength at 1250 °C, surpassing all reported as-cast Nb-Si alloys. Microstructural analysis shows that the superior prop...",
-      "date": "2026-07-10",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-75353-6",
-      "doi": "10.1038/s41467-026-75353-6",
-      "pdfUrl": "https://doi.org/10.1038/s41467-026-75353-6",
-      "keywords": [
-        "Materials science",
-        "Fracture toughness",
-        "Alloy",
-        "Deflection (physics)",
-        "Toughness",
-        "Intermetallics and Advanced Alloy Properties",
-        "MXene and MAX Phase Materials",
-        "Titanium Alloys Microstructure and Properties"
-      ],
-      "readTime": "1 min",
-      "citedBy": 15,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:14.366892+00:00"
+      "_retrievedAt": "2026-09-25T11:46:49.534808+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2500,71 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.153521+00:00"
-    },
-    {
-      "id": "openalex-da65fc09ba51",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Geospatial foundation models enable data-efficient tree species mapping in temperate mountain forests",
-      "authors": "James Ball, Jana Annika Wicklein, Zhengpeng Feng, Jovana Knezevic, Sadiq Jaffer, Anil Madhavapeddy",
-      "abstract": "Accurate mapping of tree species from satellite data remains challenging in heterogeneous mountain forests due to environmental gradients, mixed stands, and limited training labels. Geospatial foundation models (GFMs) learn rich representations from large multi-sensor archives , but their utility for species-level mapping remains unclear . Here, we evaluate two GFM embeddings, AlphaEarth and Tessera, for tree species classification in a demanding mountain landscape (Trentino, Italy; 18 species and groups), versus conventional Sentinel-1+2 composites, across experiments spanning classification accuracy, label efficiency, classifier complexity, environmental covariates, label impurity, and temporal transferability. GFM embeddings consistently outperform conventional baselines (weighted F1 = 0.83 vs. 0.80; macro F1 = 0.55 vs. 0.50), approaching saturation with only 5% of training parcels...",
-      "date": "2026-07-10",
-      "year": 2026,
-      "journal": "Science of Remote Sensing",
-      "source": "Science of Remote Sensing",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.srs.2026.100466",
-      "doi": "10.1016/j.srs.2026.100466",
-      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S2666017226001045/pdf",
-      "keywords": [
-        "Geospatial analysis",
-        "Geography",
-        "Temperate climate",
-        "Remote sensing",
-        "Foundation (evidence)",
-        "Species Distribution and Climate Change",
-        "Remote Sensing and LiDAR Applications",
-        "Ecology and Vegetation Dynamics Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:16.512920+00:00"
-    },
-    {
-      "id": "openalex-8b2f36e2f016",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "CMIP7 data request: ocean and sea ice priorities and opportunities",
-      "authors": "Baylor Fox‐Kemper, Patricia DeRepentigny, Anne‐Marie Tréguier, Christian Stepanek, Eleanor O’Rourke, Chloe Mackallah",
-      "abstract": "Abstract. The ocean and sea ice are central to Earth's climate system, influencing global heat and carbon cycles, weather patterns, and sea level rise. Recent decades have seen rapid advances in Earth System Models (ESMs), but limitations remain in simulating and comparing key oceanic and cryospheric processes across models. A recurring challenge in model intercomparison efforts like the Coupled Model Intercomparison Project (CMIP) is determining the output variables that best represent essential mechanisms while remaining manageable in volume and complexity. Here we present the CMIP7 ocean and sea ice data request, developed through an international, community-based process to prioritize variables for model output. We identify seven opportunities—science-based use cases spanning ocean and cryosphere drivers and responses, paleoclimate, polar amplification, extremes, wind waves, and r...",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "Geoscientific model development",
-      "source": "Geoscientific model development",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5194/gmd-19-6043-2026",
-      "doi": "10.5194/gmd-19-6043-2026",
-      "pdfUrl": "https://gmd.copernicus.org/articles/19/6043/2026/gmd-19-6043-2026.pdf",
-      "keywords": [
-        "Coupled model intercomparison project",
-        "Sea ice",
-        "Earth system science",
-        "Cryosphere",
-        "Climatology",
-        "Climate variability and models",
-        "Geology and Paleoclimatology Research",
-        "Oceanographic and Atmospheric Processes"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:16.513292+00:00"
+      "_retrievedAt": "2026-09-25T11:46:49.536455+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2596,71 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.150765+00:00"
-    },
-    {
-      "id": "openalex-c805cc5d5da5",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "MULTI-MODEL INTEGRATION AND PARAMETRIC GEOHAZARD MODELS FOR MULTI-HAZARD SUSCEPTIBILITY ASSESSMENT IN A FAN-SHAPED CATCHMENT (CRNIČKA REKA, NORTH MACEDONIA)",
-      "authors": "Bojana Aleksova, Ivica Milevski, İbrahim Dursun, Duško Vujačić, Youssef M. Youssef",
-      "abstract": "Fan-shaped landforms, particularly fluvial fans, are inherently prone to multiple geohazards because steep slopes, weak lithology, sparse vegetation, and rapid runoff response often coincide within limited spatial areas. This study evaluates multi-hazard susceptibility in the Crnička Reka catchment, eastern North Macedonia, by comparing GIS-based parametric models with FAHP-based multi-criteria analysis. Excessive soil erosion, landslide susceptibility, and flash-flood susceptibility were first assessed individually using the Erosion Potential Model, Landslide Susceptibility Index, and Flash Flood Potential Index, and were then integrated through spatial overlay to identify multi-hazard zones. The EPM results indicate an average erosion coefficient of Z = 0.5, with total erosion production of 5,304 m³/year and a specific erosion rate of 780.9 m³/km²/year, mainly concentrated in the lo...",
-      "date": "2026-07-04",
-      "year": 2026,
-      "journal": "Carpathian Journal of Earth and Environmental Sciences",
-      "source": "Carpathian Journal of Earth and Environmental Sciences",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.26471/cjees/2026/021/369",
-      "doi": "10.26471/cjees/2026/021/369",
-      "pdfUrl": "https://www.cjees.ro/actions/actionDownload.php?fileId=1758",
-      "keywords": [
-        "Surface runoff",
-        "Flash flood",
-        "Geology",
-        "Parametric statistics",
-        "Drainage basin",
-        "Landslides and related hazards",
-        "Soil erosion and sediment transport",
-        "Flood Risk Assessment and Management"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:16.515230+00:00"
-    },
-    {
-      "id": "openalex-f2829fa041f5",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Generalizable AI predicts immunotherapy outcomes across cancers and treatments",
-      "authors": "Wan Xiang Shen, Intae Moon, Thinh H. Nguyen, Michelle M. Li, Yepeng Huang, Nitya Nair",
-      "abstract": "Immune checkpoint inhibitors are standard across cancers, yet most patients do not respond and existing biomarkers generalize poorly across tumor types, drugs and clinical settings. We present C ompass , a pan-cancer foundation model that predicts immunotherapy response from bulk tumor transcriptomes using a concept-bottleneck transformer. C ompass encodes gene expression through 44 biologically grounded immune concepts representing immune cell states, tumor-microenvironment interactions, and signaling pathways. Trained on 10,184 tumors across 33 cancer types, C ompass outperforms 22 baseline methods in 16 independent clinical cohorts spanning seven cancers and six immune checkpoint inhibitors, increasing accuracy by 8.5% and area under the precision-recall curve by 15.7%, with minimal additional training. The model generalizes to unseen cancer types and treatments, supporting indicat...",
-      "date": "2026-07-03",
-      "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04502-7",
-      "doi": "10.1038/s41591-026-04502-7",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04502-7.pdf",
-      "keywords": [
-        "Immunotherapy",
-        "Medicine",
-        "Oncology",
-        "Internal medicine",
-        "Psychology",
-        "Cancer Immunotherapy and Biomarkers",
-        "Radiomics and Machine Learning in Medical Imaging",
-        "Cancer Genomics and Diagnostics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 16,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.894351+00:00"
+      "_retrievedAt": "2026-09-25T11:46:49.533708+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2692,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:14.364037+00:00"
+      "_retrievedAt": "2026-09-25T11:46:48.004995+00:00"
     },
     {
       "id": "openalex-5a31a7e0a2f8",
@@ -2720,11 +2336,11 @@ window.LIVE_FEED_DATA = {
         "Second Language Learning and Teaching"
       ],
       "readTime": "1 min",
-      "citedBy": 15,
+      "citedBy": 16,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:14.367203+00:00"
+      "_retrievedAt": "2026-09-25T11:46:48.007427+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2756,71 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.152529+00:00"
-    },
-    {
-      "id": "openalex-f64c9923322b",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Genome-wide absolute quantification of chromatin looping",
-      "authors": "James M. Jusuf, Jin H. Yang, Jack Toppen, Simon Grosse‐Holz, Michele Gabriele, Pia Mach",
-      "abstract": "3D genomics methods such as Hi-C and Micro-C have uncovered chromatin loops across the genome and linked these loops to gene regulation. However, these methods only measure 3D interaction probabilities on a relative scale. Here, we overcome this limitation by using live imaging data to calibrate Micro-C in mouse embryonic stem cells, thus obtaining absolute looping probabilities for 65,929 Micro-C identified chromatin loops. We find that the looped state is generally rare, with a mean pairwise looping probability of 1.2% and a maximum of 25% across the quantified loops. On average, CTCF-CTCF loops are stronger than cis-regulatory loops (2.2% vs. <1%). Our findings can be extended to human cells with available Micro-C data under certain assumptions. Overall, we establish an approach for genome-wide absolute loop quantification and report that loops occur with low probabilities, general...",
-      "date": "2026-06-30",
-      "year": 2026,
-      "journal": "PubMed Central",
-      "source": "PubMed Central",
-      "sourceApi": "OpenAlex",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13523127/",
-      "doi": "10.1038/s41594-026-01819-2",
-      "pdfUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13523127/pdf/nihms-2196701.pdf",
-      "keywords": [
-        "Chromatin",
-        "Pairwise comparison",
-        "Measure (data warehouse)",
-        "Loop (graph theory)",
-        "Genome",
-        "Genomics and Chromatin Dynamics",
-        "Developmental Biology and Gene Regulation",
-        "Genomic variations and chromosomal abnormalities"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.153826+00:00"
-    },
-    {
-      "id": "openalex-10ad267fea93",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial",
-      "authors": "Marc Steffen Raab, Niels Weinhold, Klaus Martin Kortüm, Jan Krönke, Roland Fenk, Katja Christina Weisel",
-      "abstract": "Abstract Advancements in frontline therapies have substantially improved outcomes in newly diagnosed multiple myeloma (NDMM); however, many patients will not achieve deep responses and will relapse. Teclistamab, a BCMA×CD3 bispecific antibody, in combination with daratumumab, has demonstrated strong efficacy in relapsed/refractory multiple myeloma versus standard of care as early as first relapse. This ongoing phase 2 GMMG-HD10/DSMM-XX (MajesTEC-5) study evaluates teclistamab-based regimens in transplant-eligible NDMM. In this prespecified pooled analysis of three cohorts, 49 patients received teclistamab/daratumumab/lenalidomide (Tec-DR; arms A and A1) or Tec-DR with bortezomib (Tec-DVR; arm B). Primary endpoints were incidence and severity of adverse events (AEs) and serious AEs; secondary endpoints included overall response rate (ORR), minimal residual disease (MRD) negativity and...",
-      "date": "2026-06-25",
-      "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04471-x",
-      "doi": "10.1038/s41591-026-04471-x",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04471-x.pdf",
-      "keywords": [
-        "Medicine",
-        "Internal medicine",
-        "Leukopenia",
-        "Multiple myeloma",
-        "Bortezomib",
-        "Multiple Myeloma Research and Treatments",
-        "Radiopharmaceutical Chemistry and Applications",
-        "Protein Degradation and Inhibitors"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.895852+00:00"
+      "_retrievedAt": "2026-09-25T11:46:49.535176+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2848,11 +2400,11 @@ window.LIVE_FEED_DATA = {
         "Topic Modeling"
       ],
       "readTime": "1 min",
-      "citedBy": 35,
+      "citedBy": 41,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:14.362570+00:00"
+      "_retrievedAt": "2026-09-25T11:46:48.003847+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2884,199 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:14.363374+00:00"
-    },
-    {
-      "id": "openalex-c3aaf692321e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Hyperpolarization of [1‐ 13 C]Ketoisocaproate‐d 2 by Reversible Exchange with Parahydrogen Enables Profiling of Branched‐Chain‐Amino‐Acid Metabolism in Cellulo and in Vivo",
-      "authors": "Stefan Petersen, Philipp R. Groß, Paul M. Schmidt, Henri de Maissin, Asitan Rittinger, Robert Willing",
-      "abstract": "ABSTRACT Hyperpolarized 1 3 C magnetic resonance imaging (MRI) is the only method to image metabolic fluxes in real time, non‐invasively, and in vivo. To date, however, most studies have used [1‐ 1 3 C]pyruvate and dynamic nuclear polarization (dDNP). Here, we establish efficient hyperpolarization (HP) of protio and partially‐deuterated [1‐ 1 3 C]ketoisocaproate (KIC) using Spin‐Lock‐Induced‐Crossing‐Signal Amplification by Reversible Exchange (SLIC‐SABRE), a high‐throughput, uncomplex and low‐cost method based on parahydrogen. We demonstrate 13 C polarization up to ≈28% and T 1 relaxation times > 200 s at 1 T in methanol‐d 4 . A rapid purification procedure allowed us to obtain biocompatible formulations with ≈11% 13 C polarization at the time of injection, sufficient for in cellulo and in vivo studies. We found that branched‐chain‐amino‐acid transaminase (BCAT) activity leads to HP...",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "Advanced Science",
-      "source": "Advanced Science",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/advs.76213",
-      "doi": "10.1002/advs.76213",
-      "pdfUrl": "https://doi.org/10.1002/advs.76213",
-      "keywords": [
-        "Hyperpolarization (physics)",
-        "In vivo",
-        "Chemistry",
-        "Spin isomers of hydrogen",
-        "Polarization (electrochemistry)",
-        "Advanced NMR Techniques and Applications",
-        "Advanced MRI Techniques and Applications",
-        "Electron Spin Resonance Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.897013+00:00"
-    },
-    {
-      "id": "openalex-bb50663ea11d",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Cropland parcels mapping method and distribution characteristics in northeast china's black soil region based on meter-level remote sensing images and cloud platform",
-      "authors": "Jia Zheng, Ting-yan Guo, Huanjun Liu, X B Zheng, Z Tao, Chunmei Wang",
-      "abstract": "Cropland parcels (CPs) constitute the fundamental physical units of agricultural production and management. However, their regional-scale mapping from meter-level very-high-resolution (VHR) imagery remains challenging due to computational constraints, tile-induced boundary fragmentation, and semantic confusion associated with single-date observations. To address these challenges, we develop a cloud-based method for large-scale cropland parcel mapping from meter-level VHR imagery. This method consists of geospatial tiling, HRNet-based boundary extraction from VHR imagery, and parcel-level post-processing, including morphology-based parcel merging and Sentinel-2 phenology-based filtering. This framework enables efficient large-area processing while preserving parcel continuity and boundary integrity. Using this framework, we generate NECCPB-1, a high-resolution cropland parcel boundary...",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "GIScience & Remote Sensing",
-      "source": "GIScience & Remote Sensing",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1080/15481603.2026.2690325",
-      "doi": "10.1080/15481603.2026.2690325",
-      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/15481603.2026.2690325?needAccess=true",
-      "keywords": [
-        "Remote sensing",
-        "Boundary (topology)",
-        "Geospatial analysis",
-        "Environmental science",
-        "Land cover",
-        "Remote Sensing in Agriculture",
-        "Land Use and Ecosystem Services",
-        "Remote-Sensing Image Classification"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:16.513720+00:00"
-    },
-    {
-      "id": "openalex-a29127dc905f",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Shear Wave Elastography in Musculoskeletal Imaging: A Narrative Review",
-      "authors": "Enes Gürün, Mesut Öztürk, Mustafa Başaran, Ahmet Emin Okutan",
-      "abstract": "Shear wave elastography (SWE) is an increasingly investigated ultrasound-based technique in musculoskeletal imaging that provides quantitative information on tissue stiffness and biomechanical properties. This narrative review aims to summarize the basic principles, technical considerations, current clinical applications, limitations, and future perspectives of SWE in musculoskeletal imaging. Unlike conventional grayscale and Doppler ultrasonography, which mainly assess morphology and vascularity, SWE may provide additional functional information in major musculoskeletal tissues, including tendons and ligaments, skeletal muscles, peripheral nerves, fibrocartilaginous structures, plantar fascia, and selected soft tissue lesions. Current evidence suggests potential roles for SWE in detecting early biomechanical alterations, assessing disease severity, differentiating symptomatic from as...",
-      "date": "2026-06-22",
-      "year": 2026,
-      "journal": "Journal of Clinical Medicine",
-      "source": "Journal of Clinical Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/jcm15124843",
-      "doi": "10.3390/jcm15124843",
-      "pdfUrl": "https://www.mdpi.com/2077-0383/15/12/4843/pdf?version=1782289561",
-      "keywords": [
-        "Medicine",
-        "Narrative review",
-        "Elastography",
-        "Asymptomatic",
-        "Soft tissue",
-        "Ultrasound Imaging and Elastography",
-        "Tendon Structure and Treatment",
-        "Foot and Ankle Surgery"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.897341+00:00"
-    },
-    {
-      "id": "openalex-c2a093804030",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "International Journal of Complementary & Alternative Medicine",
-      "authors": "OpenAlex indexed authors",
-      "abstract": "There is a growing demand for integrative and complementary therapies for various health conditions, while the mechanisms and biological pathways for some of these therapies are poorly explored.In particular, bioelectric, biomagnetic and anthropogenic fields interact with biological structures such as tissues, cells and DNA.It is suggested that these interactions may create an integrated system of internal communication, with the potential to promote therapeutic benefits.The theoretical model Biofield-Tissue Tensegrity Matrix (BTTM) is presented by combining concepts from physics, biology and medicine to serve as a possible theoretical basis for energy therapies.",
-      "date": "2026-06-20",
-      "year": 2026,
-      "journal": "International Journal of Complementary & Alternative Medicine",
-      "source": "International Journal of Complementary & Alternative Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.15406/ijcam",
-      "doi": "10.15406/ijcam",
-      "pdfUrl": "https://medcraveonline.com/IJCAM/IJCAM-18-00731.pdf",
-      "keywords": [
-        "Library science",
-        "Medicine",
-        "Computer science",
-        "Complementary and Alternative Medicine Studies",
-        "therapies",
-        "complementary",
-        "medicine",
-        "biological"
-      ],
-      "readTime": "1 min",
-      "citedBy": 18,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.893552+00:00"
-    },
-    {
-      "id": "openalex-771740d27607",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Stimuli-responsive nanocarriers for precision targeted and controlled antimicrobial drug delivery in drug-resistant infections",
-      "authors": "Li Dai, Xiaoyan Sun",
-      "abstract": ". Conventional antibiotics exhibit non-specific systemic distribution, frequently fail to achieve sustained therapeutic concentrations at infection sites, and expose both pathogenic and commensal microbiota to sub-inhibitory levels that accelerate resistance selection. In contrast, infected tissues exhibit distinct and dynamic microenvironmental features-including acidic pH, elevated reactive oxygen species, pathogen-associated enzymatic activity, hypoxia, and localized inflammatory signaling-that are largely absent in healthy tissues and provide exploitable triggers for targeted therapy. Stimuli-responsive nanocarriers are engineered to sense and respond to these pathological cues, enabling spatiotemporally controlled and infection-specific drug release while minimizing systemic exposure. In this review, we systematically analyze the mechanistic foundations of pH-, enzyme-, redox-, a...",
-      "date": "2026-06-12",
-      "year": 2026,
-      "journal": "Frontiers in Microbiology",
-      "source": "Frontiers in Microbiology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fmicb.2026.1803769",
-      "doi": "10.3389/fmicb.2026.1803769",
-      "pdfUrl": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1803769/pdf",
-      "keywords": [
-        "Nanocarriers",
-        "Antimicrobial",
-        "Drug delivery",
-        "Antibiotics",
-        "Drug",
-        "Nanoplatforms for cancer theranostics",
-        "Graphene and Nanomaterials Applications",
-        "Nanoparticle-Based Drug Delivery"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.897679+00:00"
-    },
-    {
-      "id": "openalex-6c44a5bfc030",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Omics-driven plant breeding through phenomics-enviromics crosstalk",
-      "authors": "Huihui Li, Shang Gao, Takele Weldu Gebrewahid, Wenxue Li, Jiankang Wang, Zanping Han",
-      "abstract": "Genomics, including all molecular omics, is driven by molecular data, while phenomics and enviromics rely on phenotypic and environmental data. Yet phenotyping is often conducted under poorly characterized environments, limiting the interpretation of phenotypic variation and constraining genetic gain. Integrating high-throughput phenotyping with envirotyping is hence vital to resolve genomic effects. This perspective introduces phenomics-enviromics (PE) crosstalk as a framework for coordinated data collection and integration to advance omics and precision plant breeding. Satellites, unmanned aerial and ground vehicles, and controlled indoor facilities, combined with AI-assisted typing technologies and modeling, are establishing the basis for synchronous, high-throughput PE crosstalk to enhance interpretability, prediction, and crop resilience. Genomics, phenomics, and enviromics const...",
-      "date": "2026-06-12",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-73097-x",
-      "doi": "10.1038/s41467-026-73097-x",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-73097-x_reference.pdf",
-      "keywords": [
-        "Phenomics",
-        "Crosstalk",
-        "Limiting",
-        "Biology",
-        "Computational biology",
-        "Genetic Mapping and Diversity in Plants and Animals",
-        "Smart Agriculture and AI",
-        "Remote Sensing in Agriculture"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:16.511300+00:00"
+      "_retrievedAt": "2026-09-25T11:46:48.004664+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -3108,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.150137+00:00"
+      "_retrievedAt": "2026-09-25T11:46:49.533041+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -3136,11 +2496,11 @@ window.LIVE_FEED_DATA = {
         "Anomaly Detection Techniques and Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 40,
+      "citedBy": 43,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:14.361157+00:00"
+      "_retrievedAt": "2026-09-25T11:46:48.002827+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -3168,203 +2528,11 @@ window.LIVE_FEED_DATA = {
         "Flood Risk Assessment and Management"
       ],
       "readTime": "1 min",
-      "citedBy": 25,
+      "citedBy": 26,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:14.364593+00:00"
-    },
-    {
-      "id": "openalex-7a70a48faaec",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Post-adjuvant chemotherapy in ctDNA-positive patients with resected colorectal cancer: a randomized phase 3 trial",
-      "authors": "Hideaki Bando, Jun Watanabe, Yusuke Takahashi, Masahito Kotaka, Nobuhisa Matsuhashi, Eiji Oki",
-      "abstract": "Tumor-informed circulating tumor DNA (ctDNA) enables detection of molecular residual disease (MRD) after curative resection of colorectal cancer (CRC), but whether early intervention improves outcomes remains uncertain. ALTAIR was a randomized, double-blind, phase 3 trial embedded in the CIRCULATE-Japan platform evaluating a post-adjuvant ctDNA surveillance strategy with treatment initiation upon molecular recurrence. Patients with resected stage 0–IV CRC who became ctDNA positive after completion of standard-of-care therapy and had no radiological evidence of disease were randomly assigned (1:1) to receive trifluridine/tipiracil (FTD/TPI) or placebo for 6 months. The primary endpoint was investigator-assessed disease-free survival (DFS). Between July 2020 and June 2023, 243 patients were randomized to FTD/TPI (n = 122) or placebo (n = 121). Median DFS was 9.30 months with FTD/TPI and...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04428-0",
-      "doi": "10.1038/s41591-026-04428-0",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04428-0.pdf",
-      "keywords": [
-        "Medicine",
-        "Placebo",
-        "Colorectal cancer",
-        "Internal medicine",
-        "Clinical endpoint",
-        "Cancer Genomics and Diagnostics",
-        "Colorectal Cancer Treatments and Studies",
-        "Cancer Cells and Metastasis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.896216+00:00"
-    },
-    {
-      "id": "openalex-797c77e03bf0",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Advancements in machine learning and deep learning for early detection and management of mental health disorder",
-      "authors": "Kamala Devi Kannan, Senthil Kumar Jagatheesaperumal, Kandala N. V. P. S. Rajesh, Mojtaba Lotfaliany, Roohallah Alizadehsanid, Mohammadreza Mohebbi",
-      "abstract": "For the early identification, diagnosis, and treatment of mental health illnesses, the integration of deep learning (DL) and machine learning (ML) have started playing a significant role. By evaluating complex data from imaging, genetics, and behavioral assessments, these technologies have the potential to improve clinical results significantly. However, they also present unique challenges relating to data integration and ethical issues. The development of ML and DL methods for the early diagnosis and treatment of mental health issues is reviewed in this survey. It examines a range of applications, with a particular emphasis on behavioral assessments, genetic and biomarker analysis, and medical imaging for the diagnosis of diseases like depression, bipolar disorder, and schizophrenia. Predictive modeling for illness development is further discussed in the review, focusing on the funct...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "Journal of Affective Disorders Reports",
-      "source": "Journal of Affective Disorders Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.jadr.2026.101100",
-      "doi": "10.1016/j.jadr.2026.101100",
-      "pdfUrl": "https://doi.org/10.1016/j.jadr.2026.101100",
-      "keywords": [
-        "Deep learning",
-        "Mental health",
-        "Artificial intelligence",
-        "Psychology",
-        "Computer science",
-        "Mental Health Research Topics",
-        "Digital Mental Health Interventions",
-        "learning"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.898024+00:00"
-    },
-    {
-      "id": "openalex-832c670000df",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Emerging perspectives in proteostasis: bridging mechanisms and therapeutics for human diseases",
-      "authors": "Ankush Borlepawar, Marco Neu, Ziqi Ma, Anushka Deshpande, Hannah Bühringer, Parvana Hajieva",
-      "abstract": "Cellular protein homeostasis, or proteostasis, underpins the integrity, adaptability, and survival of all cells by balancing protein synthesis, folding, trafficking, and degradation. This multilayered network is sustained by coordinated actions of molecular chaperones, the ubiquitin‒proteasome system, autophagy-lysosomal pathways, and organelle-specific quality control programs. When this equilibrium collapses, misfolded, aggregated, or damaged proteins accumulate, driving organelle dysfunction, maladaptive stress signaling, and disease progression. Disruption of proteostasis is now recognized as a unifying pathological hallmark linking neurodegenerative disorders, cancer, cardiovascular and metabolic diseases, and autoimmune conditions. This is particularly consequential in post-mitotic organs such as the heart and brain, which possess limited regenerative capacity and are exceptiona...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "Signal Transduction and Targeted Therapy",
-      "source": "Signal Transduction and Targeted Therapy",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41392-026-02714-4",
-      "doi": "10.1038/s41392-026-02714-4",
-      "pdfUrl": "https://www.nature.com/articles/s41392-026-02714-4.pdf",
-      "keywords": [
-        "Proteostasis",
-        "Biology",
-        "Disease",
-        "Autophagy",
-        "Computational biology",
-        "Autophagy in Disease and Therapy",
-        "Ubiquitin and proteasome pathways",
-        "Endoplasmic Reticulum Stress and Disease"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.898396+00:00"
-    },
-    {
-      "id": "openalex-9e919d4ae811",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Digital twins as decision infrastructure: evolution, architecture, and research roadmap",
-      "authors": "Chaowei Phil Yang, Anusha Srirenganathan Malarvizhi, Yahya Masri, Jennifer Seren Smith, Zhenlong Li, Qunying Huang",
-      "abstract": "Digital twins (DTs) have evolved from domain-specific simulation tools into integrative cyber–physical–social infrastructures that reshape how complex systems are observed, modeled, and governed. Rather than treating DTs as digital replicas, this paper conceptualizes them as dynamic epistemic architectures that integrate observation, physics-based modeling, AI, and decision processes through persistent bidirectional exchange. Drawing on a systematic review of 251 papers (from 449 screened abstracts within 22,434 publications, supplemented by foundational literature), we examine how this transition is enabled by advances in sensing, scalable computing, data assimilation, uncertainty quantification, and AI–physics integration. We argue that the defining feature of mature DTs is not replication fidelity alone, but their capacity to support uncertainty-aware, scenario-driven decision-maki...",
-      "date": "2026-06-07",
-      "year": 2026,
-      "journal": "Big Earth Data",
-      "source": "Big Earth Data",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1080/20964471.2026.2678046",
-      "doi": "10.1080/20964471.2026.2678046",
-      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/20964471.2026.2678046?needAccess=true",
-      "keywords": [
-        "Interoperability",
-        "Computer science",
-        "Data science",
-        "Scalability",
-        "Knowledge management",
-        "Digital Transformation in Industry",
-        "Smart Grid Security and Resilience",
-        "Systems Engineering Methodologies and Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:16.511689+00:00"
-    },
-    {
-      "id": "openalex-e83a54581c00",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: 2026 update",
-      "authors": "Gregg Nelson, Alon D. Altman, Amy Metcalfe, Christina Fotopoulou, Jolyn Taylor, Gretchen Glaser",
-      "abstract": "BACKGROUND: This is the third updated enhanced recovery after surgery (ERAS®) society guideline presenting a consensus for optimal perioperative care in gynecologic oncology surgery. METHODS: A database search of publications using Embase and PubMed was performed (2018-2025). Studies for key elements within the ERAS gynecologic oncology protocol were selected with emphasis on meta-analyses, randomized controlled trials, and large prospective cohort studies. These studies were then reviewed and graded according to the grading of recommendations, assessment, development and evaluation (GRADE) system. RESULTS: All recommendations on ERAS protocol items are based on best available evidence. The level of evidence for each item is presented accordingly. CONCLUSIONS: The updated evidence base and recommendation for items within the ERAS gynecologic oncology perioperative care pathway are pre...",
-      "date": "2026-06-06",
-      "year": 2026,
-      "journal": "Gynecologic Oncology",
-      "source": "Gynecologic Oncology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.ygyno.2026.05.022",
-      "doi": "10.1016/j.ygyno.2026.05.022",
-      "pdfUrl": "https://www.gynecologiconcology-online.net/article/S0090-8258(26)01999-2/pdf",
-      "keywords": [
-        "Medicine",
-        "Surgery",
-        "Gynecologic surgical procedures",
-        "General surgery",
-        "MEDLINE",
-        "Enhanced Recovery After Surgery",
-        "Nausea and vomiting management",
-        "Dietary Effects on Health"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.895385+00:00"
-    },
-    {
-      "id": "openalex-3559bddd3558",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Community views on hydrogeology education: A global perspective from 2024",
-      "authors": "Stephanie L. Musy, James M. Thornton, Ty Ferre, Amanda Sills, Daniel Hunkeler, Philip Brunner",
-      "abstract": "Abstract Groundwater is the Earth’s largest reservoir of available freshwater. As climate change and increasing anthropogenic pressures continue to affect its availability and quality, the discipline of hydrogeology is evolving rapidly. Training enough professionals capable of understanding and managing groundwater resources effectively is therefore more critical than ever. However, there is a perceived global shortage of adequately trained hydrogeologists—raising concerns about society’s capacity to address future groundwater-related challenges. To obtain quantitative data regarding this perception and to evaluate the current state of hydrogeology education and workforce dynamics more generally, a global survey was conducted of hydrogeology professionals, recent graduates, and current students. Five hundred seventy-three individuals from 82 countries responded, providing contemporary...",
-      "date": "2026-06-06",
-      "year": 2026,
-      "journal": "Hydrogeology Journal",
-      "source": "Hydrogeology Journal",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s10040-026-03089-0",
-      "doi": "10.1007/s10040-026-03089-0",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s10040-026-03089-0.pdf",
-      "keywords": [
-        "Hydrogeology",
-        "Discipline",
-        "Workforce",
-        "Training (meteorology)",
-        "Work (physics)",
-        "Geography Education and Pedagogy",
-        "Groundwater and Isotope Geochemistry",
-        "Groundwater flow and contamination studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:16.515622+00:00"
+      "_retrievedAt": "2026-09-25T11:46:48.005268+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
@@ -3392,43 +2560,11 @@ window.LIVE_FEED_DATA = {
         "Machine Learning in Bioinformatics"
       ],
       "readTime": "1 min",
-      "citedBy": 18,
+      "citedBy": 19,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:14.366256+00:00"
-    },
-    {
-      "id": "openalex-28255416d814",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "GLP-1 Agonists Are Associated With a Significant Reduction in Breast Cancer Incidence in Women",
-      "authors": "E. Robert McDonald, Laura B. Gillis, Peter Edward Gabriel, Kham Xapakdy, Anthony Young, Abigail Doucette",
-      "abstract": "PURPOSE Excess weight is a key modifiable risk factor for breast cancer. Glucagon-like peptide-1 receptor agonists (GLP-1) promote weight loss and improve metabolic health, but their effect on breast cancer risk remains unclear. METHODS We conducted a retrospective cohort study from January 1, 2022, to June 30, 2025, using electronic health records. We identified 217,624 unique women who underwent breast imaging; restricting to ages 45-80 years with a BMI ≥25 and a documented imaging outcome (n = 111,646; median age 61 years). The primary outcome was breast cancer detection. GLP-1 use was defined as a first prescription before the examination date and assessed in relation to race, ethnicity, age, and type 2 diabetes. To address potential confounding between these covariates and GLP-1 exposure, we performed one-to-one, case-control matching using propensity scores on the basis of age,...",
-      "date": "2026-06-02",
-      "year": 2026,
-      "journal": "JCO Oncology Practice",
-      "source": "JCO Oncology Practice",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1200/op-26-00485",
-      "doi": "10.1200/op-26-00485",
-      "pdfUrl": "https://ascopubs.org/doi/pdfdirect/10.1200/OP-26-00485",
-      "keywords": [
-        "Medicine",
-        "Breast cancer",
-        "Propensity score matching",
-        "Incidence (geometry)",
-        "Internal medicine",
-        "Diabetes Treatment and Management",
-        "Metabolism, Diabetes, and Cancer",
-        "Bariatric Surgery and Outcomes"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.898790+00:00"
+      "_retrievedAt": "2026-09-25T11:46:48.006879+00:00"
     },
     {
       "id": "openalex-c696aff78c58",
@@ -3456,107 +2592,11 @@ window.LIVE_FEED_DATA = {
         "language"
       ],
       "readTime": "1 min",
-      "citedBy": 18,
+      "citedBy": 25,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:14.366540+00:00"
-    },
-    {
-      "id": "openalex-33d4ca0564d8",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "EHA Guidelines on management of chronic lymphocytic leukemia and Richter transformation",
-      "authors": "Barbara F. Eichhorst, Paolo Ghia, Francesc Bosch, Ruth Clifford, Michael Gregor, Romain Guièze",
-      "abstract": "Previous editions of the European guidelines for the management of chronic lymphocytic leukemia (CLL) were developed by experts in CLL under the auspices of the European Society for Medical Oncology (ESMO). These previous editions have served as a reference text for many physicians caring for patients with CLL. The current, 2026 edition, represents the new, updated guidelines that, for the first time (and in agreement with ESMO), were written on behalf of the European Hematology Association (EHA), which will be solely responsible for subsequent editions, published annually to keep pace of the fast-moving field of CLL research and clinical applications. The new guidelines support approaching the management of CLL in a more holistic fashion, from the initial diagnosis (including active surveillance) to treatment need, with particular emphasis on the interplay between disease- and patien...",
-      "date": "2026-06-01",
-      "year": 2026,
-      "journal": "HemaSphere",
-      "source": "HemaSphere",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/hem3.70403",
-      "doi": "10.1002/hem3.70403",
-      "pdfUrl": "https://doi.org/10.1002/hem3.70403",
-      "keywords": [
-        "Medicine",
-        "Guideline",
-        "Chronic lymphocytic leukemia",
-        "Obinutuzumab",
-        "Venetoclax",
-        "Chronic Lymphocytic Leukemia Research",
-        "Phagocytosis and Immune Regulation",
-        "Chronic Myeloid Leukemia Treatments"
-      ],
-      "readTime": "1 min",
-      "citedBy": 10,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.894713+00:00"
-    },
-    {
-      "id": "openalex-d767b74ad31a",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Targeting Fibroblast Activation Protein with [177Lu]Lu-FAP-2286 in Patients with Advanced Solid Tumors in the Phase I LuMIERE Trial",
-      "authors": "Jonathan McConathy, Vadim S. Koshkin, Yusuf Menda, Jordi Rodon, Ajit H. Goenka, Ryan H. Moy",
-      "abstract": "PURPOSE: Fibroblast activation protein (FAP) is an attractive target for radiopharmaceutical therapy. Phase I of the LuMIERE study (ClinicalTrials.gov, NCT04939610) investigated the safety of [177Lu]Lu-FAP-2286 (177Lu-FAP-2286) in heavily pretreated patients with advanced solid tumors and identified the recommended phase II dosage (RP2D). PATIENTS AND METHODS: LuMIERE is a prospective, open-label, nonrandomized, phase I/II, multicenter study. Phase I followed a Bayesian optimal interval design evaluating four escalating activity levels of 177Lu-FAP-2286 (3.70, 5.55, 7.40, and 9.25 GBq). Patients were selected by positive [68Ga]Ga-FAP-2286 (68Ga-FAP-2286, also known as [68Ga]Ga-HKG301) PET/CT imaging on all target lesions [maximum standardized uptake value (SUVmax) ≥1.5× SUVmean of mediastinal blood pool]. 177Lu-FAP-2286 was administered intravenously every 6 weeks for ≤6 cycles. The p...",
-      "date": "2026-06-01",
-      "year": 2026,
-      "journal": "Clinical Cancer Research",
-      "source": "Clinical Cancer Research",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1158/1078-0432.ccr-25-4356",
-      "doi": "10.1158/1078-0432.ccr-25-4356",
-      "pdfUrl": "https://doi.org/10.1158/1078-0432.ccr-25-4356",
-      "keywords": [
-        "Medicine",
-        "Response Evaluation Criteria in Solid Tumors",
-        "Adverse effect",
-        "Clinical endpoint",
-        "Internal medicine",
-        "Peptidase Inhibition and Analysis",
-        "Radiopharmaceutical Chemistry and Applications",
-        "Orthopedic Infections and Treatments"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:15.896617+00:00"
-    },
-    {
-      "id": "openalex-ca751a9a90a6",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "How to create a saltmarsh: understanding the roles of topography, redox and nutrient dynamics",
-      "authors": "Peter J. Lawrence",
-      "abstract": "The restoration of saltmarsh is critical given the importance of the habitat and the degradation and losses it faces. However, success of saltmarsh restoration has been limited, particularly in replacing plant communities, despite like-for-like replacement being a legal requirement. Previous research found elevation in the tidal frame and sediment redox potential are important drivers of vegetation communities, and are different between restored and natural marshes. However, elevation and sediment redox potential together are insufficient to explain differences in plant communities. Topographic features are thought to alter redox potential-elevation relationships, though its role in plant communities is not currently known. Nutrient concentrations can also impact vegetation, however we lack evidence as to the typical concentrations in natural saltmarsh or restored sites, and how close...",
-      "date": "2026-05-28",
-      "year": 2026,
-      "journal": "e-space (Manchester Metropolitan University)",
-      "source": "e-space (Manchester Metropolitan University)",
-      "sourceApi": "OpenAlex",
-      "url": "https://e-space.mmu.ac.uk/620851/1/PeterJohnLawrence_Thesis_2018.pdf",
-      "doi": "10.83056/mmu.32479191",
-      "pdfUrl": "https://e-space.mmu.ac.uk/620851/1/PeterJohnLawrence_Thesis_2018.pdf",
-      "keywords": [
-        "Salt marsh",
-        "Marsh",
-        "Nutrient",
-        "Environmental science",
-        "Ecology",
-        "Coastal wetland ecosystem dynamics",
-        "Geology and Paleoclimatology Research",
-        "Geological formations and processes"
-      ],
-      "readTime": "2 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-25T04:53:16.512113+00:00"
+      "_retrievedAt": "2026-09-25T11:46:48.005559+00:00"
     }
   ]
 };
