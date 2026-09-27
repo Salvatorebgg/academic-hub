@@ -1,11 +1,203 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-09-26T21:06:23.634016+00:00",
-  "total": 111,
+  "generatedAt": "2026-09-27T05:14:43.337259+00:00",
+  "total": 96,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-8abfba5fa5fe",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Half of new parents have unwanted, intrusive thoughts of harming their infants. Research suggests most aren't dangerous.",
+      "authors": "Medical Xpress",
+      "abstract": "Imagine you are standing near the railing of a seventh-floor balcony with your infant in your arms when a sudden thought crosses your mind: You could drop your baby over the edge. How does that make you feel? What are you likely to do?",
+      "date": "2026-09-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-parents-unwanted-intrusive-thoughts-infants.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "your",
+        "half",
+        "parents",
+        "have",
+        "unwanted",
+        "intrusive",
+        "thoughts",
+        "harming"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-27T05:14:42.789166+00:00"
+    },
+    {
+      "id": "rss-fc8ceb581a3c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Daily oral GLP-1 medication linked to similar weight loss across three menopausal stages",
+      "authors": "Medical Xpress",
+      "abstract": "New analyses to be presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2, show that orforglipron, a daily oral medication for weight loss and type 2 diabetes, was associated with similar weight loss among women of different ages and at different life stages: before, during and after menopause.",
+      "date": "2026-09-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-daily-oral-glp-medication-linked.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "weight",
+        "loss",
+        "daily",
+        "oral",
+        "medication",
+        "similar",
+        "stages",
+        "diabetes"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-27T05:14:42.789482+00:00"
+    },
+    {
+      "id": "rss-86f062e2c481",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "ADHD and autism appear more common among young people diagnosed with type 2 diabetes",
+      "authors": "Medical Xpress",
+      "abstract": "Neurodivergent people, particularly those with autism or ADHD (attention-deficit/hyperactivity disorder), may be more likely to be diagnosed with type 2 diabetes (T2D) at younger ages. An analysis of patient data found a particularly high prevalence of neurodiversity among people diagnosed with T2D before age 20.",
+      "date": "2026-09-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-adhd-autism-common-young-people.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "people",
+        "diagnosed",
+        "adhd",
+        "autism",
+        "more",
+        "among",
+        "type",
+        "diabetes"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-27T05:14:42.789739+00:00"
+    },
+    {
+      "id": "rss-0dd88db3eb02",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Kidney disease, heart failure or death risk climbs to 55% 10 years after type 2 diabetes diagnosis",
+      "authors": "Medical Xpress",
+      "abstract": "The risk of developing chronic kidney disease (CKD) or heart failure (HF), or dying, following a type 2 diabetes (T2D) diagnosis increases substantially over time, according to new research being presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2.",
+      "date": "2026-09-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-kidney-disease-heart-failure-death.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "diabetes",
+        "kidney",
+        "disease",
+        "heart",
+        "failure",
+        "risk",
+        "type",
+        "diagnosis"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-27T05:14:42.790008+00:00"
+    },
+    {
+      "id": "rss-4b72d6f55f94",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Reducing ultra-processed foods, being physically active can cut risk of type 2 diabetes, regardless of genetic makeup",
+      "authors": "Medical Xpress",
+      "abstract": "Eating a diet low in ultra-processed foods (UPFs) and exercising can cut the risk of type 2 diabetes, even in people with a strong genetic predisposition to the condition, new research suggests. The findings are being presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2.",
+      "date": "2026-09-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-ultra-foods-physically-diabetes-genetic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "diabetes",
+        "ultra-processed",
+        "foods",
+        "being",
+        "risk",
+        "type",
+        "genetic",
+        "reducing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-27T05:14:42.790355+00:00"
+    },
+    {
+      "id": "rss-2931fa18205e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Blood test shows whether newborns with fever have bacterial or viral infection",
+      "authors": "Medical Xpress",
+      "abstract": "A test that compares the levels of two molecules in the blood can accurately distinguish between bacterial and viral infections in newborn babies with fever, according to a small study presented at the European Emergency Medicine Congress.",
+      "date": "2026-09-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-blood-newborns-fever-bacterial-viral.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "blood",
+        "test",
+        "fever",
+        "bacterial",
+        "viral",
+        "shows",
+        "whether",
+        "newborns"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-27T05:14:42.790602+00:00"
+    },
     {
       "id": "rss-56dc658346e2",
       "discipline": "clinical",
@@ -13,7 +205,7 @@ window.LIVE_FEED_DATA = {
       "title": "Leg pain can warn of a serious condition: Why peripheral artery disease (PAD) needs more attention",
       "authors": "Medical Xpress",
       "abstract": "Pain in your legs when you walk may seem like a normal part of getting older. But it can be a warning sign that the arteries carrying blood to your legs are becoming blocked, a condition called peripheral artery disease (PAD). If these blockages become severe, blood flow to the leg can suddenly be cut off, causing what is sometimes described as a \"heart attack of the leg.\"",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.049906+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.790878+00:00"
     },
     {
       "id": "rss-3be91bbe240e",
@@ -45,7 +237,7 @@ window.LIVE_FEED_DATA = {
       "title": "The brain still responds to favorite music in dementia",
       "authors": "Medical Xpress",
       "abstract": "What happens in the brain of someone with dementia when they hear music that means something to them? Researchers from Alzheimer Center Amsterdam and the Netherlands Institute for Neuroscience mapped how the brain responds to personally meaningful music. They found that favorite music evokes a stronger brain response than neutral music—and that this response differs between types of dementia.",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.050214+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.791182+00:00"
     },
     {
       "id": "rss-cfb1e452f151",
@@ -77,7 +269,7 @@ window.LIVE_FEED_DATA = {
       "title": "A protein-degradation mechanism opens a new treatment route for an inherited arrhythmia",
       "authors": "Medical Xpress",
       "abstract": "An international team has identified a protein-degradation mechanism that contributes to the development of an inherited form of catecholaminergic polymorphic ventricular tachycardia (CPVT), a disease that mainly affects children and young people. The study was led by researchers at the Centro Nacional de Investigaciones Cardiovasculares Carlos III (CNIC), in collaboration with the University of Pavia and IRCCS Istituti Clinici Scientifici Maugeri in Italy.",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.050470+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.791458+00:00"
     },
     {
       "id": "rss-c0d747d39c23",
@@ -109,7 +301,7 @@ window.LIVE_FEED_DATA = {
       "title": "Beyond movement, the cerebellum may contribute to the anticipation of rewards",
       "authors": "Medical Xpress",
       "abstract": "Over the course of their lives, humans and other animals can learn to connect specific actions or cues to a desirable outcome. This process, called reward learning, is known to play a role in some mental health conditions, particularly substance use disorders (SUDs).",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.050684+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.791694+00:00"
     },
     {
       "id": "rss-ee02f78c5217",
@@ -141,7 +333,7 @@ window.LIVE_FEED_DATA = {
       "title": "Inhaled drug shows promise for rare lung disease combination",
       "authors": "Medical Xpress",
       "abstract": "A therapeutic principle rooted in decades of pulmonary vascular research is entering a new stage of clinical development. The investigational inhaled drug mosliciguat, a soluble guanylate cyclase (sGC) activator, has produced marked and consistent effects in a randomized phase 2 study involving patients with pulmonary hypertension associated with interstitial lung disease (PH-ILD), one of the most challenging forms of pulmonary vascular disease.",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.050933+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.791951+00:00"
     },
     {
       "id": "rss-458e077cdfa7",
@@ -173,7 +365,7 @@ window.LIVE_FEED_DATA = {
       "title": "Dogs support police officers with PTSD",
       "authors": "Medical Xpress",
       "abstract": "Thousands of police officers suffer from post-traumatic stress disorder (PTSD) as a result of traumatic incidents in the course of their work. Dogs (both assistance dogs and companion dogs) can offer relief to police officers with PTSD. That is the finding of doctoral research by neurobiologist Charlotte Witjes-Roelofs, who will defend her thesis at Radboud University on Oct. 1, 2026. \"Police officers feel safer with their dog nearby; they are better able to perform memory tasks and concentrate more effectively.\" The study is published in the journal Anthrozoös.",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.051228+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.792279+00:00"
     },
     {
       "id": "rss-3046f367d85e",
@@ -205,7 +397,7 @@ window.LIVE_FEED_DATA = {
       "title": "The higher your body fat percentage, the less accurate your smartwatch is at measuring calories burned",
       "authors": "Medical Xpress",
       "abstract": "Smartwatches have become an increasingly popular way for people to monitor their health and fitness. About 100 million—nearly 4 in 10—U.S. adults own a smartwatch. Worldwide, market research estimates approximately 560 million smartwatch wearers.",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -228,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.051453+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.792533+00:00"
     },
     {
       "id": "rss-1aed747c2ee0",
@@ -237,7 +429,7 @@ window.LIVE_FEED_DATA = {
       "title": "Getting paid to vape? Researchers say that's a dangerous combination",
       "authors": "Medical Xpress",
       "abstract": "Vaping products are becoming smarter—and potentially more addictive. Some new devices now reward users with cryptocurrency and other incentives tied to vaping behavior.",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -260,199 +452,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.051649+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.792760+00:00"
     },
     {
-      "id": "rss-f598c9c4b40d",
-      "discipline": "clinical",
+      "id": "rss-550005ff602f",
+      "discipline": "cs",
       "type": "news",
-      "title": "Research advances understanding of tick-borne Powassan virus",
-      "authors": "Medical Xpress",
-      "abstract": "Tick populations are expanding across the U.S., driving an increase in tick-borne diseases. Among them is Powassan virus, a rare but increasingly reported infection that can cause severe brain inflammation and lasting neurological complications.",
-      "date": "2026-09-26",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "authors": "TechCrunch AI",
+      "abstract": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "date": "2026-09-27",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-advances-borne-powassan-virus.html",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "tick-borne",
-        "powassan",
-        "virus",
-        "advances",
-        "understanding",
-        "tick",
-        "populations",
-        "expanding"
+        "google",
+        "tests",
+        "buying",
+        "walmart-owned",
+        "flipkart",
+        "gemini",
+        "mode",
+        "india"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.051882+00:00"
-    },
-    {
-      "id": "rss-0be9e4c2525b",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Cystic fibrosis: Triple therapy is particularly effective in early childhood",
-      "authors": "Medical Xpress",
-      "abstract": "Cystic fibrosis is an incurable genetic disorder. Since 2020, a treatment known as triple therapy has addressed the underlying cause. Researchers at Charité – Universitätsmedizin Berlin found that the therapy is particularly effective in early childhood: Molecular channels in the mucous membranes, which do not function or function poorly in people with cystic fibrosis, reached nearly normal functional levels in children ages 2 to 11 following treatment.",
-      "date": "2026-09-26",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-cystic-fibrosis-triple-therapy-effective.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cystic",
-        "fibrosis",
-        "therapy",
-        "triple",
-        "particularly",
-        "effective",
-        "early",
-        "childhood"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.052159+00:00"
-    },
-    {
-      "id": "rss-36cb7ee1cad8",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Virtual reality and classical music help to reduce blood pressure in patients in emergency department",
-      "authors": "Medical Xpress",
-      "abstract": "A virtual reality landscape of a flowing river and trees, accompanied by classical music, can significantly reduce patients' blood pressure within 15 minutes of being seen in an emergency department.",
-      "date": "2026-09-26",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-virtual-reality-classical-music-blood.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "virtual",
-        "reality",
-        "classical",
-        "music",
-        "reduce",
-        "blood",
-        "pressure",
-        "patients"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.052355+00:00"
-    },
-    {
-      "id": "rss-300297cade5a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Drones could speed up delivery of automated external defibrillators to patients suffering cardiac arrest",
-      "authors": "Medical Xpress",
-      "abstract": "Drones could be used to deliver automated external defibrillators (AEDs) to people experiencing out-of-hospital cardiac arrest, according to a study presented at the European Emergency Medicine Congress.",
-      "date": "2026-09-26",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-drones-delivery-automated-external-defibrillators.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "drones",
-        "could",
-        "automated",
-        "external",
-        "defibrillators",
-        "cardiac",
-        "arrest",
-        "speed"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.052549+00:00"
-    },
-    {
-      "id": "rss-c61892a374ef",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Steatotic liver disease risk scores compared for predicting cirrhosis",
-      "authors": "Medical Xpress",
-      "abstract": "For patients with steatotic liver disease (SLD), the steatosis-associated fibrosis estimator (SAFE) score demonstrated the greatest net benefit for predicting cirrhosis, according to a study published online Sept. 21 in JAMA Internal Medicine.",
-      "date": "2026-09-26",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-steatotic-liver-disease-scores-cirrhosis.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "steatotic",
-        "liver",
-        "disease",
-        "predicting",
-        "cirrhosis",
-        "risk",
-        "scores",
-        "compared"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.052744+00:00"
-    },
-    {
-      "id": "rss-6f2883ce87f6",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Menopause leaves a fingerprint that may predict dementia risk",
-      "authors": "Medical Xpress",
-      "abstract": "As women go through menopause, they often sense that it's not just their bodies changing, but also their minds. They report hot flashes, anxiety, brain fog and trouble sleeping—all symptoms that can be traced back to the brain.",
-      "date": "2026-09-26",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-menopause-fingerprint-dementia.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "that",
-        "menopause",
-        "they",
-        "their",
-        "brain",
-        "leaves",
-        "fingerprint",
-        "predict"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.052969+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.818956+00:00"
     },
     {
       "id": "rss-e6cfcb5b2af3",
@@ -484,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.189962+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.819232+00:00"
     },
     {
       "id": "rss-9992cab02afb",
@@ -516,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.190192+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.819426+00:00"
     },
     {
       "id": "rss-062c3d3ae76b",
@@ -548,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.190351+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.819601+00:00"
     },
     {
       "id": "rss-13ea321b3917",
@@ -580,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.190493+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.819764+00:00"
     },
     {
       "id": "rss-cf4c3375c2b9",
@@ -612,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.190646+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.819937+00:00"
     },
     {
       "id": "rss-a6f1fb94365d",
@@ -644,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.190769+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.820113+00:00"
     },
     {
       "id": "rss-718838272cc6",
@@ -676,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.190950+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.820308+00:00"
     },
     {
       "id": "rss-10085d630f93",
@@ -708,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.191086+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.820467+00:00"
     },
     {
       "id": "rss-730078237427",
@@ -740,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.191216+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.820627+00:00"
     },
     {
       "id": "rss-60108652c10b",
@@ -772,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.191473+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.820918+00:00"
     },
     {
       "id": "rss-d7908c539e77",
@@ -804,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.191617+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.821113+00:00"
     },
     {
       "id": "rss-bec85c0c7f73",
@@ -836,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.191743+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.821274+00:00"
     },
     {
       "id": "rss-0dfb2a35d4ed",
@@ -868,39 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.191928+00:00"
-    },
-    {
-      "id": "rss-2404eda6a0f1",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "authors": "TechCrunch AI",
-      "abstract": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and […]",
-      "date": "2026-09-25",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "meta",
-        "openai",
-        "anthropic",
-        "tamagotchi",
-        "working",
-        "when",
-        "leaders",
-        "started"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.192223+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.821444+00:00"
     },
     {
       "id": "rss-975ad9b8aec5",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.315880+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.948214+00:00"
     },
     {
       "id": "rss-a7d777e1fbd3",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.493109+00:00"
+      "_retrievedAt": "2026-09-27T05:14:43.172838+00:00"
     },
     {
       "id": "rss-9c55cfccdd04",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.316045+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.948390+00:00"
     },
     {
       "id": "rss-15bfac0aca91",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.316213+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.948575+00:00"
     },
     {
       "id": "rss-c6dd1d7e00a5",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.316366+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.948750+00:00"
     },
     {
       "id": "rss-2eaa3a09d482",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.316523+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.948938+00:00"
     },
     {
       "id": "rss-a969e28ae72b",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.493667+00:00"
+      "_retrievedAt": "2026-09-27T05:14:43.173447+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.494009+00:00"
+      "_retrievedAt": "2026-09-27T05:14:43.173795+00:00"
     },
     {
       "id": "rss-4d47532c7c63",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.494258+00:00"
+      "_retrievedAt": "2026-09-27T05:14:43.174061+00:00"
     },
     {
       "id": "rss-bf9122547ba1",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.494692+00:00"
+      "_retrievedAt": "2026-09-27T05:14:43.174545+00:00"
     },
     {
       "id": "rss-38146f5c87bf",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.316659+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.949180+00:00"
     },
     {
       "id": "rss-188abdd7fd48",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.494897+00:00"
+      "_retrievedAt": "2026-09-27T05:14:43.174761+00:00"
     },
     {
       "id": "rss-a74392b37559",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.316796+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.949345+00:00"
     },
     {
       "id": "rss-040fa3bc1672",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.316950+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.949497+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:12.871165+00:00"
+      "_retrievedAt": "2026-09-27T05:14:29.470482+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.495097+00:00"
+      "_retrievedAt": "2026-09-27T05:14:43.174986+00:00"
     },
     {
       "id": "rss-b0ad43b43ecb",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.495259+00:00"
+      "_retrievedAt": "2026-09-27T05:14:43.175201+00:00"
     },
     {
       "id": "rss-3975041a07bd",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.317094+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.949665+00:00"
     },
     {
       "id": "rss-d4de56183b8d",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.317222+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.949818+00:00"
     },
     {
       "id": "rss-7dcdb7c08293",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.317364+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.949982+00:00"
     },
     {
       "id": "rss-0aa9231559e8",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.495771+00:00"
+      "_retrievedAt": "2026-09-27T05:14:43.175738+00:00"
     },
     {
       "id": "rss-77c91c056111",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.317503+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.950172+00:00"
     },
     {
       "id": "rss-4bb6898d3482",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.496256+00:00"
+      "_retrievedAt": "2026-09-27T05:14:43.176258+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:12.874163+00:00"
+      "_retrievedAt": "2026-09-27T05:14:29.473763+00:00"
     },
     {
       "id": "rss-341504e67552",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.317624+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.950322+00:00"
     },
     {
       "id": "rss-e51d07a6b736",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:23.317767+00:00"
+      "_retrievedAt": "2026-09-27T05:14:42.950492+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:12.869228+00:00"
+      "_retrievedAt": "2026-09-27T05:14:29.468456+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1796,39 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:13.488510+00:00"
-    },
-    {
-      "id": "openalex-3b7d32d6ce88",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Microtubule regulation in cancer cells",
-      "authors": "Alex Matov",
-      "abstract": "Introduction: The notion of microtubule (MT) dynamics relates to the changes in the length of MT polymers in living cells. They are governed by a stochastic process related to the rates and chances of adding or removing tubulin dimers at the ends of MT polymers, termed dynamic instability. The ability of each MT to swiftly switch between stages of adding or removing dimers at the tip of its lattice is critical for the overall success of the mitotic spindle, a molecular machinery built dynamically by MTs and associated molecular motor proteins, in properly segregating the duplicated DNA into the two daughter cells. When changes in the genetic and epigenetic regulation of the cell affect this ability, for example, by increasing the rates of hydrolysis of bound to tubulin dimers incorporated in the MT lattice, that results in segregation errors and is a hallmark of disease. Methods: In c...",
-      "date": "2026-08-21",
-      "year": 2026,
-      "journal": "Frontiers in Cell and Developmental Biology",
-      "source": "Frontiers in Cell and Developmental Biology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fcell.2025.1677302",
-      "doi": "10.3389/fcell.2025.1677302",
-      "pdfUrl": "https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2025.1677302/pdf",
-      "keywords": [
-        "Microtubule",
-        "Cancer",
-        "Cell biology",
-        "Biology",
-        "Medicine",
-        "Microtubule and mitosis dynamics",
-        "Ubiquitin and proteasome pathways",
-        "Epigenetics and DNA Methylation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.106680+00:00"
+      "_retrievedAt": "2026-09-27T05:14:31.872955+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1860,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.726638+00:00"
+      "_retrievedAt": "2026-09-27T05:14:33.881322+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1892,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:13.486593+00:00"
+      "_retrievedAt": "2026-09-27T05:14:31.870855+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -1924,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:12.872969+00:00"
+      "_retrievedAt": "2026-09-27T05:14:29.472488+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1956,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:13.487259+00:00"
+      "_retrievedAt": "2026-09-27T05:14:31.871584+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1988,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:13.487563+00:00"
+      "_retrievedAt": "2026-09-27T05:14:31.871914+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2020,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.726990+00:00"
+      "_retrievedAt": "2026-09-27T05:14:33.881692+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2052,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:12.873257+00:00"
+      "_retrievedAt": "2026-09-27T05:14:29.472788+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2084,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:13.485216+00:00"
+      "_retrievedAt": "2026-09-27T05:14:31.869348+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2116,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.723374+00:00"
+      "_retrievedAt": "2026-09-27T05:14:33.877832+00:00"
     },
     {
       "id": "openalex-cc20596fdff7",
@@ -2148,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:13.488795+00:00"
+      "_retrievedAt": "2026-09-27T05:14:31.873333+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2180,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.723708+00:00"
+      "_retrievedAt": "2026-09-27T05:14:33.878223+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2212,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:12.870792+00:00"
+      "_retrievedAt": "2026-09-27T05:14:29.470062+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2244,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:13.486107+00:00"
+      "_retrievedAt": "2026-09-27T05:14:31.870306+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2276,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:13.489103+00:00"
+      "_retrievedAt": "2026-09-27T05:14:31.873634+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2308,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:12.873563+00:00"
+      "_retrievedAt": "2026-09-27T05:14:29.473145+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2340,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:12.869644+00:00"
+      "_retrievedAt": "2026-09-27T05:14:29.468905+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2372,39 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:13.487876+00:00"
-    },
-    {
-      "id": "openalex-56385e95541c",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Understanding graft-versus-host disease. Preliminary findings regarding the effects of exercise in affected patients",
-      "authors": "Carmen Fiuza‐Luces, Nuria Garatachea, Nathan A. Berger, Nathan A. Berger, Manuel R. Ramírez, Alejandro Lucía",
-      "abstract": "Advances in this century regarding allogeneic hematopoietic stem cell transplantation (allo-HSCT) have led to an expanding population of long-term survivors, many of whom suffer severe side effects, particularly those related to graft-versushost disease (GVHD), a potentially multi-systemic disorder caused by immunoeffector donor lymphocytes that destroy host tissues. The GVHD, especially in its chronic form (cGVHD), generates considerable morbidity and compromises the physical capacity of patients. We have reviewed the main pathophysiological aspects of the disease as well as the data available on the effects of exercise in GVHD, based on animal and human patient research. Although exercise training as an adjunct therapy to improve health outcomes after allo-HSCT shows promise (particularly, this lifestyle intervention can improve physical fitness and possibly immune function while at...",
-      "date": "2026-07-15",
-      "year": 2026,
-      "journal": "PubMed",
-      "source": "PubMed",
-      "sourceApi": "OpenAlex",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/25826127",
-      "doi": "10.22029/eir.2015.1698",
-      "pdfUrl": "http://zaguan.unizar.es/record/61323",
-      "keywords": [
-        "Medicine",
-        "Disease",
-        "Hematopoietic stem cell transplantation",
-        "Graft-versus-host disease",
-        "Intensive care medicine",
-        "Hematopoietic Stem Cell Transplantation",
-        "disease",
-        "effects"
-      ],
-      "readTime": "1 min",
-      "citedBy": 23,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.105110+00:00"
+      "_retrievedAt": "2026-09-27T05:14:31.872269+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2436,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.727257+00:00"
+      "_retrievedAt": "2026-09-27T05:14:33.881986+00:00"
     },
     {
       "id": "openalex-4a46ff2c29ce",
@@ -2468,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.727571+00:00"
+      "_retrievedAt": "2026-09-27T05:14:33.882367+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -2500,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.725489+00:00"
+      "_retrievedAt": "2026-09-27T05:14:33.880101+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2532,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:13.489419+00:00"
+      "_retrievedAt": "2026-09-27T05:14:31.873969+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2564,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.725864+00:00"
+      "_retrievedAt": "2026-09-27T05:14:33.880485+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2596,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.724705+00:00"
+      "_retrievedAt": "2026-09-27T05:14:33.879291+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2628,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:13.486921+00:00"
+      "_retrievedAt": "2026-09-27T05:14:31.871215+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -2660,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:12.872144+00:00"
+      "_retrievedAt": "2026-09-27T05:14:29.471572+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -2692,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.724068+00:00"
+      "_retrievedAt": "2026-09-27T05:14:33.878593+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -2724,39 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.727998+00:00"
-    },
-    {
-      "id": "openalex-f2829fa041f5",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Generalizable AI predicts immunotherapy outcomes across cancers and treatments",
-      "authors": "Wan Xiang Shen, Intae Moon, Thinh H. Nguyen, Michelle M. Li, Yepeng Huang, Nitya Nair",
-      "abstract": "Immune checkpoint inhibitors are standard across cancers, yet most patients do not respond and existing biomarkers generalize poorly across tumor types, drugs and clinical settings. We present C ompass , a pan-cancer foundation model that predicts immunotherapy response from bulk tumor transcriptomes using a concept-bottleneck transformer. C ompass encodes gene expression through 44 biologically grounded immune concepts representing immune cell states, tumor-microenvironment interactions, and signaling pathways. Trained on 10,184 tumors across 33 cancer types, C ompass outperforms 22 baseline methods in 16 independent clinical cohorts spanning seven cancers and six immune checkpoint inhibitors, increasing accuracy by 8.5% and area under the precision-recall curve by 15.7%, with minimal additional training. The model generalizes to unseen cancer types and treatments, supporting indicat...",
-      "date": "2026-07-03",
-      "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04502-7",
-      "doi": "10.1038/s41591-026-04502-7",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04502-7.pdf",
-      "keywords": [
-        "Immunotherapy",
-        "Medicine",
-        "Oncology",
-        "Internal medicine",
-        "Psychology",
-        "Cancer Immunotherapy and Biomarkers",
-        "Radiomics and Machine Learning in Medical Imaging",
-        "Cancer Genomics and Diagnostics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 16,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.106017+00:00"
+      "_retrievedAt": "2026-09-27T05:14:33.882808+00:00"
     },
     {
       "id": "openalex-9348c6b21fcd",
@@ -2788,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.728318+00:00"
+      "_retrievedAt": "2026-09-27T05:14:33.883183+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2820,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:12.871850+00:00"
+      "_retrievedAt": "2026-09-27T05:14:29.471244+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2852,71 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:13.488215+00:00"
-    },
-    {
-      "id": "openalex-10ad267fea93",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial",
-      "authors": "Marc Steffen Raab, Niels Weinhold, Klaus Martin Kortüm, Jan Krönke, Roland R. Fenk, Katja Christina Weisel",
-      "abstract": "Abstract Advancements in frontline therapies have substantially improved outcomes in newly diagnosed multiple myeloma (NDMM); however, many patients will not achieve deep responses and will relapse. Teclistamab, a BCMA×CD3 bispecific antibody, in combination with daratumumab, has demonstrated strong efficacy in relapsed/refractory multiple myeloma versus standard of care as early as first relapse. This ongoing phase 2 GMMG-HD10/DSMM-XX (MajesTEC-5) study evaluates teclistamab-based regimens in transplant-eligible NDMM. In this prespecified pooled analysis of three cohorts, 49 patients received teclistamab/daratumumab/lenalidomide (Tec-DR; arms A and A1) or Tec-DR with bortezomib (Tec-DVR; arm B). Primary endpoints were incidence and severity of adverse events (AEs) and serious AEs; secondary endpoints included overall response rate (ORR), minimal residual disease (MRD) negativity and...",
-      "date": "2026-06-25",
-      "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04471-x",
-      "doi": "10.1038/s41591-026-04471-x",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04471-x.pdf",
-      "keywords": [
-        "Medicine",
-        "Internal medicine",
-        "Leukopenia",
-        "Multiple myeloma",
-        "Bortezomib",
-        "Multiple Myeloma Research and Treatments",
-        "Radiopharmaceutical Chemistry and Applications",
-        "Protein Degradation and Inhibitors"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.107770+00:00"
-    },
-    {
-      "id": "openalex-33e8cda96b3e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Regulatory T cells: master orchestrators of immune tolerance and tissue homeostasis",
-      "authors": "Jeffrey A. Bluestone, Megan K. Levings, Frederick J. Ramsdell, Alexander Yu Rudensky, Qizhi Tang, Piotr Trzonkowski",
-      "abstract": "Harnessing the biology of regulatory T cells (Tregs) for therapeutic development is one of medicine’s most promising opportunities to transform disease treatment. Initially viewed simply as guardians against destructive immune responses, we now understand that Tregs are adaptive and highly specialized coordinators of immune tolerance and tissue repair. This strategic roadmap examines how evolving insights into their central role in maintaining tolerance and health can transform therapeutic development across medical specialties. Early efforts to evaluate Treg therapies have proven safe and shown some clinical benefit. The convergence of biological insights and technological advances has the potential to harness and exploit this specialized tolerogenic population by augmenting function through environmental cues and reinforcing tissue-repair capabilities. Advanced engineering approache...",
-      "date": "2026-06-25",
-      "year": 2026,
-      "journal": "Frontiers in Science",
-      "source": "Frontiers in Science",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fsci.2026.1792210",
-      "doi": "10.3389/fsci.2026.1792210",
-      "pdfUrl": "https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2026.1792210/pdf",
-      "keywords": [
-        "Immune system",
-        "Disease",
-        "Immune tolerance",
-        "Immunosuppression",
-        "Immunology",
-        "T-cell and B-cell Immunology",
-        "CAR-T cell therapy research",
-        "Diabetes and associated disorders"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.108136+00:00"
+      "_retrievedAt": "2026-09-27T05:14:31.872634+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2948,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:12.870370+00:00"
+      "_retrievedAt": "2026-09-27T05:14:29.469689+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2980,71 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:12.871558+00:00"
-    },
-    {
-      "id": "openalex-5cd132793914",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Pulmonary inflammation in severe pneumonia is characterised by compartmentalised and mechanistically distinct sub-phenotypes",
-      "authors": "Maxwell T. Jeffrey, Josefin Bartholdson Scott, Shyamanova Mazumdar, Richard Joseph White, Ellen E. Higginson, Mailis Maes",
-      "abstract": "Pneumonia is the leading infectious disease killer worldwide and commonly requires admission to critical care. Despite its prevalence, the underpinning biology of severe pneumonia remains incompletely understood. Here we perform multifaceted assessments of bronchoalveolar transcriptome, cytokines, microbiology, and clinical features to biologically characterise a cohort of patients with suspected severe pneumonia. Our data implicate three lung-restricted transcriptionally defined severe pneumonia endotypes (termed 'Pneumotypes' (Pn)). All three Pneumotypes have comparable clinical presentations and severity of respiratory failure but experience divergent outcomes. Pn1, the most common, is characterised by low alveolar cytokines, expanded tolerogenic macrophages and epithelial damage. Pn3 is characterised by immature neutrophil infiltration, IL-6-STAT3 activation and longer duration of...",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-74190-x",
-      "doi": "10.1038/s41467-026-74190-x",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-74190-x.pdf",
-      "keywords": [
-        "Phenotype",
-        "Pneumonia",
-        "Inflammation",
-        "Medicine",
-        "Immunology",
-        "Chronic Obstructive Pulmonary Disease (COPD) Research",
-        "Respiratory Support and Mechanisms",
-        "Pneumonia and Respiratory Infections"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.109442+00:00"
-    },
-    {
-      "id": "openalex-c3aaf692321e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Hyperpolarization of [1‐ 13 C]Ketoisocaproate‐d 2 by Reversible Exchange with Parahydrogen Enables Profiling of Branched‐Chain‐Amino‐Acid Metabolism in Cellulo and in Vivo",
-      "authors": "Stefan Petersen, Philipp R. Groß, Paul M. Schmidt, Henri de Maissin, Asitan Rittinger, Robert Willing",
-      "abstract": "ABSTRACT Hyperpolarized 1 3 C magnetic resonance imaging (MRI) is the only method to image metabolic fluxes in real time, non‐invasively, and in vivo. To date, however, most studies have used [1‐ 1 3 C]pyruvate and dynamic nuclear polarization (dDNP). Here, we establish efficient hyperpolarization (HP) of protio and partially‐deuterated [1‐ 1 3 C]ketoisocaproate (KIC) using Spin‐Lock‐Induced‐Crossing‐Signal Amplification by Reversible Exchange (SLIC‐SABRE), a high‐throughput, uncomplex and low‐cost method based on parahydrogen. We demonstrate 13 C polarization up to ≈28% and T 1 relaxation times > 200 s at 1 T in methanol‐d 4 . A rapid purification procedure allowed us to obtain biocompatible formulations with ≈11% 13 C polarization at the time of injection, sufficient for in cellulo and in vivo studies. We found that branched‐chain‐amino‐acid transaminase (BCAT) activity leads to HP...",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "Advanced Science",
-      "source": "Advanced Science",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/advs.76213",
-      "doi": "10.1002/advs.76213",
-      "pdfUrl": "https://doi.org/10.1002/advs.76213",
-      "keywords": [
-        "Hyperpolarization (physics)",
-        "In vivo",
-        "Chemistry",
-        "Spin isomers of hydrogen",
-        "Polarization (electrochemistry)",
-        "Advanced NMR Techniques and Applications",
-        "Advanced MRI Techniques and Applications",
-        "Electron Spin Resonance Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.109822+00:00"
+      "_retrievedAt": "2026-09-27T05:14:29.470912+00:00"
     },
     {
       "id": "openalex-bb50663ea11d",
@@ -3076,103 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.726279+00:00"
-    },
-    {
-      "id": "openalex-a29127dc905f",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Shear Wave Elastography in Musculoskeletal Imaging: A Narrative Review",
-      "authors": "Enes Gürün, Mesut Öztürk, Mustafa Başaran, Ahmet Emin Okutan",
-      "abstract": "Shear wave elastography (SWE) is an increasingly investigated ultrasound-based technique in musculoskeletal imaging that provides quantitative information on tissue stiffness and biomechanical properties. This narrative review aims to summarize the basic principles, technical considerations, current clinical applications, limitations, and future perspectives of SWE in musculoskeletal imaging. Unlike conventional grayscale and Doppler ultrasonography, which mainly assess morphology and vascularity, SWE may provide additional functional information in major musculoskeletal tissues, including tendons and ligaments, skeletal muscles, peripheral nerves, fibrocartilaginous structures, plantar fascia, and selected soft tissue lesions. Current evidence suggests potential roles for SWE in detecting early biomechanical alterations, assessing disease severity, differentiating symptomatic from as...",
-      "date": "2026-06-22",
-      "year": 2026,
-      "journal": "Journal of Clinical Medicine",
-      "source": "Journal of Clinical Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/jcm15124843",
-      "doi": "10.3390/jcm15124843",
-      "pdfUrl": "https://www.mdpi.com/2077-0383/15/12/4843/pdf?version=1782289561",
-      "keywords": [
-        "Medicine",
-        "Narrative review",
-        "Elastography",
-        "Asymptomatic",
-        "Soft tissue",
-        "Ultrasound Imaging and Elastography",
-        "Tendon Structure and Treatment",
-        "Foot and Ankle Surgery"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.108440+00:00"
-    },
-    {
-      "id": "openalex-c2a093804030",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "International Journal of Complementary & Alternative Medicine",
-      "authors": "OpenAlex indexed authors",
-      "abstract": "There is a growing demand for integrative and complementary therapies for various health conditions, while the mechanisms and biological pathways for some of these therapies are poorly explored.In particular, bioelectric, biomagnetic and anthropogenic fields interact with biological structures such as tissues, cells and DNA.It is suggested that these interactions may create an integrated system of internal communication, with the potential to promote therapeutic benefits.The theoretical model Biofield-Tissue Tensegrity Matrix (BTTM) is presented by combining concepts from physics, biology and medicine to serve as a possible theoretical basis for energy therapies.",
-      "date": "2026-06-20",
-      "year": 2026,
-      "journal": "International Journal of Complementary & Alternative Medicine",
-      "source": "International Journal of Complementary & Alternative Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.15406/ijcam",
-      "doi": "10.15406/ijcam",
-      "pdfUrl": "https://medcraveonline.com/IJCAM/IJCAM-18-00731.pdf",
-      "keywords": [
-        "Library science",
-        "Medicine",
-        "Computer science",
-        "Complementary and Alternative Medicine Studies",
-        "therapies",
-        "complementary",
-        "medicine",
-        "biological"
-      ],
-      "readTime": "1 min",
-      "citedBy": 18,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.105666+00:00"
-    },
-    {
-      "id": "openalex-771740d27607",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Stimuli-responsive nanocarriers for precision targeted and controlled antimicrobial drug delivery in drug-resistant infections",
-      "authors": "Li Dai, Xiaoyan Sun",
-      "abstract": ". Conventional antibiotics exhibit non-specific systemic distribution, frequently fail to achieve sustained therapeutic concentrations at infection sites, and expose both pathogenic and commensal microbiota to sub-inhibitory levels that accelerate resistance selection. In contrast, infected tissues exhibit distinct and dynamic microenvironmental features-including acidic pH, elevated reactive oxygen species, pathogen-associated enzymatic activity, hypoxia, and localized inflammatory signaling-that are largely absent in healthy tissues and provide exploitable triggers for targeted therapy. Stimuli-responsive nanocarriers are engineered to sense and respond to these pathological cues, enabling spatiotemporally controlled and infection-specific drug release while minimizing systemic exposure. In this review, we systematically analyze the mechanistic foundations of pH-, enzyme-, redox-, a...",
-      "date": "2026-06-12",
-      "year": 2026,
-      "journal": "Frontiers in Microbiology",
-      "source": "Frontiers in Microbiology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fmicb.2026.1803769",
-      "doi": "10.3389/fmicb.2026.1803769",
-      "pdfUrl": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1803769/pdf",
-      "keywords": [
-        "Nanocarriers",
-        "Antimicrobial",
-        "Drug delivery",
-        "Antibiotics",
-        "Drug",
-        "Nanoplatforms for cancer theranostics",
-        "Graphene and Nanomaterials Applications",
-        "Nanoparticle-Based Drug Delivery"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.108763+00:00"
+      "_retrievedAt": "2026-09-27T05:14:33.880917+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -3204,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.724351+00:00"
+      "_retrievedAt": "2026-09-27T05:14:33.878896+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -3236,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:13.486303+00:00"
+      "_retrievedAt": "2026-09-27T05:14:31.870527+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -3268,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:12.870055+00:00"
+      "_retrievedAt": "2026-09-27T05:14:29.469352+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -3300,71 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:12.872394+00:00"
-    },
-    {
-      "id": "openalex-7a70a48faaec",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Post-adjuvant chemotherapy in ctDNA-positive patients with resected colorectal cancer: a randomized phase 3 trial",
-      "authors": "Hideaki Bando, Jun Watanabe, Yusuke Takahashi, Masahito Kotaka, Nobuhisa Matsuhashi, Eiji Oki",
-      "abstract": "Tumor-informed circulating tumor DNA (ctDNA) enables detection of molecular residual disease (MRD) after curative resection of colorectal cancer (CRC), but whether early intervention improves outcomes remains uncertain. ALTAIR was a randomized, double-blind, phase 3 trial embedded in the CIRCULATE-Japan platform evaluating a post-adjuvant ctDNA surveillance strategy with treatment initiation upon molecular recurrence. Patients with resected stage 0–IV CRC who became ctDNA positive after completion of standard-of-care therapy and had no radiological evidence of disease were randomly assigned (1:1) to receive trifluridine/tipiracil (FTD/TPI) or placebo for 6 months. The primary endpoint was investigator-assessed disease-free survival (DFS). Between July 2020 and June 2023, 243 patients were randomized to FTD/TPI (n = 122) or placebo (n = 121). Median DFS was 9.30 months with FTD/TPI and...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04428-0",
-      "doi": "10.1038/s41591-026-04428-0",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04428-0.pdf",
-      "keywords": [
-        "Medicine",
-        "Placebo",
-        "Colorectal cancer",
-        "Internal medicine",
-        "Clinical endpoint",
-        "Cancer Genomics and Diagnostics",
-        "Colorectal Cancer Treatments and Studies",
-        "Cancer Cells and Metastasis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.107039+00:00"
-    },
-    {
-      "id": "openalex-797c77e03bf0",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Advancements in machine learning and deep learning for early detection and management of mental health disorder",
-      "authors": "Kamala Devi Kannan, Senthil Kumar Jagatheesaperumal, Kandala N. V. P. S. Rajesh, Mojtaba Lotfaliany, Roohallah Alizadehsanid, Mohammadreza Mohebbi",
-      "abstract": "For the early identification, diagnosis, and treatment of mental health illnesses, the integration of deep learning (DL) and machine learning (ML) have started playing a significant role. By evaluating complex data from imaging, genetics, and behavioral assessments, these technologies have the potential to improve clinical results significantly. However, they also present unique challenges relating to data integration and ethical issues. The development of ML and DL methods for the early diagnosis and treatment of mental health issues is reviewed in this survey. It examines a range of applications, with a particular emphasis on behavioral assessments, genetic and biomarker analysis, and medical imaging for the diagnosis of diseases like depression, bipolar disorder, and schizophrenia. Predictive modeling for illness development is further discussed in the review, focusing on the funct...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "Journal of Affective Disorders Reports",
-      "source": "Journal of Affective Disorders Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.jadr.2026.101100",
-      "doi": "10.1016/j.jadr.2026.101100",
-      "pdfUrl": "https://doi.org/10.1016/j.jadr.2026.101100",
-      "keywords": [
-        "Deep learning",
-        "Mental health",
-        "Artificial intelligence",
-        "Psychology",
-        "Computer science",
-        "Mental Health Research Topics",
-        "Digital Mental Health Interventions",
-        "learning"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.110119+00:00"
+      "_retrievedAt": "2026-09-27T05:14:29.471848+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -3396,39 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.725110+00:00"
-    },
-    {
-      "id": "openalex-e83a54581c00",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: 2026 update",
-      "authors": "Gregg Nelson, Alon D. Altman, Amy Metcalfe, Christina Fotopoulou, Jolyn Taylor, Gretchen Elizabeth Glaser",
-      "abstract": "BACKGROUND: This is the third updated enhanced recovery after surgery (ERAS®) society guideline presenting a consensus for optimal perioperative care in gynecologic oncology surgery. METHODS: A database search of publications using Embase and PubMed was performed (2018-2025). Studies for key elements within the ERAS gynecologic oncology protocol were selected with emphasis on meta-analyses, randomized controlled trials, and large prospective cohort studies. These studies were then reviewed and graded according to the grading of recommendations, assessment, development and evaluation (GRADE) system. RESULTS: All recommendations on ERAS protocol items are based on best available evidence. The level of evidence for each item is presented accordingly. CONCLUSIONS: The updated evidence base and recommendation for items within the ERAS gynecologic oncology perioperative care pathway are pre...",
-      "date": "2026-06-06",
-      "year": 2026,
-      "journal": "Gynecologic Oncology",
-      "source": "Gynecologic Oncology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.ygyno.2026.05.022",
-      "doi": "10.1016/j.ygyno.2026.05.022",
-      "pdfUrl": "https://www.gynecologiconcology-online.net/article/S0090-8258(26)01999-2/pdf",
-      "keywords": [
-        "Medicine",
-        "Surgery",
-        "Gynecologic surgical procedures",
-        "General surgery",
-        "MEDLINE",
-        "Enhanced Recovery After Surgery",
-        "Nausea and vomiting management",
-        "Dietary Effects on Health"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.107327+00:00"
+      "_retrievedAt": "2026-09-27T05:14:33.879675+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
@@ -3460,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:12.873922+00:00"
+      "_retrievedAt": "2026-09-27T05:14:29.473509+00:00"
     },
     {
       "id": "openalex-c696aff78c58",
@@ -3492,71 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:12.872653+00:00"
-    },
-    {
-      "id": "openalex-33d4ca0564d8",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "EHA Guidelines on management of chronic lymphocytic leukemia and Richter transformation",
-      "authors": "Barbara F. Eichhorst, Paolo Ghia, Francesc Bosch, Ruth Clifford, Michael Gregor, Romain Guièze",
-      "abstract": "Previous editions of the European guidelines for the management of chronic lymphocytic leukemia (CLL) were developed by experts in CLL under the auspices of the European Society for Medical Oncology (ESMO). These previous editions have served as a reference text for many physicians caring for patients with CLL. The current, 2026 edition, represents the new, updated guidelines that, for the first time (and in agreement with ESMO), were written on behalf of the European Hematology Association (EHA), which will be solely responsible for subsequent editions, published annually to keep pace of the fast-moving field of CLL research and clinical applications. The new guidelines support approaching the management of CLL in a more holistic fashion, from the initial diagnosis (including active surveillance) to treatment need, with particular emphasis on the interplay between disease- and patien...",
-      "date": "2026-06-01",
-      "year": 2026,
-      "journal": "HemaSphere",
-      "source": "HemaSphere",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/hem3.70403",
-      "doi": "10.1002/hem3.70403",
-      "pdfUrl": "https://doi.org/10.1002/hem3.70403",
-      "keywords": [
-        "Medicine",
-        "Guideline",
-        "Chronic lymphocytic leukemia",
-        "Obinutuzumab",
-        "Venetoclax",
-        "Chronic Lymphocytic Leukemia Research",
-        "Phagocytosis and Immune Regulation",
-        "Chronic Myeloid Leukemia Treatments"
-      ],
-      "readTime": "1 min",
-      "citedBy": 11,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.106359+00:00"
-    },
-    {
-      "id": "openalex-d767b74ad31a",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Targeting Fibroblast Activation Protein with [177Lu]Lu-FAP-2286 in Patients with Advanced Solid Tumors in the Phase I LuMIERE Trial",
-      "authors": "Jonathan McConathy, Vadim S. Koshkin, Yusuf Menda, Jordi Ahnert Rodon, Ajit H. Goenka, Ryan H. Moy",
-      "abstract": "PURPOSE: Fibroblast activation protein (FAP) is an attractive target for radiopharmaceutical therapy. Phase I of the LuMIERE study (ClinicalTrials.gov, NCT04939610) investigated the safety of [177Lu]Lu-FAP-2286 (177Lu-FAP-2286) in heavily pretreated patients with advanced solid tumors and identified the recommended phase II dosage (RP2D). PATIENTS AND METHODS: LuMIERE is a prospective, open-label, nonrandomized, phase I/II, multicenter study. Phase I followed a Bayesian optimal interval design evaluating four escalating activity levels of 177Lu-FAP-2286 (3.70, 5.55, 7.40, and 9.25 GBq). Patients were selected by positive [68Ga]Ga-FAP-2286 (68Ga-FAP-2286, also known as [68Ga]Ga-HKG301) PET/CT imaging on all target lesions [maximum standardized uptake value (SUVmax) ≥1.5× SUVmean of mediastinal blood pool]. 177Lu-FAP-2286 was administered intravenously every 6 weeks for ≤6 cycles. The p...",
-      "date": "2026-06-01",
-      "year": 2026,
-      "journal": "Clinical Cancer Research",
-      "source": "Clinical Cancer Research",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1158/1078-0432.ccr-25-4356",
-      "doi": "10.1158/1078-0432.ccr-25-4356",
-      "pdfUrl": "https://doi.org/10.1158/1078-0432.ccr-25-4356",
-      "keywords": [
-        "Medicine",
-        "Response Evaluation Criteria in Solid Tumors",
-        "Adverse effect",
-        "Clinical endpoint",
-        "Internal medicine",
-        "Peptidase Inhibition and Analysis",
-        "Radiopharmaceutical Chemistry and Applications",
-        "Orthopedic Infections and Treatments"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-26T21:06:14.109173+00:00"
+      "_retrievedAt": "2026-09-27T05:14:29.472169+00:00"
     }
   ]
 };
