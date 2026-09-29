@@ -1,11 +1,331 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-09-29T05:40:00.492156+00:00",
-  "total": 111,
+  "generatedAt": "2026-09-29T12:47:32.677653+00:00",
+  "total": 99,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-32020f4cc5ea",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New antibodies could lead to first monoclonal treatment for measles",
+      "authors": "Medical Xpress",
+      "abstract": "Vanderbilt Health researchers and colleagues have isolated human monoclonal antibodies from previously infected individuals that potently neutralized the measles virus in the laboratory and strongly inhibited viral replication in two animal models.",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-antibodies-monoclonal-treatment-measles.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "antibodies",
+        "monoclonal",
+        "measles",
+        "could",
+        "lead",
+        "first",
+        "treatment",
+        "vanderbilt"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-29T12:47:32.369784+00:00"
+    },
+    {
+      "id": "rss-e74b94bcaea9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Balancing sport with rest and work may support young athletes' mental health",
+      "authors": "Medical Xpress",
+      "abstract": "No matter how much young athletes love their sport, they remain vulnerable to mental health and well-being problems if they don't balance the demands of training with education, work, leisure and rest.",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-sport-rest-young-athletes-mental.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "sport",
+        "rest",
+        "work",
+        "young",
+        "athletes",
+        "mental",
+        "health",
+        "they"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-29T12:47:32.370031+00:00"
+    },
+    {
+      "id": "rss-31132ef58588",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Loneliness and a desire to be thinner may help explain higher rates of depressive symptoms in adolescent girls",
+      "authors": "Medical Xpress",
+      "abstract": "Adolescence, the critical developmental stage between childhood and adulthood, is often marked by significant changes in friendships, appearance, preferences and attitudes. For some young people, it can be a tumultuous period accompanied by substantial emotional distress.",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-loneliness-desire-thinner-higher-depressive.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "loneliness",
+        "desire",
+        "thinner",
+        "help",
+        "explain",
+        "higher",
+        "rates",
+        "depressive"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-29T12:47:32.370268+00:00"
+    },
+    {
+      "id": "rss-dbbdd018bd8d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Research shows promising results for health care professionals using ketogenic diet therapy to treat mental illness",
+      "authors": "Medical Xpress",
+      "abstract": "Specialized high-fat, low-carbohydrate diets, known as ketogenic metabolic therapy, are showing promise as treatments for certain mental illnesses in emerging research.",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-results-health-professionals-ketogenic-diet.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "ketogenic",
+        "therapy",
+        "mental",
+        "shows",
+        "promising",
+        "results",
+        "health",
+        "care"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-29T12:47:32.370467+00:00"
+    },
+    {
+      "id": "rss-f44e399fd33c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Genetic analysis reveals potential benefit of aspirin for reducing dementia risk",
+      "authors": "Medical Xpress",
+      "abstract": "Low-dose aspirin was associated with a 70% lower risk of dementia among older people with a particular genetic profile, a new Monash University analysis has found, raising the possibility of a more personalized approach to dementia prevention.",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-genetic-analysis-reveals-potential-benefit.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "dementia",
+        "genetic",
+        "aspirin",
+        "risk",
+        "reveals",
+        "potential",
+        "benefit",
+        "reducing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-29T12:47:32.370662+00:00"
+    },
+    {
+      "id": "rss-854998747ee6",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Nutrition with a mission",
+      "authors": "Medical Xpress",
+      "abstract": "After working at Telstra for 10 years, Ellie Dunlop wanted a career change.",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-nutrition-mission.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nutrition",
+        "mission",
+        "after",
+        "working",
+        "telstra",
+        "years",
+        "ellie",
+        "dunlop"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-29T12:47:32.370818+00:00"
+    },
+    {
+      "id": "rss-229a175470d8",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Researchers suggest tile-based radiation therapy as standard of care to lower risk of recurrence in brain metastases",
+      "authors": "Medical Xpress",
+      "abstract": "A multicenter clinical trial led by researchers at The University of Texas MD Anderson Cancer Center found that implanting collagen tiles during brain surgery to deliver targeted radiation therapy improved tumor control, lowered the risk of recurrence and improved overall survival compared with the current standard of care for patients with newly diagnosed brain metastases who need surgery.",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-tile-based-therapy-standard-recurrence.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "researchers",
+        "radiation",
+        "therapy",
+        "standard",
+        "care",
+        "risk",
+        "recurrence"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-29T12:47:32.371048+00:00"
+    },
+    {
+      "id": "rss-f96ddec81f36",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Fractionated radiosurgery reduces recurrence after surgery for brain metastases, may improve survival",
+      "authors": "Medical Xpress",
+      "abstract": "Mayo Clinic researchers led a multicenter study that found dividing radiation into several treatments, known as fractionated stereotactic radiosurgery, reduced the risk of cancer returning after surgery for brain metastases and was associated with improved survival compared with delivering radiation in a single treatment.",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-fractionated-radiosurgery-recurrence-surgery-brain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "fractionated",
+        "radiosurgery",
+        "after",
+        "surgery",
+        "brain",
+        "metastases",
+        "survival",
+        "radiation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-29T12:47:32.371291+00:00"
+    },
+    {
+      "id": "rss-fad0d1478707",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "A blood-based approach could enable personalized immunotherapy without the need for a tumor biopsy",
+      "authors": "Medical Xpress",
+      "abstract": "In a study published in Cancer Discovery, cancer neoantigens and neoantigen-specific T cells were identified from patient blood samples by analyzing circulating tumor DNA (ctDNA) and immune cells.",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-blood-based-approach-enable-personalized.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "tumor",
+        "cancer",
+        "cells",
+        "blood-based",
+        "approach",
+        "could",
+        "enable",
+        "personalized"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-29T12:47:32.371485+00:00"
+    },
+    {
+      "id": "rss-694b0ed863fc",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "The hidden switch behind one of the biggest paradoxes in aging muscle",
+      "authors": "Medical Xpress",
+      "abstract": "Our muscles are built from bundles of fibers. Some are fast-twitch, tuned for quick, powerful bursts of effort but quick to tire. Others are slow-twitch, built for endurance and packed with more mitochondria, the structures commonly called the \"powerhouses of the cell.\"",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-hidden-biggest-paradoxes-aging-muscle.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "built",
+        "quick",
+        "hidden",
+        "switch",
+        "behind",
+        "biggest",
+        "paradoxes",
+        "aging"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-29T12:47:32.371689+00:00"
+    },
     {
       "id": "rss-eacc047ec934",
       "discipline": "clinical",
@@ -36,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.495138+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.371929+00:00"
     },
     {
       "id": "rss-b8228fd51d54",
@@ -68,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.495365+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.372119+00:00"
     },
     {
       "id": "rss-dd325fa1b24e",
@@ -100,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.495596+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.372333+00:00"
     },
     {
       "id": "rss-dd06b3d3e612",
@@ -132,327 +452,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.495799+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.372526+00:00"
     },
     {
-      "id": "rss-7c01b9fc6292",
-      "discipline": "clinical",
+      "id": "rss-6bfdf828ad42",
+      "discipline": "cs",
       "type": "news",
-      "title": "AI model achieves 89% accuracy in identifying arrhythmia-related abnormalities in atrial tissue",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers from the COR group at the Institute of Information and Communications Technologies (ITACA) of the Universitat Politècnica de València (UPV) have developed an artificial intelligence model capable of locating and quantifying tissue abnormalities associated with atrial cardiomyopathy using electrical recordings from the body's surface.",
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "authors": "TechCrunch AI",
+      "abstract": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
       "date": "2026-09-29",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-ai-accuracy-arrhythmia-abnormalities-atrial.html",
+      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "abnormalities",
-        "atrial",
-        "tissue",
-        "achieves",
-        "accuracy",
-        "identifying",
-        "arrhythmia-related",
-        "researchers"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.496029+00:00"
-    },
-    {
-      "id": "rss-06b7c1bdba5a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Nearly 1 in 3 Ukrainian civilians meets criteria for PTSD or complex PTSD",
-      "authors": "Medical Xpress",
-      "abstract": "A national survey of Ukrainian residents provides one of the clearest estimates to date of the psychological impact of the ongoing war Published in the European Journal of Psychotraumatology, the peer-reviewed study analyzed data from a nationally representative survey of civilians living in government-controlled regions of Ukraine.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-ukrainian-civilians-criteria-ptsd-complex.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ukrainian",
-        "civilians",
-        "ptsd",
-        "survey",
-        "nearly",
-        "meets",
-        "criteria",
-        "complex"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.496239+00:00"
-    },
-    {
-      "id": "rss-ac5e290b76ec",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Fluctuations in blood pressure over time linked to death and strokes, analysis of UK data finds",
-      "authors": "Medical Xpress",
-      "abstract": "Greater variation in blood pressure between research visits was associated with a higher risk of death in a study of more than 57,000 UK Biobank participants. Variation in some blood pressure measures was also associated with stroke. The findings were presented at the Annual Meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-fluctuations-blood-pressure-linked-death.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "blood",
-        "pressure",
-        "death",
-        "variation",
-        "associated",
-        "fluctuations",
-        "over",
-        "time"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.496529+00:00"
-    },
-    {
-      "id": "rss-60ef6a1155c7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Regulator-mandated study finds no link between semaglutide use and pancreatic cancer",
-      "authors": "Medical Xpress",
-      "abstract": "New research presented at the Annual Meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2, found no link between semaglutide use and pancreatic cancer in nationwide registry data from Denmark, Sweden and Norway. The regulator-mandated post-authorization study was presented by Anton Pottegård, a professor at the University of Southern Denmark in Odense, and colleagues.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-mandated-link-semaglutide-pancreatic-cancer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "regulator-mandated",
-        "link",
-        "semaglutide",
-        "pancreatic",
-        "cancer",
-        "presented",
-        "denmark",
-        "finds"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.496770+00:00"
-    },
-    {
-      "id": "rss-4549cf35fce4",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "High-salt diet may drive fatty liver disease differently in lean people",
-      "authors": "Medical Xpress",
-      "abstract": "Fatty liver disease is commonly associated with obesity, yet a growing number of people with normal body weight develop a severe form of the condition. Scientists at Duke-NUS Medical School have identified a distinct mechanism in a mouse model that may help explain why: Excess dietary salt can alter liver metabolism and trigger inflammatory pathways associated with lean metabolic dysfunction-associated steatohepatitis (MASH).",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-high-salt-diet-fatty-liver.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "liver",
-        "fatty",
-        "disease",
-        "lean",
-        "people",
-        "associated",
-        "high-salt",
-        "diet"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.496991+00:00"
-    },
-    {
-      "id": "rss-0d99a254e15a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Just 20 seconds of speech could help detect type 2 diabetes using AI-based tool",
-      "authors": "Medical Xpress",
-      "abstract": "Signs of type 2 diabetes can be detected in just a few seconds from the way someone talks, according to research being presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-seconds-speech-diabetes-ai-based.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "diabetes",
-        "just",
-        "seconds",
-        "type",
-        "speech",
-        "could",
-        "help",
-        "detect"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.497189+00:00"
-    },
-    {
-      "id": "rss-0adeb5063368",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "How moving neighborhood can alter risk of type 2 diabetes",
-      "authors": "Medical Xpress",
-      "abstract": "Where someone lives strongly influences their risk of developing type 2 diabetes, new research from Canada suggests. The research was presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-neighborhood-diabetes.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "diabetes",
-        "risk",
-        "type",
-        "moving",
-        "neighborhood",
-        "alter",
-        "where",
-        "someone"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.497380+00:00"
-    },
-    {
-      "id": "rss-11125fa9250a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Mapping how temporary firearm removal orders are used among service members and veterans",
-      "authors": "Medical Xpress",
-      "abstract": "As Suicide Prevention Month brings renewed attention to ways to reduce suicide risk, new research from CU Anschutz examines how extreme risk protection orders (ERPOs), civil court orders that can temporarily restrict firearm access, are being used among service members and veterans in Colorado.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-temporary-firearm-members-veterans.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "orders",
-        "firearm",
-        "used",
-        "among",
-        "service",
-        "members",
-        "veterans",
-        "suicide"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.497592+00:00"
-    },
-    {
-      "id": "rss-ec0ff67d637f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Supervised physical therapy improves short-term knee pain and function after ACL surgery in young adults",
-      "authors": "Medical Xpress",
-      "abstract": "A randomized clinical trial found that supervised physical therapy after anterior cruciate ligament (ACL) surgery yielded greater improvements in pain, function and muscle strength than a self-directed exercise program, at least in the short term. The findings can inform care for people with ongoing knee symptoms after ACL surgery. The study is published in Annals of Internal Medicine.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-physical-therapy-short-term-knee.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
+        "openai",
+        "apologizes",
+        "australia",
         "after",
-        "surgery",
-        "supervised",
-        "physical",
-        "therapy",
-        "knee",
-        "pain",
-        "function"
+        "agents",
+        "breached",
+        "government",
+        "sites"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.497808+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.425204+00:00"
     },
     {
-      "id": "rss-d5484b0b3510",
-      "discipline": "clinical",
+      "id": "rss-57b8428691da",
+      "discipline": "cs",
       "type": "news",
-      "title": "Study revisits measures of breastfeeding success—and the consequences for parents",
-      "authors": "Medical Xpress",
-      "abstract": "Within breastfeeding research, there's a widely recognized need to move beyond using only the duration of breastfeeding as the measure of \"successful breastfeeding\" and to integrate person-centered outcomes.",
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "authors": "TechCrunch AI",
+      "abstract": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
       "date": "2026-09-29",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-revisits-breastfeeding-success-consequences-parents.html",
+      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "breastfeeding",
-        "revisits",
-        "measures",
-        "success",
-        "consequences",
-        "parents",
-        "within",
-        "there"
+        "million",
+        "reco",
+        "raises",
+        "agent",
+        "security",
+        "startups",
+        "crowd",
+        "market"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.498009+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.425403+00:00"
     },
     {
       "id": "rss-50b44887936c",
@@ -484,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.622201+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.425596+00:00"
     },
     {
       "id": "rss-f1b1a1ddd8a4",
@@ -516,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.622439+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.425747+00:00"
     },
     {
       "id": "rss-93b8d56ba100",
@@ -548,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.672823+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.459915+00:00"
     },
     {
       "id": "rss-d2d5303f2df6",
@@ -580,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.672967+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.460084+00:00"
     },
     {
       "id": "rss-6aa8ae718f51",
@@ -612,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.622582+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.425882+00:00"
     },
     {
       "id": "rss-138a94a82742",
@@ -644,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.622709+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.426013+00:00"
     },
     {
       "id": "rss-b310d9b36381",
@@ -676,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.622842+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.426179+00:00"
     },
     {
       "id": "rss-20def1e25b0f",
@@ -708,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.622979+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.426384+00:00"
     },
     {
       "id": "rss-1aa087581744",
@@ -740,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.623103+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.426531+00:00"
     },
     {
       "id": "rss-245bc6683c61",
@@ -772,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.623236+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.426682+00:00"
     },
     {
       "id": "rss-ac8643948059",
@@ -804,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.623343+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.426816+00:00"
     },
     {
       "id": "rss-15f145b7d8be",
@@ -836,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.623474+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.426959+00:00"
     },
     {
       "id": "rss-71fdad6ab8fe",
@@ -868,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.623592+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.427101+00:00"
     },
     {
       "id": "rss-1487d899d8cb",
@@ -900,71 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.623710+00:00"
-    },
-    {
-      "id": "rss-8b25c9e04148",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-      "authors": "TechCrunch AI",
-      "abstract": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-      "date": "2026-09-28",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "anthropic",
-        "gamma",
-        "clay",
-        "what",
-        "share",
-        "happens",
-        "when",
-        "enterprises"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.623833+00:00"
-    },
-    {
-      "id": "rss-b1b45d5e0f9c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-      "authors": "TechCrunch AI",
-      "abstract": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
-      "date": "2026-09-28",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "after",
-        "deepfake",
-        "voice",
-        "grandfather",
-        "startup",
-        "fooled",
-        "this",
-        "founder"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.624035+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.427266+00:00"
     },
     {
       "id": "rss-0f5454e2985b",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.673095+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.460262+00:00"
     },
     {
       "id": "rss-975ad9b8aec5",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.673208+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.460395+00:00"
     },
     {
       "id": "rss-a7d777e1fbd3",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:40:00.298142+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.600944+00:00"
     },
     {
       "id": "rss-9c55cfccdd04",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.673333+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.460520+00:00"
     },
     {
       "id": "rss-15bfac0aca91",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.673491+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.460668+00:00"
     },
     {
       "id": "rss-c6dd1d7e00a5",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.673623+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.460810+00:00"
     },
     {
       "id": "rss-2eaa3a09d482",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.673761+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.460961+00:00"
     },
     {
       "id": "rss-a969e28ae72b",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:40:00.298652+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.601535+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:40:00.298940+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.601862+00:00"
     },
     {
       "id": "rss-4d47532c7c63",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:40:00.299150+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.602105+00:00"
     },
     {
       "id": "rss-bf9122547ba1",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:40:00.299526+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.602666+00:00"
     },
     {
       "id": "rss-38146f5c87bf",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.673875+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.461086+00:00"
     },
     {
       "id": "rss-188abdd7fd48",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:40:00.299700+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.603005+00:00"
     },
     {
       "id": "rss-a74392b37559",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.673997+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.461235+00:00"
     },
     {
       "id": "rss-040fa3bc1672",
@@ -1444,39 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.674109+00:00"
-    },
-    {
-      "id": "openalex-e93dd4d183a9",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models",
-      "authors": "Guangji Bai, Zheng Chai, Ling Chen, Shiyu Wang, Jiaying Lu, Nan Zhang",
-      "abstract": "The burgeoning field of Large Language Models (LLMs), exemplified by sophisticated models like OpenAI’s ChatGPT, represents a significant advancement in artificial intelligence. These models, however, bring forth substantial challenges in high consumption of computational, memory, energy, and financial resources, especially in environments with limited resource capabilities. This survey aims to systematically address these challenges by reviewing a broad spectrum of techniques designed to enhance the resource efficiency of LLMs. We categorize methods based on their optimization focus—covering computational, memory, energy, financial, and network resources—and their applicability across various stages of an LLM’s lifecycle, including architecture design, pre-training, fine-tuning, and system design. Additionally, the survey introduces a nuanced categorization of resource efficiency tec...",
-      "date": "2026-09-15",
-      "year": 2026,
-      "journal": "ACM Computing Surveys",
-      "source": "ACM Computing Surveys",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3845797",
-      "doi": "10.1145/3845797",
-      "pdfUrl": "https://doi.org/10.1145/3845797",
-      "keywords": [
-        "Computer science",
-        "Resource (disambiguation)",
-        "Categorization",
-        "Data science",
-        "Field (mathematics)",
-        "Topic Modeling",
-        "Natural Language Processing Techniques",
-        "Ferroelectric and Negative Capacitance Devices"
-      ],
-      "readTime": "1 min",
-      "citedBy": 40,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:51.166281+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.461358+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1508,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:40:00.299881+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.603395+00:00"
     },
     {
       "id": "rss-b0ad43b43ecb",
@@ -1540,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:40:00.300025+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.603719+00:00"
     },
     {
       "id": "rss-3975041a07bd",
@@ -1572,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.674233+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.461495+00:00"
     },
     {
       "id": "rss-d4de56183b8d",
@@ -1604,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.674350+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.461622+00:00"
     },
     {
       "id": "rss-7dcdb7c08293",
@@ -1636,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:59.674494+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.461760+00:00"
     },
     {
       "id": "rss-0aa9231559e8",
@@ -1668,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:40:00.300462+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.604643+00:00"
     },
     {
       "id": "rss-4bb6898d3482",
@@ -1700,11 +1668,11 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:40:00.300880+00:00"
+      "_retrievedAt": "2026-09-29T12:47:32.605216+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
-      "discipline": "cs",
+      "discipline": "geo",
       "type": "paper",
       "title": "MERCATOR",
       "authors": "Guillaume Bailly, Thomas Louche",
@@ -1732,39 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:51.169096+00:00"
-    },
-    {
-      "id": "openalex-b0b9c1c36e09",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Journal of Strategic Security",
-      "authors": "OpenAlex indexed authors",
-      "abstract": "The Journal of Strategic Security (JSS) is a peer-reviewed professional journal published quarterly by Henley-Putnam School of Strategic Security. The Journal provides a multi-disciplinary forum for scholarship and discussion of strategic security issues drawing from the fields of global security, international relations, intelligence, terrorism and counterterrorism studies, among others. The Journal encourages diversity in theoretical foundations, research methods, and approaches. Quantitative and qualitative studies, for example, each offer valuable contributions to the field of strategic security. Academic disciplines of international relations, political science, psychology, sociology, anthropology, criminology, economics, and history are welcome, as are the applied scholarly fields of security studies, strategic studies, and intelligence studies. JSS emphasizes contemporary secur...",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "Journal of Strategic Security",
-      "source": "Journal of Strategic Security",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5038/1944-0472",
-      "doi": "10.5038/1944-0472",
-      "pdfUrl": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=2026&context=jss",
-      "keywords": [
-        "Political science",
-        "Terrorism, Counterterrorism, and Political Violence",
-        "International Relations and Foreign Policy",
-        "security",
-        "strategic",
-        "journal",
-        "studies",
-        "fields"
-      ],
-      "readTime": "1 min",
-      "citedBy": 117,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:51.164521+00:00"
+      "_retrievedAt": "2026-09-29T12:47:27.910255+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1796,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:52.309804+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.115210+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1828,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:54.149224+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.696426+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1860,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:55.988067+00:00"
+      "_retrievedAt": "2026-09-29T12:47:27.914279+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1892,39 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:52.307876+00:00"
-    },
-    {
-      "id": "openalex-f5c2c318cf9f",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Explainable artificial intelligence (XAI): From inherent explainability to large language models",
-      "authors": "Fuseini Mumuni, Alhassan Mumuni",
-      "abstract": "Artificial Intelligence (AI) has continued to achieve tremendous success in recent times. However, the decision logic of these frameworks is often not transparent, making it difficult for stakeholders to understand, interpret or explain their behavior. This limitation hinders trust in machine learning systems and causes a general reluctance towards their adoption in practical applications, particularly in mission-critical domains like healthcare and autonomous driving. Explainable AI (XAI) techniques facilitate the explainability or interpretability of machine learning models, enabling users to discern the basis of the decision and possibly avert undesirable behavior. This comprehensive survey details the advancements of explainable AI methods, from inherently interpretable models to modern approaches for achieving interpretability of various black box models, including large language...",
-      "date": "2026-08-11",
-      "year": 2026,
-      "journal": "Array",
-      "source": "Array",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.array.2026.101133",
-      "doi": "10.1016/j.array.2026.101133",
-      "pdfUrl": "https://doi.org/10.1016/j.array.2026.101133",
-      "keywords": [
-        "Artificial intelligence",
-        "Computer science",
-        "Natural language processing",
-        "Explainable Artificial Intelligence (XAI)",
-        "explainable",
-        "artificial",
-        "intelligence",
-        "explainability"
-      ],
-      "readTime": "1 min",
-      "citedBy": 21,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:51.167984+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.113206+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1956,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:52.308570+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.113900+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1988,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:52.308882+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.114231+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2020,39 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:55.988342+00:00"
-    },
-    {
-      "id": "openalex-76c84c6076eb",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits",
-      "authors": "Ronghui Zhu, Emma Dann, Jun Yan, Justine Reyes Retana, Ryunosuke Goto, Reese C Guitche",
-      "abstract": "Abstract Gene regulatory networks encode the fundamental logic of cellular functions, but systematic network mapping remains challenging, especially in cell states relevant to human biology and disease. Here, we perturbed all expressed genes across 22 million primary human CD4+ T cells from four donors and developed a probe-based perturb-seq platform to measure the transcriptome effects in cells at rest and after stimulation. These data allow us to map genes that regulate known and novel pathways, including novel regulators of cytokine production. Importantly, active regulators and the gene programs they control change dramatically across stimulation conditions. Perturbation signatures enabled us to model T cell states observed in population-scale transcriptomic atlases, nominating regulators of Th1 and Th2 polarization and of age-related T cell phenotypes. Finally, we leveraged pertu...",
-      "date": "2026-08-01",
-      "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.08.002",
-      "doi": "10.1016/j.cell.2026.08.002",
-      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.08.002",
-      "keywords": [
-        "Biology",
-        "Transcriptome",
-        "ENCODE",
-        "Gene",
-        "Immune system",
-        "Single-cell and spatial transcriptomics",
-        "T-cell and B-cell Immunology",
-        "vaccines and immunoinformatics approaches"
-      ],
-      "readTime": "1 min",
-      "citedBy": 19,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:51.168248+00:00"
+      "_retrievedAt": "2026-09-29T12:47:27.914631+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2084,7 +1956,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:52.306466+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.111704+00:00"
+    },
+    {
+      "id": "openalex-76c84c6076eb",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits",
+      "authors": "Ronghui Zhu, Emma Dann, Jun Yan, Justine Reyes Retana, Ryunosuke Goto, Reese C Guitche",
+      "abstract": "Abstract Gene regulatory networks encode the fundamental logic of cellular functions, but systematic network mapping remains challenging, especially in cell states relevant to human biology and disease. Here, we perturbed all expressed genes across 22 million primary human CD4+ T cells from four donors and developed a probe-based perturb-seq platform to measure the transcriptome effects in cells at rest and after stimulation. These data allow us to map genes that regulate known and novel pathways, including novel regulators of cytokine production. Importantly, active regulators and the gene programs they control change dramatically across stimulation conditions. Perturbation signatures enabled us to model T cell states observed in population-scale transcriptomic atlases, nominating regulators of Th1 and Th2 polarization and of age-related T cell phenotypes. Finally, we leveraged pertu...",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "Cell",
+      "source": "Cell",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.cell.2026.08.002",
+      "doi": "10.1016/j.cell.2026.08.002",
+      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.08.002",
+      "keywords": [
+        "Biology",
+        "Transcriptome",
+        "ENCODE",
+        "Gene",
+        "Immune system",
+        "Single-cell and spatial transcriptomics",
+        "T-cell and B-cell Immunology",
+        "vaccines and immunoinformatics approaches"
+      ],
+      "readTime": "1 min",
+      "citedBy": 19,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-29T12:47:25.112012+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2116,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:55.985440+00:00"
+      "_retrievedAt": "2026-09-29T12:47:27.911038+00:00"
     },
     {
       "id": "openalex-cc20596fdff7",
@@ -2148,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:52.310084+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.115527+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2180,39 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:55.985718+00:00"
-    },
-    {
-      "id": "openalex-1a4374889b53",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Exploring Large Language Model‐Based Intelligent Agents: Definitions, Methods, and Prospects",
-      "authors": "Yuheng Cheng, Ceyao Zhang, Zhengwen Zhang, Xiangrui Meng, Sirui Hong, Wenhao Li",
-      "abstract": "ABSTRACT The concept of the intelligent agent represents a long‐standing pursuit in artificial intelligence. Recent breakthroughs in large language models (LLMs) have catalyzed a paradigm shift, enabling the development of sophisticated agents that exhibit advanced reasoning, planning, and tool‐use capabilities across diverse domains. These LLM‐based agents, which leverage natural language as a universal interface for cognition and interaction, are rapidly advancing from theoretical constructs to practical applications, ranging from autonomous task assistants to complex multi‐agent simulations of social and economic systems. This paper provides an integrative survey of this burgeoning field. We first establish an organizing framework for understanding LLM‐based agents, systematically deconstructing both single‐agent and multi‐agent systems into their core components. We analyze the ar...",
-      "date": "2026-07-24",
-      "year": 2026,
-      "journal": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
-      "source": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/widm.70111",
-      "doi": "10.1002/widm.70111",
-      "pdfUrl": "https://arxiv.org/pdf/2401.03428",
-      "keywords": [
-        "Computer science",
-        "Implementation",
-        "Interface (matter)",
-        "Natural language",
-        "Natural language understanding",
-        "Topic Modeling",
-        "Natural Language Processing Techniques",
-        "agents"
-      ],
-      "readTime": "1 min",
-      "citedBy": 41,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:51.165947+00:00"
+      "_retrievedAt": "2026-09-29T12:47:27.911402+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2244,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:52.307351+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.112659+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2276,71 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:52.310339+00:00"
-    },
-    {
-      "id": "openalex-6f1beac60f93",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Cultural evolution of music and language",
-      "authors": "Yuto Ozaki, Marianne de Heer Kloots, Andrea Ravignani, Patrick E. Savage",
-      "abstract": "Abstract Music and language are both forms of communication universally observed across human societies, prompting researchers to investigate why and how they evolved. Such research initially focused on the biological evolution of the capacities to create and perceive language and music; later work has been increasingly tackling the cultural evolution angle to study the mechanisms and processes driving the diversity and regularities of music and language. In this chapter, we review key studies of the cultural evolution of music and language. We group the review into observational studies (e.g. phylogenetic analysis), experimental studies (e.g. transmission chains), simulation studies (e.g. agent-based models), and music-language relationships (e.g. song/speech melody/prosody). Furthermore, we highlight key ideas that each discipline can learn from the other, and promising research top...",
-      "date": "2026-07-22",
-      "year": 2026,
-      "journal": "Oxford University Press eBooks",
-      "source": "Oxford University Press eBooks",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1093/oxfordhb/9780192894700.013.0028",
-      "doi": "10.1093/oxfordhb/9780192894700.013.0028",
-      "pdfUrl": "https://psyarxiv.com/s7apx/download",
-      "keywords": [
-        "Parallels",
-        "Cultural transmission in animals",
-        "Sociocultural evolution",
-        "Cognitive science",
-        "Music psychology",
-        "Language and cultural evolution",
-        "Animal Vocal Communication and Behavior",
-        "Music and Audio Processing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 19,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:51.168553+00:00"
-    },
-    {
-      "id": "openalex-65c3e45e4caf",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "M2SNet: Multi-scale in Multi-scale Subtraction Network for Medical Image Segmentation",
-      "authors": "Xiaoqi Zhao, Hongpeng Jia, Youwei Pang, Long Lv, Feng Tian, Lihe Zhang",
-      "abstract": "Abstract Accurate medical image segmentation is critical for early medical diagnosis. Most existing methods are based on U-shape structure and use element-wise addition or concatenation to fuse different level features progressively in decoder. However, both the two operations easily generate plenty of redundant information, which will weaken the complementarity between different level features, resulting in inaccurate localization and blurred edges of lesions. To address this challenge, we propose a general multi-scale in multi-scale subtraction network (M 2 SNet) to finish diverse segmentation from medical image. Specifically, we first design a basic subtraction unit (SU) to produce the difference features between adjacent levels in encoder. Next, we expand the single-scale SU to the intra-layer multi-scale SU, which can provide the decoder with both pixel-level and structure-level...",
-      "date": "2026-07-20",
-      "year": 2026,
-      "journal": "Machine Intelligence Research",
-      "source": "Machine Intelligence Research",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s11633-026-1662-9",
-      "doi": "10.1007/s11633-026-1662-9",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11633-026-1662-9.pdf",
-      "keywords": [
-        "Computer science",
-        "Artificial intelligence",
-        "Segmentation",
-        "Subtraction",
-        "Scale (ratio)",
-        "Advanced Neural Network Applications",
-        "Medical Imaging and Analysis",
-        "Radiomics and Machine Learning in Medical Imaging"
-      ],
-      "readTime": "1 min",
-      "citedBy": 81,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:51.164944+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.115801+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2372,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:52.309154+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.114519+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2404,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:54.147922+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.694824+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2436,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:55.988571+00:00"
+      "_retrievedAt": "2026-09-29T12:47:27.914902+00:00"
     },
     {
       "id": "openalex-4a46ff2c29ce",
@@ -2468,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:55.988823+00:00"
+      "_retrievedAt": "2026-09-29T12:47:27.915235+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -2500,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:55.987137+00:00"
+      "_retrievedAt": "2026-09-29T12:47:27.913122+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2532,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:52.310671+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.116112+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2564,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:55.987435+00:00"
+      "_retrievedAt": "2026-09-29T12:47:27.913496+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2596,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:55.986540+00:00"
+      "_retrievedAt": "2026-09-29T12:47:27.912384+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2628,39 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:52.308205+00:00"
-    },
-    {
-      "id": "openalex-56da52a8679d",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "A Comprehensive Survey on Multimodal Recommender Systems: Taxonomy, Evaluation, and Future Directions",
-      "authors": "Hongyu Zhou, Xin Zhou, Zhiwei Zeng, Lingzi Zhang, Chunyan Miao",
-      "abstract": "Recommender systems play a pivotal role in personalizing user experiences by inferring preferences based on historical interactions with items. With the increasing prevalence of multimodal information, researchers have sought to develop recommender systems that can understand and interpret data across various modalities. These models can capture the hidden relations among various modalities and discover the complementary information that may be overlooked by recommender systems that exploit unimodal or user-item interaction data. This survey aims to provide a comprehensive review of the recent research efforts on multimodal recommendation. Specifically, we delineate a clear pipeline that is adopted by the majority of recommendation systems, outline commonly used techniques at each step of the pipeline, and classify existing models based on the methods used. We also conduct a performan...",
-      "date": "2026-07-06",
-      "year": 2026,
-      "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "source": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1109/tpami.2026.3710585",
-      "doi": "10.1109/tpami.2026.3710585",
-      "pdfUrl": "https://arxiv.org/pdf/2302.04473",
-      "keywords": [
-        "Computer science",
-        "Recommender system",
-        "Modalities",
-        "Pipeline (software)",
-        "Code (set theory)",
-        "Recommender Systems and Techniques",
-        "Music and Audio Processing",
-        "Advanced Text Analysis Techniques"
-      ],
-      "readTime": "1 min",
-      "citedBy": 27,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:51.167214+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.113542+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -2692,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:55.985993+00:00"
+      "_retrievedAt": "2026-09-29T12:47:27.911738+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -2724,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:55.989157+00:00"
+      "_retrievedAt": "2026-09-29T12:47:27.915661+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2756,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:54.148670+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.695732+00:00"
     },
     {
       "id": "openalex-9348c6b21fcd",
@@ -2788,11 +2564,11 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:55.989420+00:00"
+      "_retrievedAt": "2026-09-29T12:47:27.915975+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
-      "discipline": "cs",
+      "discipline": "bio",
       "type": "paper",
       "title": "Advancing bioinformatics with language models: components, applications, and perspectives",
       "authors": "Jiajia Liu, Mengyuan Yang, Yankai Yu, Haixia Xu, Tiangang Wang, Kang Li",
@@ -2820,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:51.166937+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.111324+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2852,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:52.309507+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.114866+00:00"
     },
     {
       "id": "openalex-10ad267fea93",
@@ -2884,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:54.150118+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.697544+00:00"
     },
     {
       "id": "openalex-33e8cda96b3e",
@@ -2916,71 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:54.150404+00:00"
-    },
-    {
-      "id": "openalex-d12f8c68ebf5",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook",
-      "authors": "Ming Jin, Yaxuan Kong, Yuxuan Liang, Chaoli Zhang, Siqiao Xue, Xue Wang",
-      "abstract": "Temporal data-including time series and spatio-temporal data- are pervasive in real-world applications. Generated in massive volumes by physical and virtual sensors, they record dynamic system behaviors and enable a wide range of downstream tasks. Effectively analyzing such data is crucial to unlocking their rich information content. Recent advances in large language models and other foundation models have accelerated their use in time series and spatio-temporal data mining. These approaches not only improve pattern recognition and reasoning across diverse domains but also support progress toward artificial general intelligence that can understand and process temporal data. In this survey, we present a comprehensive, up-to-date review of large models tailored or adapted for time series and spatio-temporal data along four dimensions: data types, model categories, model scopes, and appl...",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "ACM Computing Surveys",
-      "source": "ACM Computing Surveys",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3821637",
-      "doi": "10.1145/3821637",
-      "pdfUrl": "https://doi.org/10.1145/3821637",
-      "keywords": [
-        "Computer science",
-        "Data science",
-        "Temporal database",
-        "Categorization",
-        "Data mining",
-        "Time Series Analysis and Forecasting",
-        "Advanced Text Analysis Techniques",
-        "Topic Modeling"
-      ],
-      "readTime": "1 min",
-      "citedBy": 43,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:51.165250+00:00"
-    },
-    {
-      "id": "openalex-a7c159f1f11b",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Traffic and road sign recognition",
-      "authors": "Hasan A. Fleyeh",
-      "abstract": "This thesis presents a system to recognise and classify road and traffic signs for the purpose of developing an inventory of them which could assist the highway engineers' tasks of updating and maintaining them. It uses images taken by a camera from a moving vehicle. The system is based on three major stages: colour segmentation, recognition, and classification. Four colour segmentation algorithms are developed and tested. They are a shadow and highlight invariant, a dynamic threshold, a modification of de la Escalera's algorithm and a Fuzzy colour segmentation algorithm. All algorithms are tested using hundreds of images and the shadow-highlight invariant algorithm is eventually chosen as the best performer. This is because it is immune to shadows and highlights. It is also robust as it was tested in different lighting conditions, weather conditions, and times of the day. Approximate...",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "Research Output (Edinburgh Napier University)",
-      "source": "Research Output (Edinburgh Napier University)",
-      "sourceApi": "OpenAlex",
-      "url": "http://researchrepository.napier.ac.uk/id/eprint/9466",
-      "doi": "10.17869/enu.233020",
-      "pdfUrl": "http://researchrepository.napier.ac.uk/id/eprint/9466",
-      "keywords": [
-        "Transport engineering",
-        "Traffic sign",
-        "Road traffic",
-        "Sign (mathematics)",
-        "Computer science",
-        "Image Processing and 3D Reconstruction",
-        "Handwritten Text Recognition Techniques",
-        "Safety Warnings and Signage"
-      ],
-      "readTime": "2 min",
-      "citedBy": 30,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:51.166674+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.697896+00:00"
     },
     {
       "id": "openalex-5cd132793914",
@@ -3012,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:54.151797+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.699669+00:00"
     },
     {
       "id": "openalex-c3aaf692321e",
@@ -3044,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:54.152105+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.700035+00:00"
     },
     {
       "id": "openalex-bb50663ea11d",
@@ -3076,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:55.987777+00:00"
+      "_retrievedAt": "2026-09-29T12:47:27.913903+00:00"
     },
     {
       "id": "openalex-a29127dc905f",
@@ -3108,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:54.150657+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.698225+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -3140,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:54.148379+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.695393+00:00"
     },
     {
       "id": "openalex-771740d27607",
@@ -3172,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:54.150919+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.698569+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -3204,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:55.986219+00:00"
+      "_retrievedAt": "2026-09-29T12:47:27.912018+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -3236,71 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:52.307571+00:00"
-    },
-    {
-      "id": "openalex-42a964175819",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs)",
-      "authors": "Tarek Ali, Panos Kostakos, Saeid Sheikhi",
-      "abstract": "Machine learning (ML) methods for network anomaly detection are emerging as effective proactive strategies in threat hunting, substantially reducing the time required for threat detection and response. However, the challenges in training and maintaining ML models, coupled with frequent false positives, diminish their acceptance and trustworthiness. In response, Explainable AI (XAI) techniques have been introduced to enable cybersecurity operations teams to assess alerts generated by AI systems more confidently. Despite these advancements, XAI tools have encountered limited acceptance from incident responders and have struggled to meet the decision-making needs of both analysts and model maintainers. Large Language Models (LLMs) offer a unique approach to tackling these challenges. Through tuning, LLMs have the ability to discern patterns across vast amounts of information and meet var...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "Telecom",
-      "source": "Telecom",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/telecom7030073",
-      "doi": "10.3390/telecom7030073",
-      "pdfUrl": "https://doi.org/10.3390/telecom7030073",
-      "keywords": [
-        "Computer science",
-        "Intrusion detection system",
-        "Anomaly detection",
-        "False positive paradox",
-        "Artificial intelligence",
-        "Network Security and Intrusion Detection",
-        "Information and Cyber Security",
-        "Anomaly Detection Techniques and Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 43,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:51.165620+00:00"
-    },
-    {
-      "id": "openalex-af6666a0b36a",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Conducting Qualitative Interviews with AI",
-      "authors": "Felix Chopra, Ingar Haaland",
-      "abstract": "Qualitative interviews offer rich insights into human behavior, but their lack of scalability has limited their use in economics. This paper introduces and evaluates AI-led interviews as a novel method for collecting qualitative data. Across different economic contexts, a comprehensive set of quality metrics demonstrates the high quality of AI-led interviews. We then demonstrate that AI-led interviews generate thematically richer responses than other survey methods for collecting qualitative data at scale. A decomposition exercise shows that the benefits of AI-led interviews mainly arise from asking dynamic probing questions. Importantly, AI-led interviews make themes visible that would otherwise be unobserved. These themes matter: We show that responses in AI-led interviews are internally valid and predict future behavior six months later. Finally, we demonstrate that AI-led intervie...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "CESifo",
-      "source": "CESifo",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.65864/ch6grwpore",
-      "doi": "10.65864/ch6grwpore",
-      "pdfUrl": "https://www.ifo.de/sites/default/files/docbase/docs/cesifo1_wp10666.pdf",
-      "keywords": [
-        "Generalizability theory",
-        "Qualitative research",
-        "Qualitative property",
-        "Data collection",
-        "Sample (material)",
-        "Sports Analytics and Performance",
-        "Forecasting Techniques and Applications",
-        "Flood Risk Assessment and Management"
-      ],
-      "readTime": "1 min",
-      "citedBy": 27,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:51.167459+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.112875+00:00"
     },
     {
       "id": "openalex-7a70a48faaec",
@@ -3332,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:54.149524+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.696784+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -3364,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:55.986836+00:00"
+      "_retrievedAt": "2026-09-29T12:47:27.912745+00:00"
     },
     {
       "id": "openalex-e83a54581c00",
@@ -3396,11 +3044,11 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:54.149768+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.697084+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
-      "discipline": "cs",
+      "discipline": "bio",
       "type": "paper",
       "title": "Multi-omics and artificial intelligence for precision drug discovery and potential clinical applications",
       "authors": "Yuqing Liu, Kun Zhu, Weijun Peng, Zhaoqian Liu, Xiaoyuan Mao",
@@ -3428,39 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:51.168867+00:00"
-    },
-    {
-      "id": "openalex-c696aff78c58",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Retrieval-augmented generation for natural language processing: a survey",
-      "authors": "Shangyu Wu, Ying Xiong, Yufei Cui, Haolun Wu, Can Chen, Ye Yuan",
-      "abstract": "Large language models (LLMs) have achieved strong empirical performance in various fields, benefiting from their huge amount of parameters that store knowledge. However, LLMs still suffer from several key issues, such as hallucination problems, knowledge update issues, and lacking domain-specific expertise. The appearance of retrieval-augmented generation (RAG), which leverages an external knowledge base to augment LLMs, mitigates these limitations. This paper presents a systematic review of RAG techniques for natural language processing (NLP), with a focus on retrievers and retrieval fusions. We introduce a novel taxonomy of retrieval fusions, such as query-based, logits-based, latent, and parametric fusion, and provide structured comparisons across accessibility, efficiency, and use cases. The paper further examines RAG applications across diverse NLP tasks, discusses evaluation met...",
-      "date": "2026-06-01",
-      "year": 2026,
-      "journal": "Artificial Intelligence Review",
-      "source": "Artificial Intelligence Review",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s10462-026-11605-7",
-      "doi": "10.1007/s10462-026-11605-7",
-      "pdfUrl": "https://doi.org/10.1007/s10462-026-11605-7",
-      "keywords": [
-        "Computer science",
-        "Natural language processing",
-        "Natural (archaeology)",
-        "Natural language generation",
-        "Artificial intelligence",
-        "Topic Modeling",
-        "Natural Language Processing Techniques",
-        "language"
-      ],
-      "readTime": "1 min",
-      "citedBy": 25,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:51.167711+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.112387+00:00"
     },
     {
       "id": "openalex-33d4ca0564d8",
@@ -3492,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:54.148956+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.696081+00:00"
     },
     {
       "id": "openalex-d767b74ad31a",
@@ -3524,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:54.151230+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.698966+00:00"
     },
     {
       "id": "openalex-93ba88b6125e",
@@ -3556,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T05:39:54.151573+00:00"
+      "_retrievedAt": "2026-09-29T12:47:25.699402+00:00"
     }
   ]
 };
