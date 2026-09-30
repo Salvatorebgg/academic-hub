@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-09-29T22:12:02.975530+00:00",
+  "generatedAt": "2026-09-30T05:28:15.754260+00:00",
   "total": 111,
   "sources": [
     "RSS",
@@ -7,13 +7,333 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
+      "id": "rss-d25e3233e645",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Simulated ultrasound images help develop better cardiovascular diagnostics",
+      "authors": "Medical Xpress",
+      "abstract": "Which of these two ultrasound images is real? Daniek van Aarle regularly posed that question to audiences of ultrasound researchers at scientific conferences. On Sept. 29, she defended her Ph.D. research on computer-generated, or virtual, ultrasound images that are almost indistinguishable from real ones. One image came from a patient, while the other was generated entirely by a computer.",
+      "date": "2026-09-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-simulated-ultrasound-images-cardiovascular-diagnostics.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "ultrasound",
+        "images",
+        "real",
+        "that",
+        "simulated",
+        "help",
+        "develop",
+        "better"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-30T05:28:14.948679+00:00"
+    },
+    {
+      "id": "rss-d3068938e09a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Multimorbidity identified in most Japanese home care patients",
+      "authors": "Medical Xpress",
+      "abstract": "As Japan's population ages, more older adults are receiving home-based medical care, in which physicians regularly visit patients who have difficulty going to clinics or hospitals. Although multimorbidity has long been common among home care patients, few studies have assessed its prevalence in this population.",
+      "date": "2026-09-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-multimorbidity-japanese-home-patients.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "care",
+        "patients",
+        "multimorbidity",
+        "home",
+        "population",
+        "have",
+        "identified",
+        "most"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-30T05:28:14.948882+00:00"
+    },
+    {
+      "id": "rss-5005a2b8faba",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Can exercise do more harm than good? Mini-heart research is uncovering new answers",
+      "authors": "Medical Xpress",
+      "abstract": "\"Exercise is medicine\" is a commonly quoted phrase. But as is so often the case with medications, more is not always better. What counts as too much exercise, and how can it affect the heart? Does running a marathon or competing in an Ironman triathlon boost your health, or might it do the opposite? The development of the Micro-Athlete mini-heart (a heart-on-a-chip that mimics the human heart) is giving researchers valuable new insights into cardiovascular disease.",
+      "date": "2026-09-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-good-mini-heart-uncovering.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "exercise",
+        "more",
+        "mini-heart",
+        "heart",
+        "harm",
+        "than",
+        "good",
+        "uncovering"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-30T05:28:14.949093+00:00"
+    },
+    {
+      "id": "rss-4f4d4d976e5b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Global survey reveals major variation in the measurement of bone and mineral metabolism biomarkers",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers from the International Osteoporosis Foundation (IOF) and International Federation of Clinical Chemistry and Laboratory Medicine (IFCC) Joint Committee on Bone Metabolism published a study examining self-reported practices among laboratories that measure bone status indices (BSIs) in blood tests. Published Aug. 7, 2026, in Clinical Chemistry and Laboratory Medicine, the study collected 231 responses from 41 countries. The findings show substantial variation in global BSI laboratory practices that limits data sharing, test standardization and clinical impact.",
+      "date": "2026-09-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-global-survey-reveals-major-variation.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "bone",
+        "clinical",
+        "laboratory",
+        "global",
+        "variation",
+        "metabolism",
+        "international",
+        "chemistry"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-30T05:28:14.949308+00:00"
+    },
+    {
+      "id": "rss-27119ac05329",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Exercise program supports better attention and slows biological aging in breast cancer survivors",
+      "authors": "Medical Xpress",
+      "abstract": "One in three breast cancer survivors will experience cognitive problems, which can include difficulties with attention, memory, processing speed and other aspects of thinking. Researchers believe these problems can arise from a combination of treatment effects, inflammation, hormonal changes, fatigue and stress. They may persist after treatment and affect everyday activities and quality of life.",
+      "date": "2026-09-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-attention-biological-aging-breast-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "attention",
+        "breast",
+        "cancer",
+        "survivors",
+        "problems",
+        "treatment",
+        "exercise",
+        "program"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-30T05:28:14.949500+00:00"
+    },
+    {
+      "id": "rss-52e658a64809",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Cell network reveals how pancreatic cancer drives muscle and fat loss",
+      "authors": "Medical Xpress",
+      "abstract": "Research published today in Cell identifies three small subclusters of cells that drive pancreatic cancer-induced cachexia, a muscle-wasting and fat-loss condition that makes patients less able to tolerate cancer treatment. The study, led by the University of Oklahoma, could help researchers develop treatments targeting these subclusters.",
+      "date": "2026-09-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-cell-network-reveals-pancreatic-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cell",
+        "pancreatic",
+        "cancer",
+        "subclusters",
+        "that",
+        "network",
+        "reveals",
+        "drives"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-30T05:28:14.949686+00:00"
+    },
+    {
+      "id": "rss-08326bf281fc",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "A weekly session of isometric exercise training may maintain lower blood pressure",
+      "authors": "Medical Xpress",
+      "abstract": "Reductions in blood pressure may be maintained over the short term with just one or two sessions of isometric exercise training a week, research published online in the journal BMJ Open Sport & Exercise Medicine suggests.",
+      "date": "2026-09-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-weekly-session-isometric-blood-pressure.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "exercise",
+        "isometric",
+        "training",
+        "blood",
+        "pressure",
+        "weekly",
+        "session",
+        "maintain"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-30T05:28:14.949846+00:00"
+    },
+    {
+      "id": "rss-87b0164ed3f6",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Night owls may struggle to continue working until official retirement age",
+      "authors": "Medical Xpress",
+      "abstract": "People with evening chronotypes are 1.7 times as likely as morning chronotypes to retire early and receive a disability pension, according to research published online in the journal Occupational & Environmental Medicine.",
+      "date": "2026-09-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-night-owls-struggle-age.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "chronotypes",
+        "night",
+        "owls",
+        "struggle",
+        "continue",
+        "working",
+        "until",
+        "official"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-30T05:28:14.949999+00:00"
+    },
+    {
+      "id": "rss-de2dc7ac06ce",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Colder air temperatures may significantly increase fluid pressure inside the eye in people with glaucoma",
+      "authors": "Medical Xpress",
+      "abstract": "Lower air temperatures may be associated with an increase in the fluid pressure inside the eye—a major cause of glaucoma—and should be considered when treating patients with the condition, according to findings published online in the British Journal of Ophthalmology.",
+      "date": "2026-09-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-colder-air-temperatures-significantly-fluid.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "temperatures",
+        "increase",
+        "fluid",
+        "pressure",
+        "inside",
+        "glaucoma",
+        "colder",
+        "significantly"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-30T05:28:14.950182+00:00"
+    },
+    {
+      "id": "rss-7c12c020eb9f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Resistance gene helps C. difficile spores survive hospital-grade disinfectants",
+      "authors": "Medical Xpress",
+      "abstract": "Antibiotic resistance is supercharging dangerous gut bacteria to withstand even hospital-grade disinfectants intended to kill them.",
+      "date": "2026-09-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-resistance-gene-difficile-spores-survive.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "resistance",
+        "hospital-grade",
+        "disinfectants",
+        "gene",
+        "helps",
+        "difficile",
+        "spores",
+        "survive"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-30T05:28:14.950322+00:00"
+    },
+    {
       "id": "rss-808fe6ef3bdc",
       "discipline": "clinical",
       "type": "news",
       "title": "Blueberries can modify the gut microbiome in older adults with mild depression",
       "authors": "Medical Xpress",
       "abstract": "A new pilot study found that older, sedentary adults who consumed blueberries daily showed a greater, more consistent reduction in depressive symptoms, along with minor changes in markers of gut microbial enzymes.",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.614868+00:00"
+      "_retrievedAt": "2026-09-30T05:28:14.950471+00:00"
     },
     {
       "id": "rss-ffeceb796460",
@@ -45,7 +365,7 @@ window.LIVE_FEED_DATA = {
       "title": "Exercise as medicine—how exercise protects joints in aging-related osteoarthritis",
       "authors": "Medical Xpress",
       "abstract": "Researchers at Mass General Brigham have found that moderate-intensity exercise alters circulating extracellular vesicles in ways that promote cartilage health and tissue resilience, identifying microRNA-29 as a key mediator that improved characteristics of aged cartilage cells and reduced signs of joint degeneration.",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.615193+00:00"
+      "_retrievedAt": "2026-09-30T05:28:14.950685+00:00"
     },
     {
       "id": "rss-44568e19c546",
@@ -77,7 +397,7 @@ window.LIVE_FEED_DATA = {
       "title": "Early complications common in older kidney transplant recipients",
       "authors": "Medical Xpress",
       "abstract": "Early complications are common in older kidney transplant recipients, according to a study published in the October issue of Transplantation Direct.",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.615421+00:00"
+      "_retrievedAt": "2026-09-30T05:28:14.950827+00:00"
     },
     {
       "id": "rss-f4d92929ca95",
@@ -109,7 +429,7 @@ window.LIVE_FEED_DATA = {
       "title": "Tiny blood clots help guide blood flow as placenta develops, mouse study finds",
       "authors": "Medical Xpress",
       "abstract": "During pregnancy, the human embryo is initially supplied with nutrients through the yolk sac; later, the placenta takes over this role. It consists of maternal and embryonic tissue, through whose blood vessels the mother's blood flows. An interdisciplinary research team at Hannover Medical School (MHH) has demonstrated in a mouse model that tiny, localized blood clots at the interface between maternal and embryonic tissue play an important regulatory role during placental development.",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,327 +452,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.615716+00:00"
+      "_retrievedAt": "2026-09-30T05:28:14.951021+00:00"
     },
     {
-      "id": "rss-e8f4deb8a77a",
-      "discipline": "clinical",
+      "id": "rss-4fafc24d53a6",
+      "discipline": "cs",
       "type": "news",
-      "title": "1997 to 2022 saw an increase in pediatric hospitalizations with acute kidney injury",
-      "authors": "Medical Xpress",
-      "abstract": "From 1997 to 2022, the absolute number and rate of pediatric hospitalizations complicated by acute kidney injury (AKI) and AKI requiring dialysis (AKI-D) increased, according to a study published online Sept. 22 in JAMA Network Open.",
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "authors": "TechCrunch AI",
+      "abstract": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
       "date": "2026-09-29",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-pediatric-hospitalizations-acute-kidney-injury.html",
+      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "pediatric",
-        "hospitalizations",
-        "acute",
-        "kidney",
-        "injury",
-        "increase",
-        "absolute",
-        "number"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.615948+00:00"
-    },
-    {
-      "id": "rss-7dda3230d6d1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Emergency room intervention pairs smartphone and telehealth counseling to reduce risky firearm behavior",
-      "authors": "Medical Xpress",
-      "abstract": "Among U.S. teens and young adults, firearm violence accounts for about 65,000 emergency department visits annually, and 60% of all firearm deaths in this age group result from interpersonal violence.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-emergency-room-intervention-pairs-smartphone.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "firearm",
-        "emergency",
-        "violence",
-        "room",
-        "intervention",
-        "pairs",
-        "smartphone",
-        "telehealth"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.616215+00:00"
-    },
-    {
-      "id": "rss-5b69735c49f2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Microplastics clog liver immune cells, driving fat buildup in mice",
-      "authors": "Medical Xpress",
-      "abstract": "Microplastics appear capable of significantly impairing the function of phagocytes in the liver, at least in mice. In turn, this disrupts the metabolism of this vital organ and increases the build-up of fat inside it. These key findings from a joint German-Austrian study led by the University of Bonn, have now been published in the journal Nature Metabolism.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-microplastics-clog-liver-immune-cells.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "microplastics",
-        "liver",
-        "mice",
-        "this",
-        "metabolism",
-        "clog",
-        "immune",
-        "cells"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.616474+00:00"
-    },
-    {
-      "id": "rss-70dfb6ef2e9e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New opioid up to 10 times stronger than fentanyl spreading across US",
-      "authors": "Medical Xpress",
-      "abstract": "A powerful new lab-made opioid is moving through the illegal U.S. drug supply, and federal officials warn it could keep spreading.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-opioid-stronger-fentanyl.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "opioid",
-        "spreading",
-        "times",
-        "stronger",
-        "than",
-        "fentanyl",
-        "across",
-        "powerful"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.616686+00:00"
-    },
-    {
-      "id": "rss-9cae984d1393",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Childhood trauma doubles depression risk in adulthood, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "A recent analysis of the German National Cohort (NAKO) shows that people who experienced trauma such as abuse or neglect during their childhood or adolescence were around twice as likely to develop depression in adulthood. The links were particularly pronounced in cases of emotional abuse and neglect. The gender differences in depression appeared to be linked primarily to the fact that women were more frequently exposed to certain forms of distressing childhood experiences, rather than to a greater susceptibility of women to their psychological consequences",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-childhood-trauma-depression-adulthood.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "childhood",
-        "depression",
-        "were",
-        "trauma",
-        "adulthood",
+        "america",
         "that",
-        "abuse",
-        "neglect"
+        "gets",
+        "really",
+        "weird",
+        "when",
+        "about",
+        "minecraft"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.616999+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.001936+00:00"
     },
     {
-      "id": "rss-6201b3260b87",
-      "discipline": "clinical",
+      "id": "rss-bbe082f77caa",
+      "discipline": "cs",
       "type": "news",
-      "title": "Low-cost platform maps gene activity and metabolites in the same tissue sample",
-      "authors": "Medical Xpress",
-      "abstract": "Spatial transcriptomics (ST) shows which genes are being expressed and where within a tissue. Spatial metabolomics (SM), on the other hand, maps the location of metabolites—small molecules produced or used by cells—within tissue.",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "authors": "TechCrunch AI",
+      "abstract": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
       "date": "2026-09-29",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-platform-gene-metabolites-tissue-sample.html",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "tissue",
-        "maps",
-        "metabolites",
-        "spatial",
-        "within",
-        "low-cost",
-        "platform",
-        "gene"
+        "elon",
+        "musk",
+        "openai",
+        "dots",
+        "internet",
+        "convinced",
+        "trolled",
+        "launch"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.617252+00:00"
-    },
-    {
-      "id": "rss-71bca21f9924",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Severe withdrawal cases point to growing medetomidine use",
-      "authors": "Medical Xpress",
-      "abstract": "A powerful veterinary sedative, medetomidine, is increasingly appearing in street supplies of the already deadly opioid fentanyl, and the number of patients suffering from medetomidine withdrawal has quadrupled in recent years, according to a new analysis by researchers at the Perelman School of Medicine at the University of Pennsylvania.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-severe-cases-medetomidine.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "medetomidine",
-        "withdrawal",
-        "severe",
-        "cases",
-        "point",
-        "growing",
-        "powerful",
-        "veterinary"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.617492+00:00"
-    },
-    {
-      "id": "rss-42e5b61ead87",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Anti-cancer molecules show promise in the fight against malaria",
-      "authors": "Medical Xpress",
-      "abstract": "Molecules known for their anticancer activity have proven effective against Plasmodium falciparum, the parasite that causes malaria. Researchers at the University of São Paulo's School of Pharmaceutical Sciences (FCF-USP) in Brazil also investigated how differences in the molecules' structure affect their impact on the parasite. The research paves the way for more effective drugs.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-anti-cancer-molecules-malaria.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "molecules",
-        "against",
-        "malaria",
-        "their",
-        "effective",
-        "parasite",
-        "anti-cancer",
-        "show"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.617755+00:00"
-    },
-    {
-      "id": "rss-976c33fb6fea",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "High-performance AI expands electrocardiogram analysis across medical tasks",
-      "authors": "Medical Xpress",
-      "abstract": "Conventional AI models in medicine are usually trained for a single, narrowly defined task, such as detecting a specific cardiac arrhythmia. So-called foundation models take a different approach: Much like a language model such as ChatGPT develops a comprehensive understanding of text, an ECG foundation model learns to \"understand\" the heart signal in all its diversity. It can then apply that knowledge to many medical questions—including those for which only limited specific training data is available. This is a decisive advantage, especially in medicine.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-high-ai-electrocardiogram-analysis-medical.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "medical",
-        "medicine",
-        "such",
-        "specific",
-        "foundation",
-        "high-performance",
-        "expands",
-        "electrocardiogram"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.618084+00:00"
-    },
-    {
-      "id": "rss-469d15956078",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Detecting diseases through body odor? New laser technology shows potential for non-invasive diagnostics",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at the Fraunhofer Institute for Integrated Circuits IIS and the Technical University of Dresden have tested a new approach for investigating disease-related changes in body odor. Using laser-based photoacoustic spectroscopy, they analyzed volatile organic compounds in simple body swabs. An initial study revealed differences between samples from healthy individuals and those from people with Parkinson's disease, COVID-19, and other diseases. The results, published in Scientific Reports, demonstrate the method's potential for faster preliminary screenings in the future.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-diseases-body-odor-laser-technology.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "body",
-        "diseases",
-        "odor",
-        "potential",
-        "detecting",
-        "laser",
-        "technology",
-        "shows"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.618378+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.002108+00:00"
     },
     {
       "id": "rss-b89619396161",
@@ -484,13 +548,13 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.634118+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.002238+00:00"
     },
     {
-      "id": "rss-f3204bfe5d9b",
+      "id": "rss-2e4aad274d2f",
       "discipline": "cs",
       "type": "news",
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
       "authors": "TechCrunch AI",
       "abstract": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
       "date": "2026-09-29",
@@ -498,13 +562,13 @@ window.LIVE_FEED_DATA = {
       "journal": "TechCrunch AI",
       "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "round",
         "openai",
-        "repotedly",
+        "reportedly",
         "talks",
         "raise",
         "valuation",
@@ -516,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.634335+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.002342+00:00"
     },
     {
       "id": "rss-e2644940687c",
@@ -548,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.634523+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.002456+00:00"
     },
     {
       "id": "rss-e4b6da53b684",
@@ -580,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.634706+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.002585+00:00"
     },
     {
       "id": "rss-f1c2b5ff9e36",
@@ -588,7 +652,7 @@ window.LIVE_FEED_DATA = {
       "type": "news",
       "title": "AI-powered app maker Wabi pivots to a messaging experience",
       "authors": "TechCrunch AI",
-      "abstract": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      "abstract": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
       "date": "2026-09-29",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -612,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.634873+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.002692+00:00"
     },
     {
       "id": "rss-7c4ddd8d66a9",
@@ -644,71 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.635076+00:00"
-    },
-    {
-      "id": "rss-b092a6980b61",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-      "authors": "TechCrunch AI",
-      "abstract": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "openai",
-        "chatgpt",
-        "plugins",
-        "automations",
-        "expands",
-        "app-like",
-        "interfaces",
-        "expanding"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.635255+00:00"
-    },
-    {
-      "id": "rss-4b7ad87a7b6e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "authors": "TechCrunch AI",
-      "abstract": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "gpt-",
-        "openai",
-        "says",
-        "launches",
-        "nearly",
-        "matches",
-        "astra",
-        "costs"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.635438+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.002793+00:00"
     },
     {
       "id": "rss-216fd7b087e1",
@@ -716,7 +716,7 @@ window.LIVE_FEED_DATA = {
       "type": "news",
       "title": "OpenAI gives Codex reusable cloud environments that work across devices",
       "authors": "TechCrunch AI",
-      "abstract": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+      "abstract": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
       "date": "2026-09-29",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -740,7 +740,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.635606+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.002902+00:00"
+    },
+    {
+      "id": "rss-e68a116ca27c",
+      "discipline": "cs",
+      "type": "news",
+      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "openai",
+        "chatgpt",
+        "plug-ins",
+        "automations",
+        "expands",
+        "app-like",
+        "interfaces",
+        "expanding"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-30T05:28:15.003012+00:00"
+    },
+    {
+      "id": "rss-4b7ad87a7b6e",
+      "discipline": "cs",
+      "type": "news",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "gpt-",
+        "openai",
+        "says",
+        "launches",
+        "nearly",
+        "matches",
+        "astra",
+        "costs"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-30T05:28:15.003121+00:00"
     },
     {
       "id": "rss-3bf2c76dcec2",
@@ -772,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.635771+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.003228+00:00"
     },
     {
       "id": "rss-e42511a20da3",
@@ -804,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.635926+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.003330+00:00"
     },
     {
       "id": "rss-5cff8f24f0a3",
@@ -836,71 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.636179+00:00"
-    },
-    {
-      "id": "rss-7d57b033ed1e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Meta is expanding its AI agent Muse to small businesses",
-      "authors": "TechCrunch AI",
-      "abstract": "The tech giant says the agent can help owners run their business and find new customers.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "agent",
-        "meta",
-        "expanding",
-        "muse",
-        "small",
-        "businesses",
-        "tech",
-        "giant"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.636330+00:00"
-    },
-    {
-      "id": "rss-6bfdf828ad42",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "authors": "TechCrunch AI",
-      "abstract": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "openai",
-        "apologizes",
-        "australia",
-        "after",
-        "agents",
-        "breached",
-        "government",
-        "sites"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.636490+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.003459+00:00"
     },
     {
       "id": "rss-93b8d56ba100",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.681514+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.143993+00:00"
     },
     {
       "id": "rss-d2d5303f2df6",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.681707+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.144124+00:00"
     },
     {
       "id": "rss-0f5454e2985b",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.681884+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.144241+00:00"
     },
     {
       "id": "rss-975ad9b8aec5",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.682107+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.144344+00:00"
     },
     {
       "id": "rss-a7d777e1fbd3",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.815252+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.535897+00:00"
     },
     {
       "id": "rss-9c55cfccdd04",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.682269+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.144440+00:00"
     },
     {
       "id": "rss-15bfac0aca91",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.682446+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.144577+00:00"
     },
     {
       "id": "rss-c6dd1d7e00a5",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.682617+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.144714+00:00"
     },
     {
       "id": "rss-2eaa3a09d482",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.682796+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.144832+00:00"
     },
     {
       "id": "rss-a969e28ae72b",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.815864+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.536347+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.816261+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.536622+00:00"
     },
     {
       "id": "rss-4d47532c7c63",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.816538+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.536824+00:00"
     },
     {
       "id": "rss-bf9122547ba1",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.817047+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.537181+00:00"
     },
     {
       "id": "rss-38146f5c87bf",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.682947+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.144929+00:00"
     },
     {
       "id": "rss-188abdd7fd48",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.817296+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.537339+00:00"
     },
     {
       "id": "rss-a74392b37559",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.683139+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.145032+00:00"
     },
     {
       "id": "rss-040fa3bc1672",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.683290+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.145129+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.508916+00:00"
+      "_retrievedAt": "2026-09-30T05:28:07.228324+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.817767+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.537502+00:00"
     },
     {
       "id": "rss-b0ad43b43ecb",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.818114+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.537649+00:00"
     },
     {
       "id": "rss-3975041a07bd",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.683457+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.145239+00:00"
     },
     {
       "id": "rss-d4de56183b8d",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.683614+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.145341+00:00"
     },
     {
       "id": "rss-7dcdb7c08293",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.683780+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.145450+00:00"
     },
     {
       "id": "rss-0aa9231559e8",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.819013+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.538069+00:00"
     },
     {
       "id": "rss-4bb6898d3482",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:12:02.819697+00:00"
+      "_retrievedAt": "2026-09-30T05:28:15.538451+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.512230+00:00"
+      "_retrievedAt": "2026-09-30T05:28:07.230439+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.506907+00:00"
+      "_retrievedAt": "2026-09-30T05:28:07.226820+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.895852+00:00"
+      "_retrievedAt": "2026-09-30T05:28:08.572237+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.465468+00:00"
+      "_retrievedAt": "2026-09-30T05:28:09.632412+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.797534+00:00"
+      "_retrievedAt": "2026-09-30T05:28:10.583042+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.893733+00:00"
+      "_retrievedAt": "2026-09-30T05:28:08.570775+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.510878+00:00"
+      "_retrievedAt": "2026-09-30T05:28:07.229533+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.894469+00:00"
+      "_retrievedAt": "2026-09-30T05:28:08.571288+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.894807+00:00"
+      "_retrievedAt": "2026-09-30T05:28:08.571522+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.797903+00:00"
+      "_retrievedAt": "2026-09-30T05:28:10.583307+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.511232+00:00"
+      "_retrievedAt": "2026-09-30T05:28:07.229761+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.892207+00:00"
+      "_retrievedAt": "2026-09-30T05:28:08.569677+00:00"
     },
     {
       "id": "openalex-7a85bfe0ead2",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.798321+00:00"
+      "_retrievedAt": "2026-09-30T05:28:10.583582+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.794073+00:00"
+      "_retrievedAt": "2026-09-30T05:28:10.580470+00:00"
     },
     {
       "id": "openalex-cc20596fdff7",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.896203+00:00"
+      "_retrievedAt": "2026-09-30T05:28:08.572462+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.794440+00:00"
+      "_retrievedAt": "2026-09-30T05:28:10.580769+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.508528+00:00"
+      "_retrievedAt": "2026-09-30T05:28:07.228035+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.468683+00:00"
+      "_retrievedAt": "2026-09-30T05:28:09.634099+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.893177+00:00"
+      "_retrievedAt": "2026-09-30T05:28:08.570369+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.896499+00:00"
+      "_retrievedAt": "2026-09-30T05:28:08.572680+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.511560+00:00"
+      "_retrievedAt": "2026-09-30T05:28:07.229998+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.507394+00:00"
+      "_retrievedAt": "2026-09-30T05:28:07.227173+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2436,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.895162+00:00"
+      "_retrievedAt": "2026-09-30T05:28:08.571747+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2468,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.463435+00:00"
+      "_retrievedAt": "2026-09-30T05:28:09.631174+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2500,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.798621+00:00"
+      "_retrievedAt": "2026-09-30T05:28:10.583794+00:00"
     },
     {
       "id": "openalex-4a46ff2c29ce",
@@ -2532,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.798983+00:00"
+      "_retrievedAt": "2026-09-30T05:28:10.584048+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -2564,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.796300+00:00"
+      "_retrievedAt": "2026-09-30T05:28:10.582143+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2596,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.896831+00:00"
+      "_retrievedAt": "2026-09-30T05:28:08.572925+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2628,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.796684+00:00"
+      "_retrievedAt": "2026-09-30T05:28:10.582426+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2660,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.795494+00:00"
+      "_retrievedAt": "2026-09-30T05:28:10.581542+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2692,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.894096+00:00"
+      "_retrievedAt": "2026-09-30T05:28:08.571023+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -2724,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.510295+00:00"
+      "_retrievedAt": "2026-09-30T05:28:07.229315+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -2756,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.794798+00:00"
+      "_retrievedAt": "2026-09-30T05:28:10.581040+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -2788,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.799438+00:00"
+      "_retrievedAt": "2026-09-30T05:28:10.584386+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2820,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.464401+00:00"
+      "_retrievedAt": "2026-09-30T05:28:09.631907+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2852,7 +2852,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.509667+00:00"
+      "_retrievedAt": "2026-09-30T05:28:07.228880+00:00"
+    },
+    {
+      "id": "openalex-5a31a7e0a2f8",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "L2 Selves, Control-Value Appraisals, and Engagement in AI-Supported Informal Digital Learning of English: An SEM and fsQCA Approach",
+      "authors": "Xueheng Zhou, Honggang Liu",
+      "abstract": "This study examined learner engagement in AI-supported informal digital learning of English (IDLE) by integrating L2 selves and control-value appraisals within a Control-Value Theory framework. Drawing on data from 653 Chinese university students, the study employed structural equation modeling (SEM) to test the associations among ideal L2 self, ought-to L2 self, control appraisal, intrinsic value appraisal, extrinsic value appraisal, and learner engagement. It further used fuzzy-set qualitative comparative analysis (fsQCA) to identify configurational pathways associated with high engagement. The SEM results showed that both ideal L2 self and ought-to L2 self were positively associated with the three types of control-value appraisals, which were in turn positively associated with engagement. Mediation analysis indicated that control appraisal, intrinsic value appraisal, and extrinsic...",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Journal of Intelligence",
+      "source": "Journal of Intelligence",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/jintelligence14070127",
+      "doi": "10.3390/jintelligence14070127",
+      "pdfUrl": "https://www.mdpi.com/2079-3200/14/7/127/pdf?version=1782885273",
+      "keywords": [
+        "Structural equation modeling",
+        "Mediation",
+        "Qualitative comparative analysis",
+        "Psychology",
+        "Value (mathematics)",
+        "Innovative Teaching and Learning Methods",
+        "Psychometric Methodologies and Testing",
+        "Second Language Learning and Teaching"
+      ],
+      "readTime": "1 min",
+      "citedBy": 18,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-30T05:28:07.230665+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2884,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.895524+00:00"
+      "_retrievedAt": "2026-09-30T05:28:08.572004+00:00"
     },
     {
       "id": "openalex-10ad267fea93",
@@ -2916,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.466632+00:00"
+      "_retrievedAt": "2026-09-30T05:28:09.633277+00:00"
     },
     {
       "id": "openalex-33e8cda96b3e",
@@ -2948,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.467059+00:00"
+      "_retrievedAt": "2026-09-30T05:28:09.633560+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2980,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.507735+00:00"
+      "_retrievedAt": "2026-09-30T05:28:07.227431+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -3012,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.509361+00:00"
+      "_retrievedAt": "2026-09-30T05:28:07.228653+00:00"
     },
     {
       "id": "openalex-5cd132793914",
@@ -3044,7 +3076,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.468993+00:00"
+      "_retrievedAt": "2026-09-30T05:28:09.634305+00:00"
+    },
+    {
+      "id": "openalex-c3aaf692321e",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Hyperpolarization of [1‐ 13 C]Ketoisocaproate‐d 2 by Reversible Exchange with Parahydrogen Enables Profiling of Branched‐Chain‐Amino‐Acid Metabolism in Cellulo and in Vivo",
+      "authors": "Stefan Petersen, Philipp R. Groß, Paul M. Schmidt, Henri de Maissin, Asitan Rittinger, Robert Willing",
+      "abstract": "ABSTRACT Hyperpolarized 1 3 C magnetic resonance imaging (MRI) is the only method to image metabolic fluxes in real time, non‐invasively, and in vivo. To date, however, most studies have used [1‐ 1 3 C]pyruvate and dynamic nuclear polarization (dDNP). Here, we establish efficient hyperpolarization (HP) of protio and partially‐deuterated [1‐ 1 3 C]ketoisocaproate (KIC) using Spin‐Lock‐Induced‐Crossing‐Signal Amplification by Reversible Exchange (SLIC‐SABRE), a high‐throughput, uncomplex and low‐cost method based on parahydrogen. We demonstrate 13 C polarization up to ≈28% and T 1 relaxation times > 200 s at 1 T in methanol‐d 4 . A rapid purification procedure allowed us to obtain biocompatible formulations with ≈11% 13 C polarization at the time of injection, sufficient for in cellulo and in vivo studies. We found that branched‐chain‐amino‐acid transaminase (BCAT) activity leads to HP...",
+      "date": "2026-06-23",
+      "year": 2026,
+      "journal": "Advanced Science",
+      "source": "Advanced Science",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1002/advs.76213",
+      "doi": "10.1002/advs.76213",
+      "pdfUrl": "https://doi.org/10.1002/advs.76213",
+      "keywords": [
+        "Hyperpolarization (physics)",
+        "In vivo",
+        "Chemistry",
+        "Spin isomers of hydrogen",
+        "Polarization (electrochemistry)",
+        "Advanced NMR Techniques and Applications",
+        "Advanced MRI Techniques and Applications",
+        "Electron Spin Resonance Studies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-30T05:28:09.634597+00:00"
     },
     {
       "id": "openalex-bb50663ea11d",
@@ -3076,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.797137+00:00"
+      "_retrievedAt": "2026-09-30T05:28:10.582756+00:00"
     },
     {
       "id": "openalex-a29127dc905f",
@@ -3108,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.465116+00:00"
+      "_retrievedAt": "2026-09-30T05:28:09.632153+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -3140,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.464042+00:00"
+      "_retrievedAt": "2026-09-30T05:28:09.631638+00:00"
     },
     {
       "id": "openalex-771740d27607",
@@ -3172,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.467424+00:00"
+      "_retrievedAt": "2026-09-30T05:28:09.633819+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -3204,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.795119+00:00"
+      "_retrievedAt": "2026-09-30T05:28:10.581263+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -3236,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.893404+00:00"
+      "_retrievedAt": "2026-09-30T05:28:08.570527+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -3268,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.508155+00:00"
+      "_retrievedAt": "2026-09-30T05:28:07.227756+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -3300,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.509950+00:00"
+      "_retrievedAt": "2026-09-30T05:28:07.229080+00:00"
     },
     {
       "id": "openalex-7a70a48faaec",
@@ -3332,7 +3396,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.465839+00:00"
+      "_retrievedAt": "2026-09-30T05:28:09.632700+00:00"
+    },
+    {
+      "id": "openalex-797c77e03bf0",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Advancements in machine learning and deep learning for early detection and management of mental health disorder",
+      "authors": "Kamala Devi Kannan, Senthil Kumar Jagatheesaperumal, Kandala N. V. P. S. Rajesh, Mojtaba Lotfaliany, Roohallah Alizadehsanid, Mohammadreza Mohebbi",
+      "abstract": "For the early identification, diagnosis, and treatment of mental health illnesses, the integration of deep learning (DL) and machine learning (ML) have started playing a significant role. By evaluating complex data from imaging, genetics, and behavioral assessments, these technologies have the potential to improve clinical results significantly. However, they also present unique challenges relating to data integration and ethical issues. The development of ML and DL methods for the early diagnosis and treatment of mental health issues is reviewed in this survey. It examines a range of applications, with a particular emphasis on behavioral assessments, genetic and biomarker analysis, and medical imaging for the diagnosis of diseases like depression, bipolar disorder, and schizophrenia. Predictive modeling for illness development is further discussed in the review, focusing on the funct...",
+      "date": "2026-06-08",
+      "year": 2026,
+      "journal": "Journal of Affective Disorders Reports",
+      "source": "Journal of Affective Disorders Reports",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.jadr.2026.101100",
+      "doi": "10.1016/j.jadr.2026.101100",
+      "pdfUrl": "https://doi.org/10.1016/j.jadr.2026.101100",
+      "keywords": [
+        "Deep learning",
+        "Mental health",
+        "Artificial intelligence",
+        "Psychology",
+        "Computer science",
+        "Mental Health Research Topics",
+        "Digital Mental Health Interventions",
+        "learning"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-30T05:28:09.634828+00:00"
+    },
+    {
+      "id": "openalex-832c670000df",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Emerging perspectives in proteostasis: bridging mechanisms and therapeutics for human diseases",
+      "authors": "Ankush Borlepawar, Marco Neu, Ziqi Ma, Anushka Deshpande, Hannah Bühringer, Parvana Hajieva",
+      "abstract": "Cellular protein homeostasis, or proteostasis, underpins the integrity, adaptability, and survival of all cells by balancing protein synthesis, folding, trafficking, and degradation. This multilayered network is sustained by coordinated actions of molecular chaperones, the ubiquitin‒proteasome system, autophagy-lysosomal pathways, and organelle-specific quality control programs. When this equilibrium collapses, misfolded, aggregated, or damaged proteins accumulate, driving organelle dysfunction, maladaptive stress signaling, and disease progression. Disruption of proteostasis is now recognized as a unifying pathological hallmark linking neurodegenerative disorders, cancer, cardiovascular and metabolic diseases, and autoimmune conditions. This is particularly consequential in post-mitotic organs such as the heart and brain, which possess limited regenerative capacity and are exceptiona...",
+      "date": "2026-06-08",
+      "year": 2026,
+      "journal": "Signal Transduction and Targeted Therapy",
+      "source": "Signal Transduction and Targeted Therapy",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41392-026-02714-4",
+      "doi": "10.1038/s41392-026-02714-4",
+      "pdfUrl": "https://www.nature.com/articles/s41392-026-02714-4.pdf",
+      "keywords": [
+        "Proteostasis",
+        "Biology",
+        "Disease",
+        "Autophagy",
+        "Computational biology",
+        "Autophagy in Disease and Therapy",
+        "Ubiquitin and proteasome pathways",
+        "Endoplasmic Reticulum Stress and Disease"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-09-30T05:28:09.635099+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -3364,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.795876+00:00"
+      "_retrievedAt": "2026-09-30T05:28:10.581845+00:00"
     },
     {
       "id": "openalex-e83a54581c00",
@@ -3396,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.466170+00:00"
+      "_retrievedAt": "2026-09-30T05:28:09.632931+00:00"
     },
     {
       "id": "openalex-ea6425ec53d9",
@@ -3428,135 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.511915+00:00"
-    },
-    {
-      "id": "openalex-c696aff78c58",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Retrieval-augmented generation for natural language processing: a survey",
-      "authors": "Shangyu Wu, Ying Xiong, Yufei Cui, Haolun Wu, Can Chen, Ye Yuan",
-      "abstract": "Large language models (LLMs) have achieved strong empirical performance in various fields, benefiting from their huge amount of parameters that store knowledge. However, LLMs still suffer from several key issues, such as hallucination problems, knowledge update issues, and lacking domain-specific expertise. The appearance of retrieval-augmented generation (RAG), which leverages an external knowledge base to augment LLMs, mitigates these limitations. This paper presents a systematic review of RAG techniques for natural language processing (NLP), with a focus on retrievers and retrieval fusions. We introduce a novel taxonomy of retrieval fusions, such as query-based, logits-based, latent, and parametric fusion, and provide structured comparisons across accessibility, efficiency, and use cases. The paper further examines RAG applications across diverse NLP tasks, discusses evaluation met...",
-      "date": "2026-06-01",
-      "year": 2026,
-      "journal": "Artificial Intelligence Review",
-      "source": "Artificial Intelligence Review",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s10462-026-11605-7",
-      "doi": "10.1007/s10462-026-11605-7",
-      "pdfUrl": "https://doi.org/10.1007/s10462-026-11605-7",
-      "keywords": [
-        "Computer science",
-        "Natural language processing",
-        "Natural (archaeology)",
-        "Natural language generation",
-        "Artificial intelligence",
-        "Topic Modeling",
-        "Natural Language Processing Techniques",
-        "language"
-      ],
-      "readTime": "1 min",
-      "citedBy": 25,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:58.510583+00:00"
-    },
-    {
-      "id": "openalex-33d4ca0564d8",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "EHA Guidelines on management of chronic lymphocytic leukemia and Richter transformation",
-      "authors": "Barbara F. Eichhorst, Paolo Ghia, Francesc Bosch, Ruth Clifford, Michael Gregor, Romain Guièze",
-      "abstract": "Previous editions of the European guidelines for the management of chronic lymphocytic leukemia (CLL) were developed by experts in CLL under the auspices of the European Society for Medical Oncology (ESMO). These previous editions have served as a reference text for many physicians caring for patients with CLL. The current, 2026 edition, represents the new, updated guidelines that, for the first time (and in agreement with ESMO), were written on behalf of the European Hematology Association (EHA), which will be solely responsible for subsequent editions, published annually to keep pace of the fast-moving field of CLL research and clinical applications. The new guidelines support approaching the management of CLL in a more holistic fashion, from the initial diagnosis (including active surveillance) to treatment need, with particular emphasis on the interplay between disease- and patien...",
-      "date": "2026-06-01",
-      "year": 2026,
-      "journal": "HemaSphere",
-      "source": "HemaSphere",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/hem3.70403",
-      "doi": "10.1002/hem3.70403",
-      "pdfUrl": "https://doi.org/10.1002/hem3.70403",
-      "keywords": [
-        "Medicine",
-        "Guideline",
-        "Chronic lymphocytic leukemia",
-        "Obinutuzumab",
-        "Venetoclax",
-        "Chronic Lymphocytic Leukemia Research",
-        "Phagocytosis and Immune Regulation",
-        "Chronic Myeloid Leukemia Treatments"
-      ],
-      "readTime": "1 min",
-      "citedBy": 12,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.464762+00:00"
-    },
-    {
-      "id": "openalex-d767b74ad31a",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Targeting Fibroblast Activation Protein with [177Lu]Lu-FAP-2286 in Patients with Advanced Solid Tumors in the Phase I LuMIERE Trial",
-      "authors": "Jonathan McConathy, Vadim S. Koshkin, Yusuf Menda, Jordi Ahnert Rodon, Ajit Harishkumar Goenka, Ryan H. Moy",
-      "abstract": "PURPOSE: Fibroblast activation protein (FAP) is an attractive target for radiopharmaceutical therapy. Phase I of the LuMIERE study (ClinicalTrials.gov, NCT04939610) investigated the safety of [177Lu]Lu-FAP-2286 (177Lu-FAP-2286) in heavily pretreated patients with advanced solid tumors and identified the recommended phase II dosage (RP2D). PATIENTS AND METHODS: LuMIERE is a prospective, open-label, nonrandomized, phase I/II, multicenter study. Phase I followed a Bayesian optimal interval design evaluating four escalating activity levels of 177Lu-FAP-2286 (3.70, 5.55, 7.40, and 9.25 GBq). Patients were selected by positive [68Ga]Ga-FAP-2286 (68Ga-FAP-2286, also known as [68Ga]Ga-HKG301) PET/CT imaging on all target lesions [maximum standardized uptake value (SUVmax) ≥1.5× SUVmean of mediastinal blood pool]. 177Lu-FAP-2286 was administered intravenously every 6 weeks for ≤6 cycles. The p...",
-      "date": "2026-06-01",
-      "year": 2026,
-      "journal": "Clinical Cancer Research",
-      "source": "Clinical Cancer Research",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1158/1078-0432.ccr-25-4356",
-      "doi": "10.1158/1078-0432.ccr-25-4356",
-      "pdfUrl": "https://doi.org/10.1158/1078-0432.ccr-25-4356",
-      "keywords": [
-        "Medicine",
-        "Response Evaluation Criteria in Solid Tumors",
-        "Adverse effect",
-        "Clinical endpoint",
-        "Internal medicine",
-        "Peptidase Inhibition and Analysis",
-        "Radiopharmaceutical Chemistry and Applications",
-        "Orthopedic Infections and Treatments"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.467840+00:00"
-    },
-    {
-      "id": "openalex-93ba88b6125e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Nanomedicine in 2026: Illustrative Quantitative Analyses of EPR Heterogeneity, Clinical Trial Attrition, and Emerging Horizons for Active Nanotherapeutics",
-      "authors": "Sayed Mortaza Fayez",
-      "abstract": "2026 is a turning point for nanomedicine, marking the field's transition from decades of preclinical promise toward tangible clinical impact. This narrative review provides a forward-oriented synthesis of the most significant clinical breakthroughs achieved during 2025-2026, critically examines persistent barriers to clinical translation, and projects future horizons for the coming decade. To support the discussion, the review includes illustrative quantitative analyses drawn from selected published data: a comparison of EPR effect heterogeneity across human and murine tumors (23 studies, 412 patients), a funnel of nanomedicine clinical trials extracted from ClinicalTrials.gov (847 trials, 2010-2020), a comparative overview of regulatory guidance from four major agencies, and a simplified life-cycle assessment of three nanomedicine classes. These analyses are intended to highlight tre...",
-      "date": "2026-06-01",
-      "year": 2026,
-      "journal": "International Journal of Nanomedicine",
-      "source": "International Journal of Nanomedicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.2147/ijn.s618407",
-      "doi": "10.2147/ijn.s618407",
-      "pdfUrl": "https://www.dovepress.com/article/download/116224",
-      "keywords": [
-        "Nanomedicine",
-        "Clinical trial",
-        "Nanotechnology",
-        "Drug delivery",
-        "Medicine",
-        "Nanoplatforms for cancer theranostics",
-        "Nanoparticle-Based Drug Delivery",
-        "Radiopharmaceutical Chemistry and Applications"
-      ],
-      "readTime": "2 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-29T22:11:59.468304+00:00"
+      "_retrievedAt": "2026-09-30T05:28:07.230256+00:00"
     }
   ]
 };
