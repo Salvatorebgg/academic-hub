@@ -1,11 +1,235 @@
 {
-  "generatedAt": "2026-10-01T05:46:47.935101+00:00",
-  "total": 113,
+  "generatedAt": "2026-10-01T13:07:10.792314+00:00",
+  "total": 112,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-e29071aef490",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Single psilocybin dose linked to increased social exploration in OCD mouse model",
+      "authors": "Medical Xpress",
+      "abstract": "Obsessive–compulsive disorder (OCD) is a psychiatric condition characterized by recurrent obsessions, or unwanted thoughts, typically accompanied by repeated actions that seem difficult to control, also known as compulsions. While there are various treatments for OCD, not all patients respond well to them.",
+      "date": "2026-10-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-psilocybin-dose-linked-social-exploration.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "single",
+        "psilocybin",
+        "dose",
+        "linked",
+        "increased",
+        "social",
+        "exploration",
+        "mouse"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T13:07:10.274134+00:00"
+    },
+    {
+      "id": "rss-14c0df6767de",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New research links declines in ED pediatric readiness to thousands of child deaths",
+      "authors": "Medical Xpress",
+      "abstract": "A new study published in JAMA Pediatrics provides evidence that being prepared to care for children in an emergency—and staying prepared over time—can be a matter of life and death.",
+      "date": "2026-10-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-links-declines-ed-pediatric-readiness.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "prepared",
+        "links",
+        "declines",
+        "pediatric",
+        "readiness",
+        "thousands",
+        "child",
+        "deaths"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T13:07:10.274389+00:00"
+    },
+    {
+      "id": "rss-a6589db22791",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Chemistry professors' patent detects amino acid linked to M.S., rheumatoid arthritis, cancer",
+      "authors": "Medical Xpress",
+      "abstract": "More than a decade of work by two University of Wisconsin-Stout Polytechnic faculty members and their student researchers has led to a newly patented process that allows for the easy detection of an amino acid linked to multiple sclerosis, rheumatoid arthritis and potentially cancer.",
+      "date": "2026-10-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-chemistry-professors-patent-amino-acid.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "amino",
+        "acid",
+        "linked",
+        "rheumatoid",
+        "arthritis",
+        "cancer",
+        "chemistry",
+        "professors"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T13:07:10.274620+00:00"
+    },
+    {
+      "id": "rss-8f7771ac31d8",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Clinical trial provides preliminary evidence of blood-pressure effect from feijoa",
+      "authors": "Medical Xpress",
+      "abstract": "The world's first clinical trial of feijoa has provided preliminary evidence that the fruit reduces blood pressure during weight loss. The unexpected finding was incidental to studying feijoa's potential for preventing type 2 diabetes, says Dr. Ibrahim Mohamed, of the University of Auckland's Human Nutrition Unit.",
+      "date": "2026-10-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-clinical-trial-preliminary-evidence-blood.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "feijoa",
+        "clinical",
+        "trial",
+        "preliminary",
+        "evidence",
+        "provides",
+        "blood-pressure",
+        "effect"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T13:07:10.274864+00:00"
+    },
+    {
+      "id": "rss-c527bdb96035",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Think you're protected? New research shows how perceptions of immunity shape vaccine decisions",
+      "authors": "Medical Xpress",
+      "abstract": "When it's time for another vaccine, many people may ask themselves a familiar question: Do I really need another one? The answer may depend, at least in part, on how protected they think they already are.",
+      "date": "2026-10-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-youre-perceptions-immunity-vaccine-decisions.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "think",
+        "protected",
+        "vaccine",
+        "another",
+        "they",
+        "shows",
+        "perceptions",
+        "immunity"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T13:07:10.275075+00:00"
+    },
+    {
+      "id": "rss-1e02c6191733",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Children with a common genetic variant may have more inflammation in response to an asthma drug",
+      "authors": "Medical Xpress",
+      "abstract": "Children with a variant in the SERPINE1 gene—which is found in 60% of the population—may be less responsive to mepolizumab, a drug used to treat asthma flares, according to a study published in the Journal of Allergy and Clinical Immunology.",
+      "date": "2026-10-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-children-common-genetic-variant-inflammation.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "children",
+        "variant",
+        "asthma",
+        "drug",
+        "common",
+        "genetic",
+        "have",
+        "more"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T13:07:10.275307+00:00"
+    },
+    {
+      "id": "rss-9bc341be473c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Pennsylvania records a fifth measles death as the nation endures its worst year since 1991",
+      "authors": "Medical Xpress",
+      "abstract": "Pennsylvania health officials reported a fifth measles-associated death Wednesday as the U.S. endures its worst year for the disease since 1991.",
+      "date": "2026-10-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-pennsylvania-measles-death-nation-worst.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "pennsylvania",
+        "fifth",
+        "death",
+        "endures",
+        "worst",
+        "year",
+        "since",
+        "records"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T13:07:10.275495+00:00"
+    },
     {
       "id": "rss-61c10bad6d53",
       "discipline": "clinical",
@@ -36,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.538998+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.275799+00:00"
     },
     {
       "id": "rss-c8ff92365864",
@@ -68,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.539280+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.276018+00:00"
     },
     {
       "id": "rss-d503d498b40a",
@@ -100,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.539519+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.276211+00:00"
     },
     {
       "id": "rss-7d44b6ec13e5",
@@ -132,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.539785+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.276440+00:00"
     },
     {
       "id": "rss-7bd51db42c6b",
@@ -164,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.540029+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.276640+00:00"
     },
     {
       "id": "rss-dc277c919b9a",
@@ -196,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.540371+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.276930+00:00"
     },
     {
       "id": "rss-347bbdf02d30",
@@ -228,231 +452,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.540676+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.277199+00:00"
     },
     {
-      "id": "rss-31f05c781b2e",
-      "discipline": "clinical",
+      "id": "rss-1b6b16b576aa",
+      "discipline": "cs",
       "type": "news",
-      "title": "New database brings together 392 million food safety records to track changing risks across Europe",
-      "authors": "Medical Xpress",
-      "abstract": "Around 392 million results from decades of European food safety monitoring have been brought together in a publicly available database developed by researchers from the HOLiFOOD project.",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "authors": "TechCrunch AI",
+      "abstract": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
       "date": "2026-10-01",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-database-million-food-safety-track.html",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "database",
-        "together",
-        "million",
-        "food",
-        "safety",
-        "brings",
-        "records",
-        "track"
+        "satlyt",
+        "spacex",
+        "satellites",
+        "founded",
+        "former",
+        "google",
+        "product",
+        "manager"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.540903+00:00"
-    },
-    {
-      "id": "rss-088d893a6db1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Almost 95% of viral Korean skincare and 'glass skin' TikTok videos contain misleading claims, new study shows",
-      "authors": "Medical Xpress",
-      "abstract": "Almost 95% of viral Korean skin care and \"glass skin\" TikTok videos contained at least one potentially misleading claim, while basic safety information was largely absent, according to new research presented today at the European Academy of Dermatology and Venereology (EADV) Congress 2026.",
-      "date": "2026-10-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-viral-korean-skincare-glass-skin.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "skin",
-        "almost",
-        "viral",
-        "korean",
-        "glass",
-        "tiktok",
-        "videos",
-        "misleading"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.541144+00:00"
-    },
-    {
-      "id": "rss-fc525b4c0369",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Lower vertebral bone mineral density linked to cognitive decline",
-      "authors": "Medical Xpress",
-      "abstract": "Lower vertebral bone mineral density (vBMD) is associated with changes in brain structure and cognition among older adults, according to a study published online in Radiology.",
-      "date": "2026-10-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-vertebral-bone-mineral-density-linked.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "lower",
-        "vertebral",
-        "bone",
-        "mineral",
-        "density",
-        "linked",
-        "cognitive",
-        "decline"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.541380+00:00"
-    },
-    {
-      "id": "rss-9f8c39c5fba5",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Experimental drug may reduce lymphedema swelling and scarring",
-      "authors": "Medical Xpress",
-      "abstract": "Matthew Holbreich was a senior in college when the swelling started. He originally thought he had injured his left leg playing squash, but the intensity of the swelling scared him. After seeing a few doctors in Boston, where he was living at the time, he eventually was referred to Stanford Medicine's Stanley Rockson, M.D. A trip across the country resulted in a new diagnosis: lymphedema, a condition in which excess lymph fluid accumulates in a patient's arms or legs rather than draining through the lymphatic system into the bloodstream as it should.",
-      "date": "2026-10-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-experimental-drug-lymphedema-scarring.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "swelling",
-        "lymphedema",
-        "experimental",
-        "drug",
-        "reduce",
-        "scarring",
-        "matthew",
-        "holbreich"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.541665+00:00"
-    },
-    {
-      "id": "rss-0e3e9636e492",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Women are and will be the predominant users of GLP-1 users, but research gaps remain critical",
-      "authors": "Medical Xpress",
-      "abstract": "The second of a Series of papers presented at the Annual Meeting of The European Association for the Study of Diabetes (EASD) in Milan, Italy (Sept 28—Oct 2) and published in The Lancet Obstetrics, Gynaecology & Women's Health discusses the wide-ranging issues relating to use of GLP-1 RA drug use in women. The authors, that include Professor Paul Franks, Lund University, Helsingborg Hospital, Helsingborg, Sweden and Professor Claire Meek, Leicester Diabetes Research Centre and Leicester NIHR Biomedical Research Centre, Leicester, UK and colleagues, issue a call to action to improve the evidence based across the board for GLP-1 RA use in women worldwide.",
-      "date": "2026-10-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-women-predominant-users-glp-gaps.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "women",
-        "glp-",
-        "leicester",
-        "users",
-        "diabetes",
-        "professor",
-        "helsingborg",
-        "centre"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.542004+00:00"
-    },
-    {
-      "id": "rss-4c7789237cbc",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Living environment and lifestyle factors may accelerate biological aging in early adulthood",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers from the Faculty of Sport and Health Sciences at the University of Jyväskylä, Finland, found that biological aging may accelerate as early as young adulthood. In addition to lifestyle factors, environmental exposures and living environments may contribute to faster biological aging.",
-      "date": "2026-10-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-environment-lifestyle-factors-biological-aging.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "biological",
-        "aging",
-        "living",
-        "lifestyle",
-        "factors",
-        "accelerate",
-        "early",
-        "adulthood"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.542273+00:00"
-    },
-    {
-      "id": "rss-0ed3cc934df9",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Late-pregnancy placental problems associated with higher ADHD risk",
-      "authors": "Medical Xpress",
-      "abstract": "Attention-deficit/hyperactivity disorder (ADHD) in children may be associated with problems with placental health during late pregnancy, according to a new study by University of Iowa Health Care researchers. The findings, published in JAMA Psychiatry, help identify a risk factor in pregnancy that is linked to ADHD in children and potentially point to new treatment targets for ADHD.",
-      "date": "2026-10-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-late-pregnancy-placental-problems-higher.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "adhd",
-        "placental",
-        "problems",
-        "associated",
-        "risk",
-        "children",
-        "health",
-        "pregnancy"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.542531+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.334558+00:00"
     },
     {
       "id": "rss-09b5c1427490",
@@ -484,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.616540+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.334768+00:00"
     },
     {
       "id": "rss-3b20de470284",
@@ -516,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.616773+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.334920+00:00"
     },
     {
       "id": "rss-e017c57015d4",
@@ -548,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.616959+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.335073+00:00"
     },
     {
       "id": "rss-3286084d72a3",
@@ -580,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.617113+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.335197+00:00"
     },
     {
       "id": "rss-6254b0478e83",
@@ -612,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.617296+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.335325+00:00"
     },
     {
       "id": "rss-8d5071c5ebef",
@@ -644,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.617470+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.335457+00:00"
     },
     {
       "id": "rss-3ba9aded8da0",
@@ -676,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.617666+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.335617+00:00"
     },
     {
       "id": "rss-a50645ac3c68",
@@ -708,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.617824+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.335743+00:00"
     },
     {
       "id": "rss-da82ac03f09f",
@@ -740,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.617989+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.335897+00:00"
     },
     {
       "id": "rss-c33f0599b1b9",
@@ -772,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.618159+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.336036+00:00"
     },
     {
       "id": "rss-04e4e6d158fe",
@@ -804,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.618393+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.336204+00:00"
     },
     {
       "id": "rss-0a6d72f14ea3",
@@ -836,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.618571+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.336349+00:00"
     },
     {
       "id": "rss-bf7583fd6895",
@@ -868,39 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.618737+00:00"
-    },
-    {
-      "id": "rss-c927b33c653e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Airbnb adds AI search, more social features",
-      "authors": "TechCrunch AI",
-      "abstract": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
-      "date": "2026-09-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "airbnb",
-        "adds",
-        "search",
-        "more",
-        "social",
-        "features",
-        "also",
-        "launching"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.618879+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.336486+00:00"
     },
     {
       "id": "rss-2b529d97fb90",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.693797+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.476211+00:00"
     },
     {
       "id": "rss-6cc50e6c3036",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.693979+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.476376+00:00"
     },
     {
       "id": "rss-0333c77565a0",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.775078+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.650838+00:00"
     },
     {
       "id": "rss-93b8d56ba100",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.694165+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.476540+00:00"
     },
     {
       "id": "rss-d2d5303f2df6",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.694376+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.476684+00:00"
     },
     {
       "id": "rss-0f5454e2985b",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.694542+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.476843+00:00"
     },
     {
       "id": "rss-975ad9b8aec5",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.694692+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.476968+00:00"
     },
     {
       "id": "rss-a7d777e1fbd3",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.775610+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.651334+00:00"
     },
     {
       "id": "rss-9c55cfccdd04",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.694840+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.477089+00:00"
     },
     {
       "id": "rss-15bfac0aca91",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.695010+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.477234+00:00"
     },
     {
       "id": "rss-c6dd1d7e00a5",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.695176+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.477370+00:00"
     },
     {
       "id": "rss-2eaa3a09d482",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.695385+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.477519+00:00"
     },
     {
       "id": "rss-a969e28ae72b",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.776196+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.651932+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.776573+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.652263+00:00"
     },
     {
       "id": "rss-4d47532c7c63",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.776845+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.652511+00:00"
     },
     {
       "id": "rss-bf9122547ba1",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.777330+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.652973+00:00"
     },
     {
       "id": "rss-38146f5c87bf",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.695538+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.477648+00:00"
     },
     {
       "id": "rss-188abdd7fd48",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.777553+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.653174+00:00"
     },
     {
       "id": "rss-a74392b37559",
@@ -1508,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.695700+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.477793+00:00"
     },
     {
       "id": "rss-040fa3bc1672",
@@ -1540,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.695852+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.477920+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1572,7 +1572,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:41.658680+00:00"
+      "_retrievedAt": "2026-10-01T13:07:04.708299+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1604,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.777788+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.653390+00:00"
     },
     {
       "id": "rss-b0ad43b43ecb",
@@ -1636,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.777981+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.653562+00:00"
     },
     {
       "id": "rss-3975041a07bd",
@@ -1668,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.696020+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.478061+00:00"
     },
     {
       "id": "rss-0aa9231559e8",
@@ -1700,7 +1700,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:47.778592+00:00"
+      "_retrievedAt": "2026-10-01T13:07:10.654152+00:00"
+    },
+    {
+      "id": "openalex-e5b9509ab88b",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "LLM-powered socially assistive robot-delivered cognitive behavioral therapy exercises: an exploratory study with university students",
+      "authors": "Mina Kian, Mingyu Zong, Katrin Fischer, Abhyuday Singh, Anna-Maria Velentza, Amy O'Connell",
+      "abstract": "Mental health is a significant healthcare challenge, and cognitive behavioral therapy (CBT) is a widely used therapeutic method for treating anxiety and depression. However, traditional CBT often requires access to trained clinicians and can be cost-prohibitive or logistically difficult for many individuals. To address these barriers, we developed a low-cost socially assistive robot (SAR) that uses a large language model (LLM) to guide the user through interactive at-home CBT exercises. In this exploratory study, 38 university students completed CBT exercises across a 15-day period using one of three modalities: with a robot (using an LLM for dialogue), a chatbot (using the same LLM for dialogue), or traditional CBT worksheets. We measured weekly therapeutic outcomes, changes in pre-/post-session anxiety measures, and adherence to completing CBT exercises. Our findings indicate that s...",
+      "date": "2026-09-09",
+      "year": 2026,
+      "journal": "Frontiers in Robotics and AI",
+      "source": "Frontiers in Robotics and AI",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/frobt.2026.1802622",
+      "doi": "10.3389/frobt.2026.1802622",
+      "pdfUrl": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1802622/pdf",
+      "keywords": [
+        "Chatbot",
+        "Anxiety",
+        "Cognitive behavioral therapy",
+        "Exploratory research",
+        "Distress",
+        "Digital Mental Health Interventions",
+        "Social Robot Interaction and HRI",
+        "Mental Health via Writing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 15,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T13:07:04.711423+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1732,7 +1764,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:41.661209+00:00"
+      "_retrievedAt": "2026-10-01T13:07:04.710803+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1764,7 +1796,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:41.656683+00:00"
+      "_retrievedAt": "2026-10-01T13:07:04.706348+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1796,7 +1828,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:42.350341+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.326352+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1828,7 +1860,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.008390+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.908840+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1860,7 +1892,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.577693+00:00"
+      "_retrievedAt": "2026-10-01T13:07:06.242804+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1892,7 +1924,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:42.348040+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.323927+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -1924,7 +1956,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:41.660347+00:00"
+      "_retrievedAt": "2026-10-01T13:07:04.709945+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1956,7 +1988,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:42.348786+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.324606+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1988,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:42.349130+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.324980+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2020,7 +2052,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.578066+00:00"
+      "_retrievedAt": "2026-10-01T13:07:06.243166+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2052,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:41.660646+00:00"
+      "_retrievedAt": "2026-10-01T13:07:04.710241+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2084,7 +2116,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:42.346879+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.322859+00:00"
+    },
+    {
+      "id": "openalex-64bfea83b2bd",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Acquired resistance to the RAS(ON) multi-selective inhibitor daraxonrasib guides rational combination therapy strategies in pancreatic cancer",
+      "authors": "Ida Aronchik, Sumit Kar, Yongxian Zhuang, Ethan Ahler, Lo Lai, Vidya Seshadri",
+      "abstract": "Daraxonrasib is an orally bioavailable RAS(ON) multi-selective tri-complex inhibitor of the oncogenic mutant and wild-type variants of N, H and KRAS. We previously reported encouraging efficacy in a phase 1/2 clinical trial evaluating daraxonrasib monotherapy at clinically active dose levels in patients with previously treated, RAS mutant metastatic pancreatic adenocarcinoma (PDAC), providing the basis for confirmatory evaluation in the randomized phase 3 RASolute 302 clinical trial. Here we report mechanisms of acquired resistance to daraxonrasib monotherapy observed through targeted sequencing of over 800 genes in paired pretreatment and end of treatment circulating tumor DNA samples from 44 patients in the phase 1/2 clinical trial. Treatment-emergent genomic alterations in the RAS signaling pathway were observed in more than half (26 of 44; 59%) of these patients, including, most n...",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04537-w",
+      "doi": "10.1038/s41591-026-04537-w",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04537-w.pdf",
+      "keywords": [
+        "KRAS",
+        "Pancreatic cancer",
+        "Cancer research",
+        "Medicine",
+        "Combination therapy",
+        "Pancreatic and Hepatic Oncology Research",
+        "Pancreatitis Pathology and Treatment",
+        "Lung Cancer Treatments and Mutations"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T13:07:05.326701+00:00"
     },
     {
       "id": "openalex-7a85bfe0ead2",
@@ -2116,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.578474+00:00"
+      "_retrievedAt": "2026-10-01T13:07:06.243511+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2148,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.574193+00:00"
+      "_retrievedAt": "2026-10-01T13:07:06.239497+00:00"
     },
     {
       "id": "openalex-cc20596fdff7",
@@ -2180,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:42.350667+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.327018+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2188,7 +2252,7 @@
       "type": "paper",
       "title": "Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models",
       "authors": "Weijia Zhang, Jindong Han, Zhao Xu, Hang Ni, Tengfei Lyu, Hao Liu",
-      "abstract": "The integration of machine learning techniques has become a cornerstone in the development of intelligent urban services, significantly contributing to the enhancement of urban efficiency, sustainability, and overall livability. Recent advancements in foundational models, such as ChatGPT, have introduced a paradigm shift within the fields of machine learning and artificial intelligence. These models, with their exceptional capacity for contextual comprehension, problem-solving, and task adaptability, present a transformative opportunity to reshape the future of smart cities and drive progress toward Urban General Intelligence (UGI). Despite increasing attention to Urban Foundation Models (UFMs), this rapidly evolving field faces critical challenges, including the lack of clear definitions, systematic reviews, and universalizable solutions. To address these issues, this paper first int...",
+      "abstract": "The integration of machine learning techniques has become a cornerstone in the development of intelligent urban services, significantly contributing to the enhancement of urban efficiency, sustainability, and overall livability. Recent advancements in foundational models, such as ChatGPT, have introduced a paradigm shift within the fields of machine learning and AI. These models, with their exceptional capacity for contextual comprehension, problem-solving, and task adaptability, present a transformative opportunity to reshape the future of smart cities and drive progress toward Urban General Intelligence (UGI). Despite increasing attention to Urban Foundation Models (UFMs), this rapidly evolving field faces critical challenges, including the lack of clear definitions, systematic reviews, and universalizable solutions. To address these issues, this article first introduces the definit...",
       "date": "2026-07-29",
       "year": 2026,
       "journal": "ACM Transactions on Intelligent Systems and Technology",
@@ -2196,7 +2260,7 @@
       "sourceApi": "OpenAlex",
       "url": "https://doi.org/10.1145/3821528",
       "doi": "10.1145/3821528",
-      "pdfUrl": "https://arxiv.org/pdf/2402.01749",
+      "pdfUrl": "https://doi.org/10.1145/3821528",
       "keywords": [
         "Foundation (evidence)",
         "Management science",
@@ -2212,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.574583+00:00"
+      "_retrievedAt": "2026-10-01T13:07:06.239856+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2244,7 +2308,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:41.658292+00:00"
+      "_retrievedAt": "2026-10-01T13:07:04.707917+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2272,11 +2336,11 @@
         "Nutrition and Health in Aging"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.010682+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.909891+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2308,7 +2372,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:42.347485+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.323409+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2340,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:42.350960+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.327287+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2372,7 +2436,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:41.660963+00:00"
+      "_retrievedAt": "2026-10-01T13:07:04.710551+00:00"
+    },
+    {
+      "id": "openalex-1b0263729043",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Personalized cancer vaccines: bridging immune-oncology and precision medicine for advanced therapeutics",
+      "authors": "Leiguang Ye, Guo Zhao, Jiaxiu Ma, Qianqian Gan, Na Luo, Dingyu Pan",
+      "abstract": "Despite advancements in therapeutic cancer vaccines, clinical translation has been hindered by limited efficacy, with Sipuleucel-T remaining the only FDA-approved therapeutic cancer vaccine to date. However, recent advances in personalized mRNA vaccines, such as Moderna's mRNA-4157 and BioNTech's autogene cevumeran, have demonstrated significant reductions in recurrence risk and improved survival across several cancer types, renewing optimism in the field. Personalized cancer vaccines leverage patient-specific tumor antigens to initiate potent and targeted immune responses. This review outlines various classes of personalized vaccines, including DNA-, mRNA-, peptide-, dendritic cell-, and whole-cell-based platforms, and examines the immunological challenges they face, such as tumor heterogeneity, immunosuppressive microenvironments, and inadequate immune memory. To address these limit...",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "Signal Transduction and Targeted Therapy",
+      "source": "Signal Transduction and Targeted Therapy",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41392-026-02769-3",
+      "doi": "10.1038/s41392-026-02769-3",
+      "pdfUrl": "https://www.nature.com/articles/s41392-026-02769-3.pdf",
+      "keywords": [
+        "Precision medicine",
+        "Bridging (networking)",
+        "Medicine",
+        "Personalized medicine",
+        "Precision oncology",
+        "Immunotherapy and Immune Responses",
+        "vaccines and immunoinformatics approaches",
+        "Cancer Immunotherapy and Biomarkers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T13:07:05.911401+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2404,7 +2500,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:41.657131+00:00"
+      "_retrievedAt": "2026-10-01T13:07:04.706804+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2436,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:42.349509+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.325276+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2468,7 +2564,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.007062+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.907285+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2500,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.578781+00:00"
+      "_retrievedAt": "2026-10-01T13:07:06.243805+00:00"
     },
     {
       "id": "openalex-4a46ff2c29ce",
@@ -2532,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.579121+00:00"
+      "_retrievedAt": "2026-10-01T13:07:06.244128+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -2564,71 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.576449+00:00"
-    },
-    {
-      "id": "openalex-46707e85ee4f",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "High temperature Nb-Si alloys using data science: optimization of fracture toughness and high-temperature strength",
-      "authors": "Chao Xu, Dezhi Chen, Xiaofu Zhang, Qi Ming Wang, Jingyue Yu, Shu Wang",
-      "abstract": "Abstract High temperature Nb-Si based alloys face a critical challenge: achieving adequate room-temperature fracture toughness ( > 18 MPa·m 1/2 ) for processing while maintaining high-temperature strength, properties that typically compete with each other. Here, we overcome this inherent trade-off through machine learning-guided alloy design, employing a three-step feature screening strategy to identify 6 key descriptors from 200 initial features. SHAP analysis reveals how melting enthalpy and atomic radius mismatch control property outcomes, enabling targeted multi-objective optimization via NSGA-II algorithm. The optimized Nb-12.26Si-21.35Ti-1.98Al-1.96Cr-0.51Hf-4.34Zr-4.35 V alloy achieves an as-cast fracture toughness of 18.92 MPa·m 1/2 while maintaining 322 MPa strength at 1250 °C, surpassing all reported as-cast Nb-Si alloys. Microstructural analysis shows that the superior prop...",
-      "date": "2026-07-10",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-75353-6",
-      "doi": "10.1038/s41467-026-75353-6",
-      "pdfUrl": "https://doi.org/10.1038/s41467-026-75353-6",
-      "keywords": [
-        "Materials science",
-        "Fracture toughness",
-        "Alloy",
-        "Deflection (physics)",
-        "Toughness",
-        "Intermetallics and Advanced Alloy Properties",
-        "MXene and MAX Phase Materials",
-        "Titanium Alloys Microstructure and Properties"
-      ],
-      "readTime": "1 min",
-      "citedBy": 15,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:41.661854+00:00"
-    },
-    {
-      "id": "openalex-5d309434b9df",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "InstaNovo-P: a de novo peptide sequencing model for phosphoproteomics",
-      "authors": "Jesper Lauridsen, Vahap Canbay, Rachel Catzel, Pathmanaban Ramasamy, Amandla Mabona, Kevin Eloff",
-      "abstract": "ABSTRACT Phosphorylation, a crucial post-translational modification (PTM), plays a central role in cellular signaling and disease mechanisms. Mass spectrometry-based phosphoproteomics is widely used for system-wide characterization of phosphorylation events. However, traditional methods struggle with accurate phosphorylated site localization, complex search spaces, and detecting sequences outside the reference database. Advances in de novo peptide sequencing offer opportunities to address these limitations, but have yet to become integrated and adapted for phosphoproteomics datasets. Here, we present InstaNovo-P, a phosphorylation specific version of our transformer-based InstaNovo model, fine-tuned on extensive phosphoproteomics datasets. InstaNovo-P significantly surpasses existing methods in phosphorylated peptide detection and phosphorylated site localization accuracy across multi...",
-      "date": "2026-07-10",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-75138-x",
-      "doi": "10.1038/s41467-026-75138-x",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-75138-x_reference.pdf",
-      "keywords": [
-        "Phosphoproteomics",
-        "Computational biology",
-        "Peptide",
-        "Biology",
-        "Chemistry",
-        "Advanced Proteomics Techniques and Applications",
-        "Machine Learning in Bioinformatics",
-        "phosphoproteomics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:42.351331+00:00"
+      "_retrievedAt": "2026-10-01T13:07:06.241608+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2660,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.576837+00:00"
+      "_retrievedAt": "2026-10-01T13:07:06.241988+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2692,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.575642+00:00"
+      "_retrievedAt": "2026-10-01T13:07:06.241219+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2724,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:42.348404+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.324256+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -2756,7 +2788,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:41.660033+00:00"
+      "_retrievedAt": "2026-10-01T13:07:04.709599+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -2788,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.574942+00:00"
+      "_retrievedAt": "2026-10-01T13:07:06.240482+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -2820,7 +2852,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.579595+00:00"
+      "_retrievedAt": "2026-10-01T13:07:06.244545+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2852,39 +2884,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.007677+00:00"
-    },
-    {
-      "id": "openalex-f831f0b2712b",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Breeding drought-tolerant crops for sustainable agriculture",
-      "authors": "Ali Raza, Sidra Charagh, Kadambot H. M. Siddique, Channapatna S. Prakash, P. V. Vara Prasad, R.J. Harper",
-      "abstract": "With the escalating impacts of climate change, drought stress (DS) is significantly decreasing water accessibility and availability, causing substantial direct and indirect economic repercussions within agricultural systems. Addressing the needs of a growing global population necessitates urgent advancements in breeding DS-tolerant crops while maintaining high yields. This urgency demands a fast and adaptable defensive strategy to mitigate the adverse effects of DS on crop productivity. Accelerating such developments requires leveraging advanced omics-assisted breeding (e.g., genomics, transcriptomics, proteomics, and metabolomics), genetic engineering (e.g., transgenic technology, and genome editing), machine learning, precise phenotyping, crop wild relatives, and speed breeding. These fast-forward methods present highly promising avenues for the design of future crops that can withs...",
-      "date": "2026-07-02",
-      "year": 2026,
-      "journal": "Agriculture & Food Security",
-      "source": "Agriculture & Food Security",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s40066-025-00587-4",
-      "doi": "10.1186/s40066-025-00587-4",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s40066-025-00587-4.pdf",
-      "keywords": [
-        "Agriculture",
-        "Sustainable agriculture",
-        "Agroforestry",
-        "Sustainability",
-        "Business",
-        "Genetic and Environmental Crop Studies",
-        "Seed and Plant Biochemistry",
-        "Agricultural pest management studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:42.351655+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.907866+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2916,7 +2916,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:41.659430+00:00"
+      "_retrievedAt": "2026-10-01T13:07:04.709033+00:00"
     },
     {
       "id": "openalex-5a31a7e0a2f8",
@@ -2948,7 +2948,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:41.661527+00:00"
+      "_retrievedAt": "2026-10-01T13:07:04.711084+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2980,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:42.349975+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.325623+00:00"
     },
     {
       "id": "openalex-10ad267fea93",
@@ -3012,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.009558+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.910324+00:00"
     },
     {
       "id": "openalex-33e8cda96b3e",
@@ -3044,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.009929+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.910681+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -3076,7 +3076,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:41.657495+00:00"
+      "_retrievedAt": "2026-10-01T13:07:04.707134+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -3108,7 +3108,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:41.659101+00:00"
+      "_retrievedAt": "2026-10-01T13:07:04.708708+00:00"
+    },
+    {
+      "id": "openalex-9012e812c9de",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Harnessing artificial intelligence in plant breeding: innovations in digital phenotyping and breeding methodologies",
+      "authors": "Nikita Aggarwal, Mukesh Rathore, Farkhandah Jan, Divya Sharma, Sundeep Kumar, Mahendar Thudi",
+      "abstract": "Agriculture plays a crucial role in the development of countries whose economies rely heavily on food production. In the face of climate change and growing global population, plant breeders are challenged to adopt more efficient crop improvement strategies. The advances in artificial intelligence (AI), particularly in large-scale data integration, analysis, and pattern recognition, have revolutionized several scientific disciplines, including plant breeding. In this review, we provide a comprehensive survey of the potential of AI tools in plant breeding with four key objectives: (i) revolutionizing high-throughput phenotyping, (ii) exploring AI-driven breeding methodologies beyond traditional approaches, (iii) optimizing breeding pipelines through improved modelling of genotype × environment × management interactions, and (iv) highlighting the limitations of AI in plant breeding and f...",
+      "date": "2026-06-23",
+      "year": 2026,
+      "journal": "Theoretical and Applied Genetics",
+      "source": "Theoretical and Applied Genetics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1007/s00122-026-05293-8",
+      "doi": "10.1007/s00122-026-05293-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s00122-026-05293-8.pdf",
+      "keywords": [
+        "Plant breeding",
+        "Biotechnology",
+        "Agriculture",
+        "Biology",
+        "Resource (disambiguation)",
+        "Genetic Mapping and Diversity in Plants and Animals",
+        "Smart Agriculture and AI",
+        "Plant Molecular Biology Research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T13:07:05.326041+00:00"
     },
     {
       "id": "openalex-5cd132793914",
@@ -3140,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.010965+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.911668+00:00"
     },
     {
       "id": "openalex-c3aaf692321e",
@@ -3172,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.011372+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.912044+00:00"
     },
     {
       "id": "openalex-bb50663ea11d",
@@ -3204,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.577298+00:00"
+      "_retrievedAt": "2026-10-01T13:07:06.242403+00:00"
     },
     {
       "id": "openalex-a29127dc905f",
@@ -3236,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.008018+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.908196+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -3268,7 +3300,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.007307+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.907494+00:00"
     },
     {
       "id": "openalex-771740d27607",
@@ -3296,11 +3328,11 @@
         "Nanoparticle-Based Drug Delivery"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.010303+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.909173+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -3328,11 +3360,11 @@
         "Remote Sensing in Agriculture"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.575241+00:00"
+      "_retrievedAt": "2026-10-01T13:07:06.240145+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -3364,7 +3396,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:42.347710+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.323608+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -3396,7 +3428,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:41.657901+00:00"
+      "_retrievedAt": "2026-10-01T13:07:04.707528+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -3428,7 +3460,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:41.659706+00:00"
+      "_retrievedAt": "2026-10-01T13:07:04.709296+00:00"
     },
     {
       "id": "openalex-7a70a48faaec",
@@ -3460,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.008761+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.909522+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -3492,71 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.011713+00:00"
-    },
-    {
-      "id": "openalex-a0a876b9f3e5",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Emerging paradigms in nanostructured targeted drug delivery systems",
-      "authors": "Anjum N. Hasnain, Darshan R. Telange",
-      "abstract": "Nanostructured drug delivery systems have emerged as powerful and versatile approaches to overcome the limitations of conventional therapeutic strategies, including poor bioavailability, non-specific distribution, and dose-limiting toxicity. By enabling precise control over particle size, surface characteristics, drug loading, and release kinetics, nanocarriers offer enhanced pharmacokinetic and pharmacodynamic performance, along with improved therapeutic specificity. This comprehensive review critically examines emerging paradigms in Nanostructured drug delivery systems, with a particular focus on design strategies, surface functionalization, and translational potential for targeted therapeutics. The review systematically discusses the fundamental principles governing nanocarrier behavior, including physicochemical characteristics, nano-bio interactions, and pharmacokinetic considera...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "Discover Nano",
-      "source": "Discover Nano",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s11671-026-04685-5",
-      "doi": "10.1186/s11671-026-04685-5",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s11671-026-04685-5.pdf",
-      "keywords": [
-        "Nanocarriers",
-        "Drug delivery",
-        "Nanomedicine",
-        "Nanotechnology",
-        "Targeted drug delivery",
-        "Nanoparticle-Based Drug Delivery",
-        "Advanced Drug Delivery Systems",
-        "Graphene and Nanomaterials Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.012053+00:00"
-    },
-    {
-      "id": "openalex-1f40a2b86295",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "First-line durvalumab in combination with trastuzumab deruxtecan in women with locally advanced unresectable or metastatic, hormone-receptor-negative, HER2-low breast cancer: multicenter, open-label, phase 1b/2 BEGONIA platform trial",
-      "authors": "Peter Schmid, Seock‐Ah Im, Zbigniew Nowecki, Piotr Jan Wysocki, Jacek Jassem, Kyung Hae Jung",
-      "abstract": "Abstract More effective therapies are required for advanced breast cancer. We report results from 58 women with locally advanced unresectable or metastatic hormone-receptor (HR)-negative, human epidermal growth factor receptor 2 (HER2)-low breast cancer enrolled in arm 6 of the multicenter, open-label phase 1b/2 BEGONIA platform trial, who received durvalumab (1,120 mg) plus trastuzumab deruxtecan (T-DXd; 5.4 mg kg −1 ) intravenously every 3 weeks as first-line treatment. Objective response rate (ORR) and safety were primary endpoints; duration of response (DoR), progression-free survival (PFS) and overall survival (OS) were secondary endpoints. Median follow-up was 20.6 months (range: 1–37). ORR was 62.1% (95% confidence interval (CI): 48.4–74.5), which did not meet the protocol-specified objective of 38/57 (66.6%) responses. Median DoR was 15.2 months (95% CI: 8.44–not calculable),...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "Nature Cancer",
-      "source": "Nature Cancer",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s43018-026-01181-8",
-      "doi": "10.1038/s43018-026-01181-8",
-      "pdfUrl": "https://www.nature.com/articles/s43018-026-01181-8.pdf",
-      "keywords": [
-        "Medicine",
-        "Durvalumab",
-        "Trastuzumab",
-        "Oncology",
-        "Internal medicine",
-        "HER2/EGFR in Cancer Research",
-        "Cancer Treatment and Pharmacology",
-        "Advanced Breast Cancer Therapies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.012425+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.912361+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -3584,11 +3552,11 @@
         "Systems Engineering Methodologies and Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.576034+00:00"
+      "_retrievedAt": "2026-10-01T13:07:06.240861+00:00"
     },
     {
       "id": "openalex-e83a54581c00",
@@ -3616,11 +3584,11 @@
         "Dietary Effects on Health"
       ],
       "readTime": "1 min",
-      "citedBy": 7,
+      "citedBy": 8,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-01T05:46:43.009071+00:00"
+      "_retrievedAt": "2026-10-01T13:07:05.908491+00:00"
     }
   ]
 }
