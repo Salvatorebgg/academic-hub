@@ -1,458 +1,490 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-09-30T22:12:14.154088+00:00",
-  "total": 111,
+  "generatedAt": "2026-10-01T05:46:47.935101+00:00",
+  "total": 113,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
     {
-      "id": "rss-c1339484ad41",
+      "id": "rss-61c10bad6d53",
       "discipline": "clinical",
       "type": "news",
-      "title": "Real-world findings suggest GLP-1 drugs offer health benefits for young people with diabetes",
+      "title": "New triple agonist drug produces substantial weight loss in diabetic patients",
       "authors": "Medical Xpress",
-      "abstract": "New research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, from Sept. 28–Oct. 2 examined the real-world use of GLP-1 receptor agonist (GLP-1 RA) drugs in children and young people in Germany, Austria and Luxembourg.",
-      "date": "2026-09-30",
+      "abstract": "New research to be presented at the Annual Meeting of The European Association for the Study of Diabetes (EASD) in Milan, Italy (Sept 28—Oct 2) and appearing in The Lancet shows that treatment with the new triple agonist therapy retatrutide results in substantial weight loss and improvements in blood sugar control in people living with obesity or overweight and type 2 diabetes—a population that has generally experienced less weight loss with obesity medications than people without diabetes.",
+      "date": "2026-10-01",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-real-world-glp-drugs-health.html",
+      "url": "https://medicalxpress.com/news/2026-10-triple-agonist-drug-substantial-weight.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "glp-",
-        "real-world",
-        "drugs",
-        "young",
-        "people",
-        "diabetes",
-        "findings",
-        "suggest"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.566932+00:00"
-    },
-    {
-      "id": "rss-e79a375af691",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Mauritius is the first country to show it is reversing the type 2 diabetes epidemic using gold-standard testing",
-      "authors": "Medical Xpress",
-      "abstract": "New research presented at the Annual Meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2 and published in The Lancet Diabetes & Endocrinology shows that the small island nation of Mauritius is the first country to demonstrate that it is reversing the type 2 diabetes epidemic using the gold-standard two-hour oral glucose tolerance test (2 hour OGTT).",
-      "date": "2026-09-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-mauritius-country-reversing-diabetes-epidemic.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "diabetes",
-        "mauritius",
-        "first",
-        "country",
-        "reversing",
-        "type",
-        "epidemic",
-        "gold-standard"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.567239+00:00"
-    },
-    {
-      "id": "rss-85604925cf91",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Daily pill could offer alternative to insulin injections for diabetes patients at cardiovascular risk",
-      "authors": "Medical Xpress",
-      "abstract": "New research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2, and published in The Lancet shows that, for people with type 2 diabetes at increased cardiovascular risk, a daily orforglipron pill had cardiovascular safety comparable to daily insulin glargine injections while providing greater improvements in weight and blood sugar control. However, gastrointestinal (GI) adverse events were more common with orforglipron, leading to more treatment discontinuations. The study was sponsored by Eli Lilly, the manufacturer of orforglipron.",
-      "date": "2026-09-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-daily-pill-alternative-insulin-diabetes.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "daily",
-        "diabetes",
-        "cardiovascular",
-        "orforglipron",
-        "pill",
-        "insulin",
-        "injections",
-        "risk"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.567568+00:00"
-    },
-    {
-      "id": "rss-b8862da80364",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Nail detachment over four times more common among GLP-1 users, first controlled study finds",
-      "authors": "Medical Xpress",
-      "abstract": "Nail detachment is more than four times as common among people taking GLP-1 receptor agonists as among comparable people with obesity or type 2 diabetes who are not taking the drugs, according to the first controlled study to examine their potential effects on nail health.",
-      "date": "2026-09-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-detachment-common-glp-users.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nail",
-        "among",
-        "detachment",
-        "four",
-        "times",
-        "more",
-        "common",
-        "glp-"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.567790+00:00"
-    },
-    {
-      "id": "rss-b5af3e2639e3",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Trevogrumab (anti-myostatin) can help preserve lean mass during and after semaglutide-induced weight loss",
-      "authors": "Medical Xpress",
-      "abstract": "New research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, Sept. 28–Oct. 2, and in press at The Lancet shows that trevogrumab, which inhibits a protein that negatively regulates muscle mass, can reduce lean mass loss during semaglutide treatment by 50% compared with semaglutide and placebo.",
-      "date": "2026-09-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-trevogrumab-anti-myostatin-mass-semaglutide.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "mass",
-        "trevogrumab",
-        "lean",
-        "during",
+        "weight",
         "loss",
+        "diabetes",
+        "triple",
+        "agonist",
+        "substantial",
         "that",
-        "semaglutide",
-        "anti-myostatin"
+        "people"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.568034+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.538998+00:00"
     },
     {
-      "id": "rss-843d64ad5e01",
+      "id": "rss-c8ff92365864",
       "discipline": "clinical",
       "type": "news",
-      "title": "Serum 25(OH)D may serve as a biomarker of disease activity in IBD",
+      "title": "Research reveals major impact of climate change on skin health worldwide",
       "authors": "Medical Xpress",
-      "abstract": "For patients with inflammatory bowel disease (IBD), serum 25-hydroxyvitamin D (25[OH]D) may serve as a biomarker for disease activity, according to a study published online Sept. 10 in the Journal of Clinical Medicine.",
-      "date": "2026-09-30",
+      "abstract": "More than 40% of countries worldwide have reported climate-related changes in the prevalence, severity or both of skin disease, with lower-income countries disproportionately affected, according to an international study spanning 136 countries.",
+      "date": "2026-10-01",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-serum-25ohd-biomarker-disease-ibd.html",
+      "url": "https://medicalxpress.com/news/2026-09-reveals-major-impact-climate-skin.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "disease",
-        "serum",
-        "serve",
-        "biomarker",
-        "activity",
-        "patients",
-        "inflammatory",
-        "bowel"
+        "countries",
+        "skin",
+        "worldwide",
+        "reveals",
+        "major",
+        "impact",
+        "climate",
+        "change"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.568239+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.539280+00:00"
     },
     {
-      "id": "rss-29ada750a2aa",
+      "id": "rss-d503d498b40a",
       "discipline": "clinical",
       "type": "news",
-      "title": "Combination therapy emerges as possible treatment for an aggressive form of kidney cancer",
+      "title": "COVID fatigue linked to reduced brain blood flow",
       "authors": "Medical Xpress",
-      "abstract": "A genetic vulnerability in clear cell renal cell carcinoma, the most aggressive type of kidney cancer, may lend itself to a combination treatment strategy that causes the cancer cells to self-destruct, according to recent research published in the Proceedings of the National Academy of Sciences.",
-      "date": "2026-09-30",
+      "abstract": "Playing with your children or meeting a friend for coffee are everyday activities that many people move between without giving much thought to how much mental or physical energy they take.",
+      "date": "2026-10-01",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-combination-therapy-emerges-treatment-aggressive.html",
+      "url": "https://medicalxpress.com/news/2026-09-covid-fatigue-linked-brain-blood.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cancer",
-        "combination",
-        "treatment",
-        "aggressive",
-        "kidney",
-        "cell",
-        "therapy",
-        "emerges"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.568478+00:00"
-    },
-    {
-      "id": "rss-ac27bb65aa06",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Two charged in scheme to sell counterfeit Ozempic—how you can spot fake meds",
-      "authors": "Medical Xpress",
-      "abstract": "Federal prosecutors have charged two people in an alleged scheme to bring fake versions of the type 2 diabetes drug Ozempic from China and sell them to U.S. distributors.",
-      "date": "2026-09-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-scheme-counterfeit-ozempic-fake-meds.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "charged",
-        "scheme",
-        "sell",
-        "ozempic",
-        "fake",
-        "counterfeit",
-        "spot",
-        "meds"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.568690+00:00"
-    },
-    {
-      "id": "rss-34d5cde9604d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Precisely timed signals recreate key antibody factory features in human blood cells",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at the University of Osaka have developed a simple culture method that converts B cells isolated from human blood into cells resembling germinal center B cells, which refine antibodies after infection or vaccination.",
-      "date": "2026-09-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-precisely-recreate-key-antibody-factory.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cells",
-        "human",
+        "much",
+        "covid",
+        "fatigue",
+        "linked",
+        "reduced",
+        "brain",
         "blood",
-        "precisely",
-        "timed",
-        "signals",
-        "recreate",
-        "antibody"
+        "flow"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.568890+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.539519+00:00"
     },
     {
-      "id": "rss-6e752b7dcbae",
+      "id": "rss-7d44b6ec13e5",
       "discipline": "clinical",
       "type": "news",
-      "title": "Study shows how music may help tackle addiction",
+      "title": "Long‑acting medicines could make daily tablets a thing of the past for some patients",
       "authors": "Medical Xpress",
-      "abstract": "New research has found evidence that music can alter how the brain processes emotions in people receiving treatment for drug and alcohol addiction and reduce their cravings.",
-      "date": "2026-09-30",
+      "abstract": "For millions of people around the world, managing a long-term health condition means remembering to take medicines every day, often for years. But advances in long-acting medicines mean that some treatments now need to be taken only once a month, every few months or even twice a year.",
+      "date": "2026-10-01",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-music-tackle-addiction.html",
+      "url": "https://medicalxpress.com/news/2026-09-longacting-medicines-daily-tablets-patients.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "music",
-        "addiction",
-        "shows",
-        "help",
-        "tackle",
-        "found",
-        "evidence",
-        "that"
+        "medicines",
+        "some",
+        "every",
+        "long",
+        "acting",
+        "could",
+        "make",
+        "daily"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.569070+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.539785+00:00"
     },
     {
-      "id": "rss-d862dc62cb61",
+      "id": "rss-7bd51db42c6b",
       "discipline": "clinical",
       "type": "news",
-      "title": "HIV patients with cancer must travel farther than others to access clinical trials",
+      "title": "Autonomous AI could create capacity for thousands more dermatology appointments, real-world study finds",
       "authors": "Medical Xpress",
-      "abstract": "For people living with HIV, the road to a promising cancer treatment can be longer than it should be, literally.",
-      "date": "2026-09-30",
+      "abstract": "A real-world study of 8,391 patients found that autonomous artificial intelligence (AI) could free up enough clinical capacity to provide more than 8,500 additional face-to-face dermatology appointments across two U.K. hospitals over 16 months.",
+      "date": "2026-10-01",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-hiv-patients-cancer-access-clinical.html",
+      "url": "https://medicalxpress.com/news/2026-09-autonomous-ai-capacity-thousands-dermatology.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cancer",
-        "than",
-        "patients",
-        "must",
-        "travel",
-        "farther",
-        "others",
-        "access"
+        "autonomous",
+        "could",
+        "capacity",
+        "more",
+        "dermatology",
+        "appointments",
+        "real-world",
+        "create"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.569248+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.540029+00:00"
     },
     {
-      "id": "rss-1d6348fd55e0",
+      "id": "rss-dc277c919b9a",
       "discipline": "clinical",
       "type": "news",
-      "title": "AI-guided light analysis could help assess skin cancer and reduce unnecessary biopsies",
+      "title": "Almost everyone naturally turns left when walking—and we still have no idea why",
       "authors": "Medical Xpress",
-      "abstract": "Skin cancer is the most common cancer in the United States and among the most common worldwide. Nearly 1.5 million new cases were diagnosed globally in 2024, including nearly 340,000 melanomas. Nonmelanoma skin cancers—primarily basal cell carcinoma (BCC) and squamous cell carcinoma (SCC)—are even more common, with 5.4 million cases diagnosed annually in the U.S.",
-      "date": "2026-09-30",
+      "abstract": "This story began, like so many in the history of science, with something we were not looking for. In 2020, during the COVID-19 pandemic, we were studying a practical question: How do people move around in an enclosed space when you ask them to keep apart from one another? Watching the footage time after time, we noticed something odd: Almost every participant walked in loops that turned in the same direction, always counterclockwise. Stranger still, none of them seemed to have noticed they were doing it.",
+      "date": "2026-10-01",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-ai-analysis-skin-cancer-unnecessary.html",
+      "url": "https://medicalxpress.com/news/2026-09-naturally-left-idea.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "were",
+        "almost",
+        "when",
+        "still",
+        "have",
+        "something",
+        "them",
+        "time"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T05:46:47.540371+00:00"
+    },
+    {
+      "id": "rss-347bbdf02d30",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New investigational drug delivers up to 23.3% weight loss in people with obesity and diabetes",
+      "authors": "Medical Xpress",
+      "abstract": "New data from a phase 2b study being presented at the 2026 annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy (Sept. 28–Oct. 2), show that, for people living with obesity and type 2 diabetes, treatment with Eli Lilly's new investigational medication, EloraTZP, a combination of eloralintide and tirzepatide (TZP), resulted in weight loss of up to 23.3% at the maximum dose and accompanying substantial improvements in blood sugar control.",
+      "date": "2026-10-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-drug-weight-loss-people-obesity.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "diabetes",
+        "investigational",
+        "weight",
+        "loss",
+        "people",
+        "obesity",
+        "drug",
+        "delivers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T05:46:47.540676+00:00"
+    },
+    {
+      "id": "rss-31f05c781b2e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New database brings together 392 million food safety records to track changing risks across Europe",
+      "authors": "Medical Xpress",
+      "abstract": "Around 392 million results from decades of European food safety monitoring have been brought together in a publicly available database developed by researchers from the HOLiFOOD project.",
+      "date": "2026-10-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-database-million-food-safety-track.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "database",
+        "together",
+        "million",
+        "food",
+        "safety",
+        "brings",
+        "records",
+        "track"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T05:46:47.540903+00:00"
+    },
+    {
+      "id": "rss-088d893a6db1",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Almost 95% of viral Korean skincare and 'glass skin' TikTok videos contain misleading claims, new study shows",
+      "authors": "Medical Xpress",
+      "abstract": "Almost 95% of viral Korean skin care and \"glass skin\" TikTok videos contained at least one potentially misleading claim, while basic safety information was largely absent, according to new research presented today at the European Academy of Dermatology and Venereology (EADV) Congress 2026.",
+      "date": "2026-10-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-viral-korean-skincare-glass-skin.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "skin",
-        "cancer",
-        "common",
+        "almost",
+        "viral",
+        "korean",
+        "glass",
+        "tiktok",
+        "videos",
+        "misleading"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T05:46:47.541144+00:00"
+    },
+    {
+      "id": "rss-fc525b4c0369",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Lower vertebral bone mineral density linked to cognitive decline",
+      "authors": "Medical Xpress",
+      "abstract": "Lower vertebral bone mineral density (vBMD) is associated with changes in brain structure and cognition among older adults, according to a study published online in Radiology.",
+      "date": "2026-10-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-vertebral-bone-mineral-density-linked.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "lower",
+        "vertebral",
+        "bone",
+        "mineral",
+        "density",
+        "linked",
+        "cognitive",
+        "decline"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T05:46:47.541380+00:00"
+    },
+    {
+      "id": "rss-9f8c39c5fba5",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Experimental drug may reduce lymphedema swelling and scarring",
+      "authors": "Medical Xpress",
+      "abstract": "Matthew Holbreich was a senior in college when the swelling started. He originally thought he had injured his left leg playing squash, but the intensity of the swelling scared him. After seeing a few doctors in Boston, where he was living at the time, he eventually was referred to Stanford Medicine's Stanley Rockson, M.D. A trip across the country resulted in a new diagnosis: lymphedema, a condition in which excess lymph fluid accumulates in a patient's arms or legs rather than draining through the lymphatic system into the bloodstream as it should.",
+      "date": "2026-10-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-experimental-drug-lymphedema-scarring.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "swelling",
+        "lymphedema",
+        "experimental",
+        "drug",
+        "reduce",
+        "scarring",
+        "matthew",
+        "holbreich"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T05:46:47.541665+00:00"
+    },
+    {
+      "id": "rss-0e3e9636e492",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Women are and will be the predominant users of GLP-1 users, but research gaps remain critical",
+      "authors": "Medical Xpress",
+      "abstract": "The second of a Series of papers presented at the Annual Meeting of The European Association for the Study of Diabetes (EASD) in Milan, Italy (Sept 28—Oct 2) and published in The Lancet Obstetrics, Gynaecology & Women's Health discusses the wide-ranging issues relating to use of GLP-1 RA drug use in women. The authors, that include Professor Paul Franks, Lund University, Helsingborg Hospital, Helsingborg, Sweden and Professor Claire Meek, Leicester Diabetes Research Centre and Leicester NIHR Biomedical Research Centre, Leicester, UK and colleagues, issue a call to action to improve the evidence based across the board for GLP-1 RA use in women worldwide.",
+      "date": "2026-10-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-women-predominant-users-glp-gaps.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "women",
+        "glp-",
+        "leicester",
+        "users",
+        "diabetes",
+        "professor",
+        "helsingborg",
+        "centre"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T05:46:47.542004+00:00"
+    },
+    {
+      "id": "rss-4c7789237cbc",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Living environment and lifestyle factors may accelerate biological aging in early adulthood",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers from the Faculty of Sport and Health Sciences at the University of Jyväskylä, Finland, found that biological aging may accelerate as early as young adulthood. In addition to lifestyle factors, environmental exposures and living environments may contribute to faster biological aging.",
+      "date": "2026-10-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-environment-lifestyle-factors-biological-aging.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "biological",
+        "aging",
+        "living",
+        "lifestyle",
+        "factors",
+        "accelerate",
+        "early",
+        "adulthood"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T05:46:47.542273+00:00"
+    },
+    {
+      "id": "rss-0ed3cc934df9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Late-pregnancy placental problems associated with higher ADHD risk",
+      "authors": "Medical Xpress",
+      "abstract": "Attention-deficit/hyperactivity disorder (ADHD) in children may be associated with problems with placental health during late pregnancy, according to a new study by University of Iowa Health Care researchers. The findings, published in JAMA Psychiatry, help identify a risk factor in pregnancy that is linked to ADHD in children and potentially point to new treatment targets for ADHD.",
+      "date": "2026-10-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-09-late-pregnancy-placental-problems-higher.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "adhd",
+        "placental",
+        "problems",
+        "associated",
+        "risk",
+        "children",
+        "health",
+        "pregnancy"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T05:46:47.542531+00:00"
+    },
+    {
+      "id": "rss-09b5c1427490",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "authors": "TechCrunch AI",
+      "abstract": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "date": "2026-09-30",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "gemini",
+        "releases",
+        "argon",
+        "called",
         "most",
-        "nearly",
-        "million",
-        "cases",
-        "diagnosed"
+        "powerful",
+        "released"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.569505+00:00"
-    },
-    {
-      "id": "rss-2d5dcf739aab",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Is your patient chatting with AI? new tool guides psychiatrists on assessing patients' AI use",
-      "authors": "Medical Xpress",
-      "abstract": "As AI chatbots like ChatGPT, Gemini and Claude become everyday tools, more people are turning to them not just for work or education, but for companionship, emotional support and mental health advice. To help doctors navigate this rapidly changing landscape, researchers have introduced a practical guide called the AWARE framework, published by JMIR Publications in the journal JMIR Medical Education.",
-      "date": "2026-09-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-patient-chatting-ai-tool-psychiatrists.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "education",
-        "jmir",
-        "your",
-        "patient",
-        "chatting",
-        "tool",
-        "guides",
-        "psychiatrists"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.569744+00:00"
-    },
-    {
-      "id": "rss-0991f07d43cf",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Feeling sick may reflect widespread changes in brain activity, mouse study suggests",
-      "authors": "Medical Xpress",
-      "abstract": "We are all familiar with that dreaded sensation: whole-body achiness and fatigue, waves of both bone-chilling cold and intense sweating that cause us to pull cozy blankets closer and only moments later kick them away. A loss of appetite turns us off even our favorite foods. This state may stem from any number of infections, but one thing is certain: our brain is telling us we are sick.",
-      "date": "2026-09-30",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-09-sick-widespread-brain-mouse.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "sick",
-        "brain",
-        "that",
-        "feeling",
-        "reflect",
-        "widespread",
-        "changes",
-        "activity"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.569973+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.616540+00:00"
     },
     {
       "id": "rss-3b20de470284",
@@ -484,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.689971+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.616773+00:00"
     },
     {
       "id": "rss-e017c57015d4",
@@ -516,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.690179+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.616959+00:00"
     },
     {
       "id": "rss-3286084d72a3",
@@ -548,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.690317+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.617113+00:00"
     },
     {
       "id": "rss-6254b0478e83",
@@ -580,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.690481+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.617296+00:00"
     },
     {
       "id": "rss-8d5071c5ebef",
@@ -612,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.690622+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.617470+00:00"
     },
     {
       "id": "rss-3ba9aded8da0",
@@ -644,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.690793+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.617666+00:00"
     },
     {
       "id": "rss-a50645ac3c68",
@@ -676,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.690925+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.617824+00:00"
     },
     {
       "id": "rss-da82ac03f09f",
@@ -708,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.691062+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.617989+00:00"
     },
     {
       "id": "rss-c33f0599b1b9",
@@ -740,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.691205+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.618159+00:00"
     },
     {
       "id": "rss-04e4e6d158fe",
@@ -772,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.691390+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.618393+00:00"
     },
     {
       "id": "rss-0a6d72f14ea3",
@@ -804,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.691545+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.618571+00:00"
     },
     {
       "id": "rss-bf7583fd6895",
@@ -836,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.691685+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.618737+00:00"
     },
     {
       "id": "rss-c927b33c653e",
@@ -868,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.691808+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.618879+00:00"
     },
     {
       "id": "rss-2b529d97fb90",
@@ -900,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.726380+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.693797+00:00"
     },
     {
       "id": "rss-6cc50e6c3036",
@@ -932,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.726556+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.693979+00:00"
     },
     {
       "id": "rss-0333c77565a0",
@@ -964,39 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:14.001528+00:00"
-    },
-    {
-      "id": "rss-4fafc24d53a6",
-      "discipline": "cs",
-      "type": "news",
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-      "authors": "TechCrunch AI",
-      "abstract": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-      "date": "2026-09-29",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "america",
-        "that",
-        "gets",
-        "really",
-        "weird",
-        "when",
-        "about",
-        "minecraft"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.691962+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.775078+00:00"
     },
     {
       "id": "rss-93b8d56ba100",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.726723+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.694165+00:00"
     },
     {
       "id": "rss-d2d5303f2df6",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.726873+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.694376+00:00"
     },
     {
       "id": "rss-0f5454e2985b",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.727018+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.694542+00:00"
     },
     {
       "id": "rss-975ad9b8aec5",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.727150+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.694692+00:00"
     },
     {
       "id": "rss-a7d777e1fbd3",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:14.002014+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.775610+00:00"
     },
     {
       "id": "rss-9c55cfccdd04",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.727275+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.694840+00:00"
     },
     {
       "id": "rss-15bfac0aca91",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.727437+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.695010+00:00"
     },
     {
       "id": "rss-c6dd1d7e00a5",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.727583+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.695176+00:00"
     },
     {
       "id": "rss-2eaa3a09d482",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.727732+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.695385+00:00"
     },
     {
       "id": "rss-a969e28ae72b",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:14.002609+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.776196+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:14.002940+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.776573+00:00"
     },
     {
       "id": "rss-4d47532c7c63",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:14.003187+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.776845+00:00"
     },
     {
       "id": "rss-bf9122547ba1",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:14.003654+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.777330+00:00"
     },
     {
       "id": "rss-38146f5c87bf",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.727856+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.695538+00:00"
     },
     {
       "id": "rss-188abdd7fd48",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:14.003847+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.777553+00:00"
     },
     {
       "id": "rss-a74392b37559",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.727985+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.695700+00:00"
     },
     {
       "id": "rss-040fa3bc1672",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.728109+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.695852+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:07.725875+00:00"
+      "_retrievedAt": "2026-10-01T05:46:41.658680+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:14.004054+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.777788+00:00"
     },
     {
       "id": "rss-b0ad43b43ecb",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:14.004222+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.777981+00:00"
     },
     {
       "id": "rss-3975041a07bd",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:13.728248+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.696020+00:00"
     },
     {
       "id": "rss-0aa9231559e8",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:14.004791+00:00"
+      "_retrievedAt": "2026-10-01T05:46:47.778592+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:07.728608+00:00"
+      "_retrievedAt": "2026-10-01T05:46:41.661209+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:07.723993+00:00"
+      "_retrievedAt": "2026-10-01T05:46:41.656683+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.169750+00:00"
+      "_retrievedAt": "2026-10-01T05:46:42.350341+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.546387+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.008390+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.920940+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.577693+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.167751+00:00"
+      "_retrievedAt": "2026-10-01T05:46:42.348040+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:07.727445+00:00"
+      "_retrievedAt": "2026-10-01T05:46:41.660347+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.168450+00:00"
+      "_retrievedAt": "2026-10-01T05:46:42.348786+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.168773+00:00"
+      "_retrievedAt": "2026-10-01T05:46:42.349130+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.921280+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.578066+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:07.727726+00:00"
+      "_retrievedAt": "2026-10-01T05:46:41.660646+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.166247+00:00"
+      "_retrievedAt": "2026-10-01T05:46:42.346879+00:00"
     },
     {
       "id": "openalex-7a85bfe0ead2",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.921648+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.578474+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.917692+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.574193+00:00"
     },
     {
       "id": "openalex-cc20596fdff7",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.170049+00:00"
+      "_retrievedAt": "2026-10-01T05:46:42.350667+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.918029+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.574583+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:07.725504+00:00"
+      "_retrievedAt": "2026-10-01T05:46:41.658292+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.548937+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.010682+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.167205+00:00"
+      "_retrievedAt": "2026-10-01T05:46:42.347485+00:00"
     },
     {
       "id": "openalex-9acebec7e1d9",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.170322+00:00"
+      "_retrievedAt": "2026-10-01T05:46:42.350960+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:07.728031+00:00"
+      "_retrievedAt": "2026-10-01T05:46:41.660963+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:07.724419+00:00"
+      "_retrievedAt": "2026-10-01T05:46:41.657131+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2436,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.169061+00:00"
+      "_retrievedAt": "2026-10-01T05:46:42.349509+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2468,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.544819+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.007062+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2500,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.921915+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.578781+00:00"
     },
     {
       "id": "openalex-4a46ff2c29ce",
@@ -2532,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.922247+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.579121+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -2564,7 +2564,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.919773+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.576449+00:00"
+    },
+    {
+      "id": "openalex-46707e85ee4f",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "High temperature Nb-Si alloys using data science: optimization of fracture toughness and high-temperature strength",
+      "authors": "Chao Xu, Dezhi Chen, Xiaofu Zhang, Qi Ming Wang, Jingyue Yu, Shu Wang",
+      "abstract": "Abstract High temperature Nb-Si based alloys face a critical challenge: achieving adequate room-temperature fracture toughness ( > 18 MPa·m 1/2 ) for processing while maintaining high-temperature strength, properties that typically compete with each other. Here, we overcome this inherent trade-off through machine learning-guided alloy design, employing a three-step feature screening strategy to identify 6 key descriptors from 200 initial features. SHAP analysis reveals how melting enthalpy and atomic radius mismatch control property outcomes, enabling targeted multi-objective optimization via NSGA-II algorithm. The optimized Nb-12.26Si-21.35Ti-1.98Al-1.96Cr-0.51Hf-4.34Zr-4.35 V alloy achieves an as-cast fracture toughness of 18.92 MPa·m 1/2 while maintaining 322 MPa strength at 1250 °C, surpassing all reported as-cast Nb-Si alloys. Microstructural analysis shows that the superior prop...",
+      "date": "2026-07-10",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-75353-6",
+      "doi": "10.1038/s41467-026-75353-6",
+      "pdfUrl": "https://doi.org/10.1038/s41467-026-75353-6",
+      "keywords": [
+        "Materials science",
+        "Fracture toughness",
+        "Alloy",
+        "Deflection (physics)",
+        "Toughness",
+        "Intermetallics and Advanced Alloy Properties",
+        "MXene and MAX Phase Materials",
+        "Titanium Alloys Microstructure and Properties"
+      ],
+      "readTime": "1 min",
+      "citedBy": 15,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T05:46:41.661854+00:00"
     },
     {
       "id": "openalex-5d309434b9df",
@@ -2596,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.170670+00:00"
+      "_retrievedAt": "2026-10-01T05:46:42.351331+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2628,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.920147+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.576837+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2660,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.919017+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.575642+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2692,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.168075+00:00"
+      "_retrievedAt": "2026-10-01T05:46:42.348404+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -2724,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:07.727143+00:00"
+      "_retrievedAt": "2026-10-01T05:46:41.660033+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -2756,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.918382+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.574942+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -2788,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.922697+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.579595+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2820,7 +2852,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.545725+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.007677+00:00"
+    },
+    {
+      "id": "openalex-f831f0b2712b",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Breeding drought-tolerant crops for sustainable agriculture",
+      "authors": "Ali Raza, Sidra Charagh, Kadambot H. M. Siddique, Channapatna S. Prakash, P. V. Vara Prasad, R.J. Harper",
+      "abstract": "With the escalating impacts of climate change, drought stress (DS) is significantly decreasing water accessibility and availability, causing substantial direct and indirect economic repercussions within agricultural systems. Addressing the needs of a growing global population necessitates urgent advancements in breeding DS-tolerant crops while maintaining high yields. This urgency demands a fast and adaptable defensive strategy to mitigate the adverse effects of DS on crop productivity. Accelerating such developments requires leveraging advanced omics-assisted breeding (e.g., genomics, transcriptomics, proteomics, and metabolomics), genetic engineering (e.g., transgenic technology, and genome editing), machine learning, precise phenotyping, crop wild relatives, and speed breeding. These fast-forward methods present highly promising avenues for the design of future crops that can withs...",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Agriculture & Food Security",
+      "source": "Agriculture & Food Security",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1186/s40066-025-00587-4",
+      "doi": "10.1186/s40066-025-00587-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s40066-025-00587-4.pdf",
+      "keywords": [
+        "Agriculture",
+        "Sustainable agriculture",
+        "Agroforestry",
+        "Sustainability",
+        "Business",
+        "Genetic and Environmental Crop Studies",
+        "Seed and Plant Biochemistry",
+        "Agricultural pest management studies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T05:46:42.351655+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2852,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:07.726584+00:00"
+      "_retrievedAt": "2026-10-01T05:46:41.659430+00:00"
     },
     {
       "id": "openalex-5a31a7e0a2f8",
@@ -2884,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:07.728910+00:00"
+      "_retrievedAt": "2026-10-01T05:46:41.661527+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2916,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.169432+00:00"
+      "_retrievedAt": "2026-10-01T05:46:42.349975+00:00"
     },
     {
       "id": "openalex-10ad267fea93",
@@ -2948,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.547479+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.009558+00:00"
     },
     {
       "id": "openalex-33e8cda96b3e",
@@ -2980,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.547840+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.009929+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -3012,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:07.724750+00:00"
+      "_retrievedAt": "2026-10-01T05:46:41.657495+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -3044,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:07.726282+00:00"
+      "_retrievedAt": "2026-10-01T05:46:41.659101+00:00"
     },
     {
       "id": "openalex-5cd132793914",
@@ -3076,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.549205+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.010965+00:00"
     },
     {
       "id": "openalex-c3aaf692321e",
@@ -3108,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.549589+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.011372+00:00"
     },
     {
       "id": "openalex-bb50663ea11d",
@@ -3140,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.920578+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.577298+00:00"
     },
     {
       "id": "openalex-a29127dc905f",
@@ -3172,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.546043+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.008018+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -3204,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.545386+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.007307+00:00"
     },
     {
       "id": "openalex-771740d27607",
@@ -3236,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.548168+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.010303+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -3268,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.918663+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.575241+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -3300,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.167432+00:00"
+      "_retrievedAt": "2026-10-01T05:46:42.347710+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -3332,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:07.725132+00:00"
+      "_retrievedAt": "2026-10-01T05:46:41.657901+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -3364,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:07.726841+00:00"
+      "_retrievedAt": "2026-10-01T05:46:41.659706+00:00"
     },
     {
       "id": "openalex-7a70a48faaec",
@@ -3396,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.546737+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.008761+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -3428,7 +3492,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.549909+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.011713+00:00"
+    },
+    {
+      "id": "openalex-a0a876b9f3e5",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Emerging paradigms in nanostructured targeted drug delivery systems",
+      "authors": "Anjum N. Hasnain, Darshan R. Telange",
+      "abstract": "Nanostructured drug delivery systems have emerged as powerful and versatile approaches to overcome the limitations of conventional therapeutic strategies, including poor bioavailability, non-specific distribution, and dose-limiting toxicity. By enabling precise control over particle size, surface characteristics, drug loading, and release kinetics, nanocarriers offer enhanced pharmacokinetic and pharmacodynamic performance, along with improved therapeutic specificity. This comprehensive review critically examines emerging paradigms in Nanostructured drug delivery systems, with a particular focus on design strategies, surface functionalization, and translational potential for targeted therapeutics. The review systematically discusses the fundamental principles governing nanocarrier behavior, including physicochemical characteristics, nano-bio interactions, and pharmacokinetic considera...",
+      "date": "2026-06-08",
+      "year": 2026,
+      "journal": "Discover Nano",
+      "source": "Discover Nano",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1186/s11671-026-04685-5",
+      "doi": "10.1186/s11671-026-04685-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s11671-026-04685-5.pdf",
+      "keywords": [
+        "Nanocarriers",
+        "Drug delivery",
+        "Nanomedicine",
+        "Nanotechnology",
+        "Targeted drug delivery",
+        "Nanoparticle-Based Drug Delivery",
+        "Advanced Drug Delivery Systems",
+        "Graphene and Nanomaterials Applications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T05:46:43.012053+00:00"
+    },
+    {
+      "id": "openalex-1f40a2b86295",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "First-line durvalumab in combination with trastuzumab deruxtecan in women with locally advanced unresectable or metastatic, hormone-receptor-negative, HER2-low breast cancer: multicenter, open-label, phase 1b/2 BEGONIA platform trial",
+      "authors": "Peter Schmid, Seock‐Ah Im, Zbigniew Nowecki, Piotr Jan Wysocki, Jacek Jassem, Kyung Hae Jung",
+      "abstract": "Abstract More effective therapies are required for advanced breast cancer. We report results from 58 women with locally advanced unresectable or metastatic hormone-receptor (HR)-negative, human epidermal growth factor receptor 2 (HER2)-low breast cancer enrolled in arm 6 of the multicenter, open-label phase 1b/2 BEGONIA platform trial, who received durvalumab (1,120 mg) plus trastuzumab deruxtecan (T-DXd; 5.4 mg kg −1 ) intravenously every 3 weeks as first-line treatment. Objective response rate (ORR) and safety were primary endpoints; duration of response (DoR), progression-free survival (PFS) and overall survival (OS) were secondary endpoints. Median follow-up was 20.6 months (range: 1–37). ORR was 62.1% (95% confidence interval (CI): 48.4–74.5), which did not meet the protocol-specified objective of 38/57 (66.6%) responses. Median DoR was 15.2 months (95% CI: 8.44–not calculable),...",
+      "date": "2026-06-08",
+      "year": 2026,
+      "journal": "Nature Cancer",
+      "source": "Nature Cancer",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s43018-026-01181-8",
+      "doi": "10.1038/s43018-026-01181-8",
+      "pdfUrl": "https://www.nature.com/articles/s43018-026-01181-8.pdf",
+      "keywords": [
+        "Medicine",
+        "Durvalumab",
+        "Trastuzumab",
+        "Oncology",
+        "Internal medicine",
+        "HER2/EGFR in Cancer Research",
+        "Cancer Treatment and Pharmacology",
+        "Advanced Breast Cancer Therapies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-01T05:46:43.012425+00:00"
     },
     {
       "id": "openalex-9e919d4ae811",
@@ -3460,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.919390+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.576034+00:00"
     },
     {
       "id": "openalex-e83a54581c00",
@@ -3492,71 +3620,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.547025+00:00"
-    },
-    {
-      "id": "openalex-ea6425ec53d9",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Multi-omics and artificial intelligence for precision drug discovery and potential clinical applications",
-      "authors": "Yuqing Liu, Kun Zhu, Weijun Peng, Zhaoqian Liu, Xiaoyuan Mao",
-      "abstract": "The integration of multiomics technologies with artificial intelligence (AI) has become a transformative force in modern precision medicine, particularly within drug discovery. Multiomics approaches, including genome-wide association studies, transcriptomic profiling, proteomic interaction mapping, and metabolomic sequencing, provide unparalleled insights into the molecular dynamics of disease pathogenesis. Advanced AI methodologies, which leverage deep learning architectures, exhibit extraordinary capabilities in deciphering these intricate biological datasets, elucidating latent patterns, and constructing high-fidelity predictive models. The combined application of multiomics and AI has significant potential to accelerate target identification, streamline lead optimization processes, and enhance the precision of clinical trial designs. However, challenges persist, such as the need t...",
-      "date": "2026-06-02",
-      "year": 2026,
-      "journal": "Signal Transduction and Targeted Therapy",
-      "source": "Signal Transduction and Targeted Therapy",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41392-026-02631-6",
-      "doi": "10.1038/s41392-026-02631-6",
-      "pdfUrl": "https://www.nature.com/articles/s41392-026-02631-6.pdf",
-      "keywords": [
-        "Drug discovery",
-        "Computer science",
-        "Artificial intelligence",
-        "Precision medicine",
-        "Machine learning",
-        "Bioinformatics and Genomic Networks",
-        "Computational Drug Discovery Methods",
-        "Machine Learning in Bioinformatics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 19,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:07.728375+00:00"
-    },
-    {
-      "id": "openalex-28255416d814",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "GLP-1 Agonists Are Associated With a Significant Reduction in Breast Cancer Incidence in Women",
-      "authors": "Elizabeth S. McDonald, Laura B. Gillis, Peter Edward Gabriel, Kham Xapakdy, Anthony J. Young, Abigail G. Doucette",
-      "abstract": "PURPOSE Excess weight is a key modifiable risk factor for breast cancer. Glucagon-like peptide-1 receptor agonists (GLP-1) promote weight loss and improve metabolic health, but their effect on breast cancer risk remains unclear. METHODS We conducted a retrospective cohort study from January 1, 2022, to June 30, 2025, using electronic health records. We identified 217,624 unique women who underwent breast imaging; restricting to ages 45-80 years with a BMI ≥25 and a documented imaging outcome (n = 111,646; median age 61 years). The primary outcome was breast cancer detection. GLP-1 use was defined as a first prescription before the examination date and assessed in relation to race, ethnicity, age, and type 2 diabetes. To address potential confounding between these covariates and GLP-1 exposure, we performed one-to-one, case-control matching using propensity scores on the basis of age,...",
-      "date": "2026-06-02",
-      "year": 2026,
-      "journal": "JCO Oncology Practice",
-      "source": "JCO Oncology Practice",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1200/op-26-00485",
-      "doi": "10.1200/op-26-00485",
-      "pdfUrl": "https://ascopubs.org/doi/pdfdirect/10.1200/OP-26-00485",
-      "keywords": [
-        "Medicine",
-        "Breast cancer",
-        "Propensity score matching",
-        "Incidence (geometry)",
-        "Internal medicine",
-        "Diabetes Treatment and Management",
-        "Metabolism, Diabetes, and Cancer",
-        "Bariatric Surgery and Outcomes"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-09-30T22:12:08.548576+00:00"
+      "_retrievedAt": "2026-10-01T05:46:43.009071+00:00"
     }
   ]
 };
