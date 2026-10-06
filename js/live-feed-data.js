@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-10-06T13:19:31.331249+00:00",
+  "generatedAt": "2026-10-06T22:37:50.266935+00:00",
   "total": 112,
   "sources": [
     "RSS",
@@ -7,452 +7,900 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-ec219bfbf90e",
+      "id": "rss-ae7fae2c9e79",
       "discipline": "clinical",
       "type": "news",
-      "title": "Researchers looking into foundations of autoimmune disease development, may yield new treatments",
+      "title": "Pregnancy complications linked to higher risk of cardiac and renal health conditions",
       "authors": "Medical Xpress",
-      "abstract": "An Idaho State University biologist and her students are exploring new ways to fight autoimmune diseases afflicting millions. \"Normally, our immune system makes antibodies that target pathogens for destruction,\" said Kinta Serve, an associate professor at ISU. \"These antibodies recognize specific pathogen molecules, like bacterial proteins, while ignoring our own host molecules.",
+      "abstract": "Women with a complication in their latest pregnancy or a previous pregnancy face an elevated risk of developing cardiometabolic-renal conditions in subsequent years, suggests a U.K. study published online in the open-access journal BMJ Medicine.",
       "date": "2026-10-06",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-foundations-autoimmune-disease-yield-treatments.html",
+      "url": "https://medicalxpress.com/news/2026-10-pregnancy-complications-linked-higher-cardiac.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "autoimmune",
-        "antibodies",
-        "molecules",
-        "researchers",
-        "looking",
-        "foundations",
-        "disease",
-        "development"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.210910+00:00"
-    },
-    {
-      "id": "rss-bcbeff1f86d0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Even brief e-cigarette use can cause lasting lung damage and weaken defenses against respiratory viruses, study suggests",
-      "authors": "Medical Xpress",
-      "abstract": "Just days of e-cigarette vapor exposure can injure the lungs' most delicate tissue and leave it more vulnerable to viral infection, according to a study led by National Jewish Health researchers and published in JCI Insight.",
-      "date": "2026-10-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-cigarette-lung-weaken-defenses-respiratory.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "e-cigarette",
-        "even",
-        "brief",
-        "cause",
-        "lasting",
-        "lung",
-        "damage",
-        "weaken"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.211188+00:00"
-    },
-    {
-      "id": "rss-4338c0de2f1a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Cash rewards help folks quit smoking",
-      "authors": "Medical Xpress",
-      "abstract": "Fat stacks of cash can provide powerful motivation to quit smoking, a new study says. Twice as many smokers quit when offered cash rewards of up to $600, researchers report in the Journal of the American Medical Association.",
-      "date": "2026-10-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-cash-rewards-folks.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cash",
-        "quit",
-        "rewards",
-        "smoking",
-        "help",
-        "folks",
-        "stacks",
-        "provide"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.211452+00:00"
-    },
-    {
-      "id": "rss-fc8730d1f7da",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Managing misfolded proteins to prevent Parkinson's disease",
-      "authors": "Medical Xpress",
-      "abstract": "The protein alpha-synuclein is abundant in healthy brains and plays an important role in enabling communication between nerve cells. However, under certain conditions, misfolded alpha-synuclein proteins can accumulate into toxic clumps inside neurons. Known as Lewy bodies, these clusters of proteins are a hallmark of Parkinson's disease and some forms of dementia.",
-      "date": "2026-10-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-misfolded-proteins-parkinson-disease.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "proteins",
-        "misfolded",
-        "parkinson",
-        "disease",
-        "alpha-synuclein",
-        "managing",
-        "prevent",
-        "protein"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.211724+00:00"
-    },
-    {
-      "id": "rss-98af2c7dd481",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Slow down, reminisce if it feels right: Practical tips for talking to people with dementia",
-      "authors": "Medical Xpress",
-      "abstract": "No one likes to feel left out of the conversation—including people living with dementia. Sometimes, all it takes is a little extra thought to make sure everyone feels included.",
-      "date": "2026-10-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-reminisce-people-dementia.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "feels",
-        "people",
-        "dementia",
-        "slow",
-        "down",
-        "reminisce",
-        "right",
-        "practical"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.211976+00:00"
-    },
-    {
-      "id": "rss-47073cd0020f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "The death of a Russian plague researcher, explained by a microbiologist",
-      "authors": "Medical Xpress",
-      "abstract": "Conflicting information about the death of a lab worker at a Russian plague research institute has fueled fears about the possibility of pneumonic plague spreading.",
-      "date": "2026-10-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-death-russian-plague-microbiologist.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "plague",
-        "death",
-        "russian",
-        "about",
-        "researcher",
-        "explained",
-        "microbiologist",
-        "conflicting"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.212197+00:00"
-    },
-    {
-      "id": "rss-40e4a2d86992",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Be wary of online nutrition advice for cancer patients",
-      "authors": "Medical Xpress",
-      "abstract": "Avoid dairy, fruit and red meat; take vitamin D supplements—these are some of the nutrition claims circulating online for breast cancer patients, but how many of them are actually based on fact?",
-      "date": "2026-10-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-wary-online-nutrition-advice-cancer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "online",
-        "nutrition",
-        "cancer",
-        "patients",
-        "wary",
-        "advice",
-        "avoid",
-        "dairy"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.212461+00:00"
-    },
-    {
-      "id": "rss-3372b011e575",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Popular diabetes drug shown to lower inflammation, which may protect the heart",
-      "authors": "Medical Xpress",
-      "abstract": "For the first time in a human trial, a class of drugs known as sodium-glucose cotransporter-2 (SGLT2) inhibitors, already known for their weight-loss and glucose-lowering benefits, has also been shown to reduce inflammatory cells in the blood known to cause cardiovascular disease. The findings were published in Circulation.",
-      "date": "2026-10-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-popular-diabetes-drug-shown-inflammation.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "known",
-        "shown",
-        "popular",
-        "diabetes",
-        "drug",
-        "lower",
-        "inflammation",
-        "which"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.212726+00:00"
-    },
-    {
-      "id": "rss-31eb8e901824",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Kenya reports first-ever Ebola death",
-      "authors": "Medical Xpress",
-      "abstract": "Kenya has reported its first-ever Ebola death, the health minister announced Tuesday, after a Kenyan man who had been living in the Democratic Republic of Congo died after returning to the country.",
-      "date": "2026-10-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-kenya-ebola-death.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "kenya",
-        "first-ever",
-        "ebola",
-        "death",
-        "after",
-        "reports",
-        "reported",
-        "health"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.212947+00:00"
-    },
-    {
-      "id": "rss-6a20d8c264cf",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Cancer trial drug may work differently than scientists believed, raising concerns for clinical research",
-      "authors": "Medical Xpress",
-      "abstract": "A cancer drug currently being tested in patients may have entered clinical trials based on an incorrect understanding of how it works, according to a new study led by the University of Sydney in collaboration with Goethe University, Oxford University and the Institute of Cancer Research, London.",
-      "date": "2026-10-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-cancer-trial-drug-differently-scientists.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "university",
-        "drug",
-        "clinical",
-        "trial",
-        "work",
-        "differently",
-        "than"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.213193+00:00"
-    },
-    {
-      "id": "rss-6b84333a5831",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Pennsylvania's measles outbreak is the largest in decades in the US",
-      "authors": "Medical Xpress",
-      "abstract": "Pennsylvania has surpassed 1,000 measles cases this year, state health officials said Monday, making it the largest state outbreak in more than three decades.",
-      "date": "2026-10-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-pennsylvania-measles-outbreak-largest-decades.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "pennsylvania",
-        "measles",
-        "outbreak",
-        "largest",
-        "decades",
-        "state",
-        "surpassed",
-        "cases"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.213429+00:00"
-    },
-    {
-      "id": "rss-5dbba28c6a15",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "How pond algae led to a Nobel prize and a new way to study the brain",
-      "authors": "Medical Xpress",
-      "abstract": "Scientists who worked out how to control brain cells with light have won this year's Nobel Prize in physiology or medicine. Karl Deisseroth, Peter Hegemann and Georg Nagel were honored for their research into \"light-gated ion channels and optogenetics.\"",
-      "date": "2026-10-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-pond-algae-nobel-prize-brain.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nobel",
-        "prize",
-        "brain",
-        "pond",
-        "algae",
-        "scientists",
-        "worked",
-        "control"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.213673+00:00"
-    },
-    {
-      "id": "rss-b707de6e4499",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Most women know about breast cancer risk factors, but fewer act on them",
-      "authors": "Medical Xpress",
-      "abstract": "According to a new survey, most U.S. women understood breast cancer risk factors, but only a minority were taking action to help lower their risk.",
-      "date": "2026-10-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-women-breast-cancer-factors.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
+        "pregnancy",
         "risk",
-        "most",
+        "conditions",
+        "complications",
+        "linked",
+        "higher",
+        "cardiac",
+        "renal"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.332307+00:00"
+    },
+    {
+      "id": "rss-25f55195c32e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Statins may protect people from developing glaucoma",
+      "authors": "Medical Xpress",
+      "abstract": "Taking statins is linked to a lower risk of developing glaucoma and a reduced chance of it getting worse, suggest the findings of research published online in the British Journal of Ophthalmology.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-statins-people-glaucoma.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "statins",
+        "developing",
+        "glaucoma",
+        "protect",
+        "people",
+        "taking",
+        "linked",
+        "lower"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.332561+00:00"
+    },
+    {
+      "id": "rss-7df2d2182354",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "When war hits the wallet, mental health can suffer too",
+      "authors": "Medical Xpress",
+      "abstract": "In the first weeks after the Oct. 7 attack, distress was widespread. But for many, the psychological consequences of the war did not unfold separately from another growing source of pressure: money.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-war-wallet-mental-health.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "when",
+        "hits",
+        "wallet",
+        "mental",
+        "health",
+        "suffer",
+        "first",
+        "weeks"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.332790+00:00"
+    },
+    {
+      "id": "rss-ba273b8d9e06",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "International consensus sets updated framework for CAR T-cell therapy in severe autoimmune diseases",
+      "authors": "Medical Xpress",
+      "abstract": "An international multidisciplinary group of 31 experts has updated consensus recommendations to guide the use of CAR T-cell therapy in patients with severe, treatment-refractory autoimmune diseases.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-international-consensus-framework-car-cell.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "international",
+        "consensus",
+        "updated",
+        "t-cell",
+        "therapy",
+        "severe",
+        "autoimmune",
+        "diseases"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.333016+00:00"
+    },
+    {
+      "id": "rss-7f36bdf157d2",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "1 in 3 with lupus takes supplements, medications with potential for interactions",
+      "authors": "Medical Xpress",
+      "abstract": "Nearly 1 in 3 patients with systemic lupus erythematosus (SLE) are taking a supplement-medication combination with potential for an interaction, according to a study published online Sept. 22 in Arthritis Care & Research.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-lupus-supplements-medications-potential-interactions.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "lupus",
+        "potential",
+        "takes",
+        "supplements",
+        "medications",
+        "interactions",
+        "nearly",
+        "patients"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.333276+00:00"
+    },
+    {
+      "id": "rss-2f5cb36700e1",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Abnormal lymph vessels show heightened growth signaling regardless of key gene mutation",
+      "authors": "Medical Xpress",
+      "abstract": "Lymphatic malformations are rare disorders in which lymph vessels develop abnormally, often beginning in childhood and sometimes causing swelling, infection, bleeding, pain or airway obstruction.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-abnormal-lymph-vessels-heightened-growth.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "lymph",
+        "vessels",
+        "abnormal",
+        "show",
+        "heightened",
+        "growth",
+        "signaling",
+        "regardless"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.333499+00:00"
+    },
+    {
+      "id": "rss-fecac06b6cbc",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Pausing certain arthritis drugs after COVID-19 vaccination raises flare risk without improving antibody response",
+      "authors": "Medical Xpress",
+      "abstract": "For patients with inflammatory arthritis, holding certain disease-modifying antirheumatic drugs (DMARDs), namely select biologic or Janus kinase inhibitor (JAKi) therapies, for two weeks at the time of a supplemental COVID-19 vaccine dose does not enhance humoral immunogenicity, according to a study published online Oct. 5 in JAMA Internal Medicine.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-arthritis-drugs-covid-vaccination-flare.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "certain",
+        "arthritis",
+        "drugs",
+        "covid-",
+        "pausing",
+        "after",
+        "vaccination",
+        "raises"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.333753+00:00"
+    },
+    {
+      "id": "rss-52b482505471",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "HIV treatment has transformed lives in the UK, but stigma lingers",
+      "authors": "Medical Xpress",
+      "abstract": "Nearly half a century has passed since the first recognized case of AIDS in the U.K. in December 1981. During that time, perceptions of HIV and people living with HIV have been transformed by medical advances and changing cultural attitudes. Yet the stigma created during the early years of the epidemic has proved much harder to leave behind.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-hiv-treatment-uk-stigma-lingers.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "transformed",
+        "stigma",
+        "during",
+        "treatment",
+        "lives",
+        "lingers",
+        "nearly",
+        "half"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.334004+00:00"
+    },
+    {
+      "id": "rss-0a30938147f7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Sickle cell pain may involve previously unrecognized biological pathways",
+      "authors": "Medical Xpress",
+      "abstract": "A small pilot study led by a Rutgers researcher has found differences in blood proteins between people experiencing high and low levels of pain from sickle cell disease, findings that may inform research on new treatments and better pain management.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-sickle-cell-pain-involve-previously.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "pain",
+        "sickle",
+        "cell",
+        "involve",
+        "previously",
+        "unrecognized",
+        "biological",
+        "pathways"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.334278+00:00"
+    },
+    {
+      "id": "rss-04b2578d36cd",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Early-onset menopause linked to increased symptoms of anxiety and depression",
+      "authors": "Medical Xpress",
+      "abstract": "A study by the University of Oulu has found that women who entered menopause earlier than usual reported more symptoms of anxiety and depression than women of the same age who had not yet entered menopause. The work is published in the journal Acta Obstetricia et Gynecologica Scandinavica.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-early-onset-menopause-linked-symptoms.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "menopause",
+        "symptoms",
+        "anxiety",
+        "depression",
         "women",
+        "entered",
+        "than",
+        "early-onset"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.334519+00:00"
+    },
+    {
+      "id": "rss-f62ffad81137",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "PSMA PET/CT-targeted biopsy improves detection of clinically significant prostate cancer",
+      "authors": "Medical Xpress",
+      "abstract": "PSMA PET/CT-targeted biopsy detects more clinically significant prostate cancer than systematic biopsy alone in men with negative or inconclusive MRI findings but persistent clinical risk factors. According to new research published in The Journal of Nuclear Medicine, combining the two biopsy approaches is even more effective, nearly doubling the detection rate. This strategy may help physicians identify clinically significant cancers that would otherwise be difficult to detect, while potentially avoiding unnecessary procedures in appropriately selected patients.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-psma-petct-biopsy-clinically-significant.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "biopsy",
+        "clinically",
+        "significant",
+        "psma",
+        "ct-targeted",
+        "detection",
+        "prostate",
+        "cancer"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.334806+00:00"
+    },
+    {
+      "id": "rss-46186e9e0bee",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Physically intense work and health: A new index to assess the burden of job tasks",
+      "authors": "Medical Xpress",
+      "abstract": "Cleaning kitchens and bathrooms, operating heavy machinery, carrying out agricultural work and performing repair and maintenance tasks: These are some of the activities that new research associates with poorer health later in life.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-physically-intense-health-index-burden.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "work",
+        "health",
+        "tasks",
+        "physically",
+        "intense",
+        "index",
+        "assess",
+        "burden"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.335051+00:00"
+    },
+    {
+      "id": "rss-26088171229f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Exercise as medicine: How physical activity helps manage chronic disease",
+      "authors": "Medical Xpress",
+      "abstract": "Chronic diseases such as diabetes, heart disease, high blood pressure, arthritis and certain types of cancer are leading causes of disability and death worldwide. Traditionally, these conditions have been managed through medication, dietary changes and medical interventions.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-medicine-physical-chronic-disease.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "chronic",
+        "disease",
+        "exercise",
+        "medicine",
+        "physical",
+        "activity",
+        "helps",
+        "manage"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.335292+00:00"
+    },
+    {
+      "id": "rss-d4918e14bfaf",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Tumor markers reveal which HER2+ breast cancer patients may respond to less intensive chemotherapy",
+      "authors": "Medical Xpress",
+      "abstract": "The Journal of Clinical Oncology has published secondary results from the ECOG-ACRIN Cancer Research Group's CompassHER2-pCR clinical trial (EA1181, NCT04266249). The findings help identify which early-stage HER2-positive (HER2+) breast cancers may be most likely to respond to less intensive chemotherapy than the current standard.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-tumor-markers-reveal-her2-breast.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "which",
         "breast",
         "cancer",
-        "factors",
-        "know",
-        "about"
+        "respond",
+        "less",
+        "intensive",
+        "chemotherapy",
+        "clinical"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.213890+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.335539+00:00"
     },
     {
-      "id": "rss-1ea181e90a36",
-      "discipline": "clinical",
+      "id": "rss-cd2023f7f5b0",
+      "discipline": "cs",
       "type": "news",
-      "title": "Examining political differences in perceptions of vaccine safety and effectiveness",
-      "authors": "Medical Xpress",
-      "abstract": "Vaccine perceptions can influence acceptance and uptake. Dr. Dror Walter, with the Department of Communication at Georgia State University in Atlanta, and colleagues examined these perceptions using data from a national probability sample of 1,763 U.S. adults surveyed in November 2024. The study was published online in the American Journal of Public Health on Sept. 10, 2026.",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "authors": "TechCrunch AI",
+      "abstract": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
       "date": "2026-10-06",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-political-differences-perceptions-vaccine-safety.html",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "perceptions",
-        "vaccine",
-        "examining",
-        "political",
-        "differences",
-        "safety",
-        "effectiveness",
-        "influence"
+        "ex-ramp",
+        "engineers",
+        "raise",
+        "platform",
+        "melius",
+        "after",
+        "scrapping",
+        "their"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.214140+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.499547+00:00"
+    },
+    {
+      "id": "rss-b987df539777",
+      "discipline": "cs",
+      "type": "news",
+      "title": "How AI decision models could change content moderation",
+      "authors": "TechCrunch AI",
+      "abstract": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "decision",
+        "moderation",
+        "could",
+        "change",
+        "content",
+        "tuesday",
+        "musubi",
+        "announced"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.499758+00:00"
+    },
+    {
+      "id": "rss-80cdecbf943b",
+      "discipline": "cs",
+      "type": "news",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "authors": "TechCrunch AI",
+      "abstract": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "lambda",
+        "ahead",
+        "planned",
+        "billion",
+        "computing",
+        "startup",
+        "raise",
+        "nvidia-backed"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.499924+00:00"
+    },
+    {
+      "id": "rss-841a17dfe9fe",
+      "discipline": "cs",
+      "type": "news",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "authors": "TechCrunch AI",
+      "abstract": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "agents",
+        "getting",
+        "next",
+        "hurdle",
+        "websites",
+        "them",
+        "personal",
+        "promise"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.500128+00:00"
+    },
+    {
+      "id": "rss-c3451aafda80",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "authors": "TechCrunch AI",
+      "abstract": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "personal",
+        "assistant",
+        "hark",
+        "releases",
+        "focus",
+        "privacy",
+        "operating",
+        "system"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.500292+00:00"
+    },
+    {
+      "id": "rss-79c210b7d307",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "authors": "TechCrunch AI",
+      "abstract": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "mirror",
+        "particle",
+        "world",
+        "human",
+        "behavior",
+        "building",
+        "will",
+        "launch"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.500485+00:00"
+    },
+    {
+      "id": "rss-312e5d6015b0",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "authors": "TechCrunch AI",
+      "abstract": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "anthropic",
+        "giving",
+        "startups",
+        "free",
+        "year",
+        "claude",
+        "team",
+        "credits"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.500657+00:00"
+    },
+    {
+      "id": "rss-baf2472bb871",
+      "discipline": "cs",
+      "type": "news",
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "authors": "TechCrunch AI",
+      "abstract": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "says",
+        "software",
+        "libreoffice",
+        "feature",
+        "maker",
+        "open",
+        "source",
+        "document"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.500822+00:00"
+    },
+    {
+      "id": "rss-bcec5ae57acd",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "authors": "TechCrunch AI",
+      "abstract": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "mistral",
+        "leapfrog",
+        "rivals",
+        "large",
+        "aims",
+        "closed",
+        "open",
+        "french"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.500987+00:00"
+    },
+    {
+      "id": "rss-afabb8e29390",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Pinterest’s AI now turns beauty Pins into action plans",
+      "authors": "TechCrunch AI",
+      "abstract": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "pinterest",
+        "beauty",
+        "pins",
+        "turns",
+        "action",
+        "plans",
+        "ai-powered",
+        "guides"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.501191+00:00"
+    },
+    {
+      "id": "rss-d9af0bd06785",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+      "authors": "TechCrunch AI",
+      "abstract": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "your",
+        "questions",
+        "answered",
+        "techcrunch",
+        "disrupt",
+        "full",
+        "breakout",
+        "session"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.501373+00:00"
+    },
+    {
+      "id": "rss-3cbba74411c0",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Supercomputing researchers document evolution of AI hardware",
+      "authors": "MIT News AI",
+      "abstract": "An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "hardware",
+        "supercomputing",
+        "researchers",
+        "document",
+        "evolution",
+        "ongoing",
+        "survey",
+        "tracks"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.616301+00:00"
+    },
+    {
+      "id": "rss-2f8a4e0119ee",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the MIT Libraries",
+      "authors": "MIT News AI",
+      "abstract": "As director, Bourg has focused on digital access, open and equitable scholarly publishing, and expanded support for data-intensive research.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/chris-bourg-named-vice-provost-and-barbara-ostrom-director-mit-libraries-1006",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "bourg",
+        "director",
+        "chris",
+        "named",
+        "vice",
+        "provost",
+        "barbara",
+        "ostrom"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.616483+00:00"
+    },
+    {
+      "id": "rss-c561a387f2d1",
+      "discipline": "cs",
+      "type": "news",
+      "title": "MIT announces the MIT for America initiative, to strengthen STEM education across the country",
+      "authors": "MIT News AI",
+      "abstract": "The effort aims to help U.S. learners from kindergarten to community college, with an emphasis on math, making, and the constructive use of AI.",
+      "date": "2026-10-06",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "announces",
+        "america",
+        "initiative",
+        "strengthen",
+        "stem",
+        "education",
+        "across",
+        "country"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T22:37:49.616653+00:00"
     },
     {
       "id": "rss-cd71ba4db8c3",
@@ -484,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.358143+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.501537+00:00"
     },
     {
       "id": "rss-6d9e8e40ae5c",
@@ -516,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.358458+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.501739+00:00"
     },
     {
       "id": "rss-9ca09c4a7627",
@@ -548,359 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.358689+00:00"
-    },
-    {
-      "id": "rss-9f62890d832d",
-      "discipline": "cs",
-      "type": "news",
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "authors": "TechCrunch AI",
-      "abstract": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-      "date": "2026-10-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "tiktok",
-        "shopping",
-        "assistant",
-        "rolls",
-        "one-click",
-        "checkout",
-        "describes",
-        "conversational"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.358862+00:00"
-    },
-    {
-      "id": "rss-2e2e3d9e0e7b",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-      "authors": "TechCrunch AI",
-      "abstract": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-      "date": "2026-10-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "girl",
-        "hotline",
-        "like",
-        "dear",
-        "abby",
-        "founded",
-        "sisters",
-        "uses"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.359055+00:00"
-    },
-    {
-      "id": "rss-fd9f1dbfdcfa",
-      "discipline": "cs",
-      "type": "news",
-      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-      "authors": "TechCrunch AI",
-      "abstract": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-      "date": "2026-10-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hackerrank",
-        "interviewer",
-        "interviews",
-        "offers",
-        "glimpse",
-        "what",
-        "could",
-        "become"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.359246+00:00"
-    },
-    {
-      "id": "rss-68dca33d7aed",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "authors": "TechCrunch AI",
-      "abstract": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-      "date": "2026-10-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "appear",
-        "will",
-        "openai",
-        "launches",
-        "visual",
-        "that",
-        "alongside",
-        "image"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.359443+00:00"
-    },
-    {
-      "id": "rss-7d7f88fa3d27",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-      "authors": "TechCrunch AI",
-      "abstract": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-      "date": "2026-10-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "open",
-        "closed",
-        "founders",
-        "choosing",
-        "techcrunch",
-        "disrupt",
-        "what",
-        "build"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.359617+00:00"
-    },
-    {
-      "id": "rss-0f8cd5ff83ea",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-      "authors": "TechCrunch AI",
-      "abstract": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-      "date": "2026-10-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "researchers",
-        "agent",
-        "tracking",
-        "chinese",
-        "fleet",
-        "independent",
-        "discovered",
-        "swarm"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.359780+00:00"
-    },
-    {
-      "id": "rss-75c64b694120",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-      "authors": "TechCrunch AI",
-      "abstract": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
-      "date": "2026-10-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "meet",
-        "startup",
-        "battlefield",
-        "judges",
-        "decide",
-        "techcrunch",
-        "disrupt",
-        "winner"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.359962+00:00"
-    },
-    {
-      "id": "rss-e5b30928abb2",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-      "authors": "TechCrunch AI",
-      "abstract": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-      "date": "2026-10-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "disrupt",
-        "stage",
-        "lineup",
-        "techcrunch",
-        "final",
-        "three",
-        "days",
-        "conversations"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.360151+00:00"
-    },
-    {
-      "id": "rss-1187a5f6f69f",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-      "authors": "TechCrunch AI",
-      "abstract": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-      "date": "2026-10-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "safeworld",
-        "robots",
-        "hurt",
-        "convince",
-        "people",
-        "that",
-        "genai",
-        "them"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.360309+00:00"
-    },
-    {
-      "id": "rss-da9bb2a4522b",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "authors": "TechCrunch AI",
-      "abstract": "AI slop seems to be overwhelming bug bounty programs.",
-      "date": "2026-10-04",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "bounty",
-        "google",
-        "froze",
-        "open",
-        "source",
-        "program",
-        "significant",
-        "rise"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.360514+00:00"
-    },
-    {
-      "id": "rss-4c71ff37378e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "authors": "TechCrunch AI",
-      "abstract": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "date": "2026-10-04",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "super",
-        "intelligence",
-        "non-binding",
-        "safety",
-        "pact",
-        "solve",
-        "image",
-        "problem"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.360677+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.501927+00:00"
     },
     {
       "id": "rss-19d143b1e9c8",
@@ -932,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.459041+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.616821+00:00"
     },
     {
       "id": "rss-cefee57ba8d3",
@@ -964,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.459234+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.616993+00:00"
     },
     {
       "id": "rss-2496878eb76f",
@@ -996,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.459440+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.617204+00:00"
     },
     {
       "id": "rss-ec0c454d28a6",
@@ -1028,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.459634+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.617386+00:00"
     },
     {
       "id": "rss-2b529d97fb90",
@@ -1060,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.459802+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.617548+00:00"
     },
     {
       "id": "rss-6cc50e6c3036",
@@ -1092,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.459966+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.617707+00:00"
     },
     {
       "id": "rss-0333c77565a0",
@@ -1124,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.861221+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.761928+00:00"
     },
     {
       "id": "rss-93b8d56ba100",
@@ -1156,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.460142+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.617878+00:00"
     },
     {
       "id": "rss-d2d5303f2df6",
@@ -1188,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.460310+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.618059+00:00"
     },
     {
       "id": "rss-0f5454e2985b",
@@ -1220,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.460500+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.618227+00:00"
     },
     {
       "id": "rss-975ad9b8aec5",
@@ -1252,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.460653+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.618376+00:00"
     },
     {
       "id": "rss-a7d777e1fbd3",
@@ -1284,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.861771+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.762442+00:00"
     },
     {
       "id": "rss-9c55cfccdd04",
@@ -1316,103 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.460801+00:00"
-    },
-    {
-      "id": "rss-15bfac0aca91",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The promise and peril of using visual AI to study cities",
-      "authors": "MIT News AI",
-      "abstract": "In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life.",
-      "date": "2026-09-24",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "city",
-        "promise",
-        "peril",
-        "visual",
-        "cities",
-        "their",
-        "book",
-        "sees"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.460973+00:00"
-    },
-    {
-      "id": "rss-c6dd1d7e00a5",
-      "discipline": "cs",
-      "type": "news",
-      "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
-      "authors": "MIT News AI",
-      "abstract": "Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery.",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "welcomes",
-        "david",
-        "siegel",
-        "next",
-        "innovation",
-        "fellow",
-        "computer",
-        "scientist"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.461145+00:00"
-    },
-    {
-      "id": "rss-2eaa3a09d482",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
-      "authors": "MIT News AI",
-      "abstract": "Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health research.",
-      "date": "2026-09-22",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "poitras",
-        "center",
-        "fuel",
-        "early",
-        "careers",
-        "young",
-        "scientists",
-        "dedicated"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.461322+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.618523+00:00"
     },
     {
       "id": "rss-a969e28ae72b",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.862405+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.763021+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.862757+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.763402+00:00"
     },
     {
       "id": "rss-4d47532c7c63",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.863022+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.763671+00:00"
     },
     {
       "id": "rss-bf9122547ba1",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.863494+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.764156+00:00"
     },
     {
       "id": "rss-188abdd7fd48",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.863710+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.764387+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1596,15 +1596,15 @@ window.LIVE_FEED_DATA = {
         "Data science",
         "Field (mathematics)",
         "Topic Modeling",
-        "Natural Language Processing Techniques",
-        "Ferroelectric and Negative Capacitance Devices"
+        "Advanced Neural Network Applications",
+        "Natural Language Processing Techniques"
       ],
       "readTime": "1 min",
       "citedBy": 41,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:23.767323+00:00"
+      "_retrievedAt": "2026-10-06T22:37:43.581237+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.863937+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.764620+00:00"
     },
     {
       "id": "rss-b0ad43b43ecb",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.864125+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.764810+00:00"
     },
     {
       "id": "rss-0aa9231559e8",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:30.864684+00:00"
+      "_retrievedAt": "2026-10-06T22:37:49.765390+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:23.770391+00:00"
+      "_retrievedAt": "2026-10-06T22:37:43.584111+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1751,20 +1751,20 @@ window.LIVE_FEED_DATA = {
       "pdfUrl": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=2026&context=jss",
       "keywords": [
         "Political science",
-        "Terrorism, Counterterrorism, and Political Violence",
-        "International Relations and Foreign Policy",
         "security",
         "strategic",
         "journal",
         "studies",
-        "fields"
+        "fields",
+        "international",
+        "relations"
       ],
       "readTime": "1 min",
       "citedBy": 117,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:23.763576+00:00"
+      "_retrievedAt": "2026-10-06T22:37:43.579272+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1787,16 +1787,16 @@ window.LIVE_FEED_DATA = {
         "Chemistry",
         "Cancer cell",
         "Methyltransferase",
+        "Epigenetics and DNA Methylation",
         "Natural Compounds in Disease Treatment",
-        "Histone Deacetylase Inhibitors Research",
-        "mediated"
+        "Glioma Diagnosis and Treatment"
       ],
       "readTime": "1 min",
       "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:24.542025+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.250667+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1820,15 +1820,15 @@ window.LIVE_FEED_DATA = {
         "Biology",
         "Medicine",
         "Microtubule and mitosis dynamics",
-        "Ubiquitin and proteasome pathways",
-        "Epigenetics and DNA Methylation"
+        "Cancer Treatment and Pharmacology",
+        "Synthesis and biological activity"
       ],
       "readTime": "1 min",
       "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:25.467447+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.782407+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1851,16 +1851,16 @@ window.LIVE_FEED_DATA = {
         "Intersection (aeronautics)",
         "Terminology",
         "Geology",
-        "Geological and Geochemical Analysis",
-        "earthquake and tectonic studies",
-        "Seismology and Earthquake Studies"
+        "Misinformation and Its Impacts",
+        "Public Relations and Crisis Communication",
+        "Geological and Geophysical Studies"
       ],
       "readTime": "1 min",
       "citedBy": 3,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:26.102356+00:00"
+      "_retrievedAt": "2026-10-06T22:37:45.249708+00:00"
     },
     {
       "id": "openalex-6a5a22694e49",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:23.770712+00:00"
+      "_retrievedAt": "2026-10-06T22:37:43.584427+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1915,7 +1915,7 @@ window.LIVE_FEED_DATA = {
         "Ribosome",
         "Cell biology",
         "Fluorescence recovery after photobleaching",
-        "RNA modifications and cancer",
+        "Nuclear Structure and Function",
         "RNA and protein synthesis mechanisms",
         "RNA Research and Splicing"
       ],
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:24.538939+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.247556+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -1946,17 +1946,17 @@ window.LIVE_FEED_DATA = {
         "Computer science",
         "Natural language processing",
         "Explainable Artificial Intelligence (XAI)",
+        "Adversarial Robustness in Machine Learning",
+        "Software Testing and Debugging Techniques",
         "explainable",
-        "their",
-        "this",
-        "artificial"
+        "their"
       ],
       "readTime": "1 min",
       "citedBy": 21,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:23.769120+00:00"
+      "_retrievedAt": "2026-10-06T22:37:43.582890+00:00"
     },
     {
       "id": "openalex-3102df6dbe7b",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:24.542364+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.251004+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -2012,15 +2012,15 @@ window.LIVE_FEED_DATA = {
         "Disease",
         "Myeloid cells",
         "Parkinson's Disease Mechanisms and Treatments",
-        "RNA regulation and disease",
-        "Neuroinflammation and Neurodegeneration Mechanisms"
+        "Neuroinflammation and Neurodegeneration Mechanisms",
+        "Nuclear Receptors and Signaling"
       ],
       "readTime": "1 min",
       "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:24.539895+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.248522+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2043,16 +2043,16 @@ window.LIVE_FEED_DATA = {
         "Methylation",
         "Transcription factor",
         "Biology",
+        "Genomics and Chromatin Dynamics",
         "Epigenetics and DNA Methylation",
-        "Cancer-related gene regulation",
-        "RNA modifications and cancer"
+        "Diffusion and Search Dynamics"
       ],
       "readTime": "1 min",
       "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:24.540231+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.248862+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2075,16 +2075,16 @@ window.LIVE_FEED_DATA = {
         "Transformation (genetics)",
         "Computer science",
         "Climatology",
+        "Hydrological Forecasting Using AI",
         "Meteorological Phenomena and Simulations",
-        "Precipitation Measurement and Analysis",
-        "precipitation"
+        "Precipitation Measurement and Analysis"
       ],
       "readTime": "1 min",
       "citedBy": 3,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:26.102756+00:00"
+      "_retrievedAt": "2026-10-06T22:37:45.250100+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2108,15 +2108,15 @@ window.LIVE_FEED_DATA = {
         "Gene",
         "Immune system",
         "Single-cell and spatial transcriptomics",
-        "T-cell and B-cell Immunology",
-        "vaccines and immunoinformatics approaches"
+        "Gene Regulatory Network Analysis",
+        "Genomics and Chromatin Dynamics"
       ],
       "readTime": "1 min",
       "citedBy": 19,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:23.769459+00:00"
+      "_retrievedAt": "2026-10-06T22:37:43.583204+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2139,16 +2139,16 @@ window.LIVE_FEED_DATA = {
         "Gene",
         "Cell",
         "Biology",
-        "Single-cell and spatial transcriptomics",
         "Genomics and Chromatin Dynamics",
-        "Cell Image Analysis Techniques"
+        "Single-cell and spatial transcriptomics",
+        "Genetic Associations and Epidemiology"
       ],
       "readTime": "1 min",
       "citedBy": 25,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:24.537789+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.246390+00:00"
     },
     {
       "id": "openalex-34f37069c1ad",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:24.539161+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.247778+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:24.540635+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.249273+00:00"
     },
     {
       "id": "openalex-7a85bfe0ead2",
@@ -2236,15 +2236,15 @@ window.LIVE_FEED_DATA = {
         "Satellite",
         "Anomaly (physics)",
         "Geophysics and Gravity Measurements",
-        "Computational Physics and Python Applications",
-        "Oceanographic and Atmospheric Processes"
+        "Underwater Acoustics Research",
+        "Ocean Waves and Remote Sensing"
       ],
       "readTime": "1 min",
       "citedBy": 3,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:26.103117+00:00"
+      "_retrievedAt": "2026-10-06T22:37:45.250464+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2267,16 +2267,16 @@ window.LIVE_FEED_DATA = {
         "Environmental science",
         "Radar",
         "Cropping",
-        "Remote Sensing and Land Use",
         "Remote Sensing in Agriculture",
-        "rice"
+        "Synthetic Aperture Radar (SAR) Applications and Techniques",
+        "Soil Moisture and Remote Sensing"
       ],
       "readTime": "4 min",
       "citedBy": 13,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:26.099291+00:00"
+      "_retrievedAt": "2026-10-06T22:37:45.246592+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2299,16 +2299,16 @@ window.LIVE_FEED_DATA = {
         "Engineering ethics",
         "Regional science",
         "Political science",
-        "Human Mobility and Location-Based Analysis",
         "Smart Cities and Technologies",
-        "urban"
+        "Artificial Intelligence Applications",
+        "AI and Big Data Applications"
       ],
       "readTime": "1 min",
       "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:26.099666+00:00"
+      "_retrievedAt": "2026-10-06T22:37:45.246957+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2331,16 +2331,16 @@ window.LIVE_FEED_DATA = {
         "Interface (matter)",
         "Natural language",
         "Natural language understanding",
-        "Topic Modeling",
-        "Natural Language Processing Techniques",
-        "agents"
+        "Multi-Agent Systems and Negotiation",
+        "AI-based Problem Solving and Planning",
+        "Artificial Intelligence Applications"
       ],
       "readTime": "1 min",
       "citedBy": 43,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:23.765729+00:00"
+      "_retrievedAt": "2026-10-06T22:37:43.580433+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:25.468203+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.783170+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2395,8 +2395,8 @@ window.LIVE_FEED_DATA = {
         "DNA methylation",
         "Biology",
         "Chromatin",
-        "Neuroinflammation and Neurodegeneration Mechanisms",
         "Single-cell and spatial transcriptomics",
+        "Genomics and Chromatin Dynamics",
         "Epigenetics and DNA Methylation"
       ],
       "readTime": "1 min",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:24.538364+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.246973+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2429,14 +2429,14 @@ window.LIVE_FEED_DATA = {
         "Music psychology",
         "Language and cultural evolution",
         "Animal Vocal Communication and Behavior",
-        "Music and Audio Processing"
+        "Neuroscience and Music Perception"
       ],
       "readTime": "1 min",
       "citedBy": 19,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:23.769797+00:00"
+      "_retrievedAt": "2026-10-06T22:37:43.583528+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -2460,15 +2460,15 @@ window.LIVE_FEED_DATA = {
         "Personalized medicine",
         "Precision oncology",
         "Immunotherapy and Immune Responses",
-        "vaccines and immunoinformatics approaches",
-        "Cancer Immunotherapy and Biomarkers"
+        "Cancer Immunotherapy and Biomarkers",
+        "Cancer Research and Treatments"
       ],
       "readTime": "1 min",
       "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:25.469473+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.784426+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2491,16 +2491,16 @@ window.LIVE_FEED_DATA = {
         "Segmentation",
         "Subtraction",
         "Scale (ratio)",
+        "Medical Image Segmentation Techniques",
         "Advanced Neural Network Applications",
-        "Medical Imaging and Analysis",
-        "Radiomics and Machine Learning in Medical Imaging"
+        "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
       "citedBy": 81,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:23.764338+00:00"
+      "_retrievedAt": "2026-10-06T22:37:43.579694+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2525,14 +2525,14 @@ window.LIVE_FEED_DATA = {
         "Scale (ratio)",
         "CRISPR and Genetic Engineering",
         "Single-cell and spatial transcriptomics",
-        "CAR-T cell therapy research"
+        "Gene Regulatory Network Analysis"
       ],
       "readTime": "1 min",
       "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:24.540939+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.249580+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2556,15 +2556,15 @@ window.LIVE_FEED_DATA = {
         "Graft-versus-host disease",
         "Intensive care medicine",
         "Hematopoietic Stem Cell Transplantation",
-        "disease",
-        "effects"
+        "Cancer survivorship and care",
+        "Organ and Tissue Transplantation Research"
       ],
       "readTime": "1 min",
       "citedBy": 23,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:25.465413+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.780365+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2596,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:26.103445+00:00"
+      "_retrievedAt": "2026-10-06T22:37:45.250775+00:00"
     },
     {
       "id": "openalex-4a46ff2c29ce",
@@ -2620,7 +2620,7 @@ window.LIVE_FEED_DATA = {
         "Oceanography",
         "Ocean observations",
         "Oceanographic and Atmospheric Processes",
-        "Maritime Navigation and Safety",
+        "Underwater Vehicles and Communication Systems",
         "Ocean Waves and Remote Sensing"
       ],
       "readTime": "1 min",
@@ -2628,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:26.103784+00:00"
+      "_retrievedAt": "2026-10-06T22:37:45.251161+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -2652,7 +2652,7 @@ window.LIVE_FEED_DATA = {
         "Morphology (biology)",
         "Urban morphology",
         "Urban Heat Island Mitigation",
-        "Land Use and Ecosystem Services",
+        "Climate Change and Health Impacts",
         "Wind and Air Flow Studies"
       ],
       "readTime": "1 min",
@@ -2660,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:26.101133+00:00"
+      "_retrievedAt": "2026-10-06T22:37:45.248482+00:00"
     },
     {
       "id": "openalex-6068978c624a",
@@ -2692,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:25.469818+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.784748+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2715,16 +2715,16 @@ window.LIVE_FEED_DATA = {
         "Temperate climate",
         "Remote sensing",
         "Foundation (evidence)",
-        "Species Distribution and Climate Change",
-        "Remote Sensing and LiDAR Applications",
-        "Ecology and Vegetation Dynamics Studies"
+        "Remote-Sensing Image Classification",
+        "Remote Sensing in Agriculture",
+        "Remote Sensing and LiDAR Applications"
       ],
       "readTime": "1 min",
       "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:26.101536+00:00"
+      "_retrievedAt": "2026-10-06T22:37:45.248863+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2748,15 +2748,15 @@ window.LIVE_FEED_DATA = {
         "Cryosphere",
         "Climatology",
         "Climate variability and models",
-        "Geology and Paleoclimatology Research",
-        "Oceanographic and Atmospheric Processes"
+        "Oceanographic and Atmospheric Processes",
+        "Arctic and Antarctic ice dynamics"
       ],
       "readTime": "1 min",
       "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:26.100735+00:00"
+      "_retrievedAt": "2026-10-06T22:37:45.248076+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2780,15 +2780,15 @@ window.LIVE_FEED_DATA = {
         "Genetics",
         "Genome",
         "Genomics and Chromatin Dynamics",
-        "Chromosomal and Genetic Variations",
-        "Genomic variations and chromosomal abnormalities"
+        "Genomic variations and chromosomal abnormalities",
+        "Autism Spectrum Disorder Research"
       ],
       "readTime": "1 min",
       "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:24.539524+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.248153+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -2812,15 +2812,15 @@ window.LIVE_FEED_DATA = {
         "Pipeline (software)",
         "Code (set theory)",
         "Recommender Systems and Techniques",
-        "Music and Audio Processing",
-        "Advanced Text Analysis Techniques"
+        "Information Retrieval and Search Behavior",
+        "Advanced Bandit Algorithms Research"
       ],
       "readTime": "1 min",
       "citedBy": 25,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:23.768813+00:00"
+      "_retrievedAt": "2026-10-06T22:37:43.582579+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -2843,16 +2843,16 @@ window.LIVE_FEED_DATA = {
         "Prefix",
         "Foundation (evidence)",
         "Downstream (manufacturing)",
-        "Geographic Information Systems Studies",
-        "Data Visualization and Analytics",
-        "Computer Graphics and Visualization Techniques"
+        "Remote-Sensing Image Classification",
+        "Advanced Neural Network Applications",
+        "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
       "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:26.100319+00:00"
+      "_retrievedAt": "2026-10-06T22:37:45.247682+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -2876,15 +2876,15 @@ window.LIVE_FEED_DATA = {
         "Parametric statistics",
         "Drainage basin",
         "Landslides and related hazards",
-        "Soil erosion and sediment transport",
-        "Flood Risk Assessment and Management"
+        "Flood Risk Assessment and Management",
+        "Soil erosion and sediment transport"
       ],
       "readTime": "1 min",
       "citedBy": 3,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:26.104220+00:00"
+      "_retrievedAt": "2026-10-06T22:37:45.251618+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2908,15 +2908,15 @@ window.LIVE_FEED_DATA = {
         "Internal medicine",
         "Psychology",
         "Cancer Immunotherapy and Biomarkers",
-        "Radiomics and Machine Learning in Medical Imaging",
-        "Cancer Genomics and Diagnostics"
+        "Gene expression and cancer classification",
+        "Breast Cancer Treatment Studies"
       ],
       "readTime": "1 min",
       "citedBy": 19,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:25.465785+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.780732+00:00"
     },
     {
       "id": "openalex-0578798ae458",
@@ -2940,7 +2940,7 @@ window.LIVE_FEED_DATA = {
         "Flood myth",
         "Risk assessment",
         "Flood Risk Assessment and Management",
-        "Groundwater and Watershed Analysis",
+        "Landslides and related hazards",
         "Disaster Management and Resilience"
       ],
       "readTime": "1 min",
@@ -2948,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:26.104643+00:00"
+      "_retrievedAt": "2026-10-06T22:37:45.252025+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2971,16 +2971,16 @@ window.LIVE_FEED_DATA = {
         "Language model",
         "Natural language processing",
         "Natural language",
-        "RNA modifications and cancer",
         "Machine Learning in Bioinformatics",
-        "Topic Modeling"
+        "Genomics and Phylogenetic Studies",
+        "Genetics, Bioinformatics, and Biomedical Research"
       ],
       "readTime": "1 min",
       "citedBy": 29,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:23.768151+00:00"
+      "_retrievedAt": "2026-10-06T22:37:43.581965+00:00"
     },
     {
       "id": "openalex-5a31a7e0a2f8",
@@ -3003,16 +3003,16 @@ window.LIVE_FEED_DATA = {
         "Qualitative comparative analysis",
         "Psychology",
         "Value (mathematics)",
-        "Innovative Teaching and Learning Methods",
-        "Psychometric Methodologies and Testing",
-        "Second Language Learning and Teaching"
+        "EFL/ESL Teaching and Learning",
+        "English Language Learning and Teaching",
+        "Education, Achievement, and Giftedness"
       ],
       "readTime": "1 min",
       "citedBy": 19,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:23.770098+00:00"
+      "_retrievedAt": "2026-10-06T22:37:43.583820+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -3036,15 +3036,15 @@ window.LIVE_FEED_DATA = {
         "Cell biology",
         "Transcriptome",
         "Neuroinflammation and Neurodegeneration Mechanisms",
-        "Immune cells in cancer",
-        "Nuclear Receptors and Signaling"
+        "Multiple Sclerosis Research Studies",
+        "Inflammasome and immune disorders"
       ],
       "readTime": "1 min",
       "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:24.541292+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.249926+00:00"
     },
     {
       "id": "openalex-10ad267fea93",
@@ -3068,15 +3068,15 @@ window.LIVE_FEED_DATA = {
         "Multiple myeloma",
         "Bortezomib",
         "Multiple Myeloma Research and Treatments",
-        "Radiopharmaceutical Chemistry and Applications",
-        "Protein Degradation and Inhibitors"
+        "Monoclonal and Polyclonal Antibodies Research",
+        "Multiple Sclerosis Research Studies"
       ],
       "readTime": "1 min",
       "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:25.468705+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.783635+00:00"
     },
     {
       "id": "openalex-33e8cda96b3e",
@@ -3100,15 +3100,15 @@ window.LIVE_FEED_DATA = {
         "Immunosuppression",
         "Immunology",
         "T-cell and B-cell Immunology",
-        "CAR-T cell therapy research",
-        "Diabetes and associated disorders"
+        "Immunotherapy and Immune Responses",
+        "Psoriasis: Treatment and Pathogenesis"
       ],
       "readTime": "1 min",
       "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:25.469080+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.784012+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -3132,7 +3132,7 @@ window.LIVE_FEED_DATA = {
         "Categorization",
         "Data mining",
         "Time Series Analysis and Forecasting",
-        "Advanced Text Analysis Techniques",
+        "Anomaly Detection Techniques and Applications",
         "Topic Modeling"
       ],
       "readTime": "1 min",
@@ -3140,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:23.764997+00:00"
+      "_retrievedAt": "2026-10-06T22:37:43.580032+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -3163,16 +3163,16 @@ window.LIVE_FEED_DATA = {
         "Road traffic",
         "Sign (mathematics)",
         "Computer science",
-        "Image Processing and 3D Reconstruction",
-        "Handwritten Text Recognition Techniques",
-        "Safety Warnings and Signage"
+        "Computer Science and Engineering",
+        "Image Retrieval and Classification Techniques",
+        "Advanced Neural Network Applications"
       ],
       "readTime": "2 min",
       "citedBy": 30,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:23.767834+00:00"
+      "_retrievedAt": "2026-10-06T22:37:43.581662+00:00"
     },
     {
       "id": "openalex-9012e812c9de",
@@ -3195,16 +3195,16 @@ window.LIVE_FEED_DATA = {
         "Agriculture",
         "Biology",
         "Resource (disambiguation)",
-        "Genetic Mapping and Diversity in Plants and Animals",
         "Smart Agriculture and AI",
-        "Plant Molecular Biology Research"
+        "Genetic and phenotypic traits in livestock",
+        "Genetics and Plant Breeding"
       ],
       "readTime": "1 min",
       "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:24.541702+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.250338+00:00"
     },
     {
       "id": "openalex-5cd132793914",
@@ -3227,16 +3227,16 @@ window.LIVE_FEED_DATA = {
         "Inflammation",
         "Medicine",
         "Immunology",
-        "Chronic Obstructive Pulmonary Disease (COPD) Research",
-        "Respiratory Support and Mechanisms",
-        "Pneumonia and Respiratory Infections"
+        "Pneumonia and Respiratory Infections",
+        "Sepsis Diagnosis and Treatment",
+        "Respiratory Support and Mechanisms"
       ],
       "readTime": "1 min",
       "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:25.470265+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.785053+00:00"
     },
     {
       "id": "openalex-c3aaf692321e",
@@ -3260,15 +3260,15 @@ window.LIVE_FEED_DATA = {
         "Spin isomers of hydrogen",
         "Polarization (electrochemistry)",
         "Advanced NMR Techniques and Applications",
-        "Advanced MRI Techniques and Applications",
-        "Electron Spin Resonance Studies"
+        "Metabolomics and Mass Spectrometry Studies",
+        "Atomic and Subatomic Physics Research"
       ],
       "readTime": "1 min",
       "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:25.470696+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.785444+00:00"
     },
     {
       "id": "openalex-bb50663ea11d",
@@ -3292,15 +3292,15 @@ window.LIVE_FEED_DATA = {
         "Environmental science",
         "Land cover",
         "Remote Sensing in Agriculture",
-        "Land Use and Ecosystem Services",
-        "Remote-Sensing Image Classification"
+        "Remote-Sensing Image Classification",
+        "Smart Agriculture and AI"
       ],
       "readTime": "1 min",
       "citedBy": 4,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:26.101968+00:00"
+      "_retrievedAt": "2026-10-06T22:37:45.249318+00:00"
     },
     {
       "id": "openalex-a29127dc905f",
@@ -3332,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:25.466332+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.781318+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -3353,18 +3353,18 @@ window.LIVE_FEED_DATA = {
         "Library science",
         "Medicine",
         "Computer science",
+        "Biofield Effects and Biophysics",
+        "Electromagnetic Fields and Biological Effects",
         "Complementary and Alternative Medicine Studies",
         "therapies",
-        "complementary",
-        "medicine",
-        "biological"
+        "complementary"
       ],
       "readTime": "1 min",
       "citedBy": 18,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:25.465994+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.780955+00:00"
     },
     {
       "id": "openalex-771740d27607",
@@ -3387,16 +3387,16 @@ window.LIVE_FEED_DATA = {
         "Drug delivery",
         "Antibiotics",
         "Drug",
-        "Nanoplatforms for cancer theranostics",
-        "Graphene and Nanomaterials Applications",
-        "Nanoparticle-Based Drug Delivery"
+        "Nanoparticle-Based Drug Delivery",
+        "Advanced Drug Delivery Systems",
+        "RNA Interference and Gene Delivery"
       ],
       "readTime": "1 min",
       "citedBy": 8,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:25.466709+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.781669+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -3419,16 +3419,16 @@ window.LIVE_FEED_DATA = {
         "Limiting",
         "Biology",
         "Computational biology",
-        "Genetic Mapping and Diversity in Plants and Animals",
-        "Smart Agriculture and AI",
-        "Remote Sensing in Agriculture"
+        "Genetics and Plant Breeding",
+        "Genetic and phenotypic traits in livestock",
+        "Smart Agriculture and AI"
       ],
       "readTime": "1 min",
       "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:26.099964+00:00"
+      "_retrievedAt": "2026-10-06T22:37:45.247313+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -3460,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:24.538611+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.247221+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -3484,15 +3484,15 @@ window.LIVE_FEED_DATA = {
         "False positive paradox",
         "Artificial intelligence",
         "Network Security and Intrusion Detection",
-        "Information and Cyber Security",
-        "Anomaly Detection Techniques and Applications"
+        "Explainable Artificial Intelligence (XAI)",
+        "Adversarial Robustness in Machine Learning"
       ],
       "readTime": "1 min",
       "citedBy": 42,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:23.766545+00:00"
+      "_retrievedAt": "2026-10-06T22:37:43.580829+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -3515,16 +3515,16 @@ window.LIVE_FEED_DATA = {
         "Qualitative property",
         "Data collection",
         "Sample (material)",
-        "Sports Analytics and Performance",
-        "Forecasting Techniques and Applications",
-        "Flood Risk Assessment and Management"
+        "Survey Methodology and Nonresponse",
+        "Focus Groups and Qualitative Methods",
+        "Computational and Text Analysis Methods"
       ],
       "readTime": "1 min",
       "citedBy": 27,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:23.768475+00:00"
+      "_retrievedAt": "2026-10-06T22:37:43.582263+00:00"
     },
     {
       "id": "openalex-7a70a48faaec",
@@ -3547,16 +3547,16 @@ window.LIVE_FEED_DATA = {
         "Colorectal cancer",
         "Internal medicine",
         "Clinical endpoint",
-        "Cancer Genomics and Diagnostics",
         "Colorectal Cancer Treatments and Studies",
-        "Cancer Cells and Metastasis"
+        "Colorectal Cancer Surgical Treatments",
+        "Cancer Genomics and Diagnostics"
       ],
       "readTime": "1 min",
       "citedBy": 8,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:25.467079+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.782055+00:00"
     },
     {
       "id": "openalex-797c77e03bf0",
@@ -3579,16 +3579,16 @@ window.LIVE_FEED_DATA = {
         "Artificial intelligence",
         "Psychology",
         "Computer science",
-        "Mental Health Research Topics",
-        "Digital Mental Health Interventions",
-        "learning"
+        "Artificial Intelligence in Healthcare",
+        "Emotion and Mood Recognition",
+        "Machine Learning in Healthcare"
       ],
       "readTime": "1 min",
       "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T13:19:25.471043+00:00"
+      "_retrievedAt": "2026-10-06T22:37:44.785788+00:00"
     }
   ]
 };
