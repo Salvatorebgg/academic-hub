@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-06T00:02:24.686093+00:00",
-  "total": 97,
+  "generatedAt": "2026-10-06T06:15:41.475053+00:00",
+  "total": 112,
   "sources": [
     "RSS",
     "OpenAlex"
@@ -36,7 +36,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.030593+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.849066+00:00"
     },
     {
       "id": "rss-1ea181e90a36",
@@ -68,7 +68,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.030800+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.849389+00:00"
     },
     {
       "id": "rss-8203113ac209",
@@ -100,7 +100,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.030985+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.849674+00:00"
     },
     {
       "id": "rss-d87469f3e139",
@@ -132,7 +132,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.031189+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.849971+00:00"
     },
     {
       "id": "rss-61c0fefbf0e0",
@@ -164,7 +164,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.031350+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.850235+00:00"
     },
     {
       "id": "rss-a5965d133862",
@@ -196,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.031523+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.850510+00:00"
     },
     {
       "id": "rss-3ca8f36d681c",
@@ -228,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.031658+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.850718+00:00"
     },
     {
       "id": "rss-b824ddf9d56f",
@@ -260,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.031827+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.850977+00:00"
     },
     {
       "id": "rss-22a2dda3be3b",
@@ -292,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.031982+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.851232+00:00"
     },
     {
       "id": "rss-a95b32e68488",
@@ -324,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.032141+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.851478+00:00"
     },
     {
       "id": "rss-8ecb9811f2f9",
@@ -356,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.032308+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.851738+00:00"
     },
     {
       "id": "rss-2af4aa0c9c15",
@@ -388,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.032480+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.852009+00:00"
     },
     {
       "id": "rss-0c7e44423951",
@@ -420,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.032664+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.852307+00:00"
     },
     {
       "id": "rss-aae49d53f219",
@@ -452,7 +452,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.032827+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.852571+00:00"
     },
     {
       "id": "rss-cd71ba4db8c3",
@@ -484,7 +484,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.125695+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.917077+00:00"
     },
     {
       "id": "rss-6d9e8e40ae5c",
@@ -516,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.125889+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.917420+00:00"
     },
     {
       "id": "rss-9ca09c4a7627",
@@ -548,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.126029+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.917642+00:00"
     },
     {
       "id": "rss-9f62890d832d",
@@ -580,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.126146+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.917851+00:00"
     },
     {
       "id": "rss-2e2e3d9e0e7b",
@@ -612,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.126268+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.918039+00:00"
     },
     {
       "id": "rss-fd9f1dbfdcfa",
@@ -644,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.126383+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.918286+00:00"
     },
     {
       "id": "rss-68dca33d7aed",
@@ -676,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.126492+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.918501+00:00"
     },
     {
       "id": "rss-7d7f88fa3d27",
@@ -708,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.126597+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.918681+00:00"
     },
     {
       "id": "rss-0f8cd5ff83ea",
@@ -740,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.126703+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.918888+00:00"
     },
     {
       "id": "rss-75c64b694120",
@@ -772,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.126827+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.919083+00:00"
     },
     {
       "id": "rss-e5b30928abb2",
@@ -804,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.126959+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.919338+00:00"
     },
     {
       "id": "rss-1187a5f6f69f",
@@ -836,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.127060+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.919505+00:00"
     },
     {
       "id": "rss-da9bb2a4522b",
@@ -868,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.127174+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.919712+00:00"
     },
     {
       "id": "rss-4c71ff37378e",
@@ -900,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.127274+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.919879+00:00"
     },
     {
       "id": "rss-19d143b1e9c8",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.183851+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.955755+00:00"
     },
     {
       "id": "rss-cefee57ba8d3",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.183987+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.956067+00:00"
     },
     {
       "id": "rss-2496878eb76f",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.184105+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.956398+00:00"
     },
     {
       "id": "rss-ec0c454d28a6",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.184245+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.956733+00:00"
     },
     {
       "id": "rss-2b529d97fb90",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.184352+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.957017+00:00"
     },
     {
       "id": "rss-6cc50e6c3036",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.184457+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.957319+00:00"
     },
     {
       "id": "rss-0333c77565a0",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.344226+00:00"
+      "_retrievedAt": "2026-10-06T06:15:41.277637+00:00"
     },
     {
       "id": "rss-93b8d56ba100",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.184569+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.957618+00:00"
     },
     {
       "id": "rss-d2d5303f2df6",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.184676+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.957896+00:00"
     },
     {
       "id": "rss-0f5454e2985b",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.184780+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.958169+00:00"
     },
     {
       "id": "rss-975ad9b8aec5",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.184875+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.958459+00:00"
     },
     {
       "id": "rss-a7d777e1fbd3",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.344605+00:00"
+      "_retrievedAt": "2026-10-06T06:15:41.278117+00:00"
     },
     {
       "id": "rss-9c55cfccdd04",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.184966+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.958711+00:00"
     },
     {
       "id": "rss-15bfac0aca91",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.185074+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.958989+00:00"
     },
     {
       "id": "rss-c6dd1d7e00a5",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.185222+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.959294+00:00"
     },
     {
       "id": "rss-2eaa3a09d482",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.185341+00:00"
+      "_retrievedAt": "2026-10-06T06:15:40.959691+00:00"
     },
     {
       "id": "rss-a969e28ae72b",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.345041+00:00"
+      "_retrievedAt": "2026-10-06T06:15:41.278695+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.345303+00:00"
+      "_retrievedAt": "2026-10-06T06:15:41.279034+00:00"
     },
     {
       "id": "rss-4d47532c7c63",
@@ -1508,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.345492+00:00"
+      "_retrievedAt": "2026-10-06T06:15:41.279321+00:00"
     },
     {
       "id": "rss-bf9122547ba1",
@@ -1540,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.345823+00:00"
+      "_retrievedAt": "2026-10-06T06:15:41.279776+00:00"
     },
     {
       "id": "rss-188abdd7fd48",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.345969+00:00"
+      "_retrievedAt": "2026-10-06T06:15:41.279988+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1604,7 +1604,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:48.189276+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.036851+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1636,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.346131+00:00"
+      "_retrievedAt": "2026-10-06T06:15:41.280228+00:00"
     },
     {
       "id": "rss-b0ad43b43ecb",
@@ -1668,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.346261+00:00"
+      "_retrievedAt": "2026-10-06T06:15:41.280423+00:00"
     },
     {
       "id": "rss-0aa9231559e8",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:02:24.346660+00:00"
+      "_retrievedAt": "2026-10-06T06:15:41.280941+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1732,7 +1732,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:48.191320+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.039705+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1764,7 +1764,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:48.187767+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.034903+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1796,7 +1796,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:51.010513+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.671479+00:00"
+    },
+    {
+      "id": "openalex-3b7d32d6ce88",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Microtubule regulation in cancer cells",
+      "authors": "Alex Matov",
+      "abstract": "Introduction: The notion of microtubule (MT) dynamics relates to the changes in the length of MT polymers in living cells. They are governed by a stochastic process related to the rates and chances of adding or removing tubulin dimers at the ends of MT polymers, termed dynamic instability. The ability of each MT to swiftly switch between stages of adding or removing dimers at the tip of its lattice is critical for the overall success of the mitotic spindle, a molecular machinery built dynamically by MTs and associated molecular motor proteins, in properly segregating the duplicated DNA into the two daughter cells. When changes in the genetic and epigenetic regulation of the cell affect this ability, for example, by increasing the rates of hydrolysis of bound to tubulin dimers incorporated in the MT lattice, that results in segregation errors and is a hallmark of disease. Methods: In c...",
+      "date": "2026-08-21",
+      "year": 2026,
+      "journal": "Frontiers in Cell and Developmental Biology",
+      "source": "Frontiers in Cell and Developmental Biology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/fcell.2025.1677302",
+      "doi": "10.3389/fcell.2025.1677302",
+      "pdfUrl": "https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2025.1677302/pdf",
+      "keywords": [
+        "Microtubule",
+        "Cancer",
+        "Cell biology",
+        "Biology",
+        "Medicine",
+        "Microtubule and mitosis dynamics",
+        "Ubiquitin and proteasome pathways",
+        "Epigenetics and DNA Methylation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 7,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T06:15:36.308084+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1828,7 +1860,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:01:07.366798+00:00"
+      "_retrievedAt": "2026-10-06T06:15:36.904046+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1860,7 +1892,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:51.008572+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.668745+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -1892,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:48.190464+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.038511+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -1924,7 +1956,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:51.009253+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.669708+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -1956,7 +1988,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:51.009496+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.670044+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -1988,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:01:07.367059+00:00"
+      "_retrievedAt": "2026-10-06T06:15:36.904431+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2020,7 +2052,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:48.190680+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.038807+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2052,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:51.007749+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.667554+00:00"
     },
     {
       "id": "openalex-34f37069c1ad",
@@ -2084,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:51.008724+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.668966+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2116,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:51.010782+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.671846+00:00"
     },
     {
       "id": "openalex-7a85bfe0ead2",
@@ -2148,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:01:07.367332+00:00"
+      "_retrievedAt": "2026-10-06T06:15:36.904789+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2180,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:01:07.364627+00:00"
+      "_retrievedAt": "2026-10-06T06:15:36.901003+00:00"
     },
     {
       "id": "openalex-cc20596fdff7",
@@ -2212,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:51.011007+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.672157+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2244,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:01:07.364883+00:00"
+      "_retrievedAt": "2026-10-06T06:15:36.901382+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2276,7 +2308,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:48.188680+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.036060+00:00"
+    },
+    {
+      "id": "openalex-3d03dfc7e37b",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study",
+      "authors": "Michael Pavlides, Yasaman Vali, Ferenc Emil Mózes, Kristy Wonders, Salma Akhtar, Paul Hockings",
+      "abstract": "There is a need for robust evaluations of noninvasive biomarkers for metabolic dysfunction-associated steatotic liver disease. This prospective multicenter study assessed the diagnostic accuracy of imaging (including liver stiffness measurement (LSM) using magnetic resonance elastography (MRE) and FibroScan (vibration-controlled transient elastography (VCTE)), serum biomarkers (including NIS2+) and composite scores (including Agile 3+ and Agile 4) for centrally read steatohepatitis and fibrosis. For cirrhosis, several biomarkers exceeded the minimum acceptable performance criterion (MAC), including MRE (area under the receiver operating curve (AUC) 0.91; P < 0.01), VCTE-LSM (AUC 0.87; P < 0.01), Agile 3+ (AUC 0.89; P < 0.01) and Agile 4 (AUC 0.88; P < 0.01). Among 357 participants, fibrosis stages F0-F4 were present in 12%, 16%, 25%, 32% and 15%, respectively. NIS2+ had the highest di...",
+      "date": "2026-07-24",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04496-2",
+      "doi": "10.1038/s41591-026-04496-2",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04496-2.pdf",
+      "keywords": [
+        "Magnetic resonance elastography",
+        "Steatohepatitis",
+        "Medicine",
+        "Transient elastography",
+        "Elastography",
+        "Liver Disease Diagnosis and Treatment",
+        "Liver Diseases and Immunity",
+        "Liver Disease and Transplantation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T06:15:36.308475+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2308,7 +2372,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:51.008175+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.668139+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2340,7 +2404,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:48.190913+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.039130+00:00"
+    },
+    {
+      "id": "openalex-1b0263729043",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Personalized cancer vaccines: bridging immune-oncology and precision medicine for advanced therapeutics",
+      "authors": "Leiguang Ye, Guo Zhao, Jiaxiu Ma, Qianqian Gan, Na Luo, Dingyu Pan",
+      "abstract": "Despite advancements in therapeutic cancer vaccines, clinical translation has been hindered by limited efficacy, with Sipuleucel-T remaining the only FDA-approved therapeutic cancer vaccine to date. However, recent advances in personalized mRNA vaccines, such as Moderna's mRNA-4157 and BioNTech's autogene cevumeran, have demonstrated significant reductions in recurrence risk and improved survival across several cancer types, renewing optimism in the field. Personalized cancer vaccines leverage patient-specific tumor antigens to initiate potent and targeted immune responses. This review outlines various classes of personalized vaccines, including DNA-, mRNA-, peptide-, dendritic cell-, and whole-cell-based platforms, and examines the immunological challenges they face, such as tumor heterogeneity, immunosuppressive microenvironments, and inadequate immune memory. To address these limit...",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "Signal Transduction and Targeted Therapy",
+      "source": "Signal Transduction and Targeted Therapy",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41392-026-02769-3",
+      "doi": "10.1038/s41392-026-02769-3",
+      "pdfUrl": "https://www.nature.com/articles/s41392-026-02769-3.pdf",
+      "keywords": [
+        "Precision medicine",
+        "Bridging (networking)",
+        "Medicine",
+        "Personalized medicine",
+        "Precision oncology",
+        "Immunotherapy and Immune Responses",
+        "vaccines and immunoinformatics approaches",
+        "Cancer Immunotherapy and Biomarkers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T06:15:36.310104+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2372,7 +2468,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:48.188137+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.035357+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2404,7 +2500,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:51.009716+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.670376+00:00"
+    },
+    {
+      "id": "openalex-56385e95541c",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Understanding graft-versus-host disease. Preliminary findings regarding the effects of exercise in affected patients",
+      "authors": "Carmen Fiuza‐Luces, Nuria Garatachea, Nathan A. Berger, Nathan A. Berger, Manuel R. Ramírez, Alejandro Lucía",
+      "abstract": "Advances in this century regarding allogeneic hematopoietic stem cell transplantation (allo-HSCT) have led to an expanding population of long-term survivors, many of whom suffer severe side effects, particularly those related to graft-versushost disease (GVHD), a potentially multi-systemic disorder caused by immunoeffector donor lymphocytes that destroy host tissues. The GVHD, especially in its chronic form (cGVHD), generates considerable morbidity and compromises the physical capacity of patients. We have reviewed the main pathophysiological aspects of the disease as well as the data available on the effects of exercise in GVHD, based on animal and human patient research. Although exercise training as an adjunct therapy to improve health outcomes after allo-HSCT shows promise (particularly, this lifestyle intervention can improve physical fitness and possibly immune function while at...",
+      "date": "2026-07-15",
+      "year": 2026,
+      "journal": "PubMed",
+      "source": "PubMed",
+      "sourceApi": "OpenAlex",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25826127",
+      "doi": "10.22029/eir.2015.1698",
+      "pdfUrl": "http://zaguan.unizar.es/record/61323",
+      "keywords": [
+        "Medicine",
+        "Disease",
+        "Hematopoietic stem cell transplantation",
+        "Graft-versus-host disease",
+        "Intensive care medicine",
+        "Hematopoietic Stem Cell Transplantation",
+        "disease",
+        "effects"
+      ],
+      "readTime": "1 min",
+      "citedBy": 23,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T06:15:36.306084+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2436,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:01:07.367543+00:00"
+      "_retrievedAt": "2026-10-06T06:15:36.905075+00:00"
     },
     {
       "id": "openalex-4a46ff2c29ce",
@@ -2468,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:01:07.367828+00:00"
+      "_retrievedAt": "2026-10-06T06:15:36.905429+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -2500,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:01:07.365923+00:00"
+      "_retrievedAt": "2026-10-06T06:15:36.902840+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2532,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:01:07.366206+00:00"
+      "_retrievedAt": "2026-10-06T06:15:36.903239+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2564,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:01:07.365640+00:00"
+      "_retrievedAt": "2026-10-06T06:15:36.902432+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2596,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:51.008973+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.669334+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -2628,7 +2756,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:48.190249+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.038190+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -2660,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:01:07.365370+00:00"
+      "_retrievedAt": "2026-10-06T06:15:36.902041+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -2692,7 +2820,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:01:07.368211+00:00"
+      "_retrievedAt": "2026-10-06T06:15:36.905871+00:00"
+    },
+    {
+      "id": "openalex-f2829fa041f5",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Generalizable AI predicts immunotherapy outcomes across cancers and treatments",
+      "authors": "Wan Xiang Shen, Intae Moon, Thinh H. Nguyen, Michelle M. Li, Yepeng Huang, Nitya Nair",
+      "abstract": "Immune checkpoint inhibitors are standard across cancers, yet most patients do not respond and existing biomarkers generalize poorly across tumor types, drugs and clinical settings. We present C ompass , a pan-cancer foundation model that predicts immunotherapy response from bulk tumor transcriptomes using a concept-bottleneck transformer. C ompass encodes gene expression through 44 biologically grounded immune concepts representing immune cell states, tumor-microenvironment interactions, and signaling pathways. Trained on 10,184 tumors across 33 cancer types, C ompass outperforms 22 baseline methods in 16 independent clinical cohorts spanning seven cancers and six immune checkpoint inhibitors, increasing accuracy by 8.5% and area under the precision-recall curve by 15.7%, with minimal additional training. The model generalizes to unseen cancer types and treatments, supporting indicat...",
+      "date": "2026-07-03",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04502-7",
+      "doi": "10.1038/s41591-026-04502-7",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04502-7.pdf",
+      "keywords": [
+        "Immunotherapy",
+        "Medicine",
+        "Oncology",
+        "Internal medicine",
+        "Psychology",
+        "Cancer Immunotherapy and Biomarkers",
+        "Radiomics and Machine Learning in Medical Imaging",
+        "Cancer Genomics and Diagnostics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 19,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T06:15:36.306470+00:00"
     },
     {
       "id": "openalex-0578798ae458",
@@ -2724,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:01:07.368519+00:00"
+      "_retrievedAt": "2026-10-06T06:15:36.906289+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2756,7 +2916,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:48.189803+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.037600+00:00"
     },
     {
       "id": "openalex-5a31a7e0a2f8",
@@ -2788,7 +2948,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:48.191138+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.039459+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -2820,7 +2980,71 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:51.009978+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.670739+00:00"
+    },
+    {
+      "id": "openalex-10ad267fea93",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial",
+      "authors": "Marc Steffen Raab, Niels Weinhold, Klaus Martin Kortüm, Jan Krönke, Roland R. Fenk, Katja Christina Weisel",
+      "abstract": "Abstract Advancements in frontline therapies have substantially improved outcomes in newly diagnosed multiple myeloma (NDMM); however, many patients will not achieve deep responses and will relapse. Teclistamab, a BCMA×CD3 bispecific antibody, in combination with daratumumab, has demonstrated strong efficacy in relapsed/refractory multiple myeloma versus standard of care as early as first relapse. This ongoing phase 2 GMMG-HD10/DSMM-XX (MajesTEC-5) study evaluates teclistamab-based regimens in transplant-eligible NDMM. In this prespecified pooled analysis of three cohorts, 49 patients received teclistamab/daratumumab/lenalidomide (Tec-DR; arms A and A1) or Tec-DR with bortezomib (Tec-DVR; arm B). Primary endpoints were incidence and severity of adverse events (AEs) and serious AEs; secondary endpoints included overall response rate (ORR), minimal residual disease (MRD) negativity and...",
+      "date": "2026-06-25",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04471-x",
+      "doi": "10.1038/s41591-026-04471-x",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04471-x.pdf",
+      "keywords": [
+        "Medicine",
+        "Internal medicine",
+        "Leukopenia",
+        "Multiple myeloma",
+        "Bortezomib",
+        "Multiple Myeloma Research and Treatments",
+        "Radiopharmaceutical Chemistry and Applications",
+        "Protein Degradation and Inhibitors"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T06:15:36.308935+00:00"
+    },
+    {
+      "id": "openalex-33e8cda96b3e",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Regulatory T cells: master orchestrators of immune tolerance and tissue homeostasis",
+      "authors": "Jeffrey A. Bluestone, Megan K. Levings, Frederick J. Ramsdell, Alexander Yu Rudensky, Qizhi Tang, Piotr Trzonkowski",
+      "abstract": "Harnessing the biology of regulatory T cells (Tregs) for therapeutic development is one of medicine’s most promising opportunities to transform disease treatment. Initially viewed simply as guardians against destructive immune responses, we now understand that Tregs are adaptive and highly specialized coordinators of immune tolerance and tissue repair. This strategic roadmap examines how evolving insights into their central role in maintaining tolerance and health can transform therapeutic development across medical specialties. Early efforts to evaluate Treg therapies have proven safe and shown some clinical benefit. The convergence of biological insights and technological advances has the potential to harness and exploit this specialized tolerogenic population by augmenting function through environmental cues and reinforcing tissue-repair capabilities. Advanced engineering approache...",
+      "date": "2026-06-25",
+      "year": 2026,
+      "journal": "Frontiers in Science",
+      "source": "Frontiers in Science",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/fsci.2026.1792210",
+      "doi": "10.3389/fsci.2026.1792210",
+      "pdfUrl": "https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2026.1792210/pdf",
+      "keywords": [
+        "Immune system",
+        "Disease",
+        "Immune tolerance",
+        "Immunosuppression",
+        "Immunology",
+        "T-cell and B-cell Immunology",
+        "CAR-T cell therapy research",
+        "Diabetes and associated disorders"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T06:15:36.309357+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -2852,7 +3076,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:48.188398+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.035696+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -2884,7 +3108,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:48.189580+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.037288+00:00"
     },
     {
       "id": "openalex-9012e812c9de",
@@ -2916,7 +3140,71 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:51.010278+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.671117+00:00"
+    },
+    {
+      "id": "openalex-5cd132793914",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Pulmonary inflammation in severe pneumonia is characterised by compartmentalised and mechanistically distinct sub-phenotypes",
+      "authors": "Mark Jeffrey, Josefin Bartholdson Scott, Shyamanova Mazumdar, Richard Joseph White, Ellen E. Higginson, Mailis Maes",
+      "abstract": "Pneumonia is the leading infectious disease killer worldwide and commonly requires admission to critical care. Despite its prevalence, the underpinning biology of severe pneumonia remains incompletely understood. Here we perform multifaceted assessments of bronchoalveolar transcriptome, cytokines, microbiology, and clinical features to biologically characterise a cohort of patients with suspected severe pneumonia. Our data implicate three lung-restricted transcriptionally defined severe pneumonia endotypes (termed 'Pneumotypes' (Pn)). All three Pneumotypes have comparable clinical presentations and severity of respiratory failure but experience divergent outcomes. Pn1, the most common, is characterised by low alveolar cytokines, expanded tolerogenic macrophages and epithelial damage. Pn3 is characterised by immature neutrophil infiltration, IL-6-STAT3 activation and longer duration of...",
+      "date": "2026-06-23",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-74190-x",
+      "doi": "10.1038/s41467-026-74190-x",
+      "pdfUrl": "https://www.nature.com/articles/s41467-026-74190-x.pdf",
+      "keywords": [
+        "Phenotype",
+        "Pneumonia",
+        "Inflammation",
+        "Medicine",
+        "Immunology",
+        "Chronic Obstructive Pulmonary Disease (COPD) Research",
+        "Respiratory Support and Mechanisms",
+        "Pneumonia and Respiratory Infections"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T06:15:36.310415+00:00"
+    },
+    {
+      "id": "openalex-c3aaf692321e",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Hyperpolarization of [1‐ 13 C]Ketoisocaproate‐d 2 by Reversible Exchange with Parahydrogen Enables Profiling of Branched‐Chain‐Amino‐Acid Metabolism in Cellulo and in Vivo",
+      "authors": "Stefan Petersen, Philipp R. Groß, Paul M. Schmidt, Henri de Maissin, Asitan Rittinger, Robert Willing",
+      "abstract": "ABSTRACT Hyperpolarized 1 3 C magnetic resonance imaging (MRI) is the only method to image metabolic fluxes in real time, non‐invasively, and in vivo. To date, however, most studies have used [1‐ 1 3 C]pyruvate and dynamic nuclear polarization (dDNP). Here, we establish efficient hyperpolarization (HP) of protio and partially‐deuterated [1‐ 1 3 C]ketoisocaproate (KIC) using Spin‐Lock‐Induced‐Crossing‐Signal Amplification by Reversible Exchange (SLIC‐SABRE), a high‐throughput, uncomplex and low‐cost method based on parahydrogen. We demonstrate 13 C polarization up to ≈28% and T 1 relaxation times > 200 s at 1 T in methanol‐d 4 . A rapid purification procedure allowed us to obtain biocompatible formulations with ≈11% 13 C polarization at the time of injection, sufficient for in cellulo and in vivo studies. We found that branched‐chain‐amino‐acid transaminase (BCAT) activity leads to HP...",
+      "date": "2026-06-23",
+      "year": 2026,
+      "journal": "Advanced Science",
+      "source": "Advanced Science",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1002/advs.76213",
+      "doi": "10.1002/advs.76213",
+      "pdfUrl": "https://doi.org/10.1002/advs.76213",
+      "keywords": [
+        "Hyperpolarization (physics)",
+        "In vivo",
+        "Chemistry",
+        "Spin isomers of hydrogen",
+        "Polarization (electrochemistry)",
+        "Advanced NMR Techniques and Applications",
+        "Advanced MRI Techniques and Applications",
+        "Electron Spin Resonance Studies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T06:15:36.310797+00:00"
     },
     {
       "id": "openalex-bb50663ea11d",
@@ -2948,7 +3236,103 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:01:07.366520+00:00"
+      "_retrievedAt": "2026-10-06T06:15:36.903665+00:00"
+    },
+    {
+      "id": "openalex-a29127dc905f",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Shear Wave Elastography in Musculoskeletal Imaging: A Narrative Review",
+      "authors": "Enes Gürün, Mesut Öztürk, Mustafa Başaran, Ahmet Emin Okutan",
+      "abstract": "Shear wave elastography (SWE) is an increasingly investigated ultrasound-based technique in musculoskeletal imaging that provides quantitative information on tissue stiffness and biomechanical properties. This narrative review aims to summarize the basic principles, technical considerations, current clinical applications, limitations, and future perspectives of SWE in musculoskeletal imaging. Unlike conventional grayscale and Doppler ultrasonography, which mainly assess morphology and vascularity, SWE may provide additional functional information in major musculoskeletal tissues, including tendons and ligaments, skeletal muscles, peripheral nerves, fibrocartilaginous structures, plantar fascia, and selected soft tissue lesions. Current evidence suggests potential roles for SWE in detecting early biomechanical alterations, assessing disease severity, differentiating symptomatic from as...",
+      "date": "2026-06-22",
+      "year": 2026,
+      "journal": "Journal of Clinical Medicine",
+      "source": "Journal of Clinical Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/jcm15124843",
+      "doi": "10.3390/jcm15124843",
+      "pdfUrl": "https://www.mdpi.com/2077-0383/15/12/4843/pdf?version=1782289561",
+      "keywords": [
+        "Medicine",
+        "Narrative review",
+        "Elastography",
+        "Asymptomatic",
+        "Soft tissue",
+        "Ultrasound Imaging and Elastography",
+        "Tendon Structure and Treatment",
+        "Elasticity and Material Modeling"
+      ],
+      "readTime": "1 min",
+      "citedBy": 10,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T06:15:36.307007+00:00"
+    },
+    {
+      "id": "openalex-c2a093804030",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "International Journal of Complementary & Alternative Medicine",
+      "authors": "OpenAlex indexed authors",
+      "abstract": "There is a growing demand for integrative and complementary therapies for various health conditions, while the mechanisms and biological pathways for some of these therapies are poorly explored.In particular, bioelectric, biomagnetic and anthropogenic fields interact with biological structures such as tissues, cells and DNA.It is suggested that these interactions may create an integrated system of internal communication, with the potential to promote therapeutic benefits.The theoretical model Biofield-Tissue Tensegrity Matrix (BTTM) is presented by combining concepts from physics, biology and medicine to serve as a possible theoretical basis for energy therapies.",
+      "date": "2026-06-20",
+      "year": 2026,
+      "journal": "International Journal of Complementary & Alternative Medicine",
+      "source": "International Journal of Complementary & Alternative Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.15406/ijcam",
+      "doi": "10.15406/ijcam",
+      "pdfUrl": "https://medcraveonline.com/IJCAM/IJCAM-18-00731.pdf",
+      "keywords": [
+        "Library science",
+        "Medicine",
+        "Computer science",
+        "Complementary and Alternative Medicine Studies",
+        "therapies",
+        "complementary",
+        "medicine",
+        "biological"
+      ],
+      "readTime": "1 min",
+      "citedBy": 18,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T06:15:36.306676+00:00"
+    },
+    {
+      "id": "openalex-771740d27607",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Stimuli-responsive nanocarriers for precision targeted and controlled antimicrobial drug delivery in drug-resistant infections",
+      "authors": "Li Dai, Xiaoyan Sun",
+      "abstract": ". Conventional antibiotics exhibit non-specific systemic distribution, frequently fail to achieve sustained therapeutic concentrations at infection sites, and expose both pathogenic and commensal microbiota to sub-inhibitory levels that accelerate resistance selection. In contrast, infected tissues exhibit distinct and dynamic microenvironmental features-including acidic pH, elevated reactive oxygen species, pathogen-associated enzymatic activity, hypoxia, and localized inflammatory signaling-that are largely absent in healthy tissues and provide exploitable triggers for targeted therapy. Stimuli-responsive nanocarriers are engineered to sense and respond to these pathological cues, enabling spatiotemporally controlled and infection-specific drug release while minimizing systemic exposure. In this review, we systematically analyze the mechanistic foundations of pH-, enzyme-, redox-, a...",
+      "date": "2026-06-12",
+      "year": 2026,
+      "journal": "Frontiers in Microbiology",
+      "source": "Frontiers in Microbiology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/fmicb.2026.1803769",
+      "doi": "10.3389/fmicb.2026.1803769",
+      "pdfUrl": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1803769/pdf",
+      "keywords": [
+        "Nanocarriers",
+        "Antimicrobial",
+        "Drug delivery",
+        "Antibiotics",
+        "Drug",
+        "Nanoplatforms for cancer theranostics",
+        "Graphene and Nanomaterials Applications",
+        "Nanoparticle-Based Drug Delivery"
+      ],
+      "readTime": "1 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T06:15:36.307372+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -2980,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:01:07.365097+00:00"
+      "_retrievedAt": "2026-10-06T06:15:36.901687+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -3012,7 +3396,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:51.008333+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.668410+00:00"
     },
     {
       "id": "openalex-c3f24577717a",
@@ -3044,7 +3428,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:48.191521+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.039984+00:00"
     },
     {
       "id": "openalex-42a964175819",
@@ -3076,7 +3460,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:48.188980+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.036471+00:00"
     },
     {
       "id": "openalex-af6666a0b36a",
@@ -3108,7 +3492,103 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T00:00:48.190003+00:00"
+      "_retrievedAt": "2026-10-06T06:15:35.037875+00:00"
+    },
+    {
+      "id": "openalex-7a70a48faaec",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Post-adjuvant chemotherapy in ctDNA-positive patients with resected colorectal cancer: a randomized phase 3 trial",
+      "authors": "Hideaki Bando, Jun Watanabe, Yusuke Takahashi, Masahito Kotaka, Nobuhisa Matsuhashi, Eiji Oki",
+      "abstract": "Tumor-informed circulating tumor DNA (ctDNA) enables detection of molecular residual disease (MRD) after curative resection of colorectal cancer (CRC), but whether early intervention improves outcomes remains uncertain. ALTAIR was a randomized, double-blind, phase 3 trial embedded in the CIRCULATE-Japan platform evaluating a post-adjuvant ctDNA surveillance strategy with treatment initiation upon molecular recurrence. Patients with resected stage 0–IV CRC who became ctDNA positive after completion of standard-of-care therapy and had no radiological evidence of disease were randomly assigned (1:1) to receive trifluridine/tipiracil (FTD/TPI) or placebo for 6 months. The primary endpoint was investigator-assessed disease-free survival (DFS). Between July 2020 and June 2023, 243 patients were randomized to FTD/TPI (n = 122) or placebo (n = 121). Median DFS was 9.30 months with FTD/TPI and...",
+      "date": "2026-06-08",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04428-0",
+      "doi": "10.1038/s41591-026-04428-0",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04428-0.pdf",
+      "keywords": [
+        "Medicine",
+        "Placebo",
+        "Colorectal cancer",
+        "Internal medicine",
+        "Clinical endpoint",
+        "Cancer Genomics and Diagnostics",
+        "Colorectal Cancer Treatments and Studies",
+        "Cancer Cells and Metastasis"
+      ],
+      "readTime": "1 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T06:15:36.307740+00:00"
+    },
+    {
+      "id": "openalex-797c77e03bf0",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Advancements in machine learning and deep learning for early detection and management of mental health disorder",
+      "authors": "Kamala Devi Kannan, Senthil Kumar Jagatheesaperumal, Kandala N. V. P. S. Rajesh, Mojtaba Lotfaliany, Roohallah Alizadehsanid, Mohammadreza Mohebbi",
+      "abstract": "For the early identification, diagnosis, and treatment of mental health illnesses, the integration of deep learning (DL) and machine learning (ML) have started playing a significant role. By evaluating complex data from imaging, genetics, and behavioral assessments, these technologies have the potential to improve clinical results significantly. However, they also present unique challenges relating to data integration and ethical issues. The development of ML and DL methods for the early diagnosis and treatment of mental health issues is reviewed in this survey. It examines a range of applications, with a particular emphasis on behavioral assessments, genetic and biomarker analysis, and medical imaging for the diagnosis of diseases like depression, bipolar disorder, and schizophrenia. Predictive modeling for illness development is further discussed in the review, focusing on the funct...",
+      "date": "2026-06-08",
+      "year": 2026,
+      "journal": "Journal of Affective Disorders Reports",
+      "source": "Journal of Affective Disorders Reports",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.jadr.2026.101100",
+      "doi": "10.1016/j.jadr.2026.101100",
+      "pdfUrl": "https://doi.org/10.1016/j.jadr.2026.101100",
+      "keywords": [
+        "Deep learning",
+        "Mental health",
+        "Artificial intelligence",
+        "Psychology",
+        "Computer science",
+        "Mental Health Research Topics",
+        "Digital Mental Health Interventions",
+        "learning"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T06:15:36.311134+00:00"
+    },
+    {
+      "id": "openalex-a0a876b9f3e5",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Emerging paradigms in nanostructured targeted drug delivery systems",
+      "authors": "Anjum N. Hasnain, Darshan R. Telange",
+      "abstract": "Nanostructured drug delivery systems have emerged as powerful and versatile approaches to overcome the limitations of conventional therapeutic strategies, including poor bioavailability, non-specific distribution, and dose-limiting toxicity. By enabling precise control over particle size, surface characteristics, drug loading, and release kinetics, nanocarriers offer enhanced pharmacokinetic and pharmacodynamic performance, along with improved therapeutic specificity. This comprehensive review critically examines emerging paradigms in Nanostructured drug delivery systems, with a particular focus on design strategies, surface functionalization, and translational potential for targeted therapeutics. The review systematically discusses the fundamental principles governing nanocarrier behavior, including physicochemical characteristics, nano-bio interactions, and pharmacokinetic considera...",
+      "date": "2026-06-08",
+      "year": 2026,
+      "journal": "Discover Nano",
+      "source": "Discover Nano",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1186/s11671-026-04685-5",
+      "doi": "10.1186/s11671-026-04685-5",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s11671-026-04685-5.pdf",
+      "keywords": [
+        "Nanocarriers",
+        "Drug delivery",
+        "Nanomedicine",
+        "Nanotechnology",
+        "Targeted drug delivery",
+        "Nanoparticle-Based Drug Delivery",
+        "Advanced Drug Delivery Systems",
+        "Graphene and Nanomaterials Applications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-06T06:15:36.311499+00:00"
     }
   ]
 }
