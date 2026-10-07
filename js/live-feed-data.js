@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-10-06T22:37:50.266935+00:00",
+  "generatedAt": "2026-10-07T05:53:56.129072+00:00",
   "total": 112,
   "sources": [
     "RSS",
@@ -7,13 +7,45 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
+      "id": "rss-5afac321b5ed",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Locally grown crops could expand access to childhood malnutrition treatment",
+      "authors": "Medical Xpress",
+      "abstract": "For millions of children suffering from severe malnutrition, an effective treatment already exists. The problem is that many of them never receive it.",
+      "date": "2026-10-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-locally-grown-crops-access-childhood.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "malnutrition",
+        "treatment",
+        "locally",
+        "grown",
+        "crops",
+        "could",
+        "expand",
+        "access"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-07T05:53:55.434801+00:00"
+    },
+    {
       "id": "rss-ae7fae2c9e79",
       "discipline": "clinical",
       "type": "news",
       "title": "Pregnancy complications linked to higher risk of cardiac and renal health conditions",
       "authors": "Medical Xpress",
       "abstract": "Women with a complication in their latest pregnancy or a previous pregnancy face an elevated risk of developing cardiometabolic-renal conditions in subsequent years, suggests a U.K. study published online in the open-access journal BMJ Medicine.",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +68,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.332307+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.435105+00:00"
     },
     {
       "id": "rss-25f55195c32e",
@@ -45,7 +77,7 @@ window.LIVE_FEED_DATA = {
       "title": "Statins may protect people from developing glaucoma",
       "authors": "Medical Xpress",
       "abstract": "Taking statins is linked to a lower risk of developing glaucoma and a reduced chance of it getting worse, suggest the findings of research published online in the British Journal of Ophthalmology.",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +100,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.332561+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.435345+00:00"
     },
     {
       "id": "rss-7df2d2182354",
@@ -77,7 +109,7 @@ window.LIVE_FEED_DATA = {
       "title": "When war hits the wallet, mental health can suffer too",
       "authors": "Medical Xpress",
       "abstract": "In the first weeks after the Oct. 7 attack, distress was widespread. But for many, the psychological consequences of the war did not unfold separately from another growing source of pressure: money.",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +132,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.332790+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.435572+00:00"
     },
     {
       "id": "rss-ba273b8d9e06",
@@ -109,7 +141,7 @@ window.LIVE_FEED_DATA = {
       "title": "International consensus sets updated framework for CAR T-cell therapy in severe autoimmune diseases",
       "authors": "Medical Xpress",
       "abstract": "An international multidisciplinary group of 31 experts has updated consensus recommendations to guide the use of CAR T-cell therapy in patients with severe, treatment-refractory autoimmune diseases.",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.333016+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.435804+00:00"
     },
     {
       "id": "rss-7f36bdf157d2",
@@ -141,7 +173,7 @@ window.LIVE_FEED_DATA = {
       "title": "1 in 3 with lupus takes supplements, medications with potential for interactions",
       "authors": "Medical Xpress",
       "abstract": "Nearly 1 in 3 patients with systemic lupus erythematosus (SLE) are taking a supplement-medication combination with potential for an interaction, according to a study published online Sept. 22 in Arthritis Care & Research.",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.333276+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.436132+00:00"
     },
     {
       "id": "rss-2f5cb36700e1",
@@ -173,7 +205,7 @@ window.LIVE_FEED_DATA = {
       "title": "Abnormal lymph vessels show heightened growth signaling regardless of key gene mutation",
       "authors": "Medical Xpress",
       "abstract": "Lymphatic malformations are rare disorders in which lymph vessels develop abnormally, often beginning in childhood and sometimes causing swelling, infection, bleeding, pain or airway obstruction.",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.333499+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.436367+00:00"
     },
     {
       "id": "rss-fecac06b6cbc",
@@ -205,7 +237,7 @@ window.LIVE_FEED_DATA = {
       "title": "Pausing certain arthritis drugs after COVID-19 vaccination raises flare risk without improving antibody response",
       "authors": "Medical Xpress",
       "abstract": "For patients with inflammatory arthritis, holding certain disease-modifying antirheumatic drugs (DMARDs), namely select biologic or Janus kinase inhibitor (JAKi) therapies, for two weeks at the time of a supplemental COVID-19 vaccine dose does not enhance humoral immunogenicity, according to a study published online Oct. 5 in JAMA Internal Medicine.",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -228,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.333753+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.436629+00:00"
     },
     {
       "id": "rss-52b482505471",
@@ -237,7 +269,7 @@ window.LIVE_FEED_DATA = {
       "title": "HIV treatment has transformed lives in the UK, but stigma lingers",
       "authors": "Medical Xpress",
       "abstract": "Nearly half a century has passed since the first recognized case of AIDS in the U.K. in December 1981. During that time, perceptions of HIV and people living with HIV have been transformed by medical advances and changing cultural attitudes. Yet the stigma created during the early years of the epidemic has proved much harder to leave behind.",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -260,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.334004+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.436923+00:00"
     },
     {
       "id": "rss-0a30938147f7",
@@ -269,7 +301,7 @@ window.LIVE_FEED_DATA = {
       "title": "Sickle cell pain may involve previously unrecognized biological pathways",
       "authors": "Medical Xpress",
       "abstract": "A small pilot study led by a Rutgers researcher has found differences in blood proteins between people experiencing high and low levels of pain from sickle cell disease, findings that may inform research on new treatments and better pain management.",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -292,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.334278+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.437172+00:00"
     },
     {
       "id": "rss-04b2578d36cd",
@@ -301,7 +333,7 @@ window.LIVE_FEED_DATA = {
       "title": "Early-onset menopause linked to increased symptoms of anxiety and depression",
       "authors": "Medical Xpress",
       "abstract": "A study by the University of Oulu has found that women who entered menopause earlier than usual reported more symptoms of anxiety and depression than women of the same age who had not yet entered menopause. The work is published in the journal Acta Obstetricia et Gynecologica Scandinavica.",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -324,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.334519+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.437415+00:00"
     },
     {
       "id": "rss-f62ffad81137",
@@ -333,7 +365,7 @@ window.LIVE_FEED_DATA = {
       "title": "PSMA PET/CT-targeted biopsy improves detection of clinically significant prostate cancer",
       "authors": "Medical Xpress",
       "abstract": "PSMA PET/CT-targeted biopsy detects more clinically significant prostate cancer than systematic biopsy alone in men with negative or inconclusive MRI findings but persistent clinical risk factors. According to new research published in The Journal of Nuclear Medicine, combining the two biopsy approaches is even more effective, nearly doubling the detection rate. This strategy may help physicians identify clinically significant cancers that would otherwise be difficult to detect, while potentially avoiding unnecessary procedures in appropriately selected patients.",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -356,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.334806+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.437708+00:00"
     },
     {
       "id": "rss-46186e9e0bee",
@@ -365,7 +397,7 @@ window.LIVE_FEED_DATA = {
       "title": "Physically intense work and health: A new index to assess the burden of job tasks",
       "authors": "Medical Xpress",
       "abstract": "Cleaning kitchens and bathrooms, operating heavy machinery, carrying out agricultural work and performing repair and maintenance tasks: These are some of the activities that new research associates with poorer health later in life.",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -388,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.335051+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.437979+00:00"
     },
     {
       "id": "rss-26088171229f",
@@ -397,7 +429,7 @@ window.LIVE_FEED_DATA = {
       "title": "Exercise as medicine: How physical activity helps manage chronic disease",
       "authors": "Medical Xpress",
       "abstract": "Chronic diseases such as diabetes, heart disease, high blood pressure, arthritis and certain types of cancer are leading causes of disability and death worldwide. Traditionally, these conditions have been managed through medication, dietary changes and medical interventions.",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -420,39 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.335292+00:00"
-    },
-    {
-      "id": "rss-d4918e14bfaf",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Tumor markers reveal which HER2+ breast cancer patients may respond to less intensive chemotherapy",
-      "authors": "Medical Xpress",
-      "abstract": "The Journal of Clinical Oncology has published secondary results from the ECOG-ACRIN Cancer Research Group's CompassHER2-pCR clinical trial (EA1181, NCT04266249). The findings help identify which early-stage HER2-positive (HER2+) breast cancers may be most likely to respond to less intensive chemotherapy than the current standard.",
-      "date": "2026-10-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-tumor-markers-reveal-her2-breast.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "which",
-        "breast",
-        "cancer",
-        "respond",
-        "less",
-        "intensive",
-        "chemotherapy",
-        "clinical"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.335539+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.438218+00:00"
     },
     {
       "id": "rss-cd2023f7f5b0",
@@ -460,7 +460,7 @@ window.LIVE_FEED_DATA = {
       "type": "news",
       "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
       "authors": "TechCrunch AI",
-      "abstract": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
+      "abstract": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
       "date": "2026-10-06",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -484,7 +484,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.499547+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.509397+00:00"
     },
     {
       "id": "rss-b987df539777",
@@ -516,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.499758+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.509616+00:00"
     },
     {
       "id": "rss-80cdecbf943b",
@@ -548,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.499924+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.509793+00:00"
     },
     {
       "id": "rss-841a17dfe9fe",
@@ -580,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.500128+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.510010+00:00"
     },
     {
       "id": "rss-c3451aafda80",
@@ -612,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.500292+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.510175+00:00"
     },
     {
       "id": "rss-79c210b7d307",
@@ -644,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.500485+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.510374+00:00"
     },
     {
       "id": "rss-312e5d6015b0",
@@ -676,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.500657+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.510545+00:00"
     },
     {
       "id": "rss-baf2472bb871",
@@ -708,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.500822+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.510714+00:00"
     },
     {
       "id": "rss-bcec5ae57acd",
@@ -740,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.500987+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.510904+00:00"
     },
     {
       "id": "rss-afabb8e29390",
@@ -772,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.501191+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.511084+00:00"
     },
     {
       "id": "rss-d9af0bd06785",
@@ -804,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.501373+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.511271+00:00"
     },
     {
       "id": "rss-3cbba74411c0",
@@ -836,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.616301+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.668428+00:00"
     },
     {
       "id": "rss-2f8a4e0119ee",
@@ -868,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.616483+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.668612+00:00"
     },
     {
       "id": "rss-c561a387f2d1",
@@ -900,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.616653+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.668787+00:00"
     },
     {
       "id": "rss-cd71ba4db8c3",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.501537+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.511445+00:00"
     },
     {
       "id": "rss-6d9e8e40ae5c",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.501739+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.511651+00:00"
     },
     {
       "id": "rss-9ca09c4a7627",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.501927+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.511838+00:00"
     },
     {
       "id": "rss-19d143b1e9c8",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.616821+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.668997+00:00"
     },
     {
       "id": "rss-cefee57ba8d3",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.616993+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.669175+00:00"
     },
     {
       "id": "rss-2496878eb76f",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.617204+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.669344+00:00"
     },
     {
       "id": "rss-ec0c454d28a6",
@@ -1124,7 +1124,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.617386+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.669527+00:00"
+    },
+    {
+      "id": "openalex-038bb642d0ad",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Development and feasibility of an arts-based intervention for patients with end-stage kidney disease whilst receiving haemodialysis",
+      "authors": "Claire Carswell",
+      "abstract": "Introduction: End stage kidney disease (ESKD) is a life changing illness. Many patients require haemodialysis, a treatment that involves patients attending hospital three times a week for four hours each time. This treatment impacts profoundly on quality of life (Ho and Li, 2016) and mental health (Bujang et al., 2015). Arts-based interventions have been used in other healthcare settings to improve mental health and quality of life (Boyce et al., 2017). Arts-based interventions could help address the impact of haemodialysis and improve quality of life and mental health, however there is a lack of evidence assessing their effectiveness in this population. Aim: To develop an arts-based intervention for patients with ESKD whilst receiving haemodialysis and evaluate the feasibility of conducting a future randomised controlled trial (RCT). Methods: Intervention Development: The arts-based...",
+      "date": "2026-10-01",
+      "year": 2026,
+      "journal": "Research Portal (Queen's University Belfast)",
+      "source": "Research Portal (Queen's University Belfast)",
+      "sourceApi": "OpenAlex",
+      "url": "https://pure.qub.ac.uk/en/studentTheses/cb4f50c8-2eda-48fb-8882-39a5a97eac28",
+      "doi": "10.17034/32629830",
+      "pdfUrl": "https://pureadmin.qub.ac.uk/ws/files/218232696/ClaireCarswell_Final_Thesis.pdf",
+      "keywords": [
+        "End-stage kidney disease",
+        "End stage renal disease",
+        "Medicine",
+        "Intervention (counseling)",
+        "Stage (stratigraphy)",
+        "Art Therapy and Mental Health",
+        "Dialysis and Renal Disease Management",
+        "Music Therapy and Health"
+      ],
+      "readTime": "2 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-07T05:53:50.619176+00:00"
     },
     {
       "id": "rss-2b529d97fb90",
@@ -1156,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.617548+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.669695+00:00"
     },
     {
       "id": "rss-6cc50e6c3036",
@@ -1188,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.617707+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.669858+00:00"
     },
     {
       "id": "rss-0333c77565a0",
@@ -1220,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.761928+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.873909+00:00"
     },
     {
       "id": "rss-93b8d56ba100",
@@ -1252,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.617878+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.670062+00:00"
     },
     {
       "id": "rss-d2d5303f2df6",
@@ -1284,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.618059+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.670230+00:00"
     },
     {
       "id": "rss-0f5454e2985b",
@@ -1316,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.618227+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.670393+00:00"
     },
     {
       "id": "rss-975ad9b8aec5",
@@ -1348,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.618376+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.670543+00:00"
     },
     {
       "id": "rss-a7d777e1fbd3",
@@ -1380,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.762442+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.874423+00:00"
     },
     {
       "id": "rss-9c55cfccdd04",
@@ -1412,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.618523+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.670690+00:00"
     },
     {
       "id": "rss-a969e28ae72b",
@@ -1444,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.763021+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.875063+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -1476,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.763402+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.875423+00:00"
     },
     {
       "id": "rss-4d47532c7c63",
@@ -1508,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.763671+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.875700+00:00"
     },
     {
       "id": "rss-bf9122547ba1",
@@ -1540,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.764156+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.876222+00:00"
     },
     {
       "id": "rss-188abdd7fd48",
@@ -1572,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.764387+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.876444+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1604,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:43.581237+00:00"
+      "_retrievedAt": "2026-10-07T05:53:49.626764+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1636,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.764620+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.876685+00:00"
     },
     {
       "id": "rss-b0ad43b43ecb",
@@ -1668,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.764810+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.876932+00:00"
     },
     {
       "id": "rss-0aa9231559e8",
@@ -1700,7 +1732,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:49.765390+00:00"
+      "_retrievedAt": "2026-10-07T05:53:55.877520+00:00"
+    },
+    {
+      "id": "openalex-e5b9509ab88b",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "LLM-powered socially assistive robot-delivered cognitive behavioral therapy exercises: an exploratory study with university students",
+      "authors": "Mina Kian, Mingyu Zong, Katrin Fischer, Abhyuday Singh, Anna-Maria Velentza, Amy O'Connell",
+      "abstract": "Mental health is a significant healthcare challenge, and cognitive behavioral therapy (CBT) is a widely used therapeutic method for treating anxiety and depression. However, traditional CBT often requires access to trained clinicians and can be cost-prohibitive or logistically difficult for many individuals. To address these barriers, we developed a low-cost socially assistive robot (SAR) that uses a large language model (LLM) to guide the user through interactive at-home CBT exercises. In this exploratory study, 38 university students completed CBT exercises across a 15-day period using one of three modalities: with a robot (using an LLM for dialogue), a chatbot (using the same LLM for dialogue), or traditional CBT worksheets. We measured weekly therapeutic outcomes, changes in pre-/post-session anxiety measures, and adherence to completing CBT exercises. Our findings indicate that s...",
+      "date": "2026-09-09",
+      "year": 2026,
+      "journal": "Frontiers in Robotics and AI",
+      "source": "Frontiers in Robotics and AI",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/frobt.2026.1802622",
+      "doi": "10.3389/frobt.2026.1802622",
+      "pdfUrl": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1802622/pdf",
+      "keywords": [
+        "Chatbot",
+        "Anxiety",
+        "Cognitive behavioral therapy",
+        "Exploratory research",
+        "Distress",
+        "Digital Mental Health Interventions",
+        "Social Robot Interaction and HRI",
+        "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes"
+      ],
+      "readTime": "1 min",
+      "citedBy": 15,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-07T05:53:49.630497+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1732,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:43.584111+00:00"
+      "_retrievedAt": "2026-10-07T05:53:49.629465+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1764,7 +1828,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:43.579272+00:00"
+      "_retrievedAt": "2026-10-07T05:53:49.625163+00:00"
+    },
+    {
+      "id": "openalex-ecd3ebebd570",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Bőrgyógyászati és Venerológiai Szemle",
+      "authors": "OpenAlex indexed authors",
+      "abstract": "A napsugárzás korai és késői biológiai hatásainak kivédésre közel 100 évvel ezelőtt jelent meg az első fényvédőkrém.Az elmúlt években bizonyította hatékonyságát a bőröregedés, pigmentációs zavarok, DNS károsodás és fotokarcinogenezis megelőzésében.Kezdetekben a fő cél az ultraibolya B (UVB) sugárzás okozta károsodások kivédése volt, majd későbbiekben a figyelem az ultraibolya A (UVA) irányába fordult.Ma már azt is tudjuk, hogy a bőr öregedésében a látható és infravörös fény is szerepet játszik, így ezt is figyelembe kell venni, amikor fényvédőt választunk.A szerzők a közleményben röviden összefoglalják a fényvédőkrémekkel kapcsolatos legfontosabb tudnivalókat érintve néhány aktuális kérdéskört.Kulcsszavak:",
+      "date": "2026-08-31",
+      "year": 2026,
+      "journal": "Bőrgyógyászati és Venerológiai Szemle",
+      "source": "Bőrgyógyászati és Venerológiai Szemle",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.7188/bvsz",
+      "doi": "10.7188/bvsz",
+      "pdfUrl": "https://doi.org/10.7188/bvsz",
+      "keywords": [
+        "Psychology",
+        "Skin Protection and Aging",
+        "melanin and skin pigmentation",
+        "Dermatology and Skin Diseases",
+        "giai",
+        "reged",
+        "rosod",
+        "ultraibolya"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-07T05:53:50.619410+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1796,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.250667+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.070407+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1828,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.782407+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.615579+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1860,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:45.249708+00:00"
+      "_retrievedAt": "2026-10-07T05:53:51.031386+00:00"
     },
     {
       "id": "openalex-6a5a22694e49",
@@ -1892,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:43.584427+00:00"
+      "_retrievedAt": "2026-10-07T05:53:49.629790+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1924,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.247556+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.067077+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -1956,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:43.582890+00:00"
+      "_retrievedAt": "2026-10-07T05:53:49.628228+00:00"
     },
     {
       "id": "openalex-3102df6dbe7b",
@@ -1988,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.251004+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.070760+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -2020,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.248522+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.068065+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2052,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.248862+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.068428+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2084,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:45.250100+00:00"
+      "_retrievedAt": "2026-10-07T05:53:51.031758+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2116,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:43.583204+00:00"
+      "_retrievedAt": "2026-10-07T05:53:49.628530+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2148,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.246390+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.065838+00:00"
     },
     {
       "id": "openalex-34f37069c1ad",
@@ -2180,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.247778+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.067299+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2212,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.249273+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.068819+00:00"
     },
     {
       "id": "openalex-7a85bfe0ead2",
@@ -2244,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:45.250464+00:00"
+      "_retrievedAt": "2026-10-07T05:53:51.032155+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2276,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:45.246592+00:00"
+      "_retrievedAt": "2026-10-07T05:53:51.028289+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2308,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:45.246957+00:00"
+      "_retrievedAt": "2026-10-07T05:53:51.028652+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2340,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:43.580433+00:00"
+      "_retrievedAt": "2026-10-07T05:53:49.626376+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2372,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.783170+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.616365+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2404,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.246973+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.066498+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2436,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:43.583528+00:00"
+      "_retrievedAt": "2026-10-07T05:53:49.628877+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -2468,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.784426+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.617610+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2500,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:43.579694+00:00"
+      "_retrievedAt": "2026-10-07T05:53:49.625600+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2532,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.249580+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.069148+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2564,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.780365+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.613911+00:00"
     },
     {
       "id": "openalex-b138906c6b33",
@@ -2596,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:45.250775+00:00"
+      "_retrievedAt": "2026-10-07T05:53:51.032465+00:00"
     },
     {
       "id": "openalex-4a46ff2c29ce",
@@ -2628,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:45.251161+00:00"
+      "_retrievedAt": "2026-10-07T05:53:51.032806+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -2660,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:45.248482+00:00"
+      "_retrievedAt": "2026-10-07T05:53:51.030135+00:00"
     },
     {
       "id": "openalex-6068978c624a",
@@ -2692,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.784748+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.617946+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2724,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:45.248863+00:00"
+      "_retrievedAt": "2026-10-07T05:53:51.030538+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2756,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:45.248076+00:00"
+      "_retrievedAt": "2026-10-07T05:53:51.029709+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2788,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.248153+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.067647+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -2820,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:43.582579+00:00"
+      "_retrievedAt": "2026-10-07T05:53:49.627900+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -2852,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:45.247682+00:00"
+      "_retrievedAt": "2026-10-07T05:53:51.029332+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -2884,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:45.251618+00:00"
+      "_retrievedAt": "2026-10-07T05:53:51.033288+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2916,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.780732+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.614288+00:00"
     },
     {
       "id": "openalex-0578798ae458",
@@ -2948,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:45.252025+00:00"
+      "_retrievedAt": "2026-10-07T05:53:51.033698+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -2980,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:43.581965+00:00"
+      "_retrievedAt": "2026-10-07T05:53:49.627561+00:00"
     },
     {
       "id": "openalex-5a31a7e0a2f8",
@@ -3012,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:43.583820+00:00"
+      "_retrievedAt": "2026-10-07T05:53:49.629185+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -3044,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.249926+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.069632+00:00"
     },
     {
       "id": "openalex-10ad267fea93",
@@ -3076,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.783635+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.616836+00:00"
     },
     {
       "id": "openalex-33e8cda96b3e",
@@ -3108,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.784012+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.617246+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -3140,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:43.580032+00:00"
+      "_retrievedAt": "2026-10-07T05:53:49.625977+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -3172,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:43.581662+00:00"
+      "_retrievedAt": "2026-10-07T05:53:49.627246+00:00"
     },
     {
       "id": "openalex-9012e812c9de",
@@ -3204,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.250338+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.070061+00:00"
     },
     {
       "id": "openalex-5cd132793914",
@@ -3236,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.785053+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.618234+00:00"
     },
     {
       "id": "openalex-c3aaf692321e",
@@ -3268,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.785444+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.618620+00:00"
     },
     {
       "id": "openalex-bb50663ea11d",
@@ -3300,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:45.249318+00:00"
+      "_retrievedAt": "2026-10-07T05:53:51.030993+00:00"
     },
     {
       "id": "openalex-a29127dc905f",
@@ -3332,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.781318+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.614849+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -3364,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.780955+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.614512+00:00"
     },
     {
       "id": "openalex-771740d27607",
@@ -3396,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.781669+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.615227+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -3428,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:45.247313+00:00"
+      "_retrievedAt": "2026-10-07T05:53:51.028975+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -3460,135 +3556,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.247221+00:00"
+      "_retrievedAt": "2026-10-07T05:53:50.066721+00:00"
     },
     {
-      "id": "openalex-42a964175819",
+      "id": "openalex-c3f24577717a",
       "discipline": "cs",
       "type": "paper",
-      "title": "HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs)",
-      "authors": "Tarek Ali, Panos Kostakos, Saeid Sheikhi",
-      "abstract": "Machine learning (ML) methods for network anomaly detection are emerging as effective proactive strategies in threat hunting, substantially reducing the time required for threat detection and response. However, the challenges in training and maintaining ML models, coupled with frequent false positives, diminish their acceptance and trustworthiness. In response, Explainable AI (XAI) techniques have been introduced to enable cybersecurity operations teams to assess alerts generated by AI systems more confidently. Despite these advancements, XAI tools have encountered limited acceptance from incident responders and have struggled to meet the decision-making needs of both analysts and model maintainers. Large Language Models (LLMs) offer a unique approach to tackling these challenges. Through tuning, LLMs have the ability to discern patterns across vast amounts of information and meet var...",
-      "date": "2026-06-08",
+      "title": "Large language models for multi-robot systems: a survey",
+      "authors": "Peihan Li, Zijian An, Shams Abrar, Lifeng Zhou",
+      "abstract": "Abstract The rapid advancement of Large Language Models (LLMs) has opened new possibilities in Multi-Robot Systems (MRS), enabling enhanced communication, task allocation and planning, and human-robot interaction. Unlike traditional single-robot and multi-agent systems, MRS poses unique challenges, including coordination, scalability, and real-world adaptability. This survey provides the first dedicated review of LLM integration into MRS. It systematically categorizes their applications across high-level task allocation, mid-level motion planning, low-level action generation, and human intervention. We highlight key applications in diverse domains, such as household robotics, construction, formation control, target tracking, and robot games, showcasing the versatility and transformative potential of LLMs in MRS. Furthermore, we examine the challenges that limit adapting LLMs to MRS, i...",
+      "date": "2026-06-10",
       "year": 2026,
-      "journal": "Telecom",
-      "source": "Telecom",
+      "journal": "Autonomous Robots",
+      "source": "Autonomous Robots",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/telecom7030073",
-      "doi": "10.3390/telecom7030073",
-      "pdfUrl": "https://doi.org/10.3390/telecom7030073",
+      "url": "https://doi.org/10.1007/s10514-026-10257-4",
+      "doi": "10.1007/s10514-026-10257-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s10514-026-10257-4.pdf",
       "keywords": [
         "Computer science",
-        "Intrusion detection system",
-        "Anomaly detection",
-        "False positive paradox",
+        "Robot",
+        "Human–computer interaction",
         "Artificial intelligence",
-        "Network Security and Intrusion Detection",
-        "Explainable Artificial Intelligence (XAI)",
-        "Adversarial Robustness in Machine Learning"
+        "Robotics and Automated Systems",
+        "Robot Manipulation and Learning",
+        "AI-based Problem Solving and Planning",
+        "systems"
       ],
       "readTime": "1 min",
-      "citedBy": 42,
+      "citedBy": 16,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:43.580829+00:00"
-    },
-    {
-      "id": "openalex-af6666a0b36a",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Conducting Qualitative Interviews with AI",
-      "authors": "Felix Chopra, Ingar Haaland",
-      "abstract": "Qualitative interviews offer rich insights into human behavior, but their lack of scalability has limited their use in economics. This paper introduces and evaluates AI-led interviews as a novel method for collecting qualitative data. Across different economic contexts, a comprehensive set of quality metrics demonstrates the high quality of AI-led interviews. We then demonstrate that AI-led interviews generate thematically richer responses than other survey methods for collecting qualitative data at scale. A decomposition exercise shows that the benefits of AI-led interviews mainly arise from asking dynamic probing questions. Importantly, AI-led interviews make themes visible that would otherwise be unobserved. These themes matter: We show that responses in AI-led interviews are internally valid and predict future behavior six months later. Finally, we demonstrate that AI-led intervie...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "CESifo",
-      "source": "CESifo",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.65864/ch6grwpore",
-      "doi": "10.65864/ch6grwpore",
-      "pdfUrl": "https://www.ifo.de/sites/default/files/docbase/docs/cesifo1_wp10666.pdf",
-      "keywords": [
-        "Generalizability theory",
-        "Qualitative research",
-        "Qualitative property",
-        "Data collection",
-        "Sample (material)",
-        "Survey Methodology and Nonresponse",
-        "Focus Groups and Qualitative Methods",
-        "Computational and Text Analysis Methods"
-      ],
-      "readTime": "1 min",
-      "citedBy": 27,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:43.582263+00:00"
-    },
-    {
-      "id": "openalex-7a70a48faaec",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Post-adjuvant chemotherapy in ctDNA-positive patients with resected colorectal cancer: a randomized phase 3 trial",
-      "authors": "Hideaki Bando, Jun Watanabe, Yusuke Takahashi, Masahito Kotaka, Nobuhisa Matsuhashi, Eiji Oki",
-      "abstract": "Tumor-informed circulating tumor DNA (ctDNA) enables detection of molecular residual disease (MRD) after curative resection of colorectal cancer (CRC), but whether early intervention improves outcomes remains uncertain. ALTAIR was a randomized, double-blind, phase 3 trial embedded in the CIRCULATE-Japan platform evaluating a post-adjuvant ctDNA surveillance strategy with treatment initiation upon molecular recurrence. Patients with resected stage 0–IV CRC who became ctDNA positive after completion of standard-of-care therapy and had no radiological evidence of disease were randomly assigned (1:1) to receive trifluridine/tipiracil (FTD/TPI) or placebo for 6 months. The primary endpoint was investigator-assessed disease-free survival (DFS). Between July 2020 and June 2023, 243 patients were randomized to FTD/TPI (n = 122) or placebo (n = 121). Median DFS was 9.30 months with FTD/TPI and...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04428-0",
-      "doi": "10.1038/s41591-026-04428-0",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04428-0.pdf",
-      "keywords": [
-        "Medicine",
-        "Placebo",
-        "Colorectal cancer",
-        "Internal medicine",
-        "Clinical endpoint",
-        "Colorectal Cancer Treatments and Studies",
-        "Colorectal Cancer Surgical Treatments",
-        "Cancer Genomics and Diagnostics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 8,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.782055+00:00"
-    },
-    {
-      "id": "openalex-797c77e03bf0",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Advancements in machine learning and deep learning for early detection and management of mental health disorder",
-      "authors": "Kamala Devi Kannan, Senthil Kumar Jagatheesaperumal, Kandala N. V. P. S. Rajesh, Mojtaba Lotfaliany, Roohallah Alizadehsanid, Mohammadreza Mohebbi",
-      "abstract": "For the early identification, diagnosis, and treatment of mental health illnesses, the integration of deep learning (DL) and machine learning (ML) have started playing a significant role. By evaluating complex data from imaging, genetics, and behavioral assessments, these technologies have the potential to improve clinical results significantly. However, they also present unique challenges relating to data integration and ethical issues. The development of ML and DL methods for the early diagnosis and treatment of mental health issues is reviewed in this survey. It examines a range of applications, with a particular emphasis on behavioral assessments, genetic and biomarker analysis, and medical imaging for the diagnosis of diseases like depression, bipolar disorder, and schizophrenia. Predictive modeling for illness development is further discussed in the review, focusing on the funct...",
-      "date": "2026-06-08",
-      "year": 2026,
-      "journal": "Journal of Affective Disorders Reports",
-      "source": "Journal of Affective Disorders Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.jadr.2026.101100",
-      "doi": "10.1016/j.jadr.2026.101100",
-      "pdfUrl": "https://doi.org/10.1016/j.jadr.2026.101100",
-      "keywords": [
-        "Deep learning",
-        "Mental health",
-        "Artificial intelligence",
-        "Psychology",
-        "Computer science",
-        "Artificial Intelligence in Healthcare",
-        "Emotion and Mood Recognition",
-        "Machine Learning in Healthcare"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-06T22:37:44.785788+00:00"
+      "_retrievedAt": "2026-10-07T05:53:49.630129+00:00"
     }
   ]
 };
