@@ -1,11 +1,299 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-10-09T06:04:54.845615+00:00",
-  "total": 112,
+  "generatedAt": "2026-10-09T13:11:28.860853+00:00",
+  "total": 111,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-34a3f23da597",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Expert joins international call for new approach to diagnosing, managing condition known as POTS",
+      "authors": "Medical Xpress",
+      "abstract": "For people living with postural orthostatic tachycardia syndrome, or POTS, the simple act of standing up can cause a cascade of symptoms: a racing heart, lightheadedness, brain fog, shakiness and exhaustion. Yet a standard cardiac test may appear completely normal.",
+      "date": "2026-10-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-expert-international-approach-condition-pots.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "pots",
+        "expert",
+        "joins",
+        "international",
+        "call",
+        "approach",
+        "diagnosing",
+        "managing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-09T13:11:28.204433+00:00"
+    },
+    {
+      "id": "rss-ae65029942e3",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Which is more filling, protein or fiber?",
+      "authors": "Medical Xpress",
+      "abstract": "Protein has been everywhere lately. You may have seen food products promoting high protein content or reels online telling you how to boost your intake. One of the ways protein supports our health is by helping a meal fill us up (satiation) and keeping us feeling fuller for longer between meals (satiety). It does this by influencing our appetite hormones and other metabolic processes.",
+      "date": "2026-10-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-protein-fiber.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "protein",
+        "which",
+        "more",
+        "filling",
+        "fiber",
+        "been",
+        "everywhere",
+        "lately"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-09T13:11:28.204660+00:00"
+    },
+    {
+      "id": "rss-026c46ae6521",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Are we trying too hard to sleep? How 'sleepmaxxing' could be keeping us awake",
+      "authors": "Medical Xpress",
+      "abstract": "Too hot, too cold. On your stomach, then your side. Thoughts spiraling. Counting sheep. Checking the clock. Unable to sleep.",
+      "date": "2026-10-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-hard-sleepmaxxing.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "sleep",
+        "your",
+        "trying",
+        "hard",
+        "sleepmaxxing",
+        "could",
+        "keeping",
+        "awake"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-09T13:11:28.204819+00:00"
+    },
+    {
+      "id": "rss-bc09038ef681",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Program helping patients self-regulate strong-opioid use has potential for NHS, study shows",
+      "authors": "Medical Xpress",
+      "abstract": "A new support program can increase the number of patients who successfully self-regulate their long-term intake of strong opioid painkillers without worsening their quality of life, a study has shown.",
+      "date": "2026-10-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-patients-strong-opioid-potential-nhs.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "program",
+        "patients",
+        "self-regulate",
+        "their",
+        "helping",
+        "strong-opioid",
+        "potential",
+        "shows"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-09T13:11:28.204983+00:00"
+    },
+    {
+      "id": "rss-12f83968f48d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Nearly 1 in 3 new nurse practitioners educated at for-profit schools, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "For-profit schools appear to be playing an outsized role in training the nation's expanding nurse practitioner workforce, according to a study that found nearly one-third of newly licensed nurse practitioners in four states were educated at for-profit programs in 2024, up from just 2.4% in 2010.",
+      "date": "2026-10-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-nurse-practitioners-profit-schools.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nurse",
+        "for-profit",
+        "nearly",
+        "practitioners",
+        "educated",
+        "schools",
+        "finds",
+        "appear"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-09T13:11:28.205157+00:00"
+    },
+    {
+      "id": "rss-f91d06af7068",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Does a bone tumor always mean cancer?",
+      "authors": "Medical Xpress",
+      "abstract": "Bone tumors can cause symptoms such as persistent pain and unintended weight loss, or they might only be discovered when someone breaks a bone and X-rays show a lesion. Wendy Allen-Rhoades, M.D., Ph.D., a pediatric oncologist at Mayo Clinic Comprehensive Cancer Center, describes the most common bone cancers in children and adults.",
+      "date": "2026-10-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-bone-tumor-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "bone",
+        "cancer",
+        "does",
+        "tumor",
+        "always",
+        "mean",
+        "tumors",
+        "cause"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-09T13:11:28.205343+00:00"
+    },
+    {
+      "id": "rss-737ed0368302",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Pain, psychological factors and physical function closely linked in people with systemic sclerosis",
+      "authors": "Medical Xpress",
+      "abstract": "For many people living with chronic conditions like systemic sclerosis, pain can be persistent, unpredictable and difficult to manage. This can affect mood, worry, sleep, motivation and confidence in completing daily activities.",
+      "date": "2026-10-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-pain-psychological-factors-physical-function.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "pain",
+        "people",
+        "systemic",
+        "sclerosis",
+        "psychological",
+        "factors",
+        "physical",
+        "function"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-09T13:11:28.205514+00:00"
+    },
+    {
+      "id": "rss-d7c58719d029",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Unproven 'cures' pushed online amid plague concerns",
+      "authors": "Medical Xpress",
+      "abstract": "Reports that a woman employed at a plague research institute in Russia's Irkutsk region died from the disease have spiked online interest in possible treatments for the illness in North America.",
+      "date": "2026-10-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-unproven-online-plague.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "online",
+        "plague",
+        "unproven",
+        "cures",
+        "pushed",
+        "amid",
+        "concerns",
+        "reports"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-09T13:11:28.205671+00:00"
+    },
+    {
+      "id": "rss-b706a92fcac2",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Age and sex shape cancer immunity, mouse experiments and human data suggest",
+      "authors": "Medical Xpress",
+      "abstract": "A new study published in Nature Aging combines mouse experiments and human data sets to explore how biological sex and aging shape cancer immunity, with implications for immunotherapy responses. Lutz Menzel, Ph.D., formerly of the Department of Radiation Oncology within the Mass General Brigham Cancer Institute, is the lead author, and Tim Padera, Ph.D., of the Mass General Brigham Cancer Institute, is the senior author. The paper is titled \"Lymph node contraction links sex-biased naive CD8 T cell decline to compromised antigen recognition during middle age.\"",
+      "date": "2026-10-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-age-sex-cancer-immunity-mouse.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "shape",
+        "immunity",
+        "mouse",
+        "experiments",
+        "human",
+        "aging",
+        "mass"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-09T13:11:28.205891+00:00"
+    },
     {
       "id": "rss-115f4db9bb09",
       "discipline": "clinical",
@@ -36,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.271050+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.206172+00:00"
     },
     {
       "id": "rss-29682377259f",
@@ -68,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.271418+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.206378+00:00"
     },
     {
       "id": "rss-b415215d6668",
@@ -100,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.271717+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.206576+00:00"
     },
     {
       "id": "rss-1c4a0a16da42",
@@ -132,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.272007+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.206773+00:00"
     },
     {
       "id": "rss-6a14e40a19aa",
@@ -164,295 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.272271+00:00"
-    },
-    {
-      "id": "rss-0b6677f698e2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Hidden violence: Family members as the main victims of homicides linked to mental disorders",
-      "authors": "Medical Xpress",
-      "abstract": "In recent decades, the social and legal perception of people with mental disorders who commit crimes has changed. Initially, people with mental disorders were considered dangerous. However, since the late 20th century, the paradigm has shifted at both social and legal levels, with people experiencing mental disorders often considered victims themselves, despite having committed intentional crimes.",
-      "date": "2026-10-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-hidden-violence-family-members-main.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "mental",
-        "disorders",
-        "people",
-        "victims",
-        "social",
-        "legal",
-        "crimes",
-        "considered"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.272577+00:00"
-    },
-    {
-      "id": "rss-5b2af6e27b25",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Digital health promises shape the work of health care professionals",
-      "authors": "Medical Xpress",
-      "abstract": "The future benefits expected from remote monitoring in health care are shaped by how professionals understand their current work and its associated challenges, a recent study from the University of Eastern Finland shows.",
-      "date": "2026-10-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-digital-health-professionals.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "health",
-        "work",
-        "care",
-        "professionals",
-        "digital",
-        "promises",
-        "shape",
-        "future"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.272813+00:00"
-    },
-    {
-      "id": "rss-e89a55e456ba",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "How health care can benefit from AI, without costing the world",
-      "authors": "Medical Xpress",
-      "abstract": "Artificial intelligence (AI) has had a transformative effect on health care. The technology has been tested and applied in almost every area, from disease diagnostics to AI-powered digital clinics.",
-      "date": "2026-10-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-health-benefit-ai-world.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "health",
-        "care",
-        "benefit",
-        "without",
-        "costing",
-        "world",
-        "artificial",
-        "intelligence"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.273040+00:00"
-    },
-    {
-      "id": "rss-94fbcb61e1d9",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Pharmaceutical company marketing negatively influences prescribing",
-      "authors": "Medical Xpress",
-      "abstract": "Doctors' prescribing habits are heavily influenced by payments, gifts and free meals from pharmaceutical companies, leading to more prescriptions for more expensive, less appropriate drugs, a new Cochrane review finds. This can seriously harm both individual patients and health systems.",
-      "date": "2026-10-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-pharmaceutical-company-negatively.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "pharmaceutical",
-        "prescribing",
-        "more",
-        "company",
-        "marketing",
-        "negatively",
-        "influences",
-        "doctors"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.273286+00:00"
-    },
-    {
-      "id": "rss-c91a931bbcf7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "A new AI tool distinguishes Ewing sarcoma from similar tumors",
-      "authors": "Medical Xpress",
-      "abstract": "A team from the Universitat Politècnica de València (UPV) and the University of Valencia (UV) has developed and validated an artificial intelligence (AI) system capable of distinguishing Ewing sarcoma from other morphologically similar tumors with high accuracy. The model, which also enables optimal use of biopsy tissue, achieves 91.6% accuracy.",
-      "date": "2026-10-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-ai-tool-distinguishes-ewing-sarcoma.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ewing",
-        "sarcoma",
-        "similar",
-        "tumors",
-        "accuracy",
-        "tool",
-        "distinguishes",
-        "team"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.273583+00:00"
-    },
-    {
-      "id": "rss-516f5e9c7af1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Novel radiotherapy may save increasingly many rectal cancer patients from surgery and a stoma",
-      "authors": "Medical Xpress",
-      "abstract": "Tampere University Hospital (Tays) has begun offering a new form of radiotherapy to treat rectal cancer in which a high dose of radiation is targeted at the tumor surface. The aim is to destroy the tumor so that more patients may avoid major surgery and a potentially permanent stoma. Finland is at the forefront of implementing this novel treatment.",
-      "date": "2026-10-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-radiotherapy-rectal-cancer-patients-surgery.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "novel",
-        "radiotherapy",
-        "rectal",
-        "cancer",
-        "patients",
-        "surgery",
-        "stoma",
-        "tumor"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.273854+00:00"
-    },
-    {
-      "id": "rss-e952299eed0a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Maternal vaccines protect babies from serious infections, but unequal access limits benefits across Europe",
-      "authors": "Medical Xpress",
-      "abstract": "Europe must act now to strengthen maternal vaccination during pregnancy and ensure all women and babies can benefit from a new generation of vaccines to protect against serious infections. That is according to a new Lancet Regional Health - Europe series led by Professor Asma Khalil at City St George's, University of London, which is being launched and presented at the 2026 Global Society for Maternal-Fetal Medicine Congress in Utrecht.",
-      "date": "2026-10-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-maternal-vaccines-babies-infections-unequal.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "europe",
-        "maternal",
-        "vaccines",
-        "protect",
-        "babies",
-        "serious",
-        "infections",
-        "unequal"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.274141+00:00"
-    },
-    {
-      "id": "rss-5c9f1d369261",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Scientists identify the neuroblastoma cells that signal poor outcomes",
-      "authors": "Medical Xpress",
-      "abstract": "Neuroblastoma is the most common solid tumor found outside the brain in children, yet why some children respond well to treatment while others do not has remained poorly understood. St. Jude Children's Research Hospital scientists and their collaborators built one of the most comprehensive datasets of neuroblastoma cells to date, using it to define the tumor's cell types and identify a gene signature marking a malignant cell population tied to poor prognosis.",
-      "date": "2026-10-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-scientists-neuroblastoma-cells-poor-outcomes.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "neuroblastoma",
-        "children",
-        "scientists",
-        "identify",
-        "cells",
-        "poor",
-        "most",
-        "tumor"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.274453+00:00"
-    },
-    {
-      "id": "rss-8477ca83418c",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "'Immune fog' may flag lung cancer risk years before tumor develops",
-      "authors": "Medical Xpress",
-      "abstract": "A 'rising fog' may cloud the immune system's ability to detect tumors and may be the key to tackling lung cancer that is developing years before diagnosis. The team at University College London (UCL) followed this signal using prototype blood tests and reversed it using drugs.",
-      "date": "2026-10-09",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-immune-fog-flag-lung-cancer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "immune",
-        "lung",
-        "cancer",
-        "years",
-        "before",
-        "flag",
-        "risk",
-        "tumor"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.274711+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.206945+00:00"
     },
     {
       "id": "rss-eba4ad094e0a",
@@ -484,7 +484,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.315342+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.306058+00:00"
     },
     {
       "id": "rss-83bd9447bba8",
@@ -516,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.315682+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.306265+00:00"
     },
     {
       "id": "rss-cb3f0ac63d50",
@@ -548,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.315907+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.306441+00:00"
     },
     {
       "id": "rss-b61c42e57d41",
@@ -580,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.316102+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.306578+00:00"
     },
     {
       "id": "rss-07493b508e3c",
@@ -612,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.316299+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.306727+00:00"
     },
     {
       "id": "rss-0b22cef05ac8",
@@ -644,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.316533+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.306875+00:00"
     },
     {
       "id": "rss-af30287a27b3",
@@ -676,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.316726+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.307020+00:00"
     },
     {
       "id": "rss-ef9e8ca0a451",
@@ -708,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.316901+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.307148+00:00"
     },
     {
       "id": "rss-de6435cafce4",
@@ -740,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.317088+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.307299+00:00"
     },
     {
       "id": "rss-4282a7c16ff3",
@@ -772,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.317299+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.307469+00:00"
     },
     {
       "id": "rss-3d8b23b167d1",
@@ -804,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.317519+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.307617+00:00"
     },
     {
       "id": "rss-e1708bfb4f00",
@@ -836,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.317718+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.307766+00:00"
     },
     {
       "id": "rss-1cb03ee0544b",
@@ -868,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.317902+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.307903+00:00"
     },
     {
       "id": "rss-1ebe59935da1",
@@ -900,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.318079+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.308034+00:00"
     },
     {
       "id": "rss-3dbaaaee8012",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.345378+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.406180+00:00"
     },
     {
       "id": "rss-0bfffe781a60",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.345586+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.406351+00:00"
     },
     {
       "id": "rss-0b401625ba0c",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.345779+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.406504+00:00"
     },
     {
       "id": "rss-3cbba74411c0",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.345941+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.406627+00:00"
     },
     {
       "id": "rss-2f8a4e0119ee",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.346107+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.406755+00:00"
     },
     {
       "id": "rss-c561a387f2d1",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.346274+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.406880+00:00"
     },
     {
       "id": "rss-5764f9ec0337",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.686128+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.642954+00:00"
     },
     {
       "id": "rss-23f57c26ccb3",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.686605+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.643313+00:00"
     },
     {
       "id": "rss-19d143b1e9c8",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.346470+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.407003+00:00"
     },
     {
       "id": "rss-cefee57ba8d3",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.346644+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.407132+00:00"
     },
     {
       "id": "rss-2496878eb76f",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.346811+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.407256+00:00"
     },
     {
       "id": "rss-ec0c454d28a6",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.346992+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.407407+00:00"
     },
     {
       "id": "rss-2b529d97fb90",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.347155+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.407532+00:00"
     },
     {
       "id": "rss-6cc50e6c3036",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.347338+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.407653+00:00"
     },
     {
       "id": "rss-0333c77565a0",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.686815+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.643463+00:00"
     },
     {
       "id": "rss-93b8d56ba100",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.347522+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.407786+00:00"
     },
     {
       "id": "rss-d2d5303f2df6",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.347690+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.407914+00:00"
     },
     {
       "id": "rss-a7d777e1fbd3",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.687332+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.643855+00:00"
     },
     {
       "id": "rss-a969e28ae72b",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.687957+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.644333+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.688352+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.644616+00:00"
     },
     {
       "id": "rss-4d47532c7c63",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.688638+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.644830+00:00"
     },
     {
       "id": "rss-bf9122547ba1",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.689131+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.645200+00:00"
     },
     {
       "id": "rss-188abdd7fd48",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.689374+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.645394+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:43.849782+00:00"
+      "_retrievedAt": "2026-10-09T13:11:20.761737+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1700,39 +1700,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:04:54.689617+00:00"
+      "_retrievedAt": "2026-10-09T13:11:28.645583+00:00"
     },
     {
-      "id": "openalex-e5b9509ab88b",
+      "id": "openalex-637c76942b6d",
       "discipline": "cs",
       "type": "paper",
-      "title": "LLM-powered socially assistive robot-delivered cognitive behavioral therapy exercises: an exploratory study with university students",
-      "authors": "Mina Kian, Mingyu Zong, Katrin Fischer, Abhyuday Singh, Anna-Maria Velentza, Amy O'Connell",
-      "abstract": "Mental health is a significant healthcare challenge, and cognitive behavioral therapy (CBT) is a widely used therapeutic method for treating anxiety and depression. However, traditional CBT often requires access to trained clinicians and can be cost-prohibitive or logistically difficult for many individuals. To address these barriers, we developed a low-cost socially assistive robot (SAR) that uses a large language model (LLM) to guide the user through interactive at-home CBT exercises. In this exploratory study, 38 university students completed CBT exercises across a 15-day period using one of three modalities: with a robot (using an LLM for dialogue), a chatbot (using the same LLM for dialogue), or traditional CBT worksheets. We measured weekly therapeutic outcomes, changes in pre-/post-session anxiety measures, and adherence to completing CBT exercises. Our findings indicate that s...",
-      "date": "2026-09-09",
+      "title": "Flatline constructs : Gothic materialism and cybernetic theory-fiction",
+      "authors": "Mark Fisher",
+      "abstract": "Cyberpunk fiction has been called “the supreme literary expression, if not of postmodernism then of late capitalism itself.” (Jameson) This thesis aims to analyse and question this claim by rethinking cyberpunk Action, postmodernism and late capitalism in terms of three - interlocking - themes: cybernetics, the Gothic and fiction. It claims that while what has been called “postmodernism” has been preoccupied with cybernetic themes, cybernetics has been haunted by the Gothic. The Gothic has always enjoyed a peculiarly intimate relation with the fictional. Baudrillard's theories, meanwhile, suggest that, in a period dominated by (cybernetic) simulation, fiction has a new cultural role. By putting “theory” into dialogue with “fiction”, the thesis examines Baudrillard's suggestion that the era of cybernetics (what he calls “third order simulacra”) “puts an end to science fiction, but also...",
+      "date": "2026-09-14",
       "year": 2026,
-      "journal": "Frontiers in Robotics and AI",
-      "source": "Frontiers in Robotics and AI",
+      "journal": "Warwick Research Archive Portal (University of Warwick)",
+      "source": "Warwick Research Archive Portal (University of Warwick)",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/frobt.2026.1802622",
-      "doi": "10.3389/frobt.2026.1802622",
-      "pdfUrl": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1802622/pdf",
+      "url": "http://wrap.warwick.ac.uk/110900/1/WRAP_Theses_Fisher_1999.pdf",
+      "doi": "10.82444/warw.33768781",
+      "pdfUrl": "http://wrap.warwick.ac.uk/110900/1/WRAP_Theses_Fisher_1999.pdf",
       "keywords": [
-        "Chatbot",
-        "Anxiety",
-        "Cognitive behavioral therapy",
-        "Exploratory research",
-        "Distress",
-        "Digital Mental Health Interventions",
-        "Social Robot Interaction and HRI",
-        "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes"
+        "Deleuze and Guattari",
+        "Postmodernism",
+        "Materialism",
+        "Cybernetics",
+        "Posthumanism",
+        "Cultural Studies and Postmodernism",
+        "Gothic Literature and Media Analysis",
+        "Utopian, Dystopian, and Speculative Fiction"
       ],
-      "readTime": "1 min",
-      "citedBy": 15,
+      "readTime": "2 min",
+      "citedBy": 33,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:43.853440+00:00"
+      "_retrievedAt": "2026-10-09T13:11:20.762172+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:43.852099+00:00"
+      "_retrievedAt": "2026-10-09T13:11:20.764156+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:43.848183+00:00"
+      "_retrievedAt": "2026-10-09T13:11:20.760386+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:44.644098+00:00"
+      "_retrievedAt": "2026-10-09T13:11:21.700226+00:00"
     },
     {
       "id": "openalex-8543b13945d0",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.310437+00:00"
+      "_retrievedAt": "2026-10-09T13:11:22.404324+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.308285+00:00"
+      "_retrievedAt": "2026-10-09T13:11:22.402542+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1924,39 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.880864+00:00"
-    },
-    {
-      "id": "openalex-6a5a22694e49",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Electricity demand and grid impacts of AI data centers: Challenges and prospects",
-      "authors": "Xin Chen, Xiaoyang Wang, Ana Colacelli, Matt Lee, Le Xie",
-      "abstract": "The rapid growth of artificial intelligence (AI) is driving an unprecedented increase in the electricity demand of AI data centers, raising emerging challenges for electric power grids. Understanding the characteristics of AI data center loads and their interactions with the grid is therefore critical for ensuring both reliable power system operation and sustainable AI development. This paper provides a comprehensive review and vision of this evolving landscape. Specifically, this paper (i) presents an overview of AI data center infrastructure and its key components, (ii) examines the key characteristics and patterns of electricity demand across the stages of model preparation, training, fine-tuning, and inference, (iii) analyzes the critical challenges that AI data center loads pose to power systems across three interrelated timescales, including long-term planning and interconnectio...",
-      "date": "2026-08-17",
-      "year": 2026,
-      "journal": "Nexus",
-      "source": "Nexus",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.ynexs.2026.100162",
-      "doi": "10.1016/j.ynexs.2026.100162",
-      "pdfUrl": "https://doi.org/10.1016/j.ynexs.2026.100162",
-      "keywords": [
-        "Electricity",
-        "Key (lock)",
-        "Computer science",
-        "Electric power system",
-        "Electricity system",
-        "Smart Grid Energy Management",
-        "Energy Efficiency in Computing",
-        "Smart Grid and Power Systems"
-      ],
-      "readTime": "1 min",
-      "citedBy": 16,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:43.853060+00:00"
+      "_retrievedAt": "2026-10-09T13:11:23.062304+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1988,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:44.640965+00:00"
+      "_retrievedAt": "2026-10-09T13:11:21.698103+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -2016,11 +1984,11 @@ window.LIVE_FEED_DATA = {
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 21,
+      "citedBy": 22,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:43.851186+00:00"
+      "_retrievedAt": "2026-10-09T13:11:20.763499+00:00"
     },
     {
       "id": "openalex-3102df6dbe7b",
@@ -2052,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:44.644455+00:00"
+      "_retrievedAt": "2026-10-09T13:11:21.700542+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -2084,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:44.641365+00:00"
+      "_retrievedAt": "2026-10-09T13:11:21.698452+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2116,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:44.641704+00:00"
+      "_retrievedAt": "2026-10-09T13:11:21.698763+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2148,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.881236+00:00"
+      "_retrievedAt": "2026-10-09T13:11:23.062636+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2176,11 +2144,11 @@ window.LIVE_FEED_DATA = {
         "Genomics and Chromatin Dynamics"
       ],
       "readTime": "1 min",
-      "citedBy": 19,
+      "citedBy": 20,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:43.851509+00:00"
+      "_retrievedAt": "2026-10-09T13:11:20.763727+00:00"
     },
     {
       "id": "openalex-4f6e34e83be5",
@@ -2212,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:43.852412+00:00"
+      "_retrievedAt": "2026-10-09T13:11:20.764379+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2244,7 +2212,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:44.639771+00:00"
+      "_retrievedAt": "2026-10-09T13:11:21.696429+00:00"
+    },
+    {
+      "id": "openalex-64bfea83b2bd",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Acquired resistance to the RAS(ON) multi-selective inhibitor daraxonrasib guides rational combination therapy strategies in pancreatic cancer",
+      "authors": "Ida Aronchik, Sumit Kar, Yongxian Zhuang, Ethan Ahler, Lo Lai, Vidya Seshadri",
+      "abstract": "Daraxonrasib is an orally bioavailable RAS(ON) multi-selective tri-complex inhibitor of the oncogenic mutant and wild-type variants of N, H and KRAS. We previously reported encouraging efficacy in a phase 1/2 clinical trial evaluating daraxonrasib monotherapy at clinically active dose levels in patients with previously treated, RAS mutant metastatic pancreatic adenocarcinoma (PDAC), providing the basis for confirmatory evaluation in the randomized phase 3 RASolute 302 clinical trial. Here we report mechanisms of acquired resistance to daraxonrasib monotherapy observed through targeted sequencing of over 800 genes in paired pretreatment and end of treatment circulating tumor DNA samples from 44 patients in the phase 1/2 clinical trial. Treatment-emergent genomic alterations in the RAS signaling pathway were observed in more than half (26 of 44; 59%) of these patients, including, most n...",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04537-w",
+      "doi": "10.1038/s41591-026-04537-w",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04537-w.pdf",
+      "keywords": [
+        "KRAS",
+        "Pancreatic cancer",
+        "Cancer research",
+        "Medicine",
+        "Combination therapy",
+        "Pancreatic and Hepatic Oncology Research",
+        "Protein Kinase Regulation and GTPase Signaling",
+        "Cancer Genomics and Diagnostics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-09T13:11:21.697532+00:00"
     },
     {
       "id": "openalex-34f37069c1ad",
@@ -2276,39 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:44.641922+00:00"
-    },
-    {
-      "id": "openalex-64bfea83b2bd",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Acquired resistance to the RAS(ON) multi-selective inhibitor daraxonrasib guides rational combination therapy strategies in pancreatic cancer",
-      "authors": "Ida Aronchik, Sumit Kar, Yongxian Zhuang, Ethan Ahler, Lo Lai, Vidya Seshadri",
-      "abstract": "Daraxonrasib is an orally bioavailable RAS(ON) multi-selective tri-complex inhibitor of the oncogenic mutant and wild-type variants of N, H and KRAS. We previously reported encouraging efficacy in a phase 1/2 clinical trial evaluating daraxonrasib monotherapy at clinically active dose levels in patients with previously treated, RAS mutant metastatic pancreatic adenocarcinoma (PDAC), providing the basis for confirmatory evaluation in the randomized phase 3 RASolute 302 clinical trial. Here we report mechanisms of acquired resistance to daraxonrasib monotherapy observed through targeted sequencing of over 800 genes in paired pretreatment and end of treatment circulating tumor DNA samples from 44 patients in the phase 1/2 clinical trial. Treatment-emergent genomic alterations in the RAS signaling pathway were observed in more than half (26 of 44; 59%) of these patients, including, most n...",
-      "date": "2026-08-01",
-      "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04537-w",
-      "doi": "10.1038/s41591-026-04537-w",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04537-w.pdf",
-      "keywords": [
-        "KRAS",
-        "Pancreatic cancer",
-        "Cancer research",
-        "Medicine",
-        "Combination therapy",
-        "Pancreatic and Hepatic Oncology Research",
-        "Protein Kinase Regulation and GTPase Signaling",
-        "Cancer Genomics and Diagnostics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:44.642294+00:00"
+      "_retrievedAt": "2026-10-09T13:11:21.698960+00:00"
     },
     {
       "id": "openalex-83b919635dc2",
@@ -2336,11 +2304,43 @@ window.LIVE_FEED_DATA = {
         "Advanced Breast Cancer Therapies"
       ],
       "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-09T13:11:22.403615+00:00"
+    },
+    {
+      "id": "openalex-c47d537bde45",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Mixed Pain: Toward a Consensus Definition and a Mechanism‐Based Framework",
+      "authors": "Rainer Freynhagen, Bart J. Morlion, Antonio Alcántara Montero, Daniel Ciampi de Andrade, Andrés Hernández-Ortiz, Paul W Hodges",
+      "abstract": "BACKGROUND: For decades, clinicians and researchers have struggled to classify pain conditions that do not fit neatly into the nociceptive, neuropathic or nociplastic frameworks. Many common disorders-from chronic low back pain to cancer pain and osteoarthritis-exhibit overlapping mechanisms and have long fallen into the 'grey zone' of mixed pain. This area has intrigued researchers yet frustrated clinicians due to the absence of a clear, unified definition. METHODS: Through an international consensus process led by global leading experts, mixed pain has now been defined as pain that is associated with a lesion, disease or disorder resulting in an overlap of at least two mechanistic pain descriptors (nociceptive, neuropathic or nociplastic). CONCLUSIONS: This new definition may help provide the context needed to align research, refine diagnosis and design mechanism-based therapies for...",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "European Journal of Pain",
+      "source": "European Journal of Pain",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1002/ejp.70356",
+      "doi": "10.1002/ejp.70356",
+      "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ejp.70356",
+      "keywords": [
+        "Ambiguity",
+        "Terminology",
+        "Context (archaeology)",
+        "Neuropathic pain",
+        "Confusion",
+        "Pain Mechanisms and Treatments",
+        "Musculoskeletal pain and rehabilitation",
+        "Pain Management and Treatment"
+      ],
+      "readTime": "1 min",
       "citedBy": 5,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.310841+00:00"
+      "_retrievedAt": "2026-10-09T13:11:22.404636+00:00"
     },
     {
       "id": "openalex-7a85bfe0ead2",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.881641+00:00"
+      "_retrievedAt": "2026-10-09T13:11:23.062949+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.877462+00:00"
+      "_retrievedAt": "2026-10-09T13:11:23.059550+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2436,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.877829+00:00"
+      "_retrievedAt": "2026-10-09T13:11:23.059836+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2468,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:43.849391+00:00"
+      "_retrievedAt": "2026-10-09T13:11:20.761432+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2500,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.308690+00:00"
+      "_retrievedAt": "2026-10-09T13:11:22.402860+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2532,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:44.640404+00:00"
+      "_retrievedAt": "2026-10-09T13:11:21.696965+00:00"
     },
     {
       "id": "openalex-6f1beac60f93",
@@ -2564,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:43.852746+00:00"
+      "_retrievedAt": "2026-10-09T13:11:20.764624+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -2596,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.311216+00:00"
+      "_retrievedAt": "2026-10-09T13:11:22.404937+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2624,11 +2624,11 @@ window.LIVE_FEED_DATA = {
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 80,
+      "citedBy": 81,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:43.848644+00:00"
+      "_retrievedAt": "2026-10-09T13:11:20.760744+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2656,11 +2656,11 @@ window.LIVE_FEED_DATA = {
         "Gene Regulatory Network Analysis"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 8,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:44.642635+00:00"
+      "_retrievedAt": "2026-10-09T13:11:21.697807+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2692,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.306595+00:00"
+      "_retrievedAt": "2026-10-09T13:11:22.400799+00:00"
     },
     {
       "id": "openalex-4a46ff2c29ce",
@@ -2724,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.881987+00:00"
+      "_retrievedAt": "2026-10-09T13:11:23.063241+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -2756,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.879300+00:00"
+      "_retrievedAt": "2026-10-09T13:11:23.060983+00:00"
     },
     {
       "id": "openalex-6068978c624a",
@@ -2788,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.311563+00:00"
+      "_retrievedAt": "2026-10-09T13:11:22.405199+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2820,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.879713+00:00"
+      "_retrievedAt": "2026-10-09T13:11:23.061311+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2852,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.878894+00:00"
+      "_retrievedAt": "2026-10-09T13:11:23.060663+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2884,39 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:44.642990+00:00"
-    },
-    {
-      "id": "openalex-b7572a22400b",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "The cGAS–STING pathway in tumor immunity: dual roles, regulatory mechanisms, and precision therapeutic strategies",
-      "authors": "H B Jiang, Zhanzhan Li, X X Li, Lulu Yu, Jiacheng Sun, Yuntian Shen",
-      "abstract": "The cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) pathway, the core DNA-sensing mechanism in innate immunity, plays a pivotal role in linking tumorigenesis and the immune response. This review systematically elucidates the molecular activation mechanisms of this pathway and its complex regulatory networks within tumors, with a particular focus on analyzing its dual functions-tumor immune surveillance versus tumor promotion-and the determining factors involved. Current research indicates that acute activation of the cGAS-STING pathway potently suppresses tumors by inducing type I interferon responses, thereby promoting dendritic cell (DC) maturation and cytotoxic T lymphocyte infiltration. However, its chronic, persistent activation can paradoxically accelerate tumor progression and immune evasion by remodeling the immunosuppressive tumor microenvironment (TME),...",
-      "date": "2026-07-08",
-      "year": 2026,
-      "journal": "Frontiers in Pharmacology",
-      "source": "Frontiers in Pharmacology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fphar.2026.1844637",
-      "doi": "10.3389/fphar.2026.1844637",
-      "pdfUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1844637/pdf",
-      "keywords": [
-        "Tumor microenvironment",
-        "Immunotherapy",
-        "Cancer research",
-        "Immune system",
-        "Epigenetics",
-        "interferon and immune responses",
-        "Cancer Immunotherapy and Biomarkers",
-        "Immunotherapy and Immune Responses"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.311945+00:00"
+      "_retrievedAt": "2026-10-09T13:11:21.699267+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -2948,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:43.850867+00:00"
+      "_retrievedAt": "2026-10-09T13:11:20.763245+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -2980,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.878513+00:00"
+      "_retrievedAt": "2026-10-09T13:11:23.060361+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -3012,7 +2980,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.882485+00:00"
+      "_retrievedAt": "2026-10-09T13:11:23.063641+00:00"
+    },
+    {
+      "id": "openalex-b7abd719b558",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions",
+      "authors": "Lei Liu, Xiaoyan Yang, Junchi Lei, Yue Liang Shen, Jian Wang, Peng Wei",
+      "abstract": "With the advent of Large Language Models (LLMs), medical artificial intelligence (AI) has experienced substantial technological progress and paradigm shifts, highlighting the potential of LLMs to streamline healthcare delivery and improve patient outcomes. Considering this rapid technical progress, in this survey, we trace the recent advances of Medical Large Language Models (Med-LLMs), including the background, key findings, and mainstream techniques, especially for the evolution from general-purpose models to medical-specialized applications. Firstly, we delve into the foundational technology of Med-LLMs, indicating how general models can be progressively adapted and refined for the complicated medical tasks. Secondly, the wide-ranging applications of Med-LLMs are investigated across various healthcare domains, as well as an up-to-date review of existing Med-LLMs. The transformative...",
+      "date": "2026-07-03",
+      "year": 2026,
+      "journal": "IEEE Transactions on Knowledge and Data Engineering",
+      "source": "IEEE Transactions on Knowledge and Data Engineering",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1109/tkde.2026.3709941",
+      "doi": "10.1109/tkde.2026.3709941",
+      "pdfUrl": "https://doi.org/10.1109/tkde.2026.3709941",
+      "keywords": [
+        "Trustworthiness",
+        "Computer science",
+        "Data science",
+        "Computer security",
+        "Artificial Intelligence in Healthcare and Education",
+        "Machine Learning in Healthcare",
+        "Multimodal Machine Learning Applications",
+        "medical"
+      ],
+      "readTime": "1 min",
+      "citedBy": 26,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-09T13:11:20.763003+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -3044,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.306970+00:00"
+      "_retrievedAt": "2026-10-09T13:11:22.401111+00:00"
     },
     {
       "id": "openalex-0578798ae458",
@@ -3076,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.882903+00:00"
+      "_retrievedAt": "2026-10-09T13:11:23.063992+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -3108,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:43.850538+00:00"
+      "_retrievedAt": "2026-10-09T13:11:20.762737+00:00"
     },
     {
       "id": "openalex-5a31a7e0a2f8",
@@ -3136,11 +3136,11 @@ window.LIVE_FEED_DATA = {
         "Education, Achievement, and Giftedness"
       ],
       "readTime": "1 min",
-      "citedBy": 19,
+      "citedBy": 20,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:43.851813+00:00"
+      "_retrievedAt": "2026-10-09T13:11:20.763952+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -3172,39 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:44.643380+00:00"
-    },
-    {
-      "id": "openalex-93e697e727aa",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Robotic versus Open Pancreatoduodenectomy (PORTAL): multicentre, single masked, phase 3, non-inferiority randomised controlled trial",
-      "authors": "Jiabin Jin, Kai Qin, Georgios Gemenetzis, Zheng Wang, Chenxi Zheng, Wenhua Li",
-      "abstract": "Abstract Objective To determine whether robotic pancreatoduodenectomy (RPD) is non-inferior to open pancreatoduodenectomy (OPD) in terms of postoperative functional recovery, without compromising safety or oncological quality. Design Multicentre, single masked, phase 3, non-inferiority randomised controlled trial. Setting Seven tertiary high volume pancreatic centres in China, 15 June 2020 to 28 November 2024. Participants 268 adults with resectable pancreatic or periampullary disease. Interventions Participants were randomised to receive standardised RPD (n=142) or OPD (n=126), with enhanced recovery pathways. Main outcome measures The primary outcome was time from surgery to postoperative functional recovery, defined as adequate pain control without parenteral analgesia, ≥50% oral intake without intravenous fluids, independent mobilisation, and absence of active intra-abdominal infe...",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "BMJ",
-      "source": "BMJ",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1136/bmj-2026-319692",
-      "doi": "10.1136/bmj-2026-319692",
-      "pdfUrl": "https://doi.org/10.1136/bmj-2026-319692",
-      "keywords": [
-        "Medicine",
-        "Randomized controlled trial",
-        "Surgery",
-        "Confidence interval",
-        "Pancreaticoduodenectomy",
-        "Pancreatic and Hepatic Oncology Research",
-        "Enhanced Recovery After Surgery",
-        "Minimally Invasive Surgical Techniques"
-      ],
-      "readTime": "2 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.312533+00:00"
+      "_retrievedAt": "2026-10-09T13:11:21.699604+00:00"
     },
     {
       "id": "openalex-10ad267fea93",
@@ -3236,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.309167+00:00"
+      "_retrievedAt": "2026-10-09T13:11:22.403268+00:00"
     },
     {
       "id": "openalex-33e8cda96b3e",
@@ -3268,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.309963+00:00"
+      "_retrievedAt": "2026-10-09T13:11:22.403941+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -3300,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:43.848985+00:00"
+      "_retrievedAt": "2026-10-09T13:11:20.761111+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -3332,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:43.850195+00:00"
+      "_retrievedAt": "2026-10-09T13:11:20.762507+00:00"
     },
     {
       "id": "openalex-9012e812c9de",
@@ -3364,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:44.643770+00:00"
+      "_retrievedAt": "2026-10-09T13:11:21.699942+00:00"
     },
     {
       "id": "openalex-bb50663ea11d",
@@ -3396,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.880154+00:00"
+      "_retrievedAt": "2026-10-09T13:11:23.061702+00:00"
     },
     {
       "id": "openalex-a29127dc905f",
@@ -3428,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.307569+00:00"
+      "_retrievedAt": "2026-10-09T13:11:22.401599+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -3460,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.307200+00:00"
+      "_retrievedAt": "2026-10-09T13:11:22.401310+00:00"
     },
     {
       "id": "openalex-771740d27607",
@@ -3492,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.307928+00:00"
+      "_retrievedAt": "2026-10-09T13:11:22.402207+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -3524,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.878135+00:00"
+      "_retrievedAt": "2026-10-09T13:11:23.060069+00:00"
     },
     {
       "id": "openalex-3982dd91b847",
@@ -3556,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:45.880468+00:00"
+      "_retrievedAt": "2026-10-09T13:11:23.061951+00:00"
     },
     {
       "id": "openalex-9ae00385fc6f",
@@ -3588,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-09T06:03:44.640637+00:00"
+      "_retrievedAt": "2026-10-09T13:11:21.697172+00:00"
     }
   ]
 };
