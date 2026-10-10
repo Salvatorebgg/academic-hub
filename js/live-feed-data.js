@@ -1,11 +1,107 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-10-10T05:47:09.511629+00:00",
+  "generatedAt": "2026-10-10T12:26:31.097177+00:00",
   "total": 111,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-989a302e765f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Florida's dengue outbreak is now the largest in a US state in decades",
+      "authors": "Medical Xpress",
+      "abstract": "Florida's current dengue outbreak is the largest in several decades of any U.S. state.",
+      "date": "2026-10-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-florida-dengue-outbreak-largest-state.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "florida",
+        "dengue",
+        "outbreak",
+        "largest",
+        "state",
+        "decades",
+        "current",
+        "several"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-10T12:26:30.455067+00:00"
+    },
+    {
+      "id": "rss-38a67f8820d7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Physical activity weakens link between genetic risk and depression severity, long-term data suggest",
+      "authors": "Medical Xpress",
+      "abstract": "Major depressive disorder (MDD), one type of depression, is one of the most common psychiatric conditions worldwide. It is characterized by persistent low mood and a loss of interest in everyday activities, along with changes in sleep, appetite and motivation.",
+      "date": "2026-10-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-physical-weakens-link-genetic-depression.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "depression",
+        "physical",
+        "activity",
+        "weakens",
+        "link",
+        "genetic",
+        "risk",
+        "severity"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-10T12:26:30.455291+00:00"
+    },
+    {
+      "id": "rss-c735b5aeb1e0",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Horse-based activities may help autistic youth with behavioral and emotional challenges",
+      "authors": "Medical Xpress",
+      "abstract": "New research from the University of Colorado Anschutz provides strong evidence that horseback riding can help reduce hyperactivity and improve other behavioral and emotional challenges in children with autism and other psychiatric disorders.",
+      "date": "2026-10-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-horse-based-autistic-youth-behavioral.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "help",
+        "behavioral",
+        "emotional",
+        "challenges",
+        "other",
+        "horse-based",
+        "activities",
+        "autistic"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-10T12:26:30.455487+00:00"
+    },
     {
       "id": "rss-fb8a24978e82",
       "discipline": "clinical",
@@ -36,7 +132,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.833834+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.455688+00:00"
     },
     {
       "id": "rss-40e4387f4159",
@@ -68,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.834127+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.455842+00:00"
     },
     {
       "id": "rss-0cec9b7869a2",
@@ -100,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.834405+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.455999+00:00"
     },
     {
       "id": "rss-d0dd3f05585a",
@@ -132,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.834729+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.456175+00:00"
     },
     {
       "id": "rss-c6c051d94e98",
@@ -164,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.834979+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.456324+00:00"
     },
     {
       "id": "rss-04605aadec12",
@@ -196,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.835280+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.456512+00:00"
     },
     {
       "id": "rss-ab4b8efb9f70",
@@ -228,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.835565+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.456683+00:00"
     },
     {
       "id": "rss-f9f27799702e",
@@ -260,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.835914+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.456876+00:00"
     },
     {
       "id": "rss-4aabc0b0cf44",
@@ -292,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.836190+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.457040+00:00"
     },
     {
       "id": "rss-c6241ef247d4",
@@ -324,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.836482+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.457208+00:00"
     },
     {
       "id": "rss-36e7796f30f7",
@@ -356,103 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.836761+00:00"
-    },
-    {
-      "id": "rss-d88f5f1c341a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Nasal vaccine additive improves flu survival in mice even 100 days after treatment",
-      "authors": "Medical Xpress",
-      "abstract": "The COVID-19 pandemic showed the challenges of protecting populations when a new respiratory virus emerges. Although vaccines were developed at unprecedented speed, there was still a period when vaccines were not yet available, and people remained vulnerable to infection. This raises an important question: Could the body's natural defenses be temporarily strengthened without knowing which virus will emerge?",
-      "date": "2026-10-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-nasal-vaccine-additive-flu-survival.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "when",
-        "virus",
-        "vaccines",
-        "were",
-        "nasal",
-        "vaccine",
-        "additive",
-        "improves"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.837050+00:00"
-    },
-    {
-      "id": "rss-2bca146d2626",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Enzyme inhibitor limits scarring after heart attacks and protects heart function in mice",
-      "authors": "Medical Xpress",
-      "abstract": "Heart failure often develops after a heart attack because excessive collagen-based scar tissue forms during repair. While collagen is necessary to reinforce scars, disease and chronic inflammation can cause overproduction, which stiffens the heart muscle and impairs its pumping ability.",
-      "date": "2026-10-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-enzyme-inhibitor-limits-scarring-heart.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "heart",
-        "after",
-        "enzyme",
-        "inhibitor",
-        "limits",
-        "scarring",
-        "attacks",
-        "protects"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.837310+00:00"
-    },
-    {
-      "id": "rss-31553d2288d8",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New research reveals the remarkable complexity of human milk",
-      "authors": "Medical Xpress",
-      "abstract": "Two major international studies are providing new insight into how human milk is regulated, showing that some components respond to maternal nutrition, while others remain stable or reflect biological processes involved in lactation and infant growth.",
-      "date": "2026-10-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-reveals-remarkable-complexity-human.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "human",
-        "milk",
-        "reveals",
-        "remarkable",
-        "complexity",
-        "major",
-        "international",
-        "studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.837556+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.457359+00:00"
     },
     {
       "id": "rss-9b1f40064165",
@@ -484,7 +484,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.932719+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.564338+00:00"
     },
     {
       "id": "rss-4be9236f4d29",
@@ -516,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.932953+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.564506+00:00"
     },
     {
       "id": "rss-a6a05c8fecd4",
@@ -548,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.933112+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.564660+00:00"
     },
     {
       "id": "rss-b5d02745686f",
@@ -580,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.933353+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.564863+00:00"
     },
     {
       "id": "rss-36d1161d28e9",
@@ -612,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.933569+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.565033+00:00"
     },
     {
       "id": "rss-1e3c47ce3cb0",
@@ -644,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.933724+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.565140+00:00"
     },
     {
       "id": "rss-5c6b38bf92fa",
@@ -676,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.933880+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.565258+00:00"
     },
     {
       "id": "rss-386962e8ba09",
@@ -708,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.934024+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.565363+00:00"
     },
     {
       "id": "rss-21197bcc3555",
@@ -740,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.934202+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.565497+00:00"
     },
     {
       "id": "rss-eba4ad094e0a",
@@ -772,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.934379+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.565637+00:00"
     },
     {
       "id": "rss-83bd9447bba8",
@@ -804,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.934540+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.565760+00:00"
     },
     {
       "id": "rss-cb3f0ac63d50",
@@ -836,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.934709+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.565878+00:00"
     },
     {
       "id": "rss-b61c42e57d41",
@@ -868,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.934854+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.565990+00:00"
     },
     {
       "id": "rss-07493b508e3c",
@@ -900,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.935008+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.566105+00:00"
     },
     {
       "id": "rss-3dbaaaee8012",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.982166+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.684540+00:00"
     },
     {
       "id": "rss-0bfffe781a60",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.982326+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.684683+00:00"
     },
     {
       "id": "rss-0b401625ba0c",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.982486+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.684813+00:00"
     },
     {
       "id": "rss-3cbba74411c0",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.982667+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.684920+00:00"
     },
     {
       "id": "rss-2f8a4e0119ee",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.982819+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.685029+00:00"
     },
     {
       "id": "rss-c561a387f2d1",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.982964+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.685136+00:00"
     },
     {
       "id": "rss-5764f9ec0337",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:09.132485+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.904678+00:00"
     },
     {
       "id": "rss-23f57c26ccb3",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:09.133001+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.905009+00:00"
     },
     {
       "id": "rss-19d143b1e9c8",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.983106+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.685245+00:00"
     },
     {
       "id": "rss-cefee57ba8d3",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.983254+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.685357+00:00"
     },
     {
       "id": "rss-2496878eb76f",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.983396+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.685468+00:00"
     },
     {
       "id": "rss-ec0c454d28a6",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.983552+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.685617+00:00"
     },
     {
       "id": "rss-2b529d97fb90",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.983708+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.685734+00:00"
     },
     {
       "id": "rss-6cc50e6c3036",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.983849+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.685841+00:00"
     },
     {
       "id": "rss-0333c77565a0",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:09.133217+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.905145+00:00"
     },
     {
       "id": "rss-93b8d56ba100",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.984001+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.685957+00:00"
     },
     {
       "id": "rss-d2d5303f2df6",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:08.984146+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.686065+00:00"
     },
     {
       "id": "rss-a7d777e1fbd3",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:09.133757+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.905488+00:00"
     },
     {
       "id": "rss-a969e28ae72b",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:09.134416+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.905934+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:09.134854+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.906181+00:00"
     },
     {
       "id": "rss-4d47532c7c63",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:09.135162+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.906374+00:00"
     },
     {
       "id": "rss-bf9122547ba1",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:09.135701+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.906731+00:00"
     },
     {
       "id": "rss-188abdd7fd48",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:09.135915+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.906876+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:03.391977+00:00"
+      "_retrievedAt": "2026-10-10T12:26:23.626221+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:09.136121+00:00"
+      "_retrievedAt": "2026-10-10T12:26:30.907037+00:00"
     },
     {
       "id": "openalex-637c76942b6d",
@@ -1732,7 +1732,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:03.392937+00:00"
+      "_retrievedAt": "2026-10-10T12:26:23.626659+00:00"
+    },
+    {
+      "id": "openalex-2da239523a05",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Deleuze and the three syntheses of time",
+      "authors": "Keith W. Faulkner",
+      "abstract": "The three syntheses of time are Deleuze’s response to Kant’s belief that time is synthesized by the unity o the “I think.” Deleuze believes that there is a prior synthesis of time in the unconscious. He calls this a “passive” synthesis of time. My thesis will seek to clarify Deleuze’s theory of the three syntheses of time by providing the background from which he derived his concepts. In chapter one I argue that the system of “signs” presented in Proust and Signs is the precursor to Deleuze’s three syntheses of time. I conclude that Worldy Signs correspond to synthesis of habit, Signs of Love correspond to the synthesis of memory, and Signs of Art correspond to the synthesis of the future. In chapter two I argue that the system of “series” presented in the second half of The Logic of Sense illustrates Deleuze’s conceptions of “resonance” and “forced movement” that are critical to unde...",
+      "date": "2026-09-09",
+      "year": 2026,
+      "journal": "Warwick Research Archive Portal (University of Warwick)",
+      "source": "Warwick Research Archive Portal (University of Warwick)",
+      "sourceApi": "OpenAlex",
+      "url": "http://wrap.warwick.ac.uk/2991/1/WRAP_THESIS_Faulkner_2004.pdf",
+      "doi": "10.82444/warw.33488926",
+      "pdfUrl": "http://wrap.warwick.ac.uk/2991/1/WRAP_THESIS_Faulkner_2004.pdf",
+      "keywords": [
+        "Unconscious mind",
+        "Id, ego and super-ego",
+        "Repetition (rhetorical device)",
+        "Philosophy",
+        "Reading (process)",
+        "Philosophical and Theoretical Analysis",
+        "Psychoanalysis, Philosophy, and Politics",
+        "Phenomenology and Existential Philosophy"
+      ],
+      "readTime": "1 min",
+      "citedBy": 28,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-10T12:26:23.627368+00:00"
+    },
+    {
+      "id": "openalex-a4d4df423646",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Learners' experience of presence in virtual worlds",
+      "authors": "Mark Childs",
+      "abstract": "This thesis explores participants' experiences of presence in virtual worlds as a specific case of mediated environments, and the factors that support that experience of presence, with the aim of developing practice when using these technologies in learning and teaching. The thesis begins with a framework that was created to bring together concepts from a range of disciplines that describe presence and factors that contribute to presence. Organising categories within the framework were drawn from a blend of Activity Theory and Communities of Practice. Five case studies in Second Life (preceded by a pilot study employing webconferencing) were conducted in order to investigate learners' experiences in these environments. Qualitative and quantitative data were gathered from these cases. The data from the separate cases were analysed using a cross-case synthesis and the role of presence,...",
+      "date": "2026-09-09",
+      "year": 2026,
+      "journal": "Open Research Online (The Open University)",
+      "source": "Open Research Online (The Open University)",
+      "sourceApi": "OpenAlex",
+      "url": "https://oro.open.ac.uk/view/person/mc26355.html",
+      "doi": "10.82444/warw.33494092",
+      "pdfUrl": "http://wrap.warwick.ac.uk/4516/1/WRAP_THESIS_Childs_2010.pdf",
+      "keywords": [
+        "Avatar",
+        "Typology",
+        "Metaverse",
+        "Preparedness",
+        "Resistance (ecology)",
+        "Virtual Reality Applications and Impacts",
+        "Online and Blended Learning",
+        "Digital Education and Society"
+      ],
+      "readTime": "1 min",
+      "citedBy": 24,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-10T12:26:23.628415+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1764,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:03.396081+00:00"
+      "_retrievedAt": "2026-10-10T12:26:23.629323+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1796,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:03.389153+00:00"
+      "_retrievedAt": "2026-10-10T12:26:23.624998+00:00"
     },
     {
       "id": "openalex-ee5bfeca61d7",
@@ -1828,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.149061+00:00"
+      "_retrievedAt": "2026-10-10T12:26:24.590917+00:00"
     },
     {
       "id": "openalex-8543b13945d0",
@@ -1860,7 +1924,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.949674+00:00"
+      "_retrievedAt": "2026-10-10T12:26:25.348333+00:00"
+    },
+    {
+      "id": "openalex-4bcca691e2bc",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Geospatial micro-estimates of slum populations in 129 Global South countries using machine learning and public data",
+      "authors": "Dan Li, Laixiang Sun, Yang Yu, Peipei Tian",
+      "abstract": "Abstract. Slums are a visible manifestation of poverty in Global South countries. Reliable estimation of slum population is crucial for urban planning, humanitarian aid provision, and improving well-being. However, large-scale and fine-grained mapping is still lacking due to inconsistent methodologies and definitions across countries. Existing datasets often rely on government statistics, lacking spatial continuity or underestimating slum population due to factors such as city image and privacy concerns. Here, we develop a standardized bottom-up approach to estimate slum population at the neighborhood level (~6.72 km resolution at the equator) for 129 Global South countries in 2018. Leveraging the Sustainable Development Goals 11.1 framework and machine learning, our estimation integrates household-based surveys, satellite imagery, and grided population data. Our models explain 82 % t...",
+      "date": "2026-08-25",
+      "year": 2026,
+      "journal": "Earth system science data",
+      "source": "Earth system science data",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.5194/essd-18-5969-2026",
+      "doi": "10.5194/essd-18-5969-2026",
+      "pdfUrl": "https://essd.copernicus.org/articles/18/5969/2026/essd-18-5969-2026.pdf",
+      "keywords": [
+        "Slum",
+        "Geospatial analysis",
+        "Geography",
+        "Data science",
+        "Regional science",
+        "Urban and Rural Development Challenges",
+        "Impact of Light on Environment and Health",
+        "Remote Sensing and Land Use"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-10T12:26:26.071946+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1892,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.947734+00:00"
+      "_retrievedAt": "2026-10-10T12:26:25.346799+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1924,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:05.581426+00:00"
+      "_retrievedAt": "2026-10-10T12:26:26.072231+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -1956,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.146817+00:00"
+      "_retrievedAt": "2026-10-10T12:26:24.589157+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -1988,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:03.395030+00:00"
+      "_retrievedAt": "2026-10-10T12:26:23.628673+00:00"
     },
     {
       "id": "openalex-3102df6dbe7b",
@@ -2020,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.149371+00:00"
+      "_retrievedAt": "2026-10-10T12:26:24.591161+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -2052,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.147163+00:00"
+      "_retrievedAt": "2026-10-10T12:26:24.589437+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2084,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.147478+00:00"
+      "_retrievedAt": "2026-10-10T12:26:24.589692+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2116,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:05.581774+00:00"
+      "_retrievedAt": "2026-10-10T12:26:26.072508+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2144,43 +2240,11 @@ window.LIVE_FEED_DATA = {
         "Genomics and Chromatin Dynamics"
       ],
       "readTime": "1 min",
-      "citedBy": 20,
+      "citedBy": 21,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:03.395377+00:00"
-    },
-    {
-      "id": "openalex-4f6e34e83be5",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Real-world use of large language models for mental health in 2024",
-      "authors": "Elizabeth C. Stade, Zoe Tait, Samuel Thomas Campione, Shannon Wiltsey Stirman, johannes Christopher Eichstaedt",
-      "abstract": "The extent to which people use general-purpose large language models (LLMs) for their mental health is unknown. Information about use patterns is important for clinicians, developers, and regulators. We surveyed U.S. adults (n = 1871) between August and October 2024 using stratified sampling across age, sex, and race/ethnicity to approximate national demographics. We found that 24% of participants use LLMs for mental health; they are disproportionately young, male, and Black, and have poor mental health. Participants reported difficulty accessing traditional treatment and using LLMs because they are free, convenient, and available. They report using LLMs for emotional support, learning therapy skills, and supplementing existing therapy. Using Pew-reported estimates of population LLM use, we conservatively estimate that as of 2024, 14-18 million U.S. adults may have been using LLMs for...",
-      "date": "2026-08-01",
-      "year": 2026,
-      "journal": "npj Digital Medicine",
-      "source": "npj Digital Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41746-026-02842-9",
-      "doi": "10.1038/s41746-026-02842-9",
-      "pdfUrl": "https://www.nature.com/articles/s41746-026-02842-9_reference.pdf",
-      "keywords": [
-        "Mental health",
-        "Population",
-        "Psychology",
-        "Psychiatry",
-        "Work (physics)",
-        "Digital Mental Health Interventions",
-        "Artificial Intelligence in Healthcare and Education",
-        "Mental Health Treatment and Access"
-      ],
-      "readTime": "1 min",
-      "citedBy": 18,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:03.396409+00:00"
+      "_retrievedAt": "2026-10-10T12:26:23.628899+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2212,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.145347+00:00"
+      "_retrievedAt": "2026-10-10T12:26:24.587994+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2244,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.146230+00:00"
+      "_retrievedAt": "2026-10-10T12:26:24.588709+00:00"
     },
     {
       "id": "openalex-34f37069c1ad",
@@ -2276,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.147710+00:00"
+      "_retrievedAt": "2026-10-10T12:26:24.589849+00:00"
     },
     {
       "id": "openalex-83b919635dc2",
@@ -2304,11 +2368,11 @@ window.LIVE_FEED_DATA = {
         "Advanced Breast Cancer Therapies"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.948915+00:00"
+      "_retrievedAt": "2026-10-10T12:26:25.347082+00:00"
     },
     {
       "id": "openalex-c47d537bde45",
@@ -2340,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.950015+00:00"
+      "_retrievedAt": "2026-10-10T12:26:25.348613+00:00"
     },
     {
       "id": "openalex-7a85bfe0ead2",
@@ -2372,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:05.582104+00:00"
+      "_retrievedAt": "2026-10-10T12:26:26.072783+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2404,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:05.577969+00:00"
+      "_retrievedAt": "2026-10-10T12:26:26.069488+00:00"
     },
     {
       "id": "openalex-cc20596fdff7",
@@ -2436,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.149674+00:00"
+      "_retrievedAt": "2026-10-10T12:26:24.591401+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2468,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:05.578388+00:00"
+      "_retrievedAt": "2026-10-10T12:26:26.069770+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2500,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:03.391263+00:00"
+      "_retrievedAt": "2026-10-10T12:26:23.625921+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2532,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.948072+00:00"
+      "_retrievedAt": "2026-10-10T12:26:25.347356+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2564,39 +2628,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.145886+00:00"
+      "_retrievedAt": "2026-10-10T12:26:24.588419+00:00"
     },
     {
-      "id": "openalex-6f1beac60f93",
-      "discipline": "cs",
+      "id": "openalex-66a62c54aef7",
+      "discipline": "clinical",
       "type": "paper",
-      "title": "Cultural evolution of music and language",
-      "authors": "Yuto Ozaki, Marianne de Heer Kloots, Andrea Ravignani, Patrick E. Savage",
-      "abstract": "Abstract Music and language are both forms of communication universally observed across human societies, prompting researchers to investigate why and how they evolved. Such research initially focused on the biological evolution of the capacities to create and perceive language and music; later work has been increasingly tackling the cultural evolution angle to study the mechanisms and processes driving the diversity and regularities of music and language. In this chapter, we review key studies of the cultural evolution of music and language. We group the review into observational studies (e.g. phylogenetic analysis), experimental studies (e.g. transmission chains), simulation studies (e.g. agent-based models), and music-language relationships (e.g. song/speech melody/prosody). Furthermore, we highlight key ideas that each discipline can learn from the other, and promising research top...",
-      "date": "2026-07-22",
+      "title": "FDA Approval of the First-Ever PROTAC: Vepdegestrant (ARV-471) Marks a New Era in Targeted Protein Degradation",
+      "authors": "Anil Kumar, Saghir Ali, Qiang Shen, Jia Zhou",
+      "abstract": "Targeted protein degradation (TPD), including proteolysis targeting chimeras (PROTACs) and molecular glues (MGs), has emerged as a promising therapeutic strategy with significant potential to selectively eliminate disease-causing proteins that have traditionally been intractable to conventional small molecules therapeutics.1,2 Over the past two decades, PROTACs have evolved into a transformative therapeutic modality that harnesses the ubiquitin-proteasome system (UPS) to selectively degrade proteins of interest (POIs), thereby enabling the modulation of previously undruggable proteins.As highlighted in our recent editorial describing the New Drug Application (NDA) submission of vepdegestrant, the field of TPD has now progressed from clinical-stage validation to regulatory approval.3 About two decades after introducing the PROTAC concept, this therapeutic modality has delivered its fir...",
+      "date": "2026-07-23",
       "year": 2026,
-      "journal": "Oxford University Press eBooks",
-      "source": "Oxford University Press eBooks",
+      "journal": "Journal of Medicinal Chemistry",
+      "source": "Journal of Medicinal Chemistry",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1093/oxfordhb/9780192894700.013.0028",
-      "doi": "10.1093/oxfordhb/9780192894700.013.0028",
-      "pdfUrl": "https://psyarxiv.com/s7apx/download",
+      "url": "https://doi.org/10.1021/acs.jmedchem.6c02076",
+      "doi": "10.1021/acs.jmedchem.6c02076",
+      "pdfUrl": "https://pubs.acs.org/doi/pdf/10.1021/acs.jmedchem.6c02076?ref=article_openPDF",
       "keywords": [
-        "Parallels",
-        "Cultural transmission in animals",
-        "Sociocultural evolution",
-        "Cognitive science",
-        "Music psychology",
-        "Language and cultural evolution",
-        "Animal Vocal Communication and Behavior",
-        "Neuroscience and Music Perception"
+        "Chemistry",
+        "Protein degradation",
+        "Protein stability",
+        "Degradation (telecommunications)",
+        "Pharmacology",
+        "Protein Degradation and Inhibitors",
+        "Advanced Breast Cancer Therapies",
+        "Prostate Cancer Treatment and Research"
       ],
       "readTime": "1 min",
-      "citedBy": 18,
-      "qualityScore": 80.0,
+      "citedBy": 5,
+      "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:03.396809+00:00"
+      "_retrievedAt": "2026-10-10T12:26:25.348871+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -2628,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.950339+00:00"
+      "_retrievedAt": "2026-10-10T12:26:25.349135+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2660,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:03.389951+00:00"
+      "_retrievedAt": "2026-10-10T12:26:23.625354+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2692,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.146506+00:00"
+      "_retrievedAt": "2026-10-10T12:26:24.588924+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2724,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.945887+00:00"
+      "_retrievedAt": "2026-10-10T12:26:25.345299+00:00"
     },
     {
       "id": "openalex-4a46ff2c29ce",
@@ -2756,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:05.582427+00:00"
+      "_retrievedAt": "2026-10-10T12:26:26.073034+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -2788,39 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:05.580032+00:00"
-    },
-    {
-      "id": "openalex-6068978c624a",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Tumor heterogeneity: development, mechanisms, and therapeutic implications",
-      "authors": "Jianhong Zhang, Heng Li, Shuo Ru, Hui Feng, Guo J, Danlei Sun",
-      "abstract": "Tumor heterogeneity is a fundamental hallmark of cancer that drives progression, metastasis and therapeutic resistance. This diversity originates from persistent genomic instability, dynamic clonal evolution, and cancer stem cell plasticity, which are further amplified through complex crosstalk within the tumor microenvironment. While conventional therapies effectively eliminate certain tumor cell populations, residual resistant subclones frequently lead to disease relapse. Recent breakthroughs in single-cell multi-omics, spatial transcriptomics, and liquid biopsy now enable a comprehensive, multidimensional dissection of tumor heterogeneity across molecular, cellular, spatial, and temporal scales. These approaches reveal real-time dynamics of tumor evolution, providing new opportunities for therapeutic intervention. This review synthesizes key advances in understanding tumor heteroge...",
-      "date": "2026-07-12",
-      "year": 2026,
-      "journal": "Signal Transduction and Targeted Therapy",
-      "source": "Signal Transduction and Targeted Therapy",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41392-026-02749-7",
-      "doi": "10.1038/s41392-026-02749-7",
-      "pdfUrl": "https://www.nature.com/articles/s41392-026-02749-7.pdf",
-      "keywords": [
-        "Cancer research",
-        "Medicine",
-        "Tumor cells",
-        "Computational biology",
-        "MEDLINE",
-        "Cancer Genomics and Diagnostics",
-        "Cancer Cells and Metastasis",
-        "Single-cell and spatial transcriptomics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.950628+00:00"
+      "_retrievedAt": "2026-10-10T12:26:26.070874+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2852,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:05.580380+00:00"
+      "_retrievedAt": "2026-10-10T12:26:26.071162+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2884,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:05.579575+00:00"
+      "_retrievedAt": "2026-10-10T12:26:26.070547+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -2916,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.148034+00:00"
+      "_retrievedAt": "2026-10-10T12:26:24.590101+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -2948,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:03.394654+00:00"
+      "_retrievedAt": "2026-10-10T12:26:23.628131+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -2980,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:05.579147+00:00"
+      "_retrievedAt": "2026-10-10T12:26:26.070262+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -3012,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:05.582849+00:00"
+      "_retrievedAt": "2026-10-10T12:26:26.073372+00:00"
     },
     {
       "id": "openalex-b7abd719b558",
@@ -3044,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:03.394275+00:00"
+      "_retrievedAt": "2026-10-10T12:26:23.627889+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -3076,39 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.946257+00:00"
-    },
-    {
-      "id": "openalex-0578798ae458",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "An enhanced approach for flood risk assessment using the Analytical Hierarchy Process (AHP) and Geographical Information System (GIS) in Sylhet district of northeastern Bangladesh",
-      "authors": "Md. Mahfuzar Rahman, Asif Ahmed, Iftakhar Ahmed, Mahfuja Khandaker, B. M. Rabby Hossain, Md. Zillur Rahman",
-      "abstract": "The Sylhet district in Bangladesh experiences frequent flooding due to its geographic setting and heavy monsoon rainfall, further intensified by human-driven activities, including rapid urban expansion, land-use/land-cover alterations, and river encroachment, which collectively cause significant damage to communities, infrastructure, and agriculture. This study aims to delineate flood risk in the district by integrating flood hazard and vulnerability maps using an enhanced GIS-AHP (Analytical Hierarchy Process) approach that incorporates 14 hazard and 8 vulnerability factors. Employing AHP, influencing weights were assigned to hazard and vulnerability defining factors, thereafter mapped in GIS to assess the spatial characteristics of the flood hazard index (FHI) and flood vulnerability index (FVI), thus collectively producing the flood risk index (FRI). Validation of the FHI map was c...",
-      "date": "2026-07-03",
-      "year": 2026,
-      "journal": "Discover Hazards",
-      "source": "Discover Hazards",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s44475-026-00053-0",
-      "doi": "10.1007/s44475-026-00053-0",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s44475-026-00053-0.pdf",
-      "keywords": [
-        "Analytic hierarchy process",
-        "Flood risk assessment",
-        "Information system",
-        "Flood myth",
-        "Risk assessment",
-        "Flood Risk Assessment and Management",
-        "Landslides and related hazards",
-        "Disaster Management and Resilience"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:05.583221+00:00"
+      "_retrievedAt": "2026-10-10T12:26:25.345568+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -3140,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:03.393863+00:00"
+      "_retrievedAt": "2026-10-10T12:26:23.627620+00:00"
     },
     {
       "id": "openalex-5a31a7e0a2f8",
@@ -3172,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:03.395758+00:00"
+      "_retrievedAt": "2026-10-10T12:26:23.629122+00:00"
     },
     {
       "id": "openalex-d18501e37a77",
@@ -3204,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.148370+00:00"
+      "_retrievedAt": "2026-10-10T12:26:24.590372+00:00"
     },
     {
       "id": "openalex-10ad267fea93",
@@ -3236,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.948508+00:00"
+      "_retrievedAt": "2026-10-10T12:26:25.347719+00:00"
     },
     {
       "id": "openalex-33e8cda96b3e",
@@ -3268,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.949264+00:00"
+      "_retrievedAt": "2026-10-10T12:26:25.348005+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -3300,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:03.390552+00:00"
+      "_retrievedAt": "2026-10-10T12:26:23.625625+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -3332,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:03.393474+00:00"
+      "_retrievedAt": "2026-10-10T12:26:23.626981+00:00"
     },
     {
       "id": "openalex-9012e812c9de",
@@ -3364,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.148750+00:00"
+      "_retrievedAt": "2026-10-10T12:26:24.590671+00:00"
     },
     {
       "id": "openalex-bb50663ea11d",
@@ -3396,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:05.580804+00:00"
+      "_retrievedAt": "2026-10-10T12:26:26.071487+00:00"
     },
     {
       "id": "openalex-a29127dc905f",
@@ -3424,11 +3424,11 @@ window.LIVE_FEED_DATA = {
         "Elasticity and Material Modeling"
       ],
       "readTime": "1 min",
-      "citedBy": 10,
+      "citedBy": 11,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.946767+00:00"
+      "_retrievedAt": "2026-10-10T12:26:25.346002+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -3460,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.946455+00:00"
+      "_retrievedAt": "2026-10-10T12:26:25.345756+00:00"
     },
     {
       "id": "openalex-771740d27607",
@@ -3492,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:04.947421+00:00"
+      "_retrievedAt": "2026-10-10T12:26:25.346530+00:00"
     },
     {
       "id": "openalex-6c44a5bfc030",
@@ -3524,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:05.578744+00:00"
+      "_retrievedAt": "2026-10-10T12:26:26.069996+00:00"
     },
     {
       "id": "openalex-3982dd91b847",
@@ -3556,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-10T05:47:05.581073+00:00"
+      "_retrievedAt": "2026-10-10T12:26:26.071711+00:00"
     }
   ]
 };
