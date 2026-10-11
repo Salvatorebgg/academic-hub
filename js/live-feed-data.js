@@ -1,11 +1,171 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-10-11T12:44:04.229383+00:00",
-  "total": 84,
+  "generatedAt": "2026-10-11T21:54:27.241212+00:00",
+  "total": 112,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-785e85c6fbef",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Blood proteins may offer new clues to gut health in celiac disease",
+      "authors": "Medical Xpress",
+      "abstract": "Celiac disease is an autoimmune condition in which the immune system reacts adversely to gluten. Eating gluten causes inflammation in the gut, which can damage the intestine and impair its ability to absorb nutrients.",
+      "date": "2026-10-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-blood-proteins-clues-gut-health.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "celiac",
+        "disease",
+        "which",
+        "gluten",
+        "blood",
+        "proteins",
+        "offer",
+        "clues"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:26.560375+00:00"
+    },
+    {
+      "id": "rss-68ad530549e9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Study finds positive parenting teaches children how to experience joy—and could lead to better mental health",
+      "authors": "Medical Xpress",
+      "abstract": "More than one in five adults in the U.S. experience mental illness each year, according to data from the National Alliance on Mental Illness. And more than one in seven young people ages 6–17 experience a mental health disorder, with 50% of all lifetime mental illness beginning by age 14 and 75% by age 24.",
+      "date": "2026-10-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-positive-parenting-children-joy-mental.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "mental",
+        "experience",
+        "illness",
+        "health",
+        "more",
+        "than",
+        "finds",
+        "positive"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:26.560703+00:00"
+    },
+    {
+      "id": "rss-8fd73467fb06",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Mapping childhood lead exposure risk in the US, neighborhood by neighborhood",
+      "authors": "Medical Xpress",
+      "abstract": "No amount of lead exposure is considered safe for children. Even low levels of lead in a child's blood can cause serious health problems and developmental delays. But data on lead exposure are sparse at the neighborhood level in the United States, leaving significant gaps in knowledge about where lead exposure may be occurring.",
+      "date": "2026-10-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-childhood-exposure-neighborhood.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "lead",
+        "exposure",
+        "neighborhood",
+        "mapping",
+        "childhood",
+        "risk",
+        "amount",
+        "considered"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:26.560992+00:00"
+    },
+    {
+      "id": "rss-07eb6ee22fd5",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries",
+      "authors": "Medical Xpress",
+      "abstract": "Effective management of high blood pressure could prevent more than 518,000 annual deaths from cardiovascular disease around the world, according to preliminary research presented at the American Heart Association's Hypertension Scientific Sessions 2026. The meeting is in Arlington, Virginia, Oct. 7–11, 2026, and focuses on recent advances in basic and clinical research on high blood pressure and its relationship to cardiac and kidney disease, stroke, obesity and genetics.",
+      "date": "2026-10-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-high-blood-pressure-500k-cvd.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "high",
+        "blood",
+        "pressure",
+        "could",
+        "prevent",
+        "deaths",
+        "disease",
+        "managing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:26.561308+00:00"
+    },
+    {
+      "id": "rss-572b8ba380fc",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "LLM-inspired study sheds light on how brain cells encode the meaning of words",
+      "authors": "Medical Xpress",
+      "abstract": "Understanding how the human brain processes and represents spoken language remains an important goal for neuroscientists. Understanding spoken words involves more than simply recognizing sounds—it also requires the brain to decipher the meaning of words and how those meanings change with context.",
+      "date": "2026-10-11",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-llm-brain-cells-encode-words.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "words",
+        "meaning",
+        "understanding",
+        "spoken",
+        "llm-inspired",
+        "sheds",
+        "light"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:26.561575+00:00"
+    },
     {
       "id": "rss-0f814812c161",
       "discipline": "clinical",
@@ -36,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.528308+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.561816+00:00"
     },
     {
       "id": "rss-19fd9c175b3b",
@@ -68,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.528578+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.562169+00:00"
     },
     {
       "id": "rss-b94228bb3896",
@@ -100,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.528807+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.562452+00:00"
     },
     {
       "id": "rss-47a6c853553b",
@@ -132,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.529011+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.562720+00:00"
     },
     {
       "id": "rss-127145d2e7ea",
@@ -164,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.529188+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.562987+00:00"
     },
     {
       "id": "rss-b0f24f8b21ee",
@@ -196,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.529359+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.563232+00:00"
     },
     {
       "id": "rss-720db90b95e3",
@@ -228,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.529577+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.563520+00:00"
     },
     {
       "id": "rss-33721643fa22",
@@ -260,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.529730+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.563734+00:00"
     },
     {
       "id": "rss-68e108a65af1",
@@ -292,167 +452,135 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.529940+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.563991+00:00"
     },
     {
-      "id": "rss-f0a67424d8b8",
-      "discipline": "clinical",
+      "id": "rss-cf97f5e6bf88",
+      "discipline": "cs",
       "type": "news",
-      "title": "The circumstances you grow up in are linked to how long you live",
-      "authors": "Medical Xpress",
-      "abstract": "Poorer people, on average, live shorter lives. This pattern can be seen even in wealthy countries with extensive welfare systems. In Norway, for example, 40-year-old men in the richest 1% could expect to live almost 14 years longer than those in the poorest 1%. In the U.S., the equivalent gap is nearly 15 years. A 2025 World Health Organization report warned that international targets for reducing health inequalities by 2040 are likely to be missed.",
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "authors": "TechCrunch AI",
+      "abstract": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date. Gurman […]",
       "date": "2026-10-11",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-circumstances-linked.html",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "live",
-        "years",
-        "health",
-        "circumstances",
-        "grow",
-        "linked",
-        "long",
-        "poorer"
+        "apple",
+        "smart",
+        "home",
+        "will",
+        "homeview",
+        "gurman",
+        "product",
+        "first"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.530138+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.623438+00:00"
     },
     {
-      "id": "rss-b4a1588ad4eb",
-      "discipline": "clinical",
+      "id": "rss-8974d4874ab4",
+      "discipline": "cs",
       "type": "news",
-      "title": "Radiation exposure linked to pulmonary hypertension after lung cancer treatment",
-      "authors": "Medical Xpress",
-      "abstract": "Lung cancer patients undergoing radiation treatment may be at higher risk of developing pulmonary hypertension, a type of high blood pressure that affects the arteries that carry blood from the right side of the heart to the lungs. Over time, that heightened pressure can lead to right-sided heart failure.",
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "authors": "TechCrunch AI",
+      "abstract": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
       "date": "2026-10-11",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-exposure-linked-pulmonary-hypertension-lung.html",
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "that",
-        "radiation",
-        "pulmonary",
-        "hypertension",
-        "lung",
-        "cancer",
-        "treatment",
-        "blood"
+        "hours",
+        "techcrunch",
+        "disrupt",
+        "pass",
+        "hear",
+        "directly",
+        "people",
+        "building"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.530313+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.623707+00:00"
     },
     {
-      "id": "rss-0389da679988",
-      "discipline": "clinical",
+      "id": "rss-e836d1a90dd7",
+      "discipline": "cs",
       "type": "news",
-      "title": "A healthy Nordic diet may help you to live longer, but liver benefits remain unclear",
-      "authors": "Medical Xpress",
-      "abstract": "In general, people who eat a healthy diet give themselves a significantly better chance of avoiding some major diseases than those who don't. The Nordic diet, also known as a northern version of the Mediterranean diet, is a healthy, sustainable way of eating based on traditional foods of countries like Norway, Sweden, Denmark and Finland. It includes plant foods and berries, whole grains, low-fat dairy products and fatty fish.",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "authors": "TechCrunch AI",
+      "abstract": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
       "date": "2026-10-11",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-healthy-nordic-diet-longer-liver.html",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "diet",
-        "healthy",
-        "nordic",
-        "foods",
-        "help",
-        "live",
-        "longer",
-        "liver"
+        "industry",
+        "center",
+        "persuade",
+        "opponents",
+        "getting",
+        "ndas",
+        "equity",
+        "debate"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.530511+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.623884+00:00"
     },
     {
-      "id": "rss-c22dc0079115",
-      "discipline": "clinical",
+      "id": "rss-6dae7aa7aa49",
+      "discipline": "cs",
       "type": "news",
-      "title": "The medicine of the future could be driven by mechanical cell memory",
-      "authors": "Medical Xpress",
-      "abstract": "It's not a cure for baldness. But it might eliminate crow's feet and laugh lines by telling the tissues in your face how to remember their more elastic youth.",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "authors": "TechCrunch AI",
+      "abstract": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
       "date": "2026-10-11",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-medicine-future-driven-mechanical-cell.html",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "medicine",
-        "future",
-        "could",
-        "driven",
-        "mechanical",
-        "cell",
-        "memory",
-        "cure"
+        "voice",
+        "these",
+        "execs",
+        "think",
+        "hasn",
+        "reached",
+        "chatgpt",
+        "moment"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.530662+00:00"
-    },
-    {
-      "id": "rss-1888e1fdefbd",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New genetic candidates help explain why autism affects males more often than females",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at Baylor College of Medicine, the Duncan Neurological Research Institute (Duncan NRI) at Texas Children's Hospital and collaborating institutions have identified new genetic candidates that help explain why autism is diagnosed about four times more often in boys than in girls. The study, published in the American Journal of Human Genetics, reveals that small changes in the gene MECP2 on the X chromosome might help explain part of this difference.",
-      "date": "2026-10-11",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-genetic-candidates-autism-affects-males.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "help",
-        "explain",
-        "genetic",
-        "candidates",
-        "autism",
-        "more",
-        "often",
-        "than"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.530873+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.624090+00:00"
     },
     {
       "id": "rss-da9283b61ed8",
@@ -484,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.606186+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.624269+00:00"
     },
     {
       "id": "rss-bdb8aa1edffa",
@@ -516,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.606340+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.624426+00:00"
     },
     {
       "id": "rss-bfa6c9644411",
@@ -548,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.606502+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.624637+00:00"
     },
     {
       "id": "rss-50d1f59b895d",
@@ -580,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.606622+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.624803+00:00"
     },
     {
       "id": "rss-9b1f40064165",
@@ -612,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.606747+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.625008+00:00"
     },
     {
       "id": "rss-4be9236f4d29",
@@ -644,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.606897+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.625192+00:00"
     },
     {
       "id": "rss-a6a05c8fecd4",
@@ -676,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.607006+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.625347+00:00"
     },
     {
       "id": "rss-b5d02745686f",
@@ -708,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.607212+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.625617+00:00"
     },
     {
       "id": "rss-36d1161d28e9",
@@ -740,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.607386+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.625867+00:00"
     },
     {
       "id": "rss-1e3c47ce3cb0",
@@ -772,135 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.607494+00:00"
-    },
-    {
-      "id": "rss-5c6b38bf92fa",
-      "discipline": "cs",
-      "type": "news",
-      "title": "We can’t help treating AI like it’s human. But should we?",
-      "authors": "TechCrunch AI",
-      "abstract": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-      "date": "2026-10-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "help",
-        "treating",
-        "like",
-        "human",
-        "should",
-        "when",
-        "drawn",
-        "even"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.607617+00:00"
-    },
-    {
-      "id": "rss-386962e8ba09",
-      "discipline": "cs",
-      "type": "news",
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "authors": "TechCrunch AI",
-      "abstract": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-      "date": "2026-10-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "moore",
-        "consumer",
-        "olivia",
-        "state",
-        "sees",
-        "huge",
-        "opportunity",
-        "particularly"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.607730+00:00"
-    },
-    {
-      "id": "rss-21197bcc3555",
-      "discipline": "cs",
-      "type": "news",
-      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-      "authors": "TechCrunch AI",
-      "abstract": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
-      "date": "2026-10-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "techcrunch",
-        "disrupt",
-        "starts",
-        "days",
-        "your",
-        "pass",
-        "save",
-        "lock"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.607889+00:00"
-    },
-    {
-      "id": "rss-eba4ad094e0a",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "authors": "TechCrunch AI",
-      "abstract": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-      "date": "2026-10-08",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "elizabeth",
-        "holmes",
-        "desk",
-        "website",
-        "pretend",
-        "sitting",
-        "this",
-        "weirdly"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.608030+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.626055+00:00"
     },
     {
       "id": "rss-3dbaaaee8012",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.819897+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.678738+00:00"
     },
     {
       "id": "rss-0bfffe781a60",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.820032+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.678971+00:00"
     },
     {
       "id": "rss-0b401625ba0c",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.820170+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.679174+00:00"
     },
     {
       "id": "rss-3cbba74411c0",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.820281+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.679336+00:00"
     },
     {
       "id": "rss-2f8a4e0119ee",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.820397+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.679504+00:00"
     },
     {
       "id": "rss-c561a387f2d1",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.820512+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.679672+00:00"
     },
     {
       "id": "rss-5764f9ec0337",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:04.015632+00:00"
+      "_retrievedAt": "2026-10-11T21:54:27.051212+00:00"
     },
     {
       "id": "rss-23f57c26ccb3",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:04.015996+00:00"
+      "_retrievedAt": "2026-10-11T21:54:27.051644+00:00"
     },
     {
       "id": "rss-19d143b1e9c8",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.820628+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.679847+00:00"
     },
     {
       "id": "rss-cefee57ba8d3",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.820746+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.680046+00:00"
     },
     {
       "id": "rss-2496878eb76f",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.820883+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.680214+00:00"
     },
     {
       "id": "rss-ec0c454d28a6",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.821014+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.680398+00:00"
     },
     {
       "id": "rss-2b529d97fb90",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.821128+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.680564+00:00"
     },
     {
       "id": "rss-6cc50e6c3036",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.821240+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.680726+00:00"
     },
     {
       "id": "rss-0333c77565a0",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:04.016141+00:00"
+      "_retrievedAt": "2026-10-11T21:54:27.051837+00:00"
     },
     {
       "id": "rss-93b8d56ba100",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.821364+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.680921+00:00"
     },
     {
       "id": "rss-d2d5303f2df6",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:03.821479+00:00"
+      "_retrievedAt": "2026-10-11T21:54:26.681097+00:00"
     },
     {
       "id": "rss-a7d777e1fbd3",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:04.016505+00:00"
+      "_retrievedAt": "2026-10-11T21:54:27.052334+00:00"
     },
     {
       "id": "rss-a969e28ae72b",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:04.016983+00:00"
+      "_retrievedAt": "2026-10-11T21:54:27.052949+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:04.017249+00:00"
+      "_retrievedAt": "2026-10-11T21:54:27.053295+00:00"
     },
     {
       "id": "rss-4d47532c7c63",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:04.017454+00:00"
+      "_retrievedAt": "2026-10-11T21:54:27.053567+00:00"
     },
     {
       "id": "rss-bf9122547ba1",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:04.017847+00:00"
+      "_retrievedAt": "2026-10-11T21:54:27.054092+00:00"
     },
     {
       "id": "rss-188abdd7fd48",
@@ -1636,7 +1636,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:04.018012+00:00"
+      "_retrievedAt": "2026-10-11T21:54:27.054317+00:00"
+    },
+    {
+      "id": "openalex-e93dd4d183a9",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models",
+      "authors": "Guangji Bai, Zheng Chai, Ling Chen, Shiyu Wang, Jiaying Lu, Nan Zhang",
+      "abstract": "The burgeoning field of Large Language Models (LLMs), exemplified by sophisticated models like OpenAI’s ChatGPT, represents a significant advancement in artificial intelligence. These models, however, bring forth substantial challenges in high consumption of computational, memory, energy, and financial resources, especially in environments with limited resource capabilities. This survey aims to systematically address these challenges by reviewing a broad spectrum of techniques designed to enhance the resource efficiency of LLMs. We categorize methods based on their optimization focus—covering computational, memory, energy, financial, and network resources—and their applicability across various stages of an LLM’s lifecycle, including architecture design, pre-training, fine-tuning, and system design. Additionally, the survey introduces a nuanced categorization of resource efficiency tec...",
+      "date": "2026-09-15",
+      "year": 2026,
+      "journal": "ACM Computing Surveys",
+      "source": "ACM Computing Surveys",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1145/3845797",
+      "doi": "10.1145/3845797",
+      "pdfUrl": "https://doi.org/10.1145/3845797",
+      "keywords": [
+        "Computer science",
+        "Resource (disambiguation)",
+        "Categorization",
+        "Data science",
+        "Field (mathematics)",
+        "Topic Modeling",
+        "Advanced Neural Network Applications",
+        "Natural Language Processing Techniques"
+      ],
+      "readTime": "1 min",
+      "citedBy": 39,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:20.427951+00:00"
     },
     {
       "id": "rss-45cc96502845",
@@ -1668,7 +1700,167 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:44:04.018179+00:00"
+      "_retrievedAt": "2026-10-11T21:54:27.054551+00:00"
+    },
+    {
+      "id": "openalex-637c76942b6d",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Flatline constructs : Gothic materialism and cybernetic theory-fiction",
+      "authors": "Mark Fisher",
+      "abstract": "Cyberpunk fiction has been called “the supreme literary expression, if not of postmodernism then of late capitalism itself.” (Jameson) This thesis aims to analyse and question this claim by rethinking cyberpunk Action, postmodernism and late capitalism in terms of three - interlocking - themes: cybernetics, the Gothic and fiction. It claims that while what has been called “postmodernism” has been preoccupied with cybernetic themes, cybernetics has been haunted by the Gothic. The Gothic has always enjoyed a peculiarly intimate relation with the fictional. Baudrillard's theories, meanwhile, suggest that, in a period dominated by (cybernetic) simulation, fiction has a new cultural role. By putting “theory” into dialogue with “fiction”, the thesis examines Baudrillard's suggestion that the era of cybernetics (what he calls “third order simulacra”) “puts an end to science fiction, but also...",
+      "date": "2026-09-14",
+      "year": 2026,
+      "journal": "Warwick Research Archive Portal (University of Warwick)",
+      "source": "Warwick Research Archive Portal (University of Warwick)",
+      "sourceApi": "OpenAlex",
+      "url": "http://wrap.warwick.ac.uk/110900/1/WRAP_Theses_Fisher_1999.pdf",
+      "doi": "10.82444/warw.33768781",
+      "pdfUrl": "http://wrap.warwick.ac.uk/110900/1/WRAP_Theses_Fisher_1999.pdf",
+      "keywords": [
+        "Deleuze and Guattari",
+        "Postmodernism",
+        "Materialism",
+        "Cybernetics",
+        "Posthumanism",
+        "Cultural Studies and Postmodernism",
+        "Gothic Literature and Media Analysis",
+        "Utopian, Dystopian, and Speculative Fiction"
+      ],
+      "readTime": "2 min",
+      "citedBy": 33,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:20.428515+00:00"
+    },
+    {
+      "id": "openalex-e987114418d8",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Techniques for design and validation of quantum protocols",
+      "authors": "Nickolas K. Papanikolaou",
+      "abstract": "Our objective in this thesis is to perform formal specification and automated validation of the class of protocols associated with quantum cryptography. Current analyses and proofs regarding quantum cryptographic protocols and their security are information-theoretic and also require in--depth understanding of the underlying physics. The alternative approach presented here involves the use of computer modelling languages and verification software. In particular, the logical model checker SPIN and the probabilistic model checker PRISM are used to analyse quantum key distribution, entanglement and quantum teleportation. The value of our approach lies not only in the fact that it is conceptually simpler than existing proofs, but in that it allows us to disambiguate protocol definitions and to assess their properties in various circumstances. By varying the values of certain parameters, d...",
+      "date": "2026-09-11",
+      "year": 2026,
+      "journal": "Warwick Research Archive Portal (University of Warwick)",
+      "source": "Warwick Research Archive Portal (University of Warwick)",
+      "sourceApi": "OpenAlex",
+      "url": "http://wrap.warwick.ac.uk/61396/7/WRAP_cs-rr-413.pdf",
+      "doi": "10.82444/warw.33642637",
+      "pdfUrl": "http://wrap.warwick.ac.uk/61396/7/WRAP_cs-rr-413.pdf",
+      "keywords": [
+        "BB84",
+        "Computer science",
+        "Quantum key distribution",
+        "Theoretical computer science",
+        "Quantum cryptography",
+        "Quantum Information and Cryptography",
+        "Formal Methods in Verification",
+        "Quantum Computing Algorithms and Architecture"
+      ],
+      "readTime": "1 min",
+      "citedBy": 26,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:20.430100+00:00"
+    },
+    {
+      "id": "openalex-af535c74f002",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Role (re)considered : a re-evaluation of the relationship between teacher-in-role and acting",
+      "authors": "Judith Ackroyd-Pilkington",
+      "abstract": "This thesis examines the under-researched area of teacher-in-role. It seeks to determine whether or not teachers working in role are acting and suggests that contrary to the orthodox position, a strict distinction between teacher-in-role and acting can no longer be sustained. This thesis will argue that, within the discourse of drama in education, the concept of acting is narrow due to both a restricted view of theatre and an assumption that there is an inherent contradiction between acting and a pedagogic function. By examining theories of acting, I will suggests that definitions within the dramatic art form should be temporary to accommodate diverse and developing practices. The theoretical research focuses on four relevant aspects of acting and role -context and the relationship with audience, functions and aims, skills, and approaches - which are then applied to samples of practic...",
+      "date": "2026-09-11",
+      "year": 2026,
+      "journal": "Warwick Research Archive Portal (University of Warwick)",
+      "source": "Warwick Research Archive Portal (University of Warwick)",
+      "sourceApi": "OpenAlex",
+      "url": "http://wrap.warwick.ac.uk/56107/1/WRAP_thesis_Ackroyd-Pilkington_2002.pdf",
+      "doi": "10.82444/warw.33625693",
+      "pdfUrl": "http://wrap.warwick.ac.uk/56107/1/WRAP_thesis_Ackroyd-Pilkington_2002.pdf",
+      "keywords": [
+        "Contradiction",
+        "Drama",
+        "Context (archaeology)",
+        "Epistemology",
+        "Function (biology)",
+        "Theatre and Performance Studies",
+        "Creative Drama in Education",
+        "Arts and Performance Studies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 21,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:20.431821+00:00"
+    },
+    {
+      "id": "openalex-2da239523a05",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Deleuze and the three syntheses of time",
+      "authors": "Keith W. Faulkner",
+      "abstract": "The three syntheses of time are Deleuze’s response to Kant’s belief that time is synthesized by the unity o the “I think.” Deleuze believes that there is a prior synthesis of time in the unconscious. He calls this a “passive” synthesis of time. My thesis will seek to clarify Deleuze’s theory of the three syntheses of time by providing the background from which he derived his concepts. In chapter one I argue that the system of “signs” presented in Proust and Signs is the precursor to Deleuze’s three syntheses of time. I conclude that Worldy Signs correspond to synthesis of habit, Signs of Love correspond to the synthesis of memory, and Signs of Art correspond to the synthesis of the future. In chapter two I argue that the system of “series” presented in the second half of The Logic of Sense illustrates Deleuze’s conceptions of “resonance” and “forced movement” that are critical to unde...",
+      "date": "2026-09-09",
+      "year": 2026,
+      "journal": "Warwick Research Archive Portal (University of Warwick)",
+      "source": "Warwick Research Archive Portal (University of Warwick)",
+      "sourceApi": "OpenAlex",
+      "url": "http://wrap.warwick.ac.uk/2991/1/WRAP_THESIS_Faulkner_2004.pdf",
+      "doi": "10.82444/warw.33488926",
+      "pdfUrl": "http://wrap.warwick.ac.uk/2991/1/WRAP_THESIS_Faulkner_2004.pdf",
+      "keywords": [
+        "Unconscious mind",
+        "Id, ego and super-ego",
+        "Repetition (rhetorical device)",
+        "Philosophy",
+        "Reading (process)",
+        "Philosophical and Theoretical Analysis",
+        "Psychoanalysis, Philosophy, and Politics",
+        "Phenomenology and Existential Philosophy"
+      ],
+      "readTime": "1 min",
+      "citedBy": 28,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:20.429388+00:00"
+    },
+    {
+      "id": "openalex-a4d4df423646",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Learners' experience of presence in virtual worlds",
+      "authors": "Mark Childs",
+      "abstract": "This thesis explores participants' experiences of presence in virtual worlds as a specific case of mediated environments, and the factors that support that experience of presence, with the aim of developing practice when using these technologies in learning and teaching. The thesis begins with a framework that was created to bring together concepts from a range of disciplines that describe presence and factors that contribute to presence. Organising categories within the framework were drawn from a blend of Activity Theory and Communities of Practice. Five case studies in Second Life (preceded by a pilot study employing webconferencing) were conducted in order to investigate learners' experiences in these environments. Qualitative and quantitative data were gathered from these cases. The data from the separate cases were analysed using a cross-case synthesis and the role of presence,...",
+      "date": "2026-09-09",
+      "year": 2026,
+      "journal": "Open Research Online (The Open University)",
+      "source": "Open Research Online (The Open University)",
+      "sourceApi": "OpenAlex",
+      "url": "https://oro.open.ac.uk/view/person/mc26355.html",
+      "doi": "10.82444/warw.33494092",
+      "pdfUrl": "http://wrap.warwick.ac.uk/4516/1/WRAP_THESIS_Childs_2010.pdf",
+      "keywords": [
+        "Avatar",
+        "Typology",
+        "Metaverse",
+        "Preparedness",
+        "Resistance (ecology)",
+        "Virtual Reality Applications and Impacts",
+        "Online and Blended Learning",
+        "Digital Education and Society"
+      ],
+      "readTime": "1 min",
+      "citedBy": 24,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:20.431193+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1700,7 +1892,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:59.031826+00:00"
+      "_retrievedAt": "2026-10-11T21:54:22.270965+00:00"
+    },
+    {
+      "id": "openalex-b0b9c1c36e09",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Journal of Strategic Security",
+      "authors": "OpenAlex indexed authors",
+      "abstract": "The Journal of Strategic Security (JSS) is a peer-reviewed professional journal published quarterly by Henley-Putnam School of Strategic Security. The Journal provides a multi-disciplinary forum for scholarship and discussion of strategic security issues drawing from the fields of global security, international relations, intelligence, terrorism and counterterrorism studies, among others. The Journal encourages diversity in theoretical foundations, research methods, and approaches. Quantitative and qualitative studies, for example, each offer valuable contributions to the field of strategic security. Academic disciplines of international relations, political science, psychology, sociology, anthropology, criminology, economics, and history are welcome, as are the applied scholarly fields of security studies, strategic studies, and intelligence studies. JSS emphasizes contemporary secur...",
+      "date": "2026-09-01",
+      "year": 2026,
+      "journal": "Journal of Strategic Security",
+      "source": "Journal of Strategic Security",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.5038/1944-0472",
+      "doi": "10.5038/1944-0472",
+      "pdfUrl": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=2026&context=jss",
+      "keywords": [
+        "Political science",
+        "security",
+        "strategic",
+        "journal",
+        "studies",
+        "fields",
+        "international",
+        "relations"
+      ],
+      "readTime": "1 min",
+      "citedBy": 117,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:20.426340+00:00"
+    },
+    {
+      "id": "openalex-ee5bfeca61d7",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Triptolide sensitizes cancer cells to nucleoside DNA methyltransferase inhibitors through inhibition of DCTPP1-mediated cell-intrinsic resistance",
+      "authors": "Jianyong Liu, Qingli He, Jianya Zhou, Ajay M. Vaghasia, Roshan V. Chikarmane, Glenn Hauk",
+      "abstract": "Abnormal DNA hypermethylation mediated by DNA methyltransferases (DNMT) is a nearly universal hallmark of human cancers. However, while DNA methyltransferase inhibitors (DNMTi) such as decitabine and azacitidine are effective in treating myelodysplatic syndrome/leukemia, they have had limited utility for the majority of other cancers. Through a chemical library screen, we identify that triptolide, a diterpenoid epoxide from Tripterygium wilfordii, and multiple of its analogs, significantly augment the epigenetic and anti-cancer effects of decitabine in vitro and in vivo. These effects are attributable to inhibition of DCTPP1-mediated cleavage of 5-aza-deoxycytidine triphosphate, the convergent activated metabolite of nucleoside DNMTi, leading to enhanced drug incorporation into genomic DNA, increased DNMT degradation, enhanced DNA demethylation and associated transcriptional reprogram...",
+      "date": "2026-08-26",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-76852-2",
+      "doi": "10.1038/s41467-026-76852-2",
+      "pdfUrl": "https://www.nature.com/articles/s41467-026-76852-2_reference.pdf",
+      "keywords": [
+        "Triptolide",
+        "Nucleoside",
+        "Chemistry",
+        "Cancer cell",
+        "Methyltransferase",
+        "Epigenetics and DNA Methylation",
+        "Natural Compounds in Disease Treatment",
+        "Glioma Diagnosis and Treatment"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:21.157436+00:00"
     },
     {
       "id": "openalex-8543b13945d0",
@@ -1732,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:57.108731+00:00"
+      "_retrievedAt": "2026-10-11T21:54:21.841973+00:00"
     },
     {
       "id": "openalex-4bcca691e2bc",
@@ -1764,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:59.034618+00:00"
+      "_retrievedAt": "2026-10-11T21:54:22.274518+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -1796,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:57.107092+00:00"
+      "_retrievedAt": "2026-10-11T21:54:21.839760+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -1828,7 +2084,167 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:59.034948+00:00"
+      "_retrievedAt": "2026-10-11T21:54:22.274931+00:00"
+    },
+    {
+      "id": "openalex-e53fd6efecab",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Nucleolar dynamics are determined by the ordered assembly of the ribosome",
+      "authors": "Jessica Sheu‐Gruttadauria, Xiaowei Yan, Nico Stuurman, Riley O. Ogrean, Sabrina Lin, Stephen N. Floor",
+      "abstract": "Abstract Ribosome biogenesis occurs in the nucleolus, a biomolecular condensate whose material properties are thought to be important for function. However, the molecular basis of nucleolar dynamics and their relationship to ribosome assembly remain incompletely understood. We present a platform for hi gh-throughput fluorescence r ecovery a fter p hotobleaching (HiT-FRAP) and use it to screen hundreds of genes for their impact on dynamics of the nucleolar scaffold nucleophosmin (NPM1). We find that NPM1 dynamics and nucleolar morphology are sensitive to ribosome assembly state: accumulation of early preribosomal intermediates slows NPM1 dynamics and compacts the condensate, while accumulation of abortive late precursors accelerates dynamics and disrupts condensate integrity. These opposing biophysical states correlate with the strength of NPM1-pre-ribosome interactions. Importantly, m...",
+      "date": "2026-08-14",
+      "year": 2026,
+      "journal": "The Journal of Cell Biology",
+      "source": "The Journal of Cell Biology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1083/jcb.202605096",
+      "doi": "10.1083/jcb.202605096",
+      "pdfUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/09/27/2023.09.26.559432.full.pdf",
+      "keywords": [
+        "Nucleolus",
+        "Ribosome biogenesis",
+        "Ribosome",
+        "Cell biology",
+        "Fluorescence recovery after photobleaching",
+        "Nuclear Structure and Function",
+        "RNA and protein synthesis mechanisms",
+        "RNA Research and Splicing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:21.154593+00:00"
+    },
+    {
+      "id": "openalex-f5c2c318cf9f",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Explainable artificial intelligence (XAI): From inherent explainability to large language models",
+      "authors": "Fuseini Mumuni, Alhassan Mumuni",
+      "abstract": "Artificial Intelligence (AI) has continued to achieve tremendous success in recent times. However, the decision logic of these frameworks is often not transparent, making it difficult for stakeholders to understand, interpret or explain their behavior. This limitation hinders trust in machine learning systems and causes a general reluctance towards their adoption in practical applications, particularly in mission-critical domains like healthcare and autonomous driving. Explainable AI (XAI) techniques adress this problem by facilitating explainability or interpretability of machine learning models, enabling users to discern the basis of their decision and possibly avert undesirable behavior. This comprehensive survey details the advancements of explainable AI methods, from inherently interpretable models to modern approaches for achieving interpretability of various black box models, i...",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "Array",
+      "source": "Array",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.array.2026.101133",
+      "doi": "10.1016/j.array.2026.101133",
+      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S259000562600456X/pdf",
+      "keywords": [
+        "Artificial intelligence",
+        "Computer science",
+        "Natural language processing",
+        "Explainable Artificial Intelligence (XAI)",
+        "Adversarial Robustness in Machine Learning",
+        "Software Testing and Debugging Techniques",
+        "explainable",
+        "their"
+      ],
+      "readTime": "1 min",
+      "citedBy": 23,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:20.431510+00:00"
+    },
+    {
+      "id": "openalex-3102df6dbe7b",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "UNCOVERseq enables sensitive and controlled gene editing off-target nomination across CRISPR-Cas modalities and systems",
+      "authors": "Kyle J. Kinney, Kun Jia, He Zhang, Ellen Schmaljohn, Thomas Osborne, Bernice Thommandru",
+      "abstract": "Abstract The rapid development of CRISPR-Cas gene editing technologies has revolutionized genetic medicine, offering unprecedented precision and potential for treating a wide array of genetic disorders. However, assessing the risks of unintended gene editing effects remains critical, and is complicated by new editing modalities and unclear analytical guidelines. We present UNCOVERseq (Unbiased Nomination of CRISPR Off-target Variants using Enhanced RhPCR), an improved in cellulo off-target nomination workflow designed to sensitively nominate off-target sites (<0.01% editing) with defined input requirements and analytical process controls to provide empirical performance evidence across diverse circumstances. Using this workflow, we nominated off-targets across 192 guide RNAs (gRNAs) and demonstrated superior performance compared to existing methodologies. We identified a subset of six...",
+      "date": "2026-08-11",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-74623-7",
+      "doi": "10.1038/s41467-026-74623-7",
+      "pdfUrl": "https://www.nature.com/articles/s41467-026-74623-7.pdf",
+      "keywords": [
+        "Nomination",
+        "CRISPR",
+        "Modalities",
+        "Genome editing",
+        "Computer science",
+        "CRISPR and Genetic Engineering",
+        "RNA regulation and disease",
+        "CAR-T cell therapy research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 5,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:21.157795+00:00"
+    },
+    {
+      "id": "openalex-9c3881676bb1",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "LRRK2 G2019S variant is associated with transcriptional changes in Parkinson’s disease human myeloid cells under proinflammatory environment",
+      "authors": "Elisa Navarro, Anastasia G. Efthymiou, Daniele Mattei, Madison Parks, Giulietta Maria Riboldi, Ricardo A. Vialle",
+      "abstract": "The G2019S mutation in the leucine-rich repeat kinase 2 (LRRK2) gene is a major risk factor for the development of Parkinson's disease (PD). LRRK2, although ubiquitously expressed, is highly abundant in cells of the innate immune system. Given the importance of central and peripheral immune cells in the development of PD, we sought to investigate the consequences of the G2019S mutation on microglial and monocyte transcriptome and function. We have generated large-scale transcriptomic profiles of isogenic human induced microglial cells (iMGLs) and patient derived monocytes carrying the G2019S mutation under baseline culture conditions and following exposure to the proinflammatory factors IFNγ and LPS. We demonstrate that the G2019S mutation exerts a profound impact on the transcriptomic profile of these myeloid cells, and describe corresponding functional differences in iMGLs. The G201...",
+      "date": "2026-08-08",
+      "year": 2026,
+      "journal": "Journal of Neuroinflammation",
+      "source": "Journal of Neuroinflammation",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1186/s12974-026-03967-0",
+      "doi": "10.1186/s12974-026-03967-0",
+      "pdfUrl": "https://doi.org/10.1186/s12974-026-03967-0",
+      "keywords": [
+        "LRRK2",
+        "Proinflammatory cytokine",
+        "Parkinson's disease",
+        "Disease",
+        "Myeloid cells",
+        "Parkinson's Disease Mechanisms and Treatments",
+        "Neuroinflammation and Neurodegeneration Mechanisms",
+        "Nuclear Receptors and Signaling"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:21.154991+00:00"
+    },
+    {
+      "id": "openalex-356d70f6418b",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Identification of methylation-sensitive human transcription factors using meSMiLE-seq",
+      "authors": "Antoni J. Gralak, Kateřina Faltejsková, Ally W. H. Yang, Clemence Steiner, Julie Russeil, Nadia Grenningloh",
+      "abstract": "Transcription factors (TFs) are key players in eukaryotic gene regulation, but the DNA binding specificity of many TFs remains unknown. Here, we assayed 284 mostly poorly characterized, putative human TFs using selective microfluidics-based ligand enrichment followed by sequencing (SMiLE-seq), revealing 72 new DNA binding motifs. To investigate whether some of the 158 TFs for which we did not find motifs preferably bind epigenetically modified DNA (i.e. methylated CG dinucleotides), we developed methylation-sensitive SMiLE-seq (meSMiLE-seq). This microfluidic assay simultaneously probes the affinity of a protein to methylated and unmethylated DNA, augmenting the capabilities of the original method to infer methylation-aware binding sites. We assayed 114 TFs with meSMiLE-seq and identified DNA-binding models for 48 proteins, including the known methylation-sensitive binding modes for P...",
+      "date": "2026-08-05",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-71387-y",
+      "doi": "10.1038/s41467-026-71387-y",
+      "pdfUrl": "https://www.nature.com/articles/s41467-026-71387-y.pdf",
+      "keywords": [
+        "DNA methylation",
+        "Methylated DNA immunoprecipitation",
+        "Methylation",
+        "Transcription factor",
+        "Biology",
+        "Genomics and Chromatin Dynamics",
+        "Epigenetics and DNA Methylation",
+        "Diffusion and Search Dynamics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:21.155335+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -1860,11 +2276,75 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:59.035256+00:00"
+      "_retrievedAt": "2026-10-11T21:54:22.275309+00:00"
+    },
+    {
+      "id": "openalex-76c84c6076eb",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits",
+      "authors": "Ronghui Zhu, Emma Dann, Jun Yan, Justine Reyes Retana, Ryunosuke Goto, Reese C Guitche",
+      "abstract": "Abstract Gene regulatory networks encode the fundamental logic of cellular functions, but systematic network mapping remains challenging, especially in cell states relevant to human biology and disease. Here, we perturbed all expressed genes across 22 million primary human CD4+ T cells from four donors and developed a probe-based perturb-seq platform to measure the transcriptome effects in cells at rest and after stimulation. These data allow us to map genes that regulate known and novel pathways, including novel regulators of cytokine production. Importantly, active regulators and the gene programs they control change dramatically across stimulation conditions. Perturbation signatures enabled us to model T cell states observed in population-scale transcriptomic atlases, nominating regulators of Th1 and Th2 polarization and of age-related T cell phenotypes. Finally, we leveraged pertu...",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "Cell",
+      "source": "Cell",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.cell.2026.08.002",
+      "doi": "10.1016/j.cell.2026.08.002",
+      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.08.002",
+      "keywords": [
+        "Biology",
+        "Transcriptome",
+        "ENCODE",
+        "Gene",
+        "Immune system",
+        "Single-cell and spatial transcriptomics",
+        "Gene Regulatory Network Analysis",
+        "Genomics and Chromatin Dynamics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 21,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:20.432139+00:00"
+    },
+    {
+      "id": "openalex-22d15dc3d4da",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Mapping enhancer–gene regulatory interactions from single-cell data",
+      "authors": "Maya U. Sheth, Wei‐Lin Qiu, X. Rosa Ma, Andreas R. Gschwind, Evelyn Jagoda, Anthony S. Tan",
+      "abstract": "Mapping enhancers and their target genes in specific cell types is crucial for understanding gene regulation and human disease genetics. However, accurately predicting enhancer-gene regulatory interactions from single-cell datasets has been challenging. Here we introduce a family of classification models, scE2G, to predict enhancer-gene regulation. These models use features from single-cell assay for transposase-accessible chromatin with sequencing (ATAC-seq) or multiomic RNA and ATAC-seq data, and are trained on a CRISPR perturbation dataset including >10,000 evaluated element-gene pairs. We benchmark scE2G models against CRISPR perturbations, fine-mapped expression quantitative trait loci and genome-wide association study variant-gene associations and demonstrate state-of-the-art performance at prediction tasks across several cell types and categories of perturbations. We apply scE2...",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "Nature Genetics",
+      "source": "Nature Genetics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41588-026-02695-8",
+      "doi": "10.1038/s41588-026-02695-8",
+      "pdfUrl": "https://www.nature.com/articles/s41588-026-02695-8.pdf",
+      "keywords": [
+        "Enhancer",
+        "Computational biology",
+        "Gene",
+        "Cell",
+        "Biology",
+        "Genomics and Chromatin Dynamics",
+        "Single-cell and spatial transcriptomics",
+        "Genetic Associations and Epidemiology"
+      ],
+      "readTime": "1 min",
+      "citedBy": 26,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:21.152983+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
-      "discipline": "clinical",
+      "discipline": "bio",
       "type": "paper",
       "title": "Acquired resistance to the RAS(ON) multi-selective inhibitor daraxonrasib guides rational combination therapy strategies in pancreatic cancer",
       "authors": "Ida Aronchik, Sumit Kar, Yongxian Zhuang, Ethan Ahler, Lo Lai, Vidya Seshadri",
@@ -1892,7 +2372,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:57.106820+00:00"
+      "_retrievedAt": "2026-10-11T21:54:21.153957+00:00"
+    },
+    {
+      "id": "openalex-34f37069c1ad",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "CALIPERS: Cell cycle-aware live imaging for phenotyping experiments and regeneration studies",
+      "authors": "Moises Di Sante, Melissa Pezzotti, Julius Zimmermann, Alessandro Enrico, J.R. Deschamps, Elisa Balmas",
+      "abstract": "Abstract Cell cycle progression, migration, and proliferation shape development and regeneration, but simultaneous live-cell imaging remains challenging as conventional fluorescent cell cycle indicators (FUCCI) monopolize the green and red channels used by most structural and functional biosensors. To overcome this, we integrated a spectrally re-engineered FUCCI variant, open-source analysis software, and four-color human stem cell reporter lines into CALIPERS: a method for Cell-cycle-Aware Live-cell Imaging in Phenotyping and Regeneration Studies.",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "Nature Communications",
+      "source": "Nature Communications",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41467-026-76144-9",
+      "doi": "10.1038/s41467-026-76144-9",
+      "pdfUrl": "https://doi.org/10.1038/s41467-026-76144-9",
+      "keywords": [
+        "Calipers",
+        "Regeneration (biology)",
+        "Computer science",
+        "Biology",
+        "Cell biology",
+        "Advanced Fluorescence Microscopy Techniques",
+        "Cell Image Analysis Techniques",
+        "Gene Regulatory Network Analysis"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:21.155558+00:00"
     },
     {
       "id": "openalex-83b919635dc2",
@@ -1924,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:57.107396+00:00"
+      "_retrievedAt": "2026-10-11T21:54:21.840169+00:00"
     },
     {
       "id": "openalex-c47d537bde45",
@@ -1956,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:57.109040+00:00"
+      "_retrievedAt": "2026-10-11T21:54:21.842363+00:00"
     },
     {
       "id": "openalex-7a85bfe0ead2",
@@ -1988,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:59.035553+00:00"
+      "_retrievedAt": "2026-10-11T21:54:22.275672+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2020,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:59.032501+00:00"
+      "_retrievedAt": "2026-10-11T21:54:22.271792+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2052,7 +2564,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:59.032821+00:00"
+      "_retrievedAt": "2026-10-11T21:54:22.272180+00:00"
+    },
+    {
+      "id": "openalex-1a4374889b53",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Exploring Large Language Model‐Based Intelligent Agents: Definitions, Methods, and Prospects",
+      "authors": "Yuheng Cheng, Ceyao Zhang, Zhengwen Zhang, Xiangrui Meng, Sirui Hong, Wenhao Li",
+      "abstract": "ABSTRACT The concept of the intelligent agent represents a long‐standing pursuit in artificial intelligence. Recent breakthroughs in large language models (LLMs) have catalyzed a paradigm shift, enabling the development of sophisticated agents that exhibit advanced reasoning, planning, and tool‐use capabilities across diverse domains. These LLM‐based agents, which leverage natural language as a universal interface for cognition and interaction, are rapidly advancing from theoretical constructs to practical applications, ranging from autonomous task assistants to complex multi‐agent simulations of social and economic systems. This paper provides an integrative survey of this burgeoning field. We first establish an organizing framework for understanding LLM‐based agents, systematically deconstructing both single‐agent and multi‐agent systems into their core components. We analyze the ar...",
+      "date": "2026-07-24",
+      "year": 2026,
+      "journal": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
+      "source": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1002/widm.70111",
+      "doi": "10.1002/widm.70111",
+      "pdfUrl": "https://arxiv.org/pdf/2401.03428",
+      "keywords": [
+        "Computer science",
+        "Implementation",
+        "Interface (matter)",
+        "Natural language",
+        "Natural language understanding",
+        "Multi-Agent Systems and Negotiation",
+        "AI-based Problem Solving and Planning",
+        "Artificial Intelligence Applications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 43,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:20.427537+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2084,7 +2628,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:57.107689+00:00"
+      "_retrievedAt": "2026-10-11T21:54:21.840545+00:00"
+    },
+    {
+      "id": "openalex-8c83210d87ba",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Epigenetic and 3D genome reprogramming during the aging of the human hippocampus",
+      "authors": "Nathan R. Zemke, Seo Yeon Lee, Sainath Mamde, Bing Yang, Nicole C. Berchtold, B. Maximiliano Garduño",
+      "abstract": "Age-related cognitive decline is associated with altered physiology of the hippocampus. While changes in gene expression have been observed in aging brain, the regulatory mechanisms underlying these changes remain underexplored. We generated single-nucleus gene expression, chromatin accessibility, DNA methylation, and 3D genome data from 40 human hippocampal tissues spanning adult lifespan. We observed a striking loss of astrocytes, OPC, and endothelial cells during aging, including astrocytes that play a role in regulating synapses. Microglia undergo a dramatic switch from a homeostatic state to a primed inflammatory state through DNA methylome and 3D genome reprogramming. Aged cells experience erosion of their 3D genome architecture. Our study identifies age-associated changes in cell types/states and gene regulatory features that provide insight into cognitive decline during human...",
+      "date": "2026-07-23",
+      "year": 2026,
+      "journal": "Science",
+      "source": "Science",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1126/science.adt8307",
+      "doi": "10.1126/science.adt8307",
+      "pdfUrl": "https://doi.org/10.1126/science.adt8307",
+      "keywords": [
+        "Reprogramming",
+        "Epigenetics",
+        "DNA methylation",
+        "Biology",
+        "Chromatin",
+        "Single-cell and spatial transcriptomics",
+        "Genomics and Chromatin Dynamics",
+        "Epigenetics and DNA Methylation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 17,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:21.153560+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -2116,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:57.109316+00:00"
+      "_retrievedAt": "2026-10-11T21:54:21.842723+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -2148,7 +2724,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:57.109597+00:00"
+      "_retrievedAt": "2026-10-11T21:54:21.843122+00:00"
+    },
+    {
+      "id": "openalex-65c3e45e4caf",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "M2SNet: Multi-scale in Multi-scale Subtraction Network for Medical Image Segmentation",
+      "authors": "Xiaoqi Zhao, Hongpeng Jia, Youwei Pang, Long Lv, Feng Tian, Lihe Zhang",
+      "abstract": "Abstract Accurate medical image segmentation is critical for early medical diagnosis. Most existing methods are based on U-shape structure and use element-wise addition or concatenation to fuse different level features progressively in decoder. However, both the two operations easily generate plenty of redundant information, which will weaken the complementarity between different level features, resulting in inaccurate localization and blurred edges of lesions. To address this challenge, we propose a general multi-scale in multi-scale subtraction network (M 2 SNet) to finish diverse segmentation from medical image. Specifically, we first design a basic subtraction unit (SU) to produce the difference features between adjacent levels in encoder. Next, we expand the single-scale SU to the intra-layer multi-scale SU, which can provide the decoder with both pixel-level and structure-level...",
+      "date": "2026-07-20",
+      "year": 2026,
+      "journal": "Machine Intelligence Research",
+      "source": "Machine Intelligence Research",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1007/s11633-026-1662-9",
+      "doi": "10.1007/s11633-026-1662-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11633-026-1662-9.pdf",
+      "keywords": [
+        "Computer science",
+        "Artificial intelligence",
+        "Segmentation",
+        "Subtraction",
+        "Scale (ratio)",
+        "Medical Image Segmentation Techniques",
+        "Advanced Neural Network Applications",
+        "Domain Adaptation and Few-Shot Learning"
+      ],
+      "readTime": "1 min",
+      "citedBy": 81,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:20.426778+00:00"
+    },
+    {
+      "id": "openalex-9698d69bdb79",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "BASELINE: a CRISPR base editing platform for mammalian-scale single-cell lineage tracing",
+      "authors": "Evan Winter, Francesco E. Emiliani, Aidan Cook, Asma Abderrahim, Aaron McKenna",
+      "abstract": "A cell's fate is shaped by its inherited state, or lineage, and the ever-shifting context of its environment. CRISPR-based recording technologies are a promising solution for mapping the lineage of a developing system; however, challenges remain regarding single-cell recovery, engineering complexity, and scale. Here, we introduce BASELINE, which uses base editing to generate high-resolution lineage trees in conjunction with single-cell profiling. BASELINE uses the Cas12a adenine base editor to irreversibly edit nucleotides across target arrays built from 50 synthetic target sites, which are integrated multiple times into a cell's genome. We demonstrate that BASELINE accumulates lineage-specific marks over a wide range of biologically relevant intervals, recording more than 4300 bits of information in a model of pancreatic cancer, a 50-fold increase over existing technologies. Single-c...",
+      "date": "2026-07-17",
+      "year": 2026,
+      "journal": "Nucleic Acids Research",
+      "source": "Nucleic Acids Research",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1093/nar/gkag769",
+      "doi": "10.1093/nar/gkag769",
+      "pdfUrl": "https://doi.org/10.1093/nar/gkag769",
+      "keywords": [
+        "CRISPR",
+        "Baseline (sea)",
+        "Tracing",
+        "Lineage (genetic)",
+        "Scale (ratio)",
+        "CRISPR and Genetic Engineering",
+        "Single-cell and spatial transcriptomics",
+        "Gene Regulatory Network Analysis"
+      ],
+      "readTime": "1 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:21.154265+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2180,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:57.105770+00:00"
+      "_retrievedAt": "2026-10-11T21:54:21.838094+00:00"
     },
     {
       "id": "openalex-4a46ff2c29ce",
@@ -2212,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:59.035837+00:00"
+      "_retrievedAt": "2026-10-11T21:54:22.276044+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -2244,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:59.033701+00:00"
+      "_retrievedAt": "2026-10-11T21:54:22.273343+00:00"
     },
     {
       "id": "openalex-6068978c624a",
@@ -2276,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:57.109850+00:00"
+      "_retrievedAt": "2026-10-11T21:54:21.843440+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -2308,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:59.034011+00:00"
+      "_retrievedAt": "2026-10-11T21:54:22.273731+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -2340,7 +2980,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:59.033388+00:00"
+      "_retrievedAt": "2026-10-11T21:54:22.272929+00:00"
+    },
+    {
+      "id": "openalex-a63868e51b4a",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "De novo structural variants in autism spectrum disorder disrupt distal regulatory interactions of neuronal genes",
+      "authors": "Ketrin Gjoni, Xingjie Ren, Amanda Everitt, Yin Shen, Katherine S. Pollard",
+      "abstract": "Three-dimensional genome organization plays a critical role in gene regulation, and disruptions can lead to developmental disorders by altering the contact between genes and their distal regulatory elements. Structural variants (SVs) can disturb local genome organization, such as the merging of topologically associating domains upon boundary deletion. Testing large numbers of SVs experimentally for their effects on chromatin structure and gene expression is time and cost prohibitive. To address this, we propose a computational approach to predict SV impacts on genome folding, which can help prioritize causal hypotheses for functional testing. We developed a weighted scoring method that measures chromatin contact changes specifically affecting regions of interest, such as regulatory elements or promoters, and implemented it in the SuPreMo-Akita software (Gjoni and Pollard 2024). With t...",
+      "date": "2026-07-08",
+      "year": 2026,
+      "journal": "Genome Research",
+      "source": "Genome Research",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1101/gr.280394.124",
+      "doi": "10.1101/gr.280394.124",
+      "pdfUrl": "https://doi.org/10.1101/2024.11.06.621353",
+      "keywords": [
+        "Chromatin",
+        "Autism spectrum disorder",
+        "Biology",
+        "Genetics",
+        "Genome",
+        "Genomics and Chromatin Dynamics",
+        "Genomic variations and chromosomal abnormalities",
+        "Autism Spectrum Disorder Research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:21.155941+00:00"
+    },
+    {
+      "id": "openalex-56da52a8679d",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "A Comprehensive Survey on Multimodal Recommender Systems: Taxonomy, Evaluation, and Future Directions",
+      "authors": "Hongyu Zhou, Xin Zhou, Zhiwei Zeng, Lingzi Zhang, Chunyan Miao",
+      "abstract": "Recommender systems play a pivotal role in personalizing user experiences by inferring preferences based on historical interactions with items. With the increasing prevalence of multimodal information, researchers have sought to develop recommender systems that can understand and interpret data across various modalities. These models can capture the hidden relations among various modalities and discover the complementary information that may be overlooked by recommender systems that exploit unimodal or user-item interaction data. This survey aims to provide a comprehensive review of the recent research efforts on multimodal recommendation. Specifically, we delineate a clear pipeline that is adopted by the majority of recommendation systems, outline commonly used techniques at each step of the pipeline, and classify existing models based on the methods used. We also conduct a performan...",
+      "date": "2026-07-06",
+      "year": 2026,
+      "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "source": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1109/tpami.2026.3710585",
+      "doi": "10.1109/tpami.2026.3710585",
+      "pdfUrl": "https://arxiv.org/pdf/2302.04473",
+      "keywords": [
+        "Computer science",
+        "Recommender system",
+        "Modalities",
+        "Pipeline (software)",
+        "Code (set theory)",
+        "Recommender Systems and Techniques",
+        "Information Retrieval and Search Behavior",
+        "Advanced Bandit Algorithms Research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 25,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:20.430787+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -2372,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:59.033098+00:00"
+      "_retrievedAt": "2026-10-11T21:54:22.272532+00:00"
     },
     {
       "id": "openalex-c805cc5d5da5",
@@ -2404,11 +3108,11 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:59.036202+00:00"
+      "_retrievedAt": "2026-10-11T21:54:22.276502+00:00"
     },
     {
       "id": "openalex-b7abd719b558",
-      "discipline": "clinical",
+      "discipline": "cs",
       "type": "paper",
       "title": "A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions",
       "authors": "Lei Liu, Xiaoyan Yang, Junchi Lei, Yue Liang Shen, Jian Wang, Peng Wei",
@@ -2436,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:57.105469+00:00"
+      "_retrievedAt": "2026-10-11T21:54:20.430456+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -2468,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:57.106072+00:00"
+      "_retrievedAt": "2026-10-11T21:54:21.838461+00:00"
     },
     {
       "id": "openalex-0578798ae458",
@@ -2500,7 +3204,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:59.036531+00:00"
+      "_retrievedAt": "2026-10-11T21:54:22.276932+00:00"
+    },
+    {
+      "id": "openalex-f831f0b2712b",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Breeding drought-tolerant crops for sustainable agriculture",
+      "authors": "Ali Raza, Sidra Charagh, Kadambot H. M. Siddique, Channapatna S. Prakash, P. V. Vara Prasad, R.J. Harper",
+      "abstract": "With the escalating impacts of climate change, drought stress (DS) is significantly decreasing water accessibility and availability, causing substantial direct and indirect economic repercussions within agricultural systems. Addressing the needs of a growing global population necessitates urgent advancements in breeding DS-tolerant crops while maintaining high yields. This urgency demands a fast and adaptable defensive strategy to mitigate the adverse effects of DS on crop productivity. Accelerating such developments requires leveraging advanced omics-assisted breeding (e.g., genomics, transcriptomics, proteomics, and metabolomics), genetic engineering (e.g., transgenic technology, and genome editing), machine learning, precise phenotyping, crop wild relatives, and speed breeding. These fast-forward methods present highly promising avenues for the design of future crops that can withs...",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Agriculture & Food Security",
+      "source": "Agriculture & Food Security",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1186/s40066-025-00587-4",
+      "doi": "10.1186/s40066-025-00587-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s40066-025-00587-4.pdf",
+      "keywords": [
+        "Agriculture",
+        "Sustainable agriculture",
+        "Agroforestry",
+        "Sustainability",
+        "Business",
+        "Plant Stress Responses and Tolerance",
+        "Genetics and Plant Breeding",
+        "Agricultural Productivity and Crop Improvement"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:21.156288+00:00"
     },
     {
       "id": "openalex-9348c6b21fcd",
@@ -2532,7 +3268,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:59.036834+00:00"
+      "_retrievedAt": "2026-10-11T21:54:22.277278+00:00"
+    },
+    {
+      "id": "openalex-7162a76ca107",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Advancing bioinformatics with language models: components, applications, and perspectives",
+      "authors": "Jiajia Liu, Mengyuan Yang, Yankai Yu, Haixia Xu, Tiangang Wang, Kang Li",
+      "abstract": "Large language models (LLMs) are a class of artificial intelligence models based on deep learning, which have great performance in various tasks, especially in natural language processing (NLP). Large language models typically consist of artificial neural networks with numerous parameters, trained on large amounts of unlabeled input using self-supervised or semi-supervised learning. However, their potential for solving bioinformatics problems may even exceed their proficiency in modeling human language. In this review, we will provide a comprehensive overview of the essential components of large language models (LLMs) in bioinformatics, spanning genomics, transcriptomics, proteomics, drug discovery, and single-cell analysis. Key aspects covered include tokenization methods for diverse data types, the architecture of transformer models, the core attention mechanism, and the pre-trainin...",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Briefings in Bioinformatics",
+      "source": "Briefings in Bioinformatics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1093/bib/bbag367",
+      "doi": "10.1093/bib/bbag367",
+      "pdfUrl": "https://doi.org/10.1093/bib/bbag367",
+      "keywords": [
+        "Computer science",
+        "Artificial intelligence",
+        "Language model",
+        "Natural language processing",
+        "Natural language",
+        "Machine Learning in Bioinformatics",
+        "Genomics and Phylogenetic Studies",
+        "Genetics, Bioinformatics, and Biomedical Research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 28,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:20.429700+00:00"
+    },
+    {
+      "id": "openalex-d18501e37a77",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Transcriptional regulation of disease-relevant microglial activation programs",
+      "authors": "Amanda McQuade, Reet Mishra, Venus Hagan, Weiwei Liang, Peter J. Colias, Vincent Cele Castillo",
+      "abstract": "Summary Microglia, the brain’s innate immune cells, can adopt a wide variety of activation states relevant to health and disease. Dysregulation of microglial activation occurs in numerous brain disorders, and driving or inhibiting specific states could be therapeutic. To discover regulators of microglia activation states, we conducted CRISPR interference screens in iPSC-derived microglia for inhibitors and activators of six microglial states. We characterized 31 regulators at the single-cell transcriptomic and cell-surface proteome level in two distinct iPSC-derived microglia models, uncovering new protein markers of relevant states. We functionally characterized several multi- state regulators. ZNF532 and PRDM1 knockdown drive disease-associated, lipid-rich signatures and enhance phagocytosis while showing opposing effects on antigen-presentation signatures. DNMT1 knockdown results i...",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Neuron",
+      "source": "Neuron",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.neuron.2026.07.001",
+      "doi": "10.1016/j.neuron.2026.07.001",
+      "pdfUrl": "https://doi.org/10.1016/j.neuron.2026.07.001",
+      "keywords": [
+        "Gene knockdown",
+        "Microglia",
+        "Innate immune system",
+        "Cell biology",
+        "Transcriptome",
+        "Neuroinflammation and Neurodegeneration Mechanisms",
+        "Multiple Sclerosis Research Studies",
+        "Inflammasome and immune disorders"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:21.156657+00:00"
     },
     {
       "id": "openalex-10ad267fea93",
@@ -2564,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:57.108077+00:00"
+      "_retrievedAt": "2026-10-11T21:54:21.841077+00:00"
     },
     {
       "id": "openalex-33e8cda96b3e",
@@ -2596,7 +3396,103 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:57.108382+00:00"
+      "_retrievedAt": "2026-10-11T21:54:21.841470+00:00"
+    },
+    {
+      "id": "openalex-d12f8c68ebf5",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook",
+      "authors": "Ming Jin, Yaxuan Kong, Yuxuan Liang, Chaoli Zhang, Siqiao Xue, Xue Wang",
+      "abstract": "Temporal data-including time series and spatio-temporal data- are pervasive in real-world applications. Generated in massive volumes by physical and virtual sensors, they record dynamic system behaviors and enable a wide range of downstream tasks. Effectively analyzing such data is crucial to unlocking their rich information content. Recent advances in large language models and other foundation models have accelerated their use in time series and spatio-temporal data mining. These approaches not only improve pattern recognition and reasoning across diverse domains but also support progress toward artificial general intelligence that can understand and process temporal data. In this survey, we present a comprehensive, up-to-date review of large models tailored or adapted for time series and spatio-temporal data along four dimensions: data types, model categories, model scopes, and appl...",
+      "date": "2026-06-23",
+      "year": 2026,
+      "journal": "ACM Computing Surveys",
+      "source": "ACM Computing Surveys",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1145/3821637",
+      "doi": "10.1145/3821637",
+      "pdfUrl": "https://doi.org/10.1145/3821637",
+      "keywords": [
+        "Computer science",
+        "Data science",
+        "Temporal database",
+        "Categorization",
+        "Data mining",
+        "Time Series Analysis and Forecasting",
+        "Anomaly Detection Techniques and Applications",
+        "Topic Modeling"
+      ],
+      "readTime": "1 min",
+      "citedBy": 45,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:20.427148+00:00"
+    },
+    {
+      "id": "openalex-a7c159f1f11b",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Traffic and road sign recognition",
+      "authors": "Hasan A. Fleyeh",
+      "abstract": "This thesis presents a system to recognise and classify road and traffic signs for the purpose of developing an inventory of them which could assist the highway engineers' tasks of updating and maintaining them. It uses images taken by a camera from a moving vehicle. The system is based on three major stages: colour segmentation, recognition, and classification. Four colour segmentation algorithms are developed and tested. They are a shadow and highlight invariant, a dynamic threshold, a modification of de la Escalera's algorithm and a Fuzzy colour segmentation algorithm. All algorithms are tested using hundreds of images and the shadow-highlight invariant algorithm is eventually chosen as the best performer. This is because it is immune to shadows and highlights. It is also robust as it was tested in different lighting conditions, weather conditions, and times of the day. Approximate...",
+      "date": "2026-06-23",
+      "year": 2026,
+      "journal": "Research Output (Edinburgh Napier University)",
+      "source": "Research Output (Edinburgh Napier University)",
+      "sourceApi": "OpenAlex",
+      "url": "http://researchrepository.napier.ac.uk/id/eprint/9466",
+      "doi": "10.17869/enu.233020",
+      "pdfUrl": "http://researchrepository.napier.ac.uk/id/eprint/9466",
+      "keywords": [
+        "Transport engineering",
+        "Traffic sign",
+        "Road traffic",
+        "Sign (mathematics)",
+        "Computer science",
+        "Computer Science and Engineering",
+        "Image Retrieval and Classification Techniques",
+        "Advanced Neural Network Applications"
+      ],
+      "readTime": "2 min",
+      "citedBy": 30,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:20.428959+00:00"
+    },
+    {
+      "id": "openalex-9012e812c9de",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Harnessing artificial intelligence in plant breeding: innovations in digital phenotyping and breeding methodologies",
+      "authors": "Nikita Aggarwal, Mukesh Rathore, Farkhandah Jan, Divya Sharma, Sundeep Kumar, Mahendar Thudi",
+      "abstract": "Agriculture plays a crucial role in the development of countries whose economies rely heavily on food production. In the face of climate change and growing global population, plant breeders are challenged to adopt more efficient crop improvement strategies. The advances in artificial intelligence (AI), particularly in large-scale data integration, analysis, and pattern recognition, have revolutionized several scientific disciplines, including plant breeding. In this review, we provide a comprehensive survey of the potential of AI tools in plant breeding with four key objectives: (i) revolutionizing high-throughput phenotyping, (ii) exploring AI-driven breeding methodologies beyond traditional approaches, (iii) optimizing breeding pipelines through improved modelling of genotype × environment × management interactions, and (iv) highlighting the limitations of AI in plant breeding and f...",
+      "date": "2026-06-23",
+      "year": 2026,
+      "journal": "Theoretical and Applied Genetics",
+      "source": "Theoretical and Applied Genetics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1007/s00122-026-05293-8",
+      "doi": "10.1007/s00122-026-05293-8",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s00122-026-05293-8.pdf",
+      "keywords": [
+        "Plant breeding",
+        "Biotechnology",
+        "Agriculture",
+        "Biology",
+        "Resource (disambiguation)",
+        "Smart Agriculture and AI",
+        "Genetic and phenotypic traits in livestock",
+        "Genetics and Plant Breeding"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-11T21:54:21.157088+00:00"
     },
     {
       "id": "openalex-bb50663ea11d",
@@ -2628,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:59.034363+00:00"
+      "_retrievedAt": "2026-10-11T21:54:22.274191+00:00"
     },
     {
       "id": "openalex-a29127dc905f",
@@ -2660,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:57.106515+00:00"
+      "_retrievedAt": "2026-10-11T21:54:21.839034+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2692,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-11T12:43:57.106250+00:00"
+      "_retrievedAt": "2026-10-11T21:54:21.838681+00:00"
     }
   ]
 };
