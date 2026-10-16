@@ -1,11 +1,107 @@
 {
-  "generatedAt": "2026-10-16T04:26:12.057854+00:00",
+  "generatedAt": "2026-10-16T11:17:21.955398+00:00",
   "total": 113,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-73f24022918e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Paid leave survey highlights gap between policy and practice in academic radiology and radiation oncology",
+      "authors": "Medical Xpress",
+      "abstract": "A recent study in the Journal of the American College of Radiology (JACR) suggests that paid family and medical leave (PFML) policies offered by U.S. academic and radiation oncology programs, while widely available, are implemented inconsistently across programs.",
+      "date": "2026-10-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-paid-survey-highlights-gap-policy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "paid",
+        "leave",
+        "academic",
+        "radiology",
+        "radiation",
+        "oncology",
+        "programs",
+        "survey"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-16T11:17:21.489840+00:00"
+    },
+    {
+      "id": "rss-47358129f0a9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Depression treatment during pregnancy may benefit babies' brain development, randomized trial finds",
+      "authors": "Medical Xpress",
+      "abstract": "Treating depression during pregnancy influences infant brain development and early emotional function, according to new research published in Nature Communications.",
+      "date": "2026-10-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-depression-treatment-pregnancy-benefit-babies.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "depression",
+        "during",
+        "pregnancy",
+        "brain",
+        "development",
+        "treatment",
+        "benefit",
+        "babies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-16T11:17:21.490081+00:00"
+    },
+    {
+      "id": "rss-80ce14b3a3e3",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Good gut bacteria vs. bad: What we learned about antibiotic resistance from a community in Nairobi",
+      "authors": "Medical Xpress",
+      "abstract": "Years of antibiotic use have fueled a rise in bacteria that can survive antibiotics. These antibiotic-resistant bacteria are competing with and displacing other bacteria that are naturally present in the human gut, where they play a critical role in maintaining good health. Resistant bacteria have led to increased illness and death from diseases that were once easily treatable with antibiotics.",
+      "date": "2026-10-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-good-gut-bacteria-bad-antibiotic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "bacteria",
+        "that",
+        "good",
+        "antibiotic",
+        "have",
+        "antibiotics",
+        "what",
+        "learned"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-16T11:17:21.490335+00:00"
+    },
     {
       "id": "rss-a16705f35ced",
       "discipline": "clinical",
@@ -36,7 +132,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.142218+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.490533+00:00"
     },
     {
       "id": "rss-b08b9ac3b470",
@@ -68,7 +164,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.142468+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.490730+00:00"
     },
     {
       "id": "rss-ac1b287c603f",
@@ -100,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.142710+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.490970+00:00"
     },
     {
       "id": "rss-7fd4d0a10508",
@@ -132,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.142946+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.491185+00:00"
     },
     {
       "id": "rss-80debe12f013",
@@ -164,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.143284+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.491479+00:00"
     },
     {
       "id": "rss-1160f3776199",
@@ -196,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.143500+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.491666+00:00"
     },
     {
       "id": "rss-a8890ad8143d",
@@ -228,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.143759+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.491907+00:00"
     },
     {
       "id": "rss-021a16851748",
@@ -260,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.144052+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.492285+00:00"
     },
     {
       "id": "rss-e7c9a41bc0d2",
@@ -292,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.144382+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.492594+00:00"
     },
     {
       "id": "rss-53ac482481f5",
@@ -324,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.144669+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.492951+00:00"
     },
     {
       "id": "rss-3d5d1ef8746d",
@@ -356,103 +452,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.144935+00:00"
-    },
-    {
-      "id": "rss-eea36073b4e0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Nasal delivery of ALS treatment in tiny cell-made sacs delays disease onset in mice",
-      "authors": "Medical Xpress",
-      "abstract": "One of the great challenges in treating diseases like amyotrophic lateral sclerosis (ALS) is not necessarily finding a promising drug. It is getting the drug to the right place.",
-      "date": "2026-10-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-nasal-delivery-als-treatment-tiny.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "drug",
-        "nasal",
-        "delivery",
-        "treatment",
-        "tiny",
-        "cell-made",
-        "sacs",
-        "delays"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.145207+00:00"
-    },
-    {
-      "id": "rss-7cbbda8ba7da",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Skin has a sex: Females and males do not renew their skin in the same way",
-      "authors": "Medical Xpress",
-      "abstract": "By filming skin stem cells in living mice over five months, researchers at the Université libre de Bruxelles (ULB), in collaboration with the University of Cambridge, have discovered that in females these cells renew the skin in a more coordinated way than in males. This difference, controlled by sex hormones, goes hand in hand with faster wound healing in female mice. This research could eventually pave the way for personalized treatments taking into account patients' sex.",
-      "date": "2026-10-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-skin-sex-females-males-renew.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "skin",
-        "females",
-        "males",
-        "renew",
-        "cells",
-        "mice",
-        "this",
-        "hand"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.145507+00:00"
-    },
-    {
-      "id": "rss-ef8290f2f17a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "HIV finds escape routes from a preventive antibody—but newer antibodies may close them",
-      "authors": "Medical Xpress",
-      "abstract": "In an HIV prevention trial, an antibody blocked the viruses most vulnerable to it, but others broke through. Now researchers have uncovered how HIV evolved after those infections—and why the amount of antibody in the body is an essential part of the story.",
-      "date": "2026-10-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-hiv-routes-antibody-antibodies.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "antibody",
-        "finds",
-        "escape",
-        "routes",
-        "preventive",
-        "newer",
-        "antibodies",
-        "close"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.145764+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.493194+00:00"
     },
     {
       "id": "rss-f751706ffb87",
@@ -484,7 +484,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.183241+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.561588+00:00"
     },
     {
       "id": "rss-96dfd09f9343",
@@ -516,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.183484+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.561892+00:00"
     },
     {
       "id": "rss-2e1bce4f8d59",
@@ -548,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.183671+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.562061+00:00"
     },
     {
       "id": "rss-66796379d3b1",
@@ -580,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.183853+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.562227+00:00"
     },
     {
       "id": "rss-5b27d08dc93d",
@@ -612,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.184045+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.562404+00:00"
     },
     {
       "id": "rss-1c1b79f90de7",
@@ -644,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.184289+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.562597+00:00"
     },
     {
       "id": "rss-2145c365c526",
@@ -676,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.184458+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.562758+00:00"
     },
     {
       "id": "rss-ac4fd8461524",
@@ -708,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.184612+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.562894+00:00"
     },
     {
       "id": "rss-65786e2d9965",
@@ -740,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.184764+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.563026+00:00"
     },
     {
       "id": "rss-6afdd4bfe07a",
@@ -772,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.184963+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.563204+00:00"
     },
     {
       "id": "rss-33ff3127c63e",
@@ -804,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.185130+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.563332+00:00"
     },
     {
       "id": "rss-816b3b63c44c",
@@ -836,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.185313+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.563486+00:00"
     },
     {
       "id": "rss-99c2e2bb3b74",
@@ -868,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.185507+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.563655+00:00"
     },
     {
       "id": "rss-dfab44ee18d2",
@@ -900,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.294990+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.598255+00:00"
     },
     {
       "id": "rss-6674f1b9a348",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.295230+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.598417+00:00"
     },
     {
       "id": "rss-4ab0a2b15569",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.295418+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.598579+00:00"
     },
     {
       "id": "rss-0e171c077003",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.185695+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.563828+00:00"
     },
     {
       "id": "rss-218219c6f48a",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.295580+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.598758+00:00"
     },
     {
       "id": "rss-d82f0f078053",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.586910+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.758146+00:00"
     },
     {
       "id": "rss-18545777b44e",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.587341+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.758506+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1124,7 +1124,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.707577+00:00"
+      "_retrievedAt": "2026-10-16T11:17:17.166155+00:00"
     },
     {
       "id": "rss-b96de90b49a5",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.295748+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.598915+00:00"
     },
     {
       "id": "rss-20f5d059a7c0",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.295897+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.599047+00:00"
     },
     {
       "id": "rss-dea80f44d99d",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.296111+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.599214+00:00"
     },
     {
       "id": "rss-9097c559200f",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.587591+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.758787+00:00"
     },
     {
       "id": "rss-1eb5a0ad1fdb",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.296276+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.599354+00:00"
     },
     {
       "id": "rss-0bfffe781a60",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.296435+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.599493+00:00"
     },
     {
       "id": "rss-3f43f1f3aef2",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.588275+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.759536+00:00"
     },
     {
       "id": "rss-0b401625ba0c",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.296607+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.599642+00:00"
     },
     {
       "id": "rss-3cbba74411c0",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.296758+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.599793+00:00"
     },
     {
       "id": "rss-2f8a4e0119ee",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.296920+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.599934+00:00"
     },
     {
       "id": "rss-c561a387f2d1",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.297102+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.600079+00:00"
     },
     {
       "id": "rss-5764f9ec0337",
@@ -1508,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.588999+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.760364+00:00"
     },
     {
       "id": "rss-23f57c26ccb3",
@@ -1540,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.589503+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.760867+00:00"
     },
     {
       "id": "rss-19d143b1e9c8",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.297273+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.600222+00:00"
     },
     {
       "id": "rss-0333c77565a0",
@@ -1604,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.589713+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.761062+00:00"
     },
     {
       "id": "rss-a7d777e1fbd3",
@@ -1636,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.590216+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.761490+00:00"
     },
     {
       "id": "rss-a969e28ae72b",
@@ -1668,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.590821+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.762034+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:11.591198+00:00"
+      "_retrievedAt": "2026-10-16T11:17:21.762352+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1728,11 +1728,11 @@
         "Natural Language Processing Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 38,
+      "citedBy": 47,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:05.408768+00:00"
+      "_retrievedAt": "2026-10-16T11:17:14.431732+00:00"
     },
     {
       "id": "openalex-637c76942b6d",
@@ -1764,7 +1764,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:05.409361+00:00"
+      "_retrievedAt": "2026-10-16T11:17:14.432247+00:00"
     },
     {
       "id": "openalex-e987114418d8",
@@ -1796,7 +1796,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:05.411295+00:00"
+      "_retrievedAt": "2026-10-16T11:17:14.434607+00:00"
     },
     {
       "id": "openalex-af535c74f002",
@@ -1828,7 +1828,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:05.413015+00:00"
+      "_retrievedAt": "2026-10-16T11:17:14.435547+00:00"
     },
     {
       "id": "openalex-2da239523a05",
@@ -1860,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:05.410588+00:00"
+      "_retrievedAt": "2026-10-16T11:17:14.434265+00:00"
     },
     {
       "id": "openalex-a4d4df423646",
@@ -1892,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:05.412379+00:00"
+      "_retrievedAt": "2026-10-16T11:17:14.435262+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1924,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:07.245316+00:00"
+      "_retrievedAt": "2026-10-16T11:17:18.654939+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1956,7 +1956,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:05.407104+00:00"
+      "_retrievedAt": "2026-10-16T11:17:14.430267+00:00"
     },
     {
       "id": "openalex-aaaea7987db6",
@@ -1988,39 +1988,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.015655+00:00"
-    },
-    {
-      "id": "openalex-c69b357edb85",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Turkish Journal of Osteoporosis",
-      "authors": "OpenAlex indexed authors",
-      "abstract": "Türk Osteoporoz Dergisi, osteoporoz ve metabolik kemik hastalıkları alanında açık erişim, bilimsel, çift taraflı kör hakemli bir dergidir. Yazarlarından başvuru, değerlendirme ve yayın sürecinde herhangi bir ücret talep edilmemektedir. Türkiye Osteoporoz Derneği resmi yayını olup, Nisan, Ağustos ve Aralık aylarında olmak üzere yılda 3 sayı çıkar.",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "Turkish Journal of Osteoporosis",
-      "source": "Turkish Journal of Osteoporosis",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.4274/tod",
-      "doi": "10.4274/tod",
-      "pdfUrl": "https://doi.org/10.4274/tod",
-      "keywords": [
-        "Turkish",
-        "Osteoporosis",
-        "Medicine",
-        "Internal medicine",
-        "Philosophy",
-        "osteoporoz",
-        "turkish",
-        "journal"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.711840+00:00"
+      "_retrievedAt": "2026-10-16T11:17:15.705593+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2052,39 +2020,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.014689+00:00"
-    },
-    {
-      "id": "openalex-8543b13945d0",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Computational analysis of treatment resistant cancer cells",
-      "authors": "Alexandre Matov",
-      "abstract": "Introduction: Prostate cancer (PC), which is a disease driven by the activity of the androgen receptor (AR), is the most commonly diagnosed malignancy and despite advances in diagnostic and treatment strategies, PC is the second most common cause of cancer mortality in men. Taxane-based chemotherapy is the only chemotherapy that prolongs survival in metastatic PC patients. At the cellular level, taxanes bind to and stabilize microtubules (MTs), inhibiting all MT-dependent intracellular pathways. MTs are highly dynamic polymers that stochastically switch between phases of growth, shrinkage, and pause. Altered MT dynamics endow cancer cells with both survival and migratory advantages. Taxanes inhibit MT dynamics and alter the spatial organization of the MT network, thereby inhibiting intracellular trafficking of molecular cargo critical for tumor survival. In PC specifically, taxanes in...",
-      "date": "2026-08-25",
-      "year": 2026,
-      "journal": "Frontiers in Cell and Developmental Biology",
-      "source": "Frontiers in Cell and Developmental Biology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fcell.2025.1723251",
-      "doi": "10.3389/fcell.2025.1723251",
-      "pdfUrl": "https://doi.org/10.3389/fcell.2025.1723251",
-      "keywords": [
-        "Taxane",
-        "Prostate cancer",
-        "Cancer research",
-        "Cancer",
-        "Intracellular",
-        "Microtubule and mitosis dynamics",
-        "Prostate Cancer Treatment and Research",
-        "Cancer Treatment and Pharmacology"
-      ],
-      "readTime": "2 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.712346+00:00"
+      "_retrievedAt": "2026-10-16T11:17:15.704719+00:00"
     },
     {
       "id": "openalex-4bcca691e2bc",
@@ -2116,7 +2052,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:07.248898+00:00"
+      "_retrievedAt": "2026-10-16T11:17:18.658285+00:00"
     },
     {
       "id": "openalex-fc31c72923df",
@@ -2148,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:05.409722+00:00"
+      "_retrievedAt": "2026-10-16T11:17:14.432571+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -2180,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.709454+00:00"
+      "_retrievedAt": "2026-10-16T11:17:17.167879+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -2212,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:07.249322+00:00"
+      "_retrievedAt": "2026-10-16T11:17:18.658648+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -2244,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.017028+00:00"
+      "_retrievedAt": "2026-10-16T11:17:15.706808+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -2272,11 +2208,11 @@
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 24,
+      "citedBy": 26,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:05.412703+00:00"
+      "_retrievedAt": "2026-10-16T11:17:14.434913+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -2308,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.017466+00:00"
+      "_retrievedAt": "2026-10-16T11:17:15.707169+00:00"
     },
     {
       "id": "openalex-aa0b72ab3b90",
@@ -2340,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:07.249727+00:00"
+      "_retrievedAt": "2026-10-16T11:17:18.659020+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2372,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.015989+00:00"
+      "_retrievedAt": "2026-10-16T11:17:15.705910+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2404,7 +2340,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:07.250123+00:00"
+      "_retrievedAt": "2026-10-16T11:17:18.659360+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2432,11 +2368,11 @@
         "Genetic Associations and Epidemiology"
       ],
       "readTime": "1 min",
-      "citedBy": 26,
+      "citedBy": 27,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.013745+00:00"
+      "_retrievedAt": "2026-10-16T11:17:15.703870+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2468,7 +2404,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.014046+00:00"
+      "_retrievedAt": "2026-10-16T11:17:15.704147+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2500,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.015366+00:00"
+      "_retrievedAt": "2026-10-16T11:17:15.705330+00:00"
     },
     {
       "id": "openalex-34f37069c1ad",
@@ -2532,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.017691+00:00"
+      "_retrievedAt": "2026-10-16T11:17:15.707370+00:00"
     },
     {
       "id": "openalex-83b919635dc2",
@@ -2564,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.708704+00:00"
+      "_retrievedAt": "2026-10-16T11:17:17.167189+00:00"
     },
     {
       "id": "openalex-c47d537bde45",
@@ -2596,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.709823+00:00"
+      "_retrievedAt": "2026-10-16T11:17:17.168216+00:00"
     },
     {
       "id": "openalex-7a85bfe0ead2",
@@ -2628,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:07.250488+00:00"
+      "_retrievedAt": "2026-10-16T11:17:18.659700+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2660,7 +2596,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:07.246178+00:00"
+      "_retrievedAt": "2026-10-16T11:17:18.655796+00:00"
+    },
+    {
+      "id": "openalex-cc20596fdff7",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "In vivo CRISPR base editing for treatment of Huntington’s disease",
+      "authors": "Shraddha Shirguppe, Michael Gapinske, Devyani Swami, Kyrollos Shenouda, Angelo Miskalis, Nicholas C. Gosstola",
+      "abstract": "Huntington's disease (HD) is an inherited and ultimately fatal neurodegenerative disorder caused by an expanded polyglutamine-encoding CAG repeat within exon 1 of the huntingtin (HTT) gene, which produces a mutant protein that destroys striatal and cortical neurons. Importantly, a critical event in the pathogenesis of HD is the proteolytic cleavage of the mutant HTT protein by caspase-6, which generates fragments of the N-terminal domain of the protein that form highly toxic aggregates. Given the role that proteolysis of the mutant HTT protein plays in HD, strategies for preventing this process hold potential for treating the disorder. By screening 141 CRISPR base editor variants targeting splice elements in the HTT gene, we identified platforms capable of producing HTT protein isoforms resistant to caspase-6-mediated proteolysis via editing of the splice acceptor sequence for exon 13...",
+      "date": "2026-07-29",
+      "year": 2026,
+      "journal": "Nature Biomedical Engineering",
+      "source": "Nature Biomedical Engineering",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41551-026-01747-y",
+      "doi": "10.1038/s41551-026-01747-y",
+      "pdfUrl": "https://www.nature.com/articles/s41551-026-01747-y.pdf",
+      "keywords": [
+        "Huntingtin",
+        "Exon",
+        "Mutant",
+        "Exon skipping",
+        "Gene knockin",
+        "Genetic Neurodegenerative Diseases",
+        "CRISPR and Genetic Engineering",
+        "Virus-based gene therapy research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-16T11:17:15.707666+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2692,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:07.246546+00:00"
+      "_retrievedAt": "2026-10-16T11:17:18.656155+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2720,11 +2688,11 @@
         "Artificial Intelligence Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 44,
+      "citedBy": 49,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:05.408361+00:00"
+      "_retrievedAt": "2026-10-16T11:17:14.431367+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2756,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.709102+00:00"
+      "_retrievedAt": "2026-10-16T11:17:17.167529+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2784,11 +2752,11 @@
         "Epigenetics and DNA Methylation"
       ],
       "readTime": "1 min",
-      "citedBy": 16,
+      "citedBy": 18,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.014347+00:00"
+      "_retrievedAt": "2026-10-16T11:17:15.704400+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -2820,7 +2788,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.710212+00:00"
+      "_retrievedAt": "2026-10-16T11:17:17.168539+00:00"
+    },
+    {
+      "id": "openalex-100e88f28593",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial",
+      "authors": "Adam D. Cohen, Joshua Ryan Richter, Suzanne Trudel, Alexander M. Lesokhin, Jacob P. Laubach, Sheeba K. Thomas",
+      "abstract": "Fc receptor-homolog 5 (FcRH5) is a membrane protein that is ubiquitously expressed on myeloma cells. Cevostamab is a first-in-class, FcRH5×CD3 bispecific antibody. GO39775 is a phase 1 dose-escalation and dose-expansion study evaluating fixed-duration cevostamab in relapsed or refractory multiple myeloma. Cevostamab was initiated with step-up dosing and continued at the target dose (TD) once every 3 weeks for 17 cycles (~12 months) unless disease progression or unacceptable toxicity occurred. Primary objectives were to evaluate safety, including determination of the maximum tolerated dose (MTD), and to identify a recommended phase 2 dose and schedule (RP2D) for cevostamab monotherapy. Secondary objectives included determining the rate of response and the duration of response (DOR). As of 24 February 2025, 324 patients had been enrolled; most were heavily pretreated (median prior lines...",
+      "date": "2026-07-22",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04522-3",
+      "doi": "10.1038/s41591-026-04522-3",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04522-3.pdf",
+      "keywords": [
+        "Medicine",
+        "Refractory (planetary science)",
+        "Internal medicine",
+        "Dosing",
+        "Adverse effect",
+        "Multiple Myeloma Research and Treatments",
+        "Monoclonal and Polyclonal Antibodies Research",
+        "Lymphoma Diagnosis and Treatment"
+      ],
+      "readTime": "1 min",
+      "citedBy": 7,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-16T11:17:17.168959+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2852,7 +2852,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:05.407546+00:00"
+      "_retrievedAt": "2026-10-16T11:17:14.430698+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2884,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.016350+00:00"
+      "_retrievedAt": "2026-10-16T11:17:15.706186+00:00"
     },
     {
       "id": "openalex-814a31d1960d",
@@ -2916,7 +2916,103 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:07.250875+00:00"
+      "_retrievedAt": "2026-10-16T11:17:18.660062+00:00"
+    },
+    {
+      "id": "openalex-aca20517061c",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Sentinel-2 for crop yield estimation: A systematic review",
+      "authors": "Mohammadreza Narimani, Alireza Pourreza, Ali Moghimi, Parastoo Farajpoor",
+      "abstract": "Accurate and timely crop yield estimation is fundamental for global food security, agricultural policy, and farm management. The Copernicus Sentinel-2 constellation has catalyzed a paradigm shift in Earth observation for agriculture, enabling field and sub-field scale monitoring. This review synthesizes recent advances in crop yield estimation that leverage Sentinel-2 data. A dominant theme is the transition from regional-scale to high-resolution field-level assessments, driven by three approaches: (i) empirical models using vegetation indices coupled with machine and deep learning (e.g., Random Forest, Convolutional Neural Networks); (ii) integration of process-based crop growth models (e.g., WOFOST, SAFY) through data assimilation of Sentinel-2 derived biophysical variables such as Leaf Area Index; and (iii) data fusion of Sentinel-2 with Sentinel-1 Synthetic Aperture Radar to overc...",
+      "date": "2026-07-17",
+      "year": 2026,
+      "journal": "Smart Agricultural Technology",
+      "source": "Smart Agricultural Technology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.atech.2026.102405",
+      "doi": "10.1016/j.atech.2026.102405",
+      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S2772375526006301/pdf",
+      "keywords": [
+        "Crop yield",
+        "Agricultural engineering",
+        "Synthetic aperture radar",
+        "Leverage (statistics)",
+        "Earth observation",
+        "Remote Sensing in Agriculture",
+        "Smart Agriculture and AI",
+        "Climate change impacts on agriculture"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-16T11:17:18.660343+00:00"
+    },
+    {
+      "id": "openalex-b4945be66b52",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Structure and evolution-guided design of minimal RNA-guided nucleases",
+      "authors": "Petr Skopintsev, Isabel Esain-Garcia, Evan C. DeTurk, Peter H. Yoon, Zehan Zhou, Trevor J. Weiss",
+      "abstract": "The design of RNA-guided nucleases with properties not limited by evolution can expand programmable genome-editing capabilities. However, generating diverse multidomain proteins with robust enzymatic properties remains challenging. Here, we use a protein design strategy that couples a structure-guided inverse-folding model with evolution-informed residue constraints to generate active, divergent variants of TnpB, a minimal CRISPR-Cas12-like nuclease, termed SynTnpBs. High-throughput screening of artificial intelligence-generated variants yielded editors that retained or exceeded wild-type activity in bacterial, plant, and human cells. Cryo-electron microscopy-based structure determination of the most divergent variant revealed stabilizing contacts in the RNA-DNA interfaces across conformations, demonstrating the design potential of this approach. Together, these results establish a st...",
+      "date": "2026-07-16",
+      "year": 2026,
+      "journal": "Science",
+      "source": "Science",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1126/science.aed6123",
+      "doi": "10.1126/science.aed6123",
+      "pdfUrl": "https://doi.org/10.1126/science.aed6123",
+      "keywords": [
+        "Nucleic acid",
+        "Computer science",
+        "DNA",
+        "Chemistry",
+        "Computational biology",
+        "CRISPR and Genetic Engineering",
+        "Protein Structure and Dynamics",
+        "RNA regulation and disease"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-16T11:17:15.707930+00:00"
+    },
+    {
+      "id": "openalex-d1f5fac033f2",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Evaluation of coal mine methane inventory methods using aircraft-based approaches in the Bowen Basin, Australia",
+      "authors": "Stephen J. Harris, Sven Krautwurst, Jörg Hinrich Hacker, Mark F. Lunt, Jakob Borchardt, Mei Bai",
+      "abstract": "Abstract. Australia uses a blend of IPCC Tier 2 and 3 bottom-up approaches to estimate and report fugitive coal mine methane (CH4) emissions. To date, Tier 3 reporting for underground coal mines, which predominantly relies on direct measurements of ventilated air, has not been systematically assessed against top-down atmospheric measurements. Tier 2 coal core-based emission factors and Tier 3 model guidelines for estimating surface (open-cut) mine emissions similarly lack verification. Here, two aircraft-based approaches were used to quantify the rate of CH4 emissions from 17 coal mines in the Bowen Basin, Australia. When compared to bottom-up mean annual reported estimates, airborne estimates from underground mines showed a non-significant mean positive bias of 0.28 t hr-1 (p = 0.28, n = 8 estimates) and good agreement (normalised root mean squared error (NRMSE) = 0.20). When aggrega...",
+      "date": "2026-07-16",
+      "year": 2026,
+      "journal": "Atmospheric chemistry and physics",
+      "source": "Atmospheric chemistry and physics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.5194/acp-26-10043-2026",
+      "doi": "10.5194/acp-26-10043-2026",
+      "pdfUrl": "https://acp.copernicus.org/articles/26/10043/2026/acp-26-10043-2026.pdf",
+      "keywords": [
+        "Coal mining",
+        "Environmental science",
+        "Fugitive emissions",
+        "Coal",
+        "Methane",
+        "Atmospheric and Environmental Gas Dynamics",
+        "Coal Properties and Utilization",
+        "Geoscience and Mining Technology"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-16T11:17:18.660714+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -2948,71 +3044,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.706962+00:00"
-    },
-    {
-      "id": "openalex-608d5e35df7a",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Uncovering the isoform-resolution kinetic landscape of nonsense-mediated mRNA decay with EZbakR",
-      "authors": "Justin W. Mabin, Isaac W. Vock, Martin Machyna, Nazmul Haque, Poonam Thakran, Alexandra Zhang",
-      "abstract": "Cellular RNA levels are a product of synthesis and degradation kinetics, which can differ among transcripts of the same gene. An important cause of isoform-specific decay is the nonsense-mediated mRNA decay (NMD) pathway, which degrades transcripts with premature termination codons (PTCs) and other features. Understanding NMD functions requires strategies to quantify isoform kinetics; however, current approaches remain limited. Methods like nucleotide-recoding RNA-seq (NR-seq) enable insights into RNA kinetics, but existing bioinformatic tools do not provide robust, isoform-specific degradation rate constant estimates. We extend the EZbakR-suite by implementing a strategy to infer isoform-level kinetics from short-read NR-seq data. This approach uncovers unexpected variability in NMD efficiency among transcripts with conserved PTC-containing exons and rapid decay of a subset of mRNAs...",
-      "date": "2026-07-15",
-      "year": 2026,
-      "journal": "Genome biology",
-      "source": "Genome biology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s13059-026-04204-w",
-      "doi": "10.1186/s13059-026-04204-w",
-      "pdfUrl": "https://doi.org/10.1186/s13059-026-04204-w",
-      "keywords": [
-        "Nonsense-mediated decay",
-        "Gene isoform",
-        "Biology",
-        "Messenger RNA",
-        "RNA",
-        "RNA Research and Splicing",
-        "RNA and protein synthesis mechanisms",
-        "Genomics and Phylogenetic Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.017985+00:00"
-    },
-    {
-      "id": "openalex-4a46ff2c29ce",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Oceanographic Buoys for Marine Monitoring: A Review of Instrumentation, Applications, and Emerging Technologies",
-      "authors": "Francisco Portillo, Nadia Rotbi, Nicolas Padilla, Consolación Gil, John Alexander Taborda, Alfredo Alcayde",
-      "abstract": "Oceanographic buoys are essential platforms for marine observation, supporting real-time monitoring, climate studies, operational oceanography, coastal management, and offshore activities. This review maps the scientific literature on oceanographic buoys and identifies the main research sectors that structure the field. A Scopus search using TITLE-ABS-KEY((oceanographic OR metocean OR “ocean observing” OR “ocean observation”) AND (buoy OR buoys)) retrieved 1876 documents published between 1938 and 2026. The records were processed using a network-based sector detection and visualization workflow. Five thematic sectors were identified: platform engineering, sensors, moorings, and autonomous systems; marine wind, waves, metocean, and offshore energy applications; physical oceanography, sea-surface temperature (SST), currents, and environmental variability; coastal and ocean observing net...",
-      "date": "2026-07-14",
-      "year": 2026,
-      "journal": "Journal of Marine Science and Engineering",
-      "source": "Journal of Marine Science and Engineering",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/jmse14141291",
-      "doi": "10.3390/jmse14141291",
-      "pdfUrl": "https://www.mdpi.com/2077-1312/14/14/1291/pdf?version=1784015519",
-      "keywords": [
-        "Thematic map",
-        "Buoy",
-        "Submarine pipeline",
-        "Oceanography",
-        "Ocean observations",
-        "Oceanographic and Atmospheric Processes",
-        "Underwater Vehicles and Communication Systems",
-        "Ocean Waves and Remote Sensing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:07.251250+00:00"
+      "_retrievedAt": "2026-10-16T11:17:17.165611+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3044,7 +3076,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:07.247725+00:00"
+      "_retrievedAt": "2026-10-16T11:17:18.657224+00:00"
+    },
+    {
+      "id": "openalex-6068978c624a",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Tumor heterogeneity: development, mechanisms, and therapeutic implications",
+      "authors": "Jianhong Zhang, Heng Li, Shuo Ru, Hui Feng, Guo J, Danlei Sun",
+      "abstract": "Tumor heterogeneity is a fundamental hallmark of cancer that drives progression, metastasis and therapeutic resistance. This diversity originates from persistent genomic instability, dynamic clonal evolution, and cancer stem cell plasticity, which are further amplified through complex crosstalk within the tumor microenvironment. While conventional therapies effectively eliminate certain tumor cell populations, residual resistant subclones frequently lead to disease relapse. Recent breakthroughs in single-cell multi-omics, spatial transcriptomics, and liquid biopsy now enable a comprehensive, multidimensional dissection of tumor heterogeneity across molecular, cellular, spatial, and temporal scales. These approaches reveal real-time dynamics of tumor evolution, providing new opportunities for therapeutic intervention. This review synthesizes key advances in understanding tumor heteroge...",
+      "date": "2026-07-12",
+      "year": 2026,
+      "journal": "Signal Transduction and Targeted Therapy",
+      "source": "Signal Transduction and Targeted Therapy",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41392-026-02749-7",
+      "doi": "10.1038/s41392-026-02749-7",
+      "pdfUrl": "https://www.nature.com/articles/s41392-026-02749-7.pdf",
+      "keywords": [
+        "Cancer research",
+        "Medicine",
+        "Tumor cells",
+        "Computational biology",
+        "MEDLINE",
+        "Cancer Genomics and Diagnostics",
+        "Cancer Cells and Metastasis",
+        "Single-cell and spatial transcriptomics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-16T11:17:17.169695+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -3076,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:07.248132+00:00"
+      "_retrievedAt": "2026-10-16T11:17:18.657577+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -3108,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:07.247310+00:00"
+      "_retrievedAt": "2026-10-16T11:17:18.656859+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -3140,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.016699+00:00"
+      "_retrievedAt": "2026-10-16T11:17:15.706501+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -3168,43 +3232,11 @@
         "Advanced Bandit Algorithms Research"
       ],
       "readTime": "1 min",
-      "citedBy": 25,
+      "citedBy": 30,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:05.411972+00:00"
-    },
-    {
-      "id": "openalex-1833111a2aa4",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Positional interpretation of cis-regulatory code and nucleosome organization with deep learning models",
-      "authors": "Charles E. McAnany, Melanie Weilert, Grishma Mehta, Fahad Kamulegeya, Jennifer Gardner, Jacob Matthew Schreiber",
-      "abstract": "Sequence-to-function neural networks learn cis-regulatory sequence rules driving many types of genomic data. Interpreting these models to relate the sequence rules to underlying biological processes remains challenging, especially for complex genomic readouts such as MNase-seq, which maps nucleosome occupancy but is confounded by experimental bias. Here, we introduce pairwise influence by sequence attribution (PISA), which uses attribution to combinatorially decode which bases contributed to the readout at a specific genomic coordinate. PISA visualizes the effects of transcription factor motifs, detects undiscovered motifs with complex contribution patterns, and reveals experimental biases. By learning the bias for MNase-seq, PISA enables unprecedented nucleosome prediction models. These models allow the de novo discovery of nucleosome-positioning motifs and reveal the basis of Micro-...",
-      "date": "2026-07-04",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-74807-1",
-      "doi": "10.1038/s41467-026-74807-1",
-      "pdfUrl": "https://doi.org/10.1038/s41467-026-74807-1",
-      "keywords": [
-        "Nucleosome",
-        "Computer science",
-        "Deep learning",
-        "Computational biology",
-        "Artificial intelligence",
-        "Genomics and Chromatin Dynamics",
-        "Machine Learning in Bioinformatics",
-        "Genomics and Phylogenetic Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.018314+00:00"
+      "_retrievedAt": "2026-10-16T11:17:14.432878+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -3236,39 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:07.246907+00:00"
-    },
-    {
-      "id": "openalex-c805cc5d5da5",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "MULTI-MODEL INTEGRATION AND PARAMETRIC GEOHAZARD MODELS FOR MULTI-HAZARD SUSCEPTIBILITY ASSESSMENT IN A FAN-SHAPED CATCHMENT (CRNIČKA REKA, NORTH MACEDONIA)",
-      "authors": "Bojana Aleksova, Ivica Milevski, İbrahim Dursun, Duško Vujačić, Youssef M. Youssef",
-      "abstract": "Fan-shaped landforms, particularly fluvial fans, are inherently prone to multiple geohazards because steep slopes, weak lithology, sparse vegetation, and rapid runoff response often coincide within limited spatial areas. This study evaluates multi-hazard susceptibility in the Crnička Reka catchment, eastern North Macedonia, by comparing GIS-based parametric models with FAHP-based multi-criteria analysis. Excessive soil erosion, landslide susceptibility, and flash-flood susceptibility were first assessed individually using the Erosion Potential Model, Landslide Susceptibility Index, and Flash Flood Potential Index, and were then integrated through spatial overlay to identify multi-hazard zones. The EPM results indicate an average erosion coefficient of Z = 0.5, with total erosion production of 5,304 m³/year and a specific erosion rate of 780.9 m³/km²/year, mainly concentrated in the lo...",
-      "date": "2026-07-04",
-      "year": 2026,
-      "journal": "Carpathian Journal of Earth and Environmental Sciences",
-      "source": "Carpathian Journal of Earth and Environmental Sciences",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.26471/cjees/2026/021/369",
-      "doi": "10.26471/cjees/2026/021/369",
-      "pdfUrl": "https://www.cjees.ro/actions/actionDownload.php?fileId=1758",
-      "keywords": [
-        "Surface runoff",
-        "Flash flood",
-        "Geology",
-        "Parametric statistics",
-        "Drainage basin",
-        "Landslides and related hazards",
-        "Flood Risk Assessment and Management",
-        "Soil erosion and sediment transport"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:07.251709+00:00"
+      "_retrievedAt": "2026-10-16T11:17:18.656504+00:00"
     },
     {
       "id": "openalex-b7abd719b558",
@@ -3296,11 +3296,11 @@
         "medical"
       ],
       "readTime": "1 min",
-      "citedBy": 26,
+      "citedBy": 29,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:05.411647+00:00"
+      "_retrievedAt": "2026-10-16T11:17:14.433878+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -3332,7 +3332,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.707351+00:00"
+      "_retrievedAt": "2026-10-16T11:17:17.165956+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -3360,11 +3360,11 @@
         "Genetics, Bioinformatics, and Biomedical Research"
       ],
       "readTime": "1 min",
-      "citedBy": 28,
+      "citedBy": 30,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:05.410897+00:00"
+      "_retrievedAt": "2026-10-16T11:17:14.433160+00:00"
     },
     {
       "id": "openalex-7596e664f24c",
@@ -3396,7 +3396,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.014974+00:00"
+      "_retrievedAt": "2026-10-16T11:17:15.704988+00:00"
     },
     {
       "id": "openalex-93e697e727aa",
@@ -3428,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.711284+00:00"
+      "_retrievedAt": "2026-10-16T11:17:17.170222+00:00"
     },
     {
       "id": "openalex-10ad267fea93",
@@ -3460,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.710692+00:00"
+      "_retrievedAt": "2026-10-16T11:17:17.169390+00:00"
     },
     {
       "id": "openalex-33e8cda96b3e",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.711672+00:00"
+      "_retrievedAt": "2026-10-16T11:17:17.170567+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -3520,11 +3520,11 @@
         "Topic Modeling"
       ],
       "readTime": "1 min",
-      "citedBy": 45,
+      "citedBy": 56,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:05.407887+00:00"
+      "_retrievedAt": "2026-10-16T11:17:14.431012+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -3556,7 +3556,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:05.410160+00:00"
+      "_retrievedAt": "2026-10-16T11:17:14.433539+00:00"
     },
     {
       "id": "openalex-bb50663ea11d",
@@ -3588,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:07.248577+00:00"
+      "_retrievedAt": "2026-10-16T11:17:18.657988+00:00"
     },
     {
       "id": "openalex-a29127dc905f",
@@ -3620,7 +3620,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T04:26:06.707916+00:00"
+      "_retrievedAt": "2026-10-16T11:17:17.166468+00:00"
     }
   ]
 }
