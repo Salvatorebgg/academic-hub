@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T21:03:33.525306+00:00",
+  "generatedAt": "2026-10-17T04:21:31.310280+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -7,13 +7,205 @@
   ],
   "papers": [
     {
+      "id": "rss-a272c86dd174",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Ethnic inequalities in stroke explained by differences in stroke risk factors",
+      "authors": "Medical Xpress",
+      "abstract": "Stroke risk is primarily linked to differences in traditional stroke risk factors, like diabetes and high blood pressure, rather than ethnicity, according to findings from a new south London study conducted at King's College London.",
+      "date": "2026-10-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-ethnic-inequalities-differences-factors.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "stroke",
+        "risk",
+        "differences",
+        "factors",
+        "london",
+        "ethnic",
+        "inequalities",
+        "explained"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-17T04:21:30.750478+00:00"
+    },
+    {
+      "id": "rss-809abbb1ff4f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Brain PET scans help select and monitor patients for new Alzheimer's drugs",
+      "authors": "Medical Xpress",
+      "abstract": "Nuclear medicine is playing an increasingly important role in the diagnosis and treatment of Alzheimer's disease, helping clinicians visualize the biological changes associated with the condition and guide decisions about new therapies. Amyloid PET imaging is being used to confirm the presence of amyloid pathology and support treatment decisions for patients receiving anti-amyloid drugs, while tau PET scans can provide additional information about disease progression and prognosis.",
+      "date": "2026-10-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-brain-pet-scans-patients-alzheimer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "scans",
+        "patients",
+        "alzheimer",
+        "drugs",
+        "treatment",
+        "disease",
+        "decisions",
+        "about"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-17T04:21:30.750788+00:00"
+    },
+    {
+      "id": "rss-2823d3699078",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "1990 to 2023 saw increase in global burden of acne",
+      "authors": "Medical Xpress",
+      "abstract": "The global burden of acne increased from 1990 to 2023 and is set to continue increasing through 2050, according to a study published online in JAMA Dermatology.",
+      "date": "2026-10-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-global-burden-acne.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "global",
+        "burden",
+        "acne",
+        "increase",
+        "increased",
+        "continue",
+        "increasing",
+        "according"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-17T04:21:30.751030+00:00"
+    },
+    {
+      "id": "rss-237c747de071",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Early MS treatments impact relapses and brain scarring differently, but not disability",
+      "authors": "Medical Xpress",
+      "abstract": "Therapy targeting the immune system's B cells might offer better odds against relapses in the early stages of multiple sclerosis (MS), a new study reports. People taking IV drugs that lower immune B-cell levels had a 62% lower rate of relapse than those taking pills frequently prescribed for early MS, the study team found.",
+      "date": "2026-10-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-early-ms-treatments-impact-relapses.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "early",
+        "relapses",
+        "immune",
+        "taking",
+        "lower",
+        "treatments",
+        "impact",
+        "brain"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-17T04:21:30.751291+00:00"
+    },
+    {
+      "id": "rss-76476dc2a38e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Disability burden linked to alcohol-related cirrhosis and heart failure projected to rise sharply by 2050",
+      "authors": "Medical Xpress",
+      "abstract": "The disability burden associated with alcohol-related cirrhosis complicated by heart failure is projected to rise substantially by 2050 across Central Europe, Eastern Europe and the United States (US), according to new research presented at UEG Week 2026.",
+      "date": "2026-10-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-disability-burden-linked-alcohol-cirrhosis.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "disability",
+        "burden",
+        "alcohol-related",
+        "cirrhosis",
+        "heart",
+        "failure",
+        "projected",
+        "rise"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-17T04:21:30.751530+00:00"
+    },
+    {
+      "id": "rss-3592bbf768da",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Napping linked to dementia risk",
+      "authors": "Medical Xpress",
+      "abstract": "Your napping habits might be a warning flag for dementia, a new study says.",
+      "date": "2026-10-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-napping-linked-dementia.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "napping",
+        "dementia",
+        "linked",
+        "risk",
+        "your",
+        "habits",
+        "might",
+        "warning"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-17T04:21:30.751726+00:00"
+    },
+    {
       "id": "rss-e2971fb6b9ea",
       "discipline": "clinical",
       "type": "news",
       "title": "Having insurance doesn't mean you can get a mental health appointment",
       "authors": "Medical Xpress",
       "abstract": "Americans with commercial insurance are generally told they have access to a strong network of mental health providers. But when researchers called providers listed in those networks, securing an appointment was usually difficult or impossible, according to a new study.",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.731732+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.751962+00:00"
     },
     {
       "id": "rss-145bbdf30d79",
@@ -45,7 +237,7 @@
       "title": "Genomic cancer driver study reveals new clues to why some prostate cancers become aggressive",
       "authors": "Medical Xpress",
       "abstract": "Why do some prostate cancers grow slowly for years, while others progress quickly to life-threatening metastatic disease? An international team of researchers co-led by the Ontario Institute for Cancer Research (OICR) and the University of Copenhagen has uncovered new clues in the genomes of prostate cancers.",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.731890+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.752245+00:00"
     },
     {
       "id": "rss-f37178ac1a7a",
@@ -77,7 +269,7 @@
       "title": "Menopause hormone therapy gets stronger endorsement from OB-GYNs in expanded guideline",
       "authors": "Medical Xpress",
       "abstract": "Hormone therapy should be a first choice for easing hot flashes, night sweats and the sleep problems they cause, a leading U.S. doctors' group says.",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.732020+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.752462+00:00"
     },
     {
       "id": "rss-831f9f89a6b7",
@@ -109,7 +301,7 @@
       "title": "Strong food preferences may help explain why changing eating habits is hard",
       "authors": "Medical Xpress",
       "abstract": "Learning new eating habits isn't simple. Our preexisting feelings around food—whether it's a distaste for olives or a love of pastries—could make it harder to learn new eating habits, according to new research from Yale School of Medicine.",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.732158+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.752716+00:00"
     },
     {
       "id": "rss-2e000372dccb",
@@ -141,7 +333,7 @@
       "title": "Molecular imaging demonstrates promise for predicting complete pathologic response in HER2-positive breast cancer",
       "authors": "Medical Xpress",
       "abstract": "Molecular imaging with ⁶⁸Ga-HER2 PET/CT may provide an early, targeted measure of how well treatment is working in patients with HER2-positive breast cancer.",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.732281+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.752953+00:00"
     },
     {
       "id": "rss-9301a784d8bc",
@@ -173,7 +365,7 @@
       "title": "Fueling growth, blinding immunity: The two-way amino acid trap inside tumors",
       "authors": "Medical Xpress",
       "abstract": "Tumors possess myriad mechanisms to ensure their survival even at the peril of the host. Now scientists are delving deeper into how cancer cells alter the metabolism of specific amino acids to support the malignancy's growth while simultaneously evading the antitumor activity of the host's immune system.",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.732410+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.753224+00:00"
     },
     {
       "id": "rss-ff1fba60d6bb",
@@ -205,7 +397,7 @@
       "title": "Persistent gaps remain in hearing aid coverage, especially for older and lower-income adults, study finds",
       "authors": "Medical Xpress",
       "abstract": "Despite gradual progress in insurance policies requiring hearing aid coverage, many Americans still lack guaranteed access to these essential devices, according to a new study published in JAMA Otolaryngology–Head & Neck Surgery.",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -228,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.732538+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.753470+00:00"
     },
     {
       "id": "rss-3ea558e8fb73",
@@ -237,7 +429,7 @@
       "title": "Spatial map of the lung reveals cellular mechanisms driving damage and fibrosis in severe COVID-19",
       "authors": "Medical Xpress",
       "abstract": "A lung affected by deadly forms of COVID-19 not only loses essential cells for breathing but also undergoes profound changes in its internal organization and the way its cells communicate with each other. A study involving the Sant Pau Research Institute (IR Sant Pau), published in Nature Communications, has created a spatial map of this transformation and identified some of the molecular mechanisms that accompany the progression of lung damage and fibrosis.",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -260,199 +452,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.732681+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.753743+00:00"
     },
     {
-      "id": "rss-891a29ed9ceb",
-      "discipline": "clinical",
+      "id": "rss-01d65be12715",
+      "discipline": "cs",
       "type": "news",
-      "title": "Study finds common chemicals may alter normal breast development",
-      "authors": "Medical Xpress",
-      "abstract": "Exposure to common chemicals may alter how normal human breast tissue develops, according to a new study from researchers at Tufts University School of Medicine and Boston University. The findings, published in the Proceedings of the National Academy of Sciences, suggest that exposure to some chemicals—particularly multiple bisphenols at once—may create molecular changes in breast tissue that could influence susceptibility to breast disease later in life.",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "authors": "TechCrunch AI",
+      "abstract": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
       "date": "2026-10-16",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-common-chemicals-breast.html",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "breast",
-        "chemicals",
-        "common",
-        "alter",
-        "normal",
-        "exposure",
-        "tissue",
-        "university"
+        "replit",
+        "longer",
+        "anthropic",
+        "working",
+        "says",
+        "masad",
+        "said",
+        "decision"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.732825+00:00"
-    },
-    {
-      "id": "rss-4996c06ae581",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Imaging-based modalities compared for identifying at-risk MASH",
-      "authors": "Medical Xpress",
-      "abstract": "FibroScan-aspartate aminotransferase (FAST) demonstrated the highest sensitivity for ruling out at-risk metabolic dysfunction-associated steatohepatitis (MASH), according to a study published in the October issue of the American Journal of Gastroenterology.",
-      "date": "2026-10-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-imaging-based-modalities-mash.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "at-risk",
-        "mash",
-        "imaging-based",
-        "modalities",
-        "compared",
-        "identifying",
-        "fibroscan-aspartate",
-        "aminotransferase"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.732936+00:00"
-    },
-    {
-      "id": "rss-3ed28a7a787b",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Intermittent hemodialysis not noninferior to continuous renal-replacement therapy",
-      "authors": "Medical Xpress",
-      "abstract": "Intermittent hemodialysis as an initial treatment approach is not noninferior to continuous renal-replacement therapy (CRRT) among critically ill patients with acute kidney injury (AKI) with indications for renal replacement therapy, according to a study published online Oct. 14 in the New England Journal of Medicine.",
-      "date": "2026-10-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-intermittent-hemodialysis-noninferior-renal-therapy.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "therapy",
-        "intermittent",
-        "hemodialysis",
-        "noninferior",
-        "continuous",
-        "renal-replacement",
-        "initial",
-        "treatment"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.733061+00:00"
-    },
-    {
-      "id": "rss-f9d2487eb02d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New drug-delivery method offers promise in fight against neurodegenerative diseases",
-      "authors": "Medical Xpress",
-      "abstract": "For patients battling neurodegenerative diseases like ALS, Parkinson's, Alzheimer's and other dementias, delivering disease-fighting antibody drugs directly to the brain has proven to be a difficult task. Our bodies set up tight walls to prevent infections from spreading to the brain, where they often become fatal.",
-      "date": "2026-10-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-drug-delivery-method-neurodegenerative-diseases.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "neurodegenerative",
-        "diseases",
-        "brain",
-        "drug-delivery",
-        "method",
-        "offers",
-        "promise",
-        "fight"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.733181+00:00"
-    },
-    {
-      "id": "rss-1910141b97a6",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "How psychological stress can trigger arthritis flares via an inflammatory pathway",
-      "authors": "Medical Xpress",
-      "abstract": "Psychological stress has long been associated with worsening symptoms in rheumatoid arthritis (RA). However, the underlying mechanism connecting psychological stress to the occurrence of joint inflammation has remained poorly understood. In particular, how psychological stress can trigger inflammation in joints that were previously affected, even after the disease has gone into remission, remains an important unanswered question.",
-      "date": "2026-10-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-psychological-stress-trigger-arthritis-flares.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "psychological",
-        "stress",
-        "trigger",
-        "arthritis",
-        "inflammation",
-        "flares",
-        "inflammatory",
-        "pathway"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.733353+00:00"
-    },
-    {
-      "id": "rss-d9699fe662e3",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Manchester Arena attack: Pioneering rehab program gives hope for remarkable recoveries",
-      "authors": "Medical Xpress",
-      "abstract": "Survivors of major trauma can achieve a remarkable rate of recovery when given the right support, according to a new University of Manchester–led study examining a pioneering rehabilitation program developed in response to the needs arising from the Manchester Arena bombing.",
-      "date": "2026-10-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-manchester-arena-rehab-remarkable-recoveries.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "manchester",
-        "arena",
-        "pioneering",
-        "program",
-        "remarkable",
-        "attack",
-        "rehab",
-        "gives"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.733480+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.807751+00:00"
     },
     {
       "id": "rss-e03a1eadea05",
@@ -484,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.857644+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.808003+00:00"
     },
     {
       "id": "rss-43ea4c6746a2",
@@ -516,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.857830+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.808307+00:00"
     },
     {
       "id": "rss-06d564544c89",
@@ -548,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.857959+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.808562+00:00"
     },
     {
       "id": "rss-bf06e4a2e6da",
@@ -580,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.858072+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.808755+00:00"
     },
     {
       "id": "rss-f5d034766bcd",
@@ -612,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.858145+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.808911+00:00"
     },
     {
       "id": "rss-5eab9810990f",
@@ -644,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.858232+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.809121+00:00"
     },
     {
       "id": "rss-18ea831c2cac",
@@ -676,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.858321+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.809302+00:00"
     },
     {
       "id": "rss-78c912a343b9",
@@ -708,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.858405+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.809480+00:00"
     },
     {
       "id": "rss-f2b78d63857a",
@@ -740,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.998043+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.839021+00:00"
     },
     {
       "id": "rss-f751706ffb87",
@@ -772,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.858487+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.809652+00:00"
     },
     {
       "id": "rss-96dfd09f9343",
@@ -804,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.858565+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.809813+00:00"
     },
     {
       "id": "rss-2e1bce4f8d59",
@@ -836,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.858649+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.810006+00:00"
     },
     {
       "id": "rss-66796379d3b1",
@@ -868,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.858733+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.810191+00:00"
     },
     {
       "id": "rss-5b27d08dc93d",
@@ -900,39 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.858824+00:00"
-    },
-    {
-      "id": "rss-1c1b79f90de7",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-      "authors": "TechCrunch AI",
-      "abstract": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
-      "date": "2026-10-15",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "your",
-        "founder",
-        "techcrunch",
-        "summit",
-        "october",
-        "savings",
-        "last",
-        "chance"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.858928+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.810382+00:00"
     },
     {
       "id": "rss-dfab44ee18d2",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.998151+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.839213+00:00"
     },
     {
       "id": "rss-6674f1b9a348",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.998236+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.839382+00:00"
     },
     {
       "id": "rss-4ab0a2b15569",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.998326+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.839555+00:00"
     },
     {
       "id": "rss-218219c6f48a",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.998404+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.839719+00:00"
     },
     {
       "id": "rss-d82f0f078053",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:33.292530+00:00"
+      "_retrievedAt": "2026-10-17T04:21:31.061452+00:00"
     },
     {
       "id": "rss-18545777b44e",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:33.292715+00:00"
+      "_retrievedAt": "2026-10-17T04:21:31.061824+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1156,7 +1156,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.338813+00:00"
+      "_retrievedAt": "2026-10-17T04:20:21.315430+00:00"
     },
     {
       "id": "rss-b96de90b49a5",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.998484+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.839884+00:00"
     },
     {
       "id": "rss-20f5d059a7c0",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.998554+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.840083+00:00"
     },
     {
       "id": "rss-dea80f44d99d",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.998647+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.840286+00:00"
     },
     {
       "id": "rss-9097c559200f",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:33.292838+00:00"
+      "_retrievedAt": "2026-10-17T04:21:31.062097+00:00"
     },
     {
       "id": "rss-1eb5a0ad1fdb",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.998722+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.840445+00:00"
     },
     {
       "id": "rss-0bfffe781a60",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.998799+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.840603+00:00"
     },
     {
       "id": "rss-3f43f1f3aef2",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:33.293210+00:00"
+      "_retrievedAt": "2026-10-17T04:21:31.062774+00:00"
     },
     {
       "id": "rss-0b401625ba0c",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.998881+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.840773+00:00"
     },
     {
       "id": "rss-3cbba74411c0",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.998954+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.840936+00:00"
     },
     {
       "id": "rss-2f8a4e0119ee",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.999040+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.841139+00:00"
     },
     {
       "id": "rss-c561a387f2d1",
@@ -1508,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:32.999120+00:00"
+      "_retrievedAt": "2026-10-17T04:21:30.841347+00:00"
     },
     {
       "id": "rss-5764f9ec0337",
@@ -1540,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:33.293597+00:00"
+      "_retrievedAt": "2026-10-17T04:21:31.063519+00:00"
     },
     {
       "id": "rss-23f57c26ccb3",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:33.293820+00:00"
+      "_retrievedAt": "2026-10-17T04:21:31.063947+00:00"
     },
     {
       "id": "rss-0333c77565a0",
@@ -1604,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:33.293915+00:00"
+      "_retrievedAt": "2026-10-17T04:21:31.064201+00:00"
     },
     {
       "id": "rss-a7d777e1fbd3",
@@ -1636,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:33.294169+00:00"
+      "_retrievedAt": "2026-10-17T04:21:31.064687+00:00"
     },
     {
       "id": "rss-a969e28ae72b",
@@ -1668,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:33.294485+00:00"
+      "_retrievedAt": "2026-10-17T04:21:31.065321+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:33.294668+00:00"
+      "_retrievedAt": "2026-10-17T04:21:31.065673+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1732,7 +1732,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.313361+00:00"
+      "_retrievedAt": "2026-10-17T04:20:19.763661+00:00"
     },
     {
       "id": "openalex-637c76942b6d",
@@ -1764,7 +1764,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.313680+00:00"
+      "_retrievedAt": "2026-10-17T04:20:19.764255+00:00"
     },
     {
       "id": "openalex-e987114418d8",
@@ -1796,7 +1796,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.315117+00:00"
+      "_retrievedAt": "2026-10-17T04:20:19.766865+00:00"
     },
     {
       "id": "openalex-af535c74f002",
@@ -1828,7 +1828,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.315672+00:00"
+      "_retrievedAt": "2026-10-17T04:20:19.767923+00:00"
     },
     {
       "id": "openalex-2da239523a05",
@@ -1860,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.314900+00:00"
+      "_retrievedAt": "2026-10-17T04:20:19.766479+00:00"
     },
     {
       "id": "openalex-a4d4df423646",
@@ -1892,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.315325+00:00"
+      "_retrievedAt": "2026-10-17T04:20:19.767289+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1924,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.954354+00:00"
+      "_retrievedAt": "2026-10-17T04:20:22.128484+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1956,7 +1956,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.312392+00:00"
+      "_retrievedAt": "2026-10-17T04:20:19.761897+00:00"
     },
     {
       "id": "openalex-aaaea7987db6",
@@ -1988,7 +1988,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.836351+00:00"
+      "_retrievedAt": "2026-10-17T04:20:20.605340+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2020,7 +2020,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.835818+00:00"
+      "_retrievedAt": "2026-10-17T04:20:20.604379+00:00"
     },
     {
       "id": "openalex-4bcca691e2bc",
@@ -2052,7 +2052,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.956343+00:00"
+      "_retrievedAt": "2026-10-17T04:20:22.132053+00:00"
     },
     {
       "id": "openalex-fc31c72923df",
@@ -2084,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.313873+00:00"
+      "_retrievedAt": "2026-10-17T04:20:19.764609+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -2116,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.339822+00:00"
+      "_retrievedAt": "2026-10-17T04:20:21.317604+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -2148,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.956712+00:00"
+      "_retrievedAt": "2026-10-17T04:20:22.132451+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -2180,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.837052+00:00"
+      "_retrievedAt": "2026-10-17T04:20:20.606665+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -2212,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.315499+00:00"
+      "_retrievedAt": "2026-10-17T04:20:19.767610+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -2244,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.837254+00:00"
+      "_retrievedAt": "2026-10-17T04:20:20.607058+00:00"
     },
     {
       "id": "openalex-aa0b72ab3b90",
@@ -2276,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.957168+00:00"
+      "_retrievedAt": "2026-10-17T04:20:22.132855+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2308,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.836530+00:00"
+      "_retrievedAt": "2026-10-17T04:20:20.605674+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2340,7 +2340,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.957477+00:00"
+      "_retrievedAt": "2026-10-17T04:20:22.133271+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2372,7 +2372,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.835323+00:00"
+      "_retrievedAt": "2026-10-17T04:20:20.603412+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2404,7 +2404,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.835489+00:00"
+      "_retrievedAt": "2026-10-17T04:20:20.603719+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2436,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.836199+00:00"
+      "_retrievedAt": "2026-10-17T04:20:20.605052+00:00"
     },
     {
       "id": "openalex-34f37069c1ad",
@@ -2468,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.837367+00:00"
+      "_retrievedAt": "2026-10-17T04:20:20.607279+00:00"
     },
     {
       "id": "openalex-83b919635dc2",
@@ -2500,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.339433+00:00"
+      "_retrievedAt": "2026-10-17T04:20:21.316833+00:00"
     },
     {
       "id": "openalex-c47d537bde45",
@@ -2532,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.340033+00:00"
+      "_retrievedAt": "2026-10-17T04:20:21.317993+00:00"
     },
     {
       "id": "openalex-7a85bfe0ead2",
@@ -2564,7 +2564,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.957826+00:00"
+      "_retrievedAt": "2026-10-17T04:20:22.133632+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2596,7 +2596,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.954829+00:00"
+      "_retrievedAt": "2026-10-17T04:20:22.129331+00:00"
     },
     {
       "id": "openalex-cc20596fdff7",
@@ -2628,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.837539+00:00"
+      "_retrievedAt": "2026-10-17T04:20:20.607605+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2660,7 +2660,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.955039+00:00"
+      "_retrievedAt": "2026-10-17T04:20:22.129694+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2692,7 +2692,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.313137+00:00"
+      "_retrievedAt": "2026-10-17T04:20:19.763263+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2724,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.339637+00:00"
+      "_retrievedAt": "2026-10-17T04:20:21.317253+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2756,7 +2756,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.835636+00:00"
+      "_retrievedAt": "2026-10-17T04:20:20.604029+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -2788,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.340223+00:00"
+      "_retrievedAt": "2026-10-17T04:20:21.318353+00:00"
     },
     {
       "id": "openalex-100e88f28593",
@@ -2820,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.340466+00:00"
+      "_retrievedAt": "2026-10-17T04:20:21.318787+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2852,7 +2852,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.312693+00:00"
+      "_retrievedAt": "2026-10-17T04:20:19.762472+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2884,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.836689+00:00"
+      "_retrievedAt": "2026-10-17T04:20:20.605991+00:00"
     },
     {
       "id": "openalex-814a31d1960d",
@@ -2916,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.958234+00:00"
+      "_retrievedAt": "2026-10-17T04:20:22.134035+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -2948,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.958483+00:00"
+      "_retrievedAt": "2026-10-17T04:20:22.134353+00:00"
     },
     {
       "id": "openalex-b4945be66b52",
@@ -2980,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.837678+00:00"
+      "_retrievedAt": "2026-10-17T04:20:20.607868+00:00"
     },
     {
       "id": "openalex-d1f5fac033f2",
@@ -3012,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.958783+00:00"
+      "_retrievedAt": "2026-10-17T04:20:22.134747+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3044,7 +3044,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.338491+00:00"
+      "_retrievedAt": "2026-10-17T04:20:21.314828+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3076,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.955658+00:00"
+      "_retrievedAt": "2026-10-17T04:20:22.130868+00:00"
     },
     {
       "id": "openalex-6068978c624a",
@@ -3108,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.340898+00:00"
+      "_retrievedAt": "2026-10-17T04:20:21.319632+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -3140,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.955868+00:00"
+      "_retrievedAt": "2026-10-17T04:20:22.131279+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -3172,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.955437+00:00"
+      "_retrievedAt": "2026-10-17T04:20:22.130454+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -3204,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.836872+00:00"
+      "_retrievedAt": "2026-10-17T04:20:20.606340+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -3236,7 +3236,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.314065+00:00"
+      "_retrievedAt": "2026-10-17T04:20:19.764934+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -3268,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.955232+00:00"
+      "_retrievedAt": "2026-10-17T04:20:22.130069+00:00"
     },
     {
       "id": "openalex-b7abd719b558",
@@ -3300,7 +3300,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.314670+00:00"
+      "_retrievedAt": "2026-10-17T04:20:19.766056+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -3332,7 +3332,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.338692+00:00"
+      "_retrievedAt": "2026-10-17T04:20:21.315210+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -3364,7 +3364,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.314239+00:00"
+      "_retrievedAt": "2026-10-17T04:20:19.765268+00:00"
     },
     {
       "id": "openalex-7596e664f24c",
@@ -3396,7 +3396,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.835969+00:00"
+      "_retrievedAt": "2026-10-17T04:20:20.604664+00:00"
     },
     {
       "id": "openalex-93e697e727aa",
@@ -3428,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.341215+00:00"
+      "_retrievedAt": "2026-10-17T04:20:21.320234+00:00"
     },
     {
       "id": "openalex-10ad267fea93",
@@ -3460,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.340724+00:00"
+      "_retrievedAt": "2026-10-17T04:20:21.319297+00:00"
     },
     {
       "id": "openalex-33e8cda96b3e",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.341414+00:00"
+      "_retrievedAt": "2026-10-17T04:20:21.320626+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -3524,7 +3524,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.312896+00:00"
+      "_retrievedAt": "2026-10-17T04:20:19.762822+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -3556,7 +3556,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:23.314472+00:00"
+      "_retrievedAt": "2026-10-17T04:20:19.765684+00:00"
     },
     {
       "id": "openalex-bb50663ea11d",
@@ -3588,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.956143+00:00"
+      "_retrievedAt": "2026-10-17T04:20:22.131715+00:00"
     },
     {
       "id": "openalex-a29127dc905f",
@@ -3620,7 +3620,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-16T21:03:24.339011+00:00"
+      "_retrievedAt": "2026-10-17T04:20:21.315763+00:00"
     }
   ]
 }
