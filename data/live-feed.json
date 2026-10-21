@@ -1,11 +1,235 @@
 {
-  "generatedAt": "2026-10-21T04:40:45.387497+00:00",
+  "generatedAt": "2026-10-21T11:42:39.823043+00:00",
   "total": 112,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-1639aea4294f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "How symptoms guide surgery decisions for people with thickened heart muscle",
+      "authors": "Medical Xpress",
+      "abstract": "Hearing that someone you love may need heart surgery can be scary, especially when you're also trying to understand an unfamiliar heart condition. In hypertrophic cardiomyopathy, or HCM, treatment usually starts with medication. However, for some people, surgery becomes the best option when symptoms continue despite medical therapy, explains Joseph Dearani, M.D., a cardiovascular surgeon at Mayo Clinic in Minnesota.",
+      "date": "2026-10-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-symptoms-surgery-decisions-people-thickened.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "surgery",
+        "heart",
+        "symptoms",
+        "people",
+        "when",
+        "guide",
+        "decisions",
+        "thickened"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-21T11:42:39.464735+00:00"
+    },
+    {
+      "id": "rss-23ec61f199a5",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Brazilian biobank may help personalize cancer prevention in the public health system",
+      "authors": "Medical Xpress",
+      "abstract": "A bank of biological samples from thousands of Brazilians could help the Unified Health System (SUS), which is public and free, identify people at higher risk of developing certain types of cancer. In the future, the SUS could offer these individuals more personalized prevention and screening strategies.",
+      "date": "2026-10-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-brazilian-biobank-personalize-cancer-health.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "help",
+        "cancer",
+        "prevention",
+        "public",
+        "health",
+        "system",
+        "could",
+        "brazilian"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-21T11:42:39.465038+00:00"
+    },
+    {
+      "id": "rss-3cbdc064ea96",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Substance use disorder recovery, remission linked with genetic, psychosocial factors",
+      "authors": "Medical Xpress",
+      "abstract": "A new study by researchers at the University of Illinois Urbana-Champaign highlights the importance of considering both psychosocial and genetic factors in patients' prognoses and intervention planning in their recovery from substance use disorders.",
+      "date": "2026-10-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-substance-disorder-recovery-remission-linked.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "substance",
+        "recovery",
+        "genetic",
+        "psychosocial",
+        "factors",
+        "disorder",
+        "remission",
+        "linked"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-21T11:42:39.465287+00:00"
+    },
+    {
+      "id": "rss-a3c7d042c1d1",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "How the US organ transplant system works and what to ask to improve your chances",
+      "authors": "Medical Xpress",
+      "abstract": "It's not always patience and luck that get patients off the organ transplant waiting list and into the operating room.",
+      "date": "2026-10-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-transplant-chances.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "organ",
+        "transplant",
+        "system",
+        "works",
+        "what",
+        "improve",
+        "your",
+        "chances"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-21T11:42:39.465558+00:00"
+    },
+    {
+      "id": "rss-bb308f5795d0",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Do women with postpartum psychosis receive adequate medical care?",
+      "authors": "Medical Xpress",
+      "abstract": "Women with postpartum psychosis are making repeated pleas for help before receiving a diagnosis, with the first Australian study of their help-seeking experiences finding that participants contacted health services a median of seven times before getting the care they needed.",
+      "date": "2026-10-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-women-postpartum-psychosis-adequate-medical.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "women",
+        "postpartum",
+        "psychosis",
+        "care",
+        "before",
+        "receive",
+        "adequate",
+        "medical"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-21T11:42:39.465810+00:00"
+    },
+    {
+      "id": "rss-34bb8d9b515b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "How hurricanes affect hospitalizations and deaths among older adults using electricity-dependent medical devices",
+      "authors": "Medical Xpress",
+      "abstract": "New research in the Journal of the American Geriatrics Society indicates that older adults who rely on electricity-dependent medical devices—such as ventilators, respirators and dialysis machines—may face substantial health risks during and after hurricanes, especially in communities experiencing severe flooding.",
+      "date": "2026-10-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-hurricanes-affect-hospitalizations-deaths-older.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "hurricanes",
+        "older",
+        "adults",
+        "electricity-dependent",
+        "medical",
+        "devices",
+        "affect",
+        "hospitalizations"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-21T11:42:39.466094+00:00"
+    },
+    {
+      "id": "rss-6928f1c2197a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Can drinking tea help protect against cardiovascular disease?",
+      "authors": "Medical Xpress",
+      "abstract": "In a Journal of Internal Medicine study, people who drank tea had a lower risk of vascular disease than non-tea drinkers.",
+      "date": "2026-10-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-tea-cardiovascular-disease.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "disease",
+        "drinking",
+        "help",
+        "protect",
+        "against",
+        "cardiovascular",
+        "journal",
+        "internal"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-21T11:42:39.466310+00:00"
+    },
     {
       "id": "rss-8f620cc4af8c",
       "discipline": "clinical",
@@ -36,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.888673+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.466638+00:00"
     },
     {
       "id": "rss-2424a08a0440",
@@ -68,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.888897+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.466879+00:00"
     },
     {
       "id": "rss-3228b5cb6c48",
@@ -100,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.889079+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.467096+00:00"
     },
     {
       "id": "rss-596f692970ea",
@@ -132,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.889279+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.467345+00:00"
     },
     {
       "id": "rss-850a95a0fba8",
@@ -164,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.889484+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.467643+00:00"
     },
     {
       "id": "rss-33ae53563eb0",
@@ -196,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.889666+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.467864+00:00"
     },
     {
       "id": "rss-235d619d1f01",
@@ -228,231 +452,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.889877+00:00"
-    },
-    {
-      "id": "rss-e55265a4b3fc",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Five at-home strength moves that can make everyday tasks easier",
-      "authors": "Medical Xpress",
-      "abstract": "If you've ever needed two trips to get the groceries in from the car or felt winded after a flight of stairs, you've already seen why everyday strength matters. That's where functional strength training comes in. Instead of isolating a single muscle the way a biceps curl does, functional moves work several joints and muscle groups together, the same way your body moves in daily life, according to the Cleveland Clinic.",
-      "date": "2026-10-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-home-strength-everyday-tasks-easier.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "strength",
-        "moves",
-        "that",
-        "everyday",
-        "functional",
-        "muscle",
-        "five",
-        "at-home"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.890111+00:00"
-    },
-    {
-      "id": "rss-f0f6c12576be",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Would subsidizing weight-loss drugs make health care fairer?",
-      "authors": "Medical Xpress",
-      "abstract": "GLP-1 medicines such as Ozempic, Wegovy and Mounjaro have transformed the treatment of obesity, but access to them in Australia increasingly depends on something much less medical: whether you can afford them.",
-      "date": "2026-10-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-subsidizing-weight-loss-drugs-health.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "them",
-        "would",
-        "subsidizing",
-        "weight-loss",
-        "drugs",
-        "make",
-        "health",
-        "care"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.890293+00:00"
-    },
-    {
-      "id": "rss-10b84e7c459d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Fitness tracker data could offer clues about future brain health",
-      "authors": "Medical Xpress",
-      "abstract": "Adults who averaged fewer than 5,000 steps a day were later diagnosed with dementia, Parkinson's disease or stroke at almost twice the rate of those averaging more than 12,000 steps, according to a new study presented at the 151st Annual Meeting of the American Neurological Association (ANA).",
-      "date": "2026-10-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-tracker-clues-future-brain-health.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "than",
-        "steps",
-        "fitness",
-        "tracker",
-        "could",
-        "offer",
-        "clues",
-        "about"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.890491+00:00"
-    },
-    {
-      "id": "rss-15e3a53ee157",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Researchers warn of growing threats to sleep health across Europe",
-      "authors": "Medical Xpress",
-      "abstract": "A new paper from the Equality, Diversity and Inclusion Committee and the Early Career Network of the European Sleep Research Society warns that sleep health is becoming a growing public health challenge across Europe and is calling for coordinated action to protect it.",
-      "date": "2026-10-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-threats-health-europe.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "sleep",
-        "health",
-        "growing",
-        "across",
-        "europe",
-        "researchers",
-        "warn",
-        "threats"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.890696+00:00"
-    },
-    {
-      "id": "rss-44c4fc9801e9",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Nearly 1.6 million pounds of hot dogs, bacon and deli meats recalled after cooler failure",
-      "authors": "Medical Xpress",
-      "abstract": "Nearly 1.6 million pounds (726,000 kilograms) of hot dogs, bacon, deli meats and sausages are being recalled because they may have gotten too warm while in storage.",
-      "date": "2026-10-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-million-pounds-hot-dogs-bacon.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nearly",
-        "million",
-        "pounds",
-        "dogs",
-        "bacon",
-        "deli",
-        "meats",
-        "recalled"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.890877+00:00"
-    },
-    {
-      "id": "rss-de866bad7144",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New platform unites polycystic kidney disease data for near-real-time analysis",
-      "authors": "Medical Xpress",
-      "abstract": "The medical sector generates vast amounts of valuable data. However, this information is often stored in different systems and is only analyzed in isolated instances for research projects. The opportunity to pool data for the purpose of improving patient care and research is often overlooked.",
-      "date": "2026-10-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-platform-polycystic-kidney-disease-real.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "often",
-        "platform",
-        "unites",
-        "polycystic",
-        "kidney",
-        "disease",
-        "near-real-time",
-        "medical"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.891070+00:00"
-    },
-    {
-      "id": "rss-c6d4b2860b58",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Measuring Parkinson's motor symptoms more objectively with 3D movement tracking",
-      "authors": "Medical Xpress",
-      "abstract": "When clinicians evaluate someone with Parkinson's disease, they typically ask patients to perform a series of movements, like making a fist, rotating their forearms or walking across a room. They'll then assign a score from 0, indicating normal movement, to 4, indicating severe impairment.",
-      "date": "2026-10-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-parkinson-motor-symptoms-3d-movement.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "parkinson",
-        "movement",
-        "they",
-        "indicating",
-        "measuring",
-        "motor",
-        "symptoms",
-        "more"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.891269+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.468110+00:00"
     },
     {
       "id": "rss-6ea969afc7fd",
@@ -460,7 +460,7 @@
       "type": "news",
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "authors": "TechCrunch AI",
-      "abstract": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "abstract": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "date": "2026-10-20",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -484,7 +484,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.982056+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.495674+00:00"
     },
     {
       "id": "rss-021caa8bddc5",
@@ -492,7 +492,7 @@
       "type": "news",
       "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
       "authors": "TechCrunch AI",
-      "abstract": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "abstract": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
       "date": "2026-10-20",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -516,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.982282+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.496071+00:00"
     },
     {
       "id": "rss-72533e59047a",
@@ -548,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.982441+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.496328+00:00"
     },
     {
       "id": "rss-209dca2b72f1",
@@ -580,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.982572+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.496563+00:00"
     },
     {
       "id": "rss-83e3351f34e8",
@@ -612,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.982767+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.496837+00:00"
     },
     {
       "id": "rss-57bb0c8df747",
@@ -644,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.982915+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.497073+00:00"
     },
     {
       "id": "rss-c4fde5a71560",
@@ -676,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.983066+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.497287+00:00"
     },
     {
       "id": "rss-91fdd463db31",
@@ -708,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.983190+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.497484+00:00"
     },
     {
       "id": "rss-895f7c53f242",
@@ -740,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.983321+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.497669+00:00"
     },
     {
       "id": "rss-5bfd90dc025c",
@@ -772,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.983454+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.497852+00:00"
     },
     {
       "id": "rss-e795f5a1bc67",
@@ -804,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.983589+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.498040+00:00"
     },
     {
       "id": "rss-cb41afd7f1e1",
@@ -836,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.983725+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.498200+00:00"
     },
     {
       "id": "rss-b9ae2e3ba31b",
@@ -868,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.983879+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.498415+00:00"
     },
     {
       "id": "rss-0e2941d9b667",
@@ -900,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:44.984015+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.498600+00:00"
     },
     {
       "id": "rss-69ba6379887b",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.029136+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.535905+00:00"
     },
     {
       "id": "rss-0e793fcfa72e",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.029302+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.536112+00:00"
     },
     {
       "id": "rss-f2b78d63857a",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.029444+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.536302+00:00"
     },
     {
       "id": "rss-dfab44ee18d2",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.029583+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.536520+00:00"
     },
     {
       "id": "rss-6674f1b9a348",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.029766+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.536704+00:00"
     },
     {
       "id": "rss-4ab0a2b15569",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.029905+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.536896+00:00"
     },
     {
       "id": "rss-218219c6f48a",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.030023+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.537069+00:00"
     },
     {
       "id": "rss-d82f0f078053",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.166573+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.695003+00:00"
     },
     {
       "id": "rss-18545777b44e",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.166894+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.695432+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1220,7 +1220,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.996550+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.747624+00:00"
     },
     {
       "id": "rss-b96de90b49a5",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.030150+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.537248+00:00"
     },
     {
       "id": "rss-20f5d059a7c0",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.030256+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.537422+00:00"
     },
     {
       "id": "rss-dea80f44d99d",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.030399+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.537631+00:00"
     },
     {
       "id": "rss-9097c559200f",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.167094+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.695708+00:00"
     },
     {
       "id": "rss-1eb5a0ad1fdb",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.030517+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.537799+00:00"
     },
     {
       "id": "rss-0bfffe781a60",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.030637+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.537967+00:00"
     },
     {
       "id": "rss-3f43f1f3aef2",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.167678+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.696417+00:00"
     },
     {
       "id": "rss-0b401625ba0c",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.030810+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.538150+00:00"
     },
     {
       "id": "rss-3cbba74411c0",
@@ -1508,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.030927+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.538314+00:00"
     },
     {
       "id": "rss-5764f9ec0337",
@@ -1540,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.168302+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.697158+00:00"
     },
     {
       "id": "rss-23f57c26ccb3",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.168687+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.697656+00:00"
     },
     {
       "id": "rss-0333c77565a0",
@@ -1604,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.168852+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.697854+00:00"
     },
     {
       "id": "rss-a7d777e1fbd3",
@@ -1636,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.169259+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.698347+00:00"
     },
     {
       "id": "rss-a969e28ae72b",
@@ -1668,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.169793+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.698998+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:45.170099+00:00"
+      "_retrievedAt": "2026-10-21T11:42:39.699356+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1732,7 +1732,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:37.473308+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.120072+00:00"
     },
     {
       "id": "openalex-637c76942b6d",
@@ -1764,7 +1764,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:37.473870+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.120685+00:00"
     },
     {
       "id": "openalex-e987114418d8",
@@ -1796,7 +1796,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:37.476292+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.123351+00:00"
     },
     {
       "id": "openalex-2da239523a05",
@@ -1828,7 +1828,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:37.475943+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.122965+00:00"
     },
     {
       "id": "openalex-a4d4df423646",
@@ -1860,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:37.476660+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.123774+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1892,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.616190+00:00"
+      "_retrievedAt": "2026-10-21T11:42:36.013481+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1924,7 +1924,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:37.470949+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.118340+00:00"
     },
     {
       "id": "openalex-aaaea7987db6",
@@ -1956,39 +1956,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.178437+00:00"
-    },
-    {
-      "id": "openalex-c69b357edb85",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Turkish Journal of Osteoporosis",
-      "authors": "OpenAlex indexed authors",
-      "abstract": "Türk Osteoporoz Dergisi, osteoporoz ve metabolik kemik hastalıkları alanında açık erişim, bilimsel, çift taraflı kör hakemli bir dergidir. Yazarlarından başvuru, değerlendirme ve yayın sürecinde herhangi bir ücret talep edilmemektedir. Türkiye Osteoporoz Derneği resmi yayını olup, Nisan, Ağustos ve Aralık aylarında olmak üzere yılda 3 sayı çıkar.",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "Turkish Journal of Osteoporosis",
-      "source": "Turkish Journal of Osteoporosis",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.4274/tod",
-      "doi": "10.4274/tod",
-      "pdfUrl": "https://doi.org/10.4274/tod",
-      "keywords": [
-        "Turkish",
-        "Osteoporosis",
-        "Medicine",
-        "Internal medicine",
-        "Philosophy",
-        "osteoporoz",
-        "turkish",
-        "journal"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.000682+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.407761+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2020,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.177603+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.406743+00:00"
     },
     {
       "id": "openalex-4bcca691e2bc",
@@ -2052,7 +2020,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.619423+00:00"
+      "_retrievedAt": "2026-10-21T11:42:36.017454+00:00"
     },
     {
       "id": "openalex-fc31c72923df",
@@ -2084,7 +2052,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:37.474498+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.121381+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -2116,7 +2084,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.998199+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.750020+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -2148,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.619782+00:00"
+      "_retrievedAt": "2026-10-21T11:42:36.017861+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -2180,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.179560+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.409473+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -2212,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:37.476966+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.124109+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -2244,7 +2212,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.179906+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.409863+00:00"
     },
     {
       "id": "openalex-aa0b72ab3b90",
@@ -2276,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.620140+00:00"
+      "_retrievedAt": "2026-10-21T11:42:36.018266+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2308,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.178731+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.408114+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2340,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.620457+00:00"
+      "_retrievedAt": "2026-10-21T11:42:36.018667+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2372,7 +2340,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:37.477235+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.124483+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2404,7 +2372,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.176793+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.405714+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2436,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.178194+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.407463+00:00"
     },
     {
       "id": "openalex-34f37069c1ad",
@@ -2468,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.180094+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.410087+00:00"
     },
     {
       "id": "openalex-c47d537bde45",
@@ -2500,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.996879+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.748015+00:00"
     },
     {
       "id": "openalex-83b919635dc2",
@@ -2532,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.997541+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.748834+00:00"
     },
     {
       "id": "openalex-7a85bfe0ead2",
@@ -2564,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.620770+00:00"
+      "_retrievedAt": "2026-10-21T11:42:36.019032+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2596,7 +2564,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.617014+00:00"
+      "_retrievedAt": "2026-10-21T11:42:36.014524+00:00"
     },
     {
       "id": "openalex-cc20596fdff7",
@@ -2628,7 +2596,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.180382+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.410438+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2660,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.617346+00:00"
+      "_retrievedAt": "2026-10-21T11:42:36.014930+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2692,7 +2660,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:37.472868+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.119661+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2724,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.997886+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.749222+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2756,7 +2724,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.177306+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.406321+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -2784,11 +2752,11 @@
         "Prostate Cancer Treatment and Research"
       ],
       "readTime": "1 min",
-      "citedBy": 7,
+      "citedBy": 8,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.998517+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.749646+00:00"
     },
     {
       "id": "openalex-100e88f28593",
@@ -2820,7 +2788,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.998937+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.750507+00:00"
+    },
+    {
+      "id": "openalex-1b0263729043",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Personalized cancer vaccines: bridging immune-oncology and precision medicine for advanced therapeutics",
+      "authors": "Leiguang Ye, Guo Zhao, Jiaxiu Ma, Qianqian Gan, Na Luo, Dingyu Pan",
+      "abstract": "Despite advancements in therapeutic cancer vaccines, clinical translation has been hindered by limited efficacy, with Sipuleucel-T remaining the only FDA-approved therapeutic cancer vaccine to date. However, recent advances in personalized mRNA vaccines, such as Moderna's mRNA-4157 and BioNTech's autogene cevumeran, have demonstrated significant reductions in recurrence risk and improved survival across several cancer types, renewing optimism in the field. Personalized cancer vaccines leverage patient-specific tumor antigens to initiate potent and targeted immune responses. This review outlines various classes of personalized vaccines, including DNA-, mRNA-, peptide-, dendritic cell-, and whole-cell-based platforms, and examines the immunological challenges they face, such as tumor heterogeneity, immunosuppressive microenvironments, and inadequate immune memory. To address these limit...",
+      "date": "2026-07-21",
+      "year": 2026,
+      "journal": "Signal Transduction and Targeted Therapy",
+      "source": "Signal Transduction and Targeted Therapy",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41392-026-02769-3",
+      "doi": "10.1038/s41392-026-02769-3",
+      "pdfUrl": "https://www.nature.com/articles/s41392-026-02769-3.pdf",
+      "keywords": [
+        "Precision medicine",
+        "Bridging (networking)",
+        "Medicine",
+        "Personalized medicine",
+        "Precision oncology",
+        "Immunotherapy and Immune Responses",
+        "Cancer Immunotherapy and Biomarkers",
+        "Cancer Research and Treatments"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-21T11:42:35.751808+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2852,7 +2852,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:37.471626+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.118855+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2884,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.178992+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.408455+00:00"
     },
     {
       "id": "openalex-814a31d1960d",
@@ -2916,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.621095+00:00"
+      "_retrievedAt": "2026-10-21T11:42:36.019440+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -2948,39 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.621347+00:00"
-    },
-    {
-      "id": "openalex-b4945be66b52",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Structure and evolution-guided design of minimal RNA-guided nucleases",
-      "authors": "Petr Skopintsev, Isabel Esain-Garcia, Evan C. DeTurk, Peter H. Yoon, Zehan Zhou, Trevor J. Weiss",
-      "abstract": "The design of RNA-guided nucleases with properties not limited by evolution can expand programmable genome-editing capabilities. However, generating diverse multidomain proteins with robust enzymatic properties remains challenging. Here, we use a protein design strategy that couples a structure-guided inverse-folding model with evolution-informed residue constraints to generate active, divergent variants of TnpB, a minimal CRISPR-Cas12-like nuclease, termed SynTnpBs. High-throughput screening of artificial intelligence-generated variants yielded editors that retained or exceeded wild-type activity in bacterial, plant, and human cells. Cryo-electron microscopy-based structure determination of the most divergent variant revealed stabilizing contacts in the RNA-DNA interfaces across conformations, demonstrating the design potential of this approach. Together, these results establish a st...",
-      "date": "2026-07-16",
-      "year": 2026,
-      "journal": "Science",
-      "source": "Science",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1126/science.aed6123",
-      "doi": "10.1126/science.aed6123",
-      "pdfUrl": "https://doi.org/10.1126/science.aed6123",
-      "keywords": [
-        "Nucleic acid",
-        "Computer science",
-        "DNA",
-        "Chemistry",
-        "Computational biology",
-        "CRISPR and Genetic Engineering",
-        "Protein Structure and Dynamics",
-        "RNA regulation and disease"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.180607+00:00"
+      "_retrievedAt": "2026-10-21T11:42:36.019761+00:00"
     },
     {
       "id": "openalex-d1f5fac033f2",
@@ -3012,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.621705+00:00"
+      "_retrievedAt": "2026-10-21T11:42:36.020192+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3044,7 +3012,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.996048+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.746971+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3076,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.618064+00:00"
+      "_retrievedAt": "2026-10-21T11:42:36.015801+00:00"
     },
     {
       "id": "openalex-6068978c624a",
@@ -3108,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.000016+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.752155+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -3140,7 +3108,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.618768+00:00"
+      "_retrievedAt": "2026-10-21T11:42:36.016655+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -3172,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.618406+00:00"
+      "_retrievedAt": "2026-10-21T11:42:36.016199+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -3204,7 +3172,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.179300+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.408816+00:00"
+    },
+    {
+      "id": "openalex-b7572a22400b",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "The cGAS–STING pathway in tumor immunity: dual roles, regulatory mechanisms, and precision therapeutic strategies",
+      "authors": "H B Jiang, Zhanzhan Li, X X Li, Lulu Yu, Jiacheng Sun, Yuntian Shen",
+      "abstract": "The cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) pathway, the core DNA-sensing mechanism in innate immunity, plays a pivotal role in linking tumorigenesis and the immune response. This review systematically elucidates the molecular activation mechanisms of this pathway and its complex regulatory networks within tumors, with a particular focus on analyzing its dual functions-tumor immune surveillance versus tumor promotion-and the determining factors involved. Current research indicates that acute activation of the cGAS-STING pathway potently suppresses tumors by inducing type I interferon responses, thereby promoting dendritic cell (DC) maturation and cytotoxic T lymphocyte infiltration. However, its chronic, persistent activation can paradoxically accelerate tumor progression and immune evasion by remodeling the immunosuppressive tumor microenvironment (TME),...",
+      "date": "2026-07-08",
+      "year": 2026,
+      "journal": "Frontiers in Pharmacology",
+      "source": "Frontiers in Pharmacology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/fphar.2026.1844637",
+      "doi": "10.3389/fphar.2026.1844637",
+      "pdfUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1844637/pdf",
+      "keywords": [
+        "Tumor microenvironment",
+        "Immunotherapy",
+        "Cancer research",
+        "Immune system",
+        "Epigenetics",
+        "interferon and immune responses",
+        "Cancer Immunotherapy and Biomarkers",
+        "Immunotherapy and Immune Responses"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-21T11:42:35.752573+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -3236,7 +3236,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:37.474824+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.121718+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -3268,7 +3268,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.617685+00:00"
+      "_retrievedAt": "2026-10-21T11:42:36.015324+00:00"
     },
     {
       "id": "openalex-b7abd719b558",
@@ -3300,7 +3300,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:37.475145+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.122075+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -3332,7 +3332,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.996365+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.747350+00:00"
+    },
+    {
+      "id": "openalex-f831f0b2712b",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Breeding drought-tolerant crops for sustainable agriculture",
+      "authors": "Ali Raza, Sidra Charagh, Kadambot H. M. Siddique, C. S. Prakash, P. V. Vara Prasad, R.J. Harper",
+      "abstract": "With the escalating impacts of climate change, drought stress (DS) is significantly decreasing water accessibility and availability, causing substantial direct and indirect economic repercussions within agricultural systems. Addressing the needs of a growing global population necessitates urgent advancements in breeding DS-tolerant crops while maintaining high yields. This urgency demands a fast and adaptable defensive strategy to mitigate the adverse effects of DS on crop productivity. Accelerating such developments requires leveraging advanced omics-assisted breeding (e.g., genomics, transcriptomics, proteomics, and metabolomics), genetic engineering (e.g., transgenic technology, and genome editing), machine learning, precise phenotyping, crop wild relatives, and speed breeding. These fast-forward methods present highly promising avenues for the design of future crops that can withs...",
+      "date": "2026-07-02",
+      "year": 2026,
+      "journal": "Agriculture & Food Security",
+      "source": "Agriculture & Food Security",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1186/s40066-025-00587-4",
+      "doi": "10.1186/s40066-025-00587-4",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s40066-025-00587-4.pdf",
+      "keywords": [
+        "Agriculture",
+        "Sustainable agriculture",
+        "Agroforestry",
+        "Sustainability",
+        "Business",
+        "Plant Stress Responses and Tolerance",
+        "Genetics and Plant Breeding",
+        "Agricultural Productivity and Crop Improvement"
+      ],
+      "readTime": "1 min",
+      "citedBy": 7,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-21T11:42:35.409143+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -3364,7 +3396,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:37.474172+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.121008+00:00"
     },
     {
       "id": "openalex-7596e664f24c",
@@ -3396,39 +3428,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.177870+00:00"
-    },
-    {
-      "id": "openalex-93e697e727aa",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Robotic versus Open Pancreatoduodenectomy (PORTAL): multicentre, single masked, phase 3, non-inferiority randomised controlled trial",
-      "authors": "Jiabin Jin, Kai Qin, Georgios Gemenetzis, Zheng Wang, Chenxi Zheng, Wenhua Li",
-      "abstract": "Abstract Objective To determine whether robotic pancreatoduodenectomy (RPD) is non-inferior to open pancreatoduodenectomy (OPD) in terms of postoperative functional recovery, without compromising safety or oncological quality. Design Multicentre, single masked, phase 3, non-inferiority randomised controlled trial. Setting Seven tertiary high volume pancreatic centres in China, 15 June 2020 to 28 November 2024. Participants 268 adults with resectable pancreatic or periampullary disease. Interventions Participants were randomised to receive standardised RPD (n=142) or OPD (n=126), with enhanced recovery pathways. Main outcome measures The primary outcome was time from surgery to postoperative functional recovery, defined as adequate pain control without parenteral analgesia, ≥50% oral intake without intravenous fluids, independent mobilisation, and absence of active intra-abdominal infe...",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "BMJ",
-      "source": "BMJ",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1136/bmj-2026-319692",
-      "doi": "10.1136/bmj-2026-319692",
-      "pdfUrl": "https://doi.org/10.1136/bmj-2026-319692",
-      "keywords": [
-        "Medicine",
-        "Randomized controlled trial",
-        "Surgery",
-        "Confidence interval",
-        "Pancreaticoduodenectomy",
-        "Pancreatic and Hepatic Oncology Research",
-        "Enhanced Recovery After Surgery",
-        "Minimally Invasive Surgical Techniques"
-      ],
-      "readTime": "2 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.000532+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.407046+00:00"
     },
     {
       "id": "openalex-10ad267fea93",
@@ -3460,7 +3460,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.999367+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.751002+00:00"
     },
     {
       "id": "openalex-33e8cda96b3e",
@@ -3492,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:38.999720+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.751416+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -3524,7 +3524,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:37.472202+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.119230+00:00"
     },
     {
       "id": "openalex-a7c159f1f11b",
@@ -3556,7 +3556,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:37.475521+00:00"
+      "_retrievedAt": "2026-10-21T11:42:35.122529+00:00"
     },
     {
       "id": "openalex-bb50663ea11d",
@@ -3588,7 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T04:40:39.619149+00:00"
+      "_retrievedAt": "2026-10-21T11:42:36.017103+00:00"
     }
   ]
 }
