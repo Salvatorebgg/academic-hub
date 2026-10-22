@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-10-21T21:38:21.772459+00:00",
+  "generatedAt": "2026-10-22T04:38:06.371992+00:00",
   "total": 112,
   "sources": [
     "RSS",
@@ -7,13 +7,333 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
+      "id": "rss-8f19894fdf62",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "FDA patient, consumer reps often tied to pharma-funded groups",
+      "authors": "Medical Xpress",
+      "abstract": "Patient and consumer representatives advising U.S. Food and Drug Administration (FDA) expert panels might actually be a Trojan horse for the pharmaceutical industry, a new study says.",
+      "date": "2026-10-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-fda-patient-consumer-reps-pharma.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "patient",
+        "consumer",
+        "reps",
+        "often",
+        "tied",
+        "pharma-funded",
+        "groups",
+        "representatives"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-22T04:38:05.635275+00:00"
+    },
+    {
+      "id": "rss-934d2e1458f5",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Canada's youngest generation is off to a healthy start, but screen time is a challenge",
+      "authors": "Medical Xpress",
+      "abstract": "Canada's youngest generation is off to a good start for being physically active, but there's also room to grow, according to a first-ever national assessment focused on children under age 5, led by a University of Alberta researcher.",
+      "date": "2026-10-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-canada-youngest-generation-healthy-screen.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "canada",
+        "youngest",
+        "generation",
+        "start",
+        "healthy",
+        "screen",
+        "time",
+        "challenge"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-22T04:38:05.635462+00:00"
+    },
+    {
+      "id": "rss-7afbdaf5cd13",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "AAO: Sequential nonarteritic anterior ischemic optic neuropathy occurs earlier with GLP-1 receptor agonist exposure",
+      "authors": "Medical Xpress",
+      "abstract": "For patients with nonarteritic anterior ischemic optic neuropathy (NAION), glucagon-like peptide-1 (GLP-1) receptor agonist exposure is associated with earlier sequential NAION, according to a study presented at the annual meeting of the American Academy of Ophthalmology, held Oct. 9 to 12 in New Orleans.",
+      "date": "2026-10-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-aao-sequential-nonarteritic-anterior-ischemic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "sequential",
+        "nonarteritic",
+        "anterior",
+        "ischemic",
+        "optic",
+        "neuropathy",
+        "earlier",
+        "glp-"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-22T04:38:05.635613+00:00"
+    },
+    {
+      "id": "rss-5bf05e5e43eb",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Eye tracking could help virtual reality pain therapy adapt to individual needs",
+      "authors": "Medical Xpress",
+      "abstract": "Combining artificial intelligence (AI) with eye tracking in virtual reality could one day help personalize treatment for millions living with chronic pain, according to world-first research from the University of East Anglia.",
+      "date": "2026-10-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-eye-tracking-virtual-reality-pain.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "tracking",
+        "could",
+        "help",
+        "virtual",
+        "reality",
+        "pain",
+        "therapy",
+        "adapt"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-22T04:38:05.635733+00:00"
+    },
+    {
+      "id": "rss-d6675e747700",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Attacks on water systems are attacks on health, say experts",
+      "authors": "Medical Xpress",
+      "abstract": "Water scarcity seldom starts wars, but wars increasingly degrade vital water systems on which health and recovery depend, creating a cycle that reinforces ongoing fragility and violence, warn experts in The BMJ's climate issue.",
+      "date": "2026-10-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-health-experts.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "water",
+        "attacks",
+        "systems",
+        "health",
+        "experts",
+        "wars",
+        "scarcity",
+        "seldom"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-22T04:38:05.635917+00:00"
+    },
+    {
+      "id": "rss-4bf1a5a78072",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Use green transition funds to achieve health for all, suggest experts",
+      "authors": "Medical Xpress",
+      "abstract": "The green energy transition presents a crucial opportunity to finance universal health coverage (UHC) in low- and middle-income countries, say experts in The BMJ's climate issue.",
+      "date": "2026-10-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-green-transition-funds-health-experts.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "green",
+        "transition",
+        "health",
+        "experts",
+        "funds",
+        "achieve",
+        "suggest",
+        "energy"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-22T04:38:05.636113+00:00"
+    },
+    {
+      "id": "rss-9a6a33e76d99",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Is all screen time bad for children? Maybe not, new review suggests",
+      "authors": "Medical Xpress",
+      "abstract": "The effects of screen time on young children may depend on more than just how long they spend in front of a device, according to a new publication from the University of Georgia. The study is published in the Journal of Evidence-Based Social Work.",
+      "date": "2026-10-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-screen-bad-children.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "screen",
+        "time",
+        "children",
+        "maybe",
+        "review",
+        "suggests",
+        "effects",
+        "young"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-22T04:38:05.636229+00:00"
+    },
+    {
+      "id": "rss-0fb693cf3407",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "One tooth, six clues: How a single tooth can help in identifying deceased persons",
+      "authors": "Medical Xpress",
+      "abstract": "A single tooth can contain valuable clues to a person's identity, even when remains are severely decomposed or reduced to bones, according to a study by researchers at the Institute of Science Tokyo. By applying multiple forensic methods to different tissues within a single tooth, the researchers obtained six types of information about the deceased. This integrated approach could provide complementary evidence to help identify unknown human remains when conventional methods are difficult to apply.",
+      "date": "2026-10-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-tooth-clues-deceased-persons.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "tooth",
+        "single",
+        "clues",
+        "help",
+        "deceased",
+        "when",
+        "remains",
+        "researchers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-22T04:38:05.636377+00:00"
+    },
+    {
+      "id": "rss-bda158edcd1d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "AI identifies tumor aging patterns to predict immunotherapy response across multiple cancer types",
+      "authors": "Medical Xpress",
+      "abstract": "Even when given the same drug, some patients respond well while others show little or no response. This is particularly true of immunotherapy. A research team at POSTECH (Pohang University of Science and Technology) has developed an artificial intelligence (AI) technology that can predict, in advance, which patients are likely to benefit from treatment.",
+      "date": "2026-10-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-ai-tumor-aging-patterns-immunotherapy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "predict",
+        "immunotherapy",
+        "response",
+        "patients",
+        "technology",
+        "identifies",
+        "tumor",
+        "aging"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-22T04:38:05.636507+00:00"
+    },
+    {
+      "id": "rss-828b1940b3f0",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Death rates among 25–49-year-olds 42% higher in the North than the South of England, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "Death rates among adults ages 25–49 were 42% higher in the North than in the South of England in 2024, compared with 13% higher in 1981, according to research published today in The Lancet Public Health.",
+      "date": "2026-10-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-death-year-olds-higher-north.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "higher",
+        "death",
+        "rates",
+        "among",
+        "north",
+        "than",
+        "south",
+        "england"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-22T04:38:05.636643+00:00"
+    },
+    {
       "id": "rss-57d480ede8c8",
       "discipline": "clinical",
       "type": "news",
       "title": "Invisible infrared light creates green letters that are less prone to blur",
       "authors": "Medical Xpress",
       "abstract": "Infrared light is invisible to us. Yet under the right conditions, pulses of near-infrared light can give rise to a visible image in the eye—one that behaves in ways that defy intuition. ICTER scientists investigated what happens to that image when it is no longer perfectly focused.",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.402575+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.636773+00:00"
     },
     {
       "id": "rss-6af1c883f6c5",
@@ -45,7 +365,7 @@ window.LIVE_FEED_DATA = {
       "title": "Blocking a cellular stress pathway may help preserve insulin-producing cells",
       "authors": "Medical Xpress",
       "abstract": "Researchers at Weill Cornell Medicine have identified a molecular pathway that contributes to the death of insulin-producing beta cells in the pancreas. Experiments with preclinical models and human pancreatic cells found that blocking certain proteins in the pathway helped protect beta cells from excessive cellular stress. The discovery, recently published in the Journal of Clinical Investigation, suggests a new strategy to preserve the cells that regulate blood sugar and potentially treat type 2 diabetes.",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.402911+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.636916+00:00"
     },
     {
       "id": "rss-5be22b5701c4",
@@ -77,7 +397,7 @@ window.LIVE_FEED_DATA = {
       "title": "AI model detects signs of faulty DNA repair in ovarian cancer using tissue images",
       "authors": "Medical Xpress",
       "abstract": "An AI model created by researchers at King's can detect signs of faulty repair mechanisms in ovarian cancer cells, potentially leading to a low-cost, widely accessible diagnostic tool in the future. By analyzing tissue images, the model could accurately recognize tumors that contained broken DNA repair mechanisms. This could enable clinicians to choose treatments that exploit this flaw. The findings are published in Nature Communications.",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.403220+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.637056+00:00"
     },
     {
       "id": "rss-fd7a8c60b008",
@@ -109,7 +429,7 @@ window.LIVE_FEED_DATA = {
       "title": "First generic combo hormone patch could make menopause relief more affordable",
       "authors": "Medical Xpress",
       "abstract": "Women looking for relief from menopause symptoms could soon have a more affordable option for a weekly hormone patch.",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,327 +452,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.403524+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.637158+00:00"
     },
     {
-      "id": "rss-8ce91b14a825",
-      "discipline": "clinical",
+      "id": "rss-248a67486f9b",
+      "discipline": "cs",
       "type": "news",
-      "title": "Half-matched bone marrow transplant expands options for children with severe aplastic anemia",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at the Johns Hopkins Sidney Kimmel Comprehensive Cancer Center and Johns Hopkins Children's Center report that bone marrow transplant using half-matched family donors achieved a 96% survival rate among child, adolescent and young adult patients with severe aplastic anemia, a rare, life-threatening disorder in which the bone marrow fails to produce enough healthy blood cells. The approach expands access to potentially curative treatment for patients who do not have a fully matched donor.",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "authors": "TechCrunch AI",
+      "abstract": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
       "date": "2026-10-21",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-bone-marrow-transplant-options-children.html",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "bone",
-        "marrow",
-        "half-matched",
-        "transplant",
-        "expands",
-        "children",
-        "severe",
-        "aplastic"
+        "blackstone",
+        "khaira",
+        "says",
+        "fears",
+        "over",
+        "ai-buildout",
+        "debt",
+        "overblown"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.403841+00:00"
-    },
-    {
-      "id": "rss-627160b2819b",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Three-week radiation course a safe option for breast cancer patients undergoing reconstruction, trial shows",
-      "authors": "Medical Xpress",
-      "abstract": "Results of a national clinical trial led by the Alliance for Clinical Trials in Oncology in conjunction with NRG Oncology and the Canadian Cancer Trials Group show that a shorter, three-week radiation schedule following a mastectomy is as safe and effective as the standard five-week treatment for women undergoing breast reconstruction. The results of the RT CHARM trial (Alliance A221505) are published in the Journal of Clinical Oncology.",
-      "date": "2026-10-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-week-safe-option-breast-cancer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "trial",
-        "clinical",
-        "oncology",
-        "three-week",
-        "radiation",
-        "safe",
-        "breast",
-        "cancer"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.404130+00:00"
-    },
-    {
-      "id": "rss-36e7488060c0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "How trustworthy is AI breast cancer detection? New method gauges uncertainty for individual patients",
-      "authors": "Medical Xpress",
-      "abstract": "While AI offers the ability to improve human experts' ability to diagnose and treat diseases like breast cancer, well-publicized errors across the broader AI field are cause for concern. A team from the University of Pittsburgh has used PSC's flagship Bridges-2 supercomputer to design a deep neural network (DNN) that takes uncertainty into account in diagnosing breast scan images.",
-      "date": "2026-10-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-trustworthy-ai-breast-cancer-method.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "breast",
-        "cancer",
-        "uncertainty",
-        "ability",
-        "trustworthy",
-        "detection",
-        "method",
-        "gauges"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.404457+00:00"
-    },
-    {
-      "id": "rss-ed786b73d0ff",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "AAO: Association between GLP-1 receptor agonists and age-related macular degeneration explored",
-      "authors": "Medical Xpress",
-      "abstract": "Crude odds ratios suggest an increased risk for age-related macular degeneration (AMD) in association with glucagon-like peptide-1 receptor agonist (GLP-1 RA) use, but this finding is reversed after adjustment for cardiometabolic confounding variables, according to a study presented at the annual meeting of the American Academy of Ophthalmology, held Oct. 9 to 12 in New Orleans.",
-      "date": "2026-10-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-aao-association-glp-receptor-agonists.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "association",
-        "glp-",
-        "receptor",
-        "age-related",
-        "macular",
-        "degeneration",
-        "agonists",
-        "explored"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.404742+00:00"
-    },
-    {
-      "id": "rss-a2f2630686e5",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "After stroke and AFib, restoring heart rhythm linked to lower risk of another stroke",
-      "authors": "Medical Xpress",
-      "abstract": "For people hospitalized with ischemic stroke and atrial fibrillation (AFib), restoring the heart's normal rhythm within eight weeks after stroke is associated with a lower risk of having another stroke, according to a new study published in Neurology.",
-      "date": "2026-10-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-afib-heart-rhythm-linked.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "stroke",
-        "after",
-        "afib",
-        "restoring",
-        "heart",
-        "rhythm",
-        "lower",
-        "risk"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.404994+00:00"
-    },
-    {
-      "id": "rss-cc2a12502be1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Newer anticoagulants may help prevent strokes in AFib patients with previous brain bleeds",
-      "authors": "Medical Xpress",
-      "abstract": "For people with atrial fibrillation (AFib), an irregular heartbeat, and intracranial hemorrhage, a type of stroke also known as a brain bleed, anticoagulant use was associated with a lower risk of ischemic stroke and death, according to a new study published in Neurology. The study also found no increased risk of more brain bleeds when people took newer anticoagulants.",
-      "date": "2026-10-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-anticoagulants-afib-patients-previous-brain.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "brain",
-        "newer",
-        "anticoagulants",
-        "afib",
-        "bleeds",
-        "people",
-        "stroke",
-        "also"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.405256+00:00"
-    },
-    {
-      "id": "rss-8d8d9527be6e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Air pollution and temperature variability are associated with higher blood glucose levels",
-      "authors": "Medical Xpress",
-      "abstract": "A European study involving GCAT identifies associations between air pollution, temperature variability and blood glucose levels in people without diabetes.",
-      "date": "2026-10-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-air-pollution-temperature-variability-higher.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "pollution",
-        "temperature",
-        "variability",
-        "blood",
-        "glucose",
-        "levels",
-        "associated",
-        "higher"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.405497+00:00"
-    },
-    {
-      "id": "rss-b3e7f472834c",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Personalized medicine breakthrough for childhood leukemia",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers from Newcastle University and Great Ormond Street Hospital have identified new predictors of relapse in children and young people with acute lymphoblastic leukemia (ALL) treated with the immunotherapy drug blinatumomab, as part of a U.K.-wide study.",
-      "date": "2026-10-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-personalized-medicine-breakthrough-childhood-leukemia.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "leukemia",
-        "personalized",
-        "medicine",
-        "breakthrough",
-        "childhood",
-        "researchers",
-        "newcastle",
-        "university"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.405731+00:00"
-    },
-    {
-      "id": "rss-f4aa2472f8a7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Celebrity Traitors: Neuroscientist on whether you can really make someone yawn by faking it",
-      "authors": "Medical Xpress",
-      "abstract": "In the BBC reality show \"The Celebrity Traitors,\" the Traitors—James Acaster, Maya Jama and King Kenny—were set an unusual challenge: murder a Faithful by making them yawn. Their plan was to bore their target into yawning, then deliver the line \"Am I boring you?\" to seal the murder.",
-      "date": "2026-10-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-celebrity-traitors-neuroscientist-faking.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "traitors",
-        "celebrity",
-        "yawn",
-        "murder",
-        "their",
-        "neuroscientist",
-        "whether",
-        "really"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.406004+00:00"
-    },
-    {
-      "id": "rss-f1ecafb21003",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "STI rates drop following antibiotic use recommendations for gay and bisexual men",
-      "authors": "Medical Xpress",
-      "abstract": "After years of rising sexually transmitted infection (STI) rates in Australia, new Burnet Institute–led research has found promising evidence that an existing antibiotic taken after sex may be helping to reduce syphilis and chlamydia diagnoses among gay and bisexual men.",
-      "date": "2026-10-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-sti-antibiotic-gay-bisexual-men.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "rates",
-        "antibiotic",
-        "bisexual",
-        "after",
-        "drop",
-        "following",
-        "recommendations",
-        "years"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.406267+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.744096+00:00"
     },
     {
       "id": "rss-0765f7ec1818",
@@ -484,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.472607+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.744222+00:00"
     },
     {
       "id": "rss-7372a61e38f7",
@@ -516,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.472833+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.744303+00:00"
     },
     {
       "id": "rss-7320c8655888",
@@ -548,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.473056+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.744383+00:00"
     },
     {
       "id": "rss-c811888fc46b",
@@ -580,7 +612,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.473239+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.744466+00:00"
+    },
+    {
+      "id": "rss-d0cd4ae09800",
+      "discipline": "cs",
+      "type": "news",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "authors": "TechCrunch AI",
+      "abstract": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "date": "2026-10-21",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "armageddon",
+        "openai",
+        "google",
+        "find",
+        "ancient",
+        "holes",
+        "panicking",
+        "internet"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-22T04:38:05.744575+00:00"
+    },
+    {
+      "id": "rss-7e0c743105c7",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "authors": "TechCrunch AI",
+      "abstract": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+      "date": "2026-10-21",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "blacksmith",
+        "sequoia",
+        "series",
+        "that",
+        "hits",
+        "unicorn",
+        "valuation",
+        "after"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-22T04:38:05.744660+00:00"
     },
     {
       "id": "rss-4b228ecef7bb",
@@ -612,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.473561+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.744739+00:00"
     },
     {
       "id": "rss-6ea969afc7fd",
@@ -644,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.473753+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.744818+00:00"
     },
     {
       "id": "rss-021caa8bddc5",
@@ -676,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.473946+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.744905+00:00"
     },
     {
       "id": "rss-72533e59047a",
@@ -708,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.474122+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.744985+00:00"
     },
     {
       "id": "rss-209dca2b72f1",
@@ -740,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.474276+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.745055+00:00"
     },
     {
       "id": "rss-83e3351f34e8",
@@ -772,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.474497+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.745144+00:00"
     },
     {
       "id": "rss-57bb0c8df747",
@@ -804,103 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.474668+00:00"
-    },
-    {
-      "id": "rss-c4fde5a71560",
-      "discipline": "cs",
-      "type": "news",
-      "title": "ChatGPT now lets you lock your chats",
-      "authors": "TechCrunch AI",
-      "abstract": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
-      "date": "2026-10-20",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "something",
-        "chatgpt",
-        "lets",
-        "lock",
-        "your",
-        "chats",
-        "company",
-        "says"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.474844+00:00"
-    },
-    {
-      "id": "rss-91fdd463db31",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "authors": "TechCrunch AI",
-      "abstract": "Eric Schmidt’s fortune is about to get even bigger.",
-      "date": "2026-10-20",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "eric",
-        "schmidt",
-        "about",
-        "reportedly",
-        "owns",
-        "half",
-        "much",
-        "anthropic"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.474997+00:00"
-    },
-    {
-      "id": "rss-895f7c53f242",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-      "authors": "TechCrunch AI",
-      "abstract": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
-      "date": "2026-10-20",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "muse",
-        "meta",
-        "hits",
-        "downloads",
-        "days",
-        "milestone",
-        "reached",
-        "only"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.475160+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.745222+00:00"
     },
     {
       "id": "rss-69ba6379887b",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.511469+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.899015+00:00"
     },
     {
       "id": "rss-0e793fcfa72e",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.511662+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.899116+00:00"
     },
     {
       "id": "rss-f2b78d63857a",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.511841+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.899200+00:00"
     },
     {
       "id": "rss-dfab44ee18d2",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.512013+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.899285+00:00"
     },
     {
       "id": "rss-6674f1b9a348",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.512177+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.899364+00:00"
     },
     {
       "id": "rss-4ab0a2b15569",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.512351+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.899450+00:00"
     },
     {
       "id": "rss-218219c6f48a",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.512542+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.899543+00:00"
     },
     {
       "id": "rss-d82f0f078053",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.695721+00:00"
+      "_retrievedAt": "2026-10-22T04:38:06.102328+00:00"
     },
     {
       "id": "rss-18545777b44e",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.696047+00:00"
+      "_retrievedAt": "2026-10-22T04:38:06.102499+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.325932+00:00"
+      "_retrievedAt": "2026-10-22T04:38:00.525975+00:00"
     },
     {
       "id": "rss-b96de90b49a5",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.512707+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.899623+00:00"
     },
     {
       "id": "rss-20f5d059a7c0",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.512851+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.899689+00:00"
     },
     {
       "id": "rss-dea80f44d99d",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.513039+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.899778+00:00"
     },
     {
       "id": "rss-9097c559200f",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.696282+00:00"
+      "_retrievedAt": "2026-10-22T04:38:06.102627+00:00"
     },
     {
       "id": "rss-1eb5a0ad1fdb",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.513194+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.899851+00:00"
     },
     {
       "id": "rss-0bfffe781a60",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.513351+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.899926+00:00"
     },
     {
       "id": "rss-3f43f1f3aef2",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.696986+00:00"
+      "_retrievedAt": "2026-10-22T04:38:06.102967+00:00"
     },
     {
       "id": "rss-0b401625ba0c",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.513555+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.900006+00:00"
     },
     {
       "id": "rss-3cbba74411c0",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.513710+00:00"
+      "_retrievedAt": "2026-10-22T04:38:05.900076+00:00"
     },
     {
       "id": "rss-5764f9ec0337",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.697729+00:00"
+      "_retrievedAt": "2026-10-22T04:38:06.103332+00:00"
     },
     {
       "id": "rss-23f57c26ccb3",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.698163+00:00"
+      "_retrievedAt": "2026-10-22T04:38:06.103550+00:00"
     },
     {
       "id": "rss-0333c77565a0",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.698351+00:00"
+      "_retrievedAt": "2026-10-22T04:38:06.103638+00:00"
     },
     {
       "id": "rss-a7d777e1fbd3",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.698866+00:00"
+      "_retrievedAt": "2026-10-22T04:38:06.103870+00:00"
     },
     {
       "id": "rss-a969e28ae72b",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.699498+00:00"
+      "_retrievedAt": "2026-10-22T04:38:06.104165+00:00"
     },
     {
       "id": "rss-ba67a3541a17",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:21.699857+00:00"
+      "_retrievedAt": "2026-10-22T04:38:06.104335+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:17.625822+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.274009+00:00"
     },
     {
       "id": "openalex-637c76942b6d",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:17.626396+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.274307+00:00"
     },
     {
       "id": "openalex-e987114418d8",
@@ -1796,7 +1796,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:17.629111+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.275407+00:00"
+    },
+    {
+      "id": "openalex-af535c74f002",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Role (re)considered : a re-evaluation of the relationship between teacher-in-role and acting",
+      "authors": "Judith Ackroyd-Pilkington",
+      "abstract": "This thesis examines the under-researched area of teacher-in-role. It seeks to determine whether or not teachers working in role are acting and suggests that contrary to the orthodox position, a strict distinction between teacher-in-role and acting can no longer be sustained. This thesis will argue that, within the discourse of drama in education, the concept of acting is narrow due to both a restricted view of theatre and an assumption that there is an inherent contradiction between acting and a pedagogic function. By examining theories of acting, I will suggests that definitions within the dramatic art form should be temporary to accommodate diverse and developing practices. The theoretical research focuses on four relevant aspects of acting and role -context and the relationship with audience, functions and aims, skills, and approaches - which are then applied to samples of practic...",
+      "date": "2026-09-11",
+      "year": 2026,
+      "journal": "Warwick Research Archive Portal (University of Warwick)",
+      "source": "Warwick Research Archive Portal (University of Warwick)",
+      "sourceApi": "OpenAlex",
+      "url": "http://wrap.warwick.ac.uk/56107/1/WRAP_thesis_Ackroyd-Pilkington_2002.pdf",
+      "doi": "10.82444/warw.33625693",
+      "pdfUrl": "http://wrap.warwick.ac.uk/56107/1/WRAP_thesis_Ackroyd-Pilkington_2002.pdf",
+      "keywords": [
+        "Contradiction",
+        "Drama",
+        "Context (archaeology)",
+        "Epistemology",
+        "Function (biology)",
+        "Theatre and Performance Studies",
+        "Creative Drama in Education",
+        "Arts and Performance Studies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 21,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-22T04:37:59.276238+00:00"
     },
     {
       "id": "openalex-2da239523a05",
@@ -1828,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:17.628727+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.275220+00:00"
     },
     {
       "id": "openalex-a4d4df423646",
@@ -1860,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:17.629521+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.275611+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1892,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.620296+00:00"
+      "_retrievedAt": "2026-10-22T04:38:01.019893+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1924,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:17.624207+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.273328+00:00"
     },
     {
       "id": "openalex-aaaea7987db6",
@@ -1956,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.062799+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.901201+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -1988,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.061834+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.900714+00:00"
     },
     {
       "id": "openalex-4bcca691e2bc",
@@ -2020,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.623911+00:00"
+      "_retrievedAt": "2026-10-22T04:38:01.021513+00:00"
     },
     {
       "id": "openalex-fc31c72923df",
@@ -2052,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:17.627057+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.274666+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -2084,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.328181+00:00"
+      "_retrievedAt": "2026-10-22T04:38:00.527194+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -2116,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.624306+00:00"
+      "_retrievedAt": "2026-10-22T04:38:01.021728+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -2148,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.064454+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.902050+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -2180,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:17.629850+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.275775+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -2212,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.064831+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.902246+00:00"
     },
     {
       "id": "openalex-aa0b72ab3b90",
@@ -2244,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.624727+00:00"
+      "_retrievedAt": "2026-10-22T04:38:01.021935+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2276,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.063132+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.901379+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2308,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.625092+00:00"
+      "_retrievedAt": "2026-10-22T04:38:01.022123+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2340,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:17.630154+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.275927+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2372,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.060902+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.900215+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2404,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.062510+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.901056+00:00"
     },
     {
       "id": "openalex-34f37069c1ad",
@@ -2436,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.065047+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.902356+00:00"
     },
     {
       "id": "openalex-c47d537bde45",
@@ -2468,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.326300+00:00"
+      "_retrievedAt": "2026-10-22T04:38:00.526177+00:00"
     },
     {
       "id": "openalex-83b919635dc2",
@@ -2500,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.327084+00:00"
+      "_retrievedAt": "2026-10-22T04:38:00.526616+00:00"
     },
     {
       "id": "openalex-7a85bfe0ead2",
@@ -2532,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.625466+00:00"
+      "_retrievedAt": "2026-10-22T04:38:01.022305+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2564,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.621169+00:00"
+      "_retrievedAt": "2026-10-22T04:38:01.020352+00:00"
     },
     {
       "id": "openalex-cc20596fdff7",
@@ -2596,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.065359+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.902545+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2628,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.621569+00:00"
+      "_retrievedAt": "2026-10-22T04:38:01.020551+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2660,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:17.625427+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.273802+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2692,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.327481+00:00"
+      "_retrievedAt": "2026-10-22T04:38:00.526821+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2724,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.061493+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.900535+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -2756,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.327834+00:00"
+      "_retrievedAt": "2026-10-22T04:38:00.527007+00:00"
     },
     {
       "id": "openalex-100e88f28593",
@@ -2788,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.328660+00:00"
+      "_retrievedAt": "2026-10-22T04:38:00.527436+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -2820,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.329904+00:00"
+      "_retrievedAt": "2026-10-22T04:38:00.528094+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2852,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:17.624683+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.273590+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2884,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.063453+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.901545+00:00"
     },
     {
       "id": "openalex-814a31d1960d",
@@ -2916,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.625847+00:00"
+      "_retrievedAt": "2026-10-22T04:38:01.022503+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -2948,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.626149+00:00"
+      "_retrievedAt": "2026-10-22T04:38:01.022667+00:00"
     },
     {
       "id": "openalex-d1f5fac033f2",
@@ -2980,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.626550+00:00"
+      "_retrievedAt": "2026-10-22T04:38:01.022870+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3012,7 +3044,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.325298+00:00"
+      "_retrievedAt": "2026-10-22T04:38:00.525659+00:00"
+    },
+    {
+      "id": "openalex-4a46ff2c29ce",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Oceanographic Buoys for Marine Monitoring: A Review of Instrumentation, Applications, and Emerging Technologies",
+      "authors": "Francisco Portillo, Nadia Rotbi, Nicolas Padilla, Consolación Gil, John Alexander Taborda, Alfredo Alcayde",
+      "abstract": "Oceanographic buoys are essential platforms for marine observation, supporting real-time monitoring, climate studies, operational oceanography, coastal management, and offshore activities. This review maps the scientific literature on oceanographic buoys and identifies the main research sectors that structure the field. A Scopus search using TITLE-ABS-KEY((oceanographic OR metocean OR “ocean observing” OR “ocean observation”) AND (buoy OR buoys)) retrieved 1876 documents published between 1938 and 2026. The records were processed using a network-based sector detection and visualization workflow. Five thematic sectors were identified: platform engineering, sensors, moorings, and autonomous systems; marine wind, waves, metocean, and offshore energy applications; physical oceanography, sea-surface temperature (SST), currents, and environmental variability; coastal and ocean observing net...",
+      "date": "2026-07-14",
+      "year": 2026,
+      "journal": "Journal of Marine Science and Engineering",
+      "source": "Journal of Marine Science and Engineering",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/jmse14141291",
+      "doi": "10.3390/jmse14141291",
+      "pdfUrl": "https://www.mdpi.com/2077-1312/14/14/1291/pdf?version=1784015519",
+      "keywords": [
+        "Thematic map",
+        "Buoy",
+        "Submarine pipeline",
+        "Oceanography",
+        "Ocean observations",
+        "Oceanographic and Atmospheric Processes",
+        "Underwater Vehicles and Communication Systems",
+        "Ocean Waves and Remote Sensing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-22T04:38:01.023046+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3044,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.622333+00:00"
+      "_retrievedAt": "2026-10-22T04:38:01.020948+00:00"
     },
     {
       "id": "openalex-6068978c624a",
@@ -3076,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.330235+00:00"
+      "_retrievedAt": "2026-10-22T04:38:00.528264+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -3108,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.623122+00:00"
+      "_retrievedAt": "2026-10-22T04:38:01.021346+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -3140,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.622738+00:00"
+      "_retrievedAt": "2026-10-22T04:38:01.021143+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -3172,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.063799+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.901729+00:00"
     },
     {
       "id": "openalex-b7572a22400b",
@@ -3204,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.330637+00:00"
+      "_retrievedAt": "2026-10-22T04:38:00.528464+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -3236,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:17.627453+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.274833+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -3268,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.621929+00:00"
+      "_retrievedAt": "2026-10-22T04:38:01.020735+00:00"
     },
     {
       "id": "openalex-b7abd719b558",
@@ -3300,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:17.627820+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.275013+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -3332,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.325712+00:00"
+      "_retrievedAt": "2026-10-22T04:38:00.525858+00:00"
     },
     {
       "id": "openalex-f831f0b2712b",
@@ -3364,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.064115+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.901896+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -3396,7 +3460,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:17.626710+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.274470+00:00"
+    },
+    {
+      "id": "openalex-5a31a7e0a2f8",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "L2 Selves, Control-Value Appraisals, and Engagement in AI-Supported Informal Digital Learning of English: An SEM and fsQCA Approach",
+      "authors": "Xueheng Zhou, Honggang Liu",
+      "abstract": "This study examined learner engagement in AI-supported informal digital learning of English (IDLE) by integrating L2 selves and control-value appraisals within a Control-Value Theory framework. Drawing on data from 653 Chinese university students, the study employed structural equation modeling (SEM) to test the associations among ideal L2 self, ought-to L2 self, control appraisal, intrinsic value appraisal, extrinsic value appraisal, and learner engagement. It further used fuzzy-set qualitative comparative analysis (fsQCA) to identify configurational pathways associated with high engagement. The SEM results showed that both ideal L2 self and ought-to L2 self were positively associated with the three types of control-value appraisals, which were in turn positively associated with engagement. Mediation analysis indicated that control appraisal, intrinsic value appraisal, and extrinsic...",
+      "date": "2026-07-01",
+      "year": 2026,
+      "journal": "Journal of Intelligence",
+      "source": "Journal of Intelligence",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3390/jintelligence14070127",
+      "doi": "10.3390/jintelligence14070127",
+      "pdfUrl": "https://www.mdpi.com/2079-3200/14/7/127/pdf?version=1782885273",
+      "keywords": [
+        "Structural equation modeling",
+        "Mediation",
+        "Qualitative comparative analysis",
+        "Psychology",
+        "Value (mathematics)",
+        "EFL/ESL Teaching and Learning",
+        "English Language Learning and Teaching",
+        "Education, Achievement, and Giftedness"
+      ],
+      "readTime": "1 min",
+      "citedBy": 22,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-22T04:37:59.276079+00:00"
     },
     {
       "id": "openalex-7596e664f24c",
@@ -3428,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.062119+00:00"
+      "_retrievedAt": "2026-10-22T04:37:59.900861+00:00"
     },
     {
       "id": "openalex-10ad267fea93",
@@ -3460,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.329129+00:00"
+      "_retrievedAt": "2026-10-22T04:38:00.527700+00:00"
     },
     {
       "id": "openalex-33e8cda96b3e",
@@ -3492,103 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.329529+00:00"
-    },
-    {
-      "id": "openalex-d12f8c68ebf5",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook",
-      "authors": "Ming Jin, Yaxuan Kong, Yuxuan Liang, Chaoli Zhang, Siqiao Xue, Xue Wang",
-      "abstract": "Temporal data-including time series and spatio-temporal data- are pervasive in real-world applications. Generated in massive volumes by physical and virtual sensors, they record dynamic system behaviors and enable a wide range of downstream tasks. Effectively analyzing such data is crucial to unlocking their rich information content. Recent advances in large language models and other foundation models have accelerated their use in time series and spatio-temporal data mining. These approaches not only improve pattern recognition and reasoning across diverse domains but also support progress toward artificial general intelligence that can understand and process temporal data. In this survey, we present a comprehensive, up-to-date review of large models tailored or adapted for time series and spatio-temporal data along four dimensions: data types, model categories, model scopes, and appl...",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "ACM Computing Surveys",
-      "source": "ACM Computing Surveys",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3821637",
-      "doi": "10.1145/3821637",
-      "pdfUrl": "https://doi.org/10.1145/3821637",
-      "keywords": [
-        "Computer science",
-        "Data science",
-        "Temporal database",
-        "Categorization",
-        "Data mining",
-        "Time Series Analysis and Forecasting",
-        "Anomaly Detection Techniques and Applications",
-        "Topic Modeling"
-      ],
-      "readTime": "1 min",
-      "citedBy": 57,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:17.625020+00:00"
-    },
-    {
-      "id": "openalex-a7c159f1f11b",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Traffic and road sign recognition",
-      "authors": "Hasan A. Fleyeh",
-      "abstract": "This thesis presents a system to recognise and classify road and traffic signs for the purpose of developing an inventory of them which could assist the highway engineers' tasks of updating and maintaining them. It uses images taken by a camera from a moving vehicle. The system is based on three major stages: colour segmentation, recognition, and classification. Four colour segmentation algorithms are developed and tested. They are a shadow and highlight invariant, a dynamic threshold, a modification of de la Escalera's algorithm and a Fuzzy colour segmentation algorithm. All algorithms are tested using hundreds of images and the shadow-highlight invariant algorithm is eventually chosen as the best performer. This is because it is immune to shadows and highlights. It is also robust as it was tested in different lighting conditions, weather conditions, and times of the day. Approximate...",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "Research Output (Edinburgh Napier University)",
-      "source": "Research Output (Edinburgh Napier University)",
-      "sourceApi": "OpenAlex",
-      "url": "http://researchrepository.napier.ac.uk/id/eprint/9466",
-      "doi": "10.17869/enu.233020",
-      "pdfUrl": "http://researchrepository.napier.ac.uk/id/eprint/9466",
-      "keywords": [
-        "Transport engineering",
-        "Traffic sign",
-        "Road traffic",
-        "Sign (mathematics)",
-        "Computer science",
-        "Computer Science and Engineering",
-        "Image Retrieval and Classification Techniques",
-        "Advanced Neural Network Applications"
-      ],
-      "readTime": "2 min",
-      "citedBy": 30,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:17.628234+00:00"
-    },
-    {
-      "id": "openalex-bb50663ea11d",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Cropland parcels mapping method and distribution characteristics in northeast china's black soil region based on meter-level remote sensing images and cloud platform",
-      "authors": "Jia Zheng, Ting-yan Guo, Huanjun Liu, X B Zheng, Zui Tao, Chunmei Wang",
-      "abstract": "Cropland parcels (CPs) constitute the fundamental physical units of agricultural production and management. However, their regional-scale mapping from meter-level very-high-resolution (VHR) imagery remains challenging due to computational constraints, tile-induced boundary fragmentation, and semantic confusion associated with single-date observations. To address these challenges, we develop a cloud-based method for large-scale cropland parcel mapping from meter-level VHR imagery. This method consists of geospatial tiling, HRNet-based boundary extraction from VHR imagery, and parcel-level post-processing, including morphology-based parcel merging and Sentinel-2 phenology-based filtering. This framework enables efficient large-area processing while preserving parcel continuity and boundary integrity. Using this framework, we generate NECCPB-1, a high-resolution cropland parcel boundary...",
-      "date": "2026-06-23",
-      "year": 2026,
-      "journal": "GIScience & Remote Sensing",
-      "source": "GIScience & Remote Sensing",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1080/15481603.2026.2690325",
-      "doi": "10.1080/15481603.2026.2690325",
-      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/15481603.2026.2690325?needAccess=true",
-      "keywords": [
-        "Remote sensing",
-        "Boundary (topology)",
-        "Geospatial analysis",
-        "Environmental science",
-        "Land cover",
-        "Remote Sensing in Agriculture",
-        "Remote-Sensing Image Classification",
-        "Smart Agriculture and AI"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-21T21:38:18.623577+00:00"
+      "_retrievedAt": "2026-10-22T04:38:00.527898+00:00"
     }
   ]
 };
