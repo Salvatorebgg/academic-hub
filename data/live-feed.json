@@ -1,11 +1,75 @@
 {
-  "generatedAt": "2026-10-23T04:45:06.100335+00:00",
+  "generatedAt": "2026-10-23T11:32:55.639203+00:00",
   "total": 111,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-6be0cca90ec6",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Can Reddit help strengthen health communications on extreme heat?",
+      "authors": "Medical Xpress",
+      "abstract": "Two years ago, Robbie M. Parks, an environmental health scientist at Columbia University Mailman School of Public Health, and Nathaniel Matthews-Trigg, director of climate and disaster resilience at Americares, founded an online community on Reddit, r/heat_prep, where members share information and advice about coping with extreme temperatures.",
+      "date": "2026-10-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-reddit-health-communications-extreme.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "health",
+        "reddit",
+        "extreme",
+        "heat",
+        "help",
+        "strengthen",
+        "communications",
+        "years"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-23T11:32:54.958606+00:00"
+    },
+    {
+      "id": "rss-dbfa0830a09f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Mindfulness and self-compassion can alleviate premenstrual symptoms",
+      "authors": "Medical Xpress",
+      "abstract": "A kind attitude toward oneself and practicing mindfulness can improve functioning in individuals who experience severe premenstrual symptoms, according to a study by psychologists from SWPS University and Jagiellonian University.",
+      "date": "2026-10-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-mindfulness-compassion-alleviate-premenstrual-symptoms.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "mindfulness",
+        "premenstrual",
+        "symptoms",
+        "university",
+        "self-compassion",
+        "alleviate",
+        "kind",
+        "attitude"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-23T11:32:54.958741+00:00"
+    },
     {
       "id": "rss-c758984fcfb2",
       "discipline": "clinical",
@@ -36,7 +100,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.568224+00:00"
+      "_retrievedAt": "2026-10-23T11:32:54.958856+00:00"
     },
     {
       "id": "rss-13ad2c3754f2",
@@ -68,7 +132,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.568525+00:00"
+      "_retrievedAt": "2026-10-23T11:32:54.959000+00:00"
     },
     {
       "id": "rss-2d60ce2d9b8d",
@@ -100,7 +164,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.568760+00:00"
+      "_retrievedAt": "2026-10-23T11:32:54.959107+00:00"
     },
     {
       "id": "rss-c1bda2f9bbad",
@@ -132,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.569015+00:00"
+      "_retrievedAt": "2026-10-23T11:32:54.959224+00:00"
     },
     {
       "id": "rss-c424dc1b291f",
@@ -164,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.569344+00:00"
+      "_retrievedAt": "2026-10-23T11:32:54.959349+00:00"
     },
     {
       "id": "rss-6ddf56e69907",
@@ -196,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.569641+00:00"
+      "_retrievedAt": "2026-10-23T11:32:54.959484+00:00"
     },
     {
       "id": "rss-90d725d581b2",
@@ -228,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.569927+00:00"
+      "_retrievedAt": "2026-10-23T11:32:54.959616+00:00"
     },
     {
       "id": "rss-1ac6c041618c",
@@ -260,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.570223+00:00"
+      "_retrievedAt": "2026-10-23T11:32:54.959740+00:00"
     },
     {
       "id": "rss-48974d361d22",
@@ -292,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.570492+00:00"
+      "_retrievedAt": "2026-10-23T11:32:54.959861+00:00"
     },
     {
       "id": "rss-9406944c4bab",
@@ -324,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.570732+00:00"
+      "_retrievedAt": "2026-10-23T11:32:54.959978+00:00"
     },
     {
       "id": "rss-2c4b48ae9c1c",
@@ -356,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.570961+00:00"
+      "_retrievedAt": "2026-10-23T11:32:54.960081+00:00"
     },
     {
       "id": "rss-5782b35f7665",
@@ -388,71 +452,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.571256+00:00"
-    },
-    {
-      "id": "rss-324188e1f39a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "ADHD medication unlikely to raise risk of self-harm, international study finds",
-      "authors": "Medical Xpress",
-      "abstract": "The risk of self-harm among people with attention deficit hyperactivity disorder (ADHD) is highest before people start ADHD medication, rather than after treatment begins, according to new research led by Aston University and recently published in the journal BMJ Mental Health.",
-      "date": "2026-10-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-adhd-medication-international.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "adhd",
-        "medication",
-        "risk",
-        "self-harm",
-        "people",
-        "unlikely",
-        "raise",
-        "international"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.571499+00:00"
-    },
-    {
-      "id": "rss-6a63ccf2e2ff",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Adults with type 1 diabetes more likely to have depressive, anxiety symptoms",
-      "authors": "Medical Xpress",
-      "abstract": "Adults with type 1 diabetes have a higher prevalence of depressive and generalized anxiety disorder (GAD) symptoms than those with type 2 diabetes or without diabetes, according to a research letter published online Oct. 20 in the Annals of Internal Medicine.",
-      "date": "2026-10-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-adults-diabetes-depressive-anxiety-symptoms.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "diabetes",
-        "type",
-        "adults",
-        "have",
-        "depressive",
-        "anxiety",
-        "symptoms",
-        "more"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.571737+00:00"
+      "_retrievedAt": "2026-10-23T11:32:54.960206+00:00"
     },
     {
       "id": "rss-609f652b3ed1",
@@ -484,7 +484,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.595664+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.065876+00:00"
     },
     {
       "id": "rss-a7645b057fc6",
@@ -516,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.595888+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.066018+00:00"
     },
     {
       "id": "rss-cbaee3e9e823",
@@ -548,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.625963+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.133471+00:00"
     },
     {
       "id": "rss-6553faed2c94",
@@ -580,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.596062+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.066101+00:00"
     },
     {
       "id": "rss-f7ec8a933517",
@@ -612,39 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.596268+00:00"
-    },
-    {
-      "id": "rss-9d468d90a906",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "authors": "TechCrunch AI",
-      "abstract": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "date": "2026-10-22",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "openai",
-        "decision",
-        "makes",
-        "competitor",
-        "widely",
-        "available",
-        "competition",
-        "heats"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.596429+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.066181+00:00"
     },
     {
       "id": "rss-70abc67ad46b",
@@ -676,7 +644,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.596580+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.066251+00:00"
+    },
+    {
+      "id": "rss-9d468d90a906",
+      "discipline": "cs",
+      "type": "news",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "date": "2026-10-22",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "openai",
+        "decision",
+        "makes",
+        "competitor",
+        "widely",
+        "available",
+        "competition",
+        "heats"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-23T11:32:55.066322+00:00"
     },
     {
       "id": "rss-17c35aa1001c",
@@ -708,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.596791+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.066425+00:00"
     },
     {
       "id": "rss-e73dca2549bd",
@@ -740,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.596963+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.066500+00:00"
     },
     {
       "id": "rss-049bcd99a596",
@@ -772,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.597158+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.066570+00:00"
     },
     {
       "id": "rss-1d891c79abca",
@@ -804,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.597385+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.066651+00:00"
     },
     {
       "id": "rss-c497f039b5b4",
@@ -836,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.597541+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.066719+00:00"
     },
     {
       "id": "rss-8572c7216cde",
@@ -868,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.597691+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.066786+00:00"
     },
     {
       "id": "rss-5a5fa52a3ea6",
@@ -900,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.597858+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.066863+00:00"
     },
     {
       "id": "rss-0a2551ebac8b",
@@ -932,7 +932,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.626200+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.133584+00:00"
+    },
+    {
+      "id": "openalex-4bd6cc099ffc",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "State space model for new generation network alternative to transformers: a survey",
+      "authors": "Xiao Wang, Shiao Wang, Yuhe Ding, Yuehang Li, Wentao Wu, Rong Yao",
+      "abstract": "Abstract In the post-deep learning era, the Transformer architecture has demonstrated its powerful performance in pre-trained large models and various downstream tasks. However, the enormous computational demands of Transformers have deterred many researchers. To reduce the complexity of attention models, numerous efforts have been made to design more efficient methods. Among them, the state space model (SSM), as a possible replacement for the self-attention based Transformer model, has drawn more and more attention in recent years. This paper provides the first comprehensive review of SSM works and offers experimental comparisons and analyses to better demonstrate SSM’s features and advantages. First, we provide a detailed description of the principles to help the readers quickly grasp the key ideas of the SSM. Then, we will review existing SSMs and their various applications, includ...",
+      "date": "2026-10-21",
+      "year": 2026,
+      "journal": "Visual Intelligence",
+      "source": "Visual Intelligence",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1007/s44267-026-00133-1",
+      "doi": "10.1007/s44267-026-00133-1",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s44267-026-00133-1.pdf",
+      "keywords": [
+        "Transformer",
+        "State-space representation",
+        "State space",
+        "Computer science",
+        "Engineering",
+        "Topic Modeling",
+        "Advanced Neural Network Applications",
+        "Multimodal Machine Learning Applications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 28,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-23T11:32:47.955860+00:00"
     },
     {
       "id": "rss-248a67486f9b",
@@ -964,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.598021+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.066935+00:00"
     },
     {
       "id": "rss-69ba6379887b",
@@ -996,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.626391+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.133674+00:00"
     },
     {
       "id": "rss-0e793fcfa72e",
@@ -1028,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.626559+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.133755+00:00"
     },
     {
       "id": "rss-f2b78d63857a",
@@ -1060,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.626725+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.133838+00:00"
     },
     {
       "id": "rss-dfab44ee18d2",
@@ -1092,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.626897+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.133923+00:00"
     },
     {
       "id": "rss-6674f1b9a348",
@@ -1124,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.627061+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.134012+00:00"
     },
     {
       "id": "rss-4ab0a2b15569",
@@ -1156,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.627260+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.134092+00:00"
     },
     {
       "id": "rss-218219c6f48a",
@@ -1188,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.627418+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.134167+00:00"
     },
     {
       "id": "rss-d82f0f078053",
@@ -1220,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.819643+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.386651+00:00"
     },
     {
       "id": "rss-18545777b44e",
@@ -1252,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.819972+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.386822+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1284,7 +1316,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.823006+00:00"
+      "_retrievedAt": "2026-10-23T11:32:49.446458+00:00"
     },
     {
       "id": "rss-b96de90b49a5",
@@ -1316,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.627580+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.134246+00:00"
     },
     {
       "id": "rss-20f5d059a7c0",
@@ -1348,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.627724+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.134315+00:00"
     },
     {
       "id": "rss-dea80f44d99d",
@@ -1380,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.627914+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.134404+00:00"
     },
     {
       "id": "rss-9097c559200f",
@@ -1412,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.820236+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.386937+00:00"
     },
     {
       "id": "rss-1eb5a0ad1fdb",
@@ -1444,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.628074+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.134481+00:00"
     },
     {
       "id": "rss-0bfffe781a60",
@@ -1476,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.628264+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.134558+00:00"
     },
     {
       "id": "rss-3f43f1f3aef2",
@@ -1508,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.820914+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.387288+00:00"
     },
     {
       "id": "rss-dcbeb4cde24b",
@@ -1540,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.821483+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.387552+00:00"
     },
     {
       "id": "rss-5764f9ec0337",
@@ -1572,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.822254+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.387912+00:00"
     },
     {
       "id": "rss-23f57c26ccb3",
@@ -1604,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.822742+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.388126+00:00"
     },
     {
       "id": "rss-0333c77565a0",
@@ -1636,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.822953+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.388215+00:00"
     },
     {
       "id": "rss-a7d777e1fbd3",
@@ -1668,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.823481+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.388444+00:00"
     },
     {
       "id": "rss-a969e28ae72b",
@@ -1700,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:45:05.824106+00:00"
+      "_retrievedAt": "2026-10-23T11:32:55.388739+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1732,7 +1764,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:47.394881+00:00"
+      "_retrievedAt": "2026-10-23T11:32:47.954627+00:00"
     },
     {
       "id": "openalex-637c76942b6d",
@@ -1764,7 +1796,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:47.395477+00:00"
+      "_retrievedAt": "2026-10-23T11:32:47.954931+00:00"
     },
     {
       "id": "openalex-e987114418d8",
@@ -1796,39 +1828,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:47.397695+00:00"
-    },
-    {
-      "id": "openalex-af535c74f002",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Role (re)considered : a re-evaluation of the relationship between teacher-in-role and acting",
-      "authors": "Judith Ackroyd-Pilkington",
-      "abstract": "This thesis examines the under-researched area of teacher-in-role. It seeks to determine whether or not teachers working in role are acting and suggests that contrary to the orthodox position, a strict distinction between teacher-in-role and acting can no longer be sustained. This thesis will argue that, within the discourse of drama in education, the concept of acting is narrow due to both a restricted view of theatre and an assumption that there is an inherent contradiction between acting and a pedagogic function. By examining theories of acting, I will suggests that definitions within the dramatic art form should be temporary to accommodate diverse and developing practices. The theoretical research focuses on four relevant aspects of acting and role -context and the relationship with audience, functions and aims, skills, and approaches - which are then applied to samples of practic...",
-      "date": "2026-09-11",
-      "year": 2026,
-      "journal": "Warwick Research Archive Portal (University of Warwick)",
-      "source": "Warwick Research Archive Portal (University of Warwick)",
-      "sourceApi": "OpenAlex",
-      "url": "http://wrap.warwick.ac.uk/56107/1/WRAP_thesis_Ackroyd-Pilkington_2002.pdf",
-      "doi": "10.82444/warw.33625693",
-      "pdfUrl": "http://wrap.warwick.ac.uk/56107/1/WRAP_thesis_Ackroyd-Pilkington_2002.pdf",
-      "keywords": [
-        "Contradiction",
-        "Drama",
-        "Context (archaeology)",
-        "Epistemology",
-        "Function (biology)",
-        "Theatre and Performance Studies",
-        "Creative Drama in Education",
-        "Arts and Performance Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 21,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:47.399433+00:00"
+      "_retrievedAt": "2026-10-23T11:32:47.956287+00:00"
     },
     {
       "id": "openalex-2da239523a05",
@@ -1860,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:47.397310+00:00"
+      "_retrievedAt": "2026-10-23T11:32:47.956088+00:00"
     },
     {
       "id": "openalex-a4d4df423646",
@@ -1892,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:47.398086+00:00"
+      "_retrievedAt": "2026-10-23T11:32:47.956487+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1924,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:49.678933+00:00"
+      "_retrievedAt": "2026-10-23T11:32:50.121355+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1956,7 +1956,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:47.393569+00:00"
+      "_retrievedAt": "2026-10-23T11:32:47.953884+00:00"
     },
     {
       "id": "openalex-aaaea7987db6",
@@ -1988,7 +1988,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.109826+00:00"
+      "_retrievedAt": "2026-10-23T11:32:48.680011+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2020,7 +2020,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.107249+00:00"
+      "_retrievedAt": "2026-10-23T11:32:48.679342+00:00"
     },
     {
       "id": "openalex-4bcca691e2bc",
@@ -2052,7 +2052,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:49.682112+00:00"
+      "_retrievedAt": "2026-10-23T11:32:50.123042+00:00"
     },
     {
       "id": "openalex-fc31c72923df",
@@ -2084,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:47.396175+00:00"
+      "_retrievedAt": "2026-10-23T11:32:47.955306+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -2116,7 +2116,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.825344+00:00"
+      "_retrievedAt": "2026-10-23T11:32:49.447600+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -2148,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:49.682529+00:00"
+      "_retrievedAt": "2026-10-23T11:32:50.123247+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -2156,7 +2156,7 @@
       "type": "paper",
       "title": "Nucleolar dynamics are determined by the ordered assembly of the ribosome",
       "authors": "Jessica Sheu‐Gruttadauria, Xiaowei Yan, Nico Stuurman, Riley O. Ogrean, Sabrina Lin, Stephen N. Floor",
-      "abstract": "Ribosome biogenesis occurs in the nucleolus, a biomolecular condensate whose material properties are thought to be important for function. However, the molecular basis of nucleolar dynamics and their relationship to ribosome assembly remain incompletely understood. We present a platform for high-throughput FRAP (HiT-FRAP) and use it to screen hundreds of genes for their impact on dynamics of the nucleolar scaffold nucleophosmin (NPM1). We find that NPM1 dynamics and nucleolar morphology are sensitive to ribosome assembly state: accumulation of early pre-ribosomal intermediates slows NPM1 dynamics and compacts the condensate, while accumulation of abortive late precursors accelerates dynamics and disrupts condensate integrity. These opposing biophysical states correlate with the strength of NPM1-pre-ribosome interactions. Importantly, mutations in the NPM1 intrinsically disordered regi...",
+      "abstract": "Abstract Ribosome biogenesis occurs in the nucleolus, a biomolecular condensate whose material properties are thought to be important for function. However, the molecular basis of nucleolar dynamics and their relationship to ribosome assembly remain incompletely understood. We present a platform for hi gh-throughput fluorescence r ecovery a fter p hotobleaching (HiT-FRAP) and use it to screen hundreds of genes for their impact on dynamics of the nucleolar scaffold nucleophosmin (NPM1). We find that NPM1 dynamics and nucleolar morphology are sensitive to ribosome assembly state: accumulation of early preribosomal intermediates slows NPM1 dynamics and compacts the condensate, while accumulation of abortive late precursors accelerates dynamics and disrupts condensate integrity. These opposing biophysical states correlate with the strength of NPM1-pre-ribosome interactions. Importantly, m...",
       "date": "2026-08-14",
       "year": 2026,
       "journal": "The Journal of Cell Biology",
@@ -2180,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.112785+00:00"
+      "_retrievedAt": "2026-10-23T11:32:48.681110+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -2212,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:47.398461+00:00"
+      "_retrievedAt": "2026-10-23T11:32:47.956666+00:00"
     },
     {
       "id": "openalex-aa0b72ab3b90",
@@ -2244,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:49.682939+00:00"
+      "_retrievedAt": "2026-10-23T11:32:50.123458+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2276,7 +2276,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.110503+00:00"
+      "_retrievedAt": "2026-10-23T11:32:48.680187+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2308,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:49.683345+00:00"
+      "_retrievedAt": "2026-10-23T11:32:50.123649+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2340,7 +2340,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:47.399077+00:00"
+      "_retrievedAt": "2026-10-23T11:32:47.957006+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2372,7 +2372,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.105467+00:00"
+      "_retrievedAt": "2026-10-23T11:32:48.678851+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2404,7 +2404,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.108615+00:00"
+      "_retrievedAt": "2026-10-23T11:32:48.679692+00:00"
     },
     {
       "id": "openalex-34f37069c1ad",
@@ -2436,7 +2436,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.110933+00:00"
+      "_retrievedAt": "2026-10-23T11:32:48.680300+00:00"
     },
     {
       "id": "openalex-83b919635dc2",
@@ -2468,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.823430+00:00"
+      "_retrievedAt": "2026-10-23T11:32:49.446663+00:00"
     },
     {
       "id": "openalex-c47d537bde45",
@@ -2500,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.823806+00:00"
+      "_retrievedAt": "2026-10-23T11:32:49.447044+00:00"
     },
     {
       "id": "openalex-7a85bfe0ead2",
@@ -2532,7 +2532,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:49.683715+00:00"
+      "_retrievedAt": "2026-10-23T11:32:50.123834+00:00"
+    },
+    {
+      "id": "openalex-c19eb2f8bd80",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Linkerology in PROTACs: learnings for proximity-inducing therapeutics",
+      "authors": "Rubén Prieto‐Díaz, Aina Urbina, Maria Rodriguez-Rios, Alessio Ciulli",
+      "abstract": "Targeted protein degradation has rapidly evolved from a chemical biology concept into a therapeutic modality, with the first proteolysis-targeting chimera (PROTAC) degrader now approved as a medicine. Linkers play a central role in governing ternary complex formation and conferring drug-like properties on bifunctional compounds. However, linker optimisation remains one of the least rationalised steps in degrader design. In this review, we introduce a linkerology framework that integrates a data-driven analysis of PROTAC linker chemotypes with historical context, representative case studies, emerging proximity-based modalities, and clinical-stage trends. We reveal persistent biases in the explored linker space and identify linker features that are preferentially retained in clinical-stage degraders. Together, these insights position linkerology as a central discipline in PROTAC design...",
+      "date": "2026-07-31",
+      "year": 2026,
+      "journal": "Trends in Biochemical Sciences",
+      "source": "Trends in Biochemical Sciences",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.tibs.2026.07.004",
+      "doi": "10.1016/j.tibs.2026.07.004",
+      "pdfUrl": "https://doi.org/10.1016/j.tibs.2026.07.004",
+      "keywords": [
+        "Linker",
+        "Bifunctional",
+        "Computational biology",
+        "Chemical space",
+        "Ternary complex",
+        "Protein Degradation and Inhibitors",
+        "Chemical Synthesis and Analysis",
+        "Ubiquitin and proteasome pathways"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-23T11:32:49.448559+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2564,7 +2596,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:49.679803+00:00"
+      "_retrievedAt": "2026-10-23T11:32:50.121829+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2596,7 +2628,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:49.680199+00:00"
+      "_retrievedAt": "2026-10-23T11:32:50.122039+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2628,7 +2660,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:47.394477+00:00"
+      "_retrievedAt": "2026-10-23T11:32:47.954410+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2660,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.824590+00:00"
+      "_retrievedAt": "2026-10-23T11:32:49.447424+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2692,7 +2724,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.106599+00:00"
+      "_retrievedAt": "2026-10-23T11:32:48.679165+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -2720,11 +2752,11 @@
         "Prostate Cancer Treatment and Research"
       ],
       "readTime": "1 min",
-      "citedBy": 8,
+      "citedBy": 9,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.824950+00:00"
+      "_retrievedAt": "2026-10-23T11:32:49.446842+00:00"
     },
     {
       "id": "openalex-100e88f28593",
@@ -2756,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.825797+00:00"
+      "_retrievedAt": "2026-10-23T11:32:49.447827+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -2788,7 +2820,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.827402+00:00"
+      "_retrievedAt": "2026-10-23T11:32:49.448741+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2820,7 +2852,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:47.394026+00:00"
+      "_retrievedAt": "2026-10-23T11:32:47.954184+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2852,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.109279+00:00"
+      "_retrievedAt": "2026-10-23T11:32:48.679848+00:00"
     },
     {
       "id": "openalex-814a31d1960d",
@@ -2884,7 +2916,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:49.684099+00:00"
+      "_retrievedAt": "2026-10-23T11:32:50.124041+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -2916,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:49.684442+00:00"
+      "_retrievedAt": "2026-10-23T11:32:50.124199+00:00"
     },
     {
       "id": "openalex-b4945be66b52",
@@ -2948,7 +2980,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.111357+00:00"
+      "_retrievedAt": "2026-10-23T11:32:48.680439+00:00"
     },
     {
       "id": "openalex-d1f5fac033f2",
@@ -2980,7 +3012,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:49.684841+00:00"
+      "_retrievedAt": "2026-10-23T11:32:50.124404+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3012,7 +3044,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.822409+00:00"
+      "_retrievedAt": "2026-10-23T11:32:49.446156+00:00"
     },
     {
       "id": "openalex-4a46ff2c29ce",
@@ -3044,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:49.685207+00:00"
+      "_retrievedAt": "2026-10-23T11:32:50.124581+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3072,11 +3104,11 @@
         "Wind and Air Flow Studies"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:49.680982+00:00"
+      "_retrievedAt": "2026-10-23T11:32:50.122263+00:00"
     },
     {
       "id": "openalex-6068978c624a",
@@ -3108,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.111701+00:00"
+      "_retrievedAt": "2026-10-23T11:32:48.680600+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -3140,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:49.681783+00:00"
+      "_retrievedAt": "2026-10-23T11:32:50.122862+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -3172,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:49.681389+00:00"
+      "_retrievedAt": "2026-10-23T11:32:50.122657+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -3204,39 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.112058+00:00"
-    },
-    {
-      "id": "openalex-b7572a22400b",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "The cGAS–STING pathway in tumor immunity: dual roles, regulatory mechanisms, and precision therapeutic strategies",
-      "authors": "H B Jiang, Zhanzhan Li, X X Li, Lulu Yu, Jiacheng Sun, Yuntian Shen",
-      "abstract": "The cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) pathway, the core DNA-sensing mechanism in innate immunity, plays a pivotal role in linking tumorigenesis and the immune response. This review systematically elucidates the molecular activation mechanisms of this pathway and its complex regulatory networks within tumors, with a particular focus on analyzing its dual functions-tumor immune surveillance versus tumor promotion-and the determining factors involved. Current research indicates that acute activation of the cGAS-STING pathway potently suppresses tumors by inducing type I interferon responses, thereby promoting dendritic cell (DC) maturation and cytotoxic T lymphocyte infiltration. However, its chronic, persistent activation can paradoxically accelerate tumor progression and immune evasion by remodeling the immunosuppressive tumor microenvironment (TME),...",
-      "date": "2026-07-08",
-      "year": 2026,
-      "journal": "Frontiers in Pharmacology",
-      "source": "Frontiers in Pharmacology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fphar.2026.1844637",
-      "doi": "10.3389/fphar.2026.1844637",
-      "pdfUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1844637/pdf",
-      "keywords": [
-        "Tumor microenvironment",
-        "Immunotherapy",
-        "Cancer research",
-        "Immune system",
-        "Epigenetics",
-        "interferon and immune responses",
-        "Cancer Immunotherapy and Biomarkers",
-        "Immunotherapy and Immune Responses"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.827788+00:00"
+      "_retrievedAt": "2026-10-23T11:32:48.680776+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -3268,7 +3268,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:47.396516+00:00"
+      "_retrievedAt": "2026-10-23T11:32:47.955481+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -3300,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:49.680566+00:00"
+      "_retrievedAt": "2026-10-23T11:32:50.122455+00:00"
     },
     {
       "id": "openalex-b7abd719b558",
@@ -3332,7 +3332,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:47.396874+00:00"
+      "_retrievedAt": "2026-10-23T11:32:47.955670+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -3364,7 +3364,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.822780+00:00"
+      "_retrievedAt": "2026-10-23T11:32:49.446347+00:00"
     },
     {
       "id": "openalex-f831f0b2712b",
@@ -3396,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.112454+00:00"
+      "_retrievedAt": "2026-10-23T11:32:48.680938+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -3428,7 +3428,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:47.395797+00:00"
+      "_retrievedAt": "2026-10-23T11:32:47.955119+00:00"
     },
     {
       "id": "openalex-5a31a7e0a2f8",
@@ -3460,7 +3460,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:47.398770+00:00"
+      "_retrievedAt": "2026-10-23T11:32:47.956830+00:00"
     },
     {
       "id": "openalex-7596e664f24c",
@@ -3492,7 +3492,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.107844+00:00"
+      "_retrievedAt": "2026-10-23T11:32:48.679493+00:00"
     },
     {
       "id": "openalex-10ad267fea93",
@@ -3524,7 +3524,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.826620+00:00"
+      "_retrievedAt": "2026-10-23T11:32:49.448236+00:00"
     },
     {
       "id": "openalex-33e8cda96b3e",
@@ -3556,7 +3556,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T04:43:48.827008+00:00"
+      "_retrievedAt": "2026-10-23T11:32:49.448424+00:00"
     }
   ]
 }
