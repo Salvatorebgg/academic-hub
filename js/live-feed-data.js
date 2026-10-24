@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-10-23T21:21:18.934411+00:00",
+  "generatedAt": "2026-10-24T04:31:07.406034+00:00",
   "total": 111,
   "sources": [
     "RSS",
@@ -7,13 +7,237 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
+      "id": "rss-2e48f8aabe6b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Once-daily oral icotrokinra outperforms placebo in ulcerative colitis",
+      "authors": "Medical Xpress",
+      "abstract": "For patients with moderately to severely active ulcerative colitis, oral icotrokinra, a peptide that blocks the interleukin-23 receptor, yields a clinical response at week 12 significantly more often than placebo, according to a study published in the Oct. 15 issue of the New England Journal of Medicine.",
+      "date": "2026-10-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-daily-oral-icotrokinra-outperforms-placebo.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "oral",
+        "icotrokinra",
+        "placebo",
+        "ulcerative",
+        "colitis",
+        "once-daily",
+        "outperforms",
+        "patients"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-24T04:31:06.506275+00:00"
+    },
+    {
+      "id": "rss-67454ef1a4c1",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Diagnostic test could help doctors refine prostate cancer treatment",
+      "authors": "Medical Xpress",
+      "abstract": "Prostate cancer is the most common cancer in men—in 2013, it affected more than 1 million men across the world. The cancer does not behave the same way in every patient, and doctors have long faced a difficult balancing act between identifying patients who will benefit from more intensive treatment and those who may do just as well without it. Treating someone more aggressively than necessary is associated with increased side effects and poorer quality of life.",
+      "date": "2026-10-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-diagnostic-doctors-refine-prostate-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "more",
+        "doctors",
+        "prostate",
+        "treatment",
+        "than",
+        "diagnostic",
+        "test"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-24T04:31:06.506631+00:00"
+    },
+    {
+      "id": "rss-6006dd6d400c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Reprogramming tumor microenvironment could improve prospects for treatment of pancreatic cancer",
+      "authors": "Medical Xpress",
+      "abstract": "Pancreatic cancer is one of the most aggressive and difficult-to-treat cancers. One reason for its resistance to therapy is the dense tissue surrounding the tumor that acts as a protective barrier and suppresses the immune response. It is a complex tissue made of supporting cells, blood vessels and immune cells—the tumor microenvironment. In pancreatic cancer, this surrounding tissue accounts for up to 90% of the tumor mass.",
+      "date": "2026-10-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-reprogramming-tumor-microenvironment-prospects-treatment.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "tumor",
+        "pancreatic",
+        "cancer",
+        "tissue",
+        "microenvironment",
+        "surrounding",
+        "immune",
+        "cells"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-24T04:31:06.506951+00:00"
+    },
+    {
+      "id": "rss-6f02f3c183fa",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Tegoprubart preserves kidney function better than tacrolimus in first-time transplant patients, trial suggests",
+      "authors": "Medical Xpress",
+      "abstract": "The phase 2 BESTOW clinical trial showed that tegoprubart (a novel anti-CD40L antibody therapy) was better at preserving kidney function than tacrolimus (the current standard of care) in immunosuppressive regimens in adults receiving their first kidney transplant. Kidney graft function stabilized after the first month of treatment and remained higher in tegoprubart-treated patients than in tacrolimus-treated patients at each reported time point, with a statistically significant kidney function benefit at 18 months. A recent analysis of BESTOW data found that tegoprubart also caused greater improvements in patient-reported health-related quality of life compared with tacrolimus in study participants. The findings will be presented at ASN Kidney Week 2026, Oct. 22–25.",
+      "date": "2026-10-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-tegoprubart-kidney-function-tacrolimus-transplant.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "kidney",
+        "function",
+        "tegoprubart",
+        "than",
+        "tacrolimus",
+        "patients",
+        "better",
+        "transplant"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-24T04:31:06.507380+00:00"
+    },
+    {
+      "id": "rss-b8bbee9f6a55",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "US–Mexico border counties face high kidney disease–related mortality and low nephrologist availability",
+      "authors": "Medical Xpress",
+      "abstract": "New research indicates that U.S.–Mexico border counties experience disproportionately elevated rates of death from chronic kidney disease (CKD), alongside reduced availability of nephrologists. The findings will be presented at ASN Kidney Week 2026, Oct. 22–25.",
+      "date": "2026-10-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-usmexico-border-counties-high-kidney.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "kidney",
+        "mexico",
+        "border",
+        "counties",
+        "disease",
+        "availability",
+        "face",
+        "high"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-24T04:31:06.507653+00:00"
+    },
+    {
+      "id": "rss-b51b1b2a08ec",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Standard kidney function tests underestimate chronic kidney disease in people with cancer",
+      "authors": "Medical Xpress",
+      "abstract": "New research indicates that commonly used measures of kidney function underestimate the prevalence of chronic kidney disease (CKD) in patients with cancer. The findings will be presented at ASN Kidney Week 2026, Oct. 22–25.",
+      "date": "2026-10-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-standard-kidney-function-underestimate-chronic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "kidney",
+        "function",
+        "underestimate",
+        "chronic",
+        "disease",
+        "cancer",
+        "standard",
+        "tests"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-24T04:31:06.507927+00:00"
+    },
+    {
+      "id": "rss-6dd4d11a9000",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Melanoma vaccine reduces death or cancer recurrence by 42%",
+      "authors": "Medical Xpress",
+      "abstract": "In a world-first international trial, adding intismeran, a type of personalized therapeutic cancer vaccine made from each patient's own tumor, to pembrolizumab immunotherapy after surgery for high-risk melanoma reduced the risk of recurrence or death by 42%.",
+      "date": "2026-10-24",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-melanoma-vaccine-death-cancer-recurrence.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "melanoma",
+        "vaccine",
+        "death",
+        "cancer",
+        "recurrence",
+        "reduces",
+        "world-first",
+        "international"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-24T04:31:06.508196+00:00"
+    },
+    {
       "id": "rss-d9cc0ccc634a",
       "discipline": "clinical",
       "type": "news",
       "title": "5 great cardio workouts you can do at home",
       "authors": "Medical Xpress",
       "abstract": "You might have heard that cardio, or aerobic, exercise is one of the best ways to keep your heart, lungs and cardiovascular system healthy and strong.",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.496275+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.508417+00:00"
     },
     {
       "id": "rss-9d2119cd90dc",
@@ -45,7 +269,7 @@ window.LIVE_FEED_DATA = {
       "title": "Online resources and coaching helped people seek genetic testing for cancer",
       "authors": "Medical Xpress",
       "abstract": "About 10% of cancers are linked to an inherited genetic variant, but as few as one in 15 cancer patients eligible for genetic testing complete it.",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.496531+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.508634+00:00"
     },
     {
       "id": "rss-8c031e0537b0",
@@ -77,7 +301,7 @@ window.LIVE_FEED_DATA = {
       "title": "Study identifies potential new treatment targets for the most common type of bowel cancer",
       "authors": "Medical Xpress",
       "abstract": "Research published today identifies potential new ways to treat the most common type of colorectal cancer in Ireland. The study, conducted by an international research team led by RCSI University of Medicine and Health Sciences and The Institute of Cancer Research, London, provides a roadmap for repurposing existing drugs and developing new ones to create more effective, personalized treatments for thousands of patients who currently have limited options.",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.496846+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.508919+00:00"
     },
     {
       "id": "rss-f44909b70f77",
@@ -109,7 +333,7 @@ window.LIVE_FEED_DATA = {
       "title": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
       "authors": "Medical Xpress",
       "abstract": "Early results of the first clinical trial to evaluate the drug invikafusp alfa (invika) in humans indicate that the treatment may be capable of managing cancers that have rebuffed most other interventions, including standard immunotherapy.",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.497096+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.509167+00:00"
     },
     {
       "id": "rss-dd1ff3a5dbf3",
@@ -141,7 +365,7 @@ window.LIVE_FEED_DATA = {
       "title": "A third of young adults turn to AI for substance-use information",
       "authors": "Medical Xpress",
       "abstract": "More than 32% of participants in a Rutgers study reported using ChatGPT and similar chatbots for substance-use information.",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.497312+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.509397+00:00"
     },
     {
       "id": "rss-7243ef2a7279",
@@ -173,7 +397,7 @@ window.LIVE_FEED_DATA = {
       "title": "Could fish consumption reduce the risk of hypertensive disorders of pregnancy?",
       "authors": "Medical Xpress",
       "abstract": "A new prospective study from Japan explored whether fish consumption before and during pregnancy is linked to hypertensive disorders of pregnancy, including gestational hypertension and preeclampsia. Researchers analyzed data from women in Japan, examining fish consumption and n-3 and n-6 polyunsaturated fatty acid (PUFA) intake across different stages of pregnancy. The results reveal a pattern that may have implications for preconception and prenatal nutrition.",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.497584+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.509672+00:00"
     },
     {
       "id": "rss-273265be2907",
@@ -205,7 +429,7 @@ window.LIVE_FEED_DATA = {
       "title": "Mental health disparities persist for LGBTQ+ college students nationwide, largest study of its kind finds",
       "authors": "Medical Xpress",
       "abstract": "LGBTQ+ college students who experience discrimination are significantly more likely to experience depression, anxiety and suicidal thoughts and to avoid needed health care, according to a new national study by Columbia University Mailman School of Public Health, Boston University School of Public Health and Harvard Pilgrim Health Care Institute. The findings underscore the impact of discrimination on student mental health during a critical stage of life. The results are published in the journal Behavioral Medicine.",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -228,231 +452,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.497930+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.509955+00:00"
     },
     {
-      "id": "rss-ee43361c4a18",
-      "discipline": "clinical",
+      "id": "rss-7712e457c24f",
+      "discipline": "cs",
       "type": "news",
-      "title": "ESMO: New analysis reinforces survival benefits of targeted therapy for advanced pancreatic cancer",
-      "authors": "Medical Xpress",
-      "abstract": "A new analysis of a phase 3 clinical trial found that the targeted drug daraxonrasib improved survival compared with standard chemotherapy across multiple groups of patients with advanced pancreatic cancer, including those with different RAS mutations and those without an identified RAS mutation.",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
       "date": "2026-10-23",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-esmo-analysis-survival-benefits-therapy.html",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "survival",
-        "targeted",
-        "advanced",
-        "pancreatic",
-        "cancer",
-        "those",
-        "esmo",
-        "reinforces"
+        "openai",
+        "will",
+        "internet",
+        "says",
+        "longer",
+        "train",
+        "live",
+        "citing"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.498197+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.591574+00:00"
     },
     {
-      "id": "rss-29c1a75791e0",
-      "discipline": "clinical",
+      "id": "rss-e8c9151333ad",
+      "discipline": "cs",
       "type": "news",
-      "title": "Six-gene scoring system could help predict leukemia survival",
-      "authors": "Medical Xpress",
-      "abstract": "The activity of six different genes can help determine survival in patients with acute myeloid leukemia (AML), according to a study published in Science Advances. The findings by researchers at the Center for Genomic Regulation (CRG) in Barcelona lay the foundations for new ways of predicting how patients will fare with a type of blood cancer that has widely variable outcomes from one patient to the next.",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "authors": "TechCrunch AI",
+      "abstract": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
       "date": "2026-10-23",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-gene-scoring-leukemia-survival.html",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "help",
-        "leukemia",
-        "survival",
-        "patients",
-        "six-gene",
-        "scoring",
-        "system",
-        "could"
+        "robots",
+        "hottest",
+        "christmas",
+        "nvidia",
+        "plays",
+        "adorable",
+        "microduck",
+        "sell"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.498467+00:00"
-    },
-    {
-      "id": "rss-9a3d95e60d3d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "How cancers evade chemotherapy by entering a 'zombie-like state'",
-      "authors": "Medical Xpress",
-      "abstract": "Scientists at Trinity College Dublin have made a breakthrough in understanding how cancer cells can evade the cell-killing effects of chemotherapy and enter a \"zombie-like state,\" called premature senescence, that can attract the wound-healing properties of the immune system.",
-      "date": "2026-10-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-cancers-evade-chemotherapy-zombie-state.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "evade",
-        "chemotherapy",
-        "zombie-like",
-        "state",
-        "cancers",
-        "entering",
-        "scientists",
-        "trinity"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.498706+00:00"
-    },
-    {
-      "id": "rss-0f6889b581da",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Cancer cells' own carbon monoxide fuels anticancer drug production in lab tests",
-      "authors": "Medical Xpress",
-      "abstract": "What if we could use a cancer's own byproduct to make drugs that destroy tumor cells from the inside? That is what Katsunori Tanaka and his team have done at the RIKEN Pioneering Research Institute (PRI) in Japan.",
-      "date": "2026-10-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-cancer-cells-carbon-monoxide-fuels.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "cells",
-        "what",
-        "that",
-        "carbon",
-        "monoxide",
-        "fuels",
-        "anticancer"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.498967+00:00"
-    },
-    {
-      "id": "rss-5ad33c635725",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Procedure standard/procedure guideline for ventilation–perfusion pulmonary scintigraphy published",
-      "authors": "Medical Xpress",
-      "abstract": "The Society of Nuclear Medicine and Molecular Imaging (SNMMI), European Association of Nuclear Medicine (EANM), American College of Nuclear Medicine (ACNM) and Australian and New Zealand Society of Nuclear Medicine (ANZSNM) have issued a new procedure standard/procedure guideline for performing and interpreting lung imaging studies. The standard/guideline, published in the September issue of The Journal of Nuclear Medicine Technology, provides a framework for clinical applications and standardization of ventilation–perfusion (V/Q) scintigraphy, ventilation-only scintigraphy and perfusion-only scintigraphy.",
-      "date": "2026-10-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-procedure-standardprocedure-guideline-ventilationperfusion-pulmonary.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nuclear",
-        "medicine",
-        "procedure",
-        "scintigraphy",
-        "standard",
-        "guideline",
-        "ventilation",
-        "perfusion"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.499303+00:00"
-    },
-    {
-      "id": "rss-abac3170063f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Real-world results confirm benefit of antigen therapy for prostate cancer",
-      "authors": "Medical Xpress",
-      "abstract": "Prostate-specific membrane antigen (PSMA)-targeted radiopharmaceutical therapy is safe and effective for patients with metastatic castration-resistant prostate cancer (mCRPC) in routine clinical practice, consistent with outcomes from the VISION trial. An analysis of outcomes from a French early-access program, the largest real-world cohort of patients studied to date, confirms the benefit-risk profile of the therapy, while also shedding light on patient selection and use trends. This research was published in The Journal of Nuclear Medicine.",
-      "date": "2026-10-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-real-world-results-benefit-antigen.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "therapy",
-        "real-world",
-        "antigen",
-        "prostate",
-        "cancer",
-        "patients",
-        "outcomes",
-        "results"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.499599+00:00"
-    },
-    {
-      "id": "rss-17605b1ea6e7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "FDA approves hepatitis B shot that may let some patients stop all treatment",
-      "authors": "Medical Xpress",
-      "abstract": "Some adults with chronic hepatitis B may now have a path to something today's treatments rarely deliver—stopping all medication while the virus stays in check.",
-      "date": "2026-10-23",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-fda-hepatitis-shot-patients-treatment.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hepatitis",
-        "some",
-        "approves",
-        "shot",
-        "that",
-        "patients",
-        "stop",
-        "treatment"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.499857+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.591807+00:00"
     },
     {
       "id": "rss-bec6c4f01018",
@@ -484,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.562308+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.592018+00:00"
     },
     {
       "id": "rss-c2baed907f4c",
@@ -516,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.562535+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.592211+00:00"
     },
     {
       "id": "rss-a7645b057fc6",
@@ -548,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.562715+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.592387+00:00"
     },
     {
       "id": "rss-281de43e80f6",
@@ -580,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.613655+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.682894+00:00"
     },
     {
       "id": "rss-60fc831425ac",
@@ -612,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.613890+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.683098+00:00"
     },
     {
       "id": "rss-cbaee3e9e823",
@@ -644,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.614091+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.683373+00:00"
     },
     {
       "id": "rss-6553faed2c94",
@@ -676,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.562912+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.592551+00:00"
     },
     {
       "id": "rss-f7ec8a933517",
@@ -708,39 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.563085+00:00"
-    },
-    {
-      "id": "rss-70abc67ad46b",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Canva releases its first image generation model",
-      "authors": "TechCrunch AI",
-      "abstract": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "date": "2026-10-22",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "canva",
-        "image",
-        "releases",
-        "first",
-        "generation",
-        "making",
-        "available",
-        "users"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.563234+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.592716+00:00"
     },
     {
       "id": "rss-9d468d90a906",
@@ -772,7 +804,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.563383+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.592868+00:00"
+    },
+    {
+      "id": "rss-70abc67ad46b",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Canva releases its first image generation model",
+      "authors": "TechCrunch AI",
+      "abstract": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "date": "2026-10-22",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "canva",
+        "image",
+        "releases",
+        "first",
+        "generation",
+        "making",
+        "available",
+        "users"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-24T04:31:06.593018+00:00"
     },
     {
       "id": "rss-17c35aa1001c",
@@ -804,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.563599+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.593247+00:00"
     },
     {
       "id": "rss-e73dca2549bd",
@@ -836,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.563764+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.593426+00:00"
     },
     {
       "id": "rss-049bcd99a596",
@@ -868,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.563943+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.593579+00:00"
     },
     {
       "id": "rss-1d891c79abca",
@@ -900,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.564116+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.593754+00:00"
     },
     {
       "id": "rss-c497f039b5b4",
@@ -932,71 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.564264+00:00"
-    },
-    {
-      "id": "rss-8572c7216cde",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Nirva raises $33M for a pendant that only listens to you",
-      "authors": "TechCrunch AI",
-      "abstract": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-      "date": "2026-10-22",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nirva",
-        "pendant",
-        "raises",
-        "that",
-        "only",
-        "listens",
-        "will",
-        "ship"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.564409+00:00"
-    },
-    {
-      "id": "rss-5a5fa52a3ea6",
-      "discipline": "cs",
-      "type": "news",
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "authors": "TechCrunch AI",
-      "abstract": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-      "date": "2026-10-22",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "deepseek",
-        "reportedly",
-        "days",
-        "after",
-        "raises",
-        "restrictions",
-        "raised",
-        "billion"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.564573+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.593905+00:00"
     },
     {
       "id": "rss-0a2551ebac8b",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.614278+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.683566+00:00"
     },
     {
       "id": "openalex-4bd6cc099ffc",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.103877+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.227736+00:00"
     },
     {
       "id": "rss-69ba6379887b",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.614454+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.683743+00:00"
     },
     {
       "id": "rss-0e793fcfa72e",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.614617+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.683909+00:00"
     },
     {
       "id": "rss-f2b78d63857a",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.614878+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.684074+00:00"
     },
     {
       "id": "rss-dfab44ee18d2",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.615058+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.684274+00:00"
     },
     {
       "id": "rss-6674f1b9a348",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.615223+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.684441+00:00"
     },
     {
       "id": "rss-4ab0a2b15569",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.615390+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.684608+00:00"
     },
     {
       "id": "rss-218219c6f48a",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.615547+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.684772+00:00"
     },
     {
       "id": "rss-d82f0f078053",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.799928+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.828739+00:00"
     },
     {
       "id": "rss-18545777b44e",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.800272+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.829068+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.953995+00:00"
+      "_retrievedAt": "2026-10-24T04:31:00.743938+00:00"
     },
     {
       "id": "rss-b96de90b49a5",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.615709+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.684934+00:00"
     },
     {
       "id": "rss-20f5d059a7c0",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.615879+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.685077+00:00"
     },
     {
       "id": "rss-dea80f44d99d",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.616071+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.685293+00:00"
     },
     {
       "id": "rss-9097c559200f",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.800517+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.829348+00:00"
     },
     {
       "id": "rss-28ffe5c2eb8b",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.801150+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.829959+00:00"
     },
     {
       "id": "rss-3f43f1f3aef2",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.801860+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.830663+00:00"
     },
     {
       "id": "rss-dcbeb4cde24b",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.802399+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.831246+00:00"
     },
     {
       "id": "rss-5764f9ec0337",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.803160+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.831974+00:00"
     },
     {
       "id": "rss-23f57c26ccb3",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.803587+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.832436+00:00"
     },
     {
       "id": "rss-0333c77565a0",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.803774+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.832633+00:00"
     },
     {
       "id": "rss-a7d777e1fbd3",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:18.804274+00:00"
+      "_retrievedAt": "2026-10-24T04:31:06.833120+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1764,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.101510+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.225358+00:00"
     },
     {
       "id": "openalex-637c76942b6d",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.102114+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.225937+00:00"
     },
     {
       "id": "openalex-e987114418d8",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.104666+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.228666+00:00"
     },
     {
       "id": "openalex-2da239523a05",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.104295+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.228261+00:00"
     },
     {
       "id": "openalex-a4d4df423646",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.105076+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.229055+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:15.288159+00:00"
+      "_retrievedAt": "2026-10-24T04:31:01.471596+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.100220+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.224023+00:00"
     },
     {
       "id": "openalex-aaaea7987db6",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.445480+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.896717+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.444221+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.895435+00:00"
     },
     {
       "id": "openalex-4bcca691e2bc",
@@ -2052,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:15.291370+00:00"
+      "_retrievedAt": "2026-10-24T04:31:01.474792+00:00"
     },
     {
       "id": "openalex-fc31c72923df",
@@ -2084,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.102804+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.226654+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -2116,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.956288+00:00"
+      "_retrievedAt": "2026-10-24T04:31:00.746269+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -2148,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:15.291756+00:00"
+      "_retrievedAt": "2026-10-24T04:31:01.475205+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -2180,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.447680+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.898987+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -2212,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.105402+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.229416+00:00"
     },
     {
       "id": "openalex-aa0b72ab3b90",
@@ -2244,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:15.292211+00:00"
+      "_retrievedAt": "2026-10-24T04:31:01.475615+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2276,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.445840+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.897061+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2308,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:15.292586+00:00"
+      "_retrievedAt": "2026-10-24T04:31:01.475998+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2340,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.106026+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.230035+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2372,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.443286+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.894469+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2404,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.444889+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.896097+00:00"
     },
     {
       "id": "openalex-34f37069c1ad",
@@ -2436,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.446069+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.897326+00:00"
     },
     {
       "id": "openalex-83b919635dc2",
@@ -2468,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.954387+00:00"
+      "_retrievedAt": "2026-10-24T04:31:00.744362+00:00"
     },
     {
       "id": "openalex-c47d537bde45",
@@ -2500,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.955145+00:00"
+      "_retrievedAt": "2026-10-24T04:31:00.745110+00:00"
     },
     {
       "id": "openalex-7a85bfe0ead2",
@@ -2532,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:15.292984+00:00"
+      "_retrievedAt": "2026-10-24T04:31:01.476398+00:00"
     },
     {
       "id": "openalex-c19eb2f8bd80",
@@ -2564,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.958215+00:00"
+      "_retrievedAt": "2026-10-24T04:31:00.747347+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2596,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:15.289080+00:00"
+      "_retrievedAt": "2026-10-24T04:31:01.472475+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2628,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:15.289450+00:00"
+      "_retrievedAt": "2026-10-24T04:31:01.472844+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2660,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.101108+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.224938+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2692,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.955931+00:00"
+      "_retrievedAt": "2026-10-24T04:31:00.745885+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2724,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.443878+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.895063+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -2756,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.954744+00:00"
+      "_retrievedAt": "2026-10-24T04:31:00.744737+00:00"
     },
     {
       "id": "openalex-100e88f28593",
@@ -2788,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.956727+00:00"
+      "_retrievedAt": "2026-10-24T04:31:00.746714+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -2820,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.958576+00:00"
+      "_retrievedAt": "2026-10-24T04:31:00.747718+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2852,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.100667+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.224521+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2884,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.445197+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.896424+00:00"
     },
     {
       "id": "openalex-814a31d1960d",
@@ -2916,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:15.293371+00:00"
+      "_retrievedAt": "2026-10-24T04:31:01.476790+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -2948,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:15.293680+00:00"
+      "_retrievedAt": "2026-10-24T04:31:01.477099+00:00"
     },
     {
       "id": "openalex-b4945be66b52",
@@ -2980,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.446338+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.897603+00:00"
     },
     {
       "id": "openalex-d1f5fac033f2",
@@ -3012,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:15.294093+00:00"
+      "_retrievedAt": "2026-10-24T04:31:01.477528+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3044,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.953389+00:00"
+      "_retrievedAt": "2026-10-24T04:31:00.743326+00:00"
     },
     {
       "id": "openalex-4a46ff2c29ce",
@@ -3076,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:15.294446+00:00"
+      "_retrievedAt": "2026-10-24T04:31:01.477877+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3108,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:15.289890+00:00"
+      "_retrievedAt": "2026-10-24T04:31:01.473283+00:00"
     },
     {
       "id": "openalex-6068978c624a",
@@ -3140,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.446653+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.897924+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -3172,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:15.291048+00:00"
+      "_retrievedAt": "2026-10-24T04:31:01.474467+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -3204,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:15.290636+00:00"
+      "_retrievedAt": "2026-10-24T04:31:01.474039+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -3236,7 +3236,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.447026+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.898306+00:00"
+    },
+    {
+      "id": "openalex-b7572a22400b",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "The cGAS–STING pathway in tumor immunity: dual roles, regulatory mechanisms, and precision therapeutic strategies",
+      "authors": "H B Jiang, Zhanzhan Li, X X Li, Lulu Yu, Jiacheng Sun, Yuntian Shen",
+      "abstract": "The cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) pathway, the core DNA-sensing mechanism in innate immunity, plays a pivotal role in linking tumorigenesis and the immune response. This review systematically elucidates the molecular activation mechanisms of this pathway and its complex regulatory networks within tumors, with a particular focus on analyzing its dual functions-tumor immune surveillance versus tumor promotion-and the determining factors involved. Current research indicates that acute activation of the cGAS-STING pathway potently suppresses tumors by inducing type I interferon responses, thereby promoting dendritic cell (DC) maturation and cytotoxic T lymphocyte infiltration. However, its chronic, persistent activation can paradoxically accelerate tumor progression and immune evasion by remodeling the immunosuppressive tumor microenvironment (TME),...",
+      "date": "2026-07-08",
+      "year": 2026,
+      "journal": "Frontiers in Pharmacology",
+      "source": "Frontiers in Pharmacology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.3389/fphar.2026.1844637",
+      "doi": "10.3389/fphar.2026.1844637",
+      "pdfUrl": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1844637/pdf",
+      "keywords": [
+        "Tumor microenvironment",
+        "Immunotherapy",
+        "Cancer research",
+        "Immune system",
+        "Epigenetics",
+        "interferon and immune responses",
+        "Cancer Immunotherapy and Biomarkers",
+        "Immunotherapy and Immune Responses"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-24T04:31:00.748098+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -3268,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.103137+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.226990+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -3300,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:15.290253+00:00"
+      "_retrievedAt": "2026-10-24T04:31:01.473658+00:00"
     },
     {
       "id": "openalex-b7abd719b558",
@@ -3332,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.103488+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.227371+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -3364,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.953751+00:00"
+      "_retrievedAt": "2026-10-24T04:31:00.743708+00:00"
     },
     {
       "id": "openalex-f831f0b2712b",
@@ -3396,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.447349+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.898640+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -3428,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.102430+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.226285+00:00"
     },
     {
       "id": "openalex-5a31a7e0a2f8",
@@ -3460,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.105704+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.229730+00:00"
     },
     {
       "id": "openalex-7596e664f24c",
@@ -3492,71 +3524,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.444507+00:00"
+      "_retrievedAt": "2026-10-24T04:30:59.895726+00:00"
     },
     {
-      "id": "openalex-10ad267fea93",
+      "id": "openalex-93e697e727aa",
       "discipline": "clinical",
       "type": "paper",
-      "title": "Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial",
-      "authors": "Marc Steffen Raab, Niels Weinhold, Klaus Martin Kortüm, Jan Krönke, Roland R. Fenk, Katja Christina Weisel",
-      "abstract": "Abstract Advancements in frontline therapies have substantially improved outcomes in newly diagnosed multiple myeloma (NDMM); however, many patients will not achieve deep responses and will relapse. Teclistamab, a BCMA×CD3 bispecific antibody, in combination with daratumumab, has demonstrated strong efficacy in relapsed/refractory multiple myeloma versus standard of care as early as first relapse. This ongoing phase 2 GMMG-HD10/DSMM-XX (MajesTEC-5) study evaluates teclistamab-based regimens in transplant-eligible NDMM. In this prespecified pooled analysis of three cohorts, 49 patients received teclistamab/daratumumab/lenalidomide (Tec-DR; arms A and A1) or Tec-DR with bortezomib (Tec-DVR; arm B). Primary endpoints were incidence and severity of adverse events (AEs) and serious AEs; secondary endpoints included overall response rate (ORR), minimal residual disease (MRD) negativity and...",
-      "date": "2026-06-25",
+      "title": "Robotic versus Open Pancreatoduodenectomy (PORTAL): multicentre, single masked, phase 3, non-inferiority randomised controlled trial",
+      "authors": "Jiabin Jin, Kai Qin, Georgios Gemenetzis, Zheng Wang, Chenxi Zheng, Wenhua Li",
+      "abstract": "Abstract Objective To determine whether robotic pancreatoduodenectomy (RPD) is non-inferior to open pancreatoduodenectomy (OPD) in terms of postoperative functional recovery, without compromising safety or oncological quality. Design Multicentre, single masked, phase 3, non-inferiority randomised controlled trial. Setting Seven tertiary high volume pancreatic centres in China, 15 June 2020 to 28 November 2024. Participants 268 adults with resectable pancreatic or periampullary disease. Interventions Participants were randomised to receive standardised RPD (n=142) or OPD (n=126), with enhanced recovery pathways. Main outcome measures The primary outcome was time from surgery to postoperative functional recovery, defined as adequate pain control without parenteral analgesia, ≥50% oral intake without intravenous fluids, independent mobilisation, and absence of active intra-abdominal infe...",
+      "date": "2026-07-01",
       "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
+      "journal": "BMJ",
+      "source": "BMJ",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04471-x",
-      "doi": "10.1038/s41591-026-04471-x",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04471-x.pdf",
+      "url": "https://doi.org/10.1136/bmj-2026-319692",
+      "doi": "10.1136/bmj-2026-319692",
+      "pdfUrl": "https://doi.org/10.1136/bmj-2026-319692",
       "keywords": [
         "Medicine",
-        "Internal medicine",
-        "Leukopenia",
-        "Multiple myeloma",
-        "Bortezomib",
-        "Multiple Myeloma Research and Treatments",
-        "Monoclonal and Polyclonal Antibodies Research",
-        "Multiple Sclerosis Research Studies"
+        "Randomized controlled trial",
+        "Surgery",
+        "Confidence interval",
+        "Pancreaticoduodenectomy",
+        "Pancreatic and Hepatic Oncology Research",
+        "Enhanced Recovery After Surgery",
+        "Minimally Invasive Surgical Techniques"
       ],
-      "readTime": "1 min",
-      "citedBy": 7,
+      "readTime": "2 min",
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.957539+00:00"
-    },
-    {
-      "id": "openalex-33e8cda96b3e",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Regulatory T cells: master orchestrators of immune tolerance and tissue homeostasis",
-      "authors": "Jeffrey A. Bluestone, Megan K. Levings, F J Ramsdell, Alexander Yu Rudensky, Qizhi Tang, Piotr Trzonkowski",
-      "abstract": "Harnessing the biology of regulatory T cells (Tregs) for therapeutic development is one of medicine’s most promising opportunities to transform disease treatment. Initially viewed simply as guardians against destructive immune responses, we now understand that Tregs are adaptive and highly specialized coordinators of immune tolerance and tissue repair. This strategic roadmap examines how evolving insights into their central role in maintaining tolerance and health can transform therapeutic development across medical specialties. Early efforts to evaluate Treg therapies have proven safe and shown some clinical benefit. The convergence of biological insights and technological advances has the potential to harness and exploit this specialized tolerogenic population by augmenting function through environmental cues and reinforcing tissue-repair capabilities. Advanced engineering approache...",
-      "date": "2026-06-25",
-      "year": 2026,
-      "journal": "Frontiers in Science",
-      "source": "Frontiers in Science",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3389/fsci.2026.1792210",
-      "doi": "10.3389/fsci.2026.1792210",
-      "pdfUrl": "https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2026.1792210/pdf",
-      "keywords": [
-        "Immune system",
-        "Disease",
-        "Immune tolerance",
-        "Immunosuppression",
-        "Immunology",
-        "T-cell and B-cell Immunology",
-        "Immunotherapy and Immune Responses",
-        "Psoriasis: Treatment and Pathogenesis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-23T21:21:14.957939+00:00"
+      "_retrievedAt": "2026-10-24T04:31:00.748706+00:00"
     }
   ]
 };
