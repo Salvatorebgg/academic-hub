@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-10-27T12:05:39.141403+00:00",
+  "generatedAt": "2026-10-27T17:57:54.073138+00:00",
   "total": 111,
   "sources": [
     "RSS",
@@ -7,452 +7,644 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-77f99005a3d2",
+      "id": "rss-26ad2f9dfc5b",
       "discipline": "clinical",
       "type": "news",
-      "title": "Spinal fluid DNA testing may clarify brain tumor diagnoses when MRI leaves questions",
+      "title": "Where humans build, mosquitoes follow—bringing dengue, West Nile and other diseases with them",
       "authors": "Medical Xpress",
-      "abstract": "A Mayo Clinic study published in the Journal of Neuro-Oncology suggests that analyzing DNA in cerebrospinal fluid could provide another source of information when MRI cannot provide a clear brain tumor diagnosis or obtaining tissue through biopsy is difficult or potentially unsafe.",
+      "abstract": "A mosquito buzzing in your backyard may seem like a minor annoyance. But these tiny insects, with their taste for human blood, are increasingly appearing in areas where they were once rare or absent, and that's raising concerns about the spread of mosquito-borne diseases, including West Nile, Zika and dengue fever.",
       "date": "2026-10-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-spinal-fluid-dna-brain-tumor.html",
+      "url": "https://medicalxpress.com/news/2026-10-humans-mosquitoes-dengue-west-nile.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "fluid",
-        "brain",
-        "tumor",
-        "when",
-        "provide",
-        "spinal",
-        "testing",
-        "clarify"
+        "where",
+        "dengue",
+        "west",
+        "nile",
+        "diseases",
+        "humans",
+        "build",
+        "mosquitoes"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.593203+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.065347+00:00"
     },
     {
-      "id": "rss-544373e4db8e",
+      "id": "rss-2a50f2834d42",
       "discipline": "clinical",
       "type": "news",
-      "title": "New guideline provides recommendations on managing shift work disorder",
+      "title": "Glioblastoma's secret weapon: Silencing the brain's off switch",
       "authors": "Medical Xpress",
-      "abstract": "A new clinical practice guideline from the American Academy of Sleep Medicine establishes evidence‑based recommendations for the management of shift work disorder in adults.",
+      "abstract": "Researchers at Baylor College of Medicine have discovered a new strategy that glioblastoma, the most common and aggressive form of adult brain cancer, uses to fuel its own growth. Published in the journal Neuron, the study shows in animal models that glioblastoma hijacks the activity of neighboring brain cells, flipping them from a role that limits tumor growth to one that promotes it. The findings point to new treatment possibilities for this deadly cancer, which has seen only minimal gains in patient survival over the past half century.",
       "date": "2026-10-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-guideline-shift-disorder.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "guideline",
-        "recommendations",
-        "shift",
-        "work",
-        "disorder",
-        "provides",
-        "managing",
-        "clinical"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.593503+00:00"
-    },
-    {
-      "id": "rss-0eaf76b439e5",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "One session of heated tobacco use injures blood vessels and damages DNA",
-      "authors": "Medical Xpress",
-      "abstract": "Just one session of heated tobacco product use results in measurable damage to the blood vessels, according to a study published today (Tuesday) in the European Journal of Preventive Cardiology.",
-      "date": "2026-10-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-session-tobacco-blood-vessels-dna.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "session",
-        "heated",
-        "tobacco",
-        "blood",
-        "vessels",
-        "injures",
-        "damages",
-        "just"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.593747+00:00"
-    },
-    {
-      "id": "rss-9f7fda07b54a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Amygdala activity predicts which new images may become lasting memories",
-      "authors": "Medical Xpress",
-      "abstract": "A walnut-sized area of the brain known as the amygdala plays a giant role in determining which experiences end up in long-term memory and which are forgotten. The Cedars-Sinai Health Sciences University discovery points to the amygdala as a potential target for treating memory disorders.",
-      "date": "2026-10-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-amygdala-images-memories.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "amygdala",
-        "which",
-        "memory",
-        "activity",
-        "predicts",
-        "images",
-        "become",
-        "lasting"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.593998+00:00"
-    },
-    {
-      "id": "rss-f86853329653",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Congo's Ebola outbreak tops 10,000 cases as authorities race to slow the spread in African countries",
-      "authors": "Medical Xpress",
-      "abstract": "The fast-moving Ebola outbreak in Congo has reached 10,000 confirmed cases, government data showed Tuesday, as health authorities race to slow the spread of the disease in multiple African countries.",
-      "date": "2026-10-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-congo-ebola-outbreak-tops-cases.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "congo",
-        "ebola",
-        "outbreak",
-        "cases",
-        "authorities",
-        "race",
-        "slow",
-        "spread"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.594234+00:00"
-    },
-    {
-      "id": "rss-69d6e67a0fa0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Exploring the potential of immunotherapy in early-stage triple-negative breast cancer",
-      "authors": "Medical Xpress",
-      "abstract": "Triple-negative breast cancers, which are more frequently diagnosed in younger women, are a subtype of breast tumor characterized by the absence of hormone receptors and HER2 overexpression. As a result, they do not respond to hormone therapy or HER2-targeted treatments. Their prognosis is generally less favorable than that of other breast cancer subtypes.",
-      "date": "2026-10-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-exploring-potential-immunotherapy-early-stage.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "breast",
-        "triple-negative",
-        "cancer",
-        "hormone",
-        "exploring",
-        "potential",
-        "immunotherapy",
-        "early-stage"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.594560+00:00"
-    },
-    {
-      "id": "rss-8eb1ddc5d3c0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Tomosynthesis detects breast cancer more frequently during screening",
-      "authors": "Medical Xpress",
-      "abstract": "With around 75,000 new cases per year, breast cancer is by far the most common cancer among women in Germany. Using digital breast tomosynthesis in the breast cancer screening program could prevent around a quarter of invasive interval cancers that occur within two years after a digital mammogram.",
-      "date": "2026-10-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-tomosynthesis-breast-cancer-frequently-screening.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "breast",
-        "cancer",
-        "tomosynthesis",
-        "screening",
-        "around",
-        "digital",
-        "detects",
-        "more"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.594819+00:00"
-    },
-    {
-      "id": "rss-fcb3b4673ef3",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Hemoglobin component heme shown to inhibit enzyme that helps dissolve blood clots",
-      "authors": "Medical Xpress",
-      "abstract": "When it comes to blood clots, it is not only how they form that is crucial, but also how the body can break them down again. A team of researchers at the University of Koblenz, led by Prof. Dr. Marie-T. Hopp, has demonstrated that heme—a component of hemoglobin—can influence this process. The findings, published in the International Journal of Biological Macromolecules, provide a new molecular approach to better understanding the link between hemolysis and an increased risk of thrombosis.",
-      "date": "2026-10-27",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-hemoglobin-component-heme-shown-inhibit.html",
+      "url": "https://medicalxpress.com/news/2026-10-glioblastoma-secret-weapon-silencing-brain.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "that",
-        "hemoglobin",
-        "component",
-        "heme",
-        "blood",
-        "clots",
-        "shown",
-        "inhibit"
+        "glioblastoma",
+        "brain",
+        "cancer",
+        "growth",
+        "secret",
+        "weapon",
+        "silencing"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.595138+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.065708+00:00"
     },
     {
-      "id": "rss-62b361f14f64",
+      "id": "rss-9ad961840830",
       "discipline": "clinical",
       "type": "news",
-      "title": "How dismissed symptoms can push patients to breaking point",
+      "title": "Peptide users don't think of themselves as injecting drug users. Five safety basics injectors need to know",
       "authors": "Medical Xpress",
-      "abstract": "Patients have been left feeling suicidal after feeling like their doctor was saying their symptoms were 'all in their head'—according to research from the University of East Anglia and the University of Cambridge.",
+      "abstract": "There's a whole new population of injecting drug users. They buy peptides online for muscle building or weight loss, to aid workout recovery or to improve their skin or sleep. Few see themselves as injecting drug users.",
       "date": "2026-10-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-dismissed-symptoms-patients.html",
+      "url": "https://medicalxpress.com/news/2026-10-peptide-users-dont-drug-safety.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "their",
-        "symptoms",
-        "patients",
-        "feeling",
-        "university",
-        "dismissed",
-        "push",
-        "breaking"
+        "users",
+        "injecting",
+        "drug",
+        "themselves",
+        "peptide",
+        "think",
+        "five",
+        "safety"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.595411+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.065967+00:00"
     },
     {
-      "id": "rss-3a37783cd642",
+      "id": "rss-7b83df6a2bb8",
       "discipline": "clinical",
       "type": "news",
-      "title": "Overwhelmed by parenting? You've got plenty of company",
+      "title": "Switching on healthy silent genes reveals new way to treat Prader-Willi syndrome",
       "authors": "Medical Xpress",
-      "abstract": "Feeling overwhelmed by the noise and chaos of parenting? You're not alone.",
+      "abstract": "WEHI researchers have discovered a way to release a genetic 'brake' that silences healthy genes in Prader-Willi syndrome, opening a potential new path to treating the condition.",
       "date": "2026-10-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-overwhelmed-parenting-youve-plenty-company.html",
+      "url": "https://medicalxpress.com/news/2026-10-healthy-silent-genes-reveals-prader.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "overwhelmed",
-        "parenting",
-        "plenty",
-        "company",
-        "feeling",
-        "noise",
-        "chaos",
-        "alone"
+        "healthy",
+        "genes",
+        "prader-willi",
+        "syndrome",
+        "switching",
+        "silent",
+        "reveals",
+        "treat"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.595624+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.066200+00:00"
     },
     {
-      "id": "rss-33c703c211a2",
+      "id": "rss-38007ef6dc46",
       "discipline": "clinical",
       "type": "news",
-      "title": "Want to lose weight? Don't skip the weights",
+      "title": "Public knowledge that alcohol causes cancer rebounds",
       "authors": "Medical Xpress",
-      "abstract": "Weightlifting has a reputation for \"bulking up,\" so it may not be the first type of exercise you choose when you want to lose weight.",
+      "abstract": "Nearly 6 in 10 Americans (58%) know that regularly consuming alcohol increases the chances of later developing cancer, according to a nationally representative survey in October by the Annenberg Public Policy Center (APPC), a statistically significant increase of five percentage points since February 2026.",
       "date": "2026-10-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-weight-dont-weights.html",
+      "url": "https://medicalxpress.com/news/2026-10-knowledge-alcohol-cancer-rebounds.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "want",
-        "lose",
-        "weight",
-        "skip",
-        "weights",
-        "weightlifting",
-        "reputation",
-        "bulking"
+        "public",
+        "that",
+        "alcohol",
+        "cancer",
+        "knowledge",
+        "causes",
+        "rebounds",
+        "nearly"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.595830+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.066475+00:00"
     },
     {
-      "id": "rss-6b3dc010d626",
+      "id": "rss-e71a22c0cd1b",
       "discipline": "clinical",
       "type": "news",
-      "title": "Large meta-analysis sheds new light on how SGLT2 inhibitors affect blood and iron parameters",
+      "title": "Exposure to wildfire smoke during pregnancy linked to higher risk of autism",
       "authors": "Medical Xpress",
-      "abstract": "Research led by internist-nephrologist Dr. Michele Eisenga shows that SGLT2 inhibitors, a class of drugs widely used to treat type 2 diabetes, heart failure and chronic kidney disease, consistently increase hemoglobin and hematocrit levels.",
+      "abstract": "A Rutgers-led analysis of health insurance records found that exposure to fine particles from wildfire smoke during pregnancy was associated with a higher risk of autism diagnosis in children, with the strongest associations during the second and third trimesters.",
       "date": "2026-10-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-large-meta-analysis-sglt2-inhibitors.html",
+      "url": "https://medicalxpress.com/news/2026-10-exposure-wildfire-pregnancy-linked-higher.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "sglt",
-        "inhibitors",
-        "large",
-        "meta-analysis",
-        "sheds",
-        "light",
-        "affect",
-        "blood"
+        "during",
+        "exposure",
+        "wildfire",
+        "smoke",
+        "pregnancy",
+        "higher",
+        "risk",
+        "autism"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.596063+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.066740+00:00"
     },
     {
-      "id": "rss-31bdad6b8792",
+      "id": "rss-f206181c3cd9",
       "discipline": "clinical",
       "type": "news",
-      "title": "Airborne ESKAPE pathogens at inner-city clinic resist advanced antibiotics",
+      "title": "How the body clock could help personalize depression treatment",
       "authors": "Medical Xpress",
-      "abstract": "At a clinic in South Africa, researchers have identified airborne ESKAPE bacteria that survive most antibiotic medicines. The clinic is in a densely populated inner-city area.",
+      "abstract": "A person with depression might sleep much longer than usual and still wake feeling exhausted. Later that evening, when they want to go to bed, they may find themselves wide awake. Researchers are investigating whether patterns like these could help explain why antidepressants work better for some people than others.",
       "date": "2026-10-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-airborne-eskape-pathogens-city-clinic.html",
+      "url": "https://medicalxpress.com/news/2026-10-body-clock-personalize-depression-treatment.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "clinic",
-        "airborne",
-        "eskape",
-        "inner-city",
-        "pathogens",
-        "resist",
-        "advanced",
-        "antibiotics"
+        "could",
+        "help",
+        "depression",
+        "than",
+        "they",
+        "body",
+        "clock",
+        "personalize"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.596277+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.067003+00:00"
     },
     {
-      "id": "rss-deeae1330499",
+      "id": "rss-22ba4b7705fb",
       "discipline": "clinical",
       "type": "news",
-      "title": "Shared framework aims to redefine heart health for girls and women",
+      "title": "Targeted drug significantly delays advanced breast cancer progression but increases toxicity, phase III trial reports",
       "authors": "Medical Xpress",
-      "abstract": "The American Heart Association, American Academy of Pediatrics, American College of Obstetricians and Gynecologists and the Society for Maternal-Fetal Medicine have released a publication that redefines heart health in girls and women. The organizations together outline four distinct \"Female Life Stages\" offering women and health care professionals a chance to have heart health conversations from puberty through menopause and beyond.",
+      "abstract": "In a global phase 1 trial, trastuzumab rezetecan showed promising signs of fighting ERBB2-low metastatic breast cancer in patients who had already undergone extensive treatment. Also known as HER2-low breast cancer, this subtype is characterized by low levels of HER2, a growth factor protein that can still be targeted for treatment. Trastuzumab rezetecan is an antibody-drug conjugate (ADC) that works like a guided missile, seeking out tumor cells expressing low levels of ERBB2 and delivering a toxic chemotherapy payload directly inside them.",
       "date": "2026-10-27",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-framework-aims-redefine-heart-health.html",
+      "url": "https://medicalxpress.com/news/2026-10-drug-significantly-delays-advanced-breast.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "heart",
+        "breast",
+        "cancer",
+        "targeted",
+        "phase",
+        "trial",
+        "trastuzumab",
+        "rezetecan",
+        "erbb"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-27T17:57:53.067306+00:00"
+    },
+    {
+      "id": "rss-c95255ce4ece",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "It's not (just) the heat, it's the humidity: Examining the impact of intensifying humid heat on pregnancies",
+      "authors": "Medical Xpress",
+      "abstract": "New research led by the University of Michigan contains insights for public health officials and communities in Nigeria as they navigate pregnancies through increasing heat and humidity.",
+      "date": "2026-10-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-humidity-impact-humid-pregnancies.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "heat",
+        "humidity",
+        "pregnancies",
+        "just",
+        "examining",
+        "impact",
+        "intensifying",
+        "humid"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-27T17:57:53.067563+00:00"
+    },
+    {
+      "id": "rss-6d1b3bbca01a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Looking beyond anxiety and depression labels could help tailor treatment to individual symptoms",
+      "authors": "Medical Xpress",
+      "abstract": "Imagine having so much stress that your heart races and palms sweat when you confront an everyday challenge, such as a work deadline.",
+      "date": "2026-10-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-anxiety-depression-tailor-treatment-individual.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "looking",
+        "beyond",
+        "anxiety",
+        "depression",
+        "labels",
+        "could",
+        "help",
+        "tailor"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-27T17:57:53.067788+00:00"
+    },
+    {
+      "id": "rss-444562c8d058",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Comparisons on social media linked to mental health problems",
+      "authors": "Medical Xpress",
+      "abstract": "Comparing oneself with others on social media is more strongly associated with symptoms of anxiety and depression among adolescents than using social media to pass the time. This is shown by a study of more than 4,000 Norwegian adolescents, conducted by researchers at Karolinska Institutet in collaboration with the Norwegian Institute of Public Health.",
+      "date": "2026-10-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-comparisons-social-media-linked-mental.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "social",
+        "media",
         "health",
-        "women",
-        "american",
-        "girls",
-        "have",
-        "shared",
-        "framework"
+        "more",
+        "adolescents",
+        "than",
+        "norwegian",
+        "comparisons"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.596563+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.068043+00:00"
+    },
+    {
+      "id": "rss-0bd7fe6a3d01",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Health facility data could improve maternal mortality estimates, study shows",
+      "authors": "Medical Xpress",
+      "abstract": "Data routinely collected by health facilities could become an additional source for measuring maternal mortality, but the quality needs to improve. Researchers from Karolinska Institutet and Tanzania propose four measures for assessing these data. The work is published in the Bulletin of the World Health Organization.",
+      "date": "2026-10-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-health-facility-maternal-mortality.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "health",
+        "could",
+        "improve",
+        "maternal",
+        "mortality",
+        "facility",
+        "estimates",
+        "shows"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-27T17:57:53.068290+00:00"
+    },
+    {
+      "id": "rss-753f4c7bda91",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Testosterone helps new brain cells survive, but timing matters, study in male rats suggests",
+      "authors": "Medical Xpress",
+      "abstract": "Adult neurogenesis is how the adult brain produces new neurons. The newborn cells divide, migrate to specific brain regions and then mature into neurons. Scientists have observed that prolonged testosterone exposure promotes neurogenesis in the adult brain's hippocampus, a region crucial to memory and learning. However, it remains a mystery whether testosterone must act during specific periods of neural development to improve the survival of these new neurons.",
+      "date": "2026-10-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-testosterone-brain-cells-survive-male.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "testosterone",
+        "adult",
+        "neurons",
+        "cells",
+        "neurogenesis",
+        "specific",
+        "helps"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-27T17:57:53.068593+00:00"
+    },
+    {
+      "id": "rss-bb0e62e36da5",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New leukemia drug suppresses cancer-driving protein more strongly than existing treatments within one week",
+      "authors": "Medical Xpress",
+      "abstract": "A more effective and better-tolerated treatment for chronic myeloid leukemia (CML) could improve quality of life for people living with the disease. A new study led by Adelaide University and the South Australian Health and Medical Research Institute (SAHMRI) has provided the first direct evidence that a targeted therapy can rapidly and consistently suppress the molecular signals that drive CML.",
+      "date": "2026-10-27",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-leukemia-drug-suppresses-cancer-protein.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "leukemia",
+        "more",
+        "that",
+        "drug",
+        "suppresses",
+        "cancer-driving",
+        "protein",
+        "strongly"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-27T17:57:53.068858+00:00"
+    },
+    {
+      "id": "rss-f4338b5dfb58",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "authors": "TechCrunch AI",
+      "abstract": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+      "date": "2026-10-27",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "frontier",
+        "labs",
+        "their",
+        "refuted",
+        "exponential",
+        "time",
+        "hypothesis",
+        "what"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-27T17:57:53.212260+00:00"
+    },
+    {
+      "id": "rss-7f390d428079",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "authors": "TechCrunch AI",
+      "abstract": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+      "date": "2026-10-27",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "genie",
+        "world",
+        "audio",
+        "more",
+        "realistic",
+        "real-time",
+        "adds"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-27T17:57:53.212540+00:00"
+    },
+    {
+      "id": "rss-5e19cdcb24bc",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "authors": "TechCrunch AI",
+      "abstract": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "date": "2026-10-27",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "meta",
+        "rohit",
+        "patel",
+        "take",
+        "microsoft",
+        "office",
+        "director",
+        "leaves"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-27T17:57:53.212738+00:00"
+    },
+    {
+      "id": "rss-fd0be434386f",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "authors": "TechCrunch AI",
+      "abstract": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+      "date": "2026-10-27",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "japan",
+        "internet",
+        "hackers",
+        "posted",
+        "customer",
+        "giant",
+        "says",
+        "stolen"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-27T17:57:53.212900+00:00"
+    },
+    {
+      "id": "rss-bd9c4adea91d",
+      "discipline": "cs",
+      "type": "news",
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "authors": "TechCrunch AI",
+      "abstract": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "date": "2026-10-27",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "general",
+        "compute",
+        "raises",
+        "million",
+        "series",
+        "countering",
+        "neocloud",
+        "disaster"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-27T17:57:53.213052+00:00"
+    },
+    {
+      "id": "rss-87083a320d19",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "authors": "TechCrunch AI",
+      "abstract": "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "date": "2026-10-27",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "standard",
+        "opera",
+        "introduces",
+        "users",
+        "deploy",
+        "locally",
+        "their",
+        "browser"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-27T17:57:53.213202+00:00"
     },
     {
       "id": "rss-5bad1fc819d3",
@@ -484,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.668363+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.213361+00:00"
     },
     {
       "id": "rss-4767b27db2b3",
@@ -516,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.668608+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.213548+00:00"
     },
     {
       "id": "rss-d8446e5f577d",
@@ -548,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.668837+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.213763+00:00"
     },
     {
       "id": "rss-d408799832c4",
@@ -580,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.669038+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.213954+00:00"
     },
     {
       "id": "rss-9718fa344530",
@@ -612,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.669198+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.214108+00:00"
     },
     {
       "id": "rss-5d4a89489c18",
@@ -644,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.669388+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.214271+00:00"
     },
     {
       "id": "rss-265637551189",
@@ -676,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.736426+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.409675+00:00"
     },
     {
       "id": "rss-1c3960c9bdec",
@@ -708,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.669568+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.214453+00:00"
     },
     {
       "id": "rss-9543db948f84",
@@ -740,199 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.669744+00:00"
-    },
-    {
-      "id": "rss-b06a3152e50d",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "authors": "TechCrunch AI",
-      "abstract": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-      "date": "2026-10-25",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hottest",
-        "wearables",
-        "gadgets",
-        "should",
-        "know",
-        "about",
-        "compiled",
-        "list"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.669896+00:00"
-    },
-    {
-      "id": "rss-46c36f5a135e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "authors": "TechCrunch AI",
-      "abstract": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "date": "2026-10-24",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "internet",
-        "will",
-        "expose",
-        "rickety",
-        "infrastructure",
-        "moment",
-        "realize",
-        "held"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.670039+00:00"
-    },
-    {
-      "id": "rss-02142a5269c3",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "authors": "TechCrunch AI",
-      "abstract": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "date": "2026-10-24",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "projects",
-        "that",
-        "graveyard",
-        "running",
-        "list",
-        "startups",
-        "didn",
-        "make"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.670220+00:00"
-    },
-    {
-      "id": "rss-863456cc1aab",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Block’s new voice model sounds eerily human",
-      "authors": "TechCrunch AI",
-      "abstract": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
-      "date": "2026-10-24",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "block",
-        "knowledge",
-        "voice",
-        "sounds",
-        "eerily",
-        "human",
-        "typically",
-        "speech"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.670414+00:00"
-    },
-    {
-      "id": "rss-a448a337e8b8",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "authors": "TechCrunch AI",
-      "abstract": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "date": "2026-10-24",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "grok",
-        "openai",
-        "democrats",
-        "forced",
-        "pick",
-        "chooses",
-        "republicans",
-        "picks"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.670608+00:00"
-    },
-    {
-      "id": "rss-73920ff239a0",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "authors": "TechCrunch AI",
-      "abstract": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "date": "2026-10-24",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "agents",
-        "that",
-        "live",
-        "your",
-        "text",
-        "messages",
-        "here",
-        "created"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.670777+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.214642+00:00"
     },
     {
       "id": "rss-281de43e80f6",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.736642+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.409885+00:00"
     },
     {
       "id": "rss-60fc831425ac",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.736833+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.410072+00:00"
     },
     {
       "id": "rss-cbaee3e9e823",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.737024+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.410260+00:00"
     },
     {
       "id": "rss-0a2551ebac8b",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.737212+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.410487+00:00"
     },
     {
       "id": "openalex-4bd6cc099ffc",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.273079+00:00"
+      "_retrievedAt": "2026-10-27T17:57:47.433067+00:00"
     },
     {
       "id": "rss-69ba6379887b",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.737415+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.410677+00:00"
     },
     {
       "id": "rss-0e793fcfa72e",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.737589+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.410843+00:00"
     },
     {
       "id": "rss-f2b78d63857a",
@@ -1188,7 +1188,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.737755+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.411008+00:00"
+    },
+    {
+      "id": "rss-d46aadfd31b1",
+      "discipline": "geo",
+      "type": "news",
+      "title": "A toothy summer in Charleston: My internship studying barium in bottlenose dolphin teeth to determine freshwater exposure",
+      "authors": "NOAA News",
+      "abstract": "A toothy summer in Charleston: My internship studying barium in bottlenose dolphin teeth to determine freshwater exposure Hannah Baker holding the Tamanend's bottlenose dolphin tooth samples that she used for her internship. She cut the teeth in half with a saw and used a half section to scan using scanning electron microscopy. In the cabinet behind her is 30 years of dolphin teeth samples! (Image credit: Bonnie Ertel) Download Image October 27, 2026 Hi everyone! My name is Hannah Baker and I’m a 2025 Ernest F. Hollings Scholarship student studying Earth and Environmental Sciences with a minor in Climate and Space Sciences and Engineering at the University of Michigan. For my summer internship, I worked at the National Coastal Centers for Ocean Science (NCCOS) Hollings Marine Laboratory in Charleston, South Carolina, studying Tamanend’s bottlenose dolphin teeth as a biomarker of fresh...",
+      "date": "2026-10-16",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/office-education/hollings-scholarship/stories/toothy-summer-in-charleston-my-internship-studying-barium-in-bottlenose-dolphin-teeth-to-determine",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "dolphin",
+        "teeth",
+        "internship",
+        "studying",
+        "bottlenose",
+        "summer",
+        "charleston",
+        "toothy"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-27T17:57:53.729077+00:00"
     },
     {
       "id": "rss-dfab44ee18d2",
@@ -1220,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.737925+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.411176+00:00"
     },
     {
       "id": "rss-6674f1b9a348",
@@ -1252,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.738086+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.411336+00:00"
     },
     {
       "id": "rss-4ab0a2b15569",
@@ -1284,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.738252+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.411530+00:00"
     },
     {
       "id": "rss-218219c6f48a",
@@ -1316,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.738435+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.411691+00:00"
     },
     {
       "id": "rss-d82f0f078053",
@@ -1348,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.950302+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.729777+00:00"
     },
     {
       "id": "rss-18545777b44e",
@@ -1380,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.950658+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.730097+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1412,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.885174+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.886713+00:00"
     },
     {
       "id": "rss-b96de90b49a5",
@@ -1444,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.738607+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.411855+00:00"
     },
     {
       "id": "rss-20f5d059a7c0",
@@ -1476,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.738752+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.412005+00:00"
     },
     {
       "id": "rss-9097c559200f",
@@ -1508,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.950902+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.730334+00:00"
     },
     {
       "id": "rss-28ffe5c2eb8b",
@@ -1540,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.951549+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.730976+00:00"
     },
     {
       "id": "rss-3f43f1f3aef2",
@@ -1572,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.952223+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.731708+00:00"
     },
     {
       "id": "rss-dcbeb4cde24b",
@@ -1604,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.952782+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.732252+00:00"
     },
     {
       "id": "rss-5764f9ec0337",
@@ -1636,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.953533+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.733009+00:00"
     },
     {
       "id": "rss-23f57c26ccb3",
@@ -1668,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.953976+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.733467+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -1700,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.885485+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.887007+00:00"
     },
     {
       "id": "rss-0333c77565a0",
@@ -1732,39 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.954169+00:00"
-    },
-    {
-      "id": "rss-a7d777e1fbd3",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Weekend nor’easter likely to bring damaging winds, coastal flooding",
-      "authors": "NOAA News",
-      "abstract": "Weekend nor’easter likely to bring damaging winds, coastal flooding Large waves crash over a jetty as a large coastal storm bears down on the region on March 2, 2018 in Scituate, Massachusetts. A powerful nor'easter is bringing snow, rain and high wind to much of the U.S. Northeast. (Image credit: Scott Eisen/Getty Images) September 25, 2026 Forecasters at NOAA’s National Weather Service (NWS) are monitoring a powerful nor’easter bringing damaging wind gusts and dangerous coastal flooding to the Northeast this weekend. The New York City metro area and New Jersey may be especially impacted by this storm. A rapidly deepening storm along the East Coast will likely produce very gusty winds, heavy rain and coastal flooding along the I-95 corridor from the Mid-Atlantic through New England on Saturday and Sunday. The strongest wind gusts and widespread coastal flooding are most likely near t...",
-      "date": "2026-09-25",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news/weekend-noreaster-likely-to-bring-damaging-winds-coastal-flooding",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "coastal",
-        "flooding",
-        "easter",
-        "likely",
-        "weekend",
-        "damaging",
-        "winds",
-        "storm"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-27T12:05:38.954681+00:00"
+      "_retrievedAt": "2026-10-27T17:57:53.733664+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1796,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.270689+00:00"
+      "_retrievedAt": "2026-10-27T17:57:47.430675+00:00"
     },
     {
       "id": "openalex-637c76942b6d",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.271252+00:00"
+      "_retrievedAt": "2026-10-27T17:57:47.431248+00:00"
     },
     {
       "id": "openalex-e987114418d8",
@@ -1860,7 +1860,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.273935+00:00"
+      "_retrievedAt": "2026-10-27T17:57:47.434222+00:00"
+    },
+    {
+      "id": "openalex-554ee5013027",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Generalized covariate field (GCF): spatial-pattern and neighbourhood-distribution feature expansion improves geospatial prediction",
+      "authors": "Yongze Song",
+      "abstract": "Spatial prediction forms the basis for decision-making in Earth and environmental sciences, yet prediction accuracy is constrained by spatial heterogeneity and sparse and uneven sampling. Existing methods commonly respond by increasing algorithmic complexity while underusing the spatial information embedded in the covariates themselves. This study develops the generalized covariate field (GCF) to expand the covariate space by deriving two families of spatial features without increasing model complexity. First, spatial pattern features characterize local spatial structure, including spatial dependence, heterogeneity, geocomplexity, multiscale variation and local outlyingness, and are transferable across space. Second, neighbourhood distribution features summarize covariates through multiscale operators with geoscientific meaning. The resulting high-dimensional features are then selecte...",
+      "date": "2026-09-10",
+      "year": 2026,
+      "journal": "International Journal of Geographical Information Systems",
+      "source": "International Journal of Geographical Information Systems",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1080/13658816.2026.2729719",
+      "doi": "10.1080/13658816.2026.2729719",
+      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/13658816.2026.2729719?needAccess=true",
+      "keywords": [
+        "Field (mathematics)",
+        "Covariate",
+        "Feature (linguistics)",
+        "Computer science",
+        "Geospatial analysis",
+        "Spatial and Panel Data Analysis",
+        "Soil Geostatistics and Mapping",
+        "Point processes and geometric inequalities"
+      ],
+      "readTime": "1 min",
+      "citedBy": 7,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-27T17:57:49.452870+00:00"
     },
     {
       "id": "openalex-2da239523a05",
@@ -1892,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.273539+00:00"
+      "_retrievedAt": "2026-10-27T17:57:47.433508+00:00"
     },
     {
       "id": "openalex-a4d4df423646",
@@ -1924,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.274320+00:00"
+      "_retrievedAt": "2026-10-27T17:57:47.434638+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -1956,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:52.418821+00:00"
+      "_retrievedAt": "2026-10-27T17:57:49.451666+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -1988,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.269424+00:00"
+      "_retrievedAt": "2026-10-27T17:57:47.429378+00:00"
     },
     {
       "id": "openalex-aaaea7987db6",
@@ -2020,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.571839+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.283558+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2052,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.570549+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.282230+00:00"
     },
     {
       "id": "openalex-4bcca691e2bc",
@@ -2084,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:52.421957+00:00"
+      "_retrievedAt": "2026-10-27T17:57:49.455108+00:00"
     },
     {
       "id": "openalex-fc31c72923df",
@@ -2116,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.271972+00:00"
+      "_retrievedAt": "2026-10-27T17:57:47.431959+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -2148,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.887751+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.889281+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -2180,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:52.422355+00:00"
+      "_retrievedAt": "2026-10-27T17:57:49.455517+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -2212,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.574023+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.285789+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -2240,11 +2272,11 @@ window.LIVE_FEED_DATA = {
         "their"
       ],
       "readTime": "1 min",
-      "citedBy": 26,
+      "citedBy": 27,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.274678+00:00"
+      "_retrievedAt": "2026-10-27T17:57:47.433841+00:00"
     },
     {
       "id": "openalex-aa0b72ab3b90",
@@ -2276,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:52.422757+00:00"
+      "_retrievedAt": "2026-10-27T17:57:49.455925+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2308,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.572177+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.283908+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2340,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:52.423125+00:00"
+      "_retrievedAt": "2026-10-27T17:57:49.456294+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2372,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.274978+00:00"
+      "_retrievedAt": "2026-10-27T17:57:47.435254+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2404,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.569606+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.281283+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2432,11 +2464,11 @@ window.LIVE_FEED_DATA = {
         "Cancer Genomics and Diagnostics"
       ],
       "readTime": "1 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
+      "citedBy": 10,
+      "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.571221+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.282921+00:00"
     },
     {
       "id": "openalex-34f37069c1ad",
@@ -2468,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.572418+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.284132+00:00"
     },
     {
       "id": "openalex-c47d537bde45",
@@ -2500,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.886222+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.888134+00:00"
     },
     {
       "id": "openalex-83b919635dc2",
@@ -2532,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.887004+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.888546+00:00"
     },
     {
       "id": "openalex-7a85bfe0ead2",
@@ -2564,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:52.423502+00:00"
+      "_retrievedAt": "2026-10-27T17:57:49.456684+00:00"
     },
     {
       "id": "openalex-c19eb2f8bd80",
@@ -2596,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.889167+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.890742+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2628,7 +2660,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:52.419687+00:00"
+      "_retrievedAt": "2026-10-27T17:57:49.452518+00:00"
+    },
+    {
+      "id": "openalex-51e67aaab046",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Machine-learned global glacier ice volumes",
+      "authors": "Niccolò Maffezzoli, Eric J. Rignot, Carlo Barbante, Mathieu Morlighem, Troels C. Petersen, Sebastiano Vascon",
+      "abstract": "Abstract We present a global dataset of glacier ice thickness modeled with IceBoost v2.0, a gradient-boosted decision tree scheme trained on 7 million ice thickness measurements and informed by physical and geometrical predictors. We model the distributed ice thickness for every glacier in the two latest Randolph Glacier Inventory releases (RGI v6.0 and v7.0), totaling 215,547 and 274,531 glacier outlines, respectively, plus 955 ice masses contiguous with the Greenland Ice Sheet. IceBoost v2.0 represents the third existing RGI v6.0 global ice volume estimate, and the first for RGI v7.0. On RGI v6.0 we find a global glacier volume of (150 ± 38) × 10 3 km 3 , consistent with the two previous estimates of (141 ± 40) × 10 3 km 3 and (158 ± 41) × 10 3 km 3 . The corresponding sea-level equivalent (SLE), 323 ± 91 mm, is likewise consistent with the two earlier values of 311 ± 100 mm and 324...",
+      "date": "2026-07-30",
+      "year": 2026,
+      "journal": "Scientific Data",
+      "source": "Scientific Data",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41597-026-07744-9",
+      "doi": "10.1038/s41597-026-07744-9",
+      "pdfUrl": "https://www.nature.com/articles/s41597-026-07744-9.pdf",
+      "keywords": [
+        "Glacier",
+        "Geology",
+        "Glacier morphology",
+        "Physical geography",
+        "Cryosphere",
+        "Cryospheric studies and observations",
+        "Geology and Paleoclimatology Research",
+        "Polar Research and Ecology"
+      ],
+      "readTime": "2 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-27T17:57:49.457193+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2660,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:52.420055+00:00"
+      "_retrievedAt": "2026-10-27T17:57:49.453231+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2692,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.270260+00:00"
+      "_retrievedAt": "2026-10-27T17:57:47.430252+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2724,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.887401+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.888930+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2756,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.570187+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.281888+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -2788,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.885844+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.887760+00:00"
     },
     {
       "id": "openalex-100e88f28593",
@@ -2820,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.888187+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.889751+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -2852,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.888572+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.890117+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2884,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.269852+00:00"
+      "_retrievedAt": "2026-10-27T17:57:47.429854+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -2916,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.571547+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.283238+00:00"
     },
     {
       "id": "openalex-814a31d1960d",
@@ -2948,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:52.423885+00:00"
+      "_retrievedAt": "2026-10-27T17:57:49.457605+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -2980,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:52.424189+00:00"
+      "_retrievedAt": "2026-10-27T17:57:49.457917+00:00"
     },
     {
       "id": "openalex-b4945be66b52",
@@ -3012,39 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.572693+00:00"
-    },
-    {
-      "id": "openalex-d1f5fac033f2",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Evaluation of coal mine methane inventory methods using aircraft-based approaches in the Bowen Basin, Australia",
-      "authors": "Stephen J. Harris, Sven Krautwurst, Jörg Hinrich Hacker, Mark F. Lunt, Jakob Borchardt, Mei Bai",
-      "abstract": "Abstract. Australia uses a blend of IPCC Tier 2 and 3 bottom-up approaches to estimate and report fugitive coal mine methane (CH4) emissions. To date, Tier 3 reporting for underground coal mines, which predominantly relies on direct measurements of ventilated air, has not been systematically assessed against top-down atmospheric measurements. Tier 2 coal core-based emission factors and Tier 3 model guidelines for estimating surface (open-cut) mine emissions similarly lack verification. Here, two aircraft-based approaches were used to quantify the rate of CH4 emissions from 17 coal mines in the Bowen Basin, Australia. When compared to bottom-up mean annual reported estimates, airborne estimates from underground mines showed a non-significant mean positive bias of 0.28 t hr-1 (p = 0.28, n = 8 estimates) and good agreement (normalised root mean squared error (NRMSE) = 0.20). When aggrega...",
-      "date": "2026-07-16",
-      "year": 2026,
-      "journal": "Atmospheric chemistry and physics",
-      "source": "Atmospheric chemistry and physics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5194/acp-26-10043-2026",
-      "doi": "10.5194/acp-26-10043-2026",
-      "pdfUrl": "https://acp.copernicus.org/articles/26/10043/2026/acp-26-10043-2026.pdf",
-      "keywords": [
-        "Coal mining",
-        "Environmental science",
-        "Fugitive emissions",
-        "Coal",
-        "Methane",
-        "Atmospheric and Environmental Gas Dynamics",
-        "Coal Properties and Utilization",
-        "Geoscience and Mining Technology"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:52.424598+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.284406+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3076,39 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.884590+00:00"
-    },
-    {
-      "id": "openalex-4a46ff2c29ce",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Oceanographic Buoys for Marine Monitoring: A Review of Instrumentation, Applications, and Emerging Technologies",
-      "authors": "Francisco Portillo, Nadia Rotbi, Nicolas Padilla, Consolación Gil, John Alexander Taborda, Alfredo Alcayde",
-      "abstract": "Oceanographic buoys are essential platforms for marine observation, supporting real-time monitoring, climate studies, operational oceanography, coastal management, and offshore activities. This review maps the scientific literature on oceanographic buoys and identifies the main research sectors that structure the field. A Scopus search using TITLE-ABS-KEY((oceanographic OR metocean OR “ocean observing” OR “ocean observation”) AND (buoy OR buoys)) retrieved 1876 documents published between 1938 and 2026. The records were processed using a network-based sector detection and visualization workflow. Five thematic sectors were identified: platform engineering, sensors, moorings, and autonomous systems; marine wind, waves, metocean, and offshore energy applications; physical oceanography, sea-surface temperature (SST), currents, and environmental variability; coastal and ocean observing net...",
-      "date": "2026-07-14",
-      "year": 2026,
-      "journal": "Journal of Marine Science and Engineering",
-      "source": "Journal of Marine Science and Engineering",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/jmse14141291",
-      "doi": "10.3390/jmse14141291",
-      "pdfUrl": "https://www.mdpi.com/2077-1312/14/14/1291/pdf?version=1784015519",
-      "keywords": [
-        "Thematic map",
-        "Buoy",
-        "Submarine pipeline",
-        "Oceanography",
-        "Ocean observations",
-        "Oceanographic and Atmospheric Processes",
-        "Underwater Vehicles and Communication Systems",
-        "Ocean Waves and Remote Sensing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:52.424939+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.886094+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3140,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:52.420492+00:00"
+      "_retrievedAt": "2026-10-27T17:57:49.453659+00:00"
     },
     {
       "id": "openalex-6068978c624a",
@@ -3172,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.573021+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.284762+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -3204,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:52.421635+00:00"
+      "_retrievedAt": "2026-10-27T17:57:49.454793+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -3236,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:52.421227+00:00"
+      "_retrievedAt": "2026-10-27T17:57:49.454385+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -3268,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.573375+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.285111+00:00"
     },
     {
       "id": "openalex-b7572a22400b",
@@ -3300,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.889557+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.891125+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -3332,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.272304+00:00"
+      "_retrievedAt": "2026-10-27T17:57:47.432290+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -3364,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:52.420850+00:00"
+      "_retrievedAt": "2026-10-27T17:57:49.454011+00:00"
     },
     {
       "id": "openalex-b7abd719b558",
@@ -3396,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.272714+00:00"
+      "_retrievedAt": "2026-10-27T17:57:47.432702+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -3428,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.884951+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.886481+00:00"
     },
     {
       "id": "openalex-f831f0b2712b",
@@ -3460,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.573698+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.285432+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -3492,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.271613+00:00"
+      "_retrievedAt": "2026-10-27T17:57:47.431597+00:00"
     },
     {
       "id": "openalex-5a31a7e0a2f8",
@@ -3520,11 +3520,11 @@ window.LIVE_FEED_DATA = {
         "Education, Achievement, and Giftedness"
       ],
       "readTime": "1 min",
-      "citedBy": 24,
+      "citedBy": 25,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.275281+00:00"
+      "_retrievedAt": "2026-10-27T17:57:47.434945+00:00"
     },
     {
       "id": "openalex-7596e664f24c",
@@ -3556,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-27T12:04:51.570845+00:00"
+      "_retrievedAt": "2026-10-27T17:57:48.282540+00:00"
     }
   ]
 };
