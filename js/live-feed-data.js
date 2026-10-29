@@ -1,11 +1,203 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-10-29T05:42:03.294442+00:00",
-  "total": 111,
+  "generatedAt": "2026-10-29T12:54:34.099911+00:00",
+  "total": 112,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-8d8b14d30592",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Nearly half of severely distressed generative AI users turn to chatbots for emotional support, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "A new study has found that almost one in three Israeli adults surveyed who use generative artificial intelligence (AI) tools reported seeking emotional support, coping advice or mental health assistance from platforms such as ChatGPT and Gemini. Among users experiencing severe psychological distress, that figure rose to nearly one in two, according to researchers from Tel-Hai University of Kiryat Shmona in the Galilee and collaborating institutions.",
+      "date": "2026-10-29",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-severely-distressed-generative-ai-users.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nearly",
+        "generative",
+        "users",
+        "emotional",
+        "support",
+        "that",
+        "half",
+        "severely"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-29T12:54:33.227691+00:00"
+    },
+    {
+      "id": "rss-c994a0b4403a",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Researchers identify critical window for boosting immunotherapy response in prostate cancer",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at Roswell Park Comprehensive Cancer Center have shown that hormone-blocking therapies commonly used to treat prostate cancers temporarily activate the body's immune response before those immune effects begin to fade over time. In a new publication in the Journal for Immunotherapy of Cancer, a team led by Kent Nastiuk, Ph.D., reports this discovery—and points the way to a treatment strategy for taking advantage of this window of opportunity.",
+      "date": "2026-10-29",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-critical-window-boosting-immunotherapy-response.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "researchers",
+        "window",
+        "immunotherapy",
+        "response",
+        "prostate",
+        "immune",
+        "this"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-29T12:54:33.227873+00:00"
+    },
+    {
+      "id": "rss-2080c8d27965",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Halting muscular dystrophy with a 'backup' protein",
+      "authors": "Medical Xpress",
+      "abstract": "A new use of CRISPR gene editing has halted and even reversed the progression of a model of Duchenne muscular dystrophy, according to work led by scientists at the Perelman School of Medicine. The technique boosted a protein, utrophin, as a stand-in to take on the job of a different protein, dystrophin, which helps maintain healthy muscles and is in short supply in those with muscular dystrophy.",
+      "date": "2026-10-29",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-halting-muscular-dystrophy-backup-protein.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "muscular",
+        "dystrophy",
+        "protein",
+        "halting",
+        "backup",
+        "crispr",
+        "gene",
+        "editing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-29T12:54:33.228007+00:00"
+    },
+    {
+      "id": "rss-b26d7cfa330d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Why daylight saving time may be bad for your brain and health",
+      "authors": "Medical Xpress",
+      "abstract": "Turning the clocks back an hour each fall can feel like a gift: an extra hour of sleep. But the trade-off is less daylight in the evening, and the annual switch continues to earn mixed reviews. The same is true in spring, when we lose an hour as daylight saving time begins.",
+      "date": "2026-10-29",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-daylight-bad-brain-health.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "daylight",
+        "hour",
+        "saving",
+        "time",
+        "your",
+        "brain",
+        "health",
+        "turning"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-29T12:54:33.228127+00:00"
+    },
+    {
+      "id": "rss-b43e24114303",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Colorectal cancer in younger patients shows distinct cellular and gene-activity patterns",
+      "authors": "Medical Xpress",
+      "abstract": "Mass General Brigham researchers from the Gene Lay Institute of Immunology and Inflammation, along with researchers at Dana-Farber Cancer Institute and the Broad Institute, have uncovered biological clues to why colorectal cancer can behave more aggressively in younger people. Published in Nature Medicine, the study—the largest of its kind—lays a foundation for understanding age-associated differences in colorectal cancer and exploring future treatments.",
+      "date": "2026-10-29",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-colorectal-cancer-younger-patients-distinct.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "colorectal",
+        "institute",
+        "younger",
+        "researchers",
+        "patients",
+        "shows",
+        "distinct"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-29T12:54:33.228271+00:00"
+    },
+    {
+      "id": "rss-76026fe74e92",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "RFK Jr. eases access to unproven peptides despite opposition from FDA scientists",
+      "authors": "Medical Xpress",
+      "abstract": "The Trump administration on Wednesday acted to ease access to unproven peptide drugs favored by Health Secretary Robert F. Kennedy Jr. Food and Drug Administration scientific staffers had little input on the decision and opposed the changes, according to six people familiar with its development.",
+      "date": "2026-10-29",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-rfk-jr-eases-access-unproven.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "access",
+        "unproven",
+        "administration",
+        "eases",
+        "peptides",
+        "despite",
+        "opposition",
+        "scientists"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-29T12:54:33.228391+00:00"
+    },
     {
       "id": "rss-fb84d58426c8",
       "discipline": "clinical",
@@ -36,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.620211+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.228535+00:00"
     },
     {
       "id": "rss-cc888ca1b460",
@@ -68,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.620477+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.228657+00:00"
     },
     {
       "id": "rss-f6b2ca5fd9ed",
@@ -100,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.620689+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.228767+00:00"
     },
     {
       "id": "rss-e19c65c2f665",
@@ -132,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.620932+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.228902+00:00"
     },
     {
       "id": "rss-856e9716f91d",
@@ -164,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.621128+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.229012+00:00"
     },
     {
       "id": "rss-2169b2e67298",
@@ -196,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.621353+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.229141+00:00"
     },
     {
       "id": "rss-73c5d99cc024",
@@ -228,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.621563+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.229253+00:00"
     },
     {
       "id": "rss-8b769eb7cc59",
@@ -260,199 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.621728+00:00"
-    },
-    {
-      "id": "rss-568b45d056aa",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Measles outbreak that contributed to Canada losing elimination status highlights risks from persistent immunity gaps",
-      "authors": "Medical Xpress",
-      "abstract": "The outbreak that contributed to Canada losing its measles elimination status in November 2025 was concentrated in historically undervaccinated communities with close social networks across Canada, the U.S., Mexico and beyond, creating opportunities for cross-border transmission, concludes a study published by The BMJ.",
-      "date": "2026-10-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-measles-outbreak-contributed-canada-status.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "canada",
-        "measles",
-        "outbreak",
-        "that",
-        "contributed",
-        "losing",
-        "elimination",
-        "status"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.621923+00:00"
-    },
-    {
-      "id": "rss-240751c9f469",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Wider surgical margins may not mean better cancer control",
-      "authors": "Medical Xpress",
-      "abstract": "It's a question that surgeons often face: How much surrounding healthy tissue should they take out when removing a patient's cancer to be sure it is fully eliminated? Removing more can sacrifice nearby nerves, blood vessels, tendons and even joints, with lasting effects on quality of life.",
-      "date": "2026-10-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-wider-surgical-margins-cancer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "removing",
-        "wider",
-        "surgical",
-        "margins",
-        "mean",
-        "better",
-        "control"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.622113+00:00"
-    },
-    {
-      "id": "rss-1618b112c14d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Smoke from LA fires exposed millions of people to high levels of toxic heavy metals, study says",
-      "authors": "Medical Xpress",
-      "abstract": "At the height of the Los Angeles fires in 2025, millions of residents were exposed in a 24-hour period to toxic lead levels from smoke that were 80 times higher than the typical background level, according to a new study.",
-      "date": "2026-10-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-la-exposed-millions-people-high.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "smoke",
-        "fires",
-        "exposed",
-        "millions",
-        "levels",
-        "toxic",
-        "were",
-        "people"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.622292+00:00"
-    },
-    {
-      "id": "rss-39950454d9c1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Mutated immune cells raise red flags in lupus",
-      "authors": "Medical Xpress",
-      "abstract": "Scientists at La Jolla Institute for Immunology (LJI) and the University of Washington (UW) have discovered that patients with lupus have unusual mutations that may turn their bodies into battlegrounds.",
-      "date": "2026-10-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-mutated-immune-cells-red-flags.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "lupus",
-        "have",
-        "that",
-        "mutated",
-        "immune",
-        "cells",
-        "raise",
-        "flags"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.622477+00:00"
-    },
-    {
-      "id": "rss-1c9c4b908869",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Smarter CAR-T cells could beat a deadly pediatric brain cancer",
-      "authors": "Medical Xpress",
-      "abstract": "Scientists at UC San Francisco have engineered CAR-T cells that stay dormant until they reach the brain, where they switch on and destroy tumor cells. In mice, these CAR-T cells were able to clear diffuse midline glioma (DMG), a lethal form of childhood brain cancer that integrates into healthy tissue. The cells also had staying power. When scientists introduced another round of cancer several weeks later, the cells were still able to fight.",
-      "date": "2026-10-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-smarter-car-cells-deadly-pediatric.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cells",
-        "car-t",
-        "brain",
-        "cancer",
-        "scientists",
-        "that",
-        "they",
-        "were"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.622703+00:00"
-    },
-    {
-      "id": "rss-e8667d0613d1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "CDC names the 4 most dangerous superbugs in the US",
-      "authors": "Medical Xpress",
-      "abstract": "Superbugs cause an estimated 9.7 million infections and 50,800 deaths in the United States each year.",
-      "date": "2026-10-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-cdc-dangerous-superbugs.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "superbugs",
-        "names",
-        "most",
-        "dangerous",
-        "cause",
-        "estimated",
-        "million",
-        "infections"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.622869+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.229352+00:00"
     },
     {
       "id": "rss-d3548a479e14",
@@ -484,7 +484,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.703984+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.337703+00:00"
     },
     {
       "id": "rss-94989387e3df",
@@ -516,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.704178+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.337821+00:00"
     },
     {
       "id": "rss-28b090cc3ae0",
@@ -548,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.704324+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.337906+00:00"
     },
     {
       "id": "rss-5ad241ade75e",
@@ -580,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.704488+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.337989+00:00"
     },
     {
       "id": "rss-debe3b8a02d5",
@@ -612,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.704621+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.338061+00:00"
     },
     {
       "id": "rss-33296991908e",
@@ -644,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.704814+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.338174+00:00"
     },
     {
       "id": "rss-4065daaf2ee3",
@@ -676,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.705077+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.338279+00:00"
     },
     {
       "id": "rss-cfad599b97f0",
@@ -708,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.705222+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.338359+00:00"
     },
     {
       "id": "rss-7fe3b2ca800a",
@@ -740,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.705350+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.338452+00:00"
     },
     {
       "id": "rss-3f5f3cadba9d",
@@ -772,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.705492+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.338525+00:00"
     },
     {
       "id": "rss-1c77418417aa",
@@ -804,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.705636+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.338603+00:00"
     },
     {
       "id": "rss-b873341ac862",
@@ -836,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.705801+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.338694+00:00"
     },
     {
       "id": "rss-df9ac3a5ce92",
@@ -868,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.705970+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.338789+00:00"
     },
     {
       "id": "rss-55789d8ec343",
@@ -900,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.706099+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.338861+00:00"
     },
     {
       "id": "rss-820a582ce463",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.837519+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.516736+00:00"
     },
     {
       "id": "rss-3d5d65395710",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.837675+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.516823+00:00"
     },
     {
       "id": "rss-288b8cf14c15",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.837832+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.516915+00:00"
     },
     {
       "id": "rss-265637551189",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.837960+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.516989+00:00"
     },
     {
       "id": "rss-281de43e80f6",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.838114+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.517077+00:00"
     },
     {
       "id": "rss-60fc831425ac",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.838261+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.517162+00:00"
     },
     {
       "id": "rss-cbaee3e9e823",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.838408+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.517250+00:00"
     },
     {
       "id": "rss-0a2551ebac8b",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.838611+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.517337+00:00"
     },
     {
       "id": "openalex-4bd6cc099ffc",
@@ -1184,11 +1184,11 @@ window.LIVE_FEED_DATA = {
         "Multimodal Machine Learning Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 28,
+      "citedBy": 29,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:55.944640+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.233748+00:00"
     },
     {
       "id": "rss-69ba6379887b",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.838753+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.517416+00:00"
     },
     {
       "id": "rss-0e793fcfa72e",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.838881+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.517497+00:00"
     },
     {
       "id": "rss-f2b78d63857a",
@@ -1284,7 +1284,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.839011+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.517571+00:00"
+    },
+    {
+      "id": "rss-d37d11696ae4",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Mariculture in Alaska! Reflecting on my time spent in the hatchery and creating a home in Juneau, Alaska",
+      "authors": "NOAA News",
+      "abstract": "Mariculture in Alaska! Reflecting on my time spent in the hatchery and creating a home in Juneau, Alaska Ella Skonieczny alongside her fellow Hollings intern Alleyah Britton, and mentor Becca, holding Pacific oysters ( Crassostrea gigas ) from the Salty Lady Seafood Company oyster farm. During this trip out to the farm, we collected water samples to survey chlorophyll-a levels, nutrients, and monitor for harmful algal bloom species. (Image credit: Courtesy of Ella Skonieczny) Download Image October 29, 2026 Hello, my name is Ella Skonieczny! I am a rising senior at Eckerd College double majoring in marine science and environmental studies. This summer I had the amazing opportunity to work at the Alaska Fisheries Science Center Ted Stevens Marine Research Institute within the Auke Bay Laboratory division in Juneau, Alaska. During my time in Alaska, I worked under the mariculture team,...",
+      "date": "2026-10-16",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/office-education/hollings-scholarship/stories/mariculture-in-alaska-reflecting-on-my-time-spent-in-hatchery-and-creating-home-in-juneau-alaska",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "alaska",
+        "mariculture",
+        "time",
+        "juneau",
+        "ella",
+        "skonieczny",
+        "reflecting",
+        "spent"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-29T12:54:33.789104+00:00"
     },
     {
       "id": "rss-d46aadfd31b1",
@@ -1316,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:03.076809+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.789403+00:00"
     },
     {
       "id": "rss-dfab44ee18d2",
@@ -1348,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.839147+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.517646+00:00"
     },
     {
       "id": "rss-6674f1b9a348",
@@ -1380,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.839279+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.517718+00:00"
     },
     {
       "id": "rss-4ab0a2b15569",
@@ -1412,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:02.839412+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.517789+00:00"
     },
     {
       "id": "rss-d82f0f078053",
@@ -1444,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:03.077418+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.789753+00:00"
     },
     {
       "id": "rss-18545777b44e",
@@ -1476,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:03.077714+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.789907+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1508,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.892434+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.234605+00:00"
     },
     {
       "id": "rss-9097c559200f",
@@ -1540,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:03.077914+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.790017+00:00"
     },
     {
       "id": "rss-28ffe5c2eb8b",
@@ -1572,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:03.078459+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.790320+00:00"
     },
     {
       "id": "rss-3f43f1f3aef2",
@@ -1604,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:03.079054+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.790660+00:00"
     },
     {
       "id": "rss-dcbeb4cde24b",
@@ -1636,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:03.079536+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.790918+00:00"
     },
     {
       "id": "rss-5764f9ec0337",
@@ -1668,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:03.080173+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.791265+00:00"
     },
     {
       "id": "rss-23f57c26ccb3",
@@ -1700,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:03.080571+00:00"
+      "_retrievedAt": "2026-10-29T12:54:33.791469+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -1732,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.892719+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.234759+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -1764,39 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:57.271365+00:00"
-    },
-    {
-      "id": "rss-0333c77565a0",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Olive ridley sea turtles nest in California for the first time",
-      "authors": "NOAA News",
-      "abstract": "Olive ridley sea turtles nest in California for the first time (Image credit: Huntington Beach Fire Department) Download Image September 30, 2026 Fisheries Sea Turtle Week 0 Off",
-      "date": "2026-09-30",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/first-ever-olive-ridley-sea-turtle-nested-in-california-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "olive",
-        "ridley",
-        "turtles",
-        "nest",
-        "california",
-        "first",
-        "time",
-        "image"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T05:42:03.080738+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.659550+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1828,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:55.942561+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.231591+00:00"
     },
     {
       "id": "openalex-637c76942b6d",
@@ -1860,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:55.943080+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.232119+00:00"
     },
     {
       "id": "openalex-e987114418d8",
@@ -1892,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:55.945692+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.235328+00:00"
     },
     {
       "id": "openalex-554ee5013027",
@@ -1924,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:57.271713+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.659725+00:00"
     },
     {
       "id": "openalex-2da239523a05",
@@ -1956,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:55.945050+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.234141+00:00"
     },
     {
       "id": "openalex-a4d4df423646",
@@ -1988,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:55.946036+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.235691+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2020,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:57.270083+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.658870+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2052,7 +2052,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:55.941363+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.230447+00:00"
+    },
+    {
+      "id": "openalex-e647a9026b6a",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Social Skill Training With Large Language Models",
+      "authors": "Diyi Yang, Caleb Ziems, William Held, Omar Shaikh, Michael S. Bernstein, John C. Mitchell",
+      "abstract": "People rely on social skills like conflict resolution to communicate effectively and to thrive in both work and personal life. However, practice environments for social skills are typically out of reach for most people. How can we make social skill training more available, accessible, and inviting? Drawing upon interdisciplinary research from communication and psychology, this perspective paper identifies social skill barriers to enter specialized fields. Then we present a solution that leverages large language models for social skill training via a generic framework. Our AI Partner, AI Mentor framework merges experiential learning with realistic practice and tailored feedback. This work ultimately calls for cross-disciplinary innovation to address the broader implications for workforce development and social equality.",
+      "date": "2026-09-01",
+      "year": 2026,
+      "journal": "IEEE Intelligent Systems",
+      "source": "IEEE Intelligent Systems",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1109/mis.2026.3726701",
+      "doi": "10.1109/mis.2026.3726701",
+      "pdfUrl": "https://arxiv.org/pdf/2404.04204",
+      "keywords": [
+        "Training (meteorology)",
+        "Computer science",
+        "Psychology",
+        "Geography",
+        "Meteorology",
+        "Social Skills and Education",
+        "Artificial Intelligence in Education",
+        "Intelligent Tutoring Systems and Adaptive Learning"
+      ],
+      "readTime": "1 min",
+      "citedBy": 28,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-29T12:54:28.234392+00:00"
     },
     {
       "id": "openalex-aaaea7987db6",
@@ -2084,7 +2116,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.445812+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.768629+00:00"
+    },
+    {
+      "id": "openalex-11499c8e3175",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Toward an Improved Understanding of the Antarctic Coastal Zone and Its Contribution to Future Global Sea Level",
+      "authors": "Kenichi Matsuoka, Geir Moholdt, Jennifer F. Arthur, Julien A. Bodart, Xiangbin Cui, Fausto Ferraccioli",
+      "abstract": "Abstract Understanding the coastal zone of the Antarctic Ice Sheet (AIS), where it interacts with the Southern Ocean and warmer air masses, is crucial for predicting Antarctica's influence on the global climate and sea level. This region has multiple tipping mechanisms that could trigger large, rapid, and potentially irreversible changes in the AIS, the Southern Ocean and their global connections in the coming centuries. The AIS remains the largest source of uncertainty in future sea‐level projections. Bed topography beneath the ice shelves and the coastal ice sheet is not yet well documented, and is a major source of this uncertainty. This review assesses current knowledge of the coastal zone and highlights methods to investigate it, including aerogeophysical surveys, ground‐ and ship‐based measurements, satellite observations, and computer modeling. An ensemble analysis of published...",
+      "date": "2026-09-01",
+      "year": 2026,
+      "journal": "Reviews of Geophysics",
+      "source": "Reviews of Geophysics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1029/2022rg000803",
+      "doi": "10.1029/2022rg000803",
+      "pdfUrl": "https://doi.org/10.1029/2022rg000803",
+      "keywords": [
+        "Oceanography",
+        "Antarctic ice sheet",
+        "Context (archaeology)",
+        "Ice sheet",
+        "Climate change",
+        "Cryospheric studies and observations",
+        "Polar Research and Ecology",
+        "Geology and Paleoclimatology Research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 4,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-29T12:54:29.660684+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2116,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.444360+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.767823+00:00"
     },
     {
       "id": "openalex-4bcca691e2bc",
@@ -2148,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:57.274054+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.661197+00:00"
     },
     {
       "id": "openalex-fc31c72923df",
@@ -2180,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:55.944026+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.233105+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -2212,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.895916+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.236507+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -2244,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:57.274408+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.661395+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -2276,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.447509+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.769547+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -2308,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:55.945337+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.234706+00:00"
     },
     {
       "id": "openalex-aa0b72ab3b90",
@@ -2340,7 +2404,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:57.274787+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.661608+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2372,7 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.446120+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.768800+00:00"
     },
     {
       "id": "openalex-31da6159b300",
@@ -2404,7 +2468,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:57.275147+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.661776+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2436,39 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:57.275498+00:00"
-    },
-    {
-      "id": "openalex-76c84c6076eb",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits",
-      "authors": "Ronghui Zhu, Emma Dann, Jun Yan, Justine Reyes Retana, Ryunosuke Goto, Reese C Guitche",
-      "abstract": "Abstract Gene regulatory networks encode the fundamental logic of cellular functions, but systematic network mapping remains challenging, especially in cell states relevant to human biology and disease. Here, we perturbed all expressed genes across 22 million primary human CD4+ T cells from four donors and developed a probe-based perturb-seq platform to measure the transcriptome effects in cells at rest and after stimulation. These data allow us to map genes that regulate known and novel pathways, including novel regulators of cytokine production. Importantly, active regulators and the gene programs they control change dramatically across stimulation conditions. Perturbation signatures enabled us to model T cell states observed in population-scale transcriptomic atlases, nominating regulators of Th1 and Th2 polarization and of age-related T cell phenotypes. Finally, we leveraged pertu...",
-      "date": "2026-08-01",
-      "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.08.002",
-      "doi": "10.1016/j.cell.2026.08.002",
-      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.08.002",
-      "keywords": [
-        "Biology",
-        "Transcriptome",
-        "ENCODE",
-        "Gene",
-        "Immune system",
-        "Single-cell and spatial transcriptomics",
-        "Gene Regulatory Network Analysis",
-        "Genomics and Chromatin Dynamics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 24,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:55.946724+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.661963+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2500,7 +2532,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.443526+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.767343+00:00"
+    },
+    {
+      "id": "openalex-76c84c6076eb",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits",
+      "authors": "Ronghui Zhu, Emma Dann, Jun Yan, Justine Reyes Retana, Ryunosuke Goto, Reese C Guitche",
+      "abstract": "Abstract Gene regulatory networks encode the fundamental logic of cellular functions, but systematic network mapping remains challenging, especially in cell states relevant to human biology and disease. Here, we perturbed all expressed genes across 22 million primary human CD4+ T cells from four donors and developed a probe-based perturb-seq platform to measure the transcriptome effects in cells at rest and after stimulation. These data allow us to map genes that regulate known and novel pathways, including novel regulators of cytokine production. Importantly, active regulators and the gene programs they control change dramatically across stimulation conditions. Perturbation signatures enabled us to model T cell states observed in population-scale transcriptomic atlases, nominating regulators of Th1 and Th2 polarization and of age-related T cell phenotypes. Finally, we leveraged pertu...",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "Cell",
+      "source": "Cell",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.cell.2026.08.002",
+      "doi": "10.1016/j.cell.2026.08.002",
+      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.08.002",
+      "keywords": [
+        "Biology",
+        "Transcriptome",
+        "ENCODE",
+        "Gene",
+        "Immune system",
+        "Single-cell and spatial transcriptomics",
+        "Gene Regulatory Network Analysis",
+        "Genomics and Chromatin Dynamics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 24,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-29T12:54:28.767509+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2532,7 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.444977+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.768157+00:00"
     },
     {
       "id": "openalex-34f37069c1ad",
@@ -2564,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.446314+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.768907+00:00"
     },
     {
       "id": "openalex-c47d537bde45",
@@ -2596,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.893741+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.235317+00:00"
     },
     {
       "id": "openalex-83b919635dc2",
@@ -2628,39 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.894101+00:00"
-    },
-    {
-      "id": "openalex-7a85bfe0ead2",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Bathymetry Prediction With SWOT Gravity Anomaly Using Machine Learning Methods: Paper 1–Model Development",
-      "authors": "David T. Sandwell, Benjamin J. Phrampus, Farshad Salajegheh, Bjarke Nilsson, Biao Lu, Yao Yu",
-      "abstract": "Abstract Only one quarter of the global ocean floor has been directly surveyed; the remaining three quarters are inferred from satellite altimeter‐derived gravity data using techniques developed in the 1990s. These classical methods correlate gravity anomalies with known depths and extrapolate bathymetry in unsounded regions. However, spatial resolution has remained limited to 12 km full wavelength due to the smoothing effects of upward continuation. Two recent advances are now reshaping this field: the Surface Water and Ocean Topography mission has increased radar altimeter range precision by a factor of four, effectively doubling the two‐dimensional resolution, and modern machine learning (ML) approaches allow for scalable, high‐fidelity inversion. The authors of this paper organized a workshop, initially at the Technical University of Denmark, that brought together experts in marin...",
-      "date": "2026-08-01",
-      "year": 2026,
-      "journal": "Journal of Geophysical Research Solid Earth",
-      "source": "Journal of Geophysical Research Solid Earth",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1029/2025jb032798",
-      "doi": "10.1029/2025jb032798",
-      "pdfUrl": "https://doi.org/10.1029/2025jb032798",
-      "keywords": [
-        "Bathymetry",
-        "Geology",
-        "Gravity anomaly",
-        "Satellite",
-        "Anomaly (physics)",
-        "Geophysics and Gravity Measurements",
-        "Underwater Acoustics Research",
-        "Ocean Waves and Remote Sensing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:57.275832+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.235528+00:00"
     },
     {
       "id": "openalex-c19eb2f8bd80",
@@ -2692,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.896588+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.236866+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2724,7 +2756,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:57.270942+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.659306+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2756,7 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:57.272043+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.659906+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2788,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:55.942188+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.231210+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2820,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.894456+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.235905+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2852,7 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.444057+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.767650+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -2884,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.893381+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.235129+00:00"
     },
     {
       "id": "openalex-100e88f28593",
@@ -2916,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.896323+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.236733+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -2944,11 +2976,11 @@ window.LIVE_FEED_DATA = {
         "Cancer Research and Treatments"
       ],
       "readTime": "1 min",
-      "citedBy": 8,
+      "citedBy": 9,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.894790+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.235713+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -2980,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:55.941820+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.230858+00:00"
     },
     {
       "id": "openalex-513edaf40716",
@@ -3012,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.895275+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.236168+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -3044,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.445240+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.768309+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -3076,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:57.273389+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.660840+00:00"
     },
     {
       "id": "openalex-b4945be66b52",
@@ -3108,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.446604+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.769041+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3140,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.891887+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.234286+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3172,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:57.272417+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.660115+00:00"
     },
     {
       "id": "openalex-6068978c624a",
@@ -3204,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.445549+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.768484+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -3236,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:57.273764+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.661037+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -3268,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:57.273110+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.660497+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -3300,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.446919+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.769212+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -3332,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:55.944315+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.233397+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -3364,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:57.272760+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.660294+00:00"
     },
     {
       "id": "openalex-b7abd719b558",
@@ -3396,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:55.943398+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.232489+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -3428,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.892227+00:00"
+      "_retrievedAt": "2026-10-29T12:54:29.234492+00:00"
     },
     {
       "id": "openalex-f831f0b2712b",
@@ -3460,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.447199+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.769372+00:00"
     },
     {
       "id": "openalex-7162a76ca107",
@@ -3492,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:55.943712+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.232786+00:00"
     },
     {
       "id": "openalex-5a31a7e0a2f8",
@@ -3520,11 +3552,11 @@ window.LIVE_FEED_DATA = {
         "Education, Achievement, and Giftedness"
       ],
       "readTime": "1 min",
-      "citedBy": 26,
+      "citedBy": 27,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:55.946364+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.234983+00:00"
     },
     {
       "id": "openalex-7596e664f24c",
@@ -3556,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T05:41:56.444644+00:00"
+      "_retrievedAt": "2026-10-29T12:54:28.767969+00:00"
     }
   ]
 };
