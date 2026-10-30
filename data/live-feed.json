@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T22:42:19.283685+00:00",
+  "generatedAt": "2026-10-30T05:41:21.422451+00:00",
   "total": 112,
   "sources": [
     "RSS",
@@ -7,13 +7,173 @@
   ],
   "papers": [
     {
+      "id": "rss-f2c69916a4cf",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Passive tobacco smoke exposure linked to nonallergic atopic dermatitis severity in young children",
+      "authors": "Medical Xpress",
+      "abstract": "Passive tobacco smoke exposure, particularly paternal smoking and postnatal household exposure, is associated with increased disease severity among children aged 0 to 2 years with nonallergic atopic dermatitis, according to a study published in Advances in Dermatology and Allergology.",
+      "date": "2026-10-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-passive-tobacco-exposure-linked-nonallergic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "exposure",
+        "passive",
+        "tobacco",
+        "smoke",
+        "nonallergic",
+        "atopic",
+        "dermatitis",
+        "severity"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-30T05:41:20.569175+00:00"
+    },
+    {
+      "id": "rss-b873d8018f16",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Many women have never discussed heart health with a clinician, and most report multiple symptoms",
+      "authors": "Medical Xpress",
+      "abstract": "Heart disease is the leading cause of death in women, and the risk rises during the menopause years. But an international study has revealed that only half of women know this. Many have never talked about their heart with a doctor or a nurse, and the majority are living with multiple symptoms.",
+      "date": "2026-10-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-women-discussed-heart-health-clinician.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "women",
+        "heart",
+        "many",
+        "have",
+        "never",
+        "multiple",
+        "symptoms",
+        "discussed"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-30T05:41:20.569468+00:00"
+    },
+    {
+      "id": "rss-84dad4ca0bd3",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "The parts of fruits and vegetables most throw away could save your health—and the planet",
+      "authors": "Medical Xpress",
+      "abstract": "Most of us routinely discard the peels, skins, stalks and seeds of fruits and vegetables at mealtime. But new research from King's College London suggests these scraps could be a valuable—and overlooked—source of dietary fiber, offering potential benefits for both public health and the environment.",
+      "date": "2026-10-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-fruits-vegetables-health-planet.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "fruits",
+        "vegetables",
+        "most",
+        "could",
+        "health",
+        "parts",
+        "throw",
+        "away"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-30T05:41:20.569786+00:00"
+    },
+    {
+      "id": "rss-c4df5e823bef",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Long-term follow-up tracks benefits and risks of stem cell transplants for severe systemic sclerosis",
+      "authors": "Medical Xpress",
+      "abstract": "An international study reports 60% progression-free survival at 10 years after autologous bone marrow transplantation, adding evidence of sustained positive clinical outcomes and long-term safety in patients treated for early severe systemic sclerosis.",
+      "date": "2026-10-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-term-tracks-benefits-stem-cell.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "long-term",
+        "severe",
+        "systemic",
+        "sclerosis",
+        "follow-up",
+        "tracks",
+        "benefits",
+        "risks"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-30T05:41:20.570040+00:00"
+    },
+    {
+      "id": "rss-c450f3b74c72",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Could a few bad dietary choices worsen your next immune response?",
+      "authors": "Medical Xpress",
+      "abstract": "Scientists have long known that diet shapes the immune system. Now, a UC San Francisco team has found that even a brief dietary change can substantially change how the body responds to skin irritation, at least in mice.",
+      "date": "2026-10-30",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-bad-dietary-choices-worsen-immune.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "dietary",
+        "immune",
+        "that",
+        "change",
+        "could",
+        "choices",
+        "worsen",
+        "your"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-30T05:41:20.570280+00:00"
+    },
+    {
       "id": "rss-e9b755b92ec2",
       "discipline": "clinical",
       "type": "news",
       "title": "Noninvasive tests detect advanced liver scarring and could reduce reliance on biopsies",
       "authors": "Medical Xpress",
       "abstract": "Two major international studies have delivered the strongest evidence to date on which noninvasive tests can accurately diagnose and measure the severity of metabolic dysfunction-associated steatotic liver disease (MASLD) and its more severe form, MASH, reducing reliance on liver biopsy.",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.499736+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.570525+00:00"
     },
     {
       "id": "rss-f2208438986c",
@@ -45,7 +205,7 @@
       "title": "How common dietary fats can aggravate chronic itch",
       "authors": "Medical Xpress",
       "abstract": "A team of researchers has found that a breakdown product from a commonly consumed fat can bind to a receptor associated with psoriatic itch and inflammation. By blocking the receptor, the researchers saw a reduction in psoriatic itch in a mouse model. Published in the journal Communications Biology, the work demonstrates the potential impact of diet on chronic itch triggers and could lead to future therapies for both psoriasis and atopic dermatitis.",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.500003+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.570830+00:00"
     },
     {
       "id": "rss-72b4b3ff21b6",
@@ -77,7 +237,7 @@
       "title": "How psychedelics could deliver antidepressant benefits without hallucinogenic effects",
       "authors": "Medical Xpress",
       "abstract": "Could psychedelics become a new generation of treatments for depression and other psychiatric disorders? This question is no longer confined to basic research. Several therapies based on classical psychedelics have advanced into late-stage clinical development and have reported encouraging results. DT120, an LSD-based candidate, and COMP360, a synthetic psilocybin formulation, have both received breakthrough therapy designation from the U.S. Food and Drug Administration.",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.500219+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.571118+00:00"
     },
     {
       "id": "rss-8dd0abcad117",
@@ -109,7 +269,7 @@
       "title": "Known for preventing cancer, p53 could also help immune cells fight it",
       "authors": "Medical Xpress",
       "abstract": "Researchers at the UCLA Health Jonsson Comprehensive Cancer Center have identified a new strategy to make cancer-fighting immune cells stronger and potentially longer-lasting, a discovery that could help improve the effectiveness of immunotherapies that use a patient's own immune cells to attack cancer.",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.500397+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.571366+00:00"
     },
     {
       "id": "rss-53b7bcb2a349",
@@ -141,7 +301,7 @@
       "title": "How insurance coverage shapes access to kidney transplantation",
       "authors": "Medical Xpress",
       "abstract": "For people with kidney failure, access to transplantation can mean better survival and quality of life.",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.500539+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.571572+00:00"
     },
     {
       "id": "rss-9c77b4fa4e57",
@@ -173,7 +333,7 @@
       "title": "Xenon-based method measures key MRI contrast metal more sensitively than earlier techniques",
       "authors": "Medical Xpress",
       "abstract": "Magnetic resonance imaging, or MRI for short, provides detailed images of the inside of the body. It is an indispensable procedure for the diagnosis and treatment planning of many types of cancer, and it does not expose the body to radiation because it uses magnetic fields and low-energy radio waves. Pathological changes, such as tumors, can be clearly distinguished from healthy tissue in MRI images.",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.500728+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.571876+00:00"
     },
     {
       "id": "rss-b2adff1243a2",
@@ -205,7 +365,7 @@
       "title": "Spinal cord injury can reshape gut microbes that influence whole-body health",
       "authors": "Medical Xpress",
       "abstract": "Scientists exploring the links between a spinal cord injury, inflammation and immune function have turned their attention to a genome-level analysis of the gut microbial community, with early study results offering hints at potential new approaches to aid healing.",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -228,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.500906+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.572123+00:00"
     },
     {
       "id": "rss-e24b0d53f3c4",
@@ -237,7 +397,7 @@
       "title": "ASN: Low protein intake linked to kidney failure risk in Asian patients with CKD",
       "authors": "Medical Xpress",
       "abstract": "Among patients with non-dialysis-dependent chronic kidney disease (CKD), low protein intake is associated with an increased risk for kidney failure requiring replacement therapy (KFRT) and all-cause mortality, according to a study published online Oct. 22 in JAMA Network Open to coincide with Kidney Week, the annual meeting of the American Society of Nephrology, held from Oct. 21 to 25 in Denver.",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -260,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.501097+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.572385+00:00"
     },
     {
       "id": "rss-7943a99e783f",
@@ -269,7 +429,7 @@
       "title": "When things go bump in the night: How our brains trick us into hearing things that aren't there",
       "authors": "Medical Xpress",
       "abstract": "It's 3 a.m. You've woken from a dead sleep because you've heard a thud in the darkness or a floorboard creaking downstairs. Or perhaps you've woken because you have the unmistakable sensation you're not alone.",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -292,167 +452,71 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.501259+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.572620+00:00"
     },
     {
-      "id": "rss-36990d4cf183",
-      "discipline": "clinical",
+      "id": "rss-00f1a97af983",
+      "discipline": "cs",
       "type": "news",
-      "title": "Tumor mutations and immune activity may reveal who benefits from investigational lymphoma drug",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at the University of Tsukuba conducted a physician-initiated phase 2 clinical trial of dasatinib in patients with relapsed or refractory T-follicular helper cell lymphoma (TFHL), an aggressive and difficult-to-treat blood cancer. The study identified genetic alterations and features of the immune microenvironment associated with treatment response. These findings may help identify patients who are more likely to benefit from dasatinib and inform the development of personalized treatment strategies and novel immunotherapeutic approaches. The work is published in the journal Nature Communications.",
-      "date": "2026-10-29",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "authors": "TechCrunch AI",
+      "abstract": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "date": "2026-10-30",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-tumor-mutations-immune-reveal-benefits.html",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "immune",
-        "lymphoma",
-        "dasatinib",
-        "patients",
-        "treatment",
-        "tumor",
-        "mutations",
-        "activity"
+        "religious",
+        "exemption",
+        "need",
+        "believe",
+        "work",
+        "david",
+        "durman",
+        "university"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.501473+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.660416+00:00"
     },
     {
-      "id": "rss-1bf5c2d5d75c",
-      "discipline": "clinical",
+      "id": "rss-1780b7f6aa98",
+      "discipline": "cs",
       "type": "news",
-      "title": "Immune system protein is a cancer killer on its own, new study shows",
-      "authors": "Medical Xpress",
-      "abstract": "For decades, scientists have known that a protein made by T cells and natural killer (NK) cells in the immune system, called perforin, can kill tumor cells by punching a hole in the cell wall and injecting proteases called granzymes, which kill the cell. Now, new work led by researchers at the University of Michigan Health Rogel Cancer Center found that tumor cells could be killed even when major granzymes were missing.",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "authors": "TechCrunch AI",
+      "abstract": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
       "date": "2026-10-29",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-immune-protein-cancer-killer.html",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cells",
-        "immune",
-        "system",
-        "protein",
-        "cancer",
-        "killer",
-        "that",
-        "called"
+        "will",
+        "business",
+        "first",
+        "jassy",
+        "says",
+        "spend",
+        "amazon",
+        "wants"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.501664+00:00"
-    },
-    {
-      "id": "rss-276f2028b2ff",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Common gut virus infects bacteria—not human cells",
-      "authors": "Medical Xpress",
-      "abstract": "Thriving alongside trillions of bacteria in the human digestive tract is a vast population of viruses. Ever since one such denizen of the gut microbiome, known as picobirnavirus, was first spotted decades ago, researchers thought it directly infected human tissue and played a role in gastrointestinal illness. But researchers at Washington University School of Medicine in St. Louis and collaborators have just rewritten that story: This widespread virus infects gut bacteria, not human cells.",
-      "date": "2026-10-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-common-gut-virus-infects-bacteria.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "human",
-        "bacteria",
-        "virus",
-        "infects",
-        "cells",
-        "researchers",
-        "common",
-        "thriving"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.501902+00:00"
-    },
-    {
-      "id": "rss-13c8c20d3123",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Residential fine particulate matter linked to minimal residual disease in pediatric leukemia",
-      "authors": "Medical Xpress",
-      "abstract": "For pediatric patients with high-risk B-cell acute lymphoblastic leukemia (B-ALL), residential fine particulate matter (PM₂.₅) concentrations during induction therapy are associated with positive end-of-induction (EOI) minimal residual disease (MRD), according to a study published in JNCI Cancer Spectrum.",
-      "date": "2026-10-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-residential-fine-particulate-linked-minimal.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "residential",
-        "fine",
-        "particulate",
-        "matter",
-        "minimal",
-        "residual",
-        "disease",
-        "pediatric"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.502091+00:00"
-    },
-    {
-      "id": "rss-fa50bdaaf70d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Ciprofloxacin and cefotaxime help resistant bacteria thrive in hospital sewage",
-      "authors": "Medical Xpress",
-      "abstract": "Antibiotics excreted by patients promote antibiotic-resistant bacteria in hospital sewers, according to a new study by researchers at the University of Gothenburg, Sweden. Ultimately, this may contribute to the development and spread of hard-to-treat infections. Pinpointing the responsible antibiotics paves the way for targeted measures.",
-      "date": "2026-10-29",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-ciprofloxacin-cefotaxime-resistant-bacteria-hospital.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "bacteria",
-        "hospital",
-        "antibiotics",
-        "ciprofloxacin",
-        "cefotaxime",
-        "help",
-        "resistant",
-        "thrive"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.502261+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.660658+00:00"
     },
     {
       "id": "rss-76cad347085c",
@@ -484,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.616915+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.660891+00:00"
     },
     {
       "id": "rss-fb5da6a11b79",
@@ -516,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.617072+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.661064+00:00"
     },
     {
       "id": "rss-92ae72f53d60",
@@ -548,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.617181+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.661216+00:00"
     },
     {
       "id": "rss-cff437da0ce8",
@@ -580,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.617315+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.661405+00:00"
     },
     {
       "id": "rss-539596e52e17",
@@ -612,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.617431+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.661565+00:00"
     },
     {
       "id": "rss-a033a9c529bd",
@@ -644,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.617538+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.661742+00:00"
     },
     {
       "id": "rss-f0137ca0f6ca",
@@ -676,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.617650+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.661918+00:00"
     },
     {
       "id": "rss-3b97e5dc2a80",
@@ -708,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.617777+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.662102+00:00"
     },
     {
       "id": "rss-662f0820a6c0",
@@ -740,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.617909+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.662259+00:00"
     },
     {
       "id": "rss-7b474a66d0d0",
@@ -772,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.618015+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.662409+00:00"
     },
     {
       "id": "rss-885ed225a615",
@@ -804,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.618128+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.662574+00:00"
     },
     {
       "id": "rss-d3548a479e14",
@@ -836,71 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.618256+00:00"
-    },
-    {
-      "id": "rss-94989387e3df",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "authors": "TechCrunch AI",
-      "abstract": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-      "date": "2026-10-28",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "year",
-        "google",
-        "expands",
-        "search",
-        "globally",
-        "core",
-        "growth",
-        "slows"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.618364+00:00"
-    },
-    {
-      "id": "rss-28b090cc3ae0",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "authors": "TechCrunch AI",
-      "abstract": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-      "date": "2026-10-28",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "microsoft",
-        "billion",
-        "revenue",
-        "openai",
-        "recorded",
-        "said",
-        "made",
-        "commercial"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.618476+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.662780+00:00"
     },
     {
       "id": "rss-820a582ce463",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.739550+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.798028+00:00"
     },
     {
       "id": "rss-3d5d65395710",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.739678+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.798203+00:00"
     },
     {
       "id": "rss-288b8cf14c15",
@@ -996,7 +996,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.739815+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.798394+00:00"
+    },
+    {
+      "id": "openalex-1145521007f3",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Inst-Inpaint: Instructing to Remove Objects with Diffusion Models",
+      "authors": "Ahmet Burak Yildirim, Vedat Baday, Erkut Erdem, Aykut Erdem, Ayşegül Dündar",
+      "abstract": "Abstract Image inpainting task refers to erasing unwanted pixels from images and filling them in a semantically consistent and realistic way. Traditionally, the pixels that are wished to be erased are defined with binary masks. From the application point of view, a user needs to generate the masks for the objects they would like to remove which can be time-consuming and prone to errors. In this work, we are interested in an image inpainting algorithm that estimates which object to be removed based on natural language input and removes it, simultaneously. For this purpose, first, we construct a dataset named GQA-Inpaint for this task. Second, we present an inpainting framework, Inst-Inpaint , that can remove objects from images based on the instructions given as text prompts. We set various GAN and diffusion-based baselines and run experiments on synthetic and real-world image datasets...",
+      "date": "2026-10-26",
+      "year": 2026,
+      "journal": "International Journal of Computer Vision",
+      "source": "International Journal of Computer Vision",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1007/s11263-026-03110-9",
+      "doi": "10.1007/s11263-026-03110-9",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-026-03110-9.pdf",
+      "keywords": [
+        "Inpainting",
+        "Computer science",
+        "Pixel",
+        "Artificial intelligence",
+        "Computer vision",
+        "Generative Adversarial Networks and Image Synthesis",
+        "Digital Media Forensic Detection",
+        "Multimodal Machine Learning Applications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 21,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-30T05:41:14.226855+00:00"
     },
     {
       "id": "rss-265637551189",
@@ -1028,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.739949+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.798563+00:00"
     },
     {
       "id": "rss-281de43e80f6",
@@ -1060,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.740085+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.798776+00:00"
     },
     {
       "id": "rss-60fc831425ac",
@@ -1092,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.740217+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.798999+00:00"
     },
     {
       "id": "rss-cbaee3e9e823",
@@ -1124,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.740351+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.799186+00:00"
     },
     {
       "id": "rss-0a2551ebac8b",
@@ -1156,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.740479+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.799374+00:00"
     },
     {
       "id": "openalex-4bd6cc099ffc",
@@ -1188,7 +1220,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.361520+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.224389+00:00"
     },
     {
       "id": "rss-69ba6379887b",
@@ -1220,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.740599+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.799547+00:00"
     },
     {
       "id": "rss-0e793fcfa72e",
@@ -1252,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.740709+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.799738+00:00"
     },
     {
       "id": "rss-f2b78d63857a",
@@ -1284,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.740818+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.799924+00:00"
     },
     {
       "id": "rss-d37d11696ae4",
@@ -1316,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:19.028262+00:00"
+      "_retrievedAt": "2026-10-30T05:41:21.101836+00:00"
     },
     {
       "id": "rss-d46aadfd31b1",
@@ -1348,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:19.028726+00:00"
+      "_retrievedAt": "2026-10-30T05:41:21.102391+00:00"
     },
     {
       "id": "rss-dfab44ee18d2",
@@ -1380,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.740952+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.800094+00:00"
     },
     {
       "id": "rss-6674f1b9a348",
@@ -1412,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.741067+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.800255+00:00"
     },
     {
       "id": "rss-4ab0a2b15569",
@@ -1444,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:18.741182+00:00"
+      "_retrievedAt": "2026-10-30T05:41:20.800422+00:00"
     },
     {
       "id": "rss-d82f0f078053",
@@ -1476,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:19.029234+00:00"
+      "_retrievedAt": "2026-10-30T05:41:21.103050+00:00"
     },
     {
       "id": "rss-18545777b44e",
@@ -1508,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:19.029459+00:00"
+      "_retrievedAt": "2026-10-30T05:41:21.103350+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1540,7 +1572,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.376781+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.274165+00:00"
     },
     {
       "id": "rss-9097c559200f",
@@ -1572,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:19.029628+00:00"
+      "_retrievedAt": "2026-10-30T05:41:21.103578+00:00"
     },
     {
       "id": "rss-28ffe5c2eb8b",
@@ -1604,7 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:19.030108+00:00"
+      "_retrievedAt": "2026-10-30T05:41:21.104191+00:00"
     },
     {
       "id": "rss-3f43f1f3aef2",
@@ -1636,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:19.030590+00:00"
+      "_retrievedAt": "2026-10-30T05:41:21.104853+00:00"
     },
     {
       "id": "rss-dcbeb4cde24b",
@@ -1668,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:19.030988+00:00"
+      "_retrievedAt": "2026-10-30T05:41:21.105379+00:00"
     },
     {
       "id": "rss-5764f9ec0337",
@@ -1700,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:19.031520+00:00"
+      "_retrievedAt": "2026-10-30T05:41:21.106098+00:00"
     },
     {
       "id": "rss-23f57c26ccb3",
@@ -1732,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:19.031829+00:00"
+      "_retrievedAt": "2026-10-30T05:41:21.106510+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -1764,7 +1796,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.377049+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.274475+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -1796,7 +1828,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.904237+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.880431+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1828,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.359770+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.222348+00:00"
     },
     {
       "id": "openalex-637c76942b6d",
@@ -1860,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.360227+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.222943+00:00"
     },
     {
       "id": "openalex-e987114418d8",
@@ -1892,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.362781+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.225835+00:00"
     },
     {
       "id": "openalex-554ee5013027",
@@ -1924,7 +1956,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.904508+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.880800+00:00"
     },
     {
       "id": "openalex-2da239523a05",
@@ -1956,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.361831+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.224834+00:00"
     },
     {
       "id": "openalex-a4d4df423646",
@@ -1988,7 +2020,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.363077+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.226212+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2020,7 +2052,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.903188+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.879122+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2052,7 +2084,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.358780+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.221088+00:00"
     },
     {
       "id": "openalex-e647a9026b6a",
@@ -2084,7 +2116,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.362039+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.225105+00:00"
     },
     {
       "id": "openalex-aaaea7987db6",
@@ -2116,7 +2148,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.856844+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.726189+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2148,7 +2180,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.906006+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.882686+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2180,7 +2212,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.855617+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.724894+00:00"
     },
     {
       "id": "openalex-4bcca691e2bc",
@@ -2212,7 +2244,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.906785+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.883732+00:00"
     },
     {
       "id": "openalex-fc31c72923df",
@@ -2244,7 +2276,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.361002+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.223667+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -2276,7 +2308,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.379657+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.278010+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -2308,7 +2340,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.907116+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.884125+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -2340,7 +2372,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.858227+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.728068+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -2372,7 +2404,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.362277+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.225433+00:00"
+    },
+    {
+      "id": "openalex-9c3881676bb1",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "LRRK2 G2019S variant is associated with transcriptional changes in Parkinson’s disease human myeloid cells under proinflammatory environment",
+      "authors": "Elisa Navarro, Anastasia G. Efthymiou, Daniele Mattei, Madison Parks, Giulietta Maria Riboldi, Ricardo A. Vialle",
+      "abstract": "The G2019S mutation in the leucine-rich repeat kinase 2 (LRRK2) gene is a major risk factor for the development of Parkinson's disease (PD). LRRK2, although ubiquitously expressed, is highly abundant in cells of the innate immune system. Given the importance of central and peripheral immune cells in the development of PD, we sought to investigate the consequences of the G2019S mutation on microglial and monocyte transcriptome and function. We have generated large-scale transcriptomic profiles of isogenic human induced microglial cells (iMGLs) and patient derived monocytes carrying the G2019S mutation under baseline culture conditions and following exposure to the proinflammatory factors IFNγ and LPS. We demonstrate that the G2019S mutation exerts a profound impact on the transcriptomic profile of these myeloid cells, and describe corresponding functional differences in iMGLs. The G201...",
+      "date": "2026-08-08",
+      "year": 2026,
+      "journal": "Journal of Neuroinflammation",
+      "source": "Journal of Neuroinflammation",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1186/s12974-026-03967-0",
+      "doi": "10.1186/s12974-026-03967-0",
+      "pdfUrl": "https://doi.org/10.1186/s12974-026-03967-0",
+      "keywords": [
+        "LRRK2",
+        "Proinflammatory cytokine",
+        "Parkinson's disease",
+        "Disease",
+        "Myeloid cells",
+        "Parkinson's Disease Mechanisms and Treatments",
+        "Neuroinflammation and Neurodegeneration Mechanisms",
+        "Nuclear Receptors and Signaling"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-30T05:41:14.728449+00:00"
     },
     {
       "id": "openalex-aa0b72ab3b90",
@@ -2404,7 +2468,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.907546+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.884525+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2436,7 +2500,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.857113+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.726517+00:00"
     },
     {
       "id": "openalex-31da6159b300",
@@ -2468,7 +2532,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.907814+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.884880+00:00"
     },
     {
       "id": "openalex-13902727e89a",
@@ -2500,7 +2564,39 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.908142+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.885253+00:00"
+    },
+    {
+      "id": "openalex-76c84c6076eb",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits",
+      "authors": "Ronghui Zhu, Emma Dann, Jun Yan, Justine Reyes Retana, Ryunosuke Goto, Reese C Guitche",
+      "abstract": "Abstract Gene regulatory networks encode the fundamental logic of cellular functions, but systematic network mapping remains challenging, especially in cell states relevant to human biology and disease. Here, we perturbed all expressed genes across 22 million primary human CD4+ T cells from four donors and developed a probe-based perturb-seq platform to measure the transcriptome effects in cells at rest and after stimulation. These data allow us to map genes that regulate known and novel pathways, including novel regulators of cytokine production. Importantly, active regulators and the gene programs they control change dramatically across stimulation conditions. Perturbation signatures enabled us to model T cell states observed in population-scale transcriptomic atlases, nominating regulators of Th1 and Th2 polarization and of age-related T cell phenotypes. Finally, we leveraged pertu...",
+      "date": "2026-08-01",
+      "year": 2026,
+      "journal": "Cell",
+      "source": "Cell",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.cell.2026.08.002",
+      "doi": "10.1016/j.cell.2026.08.002",
+      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.08.002",
+      "keywords": [
+        "Biology",
+        "Transcriptome",
+        "ENCODE",
+        "Gene",
+        "Immune system",
+        "Single-cell and spatial transcriptomics",
+        "Gene Regulatory Network Analysis",
+        "Genomics and Chromatin Dynamics"
+      ],
+      "readTime": "1 min",
+      "citedBy": 24,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-30T05:41:14.226515+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2532,39 +2628,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.854912+00:00"
-    },
-    {
-      "id": "openalex-76c84c6076eb",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits",
-      "authors": "Ronghui Zhu, Emma Dann, Jun Yan, Justine Reyes Retana, Ryunosuke Goto, Reese C Guitche",
-      "abstract": "Abstract Gene regulatory networks encode the fundamental logic of cellular functions, but systematic network mapping remains challenging, especially in cell states relevant to human biology and disease. Here, we perturbed all expressed genes across 22 million primary human CD4+ T cells from four donors and developed a probe-based perturb-seq platform to measure the transcriptome effects in cells at rest and after stimulation. These data allow us to map genes that regulate known and novel pathways, including novel regulators of cytokine production. Importantly, active regulators and the gene programs they control change dramatically across stimulation conditions. Perturbation signatures enabled us to model T cell states observed in population-scale transcriptomic atlases, nominating regulators of Th1 and Th2 polarization and of age-related T cell phenotypes. Finally, we leveraged pertu...",
-      "date": "2026-08-01",
-      "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.08.002",
-      "doi": "10.1016/j.cell.2026.08.002",
-      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.08.002",
-      "keywords": [
-        "Biology",
-        "Transcriptome",
-        "ENCODE",
-        "Gene",
-        "Immune system",
-        "Single-cell and spatial transcriptomics",
-        "Gene Regulatory Network Analysis",
-        "Genomics and Chromatin Dynamics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 24,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.855149+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.723937+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2596,7 +2660,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.856161+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.725278+00:00"
     },
     {
       "id": "openalex-34f37069c1ad",
@@ -2628,7 +2692,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.857276+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.726753+00:00"
     },
     {
       "id": "openalex-c47d537bde45",
@@ -2660,7 +2724,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.377891+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.275617+00:00"
     },
     {
       "id": "openalex-83b919635dc2",
@@ -2692,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.378187+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.276034+00:00"
     },
     {
       "id": "openalex-c19eb2f8bd80",
@@ -2724,7 +2788,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.380201+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.278735+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2756,7 +2820,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.903875+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.879976+00:00"
+    },
+    {
+      "id": "openalex-cc20596fdff7",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "In vivo CRISPR base editing for treatment of Huntington’s disease",
+      "authors": "Shraddha Shirguppe, Michael Gapinske, Devyani Swami, Kyrollos Shenouda, Angelo Miskalis, Nicholas C. Gosstola",
+      "abstract": "Huntington's disease (HD) is an inherited and ultimately fatal neurodegenerative disorder caused by an expanded polyglutamine-encoding CAG repeat within exon 1 of the huntingtin (HTT) gene, which produces a mutant protein that destroys striatal and cortical neurons. Importantly, a critical event in the pathogenesis of HD is the proteolytic cleavage of the mutant HTT protein by caspase-6, which generates fragments of the N-terminal domain of the protein that form highly toxic aggregates. Given the role that proteolysis of the mutant HTT protein plays in HD, strategies for preventing this process hold potential for treating the disorder. By screening 141 CRISPR base editor variants targeting splice elements in the HTT gene, we identified platforms capable of producing HTT protein isoforms resistant to caspase-6-mediated proteolysis via editing of the splice acceptor sequence for exon 13...",
+      "date": "2026-07-29",
+      "year": 2026,
+      "journal": "Nature Biomedical Engineering",
+      "source": "Nature Biomedical Engineering",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41551-026-01747-y",
+      "doi": "10.1038/s41551-026-01747-y",
+      "pdfUrl": "https://www.nature.com/articles/s41551-026-01747-y.pdf",
+      "keywords": [
+        "Huntingtin",
+        "Exon",
+        "Mutant",
+        "Exon skipping",
+        "Gene knockin",
+        "Genetic Neurodegenerative Diseases",
+        "CRISPR and Genetic Engineering",
+        "Virus-based gene therapy research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-30T05:41:14.728796+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2788,7 +2884,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.904781+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.881158+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2820,7 +2916,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.359466+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.221948+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2852,7 +2948,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.378742+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.276800+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -2884,7 +2980,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.855356+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.724532+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -2916,7 +3012,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.377601+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.275228+00:00"
     },
     {
       "id": "openalex-100e88f28593",
@@ -2948,7 +3044,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.379999+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.278445+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -2980,7 +3076,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.378459+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.276402+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -3012,7 +3108,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.359157+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.221526+00:00"
     },
     {
       "id": "openalex-513edaf40716",
@@ -3044,7 +3140,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.379158+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.277314+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -3076,7 +3172,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.856388+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.725575+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -3108,7 +3204,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.906243+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.883014+00:00"
     },
     {
       "id": "openalex-b4945be66b52",
@@ -3140,7 +3236,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.857476+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.727029+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3172,7 +3268,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.376341+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.273548+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3204,7 +3300,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.905144+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.881566+00:00"
     },
     {
       "id": "openalex-6068978c624a",
@@ -3236,7 +3332,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.856630+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.725907+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -3268,7 +3364,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.906539+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.883400+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -3300,7 +3396,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.905710+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.882319+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -3332,7 +3428,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.857728+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.727372+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -3364,7 +3460,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.361250+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.224021+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -3396,7 +3492,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.905420+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.881939+00:00"
     },
     {
       "id": "openalex-b7abd719b558",
@@ -3428,7 +3524,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.360500+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.223303+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -3460,7 +3556,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:14.376619+00:00"
+      "_retrievedAt": "2026-10-30T05:41:15.273941+00:00"
     },
     {
       "id": "openalex-f831f0b2712b",
@@ -3492,103 +3588,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.857978+00:00"
-    },
-    {
-      "id": "openalex-7162a76ca107",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Advancing bioinformatics with language models: components, applications, and perspectives",
-      "authors": "Jiajia Liu, Mengyuan Yang, Yankai Yu, Haixia Xu, Tiangang Wang, Kang Li",
-      "abstract": "Large language models (LLMs) are a class of artificial intelligence models based on deep learning, which have great performance in various tasks, especially in natural language processing (NLP). Large language models typically consist of artificial neural networks with numerous parameters, trained on large amounts of unlabeled input using self-supervised or semi-supervised learning. However, their potential for solving bioinformatics problems may even exceed their proficiency in modeling human language. In this review, we will provide a comprehensive overview of the essential components of large language models (LLMs) in bioinformatics, spanning genomics, transcriptomics, proteomics, drug discovery, and single-cell analysis. Key aspects covered include tokenization methods for diverse data types, the architecture of transformer models, the core attention mechanism, and the pre-trainin...",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Briefings in Bioinformatics",
-      "source": "Briefings in Bioinformatics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1093/bib/bbag367",
-      "doi": "10.1093/bib/bbag367",
-      "pdfUrl": "https://doi.org/10.1093/bib/bbag367",
-      "keywords": [
-        "Computer science",
-        "Artificial intelligence",
-        "Language model",
-        "Natural language processing",
-        "Natural language",
-        "Machine Learning in Bioinformatics",
-        "Genomics and Phylogenetic Studies",
-        "Genetics, Bioinformatics, and Biomedical Research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 31,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.360729+00:00"
-    },
-    {
-      "id": "openalex-5a31a7e0a2f8",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "L2 Selves, Control-Value Appraisals, and Engagement in AI-Supported Informal Digital Learning of English: An SEM and fsQCA Approach",
-      "authors": "Xueheng Zhou, Honggang Liu",
-      "abstract": "This study examined learner engagement in AI-supported informal digital learning of English (IDLE) by integrating L2 selves and control-value appraisals within a Control-Value Theory framework. Drawing on data from 653 Chinese university students, the study employed structural equation modeling (SEM) to test the associations among ideal L2 self, ought-to L2 self, control appraisal, intrinsic value appraisal, extrinsic value appraisal, and learner engagement. It further used fuzzy-set qualitative comparative analysis (fsQCA) to identify configurational pathways associated with high engagement. The SEM results showed that both ideal L2 self and ought-to L2 self were positively associated with the three types of control-value appraisals, which were in turn positively associated with engagement. Mediation analysis indicated that control appraisal, intrinsic value appraisal, and extrinsic...",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Journal of Intelligence",
-      "source": "Journal of Intelligence",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.3390/jintelligence14070127",
-      "doi": "10.3390/jintelligence14070127",
-      "pdfUrl": "https://www.mdpi.com/2079-3200/14/7/127/pdf?version=1782885273",
-      "keywords": [
-        "Structural equation modeling",
-        "Mediation",
-        "Qualitative comparative analysis",
-        "Psychology",
-        "Value (mathematics)",
-        "EFL/ESL Teaching and Learning",
-        "English Language Learning and Teaching",
-        "Education, Achievement, and Giftedness"
-      ],
-      "readTime": "1 min",
-      "citedBy": 27,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.362501+00:00"
-    },
-    {
-      "id": "openalex-7596e664f24c",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Recurrent patterns of TOP1-mediated neuronal genomic damage shared by major neurodegenerative disorders",
-      "authors": "Zinan Zhou, Lovelace J. Luquette, Guanlan Dong, Junho Kim, Jayoung Ku, K M Kim",
-      "abstract": "Amyotrophic lateral sclerosis (ALS), frontotemporal dementia (FTD), and Alzheimer's disease (AD) represent two major categories of neurodegenerative disorders-TAR DNA-binding protein 43 (TDP-43) and tau proteinopathies-for which the mechanisms driving neuronal death remain unclear. Single-cell whole-genome sequencing of 469 neurons from C9ORF72 ALS, C9ORF72 FTD, AD, and control brains revealed increased somatic single-nucleotide variants (sSNVs) and insertions/deletions (sIndels) in all three diseases. Mutational signature analysis identified a disease-associated sSNV signature consistent with oxidative damage and an sIndel process affecting 22% of ALS, 76% of FTD, and 61% of AD neurons-but only 2% of control neurons-resembling signature ID4, previously linked to topoisomerase 1 (TOP1)-mediated mutagenesis. Rapid approach to DNA adduct recovery (RADAR) assays confirmed increased TOP1-...",
-      "date": "2026-07-01",
-      "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.06.013",
-      "doi": "10.1016/j.cell.2026.06.013",
-      "pdfUrl": "https://www.cell.com/cell/pdf/S0092-8674(26)00700-2.pdf",
-      "keywords": [
-        "Biology",
-        "C9orf72",
-        "Frontotemporal dementia",
-        "Amyotrophic lateral sclerosis",
-        "Genetics",
-        "Amyotrophic Lateral Sclerosis Research",
-        "Alzheimer's disease research and treatments",
-        "DNA Repair Mechanisms"
-      ],
-      "readTime": "1 min",
-      "citedBy": 12,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-29T22:42:13.855838+00:00"
+      "_retrievedAt": "2026-10-30T05:41:14.727691+00:00"
     }
   ]
 }
