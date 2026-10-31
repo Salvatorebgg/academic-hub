@@ -1,11 +1,75 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-10-31T12:19:21.660706+00:00",
+  "generatedAt": "2026-10-31T21:29:32.065041+00:00",
   "total": 112,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-73f859bdf0dd",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Reversing radiation-activated immune suppression in cancer",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at the University of Chicago have identified a mechanism to make immune cells reprogrammed by radiation therapy attack tumors rather than protect them. The study, published in Cancer Cell, shows that radiation activates a protein called TET2 on immune cells in bone marrow, where it removes chemical tags from RNA and locks these cells into an immune-suppressing state.",
+      "date": "2026-10-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-reversing-immune-suppression-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "immune",
+        "cells",
+        "cancer",
+        "radiation",
+        "reversing",
+        "radiation-activated",
+        "suppression",
+        "researchers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-31T21:29:31.723756+00:00"
+    },
+    {
+      "id": "rss-54d2f229168d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Twin study links artistic, but not scientific, creativity to poorer mental health",
+      "authors": "Medical Xpress",
+      "abstract": "The relationship between creativity and mental health has attracted the interest of many psychologists over the past decades. Some past studies have found that creativity is sometimes linked to mental health difficulties, while others collected opposing or inconsistent results.",
+      "date": "2026-10-31",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-twin-links-artistic-scientific-creativity.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "creativity",
+        "mental",
+        "health",
+        "past",
+        "twin",
+        "links",
+        "artistic",
+        "scientific"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-31T21:29:31.723935+00:00"
+    },
     {
       "id": "rss-22ca48d53f8b",
       "discipline": "clinical",
@@ -36,7 +100,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.224444+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.724101+00:00"
     },
     {
       "id": "rss-d37b092b0ed6",
@@ -68,7 +132,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.224713+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.724256+00:00"
     },
     {
       "id": "rss-b9e70be8ea85",
@@ -100,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.225047+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.724433+00:00"
     },
     {
       "id": "rss-e5e7d4f0a879",
@@ -132,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.225347+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.724600+00:00"
     },
     {
       "id": "rss-f596ddacbfe1",
@@ -164,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.225580+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.724730+00:00"
     },
     {
       "id": "rss-19f810aaa72e",
@@ -196,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.225861+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.724895+00:00"
     },
     {
       "id": "rss-c1ed68e6bff9",
@@ -228,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.226151+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.725031+00:00"
     },
     {
       "id": "rss-0bb86f1f838e",
@@ -260,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.226424+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.725188+00:00"
     },
     {
       "id": "rss-da030464e2e7",
@@ -292,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.226671+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.725350+00:00"
     },
     {
       "id": "rss-78a7a83bf9b1",
@@ -324,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.226904+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.725482+00:00"
     },
     {
       "id": "rss-327cfa7db57d",
@@ -356,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.227299+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.725707+00:00"
     },
     {
       "id": "rss-365663bb2ada",
@@ -388,71 +452,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.227546+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.725857+00:00"
     },
     {
-      "id": "rss-50b797b058ca",
-      "discipline": "clinical",
+      "id": "rss-043f67bf6971",
+      "discipline": "cs",
       "type": "news",
-      "title": "Space-grown glioblastoma organoids could help advance brain cancer treatments",
-      "authors": "Medical Xpress",
-      "abstract": "Glioblastoma (GBM) is the most common malignant primary brain tumor in adults and is one of the most aggressive and deadly forms of cancer. It is difficult for surgeons to fully remove GBM because it often has microscopic \"tentacles\" that extend from the tumor into healthy brain tissue. GBM is also hard to treat because it creates an immunosuppressive microenvironment that helps the cancer evade immune attack and resist therapy.",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "authors": "TechCrunch AI",
+      "abstract": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
       "date": "2026-10-31",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-space-grown-glioblastoma-organoids-advance.html",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "brain",
-        "cancer",
-        "glioblastoma",
-        "most",
-        "tumor",
-        "because",
-        "that",
-        "space-grown"
+        "naacp",
+        "lawsuit",
+        "judge",
+        "allows",
+        "over",
+        "center",
+        "pollution",
+        "move"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.227820+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.749430+00:00"
     },
     {
-      "id": "rss-1d82f3ca1d70",
-      "discipline": "clinical",
+      "id": "rss-f5c4ef831f23",
+      "discipline": "cs",
       "type": "news",
-      "title": "Not all antihistamines are the same—and some may affect your brain more than you think",
-      "authors": "Medical Xpress",
-      "abstract": "Millions of people take antihistamines for allergies, but some of these medicines can make you sleepy, slow your reactions and affect your concentration. Others are much less likely to have these effects. Knowing the difference can help you choose an allergy treatment that won't interfere with your day.",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
       "date": "2026-10-31",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-antihistamines-affect-brain.html",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "your",
-        "antihistamines",
-        "some",
-        "affect",
-        "these",
-        "same",
-        "brain",
-        "more"
+        "openai",
+        "funding",
+        "round",
+        "reportedly",
+        "lowers",
+        "target",
+        "latest",
+        "doesn"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.228118+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.749567+00:00"
     },
     {
       "id": "rss-621f488f8114",
@@ -484,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.258758+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.749678+00:00"
     },
     {
       "id": "rss-7577f6bd5760",
@@ -516,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.259029+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.749778+00:00"
     },
     {
       "id": "rss-3ee0d7a5ab02",
@@ -548,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.259222+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.749894+00:00"
     },
     {
       "id": "rss-1508b44905fb",
@@ -580,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.259431+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.750021+00:00"
     },
     {
       "id": "rss-5cec9f017dac",
@@ -612,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.259590+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.750112+00:00"
     },
     {
       "id": "rss-7146748a848d",
@@ -644,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.259758+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.750227+00:00"
     },
     {
       "id": "rss-d3cfe6d65331",
@@ -676,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.259931+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.750337+00:00"
     },
     {
       "id": "rss-b2b13a479e3f",
@@ -708,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.260135+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.750433+00:00"
     },
     {
       "id": "rss-b4a5c4cc1cc4",
@@ -740,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.260329+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.750546+00:00"
     },
     {
       "id": "rss-b8a4fbc72cd3",
@@ -772,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.260534+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.750672+00:00"
     },
     {
       "id": "rss-27dbe576691c",
@@ -804,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.260694+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.750765+00:00"
     },
     {
       "id": "rss-abe42f88ca85",
@@ -836,71 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.260859+00:00"
-    },
-    {
-      "id": "rss-04b3e5bca345",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "authors": "TechCrunch AI",
-      "abstract": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-      "date": "2026-10-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "centers",
-        "mass-produced",
-        "like",
-        "cars",
-        "this",
-        "startup",
-        "aims",
-        "find"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.261055+00:00"
-    },
-    {
-      "id": "rss-00f1a97af983",
-      "discipline": "cs",
-      "type": "news",
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "authors": "TechCrunch AI",
-      "abstract": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "date": "2026-10-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "religious",
-        "exemption",
-        "need",
-        "believe",
-        "work",
-        "david",
-        "durman",
-        "university"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.261235+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.750863+00:00"
     },
     {
       "id": "rss-4ae9201eddcb",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.322281+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.787940+00:00"
     },
     {
       "id": "rss-4452dd44bbfd",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.322477+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.788068+00:00"
     },
     {
       "id": "openalex-818836e119b0",
@@ -980,7 +980,7 @@ window.LIVE_FEED_DATA = {
       "sourceApi": "OpenAlex",
       "url": "https://doi.org/10.5194/essd-18-7787-2026",
       "doi": "10.5194/essd-18-7787-2026",
-      "pdfUrl": "https://doi.org/10.5194/essd-18-7787-2026",
+      "pdfUrl": "https://essd.copernicus.org/articles/18/7787/2026/essd-18-7787-2026.pdf",
       "keywords": [
         "Groundwater",
         "Environmental science",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.971878+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.927129+00:00"
     },
     {
       "id": "rss-820a582ce463",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.322654+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.788175+00:00"
     },
     {
       "id": "rss-3d5d65395710",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.322812+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.788294+00:00"
     },
     {
       "id": "openalex-4a66fb8dde9c",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.655531+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.580837+00:00"
     },
     {
       "id": "rss-288b8cf14c15",
@@ -1124,39 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.323027+00:00"
-    },
-    {
-      "id": "openalex-1145521007f3",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Inst-Inpaint: Instructing to Remove Objects with Diffusion Models",
-      "authors": "Ahmet Burak Yildirim, Vedat Baday, Erkut Erdem, Aykut Erdem, Ayşegül Dündar",
-      "abstract": "Abstract Image inpainting task refers to erasing unwanted pixels from images and filling them in a semantically consistent and realistic way. Traditionally, the pixels that are wished to be erased are defined with binary masks. From the application point of view, a user needs to generate the masks for the objects they would like to remove which can be time-consuming and prone to errors. In this work, we are interested in an image inpainting algorithm that estimates which object to be removed based on natural language input and removes it, simultaneously. For this purpose, first, we construct a dataset named GQA-Inpaint for this task. Second, we present an inpainting framework, Inst-Inpaint , that can remove objects from images based on the instructions given as text prompts. We set various GAN and diffusion-based baselines and run experiments on synthetic and real-world image datasets...",
-      "date": "2026-10-26",
-      "year": 2026,
-      "journal": "International Journal of Computer Vision",
-      "source": "International Journal of Computer Vision",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s11263-026-03110-9",
-      "doi": "10.1007/s11263-026-03110-9",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-026-03110-9.pdf",
-      "keywords": [
-        "Inpainting",
-        "Computer science",
-        "Pixel",
-        "Artificial intelligence",
-        "Computer vision",
-        "Generative Adversarial Networks and Image Synthesis",
-        "Digital Media Forensic Detection",
-        "Multimodal Machine Learning Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 21,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.044548+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.788431+00:00"
     },
     {
       "id": "rss-265637551189",
@@ -1188,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.323202+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.788529+00:00"
     },
     {
       "id": "rss-281de43e80f6",
@@ -1220,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.323393+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.788649+00:00"
     },
     {
       "id": "rss-60fc831425ac",
@@ -1252,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.323577+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.788756+00:00"
     },
     {
       "id": "rss-cbaee3e9e823",
@@ -1284,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.323759+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.788865+00:00"
     },
     {
       "id": "rss-0a2551ebac8b",
@@ -1316,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.323941+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.788976+00:00"
     },
     {
       "id": "openalex-4bd6cc099ffc",
@@ -1348,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.041889+00:00"
+      "_retrievedAt": "2026-10-31T21:29:27.716598+00:00"
     },
     {
       "id": "rss-69ba6379887b",
@@ -1380,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.324139+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.789075+00:00"
     },
     {
       "id": "rss-0e793fcfa72e",
@@ -1412,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.324304+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.789166+00:00"
     },
     {
       "id": "rss-f2b78d63857a",
@@ -1444,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.324469+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.789288+00:00"
     },
     {
       "id": "rss-d37d11696ae4",
@@ -1476,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.585132+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.943815+00:00"
     },
     {
       "id": "rss-d46aadfd31b1",
@@ -1508,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.585707+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.944185+00:00"
     },
     {
       "id": "rss-dfab44ee18d2",
@@ -1540,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.324637+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.789390+00:00"
     },
     {
       "id": "rss-d82f0f078053",
@@ -1572,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.586384+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.944622+00:00"
     },
     {
       "id": "rss-18545777b44e",
@@ -1604,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.586694+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.944824+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1636,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.650866+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.577806+00:00"
     },
     {
       "id": "rss-9097c559200f",
@@ -1668,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.586929+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.944966+00:00"
     },
     {
       "id": "rss-28ffe5c2eb8b",
@@ -1700,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.587560+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.945360+00:00"
     },
     {
       "id": "rss-3f43f1f3aef2",
@@ -1732,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.588248+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.945770+00:00"
     },
     {
       "id": "rss-dcbeb4cde24b",
@@ -1764,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.588777+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.946112+00:00"
     },
     {
       "id": "rss-5764f9ec0337",
@@ -1796,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.589523+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.946574+00:00"
     },
     {
       "id": "rss-23f57c26ccb3",
@@ -1828,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:21.589966+00:00"
+      "_retrievedAt": "2026-10-31T21:29:31.946835+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -1856,11 +1824,11 @@ window.LIVE_FEED_DATA = {
         "T-cell and B-cell Immunology"
       ],
       "readTime": "1 min",
-      "citedBy": 12,
+      "citedBy": 13,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.651205+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.578018+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -1892,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.968323+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.924889+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1924,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.039817+00:00"
+      "_retrievedAt": "2026-10-31T21:29:27.715257+00:00"
     },
     {
       "id": "openalex-637c76942b6d",
@@ -1956,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.040417+00:00"
+      "_retrievedAt": "2026-10-31T21:29:27.715668+00:00"
     },
     {
       "id": "openalex-e987114418d8",
@@ -1988,7 +1956,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.043485+00:00"
+      "_retrievedAt": "2026-10-31T21:29:27.717495+00:00"
     },
     {
       "id": "openalex-554ee5013027",
@@ -2020,7 +1988,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.968672+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.925125+00:00"
     },
     {
       "id": "openalex-2da239523a05",
@@ -2052,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.042699+00:00"
+      "_retrievedAt": "2026-10-31T21:29:27.717064+00:00"
     },
     {
       "id": "openalex-a4d4df423646",
@@ -2084,7 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.043880+00:00"
+      "_retrievedAt": "2026-10-31T21:29:27.717743+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2116,7 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.966987+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.923978+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2148,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.038520+00:00"
+      "_retrievedAt": "2026-10-31T21:29:27.714340+00:00"
     },
     {
       "id": "openalex-e647a9026b6a",
@@ -2180,7 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.043044+00:00"
+      "_retrievedAt": "2026-10-31T21:29:27.717247+00:00"
     },
     {
       "id": "openalex-aaaea7987db6",
@@ -2212,7 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.333473+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.201138+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2244,7 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.970716+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.926408+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2276,7 +2244,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.044219+00:00"
+      "_retrievedAt": "2026-10-31T21:29:27.717944+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2308,7 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.332132+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.200104+00:00"
     },
     {
       "id": "openalex-4bcca691e2bc",
@@ -2340,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.972222+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.927356+00:00"
     },
     {
       "id": "openalex-fc31c72923df",
@@ -2372,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.041168+00:00"
+      "_retrievedAt": "2026-10-31T21:29:27.716137+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -2404,7 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.654705+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.580304+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -2436,7 +2404,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.972612+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.927611+00:00"
+    },
+    {
+      "id": "openalex-6a5a22694e49",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Electricity demand and grid impacts of AI data centers: Challenges and prospects",
+      "authors": "Xin Chen, Xiaoyang Wang, Ana Colacelli, Matt Lee, Le Xie",
+      "abstract": "The rapid growth of artificial intelligence (AI) is driving an unprecedented increase in the electricity demand of AI data centers, raising emerging challenges for electric power grids. Understanding the characteristics of AI data center loads and their interactions with the grid is therefore critical for ensuring both reliable power system operation and sustainable AI development. This paper provides a comprehensive review and vision of this evolving landscape. Specifically, this paper (i) presents an overview of AI data center infrastructure and its key components, (ii) examines the key characteristics and patterns of electricity demand across the stages of model preparation, training, fine-tuning, and inference, (iii) analyzes the critical challenges that AI data center loads pose to power systems across three interrelated timescales, including long-term planning and interconnectio...",
+      "date": "2026-08-17",
+      "year": 2026,
+      "journal": "Nexus",
+      "source": "Nexus",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.ynexs.2026.100162",
+      "doi": "10.1016/j.ynexs.2026.100162",
+      "pdfUrl": "https://doi.org/10.1016/j.ynexs.2026.100162",
+      "keywords": [
+        "Electricity",
+        "Key (lock)",
+        "Computer science",
+        "Electric power system",
+        "Electricity system",
+        "Smart Grid Energy Management",
+        "Energy Efficiency in Computing",
+        "Smart Grid and Power Systems"
+      ],
+      "readTime": "1 min",
+      "citedBy": 23,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-31T21:29:27.718150+00:00"
     },
     {
       "id": "openalex-e53fd6efecab",
@@ -2468,7 +2468,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.335071+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.202135+00:00"
+    },
+    {
+      "id": "openalex-7557b642a0ae",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Brain perivascular macrophages regulate endothelial cell function via a cMAF-dependent transcriptional program in mouse and human",
+      "authors": "Simone Brioschi, Julia A. Belk, Steffen E. Storck, Yue Wu, Zhuoying Wang, Ziang Feng",
+      "abstract": "Brain perivascular macrophages maintain brain physiology, yet their transcriptional regulators and functions in health and disease remain unclear. Using single-cell multi-omics and functional experiments, we identify cellular musculoaponeurotic fibrosarcoma oncogene (cMAF) as a key transcription factor for brain perivascular macrophages, and conditional deletion of cMAF disrupts their phenotype in vivo. Functionally, cMAF drives insulin-like growth factor-1 (IGF1) expression in perivascular macrophages, enabling communication with endothelial cells. Consistently, cMAF deletion in perivascular macrophages causes transcriptional alterations in cerebral arteries, affecting vascular functions. Notably, cMAF emerges as the main transcription factor for human perivascular macrophages, suggesting conservation of this transcriptional module. During Alzheimer's disease (AD), human perivascular...",
+      "date": "2026-08-14",
+      "year": 2026,
+      "journal": "Cell",
+      "source": "Cell",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.cell.2026.07.043",
+      "doi": "10.1016/j.cell.2026.07.043",
+      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.07.043",
+      "keywords": [
+        "Biology",
+        "Cell biology",
+        "Function (biology)",
+        "Endothelial stem cell",
+        "Endothelium",
+        "Neuroinflammation and Neurodegeneration Mechanisms",
+        "Barrier Structure and Function Studies",
+        "Cerebrospinal fluid and hydrocephalus"
+      ],
+      "readTime": "1 min",
+      "citedBy": 6,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-31T21:29:28.202339+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -2500,7 +2532,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.042262+00:00"
+      "_retrievedAt": "2026-10-31T21:29:27.716799+00:00"
+    },
+    {
+      "id": "openalex-35d470812d90",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Peripheral lysosomes recruit PLEKHG3 to focal adhesions and restrain protrusion dynamics",
+      "authors": "Rainer Ettelt, Ana-Maria Șandru, Georg Vucak, Sebastian Didusch, Biljana Riemelmoser, Karin Ehrenreiter",
+      "abstract": "Lysosomes are dynamic organelles regulating metabolic signaling by recruiting cytosolic molecules to protein platforms on their limiting membrane. We used proximity labeling to define interactors and vicinal proteins of LAMTOR3, a component of the Ragulator scaffold that controls mTORC1 signaling and lysosome positioning. The screen has yielded several previously unappreciated interactors, including an actin remodeling network. Here, we characterize the RhoGEF PLEKHG3 as a LAMTOR3 vicinal protein colocalizing with peripheral lysosomes and cortical F-actin at focal adhesion sites. Forced peripheral dispersion of lysosomes drives PLEKHG3 accumulation at focal adhesions and decreases protrusive activity in both wild-type and PLEKHG3-deficient cells. Thus, lysosome positioning governs both PLEKHG3 localization and protrusive activity, yet the protrusion changes can occur independently of...",
+      "date": "2026-08-10",
+      "year": 2026,
+      "journal": "FEBS Letters",
+      "source": "FEBS Letters",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1002/1873-3468.70428",
+      "doi": "10.1002/1873-3468.70428",
+      "pdfUrl": "https://doi.org/10.1002/1873-3468.70428",
+      "keywords": [
+        "Focal adhesion",
+        "Cell biology",
+        "Lysosome",
+        "Cytosol",
+        "mTORC1",
+        "Cellular transport and secretion",
+        "Protein Kinase Regulation and GTPase Signaling",
+        "Autophagy in Disease and Therapy"
+      ],
+      "readTime": "1 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-10-31T21:29:28.200758+00:00"
     },
     {
       "id": "openalex-9c3881676bb1",
@@ -2532,14 +2596,14 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.335450+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.202584+00:00"
     },
     {
       "id": "openalex-aa0b72ab3b90",
       "discipline": "geo",
       "type": "paper",
       "title": "Where sky meets sea: Integrated aerosol and ocean color retrieval from PACE SPEXone multi-angle polarimetry",
-      "authors": "Meng Gao, Kamal Aryal, Peng‐Wang Zhai, Kirk David Knobelspiesse, Bryan A. Franz, Brian Cairns",
+      "authors": "Meng Gao, Kamal Aryal, Peng‐Wang Zhai, Kirk Knobelspiesse, Bryan A. Franz, Brian Cairns",
       "abstract": "Global aerosol and ocean color properties are simultaneously retrieved from multi-angle polarimetric measurements acquired by the SPEXone instrument aboard NASA’s PACE mission. These coupled retrievals are enabled by the FastMAPOL algorithm, which combines optimal estimation with deep neural network forward models to achieve efficient and accurate operational processing. Ocean remote-sensing reflectance (Rrs) is derived through multi-angle atmospheric correction, introducing an explicit angular dimension for characterizing aquatic optical properties. Since early 2024, both Level-2 and Level-3 global products have been generated in near real time and are publicly distributed through the NASA Earthdata archive.Validation against the Aerosol Robotic Network (AERONET) and associated AERONET-Ocean Color (OC) observations demonstrates robust performance for both atmospheric and oceanic retr...",
       "date": "2026-08-06",
       "year": 2026,
@@ -2564,7 +2628,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.973030+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.927869+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2596,7 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.333816+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.201379+00:00"
     },
     {
       "id": "openalex-31da6159b300",
@@ -2628,7 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.973372+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.928087+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2660,7 +2724,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.331129+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.199480+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2688,11 +2752,11 @@ window.LIVE_FEED_DATA = {
         "Cancer Genomics and Diagnostics"
       ],
       "readTime": "1 min",
-      "citedBy": 12,
+      "citedBy": 13,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.332524+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.200378+00:00"
     },
     {
       "id": "openalex-34f37069c1ad",
@@ -2724,39 +2788,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.334061+00:00"
-    },
-    {
-      "id": "openalex-7557b642a0ae",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Brain perivascular macrophages regulate endothelial cell function via a cMAF-dependent transcriptional program in mouse and human",
-      "authors": "Simone Brioschi, Julia A. Belk, Steffen E. Storck, Yue Wu, Zhuoying Wang, Ziang Feng",
-      "abstract": "Brain perivascular macrophages maintain brain physiology, yet their transcriptional regulators and functions in health and disease remain unclear. Using single-cell multi-omics and functional experiments, we identify cellular musculoaponeurotic fibrosarcoma oncogene (cMAF) as a key transcription factor for brain perivascular macrophages, and conditional deletion of cMAF disrupts their phenotype in vivo. Functionally, cMAF drives insulin-like growth factor-1 (IGF1) expression in perivascular macrophages, enabling communication with endothelial cells. Consistently, cMAF deletion in perivascular macrophages causes transcriptional alterations in cerebral arteries, affecting vascular functions. Notably, cMAF emerges as the main transcription factor for human perivascular macrophages, suggesting conservation of this transcriptional module. During Alzheimer's disease (AD), human perivascular...",
-      "date": "2026-08-01",
-      "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.07.043",
-      "doi": "10.1016/j.cell.2026.07.043",
-      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.07.043",
-      "keywords": [
-        "Biology",
-        "Cell biology",
-        "Function (biology)",
-        "Endothelial stem cell",
-        "Endothelium",
-        "Neuroinflammation and Neurodegeneration Mechanisms",
-        "Barrier Structure and Function Studies",
-        "Cerebrospinal fluid and hydrocephalus"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.335751+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.201518+00:00"
     },
     {
       "id": "openalex-c47d537bde45",
@@ -2788,7 +2820,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.652331+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.578768+00:00"
     },
     {
       "id": "openalex-83b919635dc2",
@@ -2820,7 +2852,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.652726+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.579025+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -2852,39 +2884,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.967842+00:00"
-    },
-    {
-      "id": "openalex-cc20596fdff7",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "In vivo CRISPR base editing for treatment of Huntington’s disease",
-      "authors": "Shraddha Shirguppe, Michael Gapinske, Devyani Swami, Kyrollos Shenouda, Angelo Miskalis, Nicholas C. Gosstola",
-      "abstract": "Huntington's disease (HD) is an inherited and ultimately fatal neurodegenerative disorder caused by an expanded polyglutamine-encoding CAG repeat within exon 1 of the huntingtin (HTT) gene, which produces a mutant protein that destroys striatal and cortical neurons. Importantly, a critical event in the pathogenesis of HD is the proteolytic cleavage of the mutant HTT protein by caspase-6, which generates fragments of the N-terminal domain of the protein that form highly toxic aggregates. Given the role that proteolysis of the mutant HTT protein plays in HD, strategies for preventing this process hold potential for treating the disorder. By screening 141 CRISPR base editor variants targeting splice elements in the HTT gene, we identified platforms capable of producing HTT protein isoforms resistant to caspase-6-mediated proteolysis via editing of the splice acceptor sequence for exon 13...",
-      "date": "2026-07-29",
-      "year": 2026,
-      "journal": "Nature Biomedical Engineering",
-      "source": "Nature Biomedical Engineering",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41551-026-01747-y",
-      "doi": "10.1038/s41551-026-01747-y",
-      "pdfUrl": "https://www.nature.com/articles/s41551-026-01747-y.pdf",
-      "keywords": [
-        "Huntingtin",
-        "Exon",
-        "Mutant",
-        "Exon skipping",
-        "Gene knockin",
-        "Genetic Neurodegenerative Diseases",
-        "CRISPR and Genetic Engineering",
-        "Virus-based gene therapy research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.336118+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.924582+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2916,7 +2916,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.969079+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.925380+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -2948,7 +2948,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.039413+00:00"
+      "_retrievedAt": "2026-10-31T21:29:27.714949+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -2980,7 +2980,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.653816+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.579722+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -3012,7 +3012,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.331743+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.199876+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -3044,7 +3044,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.651931+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.578524+00:00"
     },
     {
       "id": "openalex-100e88f28593",
@@ -3076,7 +3076,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.655164+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.580599+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -3108,7 +3108,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.653108+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.579270+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -3140,7 +3140,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.039004+00:00"
+      "_retrievedAt": "2026-10-31T21:29:27.714676+00:00"
     },
     {
       "id": "openalex-513edaf40716",
@@ -3172,7 +3172,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.654348+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.580062+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -3204,7 +3204,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.333180+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.200953+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -3236,7 +3236,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.971070+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.926608+00:00"
     },
     {
       "id": "openalex-b4945be66b52",
@@ -3268,7 +3268,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.334367+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.201689+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3300,7 +3300,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.650249+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.577415+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3332,7 +3332,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.969496+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.925647+00:00"
     },
     {
       "id": "openalex-6068978c624a",
@@ -3364,7 +3364,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.332840+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.200587+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -3396,7 +3396,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.971471+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.926864+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -3428,7 +3428,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.970332+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.926143+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -3460,7 +3460,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.334713+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.201919+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -3492,7 +3492,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.041512+00:00"
+      "_retrievedAt": "2026-10-31T21:29:27.716369+00:00"
     },
     {
       "id": "openalex-a5075575c3cb",
@@ -3524,7 +3524,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.969853+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.925881+00:00"
     },
     {
       "id": "openalex-b7abd719b558",
@@ -3556,7 +3556,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.040786+00:00"
+      "_retrievedAt": "2026-10-31T21:29:27.715911+00:00"
     },
     {
       "id": "openalex-f2829fa041f5",
@@ -3588,7 +3588,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-10-31T12:19:17.650623+00:00"
+      "_retrievedAt": "2026-10-31T21:29:28.577659+00:00"
     }
   ]
 };
