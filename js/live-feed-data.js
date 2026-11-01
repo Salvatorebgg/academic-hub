@@ -1,11 +1,43 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-11-01T05:56:55.432337+00:00",
-  "total": 113,
+  "generatedAt": "2026-11-01T13:15:22.002385+00:00",
+  "total": 84,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-9c3693ca0eab",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Newly discovered pathway fuels production of cancer-driving proteins",
+      "authors": "Medical Xpress",
+      "abstract": "A previously unknown mechanism helps cancer cells selectively produce proteins that drive tumor growth—such as KRAS—in common cancers, according to new research from The University of Texas MD Anderson Cancer Center. The findings reveal that targeting a specific enzyme may improve responses to targeted therapies and help overcome treatment resistance.",
+      "date": "2026-11-01",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-10-newly-pathway-fuels-production-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "proteins",
+        "cancer",
+        "that",
+        "newly",
+        "discovered",
+        "pathway",
+        "fuels",
+        "production"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-01T13:15:21.162619+00:00"
+    },
     {
       "id": "rss-73f859bdf0dd",
       "discipline": "clinical",
@@ -36,7 +68,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:54.995311+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.162778+00:00"
     },
     {
       "id": "rss-54d2f229168d",
@@ -68,7 +100,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:54.995602+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.162900+00:00"
     },
     {
       "id": "rss-22ca48d53f8b",
@@ -100,7 +132,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:54.995880+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.163026+00:00"
     },
     {
       "id": "rss-d37b092b0ed6",
@@ -132,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:54.996119+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.163136+00:00"
     },
     {
       "id": "rss-b9e70be8ea85",
@@ -164,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:54.996443+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.163268+00:00"
     },
     {
       "id": "rss-e5e7d4f0a879",
@@ -196,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:54.996730+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.163399+00:00"
     },
     {
       "id": "rss-f596ddacbfe1",
@@ -228,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:54.996961+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.163505+00:00"
     },
     {
       "id": "rss-19f810aaa72e",
@@ -260,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:54.997266+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.163640+00:00"
     },
     {
       "id": "rss-c1ed68e6bff9",
@@ -292,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:54.997510+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.163748+00:00"
     },
     {
       "id": "rss-0bb86f1f838e",
@@ -324,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:54.997778+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.163870+00:00"
     },
     {
       "id": "rss-da030464e2e7",
@@ -356,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:54.998032+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.163983+00:00"
     },
     {
       "id": "rss-78a7a83bf9b1",
@@ -388,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:54.998275+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.164087+00:00"
     },
     {
       "id": "rss-327cfa7db57d",
@@ -420,39 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:54.998648+00:00"
-    },
-    {
-      "id": "rss-365663bb2ada",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Surgical recurrence less frequent with laparoscopic surgery for Crohn disease",
-      "authors": "Medical Xpress",
-      "abstract": "For patients undergoing elective intestinal resection for Crohn disease (CD), cumulative surgical recurrence rates are lower with laparoscopic versus open surgery, according to a study published online July 23 in Techniques in Coloproctology.",
-      "date": "2026-11-01",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-surgical-recurrence-frequent-laparoscopic-surgery.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "surgical",
-        "recurrence",
-        "laparoscopic",
-        "surgery",
-        "crohn",
-        "disease",
-        "less",
-        "frequent"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:54.998886+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.164258+00:00"
     },
     {
       "id": "rss-8be1c5352b14",
@@ -484,7 +484,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.029932+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.239407+00:00"
     },
     {
       "id": "rss-0472967fe599",
@@ -516,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.030201+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.239545+00:00"
     },
     {
       "id": "rss-043f67bf6971",
@@ -548,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.030412+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.239651+00:00"
     },
     {
       "id": "rss-f5c4ef831f23",
@@ -580,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.030574+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.239727+00:00"
     },
     {
       "id": "rss-621f488f8114",
@@ -612,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.030750+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.239808+00:00"
     },
     {
       "id": "rss-7577f6bd5760",
@@ -644,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.030915+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.239883+00:00"
     },
     {
       "id": "rss-3ee0d7a5ab02",
@@ -676,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.031085+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.239959+00:00"
     },
     {
       "id": "rss-1508b44905fb",
@@ -708,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.031306+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.240049+00:00"
     },
     {
       "id": "rss-5cec9f017dac",
@@ -740,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.031465+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.240118+00:00"
     },
     {
       "id": "rss-7146748a848d",
@@ -772,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.031626+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.240192+00:00"
     },
     {
       "id": "rss-d3cfe6d65331",
@@ -804,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.031796+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.240269+00:00"
     },
     {
       "id": "rss-b2b13a479e3f",
@@ -836,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.031955+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.240340+00:00"
     },
     {
       "id": "rss-b4a5c4cc1cc4",
@@ -868,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.032140+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.240424+00:00"
     },
     {
       "id": "rss-b8a4fbc72cd3",
@@ -900,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.032372+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.240519+00:00"
     },
     {
       "id": "rss-4ae9201eddcb",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.110978+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.434302+00:00"
     },
     {
       "id": "rss-4452dd44bbfd",
@@ -964,39 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.111173+00:00"
-    },
-    {
-      "id": "openalex-818836e119b0",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "The Global Gravity-based Groundwater Product (G3P)",
-      "authors": "Andreas Güntner, Ehsan Sharifi, Julian Haas, Eva Boergens, Feifei Cao, Christoph Dahle",
-      "abstract": "Abstract. Groundwater is one of the most important freshwater resources for ecosystems and mankind. Because of its fundamental role in the Earth's water and energy cycles, groundwater has been declared an essential climate variable by GCOS, the Global Climate Observing System. Similar to other subsurface states and fluxes, groundwater is difficult to monitor at the global scale, with sufficient spatial coverage and over climate-relevant time scales. The Global Gravity-based Groundwater Product (G3P) is a global observation-based data set of large-scale groundwater storage variations. G3P capitalizes on the unique capability of GRACE and GRACE-FO satellite gravimetry as the only remote sensing technology to monitor subsurface mass variations. In a mass balance approach, satellite-based, in situ observation-based and model-based water storage variations of snow water equivalent, root-zo...",
-      "date": "2026-10-29",
-      "year": 2026,
-      "journal": "Earth system science data",
-      "source": "Earth system science data",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5194/essd-18-7787-2026",
-      "doi": "10.5194/essd-18-7787-2026",
-      "pdfUrl": "https://essd.copernicus.org/articles/18/7787/2026/essd-18-7787-2026.pdf",
-      "keywords": [
-        "Groundwater",
-        "Environmental science",
-        "Aquifer",
-        "Hydrology (agriculture)",
-        "Water storage",
-        "Geophysics and Gravity Measurements",
-        "Soil Moisture and Remote Sensing",
-        "Hydrology and Watershed Management Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:50.071358+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.434405+00:00"
     },
     {
       "id": "rss-820a582ce463",
@@ -1028,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.111405+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.434486+00:00"
     },
     {
       "id": "rss-3d5d65395710",
@@ -1060,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.111566+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.434556+00:00"
     },
     {
       "id": "openalex-4a66fb8dde9c",
@@ -1092,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:49.133152+00:00"
+      "_retrievedAt": "2026-11-01T13:15:15.187937+00:00"
     },
     {
       "id": "rss-288b8cf14c15",
@@ -1124,39 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.111753+00:00"
-    },
-    {
-      "id": "openalex-1145521007f3",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Inst-Inpaint: Instructing to Remove Objects with Diffusion Models",
-      "authors": "Ahmet Burak Yildirim, Vedat Baday, Erkut Erdem, Aykut Erdem, Ayşegül Dündar",
-      "abstract": "Abstract Image inpainting task refers to erasing unwanted pixels from images and filling them in a semantically consistent and realistic way. Traditionally, the pixels that are wished to be erased are defined with binary masks. From the application point of view, a user needs to generate the masks for the objects they would like to remove which can be time-consuming and prone to errors. In this work, we are interested in an image inpainting algorithm that estimates which object to be removed based on natural language input and removes it, simultaneously. For this purpose, first, we construct a dataset named GQA-Inpaint for this task. Second, we present an inpainting framework, Inst-Inpaint , that can remove objects from images based on the instructions given as text prompts. We set various GAN and diffusion-based baselines and run experiments on synthetic and real-world image datasets...",
-      "date": "2026-10-26",
-      "year": 2026,
-      "journal": "International Journal of Computer Vision",
-      "source": "International Journal of Computer Vision",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s11263-026-03110-9",
-      "doi": "10.1007/s11263-026-03110-9",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11263-026-03110-9.pdf",
-      "keywords": [
-        "Inpainting",
-        "Computer science",
-        "Pixel",
-        "Artificial intelligence",
-        "Computer vision",
-        "Generative Adversarial Networks and Image Synthesis",
-        "Digital Media Forensic Detection",
-        "Multimodal Machine Learning Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 21,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:47.689057+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.434655+00:00"
     },
     {
       "id": "rss-265637551189",
@@ -1188,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.111915+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.434728+00:00"
     },
     {
       "id": "rss-281de43e80f6",
@@ -1220,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.112099+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.434812+00:00"
     },
     {
       "id": "rss-60fc831425ac",
@@ -1252,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.112328+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.434893+00:00"
     },
     {
       "id": "rss-cbaee3e9e823",
@@ -1284,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.112525+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.434976+00:00"
     },
     {
       "id": "rss-0a2551ebac8b",
@@ -1316,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.112709+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.435057+00:00"
     },
     {
       "id": "openalex-4bd6cc099ffc",
@@ -1348,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:47.686170+00:00"
+      "_retrievedAt": "2026-11-01T13:15:11.287811+00:00"
     },
     {
       "id": "rss-69ba6379887b",
@@ -1380,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.112880+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.435134+00:00"
     },
     {
       "id": "rss-0e793fcfa72e",
@@ -1412,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.113050+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.435204+00:00"
     },
     {
       "id": "rss-f2b78d63857a",
@@ -1444,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.113217+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.435277+00:00"
     },
     {
       "id": "rss-d37d11696ae4",
@@ -1476,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.239402+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.717615+00:00"
     },
     {
       "id": "rss-d46aadfd31b1",
@@ -1508,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.239975+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.717920+00:00"
     },
     {
       "id": "rss-dfab44ee18d2",
@@ -1540,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.113434+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.435352+00:00"
     },
     {
       "id": "rss-d82f0f078053",
@@ -1572,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.240661+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.718248+00:00"
     },
     {
       "id": "rss-18545777b44e",
@@ -1604,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.240969+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.718397+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1636,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:49.128481+00:00"
+      "_retrievedAt": "2026-11-01T13:15:15.185575+00:00"
     },
     {
       "id": "rss-9097c559200f",
@@ -1668,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.241199+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.718505+00:00"
     },
     {
       "id": "rss-28ffe5c2eb8b",
@@ -1700,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.241817+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.718816+00:00"
     },
     {
       "id": "rss-3f43f1f3aef2",
@@ -1732,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.242513+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.719135+00:00"
     },
     {
       "id": "rss-dcbeb4cde24b",
@@ -1764,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.243039+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.719392+00:00"
     },
     {
       "id": "rss-5764f9ec0337",
@@ -1796,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.243769+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.719762+00:00"
     },
     {
       "id": "rss-23f57c26ccb3",
@@ -1828,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:55.244193+00:00"
+      "_retrievedAt": "2026-11-01T13:15:21.719967+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -1860,39 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:49.128800+00:00"
-    },
-    {
-      "id": "openalex-6922debe8e46",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Alaska North Slope HYDRATE 02 Geo Data Well (GDW) Downhole Logging, Pressure Coring, and Completion Operations and Data",
-      "authors": "Timothy S. Collett, Scott Marsteller, Ray M. Boswell, William F. Waite, Stephen C. Phillips, J. Pohlman",
-      "abstract": "Abstract The “Collaborative Gas Hydrate R&D Project in Alaska,” led by the Japan Organization for Metals and Energy Security (JOGMEC), the U.S. Department of Energy (DOE), and the U.S. Geological Survey, aims to examine and assess gas hydrate reservoir systems, their production behavior, potential environmental impacts, and extraction methodologies. The existing oil and gas infrastructure on the Alaska North Slope (ANS) has enabled long-term field studies and helped pave the way for evaluating Alaska’s gas hydrate production characteristics. In February 2023, a significant milestone was reached in Alaska’s history of gas hydrate-related energy studies with the establishment of a gas hydrate production test site in the Prudhoe Bay Unit (PBU) (an industry operational area). The pressure drawdown tests at this site started on October 24, 2023, and were completed on July 30, 2024. This en...",
-      "date": "2026-10-01",
-      "year": 2026,
-      "journal": "Energy & Fuels",
-      "source": "Energy & Fuels",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1021/acs.energyfuels.6c00867",
-      "doi": "10.1021/acs.energyfuels.6c00867",
-      "pdfUrl": "https://pubs.acs.org/enfuem/article-pdf/doi/10.1021/acs.energyfuels.6c00867/68729660/acs.energyfuels.6c00867.pdf",
-      "keywords": [
-        "Coring",
-        "Drilling",
-        "Geology",
-        "Clathrate hydrate",
-        "Petroleum engineering",
-        "Methane Hydrates and Related Phenomena",
-        "Hydrocarbon exploration and reservoir analysis",
-        "Offshore Engineering and Technologies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 12,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:50.067772+00:00"
+      "_retrievedAt": "2026-11-01T13:15:15.185750+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1924,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:47.684514+00:00"
+      "_retrievedAt": "2026-11-01T13:15:11.286982+00:00"
     },
     {
       "id": "openalex-637c76942b6d",
@@ -1956,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:47.685088+00:00"
+      "_retrievedAt": "2026-11-01T13:15:11.287273+00:00"
     },
     {
       "id": "openalex-e987114418d8",
@@ -1988,39 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:47.687690+00:00"
-    },
-    {
-      "id": "openalex-554ee5013027",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Generalized covariate field (GCF): spatial-pattern and neighbourhood-distribution feature expansion improves geospatial prediction",
-      "authors": "Yongze Song",
-      "abstract": "Spatial prediction forms the basis for decision-making in Earth and environmental sciences, yet prediction accuracy is constrained by spatial heterogeneity and sparse and uneven sampling. Existing methods commonly respond by increasing algorithmic complexity while underusing the spatial information embedded in the covariates themselves. This study develops the generalized covariate field (GCF) to expand the covariate space by deriving two families of spatial features without increasing model complexity. First, spatial pattern features characterize local spatial structure, including spatial dependence, heterogeneity, geocomplexity, multiscale variation and local outlyingness, and are transferable across space. Second, neighbourhood distribution features summarize covariates through multiscale operators with geoscientific meaning. The resulting high-dimensional features are then selecte...",
-      "date": "2026-09-10",
-      "year": 2026,
-      "journal": "International Journal of Geographical Information Systems",
-      "source": "International Journal of Geographical Information Systems",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1080/13658816.2026.2729719",
-      "doi": "10.1080/13658816.2026.2729719",
-      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/13658816.2026.2729719?needAccess=true",
-      "keywords": [
-        "Field (mathematics)",
-        "Covariate",
-        "Feature (linguistics)",
-        "Computer science",
-        "Geospatial analysis",
-        "Spatial and Panel Data Analysis",
-        "Soil Geostatistics and Mapping",
-        "Point processes and geometric inequalities"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:50.068122+00:00"
+      "_retrievedAt": "2026-11-01T13:15:11.288510+00:00"
     },
     {
       "id": "openalex-2da239523a05",
@@ -2052,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:47.686969+00:00"
+      "_retrievedAt": "2026-11-01T13:15:11.288185+00:00"
     },
     {
       "id": "openalex-a4d4df423646",
@@ -2084,39 +1956,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:47.688079+00:00"
+      "_retrievedAt": "2026-11-01T13:15:11.288713+00:00"
     },
     {
-      "id": "openalex-cd9c5bfb977c",
-      "discipline": "geo",
+      "id": "openalex-afd999d31ae9",
+      "discipline": "cs",
       "type": "paper",
-      "title": "MERCATOR",
-      "authors": "Guillaume Bailly, Thomas Louche",
-      "abstract": "The advancement of predictive models by Machine Learning Algorithms (ML) associated with environmental data enables the improvement of models of environmental fragility, which are essential tools for decision-making.This study aimed to derive a prediction of environmental fragility by testing ML associated with environmental covariates in the state of Minas Gerais.We use physical-environmental variables (soil, geology, climate, relief) with a weight of fragility for the attributes and calculation of the average to obtain a model of Potential Environmental Fragility (PEF).Subsequently, we extracted the PEF values to a 4,800-point grid, which was used to generate a new prediction by ML called PEFML.This prediction was based on testing five algorithms and a set of 105 environmental covariates.The results indicated that the best-performing PEFML prediction was the Random Forest model (R2...",
+      "title": "PISA 2025 Results (Volume I)",
+      "authors": "OECD",
+      "abstract": "The OECD Programme for International Student Assessment (PISA) 2025 evaluates what students know and can do in science, reading, mathematics and computational problem-solving, assessing how effectively they can apply their knowledge to real-world challenges. The assessment also explores a range of broader competencies, attitudes and behaviours, including curiosity, perseverance and the use of artificial intelligence. PISA results provide valuable insights into the quality and equity of learning outcomes around the world, enabling educators and policymakers to learn from each other’s policies and practices. This volume is one of three that present the results of the ninth cycle of PISA. PISA 2025 Results (Volume I): Future-Ready Students focuses on students’ performance in the core learning domains, and explores students’ drive to learn, sense of agency and adaptability and attitudes t...",
       "date": "2026-09-04",
       "year": 2026,
-      "journal": "OpenAlex",
-      "source": "OpenAlex",
+      "journal": "Programme for international student assessment/Internationale Schulleistungsstudie",
+      "source": "Programme for international student assessment/Internationale Schulleistungsstudie",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.4215/rm0000.0000.0000",
-      "doi": "10.4215/rm0000.0000.0000",
-      "pdfUrl": "http://www.mercator.ufc.br/mercator/article/view/e21034/1503",
+      "url": "https://doi.org/10.1787/73451bc5-en",
+      "doi": "10.1787/73451bc5-en",
+      "pdfUrl": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/09/pisa-2025-results-volume-i_5265bfb1/73451bc5-en.pdf",
       "keywords": [
-        "Mercator projection",
-        "Geography",
-        "Cartography",
-        "Soil Geostatistics and Mapping",
-        "Geography and Environmental Studies",
-        "Soil and Land Suitability Analysis",
-        "environmental",
-        "fragility"
+        "Ninth",
+        "Agency (philosophy)",
+        "Equity (law)",
+        "Immigration",
+        "Mathematics education",
+        "Global Educational Policies and Reforms",
+        "School Choice and Performance",
+        "Educational Assessment and Improvement"
       ],
       "readTime": "1 min",
-      "citedBy": 18,
+      "citedBy": 22,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:50.066458+00:00"
+      "_retrievedAt": "2026-11-01T13:15:11.289194+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2148,7 +2020,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:47.683171+00:00"
+      "_retrievedAt": "2026-11-01T13:15:11.286261+00:00"
     },
     {
       "id": "openalex-e647a9026b6a",
@@ -2180,71 +2052,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:47.687289+00:00"
-    },
-    {
-      "id": "openalex-aaaea7987db6",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Direct cell-to-cell transmission of retrotransposons",
-      "authors": "Maya Voichek, Andreas Bernhard, Lea Lauterjung, Maria Novatchkova, Dominik Handler, Paul Möseneder",
-      "abstract": "Transposable elements are abundant in host genomes but are generally considered to be confined to the cell in which they are expressed, with the notable exception of endogenous retroviruses. Here, we identify a group of long terminal repeat (LTR) retrotransposons that infect the germline from somatic cells within the Drosophila ovary, despite lacking the fusogenic Envelope protein typically required for retroviral entry. Instead, these elements encode a short transmembrane protein, sORF2, which bears structural features reminiscent of viral cell-cell fusogens. Through genetics, imaging, and electron microscopy, we show that sORF2 localizes to invasive somatic protrusions that contain retroviral capsids and establish physical contact with the oocyte membrane. In the absence of sORF2, protrusion formation and soma-to-germline transmission of capsids are abolished. Remarkably, sORF2-like...",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.08.047",
-      "doi": "10.1016/j.cell.2026.08.047",
-      "pdfUrl": "https://www.cell.com/cell/pdf/S0092-8674(26)01020-2.pdf",
-      "keywords": [
-        "Retrotransposon",
-        "Biology",
-        "Germline",
-        "Somatic cell",
-        "Genome",
-        "Chromosomal and Genetic Variations",
-        "Infectious Diseases and Mycology",
-        "Evolution and Genetic Dynamics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:48.423091+00:00"
-    },
-    {
-      "id": "openalex-11499c8e3175",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Toward an Improved Understanding of the Antarctic Coastal Zone and Its Contribution to Future Global Sea Level",
-      "authors": "Kenichi Matsuoka, Geir Moholdt, Jennifer F. Arthur, Julien A. Bodart, Xiangbin Cui, Fausto Ferraccioli",
-      "abstract": "Abstract Understanding the coastal zone of the Antarctic Ice Sheet (AIS), where it interacts with the Southern Ocean and warmer air masses, is crucial for predicting Antarctica's influence on the global climate and sea level. This region has multiple tipping mechanisms that could trigger large, rapid, and potentially irreversible changes in the AIS, the Southern Ocean and their global connections in the coming centuries. The AIS remains the largest source of uncertainty in future sea‐level projections. Bed topography beneath the ice shelves and the coastal ice sheet is not yet well documented, and is a major source of this uncertainty. This review assesses current knowledge of the coastal zone and highlights methods to investigate it, including aerogeophysical surveys, ground‐ and ship‐based measurements, satellite observations, and computer modeling. An ensemble analysis of published...",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "Reviews of Geophysics",
-      "source": "Reviews of Geophysics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1029/2022rg000803",
-      "doi": "10.1029/2022rg000803",
-      "pdfUrl": "https://doi.org/10.1029/2022rg000803",
-      "keywords": [
-        "Oceanography",
-        "Antarctic ice sheet",
-        "Context (archaeology)",
-        "Ice sheet",
-        "Climate change",
-        "Cryospheric studies and observations",
-        "Polar Research and Ecology",
-        "Geology and Paleoclimatology Research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:50.070124+00:00"
+      "_retrievedAt": "2026-11-01T13:15:11.288319+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2276,71 +2084,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:47.688408+00:00"
-    },
-    {
-      "id": "openalex-772b7b4bc42c",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Dynamic neuro-immune regulation of psychiatric risk loci in human neurons",
-      "authors": "Kayla G. Townsley, S. H. Lee, Sarah Williams, Sam Cartwright, Sophie Cohen, Annabel Sen",
-      "abstract": "The immune environment influences neurodevelopment and subsequent clinical trajectories for psychiatric outcomes in childhood and adolescence. Yet it remains unclear if the impact of maternal and fetal immune activation varies with distinct polygenic risk profiles. Therefore, here we catalog genotype and environment (GxE) interactions, contrasting allele-specific regulatory activity between inflammatory cues. We report a cue-specific neuronal massively parallel reporter assay (MPRA) of 152 loci from genome-wide association studies (GWAS) of ten brain traits/disorders, empirically dissecting the impact of interleukin-6 (IL-6) and interferon-alpha (IFNα) on transcriptional activity. In human induced pluripotent stem cell (hiPSC)-derived glutamatergic neurons, 1,156 active candidate regulatory risk sequences (MPRA-active CRSs) are resolved, including 267 with variant-specific effects (MP...",
-      "date": "2026-08-27",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-77114-x",
-      "doi": "10.1038/s41467-026-77114-x",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-77114-x_reference.pdf",
-      "keywords": [
-        "Biology",
-        "Pleiotropy",
-        "Chromatin",
-        "Immune system",
-        "Neuroscience",
-        "Genetic Associations and Epidemiology",
-        "Genomics and Chromatin Dynamics",
-        "Tryptophan and brain disorders"
-      ],
-      "readTime": "1 min",
-      "citedBy": 13,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:48.421503+00:00"
-    },
-    {
-      "id": "openalex-4bcca691e2bc",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Geospatial micro-estimates of slum populations in 129 Global South countries using machine learning and public data",
-      "authors": "Dan Li, Laixiang Sun, Yang Yu, Peipei Tian",
-      "abstract": "Abstract. Slums are a visible manifestation of poverty in Global South countries. Reliable estimation of slum population is crucial for urban planning, humanitarian aid provision, and improving well-being. However, large-scale and fine-grained mapping is still lacking due to inconsistent methodologies and definitions across countries. Existing datasets often rely on government statistics, lacking spatial continuity or underestimating slum population due to factors such as city image and privacy concerns. Here, we develop a standardized bottom-up approach to estimate slum population at the neighborhood level (~6.72 km resolution at the equator) for 129 Global South countries in 2018. Leveraging the Sustainable Development Goals 11.1 framework and machine learning, our estimation integrates household-based surveys, satellite imagery, and grided population data. Our models explain 82 % t...",
-      "date": "2026-08-25",
-      "year": 2026,
-      "journal": "Earth system science data",
-      "source": "Earth system science data",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5194/essd-18-5969-2026",
-      "doi": "10.5194/essd-18-5969-2026",
-      "pdfUrl": "https://essd.copernicus.org/articles/18/5969/2026/essd-18-5969-2026.pdf",
-      "keywords": [
-        "Slum",
-        "Geospatial analysis",
-        "Geography",
-        "Data science",
-        "Regional science",
-        "Urban and Rural Development Challenges",
-        "Impact of Light on Environment and Health",
-        "Remote Sensing and Land Use"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:50.071693+00:00"
+      "_retrievedAt": "2026-11-01T13:15:11.288869+00:00"
     },
     {
       "id": "openalex-fc31c72923df",
@@ -2372,7 +2116,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:47.685473+00:00"
+      "_retrievedAt": "2026-11-01T13:15:11.287452+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -2404,39 +2148,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:49.132346+00:00"
-    },
-    {
-      "id": "openalex-2ba26c514329",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Getting the story straight: common misconceptions around volcanoes and eruptions with case studies of recent events",
-      "authors": "Janine B. Krippner, Sam Poppe, Cristian Farías, Edward Venzke, Michael P. Poland, Boris Behncke",
-      "abstract": "Abstract The ability to rapidly disseminate scientific knowledge across the world has never been greater. This is paralleled by the ability of rumors to spread equally far and fast. Popular misconceptions can take root and, without correction, take on the appearance of facts. Commonly misunderstood topics include those with attention-grabbing phrasing (e.g. “Pacific Ring of Fire”, “supervolcanoes”, or “mega-tsunamis”), the intersection of volcanic research with high-profile science topics (climate or human health), aspirational science goals (eruption forecasts), and basic terminology (volcanic ash versus smoke, or magma “chambers”). In this paper, we describe eighteen misconceptions grouped in six themes (seismology, volcanoes and climate, systems and structures, volcanic hazards, timescales, photographs and footage) commonly encountered by volcanologists who are actively engaging wi...",
-      "date": "2026-08-19",
-      "year": 2026,
-      "journal": "Journal of Applied Volcanology",
-      "source": "Journal of Applied Volcanology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s13617-026-00168-5",
-      "doi": "10.1186/s13617-026-00168-5",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s13617-026-00168-5.pdf",
-      "keywords": [
-        "Volcano",
-        "Earth science",
-        "Intersection (aeronautics)",
-        "Terminology",
-        "Geology",
-        "Misinformation and Its Impacts",
-        "Public Relations and Crisis Communication",
-        "Geological and Geophysical Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:50.072085+00:00"
+      "_retrievedAt": "2026-11-01T13:15:15.187507+00:00"
     },
     {
       "id": "openalex-6a5a22694e49",
@@ -2468,71 +2180,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:47.688728+00:00"
-    },
-    {
-      "id": "openalex-e53fd6efecab",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Nucleolar dynamics are determined by the ordered assembly of the ribosome",
-      "authors": "Jessica Sheu‐Gruttadauria, Xiaowei Yan, Nico Stuurman, Riley O. Ogrean, Sabrina Lin, Stephen N. Floor",
-      "abstract": "Abstract Ribosome biogenesis occurs in the nucleolus, a biomolecular condensate whose material properties are thought to be important for function. However, the molecular basis of nucleolar dynamics and their relationship to ribosome assembly remain incompletely understood. We present a platform for hi gh-throughput fluorescence r ecovery a fter p hotobleaching (HiT-FRAP) and use it to screen hundreds of genes for their impact on dynamics of the nucleolar scaffold nucleophosmin (NPM1). We find that NPM1 dynamics and nucleolar morphology are sensitive to ribosome assembly state: accumulation of early preribosomal intermediates slows NPM1 dynamics and compacts the condensate, while accumulation of abortive late precursors accelerates dynamics and disrupts condensate integrity. These opposing biophysical states correlate with the strength of NPM1-pre-ribosome interactions. Importantly, m...",
-      "date": "2026-08-14",
-      "year": 2026,
-      "journal": "The Journal of Cell Biology",
-      "source": "The Journal of Cell Biology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1083/jcb.202605096",
-      "doi": "10.1083/jcb.202605096",
-      "pdfUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/09/27/2023.09.26.559432.full.pdf",
-      "keywords": [
-        "Nucleolus",
-        "Ribosome biogenesis",
-        "Ribosome",
-        "Cell biology",
-        "Fluorescence recovery after photobleaching",
-        "Nuclear Structure and Function",
-        "RNA and protein synthesis mechanisms",
-        "RNA Research and Splicing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:48.424677+00:00"
-    },
-    {
-      "id": "openalex-7557b642a0ae",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Brain perivascular macrophages regulate endothelial cell function via a cMAF-dependent transcriptional program in mouse and human",
-      "authors": "Simone Brioschi, Julia A. Belk, Steffen E. Storck, Yue Wu, Zhuoying Wang, Ziang Feng",
-      "abstract": "Brain perivascular macrophages maintain brain physiology, yet their transcriptional regulators and functions in health and disease remain unclear. Using single-cell multi-omics and functional experiments, we identify cellular musculoaponeurotic fibrosarcoma oncogene (cMAF) as a key transcription factor for brain perivascular macrophages, and conditional deletion of cMAF disrupts their phenotype in vivo. Functionally, cMAF drives insulin-like growth factor-1 (IGF1) expression in perivascular macrophages, enabling communication with endothelial cells. Consistently, cMAF deletion in perivascular macrophages causes transcriptional alterations in cerebral arteries, affecting vascular functions. Notably, cMAF emerges as the main transcription factor for human perivascular macrophages, suggesting conservation of this transcriptional module. During Alzheimer's disease (AD), human perivascular...",
-      "date": "2026-08-14",
-      "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.07.043",
-      "doi": "10.1016/j.cell.2026.07.043",
-      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.07.043",
-      "keywords": [
-        "Biology",
-        "Cell biology",
-        "Function (biology)",
-        "Endothelial stem cell",
-        "Endothelium",
-        "Neuroinflammation and Neurodegeneration Mechanisms",
-        "Barrier Structure and Function Studies",
-        "Cerebrospinal fluid and hydrocephalus"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:48.424986+00:00"
+      "_retrievedAt": "2026-11-01T13:15:11.289031+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -2564,167 +2212,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:47.686556+00:00"
-    },
-    {
-      "id": "openalex-35d470812d90",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Peripheral lysosomes recruit PLEKHG3 to focal adhesions and restrain protrusion dynamics",
-      "authors": "Rainer Ettelt, Ana-Maria Șandru, Georg Vucak, Sebastian Didusch, Biljana Riemelmoser, Karin Ehrenreiter",
-      "abstract": "Lysosomes are dynamic organelles regulating metabolic signaling by recruiting cytosolic molecules to protein platforms on their limiting membrane. We used proximity labeling to define interactors and vicinal proteins of LAMTOR3, a component of the Ragulator scaffold that controls mTORC1 signaling and lysosome positioning. The screen has yielded several previously unappreciated interactors, including an actin remodeling network. Here, we characterize the RhoGEF PLEKHG3 as a LAMTOR3 vicinal protein colocalizing with peripheral lysosomes and cortical F-actin at focal adhesion sites. Forced peripheral dispersion of lysosomes drives PLEKHG3 accumulation at focal adhesions and decreases protrusive activity in both wild-type and PLEKHG3-deficient cells. Thus, lysosome positioning governs both PLEKHG3 localization and protrusive activity, yet the protrusion changes can occur independently of...",
-      "date": "2026-08-10",
-      "year": 2026,
-      "journal": "FEBS Letters",
-      "source": "FEBS Letters",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/1873-3468.70428",
-      "doi": "10.1002/1873-3468.70428",
-      "pdfUrl": "https://doi.org/10.1002/1873-3468.70428",
-      "keywords": [
-        "Focal adhesion",
-        "Cell biology",
-        "Lysosome",
-        "Cytosol",
-        "mTORC1",
-        "Cellular transport and secretion",
-        "Protein Kinase Regulation and GTPase Signaling",
-        "Autophagy in Disease and Therapy"
-      ],
-      "readTime": "1 min",
-      "citedBy": 8,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:48.422494+00:00"
-    },
-    {
-      "id": "openalex-9c3881676bb1",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "LRRK2 G2019S variant is associated with transcriptional changes in Parkinson’s disease human myeloid cells under proinflammatory environment",
-      "authors": "Elisa Navarro, Anastasia G. Efthymiou, Daniele Mattei, Madison Parks, Giulietta Maria Riboldi, Ricardo A. Vialle",
-      "abstract": "The G2019S mutation in the leucine-rich repeat kinase 2 (LRRK2) gene is a major risk factor for the development of Parkinson's disease (PD). LRRK2, although ubiquitously expressed, is highly abundant in cells of the innate immune system. Given the importance of central and peripheral immune cells in the development of PD, we sought to investigate the consequences of the G2019S mutation on microglial and monocyte transcriptome and function. We have generated large-scale transcriptomic profiles of isogenic human induced microglial cells (iMGLs) and patient derived monocytes carrying the G2019S mutation under baseline culture conditions and following exposure to the proinflammatory factors IFNγ and LPS. We demonstrate that the G2019S mutation exerts a profound impact on the transcriptomic profile of these myeloid cells, and describe corresponding functional differences in iMGLs. The G201...",
-      "date": "2026-08-08",
-      "year": 2026,
-      "journal": "Journal of Neuroinflammation",
-      "source": "Journal of Neuroinflammation",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s12974-026-03967-0",
-      "doi": "10.1186/s12974-026-03967-0",
-      "pdfUrl": "https://doi.org/10.1186/s12974-026-03967-0",
-      "keywords": [
-        "LRRK2",
-        "Proinflammatory cytokine",
-        "Parkinson's disease",
-        "Disease",
-        "Myeloid cells",
-        "Parkinson's Disease Mechanisms and Treatments",
-        "Neuroinflammation and Neurodegeneration Mechanisms",
-        "Nuclear Receptors and Signaling"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:48.425387+00:00"
-    },
-    {
-      "id": "openalex-aa0b72ab3b90",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Where sky meets sea: Integrated aerosol and ocean color retrieval from PACE SPEXone multi-angle polarimetry",
-      "authors": "Meng Gao, Kamal Aryal, Peng‐Wang Zhai, Kirk Knobelspiesse, Bryan A. Franz, Brian Cairns",
-      "abstract": "Global aerosol and ocean color properties are simultaneously retrieved from multi-angle polarimetric measurements acquired by the SPEXone instrument aboard NASA’s PACE mission. These coupled retrievals are enabled by the FastMAPOL algorithm, which combines optimal estimation with deep neural network forward models to achieve efficient and accurate operational processing. Ocean remote-sensing reflectance (Rrs) is derived through multi-angle atmospheric correction, introducing an explicit angular dimension for characterizing aquatic optical properties. Since early 2024, both Level-2 and Level-3 global products have been generated in near real time and are publicly distributed through the NASA Earthdata archive.Validation against the Aerosol Robotic Network (AERONET) and associated AERONET-Ocean Color (OC) observations demonstrates robust performance for both atmospheric and oceanic retr...",
-      "date": "2026-08-06",
-      "year": 2026,
-      "journal": "Remote Sensing of Environment",
-      "source": "Remote Sensing of Environment",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.rse.2026.115603",
-      "doi": "10.1016/j.rse.2026.115603",
-      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S0034425726003731/pdf",
-      "keywords": [
-        "Aerosol",
-        "Ocean color",
-        "Remote sensing",
-        "Environmental science",
-        "Polarimetry",
-        "Atmospheric aerosols and clouds",
-        "Marine and coastal ecosystems",
-        "Atmospheric chemistry and aerosols"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:50.072510+00:00"
-    },
-    {
-      "id": "openalex-356d70f6418b",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Identification of methylation-sensitive human transcription factors using meSMiLE-seq",
-      "authors": "Antoni J. Gralak, Kateřina Faltejsková, Ally W. H. Yang, Clemence Steiner, Julie Russeil, Nadia Grenningloh",
-      "abstract": "Transcription factors (TFs) are key players in eukaryotic gene regulation, but the DNA binding specificity of many TFs remains unknown. Here, we assayed 284 mostly poorly characterized, putative human TFs using selective microfluidics-based ligand enrichment followed by sequencing (SMiLE-seq), revealing 72 new DNA binding motifs. To investigate whether some of the 158 TFs for which we did not find motifs preferably bind epigenetically modified DNA (i.e. methylated CG dinucleotides), we developed methylation-sensitive SMiLE-seq (meSMiLE-seq). This microfluidic assay simultaneously probes the affinity of a protein to methylated and unmethylated DNA, augmenting the capabilities of the original method to infer methylation-aware binding sites. We assayed 114 TFs with meSMiLE-seq and identified DNA-binding models for 48 proteins, including the known methylation-sensitive binding modes for P...",
-      "date": "2026-08-05",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-71387-y",
-      "doi": "10.1038/s41467-026-71387-y",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-71387-y.pdf",
-      "keywords": [
-        "DNA methylation",
-        "Methylated DNA immunoprecipitation",
-        "Methylation",
-        "Transcription factor",
-        "Biology",
-        "Genomics and Chromatin Dynamics",
-        "Epigenetics and DNA Methylation",
-        "Diffusion and Search Dynamics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:48.423466+00:00"
-    },
-    {
-      "id": "openalex-31da6159b300",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Accelerating biomass loss from forest disturbances across Europe",
-      "authors": "Katja Kowalski, Alba Viana‐Soto, Martin Brandt, Philippe Ciais, Wanda De Keersmaecker, Rasmus Fensholt",
-      "abstract": "Abstract Forest disturbances are rising globally due to climate change and land-use pressures, weakening the terrestrial carbon sink. However, declines in aboveground biomass from tree cover loss remain poorly quantified, limiting our understanding of the role of disturbances in global carbon dynamics. Here we present a spatially explicit estimate of aboveground biomass losses from natural disturbances and harvest across Europe’s 216 million hectares of forests, using satellite remote sensing. From 1985 to 2023, gross aboveground biomass losses totalled 6.5 ± 0.8 Pg. Of these, 18% were caused by high-severity natural disturbances, whereas stand-replacing harvests accounted for 82%. From 2018 onward, aboveground biomass losses increased by 46% reaching annual values unprecedented in the preceding four decades. This acceleration coincided with high natural disturbance activity in biomas...",
-      "date": "2026-08-05",
-      "year": 2026,
-      "journal": "Nature Geoscience",
-      "source": "Nature Geoscience",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41561-026-02032-y",
-      "doi": "10.1038/s41561-026-02032-y",
-      "pdfUrl": "https://www.nature.com/articles/s41561-026-02032-y.pdf",
-      "keywords": [
-        "Environmental science",
-        "Biomass (ecology)",
-        "Carbon sink",
-        "Temperate climate",
-        "Disturbance (geology)",
-        "Forest ecology and management",
-        "Remote Sensing and LiDAR Applications",
-        "Forest Management and Policy"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:50.072850+00:00"
+      "_retrievedAt": "2026-11-01T13:15:11.287975+00:00"
     },
     {
       "id": "openalex-23e74f3e558d",
@@ -2756,43 +2244,11 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:49.133511+00:00"
-    },
-    {
-      "id": "openalex-22d15dc3d4da",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Mapping enhancer–gene regulatory interactions from single-cell data",
-      "authors": "Maya U. Sheth, Wei‐Lin Qiu, X. Rosa Ma, Andreas R. Gschwind, Evelyn Jagoda, Anthony S. Tan",
-      "abstract": "Mapping enhancers and their target genes in specific cell types is crucial for understanding gene regulation and human disease genetics. However, accurately predicting enhancer-gene regulatory interactions from single-cell datasets has been challenging. Here we introduce a family of classification models, scE2G, to predict enhancer-gene regulation. These models use features from single-cell assay for transposase-accessible chromatin with sequencing (ATAC-seq) or multiomic RNA and ATAC-seq data, and are trained on a CRISPR perturbation dataset including >10,000 evaluated element-gene pairs. We benchmark scE2G models against CRISPR perturbations, fine-mapped expression quantitative trait loci and genome-wide association study variant-gene associations and demonstrate state-of-the-art performance at prediction tasks across several cell types and categories of perturbations. We apply scE2...",
-      "date": "2026-08-01",
-      "year": 2026,
-      "journal": "Nature Genetics",
-      "source": "Nature Genetics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41588-026-02695-8",
-      "doi": "10.1038/s41588-026-02695-8",
-      "pdfUrl": "https://www.nature.com/articles/s41588-026-02695-8.pdf",
-      "keywords": [
-        "Enhancer",
-        "Computational biology",
-        "Gene",
-        "Cell",
-        "Biology",
-        "Genomics and Chromatin Dynamics",
-        "Single-cell and spatial transcriptomics",
-        "Genetic Associations and Epidemiology"
-      ],
-      "readTime": "1 min",
-      "citedBy": 29,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:48.420535+00:00"
+      "_retrievedAt": "2026-11-01T13:15:15.188107+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
-      "discipline": "bio",
+      "discipline": "clinical",
       "type": "paper",
       "title": "Acquired resistance to the RAS(ON) multi-selective inhibitor daraxonrasib guides rational combination therapy strategies in pancreatic cancer",
       "authors": "Ida Aronchik, Sumit Kar, Yongxian Zhuang, Ethan Ahler, Lo Lai, Vidya Seshadri",
@@ -2820,39 +2276,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:48.421869+00:00"
-    },
-    {
-      "id": "openalex-34f37069c1ad",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "CALIPERS: Cell cycle-aware live imaging for phenotyping experiments and regeneration studies",
-      "authors": "Moises Di Sante, Melissa Pezzotti, Julius Zimmermann, Alessandro Enrico, J.R. Deschamps, Elisa Balmas",
-      "abstract": "Abstract Cell cycle progression, migration, and proliferation shape development and regeneration, but simultaneous live-cell imaging remains challenging as conventional fluorescent cell cycle indicators (FUCCI) monopolize the green and red channels used by most structural and functional biosensors. To overcome this, we integrated a spectrally re-engineered FUCCI variant, open-source analysis software, and four-color human stem cell reporter lines into CALIPERS: a method for Cell-cycle-Aware Live-cell Imaging in Phenotyping and Regeneration Studies.",
-      "date": "2026-08-01",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-76144-9",
-      "doi": "10.1038/s41467-026-76144-9",
-      "pdfUrl": "https://doi.org/10.1038/s41467-026-76144-9",
-      "keywords": [
-        "Calipers",
-        "Regeneration (biology)",
-        "Computer science",
-        "Biology",
-        "Cell biology",
-        "Advanced Fluorescence Microscopy Techniques",
-        "Cell Image Analysis Techniques",
-        "Gene Regulatory Network Analysis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:48.423687+00:00"
+      "_retrievedAt": "2026-11-01T13:15:15.185947+00:00"
     },
     {
       "id": "openalex-c47d537bde45",
@@ -2884,7 +2308,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:49.129940+00:00"
+      "_retrievedAt": "2026-11-01T13:15:15.186319+00:00"
     },
     {
       "id": "openalex-83b919635dc2",
@@ -2916,7 +2340,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:49.130350+00:00"
+      "_retrievedAt": "2026-11-01T13:15:15.186517+00:00"
     },
     {
       "id": "openalex-c19eb2f8bd80",
@@ -2948,71 +2372,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:49.133786+00:00"
-    },
-    {
-      "id": "openalex-e22ded591b71",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Rice crop monitoring using new generation Synthetic Aperture Radar (SAR) imagery",
-      "authors": "Nguyen Lam-Dao",
-      "abstract": "Rice cultivation systems in various countries of the world have been changing in recent years. These changes have been observed in the Mekong River Delta, Vietnam, specifically in An Giang province. The changes in rice cultural practices have impacts on remote sensing methods developed for rice monitoring, in particular, methods using new generation radar data. The objectives of the study were a) to understand the relationship between radar backscatter coefficients and selected parameters (e.g. plant age and biomass) of rice crops over an entire growth cycle, b) to develop algorithms for mapping rice cropping systems, and c) to develop a rice yield prediction model using time-series Envisat (Environmental Satellite) Advanced Synthetic Aperture Radar (ASAR) imagery. Ground data collection and in situ measurement of rice crop parameters were conducted at 35 sampling fields in An Giang p...",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "University of Southern Queensland ePrints (University of Southern Queensland)",
-      "source": "University of Southern Queensland ePrints (University of Southern Queensland)",
-      "sourceApi": "OpenAlex",
-      "url": "http://eprints.usq.edu.au/6646/1/Lam-Dao_2009_front.pdf",
-      "doi": "10.26192/9z73z",
-      "pdfUrl": "http://eprints.usq.edu.au/6646/3/Lam-Dao_2009_whole.pdf",
-      "keywords": [
-        "Synthetic aperture radar",
-        "Remote sensing",
-        "Environmental science",
-        "Radar",
-        "Cropping",
-        "Remote Sensing in Agriculture",
-        "Synthetic Aperture Radar (SAR) Applications and Techniques",
-        "Soil Moisture and Remote Sensing"
-      ],
-      "readTime": "4 min",
-      "citedBy": 13,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:50.067313+00:00"
-    },
-    {
-      "id": "openalex-1331590492a4",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models",
-      "authors": "Weijia Zhang, Jindong Han, Zhao Xu, Hang Ni, Tengfei Lyu, Hao Liu",
-      "abstract": "The integration of machine learning techniques has become a cornerstone in the development of intelligent urban services, significantly contributing to the enhancement of urban efficiency, sustainability, and overall livability. Recent advancements in foundational models, such as ChatGPT, have introduced a paradigm shift within the fields of machine learning and AI. These models, with their exceptional capacity for contextual comprehension, problem-solving, and task adaptability, present a transformative opportunity to reshape the future of smart cities and drive progress toward Urban General Intelligence (UGI). Despite increasing attention to Urban Foundation Models (UFMs), this rapidly evolving field faces critical challenges, including the lack of clear definitions, systematic reviews, and universalizable solutions. To address these issues, this article first introduces the definit...",
-      "date": "2026-07-29",
-      "year": 2026,
-      "journal": "ACM Transactions on Intelligent Systems and Technology",
-      "source": "ACM Transactions on Intelligent Systems and Technology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3821528",
-      "doi": "10.1145/3821528",
-      "pdfUrl": "https://doi.org/10.1145/3821528",
-      "keywords": [
-        "Foundation (evidence)",
-        "Management science",
-        "Engineering ethics",
-        "Regional science",
-        "Political science",
-        "Smart Cities and Technologies",
-        "Artificial Intelligence Applications",
-        "AI and Big Data Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:50.068507+00:00"
+      "_retrievedAt": "2026-11-01T13:15:15.188242+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -3040,11 +2400,11 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 50,
+      "citedBy": 51,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:47.684081+00:00"
+      "_retrievedAt": "2026-11-01T13:15:11.286774+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -3076,39 +2436,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:49.131465+00:00"
-    },
-    {
-      "id": "openalex-8c83210d87ba",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Epigenetic and 3D genome reprogramming during the aging of the human hippocampus",
-      "authors": "Nathan R. Zemke, Seo Yeon Lee, Sainath Mamde, Bing Yang, Nicole C. Berchtold, B. Maximiliano Garduño",
-      "abstract": "Age-related cognitive decline is associated with altered physiology of the hippocampus. While changes in gene expression have been observed in aging brain, the regulatory mechanisms underlying these changes remain underexplored. We generated single-nucleus gene expression, chromatin accessibility, DNA methylation, and 3D genome data from 40 human hippocampal tissues spanning adult lifespan. We observed a striking loss of astrocytes, OPC, and endothelial cells during aging, including astrocytes that play a role in regulating synapses. Microglia undergo a dramatic switch from a homeostatic state to a primed inflammatory state through DNA methylome and 3D genome reprogramming. Aged cells experience erosion of their 3D genome architecture. Our study identifies age-associated changes in cell types/states and gene regulatory features that provide insight into cognitive decline during human...",
-      "date": "2026-07-23",
-      "year": 2026,
-      "journal": "Science",
-      "source": "Science",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1126/science.adt8307",
-      "doi": "10.1126/science.adt8307",
-      "pdfUrl": "https://doi.org/10.1126/science.adt8307",
-      "keywords": [
-        "Reprogramming",
-        "Epigenetics",
-        "DNA methylation",
-        "Biology",
-        "Chromatin",
-        "Single-cell and spatial transcriptomics",
-        "Genomics and Chromatin Dynamics",
-        "Epigenetics and DNA Methylation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 18,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:48.421129+00:00"
+      "_retrievedAt": "2026-11-01T13:15:15.187062+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -3136,11 +2464,11 @@ window.LIVE_FEED_DATA = {
         "Prostate Cancer Treatment and Research"
       ],
       "readTime": "1 min",
-      "citedBy": 11,
+      "citedBy": 12,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:49.129567+00:00"
+      "_retrievedAt": "2026-11-01T13:15:15.186127+00:00"
     },
     {
       "id": "openalex-100e88f28593",
@@ -3172,7 +2500,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:49.132789+00:00"
+      "_retrievedAt": "2026-11-01T13:15:15.187754+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -3204,7 +2532,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:49.130727+00:00"
+      "_retrievedAt": "2026-11-01T13:15:15.186710+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -3236,7 +2564,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:47.683676+00:00"
+      "_retrievedAt": "2026-11-01T13:15:11.286544+00:00"
     },
     {
       "id": "openalex-513edaf40716",
@@ -3268,103 +2596,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:49.131977+00:00"
-    },
-    {
-      "id": "openalex-9698d69bdb79",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "BASELINE: a CRISPR base editing platform for mammalian-scale single-cell lineage tracing",
-      "authors": "Evan Winter, Francesco E. Emiliani, Aidan Cook, Asma Abderrahim, Aaron McKenna",
-      "abstract": "A cell's fate is shaped by its inherited state, or lineage, and the ever-shifting context of its environment. CRISPR-based recording technologies are a promising solution for mapping the lineage of a developing system; however, challenges remain regarding single-cell recovery, engineering complexity, and scale. Here, we introduce BASELINE, which uses base editing to generate high-resolution lineage trees in conjunction with single-cell profiling. BASELINE uses the Cas12a adenine base editor to irreversibly edit nucleotides across target arrays built from 50 synthetic target sites, which are integrated multiple times into a cell's genome. We demonstrate that BASELINE accumulates lineage-specific marks over a wide range of biologically relevant intervals, recording more than 4300 bits of information in a model of pancreatic cancer, a 50-fold increase over existing technologies. Single-c...",
-      "date": "2026-07-17",
-      "year": 2026,
-      "journal": "Nucleic Acids Research",
-      "source": "Nucleic Acids Research",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1093/nar/gkag769",
-      "doi": "10.1093/nar/gkag769",
-      "pdfUrl": "https://doi.org/10.1093/nar/gkag769",
-      "keywords": [
-        "CRISPR",
-        "Baseline (sea)",
-        "Tracing",
-        "Lineage (genetic)",
-        "Scale (ratio)",
-        "CRISPR and Genetic Engineering",
-        "Single-cell and spatial transcriptomics",
-        "Gene Regulatory Network Analysis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 8,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:48.422796+00:00"
-    },
-    {
-      "id": "openalex-aca20517061c",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Sentinel-2 for crop yield estimation: A systematic review",
-      "authors": "Mohammadreza Narimani, Alireza Pourreza, Ali Moghimi, Parastoo Farajpoor",
-      "abstract": "Accurate and timely crop yield estimation is fundamental for global food security, agricultural policy, and farm management. The Copernicus Sentinel-2 constellation has catalyzed a paradigm shift in Earth observation for agriculture, enabling field and sub-field scale monitoring. This review synthesizes recent advances in crop yield estimation that leverage Sentinel-2 data. A dominant theme is the transition from regional-scale to high-resolution field-level assessments, driven by three approaches: (i) empirical models using vegetation indices coupled with machine and deep learning (e.g., Random Forest, Convolutional Neural Networks); (ii) integration of process-based crop growth models (e.g., WOFOST, SAFY) through data assimilation of Sentinel-2 derived biophysical variables such as Leaf Area Index; and (iii) data fusion of Sentinel-2 with Sentinel-1 Synthetic Aperture Radar to overc...",
-      "date": "2026-07-17",
-      "year": 2026,
-      "journal": "Smart Agricultural Technology",
-      "source": "Smart Agricultural Technology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.atech.2026.102405",
-      "doi": "10.1016/j.atech.2026.102405",
-      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S2772375526006301/pdf",
-      "keywords": [
-        "Crop yield",
-        "Agricultural engineering",
-        "Synthetic aperture radar",
-        "Leverage (statistics)",
-        "Earth observation",
-        "Remote Sensing in Agriculture",
-        "Smart Agriculture and AI",
-        "Climate change impacts on agriculture"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:50.070477+00:00"
-    },
-    {
-      "id": "openalex-b4945be66b52",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Structure and evolution-guided design of minimal RNA-guided nucleases",
-      "authors": "Petr Skopintsev, Isabel Esain-Garcia, Evan C. DeTurk, Peter H. Yoon, Zehan Zhou, Trevor J. Weiss",
-      "abstract": "The design of RNA-guided nucleases with properties not limited by evolution can expand programmable genome-editing capabilities. However, generating diverse multidomain proteins with robust enzymatic properties remains challenging. Here, we use a protein design strategy that couples a structure-guided inverse-folding model with evolution-informed residue constraints to generate active, divergent variants of TnpB, a minimal CRISPR-Cas12-like nuclease, termed SynTnpBs. High-throughput screening of artificial intelligence-generated variants yielded editors that retained or exceeded wild-type activity in bacterial, plant, and human cells. Cryo-electron microscopy-based structure determination of the most divergent variant revealed stabilizing contacts in the RNA-DNA interfaces across conformations, demonstrating the design potential of this approach. Together, these results establish a st...",
-      "date": "2026-07-16",
-      "year": 2026,
-      "journal": "Science",
-      "source": "Science",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1126/science.aed6123",
-      "doi": "10.1126/science.aed6123",
-      "pdfUrl": "https://doi.org/10.1126/science.aed6123",
-      "keywords": [
-        "Nucleic acid",
-        "Computer science",
-        "DNA",
-        "Chemistry",
-        "Computational biology",
-        "CRISPR and Genetic Engineering",
-        "Protein Structure and Dynamics",
-        "RNA regulation and disease"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:48.423953+00:00"
+      "_retrievedAt": "2026-11-01T13:15:15.187330+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3396,43 +2628,11 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:49.128217+00:00"
-    },
-    {
-      "id": "openalex-6d68435c2e60",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "From physical surfaces to human-centric heat stress: LST and UTCI heat mapping reveals nonlinear effects of urban morphology",
-      "authors": "Yuan Wang, Shengao Yi, Xiaojiang Li, Pengyuan Liu, Zhiwei Yang, Ronita Bardhan",
-      "abstract": "Heat exposure connects the built environment and public health, directly shaping the livability and sustainability of urban areas. Fully understanding the spatial heterogeneity of heat exposure and its driving factors is therefore a vital prerequisite for climate-adaptive urban planning. However, most planning-oriented studies rely on land surface temperature (LST), and whether LST adequately represents human heat exposure and how it differs from physiologically relevant heat stress remains insufficiently examined. Here, adopting Landsat-retrieved 30-m LST and GPU-accelerated 1-m universal thermal climate index (UTCI) in Singapore, this study establishes a comprehensive “Modeling-Comparing-Assessing” framework to systematically evaluate the spatial and mechanistic discrepancies between the two metrics. We further investigate pronounced non-stationary and threshold-based quantitative r...",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "Sustainable Cities and Society",
-      "source": "Sustainable Cities and Society",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.scs.2026.107659",
-      "doi": "10.1016/j.scs.2026.107659",
-      "pdfUrl": "https://doi.org/10.1016/j.scs.2026.107659",
-      "keywords": [
-        "Urban heat island",
-        "Nonlinear system",
-        "Environmental science",
-        "Morphology (biology)",
-        "Urban morphology",
-        "Urban Heat Island Mitigation",
-        "Climate Change and Health Impacts",
-        "Wind and Air Flow Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:50.068917+00:00"
+      "_retrievedAt": "2026-11-01T13:15:15.185446+00:00"
     },
     {
       "id": "openalex-6068978c624a",
-      "discipline": "bio",
+      "discipline": "clinical",
       "type": "paper",
       "title": "Tumor heterogeneity: development, mechanisms, and therapeutic implications",
       "authors": "Jianhong Zhang, Heng Li, Shuo Ru, Hui Feng, Guo J, Danlei Sun",
@@ -3460,103 +2660,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:48.422187+00:00"
-    },
-    {
-      "id": "openalex-da65fc09ba51",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Geospatial foundation models enable data-efficient tree species mapping in temperate mountain forests",
-      "authors": "James Ball, Jana Annika Wicklein, Zhengpeng Feng, Jovana Knezevic, Sadiq Jaffer, Anil Madhavapeddy",
-      "abstract": "Accurate mapping of tree species from satellite data remains challenging in heterogeneous mountain forests due to environmental gradients, mixed stands, and limited training labels. Geospatial foundation models (GFMs) learn rich representations from large multi-sensor archives , but their utility for species-level mapping remains unclear . Here, we evaluate two GFM embeddings, AlphaEarth and Tessera, for tree species classification in a demanding mountain landscape (Trentino, Italy; 18 species and groups), versus conventional Sentinel-1+2 composites, across experiments spanning classification accuracy, label efficiency, classifier complexity, environmental covariates, label impurity, and temporal transferability. GFM embeddings consistently outperform conventional baselines (weighted F1 = 0.83 vs. 0.80; macro F1 = 0.55 vs. 0.50), approaching saturation with only 5% of training parcels...",
-      "date": "2026-07-10",
-      "year": 2026,
-      "journal": "Science of Remote Sensing",
-      "source": "Science of Remote Sensing",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.srs.2026.100466",
-      "doi": "10.1016/j.srs.2026.100466",
-      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S2666017226001045/pdf",
-      "keywords": [
-        "Geospatial analysis",
-        "Geography",
-        "Temperate climate",
-        "Remote sensing",
-        "Foundation (evidence)",
-        "Remote-Sensing Image Classification",
-        "Remote Sensing in Agriculture",
-        "Remote Sensing and LiDAR Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 4,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:50.070872+00:00"
-    },
-    {
-      "id": "openalex-8b2f36e2f016",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "CMIP7 data request: ocean and sea ice priorities and opportunities",
-      "authors": "Baylor Fox‐Kemper, Patricia DeRepentigny, Anne‐Marie Tréguier, Christian Stepanek, Eleanor O’Rourke, Chloe Mackallah",
-      "abstract": "Abstract. The ocean and sea ice are central to Earth's climate system, influencing global heat and carbon cycles, weather patterns, and sea level rise. Recent decades have seen rapid advances in Earth System Models (ESMs), but limitations remain in simulating and comparing key oceanic and cryospheric processes across models. A recurring challenge in model intercomparison efforts like the Coupled Model Intercomparison Project (CMIP) is determining the output variables that best represent essential mechanisms while remaining manageable in volume and complexity. Here we present the CMIP7 ocean and sea ice data request, developed through an international, community-based process to prioritize variables for model output. We identify seven opportunities—science-based use cases spanning ocean and cryosphere drivers and responses, paleoclimate, polar amplification, extremes, wind waves, and r...",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "Geoscientific model development",
-      "source": "Geoscientific model development",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5194/gmd-19-6043-2026",
-      "doi": "10.5194/gmd-19-6043-2026",
-      "pdfUrl": "https://gmd.copernicus.org/articles/19/6043/2026/gmd-19-6043-2026.pdf",
-      "keywords": [
-        "Coupled model intercomparison project",
-        "Sea ice",
-        "Earth system science",
-        "Cryosphere",
-        "Climatology",
-        "Climate variability and models",
-        "Oceanographic and Atmospheric Processes",
-        "Arctic and Antarctic ice dynamics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:50.069705+00:00"
-    },
-    {
-      "id": "openalex-a63868e51b4a",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "De novo structural variants in autism spectrum disorder disrupt distal regulatory interactions of neuronal genes",
-      "authors": "Ketrin Gjoni, Xingjie Ren, Amanda Everitt, Yin Shen, Katherine S. Pollard",
-      "abstract": "Three-dimensional genome organization plays a critical role in gene regulation, and disruptions can lead to developmental disorders by altering the contact between genes and their distal regulatory elements. Structural variants (SVs) can disturb local genome organization, such as the merging of topologically associating domains upon boundary deletion. Testing large numbers of SVs experimentally for their effects on chromatin structure and gene expression is time and cost prohibitive. To address this, we propose a computational approach to predict SV impacts on genome folding, which can help prioritize causal hypotheses for functional testing. We developed a weighted scoring method that measures chromatin contact changes specifically affecting regions of interest, such as regulatory elements or promoters, and implemented it in the SuPreMo-Akita software (Gjoni and Pollard 2024). With t...",
-      "date": "2026-07-08",
-      "year": 2026,
-      "journal": "Genome Research",
-      "source": "Genome Research",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1101/gr.280394.124",
-      "doi": "10.1101/gr.280394.124",
-      "pdfUrl": "https://doi.org/10.1101/2024.11.06.621353",
-      "keywords": [
-        "Chromatin",
-        "Autism spectrum disorder",
-        "Biology",
-        "Genetics",
-        "Genome",
-        "Genomics and Chromatin Dynamics",
-        "Genomic variations and chromosomal abnormalities",
-        "Autism Spectrum Disorder Research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:48.424321+00:00"
+      "_retrievedAt": "2026-11-01T13:15:15.186869+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -3588,39 +2692,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:47.685804+00:00"
-    },
-    {
-      "id": "openalex-a5075575c3cb",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "TESSERA v2: Scaling Pixel-wise Earth Foundation Models",
-      "authors": "Zhengpeng Feng, Sadiq Jaffer, Ira J. S. Shokar, Jovana Knezevic, James Ball, Pedro Sousa",
-      "abstract": "Pixel-wise Earth-observation (EO) foundation models are now achieving state-of-the-art performance via generated spatial embeddings. However, how these models scale and how best to spend a pretraining budget remain poorly understood. We present the largest controlled scaling study for EO to date: 395 training runs within a fixed pixel-wise Barlow Twins family, each evaluated on 15 diverse downstream tasks. We find that pretraining loss barely predicts downstream performance (|Pearson r| < 0.2), so selecting models by loss wastes a large share of the compute. We also find that, as the training budget grows, the encoder and the data should grow together while the projector stays fixed, which gives a simple rule for allocating compute. Using this rule, we train a family of pixel-wise teachers (0.5B, 1B, and 2B) and distil the largest into compact students for embeddings-as-data deploymen...",
-      "date": "2026-07-04",
-      "year": 2026,
-      "journal": "arXiv (Cornell University)",
-      "source": "arXiv (Cornell University)",
-      "sourceApi": "OpenAlex",
-      "url": "https://arxiv.org/abs/2607.03949",
-      "doi": "10.48550/arxiv.2607.03949",
-      "pdfUrl": "https://arxiv.org/pdf/2607.03949",
-      "keywords": [
-        "Scaling",
-        "Computer science",
-        "Prefix",
-        "Foundation (evidence)",
-        "Downstream (manufacturing)",
-        "Remote-Sensing Image Classification",
-        "Advanced Neural Network Applications",
-        "Domain Adaptation and Few-Shot Learning"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-01T05:56:50.069313+00:00"
+      "_retrievedAt": "2026-11-01T13:15:11.287628+00:00"
     }
   ]
 };
