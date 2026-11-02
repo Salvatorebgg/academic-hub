@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-11-02T05:56:26.051860+00:00",
+  "generatedAt": "2026-11-02T15:41:56.793483+00:00",
   "total": 113,
   "sources": [
     "RSS",
@@ -7,188 +7,60 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-dceec7543511",
+      "id": "rss-b4dc721ff3d1",
       "discipline": "clinical",
       "type": "news",
-      "title": "Single blood protein stands out among 30 tests for assessing fatty liver disease",
+      "title": "Overtraining may disrupt the brain's dopamine regulation, leaving levels elevated during rest",
       "authors": "Medical Xpress",
-      "abstract": "The reliable assessment of metabolic dysfunction-associated steatotic liver disease (MASLD) is crucial for determining the stage of the disease, initiating appropriate treatments and monitoring the course of therapy. To date, a liver biopsy has often been necessary for this purpose. In this invasive procedure, a tissue sample is taken and examined.",
+      "abstract": "Excessive physical exercise affects more than just the muscles; it can also alter brain chemistry. A new study published in the journal Neuroscience reveals that exhaustive training without adequate rest alters the regulation of dopamine in the hippocampus, a brain region closely linked to memory and the regulation of emotions.",
       "date": "2026-11-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-blood-protein-fatty-liver-disease.html",
+      "url": "https://medicalxpress.com/news/2026-11-overtraining-disrupt-brain-dopamine-elevated.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "liver",
-        "disease",
-        "this",
-        "single",
-        "blood",
-        "protein",
-        "stands",
-        "among"
+        "brain",
+        "regulation",
+        "dopamine",
+        "rest",
+        "overtraining",
+        "disrupt",
+        "leaving",
+        "levels"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.550942+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.329319+00:00"
     },
     {
-      "id": "rss-adbdd30dcd0a",
+      "id": "rss-744f64cb03a9",
       "discipline": "clinical",
       "type": "news",
-      "title": "Tumor index can identify breast cancer patients' drug response",
+      "title": "Could consciousness begin deep in the brain? Researchers make the case",
       "authors": "Medical Xpress",
-      "abstract": "Researchers at The Hong Kong Polytechnic University (PolyU) have developed an imaging biomarker, the Tumour Heterogeneity Index (THI), which enables noninvasive assessment of breast cancer patients' response to AKT inhibitors before treatment, helping clinicians identify patients most likely to benefit from therapy. The study found that patients with a high THI achieved an estimated pathological complete response (pCR) rate of 56.1%, significantly higher than that of patients with a low THI. The technology could help patients receive the most appropriate treatment at an earlier stage, reduce unnecessary side effects and enable clinicians to better tailor treatment strategies to individual patients.",
+      "abstract": "Close your eyes and cover your ears. Much of the world around you disappears from view and hearing, yet your sense of being present, of being conscious, remains. What creates that basic feeling of being \"you\"?",
       "date": "2026-11-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-tumor-index-breast-cancer-patients.html",
+      "url": "https://medicalxpress.com/news/2026-11-consciousness-deep-brain-case.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "patients",
-        "response",
-        "treatment",
-        "index",
-        "identify",
-        "breast",
-        "cancer",
-        "clinicians"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.551198+00:00"
-    },
-    {
-      "id": "rss-7a386dd577c6",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Vision-language AI agent could help radiologists interpret ultrasounds faster and more accurately",
-      "authors": "Medical Xpress",
-      "abstract": "When a patient arrives in the emergency department with severe abdominal pain, every minute counts. Researchers at the University of Colorado Anschutz School of Medicine are investigating ways to streamline the work of radiologists and make it more efficient. They also aim to quickly identify patients who may need urgent surgery and speed up the path to treatment.",
-      "date": "2026-11-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-vision-language-ai-agent-radiologists.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "radiologists",
-        "more",
-        "vision-language",
-        "agent",
+        "your",
+        "being",
         "could",
-        "help",
-        "interpret",
-        "ultrasounds"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.551394+00:00"
-    },
-    {
-      "id": "rss-dfb400bd095b",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Clot removal days after a stroke could help more patients recover, but the procedure is not without risks",
-      "authors": "Medical Xpress",
-      "abstract": "After a person suffers a stroke, the clock starts ticking for doctors. Every minute that blood flow to the brain remains blocked, more brain tissue risks permanent damage or death. One way to restore circulation is through endovascular thrombectomy, a minimally invasive procedure that can physically remove the clot, restore blood flow and significantly reduce the risk of long-term disability or death. Such mechanical thrombectomy procedures are a standard emergency treatment within the first 24 hours of an acute ischemic stroke.",
-      "date": "2026-11-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-clot-days-patients-recover-procedure.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "stroke",
-        "clot",
-        "after",
-        "more",
-        "procedure",
-        "risks",
-        "that",
-        "blood"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.551601+00:00"
-    },
-    {
-      "id": "rss-9c3693ca0eab",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Newly discovered pathway fuels production of cancer-driving proteins",
-      "authors": "Medical Xpress",
-      "abstract": "A previously unknown mechanism helps cancer cells selectively produce proteins that drive tumor growth—such as KRAS—in common cancers, according to new research from The University of Texas MD Anderson Cancer Center. The findings reveal that targeting a specific enzyme may improve responses to targeted therapies and help overcome treatment resistance.",
-      "date": "2026-11-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-newly-pathway-fuels-production-cancer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "proteins",
-        "cancer",
-        "that",
-        "newly",
-        "discovered",
-        "pathway",
-        "fuels",
-        "production"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.551800+00:00"
-    },
-    {
-      "id": "rss-73f859bdf0dd",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Reversing radiation-activated immune suppression in cancer",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at the University of Chicago have identified a mechanism to make immune cells reprogrammed by radiation therapy attack tumors rather than protect them. The study, published in Cancer Cell, shows that radiation activates a protein called TET2 on immune cells in bone marrow, where it removes chemical tags from RNA and locks these cells into an immune-suppressing state.",
-      "date": "2026-11-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-reversing-immune-suppression-cancer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "immune",
-        "cells",
-        "cancer",
-        "radiation",
-        "reversing",
-        "radiation-activated",
-        "suppression",
+        "consciousness",
+        "begin",
+        "deep",
+        "brain",
         "researchers"
       ],
       "readTime": "1 min",
@@ -196,263 +68,487 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.551975+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.329576+00:00"
     },
     {
-      "id": "rss-54d2f229168d",
+      "id": "rss-d6764211522b",
       "discipline": "clinical",
       "type": "news",
-      "title": "Twin study links artistic, but not scientific, creativity to poorer mental health",
+      "title": "Mechanical thrombectomy linked to lower mortality in intermediate-risk pulmonary embolism",
       "authors": "Medical Xpress",
-      "abstract": "The relationship between creativity and mental health has attracted the interest of many psychologists over the past decades. Some past studies have found that creativity is sometimes linked to mental health difficulties, while others collected opposing or inconsistent results.",
+      "abstract": "New research presented at TCT 2026 and simultaneously published in JSCAI found that, in the primary analysis, mechanical thrombectomy was associated with lower short- and long-term mortality among patients with intermediate-risk pulmonary embolism compared with anticoagulation alone.",
       "date": "2026-11-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-twin-links-artistic-scientific-creativity.html",
+      "url": "https://medicalxpress.com/news/2026-11-mechanical-thrombectomy-linked-mortality-intermediate.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "creativity",
-        "mental",
-        "health",
-        "past",
-        "twin",
-        "links",
-        "artistic",
-        "scientific"
+        "mechanical",
+        "thrombectomy",
+        "lower",
+        "mortality",
+        "intermediate-risk",
+        "pulmonary",
+        "embolism",
+        "linked"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.552130+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.329810+00:00"
     },
     {
-      "id": "rss-22ca48d53f8b",
+      "id": "rss-4680cfca7ff0",
       "discipline": "clinical",
       "type": "news",
-      "title": "Neutrophil RAGE drives early cerebrovascular injury after subarachnoid hemorrhage",
+      "title": "Children's e-bike injuries increase 33% per quarter as e-scooter injuries climb 15%",
       "authors": "Medical Xpress",
-      "abstract": "An international research team from Japan and the United States, led by Assistant Professor Hiroshi Ishii and Professor Osamu Hori, together with Professors Yasuhiko Yamamoto and Mitsutoshi Nakada of Kanazawa University, has identified neutrophil RAGE (receptor for advanced glycation end products) as a key driver of early cerebrovascular injury after subarachnoid hemorrhage (SAH).",
+      "abstract": "Rates of electric bike and electric scooter injuries are rising in children and teens across the country, a new Stanford Medicine–led study has found.",
       "date": "2026-11-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-neutrophil-rage-early-cerebrovascular-injury.html",
+      "url": "https://medicalxpress.com/news/2026-10-children-bike-injuries-quarter-scooter.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "neutrophil",
-        "rage",
-        "early",
-        "cerebrovascular",
-        "injury",
-        "after",
-        "subarachnoid",
-        "hemorrhage"
+        "injuries",
+        "children",
+        "electric",
+        "e-bike",
+        "increase",
+        "quarter",
+        "e-scooter",
+        "climb"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.552296+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.330065+00:00"
     },
     {
-      "id": "rss-d37b092b0ed6",
+      "id": "rss-2548365df369",
       "discipline": "clinical",
       "type": "news",
-      "title": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+      "title": "Understanding vertigo: Spinning, moving sensations differ from dizziness, expert explains",
       "authors": "Medical Xpress",
-      "abstract": "Deaths in Congo's Ebola outbreak have topped 5,000 as the country grapples with the relentless spread of the disease and cases are recorded in other African countries, the latest government data on Saturday shows.",
+      "abstract": "Vertigo is a sensation that either you or your surroundings, or both, are spinning or moving when they are not. Some people confuse vertigo with dizziness, but there is a difference, explains Neil Shepard, Ph.D., an audiologist at Mayo Clinic in Minnesota.",
       "date": "2026-11-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-congo-ebola-deaths-continent-wide.html",
+      "url": "https://medicalxpress.com/news/2026-11-vertigo-sensations-differ-dizziness-expert.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "congo",
-        "ebola",
-        "deaths",
-        "spread",
-        "fear",
-        "continent-wide",
-        "mounts",
-        "outbreak"
+        "vertigo",
+        "spinning",
+        "moving",
+        "dizziness",
+        "explains",
+        "understanding",
+        "sensations",
+        "differ"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.552453+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.330306+00:00"
     },
     {
-      "id": "rss-b9e70be8ea85",
+      "id": "rss-ae3f4270d6ec",
       "discipline": "clinical",
       "type": "news",
-      "title": "Treatment with norrin helps maintain healthy blood vessels and preserve vision in diabetic rats",
+      "title": "In parallel mouse studies, researchers fail to replicate many reported effects of psilocybin",
       "authors": "Medical Xpress",
-      "abstract": "Millions of people in the U.S. are affected by diabetic retinopathy, a complication of diabetes that affects the eyes. The condition is caused by damage to the blood vessels in the retina, the light-sensitive tissue at the back of the eye. At first, diabetic retinopathy might not cause any symptoms, or the problems might be mild. However, if the underlying diabetes remains poorly managed, it can lead to blindness.",
+      "abstract": "Experimental trials of psychedelic drugs in both humans and animals have produced conflicting results, creating doubts about whether hallucinogens have a therapeutic role in treating neurologic or behavioral disorders such as depression and PTSD.",
       "date": "2026-11-02",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-treatment-norrin-healthy-blood-vessels.html",
+      "url": "https://medicalxpress.com/news/2026-11-parallel-mouse-replicate-effects-psilocybin.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "diabetic",
-        "blood",
-        "vessels",
-        "retinopathy",
-        "diabetes",
-        "might",
-        "treatment",
-        "norrin"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.552631+00:00"
-    },
-    {
-      "id": "rss-e5e7d4f0a879",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Personalized score uses ten blood markers to flag disease risk and assess healthy aging",
-      "authors": "Medical Xpress",
-      "abstract": "Studies conducted in various countries indicate that approximately 60% of people over age 65 currently live with two or more chronic conditions. With the aim of reversing this trend and promoting healthy aging, European researchers have created a new personalized indicator that provides a detailed snapshot of a patient's metabolism by analyzing, with high precision, the chemicals the body produces to function.",
-      "date": "2026-11-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-personalized-score-ten-blood-markers.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "personalized",
-        "healthy",
-        "aging",
-        "that",
-        "score",
-        "uses",
-        "blood",
-        "markers"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.552806+00:00"
-    },
-    {
-      "id": "rss-f596ddacbfe1",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New swab test could spare some women a painful biopsy for endometrial cancer",
-      "authors": "Medical Xpress",
-      "abstract": "A simple vaginal swab may one day help women with abnormal bleeding learn whether they have endometrial cancer without first going through a painful biopsy.",
-      "date": "2026-11-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-swab-women-painful-biopsy-endometrial.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "swab",
-        "women",
-        "painful",
-        "biopsy",
-        "endometrial",
-        "cancer",
-        "test",
-        "could"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.552945+00:00"
-    },
-    {
-      "id": "rss-19f810aaa72e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Acute kidney injury up for older patients, men with OD-involved hospitalization",
-      "authors": "Medical Xpress",
-      "abstract": "Acute kidney injury (AKI) occurs more often among older patients and men with drug overdose–involved hospitalizations, while severe inpatient courses disproportionately affect younger patients, according to research published in the U.S. Centers for Disease Control and Prevention Morbidity and Mortality Weekly Report.",
-      "date": "2026-11-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-acute-kidney-injury-older-patients.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "patients",
-        "acute",
-        "kidney",
-        "injury",
-        "older",
-        "od-involved",
-        "hospitalization",
-        "occurs"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.553115+00:00"
-    },
-    {
-      "id": "rss-c1ed68e6bff9",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Patients with psoriasis have increased risks for cataracts, cataract surgery",
-      "authors": "Medical Xpress",
-      "abstract": "Patients with psoriasis have an increased risk for cataracts and cataract surgery, with the risks for these outcomes varying by treatment modality, according to a study published online Oct. 26 in the Journal of Dermatology.",
-      "date": "2026-11-02",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-10-patients-psoriasis-cataracts-cataract-surgery.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "patients",
-        "psoriasis",
         "have",
-        "increased",
-        "risks",
-        "cataracts",
-        "cataract",
-        "surgery"
+        "parallel",
+        "mouse",
+        "studies",
+        "researchers",
+        "fail",
+        "replicate",
+        "many"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.553259+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.330532+00:00"
+    },
+    {
+      "id": "rss-665164078133",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Human dengue trial reveals how immune memory can help—or backfire",
+      "authors": "Medical Xpress",
+      "abstract": "Spread through the bite of Aedes mosquitoes, dengue is a viral infection that can cause anything from mild fever, flu-like symptoms and joint pain to a severe form known as dengue hemorrhagic fever. What makes dengue particularly unusual and dangerous is that a second infection with a different strain, or serotype, can sometimes lead to more severe disease rather than stronger immunity.",
+      "date": "2026-11-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-human-dengue-trial-reveals-immune.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "dengue",
+        "infection",
+        "that",
+        "fever",
+        "severe",
+        "human",
+        "trial",
+        "reveals"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:56.330803+00:00"
+    },
+    {
+      "id": "rss-0e539b531247",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Depressive symptoms and aggressive behavior in children following 2024 earthquake linked to later loneliness",
+      "authors": "Medical Xpress",
+      "abstract": "A research team led by associate professor Yasuo Murayama of Kanazawa University has identified longitudinal associations among loneliness, depressive symptoms and social behaviors in children affected by the 2024 Noto Peninsula earthquake.",
+      "date": "2026-11-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-depressive-symptoms-aggressive-behavior-children.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "depressive",
+        "symptoms",
+        "children",
+        "earthquake",
+        "loneliness",
+        "aggressive",
+        "behavior",
+        "following"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:56.331063+00:00"
+    },
+    {
+      "id": "rss-bfa44e51e3cf",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Simulated heart failure appointments uncover shared consultation patterns among doctors across four countries",
+      "authors": "Medical Xpress",
+      "abstract": "Whether in Beijing, Ankara, Groningen or Würzburg, doctors treat patients with heart failure in remarkably similar ways. Not only are the medical procedures similar, but so are the questions doctors ask, their gestures and the way consultations unfold. This is the finding of an international study led by sociologists Anja Weiß and Tao Liu from the University of Duisburg-Essen (UDE). The findings, recently published in Global Networks, are also relevant to the debate on the recognition of foreign qualifications.",
+      "date": "2026-11-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-simulated-heart-failure-uncover-patterns.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "doctors",
+        "heart",
+        "failure",
+        "similar",
+        "simulated",
+        "appointments",
+        "uncover",
+        "shared"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:56.331354+00:00"
+    },
+    {
+      "id": "rss-faba4aa6131b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Simple exercises and workplace changes may help Florida landscape workers manage back pain",
+      "authors": "Medical Xpress",
+      "abstract": "Hundreds of thousands of nursery and landscape workers in Florida knuckle through low back pain daily, putting them at risk for chronic discomfort, injuries and job loss. But an ongoing study on self-managed back pain in the horticulture and landscape industry finds that simple techniques could help improve their overall quality of life.",
+      "date": "2026-11-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-simple-workplace-florida-landscape-workers.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "landscape",
+        "back",
+        "pain",
+        "simple",
+        "help",
+        "florida",
+        "workers",
+        "exercises"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:56.331597+00:00"
+    },
+    {
+      "id": "rss-35ba50b08322",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Restricting candy may increase kids' urge to overeat, research suggests",
+      "authors": "Medical Xpress",
+      "abstract": "Kids and candy are a classic pairing. From trick-or-treating to Easter baskets to local parades and birthday parties, it can feel like kids are almost always bringing home another bag of treats. But while these holidays and events may be exciting for kids, they often end with parents dreading what comes next: negotiations around how much candy to consume.",
+      "date": "2026-11-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-restricting-candy-kids-urge-overeat.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "kids",
+        "candy",
+        "restricting",
+        "increase",
+        "urge",
+        "overeat",
+        "suggests",
+        "classic"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:56.331885+00:00"
+    },
+    {
+      "id": "rss-203a82aed88b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Toddlers need to move, too",
+      "authors": "Medical Xpress",
+      "abstract": "Physical activity among schoolchildren and teens gets plenty of attention. But what about babies who spend time strapped into car seats, toddlers who travel in strollers and preschoolers who run, climb and hop?",
+      "date": "2026-11-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-toddlers.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "toddlers",
+        "need",
+        "move",
+        "physical",
+        "activity",
+        "among",
+        "schoolchildren",
+        "teens"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:56.332109+00:00"
+    },
+    {
+      "id": "rss-3f128190fdc2",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New treatment approach for calcified nodules shown to improve coronary stent expansion",
+      "authors": "Medical Xpress",
+      "abstract": "A randomized clinical trial at The Mount Sinai Hospital found that combining two techniques for removing calcium nodules—rotational atherectomy and intravascular lithotripsy (IVL)—before coronary stent placement allowed stents to expand more fully than IVL alone in patients with calcified coronary nodules.",
+      "date": "2026-11-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-treatment-approach-calcified-nodules-shown.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nodules",
+        "coronary",
+        "calcified",
+        "stent",
+        "treatment",
+        "approach",
+        "shown",
+        "improve"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:56.332358+00:00"
+    },
+    {
+      "id": "rss-2c9190f6ed43",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Beyond 'just lose weight': How gyms and clinics can welcome people of all sizes",
+      "authors": "Medical Xpress",
+      "abstract": "Have you ever gone to your general practitioner to find out why you're always tired, only to be told to lose weight?",
+      "date": "2026-11-02",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-weight-gyms-clinics-people-sizes.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "lose",
+        "weight",
+        "beyond",
+        "just",
+        "gyms",
+        "clinics",
+        "welcome",
+        "people"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:56.332561+00:00"
+    },
+    {
+      "id": "rss-57e131b50010",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "authors": "TechCrunch AI",
+      "abstract": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "date": "2026-11-02",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "million",
+        "omen",
+        "adds",
+        "liquid",
+        "know-how",
+        "aquatic",
+        "labs",
+        "acquisition"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:56.385764+00:00"
+    },
+    {
+      "id": "rss-06ed2b60ed23",
+      "discipline": "cs",
+      "type": "news",
+      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "authors": "TechCrunch AI",
+      "abstract": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+      "date": "2026-11-02",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "techcrunch",
+        "founder",
+        "summit",
+        "boston",
+        "days",
+        "till",
+        "founders",
+        "need"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:56.386039+00:00"
+    },
+    {
+      "id": "rss-2c1cb9d07e01",
+      "discipline": "cs",
+      "type": "news",
+      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "date": "2026-11-02",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "openai",
+        "chatgpt",
+        "finally",
+        "merging",
+        "chat",
+        "work",
+        "tabs",
+        "said"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:56.386211+00:00"
     },
     {
       "id": "rss-102fd90c78e1",
@@ -484,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.580239+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.386373+00:00"
     },
     {
       "id": "rss-f26c3164230b",
@@ -516,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.580416+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.386526+00:00"
     },
     {
       "id": "rss-8be1c5352b14",
@@ -548,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.580537+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.386677+00:00"
     },
     {
       "id": "rss-0472967fe599",
@@ -580,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.580680+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.386896+00:00"
     },
     {
       "id": "rss-043f67bf6971",
@@ -612,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.580782+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.387052+00:00"
     },
     {
       "id": "rss-f5c4ef831f23",
@@ -644,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.580883+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.387201+00:00"
     },
     {
       "id": "rss-621f488f8114",
@@ -676,7 +772,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.580993+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.387367+00:00"
+    },
+    {
+      "id": "openalex-b9713b9a252a",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "ANO6-mediated trogocytosis of cancer-associated fibroblasts promotes pancreatic cancer cell growth and immune suppression",
+      "authors": "Charline Ogier, Charles Solomon Akino Mercy, Elena Bondarenko, Zhijing Wu, Zhen Lu, Quoc Thang Bui",
+      "abstract": "In pancreatic ductal adenocarcinoma (PDAC), the fibroblastic stroma constitutes most of the tumor mass and is remarkably devoid of functional blood vessels. This raises an unresolved question of how PDAC cells obtain essential metabolites and water-insoluble lipids. We have found a critical role for cancer-associated fibroblasts (CAFs) in obtaining and transferring lipids from blood-borne particles to PDAC cells via trogocytosis of CAF plasma membranes. We have also determined that CAF-expressed phospholipid scramblase anoctamin 6 (ANO6) is an essential CAF trogocytosis regulator required to promote PDAC cell survival. During trogocytosis, cancer cells and CAFs form synapse-like plasma membranes contacts that induce cytosolic calcium influx in CAFs via Orai channels. This influx activates ANO6 and results in phosphatidylserine exposure on CAF plasma membrane initiating trogocytosis an...",
+      "date": "2026-10-30",
+      "year": 2026,
+      "journal": "Nature Cancer",
+      "source": "Nature Cancer",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s43018-026-01265-5",
+      "doi": "10.1038/s43018-026-01265-5",
+      "pdfUrl": "https://www.nature.com/articles/s43018-026-01265-5.pdf",
+      "keywords": [
+        "Phospholipid scramblase",
+        "Cancer",
+        "Immune system",
+        "Pancreatic cancer",
+        "Cancer-Associated Fibroblasts",
+        "Cancer, Lipids, and Metabolism",
+        "Pancreatic and Hepatic Oncology Research",
+        "Sphingolipid Metabolism and Signaling"
+      ],
+      "readTime": "1 min",
+      "citedBy": 21,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:50.954947+00:00"
+    },
+    {
+      "id": "openalex-11b5190cd445",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Application of long short-term memory and convolutional neural networks for real-time bridge pier scour prediction",
+      "authors": "Tahrima Hashem, Negin Yousefpour",
+      "abstract": "Purpose Scour around bridge piers poses a major threat to structural safety, yet existing empirical and machine learning approaches are limited in accuracy, generalisation and real-time applicability. This paper aims to evaluate the effectiveness, efficiency and generalisability of deep learning models for real-time bridge pier scour forecasting. Design/methodology/approach The study formulates scour forecasting as a multivariate time-series prediction problem using real-world sensor data from monitored bridges in Alaska and Oregon (2006–2021). Multiple variants of long short-term memory (LSTM) and temporal convolutional neural network (CNN) models are designed and systematically evaluated. Random-search heuristics and sequential evaluation are used to optimise hyperparameters, improve robustness and assess computational efficiency. Findings Results show that LSTM models achieve high...",
+      "date": "2026-10-30",
+      "year": 2026,
+      "journal": "Machine Learning and Data Science in Geotechnics",
+      "source": "Machine Learning and Data Science in Geotechnics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1108/mlag-02-2026-0003",
+      "doi": "10.1108/mlag-02-2026-0003",
+      "pdfUrl": "https://www.emerald.com/mlag/article-pdf/2/1/204/11942223/mlag-02-2026-0003en.pdf",
+      "keywords": [
+        "Bridge (graph theory)",
+        "Long short term memory",
+        "Convolutional neural network",
+        "Term (time)",
+        "Computer science",
+        "Hydrology and Sediment Transport Processes",
+        "Hydrological Forecasting Using AI",
+        "Hydraulic flow and structures"
+      ],
+      "readTime": "1 min",
+      "citedBy": 13,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:52.179429+00:00"
     },
     {
       "id": "rss-7577f6bd5760",
@@ -708,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.581100+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.387524+00:00"
     },
     {
       "id": "rss-3ee0d7a5ab02",
@@ -740,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.581204+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.387683+00:00"
     },
     {
       "id": "rss-1508b44905fb",
@@ -772,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.581332+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.387895+00:00"
     },
     {
       "id": "rss-5cec9f017dac",
@@ -804,103 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.581457+00:00"
-    },
-    {
-      "id": "rss-7146748a848d",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Cracks are emerging in the AI spending boom",
-      "authors": "TechCrunch AI",
-      "abstract": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-      "date": "2026-10-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "spending",
-        "boom",
-        "cracks",
-        "emerging",
-        "tech",
-        "pouring",
-        "billions",
-        "infrastructure"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.581565+00:00"
-    },
-    {
-      "id": "rss-d3cfe6d65331",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "authors": "TechCrunch AI",
-      "abstract": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "date": "2026-10-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "zest",
-        "agent",
-        "finds",
-        "restaurants",
-        "books",
-        "reservations",
-        "over",
-        "text"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.581679+00:00"
-    },
-    {
-      "id": "rss-b2b13a479e3f",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "authors": "TechCrunch AI",
-      "abstract": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "date": "2026-10-30",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "first",
-        "writing",
-        "poetry",
-        "center",
-        "satellite",
-        "online",
-        "space"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.581782+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.388048+00:00"
     },
     {
       "id": "rss-4ae9201eddcb",
@@ -932,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.611110+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.509998+00:00"
     },
     {
       "id": "rss-4452dd44bbfd",
@@ -964,7 +1028,102 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.611243+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.510184+00:00"
+    },
+    {
+      "id": "rss-8ccff313a082",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Kirby Struhar",
+      "authors": "NOAA News",
+      "abstract": "Senior Advisor Across NOAA NOAA leadership",
+      "date": "2026-10-29",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/our-people/leadership/kirby-struhar",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noaa",
+        "kirby",
+        "struhar",
+        "senior",
+        "advisor",
+        "across",
+        "leadership"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:56.716691+00:00"
+    },
+    {
+      "id": "openalex-c59144090f14",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Planetary-scale metagenomic analysis reveals CRISPR targeting dynamics across ecosystems",
+      "authors": "Simon Roux, Uri Neri, Brian Bushnell, Brayon J. Fremin, Nikhil A. George, Uri Gophna",
+      "abstract": "Interactions between microorganisms and their mobile genetic elements (MGEs), including viruses and plasmids, impact microbiome dynamics. CRISPR-Cas systems are important regulators of these host-MGE interactions, but a global understanding of the diversity, activity and roles of CRISPR spacers across Earth's biomes is still lacking. Here we develop a computational approach to search short-read data and collect 794 million CRISPR spacers across 367,609 public metagenomes, from which we identified 1.18 billion hits between 41 million spacers and 2.5 million viruses and plasmids. While spacers were highly variable across samples, those matching known viruses were more prevalent and conserved, consistent with a positive selection pressure associated with phage targeting. Among these, however, we find evidence suggestive of recurrent entry of phage genomes into non-host microbial cells, f...",
+      "date": "2026-10-29",
+      "year": 2026,
+      "journal": "Nature Microbiology",
+      "source": "Nature Microbiology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41564-026-02480-7",
+      "doi": "10.1038/s41564-026-02480-7",
+      "pdfUrl": "https://www.nature.com/articles/s41564-026-02480-7.pdf",
+      "keywords": [
+        "CRISPR",
+        "Metagenomics",
+        "Scale (ratio)",
+        "Computational biology",
+        "Biology",
+        "CRISPR and Genetic Engineering",
+        "Bacteriophages and microbial interactions",
+        "Bacterial Genetics and Biotechnology"
+      ],
+      "readTime": "1 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:50.956459+00:00"
+    },
+    {
+      "id": "openalex-00c0ed843a5d",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Survey of the human proteostasis network: the ubiquitin-proteasome system",
+      "authors": "Suzanne Elsasser, Evan T. Powers, Thomas Stoeger, Xiaojing Sui, Roy D. Kurtzbard, Patricia Martínez-Botía",
+      "abstract": "Modification by ubiquitination governs the half-lives of thousands of proteins that are fated for elimination by either the proteasome or autophagy pathways, depending on the intricate architectures of ubiquitin modification. This system mediates quality control for individual proteins, protein complexes, and organelles, as well as myriad purely regulatory functions. Here we provide a comprehensive survey of the ubiquitin-proteasome system (UPS), the scope of which is at present poorly defined. The UPS, with the inclusion of pathways involving ubiquitin-like modifiers, comprises in our estimate over 1430 distinct components in humans, a vast set of activities whose collective impact on the biology of the cell is pervasive. The UPS is an integral component of the proteostasis network (PN), the remainder of which is surveyed in the accompanying reports. With the addition of molecular ch...",
+      "date": "2026-10-29",
+      "year": 2026,
+      "journal": "Autophagy",
+      "source": "Autophagy",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1080/15548627.2026.2741092",
+      "doi": "10.1080/15548627.2026.2741092",
+      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/15548627.2026.2741092?needAccess=true",
+      "keywords": [
+        "Proteostasis",
+        "Proteasome",
+        "Ubiquitin",
+        "Biology",
+        "Computational biology",
+        "Ubiquitin and proteasome pathways",
+        "Heat shock proteins research",
+        "Autophagy in Disease and Therapy"
+      ],
+      "readTime": "1 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:50.956778+00:00"
     },
     {
       "id": "openalex-818836e119b0",
@@ -996,7 +1155,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:23.108103+00:00"
+      "_retrievedAt": "2026-11-02T15:41:52.183577+00:00"
+    },
+    {
+      "id": "openalex-cb3cbda06d84",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Machine psychology for language models",
+      "authors": "Thilo Hagendorff, Ishita Dasgupta, Marcel Binz, Stephanie Chan, Andrew Lampinen, Jane X. Wang",
+      "abstract": "Large language models (LLMs) show increasingly advanced emergent capabilities and are being incorporated across various societal domains. Understanding their behavior and reasoning abilities is therefore important. We argue that a fruitful direction for research is engaging LLMs in experiments inspired by psychology that have traditionally been aimed at understanding human cognition and behavior. Here, we highlight and summarize theoretical perspectives, experimental paradigms, and computational analysis techniques that this approach brings to the table. It paves the way for a \"machine psychology\" for LLMs that goes beyond performance measurements and focuses instead on computational insights that move us toward a better understanding and discovery of emergent abilities and behavioral patterns in LLMs. We review existing work taking this approach, synthesize best practices, and highli...",
+      "date": "2026-10-28",
+      "year": 2026,
+      "journal": "Science Advances",
+      "source": "Science Advances",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1126/sciadv.aec1912",
+      "doi": "10.1126/sciadv.aec1912",
+      "pdfUrl": "https://doi.org/10.1126/sciadv.aec1912",
+      "keywords": [
+        "Psychology",
+        "Environmental psychology",
+        "Data science",
+        "Cognitive psychology",
+        "Social psychology",
+        "Topic Modeling",
+        "Psychiatry, Mental Health, Neuroscience",
+        "Artificial Intelligence Applications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 68,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:50.517541+00:00"
     },
     {
       "id": "rss-820a582ce463",
@@ -1028,7 +1219,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.611354+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.510353+00:00"
     },
     {
       "id": "rss-3d5d65395710",
@@ -1060,7 +1251,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.611466+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.510505+00:00"
     },
     {
       "id": "openalex-4a66fb8dde9c",
@@ -1092,7 +1283,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:22.435578+00:00"
+      "_retrievedAt": "2026-11-02T15:41:51.411498+00:00"
     },
     {
       "id": "rss-288b8cf14c15",
@@ -1124,7 +1315,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.611586+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.510680+00:00"
+    },
+    {
+      "id": "openalex-5ab5668168ae",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Unlocking the potential: multi-task deep learning for spaceborne quantitative monitoring of fugitive methane plumes",
+      "authors": "Guoxin Si, Shiliang Fu, Wei Yao",
+      "abstract": "Quantifying methane point-source fugitive emissions is vital for climate mitigation, yet established methods face significant challenges: matched filter algorithms (e.g. Mag1c) are noise-prone, plume segmentation often relies on subjective manual delineation, and flux rate estimation using the Integrated Mass Enhancement (IME) method is constrained by meteorological data requirements. While fully coupled physical models are currently less feasible due to the complex entanglement of multiple atmospheric processes, we propose a pragmatic alternative: a physical simulation-driven deep learning framework that directly maps hyperspectral imagery to quantitative methane metrics. We built a large-scale, physics-aware training dataset by simulating methane plumes through Large Eddy Simulation (LES) and the Radiative Transfer Equation (RTE). Based on these simulated data, we refined and traine...",
+      "date": "2026-10-27",
+      "year": 2026,
+      "journal": "Geo-spatial Information Science",
+      "source": "Geo-spatial Information Science",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1080/10095020.2026.2741747",
+      "doi": "10.1080/10095020.2026.2741747",
+      "pdfUrl": "https://doi.org/10.1080/10095020.2026.2741747",
+      "keywords": [
+        "Methane",
+        "Plume",
+        "Environmental science",
+        "Inversion (geology)",
+        "Remote sensing",
+        "Atmospheric and Environmental Gas Dynamics",
+        "Remote-Sensing Image Classification",
+        "Spectroscopy and Laser Applications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 3,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-02T15:41:52.183914+00:00"
     },
     {
       "id": "rss-265637551189",
@@ -1156,7 +1379,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.611688+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.510838+00:00"
     },
     {
       "id": "rss-281de43e80f6",
@@ -1188,7 +1411,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.611809+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.511061+00:00"
     },
     {
       "id": "rss-60fc831425ac",
@@ -1220,7 +1443,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.611926+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.511236+00:00"
     },
     {
       "id": "rss-cbaee3e9e823",
@@ -1252,7 +1475,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.612040+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.511411+00:00"
     },
     {
       "id": "rss-0a2551ebac8b",
@@ -1284,7 +1507,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.612154+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.511584+00:00"
     },
     {
       "id": "openalex-4bd6cc099ffc",
@@ -1316,7 +1539,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.059896+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.519884+00:00"
     },
     {
       "id": "rss-69ba6379887b",
@@ -1348,7 +1571,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.612259+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.511747+00:00"
     },
     {
       "id": "rss-0e793fcfa72e",
@@ -1380,7 +1603,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.612361+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.511926+00:00"
     },
     {
       "id": "rss-f2b78d63857a",
@@ -1412,7 +1635,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.612507+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.512095+00:00"
     },
     {
       "id": "rss-d37d11696ae4",
@@ -1444,7 +1667,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.834305+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.717227+00:00"
     },
     {
       "id": "rss-d46aadfd31b1",
@@ -1476,7 +1699,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.834738+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.717741+00:00"
     },
     {
       "id": "rss-dfab44ee18d2",
@@ -1508,7 +1731,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.612616+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.512256+00:00"
     },
     {
       "id": "rss-d82f0f078053",
@@ -1540,7 +1763,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.835206+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.718346+00:00"
     },
     {
       "id": "rss-18545777b44e",
@@ -1572,7 +1795,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.835434+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.718643+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1604,7 +1827,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:22.432259+00:00"
+      "_retrievedAt": "2026-11-02T15:41:51.407005+00:00"
     },
     {
       "id": "rss-9097c559200f",
@@ -1636,7 +1859,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.835593+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.718887+00:00"
     },
     {
       "id": "rss-28ffe5c2eb8b",
@@ -1668,7 +1891,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.836021+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.719433+00:00"
     },
     {
       "id": "rss-3f43f1f3aef2",
@@ -1700,7 +1923,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.836510+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.720057+00:00"
     },
     {
       "id": "rss-dcbeb4cde24b",
@@ -1732,7 +1955,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.836893+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.720535+00:00"
     },
     {
       "id": "rss-5764f9ec0337",
@@ -1764,39 +1987,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.837418+00:00"
-    },
-    {
-      "id": "rss-23f57c26ccb3",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA to issue 2026-2027 U.S. Winter Outlook October 15",
-      "authors": "NOAA News",
-      "abstract": "NOAA to issue 2026-2027 U.S. Winter Outlook October 15 October 8, 2026 A car drives through a snowstorm in Broomfield, Colorado, in 2024. (Image credit: Bob Hyatt/NOAA) Download Image On Thursday, October 15, NOAA’s National Weather Service will announce the U.S. Winter Outlook for December 2026 through February 2027 during a media teleconference. NOAA experts will discuss seasonal temperature and precipitation predictions, expected change in drought conditions across the country, and the impact a very strong El Nino will have on the season. Following the media briefing, there will be a moderated question-and-answer session. WHAT U.S. Winter Outlook media teleconference WHEN Thursday, October 15, 2026, at 11:00 a.m. ET /9:00 a.m. MT /8:00 a.m. PT WHO Ken Graham, director, NOAA’s National Weather Service Jon Gottschalck, meteorologist, NOAA’s National Weather Service Brad Pugh, meteoro...",
-      "date": "2026-10-05",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/media-advisory/noaa-to-issue-2026-2027-us-winter-outlook-october-15",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "october",
-        "winter",
-        "outlook",
-        "will",
-        "national",
-        "weather",
-        "service"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:25.837716+00:00"
+      "_retrievedAt": "2026-11-02T15:41:56.721208+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -1828,7 +2019,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:22.432506+00:00"
+      "_retrievedAt": "2026-11-02T15:41:51.407311+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -1860,7 +2051,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:23.105958+00:00"
+      "_retrievedAt": "2026-11-02T15:41:52.180657+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -1892,7 +2083,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.058727+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.518315+00:00"
     },
     {
       "id": "openalex-637c76942b6d",
@@ -1924,7 +2115,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.059132+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.518872+00:00"
     },
     {
       "id": "openalex-e987114418d8",
@@ -1956,7 +2147,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.060997+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.521232+00:00"
     },
     {
       "id": "openalex-554ee5013027",
@@ -1988,7 +2179,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:23.106205+00:00"
+      "_retrievedAt": "2026-11-02T15:41:52.181016+00:00"
     },
     {
       "id": "openalex-2da239523a05",
@@ -2020,7 +2211,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.060463+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.520585+00:00"
     },
     {
       "id": "openalex-a4d4df423646",
@@ -2052,7 +2243,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.061263+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.521585+00:00"
     },
     {
       "id": "openalex-afd999d31ae9",
@@ -2084,7 +2275,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.061966+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.522192+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2116,7 +2307,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:23.105002+00:00"
+      "_retrievedAt": "2026-11-02T15:41:52.179026+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2148,7 +2339,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.057772+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.516803+00:00"
     },
     {
       "id": "openalex-e647a9026b6a",
@@ -2180,7 +2371,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.060699+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.520842+00:00"
     },
     {
       "id": "openalex-aaaea7987db6",
@@ -2212,7 +2403,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.758616+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.957660+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2244,7 +2435,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:23.107306+00:00"
+      "_retrievedAt": "2026-11-02T15:41:52.182494+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2276,7 +2467,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.061506+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.521886+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2308,7 +2499,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.757508+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.955531+00:00"
     },
     {
       "id": "openalex-4bcca691e2bc",
@@ -2340,7 +2531,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:23.108333+00:00"
+      "_retrievedAt": "2026-11-02T15:41:52.184226+00:00"
     },
     {
       "id": "openalex-fc31c72923df",
@@ -2372,7 +2563,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.059394+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.519214+00:00"
     },
     {
       "id": "openalex-3b7d32d6ce88",
@@ -2404,7 +2595,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:22.434991+00:00"
+      "_retrievedAt": "2026-11-02T15:41:51.410711+00:00"
     },
     {
       "id": "openalex-2ba26c514329",
@@ -2436,103 +2627,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:23.108625+00:00"
-    },
-    {
-      "id": "openalex-6a5a22694e49",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Electricity demand and grid impacts of AI data centers: Challenges and prospects",
-      "authors": "Xin Chen, Xiaoyang Wang, Ana Colacelli, Matt Lee, Le Xie",
-      "abstract": "The rapid growth of artificial intelligence (AI) is driving an unprecedented increase in the electricity demand of AI data centers, raising emerging challenges for electric power grids. Understanding the characteristics of AI data center loads and their interactions with the grid is therefore critical for ensuring both reliable power system operation and sustainable AI development. This paper provides a comprehensive review and vision of this evolving landscape. Specifically, this paper (i) presents an overview of AI data center infrastructure and its key components, (ii) examines the key characteristics and patterns of electricity demand across the stages of model preparation, training, fine-tuning, and inference, (iii) analyzes the critical challenges that AI data center loads pose to power systems across three interrelated timescales, including long-term planning and interconnectio...",
-      "date": "2026-08-17",
-      "year": 2026,
-      "journal": "Nexus",
-      "source": "Nexus",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.ynexs.2026.100162",
-      "doi": "10.1016/j.ynexs.2026.100162",
-      "pdfUrl": "https://doi.org/10.1016/j.ynexs.2026.100162",
-      "keywords": [
-        "Electricity",
-        "Key (lock)",
-        "Computer science",
-        "Electric power system",
-        "Electricity system",
-        "Smart Grid Energy Management",
-        "Energy Efficiency in Computing",
-        "Smart Grid and Power Systems"
-      ],
-      "readTime": "1 min",
-      "citedBy": 23,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.061743+00:00"
-    },
-    {
-      "id": "openalex-e53fd6efecab",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Nucleolar dynamics are determined by the ordered assembly of the ribosome",
-      "authors": "Jessica Sheu‐Gruttadauria, Xiaowei Yan, Nico Stuurman, Riley O. Ogrean, Sabrina Lin, Stephen N. Floor",
-      "abstract": "Abstract Ribosome biogenesis occurs in the nucleolus, a biomolecular condensate whose material properties are thought to be important for function. However, the molecular basis of nucleolar dynamics and their relationship to ribosome assembly remain incompletely understood. We present a platform for hi gh-throughput fluorescence r ecovery a fter p hotobleaching (HiT-FRAP) and use it to screen hundreds of genes for their impact on dynamics of the nucleolar scaffold nucleophosmin (NPM1). We find that NPM1 dynamics and nucleolar morphology are sensitive to ribosome assembly state: accumulation of early preribosomal intermediates slows NPM1 dynamics and compacts the condensate, while accumulation of abortive late precursors accelerates dynamics and disrupts condensate integrity. These opposing biophysical states correlate with the strength of NPM1-pre-ribosome interactions. Importantly, m...",
-      "date": "2026-08-14",
-      "year": 2026,
-      "journal": "The Journal of Cell Biology",
-      "source": "The Journal of Cell Biology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1083/jcb.202605096",
-      "doi": "10.1083/jcb.202605096",
-      "pdfUrl": "https://www.biorxiv.org/content/biorxiv/early/2023/09/27/2023.09.26.559432.full.pdf",
-      "keywords": [
-        "Nucleolus",
-        "Ribosome biogenesis",
-        "Ribosome",
-        "Cell biology",
-        "Fluorescence recovery after photobleaching",
-        "Nuclear Structure and Function",
-        "RNA and protein synthesis mechanisms",
-        "RNA Research and Splicing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.759688+00:00"
-    },
-    {
-      "id": "openalex-7557b642a0ae",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Brain perivascular macrophages regulate endothelial cell function via a cMAF-dependent transcriptional program in mouse and human",
-      "authors": "Simone Brioschi, Julia A. Belk, Steffen E. Storck, Yue Wu, Zhuoying Wang, Ziang Feng",
-      "abstract": "Brain perivascular macrophages maintain brain physiology, yet their transcriptional regulators and functions in health and disease remain unclear. Using single-cell multi-omics and functional experiments, we identify cellular musculoaponeurotic fibrosarcoma oncogene (cMAF) as a key transcription factor for brain perivascular macrophages, and conditional deletion of cMAF disrupts their phenotype in vivo. Functionally, cMAF drives insulin-like growth factor-1 (IGF1) expression in perivascular macrophages, enabling communication with endothelial cells. Consistently, cMAF deletion in perivascular macrophages causes transcriptional alterations in cerebral arteries, affecting vascular functions. Notably, cMAF emerges as the main transcription factor for human perivascular macrophages, suggesting conservation of this transcriptional module. During Alzheimer's disease (AD), human perivascular...",
-      "date": "2026-08-14",
-      "year": 2026,
-      "journal": "Cell",
-      "source": "Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cell.2026.07.043",
-      "doi": "10.1016/j.cell.2026.07.043",
-      "pdfUrl": "https://doi.org/10.1016/j.cell.2026.07.043",
-      "keywords": [
-        "Biology",
-        "Cell biology",
-        "Function (biology)",
-        "Endothelial stem cell",
-        "Endothelium",
-        "Neuroinflammation and Neurodegeneration Mechanisms",
-        "Barrier Structure and Function Studies",
-        "Cerebrospinal fluid and hydrocephalus"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.759895+00:00"
+      "_retrievedAt": "2026-11-02T15:41:52.184599+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -2564,7 +2659,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.060128+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.520196+00:00"
     },
     {
       "id": "openalex-35d470812d90",
@@ -2596,39 +2691,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.758190+00:00"
-    },
-    {
-      "id": "openalex-9c3881676bb1",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "LRRK2 G2019S variant is associated with transcriptional changes in Parkinson’s disease human myeloid cells under proinflammatory environment",
-      "authors": "Elisa Navarro, Anastasia G. Efthymiou, Daniele Mattei, Madison Parks, Giulietta Maria Riboldi, Ricardo A. Vialle",
-      "abstract": "The G2019S mutation in the leucine-rich repeat kinase 2 (LRRK2) gene is a major risk factor for the development of Parkinson's disease (PD). LRRK2, although ubiquitously expressed, is highly abundant in cells of the innate immune system. Given the importance of central and peripheral immune cells in the development of PD, we sought to investigate the consequences of the G2019S mutation on microglial and monocyte transcriptome and function. We have generated large-scale transcriptomic profiles of isogenic human induced microglial cells (iMGLs) and patient derived monocytes carrying the G2019S mutation under baseline culture conditions and following exposure to the proinflammatory factors IFNγ and LPS. We demonstrate that the G2019S mutation exerts a profound impact on the transcriptomic profile of these myeloid cells, and describe corresponding functional differences in iMGLs. The G201...",
-      "date": "2026-08-08",
-      "year": 2026,
-      "journal": "Journal of Neuroinflammation",
-      "source": "Journal of Neuroinflammation",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1186/s12974-026-03967-0",
-      "doi": "10.1186/s12974-026-03967-0",
-      "pdfUrl": "https://doi.org/10.1186/s12974-026-03967-0",
-      "keywords": [
-        "LRRK2",
-        "Proinflammatory cytokine",
-        "Parkinson's disease",
-        "Disease",
-        "Myeloid cells",
-        "Parkinson's Disease Mechanisms and Treatments",
-        "Neuroinflammation and Neurodegeneration Mechanisms",
-        "Nuclear Receptors and Signaling"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.760154+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.957080+00:00"
     },
     {
       "id": "openalex-aa0b72ab3b90",
@@ -2660,7 +2723,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:23.108913+00:00"
+      "_retrievedAt": "2026-11-02T15:41:52.185010+00:00"
     },
     {
       "id": "openalex-356d70f6418b",
@@ -2692,39 +2755,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.758856+00:00"
-    },
-    {
-      "id": "openalex-31da6159b300",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Accelerating biomass loss from forest disturbances across Europe",
-      "authors": "Katja Kowalski, Alba Viana‐Soto, Martin Brandt, Philippe Ciais, Wanda De Keersmaecker, Rasmus Fensholt",
-      "abstract": "Abstract Forest disturbances are rising globally due to climate change and land-use pressures, weakening the terrestrial carbon sink. However, declines in aboveground biomass from tree cover loss remain poorly quantified, limiting our understanding of the role of disturbances in global carbon dynamics. Here we present a spatially explicit estimate of aboveground biomass losses from natural disturbances and harvest across Europe’s 216 million hectares of forests, using satellite remote sensing. From 1985 to 2023, gross aboveground biomass losses totalled 6.5 ± 0.8 Pg. Of these, 18% were caused by high-severity natural disturbances, whereas stand-replacing harvests accounted for 82%. From 2018 onward, aboveground biomass losses increased by 46% reaching annual values unprecedented in the preceding four decades. This acceleration coincided with high natural disturbance activity in biomas...",
-      "date": "2026-08-05",
-      "year": 2026,
-      "journal": "Nature Geoscience",
-      "source": "Nature Geoscience",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41561-026-02032-y",
-      "doi": "10.1038/s41561-026-02032-y",
-      "pdfUrl": "https://www.nature.com/articles/s41561-026-02032-y.pdf",
-      "keywords": [
-        "Environmental science",
-        "Biomass (ecology)",
-        "Carbon sink",
-        "Temperate climate",
-        "Disturbance (geology)",
-        "Forest ecology and management",
-        "Remote Sensing and LiDAR Applications",
-        "Forest Management and Policy"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:23.109150+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.958001+00:00"
     },
     {
       "id": "openalex-23e74f3e558d",
@@ -2756,39 +2787,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:22.435815+00:00"
-    },
-    {
-      "id": "openalex-13902727e89a",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Precipitation nowcasting based on convolutional LSTM with spatio-temporal information transformation using multi-meteorological factors",
-      "authors": "Dufu Liu, Feihu Huang, Peng Zheng, Xiaomeng Huang, Xi Wu, Yuan Xia",
-      "abstract": "Abstract. Precipitation nowcasting is vital for protecting lives and economic activities, yet accurate forecasts based solely on past precipitation remain elusive. Conventional numerical weather prediction (NWP) models offer a solution but incur substantial computational costs. Moreover, due to the rapid pace of climate change, long-term time series data are often inadequate for accurately addressing precipitation forecasting for extreme weather events, as past meteorological time series data may not accurately reflect current atmospheric conditions. There is an urgent need to rely on short-term time series for prediction tasks. Existing studies have employed Spatio-Temporal Information Transformation(STI) equations with iterative solutions for shortterm time series prediction. However, the solution process involves relatively simple nonlinear operations, which are prone to cumulative...",
-      "date": "2026-08-03",
-      "year": 2026,
-      "journal": "Geoscientific model development",
-      "source": "Geoscientific model development",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5194/gmd-19-7089-2026",
-      "doi": "10.5194/gmd-19-7089-2026",
-      "pdfUrl": "https://gmd.copernicus.org/articles/19/7089/2026/gmd-19-7089-2026.pdf",
-      "keywords": [
-        "Nowcasting",
-        "Precipitation",
-        "Transformation (genetics)",
-        "Computer science",
-        "Climatology",
-        "Hydrological Forecasting Using AI",
-        "Meteorological Phenomena and Simulations",
-        "Precipitation Measurement and Analysis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 3,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:23.109419+00:00"
+      "_retrievedAt": "2026-11-02T15:41:51.411827+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2820,7 +2819,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.756825+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.954246+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2848,11 +2847,11 @@ window.LIVE_FEED_DATA = {
         "Cancer Genomics and Diagnostics"
       ],
       "readTime": "1 min",
-      "citedBy": 13,
+      "citedBy": 12,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.757778+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.955895+00:00"
     },
     {
       "id": "openalex-34f37069c1ad",
@@ -2884,7 +2883,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.759009+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.958212+00:00"
     },
     {
       "id": "openalex-c47d537bde45",
@@ -2916,7 +2915,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:22.433304+00:00"
+      "_retrievedAt": "2026-11-02T15:41:51.408399+00:00"
     },
     {
       "id": "openalex-83b919635dc2",
@@ -2948,7 +2947,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:22.433597+00:00"
+      "_retrievedAt": "2026-11-02T15:41:51.408783+00:00"
     },
     {
       "id": "openalex-c19eb2f8bd80",
@@ -2980,7 +2979,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:22.436005+00:00"
+      "_retrievedAt": "2026-11-02T15:41:51.412123+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -3012,7 +3011,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:23.105629+00:00"
+      "_retrievedAt": "2026-11-02T15:41:52.180229+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -3044,7 +3043,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:23.106476+00:00"
+      "_retrievedAt": "2026-11-02T15:41:52.181371+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -3076,7 +3075,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.058436+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.517932+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -3108,7 +3107,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:22.434357+00:00"
+      "_retrievedAt": "2026-11-02T15:41:51.409843+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -3140,7 +3139,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.757256+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.955216+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -3172,7 +3171,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:22.433038+00:00"
+      "_retrievedAt": "2026-11-02T15:41:51.408035+00:00"
     },
     {
       "id": "openalex-100e88f28593",
@@ -3204,7 +3203,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:22.435307+00:00"
+      "_retrievedAt": "2026-11-02T15:41:51.411151+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -3236,7 +3235,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:22.433861+00:00"
+      "_retrievedAt": "2026-11-02T15:41:51.409166+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -3268,7 +3267,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.058124+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.517241+00:00"
     },
     {
       "id": "openalex-513edaf40716",
@@ -3300,7 +3299,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:22.434743+00:00"
+      "_retrievedAt": "2026-11-02T15:41:51.410369+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -3332,7 +3331,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.758411+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.957384+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -3364,7 +3363,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:23.107536+00:00"
+      "_retrievedAt": "2026-11-02T15:41:52.182791+00:00"
     },
     {
       "id": "openalex-b4945be66b52",
@@ -3396,7 +3395,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.759198+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.958463+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3428,7 +3427,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:22.432088+00:00"
+      "_retrievedAt": "2026-11-02T15:41:51.406755+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3460,7 +3459,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:23.106772+00:00"
+      "_retrievedAt": "2026-11-02T15:41:52.181762+00:00"
     },
     {
       "id": "openalex-6068978c624a",
@@ -3492,7 +3491,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.758001+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.956191+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -3524,7 +3523,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:23.107816+00:00"
+      "_retrievedAt": "2026-11-02T15:41:52.183187+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -3556,7 +3555,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:23.107044+00:00"
+      "_retrievedAt": "2026-11-02T15:41:52.182142+00:00"
     },
     {
       "id": "openalex-a63868e51b4a",
@@ -3588,7 +3587,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.759453+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.958791+00:00"
     },
     {
       "id": "openalex-56da52a8679d",
@@ -3620,7 +3619,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-02T05:56:21.059634+00:00"
+      "_retrievedAt": "2026-11-02T15:41:50.519526+00:00"
     }
   ]
 };
