@@ -1,11 +1,203 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-11-04T23:37:27.478390+00:00",
-  "total": 114,
+  "generatedAt": "2026-11-05T06:39:05.509463+00:00",
+  "total": 98,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-22641e65c2b0",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Simple text reminders could help close London's bowel cancer screening gap",
+      "authors": "Medical Xpress",
+      "abstract": "As low-cost and straightforward an intervention as automated text messaging could make a significant contribution to tackling London's below-average bowel cancer screening rates, according to a study led by the University of Surrey. The project compared two approaches to encourage people who didn't respond to their initial invitation to complete their cancer screening.",
+      "date": "2026-11-05",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-simple-text-london-bowel-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "screening",
+        "text",
+        "could",
+        "london",
+        "bowel",
+        "their",
+        "simple"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-05T06:39:04.795091+00:00"
+    },
+    {
+      "id": "rss-c81ec5423041",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Teen chlamydia and gonorrhea screening climbs to 75% after primary care changes",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at Children's Hospital of Philadelphia (CHOP) found that a systematic, electronic health record-enabled quality improvement initiative was associated with a large increase in chlamydia and gonorrhea screening among adolescents and led to the detection of more infections. The findings, published in the journal Pediatrics, suggest a feasible approach to building screening into routine well visits.",
+      "date": "2026-11-05",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-teen-chlamydia-gonorrhea-screening-climbs.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "screening",
+        "chlamydia",
+        "gonorrhea",
+        "teen",
+        "climbs",
+        "after",
+        "primary",
+        "care"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-05T06:39:04.795271+00:00"
+    },
+    {
+      "id": "rss-3a330b2c2b90",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Knee osteoarthritis: Symptoms, diagnosis and treatment",
+      "authors": "Medical Xpress",
+      "abstract": "Knee osteoarthritis (OA) is the most common type of arthritis, affecting about 528 million adults worldwide.",
+      "date": "2026-11-05",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-knee-osteoarthritis-symptoms-diagnosis-treatment.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "knee",
+        "osteoarthritis",
+        "symptoms",
+        "diagnosis",
+        "treatment",
+        "most",
+        "common",
+        "type"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-05T06:39:04.795374+00:00"
+    },
+    {
+      "id": "rss-8a2adf658cd2",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Pediatricians see vaping risks, but lack tools to help teens quit",
+      "authors": "Medical Xpress",
+      "abstract": "Two-thirds of Australian pediatricians don't know where to refer adolescents for support to quit vaping, new Federation University research has found—highlighting a critical gap in the response to youth vaping.",
+      "date": "2026-11-05",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-pediatricians-vaping-lack-tools-teens.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "vaping",
+        "pediatricians",
+        "quit",
+        "risks",
+        "lack",
+        "tools",
+        "help",
+        "teens"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-05T06:39:04.795512+00:00"
+    },
+    {
+      "id": "rss-bfa61a0b270f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Brain activity patterns may predict Alzheimer's years before memory slips",
+      "authors": "Medical Xpress",
+      "abstract": "Inside the brains of some cognitively normal adults, firing patterns were able to foretell Alzheimer's disease years before the onset of memory loss or the accumulation of plaques and tangles, according to new Stanford Medicine–led research. For others, different firing patterns indicated the opposite—brains unusually resilient to cognitive decline and on track for \"super ager\" status.",
+      "date": "2026-11-05",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-brain-patterns-alzheimer-years-memory.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "patterns",
+        "alzheimer",
+        "years",
+        "before",
+        "memory",
+        "brains",
+        "firing",
+        "brain"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-05T06:39:04.795646+00:00"
+    },
+    {
+      "id": "rss-d68b03ba276b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Routine breast imaging may offer little benefit after double mastectomy for early breast cancer",
+      "authors": "Medical Xpress",
+      "abstract": "Women who have undergone a double mastectomy to treat ductal carcinoma in situ (DCIS), a noninvasive form of breast cancer also known as stage 0 breast cancer, may not benefit from routine mammograms or other breast imaging after surgery, according to a new study led by investigators at the UCLA Health Jonsson Comprehensive Cancer Center.",
+      "date": "2026-11-05",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-routine-breast-imaging-benefit-mastectomy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "breast",
+        "cancer",
+        "routine",
+        "imaging",
+        "benefit",
+        "after",
+        "double",
+        "mastectomy"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-05T06:39:04.795767+00:00"
+    },
     {
       "id": "rss-60ab67c0b0ff",
       "discipline": "clinical",
@@ -13,7 +205,7 @@ window.LIVE_FEED_DATA = {
       "title": "Fireworks are an underestimated danger to public health, warn experts",
       "authors": "Medical Xpress",
       "abstract": "Fireworks pose an underestimated danger to public health and require stronger regulations and sustained public education campaigns to help prevent devastating yet entirely avoidable injuries, warn U.S. experts in The BMJ.",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.597693+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.795869+00:00"
     },
     {
       "id": "rss-70969f67d5f3",
@@ -45,7 +237,7 @@ window.LIVE_FEED_DATA = {
       "title": "Replacing dairy products with unfortified plant-based alternatives could lead to deficiencies in certain nutrients",
       "authors": "Medical Xpress",
       "abstract": "Replacing dairy products, even partially, with unfortified plant-based alternatives may lead to a deficiency in vital nutrients, a new study from the University of Surrey reports. Mandatory fortification of plant-based alternatives and other foods, including bread, could lessen the risk of deficiencies, particularly iodine deficiency.",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.597979+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.795984+00:00"
     },
     {
       "id": "rss-11d109285c4e",
@@ -77,7 +269,7 @@ window.LIVE_FEED_DATA = {
       "title": "Shockwave therapy may ease frozen shoulder pain, but lasting benefits remain uncertain",
       "authors": "Medical Xpress",
       "abstract": "Extracorporeal shockwave therapy probably reduces short-term pain linked to frozen shoulder, while manipulation under anesthesia—with or without steroid injections—probably improves short-term flexion (raising the arm forward and overhead) compared with usual care, finds a review of the latest trial evidence published by The BMJ.",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.598287+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.796108+00:00"
     },
     {
       "id": "rss-402b8180d183",
@@ -109,7 +301,7 @@ window.LIVE_FEED_DATA = {
       "title": "How a CRISPR sickle cell therapy moved from lab to clinical trial",
       "authors": "Medical Xpress",
       "abstract": "A UCLA-led team has described how it advanced an experimental CRISPR approach for sickle cell disease into a blood stem cell therapy that can be manufactured at the scale and quality required for a clinical trial.",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.598519+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.796234+00:00"
     },
     {
       "id": "rss-a55a22baaf9a",
@@ -141,7 +333,7 @@ window.LIVE_FEED_DATA = {
       "title": "Why humans are more sensitive than other species to a brain developmental disease",
       "authors": "Medical Xpress",
       "abstract": "Researchers at VIB and KU Leuven have uncovered how mutations in the ASPM gene disrupt the development of neural stem cells that help the human brain grow. This disruption explains how these mutations cause microcephaly, a condition characterized by an abnormally small brain and head, often accompanied by intellectual disability. The discovery, published in Developmental Cell, also sheds light on how differences in brain development can make humans more susceptible to certain genetic conditions than other mammals.",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.598808+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.796374+00:00"
     },
     {
       "id": "rss-f7cc3b53bdd3",
@@ -173,7 +365,7 @@ window.LIVE_FEED_DATA = {
       "title": "From DNA marks to RNA control: A new clue to acute myeloid leukemia",
       "authors": "Medical Xpress",
       "abstract": "Acute myeloid leukemia (AML) is an aggressive blood cancer in which abnormal, immature cells build up in the bone marrow, disrupting the production of healthy blood cells. Now, a new study, led by Dr. José Luis Sardina's group at the Josep Carreras Leukaemia Research Institute (IJC), examines how two systems that help control normal blood cell development are connected: the chemical marks on DNA and the regulation of RNA, which carries instructions for making proteins. The work is published in the journal Science Advances.",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.599163+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.796524+00:00"
     },
     {
       "id": "rss-325ec7f83bea",
@@ -205,7 +397,7 @@ window.LIVE_FEED_DATA = {
       "title": "Combining HIV prevention and addiction treatment in mobile clinics could save lives",
       "authors": "Medical Xpress",
       "abstract": "Results from a clinical trial in five major United States cities show that delivering integrated HIV and substance use disorder (SUD) services using peer navigation in mobile medical units reduced all-cause deaths by 71% compared with those among participants who received peer navigation to community-based services alone. While scientists found no difference in the use of daily, oral preexposure prophylaxis (PrEP) and medication for opioid use disorder (MOUD) between the groups, the secondary outcome of reduced mortality was significant. The study is published in JAMA Psychiatry.",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -228,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.599473+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.796665+00:00"
     },
     {
       "id": "rss-4de449b95c1b",
@@ -237,7 +429,7 @@ window.LIVE_FEED_DATA = {
       "title": "Tiny structures in our spines could hold clues to why our backs wear out",
       "authors": "Medical Xpress",
       "abstract": "An international team of scientists has discovered how some of the tiniest structures in the human spine help it cope with the strain of bending, lifting and everyday movement, potentially shedding new light on why spinal disks deteriorate.",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -260,199 +452,103 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.599704+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.796771+00:00"
     },
     {
-      "id": "rss-c948c3bf20f9",
-      "discipline": "clinical",
+      "id": "rss-eef43f8c4b4e",
+      "discipline": "cs",
       "type": "news",
-      "title": "Chronic illness linked to higher prescription drug misuse",
-      "authors": "Medical Xpress",
-      "abstract": "Working-age adults who manage more chronic health conditions are more likely to misuse prescription medications, researchers in the Maxwell School of Citizenship and Public Affairs found.",
-      "date": "2026-11-04",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "authors": "TechCrunch AI",
+      "abstract": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "date": "2026-11-05",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-chronic-illness-linked-higher-prescription.html",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "chronic",
-        "prescription",
-        "misuse",
-        "more",
-        "illness",
-        "linked",
-        "higher",
-        "drug"
+        "apple",
+        "reportedly",
+        "cutting",
+        "budgets",
+        "internal",
+        "usage",
+        "company",
+        "said"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.599915+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.912998+00:00"
     },
     {
-      "id": "rss-f8a05270754e",
-      "discipline": "clinical",
+      "id": "rss-f29435713aef",
+      "discipline": "cs",
       "type": "news",
-      "title": "Protein DUSP4 boosts cancer-fighting T cells in colorectal cancer lab models",
-      "authors": "Medical Xpress",
-      "abstract": "The immune system has powerful cells that can recognize and destroy cancer, but this ability can gradually wane when the cells reside within a tumor. Researchers from the Yong Loo Lin School of Medicine, National University of Singapore (NUS Medicine), and their collaborators have identified a protein that could help keep these cancer-fighting immune cells active and potentially provide a new way to strengthen engineered T-cell therapies against colorectal cancer.",
-      "date": "2026-11-04",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "authors": "TechCrunch AI",
+      "abstract": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "date": "2026-11-05",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-protein-dusp4-boosts-cancer-cells.html",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cells",
-        "cancer",
-        "protein",
-        "cancer-fighting",
-        "colorectal",
-        "immune",
-        "that",
-        "medicine"
+        "midterms",
+        "after",
+        "bigger",
+        "clash",
+        "over",
+        "centers",
+        "could",
+        "coming"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.600234+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.913112+00:00"
     },
     {
-      "id": "rss-53e4ad202a39",
-      "discipline": "clinical",
+      "id": "rss-9b3fb6e63d6f",
+      "discipline": "cs",
       "type": "news",
-      "title": "Generative AI fills gaps in brain wiring maps where MRI scans lose signal",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers from the Mark and Mary Stevens Neuroimaging and Informatics Institute (Stevens INI) at the Keck School of Medicine of USC have developed an artificial intelligence (AI) model that helps fill gaps in brain wiring maps made with diffusion MRI, a type of scan that traces the brain's nerve fiber pathways. This could help researchers study how key brain connections change with aging and disease.",
-      "date": "2026-11-04",
+      "title": "Clearing up a robot’s fuzzy memory",
+      "authors": "MIT News AI",
+      "abstract": "A new system identifies and corrects unreliable object descriptions stored in a robot’s memory, improving the robot’s ability to interact with its environment.",
+      "date": "2026-11-05",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-generative-ai-gaps-brain-wiring.html",
+      "url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "brain",
-        "gaps",
-        "wiring",
-        "maps",
-        "researchers",
-        "stevens",
-        "that",
-        "generative"
+        "robot",
+        "memory",
+        "clearing",
+        "fuzzy",
+        "system",
+        "identifies",
+        "corrects",
+        "unreliable"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.600503+00:00"
-    },
-    {
-      "id": "rss-2032a3c360be",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "WHO hails progress against neglected tropical diseases",
-      "authors": "Medical Xpress",
-      "abstract": "The World Health Organization on Wednesday celebrated \"major progress\" against neglected tropical diseases, with some like sleeping sickness all but disappearing, but urged more investment and faster and broader action.",
-      "date": "2026-11-04",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-hails-neglected-tropical-diseases.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "progress",
-        "against",
-        "neglected",
-        "tropical",
-        "diseases",
-        "hails",
-        "world",
-        "health"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.600720+00:00"
-    },
-    {
-      "id": "rss-c405ad3abbeb",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Exposure to petroleum-based lubricants at work associated with multiple sclerosis risk",
-      "authors": "Medical Xpress",
-      "abstract": "Exposure to petroleum-derived lubricants at work, including engine oil, hydraulic oil and cutting fluids used to cool or lubricate metal during metalworking, is associated with higher odds of multiple sclerosis (MS), according to a study published in Neurology. The study does not prove that exposure to these lubricants causes MS. It only shows an association.",
-      "date": "2026-11-04",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-exposure-petroleum-based-lubricants-multiple.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "exposure",
-        "lubricants",
-        "work",
-        "associated",
-        "multiple",
-        "sclerosis",
-        "petroleum-based",
-        "risk"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.600966+00:00"
-    },
-    {
-      "id": "rss-facd676f0df9",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "WHO approves clinical trials on two new Ebola vaccines",
-      "authors": "Medical Xpress",
-      "abstract": "The World Health Organization on Wednesday approved clinical trials for two new Ebola vaccines, as doctors fight to control an outbreak in Africa that has killed more than 5,300 people.",
-      "date": "2026-11-04",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-clinical-trials-ebola-vaccines.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "clinical",
-        "trials",
-        "ebola",
-        "vaccines",
-        "approves",
-        "world",
-        "health",
-        "organization"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.601196+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.040790+00:00"
     },
     {
       "id": "rss-2022048018c7",
@@ -484,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.725782+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.913202+00:00"
     },
     {
       "id": "rss-fa1cac7ce7d5",
@@ -516,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.726016+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.913307+00:00"
     },
     {
       "id": "rss-a67614f1682b",
@@ -548,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.726213+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.913381+00:00"
     },
     {
       "id": "rss-96fd768e5123",
@@ -580,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.726395+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.913460+00:00"
     },
     {
       "id": "rss-b99f6e7563c9",
@@ -612,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.726548+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.913527+00:00"
     },
     {
       "id": "rss-eb0bf9f90c1e",
@@ -644,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.726783+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.913640+00:00"
     },
     {
       "id": "rss-a71654c66736",
@@ -676,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.726955+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.913716+00:00"
     },
     {
       "id": "rss-264397ba37fd",
@@ -708,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.727211+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.913826+00:00"
     },
     {
       "id": "rss-2825fd9342de",
@@ -740,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.727383+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.913905+00:00"
     },
     {
       "id": "rss-d6e3c135bb13",
@@ -772,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.727548+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.913981+00:00"
     },
     {
       "id": "rss-3cce1e2a02ef",
@@ -804,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.727702+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.914052+00:00"
     },
     {
       "id": "rss-0301f8db1aca",
@@ -836,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:27.130270+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.263384+00:00"
     },
     {
       "id": "rss-5116d0089903",
@@ -868,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:27.130492+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.263498+00:00"
     },
     {
       "id": "openalex-b76d52d91fce",
@@ -900,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.060511+00:00"
+      "_retrievedAt": "2026-11-05T06:38:55.344955+00:00"
     },
     {
       "id": "rss-e70d37bb2363",
@@ -932,71 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.727865+00:00"
-    },
-    {
-      "id": "rss-b296ee287f3f",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "authors": "TechCrunch AI",
-      "abstract": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-      "date": "2026-11-03",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "engines",
-        "wait",
-        "centers",
-        "turning",
-        "power",
-        "grows",
-        "years-long",
-        "access"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.728031+00:00"
-    },
-    {
-      "id": "rss-55e5e18ed9f1",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "authors": "TechCrunch AI",
-      "abstract": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-      "date": "2026-11-03",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ballistic",
-        "ventures",
-        "million",
-        "schlein",
-        "seeks",
-        "funds",
-        "amid",
-        "ai-driven"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.728235+00:00"
+      "_retrievedAt": "2026-11-05T06:39:04.914126+00:00"
     },
     {
       "id": "rss-a6d2ec7a9bd8",
@@ -1028,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.898516+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.040885+00:00"
     },
     {
       "id": "rss-e8ad5f5a7f57",
@@ -1060,39 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:27.131137+00:00"
-    },
-    {
-      "id": "openalex-15d253298584",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Spectral 3D computer vision: A survey of acquisition, representations, learning, and applications",
-      "authors": "Yajie Sun, Ali Zia, Vivien Rolland, Charissa Yu, Jun Wei Zhou",
-      "abstract": "Spectral 3D computer vision combines wavelength-resolved measurements with geometric information to support material-aware reconstruction, perception, and scene analysis. However, the literature remains fragmented across hyperspectral and multispectral sensing, cross-spectral depth and pose estimation, spectral point clouds, LiDAR–hyperspectral fusion, and neural scene representations. This survey provides a structured review of the field, covering spectral and geometric acquisition, data representations, calibration and registration, spectral 3D reconstruction, integrated spectral 3D acquisition and joint physical modelling, learning-based methods, downstream tasks, benchmark datasets, applications, and software tools. We organise existing methods into three complementary methodological themes: spectral support for 3D information estimation, spectral 3D reconstruction and mapping, an...",
-      "date": "2026-11-03",
-      "year": 2026,
-      "journal": "Computer Science Review",
-      "source": "Computer Science Review",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cosrev.2026.101084",
-      "doi": "10.1016/j.cosrev.2026.101084",
-      "pdfUrl": "https://doi.org/10.1016/j.cosrev.2026.101084",
-      "keywords": [
-        "Computer science",
-        "Cultural heritage",
-        "Computer vision",
-        "Object (grammar)",
-        "Structure from motion",
-        "Advanced Vision and Imaging",
-        "3D Surveying and Cultural Heritage",
-        "3D Shape Modeling and Analysis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:21.488839+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.263836+00:00"
     },
     {
       "id": "rss-15e56cec1fd1",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.898704+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.040963+00:00"
     },
     {
       "id": "rss-0a0dc5009289",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.898888+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.041046+00:00"
     },
     {
       "id": "openalex-b9713b9a252a",
@@ -1188,39 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.059634+00:00"
-    },
-    {
-      "id": "openalex-11b5190cd445",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Application of long short-term memory and convolutional neural networks for real-time bridge pier scour prediction",
-      "authors": "Tahrima Hashem, Negin Yousefpour",
-      "abstract": "Purpose Scour around bridge piers poses a major threat to structural safety, yet existing empirical and machine learning approaches are limited in accuracy, generalisation and real-time applicability. This paper aims to evaluate the effectiveness, efficiency and generalisability of deep learning models for real-time bridge pier scour forecasting. Design/methodology/approach The study formulates scour forecasting as a multivariate time-series prediction problem using real-world sensor data from monitored bridges in Alaska and Oregon (2006–2021). Multiple variants of long short-term memory (LSTM) and temporal convolutional neural network (CNN) models are designed and systematically evaluated. Random-search heuristics and sequential evaluation are used to optimise hyperparameters, improve robustness and assess computational efficiency. Findings Results show that LSTM models achieve high...",
-      "date": "2026-10-30",
-      "year": 2026,
-      "journal": "Machine Learning and Data Science in Geotechnics",
-      "source": "Machine Learning and Data Science in Geotechnics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1108/mlag-02-2026-0003",
-      "doi": "10.1108/mlag-02-2026-0003",
-      "pdfUrl": "https://www.emerald.com/mlag/article-pdf/2/1/204/11942223/mlag-02-2026-0003en.pdf",
-      "keywords": [
-        "Bridge (graph theory)",
-        "Long short term memory",
-        "Convolutional neural network",
-        "Term (time)",
-        "Computer science",
-        "Hydrology and Sediment Transport Processes",
-        "Hydrological Forecasting Using AI",
-        "Hydraulic flow and structures"
-      ],
-      "readTime": "1 min",
-      "citedBy": 13,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:21.486255+00:00"
+      "_retrievedAt": "2026-11-05T06:38:55.344186+00:00"
     },
     {
       "id": "rss-4ae9201eddcb",
@@ -1252,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.899072+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.041116+00:00"
     },
     {
       "id": "rss-4452dd44bbfd",
@@ -1284,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.899254+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.041200+00:00"
     },
     {
       "id": "openalex-00c0ed843a5d",
@@ -1316,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.061900+00:00"
+      "_retrievedAt": "2026-11-05T06:38:55.346339+00:00"
     },
     {
       "id": "rss-8ccff313a082",
@@ -1347,7 +1315,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:27.131288+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.263902+00:00"
     },
     {
       "id": "openalex-cb3cbda06d84",
@@ -1379,7 +1347,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:18.858237+00:00"
+      "_retrievedAt": "2026-11-05T06:38:54.687937+00:00"
     },
     {
       "id": "rss-820a582ce463",
@@ -1411,7 +1379,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.899417+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.041286+00:00"
     },
     {
       "id": "rss-3d5d65395710",
@@ -1443,7 +1411,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.899567+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.041353+00:00"
+    },
+    {
+      "id": "openalex-4a66fb8dde9c",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Ultrasound neuromodulation hypotheses on the directionality of effects and community resource",
+      "authors": "Hugo Caffaratti, Ben Slater, Nour Shaheen, Ariane E. Rhone, Ryan Calmus, Michael E. Kritikos",
+      "abstract": "ABSTRACT Low-intensity Transcranial Ultrasound Stimulation is a promising non-invasive technique for brain stimulation and focal neuromodulation. Research with humans and animal models has raised the possibility that TUS can be biased towards enhancing or suppressing neural function. Here, we first collate a set of hypotheses on the directionality of TUS effects and conduct an initial meta-analysis on available healthy human participant TUS studies reporting stimulation parameters and outcomes ( n = 47 studies, 52 experiments). In initial exploratory analyses with univariate tests, we find that parameters such as the intensity and continuity of stimulation (duty cycle) show statistical trends towards likely TUS neural enhancement or suppression of function. Machine-learning analyses were limited by the currently small sample size. Given that human TUS sample sizes are expected to incr...",
+      "date": "2026-10-28",
+      "year": 2026,
+      "journal": "eLife",
+      "source": "eLife",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.7554/elife.100827.4",
+      "doi": "10.7554/elife.100827.4",
+      "pdfUrl": "https://doi.org/10.7554/elife.100827.4",
+      "keywords": [
+        "Neuromodulation",
+        "Directionality",
+        "Resource (disambiguation)",
+        "Ultrasound",
+        "Psychology",
+        "Ultrasound and Hyperthermia Applications",
+        "Transcranial Magnetic Stimulation Studies",
+        "Human auditory perception and evaluation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-05T06:38:57.742894+00:00"
     },
     {
       "id": "rss-288b8cf14c15",
@@ -1475,7 +1475,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.899741+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.041432+00:00"
     },
     {
       "id": "openalex-8824f3740ac6",
@@ -1507,7 +1507,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.961879+00:00"
+      "_retrievedAt": "2026-11-05T06:38:57.741115+00:00"
     },
     {
       "id": "rss-265637551189",
@@ -1539,7 +1539,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.899897+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.041503+00:00"
     },
     {
       "id": "rss-281de43e80f6",
@@ -1571,7 +1571,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.900101+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.041584+00:00"
     },
     {
       "id": "rss-60fc831425ac",
@@ -1603,7 +1603,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.900285+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.041664+00:00"
     },
     {
       "id": "rss-cbaee3e9e823",
@@ -1635,7 +1635,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.900462+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.041744+00:00"
     },
     {
       "id": "rss-0a2551ebac8b",
@@ -1667,7 +1667,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.900636+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.041824+00:00"
     },
     {
       "id": "openalex-4bd6cc099ffc",
@@ -1699,39 +1699,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:18.860667+00:00"
-    },
-    {
-      "id": "rss-69ba6379887b",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
-      "authors": "MIT News AI",
-      "abstract": "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.",
-      "date": "2026-10-19",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hospital",
-        "teaching",
-        "about",
-        "symmetry",
-        "could",
-        "make",
-        "prenatal",
-        "diagnosis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:26.900800+00:00"
+      "_retrievedAt": "2026-11-05T06:38:54.689324+00:00"
     },
     {
       "id": "rss-f707a76ef1e5",
@@ -1763,7 +1731,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:27.131777+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.264158+00:00"
     },
     {
       "id": "rss-d37d11696ae4",
@@ -1795,7 +1763,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:27.132280+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.264414+00:00"
     },
     {
       "id": "rss-d46aadfd31b1",
@@ -1827,7 +1795,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:27.132785+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.264672+00:00"
     },
     {
       "id": "rss-d82f0f078053",
@@ -1859,7 +1827,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:27.133406+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.264974+00:00"
     },
     {
       "id": "rss-18545777b44e",
@@ -1891,7 +1859,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:27.133707+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.265112+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1923,7 +1891,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.961207+00:00"
+      "_retrievedAt": "2026-11-05T06:38:57.740822+00:00"
     },
     {
       "id": "rss-9097c559200f",
@@ -1955,7 +1923,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:27.133932+00:00"
+      "_retrievedAt": "2026-11-05T06:39:05.265222+00:00"
     },
     {
       "id": "openalex-8df1dcdbdfd4",
@@ -1987,7 +1955,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.963322+00:00"
+      "_retrievedAt": "2026-11-05T06:38:57.741784+00:00"
     },
     {
       "id": "openalex-84e3fa65288d",
@@ -2019,7 +1987,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:18.857421+00:00"
+      "_retrievedAt": "2026-11-05T06:38:54.687419+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -2051,39 +2019,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.962238+00:00"
-    },
-    {
-      "id": "openalex-6922debe8e46",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Alaska North Slope HYDRATE 02 Geo Data Well (GDW) Downhole Logging, Pressure Coring, and Completion Operations and Data",
-      "authors": "Timothy S. Collett, Scott Marsteller, Ray M. Boswell, William F. Waite, Stephen C. Phillips, J. Pohlman",
-      "abstract": "Abstract The “Collaborative Gas Hydrate R&D Project in Alaska,” led by the Japan Organization for Metals and Energy Security (JOGMEC), the U.S. Department of Energy (DOE), and the U.S. Geological Survey, aims to examine and assess gas hydrate reservoir systems, their production behavior, potential environmental impacts, and extraction methodologies. The existing oil and gas infrastructure on the Alaska North Slope (ANS) has enabled long-term field studies and helped pave the way for evaluating Alaska’s gas hydrate production characteristics. In February 2023, a significant milestone was reached in Alaska’s history of gas hydrate-related energy studies with the establishment of a gas hydrate production test site in the Prudhoe Bay Unit (PBU) (an industry operational area). The pressure drawdown tests at this site started on October 24, 2023, and were completed on July 30, 2024. This en...",
-      "date": "2026-10-01",
-      "year": 2026,
-      "journal": "Energy & Fuels",
-      "source": "Energy & Fuels",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1021/acs.energyfuels.6c00867",
-      "doi": "10.1021/acs.energyfuels.6c00867",
-      "pdfUrl": "https://pubs.acs.org/enfuem/article-pdf/doi/10.1021/acs.energyfuels.6c00867/68729660/acs.energyfuels.6c00867.pdf",
-      "keywords": [
-        "Coring",
-        "Drilling",
-        "Geology",
-        "Clathrate hydrate",
-        "Petroleum engineering",
-        "Methane Hydrates and Related Phenomena",
-        "Hydrocarbon exploration and reservoir analysis",
-        "Offshore Engineering and Technologies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 15,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:21.485345+00:00"
+      "_retrievedAt": "2026-11-05T06:38:57.741272+00:00"
     },
     {
       "id": "openalex-a42d0c83310b",
@@ -2115,7 +2051,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.062225+00:00"
+      "_retrievedAt": "2026-11-05T06:38:55.346647+00:00"
     },
     {
       "id": "openalex-4017ee65ef38",
@@ -2147,7 +2083,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.057607+00:00"
+      "_retrievedAt": "2026-11-05T06:38:55.342335+00:00"
     },
     {
       "id": "openalex-c45773bd5ee0",
@@ -2179,7 +2115,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:18.862397+00:00"
+      "_retrievedAt": "2026-11-05T06:38:54.690312+00:00"
     },
     {
       "id": "openalex-8eb078218eca",
@@ -2211,7 +2147,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.061569+00:00"
+      "_retrievedAt": "2026-11-05T06:38:55.345988+00:00"
     },
     {
       "id": "openalex-cd41132c9d18",
@@ -2243,7 +2179,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.058986+00:00"
+      "_retrievedAt": "2026-11-05T06:38:55.343607+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -2275,39 +2211,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:18.859368+00:00"
-    },
-    {
-      "id": "openalex-554ee5013027",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Generalized covariate field (GCF): spatial-pattern and neighbourhood-distribution feature expansion improves geospatial prediction",
-      "authors": "Yongze Song",
-      "abstract": "Spatial prediction forms the basis for decision-making in Earth and environmental sciences, yet prediction accuracy is constrained by spatial heterogeneity and sparse and uneven sampling. Existing methods commonly respond by increasing algorithmic complexity while underusing the spatial information embedded in the covariates themselves. This study develops the generalized covariate field (GCF) to expand the covariate space by deriving two families of spatial features without increasing model complexity. First, spatial pattern features characterize local spatial structure, including spatial dependence, heterogeneity, geocomplexity, multiscale variation and local outlyingness, and are transferable across space. Second, neighbourhood distribution features summarize covariates through multiscale operators with geoscientific meaning. The resulting high-dimensional features are then selecte...",
-      "date": "2026-09-10",
-      "year": 2026,
-      "journal": "International Journal of Geographical Information Systems",
-      "source": "International Journal of Geographical Information Systems",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1080/13658816.2026.2729719",
-      "doi": "10.1080/13658816.2026.2729719",
-      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/13658816.2026.2729719?needAccess=true",
-      "keywords": [
-        "Field (mathematics)",
-        "Covariate",
-        "Feature (linguistics)",
-        "Computer science",
-        "Geospatial analysis",
-        "Spatial and Panel Data Analysis",
-        "Soil Geostatistics and Mapping",
-        "Point processes and geometric inequalities"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:21.488098+00:00"
+      "_retrievedAt": "2026-11-05T06:38:54.688597+00:00"
     },
     {
       "id": "openalex-bb23e4ef92cf",
@@ -2339,7 +2243,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.059325+00:00"
+      "_retrievedAt": "2026-11-05T06:38:55.343901+00:00"
     },
     {
       "id": "openalex-4d7da7db66ac",
@@ -2371,71 +2275,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:18.860334+00:00"
-    },
-    {
-      "id": "openalex-cd9c5bfb977c",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "MERCATOR",
-      "authors": "Guillaume Bailly, Thomas Louche",
-      "abstract": "The advancement of predictive models by Machine Learning Algorithms (ML) associated with environmental data enables the improvement of models of environmental fragility, which are essential tools for decision-making.This study aimed to derive a prediction of environmental fragility by testing ML associated with environmental covariates in the state of Minas Gerais.We use physical-environmental variables (soil, geology, climate, relief) with a weight of fragility for the attributes and calculation of the average to obtain a model of Potential Environmental Fragility (PEF).Subsequently, we extracted the PEF values to a 4,800-point grid, which was used to generate a new prediction by ML called PEFML.This prediction was based on testing five algorithms and a set of 105 environmental covariates.The results indicated that the best-performing PEFML prediction was the Random Forest model (R2...",
-      "date": "2026-09-04",
-      "year": 2026,
-      "journal": "OpenAlex",
-      "source": "OpenAlex",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.4215/rm0000.0000.0000",
-      "doi": "10.4215/rm0000.0000.0000",
-      "pdfUrl": "http://www.mercator.ufc.br/mercator/article/view/e21034/1503",
-      "keywords": [
-        "Mercator projection",
-        "Geography",
-        "Cartography",
-        "Soil Geostatistics and Mapping",
-        "Geography and Environmental Studies",
-        "Soil and Land Suitability Analysis",
-        "environmental",
-        "fragility"
-      ],
-      "readTime": "1 min",
-      "citedBy": 18,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:21.484884+00:00"
-    },
-    {
-      "id": "openalex-7866a0eac831",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Observation modes of EarthCARE/CPR with different Doppler measurement accuracy: evaluation of their applicability",
-      "authors": "Yuki Imura, Shunsuke Aoki, Takuji Kubota, Hirotaka Nakatsuka, Yuichi Ohno, Hajime Okamoto",
-      "abstract": "Abstract. An accurate characterization of cloud vertical motion is essential for understanding cloud microphysical and dynamical processes. The Cloud Profiling Radar (CPR) onboard the Earth Cloud Aerosol and Radiation Explorer (EarthCARE) satellite, launched in May 2024, enables the first global measurements of Doppler velocity from space. The CPR operates in three observation modes—16-km, 18-km, and 20-km modes—each characterized by a distinct pulse repetition frequency (PRF), which determines the Doppler velocity data quality, the maximum observable altitude, and the likelihood of spurious high-altitude echoes known as mirror images. This study quantitatively evaluates the applicability of these three modes using actual CPR observations, focusing on these three aspects. The standard deviation (STD) of Doppler velocity, used as an indicator of measurement noise, indicated that the 16...",
-      "date": "2026-09-04",
-      "year": 2026,
-      "journal": "Atmospheric measurement techniques",
-      "source": "Atmospheric measurement techniques",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5194/amt-19-5617-2026",
-      "doi": "10.5194/amt-19-5617-2026",
-      "pdfUrl": "https://amt.copernicus.org/articles/19/5617/2026/amt-19-5617-2026.pdf",
-      "keywords": [
-        "Doppler effect",
-        "Doppler radar",
-        "Remote sensing",
-        "Spurious relationship",
-        "Mode (computer interface)",
-        "Atmospheric aerosols and clouds",
-        "Meteorological Phenomena and Simulations",
-        "Precipitation Measurement and Analysis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:21.490956+00:00"
+      "_retrievedAt": "2026-11-05T06:38:54.689119+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2467,7 +2307,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:18.859656+00:00"
+      "_retrievedAt": "2026-11-05T06:38:54.688763+00:00"
     },
     {
       "id": "openalex-e647a9026b6a",
@@ -2499,71 +2339,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:18.860919+00:00"
-    },
-    {
-      "id": "openalex-021b339d4b20",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "From graphs to qubits: a critical review of quantum graph neural networks",
-      "authors": "Andrea Ceschini, Francesco Mauro, Francesca De Falco, Alessandro Sebastianelli, Alessio Verdone, Antonello Rosato",
-      "abstract": "Abstract Quantum Graph Neural Networks represent a novel fusion of quantum computing and Graph Neural Networks, aimed at overcoming the computational and scalability challenges inherent in classical models that are powerful tools for analyzing data with complex relational structures but suffer from limitations such as high computational complexity and over-smoothing in large-scale applications. Quantum computing, leveraging principles like superposition and entanglement, offers a pathway to enhanced computational capabilities. This paper critically reviews the state-of-the-art in Quantum Graph Neural Networks, exploring various architectures. We discuss their applications across diverse fields such as high-energy physics, molecular chemistry, finance and earth sciences, highlighting the potential for quantum advantage. Additionally, we address the significant challenges faced by Quant...",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "Neural Computing and Applications",
-      "source": "Neural Computing and Applications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s00521-026-12428-x",
-      "doi": "10.1007/s00521-026-12428-x",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s00521-026-12428-x.pdf",
-      "keywords": [
-        "Qubit",
-        "Quantum",
-        "Artificial neural network",
-        "Computer science",
-        "Quantum mechanics",
-        "Quantum Computing Algorithms and Architecture",
-        "Quantum many-body systems",
-        "Advanced Graph Neural Networks"
-      ],
-      "readTime": "1 min",
-      "citedBy": 10,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:21.487358+00:00"
-    },
-    {
-      "id": "openalex-11499c8e3175",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Toward an Improved Understanding of the Antarctic Coastal Zone and Its Contribution to Future Global Sea Level",
-      "authors": "Kenichi Matsuoka, Geir Moholdt, Jennifer F. Arthur, Julien A. Bodart, Xiangbin Cui, Fausto Ferraccioli",
-      "abstract": "Abstract Understanding the coastal zone of the Antarctic Ice Sheet (AIS), where it interacts with the Southern Ocean and warmer air masses, is crucial for predicting Antarctica's influence on the global climate and sea level. This region has multiple tipping mechanisms that could trigger large, rapid, and potentially irreversible changes in the AIS, the Southern Ocean and their global connections in the coming centuries. The AIS remains the largest source of uncertainty in future sea‐level projections. Bed topography beneath the ice shelves and the coastal ice sheet is not yet well documented, and is a major source of this uncertainty. This review assesses current knowledge of the coastal zone and highlights methods to investigate it, including aerogeophysical surveys, ground‐ and ship‐based measurements, satellite observations, and computer modeling. An ensemble analysis of published...",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "Reviews of Geophysics",
-      "source": "Reviews of Geophysics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1029/2022rg000803",
-      "doi": "10.1029/2022rg000803",
-      "pdfUrl": "https://doi.org/10.1029/2022rg000803",
-      "keywords": [
-        "Oceanography",
-        "Antarctic ice sheet",
-        "Context (archaeology)",
-        "Ice sheet",
-        "Climate change",
-        "Cryospheric studies and observations",
-        "Polar Research and Ecology",
-        "Geology and Paleoclimatology Research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:21.489226+00:00"
+      "_retrievedAt": "2026-11-05T06:38:54.689468+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2595,7 +2371,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.057907+00:00"
+      "_retrievedAt": "2026-11-05T06:38:55.342623+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2627,7 +2403,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.061198+00:00"
+      "_retrievedAt": "2026-11-05T06:38:55.345626+00:00"
     },
     {
       "id": "openalex-514dbfd7d5d8",
@@ -2659,7 +2435,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.060234+00:00"
+      "_retrievedAt": "2026-11-05T06:38:55.344704+00:00"
     },
     {
       "id": "openalex-513a4d94bc0a",
@@ -2691,7 +2467,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:18.860003+00:00"
+      "_retrievedAt": "2026-11-05T06:38:54.688947+00:00"
     },
     {
       "id": "openalex-506180faa30c",
@@ -2723,7 +2499,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.058576+00:00"
+      "_retrievedAt": "2026-11-05T06:38:55.343227+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -2755,7 +2531,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:18.861825+00:00"
+      "_retrievedAt": "2026-11-05T06:38:54.689973+00:00"
     },
     {
       "id": "openalex-2518e6dab640",
@@ -2787,7 +2563,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:18.861521+00:00"
+      "_retrievedAt": "2026-11-05T06:38:54.689800+00:00"
     },
     {
       "id": "openalex-dbb3c4b557e9",
@@ -2819,7 +2595,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.961553+00:00"
+      "_retrievedAt": "2026-11-05T06:38:57.740962+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2851,7 +2627,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.058236+00:00"
+      "_retrievedAt": "2026-11-05T06:38:55.342902+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2883,7 +2659,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.060862+00:00"
+      "_retrievedAt": "2026-11-05T06:38:55.345307+00:00"
     },
     {
       "id": "openalex-c47d537bde45",
@@ -2915,7 +2691,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.963680+00:00"
+      "_retrievedAt": "2026-11-05T06:38:57.741966+00:00"
     },
     {
       "id": "openalex-6100e76b8371",
@@ -2947,103 +2723,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:18.861253+00:00"
-    },
-    {
-      "id": "openalex-7d24a7f15d87",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Evaluating Machine Learning Models in Nonstandard Settings: An Overview and New Findings",
-      "authors": "Roman Hornung, Malte Nalenz, Lennart Schneider, Andreas Bender, Ludwig Bothmann, Florian Dumpert",
-      "abstract": "Estimating the generalization error (GE) of machine learning models is fundamental, with resampling methods being the most common approach. However, in nonstandard settings, particularly those where observations are not independently and identically distributed, resampling using simple random data divisions may lead to biased GE estimates. This paper strives to present well-grounded guidelines for GE estimation in various such nonstandard settings: clustered data, spatial data, unequal sampling probabilities, concept drift and hierarchically structured outcomes. Our overview combines well-established methodologies with other existing methods that, to our knowledge, have not been frequently considered in these particular settings. A unifying principle among these techniques is that the test data used in each iteration of the resampling procedure should reflect the new observations to w...",
-      "date": "2026-07-31",
-      "year": 2026,
-      "journal": "Statistical Science",
-      "source": "Statistical Science",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1214/25-sts984",
-      "doi": "10.1214/25-sts984",
-      "pdfUrl": "https://arxiv.org/pdf/2310.15108",
-      "keywords": [
-        "Resampling",
-        "Computer science",
-        "Generalization",
-        "Machine learning",
-        "Set (abstract data type)",
-        "Statistical Methods and Inference",
-        "Machine Learning and Data Classification",
-        "Imbalanced Data Classification Techniques"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:21.489547+00:00"
-    },
-    {
-      "id": "openalex-e22ded591b71",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Rice crop monitoring using new generation Synthetic Aperture Radar (SAR) imagery",
-      "authors": "Nguyen Lam-Dao",
-      "abstract": "Rice cultivation systems in various countries of the world have been changing in recent years. These changes have been observed in the Mekong River Delta, Vietnam, specifically in An Giang province. The changes in rice cultural practices have impacts on remote sensing methods developed for rice monitoring, in particular, methods using new generation radar data. The objectives of the study were a) to understand the relationship between radar backscatter coefficients and selected parameters (e.g. plant age and biomass) of rice crops over an entire growth cycle, b) to develop algorithms for mapping rice cropping systems, and c) to develop a rice yield prediction model using time-series Envisat (Environmental Satellite) Advanced Synthetic Aperture Radar (ASAR) imagery. Ground data collection and in situ measurement of rice crop parameters were conducted at 35 sampling fields in An Giang p...",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "University of Southern Queensland ePrints (University of Southern Queensland)",
-      "source": "University of Southern Queensland ePrints (University of Southern Queensland)",
-      "sourceApi": "OpenAlex",
-      "url": "http://eprints.usq.edu.au/6646/1/Lam-Dao_2009_front.pdf",
-      "doi": "10.26192/9z73z",
-      "pdfUrl": "http://eprints.usq.edu.au/6646/3/Lam-Dao_2009_whole.pdf",
-      "keywords": [
-        "Synthetic aperture radar",
-        "Remote sensing",
-        "Environmental science",
-        "Radar",
-        "Cropping",
-        "Remote Sensing in Agriculture",
-        "Synthetic Aperture Radar (SAR) Applications and Techniques",
-        "Soil Moisture and Remote Sensing"
-      ],
-      "readTime": "4 min",
-      "citedBy": 13,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:21.487030+00:00"
-    },
-    {
-      "id": "openalex-1331590492a4",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models",
-      "authors": "Weijia Zhang, Jindong Han, Zhao Xu, Hang Ni, Tengfei Lyu, Hao Liu",
-      "abstract": "The integration of machine learning techniques has become a cornerstone in the development of intelligent urban services, significantly contributing to the enhancement of urban efficiency, sustainability, and overall livability. Recent advancements in foundational models, such as ChatGPT, have introduced a paradigm shift within the fields of machine learning and AI. These models, with their exceptional capacity for contextual comprehension, problem-solving, and task adaptability, present a transformative opportunity to reshape the future of smart cities and drive progress toward Urban General Intelligence (UGI). Despite increasing attention to Urban Foundation Models (UFMs), this rapidly evolving field faces critical challenges, including the lack of clear definitions, systematic reviews, and universalizable solutions. To address these issues, this article first introduces the definit...",
-      "date": "2026-07-29",
-      "year": 2026,
-      "journal": "ACM Transactions on Intelligent Systems and Technology",
-      "source": "ACM Transactions on Intelligent Systems and Technology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3821528",
-      "doi": "10.1145/3821528",
-      "pdfUrl": "https://doi.org/10.1145/3821528",
-      "keywords": [
-        "Foundation (evidence)",
-        "Management science",
-        "Engineering ethics",
-        "Regional science",
-        "Political science",
-        "Smart Cities and Technologies",
-        "Artificial Intelligence Applications",
-        "AI and Big Data Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 28,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:21.484599+00:00"
+      "_retrievedAt": "2026-11-05T06:38:54.689649+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -3075,7 +2755,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:18.858602+00:00"
+      "_retrievedAt": "2026-11-05T06:38:54.688149+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -3107,7 +2787,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.964063+00:00"
+      "_retrievedAt": "2026-11-05T06:38:57.742150+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -3139,7 +2819,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.059924+00:00"
+      "_retrievedAt": "2026-11-05T06:38:55.344440+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -3171,7 +2851,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.962585+00:00"
+      "_retrievedAt": "2026-11-05T06:38:57.741446+00:00"
     },
     {
       "id": "openalex-561a805e52cf",
@@ -3203,7 +2883,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.964357+00:00"
+      "_retrievedAt": "2026-11-05T06:38:57.742304+00:00"
     },
     {
       "id": "openalex-6b15c7cad215",
@@ -3235,39 +2915,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:18.857909+00:00"
-    },
-    {
-      "id": "openalex-3b5a50007972",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Spatial characterization of interface dermatitis in cutaneous lupus reveals novel chemokine axis-mediated recruitment of leukocytes that drive disease",
-      "authors": "Saeed Shakiba, Nazgol‐Sadat Haddadi, Khashayar Afshari, Janet E. Lubov, Haya S. Raef, Robert Li",
-      "abstract": "Abstract Background Chemokines play critical roles in the recruitment and activation of immune cells in both homeostatic and pathologic conditions. Here, we examined chemokine ligand-receptor pairs to better understand the immunopathogenesis of cutaneous lupus erythematosus (CLE), a complex autoimmune connective tissue disorder. Objectives Our objectives were to (1) characterize the cellular and proteomic constitution of interface dermatitis in CLE using blister biopsies, (2) map chemokine:ligand receptor pairs that govern recruitment of immune cells to form interface dermatitis in CLE, and (3) perform unbiased analyses in tandem on different clinical subtypes to identify novel genes and proteins underlying discoid versus subacute CLE. Methods We used suction blister biopsies to measure cellular infiltrates with spectral flow cytometry in the interface dermatitis reaction, as well as...",
-      "date": "2026-07-22",
-      "year": 2026,
-      "journal": "Scientific Reports",
-      "source": "Scientific Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41598-026-60937-5",
-      "doi": "10.1038/s41598-026-60937-5",
-      "pdfUrl": "https://www.nature.com/articles/s41598-026-60937-5_reference.pdf",
-      "keywords": [
-        "Chemokine",
-        "Immunology",
-        "Systemic lupus erythematosus",
-        "CXCL9",
-        "Lupus erythematosus",
-        "Systemic Lupus Erythematosus Research",
-        "Systemic Sclerosis and Related Diseases",
-        "Chemokine receptors and signaling"
-      ],
-      "readTime": "3 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:21.490221+00:00"
+      "_retrievedAt": "2026-11-05T06:38:54.687754+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -3299,7 +2947,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.962956+00:00"
+      "_retrievedAt": "2026-11-05T06:38:57.741625+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -3331,7 +2979,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:18.858974+00:00"
+      "_retrievedAt": "2026-11-05T06:38:54.688382+00:00"
     },
     {
       "id": "openalex-513edaf40716",
@@ -3363,7 +3011,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.964853+00:00"
+      "_retrievedAt": "2026-11-05T06:38:57.742561+00:00"
     },
     {
       "id": "openalex-9698d69bdb79",
@@ -3395,39 +3043,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.062516+00:00"
-    },
-    {
-      "id": "openalex-aca20517061c",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Sentinel-2 for crop yield estimation: A systematic review",
-      "authors": "Mohammadreza Narimani, Alireza Pourreza, Ali Moghimi, Parastoo Farajpoor",
-      "abstract": "Accurate and timely crop yield estimation is fundamental for global food security, agricultural policy, and farm management. The Copernicus Sentinel-2 constellation has catalyzed a paradigm shift in Earth observation for agriculture, enabling field and sub-field scale monitoring. This review synthesizes recent advances in crop yield estimation that leverage Sentinel-2 data. A dominant theme is the transition from regional-scale to high-resolution field-level assessments, driven by three approaches: (i) empirical models using vegetation indices coupled with machine and deep learning (e.g., Random Forest, Convolutional Neural Networks); (ii) integration of process-based crop growth models (e.g., WOFOST, SAFY) through data assimilation of Sentinel-2 derived biophysical variables such as Leaf Area Index; and (iii) data fusion of Sentinel-2 with Sentinel-1 Synthetic Aperture Radar to overc...",
-      "date": "2026-07-17",
-      "year": 2026,
-      "journal": "Smart Agricultural Technology",
-      "source": "Smart Agricultural Technology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.atech.2026.102405",
-      "doi": "10.1016/j.atech.2026.102405",
-      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S2772375526006301/pdf",
-      "keywords": [
-        "Crop yield",
-        "Agricultural engineering",
-        "Synthetic aperture radar",
-        "Leverage (statistics)",
-        "Earth observation",
-        "Remote Sensing in Agriculture",
-        "Smart Agriculture and AI",
-        "Climate change impacts on agriculture"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:21.490522+00:00"
+      "_retrievedAt": "2026-11-05T06:38:55.346925+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3459,39 +3075,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.960076+00:00"
-    },
-    {
-      "id": "openalex-6d68435c2e60",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "From physical surfaces to human-centric heat stress: LST and UTCI heat mapping reveals nonlinear effects of urban morphology",
-      "authors": "Yuan Wang, Shengao Yi, Xiaojiang Li, Pengyuan Liu, Zhiwei Yang, Ronita Bardhan",
-      "abstract": "Heat exposure connects the built environment and public health, directly shaping the livability and sustainability of urban areas. Fully understanding the spatial heterogeneity of heat exposure and its driving factors is therefore a vital prerequisite for climate-adaptive urban planning. However, most planning-oriented studies rely on land surface temperature (LST), and whether LST adequately represents human heat exposure and how it differs from physiologically relevant heat stress remains insufficiently examined. Here, adopting Landsat-retrieved 30-m LST and GPU-accelerated 1-m universal thermal climate index (UTCI) in Singapore, this study establishes a comprehensive “Modeling-Comparing-Assessing” framework to systematically evaluate the spatial and mechanistic discrepancies between the two metrics. We further investigate pronounced non-stationary and threshold-based quantitative r...",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "Sustainable Cities and Society",
-      "source": "Sustainable Cities and Society",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.scs.2026.107659",
-      "doi": "10.1016/j.scs.2026.107659",
-      "pdfUrl": "https://doi.org/10.1016/j.scs.2026.107659",
-      "keywords": [
-        "Urban heat island",
-        "Nonlinear system",
-        "Environmental science",
-        "Morphology (biology)",
-        "Urban morphology",
-        "Urban Heat Island Mitigation",
-        "Climate Change and Health Impacts",
-        "Wind and Air Flow Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 8,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:21.487750+00:00"
+      "_retrievedAt": "2026-11-05T06:38:57.740348+00:00"
     },
     {
       "id": "openalex-6068978c624a",
@@ -3523,7 +3107,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.965179+00:00"
+      "_retrievedAt": "2026-11-05T06:38:57.742715+00:00"
     },
     {
       "id": "openalex-cf7ec5be4339",
@@ -3555,103 +3139,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:18.862116+00:00"
-    },
-    {
-      "id": "openalex-da65fc09ba51",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Geospatial foundation models enable data-efficient tree species mapping in temperate mountain forests",
-      "authors": "James Ball, Jana Annika Wicklein, Zhengpeng Feng, Jovana Knezevic, Sadiq Jaffer, Anil Madhavapeddy",
-      "abstract": "Abstract Accurate mapping of tree species from satellite data remains challenging in heterogeneous mountain forests due to environmental gradients, mixed stands, limited availability of high-purity training labels, and strong illumination-angle effects. Recent geospatial foundation models offer a new approach by learning generic, cloud-agnostic, information-rich representations from large multi-sensor archives suitable for a range of downstream tasks, but their ecological utility for species-level mapping remains incompletely understood. Here, we evaluate two geospatial foundation-model embeddings, AlphaEarth and Tessera, for tree species classification in the Trentino region of northern Italy, using parcel-level forest inventories as reference data (18 species and species groups). We compare their performance against conventional Sentinel-1+2 satellite composites across a series of c...",
-      "date": "2026-07-10",
-      "year": 2026,
-      "journal": "Science of Remote Sensing",
-      "source": "Science of Remote Sensing",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.srs.2026.100466",
-      "doi": "10.1016/j.srs.2026.100466",
-      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S2666017226001045/pdf",
-      "keywords": [
-        "Geospatial analysis",
-        "Geography",
-        "Temperate climate",
-        "Remote sensing",
-        "Foundation (evidence)",
-        "Remote-Sensing Image Classification",
-        "Remote Sensing in Agriculture",
-        "Remote Sensing and LiDAR Applications"
-      ],
-      "readTime": "2 min",
-      "citedBy": 15,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:21.485808+00:00"
-    },
-    {
-      "id": "openalex-8b2f36e2f016",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "CMIP7 data request: ocean and sea ice priorities and opportunities",
-      "authors": "Baylor Fox‐Kemper, Patricia DeRepentigny, Anne‐Marie Tréguier, Christian Stepanek, Eleanor O’Rourke, Chloe Mackallah",
-      "abstract": "Abstract. The ocean and sea ice are central to Earth's climate system, influencing global heat and carbon cycles, weather patterns, and sea level rise. Recent decades have seen rapid advances in Earth System Models (ESMs), but limitations remain in simulating and comparing key oceanic and cryospheric processes across models. A recurring challenge in model intercomparison efforts like the Coupled Model Intercomparison Project (CMIP) is determining the output variables that best represent essential mechanisms while remaining manageable in volume and complexity. Here we present the CMIP7 ocean and sea ice data request, developed through an international, community-based process to prioritize variables for model output. We identify seven opportunities—science-based use cases spanning ocean and cryosphere drivers and responses, paleoclimate, polar amplification, extremes, wind waves, and r...",
-      "date": "2026-07-09",
-      "year": 2026,
-      "journal": "Geoscientific model development",
-      "source": "Geoscientific model development",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5194/gmd-19-6043-2026",
-      "doi": "10.5194/gmd-19-6043-2026",
-      "pdfUrl": "https://gmd.copernicus.org/articles/19/6043/2026/gmd-19-6043-2026.pdf",
-      "keywords": [
-        "Coupled model intercomparison project",
-        "Sea ice",
-        "Earth system science",
-        "Cryosphere",
-        "Climatology",
-        "Climate variability and models",
-        "Oceanographic and Atmospheric Processes",
-        "Arctic and Antarctic ice dynamics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:21.488468+00:00"
-    },
-    {
-      "id": "openalex-1f0e3e653dd3",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Empowering clinical trial design with agentic intelligence and real-world data",
-      "authors": "Haoyang Li, Weishen Pan, Suraj Rajendran, Chengxi Zang, Fei Wang",
-      "abstract": "Clinical trial design (CTD) is a time-consuming process that requires substantial domain expertise. Large-scale real-world data (RWD), such as electronic health records (EHR), encodes practice-based evidence that is of tremendous value to CTD. In recent years, many machine learning methods have been developed to extract such real-world evidence (RWE) from the RWD to inform CTD, but they still need to be communicated with the domain experts extensively in an iterative manner to be further refined and ultimately useful. In this paper, we introduce EmulatRx, an agentic framework that derives RWE for helping with CTD. Through the iterative conversation and analysis across agents with different roles, EmulatRx can autonomously refine trial protocols and finally generate a robust report containing insights that inform better CTD. We applied EmulatRx on the CTD process for both acute disease...",
-      "date": "2026-07-07",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-74501-2",
-      "doi": "10.1038/s41467-026-74501-2",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-74501-2.pdf",
-      "keywords": [
-        "Computer science",
-        "Clinical trial",
-        "Process (computing)",
-        "Iterative and incremental development",
-        "Conversation",
-        "Machine Learning in Healthcare",
-        "Artificial Intelligence in Healthcare and Education",
-        "Statistical Methods in Clinical Trials"
-      ],
-      "readTime": "1 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-04T23:37:20.965482+00:00"
+      "_retrievedAt": "2026-11-05T06:38:54.690140+00:00"
     }
   ]
 };
