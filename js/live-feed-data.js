@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-11-06T06:34:50.741264+00:00",
+  "generatedAt": "2026-11-06T19:19:46.877078+00:00",
   "total": 114,
   "sources": [
     "RSS",
@@ -7,452 +7,708 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-5f76e42cec35",
+      "id": "rss-7522b4d48962",
       "discipline": "clinical",
       "type": "news",
-      "title": "Income divide in access to psychological care widens, with children hardest hit",
+      "title": "Mother and baby's immune cells linked to aggressive placental inflammation in preterm cases",
       "authors": "Medical Xpress",
-      "abstract": "Australian children from poorer communities are increasingly missing out on psychological care, with the gap in treatment between wealthy and disadvantaged families widening substantially over the past decade, according to Monash University research.",
+      "abstract": "In a healthy pregnancy, a finely tuned maternal immune response prevents the mother's body from rejecting the growing fetus. But in some pregnancies, this response goes haywire, leading to a potentially dangerous complication known as chronic placental inflammation. To understand what drives this inflammation, researchers led by Nardhy Gomez-Lopez, Ph.D., a professor of obstetrics and gynecology and of pathology and immunology at WashU Medicine, used spatial and single-cell gene and protein expression profiling to map the immune cell landscape of the placenta in mothers who developed chronic placental inflammation, down to individual cells at the junction connecting the mother and fetus.",
       "date": "2026-11-06",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-income-access-psychological-widens-children.html",
+      "url": "https://medicalxpress.com/news/2026-11-mother-baby-immune-cells-linked.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "psychological",
-        "care",
-        "children",
-        "income",
-        "divide",
-        "access",
-        "widens",
-        "hardest"
+        "inflammation",
+        "mother",
+        "immune",
+        "placental",
+        "cells",
+        "response",
+        "fetus",
+        "this"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.312884+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.160202+00:00"
     },
     {
-      "id": "rss-4d29a5fe3328",
+      "id": "rss-69dd8930438a",
       "discipline": "clinical",
       "type": "news",
-      "title": "Harmonizing scientific terms and concepts in early celiac disease",
+      "title": "DNA 'switch' uncovers new brake on breast cancer growth",
       "authors": "Medical Xpress",
-      "abstract": "With increasing research on the interplay between genetics and environmental risk factors in the early stages of celiac disease, the need to harmonize scientific terms and concepts in this field has increased. In an effort led by researchers at Karolinska Institutet and the Mayo Clinic, 22 scientists from seven countries have published a review on the stages of early celiac disease. The paper is published in Gut.",
+      "abstract": "Adelaide University researchers have found a DNA \"switch\" that helps the body stop the growth of the most common form of breast cancer, providing new insights that could help with future treatments. Up to 80% of breast cancer cases are classified as estrogen receptor-positive (ER+)—meaning their growth is driven by the hormone estrogen.",
       "date": "2026-11-06",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-harmonizing-scientific-terms-concepts-early.html",
+      "url": "https://medicalxpress.com/news/2026-11-dna-uncovers-breast-cancer-growth.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "early",
-        "celiac",
-        "disease",
-        "scientific",
-        "terms",
-        "concepts",
-        "stages",
-        "published"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.313183+00:00"
-    },
-    {
-      "id": "rss-65a2de66b55e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "7 simple ways to turn a new workout routine into a lasting habit",
-      "authors": "Medical Xpress",
-      "abstract": "Have you started a new workout routine only to watch it fizzle out a few weeks later?",
-      "date": "2026-11-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-simple-ways-workout-routine-habit.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "workout",
-        "routine",
-        "simple",
-        "ways",
-        "turn",
-        "lasting",
-        "habit",
-        "have"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.313397+00:00"
-    },
-    {
-      "id": "rss-6c467d9a7350",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "High levels of indoor radon linked to higher risk of heart failure in postmenopausal women",
-      "authors": "Medical Xpress",
-      "abstract": "New findings from a study of women who have gone through menopause suggest that those living in areas with higher estimated indoor radon levels may be at higher risk of heart failure. The study, published in JAMA Network Open, was led by researchers at the UNC Gillings School of Global Public Health and adds the newest evidence that radon exposure may pose a significant risk to heart health among aging women.",
-      "date": "2026-11-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-high-indoor-radon-linked-higher.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "radon",
-        "higher",
-        "risk",
-        "heart",
-        "women",
-        "levels",
-        "indoor",
-        "failure"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.313678+00:00"
-    },
-    {
-      "id": "rss-9d8c58ab2a8f",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Hybrid light method reveals how camera signals can probe blood flow in deeper tissues",
-      "authors": "Medical Xpress",
-      "abstract": "How can we efficiently collect light returning from tissues while also identifying what it tells us about blood flow in the deeper tissues? Conventional interferometric near-infrared spectroscopy (iNIRS) can distinguish signals according to the amount of time that light takes to travel through tissue, but it collects only a few photons. Camera-based systems capture many more photons, but this distinction is not realized when living tissue changes rapidly. Researchers associated with ICTER combined both approaches in a hybrid system. They showed that an appropriately analyzed camera signal can reproduce the blood-flow response observed with iNIRS for late-arriving photons, which are more sensitive to deeper tissues.",
-      "date": "2026-11-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-hybrid-method-reveals-camera-probe.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "tissues",
-        "light",
-        "deeper",
-        "photons",
-        "hybrid",
-        "camera",
-        "signals",
-        "blood"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.314037+00:00"
-    },
-    {
-      "id": "rss-468ad1c0cba0",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Kidney care trial challenges default dialysis planning for older adults with frailty",
-      "authors": "Medical Xpress",
-      "abstract": "Dialysis should not necessarily be regarded as the default option for older people with kidney failure, the first randomized study of its kind in the world, led by the University of Bristol, has found.",
-      "date": "2026-11-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-kidney-trial-default-dialysis-older.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "kidney",
-        "default",
-        "dialysis",
-        "older",
-        "care",
-        "trial",
-        "challenges",
-        "planning"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.314266+00:00"
-    },
-    {
-      "id": "rss-7e1ce0284df3",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Engineered protein that cuts Alzheimer's-linked brain deposits opens potential therapeutic avenue",
-      "authors": "Medical Xpress",
-      "abstract": "A KAIST-led research team has found that a protein involved in gene regulation can suppress the harmful aggregation of amyloid-beta, a peptide associated with Alzheimer's disease. The approach also reduced the toxicity of protein aggregates that had already formed.",
-      "date": "2026-11-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-protein-alzheimer-linked-brain-deposits.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "protein",
-        "that",
-        "alzheimer",
-        "engineered",
-        "cuts",
-        "s-linked",
-        "brain",
-        "deposits"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.314503+00:00"
-    },
-    {
-      "id": "rss-0e2f4d511881",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Two 'forever chemicals' associated with higher risk of aggressive breast cancer in analysis",
-      "authors": "Medical Xpress",
-      "abstract": "Women with higher blood levels of two common per- and polyfluoroalkyl substances, also familiarly known as PFAS, were more likely to develop estrogen receptor-negative, or ER-negative, breast cancer, according to a new study by the National Institutes of Health (NIH), part of the U.S. Department of Health and Human Services (HHS). PFAS are a large group of chemicals used in common consumer products. Often referred to as \"forever chemicals,\" PFAS do not break down easily in the environment and can remain in the body for years.",
-      "date": "2026-11-06",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-chemicals-higher-aggressive-breast-cancer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "chemicals",
-        "pfas",
-        "forever",
-        "higher",
         "breast",
         "cancer",
-        "common",
-        "health"
+        "growth",
+        "switch",
+        "that",
+        "estrogen",
+        "uncovers",
+        "brake"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.314809+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.160423+00:00"
     },
     {
-      "id": "rss-e1b006bfe20c",
+      "id": "rss-a9739a395db6",
       "discipline": "clinical",
       "type": "news",
-      "title": "Neural signaling protein could be therapeutic target for autism-linked gene deletion",
+      "title": "Four ways thinking like a strategist can make you a better padel player",
       "authors": "Medical Xpress",
-      "abstract": "A particular signaling protein in the brain could be a therapeutic target for neurological disorders arising from the deletion of the autism-linked gene MEF2C, University of Illinois Urbana-Champaign researchers found in a new mouse study published in the journal Proceedings of the National Academy of Sciences.",
+      "abstract": "As an avid tennis player, I never imagined an injury would lead me to discover a new sport. But just a few months ago, forced to take a break from tennis, I picked up a padel racket for the first time. I assumed that years of playing tennis would give me a head start; after all, how different could two racket sports really be? To my surprise, the answer was \"very.\"",
       "date": "2026-11-06",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-neural-protein-therapeutic-autism-linked.html",
+      "url": "https://medicalxpress.com/news/2026-11-ways-strategist-padel-player.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "signaling",
+        "tennis",
+        "padel",
+        "player",
+        "would",
+        "racket",
+        "four",
+        "ways",
+        "thinking"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.160617+00:00"
+    },
+    {
+      "id": "rss-f255c47d30ca",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Blood protein panel outperforms leading ALS biomarker in distinguishing patients from healthy individuals",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at Emory University School of Medicine have identified 10 blood proteins that, when analyzed together, can distinguish people with amyotrophic lateral sclerosis (ALS) from healthy individuals with nearly 98% balanced accuracy. The findings, published in Nature Communications, could pave the way for a blood test that helps doctors recognize ALS earlier.",
+      "date": "2026-11-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-blood-protein-panel-outperforms-als.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "blood",
+        "healthy",
+        "individuals",
+        "that",
         "protein",
-        "could",
-        "therapeutic",
-        "target",
-        "autism-linked",
+        "panel",
+        "outperforms",
+        "leading"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.160793+00:00"
+    },
+    {
+      "id": "rss-5543046fb02e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Is natural toothpaste really as good as fluoride? Tooth decay expert on the difference",
+      "authors": "Medical Xpress",
+      "abstract": "Natural, herbal and organic toothpastes are becoming familiar sights on store shelves, often promoted as healthier alternatives to conventional products. Some contain ingredients such as aloe vera, neem or green tea. But before changing toothpaste, there is one important question to consider: does it contain fluoride?",
+      "date": "2026-11-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-natural-toothpaste-good-fluoride-tooth.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "natural",
+        "toothpaste",
+        "fluoride",
+        "contain",
+        "really",
+        "good",
+        "tooth",
+        "decay"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.160960+00:00"
+    },
+    {
+      "id": "rss-130d6d60ddd9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Real-world interpretations of amyloid PET scans demonstrate strong agreement with those of amyloid PET experts",
+      "authors": "Medical Xpress",
+      "abstract": "In routine clinical practice, local radiologists and nuclear medicine physicians can reliably interpret amyloid PET scans to aid in the diagnosis and management of Alzheimer's disease, showing good agreement with interpretations by amyloid PET specialists. According to a new study published in The Journal of Nuclear Medicine, local interpretations of nearly 1,500 scans showed excellent agreement with expert panel assessments, demonstrating that visual reads performed in community settings are highly reliable.",
+      "date": "2026-11-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-real-world-amyloid-pet-scans.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "amyloid",
+        "interpretations",
+        "scans",
+        "agreement",
+        "local",
+        "nuclear",
+        "medicine",
+        "real-world"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.161160+00:00"
+    },
+    {
+      "id": "rss-3fdaed463a3b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "I'm an athletic trainer—here's how to know when kids' sports are too intense",
+      "authors": "Medical Xpress",
+      "abstract": "At a recent T-ball game, I was talking with another father who mentioned that his son had never played before. As we watched our children falling over trying to scoop up a ground ball, we laughed about how they were still figuring everything out. There was something refreshing about seeing kids learn a game without worrying about how well they were playing.",
+      "date": "2026-11-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-im-athletic-trainer-kids-sports.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "about",
+        "kids",
+        "game",
+        "they",
+        "were",
+        "athletic",
+        "trainer",
+        "here"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.161348+00:00"
+    },
+    {
+      "id": "rss-c3e9ac4439b3",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Drug restores kidney cell function in experimental models of rare Lowe syndrome",
+      "authors": "Medical Xpress",
+      "abstract": "Over two decades of research into the cellular mechanisms underlying Lowe syndrome have led to the identification of a potential therapeutic strategy for this rare genetic disorder, which affects the eyes, nervous system and kidneys. The findings are described in a study published in Signal Transduction and Targeted Therapy, by the research group led by Antonella De Matteis, coordinator of the Cell Biology Program at the Telethon Institute of Genetics and Medicine (TIGEM) in Pozzuoli and full professor of cell biology at the University of Naples Federico II in the Department of Molecular Medicine and Medical Biotechnology.",
+      "date": "2026-11-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-drug-kidney-cell-function-experimental.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cell",
+        "rare",
+        "lowe",
+        "syndrome",
+        "biology",
+        "medicine",
+        "drug",
+        "restores"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.161550+00:00"
+    },
+    {
+      "id": "rss-bd436642d199",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Breast milk fatty acids linked to infant motor development",
+      "authors": "Medical Xpress",
+      "abstract": "A new study has found an association between odd- and branched-chain fatty acid (OBCFA) levels in breast milk and infant motor development, providing new population-based evidence for research on early-life nutrition and neurodevelopment.",
+      "date": "2026-11-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-breast-fatty-acids-linked-infant.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "breast",
+        "milk",
+        "fatty",
+        "infant",
+        "motor",
+        "development",
+        "acids",
+        "linked"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.161695+00:00"
+    },
+    {
+      "id": "rss-675ac73ab201",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Vitamin K deficiency on the rise as more parents decline recommended shots for their newborns",
+      "authors": "Medical Xpress",
+      "abstract": "The American Academy of Pediatrics has recommended a single intramuscular dose of vitamin K for newborns since 1961; however, in the last decade parents have increasingly elected to skip the shot.",
+      "date": "2026-11-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-vitamin-deficiency-parents-decline-shots.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "vitamin",
+        "parents",
+        "recommended",
+        "newborns",
+        "deficiency",
+        "rise",
+        "more",
+        "decline"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.161836+00:00"
+    },
+    {
+      "id": "rss-c6af82cf4a4d",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Crigler-Najjar syndrome: Gene therapy maintains its efficacy four years after treatment",
+      "authors": "Medical Xpress",
+      "abstract": "The New England Journal of Medicine has published a study on the long-term efficacy of AAV8-mediated gene therapy (GNT0003) in patients with Crigler-Najjar syndrome, an extremely rare congenital liver disorder affecting approximately 500 people in Europe. It is caused by a deficiency of UGT1A1, an enzyme required for bilirubin metabolism. The accumulation of this substance can lead to irreversible neurological damage and, in the most severe cases, death.",
+      "date": "2026-11-06",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-crigler-najjar-syndrome-gene-therapy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "crigler-najjar",
+        "syndrome",
         "gene",
-        "deletion"
+        "therapy",
+        "efficacy",
+        "maintains",
+        "four",
+        "years"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.315054+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.162008+00:00"
     },
     {
-      "id": "rss-1a4d58aa2baa",
+      "id": "rss-83da6620dba2",
       "discipline": "clinical",
       "type": "news",
-      "title": "Personalized vaccine targets melanoma recurrence",
+      "title": "This weightlifting technique can help older adults stay fit and independent as they age",
       "authors": "Medical Xpress",
-      "abstract": "A personalized cancer vaccine could help prevent melanoma from returning after surgery. Sutter investigators Dr. Kevin Kim, oncologist and chief of precision medicine at Sutter Health, and Dr. Mohammed Kashani-Sabet, medical director of Sutter CPMC's Cancer Center, led Sutter's participation in the phase 2 KEYNOTE-942 study that helped make possible this advance.",
+      "abstract": "If you're over 60 and have started lifting weights, you've probably been told to take it slowly. Lift steadily, lower steadily, keep it controlled.",
       "date": "2026-11-06",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-personalized-vaccine-melanoma-recurrence.html",
+      "url": "https://medicalxpress.com/news/2026-11-weightlifting-technique-older-adults-stay.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "sutter",
-        "personalized",
-        "vaccine",
-        "melanoma",
-        "cancer",
-        "targets",
-        "recurrence",
-        "could"
+        "steadily",
+        "this",
+        "weightlifting",
+        "technique",
+        "help",
+        "older",
+        "adults",
+        "stay"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.315298+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.162144+00:00"
     },
     {
-      "id": "rss-0035f0ab1813",
+      "id": "rss-3d30cba485b2",
       "discipline": "clinical",
       "type": "news",
-      "title": "AHA: Cannabis use linked to increased odds of atherosclerotic cardiovascular disease",
+      "title": "Drug discovery by scientists joins world's largest trial of Parkinson's treatments",
       "authors": "Medical Xpress",
-      "abstract": "Cannabis use is associated with increased odds of atherosclerotic cardiovascular disease (ASCVD) in specific subgroups, including never-smokers, women and young adults without traditional risk factors, according to a study presented at the American Heart Association Scientific Sessions 2026, held from Nov. 6 to 9 in Chicago.",
+      "abstract": "A liver drug could be used to slow down the progression of Parkinson's disease as it joins the world's largest trial of treatments for the condition.",
       "date": "2026-11-06",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-aha-cannabis-linked-odds-atherosclerotic.html",
+      "url": "https://medicalxpress.com/news/2026-11-drug-discovery-scientists-world-largest.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cannabis",
-        "increased",
-        "odds",
-        "atherosclerotic",
-        "cardiovascular",
-        "disease",
-        "linked",
-        "associated"
+        "drug",
+        "joins",
+        "world",
+        "largest",
+        "trial",
+        "parkinson",
+        "treatments",
+        "discovery"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.315535+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.162301+00:00"
     },
     {
-      "id": "rss-51cb13a73dae",
+      "id": "rss-e9087bc290b2",
       "discipline": "clinical",
       "type": "news",
-      "title": "New study warns of dangers behind AI chatbots and 'concerning' health advice from private clinics",
+      "title": "AI-powered smartwatch detects high blood pressure with sensitivity similar to office screening",
       "authors": "Medical Xpress",
-      "abstract": "AI chatbots are directing users to potentially misleading health information pushed by private medical providers, according to a new Simon Fraser University study published in BMJ Connections Digital Health & AI.",
+      "abstract": "Smartwatches may be able to detect hypertension (high blood pressure) with the help of an artificial intelligence (AI) system that interprets sensor readings, a paper in Nature reports. Tests of the system, trialed using a consumer smartwatch, show that it can detect hypertension at similar sensitivities to traditional office-based blood pressure screening methods.",
       "date": "2026-11-06",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-dangers-ai-chatbots-health-advice.html",
+      "url": "https://medicalxpress.com/news/2026-11-ai-powered-smartwatch-high-blood.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "health",
-        "chatbots",
-        "private",
-        "warns",
-        "dangers",
-        "behind",
-        "concerning",
-        "advice"
+        "blood",
+        "pressure",
+        "smartwatch",
+        "high",
+        "similar",
+        "screening",
+        "detect",
+        "hypertension"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.315784+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.162466+00:00"
     },
     {
-      "id": "rss-5285570c1ff6",
-      "discipline": "clinical",
+      "id": "rss-3bbfb1af0e73",
+      "discipline": "cs",
       "type": "news",
-      "title": "COVID-19-related stress linked to faster epigenetic aging in adolescents",
-      "authors": "Medical Xpress",
-      "abstract": "The COVID-19 pandemic and its associated measures caused significant stress across all levels of society, negatively impacting physical and mental health. The biological consequences of this stress have not yet been explored. Researchers found impacts at the epigenetic level, especially among adolescents. The study is published in the journal Proceedings of the National Academy of Sciences.",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "authors": "TechCrunch AI",
+      "abstract": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
       "date": "2026-11-06",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-covid-stress-linked-faster-epigenetic.html",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "stress",
-        "covid-",
-        "epigenetic",
-        "adolescents",
-        "related",
-        "linked",
-        "faster",
-        "aging"
+        "hundreds",
+        "artex",
+        "hacking",
+        "found",
+        "exposed",
+        "tool",
+        "tools",
+        "publicly"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.316038+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.237446+00:00"
     },
     {
-      "id": "rss-7c0ae41cb46e",
-      "discipline": "clinical",
+      "id": "rss-6a23828fcc59",
+      "discipline": "cs",
       "type": "news",
-      "title": "Child dies of measles in Wisconsin's first such death since 1990",
-      "authors": "Medical Xpress",
-      "abstract": "An infant in southwestern Wisconsin has died after contracting measles, the state's first death from the disease in 36 years, state officials announced Thursday.",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "authors": "TechCrunch AI",
+      "abstract": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
       "date": "2026-11-06",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-child-dies-measles-wisconsin-death.html",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "measles",
-        "wisconsin",
-        "first",
-        "death",
-        "state",
-        "child",
-        "dies",
-        "such"
+        "meta",
+        "spaces",
+        "muse",
+        "introduces",
+        "collaborate",
+        "your",
+        "agent",
+        "agents"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.316251+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.237593+00:00"
+    },
+    {
+      "id": "rss-a5ab06544db6",
+      "discipline": "cs",
+      "type": "news",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "authors": "TechCrunch AI",
+      "abstract": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "date": "2026-11-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "midterm",
+        "industry",
+        "voted",
+        "ballot",
+        "blue",
+        "wave",
+        "might",
+        "reshape"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.237766+00:00"
+    },
+    {
+      "id": "rss-3260ad3c6f18",
+      "discipline": "cs",
+      "type": "news",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "authors": "TechCrunch AI",
+      "abstract": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "date": "2026-11-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "industry",
+        "voted",
+        "ballot",
+        "after",
+        "midterms",
+        "rough",
+        "years",
+        "democrats"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.237921+00:00"
+    },
+    {
+      "id": "rss-0788f8bc79c3",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "authors": "TechCrunch AI",
+      "abstract": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "date": "2026-11-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "spending",
+        "ramp",
+        "shows",
+        "stalling",
+        "just",
+        "anthropic",
+        "nears",
+        "usage"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.238032+00:00"
+    },
+    {
+      "id": "rss-8b3f09472382",
+      "discipline": "cs",
+      "type": "news",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "authors": "TechCrunch AI",
+      "abstract": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "date": "2026-11-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "amazon",
+        "users",
+        "after",
+        "blocking",
+        "muse",
+        "lets",
+        "text",
+        "alexa"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.238130+00:00"
+    },
+    {
+      "id": "rss-a4f1f3c6868f",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "authors": "TechCrunch AI",
+      "abstract": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "date": "2026-11-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "underdog",
+        "speech",
+        "shows",
+        "demo",
+        "despite",
+        "small",
+        "size",
+        "generate"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.238238+00:00"
+    },
+    {
+      "id": "rss-ff6656f87cb3",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "authors": "TechCrunch AI",
+      "abstract": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "date": "2026-11-06",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "physicl",
+        "raises",
+        "make",
+        "digital",
+        "world",
+        "real",
+        "enough",
+        "robots"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.238335+00:00"
     },
     {
       "id": "rss-6cf27f17e07d",
@@ -484,7 +740,103 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.359423+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.238429+00:00"
+    },
+    {
+      "id": "rss-0646faa6f733",
+      "discipline": "cs",
+      "type": "news",
+      "title": "How to predict the behavior of molecules from scant data",
+      "authors": "MIT News AI",
+      "abstract": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.",
+      "date": "2026-11-06",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "molecules",
+        "predict",
+        "behavior",
+        "scant",
+        "machine-learning",
+        "approach",
+        "called",
+        "chemeleon"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.365210+00:00"
+    },
+    {
+      "id": "rss-ee3b71fee41a",
+      "discipline": "geo",
+      "type": "news",
+      "title": "NOAA Voices at the 2026 Oral History Association Annual Meeting",
+      "authors": "NOAA News",
+      "abstract": "NOAA Voices at the 2026 Oral History Association Annual Meeting The 60th Annual Oral History Association Meeting will take place October 14–17, 2026, in Portland, Oregon. This year’s theme, “Landscapes of Memory,” explores relationships among place, memory, movement, and changing environmental, political, and cultural landscapes. NOAA Voices Oral Historian and Archivist Molly Graham is serving as a program co-chair, and many NOAA Voices project partners will be among the presenters and attendees. Registration is now open. Learn more, view the program, and register at the OHA Annual Meeting website. Download Image EXT link test 0 Off",
+      "date": "2026-11-06",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news/noaa-voices-at-2026-oral-history-association-annual-meeting-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noaa",
+        "voices",
+        "oral",
+        "annual",
+        "meeting",
+        "history",
+        "association",
+        "will"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.592773+00:00"
+    },
+    {
+      "id": "rss-948f337f76fa",
+      "discipline": "geo",
+      "type": "news",
+      "title": "University of Alaska Fairbanks Oral History Program's Project Jukebox",
+      "authors": "NOAA News",
+      "abstract": "University of Alaska Fairbanks Oral History Program's Project Jukebox We are excited to partner with the University of Alaska Fairbanks Oral History Program's Project Jukebox to co-locate selected oral histories, expanding access to one of the nation's most innovative digital oral history collections, where interviews are integrated with photographs, maps, and place-based storytelling to document Alaska's diverse communities, cultures, and changing environments. Download Image EXT link test 0 Off",
+      "date": "2026-11-06",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/news/project-jukebox-ext",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "oral",
+        "alaska",
+        "history",
+        "university",
+        "fairbanks",
+        "program",
+        "project",
+        "jukebox"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.592959+00:00"
     },
     {
       "id": "rss-e8c084e60f51",
@@ -516,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.359724+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.238542+00:00"
     },
     {
       "id": "rss-ddaf810f33d0",
@@ -548,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.359953+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.238644+00:00"
     },
     {
       "id": "rss-357cd5b3950d",
@@ -580,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.360154+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.238749+00:00"
     },
     {
       "id": "rss-3238263bbb6f",
@@ -612,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.360333+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.238845+00:00"
     },
     {
       "id": "rss-81911aa5d106",
@@ -644,263 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.360537+00:00"
-    },
-    {
-      "id": "rss-5773cb7fb024",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "authors": "TechCrunch AI",
-      "abstract": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "date": "2026-11-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "claude",
-        "personal",
-        "finance",
-        "their",
-        "analyze",
-        "your",
-        "spending",
-        "tool"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.360721+00:00"
-    },
-    {
-      "id": "rss-e9b9cbdf6862",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "authors": "TechCrunch AI",
-      "abstract": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-      "date": "2026-11-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "math",
-        "axiom",
-        "wants",
-        "keep",
-        "slop",
-        "mathematics",
-        "floods",
-        "unchecked"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.360932+00:00"
-    },
-    {
-      "id": "rss-4459cea49d23",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "authors": "TechCrunch AI",
-      "abstract": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "date": "2026-11-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "dropbox",
-        "acquires",
-        "tigris",
-        "bolster",
-        "infrastructure",
-        "deal",
-        "expected",
-        "support"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.361092+00:00"
-    },
-    {
-      "id": "rss-0d4c171237c7",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "authors": "TechCrunch AI",
-      "abstract": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-      "date": "2026-11-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "aina",
-        "ring",
-        "smart",
-        "screen",
-        "joystick",
-        "talk",
-        "agents",
-        "also"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.361257+00:00"
-    },
-    {
-      "id": "rss-46df39b1cb7a",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-      "authors": "TechCrunch AI",
-      "abstract": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-      "date": "2026-11-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "system",
-        "fewer",
-        "taps",
-        "nvidia",
-        "nemotron",
-        "agent-first",
-        "content",
-        "retrieval"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.361424+00:00"
-    },
-    {
-      "id": "rss-2086b597b3d4",
-      "discipline": "cs",
-      "type": "news",
-      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-      "authors": "TechCrunch AI",
-      "abstract": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
-      "date": "2026-11-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "materials",
-        "problems",
-        "have",
-        "startup",
-        "putting",
-        "behind",
-        "unsolved",
-        "while"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.361603+00:00"
-    },
-    {
-      "id": "rss-045790a78744",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "authors": "TechCrunch AI",
-      "abstract": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
-      "date": "2026-11-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "agility",
-        "first",
-        "humanoid",
-        "company",
-        "pure",
-        "robot",
-        "stock",
-        "market"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.361762+00:00"
-    },
-    {
-      "id": "rss-eef43f8c4b4e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "authors": "TechCrunch AI",
-      "abstract": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
-      "date": "2026-11-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "apple",
-        "reportedly",
-        "cutting",
-        "budgets",
-        "internal",
-        "usage",
-        "tokenmaxxing",
-        "frenzy"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.361951+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.238952+00:00"
     },
     {
       "id": "rss-9b3fb6e63d6f",
@@ -932,7 +1028,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.424147+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.365380+00:00"
+    },
+    {
+      "id": "openalex-10bf29ab58ac",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "A mixed-methods evaluation of a language model-powered breast cancer note augmentation tool for patients",
+      "authors": "Niklas Mannhardt, Elizabeth Bondi, Barbara D. Lam, Hussein Mozannar, Chloe P. O’Connell, Mercy Asiedu",
+      "abstract": "Large language models (LLMs) have the potential to make clinical notes more understandable to patients, but tools must be tested with patients pre-deployment. We developed a patient-facing tool that uses an LLM (GPT-4-031) to generate “augmentations” to notes: simplified note text, defined medical terminology, frequently asked questions, extracted key information, and to-do items. We evaluated the tool with 200 healthy female participants and 8 notes. Compared to control, participants with access to augmentations had greater self-reported confidence (2.83 ± 0.05 augmentations, 2.18 ± 0.07 control, p<0.001) and scored higher on comprehension questions (0.63 ± 0.02 augmentations, 0.54 ± 0.04 control, p<0.001). We conducted interviews with 7 participants with a history of breast cancer and their own notes who described ease of use and perceived improvements in note understanding, but als...",
+      "date": "2026-11-05",
+      "year": 2026,
+      "journal": "Scientific Reports",
+      "source": "Scientific Reports",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41598-026-59948-z",
+      "doi": "10.1038/s41598-026-59948-z",
+      "pdfUrl": "https://doi.org/10.1038/s41598-026-59948-z",
+      "keywords": [
+        "Readability",
+        "Context (archaeology)",
+        "Comprehension",
+        "Jargon",
+        "Reading (process)",
+        "Artificial Intelligence in Healthcare and Education",
+        "Health Literacy and Information Accessibility",
+        "Explainable Artificial Intelligence (XAI)"
+      ],
+      "readTime": "1 min",
+      "citedBy": 9,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:41.473447+00:00"
+    },
+    {
+      "id": "openalex-1460ec1614d2",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Decoding the regulatory programs governing glioblastoma plasticity",
+      "authors": "Manu Saraswat, Laura Rueda-Gensini, Elisa Heinzelmann, Tannia Gracia, Fani Memi, Grant de Jong",
+      "abstract": ". Here we introduce scDORI (single-cell deep multi-omic regulatory inference)-a deep-learning framework that infers enhancer-driven gene-regulatory networks at single-cell resolution-and apply it to single-nucleus multiome profiles of more than one million cells from primary glioblastomas. Integrating computational inference with systematic perturbation screens across patient-derived models, we show that a structured regulatory program with an asymmetric interplay of activators and repressors governs cellular plasticity in glioblastoma. The resulting transition landscape is hierarchical and predictable, but permits cross-lineage trajectories that are absent from normal neurodevelopment. Within this landscape, low-plasticity states such as the neuronal-like state are not stable differentiation end points but actively maintained configurations, stabilized by a network of safeguard repre...",
+      "date": "2026-11-04",
+      "year": 2026,
+      "journal": "Nature",
+      "source": "Nature",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41586-026-11177-0",
+      "doi": "10.1038/s41586-026-11177-0",
+      "pdfUrl": "https://www.nature.com/articles/s41586-026-11177-0.pdf",
+      "keywords": [
+        "Decoding methods",
+        "Glioblastoma",
+        "Transition (genetics)",
+        "Neuroscience",
+        "Biology",
+        "Glioma Diagnosis and Treatment",
+        "Single-cell and spatial transcriptomics",
+        "Gene Regulatory Network Analysis"
+      ],
+      "readTime": "1 min",
+      "citedBy": 12,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:40.950109+00:00"
     },
     {
       "id": "rss-36da62e14d67",
@@ -964,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.510741+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.593484+00:00"
     },
     {
       "id": "rss-0301f8db1aca",
@@ -996,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.511009+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.593623+00:00"
     },
     {
       "id": "rss-5116d0089903",
@@ -1028,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.511228+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.593753+00:00"
     },
     {
       "id": "openalex-b76d52d91fce",
@@ -1060,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.721131+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.949634+00:00"
     },
     {
       "id": "rss-a6d2ec7a9bd8",
@@ -1092,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.424332+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.365500+00:00"
     },
     {
       "id": "rss-e8ad5f5a7f57",
@@ -1124,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.511995+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.594224+00:00"
     },
     {
       "id": "openalex-15d253298584",
@@ -1156,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.952626+00:00"
+      "_retrievedAt": "2026-11-06T19:19:42.093659+00:00"
     },
     {
       "id": "rss-15e56cec1fd1",
@@ -1188,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.424506+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.365611+00:00"
     },
     {
       "id": "rss-0a0dc5009289",
@@ -1220,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.424686+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.365728+00:00"
     },
     {
       "id": "openalex-b9713b9a252a",
@@ -1252,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.719897+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.948934+00:00"
     },
     {
       "id": "openalex-11b5190cd445",
@@ -1284,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.950025+00:00"
+      "_retrievedAt": "2026-11-06T19:19:42.091224+00:00"
     },
     {
       "id": "rss-4ae9201eddcb",
@@ -1316,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.424910+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.365825+00:00"
     },
     {
       "id": "rss-4452dd44bbfd",
@@ -1348,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.425102+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.365938+00:00"
     },
     {
       "id": "openalex-00c0ed843a5d",
@@ -1380,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.722185+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.950627+00:00"
     },
     {
       "id": "rss-8ccff313a082",
@@ -1411,7 +1571,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.512143+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.594318+00:00"
     },
     {
       "id": "openalex-818836e119b0",
@@ -1443,7 +1603,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.954931+00:00"
+      "_retrievedAt": "2026-11-06T19:19:42.094696+00:00"
     },
     {
       "id": "openalex-cb3cbda06d84",
@@ -1471,11 +1631,11 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 158,
+      "citedBy": 160,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.099025+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.380935+00:00"
     },
     {
       "id": "rss-820a582ce463",
@@ -1507,7 +1667,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.425275+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.366041+00:00"
     },
     {
       "id": "rss-3d5d65395710",
@@ -1539,39 +1699,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.425426+00:00"
-    },
-    {
-      "id": "openalex-4a66fb8dde9c",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Ultrasound neuromodulation hypotheses on the directionality of effects and community resource",
-      "authors": "Hugo Caffaratti, Ben Slater, Nour Shaheen, Ariane E. Rhone, Ryan Calmus, Michael E. Kritikos",
-      "abstract": "ABSTRACT Low-intensity Transcranial Ultrasound Stimulation is a promising non-invasive technique for brain stimulation and focal neuromodulation. Research with humans and animal models has raised the possibility that TUS can be biased towards enhancing or suppressing neural function. Here, we first collate a set of hypotheses on the directionality of TUS effects and conduct an initial meta-analysis on available healthy human participant TUS studies reporting stimulation parameters and outcomes ( n = 47 studies, 52 experiments). In initial exploratory analyses with univariate tests, we find that parameters such as the intensity and continuity of stimulation (duty cycle) show statistical trends towards likely TUS neural enhancement or suppression of function. Machine-learning analyses were limited by the currently small sample size. Given that human TUS sample sizes are expected to incr...",
-      "date": "2026-10-28",
-      "year": 2026,
-      "journal": "eLife",
-      "source": "eLife",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.7554/elife.100827.4",
-      "doi": "10.7554/elife.100827.4",
-      "pdfUrl": "https://doi.org/10.7554/elife.100827.4",
-      "keywords": [
-        "Neuromodulation",
-        "Directionality",
-        "Resource (disambiguation)",
-        "Ultrasound",
-        "Psychology",
-        "Ultrasound and Hyperthermia Applications",
-        "Transcranial Magnetic Stimulation Studies",
-        "Human auditory perception and evaluation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 8,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.446686+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.366135+00:00"
     },
     {
       "id": "rss-288b8cf14c15",
@@ -1603,7 +1731,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.425601+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.366281+00:00"
     },
     {
       "id": "openalex-8824f3740ac6",
@@ -1635,7 +1763,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.443120+00:00"
+      "_retrievedAt": "2026-11-06T19:19:41.472226+00:00"
     },
     {
       "id": "rss-265637551189",
@@ -1667,7 +1795,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.425756+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.366425+00:00"
     },
     {
       "id": "rss-281de43e80f6",
@@ -1699,7 +1827,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.425983+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.366637+00:00"
     },
     {
       "id": "rss-60fc831425ac",
@@ -1731,7 +1859,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.426160+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.366832+00:00"
     },
     {
       "id": "rss-cbaee3e9e823",
@@ -1763,39 +1891,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.426336+00:00"
-    },
-    {
-      "id": "rss-0a2551ebac8b",
-      "discipline": "cs",
-      "type": "news",
-      "title": "This design software reimagines everyday objects as self-aware devices",
-      "authors": "MIT News AI",
-      "abstract": "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact.",
-      "date": "2026-10-22",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "design",
-        "this",
-        "software",
-        "reimagines",
-        "everyday",
-        "objects",
-        "self-aware",
-        "devices"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.426510+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.366960+00:00"
     },
     {
       "id": "openalex-4bd6cc099ffc",
@@ -1827,7 +1923,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.101489+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.382744+00:00"
+    },
+    {
+      "id": "rss-9d78f66ca49b",
+      "discipline": "geo",
+      "type": "news",
+      "title": "Kittiwake Committee: Monitoring Black-legged kittiwakes in Homer, Alaska",
+      "authors": "NOAA News",
+      "abstract": "Kittiwake Committee: Monitoring Black-legged kittiwakes in Homer, Alaska Black-legged kittiwake sitting on two chicks in the Homer harbor. (Image credit: Galen June) Download Image November 6, 2026 I’m Galen June, and I’m studying marine biology with a minor in statistics at Old Dominion University. I spent my summer in Homer, Alaska, at the Kachemak Bay National Estuarine Research Reserve (NERR) mentored by Ingrid Harrald. For my research project, I monitored the reproductive success and population of black-legged kittiwake ( Rissa tridactyla ) colonies on Gull Island and in Homer harbor. Here are some highlights from my summer internship as a seabird biologist. Once a week, I went to Gull Island, the historic black-legged kittiwake colony in Kachemak Bay, owned by the Seldovia Native Association. Our goal was to gauge how many kittiwakes were attempting to breed. I brought my camera...",
+      "date": "2026-10-16",
+      "year": 2026,
+      "journal": "NOAA News",
+      "source": "NOAA News",
+      "sourceApi": "RSS",
+      "url": "https://www.noaa.gov/office-education/hollings-scholarship/stories/kittiwake-committee-monitoring-black-legged-kittiwakes-in-homer-alaska",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "kittiwake",
+        "black-legged",
+        "homer",
+        "kittiwakes",
+        "alaska",
+        "committee",
+        "monitoring",
+        "harbor"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-06T19:19:46.594685+00:00"
     },
     {
       "id": "rss-f707a76ef1e5",
@@ -1859,7 +1987,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.512652+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.595042+00:00"
     },
     {
       "id": "rss-d37d11696ae4",
@@ -1891,103 +2019,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.513206+00:00"
-    },
-    {
-      "id": "rss-d46aadfd31b1",
-      "discipline": "geo",
-      "type": "news",
-      "title": "A toothy summer in Charleston: My internship studying barium in bottlenose dolphin teeth to determine freshwater exposure",
-      "authors": "NOAA News",
-      "abstract": "A toothy summer in Charleston: My internship studying barium in bottlenose dolphin teeth to determine freshwater exposure Hannah Baker holding the Tamanend's bottlenose dolphin tooth samples that she used for her internship. She cut the teeth in half with a saw and used a half section to scan using scanning electron microscopy. In the cabinet behind her is 30 years of dolphin teeth samples! (Image credit: Bonnie Ertel) Download Image October 27, 2026 Hi everyone! My name is Hannah Baker and I’m a 2025 Ernest F. Hollings Scholarship student studying Earth and Environmental Sciences with a minor in Climate and Space Sciences and Engineering at the University of Michigan. For my summer internship, I worked at the National Coastal Centers for Ocean Science (NCCOS) Hollings Marine Laboratory in Charleston, South Carolina, studying Tamanend’s bottlenose dolphin teeth as a biomarker of fresh...",
-      "date": "2026-10-16",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/office-education/hollings-scholarship/stories/toothy-summer-in-charleston-my-internship-studying-barium-in-bottlenose-dolphin-teeth-to-determine",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "dolphin",
-        "teeth",
-        "internship",
-        "studying",
-        "bottlenose",
-        "summer",
-        "charleston",
-        "toothy"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.513722+00:00"
-    },
-    {
-      "id": "rss-d82f0f078053",
-      "discipline": "geo",
-      "type": "news",
-      "title": "El Nino looms large over U.S. Winter Outlook",
-      "authors": "NOAA News",
-      "abstract": "El Nino looms large over U.S. Winter Outlook Expected impacts include warmer North, wetter South and East October 15, 2026 A car drives through a snowstorm in Broomfield, Colorado, in 2024. (Image credit: Bob Hyatt/NOAA) Download Image NOAA’s U.S. Winter Outlook, released today, shows how El Nino will likely influence the upcoming winter months (December 2026 to February 2027), with warmer-than-average temperatures expected across the northern U.S.; wetter-than-average conditions likely across the southern U.S., from California to Florida, and along the Eastern Seaboard; and drought improving for the majority of the country, including areas in the East, Southern Great Plains and Southwest. “As we know from decades of observations, a very strong El Nino will likely bring a southward and eastward shift to the jet stream for the contiguous U.S., which tilts the odds toward stormier weath...",
-      "date": "2026-10-14",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/el-nino-looms-large-over-us-winter-outlook",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nino",
-        "winter",
-        "outlook",
-        "likely",
-        "looms",
-        "large",
-        "over",
-        "expected"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.514361+00:00"
-    },
-    {
-      "id": "rss-18545777b44e",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Ocean Facts: What are Kelvin waves?",
-      "authors": "NOAA News",
-      "abstract": "Ocean Facts: What are Kelvin waves? Kelvin waves are difficult to see with the naked eye as they are large in scale, slow moving, and don't break onshore like typical ocean waves. In this graphic, satellite radar altimetry measurements reveal the sea surface signature of Kelvin waves where the ocean surface is higher or lower than its long-term average. The yellow color represents elevated sea surface heights at ranges of 0 to 0.25 meters (0 to 10 inches). The red/orange color represents elevated sea surface heights at ranges of 0.25 to at least 1 meter (10 inches to at least 40 inches). (Image credit: NOAA Satellites) Download Image October 14, 2026 Ocean & Coasts ocean facts El Nino, La Nina, ENSO 0 Off",
-      "date": "2026-10-14",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/stories/ocean-facts-what-are-kelvin-waves-ext",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ocean",
-        "waves",
-        "kelvin",
-        "surface",
-        "facts",
-        "inches",
-        "what",
-        "color"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:50.514653+00:00"
+      "_retrievedAt": "2026-11-06T19:19:46.595416+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2019,7 +2051,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.442517+00:00"
+      "_retrievedAt": "2026-11-06T19:19:41.471791+00:00"
     },
     {
       "id": "openalex-8df1dcdbdfd4",
@@ -2051,7 +2083,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.444781+00:00"
+      "_retrievedAt": "2026-11-06T19:19:41.473686+00:00"
     },
     {
       "id": "openalex-84e3fa65288d",
@@ -2079,11 +2111,11 @@ window.LIVE_FEED_DATA = {
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 334,
+      "citedBy": 338,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.098122+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.380309+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -2115,7 +2147,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.443423+00:00"
+      "_retrievedAt": "2026-11-06T19:19:41.472448+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -2147,7 +2179,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.949093+00:00"
+      "_retrievedAt": "2026-11-06T19:19:42.090586+00:00"
     },
     {
       "id": "openalex-a42d0c83310b",
@@ -2179,7 +2211,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.722502+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.950863+00:00"
     },
     {
       "id": "openalex-4017ee65ef38",
@@ -2211,7 +2243,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.717810+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.947244+00:00"
     },
     {
       "id": "openalex-c45773bd5ee0",
@@ -2243,7 +2275,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.103297+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.384020+00:00"
     },
     {
       "id": "openalex-8eb078218eca",
@@ -2275,7 +2307,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.721855+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.950393+00:00"
     },
     {
       "id": "openalex-cd41132c9d18",
@@ -2307,7 +2339,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.719252+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.948274+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -2339,7 +2371,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.100166+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.381795+00:00"
     },
     {
       "id": "openalex-554ee5013027",
@@ -2371,7 +2403,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.951884+00:00"
+      "_retrievedAt": "2026-11-06T19:19:42.092611+00:00"
     },
     {
       "id": "openalex-bb23e4ef92cf",
@@ -2403,7 +2435,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.719569+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.948512+00:00"
     },
     {
       "id": "openalex-4d7da7db66ac",
@@ -2435,7 +2467,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.101149+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.382494+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2467,7 +2499,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.948533+00:00"
+      "_retrievedAt": "2026-11-06T19:19:42.090247+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2499,7 +2531,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.100458+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.382008+00:00"
     },
     {
       "id": "openalex-e647a9026b6a",
@@ -2531,7 +2563,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.101748+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.382931+00:00"
     },
     {
       "id": "openalex-021b339d4b20",
@@ -2563,7 +2595,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.951142+00:00"
+      "_retrievedAt": "2026-11-06T19:19:42.092056+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2591,11 +2623,11 @@ window.LIVE_FEED_DATA = {
         "Geology and Paleoclimatology Research"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.953111+00:00"
+      "_retrievedAt": "2026-11-06T19:19:42.092880+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2627,7 +2659,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.718127+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.947476+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2659,7 +2691,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.721463+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.949873+00:00"
     },
     {
       "id": "openalex-514dbfd7d5d8",
@@ -2691,7 +2723,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.720458+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.949145+00:00"
     },
     {
       "id": "openalex-513a4d94bc0a",
@@ -2723,7 +2755,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.100831+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.382268+00:00"
     },
     {
       "id": "openalex-506180faa30c",
@@ -2755,7 +2787,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.718823+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.947950+00:00"
     },
     {
       "id": "openalex-f5c2c318cf9f",
@@ -2787,7 +2819,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.102715+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.383612+00:00"
     },
     {
       "id": "openalex-2518e6dab640",
@@ -2819,7 +2851,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.102401+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.383383+00:00"
     },
     {
       "id": "openalex-dbb3c4b557e9",
@@ -2851,7 +2883,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.442815+00:00"
+      "_retrievedAt": "2026-11-06T19:19:41.471994+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2883,7 +2915,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.718438+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.947703+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2915,7 +2947,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.720843+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.949425+00:00"
     },
     {
       "id": "openalex-c47d537bde45",
@@ -2947,7 +2979,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.445137+00:00"
+      "_retrievedAt": "2026-11-06T19:19:41.473951+00:00"
     },
     {
       "id": "openalex-6100e76b8371",
@@ -2979,7 +3011,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.102123+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.383183+00:00"
     },
     {
       "id": "openalex-7d24a7f15d87",
@@ -3011,7 +3043,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.953444+00:00"
+      "_retrievedAt": "2026-11-06T19:19:42.093888+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -3043,7 +3075,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.950847+00:00"
+      "_retrievedAt": "2026-11-06T19:19:42.091841+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -3075,7 +3107,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.948220+00:00"
+      "_retrievedAt": "2026-11-06T19:19:42.090010+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -3107,7 +3139,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.099398+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.381231+00:00"
     },
     {
       "id": "openalex-3d03dfc7e37b",
@@ -3139,7 +3171,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.445504+00:00"
+      "_retrievedAt": "2026-11-06T19:19:41.474237+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -3167,11 +3199,11 @@ window.LIVE_FEED_DATA = {
         "Epigenetics and DNA Methylation"
       ],
       "readTime": "1 min",
-      "citedBy": 25,
+      "citedBy": 27,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.720167+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.948706+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -3203,7 +3235,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.443782+00:00"
+      "_retrievedAt": "2026-11-06T19:19:41.472708+00:00"
     },
     {
       "id": "openalex-561a805e52cf",
@@ -3235,7 +3267,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.445817+00:00"
+      "_retrievedAt": "2026-11-06T19:19:41.474455+00:00"
     },
     {
       "id": "openalex-6b15c7cad215",
@@ -3263,11 +3295,11 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence Applications"
       ],
       "readTime": "2 min",
-      "citedBy": 191,
+      "citedBy": 192,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.098644+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.380700+00:00"
     },
     {
       "id": "openalex-3b5a50007972",
@@ -3299,7 +3331,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.954186+00:00"
+      "_retrievedAt": "2026-11-06T19:19:42.094405+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -3331,7 +3363,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.444140+00:00"
+      "_retrievedAt": "2026-11-06T19:19:41.472970+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -3363,7 +3395,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.099793+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.381521+00:00"
     },
     {
       "id": "openalex-513edaf40716",
@@ -3395,39 +3427,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.446330+00:00"
-    },
-    {
-      "id": "openalex-9698d69bdb79",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "BASELINE: a CRISPR base editing platform for mammalian-scale single-cell lineage tracing",
-      "authors": "Evan Winter, Francesco E. Emiliani, Aidan Cook, Asma Abderrahim, Aaron McKenna",
-      "abstract": "A cell's fate is shaped by its inherited state, or lineage, and the ever-shifting context of its environment. CRISPR-based recording technologies are a promising solution for mapping the lineage of a developing system; however, challenges remain regarding single-cell recovery, engineering complexity, and scale. Here, we introduce BASELINE, which uses base editing to generate high-resolution lineage trees in conjunction with single-cell profiling. BASELINE uses the Cas12a adenine base editor to irreversibly edit nucleotides across target arrays built from 50 synthetic target sites, which are integrated multiple times into a cell's genome. We demonstrate that BASELINE accumulates lineage-specific marks over a wide range of biologically relevant intervals, recording more than 4300 bits of information in a model of pancreatic cancer, a 50-fold increase over existing technologies. Single-c...",
-      "date": "2026-07-17",
-      "year": 2026,
-      "journal": "Nucleic Acids Research",
-      "source": "Nucleic Acids Research",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1093/nar/gkag769",
-      "doi": "10.1093/nar/gkag769",
-      "pdfUrl": "https://doi.org/10.1093/nar/gkag769",
-      "keywords": [
-        "CRISPR",
-        "Baseline (sea)",
-        "Tracing",
-        "Lineage (genetic)",
-        "Scale (ratio)",
-        "CRISPR and Genetic Engineering",
-        "Single-cell and spatial transcriptomics",
-        "Gene Regulatory Network Analysis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 10,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.722809+00:00"
+      "_retrievedAt": "2026-11-06T19:19:41.474829+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -3455,11 +3455,11 @@ window.LIVE_FEED_DATA = {
         "Climate change impacts on agriculture"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.954510+00:00"
+      "_retrievedAt": "2026-11-06T19:19:42.093099+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3491,7 +3491,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.441563+00:00"
+      "_retrievedAt": "2026-11-06T19:19:41.471099+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3523,7 +3523,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.951538+00:00"
+      "_retrievedAt": "2026-11-06T19:19:42.092363+00:00"
     },
     {
       "id": "openalex-6068978c624a",
@@ -3555,7 +3555,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.444450+00:00"
+      "_retrievedAt": "2026-11-06T19:19:41.473209+00:00"
     },
     {
       "id": "openalex-cf7ec5be4339",
@@ -3587,7 +3587,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:44.103009+00:00"
+      "_retrievedAt": "2026-11-06T19:19:40.383811+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -3619,7 +3619,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.949588+00:00"
+      "_retrievedAt": "2026-11-06T19:19:42.090915+00:00"
     },
     {
       "id": "openalex-8b2f36e2f016",
@@ -3651,7 +3651,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-06T06:34:45.952253+00:00"
+      "_retrievedAt": "2026-11-06T19:19:42.093383+00:00"
     }
   ]
 };
