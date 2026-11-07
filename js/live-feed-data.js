@@ -1,11 +1,43 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-11-07T05:53:09.703660+00:00",
+  "generatedAt": "2026-11-07T12:54:42.582383+00:00",
   "total": 114,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-9193a7916261",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "US reports highest number of measles cases in 35 years",
+      "authors": "Medical Xpress",
+      "abstract": "The United States has recorded more than 5,000 cases of measles this year, the highest number in 35 years, according to an official count released Friday.",
+      "date": "2026-11-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-highest-measles-cases-years.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "highest",
+        "number",
+        "measles",
+        "cases",
+        "years",
+        "reports",
+        "united",
+        "states"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T12:54:41.687656+00:00"
+    },
     {
       "id": "rss-510ec50a0f0e",
       "discipline": "clinical",
@@ -36,7 +68,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.156593+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.687899+00:00"
     },
     {
       "id": "rss-936ecb630726",
@@ -68,7 +100,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.156789+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.688057+00:00"
     },
     {
       "id": "rss-bfa52a535489",
@@ -100,7 +132,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.156949+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.688206+00:00"
     },
     {
       "id": "rss-011a13549d26",
@@ -132,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.157097+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.688351+00:00"
     },
     {
       "id": "rss-7905d9054ac7",
@@ -164,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.157242+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.688498+00:00"
     },
     {
       "id": "rss-a4ca4615afa3",
@@ -196,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.157379+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.688636+00:00"
     },
     {
       "id": "rss-3ae11c1ede57",
@@ -228,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.157564+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.688858+00:00"
     },
     {
       "id": "rss-c0372fc699fa",
@@ -260,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.157773+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.689060+00:00"
     },
     {
       "id": "rss-9da472d09792",
@@ -292,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.157917+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.689201+00:00"
     },
     {
       "id": "rss-7522b4d48962",
@@ -324,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.158125+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.689409+00:00"
     },
     {
       "id": "rss-69dd8930438a",
@@ -356,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.158301+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.689585+00:00"
     },
     {
       "id": "rss-a9739a395db6",
@@ -388,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.158471+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.689784+00:00"
     },
     {
       "id": "rss-f255c47d30ca",
@@ -420,39 +452,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.158630+00:00"
-    },
-    {
-      "id": "rss-5543046fb02e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Is natural toothpaste really as good as fluoride? Tooth decay expert on the difference",
-      "authors": "Medical Xpress",
-      "abstract": "Natural, herbal and organic toothpastes are becoming familiar sights on store shelves, often promoted as healthier alternatives to conventional products. Some contain ingredients such as aloe vera, neem or green tea. But before changing toothpaste, there is one important question to consider: does it contain fluoride?",
-      "date": "2026-11-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-natural-toothpaste-good-fluoride-tooth.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "natural",
-        "toothpaste",
-        "fluoride",
-        "contain",
-        "really",
-        "good",
-        "tooth",
-        "decay"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.158802+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.689951+00:00"
     },
     {
       "id": "rss-f672610ccdf8",
@@ -484,7 +484,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.203774+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.775520+00:00"
     },
     {
       "id": "rss-72b31a022cf4",
@@ -516,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.203939+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.775694+00:00"
     },
     {
       "id": "rss-3bbfb1af0e73",
@@ -548,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.204055+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.775845+00:00"
     },
     {
       "id": "rss-6a23828fcc59",
@@ -580,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.204160+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.775951+00:00"
     },
     {
       "id": "rss-a5ab06544db6",
@@ -612,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.204324+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.776114+00:00"
     },
     {
       "id": "rss-3260ad3c6f18",
@@ -644,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.204480+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.776268+00:00"
     },
     {
       "id": "rss-0788f8bc79c3",
@@ -676,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.204591+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.776378+00:00"
     },
     {
       "id": "rss-8b3f09472382",
@@ -708,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.204690+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.776476+00:00"
     },
     {
       "id": "rss-a4f1f3c6868f",
@@ -740,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.204809+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.776567+00:00"
     },
     {
       "id": "rss-ff6656f87cb3",
@@ -772,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.204909+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.776663+00:00"
     },
     {
       "id": "rss-6cf27f17e07d",
@@ -804,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.205004+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.776775+00:00"
     },
     {
       "id": "rss-0646faa6f733",
@@ -836,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.263931+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.864857+00:00"
     },
     {
       "id": "rss-ee3b71fee41a",
@@ -868,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.507652+00:00"
+      "_retrievedAt": "2026-11-07T12:54:42.112696+00:00"
     },
     {
       "id": "rss-948f337f76fa",
@@ -900,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.507873+00:00"
+      "_retrievedAt": "2026-11-07T12:54:42.112912+00:00"
     },
     {
       "id": "rss-e8c084e60f51",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.205117+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.776891+00:00"
     },
     {
       "id": "rss-ddaf810f33d0",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.205219+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.776997+00:00"
     },
     {
       "id": "rss-357cd5b3950d",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.205327+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.777106+00:00"
     },
     {
       "id": "rss-9b3fb6e63d6f",
@@ -1028,39 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.264068+00:00"
-    },
-    {
-      "id": "openalex-10bf29ab58ac",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "A mixed-methods evaluation of a language model-powered breast cancer note augmentation tool for patients",
-      "authors": "Niklas Mannhardt, Elizabeth Bondi, Barbara D. Lam, Hussein Mozannar, Chloe P. O’Connell, Mercy Asiedu",
-      "abstract": "Large language models (LLMs) have the potential to make clinical notes more understandable to patients, but tools must be tested with patients pre-deployment. We developed a patient-facing tool that uses an LLM (GPT-4-031) to generate “augmentations” to notes: simplified note text, defined medical terminology, frequently asked questions, extracted key information, and to-do items. We evaluated the tool with 200 healthy female participants and 8 notes. Compared to control, participants with access to augmentations had greater self-reported confidence (2.83 ± 0.05 augmentations, 2.18 ± 0.07 control, p<0.001) and scored higher on comprehension questions (0.63 ± 0.02 augmentations, 0.54 ± 0.04 control, p<0.001). We conducted interviews with 7 participants with a history of breast cancer and their own notes who described ease of use and perceived improvements in note understanding, but als...",
-      "date": "2026-11-05",
-      "year": 2026,
-      "journal": "Scientific Reports",
-      "source": "Scientific Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41598-026-59948-z",
-      "doi": "10.1038/s41598-026-59948-z",
-      "pdfUrl": "https://doi.org/10.1038/s41598-026-59948-z",
-      "keywords": [
-        "Readability",
-        "Context (archaeology)",
-        "Comprehension",
-        "Jargon",
-        "Reading (process)",
-        "Artificial Intelligence in Healthcare and Education",
-        "Health Literacy and Information Accessibility",
-        "Explainable Artificial Intelligence (XAI)"
-      ],
-      "readTime": "1 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.745120+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.864999+00:00"
     },
     {
       "id": "openalex-1460ec1614d2",
@@ -1092,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.392834+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.288459+00:00"
     },
     {
       "id": "rss-36da62e14d67",
@@ -1124,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.508374+00:00"
+      "_retrievedAt": "2026-11-07T12:54:42.113397+00:00"
     },
     {
       "id": "rss-0301f8db1aca",
@@ -1156,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.508513+00:00"
+      "_retrievedAt": "2026-11-07T12:54:42.113535+00:00"
     },
     {
       "id": "rss-5116d0089903",
@@ -1188,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.508646+00:00"
+      "_retrievedAt": "2026-11-07T12:54:42.113663+00:00"
     },
     {
       "id": "openalex-b76d52d91fce",
@@ -1220,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.392348+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.287985+00:00"
     },
     {
       "id": "rss-a6d2ec7a9bd8",
@@ -1252,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.264180+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.865114+00:00"
     },
     {
       "id": "rss-e8ad5f5a7f57",
@@ -1284,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.509136+00:00"
+      "_retrievedAt": "2026-11-07T12:54:42.114145+00:00"
     },
     {
       "id": "openalex-15d253298584",
@@ -1312,11 +1280,11 @@ window.LIVE_FEED_DATA = {
         "3D Shape Modeling and Analysis"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.970235+00:00"
+      "_retrievedAt": "2026-11-07T12:54:36.997827+00:00"
     },
     {
       "id": "rss-15e56cec1fd1",
@@ -1348,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.264290+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.865225+00:00"
     },
     {
       "id": "rss-0a0dc5009289",
@@ -1380,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.264403+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.865343+00:00"
     },
     {
       "id": "openalex-b9713b9a252a",
@@ -1412,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.391655+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.287300+00:00"
     },
     {
       "id": "openalex-11b5190cd445",
@@ -1444,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.967958+00:00"
+      "_retrievedAt": "2026-11-07T12:54:36.995696+00:00"
     },
     {
       "id": "rss-4ae9201eddcb",
@@ -1476,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.264499+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.865438+00:00"
     },
     {
       "id": "rss-4452dd44bbfd",
@@ -1508,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.264608+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.865551+00:00"
     },
     {
       "id": "openalex-00c0ed843a5d",
@@ -1540,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.393336+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.288978+00:00"
     },
     {
       "id": "rss-8ccff313a082",
@@ -1571,7 +1539,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.509231+00:00"
+      "_retrievedAt": "2026-11-07T12:54:42.114237+00:00"
     },
     {
       "id": "openalex-818836e119b0",
@@ -1599,11 +1567,11 @@ window.LIVE_FEED_DATA = {
         "Hydrology and Watershed Management Studies"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
+      "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.971302+00:00"
+      "_retrievedAt": "2026-11-07T12:54:36.998902+00:00"
     },
     {
       "id": "openalex-cb3cbda06d84",
@@ -1631,11 +1599,11 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 160,
+      "citedBy": 281,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.104159+00:00"
+      "_retrievedAt": "2026-11-07T12:54:34.567991+00:00"
     },
     {
       "id": "rss-820a582ce463",
@@ -1667,7 +1635,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.264711+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.865655+00:00"
     },
     {
       "id": "rss-3d5d65395710",
@@ -1699,7 +1667,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.264847+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.865773+00:00"
     },
     {
       "id": "rss-288b8cf14c15",
@@ -1731,7 +1699,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.264965+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.865892+00:00"
     },
     {
       "id": "openalex-8824f3740ac6",
@@ -1759,11 +1727,11 @@ window.LIVE_FEED_DATA = {
         "Radiomics and Machine Learning in Medical Imaging"
       ],
       "readTime": "1 min",
-      "citedBy": 13,
+      "citedBy": 24,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.743888+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.987675+00:00"
     },
     {
       "id": "rss-265637551189",
@@ -1795,7 +1763,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.265066+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.865999+00:00"
     },
     {
       "id": "rss-281de43e80f6",
@@ -1827,7 +1795,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.265183+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.866117+00:00"
     },
     {
       "id": "rss-60fc831425ac",
@@ -1859,7 +1827,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.265300+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.866236+00:00"
     },
     {
       "id": "rss-cbaee3e9e823",
@@ -1891,39 +1859,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.265414+00:00"
-    },
-    {
-      "id": "openalex-4bd6cc099ffc",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "State space model for new generation network alternative to transformers: a survey",
-      "authors": "Xiao Wang, Shiao Wang, Yuhe Ding, Yuehang Li, Wentao Wu, Rong Yao",
-      "abstract": "Abstract In the post-deep learning era, the Transformer architecture has demonstrated its powerful performance in pre-trained large models and various downstream tasks. However, the enormous computational demands of Transformers have deterred many researchers. To reduce the complexity of attention models, numerous efforts have been made to design more efficient methods. Among them, the state space model (SSM), as a possible replacement for the self-attention based Transformer model, has drawn more and more attention in recent years. This paper provides the first comprehensive review of SSM works and offers experimental comparisons and analyses to better demonstrate SSM’s features and advantages. First, we provide a detailed description of the principles to help the readers quickly grasp the key ideas of the SSM. Then, we will review existing SSMs and their various applications, includ...",
-      "date": "2026-10-21",
-      "year": 2026,
-      "journal": "Visual Intelligence",
-      "source": "Visual Intelligence",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s44267-026-00133-1",
-      "doi": "10.1007/s44267-026-00133-1",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s44267-026-00133-1.pdf",
-      "keywords": [
-        "Transformer",
-        "State-space representation",
-        "State space",
-        "Computer science",
-        "Engineering",
-        "Topic Modeling",
-        "Advanced Neural Network Applications",
-        "Multimodal Machine Learning Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 63,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.105975+00:00"
+      "_retrievedAt": "2026-11-07T12:54:41.866353+00:00"
     },
     {
       "id": "rss-9d78f66ca49b",
@@ -1955,7 +1891,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.509607+00:00"
+      "_retrievedAt": "2026-11-07T12:54:42.114611+00:00"
     },
     {
       "id": "rss-f707a76ef1e5",
@@ -1987,7 +1923,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.509989+00:00"
+      "_retrievedAt": "2026-11-07T12:54:42.114988+00:00"
     },
     {
       "id": "rss-d37d11696ae4",
@@ -2019,7 +1955,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:09.510350+00:00"
+      "_retrievedAt": "2026-11-07T12:54:42.115347+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2051,39 +1987,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.743449+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.988741+00:00"
     },
     {
-      "id": "openalex-8df1dcdbdfd4",
+      "id": "openalex-9ede209118a4",
       "discipline": "clinical",
       "type": "paper",
-      "title": "Micronuclear ecDNA constrains tumor cell fitness and is associated with favorable patient survival",
-      "authors": "Lotte Brückner, Robin Xu, Jun Tang, Aditi Gnanasekar, Alexander Herrmann, Ivy Tsz-Lo Wong",
-      "abstract": "Abstract Extrachromosomal DNA (ecDNA) contributes to cancer genome instability by enabling high-copy oncogene amplification, intratumoural heterogeneity and rapid genetic change. Micronuclei (MN) are frequently observed in chromosomally unstable cancers, yet their origins and relevance in ecDNA-driven tumours remain incompletely understood. Here, we investigate the relationship between ecDNA segregation errors and MN formation. We find that ecDNA frequently localizes to MN and represents a prominent source of MN content in ecDNA-positive cancer cells. Mitotic clustering of oncogene-bearing ecDNAs is associated with asymmetric inheritance and mis-segregation into MN. Transfer of oncogenes from ecDNA into MN is accompanied by reduced transcriptional output. Single-MN sequencing shows that individual MN are enriched for ecDNA to a degree that exceeds expectations from stochastic mis-segr...",
+      "title": "Self-Evolving Digital Twin Ecosystems for Early Detection and Precision Management of Breast, Lung, Colorectal, and Ovarian Cancers",
+      "authors": "OpenAlex indexed authors",
+      "abstract": "Background: The convergence of multi-omics profiling, radiomics, and advanced machine learning has opened new frontiers in precision oncology.Despite this progress, existing computational frameworks remain static, failing to incorporate evolving patient data or simulate treatment outcomes dynamically.A self-evolving digital twin ecosystem offers a solution by continuously synchronizing patient-specific virtual models with real-world clinical trajectories.Objective: To develop and validate a self-evolving digital twin ecosystem integrating clinical, genomic, transcriptomic, proteomic, radiomic, and pathological data for early cancer detection, disease progression prediction, and personalized treatment optimization across breast, lung, colorectal, and ovarian cancers.Methods: A retrospective multi-center cohort of 400 patients (breast n=120, lung n=100, colorectal n=100, ovarian n=80; a...",
       "date": "2026-10-12",
       "year": 2026,
-      "journal": "Nature Genetics",
-      "source": "Nature Genetics",
+      "journal": "International Journal of Drug Delivery Technology",
+      "source": "International Journal of Drug Delivery Technology",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41588-026-02782-w",
-      "doi": "10.1038/s41588-026-02782-w",
-      "pdfUrl": "https://www.nature.com/articles/s41588-026-02782-w.pdf",
+      "url": "https://doi.org/10.25258/ijddt.16.65s.22",
+      "doi": "10.25258/ijddt.16.65s.22",
+      "pdfUrl": "https://doi.org/10.25258/ijddt.16.65s.22",
       "keywords": [
-        "Biology",
-        "Cell",
-        "Internal medicine",
-        "Oncology",
-        "Cell survival",
-        "Genomic variations and chromosomal abnormalities",
-        "Cancer Genomics and Diagnostics",
-        "Chromosomal and Genetic Variations"
+        "Machine learning",
+        "Computer science",
+        "Artificial intelligence",
+        "Artificial neural network",
+        "Cohort",
+        "Radiomics and Machine Learning in Medical Imaging",
+        "Artificial Intelligence in Healthcare and Education",
+        "AI in cancer detection"
       ],
       "readTime": "1 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
+      "citedBy": 15,
+      "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.745357+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.988998+00:00"
+    },
+    {
+      "id": "openalex-7a7d520be8ce",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Maternal–Fetal Oncology Intelligence: Self-Evolving Foundation Models and Digital Twin Ecosystems for Precision Cancer Prediction, Treatment Optimization, and Maternal–Fetal Outcome Forecasting",
+      "authors": "OpenAlex indexed authors",
+      "abstract": "Background.Cancer during pregnancy poses a dual clinical challenge: maternal disease must be controlled without compromising fetal safety, yet prediction of outcomes is hampered by fragmented multimodal data and the absence of models that adapt as pregnancy advances.We developed a maternal-fetal oncology framework combining a multimodal foundation model with continuously updated patient-specific digital twins to support cancer prediction, risk stratification, treatment optimization, and joint maternal-fetal outcome forecasting. Methods.A retrospective cohort of 350 pregnant women diagnosed with cancer was assembled from four tertiary centers, spanning breast, cervical, ovarian, thyroid, melanoma, lymphoma, and leukemia.The framework (MFO-FM) integrates clinical, imaging, genomic, and laboratory encoders through a maternal-fetal fusion module, while a digital twin ecosystem assimilates...",
+      "date": "2026-10-12",
+      "year": 2026,
+      "journal": "International Journal of Drug Delivery Technology",
+      "source": "International Journal of Drug Delivery Technology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.25258/ijddt.16.65s.20",
+      "doi": "10.25258/ijddt.16.65s.20",
+      "pdfUrl": "https://doi.org/10.25258/ijddt.16.65s.20",
+      "keywords": [
+        "Concordance",
+        "Pregnancy",
+        "Medicine",
+        "Cancer",
+        "Outcome (game theory)",
+        "Artificial Intelligence in Healthcare and Education",
+        "AI in cancer detection",
+        "Machine Learning in Healthcare"
+      ],
+      "readTime": "1 min",
+      "citedBy": 14,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T12:54:35.989927+00:00"
     },
     {
       "id": "openalex-84e3fa65288d",
@@ -2111,11 +2079,11 @@ window.LIVE_FEED_DATA = {
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 338,
+      "citedBy": 946,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.103497+00:00"
+      "_retrievedAt": "2026-11-07T12:54:34.567193+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -2147,7 +2115,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.744111+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.990157+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -2179,7 +2147,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.967310+00:00"
+      "_retrievedAt": "2026-11-07T12:54:36.995404+00:00"
+    },
+    {
+      "id": "openalex-f5dc3633b103",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Mathematical discovery and exploration can be done at scale",
+      "authors": "Bogdan Georgiev, Javier Gómez-Serrano, Terence Tao, Adam Zsolt Wagner",
+      "abstract": "AlphaEvolve, introduced in A. Novikov et al . [“AlphaEvolve: A coding agent for scientific and algorithmic discovery” (Tech. Rep., Google DeepMind, 2025).], is a generic evolutionary coding agent that combines large language models (LLMs) with automated evaluation in a loop that proposes, tests, and refines algorithmic solutions. Here we showcase AlphaEvolve as a tool for autonomously discovering novel mathematical constructions and making progress on long-standing open problems. On 67 problems spanning mathematical analysis, combinatorics, geometry, and number theory, the system rediscovered the best known solutions in most cases and improved on them in several. In some instances, it also generalized results for finitely many input values into a formula valid for all inputs. Furthermore, we combine this methodology with Deep Think [Google DeepMind, Advanced Version of Gemini with Dee...",
+      "date": "2026-09-30",
+      "year": 2026,
+      "journal": "Proceedings of the National Academy of Sciences",
+      "source": "Proceedings of the National Academy of Sciences",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1073/pnas.2536158123",
+      "doi": "10.1073/pnas.2536158123",
+      "pdfUrl": "https://doi.org/10.1073/pnas.2536158123",
+      "keywords": [
+        "Computer science",
+        "Olympiad",
+        "Coding (social sciences)",
+        "Mathematical structure",
+        "Complement (music)",
+        "Evolutionary Algorithms and Applications",
+        "Artificial Intelligence Applications",
+        "Mathematics, Computing, and Information Processing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 155,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T12:54:34.569391+00:00"
     },
     {
       "id": "openalex-a42d0c83310b",
@@ -2211,7 +2211,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.393560+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.289201+00:00"
     },
     {
       "id": "openalex-4017ee65ef38",
@@ -2239,43 +2239,107 @@ window.LIVE_FEED_DATA = {
         "Research, Science, and Academia"
       ],
       "readTime": "1 min",
-      "citedBy": 37,
-      "qualityScore": 80.0,
+      "citedBy": 107,
+      "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.389953+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.285620+00:00"
     },
     {
-      "id": "openalex-c45773bd5ee0",
+      "id": "openalex-9a39b97a87a9",
       "discipline": "cs",
       "type": "paper",
-      "title": "Multi-Task Deep Recommender Systems: A Survey",
-      "authors": "Yuhao Wang, Ha Tsz Lam, Yi Wong, Ziru Liu, Wanyu Wang, Yichao Wang",
-      "abstract": "Multi-task learning (MTL) aims at learning related tasks in a unified model to achieve mutual improvement among tasks considering their shared knowledge. It is an important topic in recommendation due to the demand for multi-task prediction considering performance and efficiency. Although MTL has been well studied and developed, there is still a lack of systematic review in the recommendation community. To fill the gap, we provide a comprehensive review of existing multi-task deep recommender systems (MTDRS) in this survey. To be specific, the problem definition of MTDRS is first given, and it is compared with other related areas. Next, the development of MTDRS is depicted and the taxonomy is introduced from the task relation and methodology aspects. Specifically, the task relation is categorized into parallel, cascaded, and auxiliary with main, while the methodology is grouped into p...",
-      "date": "2026-09-22",
+      "title": "Aristotle: IMO-level Automated Theorem Proving",
+      "authors": "Tudor Achim, Alex J. Best, Alberto Bietti, Kevin Der, Mathïs Fédérico, Sergei Gukov",
+      "abstract": "We introduce Aristotle, an AI system that combines formal verification with informal reasoning, achieving gold-medal-equivalent performance on the 2025 International Mathematical Olympiad problems. Aristotle integrates three main components: a Lean proof search system, an informal reasoning system that generates and formalizes lemmas, and a dedicated geometry solver. Our system demonstrates state-of-the-art performance with favorable scaling properties for automated theorem proving.",
+      "date": "2026-09-25",
       "year": 2026,
-      "journal": "ACM Computing Surveys",
-      "source": "ACM Computing Surveys",
+      "journal": "SuperIntelligence - Robotics - Safety & Alignment",
+      "source": "SuperIntelligence - Robotics - Safety & Alignment",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3846376",
-      "doi": "10.1145/3846376",
-      "pdfUrl": "https://doi.org/10.1145/3846376",
+      "url": "https://doi.org/10.70777/si.v3i3.18745",
+      "doi": "10.70777/si.v3i3.18745",
+      "pdfUrl": "https://doi.org/10.70777/si.v3i3.18745",
       "keywords": [
+        "Automated theorem proving",
         "Computer science",
-        "Recommender system",
-        "Task (project management)",
-        "Relation (database)",
-        "Field (mathematics)",
-        "Recommender Systems and Techniques",
-        "Advanced Bandit Algorithms Research",
-        "Information Retrieval and Search Behavior"
+        "Automated reasoning",
+        "Olympiad",
+        "Automated proof checking",
+        "Logic, programming, and type systems",
+        "Formal Methods in Verification",
+        "Mathematics, Computing, and Information Processing"
       ],
       "readTime": "1 min",
-      "citedBy": 57,
+      "citedBy": 147,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T12:54:34.569841+00:00"
+    },
+    {
+      "id": "openalex-88c8bbfa038c",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Objective Bayes Factor Based Model Selection for Zero-Inflated Microbiome Count Data Under Jeffreys Prior",
+      "authors": "Paramahansa Pramanik, Arnab K. Maity",
+      "abstract": "Microbiome omics data including 16S rRNA reveal intriguing dynamic associations between the human microbiome and various disease states. Drastic changes in microbiota can be associated with factors like diet, hormonal cycles, diseases, and medical interventions. Along with the identification of specific bacteria taxa associated with diseases, recent advancements give evidence that metabolism, genetics, and environmental factors can model these microbial effects. As a result, often the interest is to select an appropriate model to carry out the further analysis. Toward this end, we propose the Bayes factor approach for model selection based on negative binomial, Poisson, zero-inflated negative binomial, and zero-inflated Poisson models with non-informative Jeffreys prior. We find that both in simulation studies and real data analysis, our Bayes factor remarkably outperform traditional...",
+      "date": "2026-09-25",
+      "year": 2026,
+      "journal": "Statistics in Biopharmaceutical Research",
+      "source": "Statistics in Biopharmaceutical Research",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1080/19466315.2026.2739408",
+      "doi": "10.1080/19466315.2026.2739408",
+      "pdfUrl": "https://arxiv.org/pdf/2401.03649",
+      "keywords": [
+        "Bayes factor",
+        "Microbiome",
+        "Akaike information criterion",
+        "Model selection",
+        "Bayes' theorem",
+        "Statistical Methods and Bayesian Inference",
+        "Statistical Methods and Inference",
+        "Statistical Distribution Estimation and Applications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 27,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.107286+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.987442+00:00"
+    },
+    {
+      "id": "openalex-aa30ebe2f1c6",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "A spatially aware deep learning framework for multiscale cellular ecology profiling to predict 5-year recurrence in invasive lung adenocarcinoma",
+      "authors": "Abdul Akbar, Usama Sajjad, Ziyu Su, Aniqa Nuzhat Chowdhury, Amber Mai Tran, Fei Xing",
+      "abstract": "Abstract Recurrence remains a major clinical challenge in surgically resected invasive lung adenocarcinoma, where existing grading and staging systems fail to capture the cellular complexity that underlies tumor aggressiveness. We present PathRosetta , a novel AI model that conceptualizes histopathology as a language, where cells serve as words, spatial neighborhoods form syntactic structures, and tissue architecture composes sentences. By learning this language of histopathology, PathRosetta predicts five-year recurrence directly from hematoxylin-and-eosin (H&E) slides, treating them as documents representing the state of the disease. In a multi-cohort dataset of 289 patients ( 600 slides ), PathRosetta achieved an area under the curve (AUC) of 0.78 ± 0.04 on the internal cohort, significantly outperforming IASLC grading (AUC:0.71), AJCC staging (AUC:0.64), and other state-of-the-art...",
+      "date": "2026-09-23",
+      "year": 2026,
+      "journal": "npj Digital Medicine",
+      "source": "npj Digital Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41746-026-03264-3",
+      "doi": "10.1038/s41746-026-03264-3",
+      "pdfUrl": "https://www.nature.com/articles/s41746-026-03264-3_reference.pdf",
+      "keywords": [
+        "Concordance",
+        "Artificial intelligence",
+        "Adenocarcinoma",
+        "Deep learning",
+        "Biology",
+        "AI in cancer detection",
+        "Radiomics and Machine Learning in Medical Imaging",
+        "Lung Cancer Diagnosis and Treatment"
+      ],
+      "readTime": "1 min",
+      "citedBy": 12,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T12:54:35.990464+00:00"
     },
     {
       "id": "openalex-8eb078218eca",
@@ -2307,7 +2371,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.393105+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.288738+00:00"
+    },
+    {
+      "id": "openalex-3dd652be759c",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Calibrated Decisions at Scale: Converting Police Crash Narratives into Probabilistic Crash Variables with a System One Model (Jev)",
+      "authors": "Amir Rafe, Subasish Das",
+      "abstract": "Crash datasets that carry an investigator narrative hold information the coded fields omit. Coding those narratives at scale has been blocked by three obstacles. Frontier large language models are costly at that scale, their generated text cannot be verified, and no rule says how much output a human must check. This paper formulates narrative coding as gated, typed decisions answered by Jev, a System One model that returns probabilities over analyst-defined options and generates no text. A screen covered 499,500 Texas narratives and 195,857 were coded with a 27-question schema. Cost is governed by schema size rather than narrative length. The probabilities are audited against coded fields and against 2,416 blinded human judgments drawn under a stated sampling design. Two frontier large language models are benchmarked on the same records. Against human labels the typed model attains an...",
+      "date": "2026-09-21",
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "source": "arXiv (Cornell University)",
+      "sourceApi": "OpenAlex",
+      "url": "https://arxiv.org/abs/2609.24052",
+      "doi": "10.48550/arxiv.2609.24052",
+      "pdfUrl": "https://arxiv.org/pdf/2609.24052",
+      "keywords": [
+        "Narrative",
+        "Crash",
+        "Computer science",
+        "Language model",
+        "Probabilistic logic",
+        "Traffic and Road Safety",
+        "Artificial Intelligence in Law",
+        "Computational and Text Analysis Methods"
+      ],
+      "readTime": "1 min",
+      "citedBy": 15,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T12:54:35.989243+00:00"
     },
     {
       "id": "openalex-cd41132c9d18",
@@ -2335,11 +2431,11 @@ window.LIVE_FEED_DATA = {
         "Research Data Management Practices"
       ],
       "readTime": "1 min",
-      "citedBy": 29,
+      "citedBy": 59,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.391006+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.285963+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -2371,7 +2467,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.105012+00:00"
+      "_retrievedAt": "2026-11-07T12:54:34.570315+00:00"
+    },
+    {
+      "id": "openalex-4eeff6704837",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Prompt Engineering in the Segment Anything Model: Methodologies, Applications, and Emerging Challenges",
+      "authors": "Yidong Jiang, Jiangtong Li, Dawei Cheng",
+      "abstract": "The Segment Anything Model (SAM) has transformed image segmentation by introducing a prompt-based paradigm that enables strong zero-shot generalization. In this framework, prompts serve as a semantic interface between human intent and machine perception, making prompt engineering a central factor in model performance. Despite its importance, prompt engineering within SAM and its variants has not yet been systematically reviewed in the literature. This survey addresses that gap by providing a structured and comprehensive overview of prompt engineering techniques developed for SAM and its rapidly growing ecosystem. We introduce a hierarchical taxonomy that organizes methods into geometric prompts, textual semantic prompts, and multimodal fusion prompts, and analyze how these categories reflect different design principles and application goals. In addition, we examine the transition from...",
+      "date": "2026-09-14",
+      "year": 2026,
+      "journal": "Intelligent Computing",
+      "source": "Intelligent Computing",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.34133/icomputing.1194",
+      "doi": "10.34133/icomputing.1194",
+      "pdfUrl": "https://doi.org/10.34133/icomputing.1194",
+      "keywords": [
+        "Data science",
+        "Computer science",
+        "Key (lock)",
+        "Foundation (evidence)",
+        "Adaptation (eye)",
+        "Advanced Neural Network Applications",
+        "Domain Adaptation and Few-Shot Learning",
+        "Medical Image Segmentation Techniques"
+      ],
+      "readTime": "1 min",
+      "citedBy": 7,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T12:54:36.998082+00:00"
+    },
+    {
+      "id": "openalex-8391e68a705c",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Ensemble learning of pathology foundation models for precision oncology",
+      "authors": "Xiangde Luo, Xiyue Wang, Feyisope R. Eweje, Xiaoming Zhang, Juan Luis Gomez Marti, Sarah Cascarino",
+      "abstract": "Histopathology is essential for cancer diagnosis and treatment selection, and pathology foundation models learn visual representations from whole-slide images (WSIs). However, existing foundation models are trained on disparate datasets with varying strategies, leading to inconsistent performance and limited generalizability. Here, we introduce ELF (Ensemble Learning of Foundation models), which integrates five pretrained pathology foundation models into unified slide-level representations. Trained on 53,699 WSIs spanning 20 anatomical sites, ELF leverages ensemble learning to capture complementary information across models. ELF's slide-level architecture is designed for data-efficient downstream evaluation, including settings with limited data such as therapeutic response prediction. We evaluate ELF for disease classification and biomarker detection, as well as anticancer and immunot...",
+      "date": "2026-09-10",
+      "year": 2026,
+      "journal": "Cancer Cell",
+      "source": "Cancer Cell",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.ccell.2026.08.008",
+      "doi": "10.1016/j.ccell.2026.08.008",
+      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S1535610826003855/pdf",
+      "keywords": [
+        "Foundation (evidence)",
+        "Ensemble learning",
+        "Computer science",
+        "Artificial intelligence",
+        "Digital pathology",
+        "AI in cancer detection",
+        "Radiomics and Machine Learning in Medical Imaging",
+        "Artificial Intelligence in Healthcare and Education"
+      ],
+      "readTime": "1 min",
+      "citedBy": 15,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T12:54:35.989528+00:00"
     },
     {
       "id": "openalex-554ee5013027",
@@ -2403,7 +2563,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.969337+00:00"
+      "_retrievedAt": "2026-11-07T12:54:36.998323+00:00"
     },
     {
       "id": "openalex-bb23e4ef92cf",
@@ -2431,11 +2591,11 @@ window.LIVE_FEED_DATA = {
         "Genomics and Chromatin Dynamics"
       ],
       "readTime": "1 min",
-      "citedBy": 28,
+      "citedBy": 29,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.391241+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.286890+00:00"
     },
     {
       "id": "openalex-4d7da7db66ac",
@@ -2463,11 +2623,11 @@ window.LIVE_FEED_DATA = {
         "Multimodal Machine Learning Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 68,
-      "qualityScore": 80.0,
+      "citedBy": 122,
+      "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.105707+00:00"
+      "_retrievedAt": "2026-11-07T12:54:34.570532+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2499,39 +2659,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.966975+00:00"
+      "_retrievedAt": "2026-11-07T12:54:36.995078+00:00"
     },
     {
-      "id": "openalex-7866a0eac831",
-      "discipline": "geo",
+      "id": "openalex-da37b7f1fa1c",
+      "discipline": "cs",
       "type": "paper",
-      "title": "Observation modes of EarthCARE/CPR with different Doppler measurement accuracy: evaluation of their applicability",
-      "authors": "Yuki Imura, Shunsuke Aoki, Takuji Kubota, Hirotaka Nakatsuka, Yuichi Ohno, Hajime Okamoto",
-      "abstract": "Abstract. An accurate characterization of cloud vertical motion is essential for understanding cloud microphysical and dynamical processes. The Cloud Profiling Radar (CPR) onboard the Earth Cloud Aerosol and Radiation Explorer (EarthCARE) satellite, launched in May 2024, enables the first global measurements of Doppler velocity from space. The CPR operates in three observation modes—16-km, 18-km, and 20-km modes—each characterized by a distinct pulse repetition frequency (PRF), which determines the Doppler velocity data quality, the maximum observable altitude, and the likelihood of spurious high-altitude echoes known as mirror images. This study quantitatively evaluates the applicability of these three modes using actual CPR observations, focusing on these three aspects. The standard deviation (STD) of Doppler velocity, used as an indicator of measurement noise, indicated that the 16...",
-      "date": "2026-09-04",
+      "title": "Harnessing Multiple Large Language Models: A Survey on LLM Ensemble",
+      "authors": "Zhijun Chen, J. Jenny Li, J. Jenny Li, Pengpeng Chen, Zhuoran Li, Kai Sun",
+      "abstract": "LLM Ensemble---which involves the comprehensive use of multiple large language models (LLMs), each aimed at handling user queries during downstream inference, to benefit from their individual strengths---has gained substantial attention recently. The widespread availability of LLMs, coupled with their varying strengths and out-of-the-box usability, has profoundly advanced the field of LLM Ensemble. This paper presents the first systematic review of recent developments in LLM Ensemble. First, we introduce our taxonomy of LLM Ensemble and discuss several related research problems. Then, we provide a more in-depth classification of the methods under the broad categories of ``ensemble-before-inference, ensemble-during-inference, ensemble-after-inference'', and review relevant methods. Finally, we introduce related benchmarks and applications, summarize existing studies, and suggest future...",
+      "date": "2026-09-01",
       "year": 2026,
-      "journal": "Atmospheric measurement techniques",
-      "source": "Atmospheric measurement techniques",
+      "journal": "International Joint Conference on Artificial Intelligence",
+      "source": "International Joint Conference on Artificial Intelligence",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5194/amt-19-5617-2026",
-      "doi": "10.5194/amt-19-5617-2026",
-      "pdfUrl": "https://amt.copernicus.org/articles/19/5617/2026/amt-19-5617-2026.pdf",
+      "url": "https://doi.org/10.24963/ijcai.2026/867",
+      "doi": "10.24963/ijcai.2026/867",
+      "pdfUrl": "https://www.ijcai.org/proceedings/2026/0867.pdf",
       "keywords": [
-        "Doppler effect",
-        "Doppler radar",
-        "Remote sensing",
-        "Spurious relationship",
-        "Mode (computer interface)",
-        "Atmospheric aerosols and clouds",
-        "Meteorological Phenomena and Simulations",
-        "Precipitation Measurement and Analysis"
+        "Computer science",
+        "Taxonomy (biology)",
+        "Ensemble learning",
+        "Data science",
+        "Field (mathematics)",
+        "Topic Modeling",
+        "Natural Language Processing Techniques",
+        "Multimodal Machine Learning Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 5,
-      "qualityScore": 76.0,
+      "citedBy": 125,
+      "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.971637+00:00"
+      "_retrievedAt": "2026-11-07T12:54:34.570037+00:00"
     },
     {
       "id": "openalex-b0b9c1c36e09",
@@ -2563,39 +2723,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.105230+00:00"
-    },
-    {
-      "id": "openalex-e647a9026b6a",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Social Skill Training With Large Language Models",
-      "authors": "Diyi Yang, Caleb Ziems, William Held, Omar Shaikh, Michael S. Bernstein, John C. Mitchell",
-      "abstract": "People rely on social skills like conflict resolution to communicate effectively and to thrive in both work and personal life. However, practice environments for social skills are typically out of reach for most people. How can we make social skill training more available, accessible, and inviting? Drawing upon interdisciplinary research from communication and psychology, this perspective paper identifies social skill barriers to enter specialized fields. Then we present a solution that leverages large language models for social skill training via a generic framework. Our AI Partner, AI Mentor framework merges experiential learning with realistic practice and tailored feedback. This work ultimately calls for cross-disciplinary innovation to address the broader implications for workforce development and social equality.",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "IEEE Intelligent Systems",
-      "source": "IEEE Intelligent Systems",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1109/mis.2026.3726701",
-      "doi": "10.1109/mis.2026.3726701",
-      "pdfUrl": "https://arxiv.org/pdf/2404.04204",
-      "keywords": [
-        "Training (meteorology)",
-        "Computer science",
-        "Psychology",
-        "Geography",
-        "Meteorology",
-        "Social Skills and Education",
-        "Artificial Intelligence in Education",
-        "Intelligent Tutoring Systems and Adaptive Learning"
-      ],
-      "readTime": "1 min",
-      "citedBy": 61,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.106161+00:00"
+      "_retrievedAt": "2026-11-07T12:54:34.570762+00:00"
     },
     {
       "id": "openalex-021b339d4b20",
@@ -2627,7 +2755,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.968794+00:00"
+      "_retrievedAt": "2026-11-07T12:54:36.996528+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2655,11 +2783,11 @@ window.LIVE_FEED_DATA = {
         "Geology and Paleoclimatology Research"
       ],
       "readTime": "1 min",
-      "citedBy": 7,
+      "citedBy": 8,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.969669+00:00"
+      "_retrievedAt": "2026-11-07T12:54:36.997251+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2687,11 +2815,11 @@ window.LIVE_FEED_DATA = {
         "Genomics and Chromatin Dynamics"
       ],
       "readTime": "1 min",
-      "citedBy": 35,
+      "citedBy": 38,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.390183+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.286185+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2719,11 +2847,43 @@ window.LIVE_FEED_DATA = {
         "Tryptophan and brain disorders"
       ],
       "readTime": "1 min",
-      "citedBy": 13,
+      "citedBy": 14,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.392583+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.288225+00:00"
+    },
+    {
+      "id": "openalex-6e7aa9ad6862",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "BeyondMimic: From motion tracking to versatile humanoid control via guided diffusion",
+      "authors": "Qiayuan Liao, Takara Everest Truong, Xiaoyu Huang, Yuman Gao, Guy Tevet, Koushil Sreenath",
+      "abstract": "The humanlike form of humanoid robots uniquely positions them to achieve the agility and versatility in motor skills that humans have. Learning from human demonstrations offers a scalable approach to acquiring these capabilities. However, prior works either produced unnatural motions or relied on motion-specific tuning to achieve satisfactory naturalness. Furthermore, these methods are often motion or goal specific, lacking the versatility to compose diverse skills, especially when solving unseen tasks. We present BeyondMimic, a framework that scales to diverse motions and carries the versatility to compose them seamlessly in tackling unseen downstream tasks. A compact motion tracking formulation enables mastery of a wide range of highly agile behaviors, including aerial cartwheels, spin kicks, flip kicks, and sprinting, with a single setup and shared hyperparameters, all while achiev...",
+      "date": "2026-08-26",
+      "year": 2026,
+      "journal": "Science Robotics",
+      "source": "Science Robotics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1126/scirobotics.adx8924",
+      "doi": "10.1126/scirobotics.adx8924",
+      "pdfUrl": "https://arxiv.org/pdf/2508.08241",
+      "keywords": [
+        "Humanoid robot",
+        "Computer science",
+        "Artificial intelligence",
+        "Agile software development",
+        "Joystick",
+        "Human Motion and Animation",
+        "Reinforcement Learning in Robotics",
+        "Robot Manipulation and Learning"
+      ],
+      "readTime": "1 min",
+      "citedBy": 292,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T12:54:34.567766+00:00"
     },
     {
       "id": "openalex-514dbfd7d5d8",
@@ -2755,39 +2915,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.391887+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.287504+00:00"
     },
     {
-      "id": "openalex-513a4d94bc0a",
+      "id": "openalex-6a5a22694e49",
       "discipline": "cs",
       "type": "paper",
-      "title": "Spectral Analysis for Multi Scale Supply Chain Dynamics and Residue-Based Resonance Extraction in Hybrid-Vehicle Systems",
-      "authors": "Akarshan Gulhane",
-      "abstract": "This paper develops a unified spectral framework based on the two-sided Fourier–Kontorovich–Lebedev (FKF) transform for the analysis of multi-scale dynamical systems that arise simultaneously in supply-chain logistics, civil infrastructure monitoring and hybrid-vehicle battery management. The FKF kernel is the product of a complex exponential in the temporal variable and the Macdonald function of purely imaginary order in a positive intensity or geometric coordinate. Differentiation rules with respect to both the Fourier frequency and the Kontorovich–Lebedev differential operator are established with complete proofs. These rules convert linear balance equations and cascade transfer functions into algebraic relations in the spectral domain. The resulting theory is applied to (i) demand and traffic-load spectra, (ii) inventory and residual-capacity balances, (iii) the bullwhip effect an...",
+      "title": "Electricity demand and grid impacts of AI data centers: Challenges and prospects",
+      "authors": "Xin Chen, Xiaoyang Wang, Ana Colacelli, Matt Lee, Le Xie",
+      "abstract": "The rapid growth of artificial intelligence (AI) is driving an unprecedented increase in the electricity demand of AI data centers, raising emerging challenges for electric power grids. Understanding the characteristics of AI data center loads and their interactions with the grid is therefore critical for ensuring both reliable power system operation and sustainable AI development. This paper provides a comprehensive review and vision of this evolving landscape. Specifically, this paper (i) presents an overview of AI data center infrastructure and its key components, (ii) examines the key characteristics and patterns of electricity demand across the stages of model preparation, training, fine-tuning, and inference, (iii) analyzes the critical challenges that AI data center loads pose to power systems across three interrelated timescales, including long-term planning and interconnectio...",
       "date": "2026-08-17",
       "year": 2026,
-      "journal": "International Journal of Creative and Open Research in Engineering and Management",
-      "source": "International Journal of Creative and Open Research in Engineering and Management",
+      "journal": "Nexus",
+      "source": "Nexus",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.55041/ijcope.v2i8.141",
-      "doi": "10.55041/ijcope.v2i8.141",
-      "pdfUrl": "https://ijcope.org/wp-content/uploads/2026/08/Spectral-Analysis-for-Multi-Scale-Supply-Chain-Dynamics-and-Residue-BasedResonance-Extraction-in-Hybrid-Vehicle-Systems.pdf",
+      "url": "https://doi.org/10.1016/j.ynexs.2026.100162",
+      "doi": "10.1016/j.ynexs.2026.100162",
+      "pdfUrl": "https://doi.org/10.1016/j.ynexs.2026.100162",
       "keywords": [
-        "Transfer function",
-        "Exponential function",
-        "Fourier transform",
-        "Operator (biology)",
-        "Applied mathematics",
-        "Mathematical Analysis and Transform Methods",
-        "Supply Chain and Inventory Management",
-        "Vibration and Dynamic Analysis"
+        "Electricity",
+        "Key (lock)",
+        "Computer science",
+        "Electric power system",
+        "Electricity system",
+        "Smart Grid Energy Management",
+        "Energy Efficiency in Computing",
+        "Smart Grid and Power Systems"
       ],
       "readTime": "1 min",
-      "citedBy": 72,
-      "qualityScore": 80.0,
+      "citedBy": 116,
+      "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.105478+00:00"
+      "_retrievedAt": "2026-11-07T12:54:34.570990+00:00"
     },
     {
       "id": "openalex-506180faa30c",
@@ -2815,75 +2975,43 @@ window.LIVE_FEED_DATA = {
         "Genetically Modified Organisms Research"
       ],
       "readTime": "1 min",
-      "citedBy": 32,
+      "citedBy": 34,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.390662+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.286427+00:00"
     },
     {
-      "id": "openalex-f5c2c318cf9f",
+      "id": "openalex-50c318e007c8",
       "discipline": "cs",
       "type": "paper",
-      "title": "Explainable artificial intelligence (XAI): From inherent explainability to large language models",
-      "authors": "Fuseini Mumuni, Alhassan Mumuni",
-      "abstract": "Artificial Intelligence (AI) has continued to achieve tremendous success in recent times. However, the decision logic of these frameworks is often not transparent, making it difficult for stakeholders to understand, interpret or explain their behavior. This limitation hinders trust in machine learning systems and causes a general reluctance towards their adoption in practical applications, particularly in mission-critical domains like healthcare and autonomous driving. Explainable AI (XAI) techniques adress this problem by facilitating explainability or interpretability of machine learning models, enabling users to discern the basis of their decision and possibly avert undesirable behavior. This comprehensive survey details the advancements of explainable AI methods, from inherently interpretable models to modern approaches for achieving interpretability of various black box models, i...",
-      "date": "2026-08-11",
+      "title": "SONIC: Supersizing motion tracking for natural humanoid whole-body control",
+      "authors": "Zhengyi Luo, Ye Yuan, Tingwu Wang, Chenran Li, Fernando Castañeda, Sirui Chen",
+      "abstract": "Despite the rise of billion-parameter foundation models trained across thousands of graphical processing units (GPUs), similar scaling gains have not been shown for humanoid control. Current neural controllers for humanoids remain modest in size, target a limited set of behaviors, and are trained on a handful of GPUs. We show that scaling model capacity, data, and compute yields a generalist humanoid controller capable of natural, robust whole-body movements. We position motion tracking as a scalable task for humanoid control, leveraging dense supervision from diverse motion-capture data to acquire human motion priors without manual reward engineering. We build a foundation model for motion tracking by scaling along three axes: network size (1.2 to 42 million parameters), dataset volume (more than 100 million frames from 700 hours of motion capture), and compute (21,000 GPU hours). Be...",
+      "date": "2026-08-12",
       "year": 2026,
-      "journal": "Array",
-      "source": "Array",
+      "journal": "Science Robotics",
+      "source": "Science Robotics",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.array.2026.101133",
-      "doi": "10.1016/j.array.2026.101133",
-      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S259000562600456X/pdf",
+      "url": "https://doi.org/10.1126/scirobotics.aed4592",
+      "doi": "10.1126/scirobotics.aed4592",
+      "pdfUrl": "https://arxiv.org/pdf/2511.07820",
       "keywords": [
-        "Artificial intelligence",
         "Computer science",
-        "Natural language processing",
-        "Explainable Artificial Intelligence (XAI)",
-        "Adversarial Robustness in Machine Learning",
-        "Software Testing and Debugging Techniques",
-        "explainable",
-        "their"
+        "Humanoid robot",
+        "Artificial intelligence",
+        "Computer vision",
+        "Motion (physics)",
+        "Human Motion and Animation",
+        "Reinforcement Learning in Robotics",
+        "Robotic Locomotion and Control"
       ],
       "readTime": "1 min",
-      "citedBy": 58,
-      "qualityScore": 80.0,
+      "citedBy": 228,
+      "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.106869+00:00"
-    },
-    {
-      "id": "openalex-2518e6dab640",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey",
-      "authors": "Bo Ni, Zheyuan Liu, Yongjia Lei, Leyao Wang, Yuying Zhao, Xueqi Cheng",
-      "abstract": "Retrieval-Augmented Generation (RAG) enhances AI-generated content by integrating external knowledge, improving relevance, and reducing hallucinations. However, RAG also introduces risks related to reliability, safety, privacy, fairness, explainability, and accountability, which impact trustworthiness. While various methods aim to address these concerns, a unified framework is lacking. This survey bridges that gap by presenting a comprehensive roadmap for trustworthy RAG systems. We provide a structured analysis of key challenges, existing solutions, and future directions across these aspects. We further organize the field around how the retrieval and generation stages and the six trustworthiness dimensions interact, demonstrating their synergies and trade-offs through a controlled cross-dimensional analysis. Additionally, we highlight downstream applications where trustworthy RAG can...",
-      "date": "2026-08-06",
-      "year": 2026,
-      "journal": "ACM Computing Surveys",
-      "source": "ACM Computing Surveys",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3837074",
-      "doi": "10.1145/3837074",
-      "pdfUrl": "https://doi.org/10.1145/3837074",
-      "keywords": [
-        "Trustworthiness",
-        "Computer science",
-        "Information retrieval",
-        "Natural language processing",
-        "Artificial intelligence",
-        "Topic Modeling",
-        "Ethics and Social Impacts of AI",
-        "Adversarial Robustness in Machine Learning"
-      ],
-      "readTime": "1 min",
-      "citedBy": 59,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.106598+00:00"
+      "_retrievedAt": "2026-11-07T12:54:34.568521+00:00"
     },
     {
       "id": "openalex-dbb3c4b557e9",
@@ -2911,11 +3039,43 @@ window.LIVE_FEED_DATA = {
         "AI in cancer detection"
       ],
       "readTime": "1 min",
-      "citedBy": 16,
+      "citedBy": 21,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.743652+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.988318+00:00"
+    },
+    {
+      "id": "openalex-838b1babffe0",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "LLM Post-Training: A Deep Dive Into Reasoning Large Language Models",
+      "authors": "Komal Kumar, Tajamul Ashraf, Omkar Thawakar, Rao Muhammad Anwer, Hisham Cholakkal, Mubarak Shah",
+      "abstract": "Large Language Models (LLMs) have transformed the natural language processing landscape and brought to life diverse applications. Pretraining on vast web-scale data has laid the foundation for these models, yet the research community is now increasingly shifting focus toward post-training techniques to achieve further breakthroughs. While pretraining provides a broad linguistic foundation, post-training methods enable LLMs to refine their knowledge, improve reasoning, enhance factual accuracy, and align more effectively with user intents and ethical considerations. Fine-tuning, reinforcement learning, and test-time scaling have emerged as critical strategies for optimizing LLMs performance, ensuring robustness, and improving adaptability across various real-world tasks. This survey provides a systematic exploration of post-training methodologies, analyzing their role in refining LLMs...",
+      "date": "2026-08-04",
+      "year": 2026,
+      "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "source": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1109/tpami.2026.3720414",
+      "doi": "10.1109/tpami.2026.3720414",
+      "pdfUrl": "https://arxiv.org/pdf/2502.21321",
+      "keywords": [
+        "Adaptability",
+        "Computer science",
+        "Data science",
+        "Key (lock)",
+        "Natural language",
+        "Topic Modeling",
+        "Natural Language Processing Techniques",
+        "Domain Adaptation and Few-Shot Learning"
+      ],
+      "readTime": "1 min",
+      "citedBy": 217,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T12:54:34.568745+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -2947,7 +3107,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.390410+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.286643+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -2979,71 +3139,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.392146+00:00"
-    },
-    {
-      "id": "openalex-c47d537bde45",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Mixed Pain: Toward a Consensus Definition and a Mechanism‐Based Framework",
-      "authors": "Rainer Freynhagen, Bart J. Morlion, Antonio Alcántara Montero, Daniel Ciampi de Andrade, Andrés Hernández-Ortiz, Paul W. Hodges",
-      "abstract": "BACKGROUND: For decades, clinicians and researchers have struggled to classify pain conditions that do not fit neatly into the nociceptive, neuropathic or nociplastic frameworks. Many common disorders-from chronic low back pain to cancer pain and osteoarthritis-exhibit overlapping mechanisms and have long fallen into the 'grey zone' of mixed pain. This area has intrigued researchers yet frustrated clinicians due to the absence of a clear, unified definition. METHODS: Through an international consensus process led by global leading experts, mixed pain has now been defined as pain that is associated with a lesion, disease or disorder resulting in an overlap of at least two mechanistic pain descriptors (nociceptive, neuropathic or nociplastic). CONCLUSIONS: This new definition may help provide the context needed to align research, refine diagnosis and design mechanism-based therapies for...",
-      "date": "2026-08-01",
-      "year": 2026,
-      "journal": "European Journal of Pain",
-      "source": "European Journal of Pain",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/ejp.70356",
-      "doi": "10.1002/ejp.70356",
-      "pdfUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ejp.70356",
-      "keywords": [
-        "Ambiguity",
-        "Terminology",
-        "Context (archaeology)",
-        "Neuropathic pain",
-        "Confusion",
-        "Pain Mechanisms and Treatments",
-        "Musculoskeletal pain and rehabilitation",
-        "Pain Management and Treatment"
-      ],
-      "readTime": "1 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.745618+00:00"
-    },
-    {
-      "id": "openalex-6100e76b8371",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Trajectory Data Management and Mining: A Survey From Deep Learning to the LLM Era",
-      "authors": "Wei Chen, Yuanshao Zhu, Yanchuan Chang, Kang Luo, Haomin Wen, Lei Li",
-      "abstract": "Trajectory computing is a pivotal domain encompassing trajectory data management and mining, garnering widespread attention due to its crucial role in various practical applications such as location services, urban traffic, and public safety. Traditional methods, focusing on simplistic spatio-temporal features, face challenges of complex calculations, limited scalability, and inadequate adaptability to real-world complexities. In this paper, we present a comprehensive review of the development and recent advances in trajectory computing, from deep learning to the more recent large language models. We first define trajectory data and provide a brief overview of widely-used deep learning models. Systematically, we explore deep learning applications in trajectory management (pre-processing, storage, analysis, and visualization) and mining (trajectory-related forecasting, trajectory-relat...",
-      "date": "2026-07-31",
-      "year": 2026,
-      "journal": "IEEE Transactions on Knowledge and Data Engineering",
-      "source": "IEEE Transactions on Knowledge and Data Engineering",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1109/tkde.2026.3719144",
-      "doi": "10.1109/tkde.2026.3719144",
-      "pdfUrl": "https://arxiv.org/pdf/2403.14151",
-      "keywords": [
-        "Trajectory",
-        "Data science",
-        "Survey data collection",
-        "Deep learning",
-        "Computer science",
-        "Data Management and Algorithms",
-        "Traffic Prediction and Management Techniques",
-        "Human Mobility and Location-Based Analysis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 61,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.106399+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.287781+00:00"
     },
     {
       "id": "openalex-7d24a7f15d87",
@@ -3071,11 +3167,11 @@ window.LIVE_FEED_DATA = {
         "Imbalanced Data Classification Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 9,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.970467+00:00"
+      "_retrievedAt": "2026-11-07T12:54:36.996769+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -3107,7 +3203,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.968568+00:00"
+      "_retrievedAt": "2026-11-07T12:54:36.996315+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -3135,11 +3231,11 @@ window.LIVE_FEED_DATA = {
         "AI and Big Data Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 28,
+      "citedBy": 44,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.966755+00:00"
+      "_retrievedAt": "2026-11-07T12:54:36.994520+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -3167,43 +3263,43 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 151,
+      "citedBy": 267,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.104436+00:00"
+      "_retrievedAt": "2026-11-07T12:54:34.568270+00:00"
     },
     {
-      "id": "openalex-3d03dfc7e37b",
-      "discipline": "clinical",
+      "id": "openalex-f4959844837a",
+      "discipline": "geo",
       "type": "paper",
-      "title": "Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study",
-      "authors": "Michael Pavlides, Yasaman Vali, Ferenc Emil Mózes, Kristy Wonders, Salma Akhtar, Paul D. Hockings",
-      "abstract": "There is a need for robust evaluations of noninvasive biomarkers for metabolic dysfunction-associated steatotic liver disease. This prospective multicenter study assessed the diagnostic accuracy of imaging (including liver stiffness measurement (LSM) using magnetic resonance elastography (MRE) and FibroScan (vibration-controlled transient elastography (VCTE)), serum biomarkers (including NIS2+) and composite scores (including Agile 3+ and Agile 4) for centrally read steatohepatitis and fibrosis. For cirrhosis, several biomarkers exceeded the minimum acceptable performance criterion (MAC), including MRE (area under the receiver operating curve (AUC) 0.91; P < 0.01), VCTE-LSM (AUC 0.87; P < 0.01), Agile 3+ (AUC 0.89; P < 0.01) and Agile 4 (AUC 0.88; P < 0.01). Among 357 participants, fibrosis stages F0-F4 were present in 12%, 16%, 25%, 32% and 15%, respectively. NIS2+ had the highest di...",
+      "title": "Democratizing planetary-scale analysis: an ultra-lightweight Earth embedding database for accurate and flexible global land monitoring",
+      "authors": "Shuang Chen, Jie Wang, Shuai Yuan, Jiayang Li, Yu Xia, yuanhong Liao",
+      "abstract": "Abstract. The rapid evolution of satellite-borne Earth Observation (EO) systems has fundamentally revolutionized terrestrial monitoring, yielding comprehensive petabyte-scale archives. However, the immense computational resources and storage volumes required for global-scale analysis often preclude widespread use by many research teams, hindering broader scientific adoption and the execution of planetary-scale studies. To address these barriers, we present the Embedded Seamless Data (ESD), an ultra-lightweight, 30-m global Earth embedding database spanning the 25-year period from 2000 to 2024. By transforming high-dimensional, multi-sensor observations from the Landsat series (5, 7, 8, and 9) and MODIS Terra into information-dense, quantized latent vectors, ESD distils essential geophysical and semantic features into a unified latent space. Utilizing the ESDNet architecture and Finite...",
       "date": "2026-07-24",
       "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
+      "journal": "Earth system science data",
+      "source": "Earth system science data",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04496-2",
-      "doi": "10.1038/s41591-026-04496-2",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04496-2.pdf",
+      "url": "https://doi.org/10.5194/essd-18-5375-2026",
+      "doi": "10.5194/essd-18-5375-2026",
+      "pdfUrl": "https://doi.org/10.5194/essd-18-5375-2026",
       "keywords": [
-        "Magnetic resonance elastography",
-        "Steatohepatitis",
-        "Medicine",
-        "Transient elastography",
-        "Elastography",
-        "Liver Disease Diagnosis and Treatment",
-        "Liver Diseases and Immunity",
-        "Liver Disease and Transplantation"
+        "Computer science",
+        "Remote sensing",
+        "Database",
+        "Earth observation",
+        "Data mining",
+        "Remote Sensing in Agriculture",
+        "Remote-Sensing Image Classification",
+        "Remote Sensing and Land Use"
       ],
       "readTime": "1 min",
-      "citedBy": 9,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.745903+00:00"
+      "_retrievedAt": "2026-11-07T12:54:36.998602+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -3235,7 +3331,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.391434+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.287077+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -3267,39 +3363,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.744377+00:00"
-    },
-    {
-      "id": "openalex-561a805e52cf",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Mitochondrial metabolism determines chemotherapy sensitivity in colorectal cancer",
-      "authors": "Deborah Y. Moss, Connor N. Brown, Andrew M. Shaw, Chris McCann, Nikita Lewis, Matilda Downs",
-      "abstract": "Therapy resistance is attributed to over 80% of cancer deaths per year, emphasizing the urgent need to overcome this challenge for improved patient outcomes. Despite its widespread use in colorectal cancer (CRC) treatment, resistance to 5-fluorouracil (5FU) remains poorly understood. As an antimetabolite, 5FU imposes substantial metabolic stress, forcing cells that survive treatment to rapidly adapt. We explored acute 5FU-driven changes in mitochondria, the organelle critical for coordinating metabolic stress responses. Here we demonstrate in a range of CRC models that 5FU treatment promotes mitochondrial biogenesis and increases mitochondrial function in surviving cells. Furthermore, we show that targeting mitochondrial metabolism, particularly by inhibiting Complex I, sensitizes CRC cells to 5FU, resulting in delayed tumour growth and prolonged survival in preclinical models. Additi...",
-      "date": "2026-07-23",
-      "year": 2026,
-      "journal": "Nature Metabolism",
-      "source": "Nature Metabolism",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s42255-026-01578-w",
-      "doi": "10.1038/s42255-026-01578-w",
-      "pdfUrl": "https://www.nature.com/articles/s42255-026-01578-w.pdf",
-      "keywords": [
-        "Colorectal cancer",
-        "Mitochondrion",
-        "Mitochondrial biogenesis",
-        "Cancer research",
-        "Biogenesis",
-        "Cancer, Hypoxia, and Metabolism",
-        "Colorectal Cancer Treatments and Studies",
-        "Mitochondrial Function and Pathology"
-      ],
-      "readTime": "1 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.746118+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.990746+00:00"
     },
     {
       "id": "openalex-6b15c7cad215",
@@ -3331,39 +3395,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.103919+00:00"
-    },
-    {
-      "id": "openalex-3b5a50007972",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Spatial characterization of interface dermatitis in cutaneous lupus reveals novel chemokine axis-mediated recruitment of leukocytes that drive disease",
-      "authors": "Saeed Shakiba, Nazgol‐Sadat Haddadi, Khashayar Afshari, Janet E. Lubov, Haya S. Raef, Robert Li",
-      "abstract": "Abstract Background Chemokines play critical roles in the recruitment and activation of immune cells in both homeostatic and pathologic conditions. Here, we examined chemokine ligand-receptor pairs to better understand the immunopathogenesis of cutaneous lupus erythematosus (CLE), a complex autoimmune connective tissue disorder. Objectives Our objectives were to (1) characterize the cellular and proteomic constitution of interface dermatitis in CLE using blister biopsies, (2) map chemokine:ligand receptor pairs that govern recruitment of immune cells to form interface dermatitis in CLE, and (3) perform unbiased analyses in tandem on different clinical subtypes to identify novel genes and proteins underlying discoid versus subacute CLE. Methods We used suction blister biopsies to measure cellular infiltrates with spectral flow cytometry in the interface dermatitis reaction, as well as...",
-      "date": "2026-07-22",
-      "year": 2026,
-      "journal": "Scientific Reports",
-      "source": "Scientific Reports",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41598-026-60937-5",
-      "doi": "10.1038/s41598-026-60937-5",
-      "pdfUrl": "https://www.nature.com/articles/s41598-026-60937-5_reference.pdf",
-      "keywords": [
-        "Chemokine",
-        "Immunology",
-        "Systemic lupus erythematosus",
-        "CXCL9",
-        "Lupus erythematosus",
-        "Systemic Lupus Erythematosus Research",
-        "Systemic Sclerosis and Related Diseases",
-        "Chemokine receptors and signaling"
-      ],
-      "readTime": "3 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.971005+00:00"
+      "_retrievedAt": "2026-11-07T12:54:34.569100+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -3395,7 +3427,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.744642+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.991018+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -3423,11 +3455,11 @@ window.LIVE_FEED_DATA = {
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 135,
+      "citedBy": 151,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.104719+00:00"
+      "_retrievedAt": "2026-11-07T12:54:34.569677+00:00"
     },
     {
       "id": "openalex-513edaf40716",
@@ -3455,11 +3487,11 @@ window.LIVE_FEED_DATA = {
         "Trauma and Emergency Care Studies"
       ],
       "readTime": "2 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
+      "citedBy": 10,
+      "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.746495+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.991449+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -3487,11 +3519,11 @@ window.LIVE_FEED_DATA = {
         "Climate change impacts on agriculture"
       ],
       "readTime": "1 min",
-      "citedBy": 7,
+      "citedBy": 9,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.969950+00:00"
+      "_retrievedAt": "2026-11-07T12:54:36.996986+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3523,7 +3555,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.742775+00:00"
+      "_retrievedAt": "2026-11-07T12:54:35.987908+00:00"
+    },
+    {
+      "id": "openalex-c78b5aa253cb",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "π*₀.₆: a VLA That Learns From Experience",
+      "authors": "Ali Amin, Raichelle J. Aniceto, Ashwin Balakrishna, Kevin Black, Ken Conley, Grace Connors",
+      "abstract": "Fig. 1: RECAP enables VLAs to improve performance during deployment.Our model incorporates advantage conditioning, allowing it to ingest diverse types of real-world experience: human demonstrations, autonomous rollouts and online corrections.Learning from real-world interaction via advantage conditioning improves the model's understanding of how actions influence performance, leading to a faster and more successful policy.Abstract-Vision-language-action (VLA) models offer a promising path toward general-purpose robots, but achieving the reliability and speed required for practical deployment remains challenging.We present a general-purpose method, RL with Experience and Corrections via Advantage-conditioned Policies (RECAP) that improves the efficiency and reliability of VLA policies by utilizing their real-world experience.Our method introduces value-based advantage conditioning duri...",
+      "date": "2026-07-13",
+      "year": 2026,
+      "journal": "Robotics: Science and Systems",
+      "source": "Robotics: Science and Systems",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.15607/rss.2026.xxii.087",
+      "doi": "10.15607/rss.2026.xxii.087",
+      "pdfUrl": "https://doi.org/10.15607/rss.2026.xxii.087",
+      "keywords": [
+        "Software deployment",
+        "Computer science",
+        "Task (project management)",
+        "Reliability (semiconductor)",
+        "Throughput",
+        "Robot Manipulation and Learning",
+        "Reinforcement Learning in Robotics",
+        "Multimodal Machine Learning Applications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 400,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T12:54:34.567479+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3555,71 +3619,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.969092+00:00"
-    },
-    {
-      "id": "openalex-6068978c624a",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Tumor heterogeneity: development, mechanisms, and therapeutic implications",
-      "authors": "Jianhong Zhang, Heng Li, Shuo Ru, Hui Feng, Guo J, Danlei Sun",
-      "abstract": "Tumor heterogeneity is a fundamental hallmark of cancer that drives progression, metastasis and therapeutic resistance. This diversity originates from persistent genomic instability, dynamic clonal evolution, and cancer stem cell plasticity, which are further amplified through complex crosstalk within the tumor microenvironment. While conventional therapies effectively eliminate certain tumor cell populations, residual resistant subclones frequently lead to disease relapse. Recent breakthroughs in single-cell multi-omics, spatial transcriptomics, and liquid biopsy now enable a comprehensive, multidimensional dissection of tumor heterogeneity across molecular, cellular, spatial, and temporal scales. These approaches reveal real-time dynamics of tumor evolution, providing new opportunities for therapeutic intervention. This review synthesizes key advances in understanding tumor heteroge...",
-      "date": "2026-07-12",
-      "year": 2026,
-      "journal": "Signal Transduction and Targeted Therapy",
-      "source": "Signal Transduction and Targeted Therapy",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41392-026-02749-7",
-      "doi": "10.1038/s41392-026-02749-7",
-      "pdfUrl": "https://www.nature.com/articles/s41392-026-02749-7.pdf",
-      "keywords": [
-        "Cancer research",
-        "Medicine",
-        "Tumor cells",
-        "Computational biology",
-        "MEDLINE",
-        "Cancer Genomics and Diagnostics",
-        "Cancer Cells and Metastasis",
-        "Single-cell and spatial transcriptomics"
-      ],
-      "readTime": "1 min",
-      "citedBy": 10,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.744882+00:00"
-    },
-    {
-      "id": "openalex-cf7ec5be4339",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "From Paintbrush to Pixel: A Review of Deep Neural Networks in AI-Generated Art",
-      "authors": "Anne-Sofie Maerten, Derya Soydaner",
-      "abstract": "Abstract This paper delves into the fascinating field of AI-generated art and explores the various deep neural network architectures and models that have been utilized to create it. From the classic convolutional networks to the cutting-edge diffusion models, we examine the key players in the field. We explain the general structures and working principles of these neural networks. Then, we showcase examples of milestones, starting with the dreamy landscapes of DeepDream and moving on to the most recent developments, including Stable Diffusion and DALL-E 3, which produce mesmerizing images. We provide a detailed comparison of these models, highlighting their strengths and limitations, and examining the remarkable progress that deep neural networks have made so far in a short period of time. With a unique blend of technical explanations and insights into the current state of AI-generate...",
-      "date": "2026-07-10",
-      "year": 2026,
-      "journal": "Art & Perception",
-      "source": "Art & Perception",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1163/22134913-bja10078",
-      "doi": "10.1163/22134913-bja10078",
-      "pdfUrl": "https://doi.org/10.1163/22134913-bja10078",
-      "keywords": [
-        "Computer science",
-        "Deep learning",
-        "Convolutional neural network",
-        "Artificial intelligence",
-        "Field (mathematics)",
-        "Generative Adversarial Networks and Image Synthesis",
-        "Advanced Neural Network Applications",
-        "Digital Media and Visual Art"
-      ],
-      "readTime": "1 min",
-      "citedBy": 58,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.107075+00:00"
+      "_retrievedAt": "2026-11-07T12:54:36.997543+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -3647,11 +3647,11 @@ window.LIVE_FEED_DATA = {
         "Remote Sensing and LiDAR Applications"
       ],
       "readTime": "2 min",
-      "citedBy": 15,
+      "citedBy": 20,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T05:53:05.967635+00:00"
+      "_retrievedAt": "2026-11-07T12:54:36.994876+00:00"
     }
   ]
 };
