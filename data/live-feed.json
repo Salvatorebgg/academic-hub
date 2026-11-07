@@ -1,11 +1,203 @@
 {
-  "generatedAt": "2026-11-07T12:54:42.582383+00:00",
+  "generatedAt": "2026-11-07T21:45:35.868631+00:00",
   "total": 114,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-b27652537d60",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Potential driver of severe early-onset preeclampsia identified",
+      "authors": "Medical Xpress",
+      "abstract": "Severe early-onset preeclampsia has confounded doctors for more than 2,000 years. It can strike as early as 20 weeks into pregnancy, sending blood pressure soaring and putting both the mother and baby at risk.",
+      "date": "2026-11-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-potential-driver-severe-early-onset.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "severe",
+        "early-onset",
+        "preeclampsia",
+        "potential",
+        "driver",
+        "identified",
+        "confounded",
+        "doctors"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T21:45:35.217907+00:00"
+    },
+    {
+      "id": "rss-cdd6450f768b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Normal-looking sleep can mask memory problems, study suggests",
+      "authors": "Medical Xpress",
+      "abstract": "A new mouse study that set out to test how sleep helps stabilize new memories has identified cells that may offer a genetic target for accessing circuits implicated in cognitive disorders. Researchers led by Min Xu and Wanling Peng from the Institute of Neuroscience at the Chinese Academy of Sciences focused on interneurons that gate the generation of ripples, which are brief bursts of electrical activity that are critical for memory consolidation.",
+      "date": "2026-11-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-mask-memory-problems.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "that",
+        "sleep",
+        "memory",
+        "normal-looking",
+        "mask",
+        "problems",
+        "suggests",
+        "mouse"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T21:45:35.218086+00:00"
+    },
+    {
+      "id": "rss-892a4c376732",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New treatment may cure common hormonal cause of high blood pressure",
+      "authors": "Medical Xpress",
+      "abstract": "A study led by Queen Mary University of London has found that a new treatment could offer a lasting cure for some people with a common hormonal cause of high blood pressure, even after they stop taking medication.",
+      "date": "2026-11-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-treatment-common-hormonal-high-blood.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "treatment",
+        "cure",
+        "common",
+        "hormonal",
+        "cause",
+        "high",
+        "blood",
+        "pressure"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T21:45:35.218217+00:00"
+    },
+    {
+      "id": "rss-c77c994b1097",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Heart researchers unpack neutral findings from ZEUS, an anti-inflammatory clinical trial",
+      "authors": "Medical Xpress",
+      "abstract": "Like cholesterol, inflammation causally contributes to the risk of cardiovascular disease, but findings from the clinical trial ZEUS indicate that the road to targeting inflammation may be less straightforward than once thought. ZEUS, a global phase 3 clinical trial led by Mass General Brigham researcher Paul Ridker, M.D., tested a drug that targets interleukin-6 (IL-6), a downstream inflammatory molecule. IL-6 inhibitors are commonly used to treat autoimmune disorders. However, while the new drug known as ziltivekimab lowered IL-6 levels, it did not reduce cardiovascular event rates compared to placebo.",
+      "date": "2026-11-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-heart-neutral-zeus-anti-inflammatory.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "zeus",
+        "clinical",
+        "trial",
+        "findings",
+        "inflammation",
+        "cardiovascular",
+        "that",
+        "drug"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T21:45:35.218393+00:00"
+    },
+    {
+      "id": "rss-6847268816b3",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Study: Higher rates of parkinsonism among older adults with autism",
+      "authors": "Medical Xpress",
+      "abstract": "Middle-aged and older adults with autism are more likely to have co-occurring parkinsonism than adults without autism or intellectual disability, according to a new study led by George Washington University researchers in the Department of Speech, Language and Hearing Sciences.",
+      "date": "2026-11-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-higher-parkinsonism-older-adults-autism.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "adults",
+        "autism",
+        "parkinsonism",
+        "older",
+        "higher",
+        "rates",
+        "among",
+        "middle-aged"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T21:45:35.218523+00:00"
+    },
+    {
+      "id": "rss-f3b6bedcbdfb",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New study identifies biological mechanism driving therapy resistance in advanced prostate cancer",
+      "authors": "Medical Xpress",
+      "abstract": "A multi-institutional collaborative study led by researchers at the University of Chicago and the Fred Hutchinson Cancer Center has identified a previously unknown biological mechanism that controls cell identity and treatment resistance in advanced prostate cancer.",
+      "date": "2026-11-07",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-biological-mechanism-therapy-resistance-advanced.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "biological",
+        "mechanism",
+        "resistance",
+        "advanced",
+        "prostate",
+        "identifies",
+        "driving"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T21:45:35.218664+00:00"
+    },
     {
       "id": "rss-9193a7916261",
       "discipline": "clinical",
@@ -36,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.687656+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.218778+00:00"
     },
     {
       "id": "rss-510ec50a0f0e",
@@ -68,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.687899+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.218941+00:00"
     },
     {
       "id": "rss-936ecb630726",
@@ -100,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.688057+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.219064+00:00"
     },
     {
       "id": "rss-bfa52a535489",
@@ -132,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.688206+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.219201+00:00"
     },
     {
       "id": "rss-011a13549d26",
@@ -164,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.688351+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.219322+00:00"
     },
     {
       "id": "rss-7905d9054ac7",
@@ -196,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.688498+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.219444+00:00"
     },
     {
       "id": "rss-a4ca4615afa3",
@@ -228,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.688636+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.219559+00:00"
     },
     {
       "id": "rss-3ae11c1ede57",
@@ -260,199 +452,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.688858+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.219730+00:00"
     },
     {
-      "id": "rss-c0372fc699fa",
-      "discipline": "clinical",
+      "id": "rss-bfd30b322a7a",
+      "discipline": "cs",
       "type": "news",
-      "title": "Mindfulness therapy assisted by ketamine may strengthen body awareness to reduce opioid cravings",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers from the University of California San Diego School of Medicine have found that adding ketamine to a mindfulness-based treatment for opioid use disorder may strengthen people's ability to recognize and respond to signals from their bodies—changes that may help reduce opioid cravings. The study, published on Nov. 5, 2026, in the Journal of Psychopharmacology, provides new insight into how ketamine-assisted psychotherapy may enhance addiction treatment.",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "authors": "TechCrunch AI",
+      "abstract": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
       "date": "2026-11-07",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-mindfulness-therapy-ketamine-body-awareness.html",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "opioid",
-        "ketamine",
-        "strengthen",
-        "reduce",
-        "cravings",
-        "that",
-        "treatment",
-        "mindfulness"
+        "recruited",
+        "nvidia",
+        "memo",
+        "megaspeed",
+        "exec",
+        "according",
+        "intelligence",
+        "circulated"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.689060+00:00"
-    },
-    {
-      "id": "rss-9da472d09792",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New research identifies biological differences in pancreatic cancer",
-      "authors": "Medical Xpress",
-      "abstract": "New research from the University of Cincinnati Cancer Center found biological differences in pancreatic cancer tumors and immune environments, opening the possibility for more personalized treatments for different populations.",
-      "date": "2026-11-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-biological-differences-pancreatic-cancer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cancer",
-        "biological",
-        "differences",
-        "pancreatic",
-        "identifies",
-        "university",
-        "cincinnati",
-        "center"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.689201+00:00"
-    },
-    {
-      "id": "rss-7522b4d48962",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Mother and baby's immune cells linked to aggressive placental inflammation in preterm cases",
-      "authors": "Medical Xpress",
-      "abstract": "In a healthy pregnancy, a finely tuned maternal immune response prevents the mother's body from rejecting the growing fetus. But in some pregnancies, this response goes haywire, leading to a potentially dangerous complication known as chronic placental inflammation. To understand what drives this inflammation, researchers led by Nardhy Gomez-Lopez, Ph.D., a professor of obstetrics and gynecology and of pathology and immunology at WashU Medicine, used spatial and single-cell gene and protein expression profiling to map the immune cell landscape of the placenta in mothers who developed chronic placental inflammation, down to individual cells at the junction connecting the mother and fetus.",
-      "date": "2026-11-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-mother-baby-immune-cells-linked.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "inflammation",
-        "mother",
-        "immune",
-        "placental",
-        "cells",
-        "response",
-        "fetus",
-        "this"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.689409+00:00"
-    },
-    {
-      "id": "rss-69dd8930438a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "DNA 'switch' uncovers new brake on breast cancer growth",
-      "authors": "Medical Xpress",
-      "abstract": "Adelaide University researchers have found a DNA \"switch\" that helps the body stop the growth of the most common form of breast cancer, providing new insights that could help with future treatments. Up to 80% of breast cancer cases are classified as estrogen receptor-positive (ER+)—meaning their growth is driven by the hormone estrogen.",
-      "date": "2026-11-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-dna-uncovers-breast-cancer-growth.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "breast",
-        "cancer",
-        "growth",
-        "switch",
-        "that",
-        "estrogen",
-        "uncovers",
-        "brake"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.689585+00:00"
-    },
-    {
-      "id": "rss-a9739a395db6",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Four ways thinking like a strategist can make you a better padel player",
-      "authors": "Medical Xpress",
-      "abstract": "As an avid tennis player, I never imagined an injury would lead me to discover a new sport. But just a few months ago, forced to take a break from tennis, I picked up a padel racket for the first time. I assumed that years of playing tennis would give me a head start; after all, how different could two racket sports really be? To my surprise, the answer was \"very.\"",
-      "date": "2026-11-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-ways-strategist-padel-player.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "tennis",
-        "padel",
-        "player",
-        "would",
-        "racket",
-        "four",
-        "ways",
-        "thinking"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.689784+00:00"
-    },
-    {
-      "id": "rss-f255c47d30ca",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Blood protein panel outperforms leading ALS biomarker in distinguishing patients from healthy individuals",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at Emory University School of Medicine have identified 10 blood proteins that, when analyzed together, can distinguish people with amyotrophic lateral sclerosis (ALS) from healthy individuals with nearly 98% balanced accuracy. The findings, published in Nature Communications, could pave the way for a blood test that helps doctors recognize ALS earlier.",
-      "date": "2026-11-07",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-blood-protein-panel-outperforms-als.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "blood",
-        "healthy",
-        "individuals",
-        "that",
-        "protein",
-        "panel",
-        "outperforms",
-        "leading"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.689951+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.295895+00:00"
     },
     {
       "id": "rss-f672610ccdf8",
@@ -484,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.775520+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.296011+00:00"
     },
     {
       "id": "rss-72b31a022cf4",
@@ -516,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.775694+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.296107+00:00"
     },
     {
       "id": "rss-3bbfb1af0e73",
@@ -548,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.775845+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.296195+00:00"
     },
     {
       "id": "rss-6a23828fcc59",
@@ -580,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.775951+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.296278+00:00"
     },
     {
       "id": "rss-a5ab06544db6",
@@ -612,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.776114+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.296410+00:00"
     },
     {
       "id": "rss-3260ad3c6f18",
@@ -644,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.776268+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.296538+00:00"
     },
     {
       "id": "rss-0788f8bc79c3",
@@ -676,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.776378+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.296652+00:00"
     },
     {
       "id": "rss-8b3f09472382",
@@ -708,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.776476+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.296733+00:00"
     },
     {
       "id": "rss-a4f1f3c6868f",
@@ -740,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.776567+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.296807+00:00"
     },
     {
       "id": "rss-ff6656f87cb3",
@@ -772,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.776663+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.296885+00:00"
     },
     {
       "id": "rss-6cf27f17e07d",
@@ -804,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.776775+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.296964+00:00"
     },
     {
       "id": "rss-0646faa6f733",
@@ -836,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.864857+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.421609+00:00"
     },
     {
       "id": "rss-ee3b71fee41a",
@@ -868,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:42.112696+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.625770+00:00"
     },
     {
       "id": "rss-948f337f76fa",
@@ -900,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:42.112912+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.625931+00:00"
     },
     {
       "id": "rss-e8c084e60f51",
@@ -932,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.776891+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.297058+00:00"
     },
     {
       "id": "rss-ddaf810f33d0",
@@ -964,39 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.776997+00:00"
-    },
-    {
-      "id": "rss-357cd5b3950d",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "authors": "TechCrunch AI",
-      "abstract": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "date": "2026-11-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "meta",
-        "warns",
-        "that",
-        "against",
-        "centers",
-        "could",
-        "election",
-        "backlash"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.777106+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.297143+00:00"
     },
     {
       "id": "rss-9b3fb6e63d6f",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.864999+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.421732+00:00"
     },
     {
       "id": "openalex-1460ec1614d2",
@@ -1056,11 +1056,11 @@
         "Gene Regulatory Network Analysis"
       ],
       "readTime": "1 min",
-      "citedBy": 12,
+      "citedBy": 13,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.288459+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.877867+00:00"
     },
     {
       "id": "rss-36da62e14d67",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:42.113397+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.626338+00:00"
     },
     {
       "id": "rss-0301f8db1aca",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:42.113535+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.626451+00:00"
     },
     {
       "id": "rss-5116d0089903",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:42.113663+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.626557+00:00"
     },
     {
       "id": "openalex-b76d52d91fce",
@@ -1188,7 +1188,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.287985+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.877421+00:00"
     },
     {
       "id": "rss-a6d2ec7a9bd8",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.865114+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.421825+00:00"
     },
     {
       "id": "rss-e8ad5f5a7f57",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:42.114145+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.626942+00:00"
     },
     {
       "id": "openalex-15d253298584",
@@ -1284,7 +1284,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:36.997827+00:00"
+      "_retrievedAt": "2026-11-07T21:45:32.057977+00:00"
     },
     {
       "id": "rss-15e56cec1fd1",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.865225+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.421926+00:00"
     },
     {
       "id": "rss-0a0dc5009289",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.865343+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.422025+00:00"
     },
     {
       "id": "openalex-b9713b9a252a",
@@ -1380,7 +1380,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.287300+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.876863+00:00"
     },
     {
       "id": "openalex-11b5190cd445",
@@ -1412,7 +1412,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:36.995696+00:00"
+      "_retrievedAt": "2026-11-07T21:45:32.056363+00:00"
     },
     {
       "id": "rss-4ae9201eddcb",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.865438+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.422104+00:00"
     },
     {
       "id": "rss-4452dd44bbfd",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.865551+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.422195+00:00"
     },
     {
       "id": "openalex-00c0ed843a5d",
@@ -1508,7 +1508,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.288978+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.878292+00:00"
     },
     {
       "id": "rss-8ccff313a082",
@@ -1539,7 +1539,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:42.114237+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.627022+00:00"
     },
     {
       "id": "openalex-818836e119b0",
@@ -1571,7 +1571,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:36.998902+00:00"
+      "_retrievedAt": "2026-11-07T21:45:32.058872+00:00"
     },
     {
       "id": "openalex-cb3cbda06d84",
@@ -1603,7 +1603,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:34.567991+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.385072+00:00"
     },
     {
       "id": "rss-820a582ce463",
@@ -1635,7 +1635,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.865655+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.422279+00:00"
     },
     {
       "id": "rss-3d5d65395710",
@@ -1667,7 +1667,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.865773+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.422357+00:00"
     },
     {
       "id": "rss-288b8cf14c15",
@@ -1699,7 +1699,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.865892+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.422448+00:00"
     },
     {
       "id": "openalex-8824f3740ac6",
@@ -1731,7 +1731,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.987675+00:00"
+      "_retrievedAt": "2026-11-07T21:45:31.551581+00:00"
     },
     {
       "id": "rss-265637551189",
@@ -1763,7 +1763,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.865999+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.422531+00:00"
     },
     {
       "id": "rss-281de43e80f6",
@@ -1795,7 +1795,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.866117+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.422653+00:00"
     },
     {
       "id": "rss-60fc831425ac",
@@ -1827,7 +1827,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.866236+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.422759+00:00"
     },
     {
       "id": "rss-cbaee3e9e823",
@@ -1859,7 +1859,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:41.866353+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.422854+00:00"
     },
     {
       "id": "rss-9d78f66ca49b",
@@ -1891,7 +1891,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:42.114611+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.627312+00:00"
     },
     {
       "id": "rss-f707a76ef1e5",
@@ -1923,7 +1923,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:42.114988+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.627607+00:00"
     },
     {
       "id": "rss-d37d11696ae4",
@@ -1955,7 +1955,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:42.115347+00:00"
+      "_retrievedAt": "2026-11-07T21:45:35.627915+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1987,7 +1987,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.988741+00:00"
+      "_retrievedAt": "2026-11-07T21:45:31.552471+00:00"
     },
     {
       "id": "openalex-9ede209118a4",
@@ -2019,7 +2019,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.988998+00:00"
+      "_retrievedAt": "2026-11-07T21:45:31.552893+00:00"
     },
     {
       "id": "openalex-7a7d520be8ce",
@@ -2051,7 +2051,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.989927+00:00"
+      "_retrievedAt": "2026-11-07T21:45:31.553485+00:00"
     },
     {
       "id": "openalex-84e3fa65288d",
@@ -2083,7 +2083,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:34.567193+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.384181+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -2115,7 +2115,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.990157+00:00"
+      "_retrievedAt": "2026-11-07T21:45:31.553676+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -2147,7 +2147,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:36.995404+00:00"
+      "_retrievedAt": "2026-11-07T21:45:32.056118+00:00"
     },
     {
       "id": "openalex-f5dc3633b103",
@@ -2179,7 +2179,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:34.569391+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.386553+00:00"
     },
     {
       "id": "openalex-a42d0c83310b",
@@ -2211,7 +2211,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.289201+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.878490+00:00"
     },
     {
       "id": "openalex-4017ee65ef38",
@@ -2243,7 +2243,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.285620+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.875402+00:00"
     },
     {
       "id": "openalex-9a39b97a87a9",
@@ -2275,7 +2275,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:34.569841+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.386921+00:00"
     },
     {
       "id": "openalex-88c8bbfa038c",
@@ -2307,7 +2307,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.987442+00:00"
+      "_retrievedAt": "2026-11-07T21:45:31.551369+00:00"
     },
     {
       "id": "openalex-aa30ebe2f1c6",
@@ -2339,7 +2339,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.990464+00:00"
+      "_retrievedAt": "2026-11-07T21:45:31.554125+00:00"
     },
     {
       "id": "openalex-8eb078218eca",
@@ -2371,7 +2371,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.288738+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.878096+00:00"
     },
     {
       "id": "openalex-3dd652be759c",
@@ -2403,7 +2403,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.989243+00:00"
+      "_retrievedAt": "2026-11-07T21:45:31.553101+00:00"
     },
     {
       "id": "openalex-cd41132c9d18",
@@ -2435,7 +2435,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.285963+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.875703+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -2463,11 +2463,11 @@
         "Natural Language Processing Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 124,
+      "citedBy": 207,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:34.570315+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.386326+00:00"
     },
     {
       "id": "openalex-4eeff6704837",
@@ -2499,7 +2499,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:36.998082+00:00"
+      "_retrievedAt": "2026-11-07T21:45:32.058180+00:00"
     },
     {
       "id": "openalex-8391e68a705c",
@@ -2531,7 +2531,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.989528+00:00"
+      "_retrievedAt": "2026-11-07T21:45:31.553268+00:00"
     },
     {
       "id": "openalex-554ee5013027",
@@ -2563,7 +2563,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:36.998323+00:00"
+      "_retrievedAt": "2026-11-07T21:45:32.058380+00:00"
     },
     {
       "id": "openalex-bb23e4ef92cf",
@@ -2595,7 +2595,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.286890+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.876481+00:00"
     },
     {
       "id": "openalex-4d7da7db66ac",
@@ -2627,7 +2627,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:34.570532+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.387261+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2659,7 +2659,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:36.995078+00:00"
+      "_retrievedAt": "2026-11-07T21:45:32.055667+00:00"
+    },
+    {
+      "id": "openalex-518b9bf6cea9",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "PPI++: Efficient prediction-powered inference",
+      "authors": "Anastasios N. Angelopoulos, John C. Duchi, Tijana Zrnic",
+      "abstract": "We present PPI++: a computationally lightweight methodology for estimation and inference based on a small labeled dataset and a typically much larger dataset of machine-learning predictions. The methods automatically adapt to the quality of available predictions, yielding easy-to-compute confidence sets—for parameters of any dimensionality—that always improve on classical intervals using only the labeled data. PPI++ builds on prediction-powered inference (PPI), which targets the same problem setting, improving its computational and statistical efficiency. Real and synthetic experiments demonstrate the benefits of the proposed adaptations.",
+      "date": "2026-09-01",
+      "year": 2026,
+      "journal": "The Annals of Applied Statistics",
+      "source": "The Annals of Applied Statistics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1214/26-aoas2215",
+      "doi": "10.1214/26-aoas2215",
+      "pdfUrl": "https://arxiv.org/pdf/2311.01453",
+      "keywords": [
+        "Inference",
+        "Computer science",
+        "Curse of dimensionality",
+        "Machine learning",
+        "Artificial intelligence",
+        "Statistical Methods and Inference",
+        "Machine Learning and Data Classification",
+        "Probability and Statistical Research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 215,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T21:45:30.386102+00:00"
     },
     {
       "id": "openalex-da37b7f1fa1c",
@@ -2691,39 +2723,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:34.570037+00:00"
-    },
-    {
-      "id": "openalex-b0b9c1c36e09",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Journal of Strategic Security",
-      "authors": "OpenAlex indexed authors",
-      "abstract": "The Journal of Strategic Security (JSS) is a peer-reviewed professional journal published quarterly by Henley-Putnam School of Strategic Security. The Journal provides a multi-disciplinary forum for scholarship and discussion of strategic security issues drawing from the fields of global security, international relations, intelligence, terrorism and counterterrorism studies, among others. The Journal encourages diversity in theoretical foundations, research methods, and approaches. Quantitative and qualitative studies, for example, each offer valuable contributions to the field of strategic security. Academic disciplines of international relations, political science, psychology, sociology, anthropology, criminology, economics, and history are welcome, as are the applied scholarly fields of security studies, strategic studies, and intelligence studies. JSS emphasizes contemporary secur...",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "Journal of Strategic Security",
-      "source": "Journal of Strategic Security",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5038/1944-0472",
-      "doi": "10.5038/1944-0472",
-      "pdfUrl": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=2026&context=jss",
-      "keywords": [
-        "Political science",
-        "security",
-        "strategic",
-        "journal",
-        "studies",
-        "fields",
-        "international",
-        "relations"
-      ],
-      "readTime": "1 min",
-      "citedBy": 118,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:34.570762+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.387082+00:00"
     },
     {
       "id": "openalex-021b339d4b20",
@@ -2751,11 +2751,11 @@
         "Advanced Graph Neural Networks"
       ],
       "readTime": "1 min",
-      "citedBy": 11,
+      "citedBy": 18,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:36.996528+00:00"
+      "_retrievedAt": "2026-11-07T21:45:32.055845+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2787,7 +2787,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:36.997251+00:00"
+      "_retrievedAt": "2026-11-07T21:45:32.057484+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2819,7 +2819,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.286185+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.875893+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2851,7 +2851,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.288225+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.877642+00:00"
     },
     {
       "id": "openalex-6e7aa9ad6862",
@@ -2883,7 +2883,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:34.567766+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.384886+00:00"
     },
     {
       "id": "openalex-514dbfd7d5d8",
@@ -2915,39 +2915,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.287504+00:00"
-    },
-    {
-      "id": "openalex-6a5a22694e49",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Electricity demand and grid impacts of AI data centers: Challenges and prospects",
-      "authors": "Xin Chen, Xiaoyang Wang, Ana Colacelli, Matt Lee, Le Xie",
-      "abstract": "The rapid growth of artificial intelligence (AI) is driving an unprecedented increase in the electricity demand of AI data centers, raising emerging challenges for electric power grids. Understanding the characteristics of AI data center loads and their interactions with the grid is therefore critical for ensuring both reliable power system operation and sustainable AI development. This paper provides a comprehensive review and vision of this evolving landscape. Specifically, this paper (i) presents an overview of AI data center infrastructure and its key components, (ii) examines the key characteristics and patterns of electricity demand across the stages of model preparation, training, fine-tuning, and inference, (iii) analyzes the critical challenges that AI data center loads pose to power systems across three interrelated timescales, including long-term planning and interconnectio...",
-      "date": "2026-08-17",
-      "year": 2026,
-      "journal": "Nexus",
-      "source": "Nexus",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.ynexs.2026.100162",
-      "doi": "10.1016/j.ynexs.2026.100162",
-      "pdfUrl": "https://doi.org/10.1016/j.ynexs.2026.100162",
-      "keywords": [
-        "Electricity",
-        "Key (lock)",
-        "Computer science",
-        "Electric power system",
-        "Electricity system",
-        "Smart Grid Energy Management",
-        "Energy Efficiency in Computing",
-        "Smart Grid and Power Systems"
-      ],
-      "readTime": "1 min",
-      "citedBy": 116,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:34.570990+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.877032+00:00"
     },
     {
       "id": "openalex-506180faa30c",
@@ -2979,7 +2947,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.286427+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.876288+00:00"
     },
     {
       "id": "openalex-50c318e007c8",
@@ -3011,7 +2979,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:34.568521+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.385499+00:00"
     },
     {
       "id": "openalex-dbb3c4b557e9",
@@ -3043,7 +3011,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.988318+00:00"
+      "_retrievedAt": "2026-11-07T21:45:31.552117+00:00"
     },
     {
       "id": "openalex-838b1babffe0",
@@ -3075,7 +3043,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:34.568745+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.385965+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -3103,11 +3071,11 @@
         "Genetic Associations and Epidemiology"
       ],
       "readTime": "1 min",
-      "citedBy": 34,
+      "citedBy": 36,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.286643+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.876080+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -3139,7 +3107,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.287781+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.877249+00:00"
     },
     {
       "id": "openalex-7d24a7f15d87",
@@ -3171,7 +3139,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:36.996769+00:00"
+      "_retrievedAt": "2026-11-07T21:45:32.057083+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -3203,7 +3171,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:36.996315+00:00"
+      "_retrievedAt": "2026-11-07T21:45:32.056887+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -3235,7 +3203,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:36.994520+00:00"
+      "_retrievedAt": "2026-11-07T21:45:32.055193+00:00"
+    },
+    {
+      "id": "openalex-26e8fbfaec61",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "authors": "Kimi Team, Tongtong Bai, Yifan Bai, Yiping Bao, M. C., Jianfeng Cai",
+      "abstract": "We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel t...",
+      "date": "2026-07-27",
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "source": "arXiv (Cornell University)",
+      "sourceApi": "OpenAlex",
+      "url": "https://arxiv.org/abs/2607.24653",
+      "doi": "10.48550/arxiv.2607.24653",
+      "pdfUrl": "https://arxiv.org/pdf/2607.24653",
+      "keywords": [
+        "Software deployment",
+        "Computer science",
+        "Context (archaeology)",
+        "Reinforcement learning",
+        "Artificial intelligence",
+        "Topic Modeling",
+        "Natural Language Processing Techniques",
+        "Advanced Neural Network Applications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 349,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T21:45:30.384665+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -3267,7 +3267,39 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:34.568270+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.385292+00:00"
+    },
+    {
+      "id": "openalex-65254d753054",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Toward comprehensive cellular characterization of H&E slides",
+      "authors": "Benjamin Adjadj, Pierre‐Antoine Bannier, Guillaume Horent, Sebastien Mandela, Gary Klajer, Aurore Lyon",
+      "abstract": "Cell detection, segmentation, and classification are essential for analyzing tumor microenvironments (TME) on hematoxylin and eosin (H&E) slides. Existing methods suffer from poor performance on understudied cell types (rare or not present in public datasets) and limited cross-domain generalization. To address these shortcomings, we introduce HistoPLUS, a state-of-the-art model for cell analysis, trained on a novel curated pan-cancer dataset of 108,722 nuclei covering 13 cell types. In external validation across 4 independent cohorts, HistoPLUS outperforms current state-of-the-art models in detection quality by 5.2% and overall F1 classification score by 23.7%, while using 5× fewer parameters. In addition, we show that HistoPLUS robustly transfers to two oncology indications unseen during training and allows interpretable biomarker discovery in downstream tasks, outperforming clinical...",
+      "date": "2026-07-24",
+      "year": 2026,
+      "journal": "Journal of Pathology Informatics",
+      "source": "Journal of Pathology Informatics",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.jpi.2026.100696",
+      "doi": "10.1016/j.jpi.2026.100696",
+      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S2153353926001562/pdf",
+      "keywords": [
+        "Computer science",
+        "Characterization (materials science)",
+        "Computational biology",
+        "Nanotechnology",
+        "Chemistry",
+        "AI in cancer detection",
+        "Cell Image Analysis Techniques",
+        "Digital Imaging for Blood Diseases"
+      ],
+      "readTime": "1 min",
+      "citedBy": 17,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-07T21:45:31.552676+00:00"
     },
     {
       "id": "openalex-f4959844837a",
@@ -3299,7 +3331,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:36.998602+00:00"
+      "_retrievedAt": "2026-11-07T21:45:32.058627+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -3327,11 +3359,11 @@
         "Epigenetics and DNA Methylation"
       ],
       "readTime": "1 min",
-      "citedBy": 27,
+      "citedBy": 28,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.287077+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.876676+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -3359,11 +3391,11 @@
         "Prostate Cancer Treatment and Research"
       ],
       "readTime": "1 min",
-      "citedBy": 12,
+      "citedBy": 13,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.990746+00:00"
+      "_retrievedAt": "2026-11-07T21:45:31.553889+00:00"
     },
     {
       "id": "openalex-6b15c7cad215",
@@ -3391,11 +3423,11 @@
         "Artificial Intelligence Applications"
       ],
       "readTime": "2 min",
-      "citedBy": 192,
+      "citedBy": 227,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:34.569100+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.385791+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -3427,7 +3459,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.991018+00:00"
+      "_retrievedAt": "2026-11-07T21:45:31.554340+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -3459,39 +3491,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:34.569677+00:00"
-    },
-    {
-      "id": "openalex-513edaf40716",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Global, regional, and national burden of road injuries 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023",
-      "authors": "Stephanie C. C. van der Lubbe, Madeline E Moberg, Dominique Aluquin, Yawen Zhou, Hailey Lenox, Abdullah",
-      "abstract": "BACKGROUND: Road injuries are a leading cause of mortality and morbidity worldwide. Years of international efforts have aimed to strengthen policy engagement, including the 2020 UN General Assembly's proclamation of the Second Decade of Action for Road Safety (2021-30), targeting a 50% reduction in road traffic deaths and serious injuries by 2030. The aim of this study is to provide estimates to monitor progress and identify intervention gaps. METHODS: As part of the Global Burden of Diseases, Injuries, and Risk Factors Study 2023, we estimated incidence, mortality, and morbidity of road injuries for 204 countries and territories from 1990 to 2023. Four road injury types and 47 nature-of-injury categories were examined. Morbidity and mortality data from clinical records, vital registration, and police reports were harmonised using meta-analytic techniques to ensure consistency and cor...",
-      "date": "2026-07-20",
-      "year": 2026,
-      "journal": "The Lancet Public Health",
-      "source": "The Lancet Public Health",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/s2468-2667(26)00141-6",
-      "doi": "10.1016/s2468-2667(26)00141-6",
-      "pdfUrl": "https://www.thelancet.com/pdfs/journals/lanpub/PIIS2468-2667(26)00141-6.pdf",
-      "keywords": [
-        "Burden of disease",
-        "Medicine",
-        "Disease burden",
-        "Environmental health",
-        "Poison control",
-        "Traffic and Road Safety",
-        "Injury Epidemiology and Prevention",
-        "Trauma and Emergency Care Studies"
-      ],
-      "readTime": "2 min",
-      "citedBy": 10,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.991449+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.386798+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -3523,7 +3523,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:36.996986+00:00"
+      "_retrievedAt": "2026-11-07T21:45:32.057262+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3555,7 +3555,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:35.987908+00:00"
+      "_retrievedAt": "2026-11-07T21:45:31.551768+00:00"
     },
     {
       "id": "openalex-c78b5aa253cb",
@@ -3587,7 +3587,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:34.567479+00:00"
+      "_retrievedAt": "2026-11-07T21:45:30.384435+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3619,7 +3619,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:36.997543+00:00"
+      "_retrievedAt": "2026-11-07T21:45:32.057749+00:00"
     },
     {
       "id": "openalex-da65fc09ba51",
@@ -3651,7 +3651,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-07T12:54:36.994876+00:00"
+      "_retrievedAt": "2026-11-07T21:45:32.055481+00:00"
     }
   ]
 }
