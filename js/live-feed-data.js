@@ -1,11 +1,107 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-11-08T13:16:59.375008+00:00",
+  "generatedAt": "2026-11-08T21:59:14.074734+00:00",
   "total": 114,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-fc4222d42e6b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Microbiome therapy shows promise for preventing deadly bloodstream infections in early trial",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at City of Hope and collaborators have pioneered a new approach to preventing dangerous bloodstream infections in patients receiving donor stem cell transplants for blood cancers. The first-of-its-kind therapy delivers 16 carefully selected beneficial bacteria designed to restore the microbiome and fight harmful pathogens.",
+      "date": "2026-11-08",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-microbiome-therapy-deadly-bloodstream-infections.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "microbiome",
+        "therapy",
+        "preventing",
+        "bloodstream",
+        "infections",
+        "shows",
+        "promise",
+        "deadly"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-08T21:59:13.637848+00:00"
+    },
+    {
+      "id": "rss-4716a1e38b89",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Experimental weight-loss drug eases painful knee osteoarthritis in two clinical trials",
+      "authors": "Medical Xpress",
+      "abstract": "For people with painful knee osteoarthritis (OA) who are overweight or have obesity, everyday activities such as walking, climbing stairs and standing up from a chair can be difficult. In two Northwestern University–led Phase III clinical trials involving more than 1,000 participants combined, those taking the highest dose of retatrutide, a new experimental weight-loss injectable drug, lost about one-quarter of their body weight on average.",
+      "date": "2026-11-08",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-experimental-weight-loss-drug-eases.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "experimental",
+        "weight-loss",
+        "drug",
+        "painful",
+        "knee",
+        "osteoarthritis",
+        "clinical",
+        "trials"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-08T21:59:13.638192+00:00"
+    },
+    {
+      "id": "rss-3b8a220c7dec",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Single iron infusion improved exercise capacity in people with the most common form of heart failure",
+      "authors": "Medical Xpress",
+      "abstract": "A new study by investigators from the Mass General Brigham Heart and Vascular Institute found that a single iron infusion improved exercise capacity in people with heart failure with preserved ejection fraction (HFpEF) and iron deficiency. The findings suggest that replenishing iron could help address the physical limitations associated with this condition. Results were presented at the 2026 American Heart Association Scientific Sessions and published simultaneously in Circulation.",
+      "date": "2026-11-08",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-iron-infusion-capacity-people-common.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "iron",
+        "heart",
+        "single",
+        "infusion",
+        "improved",
+        "exercise",
+        "capacity",
+        "people"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-08T21:59:13.638483+00:00"
+    },
     {
       "id": "rss-820a07f4ab75",
       "discipline": "clinical",
@@ -36,7 +132,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.355382+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.638722+00:00"
     },
     {
       "id": "rss-b27652537d60",
@@ -68,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.355565+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.638974+00:00"
     },
     {
       "id": "rss-cdd6450f768b",
@@ -100,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.355762+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.639255+00:00"
     },
     {
       "id": "rss-892a4c376732",
@@ -132,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.355929+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.639486+00:00"
     },
     {
       "id": "rss-c77c994b1097",
@@ -164,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.356142+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.639786+00:00"
     },
     {
       "id": "rss-6847268816b3",
@@ -196,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.356299+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.640039+00:00"
     },
     {
       "id": "rss-f3b6bedcbdfb",
@@ -228,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.356453+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.640268+00:00"
     },
     {
       "id": "rss-9193a7916261",
@@ -260,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.356595+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.640475+00:00"
     },
     {
       "id": "rss-510ec50a0f0e",
@@ -292,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.356793+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.640760+00:00"
     },
     {
       "id": "rss-936ecb630726",
@@ -324,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.356955+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.641005+00:00"
     },
     {
       "id": "rss-bfa52a535489",
@@ -356,103 +452,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.357110+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.641232+00:00"
     },
     {
-      "id": "rss-011a13549d26",
-      "discipline": "clinical",
+      "id": "rss-1a8eb5090ba6",
+      "discipline": "cs",
       "type": "news",
-      "title": "Is shorter daylight dragging down your mood? What to know about seasonal affective disorder",
-      "authors": "Medical Xpress",
-      "abstract": "Ever heard of the winter blues? The phrase describes that blah, low-energy feeling that can settle in as days grow shorter, colder and grayer this time of year.",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "authors": "TechCrunch AI",
+      "abstract": "In a memo to the company, Huang admitted that he had an affair.",
       "date": "2026-11-08",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-shorter-daylight-mood-seasonal-affective.html",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "shorter",
-        "that",
-        "daylight",
-        "dragging",
-        "down",
-        "your",
-        "mood",
-        "what"
+        "huang",
+        "nvidia",
+        "will",
+        "investigate",
+        "jensen",
+        "relationship",
+        "possible",
+        "chinese"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.357256+00:00"
-    },
-    {
-      "id": "rss-7905d9054ac7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "AI better assesses heart function from MRI than clinicians",
-      "authors": "Medical Xpress",
-      "abstract": "Using artificial intelligence (AI) to assess heart function from magnetic resonance imaging (MRI) scans more strongly predicts survival than interpretation by clinicians, according to a study published online Nov. 2 in The Lancet Digital Health.",
-      "date": "2026-11-08",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-ai-heart-function-mri-clinicians.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "heart",
-        "function",
-        "than",
-        "clinicians",
-        "better",
-        "assesses",
-        "artificial",
-        "intelligence"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.357401+00:00"
-    },
-    {
-      "id": "rss-a4ca4615afa3",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Platform finds hidden flaws in athletes' form",
-      "authors": "Medical Xpress",
-      "abstract": "For the first two laps, the student-athlete on the Syracuse University cross country team ran with flawless form. Then, down the stretch, their times began to slip as fatigue set in.",
-      "date": "2026-11-08",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-platform-hidden-flaws-athletes.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "form",
-        "platform",
-        "finds",
-        "hidden",
-        "flaws",
-        "athletes",
-        "first",
-        "laps"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.357536+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.674954+00:00"
     },
     {
       "id": "rss-2dcedeb19886",
@@ -484,7 +516,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.400982+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.675169+00:00"
     },
     {
       "id": "rss-bfd30b322a7a",
@@ -516,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.401157+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.675361+00:00"
     },
     {
       "id": "rss-f672610ccdf8",
@@ -548,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.401261+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.675511+00:00"
     },
     {
       "id": "rss-72b31a022cf4",
@@ -580,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.401399+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.675673+00:00"
     },
     {
       "id": "rss-3bbfb1af0e73",
@@ -612,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.401544+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.675834+00:00"
     },
     {
       "id": "rss-6a23828fcc59",
@@ -644,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.401647+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.676013+00:00"
     },
     {
       "id": "rss-a5ab06544db6",
@@ -676,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.401807+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.676241+00:00"
     },
     {
       "id": "rss-3260ad3c6f18",
@@ -708,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.401988+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.676459+00:00"
     },
     {
       "id": "rss-0788f8bc79c3",
@@ -740,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.402104+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.676623+00:00"
     },
     {
       "id": "rss-8b3f09472382",
@@ -772,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.402201+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.676770+00:00"
     },
     {
       "id": "rss-a4f1f3c6868f",
@@ -804,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.402291+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.676929+00:00"
     },
     {
       "id": "rss-ff6656f87cb3",
@@ -836,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.402386+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.677085+00:00"
     },
     {
       "id": "rss-6cf27f17e07d",
@@ -868,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.402483+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.677238+00:00"
     },
     {
       "id": "rss-0646faa6f733",
@@ -900,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.455015+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.749446+00:00"
     },
     {
       "id": "rss-ee3b71fee41a",
@@ -932,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.894610+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.952914+00:00"
     },
     {
       "id": "rss-948f337f76fa",
@@ -964,39 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.894796+00:00"
-    },
-    {
-      "id": "rss-e8c084e60f51",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "authors": "TechCrunch AI",
-      "abstract": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "date": "2026-11-05",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "airbnb",
-        "says",
-        "agent",
-        "launching",
-        "travel",
-        "first",
-        "half",
-        "upcoming"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.402599+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.953165+00:00"
     },
     {
       "id": "rss-9b3fb6e63d6f",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.455156+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.749634+00:00"
     },
     {
       "id": "openalex-1460ec1614d2",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:53.691439+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.125764+00:00"
     },
     {
       "id": "rss-36da62e14d67",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.895321+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.953778+00:00"
     },
     {
       "id": "rss-0301f8db1aca",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.895460+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.953992+00:00"
     },
     {
       "id": "rss-5116d0089903",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.895590+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.954178+00:00"
     },
     {
       "id": "openalex-b76d52d91fce",
@@ -1179,8 +1179,8 @@ window.LIVE_FEED_DATA = {
         "Biology",
         "Computational biology",
         "Pluripotent Stem Cells Research",
-        "Neurogenesis and neuroplasticity mechanisms",
         "Alzheimer's disease research and treatments",
+        "Neurogenesis and neuroplasticity mechanisms",
         "cortical"
       ],
       "readTime": "1 min",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:53.690959+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.125126+00:00"
     },
     {
       "id": "rss-a6d2ec7a9bd8",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.455270+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.749803+00:00"
     },
     {
       "id": "rss-e8ad5f5a7f57",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.896068+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.954777+00:00"
     },
     {
       "id": "openalex-15d253298584",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:55.274162+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.764791+00:00"
     },
     {
       "id": "rss-15e56cec1fd1",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.455387+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.750021+00:00"
     },
     {
       "id": "rss-0a0dc5009289",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.455503+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.750202+00:00"
     },
     {
       "id": "openalex-b9713b9a252a",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:53.690282+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.124176+00:00"
     },
     {
       "id": "openalex-11b5190cd445",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:55.272232+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.762118+00:00"
     },
     {
       "id": "rss-4ae9201eddcb",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.455599+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.750353+00:00"
     },
     {
       "id": "rss-4452dd44bbfd",
@@ -1476,7 +1476,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.455711+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.750523+00:00"
+    },
+    {
+      "id": "openalex-c59144090f14",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "Planetary-scale metagenomic analysis reveals CRISPR targeting dynamics across ecosystems",
+      "authors": "Simon Roux, Uri Neri, Brian Bushnell, Brayon J. Fremin, Nikhil A. George, Uri Gophna",
+      "abstract": "Interactions between microorganisms and their mobile genetic elements (MGEs), including viruses and plasmids, impact microbiome dynamics. CRISPR-Cas systems are important regulators of these host-MGE interactions, but a global understanding of the diversity, activity and roles of CRISPR spacers across Earth's biomes is still lacking. Here we develop a computational approach to search short-read data and collect 794 million CRISPR spacers across 367,609 public metagenomes, from which we identified 1.18 billion hits between 41 million spacers and 2.5 million viruses and plasmids. While spacers were highly variable across samples, those matching known viruses were more prevalent and conserved, consistent with a positive selection pressure associated with phage targeting. Among these, however, we find evidence suggestive of recurrent entry of phage genomes into non-host microbial cells, f...",
+      "date": "2026-10-29",
+      "year": 2026,
+      "journal": "Nature Microbiology",
+      "source": "Nature Microbiology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41564-026-02480-7",
+      "doi": "10.1038/s41564-026-02480-7",
+      "pdfUrl": "https://www.nature.com/articles/s41564-026-02480-7.pdf",
+      "keywords": [
+        "CRISPR",
+        "Metagenomics",
+        "Scale (ratio)",
+        "Computational biology",
+        "Biology",
+        "CRISPR and Genetic Engineering",
+        "Bacteriophages and microbial interactions",
+        "Bacterial Genetics and Biotechnology"
+      ],
+      "readTime": "1 min",
+      "citedBy": 11,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-08T21:59:10.126445+00:00"
     },
     {
       "id": "openalex-00c0ed843a5d",
@@ -1508,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:53.691974+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.126759+00:00"
     },
     {
       "id": "rss-8ccff313a082",
@@ -1539,7 +1571,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.896160+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.954933+00:00"
     },
     {
       "id": "openalex-818836e119b0",
@@ -1571,7 +1603,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:55.275240+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.766266+00:00"
     },
     {
       "id": "openalex-cb3cbda06d84",
@@ -1595,15 +1627,15 @@ window.LIVE_FEED_DATA = {
         "Cognitive psychology",
         "Social psychology",
         "Topic Modeling",
-        "Psychiatry, Mental Health, Neuroscience",
-        "Artificial Intelligence Applications"
+        "Natural Language Processing Techniques",
+        "Explainable Artificial Intelligence (XAI)"
       ],
       "readTime": "1 min",
-      "citedBy": 281,
+      "citedBy": 282,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:52.951150+00:00"
+      "_retrievedAt": "2026-11-08T21:59:09.767760+00:00"
     },
     {
       "id": "rss-820a582ce463",
@@ -1635,7 +1667,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.455815+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.750686+00:00"
     },
     {
       "id": "rss-3d5d65395710",
@@ -1667,7 +1699,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.455938+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.750837+00:00"
     },
     {
       "id": "rss-288b8cf14c15",
@@ -1699,7 +1731,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.456065+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.751054+00:00"
     },
     {
       "id": "openalex-5ab5668168ae",
@@ -1724,14 +1756,14 @@ window.LIVE_FEED_DATA = {
         "Remote sensing",
         "Atmospheric and Environmental Gas Dynamics",
         "Remote-Sensing Image Classification",
-        "Spectroscopy and Laser Applications"
+        "Geochemistry and Geologic Mapping"
       ],
       "readTime": "1 min",
       "citedBy": 6,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:55.275473+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.766579+00:00"
     },
     {
       "id": "openalex-8824f3740ac6",
@@ -1763,7 +1795,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:54.460243+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.449826+00:00"
     },
     {
       "id": "rss-265637551189",
@@ -1795,7 +1827,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.456170+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.751213+00:00"
     },
     {
       "id": "rss-281de43e80f6",
@@ -1827,7 +1859,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.456290+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.751389+00:00"
     },
     {
       "id": "rss-60fc831425ac",
@@ -1859,7 +1891,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.456409+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.751566+00:00"
     },
     {
       "id": "rss-cbaee3e9e823",
@@ -1891,7 +1923,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.456524+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.751740+00:00"
     },
     {
       "id": "rss-9d78f66ca49b",
@@ -1923,7 +1955,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.896525+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.955411+00:00"
     },
     {
       "id": "rss-f707a76ef1e5",
@@ -1955,7 +1987,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.896887+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.955938+00:00"
     },
     {
       "id": "rss-d37d11696ae4",
@@ -1987,7 +2019,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:58.897256+00:00"
+      "_retrievedAt": "2026-11-08T21:59:13.956413+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2019,7 +2051,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:54.461305+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.451356+00:00"
     },
     {
       "id": "openalex-9ede209118a4",
@@ -2051,7 +2083,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:54.461780+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.452102+00:00"
     },
     {
       "id": "openalex-7a7d520be8ce",
@@ -2083,7 +2115,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:54.462496+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.453099+00:00"
     },
     {
       "id": "openalex-84e3fa65288d",
@@ -2115,7 +2147,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:52.950090+00:00"
+      "_retrievedAt": "2026-11-08T21:59:09.766384+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -2147,7 +2179,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:54.462707+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.453397+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -2179,7 +2211,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:55.271938+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.761704+00:00"
     },
     {
       "id": "openalex-f5dc3633b103",
@@ -2211,39 +2243,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:52.952986+00:00"
-    },
-    {
-      "id": "openalex-a42d0c83310b",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "Human genetics implicates a BACH2–NRF2 axis in fetal haemoglobin activation",
-      "authors": "C. Guo, Uma P. Arora, Xiaoheng Cheng, Wanying Xu, Liam D. Cato, Rick Li",
-      "abstract": "Abstract Human genetic studies have identified key regulators of fetal haemoglobin (HbF) expression, including BCL11A, resulting in therapeutic advances 1–8 . Yet the mechanisms by which HbF expression is activated remain incompletely understood 9 . Here we conduct a large multi-ancestry genome-wide association study of HbF levels in 28,279 individuals that identifies 91 conditionally independent associations across 12 genomic regions. In one previously uncharacterized associated region, the high-HbF-linked causal variant rs1010474-C reduces BACH2 expression and elevates HbF levels. Direct perturbation or inhibition of BACH2 likewise increases HbF expression. Mechanistically, BACH2 restrains activation of the HbF-encoding γ-globin genes, while loss of BACH2 enhances NRF2 chromatin occupancy and promotes the formation of activation foci at the γ-globin genes. Although BACH2 and NRF2 bi...",
-      "date": "2026-09-30",
-      "year": 2026,
-      "journal": "Nature",
-      "source": "Nature",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41586-026-11113-2",
-      "doi": "10.1038/s41586-026-11113-2",
-      "pdfUrl": "https://www.nature.com/articles/s41586-026-11113-2.pdf",
-      "keywords": [
-        "Biology",
-        "Fetal hemoglobin",
-        "Genetics",
-        "Chromatin",
-        "Regulation of gene expression",
-        "Hemoglobinopathies and Related Disorders",
-        "Genetic Associations and Epidemiology",
-        "Hemoglobin structure and function"
-      ],
-      "readTime": "1 min",
-      "citedBy": 11,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:53.692200+00:00"
+      "_retrievedAt": "2026-11-08T21:59:09.770251+00:00"
     },
     {
       "id": "openalex-4017ee65ef38",
@@ -2275,7 +2275,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:53.688583+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.121904+00:00"
     },
     {
       "id": "openalex-9a39b97a87a9",
@@ -2307,7 +2307,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:52.953416+00:00"
+      "_retrievedAt": "2026-11-08T21:59:09.770833+00:00"
     },
     {
       "id": "openalex-88c8bbfa038c",
@@ -2339,7 +2339,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:54.460004+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.449518+00:00"
     },
     {
       "id": "openalex-aa30ebe2f1c6",
@@ -2371,7 +2371,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:54.463258+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.454150+00:00"
     },
     {
       "id": "openalex-8eb078218eca",
@@ -2403,7 +2403,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:53.691719+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.126166+00:00"
     },
     {
       "id": "openalex-3dd652be759c",
@@ -2435,7 +2435,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:54.462038+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.452446+00:00"
     },
     {
       "id": "openalex-cd41132c9d18",
@@ -2467,7 +2467,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:53.688925+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.122335+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -2499,7 +2499,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:52.952687+00:00"
+      "_retrievedAt": "2026-11-08T21:59:09.769860+00:00"
     },
     {
       "id": "openalex-4eeff6704837",
@@ -2531,7 +2531,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:55.274411+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.765152+00:00"
     },
     {
       "id": "openalex-8391e68a705c",
@@ -2563,7 +2563,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:54.462239+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.452726+00:00"
     },
     {
       "id": "openalex-554ee5013027",
@@ -2586,16 +2586,16 @@ window.LIVE_FEED_DATA = {
         "Feature (linguistics)",
         "Computer science",
         "Geospatial analysis",
-        "Spatial and Panel Data Analysis",
         "Soil Geostatistics and Mapping",
-        "Point processes and geometric inequalities"
+        "Spatial and Panel Data Analysis",
+        "Species Distribution and Climate Change"
       ],
       "readTime": "1 min",
       "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:55.274654+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.765482+00:00"
     },
     {
       "id": "openalex-bb23e4ef92cf",
@@ -2623,11 +2623,11 @@ window.LIVE_FEED_DATA = {
         "Genomics and Chromatin Dynamics"
       ],
       "readTime": "1 min",
-      "citedBy": 29,
+      "citedBy": 30,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:53.689857+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.123586+00:00"
     },
     {
       "id": "openalex-4d7da7db66ac",
@@ -2659,7 +2659,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:52.953834+00:00"
+      "_retrievedAt": "2026-11-08T21:59:09.771428+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2691,7 +2691,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:55.271382+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.760971+00:00"
     },
     {
       "id": "openalex-518b9bf6cea9",
@@ -2723,7 +2723,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:52.952409+00:00"
+      "_retrievedAt": "2026-11-08T21:59:09.769480+00:00"
     },
     {
       "id": "openalex-da37b7f1fa1c",
@@ -2755,7 +2755,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:52.953611+00:00"
+      "_retrievedAt": "2026-11-08T21:59:09.771124+00:00"
     },
     {
       "id": "openalex-021b339d4b20",
@@ -2787,7 +2787,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:55.271598+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.761272+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2819,7 +2819,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:55.273577+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.764002+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2851,7 +2851,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:53.689157+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.122628+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2883,7 +2883,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:53.691204+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.125449+00:00"
     },
     {
       "id": "openalex-6e7aa9ad6862",
@@ -2911,11 +2911,11 @@ window.LIVE_FEED_DATA = {
         "Robot Manipulation and Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 292,
+      "citedBy": 293,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:52.950924+00:00"
+      "_retrievedAt": "2026-11-08T21:59:09.767468+00:00"
     },
     {
       "id": "openalex-514dbfd7d5d8",
@@ -2947,7 +2947,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:53.690486+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.124459+00:00"
     },
     {
       "id": "openalex-506180faa30c",
@@ -2979,7 +2979,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:53.689628+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.123276+00:00"
     },
     {
       "id": "openalex-50c318e007c8",
@@ -3011,7 +3011,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:52.951679+00:00"
+      "_retrievedAt": "2026-11-08T21:59:09.768471+00:00"
     },
     {
       "id": "openalex-dbb3c4b557e9",
@@ -3043,7 +3043,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:54.460869+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.450738+00:00"
     },
     {
       "id": "openalex-838b1babffe0",
@@ -3075,7 +3075,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:52.952236+00:00"
+      "_retrievedAt": "2026-11-08T21:59:09.769237+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -3107,7 +3107,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:53.689382+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.122941+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -3139,7 +3139,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:53.690743+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.124807+00:00"
     },
     {
       "id": "openalex-7d24a7f15d87",
@@ -3171,7 +3171,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:55.273091+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.763295+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -3203,7 +3203,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:55.272836+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.762934+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -3235,7 +3235,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:55.271168+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.760659+00:00"
     },
     {
       "id": "openalex-26e8fbfaec61",
@@ -3267,7 +3267,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:52.950648+00:00"
+      "_retrievedAt": "2026-11-08T21:59:09.767122+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -3295,11 +3295,11 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 267,
+      "citedBy": 271,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:52.951427+00:00"
+      "_retrievedAt": "2026-11-08T21:59:09.768135+00:00"
     },
     {
       "id": "openalex-65254d753054",
@@ -3331,7 +3331,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:54.461528+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.451711+00:00"
     },
     {
       "id": "openalex-f4959844837a",
@@ -3363,7 +3363,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:55.274954+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.765861+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -3395,7 +3395,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:53.690062+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.123841+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -3427,7 +3427,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:54.462967+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.453738+00:00"
     },
     {
       "id": "openalex-6b15c7cad215",
@@ -3459,7 +3459,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:52.952025+00:00"
+      "_retrievedAt": "2026-11-08T21:59:09.768941+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -3491,7 +3491,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:54.463518+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.454506+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -3523,7 +3523,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:52.953266+00:00"
+      "_retrievedAt": "2026-11-08T21:59:09.770625+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -3555,7 +3555,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:55.273310+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.763603+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3587,7 +3587,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:54.460458+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.450168+00:00"
     },
     {
       "id": "openalex-c78b5aa253cb",
@@ -3619,7 +3619,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:52.950392+00:00"
+      "_retrievedAt": "2026-11-08T21:59:09.766768+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3651,7 +3651,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T13:16:55.273870+00:00"
+      "_retrievedAt": "2026-11-08T21:59:10.764416+00:00"
     }
   ]
 };
