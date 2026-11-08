@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T05:55:45.956339+00:00",
+  "generatedAt": "2026-11-08T13:16:59.375008+00:00",
   "total": 114,
   "sources": [
     "RSS",
@@ -36,7 +36,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.244808+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.355382+00:00"
     },
     {
       "id": "rss-b27652537d60",
@@ -68,7 +68,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.245061+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.355565+00:00"
     },
     {
       "id": "rss-cdd6450f768b",
@@ -100,7 +100,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.245352+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.355762+00:00"
     },
     {
       "id": "rss-892a4c376732",
@@ -132,7 +132,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.245586+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.355929+00:00"
     },
     {
       "id": "rss-c77c994b1097",
@@ -164,7 +164,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.245883+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.356142+00:00"
     },
     {
       "id": "rss-6847268816b3",
@@ -196,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.246112+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.356299+00:00"
     },
     {
       "id": "rss-f3b6bedcbdfb",
@@ -228,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.246363+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.356453+00:00"
     },
     {
       "id": "rss-9193a7916261",
@@ -260,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.246584+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.356595+00:00"
     },
     {
       "id": "rss-510ec50a0f0e",
@@ -292,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.246882+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.356793+00:00"
     },
     {
       "id": "rss-936ecb630726",
@@ -324,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.247100+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.356955+00:00"
     },
     {
       "id": "rss-bfa52a535489",
@@ -356,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.247335+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.357110+00:00"
     },
     {
       "id": "rss-011a13549d26",
@@ -388,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.247571+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.357256+00:00"
     },
     {
       "id": "rss-7905d9054ac7",
@@ -420,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.247790+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.357401+00:00"
     },
     {
       "id": "rss-a4ca4615afa3",
@@ -452,7 +452,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.247998+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.357536+00:00"
     },
     {
       "id": "rss-2dcedeb19886",
@@ -484,7 +484,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.319794+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.400982+00:00"
     },
     {
       "id": "rss-bfd30b322a7a",
@@ -516,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.320032+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.401157+00:00"
     },
     {
       "id": "rss-f672610ccdf8",
@@ -548,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.320181+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.401261+00:00"
     },
     {
       "id": "rss-72b31a022cf4",
@@ -580,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.320361+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.401399+00:00"
     },
     {
       "id": "rss-3bbfb1af0e73",
@@ -612,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.320530+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.401544+00:00"
     },
     {
       "id": "rss-6a23828fcc59",
@@ -644,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.320682+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.401647+00:00"
     },
     {
       "id": "rss-a5ab06544db6",
@@ -676,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.320907+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.401807+00:00"
     },
     {
       "id": "rss-3260ad3c6f18",
@@ -708,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.321129+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.401988+00:00"
     },
     {
       "id": "rss-0788f8bc79c3",
@@ -740,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.321401+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.402104+00:00"
     },
     {
       "id": "rss-8b3f09472382",
@@ -772,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.321565+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.402201+00:00"
     },
     {
       "id": "rss-a4f1f3c6868f",
@@ -804,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.321706+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.402291+00:00"
     },
     {
       "id": "rss-ff6656f87cb3",
@@ -836,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.321855+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.402386+00:00"
     },
     {
       "id": "rss-6cf27f17e07d",
@@ -868,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.322006+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.402483+00:00"
     },
     {
       "id": "rss-0646faa6f733",
@@ -900,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.414460+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.455015+00:00"
     },
     {
       "id": "rss-ee3b71fee41a",
@@ -932,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.644800+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.894610+00:00"
     },
     {
       "id": "rss-948f337f76fa",
@@ -964,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.645048+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.894796+00:00"
     },
     {
       "id": "rss-e8c084e60f51",
@@ -996,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.322182+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.402599+00:00"
     },
     {
       "id": "rss-9b3fb6e63d6f",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.414648+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.455156+00:00"
     },
     {
       "id": "openalex-1460ec1614d2",
@@ -1052,15 +1052,15 @@
         "Neuroscience",
         "Biology",
         "Glioma Diagnosis and Treatment",
-        "Single-cell and spatial transcriptomics",
-        "Gene Regulatory Network Analysis"
+        "Gene Regulatory Network Analysis",
+        "Single-cell and spatial transcriptomics"
       ],
       "readTime": "1 min",
       "citedBy": 13,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.385247+00:00"
+      "_retrievedAt": "2026-11-08T13:16:53.691439+00:00"
     },
     {
       "id": "rss-36da62e14d67",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.645696+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.895321+00:00"
     },
     {
       "id": "rss-0301f8db1aca",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.645889+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.895460+00:00"
     },
     {
       "id": "rss-5116d0089903",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.646076+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.895590+00:00"
     },
     {
       "id": "openalex-b76d52d91fce",
@@ -1188,7 +1188,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.384611+00:00"
+      "_retrievedAt": "2026-11-08T13:16:53.690959+00:00"
     },
     {
       "id": "rss-a6d2ec7a9bd8",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.414816+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.455270+00:00"
     },
     {
       "id": "rss-e8ad5f5a7f57",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.646715+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.896068+00:00"
     },
     {
       "id": "openalex-15d253298584",
@@ -1284,7 +1284,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:42.003567+00:00"
+      "_retrievedAt": "2026-11-08T13:16:55.274162+00:00"
     },
     {
       "id": "rss-15e56cec1fd1",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.414982+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.455387+00:00"
     },
     {
       "id": "rss-0a0dc5009289",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.415158+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.455503+00:00"
     },
     {
       "id": "openalex-b9713b9a252a",
@@ -1380,7 +1380,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.383687+00:00"
+      "_retrievedAt": "2026-11-08T13:16:53.690282+00:00"
     },
     {
       "id": "openalex-11b5190cd445",
@@ -1412,7 +1412,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:42.000985+00:00"
+      "_retrievedAt": "2026-11-08T13:16:55.272232+00:00"
     },
     {
       "id": "rss-4ae9201eddcb",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.415347+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.455599+00:00"
     },
     {
       "id": "rss-4452dd44bbfd",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.415536+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.455711+00:00"
     },
     {
       "id": "openalex-00c0ed843a5d",
@@ -1508,7 +1508,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.385937+00:00"
+      "_retrievedAt": "2026-11-08T13:16:53.691974+00:00"
     },
     {
       "id": "rss-8ccff313a082",
@@ -1539,7 +1539,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.646858+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.896160+00:00"
     },
     {
       "id": "openalex-818836e119b0",
@@ -1571,7 +1571,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:42.004999+00:00"
+      "_retrievedAt": "2026-11-08T13:16:55.275240+00:00"
     },
     {
       "id": "openalex-cb3cbda06d84",
@@ -1603,7 +1603,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.017065+00:00"
+      "_retrievedAt": "2026-11-08T13:16:52.951150+00:00"
     },
     {
       "id": "rss-820a582ce463",
@@ -1635,7 +1635,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.415700+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.455815+00:00"
     },
     {
       "id": "rss-3d5d65395710",
@@ -1667,7 +1667,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.415852+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.455938+00:00"
     },
     {
       "id": "rss-288b8cf14c15",
@@ -1699,7 +1699,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.416024+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.456065+00:00"
     },
     {
       "id": "openalex-5ab5668168ae",
@@ -1731,7 +1731,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:42.005326+00:00"
+      "_retrievedAt": "2026-11-08T13:16:55.275473+00:00"
     },
     {
       "id": "openalex-8824f3740ac6",
@@ -1763,7 +1763,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.695219+00:00"
+      "_retrievedAt": "2026-11-08T13:16:54.460243+00:00"
     },
     {
       "id": "rss-265637551189",
@@ -1795,7 +1795,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.416180+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.456170+00:00"
     },
     {
       "id": "rss-281de43e80f6",
@@ -1827,7 +1827,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.416379+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.456290+00:00"
     },
     {
       "id": "rss-60fc831425ac",
@@ -1859,7 +1859,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.416558+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.456409+00:00"
     },
     {
       "id": "rss-cbaee3e9e823",
@@ -1891,7 +1891,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.416732+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.456524+00:00"
     },
     {
       "id": "rss-9d78f66ca49b",
@@ -1923,7 +1923,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.647361+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.896525+00:00"
     },
     {
       "id": "rss-f707a76ef1e5",
@@ -1955,7 +1955,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.647843+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.896887+00:00"
     },
     {
       "id": "rss-d37d11696ae4",
@@ -1987,7 +1987,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:45.648325+00:00"
+      "_retrievedAt": "2026-11-08T13:16:58.897256+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2019,7 +2019,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.696724+00:00"
+      "_retrievedAt": "2026-11-08T13:16:54.461305+00:00"
     },
     {
       "id": "openalex-9ede209118a4",
@@ -2051,7 +2051,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.697427+00:00"
+      "_retrievedAt": "2026-11-08T13:16:54.461780+00:00"
     },
     {
       "id": "openalex-7a7d520be8ce",
@@ -2083,7 +2083,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.698415+00:00"
+      "_retrievedAt": "2026-11-08T13:16:54.462496+00:00"
     },
     {
       "id": "openalex-84e3fa65288d",
@@ -2115,7 +2115,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.015690+00:00"
+      "_retrievedAt": "2026-11-08T13:16:52.950090+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -2147,7 +2147,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.698713+00:00"
+      "_retrievedAt": "2026-11-08T13:16:54.462707+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -2179,7 +2179,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:42.000586+00:00"
+      "_retrievedAt": "2026-11-08T13:16:55.271938+00:00"
     },
     {
       "id": "openalex-f5dc3633b103",
@@ -2211,7 +2211,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.019600+00:00"
+      "_retrievedAt": "2026-11-08T13:16:52.952986+00:00"
     },
     {
       "id": "openalex-a42d0c83310b",
@@ -2243,7 +2243,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.386237+00:00"
+      "_retrievedAt": "2026-11-08T13:16:53.692200+00:00"
     },
     {
       "id": "openalex-4017ee65ef38",
@@ -2275,7 +2275,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.381422+00:00"
+      "_retrievedAt": "2026-11-08T13:16:53.688583+00:00"
     },
     {
       "id": "openalex-9a39b97a87a9",
@@ -2307,7 +2307,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.020180+00:00"
+      "_retrievedAt": "2026-11-08T13:16:52.953416+00:00"
     },
     {
       "id": "openalex-88c8bbfa038c",
@@ -2339,7 +2339,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.694908+00:00"
+      "_retrievedAt": "2026-11-08T13:16:54.460004+00:00"
     },
     {
       "id": "openalex-aa30ebe2f1c6",
@@ -2371,7 +2371,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.699447+00:00"
+      "_retrievedAt": "2026-11-08T13:16:54.463258+00:00"
     },
     {
       "id": "openalex-8eb078218eca",
@@ -2403,7 +2403,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.385616+00:00"
+      "_retrievedAt": "2026-11-08T13:16:53.691719+00:00"
     },
     {
       "id": "openalex-3dd652be759c",
@@ -2435,7 +2435,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.697764+00:00"
+      "_retrievedAt": "2026-11-08T13:16:54.462038+00:00"
     },
     {
       "id": "openalex-cd41132c9d18",
@@ -2467,7 +2467,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.381847+00:00"
+      "_retrievedAt": "2026-11-08T13:16:53.688925+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -2499,7 +2499,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.019191+00:00"
+      "_retrievedAt": "2026-11-08T13:16:52.952687+00:00"
     },
     {
       "id": "openalex-4eeff6704837",
@@ -2531,7 +2531,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:42.003895+00:00"
+      "_retrievedAt": "2026-11-08T13:16:55.274411+00:00"
     },
     {
       "id": "openalex-8391e68a705c",
@@ -2563,7 +2563,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.698044+00:00"
+      "_retrievedAt": "2026-11-08T13:16:54.462239+00:00"
     },
     {
       "id": "openalex-554ee5013027",
@@ -2595,7 +2595,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:42.004215+00:00"
+      "_retrievedAt": "2026-11-08T13:16:55.274654+00:00"
     },
     {
       "id": "openalex-bb23e4ef92cf",
@@ -2627,7 +2627,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.383107+00:00"
+      "_retrievedAt": "2026-11-08T13:16:53.689857+00:00"
     },
     {
       "id": "openalex-4d7da7db66ac",
@@ -2659,7 +2659,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.020770+00:00"
+      "_retrievedAt": "2026-11-08T13:16:52.953834+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2691,7 +2691,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.999841+00:00"
+      "_retrievedAt": "2026-11-08T13:16:55.271382+00:00"
     },
     {
       "id": "openalex-518b9bf6cea9",
@@ -2723,7 +2723,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.018821+00:00"
+      "_retrievedAt": "2026-11-08T13:16:52.952409+00:00"
     },
     {
       "id": "openalex-da37b7f1fa1c",
@@ -2755,7 +2755,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.020469+00:00"
+      "_retrievedAt": "2026-11-08T13:16:52.953611+00:00"
     },
     {
       "id": "openalex-021b339d4b20",
@@ -2787,7 +2787,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:42.000129+00:00"
+      "_retrievedAt": "2026-11-08T13:16:55.271598+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2819,7 +2819,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:42.002786+00:00"
+      "_retrievedAt": "2026-11-08T13:16:55.273577+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2851,7 +2851,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.382143+00:00"
+      "_retrievedAt": "2026-11-08T13:16:53.689157+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2883,7 +2883,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.384933+00:00"
+      "_retrievedAt": "2026-11-08T13:16:53.691204+00:00"
     },
     {
       "id": "openalex-6e7aa9ad6862",
@@ -2915,7 +2915,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.016774+00:00"
+      "_retrievedAt": "2026-11-08T13:16:52.950924+00:00"
     },
     {
       "id": "openalex-514dbfd7d5d8",
@@ -2947,7 +2947,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.383967+00:00"
+      "_retrievedAt": "2026-11-08T13:16:53.690486+00:00"
     },
     {
       "id": "openalex-506180faa30c",
@@ -2979,7 +2979,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.382799+00:00"
+      "_retrievedAt": "2026-11-08T13:16:53.689628+00:00"
     },
     {
       "id": "openalex-50c318e007c8",
@@ -3011,7 +3011,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.017822+00:00"
+      "_retrievedAt": "2026-11-08T13:16:52.951679+00:00"
     },
     {
       "id": "openalex-dbb3c4b557e9",
@@ -3043,7 +3043,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.696117+00:00"
+      "_retrievedAt": "2026-11-08T13:16:54.460869+00:00"
     },
     {
       "id": "openalex-838b1babffe0",
@@ -3075,7 +3075,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.018583+00:00"
+      "_retrievedAt": "2026-11-08T13:16:52.952236+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -3107,7 +3107,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.382469+00:00"
+      "_retrievedAt": "2026-11-08T13:16:53.689382+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -3139,7 +3139,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.384330+00:00"
+      "_retrievedAt": "2026-11-08T13:16:53.690743+00:00"
     },
     {
       "id": "openalex-7d24a7f15d87",
@@ -3171,7 +3171,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:42.002105+00:00"
+      "_retrievedAt": "2026-11-08T13:16:55.273091+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -3203,7 +3203,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:42.001792+00:00"
+      "_retrievedAt": "2026-11-08T13:16:55.272836+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -3235,7 +3235,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.999566+00:00"
+      "_retrievedAt": "2026-11-08T13:16:55.271168+00:00"
     },
     {
       "id": "openalex-26e8fbfaec61",
@@ -3267,7 +3267,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.016434+00:00"
+      "_retrievedAt": "2026-11-08T13:16:52.950648+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -3299,7 +3299,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.017474+00:00"
+      "_retrievedAt": "2026-11-08T13:16:52.951427+00:00"
     },
     {
       "id": "openalex-65254d753054",
@@ -3331,7 +3331,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.697057+00:00"
+      "_retrievedAt": "2026-11-08T13:16:54.461528+00:00"
     },
     {
       "id": "openalex-f4959844837a",
@@ -3363,7 +3363,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:42.004614+00:00"
+      "_retrievedAt": "2026-11-08T13:16:55.274954+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -3395,7 +3395,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.383379+00:00"
+      "_retrievedAt": "2026-11-08T13:16:53.690062+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -3427,7 +3427,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.699049+00:00"
+      "_retrievedAt": "2026-11-08T13:16:54.462967+00:00"
     },
     {
       "id": "openalex-6b15c7cad215",
@@ -3459,7 +3459,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.018260+00:00"
+      "_retrievedAt": "2026-11-08T13:16:52.952025+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -3491,7 +3491,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.699799+00:00"
+      "_retrievedAt": "2026-11-08T13:16:54.463518+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -3523,7 +3523,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.019969+00:00"
+      "_retrievedAt": "2026-11-08T13:16:52.953266+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -3555,7 +3555,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:42.002428+00:00"
+      "_retrievedAt": "2026-11-08T13:16:55.273310+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3587,7 +3587,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.695555+00:00"
+      "_retrievedAt": "2026-11-08T13:16:54.460458+00:00"
     },
     {
       "id": "openalex-c78b5aa253cb",
@@ -3619,7 +3619,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:41.016073+00:00"
+      "_retrievedAt": "2026-11-08T13:16:52.950392+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3651,7 +3651,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T05:55:42.003179+00:00"
+      "_retrievedAt": "2026-11-08T13:16:55.273870+00:00"
     }
   ]
 }
