@@ -1,11 +1,43 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-11-08T21:59:14.074734+00:00",
-  "total": 114,
+  "generatedAt": "2026-11-09T06:16:56.962632+00:00",
+  "total": 98,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-754650d4bac3",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Aspirin does not prevent recurrence after treatment for colorectal cancer liver metastases",
+      "authors": "Medical Xpress",
+      "abstract": "Colorectal cancer is one of the most common cancers in Norway, which also has one of the highest incidence rates in the world.",
+      "date": "2026-11-09",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-aspirin-recurrence-treatment-colorectal-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "colorectal",
+        "cancer",
+        "aspirin",
+        "does",
+        "prevent",
+        "recurrence",
+        "after",
+        "treatment"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-09T06:16:56.178027+00:00"
+    },
     {
       "id": "rss-fc4222d42e6b",
       "discipline": "clinical",
@@ -13,7 +45,7 @@ window.LIVE_FEED_DATA = {
       "title": "Microbiome therapy shows promise for preventing deadly bloodstream infections in early trial",
       "authors": "Medical Xpress",
       "abstract": "Researchers at City of Hope and collaborators have pioneered a new approach to preventing dangerous bloodstream infections in patients receiving donor stem cell transplants for blood cancers. The first-of-its-kind therapy delivers 16 carefully selected beneficial bacteria designed to restore the microbiome and fight harmful pathogens.",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +68,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.637848+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.178179+00:00"
     },
     {
       "id": "rss-4716a1e38b89",
@@ -45,7 +77,7 @@ window.LIVE_FEED_DATA = {
       "title": "Experimental weight-loss drug eases painful knee osteoarthritis in two clinical trials",
       "authors": "Medical Xpress",
       "abstract": "For people with painful knee osteoarthritis (OA) who are overweight or have obesity, everyday activities such as walking, climbing stairs and standing up from a chair can be difficult. In two Northwestern University–led Phase III clinical trials involving more than 1,000 participants combined, those taking the highest dose of retatrutide, a new experimental weight-loss injectable drug, lost about one-quarter of their body weight on average.",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +100,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.638192+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.178340+00:00"
     },
     {
       "id": "rss-3b8a220c7dec",
@@ -77,7 +109,7 @@ window.LIVE_FEED_DATA = {
       "title": "Single iron infusion improved exercise capacity in people with the most common form of heart failure",
       "authors": "Medical Xpress",
       "abstract": "A new study by investigators from the Mass General Brigham Heart and Vascular Institute found that a single iron infusion improved exercise capacity in people with heart failure with preserved ejection fraction (HFpEF) and iron deficiency. The findings suggest that replenishing iron could help address the physical limitations associated with this condition. Results were presented at the 2026 American Heart Association Scientific Sessions and published simultaneously in Circulation.",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +132,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.638483+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.178484+00:00"
     },
     {
       "id": "rss-820a07f4ab75",
@@ -109,7 +141,7 @@ window.LIVE_FEED_DATA = {
       "title": "Financial incentives nearly double quit rates among underserved people who smoke in national study",
       "authors": "Medical Xpress",
       "abstract": "Offering financial incentives to people trying to quit smoking nearly doubled cessation rates among medically underserved adults undergoing lung cancer screening, according to a large national clinical trial involving Henry Ford Health.",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.638722+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.178600+00:00"
     },
     {
       "id": "rss-b27652537d60",
@@ -141,7 +173,7 @@ window.LIVE_FEED_DATA = {
       "title": "Potential driver of severe early-onset preeclampsia identified",
       "authors": "Medical Xpress",
       "abstract": "Severe early-onset preeclampsia has confounded doctors for more than 2,000 years. It can strike as early as 20 weeks into pregnancy, sending blood pressure soaring and putting both the mother and baby at risk.",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.638974+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.178709+00:00"
     },
     {
       "id": "rss-cdd6450f768b",
@@ -173,7 +205,7 @@ window.LIVE_FEED_DATA = {
       "title": "Normal-looking sleep can mask memory problems, study suggests",
       "authors": "Medical Xpress",
       "abstract": "A new mouse study that set out to test how sleep helps stabilize new memories has identified cells that may offer a genetic target for accessing circuits implicated in cognitive disorders. Researchers led by Min Xu and Wanling Peng from the Institute of Neuroscience at the Chinese Academy of Sciences focused on interneurons that gate the generation of ripples, which are brief bursts of electrical activity that are critical for memory consolidation.",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.639255+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.178839+00:00"
     },
     {
       "id": "rss-892a4c376732",
@@ -205,7 +237,7 @@ window.LIVE_FEED_DATA = {
       "title": "New treatment may cure common hormonal cause of high blood pressure",
       "authors": "Medical Xpress",
       "abstract": "A study led by Queen Mary University of London has found that a new treatment could offer a lasting cure for some people with a common hormonal cause of high blood pressure, even after they stop taking medication.",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -228,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.639486+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.178957+00:00"
     },
     {
       "id": "rss-c77c994b1097",
@@ -237,7 +269,7 @@ window.LIVE_FEED_DATA = {
       "title": "Heart researchers unpack neutral findings from ZEUS, an anti-inflammatory clinical trial",
       "authors": "Medical Xpress",
       "abstract": "Like cholesterol, inflammation causally contributes to the risk of cardiovascular disease, but findings from the clinical trial ZEUS indicate that the road to targeting inflammation may be less straightforward than once thought. ZEUS, a global phase 3 clinical trial led by Mass General Brigham researcher Paul Ridker, M.D., tested a drug that targets interleukin-6 (IL-6), a downstream inflammatory molecule. IL-6 inhibitors are commonly used to treat autoimmune disorders. However, while the new drug known as ziltivekimab lowered IL-6 levels, it did not reduce cardiovascular event rates compared to placebo.",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -260,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.639786+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.179105+00:00"
     },
     {
       "id": "rss-6847268816b3",
@@ -269,7 +301,7 @@ window.LIVE_FEED_DATA = {
       "title": "Study: Higher rates of parkinsonism among older adults with autism",
       "authors": "Medical Xpress",
       "abstract": "Middle-aged and older adults with autism are more likely to have co-occurring parkinsonism than adults without autism or intellectual disability, according to a new study led by George Washington University researchers in the Department of Speech, Language and Hearing Sciences.",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -292,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.640039+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.179217+00:00"
     },
     {
       "id": "rss-f3b6bedcbdfb",
@@ -301,7 +333,7 @@ window.LIVE_FEED_DATA = {
       "title": "New study identifies biological mechanism driving therapy resistance in advanced prostate cancer",
       "authors": "Medical Xpress",
       "abstract": "A multi-institutional collaborative study led by researchers at the University of Chicago and the Fred Hutchinson Cancer Center has identified a previously unknown biological mechanism that controls cell identity and treatment resistance in advanced prostate cancer.",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -324,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.640268+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.179328+00:00"
     },
     {
       "id": "rss-9193a7916261",
@@ -333,7 +365,7 @@ window.LIVE_FEED_DATA = {
       "title": "US reports highest number of measles cases in 35 years",
       "authors": "Medical Xpress",
       "abstract": "The United States has recorded more than 5,000 cases of measles this year, the highest number in 35 years, according to an official count released Friday.",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -356,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.640475+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.179427+00:00"
     },
     {
       "id": "rss-510ec50a0f0e",
@@ -365,7 +397,7 @@ window.LIVE_FEED_DATA = {
       "title": "New trial of AI phone assistant to monitor patients with long-term illness",
       "authors": "Medical Xpress",
       "abstract": "An AI assistant that conducts telephone consultations with patients is being trialed in the NHS to help clinicians monitor people with long-term illness. In the trial phase, the virtual assistant, called Dora Care, is designed to deliver safe and empathetic phone calls for people with osteoporosis—a bone-weakening condition that affects 3.5 million people in the U.K., particularly women and those over 50.",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -388,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.640760+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.179561+00:00"
     },
     {
       "id": "rss-936ecb630726",
@@ -397,7 +429,7 @@ window.LIVE_FEED_DATA = {
       "title": "Bariatric surgery is effective rescue strategy after GLP-1 receptor agonist failure",
       "authors": "Medical Xpress",
       "abstract": "Bariatric surgery is associated with clinically meaningful two-year weight loss after semaglutide or tirzepatide intolerance or inadequate response, according to a study published online Nov. 3 in the Annals of Surgery.",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -420,39 +452,103 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.641005+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.179667+00:00"
     },
     {
-      "id": "rss-bfa52a535489",
-      "discipline": "clinical",
+      "id": "rss-285bce6d87cf",
+      "discipline": "cs",
       "type": "news",
-      "title": "South African trial tests off-the-shelf killer cells against lymphoma",
-      "authors": "Medical Xpress",
-      "abstract": "South African researchers are testing \"off-the-shelf\" immune cells against lymphoma that has returned or resisted treatment, investigating an approach that avoids having to manufacture a separate treatment from each patient's own cells.",
-      "date": "2026-11-08",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "authors": "TechCrunch AI",
+      "abstract": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "date": "2026-11-09",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-south-african-trial-shelf-killer.html",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cells",
-        "south",
-        "african",
-        "off-the-shelf",
-        "against",
-        "lymphoma",
-        "that",
-        "treatment"
+        "huang",
+        "jensen",
+        "yale",
+        "jeffrey",
+        "sonnenfeld",
+        "line",
+        "estimates",
+        "about"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.641232+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.305969+00:00"
+    },
+    {
+      "id": "rss-eabfd71a61b4",
+      "discipline": "cs",
+      "type": "news",
+      "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "authors": "MIT News AI",
+      "abstract": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
+      "date": "2026-11-09",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "single",
+        "simulates",
+        "behavior",
+        "many",
+        "substances",
+        "sliding",
+        "sand",
+        "folding"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-09T06:16:56.487964+00:00"
+    },
+    {
+      "id": "rss-db4a52614d6e",
+      "discipline": "cs",
+      "type": "news",
+      "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+      "authors": "MIT News AI",
+      "abstract": "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots.",
+      "date": "2026-11-09",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "robots",
+        "ai-assisted",
+        "learning",
+        "platform",
+        "helps",
+        "reason",
+        "beyond",
+        "literal"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-09T06:16:56.488056+00:00"
     },
     {
       "id": "rss-1a8eb5090ba6",
@@ -484,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.674954+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.306082+00:00"
     },
     {
       "id": "rss-2dcedeb19886",
@@ -516,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.675169+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.306156+00:00"
     },
     {
       "id": "rss-bfd30b322a7a",
@@ -548,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.675361+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.306236+00:00"
     },
     {
       "id": "rss-f672610ccdf8",
@@ -580,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.675511+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.306300+00:00"
     },
     {
       "id": "rss-72b31a022cf4",
@@ -612,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.675673+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.306372+00:00"
     },
     {
       "id": "rss-3bbfb1af0e73",
@@ -644,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.675834+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.306442+00:00"
     },
     {
       "id": "rss-6a23828fcc59",
@@ -676,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.676013+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.306508+00:00"
     },
     {
       "id": "rss-a5ab06544db6",
@@ -708,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.676241+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.306616+00:00"
     },
     {
       "id": "rss-3260ad3c6f18",
@@ -740,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.676459+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.306719+00:00"
     },
     {
       "id": "rss-0788f8bc79c3",
@@ -772,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.676623+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.306791+00:00"
     },
     {
       "id": "rss-8b3f09472382",
@@ -804,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.676770+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.306857+00:00"
     },
     {
       "id": "rss-a4f1f3c6868f",
@@ -836,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.676929+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.306927+00:00"
     },
     {
       "id": "rss-ff6656f87cb3",
@@ -868,39 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.677085+00:00"
-    },
-    {
-      "id": "rss-6cf27f17e07d",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "authors": "TechCrunch AI",
-      "abstract": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "date": "2026-11-06",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "clutch",
-        "palo",
-        "alto",
-        "networks",
-        "talks",
-        "agent",
-        "security",
-        "startup"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.677238+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.306992+00:00"
     },
     {
       "id": "rss-0646faa6f733",
@@ -932,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.749446+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.488133+00:00"
     },
     {
       "id": "rss-ee3b71fee41a",
@@ -964,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.952914+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.669524+00:00"
     },
     {
       "id": "rss-948f337f76fa",
@@ -996,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.953165+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.669661+00:00"
     },
     {
       "id": "rss-9b3fb6e63d6f",
@@ -1028,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.749634+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.488217+00:00"
     },
     {
       "id": "openalex-1460ec1614d2",
@@ -1060,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.125764+00:00"
+      "_retrievedAt": "2026-11-09T06:16:48.123069+00:00"
     },
     {
       "id": "rss-36da62e14d67",
@@ -1092,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.953778+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.670243+00:00"
     },
     {
       "id": "rss-0301f8db1aca",
@@ -1124,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.953992+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.670338+00:00"
     },
     {
       "id": "rss-5116d0089903",
@@ -1156,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.954178+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.670427+00:00"
     },
     {
       "id": "openalex-b76d52d91fce",
@@ -1188,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.125126+00:00"
+      "_retrievedAt": "2026-11-09T06:16:48.122717+00:00"
     },
     {
       "id": "rss-a6d2ec7a9bd8",
@@ -1220,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.749803+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.488290+00:00"
     },
     {
       "id": "rss-e8ad5f5a7f57",
@@ -1252,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.954777+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.670744+00:00"
     },
     {
       "id": "openalex-15d253298584",
@@ -1284,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.764791+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.680247+00:00"
     },
     {
       "id": "rss-15e56cec1fd1",
@@ -1316,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.750021+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.488365+00:00"
     },
     {
       "id": "rss-0a0dc5009289",
@@ -1348,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.750202+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.488446+00:00"
     },
     {
       "id": "openalex-b9713b9a252a",
@@ -1380,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.124176+00:00"
+      "_retrievedAt": "2026-11-09T06:16:48.122231+00:00"
     },
     {
       "id": "openalex-11b5190cd445",
@@ -1412,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.762118+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.678945+00:00"
     },
     {
       "id": "rss-4ae9201eddcb",
@@ -1444,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.750353+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.488512+00:00"
     },
     {
       "id": "rss-4452dd44bbfd",
@@ -1476,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.750523+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.488593+00:00"
     },
     {
       "id": "openalex-c59144090f14",
@@ -1508,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.126445+00:00"
+      "_retrievedAt": "2026-11-09T06:16:48.123415+00:00"
     },
     {
       "id": "openalex-00c0ed843a5d",
@@ -1540,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.126759+00:00"
+      "_retrievedAt": "2026-11-09T06:16:48.123613+00:00"
     },
     {
       "id": "rss-8ccff313a082",
@@ -1571,7 +1635,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.954933+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.670808+00:00"
     },
     {
       "id": "openalex-818836e119b0",
@@ -1603,39 +1667,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.766266+00:00"
-    },
-    {
-      "id": "openalex-cb3cbda06d84",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Machine psychology for language models",
-      "authors": "Thilo Hagendorff, Ishita Dasgupta, Marcel Binz, Stephanie Chan, Andrew Lampinen, Jane X. Wang",
-      "abstract": "Large language models (LLMs) show increasingly advanced emergent capabilities and are being incorporated across various societal domains. Understanding their behavior and reasoning abilities is therefore important. We argue that a fruitful direction for research is engaging LLMs in experiments inspired by psychology that have traditionally been aimed at understanding human cognition and behavior. Here, we highlight and summarize theoretical perspectives, experimental paradigms, and computational analysis techniques that this approach brings to the table. It paves the way for a \"machine psychology\" for LLMs that goes beyond performance measurements and focuses instead on computational insights that move us toward a better understanding and discovery of emergent abilities and behavioral patterns in LLMs. We review existing work taking this approach, synthesize best practices, and highli...",
-      "date": "2026-10-28",
-      "year": 2026,
-      "journal": "Science Advances",
-      "source": "Science Advances",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1126/sciadv.aec1912",
-      "doi": "10.1126/sciadv.aec1912",
-      "pdfUrl": "https://doi.org/10.1126/sciadv.aec1912",
-      "keywords": [
-        "Psychology",
-        "Environmental psychology",
-        "Data science",
-        "Cognitive psychology",
-        "Social psychology",
-        "Topic Modeling",
-        "Natural Language Processing Techniques",
-        "Explainable Artificial Intelligence (XAI)"
-      ],
-      "readTime": "1 min",
-      "citedBy": 282,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:09.767760+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.680988+00:00"
     },
     {
       "id": "rss-820a582ce463",
@@ -1667,7 +1699,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.750686+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.488666+00:00"
     },
     {
       "id": "rss-3d5d65395710",
@@ -1699,7 +1731,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.750837+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.488733+00:00"
     },
     {
       "id": "rss-288b8cf14c15",
@@ -1731,7 +1763,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.751054+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.488811+00:00"
     },
     {
       "id": "openalex-5ab5668168ae",
@@ -1763,7 +1795,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.766579+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.681147+00:00"
     },
     {
       "id": "openalex-8824f3740ac6",
@@ -1795,7 +1827,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.449826+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.253076+00:00"
     },
     {
       "id": "rss-265637551189",
@@ -1827,7 +1859,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.751213+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.488881+00:00"
     },
     {
       "id": "rss-281de43e80f6",
@@ -1859,71 +1891,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.751389+00:00"
-    },
-    {
-      "id": "rss-60fc831425ac",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Reinforcing the value of human understanding at MIT",
-      "authors": "MIT News AI",
-      "abstract": "During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”",
-      "date": "2026-10-23",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "reinforcing",
-        "value",
-        "human",
-        "understanding",
-        "during",
-        "school",
-        "humanities",
-        "arts"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.751566+00:00"
-    },
-    {
-      "id": "rss-cbaee3e9e823",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Q&A: How AI came to model the “messy” human mind",
-      "authors": "MIT News AI",
-      "abstract": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate.",
-      "date": "2026-10-23",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "came",
-        "messy",
-        "human",
-        "mind",
-        "assistant",
-        "professor",
-        "benjamin",
-        "lindquist"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.751740+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.488979+00:00"
     },
     {
       "id": "rss-9d78f66ca49b",
@@ -1955,7 +1923,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.955411+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.671091+00:00"
     },
     {
       "id": "rss-f707a76ef1e5",
@@ -1987,7 +1955,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.955938+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.671342+00:00"
     },
     {
       "id": "rss-d37d11696ae4",
@@ -2019,7 +1987,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:13.956413+00:00"
+      "_retrievedAt": "2026-11-09T06:16:56.671587+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2051,7 +2019,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.451356+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.253796+00:00"
     },
     {
       "id": "openalex-9ede209118a4",
@@ -2083,7 +2051,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.452102+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.254157+00:00"
     },
     {
       "id": "openalex-7a7d520be8ce",
@@ -2115,39 +2083,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.453099+00:00"
-    },
-    {
-      "id": "openalex-84e3fa65288d",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "An open vision-language model for diverse medical applications",
-      "authors": "Andrew Sellergren, Sahar Kazemzadeh, Fereshteh Mahvar, Atilla P. Kiraly, Madeleine Traverse, Timo Kohlberger",
-      "abstract": "Artificial intelligence has high potential for impact in healthcare applications, but its training and deployment are challenging due to diverse data, a complex spectrum of possible tasks and important privacy needs. High-performing foundation models that enable data-efficient fine-tuning for diverse downstream tasks can meaningfully accelerate development in this domain. We introduce MedGemma, a collection of medical vision-language foundation models based on Gemma 3. MedGemma demonstrates advanced medical understanding and reasoning across images and text and multiple medical imaging domains, exceeding the performance of similarly sized generative models while maintaining the general capabilities of the Gemma base models. For out-of-distribution tasks, MedGemma achieves improvements of 2.6-10% in medical image question answering, 15.5-18.1% in chest X-ray finding classification and...",
-      "date": "2026-10-01",
-      "year": 2026,
-      "journal": "Nature Medicine",
-      "source": "Nature Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41591-026-04626-w",
-      "doi": "10.1038/s41591-026-04626-w",
-      "pdfUrl": "https://www.nature.com/articles/s41591-026-04626-w.pdf",
-      "keywords": [
-        "Computer science",
-        "Artificial intelligence",
-        "Software deployment",
-        "Foundation (evidence)",
-        "Data science",
-        "Multimodal Machine Learning Applications",
-        "Artificial Intelligence in Healthcare and Education",
-        "Domain Adaptation and Few-Shot Learning"
-      ],
-      "readTime": "1 min",
-      "citedBy": 946,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:09.766384+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.254656+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -2179,7 +2115,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.453397+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.254805+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -2211,39 +2147,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.761704+00:00"
-    },
-    {
-      "id": "openalex-f5dc3633b103",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Mathematical discovery and exploration can be done at scale",
-      "authors": "Bogdan Georgiev, Javier Gómez-Serrano, Terence Tao, Adam Zsolt Wagner",
-      "abstract": "AlphaEvolve, introduced in A. Novikov et al . [“AlphaEvolve: A coding agent for scientific and algorithmic discovery” (Tech. Rep., Google DeepMind, 2025).], is a generic evolutionary coding agent that combines large language models (LLMs) with automated evaluation in a loop that proposes, tests, and refines algorithmic solutions. Here we showcase AlphaEvolve as a tool for autonomously discovering novel mathematical constructions and making progress on long-standing open problems. On 67 problems spanning mathematical analysis, combinatorics, geometry, and number theory, the system rediscovered the best known solutions in most cases and improved on them in several. In some instances, it also generalized results for finitely many input values into a formula valid for all inputs. Furthermore, we combine this methodology with Deep Think [Google DeepMind, Advanced Version of Gemini with Dee...",
-      "date": "2026-09-30",
-      "year": 2026,
-      "journal": "Proceedings of the National Academy of Sciences",
-      "source": "Proceedings of the National Academy of Sciences",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1073/pnas.2536158123",
-      "doi": "10.1073/pnas.2536158123",
-      "pdfUrl": "https://doi.org/10.1073/pnas.2536158123",
-      "keywords": [
-        "Computer science",
-        "Olympiad",
-        "Coding (social sciences)",
-        "Mathematical structure",
-        "Complement (music)",
-        "Evolutionary Algorithms and Applications",
-        "Artificial Intelligence Applications",
-        "Mathematics, Computing, and Information Processing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 155,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:09.770251+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.678734+00:00"
     },
     {
       "id": "openalex-4017ee65ef38",
@@ -2275,39 +2179,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.121904+00:00"
-    },
-    {
-      "id": "openalex-9a39b97a87a9",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Aristotle: IMO-level Automated Theorem Proving",
-      "authors": "Tudor Achim, Alex J. Best, Alberto Bietti, Kevin Der, Mathïs Fédérico, Sergei Gukov",
-      "abstract": "We introduce Aristotle, an AI system that combines formal verification with informal reasoning, achieving gold-medal-equivalent performance on the 2025 International Mathematical Olympiad problems. Aristotle integrates three main components: a Lean proof search system, an informal reasoning system that generates and formalizes lemmas, and a dedicated geometry solver. Our system demonstrates state-of-the-art performance with favorable scaling properties for automated theorem proving.",
-      "date": "2026-09-25",
-      "year": 2026,
-      "journal": "SuperIntelligence - Robotics - Safety & Alignment",
-      "source": "SuperIntelligence - Robotics - Safety & Alignment",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.70777/si.v3i3.18745",
-      "doi": "10.70777/si.v3i3.18745",
-      "pdfUrl": "https://doi.org/10.70777/si.v3i3.18745",
-      "keywords": [
-        "Automated theorem proving",
-        "Computer science",
-        "Automated reasoning",
-        "Olympiad",
-        "Automated proof checking",
-        "Logic, programming, and type systems",
-        "Formal Methods in Verification",
-        "Mathematics, Computing, and Information Processing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 147,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:09.770833+00:00"
+      "_retrievedAt": "2026-11-09T06:16:48.120866+00:00"
     },
     {
       "id": "openalex-88c8bbfa038c",
@@ -2339,7 +2211,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.449518+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.252897+00:00"
     },
     {
       "id": "openalex-aa30ebe2f1c6",
@@ -2371,7 +2243,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.454150+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.255179+00:00"
     },
     {
       "id": "openalex-8eb078218eca",
@@ -2403,7 +2275,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.126166+00:00"
+      "_retrievedAt": "2026-11-09T06:16:48.123260+00:00"
     },
     {
       "id": "openalex-3dd652be759c",
@@ -2435,7 +2307,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.452446+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.254331+00:00"
     },
     {
       "id": "openalex-cd41132c9d18",
@@ -2467,39 +2339,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.122335+00:00"
-    },
-    {
-      "id": "openalex-e93dd4d183a9",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models",
-      "authors": "Guangji Bai, Zheng Chai, Ling Chen, Shiyu Wang, Jiaying Lu, Nan Zhang",
-      "abstract": "The burgeoning field of Large Language Models (LLMs), exemplified by sophisticated models like OpenAI’s ChatGPT, represents a significant advancement in artificial intelligence. These models, however, bring forth substantial challenges in high consumption of computational, memory, energy, and financial resources, especially in environments with limited resource capabilities. This survey aims to systematically address these challenges by reviewing a broad spectrum of techniques designed to enhance the resource efficiency of LLMs. We categorize methods based on their optimization focus—covering computational, memory, energy, financial, and network resources—and their applicability across various stages of an LLM’s lifecycle, including architecture design, pre-training, fine-tuning, and system design. Additionally, the survey introduces a nuanced categorization of resource efficiency tec...",
-      "date": "2026-09-15",
-      "year": 2026,
-      "journal": "ACM Computing Surveys",
-      "source": "ACM Computing Surveys",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3845797",
-      "doi": "10.1145/3845797",
-      "pdfUrl": "https://doi.org/10.1145/3845797",
-      "keywords": [
-        "Computer science",
-        "Resource (disambiguation)",
-        "Categorization",
-        "Data science",
-        "Field (mathematics)",
-        "Topic Modeling",
-        "Advanced Neural Network Applications",
-        "Natural Language Processing Techniques"
-      ],
-      "readTime": "1 min",
-      "citedBy": 207,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:09.769860+00:00"
+      "_retrievedAt": "2026-11-09T06:16:48.121155+00:00"
     },
     {
       "id": "openalex-4eeff6704837",
@@ -2531,7 +2371,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.765152+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.680413+00:00"
     },
     {
       "id": "openalex-8391e68a705c",
@@ -2563,7 +2403,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.452726+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.254476+00:00"
     },
     {
       "id": "openalex-554ee5013027",
@@ -2595,7 +2435,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.765482+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.680579+00:00"
     },
     {
       "id": "openalex-bb23e4ef92cf",
@@ -2627,39 +2467,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.123586+00:00"
-    },
-    {
-      "id": "openalex-4d7da7db66ac",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation",
-      "authors": "Steffen Eger, Yong Cao, Jennifer D’Souza, Andreas Geiger, Christian Greisinger, Stephanie Gross",
-      "abstract": "With the advent of large multimodal language models, science is now at a threshold of an AI-based technological transformation. An emerging ecosystem of models and tools aims to support researchers throughout the scientific lifecycle, including (1) searching for relevant literature, (2) generating research ideas and conducting experiments, (3) producing text-based content, (4) creating multimodal artifacts such as figures and diagrams, and (5) evaluating scientific work, as in peer review. In this survey, we provide a curated overview of literature representative of the core techniques, evaluation practices, and emerging trends in AI-assisted scientific discovery. Across the five tasks outlined above, we discuss datasets, methods, results, evaluation strategies, limitations, and ethical concerns, including risks to research integrity through the misuse of generative models. We aim for...",
-      "date": "2026-09-05",
-      "year": 2026,
-      "journal": "ACM Computing Surveys",
-      "source": "ACM Computing Surveys",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3845596",
-      "doi": "10.1145/3845596",
-      "pdfUrl": "https://doi.org/10.1145/3845596",
-      "keywords": [
-        "Content (measure theory)",
-        "Scientific discovery",
-        "Computer science",
-        "Data science",
-        "Psychology",
-        "Artificial Intelligence Applications",
-        "Topic Modeling",
-        "Multimodal Machine Learning Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 122,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:09.771428+00:00"
+      "_retrievedAt": "2026-11-09T06:16:48.121906+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2691,71 +2499,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.760971+00:00"
-    },
-    {
-      "id": "openalex-518b9bf6cea9",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "PPI++: Efficient prediction-powered inference",
-      "authors": "Anastasios N. Angelopoulos, John C. Duchi, Tijana Zrnic",
-      "abstract": "We present PPI++: a computationally lightweight methodology for estimation and inference based on a small labeled dataset and a typically much larger dataset of machine-learning predictions. The methods automatically adapt to the quality of available predictions, yielding easy-to-compute confidence sets—for parameters of any dimensionality—that always improve on classical intervals using only the labeled data. PPI++ builds on prediction-powered inference (PPI), which targets the same problem setting, improving its computational and statistical efficiency. Real and synthetic experiments demonstrate the benefits of the proposed adaptations.",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "The Annals of Applied Statistics",
-      "source": "The Annals of Applied Statistics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1214/26-aoas2215",
-      "doi": "10.1214/26-aoas2215",
-      "pdfUrl": "https://arxiv.org/pdf/2311.01453",
-      "keywords": [
-        "Inference",
-        "Computer science",
-        "Curse of dimensionality",
-        "Machine learning",
-        "Artificial intelligence",
-        "Statistical Methods and Inference",
-        "Machine Learning and Data Classification",
-        "Probability and Statistical Research"
-      ],
-      "readTime": "1 min",
-      "citedBy": 215,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:09.769480+00:00"
-    },
-    {
-      "id": "openalex-da37b7f1fa1c",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Harnessing Multiple Large Language Models: A Survey on LLM Ensemble",
-      "authors": "Zhijun Chen, J. Jenny Li, J. Jenny Li, Pengpeng Chen, Zhuoran Li, Kai Sun",
-      "abstract": "LLM Ensemble---which involves the comprehensive use of multiple large language models (LLMs), each aimed at handling user queries during downstream inference, to benefit from their individual strengths---has gained substantial attention recently. The widespread availability of LLMs, coupled with their varying strengths and out-of-the-box usability, has profoundly advanced the field of LLM Ensemble. This paper presents the first systematic review of recent developments in LLM Ensemble. First, we introduce our taxonomy of LLM Ensemble and discuss several related research problems. Then, we provide a more in-depth classification of the methods under the broad categories of ``ensemble-before-inference, ensemble-during-inference, ensemble-after-inference'', and review relevant methods. Finally, we introduce related benchmarks and applications, summarize existing studies, and suggest future...",
-      "date": "2026-09-01",
-      "year": 2026,
-      "journal": "International Joint Conference on Artificial Intelligence",
-      "source": "International Joint Conference on Artificial Intelligence",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.24963/ijcai.2026/867",
-      "doi": "10.24963/ijcai.2026/867",
-      "pdfUrl": "https://www.ijcai.org/proceedings/2026/0867.pdf",
-      "keywords": [
-        "Computer science",
-        "Taxonomy (biology)",
-        "Ensemble learning",
-        "Data science",
-        "Field (mathematics)",
-        "Topic Modeling",
-        "Natural Language Processing Techniques",
-        "Multimodal Machine Learning Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 125,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:09.771124+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.678347+00:00"
     },
     {
       "id": "openalex-021b339d4b20",
@@ -2787,7 +2531,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.761272+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.678498+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2819,7 +2563,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.764002+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.679854+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2851,7 +2595,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.122628+00:00"
+      "_retrievedAt": "2026-11-09T06:16:48.121356+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2883,39 +2627,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.125449+00:00"
-    },
-    {
-      "id": "openalex-6e7aa9ad6862",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "BeyondMimic: From motion tracking to versatile humanoid control via guided diffusion",
-      "authors": "Qiayuan Liao, Takara Everest Truong, Xiaoyu Huang, Yuman Gao, Guy Tevet, Koushil Sreenath",
-      "abstract": "The humanlike form of humanoid robots uniquely positions them to achieve the agility and versatility in motor skills that humans have. Learning from human demonstrations offers a scalable approach to acquiring these capabilities. However, prior works either produced unnatural motions or relied on motion-specific tuning to achieve satisfactory naturalness. Furthermore, these methods are often motion or goal specific, lacking the versatility to compose diverse skills, especially when solving unseen tasks. We present BeyondMimic, a framework that scales to diverse motions and carries the versatility to compose them seamlessly in tackling unseen downstream tasks. A compact motion tracking formulation enables mastery of a wide range of highly agile behaviors, including aerial cartwheels, spin kicks, flip kicks, and sprinting, with a single setup and shared hyperparameters, all while achiev...",
-      "date": "2026-08-26",
-      "year": 2026,
-      "journal": "Science Robotics",
-      "source": "Science Robotics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1126/scirobotics.adx8924",
-      "doi": "10.1126/scirobotics.adx8924",
-      "pdfUrl": "https://arxiv.org/pdf/2508.08241",
-      "keywords": [
-        "Humanoid robot",
-        "Computer science",
-        "Artificial intelligence",
-        "Agile software development",
-        "Joystick",
-        "Human Motion and Animation",
-        "Reinforcement Learning in Robotics",
-        "Robot Manipulation and Learning"
-      ],
-      "readTime": "1 min",
-      "citedBy": 293,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:09.767468+00:00"
+      "_retrievedAt": "2026-11-09T06:16:48.122890+00:00"
     },
     {
       "id": "openalex-514dbfd7d5d8",
@@ -2947,7 +2659,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.124459+00:00"
+      "_retrievedAt": "2026-11-09T06:16:48.122379+00:00"
     },
     {
       "id": "openalex-506180faa30c",
@@ -2979,39 +2691,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.123276+00:00"
-    },
-    {
-      "id": "openalex-50c318e007c8",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "SONIC: Supersizing motion tracking for natural humanoid whole-body control",
-      "authors": "Zhengyi Luo, Ye Yuan, Tingwu Wang, Chenran Li, Fernando Castañeda, Sirui Chen",
-      "abstract": "Despite the rise of billion-parameter foundation models trained across thousands of graphical processing units (GPUs), similar scaling gains have not been shown for humanoid control. Current neural controllers for humanoids remain modest in size, target a limited set of behaviors, and are trained on a handful of GPUs. We show that scaling model capacity, data, and compute yields a generalist humanoid controller capable of natural, robust whole-body movements. We position motion tracking as a scalable task for humanoid control, leveraging dense supervision from diverse motion-capture data to acquire human motion priors without manual reward engineering. We build a foundation model for motion tracking by scaling along three axes: network size (1.2 to 42 million parameters), dataset volume (more than 100 million frames from 700 hours of motion capture), and compute (21,000 GPU hours). Be...",
-      "date": "2026-08-12",
-      "year": 2026,
-      "journal": "Science Robotics",
-      "source": "Science Robotics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1126/scirobotics.aed4592",
-      "doi": "10.1126/scirobotics.aed4592",
-      "pdfUrl": "https://arxiv.org/pdf/2511.07820",
-      "keywords": [
-        "Computer science",
-        "Humanoid robot",
-        "Artificial intelligence",
-        "Computer vision",
-        "Motion (physics)",
-        "Human Motion and Animation",
-        "Reinforcement Learning in Robotics",
-        "Robotic Locomotion and Control"
-      ],
-      "readTime": "1 min",
-      "citedBy": 228,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:09.768471+00:00"
+      "_retrievedAt": "2026-11-09T06:16:48.121740+00:00"
     },
     {
       "id": "openalex-dbb3c4b557e9",
@@ -3043,39 +2723,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.450738+00:00"
-    },
-    {
-      "id": "openalex-838b1babffe0",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "LLM Post-Training: A Deep Dive Into Reasoning Large Language Models",
-      "authors": "Komal Kumar, Tajamul Ashraf, Omkar Thawakar, Rao Muhammad Anwer, Hisham Cholakkal, Mubarak Shah",
-      "abstract": "Large Language Models (LLMs) have transformed the natural language processing landscape and brought to life diverse applications. Pretraining on vast web-scale data has laid the foundation for these models, yet the research community is now increasingly shifting focus toward post-training techniques to achieve further breakthroughs. While pretraining provides a broad linguistic foundation, post-training methods enable LLMs to refine their knowledge, improve reasoning, enhance factual accuracy, and align more effectively with user intents and ethical considerations. Fine-tuning, reinforcement learning, and test-time scaling have emerged as critical strategies for optimizing LLMs performance, ensuring robustness, and improving adaptability across various real-world tasks. This survey provides a systematic exploration of post-training methodologies, analyzing their role in refining LLMs...",
-      "date": "2026-08-04",
-      "year": 2026,
-      "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "source": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1109/tpami.2026.3720414",
-      "doi": "10.1109/tpami.2026.3720414",
-      "pdfUrl": "https://arxiv.org/pdf/2502.21321",
-      "keywords": [
-        "Adaptability",
-        "Computer science",
-        "Data science",
-        "Key (lock)",
-        "Natural language",
-        "Topic Modeling",
-        "Natural Language Processing Techniques",
-        "Domain Adaptation and Few-Shot Learning"
-      ],
-      "readTime": "1 min",
-      "citedBy": 217,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:09.769237+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.253506+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -3107,7 +2755,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.122941+00:00"
+      "_retrievedAt": "2026-11-09T06:16:48.121554+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -3139,7 +2787,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.124807+00:00"
+      "_retrievedAt": "2026-11-09T06:16:48.122567+00:00"
     },
     {
       "id": "openalex-7d24a7f15d87",
@@ -3171,7 +2819,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.763295+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.679526+00:00"
     },
     {
       "id": "openalex-e22ded591b71",
@@ -3203,7 +2851,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.762934+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.679365+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -3235,71 +2883,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.760659+00:00"
-    },
-    {
-      "id": "openalex-26e8fbfaec61",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "authors": "Kimi Team, Tongtong Bai, Yifan Bai, Yiping Bao, M. C., Jianfeng Cai",
-      "abstract": "We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel t...",
-      "date": "2026-07-27",
-      "year": 2026,
-      "journal": "arXiv (Cornell University)",
-      "source": "arXiv (Cornell University)",
-      "sourceApi": "OpenAlex",
-      "url": "https://arxiv.org/abs/2607.24653",
-      "doi": "10.48550/arxiv.2607.24653",
-      "pdfUrl": "https://arxiv.org/pdf/2607.24653",
-      "keywords": [
-        "Software deployment",
-        "Computer science",
-        "Context (archaeology)",
-        "Reinforcement learning",
-        "Artificial intelligence",
-        "Topic Modeling",
-        "Natural Language Processing Techniques",
-        "Advanced Neural Network Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 349,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:09.767122+00:00"
-    },
-    {
-      "id": "openalex-1a4374889b53",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Exploring Large Language Model‐Based Intelligent Agents: Definitions, Methods, and Prospects",
-      "authors": "Yuheng Cheng, Ceyao Zhang, Zhengwen Zhang, Xiangrui Meng, Sirui Hong, Wenhao Li",
-      "abstract": "ABSTRACT The concept of the intelligent agent represents a long‐standing pursuit in artificial intelligence. Recent breakthroughs in large language models (LLMs) have catalyzed a paradigm shift, enabling the development of sophisticated agents that exhibit advanced reasoning, planning, and tool‐use capabilities across diverse domains. These LLM‐based agents, which leverage natural language as a universal interface for cognition and interaction, are rapidly advancing from theoretical constructs to practical applications, ranging from autonomous task assistants to complex multi‐agent simulations of social and economic systems. This paper provides an integrative survey of this burgeoning field. We first establish an organizing framework for understanding LLM‐based agents, systematically deconstructing both single‐agent and multi‐agent systems into their core components. We analyze the ar...",
-      "date": "2026-07-24",
-      "year": 2026,
-      "journal": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
-      "source": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/widm.70111",
-      "doi": "10.1002/widm.70111",
-      "pdfUrl": "https://arxiv.org/pdf/2401.03428",
-      "keywords": [
-        "Computer science",
-        "Implementation",
-        "Interface (matter)",
-        "Natural language",
-        "Natural language understanding",
-        "Multi-Agent Systems and Negotiation",
-        "AI-based Problem Solving and Planning",
-        "Artificial Intelligence Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 271,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:09.768135+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.678194+00:00"
     },
     {
       "id": "openalex-65254d753054",
@@ -3331,7 +2915,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.451711+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.253976+00:00"
     },
     {
       "id": "openalex-f4959844837a",
@@ -3363,7 +2947,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.765861+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.680776+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -3395,7 +2979,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.123841+00:00"
+      "_retrievedAt": "2026-11-09T06:16:48.122068+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -3427,39 +3011,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.453738+00:00"
-    },
-    {
-      "id": "openalex-6b15c7cad215",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Artificial intelligence and its impact on creativity and diversity: An empirical study of large language model-generated product ideas",
-      "authors": "Christian Terwiesch, Lennart Meincke, Karan Girotra, Ethan Mollick, Gideon Nave, Karl T. Ulrich",
-      "abstract": "This research examines how well large language models (LLMs) generate new product ideas, focusing on new products for college students priced under $50. Through a series of studies, we identify key strengths and weaknesses of using LLMs for product innovation. Our first study shows that LLM-generated product ideas have higher average quality than human ideas (based on purchase intent) and are 7 times more likely to rank in the top 10%. Our second study demonstrates that this AI-induced creativity boost is not explained by the LLM’s more persuasive pitching skills. Our third and fourth studies identify an interesting weakness of using LLMs for brainstorming, showing that AI-generated ideas are less novel (at the idea level) and less diverse (at the set level). In our fifth study, we investigate the generalizability of these findings by analyzing prior LLM-based creativity studies and f...",
-      "date": "2026-07-22",
-      "year": 2026,
-      "journal": "Production and Operations Management",
-      "source": "Production and Operations Management",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1177/10591478261474243",
-      "doi": "10.1177/10591478261474243",
-      "pdfUrl": "https://doi.org/10.1177/10591478261474243",
-      "keywords": [
-        "Creativity",
-        "Generalizability theory",
-        "Diversity (politics)",
-        "Pooling",
-        "Product (mathematics)",
-        "Design Education and Practice",
-        "Creativity in Education and Neuroscience",
-        "Artificial Intelligence Applications"
-      ],
-      "readTime": "2 min",
-      "citedBy": 227,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:09.768941+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.254988+00:00"
     },
     {
       "id": "openalex-1b0263729043",
@@ -3491,39 +3043,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.454506+00:00"
-    },
-    {
-      "id": "openalex-65c3e45e4caf",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "M2SNet: Multi-scale in Multi-scale Subtraction Network for Medical Image Segmentation",
-      "authors": "Xiaoqi Zhao, Hongpeng Jia, Youwei Pang, Long Lv, Feng Tian, Lihe Zhang",
-      "abstract": "Abstract Accurate medical image segmentation is critical for early medical diagnosis. Most existing methods are based on U-shape structure and use element-wise addition or concatenation to fuse different level features progressively in decoder. However, both the two operations easily generate plenty of redundant information, which will weaken the complementarity between different level features, resulting in inaccurate localization and blurred edges of lesions. To address this challenge, we propose a general multi-scale in multi-scale subtraction network (M 2 SNet) to finish diverse segmentation from medical image. Specifically, we first design a basic subtraction unit (SU) to produce the difference features between adjacent levels in encoder. Next, we expand the single-scale SU to the intra-layer multi-scale SU, which can provide the decoder with both pixel-level and structure-level...",
-      "date": "2026-07-20",
-      "year": 2026,
-      "journal": "Machine Intelligence Research",
-      "source": "Machine Intelligence Research",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1007/s11633-026-1662-9",
-      "doi": "10.1007/s11633-026-1662-9",
-      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11633-026-1662-9.pdf",
-      "keywords": [
-        "Computer science",
-        "Artificial intelligence",
-        "Segmentation",
-        "Subtraction",
-        "Scale (ratio)",
-        "Medical Image Segmentation Techniques",
-        "Advanced Neural Network Applications",
-        "Domain Adaptation and Few-Shot Learning"
-      ],
-      "readTime": "1 min",
-      "citedBy": 151,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:09.770625+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.255352+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -3555,7 +3075,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.763603+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.679675+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3587,39 +3107,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.450168+00:00"
-    },
-    {
-      "id": "openalex-c78b5aa253cb",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "π*₀.₆: a VLA That Learns From Experience",
-      "authors": "Ali Amin, Raichelle J. Aniceto, Ashwin Balakrishna, Kevin Black, Ken Conley, Grace Connors",
-      "abstract": "Fig. 1: RECAP enables VLAs to improve performance during deployment.Our model incorporates advantage conditioning, allowing it to ingest diverse types of real-world experience: human demonstrations, autonomous rollouts and online corrections.Learning from real-world interaction via advantage conditioning improves the model's understanding of how actions influence performance, leading to a faster and more successful policy.Abstract-Vision-language-action (VLA) models offer a promising path toward general-purpose robots, but achieving the reliability and speed required for practical deployment remains challenging.We present a general-purpose method, RL with Experience and Corrections via Advantage-conditioned Policies (RECAP) that improves the efficiency and reliability of VLA policies by utilizing their real-world experience.Our method introduces value-based advantage conditioning duri...",
-      "date": "2026-07-13",
-      "year": 2026,
-      "journal": "Robotics: Science and Systems",
-      "source": "Robotics: Science and Systems",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.15607/rss.2026.xxii.087",
-      "doi": "10.15607/rss.2026.xxii.087",
-      "pdfUrl": "https://doi.org/10.15607/rss.2026.xxii.087",
-      "keywords": [
-        "Software deployment",
-        "Computer science",
-        "Task (project management)",
-        "Reliability (semiconductor)",
-        "Throughput",
-        "Robot Manipulation and Learning",
-        "Reinforcement Learning in Robotics",
-        "Multimodal Machine Learning Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 400,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:09.766768+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.253227+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3651,7 +3139,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-08T21:59:10.764416+00:00"
+      "_retrievedAt": "2026-11-09T06:16:50.680061+00:00"
     }
   ]
 };
