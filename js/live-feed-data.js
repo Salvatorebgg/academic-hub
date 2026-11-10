@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-11-10T14:47:56.301368+00:00",
+  "generatedAt": "2026-11-10T23:15:11.517443+00:00",
   "total": 114,
   "sources": [
     "RSS",
@@ -7,348 +7,220 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-1b9f72370591",
+      "id": "rss-cd296c7f3c46",
       "discipline": "clinical",
       "type": "news",
-      "title": "Experimental drug eliminates 75% of aggressive pancreatic tumors and enhances immune system memory",
+      "title": "Why does cancer rarely spread to the heart? Researchers develop organ-on-a-chip platform to find out",
       "authors": "Medical Xpress",
-      "abstract": "Many solid tumors, including many cancers of the pancreas, breast, colon and lung, protect themselves with a dense wall of scar-like tissue. That wall keeps the immune system's cancer-killing T cells out. It is a major reason why immunotherapy drugs, which have transformed treatment for some patients, help only a minority of people with solid tumors.",
+      "abstract": "Researchers from the University of Toronto have created a new multi-organ-on-a-chip device to investigate why the heart is one of the least common sites of cancer metastasis, creating new opportunities for cancer research and drug discovery.",
       "date": "2026-11-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-experimental-drug-aggressive-pancreatic-tumors.html",
+      "url": "https://medicalxpress.com/news/2026-11-cancer-rarely-heart-chip-platform.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "tumors",
-        "immune",
-        "system",
-        "many",
-        "solid",
-        "wall",
-        "experimental",
-        "drug"
+        "cancer",
+        "heart",
+        "researchers",
+        "does",
+        "rarely",
+        "spread",
+        "develop",
+        "organ-on-a-chip"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:55.988430+00:00"
+      "_retrievedAt": "2026-11-10T23:15:10.823445+00:00"
     },
     {
-      "id": "rss-f00b535b1819",
+      "id": "rss-80e383998ffc",
       "discipline": "clinical",
       "type": "news",
-      "title": "Growing older in Japan: Gender and living arrangements linked to mental health",
+      "title": "Digitally supported care model improves serum urate target attainment in gout",
       "authors": "Medical Xpress",
-      "abstract": "As traditional multigenerational households have become less common, increasing numbers of older adults are living alone or with only their spouses. Over the last few decades, Japan has been experiencing two major demographic changes: a rapidly aging population and a shift in how older adults live. These changes have important implications for health and well-being in later life, as living arrangements can shape social support, companionship and caregiving responsibilities.",
+      "abstract": "For patients with gout, a physician-supervised treat-to-target (T2T) care model improves serum urate (SUA) target attainment, according to a study published online Nov. 4 in Arthritis & Rheumatology.",
       "date": "2026-11-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-older-japan-gender-linked-mental.html",
+      "url": "https://medicalxpress.com/news/2026-11-digitally-serum-urate-gout.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "older",
-        "living",
-        "japan",
-        "arrangements",
-        "health",
-        "have",
-        "adults",
-        "changes"
+        "care",
+        "improves",
+        "serum",
+        "urate",
+        "target",
+        "attainment",
+        "gout",
+        "digitally"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:55.988731+00:00"
+      "_retrievedAt": "2026-11-10T23:15:10.823589+00:00"
     },
     {
-      "id": "rss-51acd9ffe2f7",
+      "id": "rss-1518594fc29c",
       "discipline": "clinical",
       "type": "news",
-      "title": "People worry most about hormone-disrupting chemicals in food and drink, least in skin products, study finds",
+      "title": "New biomarker may extend detection window for date-rape drug GHB",
       "authors": "Medical Xpress",
-      "abstract": "When it comes to hormone-disrupting chemicals, people worry most about what they eat and drink and least about what they put on their skin, according to new research published in Risk Analysis.",
+      "abstract": "Every hour is critical when it comes to detecting the use of drugs used to render victims unconscious. The substance GHB, which is commonly used in this way, is excreted rapidly from blood and urine. Researchers at the University of Zurich have been evaluating a new biomarker using urine samples from real forensic cases. This biomarker can indicate earlier GHB intake even when the drug is no longer detectable using conventional analysis.",
       "date": "2026-11-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-people-hormone-disrupting-chemicals-food.html",
+      "url": "https://medicalxpress.com/news/2026-11-biomarker-window-date-rape-drug.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "biomarker",
+        "drug",
+        "when",
+        "used",
+        "this",
+        "urine",
+        "extend",
+        "detection"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:10.823734+00:00"
+    },
+    {
+      "id": "rss-e74c4f3fa6ad",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Lung ultrasound predicts progression of interstitial lung abnormalities in rheumatoid arthritis",
+      "authors": "Medical Xpress",
+      "abstract": "Lung ultrasound (LUS) can predict radiologic progression of interstitial lung abnormalities (ILAs) in patients with rheumatoid arthritis (RA), according to a study published in the November issue of Arthritis & Rheumatology.",
+      "date": "2026-11-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-lung-ultrasound-interstitial-abnormalities-rheumatoid.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "lung",
+        "arthritis",
+        "ultrasound",
+        "progression",
+        "interstitial",
+        "abnormalities",
+        "rheumatoid",
+        "predicts"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:10.823853+00:00"
+    },
+    {
+      "id": "rss-775bf5d84776",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "About half have meaningful drop in long COVID symptoms by 36 months, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "About one-half of persons with likely long COVID (LC) after first severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection experience a meaningful reduction in symptoms by 36 months, according to a study published online Nov. 3 in the Annals of Internal Medicine.",
+      "date": "2026-11-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-meaningful-covid-symptoms-months.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "about",
-        "people",
-        "worry",
-        "most",
-        "hormone-disrupting",
-        "chemicals",
-        "drink",
-        "least"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:55.988978+00:00"
-    },
-    {
-      "id": "rss-59deee3cb055",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Coffee appears to change how the gut functions",
-      "authors": "Medical Xpress",
-      "abstract": "If you drink coffee regularly, it appears to alter not only your gut bacteria but also the physiology of the gut itself. That is the conclusion of a study from the University of Copenhagen, which may help point the way toward better treatments for constipation. The study is published in the journal Gut Microbiology.",
-      "date": "2026-11-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-coffee-gut-functions.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "coffee",
-        "appears",
-        "change",
-        "functions",
-        "drink",
-        "regularly",
-        "alter",
-        "only"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:55.989218+00:00"
-    },
-    {
-      "id": "rss-6c2ee0930558",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Video-assisted informed consent helps reduce decisional conflict in cancer patients",
-      "authors": "Medical Xpress",
-      "abstract": "For patients undergoing gastric cancer surgery, informed consent (IC) can involve extensive information about surgical methods, complications, risks, benefits and life after treatment. Conventional face-to-face explanations can be difficult to absorb in one sitting and require substantial time from both patients and surgeons. Decisional conflict, the uncertainty people may feel when making a treatment choice, adds to this challenge.",
-      "date": "2026-11-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-video-consent-decisional-conflict-cancer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "patients",
-        "informed",
-        "consent",
-        "decisional",
-        "conflict",
-        "cancer",
-        "treatment",
-        "video-assisted"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:55.989474+00:00"
-    },
-    {
-      "id": "rss-196b84399ab4",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Research challenges fusion for lumbar degenerative spondylolisthesis",
-      "authors": "Medical Xpress",
-      "abstract": "For adults with lumbar degenerative spondylolisthesis and symptomatic back or leg pain lasting at least three months, the addition of fusion to decompression is not associated with differential effects at 12 months, according to a study published online in the Annals of Internal Medicine.",
-      "date": "2026-11-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-fusion-lumbar-degenerative-spondylolisthesis.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "fusion",
-        "lumbar",
-        "degenerative",
-        "spondylolisthesis",
+        "meaningful",
+        "long",
+        "covid",
+        "symptoms",
         "months",
-        "challenges",
-        "adults",
-        "symptomatic"
+        "half",
+        "have"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:55.989698+00:00"
+      "_retrievedAt": "2026-11-10T23:15:10.823974+00:00"
     },
     {
-      "id": "rss-195480f4ef3a",
+      "id": "rss-6a6631729975",
       "discipline": "clinical",
       "type": "news",
-      "title": "What causes pulmonary fibrosis on a cellular level?",
+      "title": "Prostate cancer drug combination adds toxicity without clear benefit for tumors lacking targetable mutations",
       "authors": "Medical Xpress",
-      "abstract": "A new UCLA Health study in mice has identified a new potential trigger for pulmonary fibrosis: lipid dysregulation (a fat imbalance) within alveolar macrophages. These are the immune cells that serve as the first line of defense against pathogens and tissue damage. Under normal conditions, they are essential for the maintenance and repair of the lung's airspaces. However, when these cells suffer from a lipid imbalance, they lose their protective qualities, malfunction and begin actively promoting disease.",
+      "abstract": "The prospective, multicenter, randomized phase 2 ZZ-FIRST clinical trial, led by the Vall d'Hebron Institute of Oncology's (VHIO) Prostate Cancer Group, evaluated the androgen receptor pathway inhibitor (ARPI) enzalutamide plus the poly(ADP-ribose) polymerase inhibitor (PARPi) talazoparib versus enzalutamide alone in patients with high-tumor-burden metastatic prostate cancer who had not previously received hormone therapy.",
       "date": "2026-11-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-pulmonary-fibrosis-cellular.html",
+      "url": "https://medicalxpress.com/news/2026-11-prostate-cancer-drug-combination-toxicity.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "pulmonary",
-        "fibrosis",
-        "lipid",
-        "imbalance",
-        "these",
-        "cells",
-        "they",
-        "what"
+        "prostate",
+        "cancer",
+        "inhibitor",
+        "enzalutamide",
+        "drug",
+        "combination",
+        "adds",
+        "toxicity"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:55.990007+00:00"
+      "_retrievedAt": "2026-11-10T23:15:10.824110+00:00"
     },
     {
-      "id": "rss-d25c90e23e33",
+      "id": "rss-78975d8770a8",
       "discipline": "clinical",
       "type": "news",
-      "title": "A pillowcase that tracks sleep",
+      "title": "Rare eye condition prompts new FDA warning on popular GLP-1 drugs",
       "authors": "Medical Xpress",
-      "abstract": "An interdisciplinary team of researchers led by Columbia Engineering Associate Professor Xia Zhou has developed PillowSense, a fabric-based sleep-monitoring system. The novel system uses soft sensors to measure heart rate, breathing rate, body movement and sleep posture through natural contact with the sleeper's neck.",
+      "abstract": "The U.S. Food and Drug Administration (FDA) is requiring makers of Ozempic, Wegovy and similar drugs to warn of a rare eye condition that can cause vision loss.",
       "date": "2026-11-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-pillowcase-tracks.html",
+      "url": "https://medicalxpress.com/news/2026-11-rare-eye-condition-prompts-fda.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "sleep",
-        "system",
-        "rate",
-        "pillowcase",
-        "that",
-        "tracks",
-        "interdisciplinary",
-        "team"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:55.990254+00:00"
-    },
-    {
-      "id": "rss-1491e0f6e844",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Researchers identify DNA marker that could predict treatment response in myelodysplastic syndromes",
-      "authors": "Medical Xpress",
-      "abstract": "DNA methylation patterns present at diagnosis could help predict which patients with myelodysplastic syndromes (MDS) will respond to azacitidine. That's the key finding of a new multicenter study involving researchers at Sylvester Comprehensive Cancer Center, part of the University of Miami Miller School of Medicine.",
-      "date": "2026-11-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-dna-marker-treatment-response-myelodysplastic.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "researchers",
-        "that",
-        "could",
-        "predict",
-        "myelodysplastic",
-        "syndromes",
-        "identify",
-        "marker"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:55.990489+00:00"
-    },
-    {
-      "id": "rss-c5f3457253e2",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Observations of NICU rounds reveal focus on fluids over nutrients for premature infants",
-      "authors": "Medical Xpress",
-      "abstract": "During daily rounds in the neonatal intensive care unit (NICU), physicians need to balance many considerations in their decision-making about nutrition plans for premature infants. Often, instead of discussing how much energy, carbohydrates, fats and protein the baby has received, physicians tend to focus on how much fluid was delivered, according to a study published in Pediatric Research.",
-      "date": "2026-11-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-nicu-rounds-reveal-focus-fluids.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nicu",
-        "rounds",
-        "focus",
-        "premature",
-        "infants",
-        "physicians",
-        "much",
-        "observations"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:55.990734+00:00"
-    },
-    {
-      "id": "rss-20fea3402efa",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Mapping Deep South counties links higher diabetes rates to poverty and food insecurity",
-      "authors": "Medical Xpress",
-      "abstract": "Counties where residents suffer from higher diabetes rates across the Deep South often also face greater poverty, food insecurity and barriers to health care and physical activity, a new University of Mississippi study reveals.",
-      "date": "2026-11-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-deep-south-counties-links-higher.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "deep",
-        "south",
-        "counties",
-        "higher",
-        "diabetes",
-        "rates",
-        "poverty",
+        "rare",
+        "condition",
+        "drugs",
+        "prompts",
+        "warning",
+        "popular",
+        "glp-",
         "food"
       ],
       "readTime": "1 min",
@@ -356,95 +228,191 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:55.991015+00:00"
+      "_retrievedAt": "2026-11-10T23:15:10.824227+00:00"
     },
     {
-      "id": "rss-897cb056d8db",
+      "id": "rss-af41b2f091e9",
       "discipline": "clinical",
       "type": "news",
-      "title": "Blood RNA signal may reveal ovarian cancer precursors before invasive disease develops",
+      "title": "AI tools can simplify medical reports but still need human oversight",
       "authors": "Medical Xpress",
-      "abstract": "Hoag researchers have discovered a molecular warning signal in the blood that identifies serous tubal intraepithelial carcinoma (STIC), an early, precancerous stage of high-grade serous ovarian cancer (HGSOC). This advance is particularly significant because ovarian cancer is often diagnosed at an advanced stage, after the disease has already spread.",
+      "abstract": "A team of researchers from the Universidad Carlos III de Madrid (UC3M) has evaluated various artificial intelligence (AI) language models to simplify medical reports and adapt them into clearer language for nonexpert audiences. This work will help patients better understand their health conditions and properly adhere to prescribed treatments.",
       "date": "2026-11-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-blood-rna-reveal-ovarian-cancer.html",
+      "url": "https://medicalxpress.com/news/2026-11-ai-tools-medical-human-oversight.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "ovarian",
-        "cancer",
+        "simplify",
+        "medical",
+        "reports",
+        "language",
+        "tools",
+        "still",
+        "need",
+        "human"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:10.824352+00:00"
+    },
+    {
+      "id": "rss-7b582f7ff970",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Cholera killed more than 3,000 this year: WHO",
+      "authors": "Medical Xpress",
+      "abstract": "Cholera has killed more than 3,000 people worldwide since the start of the year, the World Health Organization said Tuesday, insisting its goal of cutting global cases by 90% by 2030 remained in reach.",
+      "date": "2026-11-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-cholera-year.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cholera",
+        "killed",
+        "more",
+        "than",
+        "year",
+        "this",
+        "people",
+        "worldwide"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:10.824458+00:00"
+    },
+    {
+      "id": "rss-6c0fd747df6e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Brain stimulation reveals how language networks adapt in real time to disruption",
+      "authors": "Medical Xpress",
+      "abstract": "When an important area of the human brain involved in language processing is temporarily disrupted, other areas of the brain take over much of its work. Researchers at Leipzig University and the Max Planck Institute for Human Cognitive and Brain Sciences (MPI CBS) in Leipzig have shown how flexibly the brain can maintain performance even in the face of acute disruption, and how different brain networks work together in real time to achieve this. The researchers have just published their new study in Nature Communications.",
+      "date": "2026-11-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-brain-reveals-language-networks-real.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "language",
+        "networks",
+        "real",
+        "time",
+        "disruption",
+        "human",
+        "work"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:10.824605+00:00"
+    },
+    {
+      "id": "rss-f5d6bd4773a1",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Experimental cell therapy improves skin resilience, advancing treatments for skin injuries",
+      "authors": "Medical Xpress",
+      "abstract": "In a phase 1 clinical trial, Johns Hopkins Medicine researchers say they have partially transformed ordinary human skin cells into volar skin—the durable skin found exclusively on the palms and soles that resists friction and pressure.",
+      "date": "2026-11-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-experimental-cell-therapy-skin-resilience.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "skin",
+        "experimental",
+        "cell",
+        "therapy",
+        "improves",
+        "resilience",
+        "advancing",
+        "treatments"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:10.824734+00:00"
+    },
+    {
+      "id": "rss-0cdc1215db74",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Three-week Arctic operation shows blood products can survive harsh transport conditions and remain transfusion-ready",
+      "authors": "Medical Xpress",
+      "abstract": "Getting blood products for transfusions to a battlefield in Canada's High Arctic is feasible but complex, according to newly published research in the journal Transfusion.",
+      "date": "2026-11-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-week-arctic-blood-products-survive.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "arctic",
         "blood",
-        "signal",
-        "disease",
-        "serous",
-        "stage",
-        "reveal"
+        "products",
+        "three-week",
+        "operation",
+        "shows",
+        "survive",
+        "harsh"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:55.991280+00:00"
+      "_retrievedAt": "2026-11-10T23:15:10.824840+00:00"
     },
     {
-      "id": "rss-101d4e36633d",
+      "id": "rss-9b34a434f2ad",
       "discipline": "clinical",
       "type": "news",
-      "title": "Severe premenstrual mood disorder has three subtypes, symptom diaries suggest",
+      "title": "A personality trait may provide clues to functioning in frontotemporal dementia",
       "authors": "Medical Xpress",
-      "abstract": "Premenstrual dysphoric disorder (PMDD) is a common mood disorder associated with the menstrual cycle. A new study published in Nature Communications shows that PMDD does not follow any universal pattern and that there are three subtypes with different patterns of symptoms. The hope is that this discovery will lead to more individualized treatment.",
+      "abstract": "Frontotemporal dementia often results in early changes in personality or behavior before changes in cognitive skills. People with this condition who have lower levels of conscientiousness, a personality trait related to organization, reliability and planning, may be more likely to have problems with their ability to complete everyday activities, according to a study published in Neurology.",
       "date": "2026-11-10",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-severe-premenstrual-mood-disorder-subtypes.html",
+      "url": "https://medicalxpress.com/news/2026-11-personality-trait-clues-functioning-frontotemporal.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "disorder",
-        "that",
-        "premenstrual",
-        "mood",
-        "three",
-        "subtypes",
-        "pmdd",
-        "severe"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:55.991516+00:00"
-    },
-    {
-      "id": "rss-3441edf46d0e",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Immune proteins offer new clues to how prostate cancer could be prevented",
-      "authors": "Medical Xpress",
-      "abstract": "A new study led by researchers at Oxford Population Health shows that higher levels of proteins involved in activating and coordinating the immune system were associated with a lower risk of developing prostate cancer. The findings suggest that the body's ability to recognize and respond to abnormal cells may play an important role in the early development of prostate cancer and could point to new approaches for preventing the disease.",
-      "date": "2026-11-10",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-immune-proteins-clues-prostate-cancer.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "prostate",
-        "cancer",
-        "immune",
-        "proteins",
-        "could",
-        "that",
-        "offer",
+        "personality",
+        "trait",
+        "frontotemporal",
+        "dementia",
+        "changes",
+        "have",
+        "provide",
         "clues"
       ],
       "readTime": "1 min",
@@ -452,7 +420,359 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:55.991768+00:00"
+      "_retrievedAt": "2026-11-10T23:15:10.824965+00:00"
+    },
+    {
+      "id": "rss-33cb004e0094",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "How babies are born knowing the difference between day and night",
+      "authors": "Medical Xpress",
+      "abstract": "Before a baby sees its first sunrise, it is already receiving signals about day and night. Melatonin, a hormone released mainly at night, can pass from the mother through the placenta. The placenta supplies the developing fetus with oxygen and nutrients.",
+      "date": "2026-11-10",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-babies-born-difference-day-night.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "night",
+        "placenta",
+        "babies",
+        "born",
+        "knowing",
+        "difference",
+        "before",
+        "baby"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:10.825080+00:00"
+    },
+    {
+      "id": "rss-132e4796ce79",
+      "discipline": "cs",
+      "type": "news",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "date": "2026-11-10",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "travel",
+        "openai",
+        "sonder",
+        "founder",
+        "acquires",
+        "odessia",
+        "startup",
+        "created"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:10.914640+00:00"
+    },
+    {
+      "id": "rss-ba525653e2fc",
+      "discipline": "cs",
+      "type": "news",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "authors": "TechCrunch AI",
+      "abstract": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "date": "2026-11-10",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "safety",
+        "openai",
+        "anthropic",
+        "face",
+        "york",
+        "oversight",
+        "takes",
+        "effect"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:10.914782+00:00"
+    },
+    {
+      "id": "rss-8d810e0a4e37",
+      "discipline": "cs",
+      "type": "news",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "authors": "TechCrunch AI",
+      "abstract": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "date": "2026-11-10",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "each",
+        "cash",
+        "about",
+        "anthropic",
+        "founders",
+        "will",
+        "seven",
+        "co-founders"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:10.914879+00:00"
+    },
+    {
+      "id": "rss-08e196a3d20c",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "authors": "TechCrunch AI",
+      "abstract": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "date": "2026-11-10",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "oura",
+        "acquire",
+        "ai-native",
+        "primary",
+        "care",
+        "startup",
+        "counsel",
+        "health"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:10.914964+00:00"
+    },
+    {
+      "id": "rss-59584f040be3",
+      "discipline": "cs",
+      "type": "news",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "authors": "TechCrunch AI",
+      "abstract": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "date": "2026-11-10",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "trying",
+        "make",
+        "business",
+        "ai-driven",
+        "scientific",
+        "discovery",
+        "used",
+        "unreleased"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:10.915044+00:00"
+    },
+    {
+      "id": "rss-0fce35361da2",
+      "discipline": "cs",
+      "type": "news",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "date": "2026-11-10",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "openai",
+        "chatgpt",
+        "more",
+        "rolls",
+        "business",
+        "profiles",
+        "making",
+        "just"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:10.915126+00:00"
+    },
+    {
+      "id": "rss-6e360c879c57",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "authors": "TechCrunch AI",
+      "abstract": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "date": "2026-11-10",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "claude",
+        "anthropic",
+        "launches",
+        "meetings",
+        "turn",
+        "workplace",
+        "discussions",
+        "plans"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:10.915240+00:00"
+    },
+    {
+      "id": "rss-c608f9834ef4",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "authors": "TechCrunch AI",
+      "abstract": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "date": "2026-11-10",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "affair",
+        "nvidia",
+        "jensen",
+        "huang",
+        "alleged",
+        "chinese",
+        "timeline",
+        "could"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:10.915321+00:00"
+    },
+    {
+      "id": "rss-21ed557c6b14",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "authors": "TechCrunch AI",
+      "abstract": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+      "date": "2026-11-10",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "portfolio",
+        "more",
+        "broadens",
+        "hardware",
+        "specialized",
+        "chips",
+        "tensor"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:10.915395+00:00"
+    },
+    {
+      "id": "rss-5e362974a6dd",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "authors": "TechCrunch AI",
+      "abstract": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "date": "2026-11-10",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "meta",
+        "apple",
+        "watch",
+        "agent",
+        "muse",
+        "lands",
+        "android",
+        "wear"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:10.915475+00:00"
     },
     {
       "id": "rss-83f1628f53bb",
@@ -484,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.021648+00:00"
+      "_retrievedAt": "2026-11-10T23:15:10.915552+00:00"
     },
     {
       "id": "rss-5975d22dc1c1",
@@ -516,39 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.021937+00:00"
-    },
-    {
-      "id": "rss-09e310270f03",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-      "authors": "TechCrunch AI",
-      "abstract": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
-      "date": "2026-11-10",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "spotify",
-        "voices",
-        "personalities",
-        "gets",
-        "option",
-        "less",
-        "chatter",
-        "premium"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.022132+00:00"
+      "_retrievedAt": "2026-11-10T23:15:10.915631+00:00"
     },
     {
       "id": "rss-a5c7f6247e2e",
@@ -580,103 +868,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.022310+00:00"
+      "_retrievedAt": "2026-11-10T23:15:10.915714+00:00"
     },
     {
-      "id": "rss-b6410d0cc2b3",
+      "id": "rss-09e310270f03",
       "discipline": "cs",
       "type": "news",
-      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
       "authors": "TechCrunch AI",
-      "abstract": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+      "abstract": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
       "date": "2026-11-10",
       "year": 2026,
       "journal": "TechCrunch AI",
       "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cyberattacks",
-        "open-source",
-        "open",
-        "hugging",
-        "face",
-        "warns",
-        "that",
-        "threaten"
+        "spotify",
+        "voices",
+        "personalities",
+        "gets",
+        "option",
+        "less",
+        "chatter",
+        "premium"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.022493+00:00"
-    },
-    {
-      "id": "rss-b0ae35715485",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Otter AI can now follow conversations across 30+ languages",
-      "authors": "TechCrunch AI",
-      "abstract": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
-      "date": "2026-11-10",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "languages",
-        "otter",
-        "follow",
-        "conversations",
-        "across",
-        "just",
-        "added",
-        "support"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.022647+00:00"
-    },
-    {
-      "id": "rss-e88591541573",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "authors": "TechCrunch AI",
-      "abstract": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-      "date": "2026-11-10",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "plans",
-        "anthropic",
-        "reportedly",
-        "move",
-        "forward",
-        "company",
-        "expected",
-        "valuation"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.022793+00:00"
+      "_retrievedAt": "2026-11-10T23:15:10.915796+00:00"
     },
     {
       "id": "rss-925b21df89a1",
@@ -708,231 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.057758+00:00"
-    },
-    {
-      "id": "rss-7ae2b2fbaaab",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-      "authors": "TechCrunch AI",
-      "abstract": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-      "date": "2026-11-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "huang",
-        "jensen",
-        "firm",
-        "reportedly",
-        "engaged",
-        "history",
-        "handling",
-        "high-profile"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.022978+00:00"
-    },
-    {
-      "id": "rss-19bc047bf1e3",
-      "discipline": "cs",
-      "type": "news",
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "authors": "TechCrunch AI",
-      "abstract": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-      "date": "2026-11-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nvidia",
-        "chinese",
-        "months",
-        "before",
-        "scandal",
-        "short",
-        "seller",
-        "flagged"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.023156+00:00"
-    },
-    {
-      "id": "rss-6a100a505b60",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The race is on to sue Nvidia",
-      "authors": "TechCrunch AI",
-      "abstract": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
-      "date": "2026-11-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nvidia",
-        "race",
-        "stock",
-        "slid",
-        "more",
-        "than",
-        "after",
-        "board"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.023346+00:00"
-    },
-    {
-      "id": "rss-8fc0b471eb7e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "authors": "TechCrunch AI",
-      "abstract": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-      "date": "2026-11-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nvidia",
-        "jensen",
-        "huang",
-        "pulls",
-        "elevenlabs",
-        "summit",
-        "amid",
-        "controversy"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.023491+00:00"
-    },
-    {
-      "id": "rss-0905a19210b2",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "authors": "TechCrunch AI",
-      "abstract": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-      "date": "2026-11-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "anthropic",
-        "releases",
-        "mythos",
-        "fable",
-        "amid",
-        "concerns",
-        "says",
-        "show"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.023643+00:00"
-    },
-    {
-      "id": "rss-f33c2e1cd122",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-      "authors": "TechCrunch AI",
-      "abstract": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-      "date": "2026-11-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "jensen",
-        "huang",
-        "affair",
-        "alleged",
-        "chinese",
-        "nvidia",
-        "china",
-        "puts"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.023828+00:00"
-    },
-    {
-      "id": "rss-dd2493865211",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "authors": "TechCrunch AI",
-      "abstract": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-      "date": "2026-11-09",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ember",
-        "meta",
-        "releases",
-        "muse",
-        "lightweight",
-        "agent",
-        "execution",
-        "cents"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.023995+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.019865+00:00"
     },
     {
       "id": "rss-eabfd71a61b4",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.057961+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.019963+00:00"
     },
     {
       "id": "rss-db4a52614d6e",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.058123+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.020042+00:00"
     },
     {
       "id": "rss-0646faa6f733",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.058280+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.020122+00:00"
     },
     {
       "id": "rss-ee3b71fee41a",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.167756+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.211783+00:00"
     },
     {
       "id": "rss-948f337f76fa",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.168126+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.211932+00:00"
     },
     {
       "id": "rss-9b3fb6e63d6f",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.058448+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.020226+00:00"
     },
     {
       "id": "openalex-1460ec1614d2",
@@ -1152,11 +1152,11 @@ window.LIVE_FEED_DATA = {
         "Single-cell and spatial transcriptomics"
       ],
       "readTime": "1 min",
-      "citedBy": 13,
+      "citedBy": 14,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.317884+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.991137+00:00"
     },
     {
       "id": "rss-36da62e14d67",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.168913+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.212341+00:00"
     },
     {
       "id": "rss-0301f8db1aca",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.169133+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.212447+00:00"
     },
     {
       "id": "rss-5116d0089903",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.169332+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.212546+00:00"
     },
     {
       "id": "openalex-b76d52d91fce",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.317251+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.990800+00:00"
     },
     {
       "id": "rss-a6d2ec7a9bd8",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.058607+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.020307+00:00"
     },
     {
       "id": "rss-e8ad5f5a7f57",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.170034+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.212894+00:00"
     },
     {
       "id": "openalex-15d253298584",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:52.201496+00:00"
+      "_retrievedAt": "2026-11-10T23:15:06.590718+00:00"
     },
     {
       "id": "rss-15e56cec1fd1",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.058769+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.020387+00:00"
     },
     {
       "id": "rss-0a0dc5009289",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.058961+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.020470+00:00"
     },
     {
       "id": "openalex-b9713b9a252a",
@@ -1472,11 +1472,11 @@ window.LIVE_FEED_DATA = {
         "Sphingolipid Metabolism and Signaling"
       ],
       "readTime": "1 min",
-      "citedBy": 25,
+      "citedBy": 26,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.316320+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.990311+00:00"
     },
     {
       "id": "openalex-11b5190cd445",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:52.200082+00:00"
+      "_retrievedAt": "2026-11-10T23:15:06.589948+00:00"
     },
     {
       "id": "rss-4ae9201eddcb",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.059111+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.020543+00:00"
     },
     {
       "id": "rss-4452dd44bbfd",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.059275+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.020629+00:00"
     },
     {
       "id": "openalex-c59144090f14",
@@ -1600,11 +1600,11 @@ window.LIVE_FEED_DATA = {
         "Bacterial Genetics and Biotechnology"
       ],
       "readTime": "1 min",
-      "citedBy": 11,
+      "citedBy": 14,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.318545+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.991289+00:00"
     },
     {
       "id": "rss-8ccff313a082",
@@ -1635,39 +1635,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.170177+00:00"
-    },
-    {
-      "id": "openalex-818836e119b0",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "The Global Gravity-based Groundwater Product (G3P)",
-      "authors": "Andreas Güntner, Ehsan Sharifi, Julian Haas, Eva Boergens, Feifei Cao, Christoph Dahle",
-      "abstract": "Abstract. Groundwater is one of the most important freshwater resources for ecosystems and mankind. Because of its fundamental role in the Earth's water and energy cycles, groundwater has been declared an essential climate variable by GCOS, the Global Climate Observing System. Similar to other subsurface states and fluxes, groundwater is difficult to monitor at the global scale, with sufficient spatial coverage and over climate-relevant time scales. The Global Gravity-based Groundwater Product (G3P) is a global observation-based data set of large-scale groundwater storage variations. G3P capitalizes on the unique capability of GRACE and GRACE-FO satellite gravimetry as the only remote sensing technology to monitor subsurface mass variations. In a mass balance approach, satellite-based, in situ observation-based and model-based water storage variations of snow water equivalent, root-zo...",
-      "date": "2026-10-29",
-      "year": 2026,
-      "journal": "Earth system science data",
-      "source": "Earth system science data",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5194/essd-18-7787-2026",
-      "doi": "10.5194/essd-18-7787-2026",
-      "pdfUrl": "https://essd.copernicus.org/articles/18/7787/2026/essd-18-7787-2026.pdf",
-      "keywords": [
-        "Groundwater",
-        "Environmental science",
-        "Aquifer",
-        "Hydrology (agriculture)",
-        "Water storage",
-        "Geophysics and Gravity Measurements",
-        "Soil Moisture and Remote Sensing",
-        "Hydrology and Watershed Management Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:52.203405+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.212963+00:00"
     },
     {
       "id": "openalex-cb3cbda06d84",
@@ -1695,11 +1663,11 @@ window.LIVE_FEED_DATA = {
         "Explainable Artificial Intelligence (XAI)"
       ],
       "readTime": "1 min",
-      "citedBy": 282,
+      "citedBy": 299,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:50.260030+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.271081+00:00"
     },
     {
       "id": "openalex-167b6533ff80",
@@ -1727,11 +1695,11 @@ window.LIVE_FEED_DATA = {
         "Genomics and Chromatin Dynamics"
       ],
       "readTime": "1 min",
-      "citedBy": 34,
+      "citedBy": 35,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.315099+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.989658+00:00"
     },
     {
       "id": "rss-820a582ce463",
@@ -1763,7 +1731,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.059430+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.020709+00:00"
     },
     {
       "id": "rss-3d5d65395710",
@@ -1795,7 +1763,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.059574+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.020782+00:00"
     },
     {
       "id": "rss-03a31c5c3f2e",
@@ -1827,7 +1795,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.170600+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.213197+00:00"
     },
     {
       "id": "rss-288b8cf14c15",
@@ -1859,7 +1827,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.059740+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.020867+00:00"
     },
     {
       "id": "openalex-5ab5668168ae",
@@ -1887,11 +1855,11 @@ window.LIVE_FEED_DATA = {
         "Geochemistry and Geologic Mapping"
       ],
       "readTime": "1 min",
-      "citedBy": 6,
+      "citedBy": 7,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:52.203721+00:00"
+      "_retrievedAt": "2026-11-10T23:15:06.590893+00:00"
     },
     {
       "id": "openalex-8824f3740ac6",
@@ -1919,11 +1887,11 @@ window.LIVE_FEED_DATA = {
         "Radiomics and Machine Learning in Medical Imaging"
       ],
       "readTime": "1 min",
-      "citedBy": 24,
+      "citedBy": 25,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.735355+00:00"
+      "_retrievedAt": "2026-11-10T23:15:05.779115+00:00"
     },
     {
       "id": "rss-265637551189",
@@ -1955,7 +1923,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.059907+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.020944+00:00"
     },
     {
       "id": "rss-e025d8132eab",
@@ -1987,7 +1955,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.171126+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.213468+00:00"
     },
     {
       "id": "rss-9d78f66ca49b",
@@ -2019,7 +1987,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:56.171618+00:00"
+      "_retrievedAt": "2026-11-10T23:15:11.213737+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2051,7 +2019,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.736850+00:00"
+      "_retrievedAt": "2026-11-10T23:15:05.779775+00:00"
     },
     {
       "id": "openalex-9ede209118a4",
@@ -2083,7 +2051,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.737522+00:00"
+      "_retrievedAt": "2026-11-10T23:15:05.780305+00:00"
     },
     {
       "id": "openalex-7a7d520be8ce",
@@ -2115,7 +2083,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.738515+00:00"
+      "_retrievedAt": "2026-11-10T23:15:05.780691+00:00"
     },
     {
       "id": "openalex-84e3fa65288d",
@@ -2147,7 +2115,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:50.258190+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.270245+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -2179,7 +2147,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.738812+00:00"
+      "_retrievedAt": "2026-11-10T23:15:05.780857+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -2211,7 +2179,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:52.199651+00:00"
+      "_retrievedAt": "2026-11-10T23:15:06.589723+00:00"
     },
     {
       "id": "openalex-f5dc3633b103",
@@ -2239,11 +2207,11 @@ window.LIVE_FEED_DATA = {
         "Mathematics, Computing, and Information Processing"
       ],
       "readTime": "1 min",
-      "citedBy": 155,
+      "citedBy": 156,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:50.262551+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.272705+00:00"
     },
     {
       "id": "openalex-4017ee65ef38",
@@ -2275,7 +2243,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.313634+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.988863+00:00"
     },
     {
       "id": "openalex-9a39b97a87a9",
@@ -2303,11 +2271,11 @@ window.LIVE_FEED_DATA = {
         "Mathematics, Computing, and Information Processing"
       ],
       "readTime": "1 min",
-      "citedBy": 148,
+      "citedBy": 151,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:50.262760+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.272825+00:00"
     },
     {
       "id": "openalex-88c8bbfa038c",
@@ -2335,43 +2303,11 @@ window.LIVE_FEED_DATA = {
         "Statistical Distribution Estimation and Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 27,
+      "citedBy": 30,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.735040+00:00"
-    },
-    {
-      "id": "openalex-4ec0da5a2d28",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "A Generative AI Framework for Inferring Consistent Ocean Statistics at Depth Using Sea Surface Data",
-      "authors": "Andre N. Souza, Simone Silvestri, Katherine M. Deck, Tobias Bischoff, Glenn R. Flierl, Raffaele Ferrari",
-      "abstract": "Abstract Understanding subsurface ocean dynamics is essential for quantifying oceanic heat and mass transport, but direct observations at depth remain sparse due to logistical and technological constraints. In contrast, satellite missions provide rich surface datasets—such as sea surface height, temperature, and salinity—that offer indirect but potentially powerful constraints on the ocean interior. Here, we present a probabilistic framework based on score-based diffusion models to reconstruct three-dimensional subsurface velocity and buoyancy fields, including the energetic ocean eddy field, from surface observations. Using a 15-level primitive equation simulation of an idealized double-gyre system, we evaluate the skill of the model in inferring the mean circulation and the mesoscale variability at depth under varying levels of surface information. We find that the generative model...",
-      "date": "2026-09-25",
-      "year": 2026,
-      "journal": "Journal of Physical Oceanography",
-      "source": "Journal of Physical Oceanography",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1175/jpo-d-25-0093.1",
-      "doi": "10.1175/jpo-d-25-0093.1",
-      "pdfUrl": "https://arxiv.org/pdf/2504.15308",
-      "keywords": [
-        "Mesoscale meteorology",
-        "Sea-surface height",
-        "Data assimilation",
-        "Probabilistic logic",
-        "Ocean surface topography",
-        "Oceanographic and Atmospheric Processes",
-        "Meteorological Phenomena and Simulations",
-        "Model Reduction and Neural Networks"
-      ],
-      "readTime": "1 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:52.204068+00:00"
+      "_retrievedAt": "2026-11-10T23:15:05.778774+00:00"
     },
     {
       "id": "openalex-aa30ebe2f1c6",
@@ -2399,11 +2335,11 @@ window.LIVE_FEED_DATA = {
         "Lung Cancer Diagnosis and Treatment"
       ],
       "readTime": "1 min",
-      "citedBy": 12,
+      "citedBy": 13,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.739553+00:00"
+      "_retrievedAt": "2026-11-10T23:15:05.781275+00:00"
     },
     {
       "id": "openalex-8eb078218eca",
@@ -2431,11 +2367,11 @@ window.LIVE_FEED_DATA = {
         "Microbial Metabolic Engineering and Bioproduction"
       ],
       "readTime": "1 min",
-      "citedBy": 12,
+      "citedBy": 13,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.318271+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.991493+00:00"
     },
     {
       "id": "openalex-3dd652be759c",
@@ -2467,7 +2403,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.737858+00:00"
+      "_retrievedAt": "2026-11-10T23:15:05.780495+00:00"
     },
     {
       "id": "openalex-cd41132c9d18",
@@ -2495,11 +2431,11 @@ window.LIVE_FEED_DATA = {
         "Research Data Management Practices"
       ],
       "readTime": "1 min",
-      "citedBy": 59,
+      "citedBy": 61,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.314086+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.989114+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -2531,7 +2467,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:50.261776+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.272273+00:00"
     },
     {
       "id": "openalex-4eeff6704837",
@@ -2563,7 +2499,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:52.201843+00:00"
+      "_retrievedAt": "2026-11-10T23:15:06.591078+00:00"
     },
     {
       "id": "openalex-8391e68a705c",
@@ -2591,11 +2527,11 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence in Healthcare and Education"
       ],
       "readTime": "1 min",
-      "citedBy": 15,
+      "citedBy": 17,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.738160+00:00"
+      "_retrievedAt": "2026-11-10T23:15:05.779927+00:00"
     },
     {
       "id": "openalex-554ee5013027",
@@ -2627,7 +2563,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:52.202197+00:00"
+      "_retrievedAt": "2026-11-10T23:15:06.591272+00:00"
     },
     {
       "id": "openalex-bb23e4ef92cf",
@@ -2655,11 +2591,11 @@ window.LIVE_FEED_DATA = {
         "Genomics and Chromatin Dynamics"
       ],
       "readTime": "1 min",
-      "citedBy": 30,
+      "citedBy": 33,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.315741+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.990000+00:00"
     },
     {
       "id": "openalex-4d7da7db66ac",
@@ -2687,11 +2623,11 @@ window.LIVE_FEED_DATA = {
         "Multimodal Machine Learning Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 122,
+      "citedBy": 129,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:50.263354+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.273150+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2723,7 +2659,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:52.198815+00:00"
+      "_retrievedAt": "2026-11-10T23:15:06.589465+00:00"
+    },
+    {
+      "id": "openalex-3d0d090d179c",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "ABCFlux v2: Arctic–boreal CO 2 and CH 4 monthly flux observations and ancillary information across terrestrial and freshwater ecosystems",
+      "authors": "Anna‐Maria Virkkala, Isabel K. Wargowsky, Judith Vogt, McKenzie A. Kuhn, Simran Madaan, Tiffany Windholz",
+      "abstract": "Abstract. Measurements of surface-atmosphere carbon dioxide (CO2) and methane (CH4) fluxes have been relatively sparse across the Arctic tundra and boreal biomes, causing significant uncertainties in carbon budget estimates from the region. While the availability of Arctic-boreal carbon flux data has increased substantially over the past decade, the data have remained spread across different repositories, scientific articles, and unpublished sources, making it difficult to leverage. Here we present a new dataset of monthly Arctic-boreal carbon fluxes (ABCFlux v2) across terrestrial (wetlands and uplands) and freshwater (lakes and rivers) ecosystems compiled from previous syntheses including the Arctic-boreal CO2 flux database (ABCFlux v1), the Boreal-Arctic Wetland and Lake Methane Dataset (BAWLD-CH4), and the Global River Methane Database (GRiMeDB). In addition, we consider data from...",
+      "date": "2026-09-03",
+      "year": 2026,
+      "journal": "Earth system science data",
+      "source": "Earth system science data",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.5194/essd-18-6357-2026",
+      "doi": "10.5194/essd-18-6357-2026",
+      "pdfUrl": "https://essd.copernicus.org/articles/18/6357/2026/essd-18-6357-2026.pdf",
+      "keywords": [
+        "Eddy covariance",
+        "Environmental science",
+        "Flux (metallurgy)",
+        "Tundra",
+        "Ecosystem",
+        "Climate change and permafrost",
+        "Atmospheric and Environmental Gas Dynamics",
+        "Peatlands and Wetlands Ecology"
+      ],
+      "readTime": "2 min",
+      "citedBy": 7,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:06.591579+00:00"
     },
     {
       "id": "openalex-518b9bf6cea9",
@@ -2751,11 +2719,11 @@ window.LIVE_FEED_DATA = {
         "Probability and Statistical Research"
       ],
       "readTime": "1 min",
-      "citedBy": 216,
+      "citedBy": 224,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:50.261400+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.271894+00:00"
     },
     {
       "id": "openalex-da37b7f1fa1c",
@@ -2787,7 +2755,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:50.263052+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.272976+00:00"
     },
     {
       "id": "openalex-021b339d4b20",
@@ -2815,11 +2783,11 @@ window.LIVE_FEED_DATA = {
         "Advanced Graph Neural Networks"
       ],
       "readTime": "1 min",
-      "citedBy": 18,
+      "citedBy": 20,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:52.199170+00:00"
+      "_retrievedAt": "2026-11-10T23:15:06.589308+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2847,11 +2815,11 @@ window.LIVE_FEED_DATA = {
         "Geology and Paleoclimatology Research"
       ],
       "readTime": "1 min",
-      "citedBy": 8,
-      "qualityScore": 76.0,
+      "citedBy": 10,
+      "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:52.201105+00:00"
+      "_retrievedAt": "2026-11-10T23:15:06.590334+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2879,11 +2847,11 @@ window.LIVE_FEED_DATA = {
         "Genomics and Chromatin Dynamics"
       ],
       "readTime": "1 min",
-      "citedBy": 38,
+      "citedBy": 45,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.314385+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.989289+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2911,11 +2879,11 @@ window.LIVE_FEED_DATA = {
         "Tryptophan and brain disorders"
       ],
       "readTime": "1 min",
-      "citedBy": 14,
+      "citedBy": 15,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.317574+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.990968+00:00"
     },
     {
       "id": "openalex-6e7aa9ad6862",
@@ -2947,7 +2915,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:50.259325+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.270907+00:00"
     },
     {
       "id": "openalex-514dbfd7d5d8",
@@ -2979,7 +2947,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.316599+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.990649+00:00"
     },
     {
       "id": "openalex-506180faa30c",
@@ -3011,7 +2979,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.315433+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.989835+00:00"
     },
     {
       "id": "openalex-50c318e007c8",
@@ -3039,11 +3007,11 @@ window.LIVE_FEED_DATA = {
         "Robotic Locomotion and Control"
       ],
       "readTime": "1 min",
-      "citedBy": 228,
+      "citedBy": 234,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:50.260372+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.271497+00:00"
     },
     {
       "id": "openalex-dbb3c4b557e9",
@@ -3071,11 +3039,11 @@ window.LIVE_FEED_DATA = {
         "AI in cancer detection"
       ],
       "readTime": "1 min",
-      "citedBy": 21,
+      "citedBy": 26,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.736255+00:00"
+      "_retrievedAt": "2026-11-10T23:15:05.778946+00:00"
     },
     {
       "id": "openalex-838b1babffe0",
@@ -3107,7 +3075,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:50.261160+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.272053+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -3135,11 +3103,11 @@ window.LIVE_FEED_DATA = {
         "Genetic Associations and Epidemiology"
       ],
       "readTime": "1 min",
-      "citedBy": 36,
+      "citedBy": 40,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.314684+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.989452+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -3167,11 +3135,11 @@ window.LIVE_FEED_DATA = {
         "Cancer Genomics and Diagnostics"
       ],
       "readTime": "1 min",
-      "citedBy": 20,
+      "citedBy": 24,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.316962+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.990498+00:00"
     },
     {
       "id": "openalex-7d24a7f15d87",
@@ -3203,7 +3171,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:52.200418+00:00"
+      "_retrievedAt": "2026-11-10T23:15:06.590506+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -3231,11 +3199,11 @@ window.LIVE_FEED_DATA = {
         "AI and Big Data Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 44,
+      "citedBy": 47,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:52.198500+00:00"
+      "_retrievedAt": "2026-11-10T23:15:06.589113+00:00"
     },
     {
       "id": "openalex-26e8fbfaec61",
@@ -3263,11 +3231,11 @@ window.LIVE_FEED_DATA = {
         "Advanced Neural Network Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 366,
+      "citedBy": 369,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:50.258970+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.270704+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -3299,7 +3267,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:50.259708+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.271300+00:00"
     },
     {
       "id": "openalex-65254d753054",
@@ -3331,7 +3299,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.737172+00:00"
+      "_retrievedAt": "2026-11-10T23:15:05.780101+00:00"
+    },
+    {
+      "id": "openalex-3d03dfc7e37b",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Prospective validation of imaging and serum diagnostic biomarkers of steatohepatitis and fibrosis in MASLD: the LITMUS Imaging Study",
+      "authors": "Michael Pavlides, Yasaman Vali, Ferenc Emil Mózes, Kristy Wonders, Salma Akhtar, Paul D. Hockings",
+      "abstract": "There is a need for robust evaluations of noninvasive biomarkers for metabolic dysfunction-associated steatotic liver disease. This prospective multicenter study assessed the diagnostic accuracy of imaging (including liver stiffness measurement (LSM) using magnetic resonance elastography (MRE) and FibroScan (vibration-controlled transient elastography (VCTE)), serum biomarkers (including NIS2+) and composite scores (including Agile 3+ and Agile 4) for centrally read steatohepatitis and fibrosis. For cirrhosis, several biomarkers exceeded the minimum acceptable performance criterion (MAC), including MRE (area under the receiver operating curve (AUC) 0.91; P < 0.01), VCTE-LSM (AUC 0.87; P < 0.01), Agile 3+ (AUC 0.89; P < 0.01) and Agile 4 (AUC 0.88; P < 0.01). Among 357 participants, fibrosis stages F0-F4 were present in 12%, 16%, 25%, 32% and 15%, respectively. NIS2+ had the highest di...",
+      "date": "2026-07-24",
+      "year": 2026,
+      "journal": "Nature Medicine",
+      "source": "Nature Medicine",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41591-026-04496-2",
+      "doi": "10.1038/s41591-026-04496-2",
+      "pdfUrl": "https://www.nature.com/articles/s41591-026-04496-2.pdf",
+      "keywords": [
+        "Magnetic resonance elastography",
+        "Steatohepatitis",
+        "Medicine",
+        "Transient elastography",
+        "Elastography",
+        "Liver Disease Diagnosis and Treatment",
+        "Liver Diseases and Immunity",
+        "Liver Disease and Transplantation"
+      ],
+      "readTime": "1 min",
+      "citedBy": 11,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-10T23:15:05.781485+00:00"
     },
     {
       "id": "openalex-f4959844837a",
@@ -3363,7 +3363,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:52.202593+00:00"
+      "_retrievedAt": "2026-11-10T23:15:06.591793+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -3391,11 +3391,11 @@ window.LIVE_FEED_DATA = {
         "Epigenetics and DNA Methylation"
       ],
       "readTime": "1 min",
-      "citedBy": 28,
+      "citedBy": 32,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.316018+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.990138+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -3423,11 +3423,11 @@ window.LIVE_FEED_DATA = {
         "Prostate Cancer Treatment and Research"
       ],
       "readTime": "1 min",
-      "citedBy": 13,
+      "citedBy": 14,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.739168+00:00"
+      "_retrievedAt": "2026-11-10T23:15:05.781048+00:00"
     },
     {
       "id": "openalex-6b15c7cad215",
@@ -3455,43 +3455,43 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence Applications"
       ],
       "readTime": "2 min",
-      "citedBy": 227,
+      "citedBy": 230,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:50.260825+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.271762+00:00"
     },
     {
-      "id": "openalex-1b0263729043",
-      "discipline": "clinical",
+      "id": "openalex-3b5a50007972",
+      "discipline": "geo",
       "type": "paper",
-      "title": "Personalized cancer vaccines: bridging immune-oncology and precision medicine for advanced therapeutics",
-      "authors": "Leiguang Ye, Guo Zhao, Jiaxiu Ma, Qianqian Gan, Na Luo, Dingyu Pan",
-      "abstract": "Despite advancements in therapeutic cancer vaccines, clinical translation has been hindered by limited efficacy, with Sipuleucel-T remaining the only FDA-approved therapeutic cancer vaccine to date. However, recent advances in personalized mRNA vaccines, such as Moderna's mRNA-4157 and BioNTech's autogene cevumeran, have demonstrated significant reductions in recurrence risk and improved survival across several cancer types, renewing optimism in the field. Personalized cancer vaccines leverage patient-specific tumor antigens to initiate potent and targeted immune responses. This review outlines various classes of personalized vaccines, including DNA-, mRNA-, peptide-, dendritic cell-, and whole-cell-based platforms, and examines the immunological challenges they face, such as tumor heterogeneity, immunosuppressive microenvironments, and inadequate immune memory. To address these limit...",
-      "date": "2026-07-21",
+      "title": "Spatial characterization of interface dermatitis in cutaneous lupus reveals novel chemokine axis-mediated recruitment of leukocytes that drive disease",
+      "authors": "Saeed Shakiba, Nazgol‐Sadat Haddadi, Khashayar Afshari, Janet E. Lubov, Haya S. Raef, Robert Li",
+      "abstract": "Abstract Background Chemokines play critical roles in the recruitment and activation of immune cells in both homeostatic and pathologic conditions. Here, we examined chemokine ligand-receptor pairs to better understand the immunopathogenesis of cutaneous lupus erythematosus (CLE), a complex autoimmune connective tissue disorder. Objectives Our objectives were to (1) characterize the cellular and proteomic constitution of interface dermatitis in CLE using blister biopsies, (2) map chemokine:ligand receptor pairs that govern recruitment of immune cells to form interface dermatitis in CLE, and (3) perform unbiased analyses in tandem on different clinical subtypes to identify novel genes and proteins underlying discoid versus subacute CLE. Methods We used suction blister biopsies to measure cellular infiltrates with spectral flow cytometry in the interface dermatitis reaction, as well as...",
+      "date": "2026-07-22",
       "year": 2026,
-      "journal": "Signal Transduction and Targeted Therapy",
-      "source": "Signal Transduction and Targeted Therapy",
+      "journal": "Scientific Reports",
+      "source": "Scientific Reports",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41392-026-02769-3",
-      "doi": "10.1038/s41392-026-02769-3",
-      "pdfUrl": "https://www.nature.com/articles/s41392-026-02769-3.pdf",
+      "url": "https://doi.org/10.1038/s41598-026-60937-5",
+      "doi": "10.1038/s41598-026-60937-5",
+      "pdfUrl": "https://www.nature.com/articles/s41598-026-60937-5_reference.pdf",
       "keywords": [
-        "Precision medicine",
-        "Bridging (networking)",
-        "Medicine",
-        "Personalized medicine",
-        "Precision oncology",
-        "Immunotherapy and Immune Responses",
-        "Cancer Immunotherapy and Biomarkers",
-        "Bacterial Cancer Therapy"
+        "Chemokine",
+        "Immunology",
+        "Systemic lupus erythematosus",
+        "CXCL9",
+        "Lupus erythematosus",
+        "Systemic Lupus Erythematosus Research",
+        "Systemic Sclerosis and Related Diseases",
+        "Dermatology and Skin Diseases"
       ],
-      "readTime": "1 min",
-      "citedBy": 10,
-      "qualityScore": 80.0,
+      "readTime": "3 min",
+      "citedBy": 7,
+      "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.739925+00:00"
+      "_retrievedAt": "2026-11-10T23:15:06.592187+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -3523,7 +3523,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:50.262181+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.272487+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -3551,11 +3551,11 @@ window.LIVE_FEED_DATA = {
         "Climate change impacts on agriculture"
       ],
       "readTime": "1 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
+      "citedBy": 11,
+      "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:52.200724+00:00"
+      "_retrievedAt": "2026-11-10T23:15:06.590115+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3587,7 +3587,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:51.735647+00:00"
+      "_retrievedAt": "2026-11-10T23:15:05.779506+00:00"
     },
     {
       "id": "openalex-c78b5aa253cb",
@@ -3615,11 +3615,11 @@ window.LIVE_FEED_DATA = {
         "Multimodal Machine Learning Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 406,
+      "citedBy": 408,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:50.258598+00:00"
+      "_retrievedAt": "2026-11-10T23:15:04.270501+00:00"
     },
     {
       "id": "openalex-6d68435c2e60",
@@ -3651,7 +3651,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-10T14:47:52.203008+00:00"
+      "_retrievedAt": "2026-11-10T23:15:06.592408+00:00"
     }
   ]
 };
