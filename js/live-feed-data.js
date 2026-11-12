@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-11-12T00:37:26.843722+00:00",
+  "generatedAt": "2026-11-12T15:05:43.131479+00:00",
   "total": 114,
   "sources": [
     "RSS",
@@ -7,476 +7,284 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-7c60a853f87b",
+      "id": "rss-e254403f3a35",
       "discipline": "clinical",
       "type": "news",
-      "title": "Christchurch mutation points to potential gene therapy avenue for Parkinson's",
+      "title": "Clinicians know food allergy panels can lead to overdiagnosis—but order them anyway",
       "authors": "Medical Xpress",
-      "abstract": "A rare genetic mutation may protect against developing Parkinson's disease and Lewy body dementia, a new study from researchers at Oregon Health & Science University suggests.",
+      "abstract": "New research presented at the 2026 Annual Scientific Meeting of the American College of Allergy, Asthma and Immunology (ACAAI) showed many clinicians in a survey knew that food allergy panel testing often results in false positives—yet they kept ordering it anyway.",
       "date": "2026-11-12",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-christchurch-mutation-potential-gene-therapy.html",
+      "url": "https://medicalxpress.com/news/2026-11-clinicians-food-allergy-panels-overdiagnosis.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "mutation",
-        "parkinson",
-        "christchurch",
-        "points",
-        "potential",
-        "gene",
-        "therapy",
-        "avenue"
+        "allergy",
+        "clinicians",
+        "food",
+        "anyway",
+        "know",
+        "panels",
+        "lead",
+        "overdiagnosis"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:25.900778+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.140975+00:00"
     },
     {
-      "id": "rss-663c1297c968",
+      "id": "rss-36b1087dfe01",
       "discipline": "clinical",
       "type": "news",
-      "title": "Infrared beams could illuminate a path toward stronger brain–body connections",
+      "title": "Language barriers may keep families from introducing peanuts early",
       "authors": "Medical Xpress",
-      "abstract": "Losing feeling in your hands can make everyday activities like cooking, driving or texting a struggle. Procedures that use electricity to substitute for or help regain nerve function can help, but over time, these treatments lose effectiveness as the brain adjusts to artificial stimulation, a process known as habituation. A team of researchers, led by an engineer from Penn State, is using advanced imaging techniques to better understand the mechanics behind habituation, pinpointing optimized treatment settings that could eventually help address the problem in patients who have had strokes or amputations.",
+      "abstract": "Feeding peanut products to infants early in life is one of the best tools doctors have to help prevent peanut allergy. A new study being presented at the 2026 Annual Scientific Meeting of the American College of Allergy, Asthma and Immunology (ACAAI), held Nov. 12–16 in Phoenix, suggests that families who don't speak English may be missing out on this protection. The study has also been published in Annals of Allergy Asthma & Immunology.",
       "date": "2026-11-12",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-infrared-illuminate-path-stronger-brainbody.html",
+      "url": "https://medicalxpress.com/news/2026-11-language-barriers-families-peanuts-early.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "help",
-        "could",
-        "brain",
-        "that",
-        "habituation",
-        "infrared",
-        "beams",
-        "illuminate"
+        "allergy",
+        "families",
+        "early",
+        "peanut",
+        "asthma",
+        "immunology",
+        "language",
+        "barriers"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:25.901140+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.141259+00:00"
     },
     {
-      "id": "rss-a61b8551630d",
+      "id": "rss-5a15845b30dc",
       "discipline": "clinical",
       "type": "news",
-      "title": "'Living medicine' tackles drug-resistant biofilms growing on ventilation tubes",
+      "title": "School nurses find stock epinephrine improves safety of students with severe allergies",
       "authors": "Medical Xpress",
-      "abstract": "A \"living medicine\" has thinned biofilms of antibiotic-resistant Pseudomonas aeruginosa in the lungs of pigs, according to the findings of a study published in the journal eBioMedicine. The experimental treatment involves inhaling a genetically modified bacterium designed to target layers of drug-resistant Pseudomonas aeruginosa that grow on the surfaces of endotracheal tubes used in hospitals.",
+      "abstract": "For school kids with severe food allergies, having epinephrine on hand at school can mean the difference between a scary moment and a life-threatening one. A new national survey of school nurses presented at the 2026 Annual Scientific Meeting of the American College of Allergy, Asthma and Immunology (ACAAI), held Nov. 12–16 in Phoenix, looks at how schools stock and manage this lifesaving medicine.",
       "date": "2026-11-12",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-medicine-tackles-drug-resistant-biofilms.html",
+      "url": "https://medicalxpress.com/news/2026-11-school-nurses-stock-epinephrine-safety.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "living",
-        "medicine",
-        "drug-resistant",
-        "biofilms",
-        "tubes",
-        "pseudomonas",
-        "aeruginosa",
-        "tackles"
+        "school",
+        "nurses",
+        "stock",
+        "epinephrine",
+        "severe",
+        "allergies",
+        "find",
+        "improves"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:25.901430+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.141544+00:00"
     },
     {
-      "id": "rss-452672905af0",
+      "id": "rss-e20b3028a9bd",
       "discipline": "clinical",
       "type": "news",
-      "title": "Public awareness and tighter prescribing restrictions linked to decline in pregabalin misuse",
+      "title": "Wildfire smoke during pregnancy linked to asthma in young children",
       "authors": "Medical Xpress",
-      "abstract": "Unlike in many other developed countries, rates of pregabalin use and overdose have leveled off and declined in Australia since 2018 following high-profile media coverage of harms, restrictions on prescriptions and supply, and new boxed warnings, finds a study published by The BMJ.",
+      "abstract": "Babies whose mothers breathed in wildfire smoke and other air pollution during the middle and later months of pregnancy were more likely to develop asthma as young children. That's according to a new study presented at the American College of Allergy, Asthma and Immunology (ACAAI) 2026 Annual Scientific Meeting. The study was also published in Annals of Allergy Asthma & Immunology.",
       "date": "2026-11-12",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-awareness-tighter-restrictions-linked-decline.html",
+      "url": "https://medicalxpress.com/news/2026-11-wildfire-pregnancy-linked-asthma-young.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "restrictions",
-        "pregabalin",
-        "public",
-        "awareness",
-        "tighter",
-        "prescribing",
-        "linked",
-        "decline"
+        "asthma",
+        "wildfire",
+        "smoke",
+        "during",
+        "pregnancy",
+        "young",
+        "children",
+        "allergy"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:25.901679+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.141769+00:00"
     },
     {
-      "id": "rss-9c780e9ad3d8",
+      "id": "rss-583e187a4921",
       "discipline": "clinical",
       "type": "news",
-      "title": "Pausing blood pressure meds on day of surgery benefits older adults",
+      "title": "Patients with meat allergy who take omalizumab may see improvement of symptoms",
       "authors": "Medical Xpress",
-      "abstract": "Pausing a patient's usual dose of blood pressure medication on the day of surgery reduces the rate of very low blood pressure requiring treatment during the operation compared with taking their medication as normal, finds a trial of older adults, published by The BMJ. The researchers say this simple strategy \"provides high-certainty evidence supporting omission of the morning dose in this population.\"",
+      "abstract": "The summer of 2026 was a particularly bad season for ticks. And with it came a rising number of cases of alpha-gal syndrome (AGS) thanks to bites from the lone star tick. A new study presented at the American College of Allergy, Asthma and Immunology (ACAAI) 2026 Annual Scientific Meeting shows that a biologic treatment already in use for allergic asthma, food allergies and chronic hives may help protect people with AGS.",
       "date": "2026-11-12",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-blood-pressure-meds-day-surgery.html",
+      "url": "https://medicalxpress.com/news/2026-11-patients-meat-allergy-omalizumab-symptoms.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "blood",
-        "pressure",
-        "pausing",
-        "surgery",
-        "older",
-        "adults",
-        "dose",
-        "medication"
+        "allergy",
+        "asthma",
+        "patients",
+        "meat",
+        "take",
+        "omalizumab",
+        "improvement",
+        "symptoms"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:25.901937+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.141993+00:00"
     },
     {
-      "id": "rss-7d5216f623c2",
+      "id": "rss-384db39cc4ad",
       "discipline": "clinical",
       "type": "news",
-      "title": "Experts urge caution over drug company campaigns to destigmatize obesity",
+      "title": "Small RNA from surrounding cells promotes triple-negative breast cancer growth",
       "authors": "Medical Xpress",
-      "abstract": "We should be wary of campaigns by pharmaceutical companies to destigmatize obesity, say experts in The BMJ. Michael Viggars and colleagues argue that, while destigmatizing obesity is the right thing to do, there is a risk that companies profiting from obesity treatment come to influence public conversation and national policy.",
+      "abstract": "Some 15% of all breast cancer cases are considered particularly difficult to treat because they grow rapidly and carry a high risk of recurrence. Because targeted therapies used for other types of breast cancer have limited applicability to this subtype, treatment has relied largely on chemotherapy. However, drug resistance and recurrence have created an urgent need for new treatment and diagnostic approaches.",
       "date": "2026-11-12",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-experts-urge-caution-drug-company.html",
+      "url": "https://medicalxpress.com/news/2026-11-small-rna-cells-triple-negative.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "obesity",
-        "experts",
-        "campaigns",
-        "destigmatize",
-        "companies",
-        "that",
-        "urge",
-        "caution"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:25.902177+00:00"
-    },
-    {
-      "id": "rss-ccf5975889b5",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Ballet dancers show distinct brain responses to other people's facial emotions",
-      "authors": "Medical Xpress",
-      "abstract": "Dance training can influence how we perceive not only movement but also everyday emotional expressions, according to new research from the Centre for Cognition and Neuroscience at City St George's, University of London.",
-      "date": "2026-11-12",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-ballet-dancers-distinct-brain-responses.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ballet",
-        "dancers",
-        "show",
-        "distinct",
-        "brain",
-        "responses",
-        "other",
-        "people"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:25.902456+00:00"
-    },
-    {
-      "id": "rss-6da1af49b565",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Testing BRCA1 variants reveals differences in breast cancer risk",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at the Francis Crick Institute have tested thousands of possible BRCA1 mutations in mammary gland cells to shed light on which genetic variants confer a high risk of developing breast cancer. Research like this holds potential to improve how genetic results are interpreted in the future.",
-      "date": "2026-11-12",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-brca1-variants-reveals-differences-breast.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "brca",
-        "variants",
         "breast",
         "cancer",
-        "risk",
-        "genetic",
-        "testing",
-        "reveals"
+        "because",
+        "recurrence",
+        "have",
+        "treatment",
+        "small",
+        "surrounding"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:25.902699+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.142206+00:00"
     },
     {
-      "id": "rss-cdb831f5abf3",
+      "id": "rss-c4572fadc5a9",
       "discipline": "clinical",
       "type": "news",
-      "title": "Clinical trial explores potential brain health benefits of dietary supplement",
+      "title": "Study finds link between eczema and sleep problems in kids",
       "authors": "Medical Xpress",
-      "abstract": "A dietary supplement called urolithin A increased blood flow to the brain during mental activity in middle-aged adults with obesity, according to a University of Oklahoma study published in JAMA Network Open. The findings could help researchers better understand the relationship between the supplement, blood vessel function and brain health.",
+      "abstract": "A new study presented at the 2026 Annual Scientific Meeting of the American College of Allergy, Asthma and Immunology (ACAAI) adds evidence that atopic dermatitis (also known as eczema) in children is associated with sleep disturbance. The findings were also published in Annals of Allergy Asthma & Immunology.",
       "date": "2026-11-12",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-clinical-trial-explores-potential-brain.html",
+      "url": "https://medicalxpress.com/news/2026-11-link-eczema-problems-kids.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "brain",
-        "supplement",
-        "health",
-        "dietary",
-        "blood",
-        "clinical",
-        "trial",
-        "explores"
+        "eczema",
+        "sleep",
+        "allergy",
+        "asthma",
+        "immunology",
+        "also",
+        "finds",
+        "link"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:25.902938+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.142504+00:00"
     },
     {
-      "id": "rss-f96f8b7e7eef",
+      "id": "rss-8f6a5277a737",
       "discipline": "clinical",
       "type": "news",
-      "title": "AI-powered imaging tracks thousands of brain cancer cells moving through living tissue",
+      "title": "Insurance delays and denials mean kids don't get allergy and asthma medications",
       "authors": "Medical Xpress",
-      "abstract": "By combining live imaging of brain tissue with artificial intelligence, researchers at Uppsala University have developed a method that reveals how individual glioblastoma cells spread through the brain, how they can switch between different ways of moving and how they are affected by cancer treatments. An increased understanding of tumor cell invasion might in the long term contribute to more effective therapies.",
+      "abstract": "When a child's severe asthma, eczema, hives or food allergy isn't under control, an allergist may prescribe a newer type of medicine called a biologic. But a new study being presented at the American College of Allergy, Asthma and Immunology (ACAAI) 2026 Annual Scientific Meeting finds that getting insurance to pay for these medicines can take weeks, and many requests are turned down.",
       "date": "2026-11-12",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-ai-powered-imaging-tracks-thousands.html",
+      "url": "https://medicalxpress.com/news/2026-11-delays-denials-kids-dont-allergy.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "brain",
-        "imaging",
-        "cancer",
-        "cells",
-        "moving",
-        "tissue",
-        "they",
-        "ai-powered"
+        "allergy",
+        "asthma",
+        "insurance",
+        "delays",
+        "denials",
+        "mean",
+        "kids",
+        "medications"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:25.903191+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.142735+00:00"
     },
     {
-      "id": "rss-20d9f63861c7",
+      "id": "rss-0e1337f32bc4",
       "discipline": "clinical",
       "type": "news",
-      "title": "Team develops Asia's first AI-powered platform for one-stop autism support",
+      "title": "When a food-triggered reaction isn't a food allergy",
       "authors": "Medical Xpress",
-      "abstract": "Autism spectrum disorder (ASD) affects approximately 1 in every 100 children worldwide, yet many families face lengthy waits for professional assessment and intervention services, often missing the critical window for early support. To address this challenge, researchers at The Hong Kong University of Science and Technology (HKUST) have developed \"ASD Super Agent,\" Asia's first integrated AI platform for autism support.",
+      "abstract": "It can be scary to have a reaction to something you've eaten and believe the symptoms indicate a food allergy. But for some, the cause of symptoms may be a different condition that can go unnoticed for years. Two new studies being presented at the American College of Allergy, Asthma and Immunology (ACAAI) Annual Scientific Meeting look at how eosinophilic esophagitis (EoE) diagnoses are on the rise and how EoE symptoms can be mistaken for a food allergy.",
       "date": "2026-11-12",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-team-asia-ai-powered-platform.html",
+      "url": "https://medicalxpress.com/news/2026-11-food-triggered-reaction-isnt-allergy.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "autism",
-        "support",
-        "asia",
-        "first",
-        "platform",
-        "team",
-        "develops",
-        "ai-powered"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:25.903492+00:00"
-    },
-    {
-      "id": "rss-2b8d7b03c267",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Declining hippocampal connectivity may predict worsening symptoms in young people at risk for psychosis",
-      "authors": "Medical Xpress",
-      "abstract": "One of the central problems in psychiatry is the lack of objective biomarkers: While other areas of medicine have reliable methods for diagnosis and treatment, like X-rays or blood tests, psychiatrists and researchers rely on the patient's self-reported symptoms. In a new study, researchers identified connectivity within the hippocampus as a novel biomarker candidate for the early risk stages of psychotic disorders—and a potential predictor for difficult-to-treat negative symptoms.",
-      "date": "2026-11-12",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-declining-hippocampal-worsening-symptoms-young.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
+        "allergy",
+        "food",
         "symptoms",
-        "connectivity",
-        "risk",
-        "researchers",
-        "declining",
-        "hippocampal",
-        "predict",
-        "worsening"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:25.903793+00:00"
-    },
-    {
-      "id": "rss-63f145f73fbd",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Science solves genetic mystery behind fatal brain disorder in babies and children",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at King Abdullah University of Science and Technology (KAUST) and King Faisal Specialist Hospital and Research Center (KFSHRC) identify a previously unknown cause of a fatal newborn brain disorder, giving long-awaited answers to families whose children were affected by the disease.",
-      "date": "2026-11-12",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-science-genetic-mystery-fatal-brain.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "fatal",
-        "brain",
-        "disorder",
-        "children",
-        "king",
-        "solves",
-        "genetic",
-        "mystery"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:25.904024+00:00"
-    },
-    {
-      "id": "rss-497d138a30b7",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "New clinical definition of obesity could help target care more effectively, saving time and money",
-      "authors": "Medical Xpress",
-      "abstract": "The traditional way of assessing whether someone is overweight using body mass index (BMI) may fail to capture whether excess body fat is harmful and could be supplemented with a second measure when assessing patients, a new UCL study suggests.",
-      "date": "2026-11-12",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-clinical-definition-obesity-effectively-money.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "could",
-        "assessing",
-        "whether",
-        "body",
-        "clinical",
-        "definition",
-        "obesity",
-        "help"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:25.904251+00:00"
-    },
-    {
-      "id": "rss-fe57ac112e77",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "authors": "TechCrunch AI",
-      "abstract": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "date": "2026-11-11",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "unfolding",
-        "jensen",
-        "huang",
-        "scandal",
-        "timeline",
-        "affair",
-        "could",
+        "reaction",
+        "when",
+        "food-triggered",
+        "scary",
         "have"
       ],
       "readTime": "1 min",
@@ -484,7 +292,327 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.032486+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.142961+00:00"
+    },
+    {
+      "id": "rss-6f83bbbad748",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Early treatment for eosinophilic esophagitis may lower children's asthma risk",
+      "authors": "Medical Xpress",
+      "abstract": "Young children treated for eosinophilic esophagitis (EoE) with dupilumab were less likely to develop asthma in the future compared with children who received a different treatment. The findings come from a new study presented at the American College of Allergy, Asthma and Immunology (ACAAI) 2026 Annual Scientific Meeting. The study also appears in Annals of Allergy Asthma & Immunology.",
+      "date": "2026-11-12",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-early-treatment-eosinophilic-esophagitis-children.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "asthma",
+        "children",
+        "treatment",
+        "eosinophilic",
+        "esophagitis",
+        "allergy",
+        "immunology",
+        "early"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-12T15:05:42.143172+00:00"
+    },
+    {
+      "id": "rss-813af79c1903",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "It's not just peanuts and bee stings: Anaphylaxis can present in unusual ways",
+      "authors": "Medical Xpress",
+      "abstract": "When people think about anaphylaxis, peanuts, shellfish or even bee stings often come to mind. Three medically challenging cases presented at the American College of Allergy, Asthma and Immunology (ACAAI) 2026 Annual Scientific Meeting show that severe allergic reactions can come from far less obvious places: a fish ingredient hidden in an energy drink, a natural hair oil and a popular children's sensory toy.",
+      "date": "2026-11-12",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-peanuts-bee-anaphylaxis-unusual-ways.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "peanuts",
+        "stings",
+        "anaphylaxis",
+        "come",
+        "just",
+        "present",
+        "unusual",
+        "ways"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-12T15:05:42.143386+00:00"
+    },
+    {
+      "id": "rss-feac7905ea68",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "What's on your weed label? 86% of products lack required information",
+      "authors": "Medical Xpress",
+      "abstract": "Just one in seven cannabis products sold at Colorado dispensaries includes all required warning labels, and more than half of flower, or bud, products misrepresent THC levels, according to new University of Colorado Boulder research.",
+      "date": "2026-11-12",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-weed-products-lack-required.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "products",
+        "required",
+        "colorado",
+        "what",
+        "your",
+        "weed",
+        "label",
+        "lack"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-12T15:05:42.143614+00:00"
+    },
+    {
+      "id": "rss-5976c3dbf8b6",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Why we may feel the cold more as we age",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers from City of Hope have uncovered the biological reason why we become more sensitive to cold as we get older. Unlike white fat, which primarily stores energy, thermogenic fat is a special type of body fat that burns calories to produce heat and helps us stay warm. Thermogenic fat tends to become less active with age, which may explain why older people are more sensitive to cold.",
+      "date": "2026-11-12",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-cold-age.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cold",
+        "more",
+        "become",
+        "sensitive",
+        "older",
+        "which",
+        "thermogenic",
+        "feel"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-12T15:05:42.143828+00:00"
+    },
+    {
+      "id": "rss-aa519fc1716c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Food insecurity screen validated in young families may not fit older adults",
+      "authors": "Medical Xpress",
+      "abstract": "The U.S. population age 80 and older is projected to double over the next two decades, yet few of the tools health systems use to screen for food insecurity, transportation barriers and other social needs have been validated in older adults.",
+      "date": "2026-11-12",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-food-insecurity-screen-validated-young.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "older",
+        "food",
+        "insecurity",
+        "screen",
+        "validated",
+        "adults",
+        "young",
+        "families"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-12T15:05:42.144005+00:00"
+    },
+    {
+      "id": "rss-4d557f6f1001",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "authors": "TechCrunch AI",
+      "abstract": "This is Fireworks' second data breach in as many months.",
+      "date": "2026-11-12",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "fireworks",
+        "cyberattack",
+        "allowed",
+        "hackers",
+        "access",
+        "notion",
+        "customers",
+        "chat"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-12T15:05:42.250851+00:00"
+    },
+    {
+      "id": "rss-a1f223f786d4",
+      "discipline": "cs",
+      "type": "news",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "authors": "TechCrunch AI",
+      "abstract": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "date": "2026-11-12",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "jensen",
+        "huang",
+        "unfolding",
+        "scandal",
+        "timeline",
+        "resigned",
+        "nvidia",
+        "following"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-12T15:05:42.251029+00:00"
+    },
+    {
+      "id": "rss-0b7d9c1caab5",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "authors": "TechCrunch AI",
+      "abstract": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+      "date": "2026-11-12",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nine",
+        "startups",
+        "korean",
+        "spot",
+        "disrupt",
+        "startup",
+        "battlefield",
+        "competition"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-12T15:05:42.251176+00:00"
+    },
+    {
+      "id": "rss-9801570b81b3",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "authors": "TechCrunch AI",
+      "abstract": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "date": "2026-11-12",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "could",
+        "replace",
+        "jensen",
+        "huang",
+        "highly",
+        "unscientific",
+        "list",
+        "possible"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-12T15:05:42.251306+00:00"
+    },
+    {
+      "id": "rss-e45e2d28257c",
+      "discipline": "cs",
+      "type": "news",
+      "title": "New research could lead to faster, trustworthy AI models for climate prediction",
+      "authors": "MIT News AI",
+      "abstract": "MIT scientists developed a training method to generate models that simulate the effects of human activities on climate much more quickly than other approaches.",
+      "date": "2026-11-12",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "climate",
+        "could",
+        "lead",
+        "faster",
+        "trustworthy",
+        "prediction",
+        "scientists",
+        "developed"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-12T15:05:42.427957+00:00"
     },
     {
       "id": "rss-97e0339f3074",
@@ -516,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.032720+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.251457+00:00"
     },
     {
       "id": "rss-b5e5602d8ece",
@@ -548,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.032917+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.251606+00:00"
     },
     {
       "id": "rss-54766ba169bf",
@@ -580,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.033156+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.251795+00:00"
     },
     {
       "id": "rss-9beb5071f75f",
@@ -612,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.033337+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.251906+00:00"
     },
     {
       "id": "rss-4a5d82a4852a",
@@ -644,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.033580+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.252081+00:00"
     },
     {
       "id": "rss-b163fa8bae92",
@@ -652,7 +780,7 @@ window.LIVE_FEED_DATA = {
       "type": "news",
       "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
       "authors": "TechCrunch AI",
-      "abstract": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "abstract": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
       "date": "2026-11-11",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -676,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.033763+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.252220+00:00"
     },
     {
       "id": "rss-bddbda10d4ac",
@@ -708,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.033921+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.252339+00:00"
     },
     {
       "id": "rss-06c6a16674c3",
@@ -740,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.034085+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.252499+00:00"
     },
     {
       "id": "rss-46cf964fe909",
@@ -772,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.034270+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.252647+00:00"
     },
     {
       "id": "rss-1b43f92bbcf3",
@@ -804,103 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.034455+00:00"
-    },
-    {
-      "id": "rss-28cc61b05857",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "authors": "TechCrunch AI",
-      "abstract": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
-      "date": "2026-11-11",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "that",
-        "databricks",
-        "agent",
-        "ghodsi",
-        "tells",
-        "unvarnished",
-        "truth",
-        "employees"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.034647+00:00"
-    },
-    {
-      "id": "rss-45076c1ce7a1",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "authors": "TechCrunch AI",
-      "abstract": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-      "date": "2026-11-11",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "agents",
-        "cars",
-        "plurai",
-        "wants",
-        "help",
-        "work",
-        "better",
-        "same"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.034808+00:00"
-    },
-    {
-      "id": "rss-0b7f5b7c97be",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "authors": "TechCrunch AI",
-      "abstract": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
-      "date": "2026-11-11",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "governance",
-        "experts",
-        "nvidia",
-        "crisis",
-        "corporate",
-        "reaching",
-        "popcorn",
-        "talked"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.034965+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.252769+00:00"
     },
     {
       "id": "rss-925b21df89a1",
@@ -932,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.242412+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.428118+00:00"
     },
     {
       "id": "rss-eabfd71a61b4",
@@ -964,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.242599+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.428251+00:00"
     },
     {
       "id": "rss-db4a52614d6e",
@@ -996,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.242759+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.428369+00:00"
     },
     {
       "id": "rss-0646faa6f733",
@@ -1028,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.242920+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.428521+00:00"
     },
     {
       "id": "rss-ee3b71fee41a",
@@ -1060,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.499479+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.762993+00:00"
     },
     {
       "id": "rss-948f337f76fa",
@@ -1092,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.499737+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.763216+00:00"
     },
     {
       "id": "rss-9b3fb6e63d6f",
@@ -1124,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.243093+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.428666+00:00"
     },
     {
       "id": "openalex-1460ec1614d2",
@@ -1156,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.022637+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.076915+00:00"
     },
     {
       "id": "rss-36da62e14d67",
@@ -1188,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.500397+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.763814+00:00"
     },
     {
       "id": "rss-0301f8db1aca",
@@ -1220,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.500594+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.763984+00:00"
     },
     {
       "id": "rss-5116d0089903",
@@ -1252,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.500785+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.764142+00:00"
     },
     {
       "id": "openalex-b76d52d91fce",
@@ -1284,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.021585+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.076275+00:00"
     },
     {
       "id": "rss-a6d2ec7a9bd8",
@@ -1316,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.243253+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.428797+00:00"
     },
     {
       "id": "rss-e8ad5f5a7f57",
@@ -1348,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.501407+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.764689+00:00"
     },
     {
       "id": "openalex-15d253298584",
@@ -1380,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:52.189823+00:00"
+      "_retrievedAt": "2026-11-12T15:05:37.389761+00:00"
     },
     {
       "id": "rss-15e56cec1fd1",
@@ -1412,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.243473+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.428924+00:00"
     },
     {
       "id": "rss-0a0dc5009289",
@@ -1444,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.243647+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.429059+00:00"
     },
     {
       "id": "openalex-b9713b9a252a",
@@ -1476,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.020552+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.075113+00:00"
     },
     {
       "id": "openalex-11b5190cd445",
@@ -1508,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:52.188092+00:00"
+      "_retrievedAt": "2026-11-12T15:05:37.387516+00:00"
     },
     {
       "id": "rss-4ae9201eddcb",
@@ -1540,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.243794+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.429172+00:00"
     },
     {
       "id": "rss-4452dd44bbfd",
@@ -1572,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.243960+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.429306+00:00"
     },
     {
       "id": "openalex-c59144090f14",
@@ -1604,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.022920+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.077160+00:00"
     },
     {
       "id": "rss-8ccff313a082",
@@ -1635,39 +1667,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.501549+00:00"
-    },
-    {
-      "id": "openalex-818836e119b0",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "The Global Gravity-based Groundwater Product (G3P)",
-      "authors": "Andreas Güntner, Ehsan Sharifi, Julian Haas, Eva Boergens, Feifei Cao, Christoph Dahle",
-      "abstract": "Groundwater is one of the most important freshwater resources for ecosystems and mankind. Because of its fundamental role in the Earth's water and energy cycles, groundwater has been declared an essential climate variable by GCOS, the Global Climate Observing System. Similar to other subsurface states and fluxes, groundwater is difficult to monitor at the global scale, with sufficient spatial coverage and over climate-relevant time scales. The Global Gravity-based Groundwater Product (G3P) is a global observation-based data set of large-scale groundwater storage variations. G3P capitalizes on the unique capability of GRACE and GRACE-FO satellite gravimetry as the only remote sensing technology to monitor subsurface mass variations. In a mass balance approach, satellite-based, in situ observation-based and model-based water storage variations of snow water equivalent, root-zone soil mo...",
-      "date": "2026-10-29",
-      "year": 2026,
-      "journal": "Earth system science data",
-      "source": "Earth system science data",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5194/essd-18-7787-2026",
-      "doi": "10.5194/essd-18-7787-2026",
-      "pdfUrl": "https://essd.copernicus.org/articles/18/7787/2026/essd-18-7787-2026.pdf",
-      "keywords": [
-        "Groundwater",
-        "Environmental science",
-        "Aquifer",
-        "Hydrology (agriculture)",
-        "Water storage",
-        "Geophysics and Gravity Measurements",
-        "Soil Moisture and Remote Sensing",
-        "Hydrology and Watershed Management Studies"
-      ],
-      "readTime": "2 min",
-      "citedBy": 6,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:52.192326+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.764796+00:00"
     },
     {
       "id": "openalex-cb3cbda06d84",
@@ -1699,7 +1699,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:50.461980+00:00"
+      "_retrievedAt": "2026-11-12T15:05:35.550164+00:00"
     },
     {
       "id": "openalex-167b6533ff80",
@@ -1731,7 +1731,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.019322+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.074063+00:00"
     },
     {
       "id": "rss-820a582ce463",
@@ -1763,7 +1763,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.244117+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.429449+00:00"
     },
     {
       "id": "rss-3d5d65395710",
@@ -1795,7 +1795,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.244262+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.429568+00:00"
     },
     {
       "id": "rss-03a31c5c3f2e",
@@ -1827,7 +1827,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.501954+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.765140+00:00"
     },
     {
       "id": "rss-288b8cf14c15",
@@ -1859,7 +1859,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.244473+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.429704+00:00"
     },
     {
       "id": "openalex-5ab5668168ae",
@@ -1891,7 +1891,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:52.190139+00:00"
+      "_retrievedAt": "2026-11-12T15:05:37.390038+00:00"
     },
     {
       "id": "openalex-8824f3740ac6",
@@ -1923,39 +1923,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.592339+00:00"
-    },
-    {
-      "id": "rss-265637551189",
-      "discipline": "cs",
-      "type": "news",
-      "title": "At New York Climate Week 2026, MIT connects with a global network",
-      "authors": "MIT News AI",
-      "abstract": "A cross-section of the MIT community convened discussions on topics ranging from data centers and super pollutants to agriculture and education.",
-      "date": "2026-10-26",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "york",
-        "climate",
-        "week",
-        "connects",
-        "global",
-        "network",
-        "cross-section",
-        "community"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.244629+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.746414+00:00"
     },
     {
       "id": "rss-e025d8132eab",
@@ -1987,7 +1955,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.502459+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.765577+00:00"
     },
     {
       "id": "rss-9d78f66ca49b",
@@ -2019,7 +1987,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:37:26.502946+00:00"
+      "_retrievedAt": "2026-11-12T15:05:42.765999+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2051,7 +2019,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.593890+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.748247+00:00"
     },
     {
       "id": "openalex-9ede209118a4",
@@ -2083,7 +2051,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.595151+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.748818+00:00"
     },
     {
       "id": "openalex-7a7d520be8ce",
@@ -2115,7 +2083,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.595873+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.749425+00:00"
     },
     {
       "id": "openalex-84e3fa65288d",
@@ -2143,11 +2111,11 @@ window.LIVE_FEED_DATA = {
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 996,
-      "qualityScore": 84.0,
+      "citedBy": 1003,
+      "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:50.460875+00:00"
+      "_retrievedAt": "2026-11-12T15:05:35.549192+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -2179,7 +2147,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.596173+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.749687+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -2211,7 +2179,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:52.187696+00:00"
+      "_retrievedAt": "2026-11-12T15:05:37.387162+00:00"
     },
     {
       "id": "openalex-f5dc3633b103",
@@ -2243,7 +2211,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:50.464981+00:00"
+      "_retrievedAt": "2026-11-12T15:05:35.552670+00:00"
     },
     {
       "id": "openalex-4017ee65ef38",
@@ -2275,7 +2243,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.017846+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.072815+00:00"
     },
     {
       "id": "openalex-9a39b97a87a9",
@@ -2303,11 +2271,11 @@ window.LIVE_FEED_DATA = {
         "Mathematics, Computing, and Information Processing"
       ],
       "readTime": "1 min",
-      "citedBy": 151,
+      "citedBy": 152,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:50.465200+00:00"
+      "_retrievedAt": "2026-11-12T15:05:35.552855+00:00"
     },
     {
       "id": "openalex-88c8bbfa038c",
@@ -2339,7 +2307,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.591747+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.745897+00:00"
     },
     {
       "id": "openalex-3dd652be759c",
@@ -2371,7 +2339,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.595518+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.749112+00:00"
     },
     {
       "id": "openalex-4b0e33566f22",
@@ -2399,11 +2367,11 @@ window.LIVE_FEED_DATA = {
         "Biomedical Text Mining and Ontologies"
       ],
       "readTime": "1 min",
-      "citedBy": 18,
+      "citedBy": 19,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.594186+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.747835+00:00"
     },
     {
       "id": "openalex-cd41132c9d18",
@@ -2431,11 +2399,43 @@ window.LIVE_FEED_DATA = {
         "Research Data Management Practices"
       ],
       "readTime": "1 min",
-      "citedBy": 61,
+      "citedBy": 66,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.018281+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.073205+00:00"
+    },
+    {
+      "id": "openalex-014e44b613fc",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Mass balance of the Greenland and Antarctic ice sheets from the 1970s to 2023",
+      "authors": "Inès Otosaka, Andrew P. Shepherd, Charles Amory, Martin Horwath, Erik R. Ivins, Michalea D. King",
+      "abstract": "The Greenland and Antarctic ice sheets are major drivers of global mean sea level rise and are predicted to continue to do so in the future. However, they also represent the largest source of uncertainty in projections of future sea level rise making robust estimates of observed ice sheet mass changes critical. Here, we compare and combine 42 independent estimates of ice sheet mass balance derived from satellite observations of temporal changes in ice sheet flow, volume, and gravitational attraction to determine the ice sheet mass balance from 1972 (Greenland) and 1979 (Antarctica) until 2023. We then use regional climate models to partition the total mass balance into contributions associated with surface mass balance and ice dynamical imbalance. The ice sheets lost 11,309 ± 565 billion tonnes of ice between 1979 and 2023, with glacier dynamical imbalance driving 84% of the ice loss...",
+      "date": "2026-09-16",
+      "year": 2026,
+      "journal": "Scientific Data",
+      "source": "Scientific Data",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41597-026-08088-0",
+      "doi": "10.1038/s41597-026-08088-0",
+      "pdfUrl": "https://www.nature.com/articles/s41597-026-08088-0.pdf",
+      "keywords": [
+        "Ice sheet",
+        "Cryosphere",
+        "Greenland ice sheet",
+        "Antarctic ice sheet",
+        "Ice-sheet model",
+        "Cryospheric studies and observations",
+        "Geophysics and Gravity Measurements",
+        "Geology and Paleoclimatology Research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 29,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-12T15:05:37.386249+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -2467,7 +2467,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:50.464148+00:00"
+      "_retrievedAt": "2026-11-12T15:05:35.552007+00:00"
     },
     {
       "id": "openalex-4eeff6704837",
@@ -2499,7 +2499,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:52.189438+00:00"
+      "_retrievedAt": "2026-11-12T15:05:37.388683+00:00"
     },
     {
       "id": "openalex-8391e68a705c",
@@ -2527,11 +2527,11 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence in Healthcare and Education"
       ],
       "readTime": "1 min",
-      "citedBy": 17,
+      "citedBy": 19,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.594801+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.748074+00:00"
     },
     {
       "id": "openalex-554ee5013027",
@@ -2563,7 +2563,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:52.190484+00:00"
+      "_retrievedAt": "2026-11-12T15:05:37.390319+00:00"
     },
     {
       "id": "openalex-bb23e4ef92cf",
@@ -2595,7 +2595,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.019986+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.074644+00:00"
     },
     {
       "id": "openalex-4d7da7db66ac",
@@ -2627,7 +2627,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:50.465885+00:00"
+      "_retrievedAt": "2026-11-12T15:05:35.553349+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2659,7 +2659,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:52.187233+00:00"
+      "_retrievedAt": "2026-11-12T15:05:37.386774+00:00"
     },
     {
       "id": "openalex-3d0d090d179c",
@@ -2691,7 +2691,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:52.191027+00:00"
+      "_retrievedAt": "2026-11-12T15:05:37.390815+00:00"
     },
     {
       "id": "openalex-518b9bf6cea9",
@@ -2719,11 +2719,11 @@ window.LIVE_FEED_DATA = {
         "Probability and Statistical Research"
       ],
       "readTime": "1 min",
-      "citedBy": 224,
+      "citedBy": 225,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:50.463433+00:00"
+      "_retrievedAt": "2026-11-12T15:05:35.551433+00:00"
     },
     {
       "id": "openalex-da37b7f1fa1c",
@@ -2755,7 +2755,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:50.465556+00:00"
+      "_retrievedAt": "2026-11-12T15:05:35.553086+00:00"
     },
     {
       "id": "openalex-021b339d4b20",
@@ -2787,7 +2787,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:52.186949+00:00"
+      "_retrievedAt": "2026-11-12T15:05:37.386533+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2819,7 +2819,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:52.188777+00:00"
+      "_retrievedAt": "2026-11-12T15:05:37.388093+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2847,11 +2847,11 @@ window.LIVE_FEED_DATA = {
         "T-cell and B-cell Immunology"
       ],
       "readTime": "1 min",
-      "citedBy": 45,
+      "citedBy": 49,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.018613+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.073471+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2883,7 +2883,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.022226+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.076571+00:00"
     },
     {
       "id": "openalex-6e7aa9ad6862",
@@ -2911,11 +2911,11 @@ window.LIVE_FEED_DATA = {
         "Robot Manipulation and Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 306,
+      "citedBy": 310,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:50.461674+00:00"
+      "_retrievedAt": "2026-11-12T15:05:35.549897+00:00"
     },
     {
       "id": "openalex-514dbfd7d5d8",
@@ -2943,11 +2943,11 @@ window.LIVE_FEED_DATA = {
         "Cancer Genomics and Diagnostics"
       ],
       "readTime": "1 min",
-      "citedBy": 23,
+      "citedBy": 24,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.021273+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.075429+00:00"
     },
     {
       "id": "openalex-6a5a22694e49",
@@ -2975,11 +2975,11 @@ window.LIVE_FEED_DATA = {
         "Smart Grid and Power Systems"
       ],
       "readTime": "1 min",
-      "citedBy": 127,
+      "citedBy": 128,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:50.466195+00:00"
+      "_retrievedAt": "2026-11-12T15:05:35.553619+00:00"
     },
     {
       "id": "openalex-506180faa30c",
@@ -3007,11 +3007,11 @@ window.LIVE_FEED_DATA = {
         "Genetically Modified Organisms Research"
       ],
       "readTime": "1 min",
-      "citedBy": 34,
+      "citedBy": 35,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.019670+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.074354+00:00"
     },
     {
       "id": "openalex-5d6d48b88b97",
@@ -3039,11 +3039,11 @@ window.LIVE_FEED_DATA = {
         "Olfactory and Sensory Function Studies"
       ],
       "readTime": "1 min",
-      "citedBy": 21,
+      "citedBy": 22,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.021900+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.076025+00:00"
     },
     {
       "id": "openalex-50c318e007c8",
@@ -3071,11 +3071,11 @@ window.LIVE_FEED_DATA = {
         "Robotic Locomotion and Control"
       ],
       "readTime": "1 min",
-      "citedBy": 234,
+      "citedBy": 236,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:50.462749+00:00"
+      "_retrievedAt": "2026-11-12T15:05:35.550868+00:00"
     },
     {
       "id": "openalex-dbb3c4b557e9",
@@ -3107,7 +3107,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.592027+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.746142+00:00"
     },
     {
       "id": "openalex-838b1babffe0",
@@ -3135,11 +3135,11 @@ window.LIVE_FEED_DATA = {
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 223,
+      "citedBy": 225,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:50.463731+00:00"
+      "_retrievedAt": "2026-11-12T15:05:35.551684+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -3167,11 +3167,11 @@ window.LIVE_FEED_DATA = {
         "Genetic Associations and Epidemiology"
       ],
       "readTime": "1 min",
-      "citedBy": 41,
+      "citedBy": 44,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.018919+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.073735+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -3203,7 +3203,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.020915+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.075748+00:00"
     },
     {
       "id": "openalex-7d24a7f15d87",
@@ -3235,7 +3235,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:52.189091+00:00"
+      "_retrievedAt": "2026-11-12T15:05:37.388372+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -3267,7 +3267,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:52.186641+00:00"
+      "_retrievedAt": "2026-11-12T15:05:37.385951+00:00"
     },
     {
       "id": "openalex-26e8fbfaec61",
@@ -3295,11 +3295,11 @@ window.LIVE_FEED_DATA = {
         "Advanced Neural Network Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 369,
+      "citedBy": 378,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:50.461275+00:00"
+      "_retrievedAt": "2026-11-12T15:05:35.549570+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -3331,7 +3331,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:50.462382+00:00"
+      "_retrievedAt": "2026-11-12T15:05:35.550515+00:00"
     },
     {
       "id": "openalex-65254d753054",
@@ -3363,7 +3363,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.594513+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.748519+00:00"
     },
     {
       "id": "openalex-f4959844837a",
@@ -3391,11 +3391,11 @@ window.LIVE_FEED_DATA = {
         "Remote Sensing and Land Use"
       ],
       "readTime": "1 min",
-      "citedBy": 7,
+      "citedBy": 8,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:52.191467+00:00"
+      "_retrievedAt": "2026-11-12T15:05:37.389049+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -3427,7 +3427,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.020245+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.074867+00:00"
     },
     {
       "id": "openalex-6b15c7cad215",
@@ -3459,7 +3459,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:50.463147+00:00"
+      "_retrievedAt": "2026-11-12T15:05:35.551217+00:00"
     },
     {
       "id": "openalex-3b5a50007972",
@@ -3487,11 +3487,11 @@ window.LIVE_FEED_DATA = {
         "Chemokine receptors and signaling"
       ],
       "readTime": "2 min",
-      "citedBy": 7,
+      "citedBy": 8,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:52.191892+00:00"
+      "_retrievedAt": "2026-11-12T15:05:37.389429+00:00"
     },
     {
       "id": "openalex-922cd87ec4f4",
@@ -3523,7 +3523,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.593390+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.747321+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -3555,7 +3555,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:50.464595+00:00"
+      "_retrievedAt": "2026-11-12T15:05:35.552327+00:00"
     },
     {
       "id": "openalex-aca20517061c",
@@ -3587,7 +3587,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:52.188412+00:00"
+      "_retrievedAt": "2026-11-12T15:05:37.387783+00:00"
     },
     {
       "id": "openalex-5becf472c0a7",
@@ -3615,11 +3615,11 @@ window.LIVE_FEED_DATA = {
         "T-cell and B-cell Immunology"
       ],
       "readTime": "1 min",
-      "citedBy": 46,
+      "citedBy": 48,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.591424+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.745615+00:00"
     },
     {
       "id": "openalex-56385e95541c",
@@ -3651,7 +3651,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-12T00:36:51.593679+00:00"
+      "_retrievedAt": "2026-11-12T15:05:36.747579+00:00"
     }
   ]
 };
