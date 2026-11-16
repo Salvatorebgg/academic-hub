@@ -1,5 +1,5 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-11-16T06:20:07.734449+00:00",
+  "generatedAt": "2026-11-16T21:57:43.114841+00:00",
   "total": 114,
   "sources": [
     "RSS",
@@ -7,452 +7,804 @@ window.LIVE_FEED_DATA = {
   ],
   "papers": [
     {
-      "id": "rss-9ca4f797c6f6",
+      "id": "rss-8a7d0470e3f6",
       "discipline": "clinical",
       "type": "news",
-      "title": "Cannabis use disorder linked to higher odds of suicidal thoughts",
+      "title": "No oxygen? Chicken brain cells still survive",
       "authors": "Medical Xpress",
-      "abstract": "Cannabis use is increasingly common and socially accepted, yet health risks exist, particularly with problematic use. Specifically, adults with cannabis use disorder have significantly higher odds of suicidal ideation, according to a new study in the Journal of Studies on Alcohol and Drugs, published by Rutgers University.",
+      "abstract": "Without oxygen, brain cells die within minutes … or do they? When it's a chicken brain, Wake Forest University researcher Lara do Amaral-Silva has found, the answer is no.",
       "date": "2026-11-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-cannabis-disorder-linked-higher-odds.html",
+      "url": "https://medicalxpress.com/news/2026-11-oxygen-chicken-brain-cells-survive.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cannabis",
-        "disorder",
-        "higher",
-        "odds",
-        "suicidal",
-        "linked",
-        "thoughts",
-        "increasingly"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.619360+00:00"
-    },
-    {
-      "id": "rss-044b6c30c747",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Mutual-help group attendance in alcohol treatment drops sharply, with wide racial and ethnic gaps",
-      "authors": "Medical Xpress",
-      "abstract": "Among people in inpatient alcohol treatment, the share attending Alcoholics Anonymous or similar groups at least weekly fell from more than half to fewer than four in 10 in just seven years, according to a study published in the Journal of Studies on Alcohol and Drugs. Latinx/Hispanic, Black and American Indian/Alaska Native patients were less likely than white patients to attend weekly, even after accounting for factors such as age, employment and alcohol use.",
-      "date": "2026-11-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-mutual-group-alcohol-treatment-sharply.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "alcohol",
-        "than",
-        "treatment",
-        "weekly",
-        "patients",
-        "mutual-help",
-        "group",
-        "attendance"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.619602+00:00"
-    },
-    {
-      "id": "rss-2fff5984df53",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "National poll: Most parents say pets benefit children's emotional health, but expect kids to help with care",
-      "authors": "Medical Xpress",
-      "abstract": "A new pet under the holiday tree or tucked inside a birthday bow may sound like the perfect surprise for a child, but kids may not always follow through on the pet-care responsibilities parents expect.",
-      "date": "2026-11-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-national-poll-parents-pets-benefit.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "parents",
-        "expect",
-        "kids",
-        "national",
-        "poll",
-        "most",
-        "pets",
-        "benefit"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.619767+00:00"
-    },
-    {
-      "id": "rss-80fa4f16819a",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Standardized markers and extraction methods let labs reliably isolate thymic epithelial cells",
-      "authors": "Medical Xpress",
-      "abstract": "Deep in the human chest, the thymus gland runs a school for immune cells. It relies on rare \"teacher\" cells to instruct immune T cells to attack foreign invaders while preventing them from turning rogue against healthy tissues. These thymic epithelial cells (TECs) make up less than 1% of all cells in the gland. TECs are so elusive that research labs have spent decades struggling to agree on how to properly study them.",
-      "date": "2026-11-16",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-standardized-markers-methods-labs-reliably.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
+        "brain",
+        "oxygen",
+        "chicken",
         "cells",
-        "labs",
-        "thymic",
-        "epithelial",
-        "gland",
-        "immune",
-        "them",
-        "tecs"
+        "still",
+        "survive",
+        "without",
+        "within"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.619962+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.361996+00:00"
     },
     {
-      "id": "rss-3bcd67245139",
+      "id": "rss-2cdc0dda5ee9",
       "discipline": "clinical",
       "type": "news",
-      "title": "Substance use, mental health and respiratory infections shifting burden of disease in Canada",
+      "title": "US set to lose measles-free certification",
       "authors": "Medical Xpress",
-      "abstract": "The conditions driving the burden of disease in Canada are shifting, according to an analysis of the Global Burden of Disease (GBD) Study published in Canadian Medical Association Journal. Cancers, cardiovascular diseases, musculoskeletal disorders and unintentional injuries were the four leading causes of health loss in Canada in 2023, accounting for half of all health loss. But the fastest-growing contributors between 2010 and 2023 were substance use disorders, mental health conditions and respiratory infections, including COVID-19, after accounting for age.",
+      "abstract": "This week, the United States will lose its designation as a country where measles has been eliminated, as an outbreak of the dangerous, highly contagious disease keeps spreading.",
       "date": "2026-11-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-substance-mental-health-respiratory-infections.html",
+      "url": "https://medicalxpress.com/news/2026-11-measles-free-certification.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "health",
-        "burden",
-        "disease",
-        "canada",
-        "substance",
-        "mental",
-        "respiratory",
-        "infections"
+        "lose",
+        "measles-free",
+        "certification",
+        "this",
+        "week",
+        "united",
+        "states",
+        "will"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.620168+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.362149+00:00"
     },
     {
-      "id": "rss-cc2e0a133765",
+      "id": "rss-f44139f68c4a",
       "discipline": "clinical",
       "type": "news",
-      "title": "People with autism show remarkable variability in brain activity",
+      "title": "Researchers find potential way to protect the brain from HIV and opioid damage",
       "authors": "Medical Xpress",
-      "abstract": "In a new study in JNeurosci, Dorit Kliemann and James Traer, from the University of Iowa, led a research collaboration to compare brain activity between people with autism spectrum disorder (ASD) and individuals who do not have autism.",
+      "abstract": "People living with HIV continue to struggle with memory loss, difficulty concentrating and poor decision-making, even as antiretroviral treatments have dramatically improved life expectancy. For patients who also use opioids—which may be prescribed to manage the chronic pain that can accompany HIV—these cognitive problems can be even worse. Until now, scientists haven't understood exactly why.",
       "date": "2026-11-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-people-autism-remarkable-variability-brain.html",
+      "url": "https://medicalxpress.com/news/2026-11-potential-brain-hiv-opioid.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "even",
+        "researchers",
+        "find",
+        "potential",
+        "protect",
+        "brain",
+        "opioid",
+        "damage"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:42.362326+00:00"
+    },
+    {
+      "id": "rss-8f144a35c394",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Liver cells activate scarring-linked genes in stiff surroundings but favor repair signals in softer conditions",
+      "authors": "Medical Xpress",
+      "abstract": "Soft and stiff extracellular matrix environments influence how hepatic stellate cells (HSCs) respond during liver injury. Researchers from Science Tokyo investigated how matrix stiffness shapes the direction of HSC activation. They revealed that soft conditions favored regeneration-associated cellular states, while stiff conditions promoted fibrosis-associated gene expression.",
+      "date": "2026-11-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-liver-cells-scarring-linked-genes.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "stiff",
+        "conditions",
+        "liver",
+        "cells",
+        "soft",
+        "matrix",
+        "activate",
+        "scarring-linked"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:42.362482+00:00"
+    },
+    {
+      "id": "rss-bca6d5945a27",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Daytime brain waves resembling deep sleep could explain hallucinations in Parkinson's disease",
+      "authors": "Medical Xpress",
+      "abstract": "Parkinson's disease is a progressive brain disorder that damages dopamine-producing neurons, causing symptoms to worsen over time. The disease is associated with motor difficulties that can manifest as tremors, stiffness, poor balance and slow movements. However, the disease reaches beyond movement, affecting how people think, perceive the world around them and sleep. Caregivers and health care workers often report that cognitive decline, excessive daytime sleepiness (EDS) and perceptual distortions add to the burden of the disease and can take the greatest toll on quality of life.",
+      "date": "2026-11-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-daytime-brain-resembling-deep-hallucinations.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "disease",
+        "that",
+        "daytime",
+        "brain",
+        "sleep",
+        "parkinson",
+        "waves",
+        "resembling"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:42.362676+00:00"
+    },
+    {
+      "id": "rss-758c86d5e573",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Scientists identify likely cause of typhoid fever's deadliest complication",
+      "authors": "Medical Xpress",
+      "abstract": "Typhoid fever is an ancient scourge that remains all too deadly in the developing world today. And while it has been described in detail for more than a century, the reasons for its lethality have never been understood. Yale researchers now have an answer.",
+      "date": "2026-11-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-scientists-typhoid-fever-deadliest-complication.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "typhoid",
+        "fever",
+        "been",
+        "have",
+        "scientists",
+        "identify",
+        "likely",
+        "cause"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:42.362827+00:00"
+    },
+    {
+      "id": "rss-0296d2b36baf",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "CAR T-cell therapy shows promise for patients with lupus",
+      "authors": "Medical Xpress",
+      "abstract": "For patients with systemic lupus erythematosus (SLE), chimeric antigen receptor T-cell (CAR T-cell) therapy is associated with consistent reductions in disease activity, according to research presented at the annual meeting of the American College of Rheumatology (ACR Convergence 2026), held from Nov. 6 to 11 in Orlando, Florida.",
+      "date": "2026-11-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-car-cell-therapy-patients-lupus.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "t-cell",
+        "therapy",
+        "patients",
+        "lupus",
+        "shows",
+        "promise",
+        "systemic",
+        "erythematosus"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:42.362992+00:00"
+    },
+    {
+      "id": "rss-4cf56516acee",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "The body clock keeps ticking, but activity and body temperature become less coordinated in aging mice",
+      "authors": "Medical Xpress",
+      "abstract": "Physical activity and body temperature fluctuate throughout the day according to biological rhythms. In addition to the ~24-h circadian rhythms, these physiological processes display shorter rhythms with periods of several hours, known as ultradian rhythms. However, it remains unclear how these rhythms change with age and how those changes relate to the master circadian clock of the brain.",
+      "date": "2026-11-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-body-clock-temperature-aging-mice.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "rhythms",
+        "body",
+        "clock",
+        "activity",
+        "temperature",
+        "circadian",
+        "these",
+        "keeps"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:42.363148+00:00"
+    },
+    {
+      "id": "rss-1fb2b62059a6",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "From supply chains to cancer research: How causal AI is opening new research paths",
+      "authors": "Medical Xpress",
+      "abstract": "How can automotive supply-chain research inform a new line of inquiry in cancer treatment research? For Constructor University Lecturer and Postdoctoral Researcher Ishansh Gupta, the answer is causal AI—a form of artificial intelligence that goes beyond simple pattern recognition to analyze why certain patterns exist, and help predict outcomes of changes.",
+      "date": "2026-11-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-chains-cancer-causal-ai-paths.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "cancer",
+        "causal",
+        "supply",
+        "chains",
+        "opening",
+        "paths",
+        "automotive",
+        "supply-chain"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:42.363313+00:00"
+    },
+    {
+      "id": "rss-3680a9d336f0",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "First results published from the largest brain atlas ever created",
+      "authors": "Medical Xpress",
+      "abstract": "Imagine trying to understand a city without a map. You see buildings and meet people, but you have no idea how everything is connected. Researchers face a similar challenge when studying the brain. That is why international scientists within the Brain Initiative Cell Atlas Network are working together to create an atlas that maps all types of human brain cells. The first results have now been made publicly available.",
+      "date": "2026-11-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-results-published-largest-brain-atlas.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "atlas",
+        "first",
+        "results",
+        "have",
+        "that",
+        "published",
+        "largest"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:42.363476+00:00"
+    },
+    {
+      "id": "rss-de4a71602104",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Treating iron deficiency: The everyday factors that affect how your supplements work",
+      "authors": "Medical Xpress",
+      "abstract": "Iron deficiency is the most common nutritional deficiency worldwide, affecting around 2 billion people. Yet many people may not even realize they have low iron for months or even years.",
+      "date": "2026-11-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-iron-deficiency-everyday-factors-affect.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "iron",
+        "deficiency",
+        "people",
+        "even",
+        "treating",
+        "everyday",
+        "factors",
+        "that"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:42.363609+00:00"
+    },
+    {
+      "id": "rss-504657ae8537",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "A possible new approach for treating autism and conditions caused by a single faulty gene copy",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at UCLA Health have shown in lab-grown human brain cells that boosting the activity of a healthy gene copy can offset the effects of a mutation linked to autism. The findings, published in Nature Neuroscience, suggest a new direction for treating autism and related neurodevelopmental conditions, though the work is still at an early stage.",
+      "date": "2026-11-16",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-approach-autism-conditions-faulty-gene.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "autism",
-        "people",
-        "brain",
-        "activity",
-        "show",
-        "remarkable",
-        "variability",
-        "jneurosci"
+        "treating",
+        "conditions",
+        "gene",
+        "copy",
+        "possible",
+        "approach",
+        "caused"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.620325+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.363768+00:00"
     },
     {
-      "id": "rss-cd4235383942",
+      "id": "rss-3a666520b1c8",
       "discipline": "clinical",
       "type": "news",
-      "title": "How sourness overpowers other kinds of tastes",
+      "title": "HIV prevention education brought into Baltimore beauty shops through community-designed program",
       "authors": "Medical Xpress",
-      "abstract": "When organisms consume foods or drinks with a mixture of tastes, like sweet and sour, how do their taste buds communicate this taste information to the brain? In a new study in JNeurosci, Stephen Roper and colleagues at the University of Miami Miller School of Medicine advanced understanding by measuring how signals pass from the tongue to the brain in mice during exposure to mixed tastes.",
+      "abstract": "What if a conversation about HIV prevention began not in a doctor's office but in a neighborhood beauty shop?",
       "date": "2026-11-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-sourness-overpowers-kinds.html",
+      "url": "https://medicalxpress.com/news/2026-11-hiv-brought-baltimore-beauty-community.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "tastes",
-        "taste",
-        "brain",
-        "sourness",
-        "overpowers",
-        "other",
-        "kinds",
-        "when"
+        "prevention",
+        "beauty",
+        "education",
+        "brought",
+        "baltimore",
+        "shops",
+        "community-designed",
+        "program"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.620514+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.363906+00:00"
     },
     {
-      "id": "rss-25df802ab11e",
+      "id": "rss-cd108d1f1ab8",
       "discipline": "clinical",
       "type": "news",
-      "title": "Could brain energy mismatches explain altered experiences in schizophrenia?",
+      "title": "Astaxanthin supplements: What the science says about skin, exercise and your brain",
       "authors": "Medical Xpress",
-      "abstract": "A minute can seem shorter when you are having fun, yet it feels painfully long when you're bored or stressed. Although this gap between actual time and perceived time is something we all experience, it can be much more pronounced in people with schizophrenia-spectrum conditions. They may experience time and space very differently from others, with time seeming fragmented, familiar surroundings feeling strange or disconnected, and even their sense of self shifting.",
+      "abstract": "Smoother skin, sharper eyesight, better memory, stronger joints, improved athletic performance and even protection against aging—astaxanthin is marketed as a supplement with an extraordinary range of health benefits. But how much of this promise is backed by evidence in people?",
       "date": "2026-11-16",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-brain-energy-mismatches-schizophrenia.html",
+      "url": "https://medicalxpress.com/news/2026-11-astaxanthin-supplements-science-skin-brain.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "time",
-        "when",
-        "experience",
-        "could",
-        "brain",
-        "energy",
-        "mismatches",
-        "explain"
+        "astaxanthin",
+        "skin",
+        "supplements",
+        "what",
+        "says",
+        "about",
+        "exercise",
+        "your"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.620703+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.364061+00:00"
     },
     {
-      "id": "rss-93edc9a68bf6",
-      "discipline": "clinical",
+      "id": "rss-7eb461961c4e",
+      "discipline": "cs",
       "type": "news",
-      "title": "Brazil records first mpox death in 2026",
-      "authors": "Medical Xpress",
-      "abstract": "Brazil has logged its first mpox death of 2026, but officials are not treating the surge in cases as an outbreak, according to a public health institute.",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "authors": "TechCrunch AI",
+      "abstract": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
       "date": "2026-11-16",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-brazil-mpox-death.html",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "brazil",
-        "first",
-        "mpox",
-        "death",
-        "records",
-        "logged",
-        "officials",
-        "treating"
+        "california",
+        "rogue",
+        "agent",
+        "state",
+        "sues",
+        "openai",
+        "over",
+        "incidents"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.620838+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.441482+00:00"
     },
     {
-      "id": "rss-16a1e2609623",
-      "discipline": "clinical",
+      "id": "rss-4a6b21f07360",
+      "discipline": "cs",
       "type": "news",
-      "title": "Ebola outbreak remains out of control in Congo 6 months into response",
-      "authors": "Medical Xpress",
-      "abstract": "Six months after an Ebola outbreak was declared in Congo, the disease remains out of control and efforts to contain it are faltering.",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "authors": "TechCrunch AI",
+      "abstract": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
       "date": "2026-11-16",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-ebola-outbreak-congo-months-response.html",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "ebola",
-        "outbreak",
-        "remains",
-        "control",
-        "congo",
-        "months",
-        "response",
-        "after"
+        "trump",
+        "huang",
+        "chinese",
+        "says",
+        "ex-nvidia",
+        "jensen",
+        "affair",
+        "alleged"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.620971+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.441628+00:00"
     },
     {
-      "id": "rss-191a8928f2ac",
-      "discipline": "clinical",
+      "id": "rss-5865f5b7a6bc",
+      "discipline": "cs",
       "type": "news",
-      "title": "Brain–heart interactions may predict recovery from oxygen loss",
-      "authors": "Medical Xpress",
-      "abstract": "Low oxygen levels in the brain, or cerebral anoxia, are a leading cause of death worldwide. Patients who recover from cerebral anoxia deal with persistent neurological issues that worsen their quality of life. Building on previous work showing that brain–heart interactions can predict the severity of symptoms and survival, Diego Candia-Rivera, Sofia Carrion-Falgarona and colleagues from the Paris Brain Institute assessed whether brain–heart interactions in a rat model of severe oxygen loss can predict survival after resuscitation. The work is published in eNeuro.",
+      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
       "date": "2026-11-16",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-brainheart-interactions-recovery-oxygen-loss.html",
+      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "brain",
-        "heart",
-        "interactions",
-        "predict",
-        "oxygen",
-        "loss",
-        "cerebral",
-        "anoxia"
+        "altman",
+        "nvidia",
+        "without",
+        "jensen",
+        "huang",
+        "industry",
+        "will",
+        "fine"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.621195+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.441747+00:00"
     },
     {
-      "id": "rss-5ee31db70909",
-      "discipline": "clinical",
+      "id": "rss-7dcce2e86d29",
+      "discipline": "cs",
       "type": "news",
-      "title": "Keep health at the center of public discussions on nuclear risk, researchers urge",
-      "authors": "Medical Xpress",
-      "abstract": "In response to growing geopolitical tensions, editors of more than 100 international journals have jointly published an editorial urging health professionals to keep health at the center of public discussions on nuclear risk.",
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "authors": "TechCrunch AI",
+      "abstract": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
       "date": "2026-11-16",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-health-center-discussions-nuclear-urge.html",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "health",
-        "keep",
-        "center",
-        "public",
-        "discussions",
-        "nuclear",
-        "risk",
-        "researchers"
+        "says",
+        "open",
+        "source",
+        "hacking",
+        "tool",
+        "used",
+        "artex",
+        "breach"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.621348+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.441871+00:00"
     },
     {
-      "id": "rss-fb324aef4caa",
-      "discipline": "clinical",
+      "id": "rss-3f6c10134526",
+      "discipline": "cs",
       "type": "news",
-      "title": "ADHD's effects on breathing, perception and behavior",
-      "authors": "Medical Xpress",
-      "abstract": "New attention-deficit/hyperactivity disorder (ADHD) research shows the condition influences mental and physical health across the life span. The findings were presented at Neuroscience 2026, the annual meeting of the Society for Neuroscience.",
+      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "authors": "TechCrunch AI",
+      "abstract": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
       "date": "2026-11-16",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-adhd-effects-perception-behavior.html",
+      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "adhd",
-        "neuroscience",
-        "effects",
-        "breathing",
-        "perception",
-        "behavior",
-        "attention-deficit",
-        "hyperactivity"
+        "belfort",
+        "voice",
+        "jordan",
+        "startup",
+        "tone",
+        "wants",
+        "sell",
+        "like"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.621513+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.441984+00:00"
     },
     {
-      "id": "rss-f408f59f2935",
-      "discipline": "clinical",
+      "id": "rss-35bb09191a7b",
+      "discipline": "cs",
       "type": "news",
-      "title": "Using AI to accelerate neuroscience research",
-      "authors": "Medical Xpress",
-      "abstract": "Integrating artificial intelligence (AI) into neuroscience is changing how scientists engage with data, improving our understanding of the brain and leading to better ways of training computational models. The findings will be presented at Neuroscience 2026, the annual meeting of the Society for Neuroscience.",
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
       "date": "2026-11-16",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-ai-neuroscience.html",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "neuroscience",
-        "accelerate",
-        "integrating",
-        "artificial",
-        "intelligence",
-        "changing",
-        "scientists",
-        "engage"
+        "openai",
+        "will",
+        "embed",
+        "investigate",
+        "safety",
+        "researchers",
+        "subversion",
+        "apollo"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.621665+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.442083+00:00"
+    },
+    {
+      "id": "rss-ba0ef35aaa27",
+      "discipline": "cs",
+      "type": "news",
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "authors": "TechCrunch AI",
+      "abstract": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      "date": "2026-11-16",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "chatgpt",
+        "csam",
+        "openai",
+        "releases",
+        "image",
+        "classifier",
+        "warnings",
+        "combat"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:42.442168+00:00"
+    },
+    {
+      "id": "rss-42041bcd935d",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "authors": "TechCrunch AI",
+      "abstract": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+      "date": "2026-11-16",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "audible",
+        "turns",
+        "help",
+        "users",
+        "discover",
+        "audiobooks",
+        "ai-generated",
+        "audio"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:42.442256+00:00"
+    },
+    {
+      "id": "rss-b00adcc22866",
+      "discipline": "cs",
+      "type": "news",
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "authors": "TechCrunch AI",
+      "abstract": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+      "date": "2026-11-16",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "export",
+        "compute",
+        "tightens",
+        "chip",
+        "controls",
+        "deter",
+        "chinese",
+        "companies"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:42.442351+00:00"
+    },
+    {
+      "id": "rss-81e088326461",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "authors": "TechCrunch AI",
+      "abstract": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+      "date": "2026-11-16",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "trip",
+        "maps",
+        "google",
+        "build",
+        "itineraries",
+        "real-time",
+        "details",
+        "about"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:42.442444+00:00"
+    },
+    {
+      "id": "rss-3c06834f32e6",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "authors": "TechCrunch AI",
+      "abstract": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "date": "2026-11-16",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "freshworks",
+        "alums",
+        "raise",
+        "take",
+        "salesforce",
+        "hubspot",
+        "ai-native",
+        "dreamteam"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:42.442532+00:00"
     },
     {
       "id": "rss-c3403c3c2816",
@@ -460,7 +812,7 @@ window.LIVE_FEED_DATA = {
       "type": "news",
       "title": "Apple launches new app to study how people use AI for health",
       "authors": "TechCrunch AI",
-      "abstract": "Apple's new app for a study will answer everyday medical questions",
+      "abstract": "Apple's new app for a study will answer everyday medical questions.",
       "date": "2026-11-16",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -484,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.714419+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.442609+00:00"
     },
     {
       "id": "rss-fae3057c3d52",
@@ -492,7 +844,7 @@ window.LIVE_FEED_DATA = {
       "type": "news",
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
       "authors": "TechCrunch AI",
-      "abstract": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "abstract": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
       "date": "2026-11-15",
       "year": 2026,
       "journal": "TechCrunch AI",
@@ -516,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.714586+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.442719+00:00"
     },
     {
       "id": "rss-a2d710b2f334",
@@ -548,359 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.714691+00:00"
-    },
-    {
-      "id": "rss-09a450b193a8",
-      "discipline": "cs",
-      "type": "news",
-      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "authors": "TechCrunch AI",
-      "abstract": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-      "date": "2026-11-15",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "tech",
-        "gathers",
-        "tycoons",
-        "lesson",
-        "dating",
-        "spycraft",
-        "while",
-        "awkward"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.714824+00:00"
-    },
-    {
-      "id": "rss-32ee2a60475c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Where was Nvidia’s security team?",
-      "authors": "TechCrunch AI",
-      "abstract": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-      "date": "2026-11-15",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "security",
-        "nvidia",
-        "that",
-        "where",
-        "team",
-        "chief",
-        "quietly",
-        "left"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.714975+00:00"
-    },
-    {
-      "id": "rss-b0d8d1f87326",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "authors": "TechCrunch AI",
-      "abstract": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "date": "2026-11-14",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "petition",
-        "elon",
-        "musk",
-        "other",
-        "tech",
-        "execs",
-        "sign",
-        "calling"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.715076+00:00"
-    },
-    {
-      "id": "rss-62663e42fcbe",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "authors": "TechCrunch AI",
-      "abstract": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "date": "2026-11-14",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "projects",
-        "that",
-        "graveyard",
-        "running",
-        "list",
-        "startups",
-        "didn",
-        "make"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.715190+00:00"
-    },
-    {
-      "id": "rss-220396c7fce1",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "authors": "TechCrunch AI",
-      "abstract": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "date": "2026-11-14",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "governments",
-        "asian",
-        "react",
-        "nvidia",
-        "jensen",
-        "huang",
-        "exit",
-        "some"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.715299+00:00"
-    },
-    {
-      "id": "rss-6a470a238b1c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "authors": "TechCrunch AI",
-      "abstract": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "date": "2026-11-13",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "huang",
-        "founders",
-        "jensen",
-        "departure",
-        "blasts",
-        "hole",
-        "startup",
-        "funding"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.715425+00:00"
-    },
-    {
-      "id": "rss-49f2296ad35e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "authors": "TechCrunch AI",
-      "abstract": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "date": "2026-11-13",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "agent",
-        "langchain",
-        "startup",
-        "hits",
-        "valuation",
-        "claims",
-        "customers",
-        "platform"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.715519+00:00"
-    },
-    {
-      "id": "rss-b954b75bda90",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "authors": "TechCrunch AI",
-      "abstract": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "date": "2026-11-13",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nvidia",
-        "chips",
-        "china",
-        "most",
-        "export-banned",
-        "behind",
-        "powerful",
-        "uh-oh"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.715623+00:00"
-    },
-    {
-      "id": "rss-0fe0e439c50e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "authors": "TechCrunch AI",
-      "abstract": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "date": "2026-11-13",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "chatgpt",
-        "wallet",
-        "lets",
-        "agents",
-        "shop",
-        "check",
-        "users",
-        "behalf"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.715726+00:00"
-    },
-    {
-      "id": "rss-90b05872ef5d",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "authors": "TechCrunch AI",
-      "abstract": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "date": "2026-11-13",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "jensen",
-        "huang",
-        "unfolding",
-        "scandal",
-        "timeline",
-        "resigned",
-        "nvidia",
-        "following"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.715829+00:00"
-    },
-    {
-      "id": "rss-7ea0e7b75b03",
-      "discipline": "cs",
-      "type": "news",
-      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-      "authors": "TechCrunch AI",
-      "abstract": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-      "date": "2026-11-13",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "meeting",
-        "dictation",
-        "teams",
-        "elevenlabs",
-        "combines",
-        "note-taking",
-        "elevenai",
-        "notetaker"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.715931+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.442805+00:00"
     },
     {
       "id": "rss-319b5da90ee2",
@@ -932,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.814907+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.507016+00:00"
     },
     {
       "id": "rss-12f687e690a2",
@@ -964,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.815042+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.507134+00:00"
     },
     {
       "id": "rss-00819e71329f",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:07.335633+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.913276+00:00"
     },
     {
       "id": "rss-52c6da3b3f36",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:07.335782+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.913413+00:00"
     },
     {
       "id": "rss-fc6b82df8ecb",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.815170+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.507241+00:00"
     },
     {
       "id": "rss-e45e2d28257c",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.815289+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.507340+00:00"
     },
     {
       "id": "rss-925b21df89a1",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.815435+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.507441+00:00"
     },
     {
       "id": "rss-eabfd71a61b4",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.815547+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.507533+00:00"
     },
     {
       "id": "rss-db4a52614d6e",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.815644+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.507619+00:00"
     },
     {
       "id": "rss-0646faa6f733",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.815747+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.507708+00:00"
     },
     {
       "id": "rss-ee3b71fee41a",
@@ -1228,7 +1228,7 @@ window.LIVE_FEED_DATA = {
       "type": "news",
       "title": "NOAA Voices at the 2026 Oral History Association Annual Meeting",
       "authors": "NOAA News",
-      "abstract": "NOAA Voices at the 2026 Oral History Association Annual Meeting The 60th Annual Oral History Association Meeting will take place October 14–17, 2026, in Portland, Oregon. This year’s theme, “Landscapes of Memory,” explores relationships among place, memory, movement, and changing environmental, political, and cultural landscapes. NOAA Voices Oral Historian and Archivist Molly Graham is serving as a program co-chair, and many NOAA Voices project partners will be among the presenters and attendees. Registration is now open. Learn more, view the program, and register at the OHA Annual Meeting website. Download Image EXT link test 0 Off",
+      "abstract": "NOAA Voices at the 2026 Oral History Association Annual Meeting The 60th Annual Oral History Association Meeting will take place October 14–17, 2026, in Portland, Oregon. This year’s theme, “Landscapes of Memory,” explores relationships among place, memory, movement, and changing environmental, political, and cultural landscapes. NOAA Voices Oral Historian and Archivist Molly Graham is serving as a program co-chair, and many NOAA Voices project partners will be among the presenters and attendees. Registration is now open. Learn more, view the program, and register at the OHA Annual Meeting website. Download Image EXT link test NOAA Voices News 0 Off",
       "date": "2026-11-06",
       "year": 2026,
       "journal": "NOAA News",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:07.336011+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.913622+00:00"
     },
     {
       "id": "rss-948f337f76fa",
@@ -1260,7 +1260,7 @@ window.LIVE_FEED_DATA = {
       "type": "news",
       "title": "University of Alaska Fairbanks Oral History Program's Project Jukebox",
       "authors": "NOAA News",
-      "abstract": "University of Alaska Fairbanks Oral History Program's Project Jukebox We are excited to partner with the University of Alaska Fairbanks Oral History Program's Project Jukebox to co-locate selected oral histories, expanding access to one of the nation's most innovative digital oral history collections, where interviews are integrated with photographs, maps, and place-based storytelling to document Alaska's diverse communities, cultures, and changing environments. Download Image EXT link test 0 Off",
+      "abstract": "University of Alaska Fairbanks Oral History Program's Project Jukebox We are excited to partner with the University of Alaska Fairbanks Oral History Program's Project Jukebox to co-locate selected oral histories, expanding access to one of the nation's most innovative digital oral history collections, where interviews are integrated with photographs, maps, and place-based storytelling to document Alaska's diverse communities, cultures, and changing environments. Download Image EXT link test NOAA Voices News 0 Off",
       "date": "2026-11-06",
       "year": 2026,
       "journal": "NOAA News",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:07.336176+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.913779+00:00"
     },
     {
       "id": "rss-9b3fb6e63d6f",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.815856+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.507802+00:00"
     },
     {
       "id": "rss-36da62e14d67",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:07.336681+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.914227+00:00"
     },
     {
       "id": "rss-0301f8db1aca",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:07.336821+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.914351+00:00"
     },
     {
       "id": "rss-5116d0089903",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:07.336954+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.914462+00:00"
     },
     {
       "id": "openalex-b76d52d91fce",
@@ -1440,11 +1440,11 @@ window.LIVE_FEED_DATA = {
         "cortical"
       ],
       "readTime": "1 min",
-      "citedBy": 21,
+      "citedBy": 22,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:01.183217+00:00"
+      "_retrievedAt": "2026-11-16T21:57:37.639984+00:00"
     },
     {
       "id": "rss-a6d2ec7a9bd8",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.815959+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.507925+00:00"
     },
     {
       "id": "rss-e8ad5f5a7f57",
@@ -1508,39 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:07.337431+00:00"
-    },
-    {
-      "id": "openalex-15d253298584",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Spectral 3D computer vision: A survey of acquisition, representations, learning, and applications",
-      "authors": "Ali Zia, Ali Zia, Usman Ali, Charissa Yu, Jun Wei Zhou",
-      "abstract": "Spectral 3D computer vision combines wavelength-resolved measurements with geometric information to support material-aware reconstruction, perception, and scene analysis. However, the literature remains fragmented across hyperspectral and multispectral sensing, cross-spectral depth and pose estimation, spectral point clouds, LiDAR–hyperspectral fusion, and neural scene representations. This survey provides a structured review of the field, covering spectral and geometric acquisition, data representations, calibration and registration, spectral 3D reconstruction, integrated spectral 3D acquisition and joint physical modelling, learning-based methods, downstream tasks, benchmark datasets, applications, and software tools. We organise existing methods into three complementary methodological themes: spectral support for 3D information estimation, spectral 3D reconstruction and mapping, an...",
-      "date": "2026-11-03",
-      "year": 2026,
-      "journal": "Computer Science Review",
-      "source": "Computer Science Review",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.cosrev.2026.101084",
-      "doi": "10.1016/j.cosrev.2026.101084",
-      "pdfUrl": "https://doi.org/10.1016/j.cosrev.2026.101084",
-      "keywords": [
-        "Computer science",
-        "Cultural heritage",
-        "Computer vision",
-        "Object (grammar)",
-        "Structure from motion",
-        "Advanced Vision and Imaging",
-        "3D Surveying and Cultural Heritage",
-        "3D Shape Modeling and Analysis"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:03.246447+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.914896+00:00"
     },
     {
       "id": "rss-15e56cec1fd1",
@@ -1572,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.816062+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.508020+00:00"
     },
     {
       "id": "rss-0a0dc5009289",
@@ -1604,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.816168+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.508121+00:00"
     },
     {
       "id": "openalex-b9713b9a252a",
@@ -1636,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:01.182245+00:00"
+      "_retrievedAt": "2026-11-16T21:57:37.639547+00:00"
     },
     {
       "id": "openalex-11b5190cd445",
@@ -1668,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:03.244724+00:00"
+      "_retrievedAt": "2026-11-16T21:57:39.387519+00:00"
     },
     {
       "id": "rss-4ae9201eddcb",
@@ -1700,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.816260+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.508205+00:00"
     },
     {
       "id": "rss-4452dd44bbfd",
@@ -1732,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:06.816365+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.508299+00:00"
     },
     {
       "id": "rss-8ccff313a082",
@@ -1763,7 +1731,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:07.337524+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.914981+00:00"
     },
     {
       "id": "openalex-818836e119b0",
@@ -1791,11 +1759,11 @@ window.LIVE_FEED_DATA = {
         "Hydrology and Watershed Management Studies"
       ],
       "readTime": "2 min",
-      "citedBy": 7,
+      "citedBy": 9,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:03.246759+00:00"
+      "_retrievedAt": "2026-11-16T21:57:39.388958+00:00"
     },
     {
       "id": "openalex-cb3cbda06d84",
@@ -1823,11 +1791,11 @@ window.LIVE_FEED_DATA = {
         "Explainable Artificial Intelligence (XAI)"
       ],
       "readTime": "1 min",
-      "citedBy": 304,
+      "citedBy": 305,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:00.290899+00:00"
+      "_retrievedAt": "2026-11-16T21:57:36.600565+00:00"
     },
     {
       "id": "openalex-167b6533ff80",
@@ -1859,7 +1827,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:01.181357+00:00"
+      "_retrievedAt": "2026-11-16T21:57:37.638481+00:00"
     },
     {
       "id": "rss-03a31c5c3f2e",
@@ -1891,7 +1859,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:07.337823+00:00"
+      "_retrievedAt": "2026-11-16T21:57:42.915245+00:00"
     },
     {
       "id": "openalex-5ab5668168ae",
@@ -1919,11 +1887,11 @@ window.LIVE_FEED_DATA = {
         "Geochemistry and Geologic Mapping"
       ],
       "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
+      "citedBy": 12,
+      "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:03.246994+00:00"
+      "_retrievedAt": "2026-11-16T21:57:39.387987+00:00"
     },
     {
       "id": "openalex-8824f3740ac6",
@@ -1955,7 +1923,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:02.451727+00:00"
+      "_retrievedAt": "2026-11-16T21:57:38.336128+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1987,7 +1955,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:02.452838+00:00"
+      "_retrievedAt": "2026-11-16T21:57:38.337281+00:00"
     },
     {
       "id": "openalex-9ede209118a4",
@@ -2019,39 +1987,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:02.453324+00:00"
+      "_retrievedAt": "2026-11-16T21:57:38.337502+00:00"
     },
     {
-      "id": "openalex-7a7d520be8ce",
-      "discipline": "clinical",
+      "id": "openalex-c40eb4a2963d",
+      "discipline": "geo",
       "type": "paper",
-      "title": "Maternal–Fetal Oncology Intelligence: Self-Evolving Foundation Models and Digital Twin Ecosystems for Precision Cancer Prediction, Treatment Optimization, and Maternal–Fetal Outcome Forecasting",
-      "authors": "OpenAlex indexed authors",
-      "abstract": "Background.Cancer during pregnancy poses a dual clinical challenge: maternal disease must be controlled without compromising fetal safety, yet prediction of outcomes is hampered by fragmented multimodal data and the absence of models that adapt as pregnancy advances.We developed a maternal-fetal oncology framework combining a multimodal foundation model with continuously updated patient-specific digital twins to support cancer prediction, risk stratification, treatment optimization, and joint maternal-fetal outcome forecasting. Methods.A retrospective cohort of 350 pregnant women diagnosed with cancer was assembled from four tertiary centers, spanning breast, cervical, ovarian, thyroid, melanoma, lymphoma, and leukemia.The framework (MFO-FM) integrates clinical, imaging, genomic, and laboratory encoders through a maternal-fetal fusion module, while a digital twin ecosystem assimilates...",
-      "date": "2026-10-12",
+      "title": "A Survey on Archetypal Analysis",
+      "authors": "Aleix Alcacer, Irene Epifanio, Sebastian Mair, Morten Mørup",
+      "abstract": "Archetypal analysis (AA) was originally proposed in 1994 by Adele Cutler and Leo Breiman as a computational procedure for extracting distinct aspects, so-called archetypes, from observations, with each observational record approximated as a mixture (i.e., convex combination) of these archetypes. AA thereby provides straightforward, interpretable, and explainable representations for feature extraction and dimensionality reduction, facilitating the understanding of the structure of high-dimensional data and enabling wide applications across the sciences. However, AA also faces challenges, particularly as the associated optimization problem is nonconvex. This is the first survey that provides researchers and data mining practitioners with an overview of the methodologies and opportunities that AA offers, surveying the many applications of AA across disparate fields of science, as well as...",
+      "date": "2026-10-02",
       "year": 2026,
-      "journal": "International Journal of Drug Delivery Technology",
-      "source": "International Journal of Drug Delivery Technology",
+      "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "source": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.25258/ijddt.16.65s.20",
-      "doi": "10.25258/ijddt.16.65s.20",
-      "pdfUrl": "https://doi.org/10.25258/ijddt.16.65s.20",
+      "url": "https://doi.org/10.1109/tpami.2026.3740133",
+      "doi": "10.1109/tpami.2026.3740133",
+      "pdfUrl": "https://doi.org/10.1109/tpami.2026.3740133",
       "keywords": [
-        "Concordance",
-        "Pregnancy",
-        "Medicine",
-        "Cancer",
-        "Outcome (game theory)",
-        "Artificial Intelligence in Healthcare and Education",
-        "AI in cancer detection",
-        "Machine Learning in Healthcare"
+        "Computer science",
+        "Curse of dimensionality",
+        "Data science",
+        "Field (mathematics)",
+        "Feature (linguistics)",
+        "Advanced Clustering Algorithms Research",
+        "Bayesian Methods and Mixture Models",
+        "Face and Expression Recognition"
       ],
       "readTime": "1 min",
-      "citedBy": 14,
+      "citedBy": 20,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:02.453853+00:00"
+      "_retrievedAt": "2026-11-16T21:57:39.386548+00:00"
     },
     {
       "id": "openalex-84e3fa65288d",
@@ -2079,43 +2047,11 @@ window.LIVE_FEED_DATA = {
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 1013,
+      "citedBy": 1018,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:00.290059+00:00"
-    },
-    {
-      "id": "openalex-7a98c2b5c551",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Distant lymph nodes compensate for resected tumor-draining lymph nodes during cancer immunotherapy",
-      "authors": "Lutz Menzel, Hengbo Zhou, James W. Baish, Meghan J. O’Melia, Laurel B. Darragh, Derek N Effiom",
-      "abstract": "Surgical removal of tumor-draining lymph nodes (tdLNs) is commonly performed in cancer patients. Here, we investigated whether immune checkpoint blockade (ICB) responses persist after resection of tdLNs, important sites for the initiation and maintenance of anti-cancer immunity. Melanoma patients remained responsive to programmed death 1 (PD-1) blockade after regional LN dissection. Similarly, ICB efficacy persisted after tdLN resection in orthotopic murine melanoma and mammary carcinoma models. Following tdLN removal, interstitial fluid containing soluble antigen was diverted through interstitial spaces across lymphosome boundaries to distant LNs, wherein cancer-derived antigen was acquired and presented to T cells by LN-resident type I conventional dendritic cells. These responses persisted after primary tumor resection and supported ICB-induced systemic immunity. Locoregional deliv...",
-      "date": "2026-10-01",
-      "year": 2026,
-      "journal": "Immunity",
-      "source": "Immunity",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.immuni.2026.09.009",
-      "doi": "10.1016/j.immuni.2026.09.009",
-      "pdfUrl": "https://doi.org/10.1016/j.immuni.2026.09.009",
-      "keywords": [
-        "Lymph",
-        "Cancer immunotherapy",
-        "Immunotherapy",
-        "Cancer",
-        "Medicine",
-        "Cancer Immunotherapy and Biomarkers",
-        "Immunotherapy and Immune Responses",
-        "T-cell and B-cell Immunology"
-      ],
-      "readTime": "1 min",
-      "citedBy": 14,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:02.454065+00:00"
+      "_retrievedAt": "2026-11-16T21:57:36.599126+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -2147,7 +2083,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:03.244424+00:00"
+      "_retrievedAt": "2026-11-16T21:57:39.387258+00:00"
     },
     {
       "id": "openalex-f5dc3633b103",
@@ -2175,11 +2111,11 @@ window.LIVE_FEED_DATA = {
         "Mathematics, Computing, and Information Processing"
       ],
       "readTime": "1 min",
-      "citedBy": 160,
+      "citedBy": 161,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:00.293084+00:00"
+      "_retrievedAt": "2026-11-16T21:57:36.602115+00:00"
     },
     {
       "id": "openalex-4017ee65ef38",
@@ -2207,11 +2143,11 @@ window.LIVE_FEED_DATA = {
         "Research, Science, and Academia"
       ],
       "readTime": "1 min",
-      "citedBy": 111,
+      "citedBy": 118,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:01.180040+00:00"
+      "_retrievedAt": "2026-11-16T21:57:37.637300+00:00"
     },
     {
       "id": "openalex-9a39b97a87a9",
@@ -2239,11 +2175,11 @@ window.LIVE_FEED_DATA = {
         "Mathematics, Computing, and Information Processing"
       ],
       "readTime": "1 min",
-      "citedBy": 153,
+      "citedBy": 155,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:00.293247+00:00"
+      "_retrievedAt": "2026-11-16T21:57:36.602257+00:00"
     },
     {
       "id": "openalex-88c8bbfa038c",
@@ -2275,71 +2211,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:02.450954+00:00"
-    },
-    {
-      "id": "openalex-bfe05b4279b6",
-      "discipline": "bio",
-      "type": "paper",
-      "title": "mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis",
-      "authors": "Thomas L. Li, John D. Blair, Taesun Yoo, Gerald Arthur Grant, Dirk F. Hockemeyer, Brenda E. Porter",
-      "abstract": "Abstract Tuberous sclerosis complex (TSC) is a genetic neurodevelopmental disorder characterized by focal brain malformations called cortical tubers, which are associated with severe, intractable epilepsy 1 . Tubers are thought to result from somatic second-hit mutations that disrupt the TSC1 or TSC2 genes in neural progenitor cells, driving hyperactive mTORC1 signalling 2 . Glial abnormalities are commonly observed in tubers 3 ; however, whether glia actively cause disease or merely result from chronic seizure activity has remained unclear. To address this question, we used human brain organoid models to track the developmental fate of mutated progenitor cells in the absence of seizures. Here we show, using single-cell transcriptomics and cyclic immunostaining across human brain organoids and resected tuber tissue from patients, that loss of TSC2 biases neural progenitors to differen...",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "Nature",
-      "source": "Nature",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41586-026-11054-w",
-      "doi": "10.1038/s41586-026-11054-w",
-      "pdfUrl": "https://doi.org/10.1038/s41586-026-11054-w",
-      "keywords": [
-        "TSC1",
-        "Tuberous sclerosis",
-        "TSC2",
-        "Biology",
-        "Progenitor cell",
-        "Tuberous Sclerosis Complex Research",
-        "Epilepsy research and treatment",
-        "PI3K/AKT/mTOR signaling in cancer"
-      ],
-      "readTime": "1 min",
-      "citedBy": 15,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:01.183694+00:00"
-    },
-    {
-      "id": "openalex-aa30ebe2f1c6",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "A spatially aware deep learning framework for multiscale cellular ecology profiling to predict 5-year recurrence in invasive lung adenocarcinoma",
-      "authors": "Abdul Akbar, Usama Sajjad, Ziyu Su, Aniqa Nuzhat Chowdhury, Amber Mai Tran, Fei Xing",
-      "abstract": "Recurrence remains a major clinical challenge in surgically resected invasive lung adenocarcinoma (ILA), where existing staging and grading systems fail to capture the cellular complexity that underlies tumor aggressiveness. We present PathRosetta, an AI framework that models cellular ecology of tumor microenvironment (TME) from hematoxylin-and-eosin slides. Rather than treating slides as set of independent patches, PathRosetta represents individual cells within their local spatial neighborhoods and integrates this cellular context with tissue-level architecture to predict five-year recurrence. Across 430 patients (876 slides), PathRosetta reached an AUC of 0.78 ± 0.04 on the internal cohort, outperforming IASLC grading (0.71), AJCC staging (0.64), and competing AI models (0.62–0.72), and generalized to external TCGA (0.75), CPTAC (0.76), and WFBCCC (0.75) cohorts. It achieved a hazar...",
-      "date": "2026-09-23",
-      "year": 2026,
-      "journal": "npj Digital Medicine",
-      "source": "npj Digital Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41746-026-03264-3",
-      "doi": "10.1038/s41746-026-03264-3",
-      "pdfUrl": "https://www.nature.com/articles/s41746-026-03264-3_reference.pdf",
-      "keywords": [
-        "Concordance",
-        "Artificial intelligence",
-        "Adenocarcinoma",
-        "Deep learning",
-        "Biology",
-        "AI in cancer detection",
-        "Radiomics and Machine Learning in Medical Imaging",
-        "Lung Cancer Diagnosis and Treatment"
-      ],
-      "readTime": "1 min",
-      "citedBy": 13,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:02.454588+00:00"
+      "_retrievedAt": "2026-11-16T21:57:38.335670+00:00"
     },
     {
       "id": "openalex-3dd652be759c",
@@ -2371,7 +2243,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:02.453588+00:00"
+      "_retrievedAt": "2026-11-16T21:57:38.337716+00:00"
     },
     {
       "id": "openalex-4b0e33566f22",
@@ -2399,11 +2271,11 @@ window.LIVE_FEED_DATA = {
         "Biomedical Text Mining and Ontologies"
       ],
       "readTime": "1 min",
-      "citedBy": 19,
+      "citedBy": 23,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:02.452470+00:00"
+      "_retrievedAt": "2026-11-16T21:57:38.336752+00:00"
     },
     {
       "id": "openalex-cd41132c9d18",
@@ -2431,11 +2303,11 @@ window.LIVE_FEED_DATA = {
         "Research Data Management Practices"
       ],
       "readTime": "1 min",
-      "citedBy": 67,
+      "citedBy": 77,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:01.180370+00:00"
+      "_retrievedAt": "2026-11-16T21:57:37.637597+00:00"
     },
     {
       "id": "openalex-014e44b613fc",
@@ -2467,7 +2339,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:03.243677+00:00"
+      "_retrievedAt": "2026-11-16T21:57:39.386363+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -2495,11 +2367,11 @@ window.LIVE_FEED_DATA = {
         "Natural Language Processing Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 215,
+      "citedBy": 233,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:00.292502+00:00"
+      "_retrievedAt": "2026-11-16T21:57:36.601415+00:00"
     },
     {
       "id": "openalex-4eeff6704837",
@@ -2531,7 +2403,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:03.246149+00:00"
+      "_retrievedAt": "2026-11-16T21:57:39.389454+00:00"
     },
     {
       "id": "openalex-8391e68a705c",
@@ -2559,43 +2431,11 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence in Healthcare and Education"
       ],
       "readTime": "1 min",
-      "citedBy": 19,
+      "citedBy": 20,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:02.452685+00:00"
-    },
-    {
-      "id": "openalex-554ee5013027",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Generalized covariate field (GCF): spatial-pattern and neighbourhood-distribution feature expansion improves geospatial prediction",
-      "authors": "Yongze Song",
-      "abstract": "Spatial prediction forms the basis for decision-making in Earth and environmental sciences, yet prediction accuracy is constrained by spatial heterogeneity and sparse and uneven sampling. Existing methods commonly respond by increasing algorithmic complexity while underusing the spatial information embedded in the covariates themselves. This study develops the generalized covariate field (GCF) to expand the covariate space by deriving two families of spatial features without increasing model complexity. First, spatial pattern features characterize local spatial structure, including spatial dependence, heterogeneity, geocomplexity, multiscale variation and local outlyingness, and are transferable across space. Second, neighbourhood distribution features summarize covariates through multiscale operators with geoscientific meaning. The resulting high-dimensional features are then selecte...",
-      "date": "2026-09-10",
-      "year": 2026,
-      "journal": "International Journal of Geographical Information Systems",
-      "source": "International Journal of Geographical Information Systems",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1080/13658816.2026.2729719",
-      "doi": "10.1080/13658816.2026.2729719",
-      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/13658816.2026.2729719?needAccess=true",
-      "keywords": [
-        "Field (mathematics)",
-        "Covariate",
-        "Feature (linguistics)",
-        "Computer science",
-        "Geospatial analysis",
-        "Soil Geostatistics and Mapping",
-        "Spatial and Panel Data Analysis",
-        "Species Distribution and Climate Change"
-      ],
-      "readTime": "1 min",
-      "citedBy": 7,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:03.247232+00:00"
+      "_retrievedAt": "2026-11-16T21:57:38.336949+00:00"
     },
     {
       "id": "openalex-bb23e4ef92cf",
@@ -2623,43 +2463,11 @@ window.LIVE_FEED_DATA = {
         "Genomics and Chromatin Dynamics"
       ],
       "readTime": "1 min",
-      "citedBy": 33,
+      "citedBy": 36,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:01.181853+00:00"
-    },
-    {
-      "id": "openalex-4d7da7db66ac",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation",
-      "authors": "Steffen Eger, Yong Cao, Jennifer D’Souza, Andreas Geiger, Christian Greisinger, Stephanie Gross",
-      "abstract": "With the advent of large multimodal language models, science is now at a threshold of an AI-based technological transformation. An emerging ecosystem of models and tools aims to support researchers throughout the scientific lifecycle, including (1) searching for relevant literature, (2) generating research ideas and conducting experiments, (3) producing text-based content, (4) creating multimodal artifacts such as figures and diagrams, and (5) evaluating scientific work, as in peer review. In this survey, we provide a curated overview of literature representative of the core techniques, evaluation practices, and emerging trends in AI-assisted scientific discovery. Across the five tasks outlined above, we discuss datasets, methods, results, evaluation strategies, limitations, and ethical concerns, including risks to research integrity through the misuse of generative models. We aim for...",
-      "date": "2026-09-05",
-      "year": 2026,
-      "journal": "ACM Computing Surveys",
-      "source": "ACM Computing Surveys",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3845596",
-      "doi": "10.1145/3845596",
-      "pdfUrl": "https://doi.org/10.1145/3845596",
-      "keywords": [
-        "Content (measure theory)",
-        "Scientific discovery",
-        "Computer science",
-        "Data science",
-        "Psychology",
-        "Artificial Intelligence Applications",
-        "Topic Modeling",
-        "Multimodal Machine Learning Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 130,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:00.293709+00:00"
+      "_retrievedAt": "2026-11-16T21:57:37.638688+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2691,7 +2499,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:03.244086+00:00"
+      "_retrievedAt": "2026-11-16T21:57:39.386960+00:00"
     },
     {
       "id": "openalex-3d0d090d179c",
@@ -2719,11 +2527,43 @@ window.LIVE_FEED_DATA = {
         "Peatlands and Wetlands Ecology"
       ],
       "readTime": "2 min",
-      "citedBy": 7,
+      "citedBy": 8,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:03.247660+00:00"
+      "_retrievedAt": "2026-11-16T21:57:39.389814+00:00"
+    },
+    {
+      "id": "openalex-7d5ef3fc71a6",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Lingshu: Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning",
+      "authors": "Weiwen Xu, Hou Pong Chan, Long Li, Mahani Aljunied, Ruifeng Yuan, Jianyu Wang",
+      "abstract": "Multimodal Large Language Models (MLLMs) excel at understanding generic visual content, such as landscapes, objects, and events, thanks to extensive datasets and advanced training regimes. However, their effectiveness in medical applications remains limited due to the inherent discrepancies between data and tasks in medical scenarios and those in the general domain. Existing medical MLLMs face the following critical deficiencies: 1) inadequate coverage of medical knowledge beyond imaging; 2) elevated propensity for hallucinations due to suboptimal data curation; and 3) limited reasoning capacity tailored to complex medical tasks. To address these challenges, we first propose a comprehensive data-curation procedure that 1) efficiently acquires rich medical knowledge data not only from medical imaging but also from extensive medical texts and general domain data; and 2) synthesizes high...",
+      "date": "2026-09-02",
+      "year": 2026,
+      "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "source": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1109/tpami.2026.3730310",
+      "doi": "10.1109/tpami.2026.3730310",
+      "pdfUrl": "https://arxiv.org/pdf/2506.07044",
+      "keywords": [
+        "Foundation (evidence)",
+        "Computer science",
+        "Artificial intelligence",
+        "Generalist and specialist species",
+        "Cognitive science",
+        "Multimodal Machine Learning Applications",
+        "Artificial Intelligence in Healthcare and Education",
+        "Domain Adaptation and Few-Shot Learning"
+      ],
+      "readTime": "1 min",
+      "citedBy": 349,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:36.599880+00:00"
     },
     {
       "id": "openalex-518b9bf6cea9",
@@ -2751,11 +2591,11 @@ window.LIVE_FEED_DATA = {
         "Probability and Statistical Research"
       ],
       "readTime": "1 min",
-      "citedBy": 228,
+      "citedBy": 236,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:00.292195+00:00"
+      "_retrievedAt": "2026-11-16T21:57:36.600911+00:00"
     },
     {
       "id": "openalex-da37b7f1fa1c",
@@ -2783,11 +2623,11 @@ window.LIVE_FEED_DATA = {
         "Multimodal Machine Learning Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 132,
+      "citedBy": 150,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:00.293474+00:00"
+      "_retrievedAt": "2026-11-16T21:57:36.602429+00:00"
     },
     {
       "id": "openalex-021b339d4b20",
@@ -2819,7 +2659,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:03.243894+00:00"
+      "_retrievedAt": "2026-11-16T21:57:39.386751+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2847,11 +2687,43 @@ window.LIVE_FEED_DATA = {
         "Geology and Paleoclimatology Research"
       ],
       "readTime": "1 min",
-      "citedBy": 11,
+      "citedBy": 13,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:03.244995+00:00"
+      "_retrievedAt": "2026-11-16T21:57:39.387757+00:00"
+    },
+    {
+      "id": "openalex-be864332263f",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Quantum–Photonic Topological Intelligence for Multiscale Biomedicine: Brain Networks, Biosignals, Spatial Multi-Omics and Autonomous Therapeutics",
+      "authors": "Murali Krishna Pasupuleti",
+      "abstract": "Abstract: Biomedical intelligence increasingly depends on integrating data that are heterogeneous not only in format but also in biological scale: dynamic brain networks, high-frequency physiological signals, spatially resolved molecular measurements and treatment-response trajectories. This paper develops a unified conceptual and mathematical architecture—Quantum–Photonic Topological Intelligence for Multiscale Biomedicine (QPTI-MB)—for representing, fusing and governing these data without reducing clinically important structure to a single flat feature space. The proposed framework combines graph and simplicial representations, persistent topological descriptors, multimodal learning, hybrid quantum–photonic feature maps and constrained therapeutic optimization. The methodology is model-based. No patient-level dataset is supplied; therefore, the study uses an explicitly illustrative...",
+      "date": "2026-08-29",
+      "year": 2026,
+      "journal": "International Journal of Academic and Industrial Research Innovations(IJAIRI)",
+      "source": "International Journal of Academic and Industrial Research Innovations(IJAIRI)",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.62311/nesx/rp3ag-30082026",
+      "doi": "10.62311/nesx/rp3ag-30082026",
+      "pdfUrl": "https://www.nationaleducationservices.org/file-download/1758288/Download Full-Text Research Paper PDF Pp 58-77-3.pdf",
+      "keywords": [
+        "Computer science",
+        "Artificial intelligence",
+        "Feature (linguistics)",
+        "Benchmark (surveying)",
+        "Biomedicine",
+        "Topological and Geometric Data Analysis",
+        "Artificial Intelligence in Healthcare and Education",
+        "Quantum Computing Algorithms and Architecture"
+      ],
+      "readTime": "1 min",
+      "citedBy": 47,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:38.334970+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2879,11 +2751,11 @@ window.LIVE_FEED_DATA = {
         "T-cell and B-cell Immunology"
       ],
       "readTime": "1 min",
-      "citedBy": 50,
+      "citedBy": 53,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:01.180596+00:00"
+      "_retrievedAt": "2026-11-16T21:57:37.637788+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2911,11 +2783,11 @@ window.LIVE_FEED_DATA = {
         "Tryptophan and brain disorders"
       ],
       "readTime": "1 min",
-      "citedBy": 16,
+      "citedBy": 18,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:01.183464+00:00"
+      "_retrievedAt": "2026-11-16T21:57:37.640405+00:00"
     },
     {
       "id": "openalex-6e7aa9ad6862",
@@ -2943,11 +2815,11 @@ window.LIVE_FEED_DATA = {
         "Robot Manipulation and Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 315,
+      "citedBy": 386,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:00.290673+00:00"
+      "_retrievedAt": "2026-11-16T21:57:36.599619+00:00"
     },
     {
       "id": "openalex-514dbfd7d5d8",
@@ -2979,7 +2851,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:01.182789+00:00"
+      "_retrievedAt": "2026-11-16T21:57:37.639781+00:00"
     },
     {
       "id": "openalex-26237de6c6dd",
@@ -3007,11 +2879,11 @@ window.LIVE_FEED_DATA = {
         "Developmental Biology and Gene Regulation"
       ],
       "readTime": "1 min",
-      "citedBy": 38,
+      "citedBy": 39,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:01.181065+00:00"
+      "_retrievedAt": "2026-11-16T21:57:37.638233+00:00"
     },
     {
       "id": "openalex-6a5a22694e49",
@@ -3039,11 +2911,11 @@ window.LIVE_FEED_DATA = {
         "Smart Grid and Power Systems"
       ],
       "readTime": "1 min",
-      "citedBy": 129,
+      "citedBy": 174,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:00.293932+00:00"
+      "_retrievedAt": "2026-11-16T21:57:36.601611+00:00"
     },
     {
       "id": "openalex-506180faa30c",
@@ -3075,7 +2947,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:01.181621+00:00"
+      "_retrievedAt": "2026-11-16T21:57:37.638943+00:00"
     },
     {
       "id": "openalex-5d6d48b88b97",
@@ -3107,7 +2979,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:01.183016+00:00"
+      "_retrievedAt": "2026-11-16T21:57:37.640192+00:00"
     },
     {
       "id": "openalex-50c318e007c8",
@@ -3135,11 +3007,43 @@ window.LIVE_FEED_DATA = {
         "Robotic Locomotion and Control"
       ],
       "readTime": "1 min",
-      "citedBy": 240,
+      "citedBy": 336,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:00.291455+00:00"
+      "_retrievedAt": "2026-11-16T21:57:36.600117+00:00"
+    },
+    {
+      "id": "openalex-df09ae142fc6",
+      "discipline": "bio",
+      "type": "paper",
+      "title": "A tumour-derived organoid biobank maps cancer gene dependencies",
+      "authors": "Carmen Herranz‐Ors, Shriram G. Bhosle, A. E. Beck, James G. R. Gilbert, Gabriele Picco, Jose Espejo Valle-Inclán",
+      "abstract": "Abstract Cancer cell lines remain foundational for research and drug discovery, yet they incompletely capture tumour diversity, lack linked patient context, and have undergone adaptation to culture. Tumour organoids are three-dimensional cultures derived from patient tissue that offer a powerful complement to cell lines 1 . Here we derived and characterized 256 clinically annotated tumour organoids directly from colorectal, oesophageal, ovarian, pancreatic and gastric cancers as renewable, genetically stable models. Extensive characterization of each model and matched patient tumour samples included whole-genome and transcriptome sequencing, and genome-wide CRISPR–Cas9 screens across 162 organoids mapped gene dependencies. Integrative analyses revealed genomic and clinical markers of dependency across common and rare subtypes, identified organoid-specific essential genes, and revealed...",
+      "date": "2026-08-05",
+      "year": 2026,
+      "journal": "Nature",
+      "source": "Nature",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41586-026-10830-y",
+      "doi": "10.1038/s41586-026-10830-y",
+      "pdfUrl": "https://doi.org/10.1038/s41586-026-10830-y",
+      "keywords": [
+        "Organoid",
+        "KRAS",
+        "Transcriptome",
+        "Computational biology",
+        "Biology",
+        "Cancer Genomics and Diagnostics",
+        "Cancer Cells and Metastasis",
+        "Chromatin Remodeling and Cancer"
+      ],
+      "readTime": "1 min",
+      "citedBy": 16,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:37.640617+00:00"
     },
     {
       "id": "openalex-dbb3c4b557e9",
@@ -3167,11 +3071,43 @@ window.LIVE_FEED_DATA = {
         "AI in cancer detection"
       ],
       "readTime": "1 min",
-      "citedBy": 27,
+      "citedBy": 35,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:02.451176+00:00"
+      "_retrievedAt": "2026-11-16T21:57:38.335469+00:00"
+    },
+    {
+      "id": "openalex-8f980c3bafcc",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "AI for science: Progress, challenges, and perspectives",
+      "authors": "Yongjun Xu, Zezhi Shao, Xin Liu, Yuquan Li, Zhulin An, Chenguang Fu",
+      "abstract": "By 2026, artificial intelligence (AI) has completed a qualitative transition from specialized analytical tools to a foundational engine for scientific inquiry, fundamentally altering the paradigms of knowledge generation. In this review, we systematically evaluate the progress of AI for Science (AI4Science), characterized by the shift from text-centric generation to reasoning-oriented intelligence and the deep embedding of foundation models into the entire research life cycle. We propose a unified, closed-loop research paradigm comprising six core modules: literature research, data analysis, hypothesis formulation, experimental execution, report generation, and autonomous evolution. Furthermore, we synthesize breakthroughs across a broad spectrum of frontier domains-including information science, mathematics, energy, physics, chemistry, materials science, medicine, life sciences, astr...",
+      "date": "2026-08-05",
+      "year": 2026,
+      "journal": "The Innovation",
+      "source": "The Innovation",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.xinn.2026.101530",
+      "doi": "10.1016/j.xinn.2026.101530",
+      "pdfUrl": "https://doi.org/10.1016/j.xinn.2026.101530",
+      "keywords": [
+        "Computer science",
+        "Artificial intelligence",
+        "Perspective (graphical)",
+        "Context (archaeology)",
+        "Identification (biology)",
+        "Artificial Intelligence Applications",
+        "Machine Learning in Materials Science",
+        "Artificial Intelligence in Healthcare and Education"
+      ],
+      "readTime": "1 min",
+      "citedBy": 12,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:39.388188+00:00"
     },
     {
       "id": "openalex-838b1babffe0",
@@ -3199,11 +3135,43 @@ window.LIVE_FEED_DATA = {
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 231,
+      "citedBy": 250,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:00.292019+00:00"
+      "_retrievedAt": "2026-11-16T21:57:36.600747+00:00"
+    },
+    {
+      "id": "openalex-23e74f3e558d",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Cancer drug response and resistance: molecular mechanisms and combating strategies",
+      "authors": "Xiaoxia Cheng, Miaochun Xu, Juncheng Wei, Canhui Cao",
+      "abstract": "Despite remarkable advances in cancer drug treatment, including chemotherapy, targeted therapy, and immunotherapy, therapeutic resistance remains a formidable clinical barrier, limiting durable responses and long-term survival. Drug resistance can be broadly categorized as intrinsic, where tumors fail to respond to initial treatment, or acquired, which emerges during or after therapy due to adaptive or evolutionary processes. A comprehensive understanding of the multifactorial and dynamic nature of resistance is essential for improving treatment efficacy. In this review, we systematically examine the molecular and cellular determinants of drug response and resistance across 22 cancer types, highlighting key resistance mechanisms such as compensatory pathway activation, phenotypic plasticity, immune evasion, enhanced DNA damage repair, and the survival of drug-tolerant persister cells....",
+      "date": "2026-08-03",
+      "year": 2026,
+      "journal": "Signal Transduction and Targeted Therapy",
+      "source": "Signal Transduction and Targeted Therapy",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1038/s41392-026-02924-w",
+      "doi": "10.1038/s41392-026-02924-w",
+      "pdfUrl": "https://www.nature.com/articles/s41392-026-02924-w.pdf",
+      "keywords": [
+        "Medicine",
+        "Drug",
+        "Cancer",
+        "Drug response",
+        "Cancer drugs",
+        "Cancer Cells and Metastasis",
+        "Drug Transport and Resistance Mechanisms",
+        "Lung Cancer Treatments and Mutations"
+      ],
+      "readTime": "1 min",
+      "citedBy": 15,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:38.337939+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -3231,11 +3199,11 @@ window.LIVE_FEED_DATA = {
         "Genetic Associations and Epidemiology"
       ],
       "readTime": "1 min",
-      "citedBy": 44,
+      "citedBy": 45,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:01.180813+00:00"
+      "_retrievedAt": "2026-11-16T21:57:37.638006+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -3263,11 +3231,11 @@ window.LIVE_FEED_DATA = {
         "Cancer Genomics and Diagnostics"
       ],
       "readTime": "1 min",
-      "citedBy": 26,
+      "citedBy": 29,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:01.182528+00:00"
+      "_retrievedAt": "2026-11-16T21:57:37.639356+00:00"
     },
     {
       "id": "openalex-7d24a7f15d87",
@@ -3295,11 +3263,11 @@ window.LIVE_FEED_DATA = {
         "Imbalanced Data Classification Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 10,
+      "citedBy": 12,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:03.245228+00:00"
+      "_retrievedAt": "2026-11-16T21:57:39.388389+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -3327,11 +3295,11 @@ window.LIVE_FEED_DATA = {
         "AI and Big Data Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 47,
+      "citedBy": 49,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:03.243424+00:00"
+      "_retrievedAt": "2026-11-16T21:57:39.386137+00:00"
     },
     {
       "id": "openalex-26e8fbfaec61",
@@ -3359,11 +3327,11 @@ window.LIVE_FEED_DATA = {
         "Advanced Neural Network Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 384,
+      "citedBy": 477,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:00.290367+00:00"
+      "_retrievedAt": "2026-11-16T21:57:36.599379+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -3391,11 +3359,11 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 291,
+      "citedBy": 334,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:00.291182+00:00"
+      "_retrievedAt": "2026-11-16T21:57:36.600372+00:00"
     },
     {
       "id": "openalex-65254d753054",
@@ -3423,11 +3391,11 @@ window.LIVE_FEED_DATA = {
         "Digital Imaging for Blood Diseases"
       ],
       "readTime": "1 min",
-      "citedBy": 18,
+      "citedBy": 19,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:02.453073+00:00"
+      "_retrievedAt": "2026-11-16T21:57:38.337152+00:00"
     },
     {
       "id": "openalex-f4959844837a",
@@ -3455,11 +3423,11 @@ window.LIVE_FEED_DATA = {
         "Remote Sensing and Land Use"
       ],
       "readTime": "1 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
+      "citedBy": 11,
+      "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:03.245595+00:00"
+      "_retrievedAt": "2026-11-16T21:57:39.388668+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -3487,11 +3455,43 @@ window.LIVE_FEED_DATA = {
         "Epigenetics and DNA Methylation"
       ],
       "readTime": "1 min",
-      "citedBy": 33,
+      "citedBy": 34,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:01.182038+00:00"
+      "_retrievedAt": "2026-11-16T21:57:37.639115+00:00"
+    },
+    {
+      "id": "openalex-98b80238d5e1",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Silver Diamine Fluoride for Caries Arrest in Pediatric and Special Needs Populations: A Decade of Clinical Evidence",
+      "authors": "Pakistan Journal of Medical & Cardiological Review",
+      "abstract": "Graphical Abstract In the last ten years, silver diamine fluoride (SDF) has fundamentally transformed the treatment of dental caries in two of the most susceptible groups in dentistry; young children with early childhood caries and those with special health care needs (SHCN). The review is based on clinical evidence published in the last 5 years (2014-2024) and includes randomized controlled trials, longitudinal cohort studies, systematic reviews, and qualitative research. The main conclusion is clear: one application of 38% SDF per year arrests 6070% of active dentinal lesions, and two applications exceeds 80% after 24 months (Duangthip et al., 2017; Fung et al., 2018). In children with autism spectrum disorder, cerebral palsy, or intellectual disabilities (groups where traditional restorative care might involve general anesthesia or physical restraint), SDF presents an alternative t...",
+      "date": "2026-07-23",
+      "year": 2026,
+      "journal": "Pakistan Journal of Medical & Cardiological Review",
+      "source": "Pakistan Journal of Medical & Cardiological Review",
+      "sourceApi": "OpenAlex",
+      "url": "https://pakjmcr.com/index.php/1/article/view/859",
+      "doi": "10.5281/zenodo.21506869",
+      "pdfUrl": "https://pakjmcr.com/index.php/1/article/download/859/816",
+      "keywords": [
+        "Medicine",
+        "Special needs",
+        "Dentistry",
+        "Fluoride",
+        "MEDLINE",
+        "Dental Health and Care Utilization",
+        "Dental materials and restorations",
+        "Endodontics and Root Canal Treatments"
+      ],
+      "readTime": "2 min",
+      "citedBy": 37,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-16T21:57:38.335283+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -3519,11 +3519,11 @@ window.LIVE_FEED_DATA = {
         "Prostate Cancer Treatment and Research"
       ],
       "readTime": "1 min",
-      "citedBy": 14,
+      "citedBy": 15,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:02.454314+00:00"
+      "_retrievedAt": "2026-11-16T21:57:38.338167+00:00"
     },
     {
       "id": "openalex-6b15c7cad215",
@@ -3551,11 +3551,11 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 232,
+      "citedBy": 234,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:00.291795+00:00"
+      "_retrievedAt": "2026-11-16T21:57:36.601172+00:00"
     },
     {
       "id": "openalex-3b5a50007972",
@@ -3587,7 +3587,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:03.245907+00:00"
+      "_retrievedAt": "2026-11-16T21:57:39.389237+00:00"
     },
     {
       "id": "openalex-922cd87ec4f4",
@@ -3615,11 +3615,11 @@ window.LIVE_FEED_DATA = {
         "Nanoparticle-Based Drug Delivery"
       ],
       "readTime": "1 min",
-      "citedBy": 23,
+      "citedBy": 25,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:02.452226+00:00"
+      "_retrievedAt": "2026-11-16T21:57:38.336336+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -3647,11 +3647,11 @@ window.LIVE_FEED_DATA = {
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 162,
+      "citedBy": 168,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-16T06:20:00.292792+00:00"
+      "_retrievedAt": "2026-11-16T21:57:36.601866+00:00"
     }
   ]
 };
