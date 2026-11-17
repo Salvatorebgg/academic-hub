@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T07:49:50.735461+00:00",
+  "generatedAt": "2026-11-17T20:51:14.021185+00:00",
   "total": 114,
   "sources": [
     "RSS",
@@ -7,452 +7,932 @@
   ],
   "papers": [
     {
-      "id": "rss-042a3da6be6a",
+      "id": "rss-fc09be336bbe",
       "discipline": "clinical",
       "type": "news",
-      "title": "US flu cases edge up as virus claims lives of two children",
+      "title": "Newly identified kidney protein protects blood vessels, study finds",
       "authors": "Medical Xpress",
-      "abstract": "Although U.S. cases of respiratory syncytial virus (RSV) and COVID-19 are low, the proportion of outpatient visits for influenza-like illness (ILI) is 3.2%, above the 2.9% national baseline, indicating the beginning of flu season in earnest.",
+      "abstract": "As people age, or as certain diseases progress, their blood vessels can grow stiffer and less resilient. These changes can bring an increased risk of cardiovascular disease and earlier death. One trigger for blood vessel stiffening is a higher-than-normal level of phosphate in the blood. While elevated blood phosphate (hyperphosphatemia) is not common in the general population, it is much more widespread in people with chronic kidney disease (CKD) because their kidneys lose their effectiveness at filtering out waste products.",
       "date": "2026-11-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-flu-cases-edge-virus-children.html",
+      "url": "https://medicalxpress.com/news/2026-11-newly-kidney-protein-blood-vessels.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cases",
-        "virus",
-        "edge",
-        "claims",
-        "lives",
-        "children",
-        "although",
-        "respiratory"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.428660+00:00"
-    },
-    {
-      "id": "rss-4b60a0c13438",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "ADHD reform needs GP training and Medicare support, study finds",
-      "authors": "Medical Xpress",
-      "abstract": "Expanding attention-deficit/hyperactivity disorder (ADHD) care to general practitioners (GPs) should be matched with additional training and Medicare support, University of Queensland research has found.",
-      "date": "2026-11-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-adhd-reform-gp-medicare.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "adhd",
-        "training",
-        "medicare",
-        "support",
-        "reform",
-        "needs",
-        "finds",
-        "expanding"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.428840+00:00"
-    },
-    {
-      "id": "rss-83772f3c6260",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Immune cell state may help explain how cytomegalovirus evades body's defenses",
-      "authors": "Medical Xpress",
-      "abstract": "Human cytomegalovirus (HCMV) is a major global health burden that causes lifelong infection in humans. It is the leading infectious cause of developmental disabilities in children and can be life-threatening to individuals with a weakened immune system, for example, in transplant patients. Despite 70 years of research on HCMV, it is still not fully understood how the virus evades immune control.",
-      "date": "2026-11-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-immune-cell-state-cytomegalovirus-evades.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "immune",
-        "cytomegalovirus",
-        "evades",
-        "hcmv",
-        "cell",
-        "state",
-        "help",
-        "explain"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.429027+00:00"
-    },
-    {
-      "id": "rss-44fba3c12fd6",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Daily iron supplements reduce iron deficiency anemia in children and adolescents",
-      "authors": "Medical Xpress",
-      "abstract": "Giving children and adolescents a daily iron tablet significantly reduces the risk of iron deficiency anemia with little to no effect on several common illnesses, according to a review published in Cochrane Database of Systematic Reviews that included 114 studies involving more than 50,000 participants.",
-      "date": "2026-11-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-daily-iron-supplements-deficiency-anemia.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "iron",
-        "daily",
-        "deficiency",
-        "anemia",
-        "children",
-        "adolescents",
-        "supplements",
-        "reduce"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.429209+00:00"
-    },
-    {
-      "id": "rss-20ab23911ffd",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "'Kangaroo care' can save small babies, review finds",
-      "authors": "Medical Xpress",
-      "abstract": "Kangaroo care, an approach to care in which low-birth-weight and preterm babies are held skin-to-skin against a caregiver's chest, receive frequent and exclusive breastfeeding and are discharged early from the hospital when appropriate, probably reduces deaths and serious infections compared with conventional neonatal care. This effect was especially clear in low-resource settings.",
-      "date": "2026-11-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-kangaroo-small-babies.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "care",
-        "kangaroo",
-        "babies",
-        "save",
-        "small",
-        "review",
-        "finds",
-        "approach"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.429377+00:00"
-    },
-    {
-      "id": "rss-d3d9e2e4cdde",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Genetic 'dimmer switch' can protect against severe disease in rare muscular dystrophy",
-      "authors": "Medical Xpress",
-      "abstract": "Two siblings inherited the same rare genetic disease—a type of muscular dystrophy that progressively weakens the muscles of the face, shoulders and limbs. Although they shared the same disease-causing genetic change, their outcomes were strikingly different. The brother began noticing weakness in his early teens and could barely walk by his 50s. The sister remained symptom-free into her late 30s and was only mildly affected throughout her life.",
-      "date": "2026-11-17",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-genetic-dimmer-severe-disease-rare.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "genetic",
+        "blood",
+        "their",
+        "kidney",
+        "vessels",
+        "people",
         "disease",
-        "rare",
-        "muscular",
-        "dystrophy",
-        "same",
-        "dimmer",
-        "switch"
+        "phosphate",
+        "newly"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.429588+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.419837+00:00"
     },
     {
-      "id": "rss-d7b808078e09",
+      "id": "rss-89467d1e83b8",
       "discipline": "clinical",
       "type": "news",
-      "title": "'Pink noise' can help revitalize enjoyable conversation",
+      "title": "Testing gel and a titanium brush for cleaning dental implants",
       "authors": "Medical Xpress",
-      "abstract": "From bickering with strangers online to politically charged holidays with relatives, many discussions today wind up at loggerheads. But Dartmouth researchers have found a conversational recipe they call \"pink noise\" that may help people get back to more enjoyable and engaging interactions, according to a new study published in Science Advances.",
+      "abstract": "Angela De Lauretis investigated how gels and a titanium brush affect protein coatings on titanium surfaces and cells' ability to adhere after cleaning. Her Ph.D. work provides knowledge that can inform the further development of methods for cleaning dental implants. The experiments were conducted in the laboratory, and the effects in patients need further investigation.",
       "date": "2026-11-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-pink-noise-revitalize-enjoyable-conversation.html",
+      "url": "https://medicalxpress.com/news/2026-11-gel-titanium-dental-implants.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "pink",
-        "noise",
-        "help",
-        "enjoyable",
-        "revitalize",
-        "conversation",
-        "bickering",
-        "strangers"
+        "titanium",
+        "cleaning",
+        "brush",
+        "dental",
+        "implants",
+        "further",
+        "testing",
+        "angela"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.429754+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.420012+00:00"
     },
     {
-      "id": "rss-5a0c42b067bb",
+      "id": "rss-8f37e551263f",
       "discipline": "clinical",
       "type": "news",
-      "title": "Looking for a therapist? Ask yourself these questions first",
+      "title": "A new tool to predict T cell behavior and improve immunotherapies",
       "authors": "Medical Xpress",
-      "abstract": "If you decide to see a therapist, finding the right one is one of the biggest early hurdles.",
+      "abstract": "T cells are the trained killers of the immune system and the driving force behind cancer immunotherapy. But the behavior of T cells is hard to predict: Some spring into action when prompted, while others become lethargic and aimless. This puzzling inconsistency is one of the main reasons immunotherapies don't work in most cancer patients.",
       "date": "2026-11-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-therapist.html",
+      "url": "https://medicalxpress.com/news/2026-11-tool-cell-behavior-immunotherapies.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "therapist",
-        "looking",
-        "yourself",
-        "these",
-        "questions",
-        "first",
-        "decide",
-        "finding"
+        "predict",
+        "behavior",
+        "immunotherapies",
+        "cells",
+        "cancer",
+        "tool",
+        "cell",
+        "improve"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.429885+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.420160+00:00"
     },
     {
-      "id": "rss-694ef1e74952",
+      "id": "rss-809d6eb2ec3a",
       "discipline": "clinical",
       "type": "news",
-      "title": "More than half of physician disciplinary actions in California study involved gaps in medical knowledge",
+      "title": "New Public Health Alerts report spotlights how pregnant women with measles and their babies fare",
       "authors": "Medical Xpress",
-      "abstract": "Gaps in medical knowledge, such as prescribing inappropriate medications, incorrectly interpreting imaging studies or ordering an unnecessary high-risk procedure that could jeopardize a patient's health, played a role in 52.3% of the physician disciplinary actions reviewed in a new American Board of Internal Medicine (ABIM) study published in the Journal of Continuing Education in the Health Professions.",
+      "abstract": "With the United States teetering on the brink of losing its measles elimination status and cases across the country skyrocketing, a Public Health Alerts report today describes 112 cases of measles confirmed during pregnancy this year and last, the vast majority of them in unvaccinated women.",
       "date": "2026-11-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-physician-disciplinary-actions-california-involved.html",
+      "url": "https://medicalxpress.com/news/2026-11-health-spotlights-pregnant-women-measles.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "physician",
-        "disciplinary",
-        "actions",
-        "gaps",
-        "medical",
-        "knowledge",
+        "measles",
+        "public",
         "health",
-        "more"
+        "alerts",
+        "report",
+        "women",
+        "cases",
+        "spotlights"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.430072+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.420326+00:00"
     },
     {
-      "id": "rss-58856e269f2a",
+      "id": "rss-58a83f800255",
       "discipline": "clinical",
       "type": "news",
-      "title": "ACAAI: Considerable delay seen from Rx to approval for children's biologics",
+      "title": "Why don't GLP‑1 obesity drugs work for everyone?",
       "authors": "Medical Xpress",
-      "abstract": "There is a considerable delay from prescription of biologic therapy to final approval for pediatric patients, and almost 40% of prescriptions requiring a prior authorization (PA) are denied, according to a study presented at the annual meeting of the American College of Allergy, Asthma and Immunology, held from Nov. 12 to 16 in Phoenix.",
+      "abstract": "Medications like Ozempic and Wegovy, which contain semaglutide—a GLP‑1 receptor agonist that helps regulate blood sugar, appetite and body weight—have become household names and important pillars in obesity management for the medical profession.",
       "date": "2026-11-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-acaai-considerable-delay-rx-children.html",
+      "url": "https://medicalxpress.com/news/2026-11-dont-glp1-obesity-drugs.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "considerable",
-        "delay",
-        "approval",
-        "acaai",
-        "seen",
-        "children",
-        "biologics",
-        "there"
+        "obesity",
+        "drugs",
+        "work",
+        "everyone",
+        "medications",
+        "like",
+        "ozempic",
+        "wegovy"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.430237+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.420475+00:00"
     },
     {
-      "id": "rss-8a7d0470e3f6",
+      "id": "rss-972a56fb171e",
       "discipline": "clinical",
       "type": "news",
-      "title": "No oxygen? Chicken brain cells still survive",
+      "title": "Sperm counts may be falling, but humans are unlikely to run out",
       "authors": "Medical Xpress",
-      "abstract": "Without oxygen, brain cells die within minutes … or do they? When it's a chicken brain, Wake Forest University researcher Lara do Amaral-Silva has found, the answer is no.",
+      "abstract": "For years, alarming headlines have warned that sperm counts are plummeting and humanity could be heading toward a fertility crisis. But new research suggests the picture is considerably more complicated.",
       "date": "2026-11-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-oxygen-chicken-brain-cells-survive.html",
+      "url": "https://medicalxpress.com/news/2026-11-sperm-falling-humans.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "brain",
-        "oxygen",
-        "chicken",
-        "cells",
-        "still",
-        "survive",
-        "without",
-        "within"
+        "sperm",
+        "counts",
+        "falling",
+        "humans",
+        "unlikely",
+        "years",
+        "alarming",
+        "headlines"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.430385+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.420602+00:00"
     },
     {
-      "id": "rss-2cdc0dda5ee9",
+      "id": "rss-e8a9bd17887a",
       "discipline": "clinical",
       "type": "news",
-      "title": "US set to lose measles-free certification",
+      "title": "Five things that shape body weight—by an obesity expert",
       "authors": "Medical Xpress",
-      "abstract": "This week, the United States will lose its designation as a country where measles has been eliminated, as an outbreak of the dangerous, highly contagious disease keeps spreading.",
+      "abstract": "What you eat when you're tired and hungry might come down to what's open on the way home and what you can afford. Both appetite and access to food shape decisions that can look, from the outside, like simple matters of choice.",
       "date": "2026-11-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-measles-free-certification.html",
+      "url": "https://medicalxpress.com/news/2026-11-body-weight-obesity-expert.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "lose",
+        "what",
+        "that",
+        "shape",
+        "five",
+        "things",
+        "body",
+        "weight",
+        "obesity"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.420740+00:00"
+    },
+    {
+      "id": "rss-a86a76be9bef",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "WHO says countries need to 'move from plans to delivery' on antimicrobial resistance",
+      "authors": "Medical Xpress",
+      "abstract": "New survey data released today by the World Health Organization (WHO) show that most countries have developed plans to address antimicrobial resistance (AMR). But few have implemented or provided financing for those plans.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-countries-delivery-antimicrobial-resistance.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "plans",
+        "countries",
+        "antimicrobial",
+        "resistance",
+        "have",
+        "says",
+        "need",
+        "move"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.420871+00:00"
+    },
+    {
+      "id": "rss-7a3d65b049e9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Babies rarely see exaggerated facial expressions used in emotion research, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "A new paper in Communications Psychology calls into question the value of exaggerated facial expressions commonly used in research to study babies' emotional understanding. The study, led by University of Kansas researchers, shows that babies ages 6–17 months rarely encounter these expressions in everyday life—and rarely see full faces at all.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-babies-rarely-exaggerated-facial-emotion.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "babies",
+        "rarely",
+        "expressions",
+        "exaggerated",
+        "facial",
+        "used",
+        "emotion",
+        "finds"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.421024+00:00"
+    },
+    {
+      "id": "rss-17f45c5dd3f8",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New AI approach could cut sepsis deaths and drive efficiency in emergency departments",
+      "authors": "Medical Xpress",
+      "abstract": "By explaining which causes led to a patient's death, the team hopes their work will empower hospital managers to make targeted changes.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-ai-approach-sepsis-deaths-efficiency.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "approach",
+        "could",
+        "sepsis",
+        "deaths",
+        "drive",
+        "efficiency",
+        "emergency",
+        "departments"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.421143+00:00"
+    },
+    {
+      "id": "rss-ec8e7ed74c7f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Measles is no longer considered eliminated in the US and Mexico",
+      "authors": "Medical Xpress",
+      "abstract": "The U.S. has lost its measles-free status, international health officials said Tuesday, as the highly contagious virus once relegated to medical textbooks has spread—largely among the unvaccinated—at the highest rate in more than 30 years.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-measles-longer-mexico.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "measles",
+        "longer",
+        "considered",
+        "eliminated",
+        "mexico",
+        "lost",
         "measles-free",
-        "certification",
-        "this",
-        "week",
-        "united",
-        "states",
-        "will"
+        "status"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.430521+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.421315+00:00"
     },
     {
-      "id": "rss-f44139f68c4a",
+      "id": "rss-628281ca185c",
       "discipline": "clinical",
       "type": "news",
-      "title": "Researchers find potential way to protect the brain from HIV and opioid damage",
+      "title": "Review examines pain mechanisms and offers a framework for personalized treatment of endometriosis",
       "authors": "Medical Xpress",
-      "abstract": "People living with HIV continue to struggle with memory loss, difficulty concentrating and poor decision-making, even as antiretroviral treatments have dramatically improved life expectancy. For patients who also use opioids—which may be prescribed to manage the chronic pain that can accompany HIV—these cognitive problems can be even worse. Until now, scientists haven't understood exactly why.",
+      "abstract": "A joint research team comprising professor Kyeong A So of the Department of Obstetrics and Gynecology at Korea University Guro Hospital and professors Jae-Wook Jeong and Tae Hoon Kim of the University of Missouri School of Medicine has comprehensively examined how pain develops and persists in patients with endometriosis. The team proposed new research directions to translate these insights into personalized treatment. Their review article was selected as a featured article in the journal Endocrine Reviews, highlighting its scientific significance and clinical relevance.",
       "date": "2026-11-17",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-potential-brain-hiv-opioid.html",
+      "url": "https://medicalxpress.com/news/2026-11-pain-mechanisms-framework-personalized-treatment.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
+        "review",
+        "pain",
+        "personalized",
+        "treatment",
+        "endometriosis",
+        "team",
+        "university",
+        "article"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.421492+00:00"
+    },
+    {
+      "id": "rss-e9073580053c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New pill combo approved for breast cancer that stops responding to hormone therapy",
+      "authors": "Medical Xpress",
+      "abstract": "People with advanced breast cancer that has stopped responding to hormone therapy now have a new pill-based treatment option.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-pill-combo-breast-cancer-hormone.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "breast",
+        "cancer",
+        "that",
+        "responding",
+        "hormone",
+        "therapy",
+        "pill",
+        "combo"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.421609+00:00"
+    },
+    {
+      "id": "rss-53701924d980",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Study finds that feeling ownership of a pain-relief object may help increase pain tolerance",
+      "authors": "Medical Xpress",
+      "abstract": "Pain relief may come from more than medication. A study by the Department of Psychology at Lingnan University has found that simply feeling a sense of ownership over an object believed to relieve pain may help people cope better with pain, even when the object itself contains no active ingredients. These findings have been published in The Journal of Pain and provide a new direction for exploring a low-cost approach to supporting pain management in health care.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-ownership-pain-relief-tolerance.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "pain",
+        "object",
+        "that",
+        "feeling",
+        "ownership",
+        "help",
+        "finds",
+        "pain-relief"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.421771+00:00"
+    },
+    {
+      "id": "rss-289598d0a494",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "authors": "TechCrunch AI",
+      "abstract": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "raises",
+        "automate",
+        "investment",
+        "banking",
+        "grunt",
+        "work",
+        "startup",
+        "says"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.507967+00:00"
+    },
+    {
+      "id": "rss-915165bff5a1",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "authors": "TechCrunch AI",
+      "abstract": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "gemini",
+        "help",
+        "calls",
+        "purchases",
+        "google",
+        "expands",
+        "access",
+        "tasks"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.508093+00:00"
+    },
+    {
+      "id": "rss-0d1993c5cbbe",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "authors": "TechCrunch AI",
+      "abstract": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "google",
+        "gemini",
+        "keep",
+        "chats",
+        "months",
+        "hours",
         "even",
-        "researchers",
-        "find",
-        "potential",
-        "protect",
-        "brain",
-        "opioid",
-        "damage"
+        "history"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.430711+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.508184+00:00"
     },
     {
-      "id": "rss-8f144a35c394",
-      "discipline": "clinical",
+      "id": "rss-894be0437daa",
+      "discipline": "cs",
       "type": "news",
-      "title": "Liver cells activate scarring-linked genes in stiff surroundings but favor repair signals in softer conditions",
-      "authors": "Medical Xpress",
-      "abstract": "Soft and stiff extracellular matrix environments influence how hepatic stellate cells (HSCs) respond during liver injury. Researchers from Science Tokyo investigated how matrix stiffness shapes the direction of HSC activation. They revealed that soft conditions favored regeneration-associated cellular states, while stiff conditions promoted fibrosis-associated gene expression.",
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "authors": "TechCrunch AI",
+      "abstract": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
       "date": "2026-11-17",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-liver-cells-scarring-linked-genes.html",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "stiff",
-        "conditions",
-        "liver",
-        "cells",
-        "soft",
-        "matrix",
-        "activate",
-        "scarring-linked"
+        "decision",
+        "skyrockets",
+        "customization",
+        "next",
+        "frontier",
+        "sqwish",
+        "labs",
+        "wrinkle"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.430878+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.508300+00:00"
+    },
+    {
+      "id": "rss-ce3525e58646",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "authors": "TechCrunch AI",
+      "abstract": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "supply",
+        "pedestal",
+        "raises",
+        "million",
+        "agentify",
+        "chain",
+        "company",
+        "uses"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.508384+00:00"
+    },
+    {
+      "id": "rss-05b418b71f2b",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "authors": "TechCrunch AI",
+      "abstract": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "proton",
+        "lumo",
+        "desktop",
+        "privacy-focused",
+        "alternative",
+        "chatgpt",
+        "claude",
+        "arrives"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.508496+00:00"
+    },
+    {
+      "id": "rss-4012e814464a",
+      "discipline": "cs",
+      "type": "news",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "authors": "TechCrunch AI",
+      "abstract": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "tricked",
+        "identifying",
+        "civilians",
+        "military",
+        "targets",
+        "telling",
+        "them",
+        "game"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.508599+00:00"
+    },
+    {
+      "id": "rss-85946a6bf976",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "authors": "TechCrunch AI",
+      "abstract": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "jensen",
+        "huang",
+        "return",
+        "nvidia",
+        "says",
+        "would",
+        "honored",
+        "allowed"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.508694+00:00"
+    },
+    {
+      "id": "rss-bdc3625906b6",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "authors": "TechCrunch AI",
+      "abstract": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "your",
+        "daydream",
+        "agent",
+        "acts",
+        "personal",
+        "stylist",
+        "shop",
+        "shopping"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.508792+00:00"
+    },
+    {
+      "id": "rss-af0a3a8169e3",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "authors": "TechCrunch AI",
+      "abstract": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "voyage",
+        "labs",
+        "assistant",
+        "raises",
+        "million",
+        "specialized",
+        "travel",
+        "flagship"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.508885+00:00"
+    },
+    {
+      "id": "rss-4d3e6c443c3d",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "authors": "TechCrunch AI",
+      "abstract": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "isomorphic",
+        "labs",
+        "raises",
+        "looks",
+        "take",
+        "drug",
+        "candidates",
+        "clinical"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.508980+00:00"
+    },
+    {
+      "id": "rss-825b29db7aee",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "authors": "TechCrunch AI",
+      "abstract": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "corporation",
+        "brain",
+        "tech",
+        "worth",
+        "billion",
+        "after",
+        "funding",
+        "corp"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.509066+00:00"
+    },
+    {
+      "id": "rss-2e2cd420a6fc",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "authors": "TechCrunch AI",
+      "abstract": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "national",
+        "security",
+        "nvidia",
+        "first",
+        "move",
+        "after",
+        "jensen",
+        "huang"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.509177+00:00"
+    },
+    {
+      "id": "rss-35316055d1c1",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+      "authors": "TechCrunch AI",
+      "abstract": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "spotify",
+        "tool",
+        "aims",
+        "stop",
+        "deepfakes",
+        "being",
+        "attributed",
+        "real"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.509312+00:00"
+    },
+    {
+      "id": "rss-d75f12a13840",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Putting a spotlight on AI, society, and humanity",
+      "authors": "MIT News AI",
+      "abstract": "Supported by the MIT Human Insight Collaborative, scholars are exploring how AI is impacting the human experience and reshaping higher education.",
+      "date": "2026-11-17",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "human",
+        "putting",
+        "spotlight",
+        "society",
+        "humanity",
+        "supported",
+        "insight",
+        "collaborative"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:13.599372+00:00"
     },
     {
       "id": "rss-226d0308c9bb",
@@ -484,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.525395+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.599488+00:00"
     },
     {
       "id": "rss-a3318adbd022",
@@ -516,455 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.525517+00:00"
-    },
-    {
-      "id": "rss-848874ce998c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "authors": "TechCrunch AI",
-      "abstract": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "date": "2026-11-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "cybersecurity",
-        "startup",
-        "valuation",
-        "months",
-        "corma",
-        "reaches",
-        "about",
-        "three"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.491660+00:00"
-    },
-    {
-      "id": "rss-f08acff60655",
-      "discipline": "cs",
-      "type": "news",
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "authors": "TechCrunch AI",
-      "abstract": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
-      "date": "2026-11-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nvidia",
-        "questions",
-        "should",
-        "answer",
-        "tuesday",
-        "probably",
-        "interim",
-        "longtime"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.491848+00:00"
-    },
-    {
-      "id": "rss-7eb461961c4e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "authors": "TechCrunch AI",
-      "abstract": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-      "date": "2026-11-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "california",
-        "rogue",
-        "agent",
-        "state",
-        "sues",
-        "openai",
-        "over",
-        "incidents"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.491959+00:00"
-    },
-    {
-      "id": "rss-4a6b21f07360",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "authors": "TechCrunch AI",
-      "abstract": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "date": "2026-11-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "trump",
-        "huang",
-        "chinese",
-        "says",
-        "ex-nvidia",
-        "jensen",
-        "affair",
-        "alleged"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.492103+00:00"
-    },
-    {
-      "id": "rss-ea3d07f06073",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-      "authors": "TechCrunch AI",
-      "abstract": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "date": "2026-11-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "altman",
-        "nvidia",
-        "without",
-        "jensen",
-        "huang",
-        "industry",
-        "will",
-        "fine"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.492237+00:00"
-    },
-    {
-      "id": "rss-7dcce2e86d29",
-      "discipline": "cs",
-      "type": "news",
-      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-      "authors": "TechCrunch AI",
-      "abstract": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "date": "2026-11-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "says",
-        "open",
-        "source",
-        "hacking",
-        "tool",
-        "used",
-        "artex",
-        "breach"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.492353+00:00"
-    },
-    {
-      "id": "rss-3f6c10134526",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "authors": "TechCrunch AI",
-      "abstract": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-      "date": "2026-11-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "belfort",
-        "voice",
-        "jordan",
-        "startup",
-        "tone",
-        "wants",
-        "sell",
-        "like"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.492469+00:00"
-    },
-    {
-      "id": "rss-35bb09191a7b",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "authors": "TechCrunch AI",
-      "abstract": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "date": "2026-11-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "openai",
-        "will",
-        "embed",
-        "investigate",
-        "safety",
-        "researchers",
-        "subversion",
-        "apollo"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.492575+00:00"
-    },
-    {
-      "id": "rss-ba0ef35aaa27",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "authors": "TechCrunch AI",
-      "abstract": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-      "date": "2026-11-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "chatgpt",
-        "csam",
-        "openai",
-        "releases",
-        "image",
-        "classifier",
-        "warnings",
-        "combat"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.492669+00:00"
-    },
-    {
-      "id": "rss-42041bcd935d",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Audible turns to AI to help users discover audiobooks",
-      "authors": "TechCrunch AI",
-      "abstract": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-      "date": "2026-11-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "audible",
-        "turns",
-        "help",
-        "users",
-        "discover",
-        "audiobooks",
-        "ai-generated",
-        "audio"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.492767+00:00"
-    },
-    {
-      "id": "rss-b00adcc22866",
-      "discipline": "cs",
-      "type": "news",
-      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-      "authors": "TechCrunch AI",
-      "abstract": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-      "date": "2026-11-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "export",
-        "compute",
-        "tightens",
-        "chip",
-        "controls",
-        "deter",
-        "chinese",
-        "companies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.492875+00:00"
-    },
-    {
-      "id": "rss-81e088326461",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-      "authors": "TechCrunch AI",
-      "abstract": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
-      "date": "2026-11-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "trip",
-        "maps",
-        "google",
-        "build",
-        "itineraries",
-        "real-time",
-        "details",
-        "about"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.492980+00:00"
-    },
-    {
-      "id": "rss-3c06834f32e6",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-      "authors": "TechCrunch AI",
-      "abstract": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-      "date": "2026-11-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "freshworks",
-        "alums",
-        "raise",
-        "take",
-        "salesforce",
-        "hubspot",
-        "ai-native",
-        "dreamteam"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.493088+00:00"
-    },
-    {
-      "id": "rss-c3403c3c2816",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Apple launches new app to study how people use AI for health",
-      "authors": "TechCrunch AI",
-      "abstract": "Apple's new app for a study will answer everyday medical questions.",
-      "date": "2026-11-16",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "apple",
-        "launches",
-        "people",
-        "health",
-        "will",
-        "answer",
-        "everyday",
-        "medical"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.493175+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.599581+00:00"
     },
     {
       "id": "rss-319b5da90ee2",
@@ -996,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.525632+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.599676+00:00"
     },
     {
       "id": "rss-12f687e690a2",
@@ -1028,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.525746+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.599772+00:00"
     },
     {
       "id": "rss-00819e71329f",
@@ -1060,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.687829+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.812716+00:00"
     },
     {
       "id": "rss-52c6da3b3f36",
@@ -1092,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.687981+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.812849+00:00"
     },
     {
       "id": "rss-fc6b82df8ecb",
@@ -1124,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.525856+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.599872+00:00"
     },
     {
       "id": "rss-e45e2d28257c",
@@ -1156,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.525963+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.599964+00:00"
     },
     {
       "id": "rss-925b21df89a1",
@@ -1188,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.526087+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.600058+00:00"
     },
     {
       "id": "rss-eabfd71a61b4",
@@ -1220,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.526189+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.600146+00:00"
     },
     {
       "id": "rss-db4a52614d6e",
@@ -1252,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.526285+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.600245+00:00"
     },
     {
       "id": "rss-0646faa6f733",
@@ -1284,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.526385+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.600340+00:00"
     },
     {
       "id": "rss-ee3b71fee41a",
@@ -1316,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.688231+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.813058+00:00"
     },
     {
       "id": "rss-948f337f76fa",
@@ -1348,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.688401+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.813245+00:00"
     },
     {
       "id": "rss-9b3fb6e63d6f",
@@ -1380,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.526493+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.600437+00:00"
     },
     {
       "id": "rss-36da62e14d67",
@@ -1412,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.688890+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.813685+00:00"
     },
     {
       "id": "rss-0301f8db1aca",
@@ -1444,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.689022+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.813803+00:00"
     },
     {
       "id": "rss-5116d0089903",
@@ -1476,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.689163+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.813914+00:00"
     },
     {
       "id": "openalex-b76d52d91fce",
@@ -1508,7 +1540,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.052334+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.293556+00:00"
     },
     {
       "id": "rss-a6d2ec7a9bd8",
@@ -1540,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.526593+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.600529+00:00"
     },
     {
       "id": "rss-e8ad5f5a7f57",
@@ -1572,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.689630+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.814320+00:00"
     },
     {
       "id": "rss-15e56cec1fd1",
@@ -1604,39 +1636,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.526697+00:00"
-    },
-    {
-      "id": "rss-0a0dc5009289",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
-      "authors": "MIT News AI",
-      "abstract": "The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific breakthrough that is widely recognized as a milestone in AI-driven drug discovery.",
-      "date": "2026-11-02",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "antibiotic",
-        "discovery",
-        "regina",
-        "barzilay",
-        "collins",
-        "pritzker",
-        "prize",
-        "excellence"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.526804+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.600623+00:00"
     },
     {
       "id": "openalex-b9713b9a252a",
@@ -1668,7 +1668,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.051851+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.293092+00:00"
     },
     {
       "id": "openalex-11b5190cd445",
@@ -1700,7 +1700,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.966043+00:00"
+      "_retrievedAt": "2026-11-17T20:51:07.779615+00:00"
+    },
+    {
+      "id": "openalex-818836e119b0",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "The Global Gravity-based Groundwater Product (G3P)",
+      "authors": "Andreas Güntner, Ehsan Sharifi, Julian Haas, Eva Boergens, Feifei Cao, Christoph Dahle",
+      "abstract": "Groundwater is one of the most important freshwater resources for ecosystems and mankind. Because of its fundamental role in the Earth's water and energy cycles, groundwater has been declared an essential climate variable by GCOS, the Global Climate Observing System. Similar to other subsurface states and fluxes, groundwater is difficult to monitor at the global scale, with sufficient spatial coverage and over climate-relevant time scales. The Global Gravity-based Groundwater Product (G3P) is a global observation-based data set of large-scale groundwater storage variations. G3P capitalizes on the unique capability of GRACE and GRACE-FO satellite gravimetry as the only remote sensing technology to monitor subsurface mass variations. In a mass balance approach, satellite-based, in situ observation-based and model-based water storage variations of snow water equivalent, root-zone soil mo...",
+      "date": "2026-10-29",
+      "year": 2026,
+      "journal": "Earth system science data",
+      "source": "Earth system science data",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.5194/essd-18-7787-2026",
+      "doi": "10.5194/essd-18-7787-2026",
+      "pdfUrl": "https://essd.copernicus.org/articles/18/7787/2026/essd-18-7787-2026.pdf",
+      "keywords": [
+        "Groundwater",
+        "Environmental science",
+        "Aquifer",
+        "Hydrology (agriculture)",
+        "Water storage",
+        "Geophysics and Gravity Measurements",
+        "Soil Moisture and Remote Sensing",
+        "Hydrology and Watershed Management Studies"
+      ],
+      "readTime": "2 min",
+      "citedBy": 10,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-17T20:51:07.781025+00:00"
     },
     {
       "id": "rss-8ccff313a082",
@@ -1731,39 +1763,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.689723+00:00"
-    },
-    {
-      "id": "openalex-818836e119b0",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "The Global Gravity-based Groundwater Product (G3P)",
-      "authors": "Andreas Güntner, Ehsan Sharifi, Julian Haas, Eva Boergens, Feifei Cao, Christoph Dahle",
-      "abstract": "Groundwater is one of the most important freshwater resources for ecosystems and mankind. Because of its fundamental role in the Earth's water and energy cycles, groundwater has been declared an essential climate variable by GCOS, the Global Climate Observing System. Similar to other subsurface states and fluxes, groundwater is difficult to monitor at the global scale, with sufficient spatial coverage and over climate-relevant time scales. The Global Gravity-based Groundwater Product (G3P) is a global observation-based data set of large-scale groundwater storage variations. G3P capitalizes on the unique capability of GRACE and GRACE-FO satellite gravimetry as the only remote sensing technology to monitor subsurface mass variations. In a mass balance approach, satellite-based, in situ observation-based and model-based water storage variations of snow water equivalent, root-zone soil mo...",
-      "date": "2026-10-29",
-      "year": 2026,
-      "journal": "Earth system science data",
-      "source": "Earth system science data",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5194/essd-18-7787-2026",
-      "doi": "10.5194/essd-18-7787-2026",
-      "pdfUrl": "https://essd.copernicus.org/articles/18/7787/2026/essd-18-7787-2026.pdf",
-      "keywords": [
-        "Groundwater",
-        "Environmental science",
-        "Aquifer",
-        "Hydrology (agriculture)",
-        "Water storage",
-        "Geophysics and Gravity Measurements",
-        "Soil Moisture and Remote Sensing",
-        "Hydrology and Watershed Management Studies"
-      ],
-      "readTime": "2 min",
-      "citedBy": 9,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.967656+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.814404+00:00"
     },
     {
       "id": "openalex-cb3cbda06d84",
@@ -1791,11 +1791,11 @@
         "Explainable Artificial Intelligence (XAI)"
       ],
       "readTime": "1 min",
-      "citedBy": 305,
+      "citedBy": 306,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:45.659260+00:00"
+      "_retrievedAt": "2026-11-17T20:51:05.222450+00:00"
     },
     {
       "id": "openalex-167b6533ff80",
@@ -1827,7 +1827,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.050713+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.292296+00:00"
     },
     {
       "id": "rss-03a31c5c3f2e",
@@ -1859,7 +1859,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:50.690024+00:00"
+      "_retrievedAt": "2026-11-17T20:51:13.814664+00:00"
     },
     {
       "id": "openalex-5ab5668168ae",
@@ -1891,7 +1891,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.966580+00:00"
+      "_retrievedAt": "2026-11-17T20:51:07.780054+00:00"
     },
     {
       "id": "openalex-8824f3740ac6",
@@ -1923,7 +1923,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.451318+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.916448+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -1955,7 +1955,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.452598+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.917411+00:00"
     },
     {
       "id": "openalex-9ede209118a4",
@@ -1987,7 +1987,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.452847+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.917637+00:00"
     },
     {
       "id": "openalex-c40eb4a2963d",
@@ -2019,7 +2019,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.964972+00:00"
+      "_retrievedAt": "2026-11-17T20:51:07.778677+00:00"
     },
     {
       "id": "openalex-84e3fa65288d",
@@ -2047,11 +2047,11 @@
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 1018,
+      "citedBy": 1020,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:45.657632+00:00"
+      "_retrievedAt": "2026-11-17T20:51:05.220969+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -2083,7 +2083,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.965721+00:00"
+      "_retrievedAt": "2026-11-17T20:51:07.779356+00:00"
     },
     {
       "id": "openalex-f5dc3633b103",
@@ -2115,7 +2115,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:45.661034+00:00"
+      "_retrievedAt": "2026-11-17T20:51:05.223985+00:00"
     },
     {
       "id": "openalex-4017ee65ef38",
@@ -2147,7 +2147,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.049388+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.290890+00:00"
     },
     {
       "id": "openalex-9a39b97a87a9",
@@ -2179,7 +2179,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:45.661227+00:00"
+      "_retrievedAt": "2026-11-17T20:51:05.224121+00:00"
     },
     {
       "id": "openalex-88c8bbfa038c",
@@ -2211,7 +2211,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.450816+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.916021+00:00"
     },
     {
       "id": "openalex-3dd652be759c",
@@ -2243,7 +2243,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.453111+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.917853+00:00"
     },
     {
       "id": "openalex-4b0e33566f22",
@@ -2275,7 +2275,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.452014+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.916860+00:00"
     },
     {
       "id": "openalex-cd41132c9d18",
@@ -2303,11 +2303,11 @@
         "Research Data Management Practices"
       ],
       "readTime": "1 min",
-      "citedBy": 77,
+      "citedBy": 78,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.049726+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.291191+00:00"
     },
     {
       "id": "openalex-014e44b613fc",
@@ -2339,7 +2339,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.964765+00:00"
+      "_retrievedAt": "2026-11-17T20:51:07.778495+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -2367,11 +2367,11 @@
         "Natural Language Processing Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 233,
+      "citedBy": 234,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:45.660250+00:00"
+      "_retrievedAt": "2026-11-17T20:51:05.223021+00:00"
     },
     {
       "id": "openalex-4eeff6704837",
@@ -2403,7 +2403,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.968224+00:00"
+      "_retrievedAt": "2026-11-17T20:51:07.781561+00:00"
     },
     {
       "id": "openalex-8391e68a705c",
@@ -2435,7 +2435,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.452228+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.917042+00:00"
     },
     {
       "id": "openalex-bb23e4ef92cf",
@@ -2463,11 +2463,11 @@
         "Genomics and Chromatin Dynamics"
       ],
       "readTime": "1 min",
-      "citedBy": 36,
+      "citedBy": 37,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.050943+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.292027+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2499,7 +2499,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.965397+00:00"
+      "_retrievedAt": "2026-11-17T20:51:07.779043+00:00"
     },
     {
       "id": "openalex-3d0d090d179c",
@@ -2531,7 +2531,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.968639+00:00"
+      "_retrievedAt": "2026-11-17T20:51:07.781948+00:00"
     },
     {
       "id": "openalex-7d5ef3fc71a6",
@@ -2559,11 +2559,11 @@
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 349,
+      "citedBy": 350,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:45.658482+00:00"
+      "_retrievedAt": "2026-11-17T20:51:05.221752+00:00"
     },
     {
       "id": "openalex-518b9bf6cea9",
@@ -2595,7 +2595,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:45.659640+00:00"
+      "_retrievedAt": "2026-11-17T20:51:05.222778+00:00"
     },
     {
       "id": "openalex-da37b7f1fa1c",
@@ -2627,7 +2627,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:45.661425+00:00"
+      "_retrievedAt": "2026-11-17T20:51:05.224312+00:00"
     },
     {
       "id": "openalex-021b339d4b20",
@@ -2659,7 +2659,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.965196+00:00"
+      "_retrievedAt": "2026-11-17T20:51:07.778864+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2691,7 +2691,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.966344+00:00"
+      "_retrievedAt": "2026-11-17T20:51:07.779851+00:00"
     },
     {
       "id": "openalex-be864332263f",
@@ -2723,7 +2723,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.450024+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.915065+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2751,11 +2751,11 @@
         "T-cell and B-cell Immunology"
       ],
       "readTime": "1 min",
-      "citedBy": 53,
+      "citedBy": 55,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.049943+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.291401+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2787,7 +2787,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.052807+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.293974+00:00"
     },
     {
       "id": "openalex-6e7aa9ad6862",
@@ -2819,7 +2819,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:45.658200+00:00"
+      "_retrievedAt": "2026-11-17T20:51:05.221508+00:00"
     },
     {
       "id": "openalex-514dbfd7d5d8",
@@ -2851,7 +2851,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.052124+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.293362+00:00"
     },
     {
       "id": "openalex-26237de6c6dd",
@@ -2879,11 +2879,11 @@
         "Developmental Biology and Gene Regulation"
       ],
       "readTime": "1 min",
-      "citedBy": 39,
+      "citedBy": 40,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.050426+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.291822+00:00"
     },
     {
       "id": "openalex-6a5a22694e49",
@@ -2915,7 +2915,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:45.660478+00:00"
+      "_retrievedAt": "2026-11-17T20:51:05.223494+00:00"
     },
     {
       "id": "openalex-506180faa30c",
@@ -2947,7 +2947,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.051194+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.292512+00:00"
     },
     {
       "id": "openalex-5d6d48b88b97",
@@ -2979,7 +2979,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.052567+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.293763+00:00"
     },
     {
       "id": "openalex-50c318e007c8",
@@ -3011,7 +3011,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:45.658748+00:00"
+      "_retrievedAt": "2026-11-17T20:51:05.221983+00:00"
     },
     {
       "id": "openalex-df09ae142fc6",
@@ -3043,7 +3043,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.053046+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.294186+00:00"
     },
     {
       "id": "openalex-dbb3c4b557e9",
@@ -3075,7 +3075,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.450593+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.915586+00:00"
     },
     {
       "id": "openalex-8f980c3bafcc",
@@ -3107,7 +3107,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.966796+00:00"
+      "_retrievedAt": "2026-11-17T20:51:07.780256+00:00"
     },
     {
       "id": "openalex-838b1babffe0",
@@ -3139,7 +3139,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:45.659469+00:00"
+      "_retrievedAt": "2026-11-17T20:51:05.222631+00:00"
     },
     {
       "id": "openalex-23e74f3e558d",
@@ -3171,7 +3171,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.453352+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.918065+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -3203,7 +3203,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.050172+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.291600+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -3231,11 +3231,11 @@
         "Cancer Genomics and Diagnostics"
       ],
       "readTime": "1 min",
-      "citedBy": 29,
+      "citedBy": 31,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.051642+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.292904+00:00"
     },
     {
       "id": "openalex-7d24a7f15d87",
@@ -3267,7 +3267,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.967023+00:00"
+      "_retrievedAt": "2026-11-17T20:51:07.780464+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -3299,7 +3299,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.964506+00:00"
+      "_retrievedAt": "2026-11-17T20:51:07.778267+00:00"
     },
     {
       "id": "openalex-26e8fbfaec61",
@@ -3327,11 +3327,11 @@
         "Advanced Neural Network Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 477,
+      "citedBy": 478,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:45.657910+00:00"
+      "_retrievedAt": "2026-11-17T20:51:05.221264+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -3363,7 +3363,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:45.659027+00:00"
+      "_retrievedAt": "2026-11-17T20:51:05.222258+00:00"
     },
     {
       "id": "openalex-65254d753054",
@@ -3395,7 +3395,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.452453+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.917269+00:00"
     },
     {
       "id": "openalex-f4959844837a",
@@ -3427,7 +3427,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.967357+00:00"
+      "_retrievedAt": "2026-11-17T20:51:07.780746+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -3459,7 +3459,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.051382+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.292676+00:00"
     },
     {
       "id": "openalex-98b80238d5e1",
@@ -3491,7 +3491,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.450388+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.915397+00:00"
     },
     {
       "id": "openalex-66a62c54aef7",
@@ -3523,7 +3523,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.453597+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.918298+00:00"
     },
     {
       "id": "openalex-6b15c7cad215",
@@ -3555,7 +3555,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:45.659939+00:00"
+      "_retrievedAt": "2026-11-17T20:51:05.223293+00:00"
     },
     {
       "id": "openalex-3b5a50007972",
@@ -3587,7 +3587,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.967966+00:00"
+      "_retrievedAt": "2026-11-17T20:51:07.781331+00:00"
     },
     {
       "id": "openalex-922cd87ec4f4",
@@ -3615,11 +3615,11 @@
         "Nanoparticle-Based Drug Delivery"
       ],
       "readTime": "1 min",
-      "citedBy": 25,
+      "citedBy": 26,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:46.451547+00:00"
+      "_retrievedAt": "2026-11-17T20:51:06.916252+00:00"
     },
     {
       "id": "openalex-65c3e45e4caf",
@@ -3651,7 +3651,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-17T07:49:45.660755+00:00"
+      "_retrievedAt": "2026-11-17T20:51:05.223740+00:00"
     }
   ]
 }
