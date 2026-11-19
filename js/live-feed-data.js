@@ -1,464 +1,752 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-11-18T20:26:40.737713+00:00",
-  "total": 114,
+  "generatedAt": "2026-11-19T07:17:39.825018+00:00",
+  "total": 100,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
     {
-      "id": "rss-965b7f73415e",
+      "id": "rss-556ffdba8804",
       "discipline": "clinical",
       "type": "news",
-      "title": "Brain model offers new explanation for memory formation and how dementia disrupts it",
+      "title": "Changes needed to allow more GPs to attend aged care facilities",
       "authors": "Medical Xpress",
-      "abstract": "A new framework, published in Brain, could reshape researchers' understanding of how the brain creates memories and experiences, and how disruptions in this process may indicate Alzheimer's disease and other forms of dementia.",
-      "date": "2026-11-18",
+      "abstract": "Attendance by general practitioners (GPs) at aged care facilities is a crucial health care concern, with an increasing number of Australians living permanently in residential aged care, and South Australia recording the highest rate—44 people per 1,000.",
+      "date": "2026-11-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-brain-explanation-memory-formation-dementia.html",
+      "url": "https://medicalxpress.com/news/2026-11-gps-aged-facilities.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "brain",
-        "dementia",
-        "offers",
-        "explanation",
-        "memory",
-        "formation",
-        "disrupts",
-        "framework"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.335867+00:00"
-    },
-    {
-      "id": "rss-e3cb5cba8427",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Freezing leftovers? Why some foods thaw well but others turn to goo",
-      "authors": "Medical Xpress",
-      "abstract": "Bulk cooking and freezing your leftovers can be a great way to save money—while also reducing food waste and stocking your kitchen with convenient weeknight meals.",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-leftovers-foods-goo.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "freezing",
-        "leftovers",
-        "your",
-        "some",
-        "foods",
-        "thaw",
-        "well",
-        "others"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.336140+00:00"
-    },
-    {
-      "id": "rss-e4b93b3f9e8d",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Novel compound eases paralysis and activates nerve repair pathways in multiple sclerosis mouse model",
-      "authors": "Medical Xpress",
-      "abstract": "A new derivative of a natural compound reduced symptoms associated with multiple sclerosis and promoted the central nervous system's regenerative pathways in a mouse model, report researchers at the University of Illinois Urbana-Champaign and collaborators at Keio University and Chiba University in Japan.",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-compound-eases-paralysis-nerve-pathways.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "university",
-        "compound",
-        "pathways",
-        "multiple",
-        "sclerosis",
-        "mouse",
-        "novel",
-        "eases"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.336402+00:00"
-    },
-    {
-      "id": "rss-b73e981f7242",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "With measles spreading, do you need a booster shot?",
-      "authors": "Medical Xpress",
-      "abstract": "Now that measles is officially back in the U.S., some Americans are asking: Do adults need a booster shot?",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-measles-booster-shot.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "measles",
-        "need",
-        "booster",
-        "shot",
-        "spreading",
-        "that",
-        "officially",
-        "back"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.336646+00:00"
-    },
-    {
-      "id": "rss-28fc1888edcc",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "A vaccine for acne? Scientists are working on it",
-      "authors": "Medical Xpress",
-      "abstract": "Acne affects around 85% of adolescents and can persist well into adulthood. For some, this means occasional pimples. For others, it can mean years of painful inflammation, scarring and lost confidence.",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-vaccine-acne-scientists.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "acne",
-        "vaccine",
-        "scientists",
-        "working",
-        "affects",
-        "around",
-        "adolescents",
-        "persist"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.336873+00:00"
-    },
-    {
-      "id": "rss-b32c16a56bd3",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "AI-generated hospital discharge summaries earn higher clinical ratings than doctor-written versions",
-      "authors": "Medical Xpress",
-      "abstract": "AI-generated discharge summaries can meet, and in some respects exceed, current standards of care, according to new research led by iCARE (Imperial Clinical Analytics, Research and Evaluation).",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-ai-generated-hospital-discharge-summaries.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ai-generated",
-        "discharge",
-        "summaries",
-        "clinical",
-        "hospital",
-        "earn",
-        "higher",
-        "ratings"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.337096+00:00"
-    },
-    {
-      "id": "rss-e3aa6e262841",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "MRI advance could help monitor fatty liver disease by revealing enzyme activity",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers in Japan have, for the first time, visualized the activity of an important liver enzyme in vivo using an MRI-based approach, potentially providing a new way to detect and monitor fatty liver disease. The condition can progress with few obvious warning signs and, in severe cases, can lead to liver inflammation, fibrosis, cirrhosis and liver cancer.",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-mri-advance-fatty-liver-disease.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "liver",
-        "monitor",
-        "fatty",
-        "disease",
-        "enzyme",
-        "activity",
-        "advance",
-        "could"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.337342+00:00"
-    },
-    {
-      "id": "rss-717459638b02",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "How poetry can offer a vital, humane response to dementia",
-      "authors": "Medical Xpress",
-      "abstract": "I'm sitting in the lounge of a Midlands nursing home on a hazy September morning. Most of the residents here have dementia and, as in many care and nursing homes, they lack meaningful ways to spend their time.",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-poetry-vital-humane-response-dementia.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "dementia",
-        "nursing",
-        "poetry",
-        "offer",
-        "vital",
-        "humane",
-        "response",
-        "sitting"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.337582+00:00"
-    },
-    {
-      "id": "rss-62a115da8b29",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Is my child eating enough? Fathers want more support when it comes to young children's eating habits",
-      "authors": "Medical Xpress",
-      "abstract": "Getting young children to eat can be a source of both joy and worry. First-time fathers may feel unsure about how to manage their child's appetite and mealtimes, according to a study led by Ylva Törner Le Priol, a doctoral student at the Department of Food Studies, Nutrition and Dietetics at Uppsala University. The findings, published in PLOS One, point to a need for clearer and more practical support from child health services.",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-child-fathers-young-children-habits.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "child",
-        "eating",
-        "fathers",
+        "care",
+        "aged",
+        "facilities",
+        "changes",
+        "needed",
+        "allow",
         "more",
-        "support",
-        "young",
+        "attend"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.308073+00:00"
+    },
+    {
+      "id": "rss-2a27104f1ca1",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Two measures to help prevent obesity in young people",
+      "authors": "Medical Xpress",
+      "abstract": "Obesity in children and young people increases the risk of health problems later in life to such an extent that tackling it is important, both for individuals and for the population as a whole. The condition is generally linked to diet and lifestyle. A new study including almost 125,000 children examines how best to help parents and children make healthier choices. The paper is published in the journal Acta Paediatrica.",
+      "date": "2026-11-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-obesity-young-people.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
         "children",
-        "enough"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.337875+00:00"
-    },
-    {
-      "id": "rss-45b29fd14155",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Silencing a liver gene may prevent brain damage from rare metabolic disease",
-      "authors": "Medical Xpress",
-      "abstract": "What if the path to treating a rare condition that harms the brain goes through the liver? A new study by Duke University School of Medicine researchers is the first to show preclinical success of a liver-targeting treatment of glutaric aciduria type I (GA1).",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-silencing-liver-gene-brain-rare.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "liver",
-        "brain",
-        "rare",
-        "silencing",
-        "gene",
-        "prevent",
-        "damage",
-        "metabolic"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.338105+00:00"
-    },
-    {
-      "id": "rss-3fc010cee19b",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "When is a risk worth taking? Hunger helps the brain decide",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers have pinpointed a brain circuit in flies that brings together signals about hunger, food cues and danger to determine when animals take risks. The study published in Science Advances and led by Professor Carolina Rezaval and her research team at the University of Birmingham reveals how neural circuits integrate hunger, food cues and danger to guide behavioral choices.",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-worth-hunger-brain.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "hunger",
-        "when",
-        "brain",
-        "food",
-        "cues",
-        "danger",
-        "risk",
-        "worth"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.338351+00:00"
-    },
-    {
-      "id": "rss-843897d949ec",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "How a genetic growth brake helps control brain size—and what happens when it fails",
-      "authors": "Medical Xpress",
-      "abstract": "The gene PTEN acts like a molecular brake. It helps maintain balance during brain development, when specific progenitor cells must be present at the right time, in the right place and in the right numbers.",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-genetic-growth-brain-size.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "right",
-        "brake",
-        "helps",
-        "brain",
-        "when",
-        "genetic",
-        "growth",
-        "control"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.338609+00:00"
-    },
-    {
-      "id": "rss-f43ebe8a0e59",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Wearable patch could help detect silent heart injury after surgery",
-      "authors": "Medical Xpress",
-      "abstract": "Researchers at McMaster University have developed a wearable device that could help detect silent heart injury in the days after surgery, offering a new way to monitor patients after they leave the hospital.",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-wearable-patch-silent-heart-injury.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "after",
-        "wearable",
-        "could",
         "help",
-        "detect",
-        "silent",
-        "heart",
-        "injury"
+        "obesity",
+        "young",
+        "people",
+        "measures",
+        "prevent",
+        "increases"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.338833+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.308288+00:00"
     },
     {
-      "id": "rss-df53b5a3e107",
+      "id": "rss-ce2d05b2918b",
       "discipline": "clinical",
       "type": "news",
-      "title": "Extreme heat in UK linked to higher risk of death for people with cardiovascular disease",
+      "title": "Home-based auricular vagus nerve stimulation shows early promise for kids and teens with migraines",
       "authors": "Medical Xpress",
-      "abstract": "A U.K. analysis of health records from more than 60,000 people with cardiovascular disease shows that, over a 16-year period, those exposed to higher long-term mean summer temperatures had a higher risk of death, as did those exposed to more heat waves. Ka Yan Lai of the University of Hong Kong and colleagues present these findings in the open-access journal PLOS Climate.",
-      "date": "2026-11-18",
+      "abstract": "As clinicians and researchers, we often see how heavily migraine attacks weigh on children and adolescents, yet non-pharmacological, child-friendly treatment options remain strikingly scarce. For years, our team at Nanfang Hospital and collaborating institutes have been looking into ways to bridge this gap.",
+      "date": "2026-11-19",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-extreme-uk-linked-higher-death.html",
+      "url": "https://medicalxpress.com/news/2026-11-home-based-auricular-vagus-nerve.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "higher",
-        "heat",
-        "risk",
-        "death",
-        "people",
-        "cardiovascular",
-        "disease",
-        "more"
+        "home-based",
+        "auricular",
+        "vagus",
+        "nerve",
+        "stimulation",
+        "shows",
+        "early",
+        "promise"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.339083+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.308459+00:00"
     },
     {
-      "id": "rss-32774e72f9d6",
+      "id": "rss-c26f3d14d0a7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New evidence questions benefits of turmeric for knee arthritis",
+      "authors": "Medical Xpress",
+      "abstract": "A new Cochrane review has found that turmeric supplements may provide little or no clinically important pain relief for people with knee osteoarthritis, challenging conclusions from earlier research that suggested a benefit. The work appears in the Cochrane Database of Systematic Reviews.",
+      "date": "2026-11-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-evidence-benefits-turmeric-knee-arthritis.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "turmeric",
+        "knee",
+        "cochrane",
+        "that",
+        "evidence",
+        "questions",
+        "benefits",
+        "arthritis"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.308632+00:00"
+    },
+    {
+      "id": "rss-c4b9d773f8ca",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Analysis of over 69,000 younger patients questions one-size-fits-all cutoff for colorectal cancer stool test",
+      "authors": "Medical Xpress",
+      "abstract": "A new study led by experts at the University of Nottingham has provided new insight into how a commonly used test for colorectal cancer performs in people under 50.",
+      "date": "2026-11-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-analysis-younger-patients-size-cutoff.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "colorectal",
+        "cancer",
+        "test",
+        "over",
+        "younger",
+        "patients",
+        "questions",
+        "one-size-fits-all"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.308778+00:00"
+    },
+    {
+      "id": "rss-207816732f57",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "How research paved the way for progress in a rare form of ALS",
+      "authors": "Medical Xpress",
+      "abstract": "An experimental ALS drug that grew out of basic and clinical research at Columbia University's Vagelos College of Physicians and Surgeons may soon become available for patients with a rare and aggressive form of the disease.",
+      "date": "2026-11-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-paved-rare-als.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "rare",
+        "form",
+        "paved",
+        "progress",
+        "experimental",
+        "drug",
+        "that",
+        "grew"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.308930+00:00"
+    },
+    {
+      "id": "rss-1179351fee5e",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "No clear benefit from two drugs intended to increase spontaneous birth after induction in first-time moms",
+      "authors": "Medical Xpress",
+      "abstract": "There is no clear evidence that hyoscine butylbromide or sodium bicarbonate improves spontaneous vaginal birth rates (without the assistance of forceps or vacuum) in first-time moms after induction of labor, finds a large Norwegian trial published by The BMJ. Although small benefits of either drug can't be entirely ruled out, the researchers say the findings do not support their routine use.",
+      "date": "2026-11-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-benefit-drugs-spontaneous-birth-induction.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "clear",
+        "spontaneous",
+        "birth",
+        "after",
+        "induction",
+        "first-time",
+        "moms",
+        "benefit"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.309110+00:00"
+    },
+    {
+      "id": "rss-15eab2c6d2cf",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Use of AI in medical recruitment could miss top talent, doctors warn",
+      "authors": "Medical Xpress",
+      "abstract": "As NHS England prepares to introduce a £1.2 billion AI-driven workforce management and recruitment platform, a new report from BMJ Careers raises concerns about quality, fairness and missing top talent as medical recruiters respond to a flood of AI-powered applications.",
+      "date": "2026-11-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-ai-medical-talent-doctors.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "medical",
+        "recruitment",
+        "talent",
+        "could",
+        "miss",
+        "doctors",
+        "warn",
+        "england"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.309269+00:00"
+    },
+    {
+      "id": "rss-fc7001567241",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Morphea linked to higher risk for cancer",
+      "authors": "Medical Xpress",
+      "abstract": "Morphea is associated with excess cancer incidence, according to a study published online Nov. 11 in JAMA Dermatology.",
+      "date": "2026-11-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-morphea-linked-higher-cancer.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "morphea",
+        "cancer",
+        "linked",
+        "higher",
+        "risk",
+        "associated",
+        "excess",
+        "incidence"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.309396+00:00"
+    },
+    {
+      "id": "rss-4bab87fc0ac8",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Most children labeled allergic to antibiotics may not have an allergy, researchers warn",
+      "authors": "Medical Xpress",
+      "abstract": "It's 7 p.m. on a Saturday in an urgent care center. A 10-year-old boy is \"really sick\" with severe tonsillitis and clearly needs antibiotics. Just before I (Rebecca Payne) head out to find a suitable medicine, I ask his mother: \"Does he have any allergies?\"",
+      "date": "2026-11-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-children-allergic-antibiotics-allergy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "antibiotics",
+        "have",
+        "most",
+        "children",
+        "labeled",
+        "allergic",
+        "allergy",
+        "researchers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.309560+00:00"
+    },
+    {
+      "id": "rss-d6f5d908ab9b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Creatine supplement use nearly doubles among US college students, new study finds",
+      "authors": "Medical Xpress",
+      "abstract": "The use of creatine and protein supplements among U.S. college and university students has increased significantly over a five-year period, according to new research published in the journal Performance Enhancement & Health and led by researchers at the University of Toronto.",
+      "date": "2026-11-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-creatine-supplement-college-students.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "creatine",
+        "among",
+        "college",
+        "students",
+        "university",
+        "supplement",
+        "nearly",
+        "doubles"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.309717+00:00"
+    },
+    {
+      "id": "rss-6705d4160fa7",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "How to relieve a stress headache (and keep the next one away)",
+      "authors": "Medical Xpress",
+      "abstract": "You had a rough day at work and got stuck in traffic on the way home, and suddenly your head starts to ache.",
+      "date": "2026-11-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-relieve-stress-headache.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "relieve",
+        "stress",
+        "headache",
+        "keep",
+        "next",
+        "away",
+        "rough",
+        "work"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.309847+00:00"
+    },
+    {
+      "id": "rss-f808cb65227f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Brepocitinib yields improvements in cutaneous sarcoidosis",
+      "authors": "Medical Xpress",
+      "abstract": "For patients with cutaneous sarcoidosis (CS), brepocitinib is associated with dose-dependent and clinically meaningful improvements, according to a study published online in JAMA Dermatology to coincide with the annual meeting of the American College of Rheumatology, held from Nov. 6 to 11 in Orlando, Florida.",
+      "date": "2026-11-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-brepocitinib-yields-cutaneous-sarcoidosis.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brepocitinib",
+        "improvements",
+        "cutaneous",
+        "sarcoidosis",
+        "yields",
+        "patients",
+        "associated",
+        "dose-dependent"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.309995+00:00"
+    },
+    {
+      "id": "rss-cd6c795cd44b",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Noninvasive deep brain stimulation improves subclinical depression, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers led by professor Tu Yiheng from the Institute of Psychology of the Chinese Academy of Sciences, in collaboration with researchers from Shenzhen University and other institutions, have developed a noninvasive deep brain stimulation approach that enhances reward learning and improves depressive symptoms in individuals with subclinical depression.",
+      "date": "2026-11-19",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-noninvasive-deep-brain-subclinical-depression.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "noninvasive",
+        "deep",
+        "brain",
+        "stimulation",
+        "improves",
+        "subclinical",
+        "depression",
+        "researchers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.310150+00:00"
+    },
+    {
+      "id": "rss-3ce9c76c470e",
       "discipline": "cs",
       "type": "news",
-      "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "authors": "TechCrunch AI",
+      "abstract": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "date": "2026-11-19",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "microsoft",
+        "satya",
+        "nadella",
+        "employees",
+        "quit",
+        "explains",
+        "asked",
+        "explained"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.386722+00:00"
+    },
+    {
+      "id": "rss-517d73f8ac11",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "authors": "TechCrunch AI",
+      "abstract": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "date": "2026-11-18",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "amidst",
+        "fears",
+        "cyberattacks",
+        "satya",
+        "nadella",
+        "says",
+        "lots",
+        "critical"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.386897+00:00"
+    },
+    {
+      "id": "rss-91cc3700be05",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "authors": "TechCrunch AI",
+      "abstract": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "date": "2026-11-18",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "musk",
+        "huang",
+        "elon",
+        "says",
+        "ousting",
+        "jensen",
+        "like",
+        "kicking"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.387015+00:00"
+    },
+    {
+      "id": "rss-7a800068895b",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "authors": "TechCrunch AI",
+      "abstract": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "date": "2026-11-18",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "microsoft",
+        "satya",
+        "nadella",
+        "nvidia",
+        "huang",
+        "remains",
+        "confident",
+        "after"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.387127+00:00"
+    },
+    {
+      "id": "rss-a1b2ac0105b0",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "authors": "TechCrunch AI",
+      "abstract": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "date": "2026-11-18",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "agents",
+        "satya",
+        "nadella",
+        "predicts",
+        "will",
+        "reshuffle",
+        "economics",
+        "microsoft"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.387233+00:00"
+    },
+    {
+      "id": "rss-d1e75f3fa495",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "authors": "TechCrunch AI",
+      "abstract": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "date": "2026-11-18",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "anthropic",
+        "prices",
+        "share",
+        "above",
+        "projected",
+        "range",
+        "long-awaited",
+        "reportedly"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.387325+00:00"
+    },
+    {
+      "id": "rss-2d700e66aa06",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "authors": "TechCrunch AI",
+      "abstract": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+      "date": "2026-11-18",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nvidia",
+        "filing",
+        "created",
+        "weird",
+        "intrigue",
+        "routine",
+        "report",
+        "wall"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.387427+00:00"
+    },
+    {
+      "id": "rss-b43a72333600",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "authors": "TechCrunch AI",
+      "abstract": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "date": "2026-11-18",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "palmer",
+        "luckey",
+        "warns",
+        "ai-powered",
+        "cyberattacks",
+        "outpacing",
+        "defenses",
+        "time"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.387553+00:00"
+    },
+    {
+      "id": "rss-cd43dbdd90a2",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "authors": "TechCrunch AI",
+      "abstract": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+      "date": "2026-11-18",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "jensen",
+        "ousted",
+        "nvidia",
+        "palmer",
+        "luckey",
+        "thinks",
+        "china",
+        "thrilled"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-19T07:17:39.387674+00:00"
+    },
+    {
+      "id": "rss-51da3bbaf146",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
       "authors": "TechCrunch AI",
       "abstract": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
       "date": "2026-11-18",
@@ -466,7 +754,7 @@ window.LIVE_FEED_DATA = {
       "journal": "TechCrunch AI",
       "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
@@ -476,7 +764,7 @@ window.LIVE_FEED_DATA = {
         "says",
         "weird",
         "that",
-        "unphased",
+        "unfazed",
         "andrew"
       ],
       "readTime": "1 min",
@@ -484,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.396169+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.387784+00:00"
     },
     {
       "id": "rss-19167e83fb85",
@@ -516,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.396440+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.387890+00:00"
     },
     {
       "id": "rss-e70fc2902caa",
@@ -548,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.396657+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.387994+00:00"
     },
     {
       "id": "rss-0629a11cc1c5",
@@ -580,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.396841+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.388095+00:00"
     },
     {
       "id": "rss-08c786a5a626",
@@ -612,199 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.397027+00:00"
-    },
-    {
-      "id": "rss-2f560f9024c1",
-      "discipline": "cs",
-      "type": "news",
-      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-      "authors": "TechCrunch AI",
-      "abstract": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "jensen",
-        "openai",
-        "altman",
-        "says",
-        "hard",
-        "imagine",
-        "industry",
-        "without"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.397218+00:00"
-    },
-    {
-      "id": "rss-e541c902323a",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
-      "authors": "TechCrunch AI",
-      "abstract": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nvidia",
-        "financing",
-        "clarifies",
-        "when",
-        "will",
-        "keep",
-        "neoclouds",
-        "backstopping"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.397414+00:00"
-    },
-    {
-      "id": "rss-ccbf2331c3f5",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "authors": "TechCrunch AI",
-      "abstract": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "unsiloed",
-        "felicis",
-        "leads",
-        "make",
-        "enterprise",
-        "documents",
-        "usable",
-        "agents"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.397605+00:00"
-    },
-    {
-      "id": "rss-caaf2ae19c32",
-      "discipline": "cs",
-      "type": "news",
-      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
-      "authors": "TechCrunch AI",
-      "abstract": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "humyn",
-        "labs",
-        "india",
-        "raises",
-        "feed",
-        "robotics",
-        "companies",
-        "they"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.397779+00:00"
-    },
-    {
-      "id": "rss-1aa94d7628d8",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-      "authors": "TechCrunch AI",
-      "abstract": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nvidia",
-        "huang",
-        "startup",
-        "stakes",
-        "ballooned",
-        "exit",
-        "puts",
-        "future"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.397965+00:00"
-    },
-    {
-      "id": "rss-6d9b7c7994c7",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "authors": "TechCrunch AI",
-      "abstract": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-      "date": "2026-11-18",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nvidia",
-        "that",
-        "revenue",
-        "promises",
-        "will",
-        "keep",
-        "soaring",
-        "despite"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.398138+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.388200+00:00"
     },
     {
       "id": "rss-d64bb8f2ab80",
@@ -836,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.441689+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.415606+00:00"
     },
     {
       "id": "rss-ba4aafa8c0e1",
@@ -868,103 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.441874+00:00"
-    },
-    {
-      "id": "rss-8fd8413aa9af",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "authors": "TechCrunch AI",
-      "abstract": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-      "date": "2026-11-17",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nvidia",
-        "china",
-        "abandoning",
-        "after",
-        "jensen",
-        "huang",
-        "ouster",
-        "interim"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.398295+00:00"
-    },
-    {
-      "id": "rss-ffe2c615bf7a",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "authors": "TechCrunch AI",
-      "abstract": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-      "date": "2026-11-17",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nvidia",
-        "open",
-        "source",
-        "strategy",
-        "jensen",
-        "huang",
-        "says",
-        "remains"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.398465+00:00"
-    },
-    {
-      "id": "rss-bd0a4050fc67",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "authors": "TechCrunch AI",
-      "abstract": "The former CEO offered to return to his top role at the company after his resignation last week.",
-      "date": "2026-11-17",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "nvidia",
-        "says",
-        "doesn",
-        "plan",
-        "reappoint",
-        "jensen",
-        "huang",
-        "former"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.398646+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.415732+00:00"
     },
     {
       "id": "rss-d75f12a13840",
@@ -996,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.442037+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.415840+00:00"
     },
     {
       "id": "rss-226d0308c9bb",
@@ -1028,7 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.442209+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.415954+00:00"
     },
     {
       "id": "rss-a3318adbd022",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.442367+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.416055+00:00"
     },
     {
       "id": "rss-319b5da90ee2",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.442555+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.416176+00:00"
     },
     {
       "id": "rss-12f687e690a2",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.442733+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.416292+00:00"
     },
     {
       "id": "rss-00819e71329f",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.662244+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.573142+00:00"
     },
     {
       "id": "rss-52c6da3b3f36",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.662456+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.573294+00:00"
     },
     {
       "id": "rss-fc6b82df8ecb",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.442909+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.416405+00:00"
     },
     {
       "id": "rss-e45e2d28257c",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.443076+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.416530+00:00"
     },
     {
       "id": "rss-925b21df89a1",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.443246+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.416647+00:00"
     },
     {
       "id": "rss-eabfd71a61b4",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.443403+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.416750+00:00"
     },
     {
       "id": "rss-db4a52614d6e",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.443571+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.416846+00:00"
     },
     {
       "id": "rss-0646faa6f733",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.443731+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.416945+00:00"
     },
     {
       "id": "rss-ee3b71fee41a",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.662797+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.573551+00:00"
     },
     {
       "id": "rss-948f337f76fa",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.663040+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.573731+00:00"
     },
     {
       "id": "rss-9b3fb6e63d6f",
@@ -1476,7 +1476,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.443905+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.417054+00:00"
     },
     {
       "id": "rss-36da62e14d67",
@@ -1508,7 +1508,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.663701+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.574217+00:00"
     },
     {
       "id": "rss-0301f8db1aca",
@@ -1540,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.663895+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.574356+00:00"
     },
     {
       "id": "rss-5116d0089903",
@@ -1572,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.664080+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.574499+00:00"
     },
     {
       "id": "openalex-b76d52d91fce",
@@ -1604,7 +1604,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:34.991701+00:00"
+      "_retrievedAt": "2026-11-19T07:17:32.183115+00:00"
     },
     {
       "id": "rss-e8ad5f5a7f57",
@@ -1636,7 +1636,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.664692+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.574956+00:00"
     },
     {
       "id": "openalex-b9713b9a252a",
@@ -1668,7 +1668,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:34.991050+00:00"
+      "_retrievedAt": "2026-11-19T07:17:32.182647+00:00"
     },
     {
       "id": "openalex-11b5190cd445",
@@ -1700,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:37.436087+00:00"
+      "_retrievedAt": "2026-11-19T07:17:36.281061+00:00"
     },
     {
       "id": "openalex-818836e119b0",
@@ -1732,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:37.438297+00:00"
+      "_retrievedAt": "2026-11-19T07:17:36.282675+00:00"
     },
     {
       "id": "rss-8ccff313a082",
@@ -1763,7 +1763,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.664830+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.575047+00:00"
     },
     {
       "id": "openalex-cb3cbda06d84",
@@ -1795,7 +1795,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:33.682291+00:00"
+      "_retrievedAt": "2026-11-19T07:17:31.338644+00:00"
     },
     {
       "id": "openalex-167b6533ff80",
@@ -1827,7 +1827,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:34.989800+00:00"
+      "_retrievedAt": "2026-11-19T07:17:32.181720+00:00"
     },
     {
       "id": "rss-03a31c5c3f2e",
@@ -1859,7 +1859,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:40.665232+00:00"
+      "_retrievedAt": "2026-11-19T07:17:39.575350+00:00"
     },
     {
       "id": "openalex-5ab5668168ae",
@@ -1891,103 +1891,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:37.436797+00:00"
-    },
-    {
-      "id": "openalex-8824f3740ac6",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Comparative analysis of end-to-end learning and foundation models for clinical-grade prostate pathology",
-      "authors": "Nita Mulliqi, Anders Blilie, Xiaoyi Ji, Kelvin Szolnoky, Henrik Olsson, Sol Erika Boman",
-      "abstract": "Abstract Foundation models (FMs) using self-supervised pre-training are widely advocated as a universal solution for pathology, yet their advantages over task-specific (TS) models remain unclear. Here we show, using over 100,000 prostate biopsies from 6268 patients across 15 sites, that while FMs demonstrate utility in data-scarce scenarios, their performance converges with—and is in some cases surpassed by—TS models with sufficient labeled training data. Concordance with pathologists’ grading reaches quadratic Cohen’s kappas of 0.91 (95% CI 0.90-0.92; all models) on internal and 0.87 (0.86-0.88; TS), 0.86 (0.84-0.87; UNI FM) and 0.85 (0.84-0.86; Virchow2 FM) on external cohorts at full training. Task-specific training markedly reduces misgrading, misdiagnosis of challenging morphologies, and technical variability. Notably, FMs consume up to 35 times more energy. We advocate for consi...",
-      "date": "2026-10-26",
-      "year": 2026,
-      "journal": "Nature Communications",
-      "source": "Nature Communications",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41467-026-78996-7",
-      "doi": "10.1038/s41467-026-78996-7",
-      "pdfUrl": "https://www.nature.com/articles/s41467-026-78996-7_reference.pdf",
-      "keywords": [
-        "Concordance",
-        "Foundation (evidence)",
-        "Medicine",
-        "Medical physics",
-        "Grading (engineering)",
-        "AI in cancer detection",
-        "Artificial Intelligence in Healthcare and Education",
-        "Radiomics and Machine Learning in Medical Imaging"
-      ],
-      "readTime": "1 min",
-      "citedBy": 25,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:35.913125+00:00"
-    },
-    {
-      "id": "openalex-c2a093804030",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "International Journal of Complementary & Alternative Medicine",
-      "authors": "OpenAlex indexed authors",
-      "abstract": "There is a growing demand for integrative and complementary therapies for various health conditions, while the mechanisms and biological pathways for some of these therapies are poorly explored.In particular, bioelectric, biomagnetic and anthropogenic fields interact with biological structures such as tissues, cells and DNA.It is suggested that these interactions may create an integrated system of internal communication, with the potential to promote therapeutic benefits.The theoretical model Biofield-Tissue Tensegrity Matrix (BTTM) is presented by combining concepts from physics, biology and medicine to serve as a possible theoretical basis for energy therapies.",
-      "date": "2026-10-13",
-      "year": 2026,
-      "journal": "International Journal of Complementary & Alternative Medicine",
-      "source": "International Journal of Complementary & Alternative Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.15406/ijcam",
-      "doi": "10.15406/ijcam",
-      "pdfUrl": "https://medcraveonline.com/IJCAM/IJCAM-18-00731.pdf",
-      "keywords": [
-        "Library science",
-        "Medicine",
-        "Computer science",
-        "Biofield Effects and Biophysics",
-        "Electromagnetic Fields and Biological Effects",
-        "Complementary and Alternative Medicine Studies",
-        "therapies",
-        "complementary"
-      ],
-      "readTime": "1 min",
-      "citedBy": 18,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:35.914618+00:00"
-    },
-    {
-      "id": "openalex-9ede209118a4",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Self-Evolving Digital Twin Ecosystems for Early Detection and Precision Management of Breast, Lung, Colorectal, and Ovarian Cancers",
-      "authors": "OpenAlex indexed authors",
-      "abstract": "Background: The convergence of multi-omics profiling, radiomics, and advanced machine learning has opened new frontiers in precision oncology.Despite this progress, existing computational frameworks remain static, failing to incorporate evolving patient data or simulate treatment outcomes dynamically.A self-evolving digital twin ecosystem offers a solution by continuously synchronizing patient-specific virtual models with real-world clinical trajectories.Objective: To develop and validate a self-evolving digital twin ecosystem integrating clinical, genomic, transcriptomic, proteomic, radiomic, and pathological data for early cancer detection, disease progression prediction, and personalized treatment optimization across breast, lung, colorectal, and ovarian cancers.Methods: A retrospective multi-center cohort of 400 patients (breast n=120, lung n=100, colorectal n=100, ovarian n=80; a...",
-      "date": "2026-10-12",
-      "year": 2026,
-      "journal": "International Journal of Drug Delivery Technology",
-      "source": "International Journal of Drug Delivery Technology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.25258/ijddt.16.65s.22",
-      "doi": "10.25258/ijddt.16.65s.22",
-      "pdfUrl": "https://doi.org/10.25258/ijddt.16.65s.22",
-      "keywords": [
-        "Machine learning",
-        "Computer science",
-        "Artificial intelligence",
-        "Artificial neural network",
-        "Cohort",
-        "Radiomics and Machine Learning in Medical Imaging",
-        "Artificial Intelligence in Healthcare and Education",
-        "AI in cancer detection"
-      ],
-      "readTime": "1 min",
-      "citedBy": 15,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:35.914975+00:00"
+      "_retrievedAt": "2026-11-19T07:17:36.281578+00:00"
     },
     {
       "id": "openalex-c40eb4a2963d",
@@ -2019,7 +1923,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:37.434658+00:00"
+      "_retrievedAt": "2026-11-19T07:17:36.280002+00:00"
     },
     {
       "id": "openalex-84e3fa65288d",
@@ -2051,39 +1955,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:33.680061+00:00"
-    },
-    {
-      "id": "openalex-7a98c2b5c551",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Distant lymph nodes compensate for resected tumor-draining lymph nodes during cancer immunotherapy",
-      "authors": "Lutz Menzel, Hengbo Zhou, James W. Baish, Meghan J. O’Melia, Laurel B. Darragh, Derek N Effiom",
-      "abstract": "Surgical removal of tumor-draining lymph nodes (tdLNs) is commonly performed in cancer patients. Here, we investigated whether immune checkpoint blockade (ICB) responses persist after resection of tdLNs, important sites for the initiation and maintenance of anti-cancer immunity. Melanoma patients remained responsive to programmed death 1 (PD-1) blockade after regional LN dissection. Similarly, ICB efficacy persisted after tdLN resection in orthotopic murine melanoma and mammary carcinoma models. Following tdLN removal, interstitial fluid containing soluble antigen was diverted through interstitial spaces across lymphosome boundaries to distant LNs, wherein cancer-derived antigen was acquired and presented to T cells by LN-resident type I conventional dendritic cells. These responses persisted after primary tumor resection and supported ICB-induced systemic immunity. Locoregional deliv...",
-      "date": "2026-10-01",
-      "year": 2026,
-      "journal": "Immunity",
-      "source": "Immunity",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.immuni.2026.09.009",
-      "doi": "10.1016/j.immuni.2026.09.009",
-      "pdfUrl": "https://doi.org/10.1016/j.immuni.2026.09.009",
-      "keywords": [
-        "Lymph",
-        "Cancer immunotherapy",
-        "Immunotherapy",
-        "Cancer",
-        "Medicine",
-        "Cancer Immunotherapy and Biomarkers",
-        "Immunotherapy and Immune Responses",
-        "T-cell and B-cell Immunology"
-      ],
-      "readTime": "1 min",
-      "citedBy": 15,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:35.915281+00:00"
+      "_retrievedAt": "2026-11-19T07:17:31.336973+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -2115,7 +1987,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:37.435684+00:00"
+      "_retrievedAt": "2026-11-19T07:17:36.280764+00:00"
     },
     {
       "id": "openalex-f5dc3633b103",
@@ -2147,7 +2019,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:33.684400+00:00"
+      "_retrievedAt": "2026-11-19T07:17:31.340184+00:00"
     },
     {
       "id": "openalex-4017ee65ef38",
@@ -2179,7 +2051,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:34.987680+00:00"
+      "_retrievedAt": "2026-11-19T07:17:32.180148+00:00"
     },
     {
       "id": "openalex-9a39b97a87a9",
@@ -2211,103 +2083,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:33.684652+00:00"
-    },
-    {
-      "id": "openalex-88c8bbfa038c",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Objective Bayes Factor Based Model Selection for Zero-Inflated Microbiome Count Data Under Jeffreys Prior",
-      "authors": "Paramahansa Pramanik, Arnab K. Maity",
-      "abstract": "Microbiome omics data including 16S rRNA reveal intriguing dynamic associations between the human microbiome and various disease states. Drastic changes in microbiota can be associated with factors like diet, hormonal cycles, diseases, and medical interventions. Along with the identification of specific bacteria taxa associated with diseases, recent advancements give evidence that metabolism, genetics, and environmental factors can model these microbial effects. As a result, often the interest is to select an appropriate model to carry out the further analysis. Toward this end, we propose the Bayes factor approach for model selection based on negative binomial, Poisson, zero-inflated negative binomial, and zero-inflated Poisson models with non-informative Jeffreys prior. We find that both in simulation studies and real data analysis, our Bayes factor remarkably outperform traditional...",
-      "date": "2026-09-25",
-      "year": 2026,
-      "journal": "Statistics in Biopharmaceutical Research",
-      "source": "Statistics in Biopharmaceutical Research",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1080/19466315.2026.2739408",
-      "doi": "10.1080/19466315.2026.2739408",
-      "pdfUrl": "https://arxiv.org/pdf/2401.03649",
-      "keywords": [
-        "Bayes factor",
-        "Microbiome",
-        "Akaike information criterion",
-        "Model selection",
-        "Bayes' theorem",
-        "Statistical Methods and Bayesian Inference",
-        "Statistical Methods and Inference",
-        "Statistical Distribution Estimation and Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 30,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:35.912491+00:00"
-    },
-    {
-      "id": "openalex-3dd652be759c",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Calibrated Decisions at Scale: Converting Police Crash Narratives into Probabilistic Crash Variables with a System One Model (Jev)",
-      "authors": "Amir Rafe, Subasish Das",
-      "abstract": "Crash datasets that carry an investigator narrative hold information the coded fields omit. Coding those narratives at scale has been blocked by three obstacles. Frontier large language models are costly at that scale, their generated text cannot be verified, and no rule says how much output a human must check. This paper formulates narrative coding as gated, typed decisions answered by Jev, a System One model that returns probabilities over analyst-defined options and generates no text. A screen covered 499,500 Texas narratives and 195,857 were coded with a 27-question schema. Cost is governed by schema size rather than narrative length. The probabilities are audited against coded fields and against 2,416 blinded human judgments drawn under a stated sampling design. Two frontier large language models are benchmarked on the same records. Against human labels the typed model attains an...",
-      "date": "2026-09-21",
-      "year": 2026,
-      "journal": "arXiv (Cornell University)",
-      "source": "arXiv (Cornell University)",
-      "sourceApi": "OpenAlex",
-      "url": "https://arxiv.org/abs/2609.24052",
-      "doi": "10.48550/arxiv.2609.24052",
-      "pdfUrl": "https://arxiv.org/pdf/2609.24052",
-      "keywords": [
-        "Narrative",
-        "Crash",
-        "Computer science",
-        "Language model",
-        "Probabilistic logic",
-        "Traffic and Road Safety",
-        "Artificial Intelligence in Law",
-        "Computational and Text Analysis Methods"
-      ],
-      "readTime": "1 min",
-      "citedBy": 15,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:35.915644+00:00"
-    },
-    {
-      "id": "openalex-4b0e33566f22",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "The Virtual Biotech: A multi-agent AI framework for therapeutic discovery and development",
-      "authors": "Harrison G. Zhang, Peter Eckmann, Jiacheng Miao, Andrew B. Mahon, James Zou",
-      "abstract": "Drug development requires evidence integration across biological scales and modalities, but relevant tools are fragmented. We introduce the Virtual Biotech, an organization of artificial intelligence (AI) agents modeled on a drug-development company, with agentic divisions spanning target discovery, safety assessment, modality selection, and clinical development. We demonstrate its utility at three drug-development decision points. First, more than 37,000 agents annotated outcomes from 55,984 trials and found that drugs targeting cell type–specific genes were 48% more likely to reach market with 32% fewer adverse events. Second, it integrated multimodal evidence to propose a therapeutic strategy in lung cancer. Third, it analyzed a terminated ulcerative colitis trial and inferred potential mechanisms of failure. These results demonstrate that human-guided multi-agent systems can condu...",
-      "date": "2026-09-17",
-      "year": 2026,
-      "journal": "Science",
-      "source": "Science",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1126/science.aeg6779",
-      "doi": "10.1126/science.aeg6779",
-      "pdfUrl": "https://doi.org/10.64898/2026.02.23.707551",
-      "keywords": [
-        "Computer science",
-        "Artificial intelligence",
-        "Clinical trial",
-        "Drug development",
-        "Modality (human–computer interaction)",
-        "Computational Drug Discovery Methods",
-        "Artificial Intelligence in Healthcare and Education",
-        "Biomedical Text Mining and Ontologies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 23,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:35.913794+00:00"
+      "_retrievedAt": "2026-11-19T07:17:31.340345+00:00"
     },
     {
       "id": "openalex-cd41132c9d18",
@@ -2339,7 +2115,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:34.988112+00:00"
+      "_retrievedAt": "2026-11-19T07:17:32.180494+00:00"
     },
     {
       "id": "openalex-014e44b613fc",
@@ -2371,7 +2147,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:37.434332+00:00"
+      "_retrievedAt": "2026-11-19T07:17:36.279794+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -2403,7 +2179,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:33.683246+00:00"
+      "_retrievedAt": "2026-11-19T07:17:31.339332+00:00"
     },
     {
       "id": "openalex-4eeff6704837",
@@ -2435,39 +2211,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:37.439067+00:00"
-    },
-    {
-      "id": "openalex-8391e68a705c",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Ensemble learning of pathology foundation models for precision oncology",
-      "authors": "Xiangde Luo, Xiyue Wang, Feyisope R. Eweje, Xiaoming Zhang, Juan Luis Gomez Marti, Sarah Cascarino",
-      "abstract": "Histopathology is essential for cancer diagnosis and treatment selection, and pathology foundation models learn visual representations from whole-slide images (WSIs). However, existing foundation models are trained on disparate datasets with varying strategies, leading to inconsistent performance and limited generalizability. Here, we introduce ELF (Ensemble Learning of Foundation models), which integrates five pretrained pathology foundation models into unified slide-level representations. Trained on 53,699 WSIs spanning 20 anatomical sites, ELF leverages ensemble learning to capture complementary information across models. ELF's slide-level architecture is designed for data-efficient downstream evaluation, including settings with limited data such as therapeutic response prediction. We evaluate ELF for disease classification and biomarker detection, as well as anticancer and immunot...",
-      "date": "2026-09-10",
-      "year": 2026,
-      "journal": "Cancer Cell",
-      "source": "Cancer Cell",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.ccell.2026.08.008",
-      "doi": "10.1016/j.ccell.2026.08.008",
-      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S1535610826003855/pdf",
-      "keywords": [
-        "Foundation (evidence)",
-        "Ensemble learning",
-        "Computer science",
-        "Artificial intelligence",
-        "Digital pathology",
-        "AI in cancer detection",
-        "Radiomics and Machine Learning in Medical Imaging",
-        "Artificial Intelligence in Healthcare and Education"
-      ],
-      "readTime": "1 min",
-      "citedBy": 20,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:35.914076+00:00"
+      "_retrievedAt": "2026-11-19T07:17:36.283238+00:00"
     },
     {
       "id": "openalex-bb23e4ef92cf",
@@ -2499,7 +2243,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:34.989385+00:00"
+      "_retrievedAt": "2026-11-19T07:17:32.181422+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2531,7 +2275,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:37.435228+00:00"
+      "_retrievedAt": "2026-11-19T07:17:36.280417+00:00"
     },
     {
       "id": "openalex-3d0d090d179c",
@@ -2563,7 +2307,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:37.439645+00:00"
+      "_retrievedAt": "2026-11-19T07:17:36.283664+00:00"
     },
     {
       "id": "openalex-7d5ef3fc71a6",
@@ -2595,7 +2339,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:33.681211+00:00"
+      "_retrievedAt": "2026-11-19T07:17:31.337854+00:00"
     },
     {
       "id": "openalex-518b9bf6cea9",
@@ -2627,7 +2371,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:33.682863+00:00"
+      "_retrievedAt": "2026-11-19T07:17:31.339036+00:00"
     },
     {
       "id": "openalex-da37b7f1fa1c",
@@ -2659,7 +2403,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:33.684935+00:00"
+      "_retrievedAt": "2026-11-19T07:17:31.340563+00:00"
     },
     {
       "id": "openalex-021b339d4b20",
@@ -2691,7 +2435,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:37.434962+00:00"
+      "_retrievedAt": "2026-11-19T07:17:36.280217+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2723,39 +2467,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:37.436449+00:00"
-    },
-    {
-      "id": "openalex-be864332263f",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Quantum–Photonic Topological Intelligence for Multiscale Biomedicine: Brain Networks, Biosignals, Spatial Multi-Omics and Autonomous Therapeutics",
-      "authors": "Murali Krishna Pasupuleti",
-      "abstract": "Abstract: Biomedical intelligence increasingly depends on integrating data that are heterogeneous not only in format but also in biological scale: dynamic brain networks, high-frequency physiological signals, spatially resolved molecular measurements and treatment-response trajectories. This paper develops a unified conceptual and mathematical architecture—Quantum–Photonic Topological Intelligence for Multiscale Biomedicine (QPTI-MB)—for representing, fusing and governing these data without reducing clinically important structure to a single flat feature space. The proposed framework combines graph and simplicial representations, persistent topological descriptors, multimodal learning, hybrid quantum–photonic feature maps and constrained therapeutic optimization. The methodology is model-based. No patient-level dataset is supplied; therefore, the study uses an explicitly illustrative...",
-      "date": "2026-08-29",
-      "year": 2026,
-      "journal": "International Journal of Academic and Industrial Research Innovations(IJAIRI)",
-      "source": "International Journal of Academic and Industrial Research Innovations(IJAIRI)",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.62311/nesx/rp3ag-30082026",
-      "doi": "10.62311/nesx/rp3ag-30082026",
-      "pdfUrl": "https://www.nationaleducationservices.org/file-download/1758288/Download Full-Text Research Paper PDF Pp 58-77-3.pdf",
-      "keywords": [
-        "Computer science",
-        "Artificial intelligence",
-        "Feature (linguistics)",
-        "Benchmark (surveying)",
-        "Biomedicine",
-        "Topological and Geometric Data Analysis",
-        "Artificial Intelligence in Healthcare and Education",
-        "Quantum Computing Algorithms and Architecture"
-      ],
-      "readTime": "1 min",
-      "citedBy": 47,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:35.911062+00:00"
+      "_retrievedAt": "2026-11-19T07:17:36.281327+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2787,7 +2499,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:34.988400+00:00"
+      "_retrievedAt": "2026-11-19T07:17:32.180711+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2819,7 +2531,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:34.992336+00:00"
+      "_retrievedAt": "2026-11-19T07:17:32.183601+00:00"
     },
     {
       "id": "openalex-6e7aa9ad6862",
@@ -2851,7 +2563,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:33.680825+00:00"
+      "_retrievedAt": "2026-11-19T07:17:31.337568+00:00"
     },
     {
       "id": "openalex-514dbfd7d5d8",
@@ -2883,7 +2595,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:34.991402+00:00"
+      "_retrievedAt": "2026-11-19T07:17:32.182910+00:00"
     },
     {
       "id": "openalex-26237de6c6dd",
@@ -2915,7 +2627,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:34.989061+00:00"
+      "_retrievedAt": "2026-11-19T07:17:32.181190+00:00"
     },
     {
       "id": "openalex-6a5a22694e49",
@@ -2947,7 +2659,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:33.684013+00:00"
+      "_retrievedAt": "2026-11-19T07:17:31.339892+00:00"
     },
     {
       "id": "openalex-506180faa30c",
@@ -2979,7 +2691,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:34.990132+00:00"
+      "_retrievedAt": "2026-11-19T07:17:32.181963+00:00"
     },
     {
       "id": "openalex-5d6d48b88b97",
@@ -3011,7 +2723,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:34.992011+00:00"
+      "_retrievedAt": "2026-11-19T07:17:32.183347+00:00"
     },
     {
       "id": "openalex-50c318e007c8",
@@ -3043,7 +2755,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:33.681604+00:00"
+      "_retrievedAt": "2026-11-19T07:17:31.338125+00:00"
     },
     {
       "id": "openalex-eb1ffd99fdf2",
@@ -3075,7 +2787,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:33.685250+00:00"
+      "_retrievedAt": "2026-11-19T07:17:31.340801+00:00"
     },
     {
       "id": "openalex-df09ae142fc6",
@@ -3107,71 +2819,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:34.992677+00:00"
-    },
-    {
-      "id": "openalex-dbb3c4b557e9",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "The Virtual Tissues foundation model resolves spatial proteomics across scales",
-      "authors": "Johann Wenckstern, Eeshaan Jain, Benedikt von Querfurth, Yexiang Cheng, Kiril Vasilev, Matteo Pariset",
-      "abstract": "Abstract Spatial proteomics technologies have transformed our understanding of complex tissue architecture in cancer but present unique challenges for computational analysis 1 . Each study uses a different marker panel and protocol, and most methods are tailored to single cohorts, which limits knowledge transfer and robust biomarker discovery. Here we present Virtual Tissues (VirTues), a general-purpose foundation model for spatial proteomics that learns marker-aware, multi-scale representations of proteins, cells, niches and tissues directly from multiplex imaging data. From a single pretrained backbone, VirTues supports marker reconstruction, cell segmentation and typing, niche annotation, spatial biomarker discovery and patient stratification, including zero-shot annotation across heterogeneous panels and datasets. In triple-negative breast cancer, VirTues-derived biomarkers predic...",
-      "date": "2026-08-05",
-      "year": 2026,
-      "journal": "Nature",
-      "source": "Nature",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41586-026-10884-y",
-      "doi": "10.1038/s41586-026-10884-y",
-      "pdfUrl": "https://doi.org/10.1038/s41586-026-10884-y",
-      "keywords": [
-        "Proteomics",
-        "Computer science",
-        "Annotation",
-        "Biomarker",
-        "Multiplex",
-        "Single-cell and spatial transcriptomics",
-        "Cell Image Analysis Techniques",
-        "AI in cancer detection"
-      ],
-      "readTime": "1 min",
-      "citedBy": 35,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:35.911822+00:00"
-    },
-    {
-      "id": "openalex-9848aacf7bb1",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "A compendium of next-generation patient-derived models for diverse cancers",
-      "authors": "Dina ElHarouni, Mushriq Al‐Jazrawe, Seongmin Choi, Merve Dede, Toshinori Hinoue, Sean A. Misek",
-      "abstract": "Abstract The development of new therapeutics and the validation of pathogenetic cancer mechanisms require representative laboratory models 1,2 . However, existing collections represent only a fraction of the diversity observed in human cancer 2–4 . Recent technologies have enabled efficient in vitro model derivation (for example, tumour organoids) 5 . However, whether these maintain essential properties of patient tumours during long-term expansion has not been systematically investigated. Here we present results of a large-scale international programme—the Human Cancer Models Initiative—which involved the generation of a resource of 665 next-generation models from 2,780 donors with 25 cancer types and integrated tumour–model whole genome, exome, methylome and transcriptome analyses. The resource provides 522 models with comprehensive clinical data, 153 models of rare cancers and 71 m...",
-      "date": "2026-08-05",
-      "year": 2026,
-      "journal": "Nature",
-      "source": "Nature",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41586-026-10806-y",
-      "doi": "10.1038/s41586-026-10806-y",
-      "pdfUrl": "https://doi.org/10.1038/s41586-026-10806-y",
-      "keywords": [
-        "Computational biology",
-        "Compendium",
-        "Epigenetics",
-        "Cancer",
-        "Transcriptome",
-        "Cancer Genomics and Diagnostics",
-        "Cancer Cells and Metastasis",
-        "Chromatin Remodeling and Cancer"
-      ],
-      "readTime": "1 min",
-      "citedBy": 15,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:35.916016+00:00"
+      "_retrievedAt": "2026-11-19T07:17:32.183844+00:00"
     },
     {
       "id": "openalex-8f980c3bafcc",
@@ -3203,7 +2851,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:37.437100+00:00"
+      "_retrievedAt": "2026-11-19T07:17:36.281797+00:00"
     },
     {
       "id": "openalex-838b1babffe0",
@@ -3235,7 +2883,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:33.682606+00:00"
+      "_retrievedAt": "2026-11-19T07:17:31.338861+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -3267,7 +2915,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:34.988721+00:00"
+      "_retrievedAt": "2026-11-19T07:17:32.180937+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -3299,7 +2947,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:34.990763+00:00"
+      "_retrievedAt": "2026-11-19T07:17:32.182416+00:00"
     },
     {
       "id": "openalex-7d24a7f15d87",
@@ -3331,7 +2979,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:37.437423+00:00"
+      "_retrievedAt": "2026-11-19T07:17:36.282031+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -3363,7 +3011,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:37.433989+00:00"
+      "_retrievedAt": "2026-11-19T07:17:36.279540+00:00"
     },
     {
       "id": "openalex-26e8fbfaec61",
@@ -3395,7 +3043,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:33.680450+00:00"
+      "_retrievedAt": "2026-11-19T07:17:31.337282+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -3427,39 +3075,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:33.681982+00:00"
-    },
-    {
-      "id": "openalex-65254d753054",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Toward comprehensive cellular characterization of H&E slides",
-      "authors": "Benjamin Adjadj, Pierre‐Antoine Bannier, Guillaume Horent, Sebastien Mandela, Gary Klajer, Aurore Lyon",
-      "abstract": "Cell detection, segmentation, and classification are essential for analyzing tumor microenvironments (TME) on hematoxylin and eosin (H&E) slides. Existing methods suffer from poor performance on understudied cell types (rare or not present in public datasets) and limited cross-domain generalization. To address these shortcomings, we introduce HistoPLUS, a state-of-the-art model for cell analysis, trained on a novel curated pan-cancer dataset of 108,722 nuclei covering 13 cell types. In external validation across 4 independent cohorts, HistoPLUS outperforms current state-of-the-art models in detection quality by 5.2% and overall F1 classification score by 23.7%, while using 5× fewer parameters. In addition, we show that HistoPLUS robustly transfers to two oncology indications unseen during training and allows interpretable biomarker discovery in downstream tasks, outperforming clinical...",
-      "date": "2026-07-24",
-      "year": 2026,
-      "journal": "Journal of Pathology Informatics",
-      "source": "Journal of Pathology Informatics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.jpi.2026.100696",
-      "doi": "10.1016/j.jpi.2026.100696",
-      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S2153353926001562/pdf",
-      "keywords": [
-        "Computer science",
-        "Characterization (materials science)",
-        "Computational biology",
-        "Nanotechnology",
-        "Chemistry",
-        "AI in cancer detection",
-        "Cell Image Analysis Techniques",
-        "Digital Imaging for Blood Diseases"
-      ],
-      "readTime": "1 min",
-      "citedBy": 19,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:35.914387+00:00"
+      "_retrievedAt": "2026-11-19T07:17:31.338404+00:00"
     },
     {
       "id": "openalex-f4959844837a",
@@ -3491,7 +3107,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:37.437878+00:00"
+      "_retrievedAt": "2026-11-19T07:17:36.282354+00:00"
     },
     {
       "id": "openalex-8c83210d87ba",
@@ -3523,39 +3139,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:34.990393+00:00"
-    },
-    {
-      "id": "openalex-98b80238d5e1",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Silver Diamine Fluoride for Caries Arrest in Pediatric and Special Needs Populations: A Decade of Clinical Evidence",
-      "authors": "Pakistan Journal of Medical & Cardiological Review",
-      "abstract": "Graphical Abstract In the last ten years, silver diamine fluoride (SDF) has fundamentally transformed the treatment of dental caries in two of the most susceptible groups in dentistry; young children with early childhood caries and those with special health care needs (SHCN). The review is based on clinical evidence published in the last 5 years (2014-2024) and includes randomized controlled trials, longitudinal cohort studies, systematic reviews, and qualitative research. The main conclusion is clear: one application of 38% SDF per year arrests 6070% of active dentinal lesions, and two applications exceeds 80% after 24 months (Duangthip et al., 2017; Fung et al., 2018). In children with autism spectrum disorder, cerebral palsy, or intellectual disabilities (groups where traditional restorative care might involve general anesthesia or physical restraint), SDF presents an alternative t...",
-      "date": "2026-07-23",
-      "year": 2026,
-      "journal": "Pakistan Journal of Medical & Cardiological Review",
-      "source": "Pakistan Journal of Medical & Cardiological Review",
-      "sourceApi": "OpenAlex",
-      "url": "https://pakjmcr.com/index.php/1/article/view/859",
-      "doi": "10.5281/zenodo.21506869",
-      "pdfUrl": "https://pakjmcr.com/index.php/1/article/download/859/816",
-      "keywords": [
-        "Medicine",
-        "Special needs",
-        "Dentistry",
-        "Fluoride",
-        "MEDLINE",
-        "Dental Health and Care Utilization",
-        "Dental materials and restorations",
-        "Endodontics and Root Canal Treatments"
-      ],
-      "readTime": "2 min",
-      "citedBy": 37,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:35.911534+00:00"
+      "_retrievedAt": "2026-11-19T07:17:32.182152+00:00"
     },
     {
       "id": "openalex-6b15c7cad215",
@@ -3587,7 +3171,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:33.683679+00:00"
+      "_retrievedAt": "2026-11-19T07:17:31.339657+00:00"
     },
     {
       "id": "openalex-3b5a50007972",
@@ -3619,39 +3203,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:37.438726+00:00"
-    },
-    {
-      "id": "openalex-922cd87ec4f4",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Recent Advances in Ferrite‐Based Materials for Biomedical Applications: A Comprehensive Review",
-      "authors": "Pramod D. Mhase, Varsha C. Pujari, Akash V. Fulari, Sunil M. Patange, Sean Li, Danyang Wang",
-      "abstract": "Ferrite-based nanomaterials have evolved from simple magnetic contrast agents into sophisticated, multifunctional platforms capable of actively regulating biological microenvironments. This comprehensive review critically examines the recent advances in the rational design of spinel and hexagonal ferrites, elucidating the fundamental structure-property-bioactivity relationships that govern their biomedical performance. We explore how atomic-level engineering, specifically cation distribution, defect modulation, and morphological anisotropy, can be manipulated to tailor magnetic susceptibility, catalytic activity (nanozymes), and specific absorption rates (SAR) for hyperthermia. Beyond traditional applications in MRI and drug delivery, we highlight emerging frontiers including viscosity-independent magnetic hyperthermia, ROS-mediated antimicrobial therapy, and magnetic tissue engineeri...",
-      "date": "2026-07-21",
-      "year": 2026,
-      "journal": "Advanced Materials",
-      "source": "Advanced Materials",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/adma.74149",
-      "doi": "10.1002/adma.74149",
-      "pdfUrl": "https://doi.org/10.1002/adma.74149",
-      "keywords": [
-        "Nanotechnology",
-        "Materials science",
-        "Magnetic nanoparticles",
-        "Nanomaterials",
-        "Broad spectrum",
-        "Magnetic Properties and Synthesis of Ferrites",
-        "Characterization and Applications of Magnetic Nanoparticles",
-        "Nanoparticle-Based Drug Delivery"
-      ],
-      "readTime": "1 min",
-      "citedBy": 26,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-18T20:26:35.912829+00:00"
+      "_retrievedAt": "2026-11-19T07:17:36.282988+00:00"
     }
   ]
 };
