@@ -1,11 +1,139 @@
 window.LIVE_FEED_DATA = {
-  "generatedAt": "2026-11-21T06:59:31.906831+00:00",
+  "generatedAt": "2026-11-21T19:09:42.315553+00:00",
   "total": 114,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-d9e023e9a910",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Stress and anxiety are wearing workers down: How to spot your triggers and cope",
+      "authors": "Medical Xpress",
+      "abstract": "Workplace stress and anxiety. Who hasn't experienced it?",
+      "date": "2026-11-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-stress-anxiety-workers-triggers-cope.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "stress",
+        "anxiety",
+        "wearing",
+        "workers",
+        "down",
+        "spot",
+        "your",
+        "triggers"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-21T19:09:41.832810+00:00"
+    },
+    {
+      "id": "rss-cfa74a0cb430",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Alcohol may weaken cancer immunotherapy, early research suggests",
+      "authors": "Medical Xpress",
+      "abstract": "Cancer immunotherapy has transformed treatment for several advanced cancers, yet the difference between these treatments working and not could depend on simple routine habits. A recent study published in Science Signaling explores one such overlooked factor: regular alcohol consumption.",
+      "date": "2026-11-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-alcohol-weaken-cancer-immunotherapy-early.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "alcohol",
+        "cancer",
+        "immunotherapy",
+        "weaken",
+        "early",
+        "suggests",
+        "transformed",
+        "treatment"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-21T19:09:41.832982+00:00"
+    },
+    {
+      "id": "rss-db7108016594",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Despite soaring demand for GLP-1s, many eligible patients are unable to access these drugs for weight loss",
+      "authors": "Medical Xpress",
+      "abstract": "In just a few short years, glucagon-like peptide-1 (GLP-1) receptor agonists have surged in popularity across the United States, transforming from specialized treatments for type 2 diabetes into revolutionary therapeutics for weight management, cardiovascular health and other emerging uses. But not all populations are benefiting from this expansion. As GLP-1 use has increased, disparities in access to these drugs have widened significantly, according to a new study led by researchers at Boston University School of Public Health (BUSPH).",
+      "date": "2026-11-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-soaring-demand-glp-1s-eligible.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "glp-",
+        "access",
+        "these",
+        "drugs",
+        "weight",
+        "have",
+        "health",
+        "despite"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-21T19:09:41.833172+00:00"
+    },
+    {
+      "id": "rss-ba1a3b4124b6",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Giving patients a greater voice in their diabetes care",
+      "authors": "Medical Xpress",
+      "abstract": "In two related papers published in JAMA Network Open and the Journal of General Internal Medicine, Kasia Lipska, M.D., associate professor of medicine (endocrinology) at Yale School of Medicine (YSM) and her colleagues tested a new approach to incorporating patients' priorities into their diabetes care.",
+      "date": "2026-11-21",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-patients-greater-voice-diabetes.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "medicine",
+        "patients",
+        "their",
+        "diabetes",
+        "care",
+        "giving",
+        "greater",
+        "voice"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-21T19:09:41.833316+00:00"
+    },
     {
       "id": "rss-a9fa9e685243",
       "discipline": "clinical",
@@ -36,7 +164,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.382087+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.833498+00:00"
     },
     {
       "id": "rss-f2fe74e09f24",
@@ -68,7 +196,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.382346+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.833637+00:00"
     },
     {
       "id": "rss-0fc184fe4a8d",
@@ -100,7 +228,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.382611+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.833774+00:00"
     },
     {
       "id": "rss-c07e79278c34",
@@ -132,7 +260,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.382831+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.833898+00:00"
     },
     {
       "id": "rss-bcba9a8e41d5",
@@ -164,7 +292,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.383102+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.834056+00:00"
     },
     {
       "id": "rss-9ac0650591e5",
@@ -196,7 +324,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.383309+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.834172+00:00"
     },
     {
       "id": "rss-8a501bc03692",
@@ -228,7 +356,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.383590+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.834299+00:00"
     },
     {
       "id": "rss-59afb88c6857",
@@ -260,7 +388,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.383864+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.834464+00:00"
     },
     {
       "id": "rss-c2c851ebda54",
@@ -292,7 +420,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.384110+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.834616+00:00"
     },
     {
       "id": "rss-49949e213dc3",
@@ -324,135 +452,71 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.384353+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.834758+00:00"
     },
     {
-      "id": "rss-12905ed499e6",
-      "discipline": "clinical",
+      "id": "rss-6da6210085dd",
+      "discipline": "cs",
       "type": "news",
-      "title": "Researchers uncover the mechanisms of adhesion formation after thoracic surgery",
-      "authors": "Medical Xpress",
-      "abstract": "Intrathoracic adhesions can develop after thoracic surgery and increase the risk of complications during repeat surgery. However, the detailed molecular mechanisms underlying their formation have remained unclear. In a Letter published in Signal Transduction and Targeted Therapy, a team from Japan aimed to establish an animal model that closely reproduces pleural adhesions seen in patients and to identify key cells and signaling pathways involved in adhesion formation. The goal was to find new methods to prevent adhesions after thoracic surgery.",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "authors": "TechCrunch AI",
+      "abstract": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
       "date": "2026-11-21",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-uncover-mechanisms-adhesion-formation-thoracic.html",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "surgery",
-        "formation",
-        "after",
-        "thoracic",
-        "adhesions",
-        "mechanisms",
-        "adhesion",
-        "researchers"
+        "agents",
+        "that",
+        "live",
+        "your",
+        "text",
+        "messages",
+        "here",
+        "created"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.384680+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.875531+00:00"
     },
     {
-      "id": "rss-90fc789a5803",
-      "discipline": "clinical",
+      "id": "rss-e1b4f23fd942",
+      "discipline": "cs",
       "type": "news",
-      "title": "Patients give dental implants high marks after 40 years",
-      "authors": "Medical Xpress",
-      "abstract": "Nearly 40 years after receiving dental implants and crowns, patients remain highly satisfied with how well they function. Their views on appearance are more mixed, according to a study from the University of Gothenburg, Sweden.",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "authors": "TechCrunch AI",
+      "abstract": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
       "date": "2026-11-21",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-patients-dental-implants-high-years.html",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "patients",
-        "dental",
-        "implants",
-        "after",
-        "years",
-        "give",
-        "high",
-        "marks"
+        "face",
+        "this",
+        "microdrama",
+        "startup",
+        "hollywood",
+        "trend",
+        "selling",
+        "version"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.384909+00:00"
-    },
-    {
-      "id": "rss-81c432af2b89",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Improved mapping reveals location of small molecules in the brain",
-      "authors": "Medical Xpress",
-      "abstract": "Hsi-Chun Chao, a postdoctoral researcher at the Beckman Institute for Advanced Science and Technology at the University of Illinois Urbana-Champaign, developed a new methodology to map the locations of and differentiate nearly identical molecules in the brain.",
-      "date": "2026-11-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-reveals-small-molecules-brain.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "molecules",
-        "brain",
-        "improved",
-        "mapping",
-        "reveals",
-        "location",
-        "small",
-        "hsi-chun"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.385134+00:00"
-    },
-    {
-      "id": "rss-aa87be91d672",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Metastatic pancreatic cancer responds well to treatment with combination of daraxonrasib and chemotherapy",
-      "authors": "Medical Xpress",
-      "abstract": "Daraxonrasib combined with chemotherapy caused substantial tumor shrinkage in patients with pancreatic cancer that had spread to other parts of the body, according to new results from a Phase I/II clinical trial.",
-      "date": "2026-11-21",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-metastatic-pancreatic-cancer-treatment-combination.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "pancreatic",
-        "cancer",
-        "daraxonrasib",
-        "chemotherapy",
-        "metastatic",
-        "responds",
-        "well",
-        "treatment"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.385358+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.875691+00:00"
     },
     {
       "id": "rss-863c9f8b875a",
@@ -484,7 +548,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.411085+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.875804+00:00"
     },
     {
       "id": "rss-45c3a9fca5a8",
@@ -516,7 +580,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.411314+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.875904+00:00"
     },
     {
       "id": "rss-ad74b1be1b5f",
@@ -548,7 +612,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.411518+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.875996+00:00"
     },
     {
       "id": "rss-2053eb2c4e8e",
@@ -580,7 +644,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.411750+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.876125+00:00"
     },
     {
       "id": "rss-a00b564e9ced",
@@ -612,7 +676,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.411902+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.876208+00:00"
     },
     {
       "id": "rss-e33840ba0a35",
@@ -644,7 +708,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.412055+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.876293+00:00"
     },
     {
       "id": "rss-6c9461e5705a",
@@ -676,7 +740,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.412215+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.876384+00:00"
     },
     {
       "id": "rss-221852fdc1d5",
@@ -708,7 +772,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.483362+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.951108+00:00"
     },
     {
       "id": "rss-919b9e2571a0",
@@ -740,7 +804,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.483571+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.951213+00:00"
     },
     {
       "id": "rss-ed058fad0abe",
@@ -772,7 +836,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.483748+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.951314+00:00"
     },
     {
       "id": "rss-14aaaf5d0ed3",
@@ -804,7 +868,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.666362+00:00"
+      "_retrievedAt": "2026-11-21T19:09:42.057407+00:00"
     },
     {
       "id": "rss-5a60358e3818",
@@ -836,7 +900,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.412371+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.876488+00:00"
     },
     {
       "id": "rss-9474cc8a6e34",
@@ -868,7 +932,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.412565+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.876585+00:00"
     },
     {
       "id": "rss-90ba8f495f8d",
@@ -900,7 +964,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.412723+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.876676+00:00"
     },
     {
       "id": "rss-1d859dcd48b7",
@@ -932,7 +996,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.412900+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.876765+00:00"
     },
     {
       "id": "rss-546988986ef0",
@@ -964,71 +1028,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.413056+00:00"
-    },
-    {
-      "id": "rss-2b732832077d",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "authors": "TechCrunch AI",
-      "abstract": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
-      "date": "2026-11-19",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "they",
-        "never",
-        "muse",
-        "meta",
-        "agent",
-        "mixing",
-        "conversations",
-        "could"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.413247+00:00"
-    },
-    {
-      "id": "rss-adf1b7843b0c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "authors": "TechCrunch AI",
-      "abstract": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-      "date": "2026-11-19",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "everful",
-        "retailers",
-        "former",
-        "alibaba",
-        "exec",
-        "raises",
-        "connect",
-        "chinese"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.413409+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.876851+00:00"
     },
     {
       "id": "rss-38f03c05cd46",
@@ -1060,7 +1060,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.483922+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.951414+00:00"
     },
     {
       "id": "rss-3a9a5bd5a16e",
@@ -1092,7 +1092,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.484091+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.951552+00:00"
     },
     {
       "id": "rss-d64bb8f2ab80",
@@ -1124,7 +1124,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.484247+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.951650+00:00"
     },
     {
       "id": "rss-ba4aafa8c0e1",
@@ -1156,7 +1156,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.484403+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.951746+00:00"
     },
     {
       "id": "openalex-b11d43e8145b",
@@ -1188,7 +1188,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.773604+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.083500+00:00"
     },
     {
       "id": "rss-d75f12a13840",
@@ -1220,7 +1220,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.484584+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.951830+00:00"
     },
     {
       "id": "rss-226d0308c9bb",
@@ -1252,7 +1252,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.484753+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.951921+00:00"
     },
     {
       "id": "rss-a3318adbd022",
@@ -1284,7 +1284,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.484903+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.952006+00:00"
     },
     {
       "id": "rss-319b5da90ee2",
@@ -1316,7 +1316,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.485059+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.952093+00:00"
     },
     {
       "id": "rss-12f687e690a2",
@@ -1348,7 +1348,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.485220+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.952186+00:00"
     },
     {
       "id": "rss-00819e71329f",
@@ -1380,7 +1380,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.666585+00:00"
+      "_retrievedAt": "2026-11-21T19:09:42.057558+00:00"
     },
     {
       "id": "rss-52c6da3b3f36",
@@ -1412,7 +1412,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.666796+00:00"
+      "_retrievedAt": "2026-11-21T19:09:42.057679+00:00"
     },
     {
       "id": "rss-fc6b82df8ecb",
@@ -1444,7 +1444,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.485382+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.952278+00:00"
     },
     {
       "id": "rss-e45e2d28257c",
@@ -1476,7 +1476,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.485563+00:00"
+      "_retrievedAt": "2026-11-21T19:09:41.952371+00:00"
+    },
+    {
+      "id": "openalex-2f8ba3b4c4c1",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Seg2Change: Adapting Open-Vocabulary Semantic Segmentation Model for Remote Sensing Change Detection",
+      "authors": "You Su, Yonghong Song, Jingqi Chen, Zehan Wen",
+      "abstract": "Change detection is a fundamental task in remote sensing, aiming to quantify the impacts of human activities and ecological dynamics on land-cover changes. Existing change detection methods are limited to predefined classes in training datasets, which constrains their scalability in real-world scenarios. In recent years, numerous advanced open-vocabulary semantic segmentation models have emerged for remote sensing imagery. However, there is still a lack of an effective framework for directly applying these models to open-vocabulary change detection (OVCD), a novel task that integrates vision and language to detect changes across arbitrary categories. To address these challenges, we first construct a category-agnostic change detection dataset, termed CA-CDD. Further, we design a category-agnostic change head to detect the transitions of arbitrary categories and index them to specific c...",
+      "date": "2026-11-09",
+      "year": 2026,
+      "journal": "ACM International Conference on Multimedia (ACM MM)",
+      "source": "ACM International Conference on Multimedia (ACM MM)",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1145/3767308.3835468",
+      "doi": "10.1145/3767308.3835468",
+      "pdfUrl": "https://doi.org/10.1145/3767308.3835468",
+      "keywords": [
+        "Change detection",
+        "Computer science",
+        "Segmentation",
+        "Scalability",
+        "Task (project management)",
+        "Remote-Sensing Image Classification",
+        "Advanced Neural Network Applications",
+        "Remote Sensing and Land Use"
+      ],
+      "readTime": "1 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-21T19:09:38.929266+00:00"
     },
     {
       "id": "rss-ee3b71fee41a",
@@ -1508,7 +1540,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.667113+00:00"
+      "_retrievedAt": "2026-11-21T19:09:42.057880+00:00"
     },
     {
       "id": "rss-948f337f76fa",
@@ -1540,7 +1572,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.667355+00:00"
+      "_retrievedAt": "2026-11-21T19:09:42.058029+00:00"
     },
     {
       "id": "openalex-0b9047ccb233",
@@ -1568,11 +1600,11 @@ window.LIVE_FEED_DATA = {
         "Information and Cyber Security"
       ],
       "readTime": "2 min",
-      "citedBy": 501,
+      "citedBy": 507,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:25.208184+00:00"
+      "_retrievedAt": "2026-11-21T19:09:36.649920+00:00"
     },
     {
       "id": "openalex-e52cfab1b8d8",
@@ -1600,11 +1632,11 @@ window.LIVE_FEED_DATA = {
         "Teaching and Learning Programming"
       ],
       "readTime": "2 min",
-      "citedBy": 207,
+      "citedBy": 209,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:25.212105+00:00"
+      "_retrievedAt": "2026-11-21T19:09:36.652266+00:00"
     },
     {
       "id": "openalex-1460ec1614d2",
@@ -1632,11 +1664,11 @@ window.LIVE_FEED_DATA = {
         "Single-cell and spatial transcriptomics"
       ],
       "readTime": "1 min",
-      "citedBy": 17,
+      "citedBy": 18,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.035556+00:00"
+      "_retrievedAt": "2026-11-21T19:09:37.569646+00:00"
     },
     {
       "id": "rss-36da62e14d67",
@@ -1668,7 +1700,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.668015+00:00"
+      "_retrievedAt": "2026-11-21T19:09:42.058437+00:00"
     },
     {
       "id": "rss-0301f8db1aca",
@@ -1700,7 +1732,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.668203+00:00"
+      "_retrievedAt": "2026-11-21T19:09:42.058580+00:00"
     },
     {
       "id": "rss-5116d0089903",
@@ -1732,7 +1764,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.668388+00:00"
+      "_retrievedAt": "2026-11-21T19:09:42.058696+00:00"
     },
     {
       "id": "openalex-b76d52d91fce",
@@ -1764,7 +1796,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.034804+00:00"
+      "_retrievedAt": "2026-11-21T19:09:37.569372+00:00"
     },
     {
       "id": "rss-e8ad5f5a7f57",
@@ -1796,7 +1828,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.668999+00:00"
+      "_retrievedAt": "2026-11-21T19:09:42.059097+00:00"
     },
     {
       "id": "openalex-11b5190cd445",
@@ -1828,7 +1860,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:27.298074+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.927648+00:00"
     },
     {
       "id": "openalex-b9713b9a252a",
@@ -1860,7 +1892,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.033788+00:00"
+      "_retrievedAt": "2026-11-21T19:09:37.568742+00:00"
     },
     {
       "id": "openalex-818836e119b0",
@@ -1892,7 +1924,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:27.299901+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.928856+00:00"
     },
     {
       "id": "rss-8ccff313a082",
@@ -1923,7 +1955,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:31.669138+00:00"
+      "_retrievedAt": "2026-11-21T19:09:42.059178+00:00"
     },
     {
       "id": "openalex-cb3cbda06d84",
@@ -1951,11 +1983,11 @@ window.LIVE_FEED_DATA = {
         "Explainable Artificial Intelligence (XAI)"
       ],
       "readTime": "1 min",
-      "citedBy": 311,
+      "citedBy": 312,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:25.210276+00:00"
+      "_retrievedAt": "2026-11-21T19:09:36.651106+00:00"
     },
     {
       "id": "openalex-167b6533ff80",
@@ -1983,11 +2015,11 @@ window.LIVE_FEED_DATA = {
         "Genomics and Chromatin Dynamics"
       ],
       "readTime": "1 min",
-      "citedBy": 37,
+      "citedBy": 38,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.032427+00:00"
+      "_retrievedAt": "2026-11-21T19:09:37.567883+00:00"
     },
     {
       "id": "openalex-5ab5668168ae",
@@ -2019,7 +2051,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:27.298752+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.928093+00:00"
     },
     {
       "id": "openalex-8824f3740ac6",
@@ -2051,7 +2083,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.772798+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.082982+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2083,7 +2115,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.774742+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.084257+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -2111,11 +2143,11 @@ window.LIVE_FEED_DATA = {
         "Natural Language Processing Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 236,
+      "citedBy": 237,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:25.211580+00:00"
+      "_retrievedAt": "2026-11-21T19:09:36.651927+00:00"
     },
     {
       "id": "openalex-9ede209118a4",
@@ -2147,7 +2179,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.775755+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.084918+00:00"
     },
     {
       "id": "openalex-c40eb4a2963d",
@@ -2175,11 +2207,11 @@ window.LIVE_FEED_DATA = {
         "Face and Expression Recognition"
       ],
       "readTime": "1 min",
-      "citedBy": 21,
+      "citedBy": 22,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:27.296390+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.926523+00:00"
     },
     {
       "id": "openalex-84e3fa65288d",
@@ -2207,11 +2239,11 @@ window.LIVE_FEED_DATA = {
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 1036,
+      "citedBy": 1051,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:25.207693+00:00"
+      "_retrievedAt": "2026-11-21T19:09:36.649327+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -2243,7 +2275,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.775036+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.084697+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -2275,7 +2307,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:27.297379+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.927169+00:00"
     },
     {
       "id": "openalex-f5dc3633b103",
@@ -2307,7 +2339,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:25.213090+00:00"
+      "_retrievedAt": "2026-11-21T19:09:36.652914+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2339,7 +2371,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:27.295796+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.926096+00:00"
     },
     {
       "id": "openalex-4017ee65ef38",
@@ -2371,7 +2403,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.030486+00:00"
+      "_retrievedAt": "2026-11-21T19:09:37.566673+00:00"
     },
     {
       "id": "openalex-181683777d7b",
@@ -2399,11 +2431,11 @@ window.LIVE_FEED_DATA = {
         "Electronic Health Records Systems"
       ],
       "readTime": "3 min",
-      "citedBy": 75,
+      "citedBy": 76,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.771078+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.082024+00:00"
     },
     {
       "id": "openalex-648d6d3d6e7b",
@@ -2431,11 +2463,11 @@ window.LIVE_FEED_DATA = {
         "Ethics and Social Impacts of AI"
       ],
       "readTime": "1 min",
-      "citedBy": 181,
+      "citedBy": 182,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:25.212401+00:00"
+      "_retrievedAt": "2026-11-21T19:09:36.652471+00:00"
     },
     {
       "id": "openalex-88c8bbfa038c",
@@ -2467,7 +2499,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.772500+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.082787+00:00"
+    },
+    {
+      "id": "openalex-3dd652be759c",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Calibrated Decisions at Scale: Converting Police Crash Narratives into Probabilistic Crash Variables with a System One Model (Jev)",
+      "authors": "Amir Rafe, Subasish Das",
+      "abstract": "Crash datasets that carry an investigator narrative hold information the coded fields omit. Coding those narratives at scale has been blocked by three obstacles. Frontier large language models are costly at that scale, their generated text cannot be verified, and no rule says how much output a human must check. This paper formulates narrative coding as gated, typed decisions answered by Jev, a System One model that returns probabilities over analyst-defined options and generates no text. A screen covered 499,500 Texas narratives and 195,857 were coded with a 27-question schema. Cost is governed by schema size rather than narrative length. The probabilities are audited against coded fields and against 2,416 blinded human judgments drawn under a stated sampling design. Two frontier large language models are benchmarked on the same records. Against human labels the typed model attains an...",
+      "date": "2026-09-21",
+      "year": 2026,
+      "journal": "arXiv (Cornell University)",
+      "source": "arXiv (Cornell University)",
+      "sourceApi": "OpenAlex",
+      "url": "https://arxiv.org/abs/2609.24052",
+      "doi": "10.48550/arxiv.2609.24052",
+      "pdfUrl": "https://arxiv.org/pdf/2609.24052",
+      "keywords": [
+        "Narrative",
+        "Crash",
+        "Computer science",
+        "Language model",
+        "Probabilistic logic",
+        "Traffic and Road Safety",
+        "Artificial Intelligence in Law",
+        "Computational and Text Analysis Methods"
+      ],
+      "readTime": "1 min",
+      "citedBy": 15,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-21T19:09:38.085141+00:00"
     },
     {
       "id": "openalex-4b0e33566f22",
@@ -2499,7 +2563,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.773456+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.083403+00:00"
     },
     {
       "id": "openalex-cd41132c9d18",
@@ -2527,11 +2591,11 @@ window.LIVE_FEED_DATA = {
         "Research Data Management Practices"
       ],
       "readTime": "1 min",
-      "citedBy": 79,
+      "citedBy": 84,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.031014+00:00"
+      "_retrievedAt": "2026-11-21T19:09:37.566966+00:00"
     },
     {
       "id": "openalex-014e44b613fc",
@@ -2563,7 +2627,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:27.296120+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.926322+00:00"
     },
     {
       "id": "openalex-4eeff6704837",
@@ -2591,11 +2655,11 @@ window.LIVE_FEED_DATA = {
         "Medical Image Segmentation Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 8,
+      "citedBy": 9,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:27.300224+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.929074+00:00"
     },
     {
       "id": "openalex-8391e68a705c",
@@ -2627,7 +2691,39 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.773883+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.083704+00:00"
+    },
+    {
+      "id": "openalex-554ee5013027",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Generalized covariate field (GCF): spatial-pattern and neighbourhood-distribution feature expansion improves geospatial prediction",
+      "authors": "Yongze Song",
+      "abstract": "Spatial prediction forms the basis for decision-making in Earth and environmental sciences, yet prediction accuracy is constrained by spatial heterogeneity and sparse and uneven sampling. Existing methods commonly respond by increasing algorithmic complexity while underusing the spatial information embedded in the covariates themselves. This study develops the generalized covariate field (GCF) to expand the covariate space by deriving two families of spatial features without increasing model complexity. First, spatial pattern features characterize local spatial structure, including spatial dependence, heterogeneity, geocomplexity, multiscale variation and local outlyingness, and are transferable across space. Second, neighbourhood distribution features summarize covariates through multiscale operators with geoscientific meaning. The resulting high-dimensional features are then selecte...",
+      "date": "2026-09-10",
+      "year": 2026,
+      "journal": "International Journal of Geographical Information Systems",
+      "source": "International Journal of Geographical Information Systems",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1080/13658816.2026.2729719",
+      "doi": "10.1080/13658816.2026.2729719",
+      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/13658816.2026.2729719?needAccess=true",
+      "keywords": [
+        "Field (mathematics)",
+        "Covariate",
+        "Feature (linguistics)",
+        "Computer science",
+        "Geospatial analysis",
+        "Soil Geostatistics and Mapping",
+        "Spatial and Panel Data Analysis",
+        "Species Distribution and Climate Change"
+      ],
+      "readTime": "1 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-21T19:09:38.929491+00:00"
     },
     {
       "id": "openalex-bb23e4ef92cf",
@@ -2659,7 +2755,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.032765+00:00"
+      "_retrievedAt": "2026-11-21T19:09:37.568091+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2691,39 +2787,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:27.296955+00:00"
-    },
-    {
-      "id": "openalex-3d0d090d179c",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "ABCFlux v2: Arctic–boreal CO 2 and CH 4 monthly flux observations and ancillary information across terrestrial and freshwater ecosystems",
-      "authors": "Anna‐Maria Virkkala, Isabel K. Wargowsky, Judith Vogt, McKenzie A. Kuhn, Simran Madaan, Tiffany Windholz",
-      "abstract": "Measurements of surface-atmosphere carbon dioxide (CO 2 ) and methane (CH 4 ) fluxes have been relatively sparse across the Arctic tundra and boreal biomes, causing significant uncertainties in carbon budget estimates from the region. While the availability of Arctic-boreal carbon flux data has increased substantially over the past decade, the data have remained spread across different repositories, scientific articles, and unpublished sources, making it difficult to leverage. Here we present a new dataset of monthly Arctic-boreal carbon fluxes (ABCFlux v2) across terrestrial (wetlands and uplands) and freshwater (lakes and rivers) ecosystems compiled from previous syntheses including the Arctic-boreal CO 2 flux database (ABCFlux v1), the Boreal-Arctic Wetland and Lake Methane Dataset (BAWLD-CH4), and the Global River Methane Database (GRiMeDB). In addition, we consider data from gene...",
-      "date": "2026-09-03",
-      "year": 2026,
-      "journal": "Earth system science data",
-      "source": "Earth system science data",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5194/essd-18-6357-2026",
-      "doi": "10.5194/essd-18-6357-2026",
-      "pdfUrl": "https://essd.copernicus.org/articles/18/6357/2026/essd-18-6357-2026.pdf",
-      "keywords": [
-        "Eddy covariance",
-        "Environmental science",
-        "Flux (metallurgy)",
-        "Tundra",
-        "Ecosystem",
-        "Climate change and permafrost",
-        "Atmospheric and Environmental Gas Dynamics",
-        "Peatlands and Wetlands Ecology"
-      ],
-      "readTime": "2 min",
-      "citedBy": 8,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:27.300789+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.926883+00:00"
     },
     {
       "id": "openalex-7d5ef3fc71a6",
@@ -2751,11 +2815,11 @@ window.LIVE_FEED_DATA = {
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 357,
+      "citedBy": 359,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:25.209251+00:00"
+      "_retrievedAt": "2026-11-21T19:09:36.650386+00:00"
     },
     {
       "id": "openalex-518b9bf6cea9",
@@ -2783,11 +2847,11 @@ window.LIVE_FEED_DATA = {
         "Probability and Statistical Research"
       ],
       "readTime": "1 min",
-      "citedBy": 237,
+      "citedBy": 238,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:25.211169+00:00"
+      "_retrievedAt": "2026-11-21T19:09:36.651673+00:00"
     },
     {
       "id": "openalex-021b339d4b20",
@@ -2815,11 +2879,11 @@ window.LIVE_FEED_DATA = {
         "Advanced Graph Neural Networks"
       ],
       "readTime": "1 min",
-      "citedBy": 20,
+      "citedBy": 22,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:27.296692+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.926710+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2851,7 +2915,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:27.298422+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.927887+00:00"
     },
     {
       "id": "openalex-be864332263f",
@@ -2879,11 +2943,11 @@ window.LIVE_FEED_DATA = {
         "Machine Learning in Healthcare"
       ],
       "readTime": "1 min",
-      "citedBy": 47,
+      "citedBy": 53,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.771529+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.082317+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2911,11 +2975,11 @@ window.LIVE_FEED_DATA = {
         "T-cell and B-cell Immunology"
       ],
       "readTime": "1 min",
-      "citedBy": 55,
+      "citedBy": 57,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.031314+00:00"
+      "_retrievedAt": "2026-11-21T19:09:37.567159+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -2947,7 +3011,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.035141+00:00"
+      "_retrievedAt": "2026-11-21T19:09:37.569856+00:00"
     },
     {
       "id": "openalex-6e7aa9ad6862",
@@ -2975,11 +3039,11 @@ window.LIVE_FEED_DATA = {
         "Robot Manipulation and Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 390,
+      "citedBy": 398,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:25.208893+00:00"
+      "_retrievedAt": "2026-11-21T19:09:36.650144+00:00"
     },
     {
       "id": "openalex-514dbfd7d5d8",
@@ -3011,7 +3075,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.034160+00:00"
+      "_retrievedAt": "2026-11-21T19:09:37.568979+00:00"
     },
     {
       "id": "openalex-26237de6c6dd",
@@ -3039,11 +3103,11 @@ window.LIVE_FEED_DATA = {
         "Developmental Biology and Gene Regulation"
       ],
       "readTime": "1 min",
-      "citedBy": 41,
+      "citedBy": 44,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.032033+00:00"
+      "_retrievedAt": "2026-11-21T19:09:37.567611+00:00"
     },
     {
       "id": "openalex-6a5a22694e49",
@@ -3071,11 +3135,11 @@ window.LIVE_FEED_DATA = {
         "Smart Grid and Power Systems"
       ],
       "readTime": "1 min",
-      "citedBy": 175,
+      "citedBy": 181,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:25.212724+00:00"
+      "_retrievedAt": "2026-11-21T19:09:36.652670+00:00"
     },
     {
       "id": "openalex-506180faa30c",
@@ -3107,7 +3171,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.033105+00:00"
+      "_retrievedAt": "2026-11-21T19:09:37.568309+00:00"
     },
     {
       "id": "openalex-5d6d48b88b97",
@@ -3139,7 +3203,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.034504+00:00"
+      "_retrievedAt": "2026-11-21T19:09:37.569185+00:00"
     },
     {
       "id": "openalex-50c318e007c8",
@@ -3167,11 +3231,11 @@ window.LIVE_FEED_DATA = {
         "Robotic Locomotion and Control"
       ],
       "readTime": "1 min",
-      "citedBy": 338,
+      "citedBy": 344,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:25.209984+00:00"
+      "_retrievedAt": "2026-11-21T19:09:36.650668+00:00"
     },
     {
       "id": "openalex-df09ae142fc6",
@@ -3199,43 +3263,11 @@ window.LIVE_FEED_DATA = {
         "Chromatin Remodeling and Cancer"
       ],
       "readTime": "1 min",
-      "citedBy": 17,
+      "citedBy": 18,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.035894+00:00"
-    },
-    {
-      "id": "openalex-dbb3c4b557e9",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "The Virtual Tissues foundation model resolves spatial proteomics across scales",
-      "authors": "Johann Wenckstern, Eeshaan Jain, Benedikt von Querfurth, Yexiang Cheng, Kiril Vasilev, Matteo Pariset",
-      "abstract": "Spatial proteomics technologies have transformed our understanding of complex tissue architecture in cancer but present unique challenges for computational analysis 1 . Each study uses a different marker panel and protocol, and most methods are tailored to single cohorts, which limits knowledge transfer and robust biomarker discovery. Here we present Virtual Tissues (VirTues), a general-purpose foundation model for spatial proteomics that learns marker-aware, multi-scale representations of proteins, cells, niches and tissues directly from multiplex imaging data. From a single pretrained backbone, VirTues supports marker reconstruction, cell segmentation and typing, niche annotation, spatial biomarker discovery and patient stratification, including zero-shot annotation across heterogeneous panels and datasets. In triple-negative breast cancer, VirTues-derived biomarkers predict anti-PD...",
-      "date": "2026-08-05",
-      "year": 2026,
-      "journal": "Nature",
-      "source": "Nature",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1038/s41586-026-10884-y",
-      "doi": "10.1038/s41586-026-10884-y",
-      "pdfUrl": "https://doi.org/10.1038/s41586-026-10884-y",
-      "keywords": [
-        "Proteomics",
-        "Computer science",
-        "Annotation",
-        "Biomarker",
-        "Multiplex",
-        "Single-cell and spatial transcriptomics",
-        "Cell Image Analysis Techniques",
-        "AI in cancer detection"
-      ],
-      "readTime": "1 min",
-      "citedBy": 36,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.771813+00:00"
+      "_retrievedAt": "2026-11-21T19:09:37.570058+00:00"
     },
     {
       "id": "openalex-9848aacf7bb1",
@@ -3263,11 +3295,11 @@ window.LIVE_FEED_DATA = {
         "Chromatin Remodeling and Cancer"
       ],
       "readTime": "1 min",
-      "citedBy": 16,
+      "citedBy": 17,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.775392+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.084500+00:00"
     },
     {
       "id": "openalex-8f980c3bafcc",
@@ -3295,11 +3327,11 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence in Healthcare and Education"
       ],
       "readTime": "1 min",
-      "citedBy": 14,
+      "citedBy": 15,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:27.297691+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.927359+00:00"
     },
     {
       "id": "openalex-838b1babffe0",
@@ -3331,7 +3363,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:25.210605+00:00"
+      "_retrievedAt": "2026-11-21T19:09:36.651289+00:00"
     },
     {
       "id": "openalex-23e74f3e558d",
@@ -3363,7 +3395,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.774203+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.083921+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -3391,11 +3423,11 @@ window.LIVE_FEED_DATA = {
         "Genetic Associations and Epidemiology"
       ],
       "readTime": "1 min",
-      "citedBy": 45,
+      "citedBy": 46,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.031671+00:00"
+      "_retrievedAt": "2026-11-21T19:09:37.567355+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -3423,11 +3455,11 @@ window.LIVE_FEED_DATA = {
         "Cancer Genomics and Diagnostics"
       ],
       "readTime": "1 min",
-      "citedBy": 33,
+      "citedBy": 34,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.033488+00:00"
+      "_retrievedAt": "2026-11-21T19:09:37.568558+00:00"
     },
     {
       "id": "openalex-7d24a7f15d87",
@@ -3459,39 +3491,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:27.299057+00:00"
-    },
-    {
-      "id": "openalex-1c9a2db2e54e",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Spatiotemporal modelling of soil organic carbon: integrating process-based and machine learning approaches",
-      "authors": "Yuanyuan Du, Budiman Minasny, Wartini Ng, Lei Zhang, Nicolas Saby, Yue Zhou",
-      "abstract": "Soil organic carbon (SOC) underpins the global carbon cycle and represents a central lever for climate change mitigation and food security. Yet its accurate spatiotemporal quantification remains a challenge, owing to the complex interactions among biological, chemical and physical processes operating across scales. This review critically evaluates the current state of SOC spatiotemporal modelling frameworks and their limitations, and future directions. Process-based models provide mechanistic insight into carbon dynamics but are constrained by parameterisation, structural assumptions and computational demands. In contrast, machine-learning (ML) approaches excel at capturing spatial patterns from large datasets but often struggle to represent temporal kinetics, enforce physical consistency or generalise across scales and environmental contexts. We argue that the next generation of SOC...",
-      "date": "2026-07-30",
-      "year": 2026,
-      "journal": "Geoderma",
-      "source": "Geoderma",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.geoderma.2026.117967",
-      "doi": "10.1016/j.geoderma.2026.117967",
-      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S0016706126002958/pdf",
-      "keywords": [
-        "Computer science",
-        "Data assimilation",
-        "Machine learning",
-        "Consistency (knowledge bases)",
-        "Artificial intelligence",
-        "Soil Geostatistics and Mapping",
-        "Soil Carbon and Nitrogen Dynamics",
-        "Soil and Environmental Studies"
-      ],
-      "readTime": "1 min",
-      "citedBy": 8,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:27.301125+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.928292+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -3519,11 +3519,11 @@ window.LIVE_FEED_DATA = {
         "Topic Modeling"
       ],
       "readTime": "1 min",
-      "citedBy": 248,
+      "citedBy": 252,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:25.210929+00:00"
+      "_retrievedAt": "2026-11-21T19:09:36.651502+00:00"
     },
     {
       "id": "openalex-26e8fbfaec61",
@@ -3551,11 +3551,11 @@ window.LIVE_FEED_DATA = {
         "Advanced Neural Network Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 493,
+      "citedBy": 513,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:25.208541+00:00"
+      "_retrievedAt": "2026-11-21T19:09:36.649607+00:00"
     },
     {
       "id": "openalex-1a4374889b53",
@@ -3583,11 +3583,11 @@ window.LIVE_FEED_DATA = {
         "Artificial Intelligence Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 339,
+      "citedBy": 341,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:25.209637+00:00"
+      "_retrievedAt": "2026-11-21T19:09:36.650913+00:00"
     },
     {
       "id": "openalex-65254d753054",
@@ -3619,7 +3619,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:26.774525+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.084123+00:00"
     },
     {
       "id": "openalex-f4959844837a",
@@ -3651,7 +3651,7 @@ window.LIVE_FEED_DATA = {
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T06:59:27.299490+00:00"
+      "_retrievedAt": "2026-11-21T19:09:38.928582+00:00"
     }
   ]
 };
