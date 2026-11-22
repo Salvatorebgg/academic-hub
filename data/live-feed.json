@@ -1,11 +1,43 @@
 {
-  "generatedAt": "2026-11-21T19:09:42.315553+00:00",
-  "total": 114,
+  "generatedAt": "2026-11-22T06:40:10.515579+00:00",
+  "total": 113,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-cb4d1ad05ccf",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New structures come into view in brain wiring maps",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at Harvard Medical School and the University of California San Diego have sped up a powerful imaging technique enough to map, for the first time, large volumes of brain tissue in nanoscale detail. The approach reveals fine structures that brain wiring maps, known as connectomes, can miss.",
+      "date": "2026-11-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-view-brain-wiring.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "structures",
+        "wiring",
+        "maps",
+        "come",
+        "view",
+        "researchers",
+        "harvard"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-22T06:40:10.060881+00:00"
+    },
     {
       "id": "rss-d9e023e9a910",
       "discipline": "clinical",
@@ -13,7 +45,7 @@
       "title": "Stress and anxiety are wearing workers down: How to spot your triggers and cope",
       "authors": "Medical Xpress",
       "abstract": "Workplace stress and anxiety. Who hasn't experienced it?",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -36,7 +68,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.832810+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.061056+00:00"
     },
     {
       "id": "rss-cfa74a0cb430",
@@ -45,7 +77,7 @@
       "title": "Alcohol may weaken cancer immunotherapy, early research suggests",
       "authors": "Medical Xpress",
       "abstract": "Cancer immunotherapy has transformed treatment for several advanced cancers, yet the difference between these treatments working and not could depend on simple routine habits. A recent study published in Science Signaling explores one such overlooked factor: regular alcohol consumption.",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -68,7 +100,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.832982+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.061224+00:00"
     },
     {
       "id": "rss-db7108016594",
@@ -77,7 +109,7 @@
       "title": "Despite soaring demand for GLP-1s, many eligible patients are unable to access these drugs for weight loss",
       "authors": "Medical Xpress",
       "abstract": "In just a few short years, glucagon-like peptide-1 (GLP-1) receptor agonists have surged in popularity across the United States, transforming from specialized treatments for type 2 diabetes into revolutionary therapeutics for weight management, cardiovascular health and other emerging uses. But not all populations are benefiting from this expansion. As GLP-1 use has increased, disparities in access to these drugs have widened significantly, according to a new study led by researchers at Boston University School of Public Health (BUSPH).",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -100,7 +132,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.833172+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.061430+00:00"
     },
     {
       "id": "rss-ba1a3b4124b6",
@@ -109,7 +141,7 @@
       "title": "Giving patients a greater voice in their diabetes care",
       "authors": "Medical Xpress",
       "abstract": "In two related papers published in JAMA Network Open and the Journal of General Internal Medicine, Kasia Lipska, M.D., associate professor of medicine (endocrinology) at Yale School of Medicine (YSM) and her colleagues tested a new approach to incorporating patients' priorities into their diabetes care.",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -132,7 +164,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.833316+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.061588+00:00"
     },
     {
       "id": "rss-a9fa9e685243",
@@ -141,7 +173,7 @@
       "title": "Upskilling health professionals to deliver emotional well-being support for people with diabetes",
       "authors": "Medical Xpress",
       "abstract": "For more than 1.5 million Australians living with diabetes, managing their condition is a relentless, 24-hour responsibility. Day after day, people are required to make decisions about medications, glucose monitoring, food, physical activity and other aspects of their care—largely outside the health care system.",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -164,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.833498+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.061804+00:00"
     },
     {
       "id": "rss-f2fe74e09f24",
@@ -173,7 +205,7 @@
       "title": "Major data gap for gut disorders leaves Aotearoa in the dark",
       "authors": "Medical Xpress",
       "abstract": "A lack of up-to-date New Zealand research into common gut disorders means the country is effectively flying blind on conditions that may affect about 1 in 3 adults, University of Otago research suggests.",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -196,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.833637+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.061959+00:00"
     },
     {
       "id": "rss-0fc184fe4a8d",
@@ -205,7 +237,7 @@
       "title": "'Pan-RAS molecular glue' is a safe and effective treatment for lung and pancreatic cancers",
       "authors": "Medical Xpress",
       "abstract": "Results from the AURORAS-1 Phase I clinical trial of an anticancer drug called ERAS-0015 have shown that it is safe and has caused tumors to shrink in hard-to-treat diseases such as lung and pancreatic cancer.",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -228,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.833774+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.062112+00:00"
     },
     {
       "id": "rss-c07e79278c34",
@@ -237,7 +269,7 @@
       "title": "Mental health diagnoses rise with medical complexity, chronicity in children",
       "authors": "Medical Xpress",
       "abstract": "The prevalence of mental health (MH) diagnoses increases with increasing medical complexity and chronicity in Medicaid-enrolled children, according to a study published in Pediatrics.",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -260,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.833898+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.062251+00:00"
     },
     {
       "id": "rss-bcba9a8e41d5",
@@ -269,7 +301,7 @@
       "title": "Flu vaccine effectiveness often weaker than advertised, study finds",
       "authors": "Medical Xpress",
       "abstract": "New research suggests health officials may be overselling the protective power of the annual flu shot—but that doesn't mean folks should skip it, researchers added. The new analysis finds the influenza vaccine is often less protective than the 40% to 60% effectiveness against infection that's routinely stated, according to researchers from the University of Maryland.",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -292,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.834056+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.062440+00:00"
     },
     {
       "id": "rss-9ac0650591e5",
@@ -301,7 +333,7 @@
       "title": "Your genes might boost risk for high cholesterol",
       "authors": "Medical Xpress",
       "abstract": "Frustrated that your cholesterol levels aren't budging for the better? You may have your genes to blame, a new study finds.",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -324,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.834172+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.062585+00:00"
     },
     {
       "id": "rss-8a501bc03692",
@@ -333,7 +365,7 @@
       "title": "Hair pulling, skin picking and nail biting are common in young people and cause significant distress",
       "authors": "Medical Xpress",
       "abstract": "The study found that body-focused repetitive behaviors (BFRBs), as they are known, can be a significant source of distress, particularly among young people who also experienced anxiety, depression and bullying.",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -356,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.834299+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.062768+00:00"
     },
     {
       "id": "rss-59afb88c6857",
@@ -365,7 +397,7 @@
       "title": "Less than half of TikTok videos on RSV prevention offer high-quality info, paper notes",
       "authors": "Medical Xpress",
       "abstract": "Many people rely on social media to learn more about health conditions and trends. A study published in Vaccine that examined TikTok videos about respiratory syncytial virus (RSV) prevention—including the maternal vaccine (Abrysvo) and the long-acting antibody nirsevimab (Beyfortus) for infants—finds that only 47% present high-quality information.",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -388,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.834464+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.062959+00:00"
     },
     {
       "id": "rss-c2c851ebda54",
@@ -397,7 +429,7 @@
       "title": "Alcohol addiction and eating disorders often go hand in hand—here's why",
       "authors": "Medical Xpress",
       "abstract": "When some people drink, they purposely skip meals in order to amplify the effects of the alcohol or to save calories for their drinks. The practice, sometimes referred to as \"drunkorexia,\" highlights the crossover that can exist between risky drinking behavior and disordered eating.",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
@@ -420,39 +452,71 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.834616+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.063129+00:00"
     },
     {
-      "id": "rss-49949e213dc3",
-      "discipline": "clinical",
+      "id": "rss-47801ca6cf9f",
+      "discipline": "cs",
       "type": "news",
-      "title": "Commonly used drug kills leukemia cells early by acting mainly on RNA, not DNA",
-      "authors": "Medical Xpress",
-      "abstract": "For more than two decades, azacitidine has been a major treatment for blood cancers such as high-risk myelodysplastic syndromes (MDS) and acute myeloid leukemia (AML). The drug was thought to work through DNA, by stripping off the chemical tags that keep genes silenced and allowing those genes to switch back on.",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "authors": "TechCrunch AI",
+      "abstract": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
       "date": "2026-11-21",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-commonly-drug-leukemia-cells-early.html",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "drug",
-        "leukemia",
-        "genes",
-        "commonly",
-        "used",
-        "kills",
-        "cells",
-        "early"
+        "signal",
+        "screenshots",
+        "restricts",
+        "mobile",
+        "confronts",
+        "existential",
+        "threat",
+        "surveillance"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.834758+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.108143+00:00"
+    },
+    {
+      "id": "rss-1bbbe9039b86",
+      "discipline": "cs",
+      "type": "news",
+      "title": "A tale of two Nvidias",
+      "authors": "TechCrunch AI",
+      "abstract": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "date": "2026-11-21",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "tale",
+        "nvidias",
+        "very",
+        "different",
+        "pictures",
+        "nvidia",
+        "company",
+        "latest"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-22T06:40:10.108301+00:00"
     },
     {
       "id": "rss-6da6210085dd",
@@ -484,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.875531+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.108422+00:00"
     },
     {
       "id": "rss-e1b4f23fd942",
@@ -516,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.875691+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.108552+00:00"
     },
     {
       "id": "rss-863c9f8b875a",
@@ -548,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.875804+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.108669+00:00"
     },
     {
       "id": "rss-45c3a9fca5a8",
@@ -580,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.875904+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.108800+00:00"
     },
     {
       "id": "rss-ad74b1be1b5f",
@@ -612,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.875996+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.108906+00:00"
     },
     {
       "id": "rss-2053eb2c4e8e",
@@ -644,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.876125+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.109054+00:00"
     },
     {
       "id": "rss-a00b564e9ced",
@@ -676,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.876208+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.109148+00:00"
     },
     {
       "id": "rss-e33840ba0a35",
@@ -708,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.876293+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.109247+00:00"
     },
     {
       "id": "rss-6c9461e5705a",
@@ -740,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.876384+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.109351+00:00"
     },
     {
       "id": "rss-221852fdc1d5",
@@ -772,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.951108+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.187347+00:00"
     },
     {
       "id": "rss-919b9e2571a0",
@@ -804,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.951213+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.187474+00:00"
     },
     {
       "id": "rss-ed058fad0abe",
@@ -836,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.951314+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.187594+00:00"
     },
     {
       "id": "rss-14aaaf5d0ed3",
@@ -868,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:42.057407+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.408164+00:00"
     },
     {
       "id": "rss-5a60358e3818",
@@ -900,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.876488+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.109452+00:00"
     },
     {
       "id": "rss-9474cc8a6e34",
@@ -932,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.876585+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.109558+00:00"
     },
     {
       "id": "rss-90ba8f495f8d",
@@ -964,71 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.876676+00:00"
-    },
-    {
-      "id": "rss-1d859dcd48b7",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "authors": "TechCrunch AI",
-      "abstract": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "date": "2026-11-19",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "anthropic",
-        "could",
-        "deliver",
-        "charity",
-        "stock",
-        "price",
-        "frontier",
-        "public"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.876765+00:00"
-    },
-    {
-      "id": "rss-546988986ef0",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "authors": "TechCrunch AI",
-      "abstract": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "date": "2026-11-19",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "google",
-        "gemini",
-        "gives",
-        "ability",
-        "your",
-        "latest",
-        "update",
-        "brings"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.876851+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.109666+00:00"
     },
     {
       "id": "rss-38f03c05cd46",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.951414+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.187737+00:00"
     },
     {
       "id": "rss-3a9a5bd5a16e",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.951552+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.187860+00:00"
     },
     {
       "id": "rss-d64bb8f2ab80",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.951650+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.187963+00:00"
     },
     {
       "id": "rss-ba4aafa8c0e1",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.951746+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.188063+00:00"
     },
     {
       "id": "openalex-b11d43e8145b",
@@ -1188,7 +1188,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.083500+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.173658+00:00"
     },
     {
       "id": "rss-d75f12a13840",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.951830+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.188158+00:00"
     },
     {
       "id": "rss-226d0308c9bb",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.951921+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.188265+00:00"
     },
     {
       "id": "rss-a3318adbd022",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.952006+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.188361+00:00"
     },
     {
       "id": "rss-319b5da90ee2",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.952093+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.188459+00:00"
     },
     {
       "id": "rss-12f687e690a2",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.952186+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.188565+00:00"
     },
     {
       "id": "rss-00819e71329f",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:42.057558+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.408305+00:00"
     },
     {
       "id": "rss-52c6da3b3f36",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:42.057679+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.408443+00:00"
     },
     {
       "id": "rss-fc6b82df8ecb",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.952278+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.188669+00:00"
     },
     {
       "id": "rss-e45e2d28257c",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:41.952371+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.188795+00:00"
     },
     {
       "id": "openalex-2f8ba3b4c4c1",
@@ -1508,7 +1508,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.929266+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.534858+00:00"
     },
     {
       "id": "rss-ee3b71fee41a",
@@ -1540,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:42.057880+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.408683+00:00"
     },
     {
       "id": "rss-948f337f76fa",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:42.058029+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.408886+00:00"
     },
     {
       "id": "openalex-0b9047ccb233",
@@ -1604,7 +1604,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:36.649920+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.499580+00:00"
     },
     {
       "id": "openalex-e52cfab1b8d8",
@@ -1636,7 +1636,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:36.652266+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.501983+00:00"
     },
     {
       "id": "openalex-1460ec1614d2",
@@ -1668,7 +1668,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:37.569646+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.830355+00:00"
     },
     {
       "id": "rss-36da62e14d67",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:42.058437+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.409369+00:00"
     },
     {
       "id": "rss-0301f8db1aca",
@@ -1732,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:42.058580+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.409500+00:00"
     },
     {
       "id": "rss-5116d0089903",
@@ -1764,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:42.058696+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.409624+00:00"
     },
     {
       "id": "openalex-b76d52d91fce",
@@ -1796,7 +1796,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:37.569372+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.830063+00:00"
     },
     {
       "id": "rss-e8ad5f5a7f57",
@@ -1828,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:42.059097+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.410101+00:00"
     },
     {
       "id": "openalex-11b5190cd445",
@@ -1860,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.927648+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.533308+00:00"
     },
     {
       "id": "openalex-b9713b9a252a",
@@ -1892,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:37.568742+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.829352+00:00"
     },
     {
       "id": "openalex-818836e119b0",
@@ -1924,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.928856+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.534385+00:00"
     },
     {
       "id": "rss-8ccff313a082",
@@ -1955,7 +1955,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:42.059178+00:00"
+      "_retrievedAt": "2026-11-22T06:40:10.410194+00:00"
     },
     {
       "id": "openalex-cb3cbda06d84",
@@ -1987,7 +1987,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:36.651106+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.500630+00:00"
     },
     {
       "id": "openalex-167b6533ff80",
@@ -2019,7 +2019,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:37.567883+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.828400+00:00"
     },
     {
       "id": "openalex-5ab5668168ae",
@@ -2051,7 +2051,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.928093+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.533826+00:00"
     },
     {
       "id": "openalex-8824f3740ac6",
@@ -2083,7 +2083,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.082982+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.173094+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2115,7 +2115,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.084257+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.174331+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -2147,7 +2147,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:36.651927+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.501550+00:00"
     },
     {
       "id": "openalex-9ede209118a4",
@@ -2179,7 +2179,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.084918+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.175087+00:00"
     },
     {
       "id": "openalex-c40eb4a2963d",
@@ -2211,7 +2211,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.926523+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.532025+00:00"
     },
     {
       "id": "openalex-84e3fa65288d",
@@ -2243,7 +2243,7 @@
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:36.649327+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.498905+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -2275,7 +2275,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.084697+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.174831+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -2307,7 +2307,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.927169+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.532784+00:00"
     },
     {
       "id": "openalex-f5dc3633b103",
@@ -2339,7 +2339,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:36.652914+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.502755+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2371,7 +2371,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.926096+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.531549+00:00"
     },
     {
       "id": "openalex-4017ee65ef38",
@@ -2403,7 +2403,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:37.566673+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.827074+00:00"
     },
     {
       "id": "openalex-181683777d7b",
@@ -2435,7 +2435,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.082024+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.172018+00:00"
     },
     {
       "id": "openalex-648d6d3d6e7b",
@@ -2467,7 +2467,39 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:36.652471+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.502205+00:00"
+    },
+    {
+      "id": "openalex-9a39b97a87a9",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Aristotle: IMO-level Automated Theorem Proving",
+      "authors": "Tudor Achim, Alex J. Best, Alberto Bietti, Kevin Der, Mathïs Fédérico, Sergei Gukov",
+      "abstract": "We introduce Aristotle, an AI system that combines formal verification with informal reasoning, achieving gold-medal-equivalent performance on the 2025 International Mathematical Olympiad problems. Aristotle integrates three main components: a Lean proof search system, an informal reasoning system that generates and formalizes lemmas, and a dedicated geometry solver. Our system demonstrates state-of-the-art performance with favorable scaling properties for automated theorem proving.",
+      "date": "2026-09-25",
+      "year": 2026,
+      "journal": "SuperIntelligence - Robotics - Safety & Alignment",
+      "source": "SuperIntelligence - Robotics - Safety & Alignment",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.70777/si.v3i3.18745",
+      "doi": "10.70777/si.v3i3.18745",
+      "pdfUrl": "https://doi.org/10.70777/si.v3i3.18745",
+      "keywords": [
+        "Automated theorem proving",
+        "Computer science",
+        "Automated reasoning",
+        "Olympiad",
+        "Automated proof checking",
+        "Logic, programming, and type systems",
+        "Formal Methods in Verification",
+        "Mathematics, Computing, and Information Processing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 159,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-22T06:40:05.502923+00:00"
     },
     {
       "id": "openalex-88c8bbfa038c",
@@ -2499,7 +2531,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.082787+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.172877+00:00"
     },
     {
       "id": "openalex-3dd652be759c",
@@ -2531,7 +2563,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.085141+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.175335+00:00"
     },
     {
       "id": "openalex-4b0e33566f22",
@@ -2563,7 +2595,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.083403+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.173563+00:00"
     },
     {
       "id": "openalex-cd41132c9d18",
@@ -2595,7 +2627,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:37.566966+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.827405+00:00"
     },
     {
       "id": "openalex-014e44b613fc",
@@ -2627,7 +2659,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.926322+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.531818+00:00"
     },
     {
       "id": "openalex-4eeff6704837",
@@ -2659,7 +2691,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.929074+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.534630+00:00"
     },
     {
       "id": "openalex-8391e68a705c",
@@ -2691,7 +2723,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.083704+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.173941+00:00"
     },
     {
       "id": "openalex-554ee5013027",
@@ -2723,7 +2755,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.929491+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.535102+00:00"
     },
     {
       "id": "openalex-bb23e4ef92cf",
@@ -2755,7 +2787,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:37.568091+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.828633+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2787,7 +2819,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.926883+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.532438+00:00"
+    },
+    {
+      "id": "openalex-3d0d090d179c",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "ABCFlux v2: Arctic–boreal CO 2 and CH 4 monthly flux observations and ancillary information across terrestrial and freshwater ecosystems",
+      "authors": "Anna‐Maria Virkkala, Isabel K. Wargowsky, Judith Vogt, McKenzie A. Kuhn, Simran Madaan, Tiffany Windholz",
+      "abstract": "Measurements of surface-atmosphere carbon dioxide (CO 2 ) and methane (CH 4 ) fluxes have been relatively sparse across the Arctic tundra and boreal biomes, causing significant uncertainties in carbon budget estimates from the region. While the availability of Arctic-boreal carbon flux data has increased substantially over the past decade, the data have remained spread across different repositories, scientific articles, and unpublished sources, making it difficult to leverage. Here we present a new dataset of monthly Arctic-boreal carbon fluxes (ABCFlux v2) across terrestrial (wetlands and uplands) and freshwater (lakes and rivers) ecosystems compiled from previous syntheses including the Arctic-boreal CO 2 flux database (ABCFlux v1), the Boreal-Arctic Wetland and Lake Methane Dataset (BAWLD-CH4), and the Global River Methane Database (GRiMeDB). In addition, we consider data from gene...",
+      "date": "2026-09-03",
+      "year": 2026,
+      "journal": "Earth system science data",
+      "source": "Earth system science data",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.5194/essd-18-6357-2026",
+      "doi": "10.5194/essd-18-6357-2026",
+      "pdfUrl": "https://essd.copernicus.org/articles/18/6357/2026/essd-18-6357-2026.pdf",
+      "keywords": [
+        "Eddy covariance",
+        "Environmental science",
+        "Flux (metallurgy)",
+        "Tundra",
+        "Ecosystem",
+        "Climate change and permafrost",
+        "Atmospheric and Environmental Gas Dynamics",
+        "Peatlands and Wetlands Ecology"
+      ],
+      "readTime": "2 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-22T06:40:06.535530+00:00"
     },
     {
       "id": "openalex-7d5ef3fc71a6",
@@ -2819,7 +2883,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:36.650386+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.500146+00:00"
     },
     {
       "id": "openalex-518b9bf6cea9",
@@ -2851,7 +2915,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:36.651673+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.501265+00:00"
     },
     {
       "id": "openalex-021b339d4b20",
@@ -2883,7 +2947,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.926710+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.532240+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2915,7 +2979,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.927887+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.533574+00:00"
     },
     {
       "id": "openalex-be864332263f",
@@ -2947,7 +3011,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.082317+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.172350+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -2979,7 +3043,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:37.567159+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.827625+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -3011,7 +3075,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:37.569856+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.830595+00:00"
     },
     {
       "id": "openalex-6e7aa9ad6862",
@@ -3043,7 +3107,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:36.650144+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.499863+00:00"
     },
     {
       "id": "openalex-514dbfd7d5d8",
@@ -3075,7 +3139,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:37.568979+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.829612+00:00"
     },
     {
       "id": "openalex-26237de6c6dd",
@@ -3107,7 +3171,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:37.567611+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.828114+00:00"
     },
     {
       "id": "openalex-6a5a22694e49",
@@ -3139,7 +3203,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:36.652670+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.502440+00:00"
     },
     {
       "id": "openalex-506180faa30c",
@@ -3171,7 +3235,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:37.568309+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.828885+00:00"
     },
     {
       "id": "openalex-5d6d48b88b97",
@@ -3203,7 +3267,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:37.569185+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.829857+00:00"
     },
     {
       "id": "openalex-50c318e007c8",
@@ -3235,7 +3299,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:36.650668+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.500409+00:00"
     },
     {
       "id": "openalex-df09ae142fc6",
@@ -3267,7 +3331,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:37.570058+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.830848+00:00"
     },
     {
       "id": "openalex-9848aacf7bb1",
@@ -3299,11 +3363,11 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.084500+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.174595+00:00"
     },
     {
       "id": "openalex-8f980c3bafcc",
-      "discipline": "geo",
+      "discipline": "clinical",
       "type": "paper",
       "title": "AI for science: Progress, challenges, and perspectives",
       "authors": "Yongjun Xu, Zezhi Shao, Xin Liu, Yuquan Li, Zhulin An, Chenguang Fu",
@@ -3331,7 +3395,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.927359+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.175549+00:00"
     },
     {
       "id": "openalex-838b1babffe0",
@@ -3363,7 +3427,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:36.651289+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.500858+00:00"
     },
     {
       "id": "openalex-23e74f3e558d",
@@ -3395,7 +3459,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.083921+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.174185+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -3427,7 +3491,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:37.567355+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.827862+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -3459,7 +3523,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:37.568558+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.829150+00:00"
     },
     {
       "id": "openalex-7d24a7f15d87",
@@ -3491,7 +3555,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.928292+00:00"
+      "_retrievedAt": "2026-11-22T06:40:06.534073+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -3523,7 +3587,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:36.651502+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.501091+00:00"
     },
     {
       "id": "openalex-26e8fbfaec61",
@@ -3555,103 +3619,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:36.649607+00:00"
-    },
-    {
-      "id": "openalex-1a4374889b53",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Exploring Large Language Model‐Based Intelligent Agents: Definitions, Methods, and Prospects",
-      "authors": "Yuheng Cheng, Ceyao Zhang, Zhengwen Zhang, Xiangrui Meng, Sirui Hong, Wenhao Li",
-      "abstract": "The concept of the intelligent agent represents a long‐standing pursuit in artificial intelligence. Recent breakthroughs in large language models (LLMs) have catalyzed a paradigm shift, enabling the development of sophisticated agents that exhibit advanced reasoning, planning, and tool‐use capabilities across diverse domains. These LLM‐based agents, which leverage natural language as a universal interface for cognition and interaction, are rapidly advancing from theoretical constructs to practical applications, ranging from autonomous task assistants to complex multi‐agent simulations of social and economic systems. This paper provides an integrative survey of this burgeoning field. We first establish an organizing framework for understanding LLM‐based agents, systematically deconstructing both single‐agent and multi‐agent systems into their core components. We analyze the architectur...",
-      "date": "2026-07-24",
-      "year": 2026,
-      "journal": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
-      "source": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1002/widm.70111",
-      "doi": "10.1002/widm.70111",
-      "pdfUrl": "https://arxiv.org/pdf/2401.03428",
-      "keywords": [
-        "Computer science",
-        "Implementation",
-        "Interface (matter)",
-        "Natural language",
-        "Natural language understanding",
-        "Multi-Agent Systems and Negotiation",
-        "AI-based Problem Solving and Planning",
-        "Artificial Intelligence Applications"
-      ],
-      "readTime": "1 min",
-      "citedBy": 341,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:36.650913+00:00"
-    },
-    {
-      "id": "openalex-65254d753054",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Toward comprehensive cellular characterization of H&E slides",
-      "authors": "Benjamin Adjadj, Pierre‐Antoine Bannier, Guillaume Horent, Sebastien Mandela, Gary Klajer, Aurore Lyon",
-      "abstract": "Cell detection, segmentation, and classification are essential for analyzing tumor microenvironments (TME) on hematoxylin and eosin (H&E) slides. Existing methods suffer from poor performance on understudied cell types (rare or not present in public datasets) and limited cross-domain generalization. To address these shortcomings, we introduce HistoPLUS, a state-of-the-art model for cell analysis, trained on a novel curated pan-cancer dataset of 108,722 nuclei covering 13 cell types. In external validation across 4 independent cohorts, HistoPLUS outperforms current state-of-the-art models in detection quality by 5.2% and overall F1 classification score by 23.7%, while using 5× fewer parameters. In addition, we show that HistoPLUS robustly transfers to two oncology indications unseen during training and allows interpretable biomarker discovery in downstream tasks, outperforming clinical...",
-      "date": "2026-07-24",
-      "year": 2026,
-      "journal": "Journal of Pathology Informatics",
-      "source": "Journal of Pathology Informatics",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.jpi.2026.100696",
-      "doi": "10.1016/j.jpi.2026.100696",
-      "pdfUrl": "https://www.sciencedirect.com/science/article/pii/S2153353926001562/pdf",
-      "keywords": [
-        "Computer science",
-        "Characterization (materials science)",
-        "Computational biology",
-        "Nanotechnology",
-        "Chemistry",
-        "AI in cancer detection",
-        "Cell Image Analysis Techniques",
-        "Digital Imaging for Blood Diseases"
-      ],
-      "readTime": "1 min",
-      "citedBy": 19,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.084123+00:00"
-    },
-    {
-      "id": "openalex-f4959844837a",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Democratizing planetary-scale analysis: an ultra-lightweight Earth embedding database for accurate and flexible global land monitoring",
-      "authors": "Shuang Chen, Jie Wang, Shuai Yuan, Jiayang Li, Yu Xia, yuanhong Liao",
-      "abstract": "The rapid evolution of satellite-borne Earth Observation (EO) systems has fundamentally revolutionized terrestrial monitoring, yielding comprehensive petabyte-scale archives. However, the immense computational resources and storage volumes required for global-scale analysis often preclude widespread use by many research teams, hindering broader scientific adoption and the execution of planetary-scale studies. To address these barriers, we present the Embedded Seamless Data (ESD), an ultra-lightweight, 30 m global Earth embedding database spanning the 25-year period from 2000 to 2024. By transforming high-dimensional, multi-sensor observations from the Landsat series (5, 7, 8, and 9) and MODIS Terra into information-dense, quantized latent vectors, ESD distils essential geophysical and semantic features into a unified latent space. Utilizing the ESDNet architecture and Finite Scalar Qu...",
-      "date": "2026-07-24",
-      "year": 2026,
-      "journal": "Earth system science data",
-      "source": "Earth system science data",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5194/essd-18-5375-2026",
-      "doi": "10.5194/essd-18-5375-2026",
-      "pdfUrl": "https://doi.org/10.5194/essd-18-5375-2026",
-      "keywords": [
-        "Computer science",
-        "Remote sensing",
-        "Database",
-        "Earth observation",
-        "Data mining",
-        "Remote Sensing in Agriculture",
-        "Remote-Sensing Image Classification",
-        "Remote Sensing and Land Use"
-      ],
-      "readTime": "1 min",
-      "citedBy": 11,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-21T19:09:38.928582+00:00"
+      "_retrievedAt": "2026-11-22T06:40:05.499217+00:00"
     }
   ]
 }
