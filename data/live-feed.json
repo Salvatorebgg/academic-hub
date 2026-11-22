@@ -1,11 +1,107 @@
 {
-  "generatedAt": "2026-11-22T06:40:10.515579+00:00",
-  "total": 113,
+  "generatedAt": "2026-11-22T19:31:29.654752+00:00",
+  "total": 114,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
+    {
+      "id": "rss-b19ac4234459",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Intermittent fasting helps injured muscles regenerate in mice",
+      "authors": "Medical Xpress",
+      "abstract": "In a new study from Koç University, alternating days of fasting and feeding helped injured muscles regenerate in mice by encouraging repair cells to multiply and fuse into muscle fibers. The effect depended on a molecular pathway previously linked to muscle wasting in cancer.",
+      "date": "2026-11-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-intermittent-fasting-muscles-regenerate-mice.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "fasting",
+        "injured",
+        "muscles",
+        "regenerate",
+        "mice",
+        "muscle",
+        "intermittent",
+        "helps"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-22T19:31:29.102416+00:00"
+    },
+    {
+      "id": "rss-a2485388a098",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "32% of postpartum women report needing mental health care in survey spanning 16 states",
+      "authors": "Medical Xpress",
+      "abstract": "Mental health conditions are the leading cause of pregnancy-related death in the United States. Yet almost all these deaths are considered preventable if women are effectively screened during and after giving birth and then connected with needed care, according to CDC data from 2017–2019.",
+      "date": "2026-11-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-postpartum-women-mental-health-survey.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "women",
+        "mental",
+        "health",
+        "care",
+        "states",
+        "postpartum",
+        "report",
+        "needing"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-22T19:31:29.102711+00:00"
+    },
+    {
+      "id": "rss-375c751e4a68",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New imaging technology reveals previously unseen immune cell patterns in tissue",
+      "authors": "Medical Xpress",
+      "abstract": "Scientists can now see a previously hidden dimension of the immune system thanks to BCR-MERFISH, a new imaging technology developed by researchers at Boston Children's Hospital. By mapping where different groups of antibody-producing cells are located in tissue, the technology could help researchers better understand how immune responses contribute to disease and eventually inform new approaches to diagnosis and treatment. The breakthrough, published in Nature Methods, opens new possibilities for investigating inflammatory bowel disease, autoimmune disorders, infections and cancer.",
+      "date": "2026-11-22",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-imaging-technology-reveals-previously-unseen.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "technology",
+        "immune",
+        "imaging",
+        "previously",
+        "tissue",
+        "researchers",
+        "disease",
+        "reveals"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-22T19:31:29.103007+00:00"
+    },
     {
       "id": "rss-cb4d1ad05ccf",
       "discipline": "clinical",
@@ -36,7 +132,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.060881+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.103273+00:00"
     },
     {
       "id": "rss-d9e023e9a910",
@@ -68,7 +164,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.061056+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.103475+00:00"
     },
     {
       "id": "rss-cfa74a0cb430",
@@ -100,7 +196,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.061224+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.103716+00:00"
     },
     {
       "id": "rss-db7108016594",
@@ -132,7 +228,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.061430+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.104003+00:00"
     },
     {
       "id": "rss-ba1a3b4124b6",
@@ -164,7 +260,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.061588+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.104276+00:00"
     },
     {
       "id": "rss-a9fa9e685243",
@@ -196,7 +292,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.061804+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.104544+00:00"
     },
     {
       "id": "rss-f2fe74e09f24",
@@ -228,7 +324,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.061959+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.104762+00:00"
     },
     {
       "id": "rss-0fc184fe4a8d",
@@ -260,7 +356,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.062112+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.104981+00:00"
     },
     {
       "id": "rss-c07e79278c34",
@@ -292,7 +388,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.062251+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.105218+00:00"
     },
     {
       "id": "rss-bcba9a8e41d5",
@@ -324,7 +420,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.062440+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.105487+00:00"
     },
     {
       "id": "rss-9ac0650591e5",
@@ -356,103 +452,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.062585+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.105688+00:00"
     },
     {
-      "id": "rss-8a501bc03692",
-      "discipline": "clinical",
+      "id": "rss-8994fb55df0f",
+      "discipline": "cs",
       "type": "news",
-      "title": "Hair pulling, skin picking and nail biting are common in young people and cause significant distress",
-      "authors": "Medical Xpress",
-      "abstract": "The study found that body-focused repetitive behaviors (BFRBs), as they are known, can be a significant source of distress, particularly among young people who also experienced anxiety, depression and bullying.",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "authors": "TechCrunch AI",
+      "abstract": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
       "date": "2026-11-22",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-hair-skin-common-young-people.html",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "young",
-        "people",
-        "significant",
-        "distress",
-        "hair",
-        "pulling",
-        "skin",
-        "picking"
+        "centers",
+        "center",
+        "tech",
+        "backlash",
+        "journalist",
+        "paris",
+        "marx",
+        "unpacks"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.062768+00:00"
-    },
-    {
-      "id": "rss-59afb88c6857",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Less than half of TikTok videos on RSV prevention offer high-quality info, paper notes",
-      "authors": "Medical Xpress",
-      "abstract": "Many people rely on social media to learn more about health conditions and trends. A study published in Vaccine that examined TikTok videos about respiratory syncytial virus (RSV) prevention—including the maternal vaccine (Abrysvo) and the long-acting antibody nirsevimab (Beyfortus) for infants—finds that only 47% present high-quality information.",
-      "date": "2026-11-22",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-tiktok-videos-rsv-high-quality.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "tiktok",
-        "videos",
-        "prevention",
-        "high-quality",
-        "about",
-        "vaccine",
-        "that",
-        "less"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.062959+00:00"
-    },
-    {
-      "id": "rss-c2c851ebda54",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Alcohol addiction and eating disorders often go hand in hand—here's why",
-      "authors": "Medical Xpress",
-      "abstract": "When some people drink, they purposely skip meals in order to amplify the effects of the alcohol or to save calories for their drinks. The practice, sometimes referred to as \"drunkorexia,\" highlights the crossover that can exist between risky drinking behavior and disordered eating.",
-      "date": "2026-11-22",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-alcohol-addiction-disorders.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "alcohol",
-        "eating",
-        "hand",
-        "addiction",
-        "disorders",
-        "often",
-        "here",
-        "when"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.063129+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.173095+00:00"
     },
     {
       "id": "rss-47801ca6cf9f",
@@ -484,7 +516,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.108143+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.173337+00:00"
     },
     {
       "id": "rss-1bbbe9039b86",
@@ -516,7 +548,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.108301+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.173517+00:00"
     },
     {
       "id": "rss-6da6210085dd",
@@ -548,7 +580,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.108422+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.173698+00:00"
     },
     {
       "id": "rss-e1b4f23fd942",
@@ -580,7 +612,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.108552+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.173894+00:00"
     },
     {
       "id": "rss-863c9f8b875a",
@@ -612,7 +644,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.108669+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.174166+00:00"
     },
     {
       "id": "rss-45c3a9fca5a8",
@@ -644,7 +676,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.108800+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.174348+00:00"
     },
     {
       "id": "rss-ad74b1be1b5f",
@@ -676,7 +708,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.108906+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.174507+00:00"
     },
     {
       "id": "rss-2053eb2c4e8e",
@@ -708,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.109054+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.174721+00:00"
     },
     {
       "id": "rss-a00b564e9ced",
@@ -740,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.109148+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.174867+00:00"
     },
     {
       "id": "rss-e33840ba0a35",
@@ -772,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.109247+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.175018+00:00"
     },
     {
       "id": "rss-6c9461e5705a",
@@ -804,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.109351+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.175218+00:00"
     },
     {
       "id": "rss-221852fdc1d5",
@@ -836,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.187347+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.281357+00:00"
     },
     {
       "id": "rss-919b9e2571a0",
@@ -868,7 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.187474+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.281536+00:00"
     },
     {
       "id": "rss-ed058fad0abe",
@@ -900,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.187594+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.281710+00:00"
     },
     {
       "id": "rss-14aaaf5d0ed3",
@@ -932,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.408164+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.401410+00:00"
     },
     {
       "id": "rss-5a60358e3818",
@@ -964,7 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.109452+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.175379+00:00"
     },
     {
       "id": "rss-9474cc8a6e34",
@@ -996,39 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.109558+00:00"
-    },
-    {
-      "id": "rss-90ba8f495f8d",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "authors": "TechCrunch AI",
-      "abstract": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "date": "2026-11-19",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "jensen",
-        "huang",
-        "unfolding",
-        "scandal",
-        "timeline",
-        "resigned",
-        "nvidia",
-        "following"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.109666+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.175552+00:00"
     },
     {
       "id": "rss-38f03c05cd46",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.187737+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.281888+00:00"
     },
     {
       "id": "rss-3a9a5bd5a16e",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.187860+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.282097+00:00"
     },
     {
       "id": "rss-d64bb8f2ab80",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.187963+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.282260+00:00"
     },
     {
       "id": "rss-ba4aafa8c0e1",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.188063+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.282416+00:00"
     },
     {
       "id": "openalex-b11d43e8145b",
@@ -1188,7 +1188,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.173658+00:00"
+      "_retrievedAt": "2026-11-22T19:31:23.333604+00:00"
     },
     {
       "id": "rss-d75f12a13840",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.188158+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.282566+00:00"
     },
     {
       "id": "rss-226d0308c9bb",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.188265+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.282728+00:00"
     },
     {
       "id": "rss-a3318adbd022",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.188361+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.282877+00:00"
     },
     {
       "id": "rss-319b5da90ee2",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.188459+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.283049+00:00"
     },
     {
       "id": "rss-12f687e690a2",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.188565+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.283219+00:00"
     },
     {
       "id": "rss-00819e71329f",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.408305+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.401602+00:00"
     },
     {
       "id": "rss-52c6da3b3f36",
@@ -1412,7 +1412,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.408443+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.401804+00:00"
     },
     {
       "id": "rss-fc6b82df8ecb",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.188669+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.283381+00:00"
     },
     {
       "id": "rss-e45e2d28257c",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.188795+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.283543+00:00"
     },
     {
       "id": "openalex-2f8ba3b4c4c1",
@@ -1508,7 +1508,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.534858+00:00"
+      "_retrievedAt": "2026-11-22T19:31:24.396056+00:00"
     },
     {
       "id": "rss-ee3b71fee41a",
@@ -1540,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.408683+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.402156+00:00"
     },
     {
       "id": "rss-948f337f76fa",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.408886+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.402410+00:00"
     },
     {
       "id": "openalex-0b9047ccb233",
@@ -1600,11 +1600,11 @@
         "Information and Cyber Security"
       ],
       "readTime": "2 min",
-      "citedBy": 507,
+      "citedBy": 508,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.499580+00:00"
+      "_retrievedAt": "2026-11-22T19:31:21.507100+00:00"
     },
     {
       "id": "openalex-e52cfab1b8d8",
@@ -1632,11 +1632,11 @@
         "Teaching and Learning Programming"
       ],
       "readTime": "2 min",
-      "citedBy": 209,
+      "citedBy": 210,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.501983+00:00"
+      "_retrievedAt": "2026-11-22T19:31:21.510289+00:00"
     },
     {
       "id": "openalex-1460ec1614d2",
@@ -1668,7 +1668,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.830355+00:00"
+      "_retrievedAt": "2026-11-22T19:31:22.284161+00:00"
     },
     {
       "id": "rss-36da62e14d67",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.409369+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.403045+00:00"
     },
     {
       "id": "rss-0301f8db1aca",
@@ -1732,7 +1732,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.409500+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.403249+00:00"
     },
     {
       "id": "rss-5116d0089903",
@@ -1764,7 +1764,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.409624+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.403439+00:00"
     },
     {
       "id": "openalex-b76d52d91fce",
@@ -1796,7 +1796,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.830063+00:00"
+      "_retrievedAt": "2026-11-22T19:31:22.283743+00:00"
     },
     {
       "id": "rss-e8ad5f5a7f57",
@@ -1828,7 +1828,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.410101+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.404074+00:00"
     },
     {
       "id": "openalex-11b5190cd445",
@@ -1860,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.533308+00:00"
+      "_retrievedAt": "2026-11-22T19:31:24.393868+00:00"
     },
     {
       "id": "openalex-b9713b9a252a",
@@ -1892,7 +1892,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.829352+00:00"
+      "_retrievedAt": "2026-11-22T19:31:22.282855+00:00"
     },
     {
       "id": "openalex-818836e119b0",
@@ -1924,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.534385+00:00"
+      "_retrievedAt": "2026-11-22T19:31:24.395386+00:00"
     },
     {
       "id": "rss-8ccff313a082",
@@ -1955,7 +1955,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:10.410194+00:00"
+      "_retrievedAt": "2026-11-22T19:31:29.404231+00:00"
     },
     {
       "id": "openalex-cb3cbda06d84",
@@ -1983,11 +1983,11 @@
         "Explainable Artificial Intelligence (XAI)"
       ],
       "readTime": "1 min",
-      "citedBy": 312,
+      "citedBy": 313,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.500630+00:00"
+      "_retrievedAt": "2026-11-22T19:31:21.508494+00:00"
     },
     {
       "id": "openalex-167b6533ff80",
@@ -2015,11 +2015,11 @@
         "Genomics and Chromatin Dynamics"
       ],
       "readTime": "1 min",
-      "citedBy": 38,
+      "citedBy": 41,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.828400+00:00"
+      "_retrievedAt": "2026-11-22T19:31:22.281515+00:00"
     },
     {
       "id": "openalex-5ab5668168ae",
@@ -2051,7 +2051,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.533826+00:00"
+      "_retrievedAt": "2026-11-22T19:31:24.394606+00:00"
     },
     {
       "id": "openalex-8824f3740ac6",
@@ -2083,7 +2083,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.173094+00:00"
+      "_retrievedAt": "2026-11-22T19:31:23.332837+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2115,7 +2115,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.174331+00:00"
+      "_retrievedAt": "2026-11-22T19:31:23.334454+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -2143,11 +2143,11 @@
         "Natural Language Processing Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 237,
+      "citedBy": 240,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.501550+00:00"
+      "_retrievedAt": "2026-11-22T19:31:21.509511+00:00"
     },
     {
       "id": "openalex-9ede209118a4",
@@ -2179,7 +2179,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.175087+00:00"
+      "_retrievedAt": "2026-11-22T19:31:23.335475+00:00"
     },
     {
       "id": "openalex-c40eb4a2963d",
@@ -2211,7 +2211,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.532025+00:00"
+      "_retrievedAt": "2026-11-22T19:31:24.392092+00:00"
     },
     {
       "id": "openalex-84e3fa65288d",
@@ -2239,11 +2239,11 @@
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 1051,
+      "citedBy": 1062,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.498905+00:00"
+      "_retrievedAt": "2026-11-22T19:31:21.506251+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -2275,7 +2275,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.174831+00:00"
+      "_retrievedAt": "2026-11-22T19:31:23.335124+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -2307,7 +2307,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.532784+00:00"
+      "_retrievedAt": "2026-11-22T19:31:24.393162+00:00"
     },
     {
       "id": "openalex-f5dc3633b103",
@@ -2339,7 +2339,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.502755+00:00"
+      "_retrievedAt": "2026-11-22T19:31:21.511274+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2371,7 +2371,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.531549+00:00"
+      "_retrievedAt": "2026-11-22T19:31:24.391446+00:00"
     },
     {
       "id": "openalex-4017ee65ef38",
@@ -2403,7 +2403,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.827074+00:00"
+      "_retrievedAt": "2026-11-22T19:31:22.279735+00:00"
     },
     {
       "id": "openalex-181683777d7b",
@@ -2435,7 +2435,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.172018+00:00"
+      "_retrievedAt": "2026-11-22T19:31:23.326712+00:00"
     },
     {
       "id": "openalex-648d6d3d6e7b",
@@ -2467,7 +2467,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.502205+00:00"
+      "_retrievedAt": "2026-11-22T19:31:21.510881+00:00"
     },
     {
       "id": "openalex-9a39b97a87a9",
@@ -2499,7 +2499,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.502923+00:00"
+      "_retrievedAt": "2026-11-22T19:31:21.511492+00:00"
     },
     {
       "id": "openalex-88c8bbfa038c",
@@ -2531,7 +2531,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.172877+00:00"
+      "_retrievedAt": "2026-11-22T19:31:23.332531+00:00"
     },
     {
       "id": "openalex-3dd652be759c",
@@ -2563,7 +2563,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.175335+00:00"
+      "_retrievedAt": "2026-11-22T19:31:23.335809+00:00"
     },
     {
       "id": "openalex-4b0e33566f22",
@@ -2595,7 +2595,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.173563+00:00"
+      "_retrievedAt": "2026-11-22T19:31:23.333461+00:00"
     },
     {
       "id": "openalex-cd41132c9d18",
@@ -2620,14 +2620,14 @@
         "Artificial intelligence",
         "Scientific Computing and Data Management",
         "Academic Publishing and Open Access",
-        "Research Data Management Practices"
+        "Academic Writing and Publishing"
       ],
       "readTime": "1 min",
-      "citedBy": 84,
+      "citedBy": 87,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.827405+00:00"
+      "_retrievedAt": "2026-11-22T19:31:22.280160+00:00"
     },
     {
       "id": "openalex-014e44b613fc",
@@ -2655,11 +2655,11 @@
         "Geology and Paleoclimatology Research"
       ],
       "readTime": "1 min",
-      "citedBy": 29,
+      "citedBy": 30,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.531818+00:00"
+      "_retrievedAt": "2026-11-22T19:31:24.391778+00:00"
     },
     {
       "id": "openalex-4eeff6704837",
@@ -2691,7 +2691,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.534630+00:00"
+      "_retrievedAt": "2026-11-22T19:31:24.395726+00:00"
     },
     {
       "id": "openalex-8391e68a705c",
@@ -2723,7 +2723,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.173941+00:00"
+      "_retrievedAt": "2026-11-22T19:31:23.333890+00:00"
     },
     {
       "id": "openalex-554ee5013027",
@@ -2734,8 +2734,8 @@
       "abstract": "Spatial prediction forms the basis for decision-making in Earth and environmental sciences, yet prediction accuracy is constrained by spatial heterogeneity and sparse and uneven sampling. Existing methods commonly respond by increasing algorithmic complexity while underusing the spatial information embedded in the covariates themselves. This study develops the generalized covariate field (GCF) to expand the covariate space by deriving two families of spatial features without increasing model complexity. First, spatial pattern features characterize local spatial structure, including spatial dependence, heterogeneity, geocomplexity, multiscale variation and local outlyingness, and are transferable across space. Second, neighbourhood distribution features summarize covariates through multiscale operators with geoscientific meaning. The resulting high-dimensional features are then selecte...",
       "date": "2026-09-10",
       "year": 2026,
-      "journal": "International Journal of Geographical Information Systems",
-      "source": "International Journal of Geographical Information Systems",
+      "journal": "International Journal of Geographical Information Science",
+      "source": "International Journal of Geographical Information Science",
       "sourceApi": "OpenAlex",
       "url": "https://doi.org/10.1080/13658816.2026.2729719",
       "doi": "10.1080/13658816.2026.2729719",
@@ -2755,7 +2755,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.535102+00:00"
+      "_retrievedAt": "2026-11-22T19:31:24.396406+00:00"
     },
     {
       "id": "openalex-bb23e4ef92cf",
@@ -2787,7 +2787,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.828633+00:00"
+      "_retrievedAt": "2026-11-22T19:31:22.281834+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2815,11 +2815,11 @@
         "fragility"
       ],
       "readTime": "1 min",
-      "citedBy": 18,
+      "citedBy": 20,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.532438+00:00"
+      "_retrievedAt": "2026-11-22T19:31:24.392681+00:00"
     },
     {
       "id": "openalex-3d0d090d179c",
@@ -2851,7 +2851,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.535530+00:00"
+      "_retrievedAt": "2026-11-22T19:31:24.396964+00:00"
     },
     {
       "id": "openalex-7d5ef3fc71a6",
@@ -2879,11 +2879,11 @@
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 359,
+      "citedBy": 360,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.500146+00:00"
+      "_retrievedAt": "2026-11-22T19:31:21.507829+00:00"
     },
     {
       "id": "openalex-518b9bf6cea9",
@@ -2915,7 +2915,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.501265+00:00"
+      "_retrievedAt": "2026-11-22T19:31:21.509750+00:00"
     },
     {
       "id": "openalex-021b339d4b20",
@@ -2947,7 +2947,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.532240+00:00"
+      "_retrievedAt": "2026-11-22T19:31:24.392398+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2979,7 +2979,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.533574+00:00"
+      "_retrievedAt": "2026-11-22T19:31:24.394279+00:00"
     },
     {
       "id": "openalex-be864332263f",
@@ -3007,11 +3007,11 @@
         "Machine Learning in Healthcare"
       ],
       "readTime": "1 min",
-      "citedBy": 53,
+      "citedBy": 55,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.172350+00:00"
+      "_retrievedAt": "2026-11-22T19:31:23.327168+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -3039,11 +3039,43 @@
         "T-cell and B-cell Immunology"
       ],
       "readTime": "1 min",
-      "citedBy": 57,
+      "citedBy": 58,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.827625+00:00"
+      "_retrievedAt": "2026-11-22T19:31:22.280472+00:00"
+    },
+    {
+      "id": "openalex-693e4ce4acb8",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "2026 ESC Guidelines on cardiac rehabilitation",
+      "authors": "Maria Bäck, Matthias Wilhelm, Thimo Marcin, Felipe Vilaça Cavallari Machado, Anna Sandberg, Sergio Buccheri",
+      "abstract": "1. Preamble 6 2. Introduction 9 2.1. Seeking solutions for the challenges of demographic transition 9 2.2. Scope and purpose 10 2.3. Stakeholder involvement 10 3. Patients’ perspectives on cardiac rehabilitation 11 3.1. Patient satisfaction and expectations of cardiac rehabilitation programme components 11 3.2. Patient-reported outcome measures 11 4. The rationale for cardiac rehabilitation: who benefits, what it achieves, and why it matters 14 4.1. From exercise-based to comprehensive cardiac rehabilitation 14 4.2. Effectiveness of cardiac rehabilitation and the emerging role of functioning and health-related quality of life as primary outcomes 14 4.2.1. Challenges of outcome assessments in cardiac rehabilitation 14 4.2.2. Relevant health outcomes for cardiac rehabilitation 15 4.2.3. The International Classification of Functioning, Disability and Health 15 4.3. Cost-effectiveness of...",
+      "date": "2026-08-28",
+      "year": 2026,
+      "journal": "European Heart Journal",
+      "source": "European Heart Journal",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1093/eurheartj/ehag099",
+      "doi": "10.1093/eurheartj/ehag099",
+      "pdfUrl": "https://academic.oup.com/eurheartj/advance-article-pdf/doi/10.1093/eurheartj/ehag099/70807454/ehag099.pdf",
+      "keywords": [
+        "Medicine",
+        "Rehabilitation",
+        "Quality of life (healthcare)",
+        "Physical therapy",
+        "Heart failure",
+        "Cardiac Health and Mental Health",
+        "Medical Practices and Rehabilitation",
+        "Cardiovascular and exercise physiology"
+      ],
+      "readTime": "19 min",
+      "citedBy": 44,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-22T19:31:23.331818+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -3075,7 +3107,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.830595+00:00"
+      "_retrievedAt": "2026-11-22T19:31:22.284496+00:00"
     },
     {
       "id": "openalex-6e7aa9ad6862",
@@ -3103,11 +3135,11 @@
         "Robot Manipulation and Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 398,
+      "citedBy": 400,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.499863+00:00"
+      "_retrievedAt": "2026-11-22T19:31:21.507456+00:00"
     },
     {
       "id": "openalex-514dbfd7d5d8",
@@ -3115,7 +3147,7 @@
       "type": "paper",
       "title": "Developmental and MAPK-responsive transcription factors regulate distinct malignant cell states and associated genetic dependencies in pancreatic cancer",
       "authors": "Pasquale Laise, Mikko Turunen, Álvaro Curiel‐García, Lorenzo Tomassoni, H. Carlo Maurer, Ela Elyada",
-      "abstract": "There is broad consensus that the malignant epithelial cells of human pancreatic ductal adenocarcinoma (PDA) comprise multiple, molecularly distinct states. Yet precise characterization of how these are regulated—including their mechanistic determinants, dependencies, plasticity and functional properties—remains elusive. Single-cell master regulator (MR) analysis of multiple PDA cohorts identified malignant cells in three co-existing, molecularly distinct developmental lineage states, with distinct histopathological morphologies and spatial architecture. These include a poorly differentiated lineage driven by epithelial–mesenchymal-transition-related MRs and two well-differentiated states driven by gastrointestinal epithelial development and pancreatic development MRs, respectively. Furthermore, each state comprises two epigenetically distinct substates with low versus high MAPK signa...",
+      "abstract": "There is broad consensus that the malignant epithelial cells of human pancreatic ductal adenocarcinoma (PDA) comprise multiple, molecularly distinct states. Yet precise characterization of how these are regulated-including their mechanistic determinants, dependencies, plasticity and functional properties-remains elusive. Single-cell master regulator (MR) analysis of multiple PDA cohorts identified malignant cells in three co-existing, molecularly distinct developmental lineage states, with distinct histopathological morphologies and spatial architecture. These include a poorly differentiated lineage driven by epithelial-mesenchymal-transition-related MRs and two well-differentiated states driven by gastrointestinal epithelial development and pancreatic development MRs, respectively. Furthermore, each state comprises two epigenetically distinct substates with low versus high MAPK signa...",
       "date": "2026-08-26",
       "year": 2026,
       "journal": "Nature Genetics",
@@ -3139,7 +3171,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.829612+00:00"
+      "_retrievedAt": "2026-11-22T19:31:22.283170+00:00"
     },
     {
       "id": "openalex-26237de6c6dd",
@@ -3147,7 +3179,7 @@
       "type": "paper",
       "title": "Human brain organoids record the passage of time over multiple years",
       "authors": "Irene Faravelli, Noelia Antón-Bolaños, Anqi Wei, Tyler Faits, Abhishek Sampath Kumar, Sophia Andreadis",
-      "abstract": "The human brain develops and matures over an exceptionally prolonged period of time that spans nearly two decades of life. Processes that govern species-specific aspects of human postnatal brain development are difficult to study in animal models1. While human brain organoids offer a promising in vitro model, they have thus far been shown to largely mimic early stages of brain development. Here we develop human brain organoids for 5 years in culture, optimizing growth conditions to extend excitatory neuron viability beyond previous limits. Using maturation-associated modules derived from endogenous human brain, we show that brain organoids transcriptionally age with cell type specificity over years in culture. Whole-genome methylation profiling reveals that the predicted epigenomic age of organoids correlates precisely with time spent in vitro, and parallels epigenomic ageing in vivo....",
+      "abstract": "The human brain develops and matures over an exceptionally prolonged period of time that spans nearly two decades of life. Processes that govern species-specific aspects of human postnatal brain development are difficult to study in animal models 1 . While human brain organoids offer a promising in vitro model, they have thus far been shown to largely mimic early stages of brain development. Here we develop human brain organoids for 5 years in culture, optimizing growth conditions to extend excitatory neuron viability beyond previous limits. Using maturation-associated modules derived from endogenous human brain, we show that brain organoids transcriptionally age with cell type specificity over years in culture. Whole-genome methylation profiling reveals that the predicted epigenomic age of organoids correlates precisely with time spent in vitro, and parallels epigenomic ageing in viv...",
       "date": "2026-08-19",
       "year": 2026,
       "journal": "Nature",
@@ -3164,14 +3196,14 @@
         "Context (archaeology)",
         "Neurogenesis and neuroplasticity mechanisms",
         "Pluripotent Stem Cells Research",
-        "Developmental Biology and Gene Regulation"
+        "Single-cell and spatial transcriptomics"
       ],
       "readTime": "1 min",
       "citedBy": 44,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.828114+00:00"
+      "_retrievedAt": "2026-11-22T19:31:22.281123+00:00"
     },
     {
       "id": "openalex-6a5a22694e49",
@@ -3199,11 +3231,11 @@
         "Smart Grid and Power Systems"
       ],
       "readTime": "1 min",
-      "citedBy": 181,
+      "citedBy": 183,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.502440+00:00"
+      "_retrievedAt": "2026-11-22T19:31:21.510598+00:00"
     },
     {
       "id": "openalex-506180faa30c",
@@ -3235,7 +3267,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.828885+00:00"
+      "_retrievedAt": "2026-11-22T19:31:22.282194+00:00"
     },
     {
       "id": "openalex-5d6d48b88b97",
@@ -3267,7 +3299,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.829857+00:00"
+      "_retrievedAt": "2026-11-22T19:31:22.283458+00:00"
     },
     {
       "id": "openalex-50c318e007c8",
@@ -3295,11 +3327,11 @@
         "Robotic Locomotion and Control"
       ],
       "readTime": "1 min",
-      "citedBy": 344,
+      "citedBy": 345,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.500409+00:00"
+      "_retrievedAt": "2026-11-22T19:31:21.508192+00:00"
     },
     {
       "id": "openalex-df09ae142fc6",
@@ -3331,7 +3363,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.830848+00:00"
+      "_retrievedAt": "2026-11-22T19:31:22.284824+00:00"
     },
     {
       "id": "openalex-9848aacf7bb1",
@@ -3363,11 +3395,11 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.174595+00:00"
+      "_retrievedAt": "2026-11-22T19:31:23.334812+00:00"
     },
     {
       "id": "openalex-8f980c3bafcc",
-      "discipline": "clinical",
+      "discipline": "geo",
       "type": "paper",
       "title": "AI for science: Progress, challenges, and perspectives",
       "authors": "Yongjun Xu, Zezhi Shao, Xin Liu, Yuquan Li, Zhulin An, Chenguang Fu",
@@ -3395,7 +3427,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.175549+00:00"
+      "_retrievedAt": "2026-11-22T19:31:24.393469+00:00"
     },
     {
       "id": "openalex-838b1babffe0",
@@ -3423,11 +3455,11 @@
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 253,
+      "citedBy": 254,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.500858+00:00"
+      "_retrievedAt": "2026-11-22T19:31:21.508779+00:00"
     },
     {
       "id": "openalex-23e74f3e558d",
@@ -3459,7 +3491,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.174185+00:00"
+      "_retrievedAt": "2026-11-22T19:31:23.334239+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -3491,7 +3523,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.827862+00:00"
+      "_retrievedAt": "2026-11-22T19:31:22.280784+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -3523,7 +3555,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.829150+00:00"
+      "_retrievedAt": "2026-11-22T19:31:22.282564+00:00"
     },
     {
       "id": "openalex-7d24a7f15d87",
@@ -3555,7 +3587,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:06.534073+00:00"
+      "_retrievedAt": "2026-11-22T19:31:24.394926+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -3583,11 +3615,11 @@
         "Topic Modeling"
       ],
       "readTime": "1 min",
-      "citedBy": 252,
+      "citedBy": 253,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.501091+00:00"
+      "_retrievedAt": "2026-11-22T19:31:21.509126+00:00"
     },
     {
       "id": "openalex-26e8fbfaec61",
@@ -3615,11 +3647,11 @@
         "Advanced Neural Network Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 513,
+      "citedBy": 520,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-22T06:40:05.499217+00:00"
+      "_retrievedAt": "2026-11-22T19:31:21.506623+00:00"
     }
   ]
 }
