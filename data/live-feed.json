@@ -1,458 +1,873 @@
 {
-  "generatedAt": "2026-11-23T07:28:55.438471+00:00",
-  "total": 114,
+  "generatedAt": "2026-11-23T23:48:53.056319+00:00",
+  "total": 113,
   "sources": [
     "RSS",
     "OpenAlex"
   ],
   "papers": [
     {
-      "id": "rss-5b571479b1c8",
+      "id": "rss-ad0134af4a56",
       "discipline": "clinical",
       "type": "news",
-      "title": "Researchers find teens are more likely to use tobacco, alcohol and marijuana when adults at home smoke or vape",
+      "title": "Eye trauma from high-velocity pickleball may heighten glaucoma risk, doctors warn",
       "authors": "Medical Xpress",
-      "abstract": "Researchers from Children's Hospital of Philadelphia found that adolescents whose parents, caregivers or other adults at home use tobacco or e-cigarettes were substantially more likely to use tobacco, alcohol, marijuana and other substances and to screen positive for high-risk substance use. Rates were highest when both the parent and another adult in the home used these products. The findings were published in the journal Pediatrics.",
+      "abstract": "Being hit in the eye by a high-velocity pickleball may heighten the risk of glaucoma, doctors warn in the online journal BMJ Case Reports after treating a female player with this injury.",
       "date": "2026-11-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-teens-tobacco-alcohol-marijuana-adults.html",
+      "url": "https://medicalxpress.com/news/2026-11-eye-trauma-high-velocity-pickleball.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "tobacco",
-        "home",
-        "were",
-        "researchers",
-        "more",
-        "likely",
-        "alcohol",
-        "marijuana"
+        "high-velocity",
+        "pickleball",
+        "heighten",
+        "glaucoma",
+        "risk",
+        "doctors",
+        "warn",
+        "trauma"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.427996+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.323848+00:00"
     },
     {
-      "id": "rss-f7bc4f1237b3",
+      "id": "rss-f902fab38b4e",
       "discipline": "clinical",
       "type": "news",
-      "title": "Daily cannabis use surpasses daily drinking among Canadians under 50, survey finds",
+      "title": "Childhood diet high in fruit and fish linked to lower Crohn's disease risk",
       "authors": "Medical Xpress",
-      "abstract": "Six years after cannabis legalization, more adults under 50 in Canada use cannabis daily than drink every day, and daily cannabis smoking is now as common as daily cigarette smoking for adults under age 35, according to new research in CMAJ (Canadian Medical Association Journal) .",
+      "abstract": "A high intake of salty snacks during the teenage years is linked to a heightened risk of inflammatory bowel disease (IBD)—Crohn's disease, ulcerative colitis or a mix of both—in young adulthood, finds a large long-term study published online in the journal Gut.",
       "date": "2026-11-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-daily-cannabis-surpasses-canadians-survey.html",
+      "url": "https://medicalxpress.com/news/2026-11-childhood-diet-high-fruit-fish.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "daily",
-        "cannabis",
-        "under",
-        "adults",
-        "smoking",
-        "surpasses",
-        "drinking",
-        "among"
+        "disease",
+        "high",
+        "linked",
+        "crohn",
+        "risk",
+        "childhood",
+        "diet",
+        "fruit"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.428267+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.324002+00:00"
     },
     {
-      "id": "rss-8fd0286b799d",
+      "id": "rss-3cba3f71f3ff",
       "discipline": "clinical",
       "type": "news",
-      "title": "Researcher examines how blood vessel damage relates to memory loss",
+      "title": "Music before and during coronary angiography linked to lower blood pressure",
       "authors": "Medical Xpress",
-      "abstract": "Alzheimer's disease is often the focus when someone develops memory problems. But changes in the brain's blood vessels may also be part of the picture—and new research by the University of Kentucky's Cellas Hayes, Ph.D., helps explain why those changes deserve closer attention.",
+      "abstract": "Music therapy before and during an often stressful procedure to visualize blood flow to coronary arteries (coronary angiography) is associated with lower systolic blood pressure—the higher number in a reading—according to the results of a comparative clinical trial published online in the journal Heart.",
       "date": "2026-11-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-blood-vessel-memory-loss.html",
+      "url": "https://medicalxpress.com/news/2026-11-music-coronary-angiography-linked-blood.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
+        "coronary",
         "blood",
-        "memory",
-        "changes",
-        "researcher",
-        "examines",
-        "vessel",
-        "damage",
-        "relates"
+        "music",
+        "before",
+        "during",
+        "angiography",
+        "lower",
+        "pressure"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.428564+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.324128+00:00"
     },
     {
-      "id": "rss-9840567970a3",
+      "id": "rss-8734263908b4",
       "discipline": "clinical",
       "type": "news",
-      "title": "Cannabidiol not effective for treating severe behavioral problems in children with intellectual disabilities",
+      "title": "From primal instinct to persistent preoccupation: Measuring 'food noise'",
       "authors": "Medical Xpress",
-      "abstract": "A world-first randomized controlled trial has found that cannabidiol—commonly referred to as CBD—is not effective in treating severe behavioral problems in children with intellectual disability.",
+      "abstract": "How people think about food continues to evolve. For early hunter-gatherers, food meant survival. Thoughts about food focused mainly on where to find it. As people learned to farm, thoughts about food shifted from something hunted or caught to something cultivated.",
       "date": "2026-11-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-cannabidiol-effective-severe-behavioral-problems.html",
+      "url": "https://medicalxpress.com/news/2026-11-primal-instinct-persistent-preoccupation-food.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "cannabidiol",
-        "effective",
-        "treating",
-        "severe",
-        "behavioral",
-        "problems",
-        "children",
-        "intellectual"
+        "food",
+        "about",
+        "people",
+        "thoughts",
+        "something",
+        "primal",
+        "instinct",
+        "persistent"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.428806+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.324244+00:00"
     },
     {
-      "id": "rss-5a5a21c0dddb",
+      "id": "rss-bd7ecfbed5ec",
       "discipline": "clinical",
       "type": "news",
-      "title": "Newly identified transport pathway reveals how caveolin-1 helps cells store fat",
+      "title": "Parents strongly accept intestinal ultrasound for pediatric IBD monitoring",
       "authors": "Medical Xpress",
-      "abstract": "Lipodystrophy is a serious metabolic disease characterized by abnormal lipid storage in the body. In people with this condition, ingested fats are not stored in adipose tissue as they are in healthy individuals, but are instead deposited in the liver, muscle tissue or the heart muscle, among other places, with far-reaching metabolic consequences such as fatty liver or type 2 diabetes. The visible redistribution of fat in the body and the other symptoms are very distressing for patients. The causes of the disease may include a congenital gene mutation, an immune disorder or an infection.",
+      "abstract": "Parents of children with inflammatory bowel disease (IBD) report strong acceptance of intestinal ultrasound (IUS) for disease monitoring, according to a study published online Nov. 17 in JPGN Reports.",
       "date": "2026-11-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-newly-pathway-reveals-caveolin-cells.html",
+      "url": "https://medicalxpress.com/news/2026-11-parents-strongly-intestinal-ultrasound-pediatric.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "metabolic",
+        "parents",
+        "intestinal",
+        "ultrasound",
+        "monitoring",
         "disease",
-        "body",
-        "tissue",
-        "liver",
-        "muscle",
-        "other",
-        "newly"
+        "strongly",
+        "accept",
+        "pediatric"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.429103+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.324350+00:00"
     },
     {
-      "id": "rss-b19ac4234459",
+      "id": "rss-fdfb64cddcf8",
       "discipline": "clinical",
       "type": "news",
-      "title": "Intermittent fasting helps injured muscles regenerate in mice",
+      "title": "Could blowing your nose make cold symptoms worse?",
       "authors": "Medical Xpress",
-      "abstract": "In a new study from Koç University, alternating days of fasting and feeding helped injured muscles regenerate in mice by encouraging repair cells to multiply and fuse into muscle fibers. The effect depended on a molecular pathway previously linked to muscle wasting in cancer.",
+      "abstract": "Few things are more frustrating than dealing with a runny nose when you're sick. No matter how many times you blow your nose, a few minutes later it's full of snot again and the sniffles are back.",
       "date": "2026-11-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-intermittent-fasting-muscles-regenerate-mice.html",
+      "url": "https://medicalxpress.com/news/2026-11-nose-cold-symptoms-worse.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "fasting",
-        "injured",
-        "muscles",
-        "regenerate",
-        "mice",
-        "muscle",
-        "intermittent",
-        "helps"
+        "nose",
+        "your",
+        "could",
+        "blowing",
+        "make",
+        "cold",
+        "symptoms",
+        "worse"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.429348+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.324467+00:00"
     },
     {
-      "id": "rss-a2485388a098",
+      "id": "rss-d7aeaea1182f",
       "discipline": "clinical",
       "type": "news",
-      "title": "32% of postpartum women report needing mental health care in survey spanning 16 states",
+      "title": "Many languages, one common neural code",
       "authors": "Medical Xpress",
-      "abstract": "Mental health conditions are the leading cause of pregnancy-related death in the United States. Yet almost all these deaths are considered preventable if women are effectively screened during and after giving birth and then connected with needed care, according to CDC data from 2017–2019.",
+      "abstract": "来自 Medical Xpress 的最新资讯，点击原文查看完整报道。",
       "date": "2026-11-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-postpartum-women-mental-health-survey.html",
+      "url": "https://medicalxpress.com/news/2026-11-languages-common-neural-code.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
+        "many",
+        "languages",
+        "common",
+        "neural",
+        "code",
+        "medical",
+        "xpress"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:52.324550+00:00"
+    },
+    {
+      "id": "rss-941ca238f6ab",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "'I'm amazed every day': Woman marks one year with a pig kidney",
+      "authors": "Medical Xpress",
+      "abstract": "A New Hampshire woman has now lived for one year with a kidney from a gene-edited pig, the longest any patient is known to have done so.",
+      "date": "2026-11-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-im-amazed-day-woman-year.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "woman",
+        "year",
+        "kidney",
+        "amazed",
+        "every",
+        "marks",
+        "hampshire",
+        "lived"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:52.324649+00:00"
+    },
+    {
+      "id": "rss-95e7b3f6bfee",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Significant decrease in Black-white mortality gap during past 30 years",
+      "authors": "Medical Xpress",
+      "abstract": "A major health gap in America is shrinking. A new study by researchers at the American Cancer Society (ACS) shows the historic divide in death rates between Black and white men and women in the United States narrowed dramatically between 1993 and 2023. Excess mortality among Black adults plummeted by 56% for men and 68% for women.",
+      "date": "2026-11-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-significant-decrease-black-white-mortality.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "mortality",
+        "black",
         "women",
-        "mental",
-        "health",
-        "care",
-        "states",
-        "postpartum",
-        "report",
-        "needing"
+        "significant",
+        "decrease",
+        "black-white",
+        "during",
+        "past"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.429637+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.324768+00:00"
     },
     {
-      "id": "rss-375c751e4a68",
+      "id": "rss-30990fc27726",
       "discipline": "clinical",
       "type": "news",
-      "title": "New imaging technology reveals previously unseen immune cell patterns in tissue",
+      "title": "AI can predict antidepressant response, but does not understand all patients equally",
       "authors": "Medical Xpress",
-      "abstract": "Scientists can now see a previously hidden dimension of the immune system thanks to BCR-MERFISH, a new imaging technology developed by researchers at Boston Children's Hospital. By mapping where different groups of antibody-producing cells are located in tissue, the technology could help researchers better understand how immune responses contribute to disease and eventually inform new approaches to diagnosis and treatment. The breakthrough, published in Nature Methods, opens new possibilities for investigating inflammatory bowel disease, autoimmune disorders, infections and cancer.",
+      "abstract": "George Mason University researchers have revealed just how much health literacy can influence AI's ability to understand patients. In a new study involving simulated patients, an AI antidepressant decision aid correctly identified medical information 82% of the time when patients used precise medical language, but less than half the time when they described their health in vaguer or more informal terms.",
       "date": "2026-11-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-imaging-technology-reveals-previously-unseen.html",
+      "url": "https://medicalxpress.com/news/2026-11-ai-antidepressant-response-patients-equally.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "technology",
-        "immune",
-        "imaging",
-        "previously",
-        "tissue",
-        "researchers",
-        "disease",
-        "reveals"
+        "patients",
+        "antidepressant",
+        "understand",
+        "health",
+        "medical",
+        "time",
+        "when",
+        "predict"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.429924+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.324895+00:00"
     },
     {
-      "id": "rss-cb4d1ad05ccf",
+      "id": "rss-afde8d6ea66d",
       "discipline": "clinical",
       "type": "news",
-      "title": "New structures come into view in brain wiring maps",
+      "title": "When antidepressants don't help, could ketamine be an option?",
       "authors": "Medical Xpress",
-      "abstract": "Researchers at Harvard Medical School and the University of California San Diego have sped up a powerful imaging technique enough to map, for the first time, large volumes of brain tissue in nanoscale detail. The approach reveals fine structures that brain wiring maps, known as connectomes, can miss.",
+      "abstract": "Once known mainly as a surgical anesthetic, ketamine is now an option for people whose depression hasn't eased with standard medications and therapy.",
       "date": "2026-11-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-view-brain-wiring.html",
+      "url": "https://medicalxpress.com/news/2026-11-antidepressants-dont-ketamine-option.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "ketamine",
+        "option",
+        "when",
+        "antidepressants",
+        "help",
+        "could",
+        "once",
+        "known"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:52.324992+00:00"
+    },
+    {
+      "id": "rss-4630668fa10f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "How the brain's visual system shapes lasting fear memories",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at McGovern Medical School at UTHealth Houston have discovered how the brain's visual system plays an active role in transforming threatening experiences into lasting fear memories and how noninvasive brain stimulation can interrupt this process.",
+      "date": "2026-11-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-brain-visual-memories.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
         "brain",
-        "structures",
-        "wiring",
-        "maps",
-        "come",
-        "view",
-        "researchers",
-        "harvard"
+        "visual",
+        "system",
+        "lasting",
+        "fear",
+        "memories",
+        "shapes",
+        "researchers"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.430159+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.325099+00:00"
     },
     {
-      "id": "rss-d9e023e9a910",
+      "id": "rss-aee69dc13d5d",
       "discipline": "clinical",
       "type": "news",
-      "title": "Stress and anxiety are wearing workers down: How to spot your triggers and cope",
+      "title": "Not just a phase: Measuring the long-term toll of high school substance use",
       "authors": "Medical Xpress",
-      "abstract": "Workplace stress and anxiety. Who hasn't experienced it?",
+      "abstract": "High schoolers who smoke cigarettes, use cannabis or take other drugs face a higher risk of dying earlier in adulthood, according to a five-decade University of Michigan study.",
       "date": "2026-11-23",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-stress-anxiety-workers-triggers-cope.html",
+      "url": "https://medicalxpress.com/news/2026-11-phase-term-toll-high-school.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "stress",
-        "anxiety",
-        "wearing",
-        "workers",
-        "down",
-        "spot",
+        "high",
+        "just",
+        "phase",
+        "measuring",
+        "long-term",
+        "toll",
+        "school",
+        "substance"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:52.325200+00:00"
+    },
+    {
+      "id": "rss-ffd673f55893",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "New Year's resolutions: Starting small today could work better than waiting until January",
+      "authors": "Medical Xpress",
+      "abstract": "Every year, millions of people promise to start the new year by losing weight, eating better and exercising more. January feels like a natural moment for a fresh start. But big resolutions create a lot of pressure and are hard to keep up.",
+      "date": "2026-11-23",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-year-resolutions-small-today-january.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "year",
+        "resolutions",
+        "better",
+        "january",
+        "start",
+        "starting",
+        "small",
+        "today"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:52.325310+00:00"
+    },
+    {
+      "id": "rss-329e61420d23",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "authors": "TechCrunch AI",
+      "abstract": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "date": "2026-11-23",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "anthropic",
+        "letting",
+        "agents",
+        "code",
+        "launches",
+        "claude",
+        "ship",
+        "review"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:52.430501+00:00"
+    },
+    {
+      "id": "rss-5823938ecf83",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "authors": "TechCrunch AI",
+      "abstract": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "date": "2026-11-23",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "supertake",
         "your",
-        "triggers"
+        "market",
+        "raises",
+        "agents",
+        "turn",
+        "predictions",
+        "stock"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.430384+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.430617+00:00"
     },
     {
-      "id": "rss-cfa74a0cb430",
-      "discipline": "clinical",
+      "id": "rss-890dd431f369",
+      "discipline": "cs",
       "type": "news",
-      "title": "Alcohol may weaken cancer immunotherapy, early research suggests",
-      "authors": "Medical Xpress",
-      "abstract": "Cancer immunotherapy has transformed treatment for several advanced cancers, yet the difference between these treatments working and not could depend on simple routine habits. A recent study published in Science Signaling explores one such overlooked factor: regular alcohol consumption.",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "authors": "TechCrunch AI",
+      "abstract": "\"The mistake has been corrected,\" Elon Musk chimed in.",
       "date": "2026-11-23",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-alcohol-weaken-cancer-immunotherapy-early.html",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "alcohol",
-        "cancer",
-        "immunotherapy",
-        "weaken",
-        "early",
-        "suggests",
-        "transformed",
-        "treatment"
+        "elon",
+        "musk",
+        "others",
+        "rejoice",
+        "jensen",
+        "huang",
+        "reinstated",
+        "nvidia"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.430621+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.430688+00:00"
     },
     {
-      "id": "rss-db7108016594",
-      "discipline": "clinical",
+      "id": "rss-2be4d3dab2e5",
+      "discipline": "cs",
       "type": "news",
-      "title": "Despite soaring demand for GLP-1s, many eligible patients are unable to access these drugs for weight loss",
-      "authors": "Medical Xpress",
-      "abstract": "In just a few short years, glucagon-like peptide-1 (GLP-1) receptor agonists have surged in popularity across the United States, transforming from specialized treatments for type 2 diabetes into revolutionary therapeutics for weight management, cardiovascular health and other emerging uses. But not all populations are benefiting from this expansion. As GLP-1 use has increased, disparities in access to these drugs have widened significantly, according to a new study led by researchers at Boston University School of Public Health (BUSPH).",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "authors": "TechCrunch AI",
+      "abstract": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
       "date": "2026-11-23",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-soaring-demand-glp-1s-eligible.html",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "glp-",
-        "access",
-        "these",
-        "drugs",
-        "weight",
-        "have",
-        "health",
-        "despite"
+        "megaspeed",
+        "huang",
+        "companies",
+        "company",
+        "center",
+        "jensen",
+        "scandal",
+        "appears"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.430902+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.430769+00:00"
     },
     {
-      "id": "rss-ba1a3b4124b6",
-      "discipline": "clinical",
+      "id": "rss-a215438e7078",
+      "discipline": "cs",
       "type": "news",
-      "title": "Giving patients a greater voice in their diabetes care",
-      "authors": "Medical Xpress",
-      "abstract": "In two related papers published in JAMA Network Open and the Journal of General Internal Medicine, Kasia Lipska, M.D., associate professor of medicine (endocrinology) at Yale School of Medicine (YSM) and her colleagues tested a new approach to incorporating patients' priorities into their diabetes care.",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "authors": "TechCrunch AI",
+      "abstract": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
       "date": "2026-11-23",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-patients-greater-voice-diabetes.html",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "medicine",
-        "patients",
-        "their",
-        "diabetes",
-        "care",
-        "giving",
-        "greater",
-        "voice"
+        "employees",
+        "huang",
+        "nvidia",
+        "greet",
+        "jensen",
+        "like",
+        "hero",
+        "returns"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.431133+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.430849+00:00"
     },
     {
-      "id": "rss-a9fa9e685243",
-      "discipline": "clinical",
+      "id": "rss-29b486b618de",
+      "discipline": "cs",
       "type": "news",
-      "title": "Upskilling health professionals to deliver emotional well-being support for people with diabetes",
-      "authors": "Medical Xpress",
-      "abstract": "For more than 1.5 million Australians living with diabetes, managing their condition is a relentless, 24-hour responsibility. Day after day, people are required to make decisions about medications, glucose monitoring, food, physical activity and other aspects of their care—largely outside the health care system.",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "authors": "TechCrunch AI",
+      "abstract": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
       "date": "2026-11-23",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-upskilling-health-professionals-emotional-people.html",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "health",
-        "people",
-        "diabetes",
-        "their",
-        "care",
-        "upskilling",
-        "professionals",
-        "deliver"
+        "google",
+        "mode",
+        "drive",
+        "wallet",
+        "search",
+        "more",
+        "personalized",
+        "responses"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.431406+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.430931+00:00"
+    },
+    {
+      "id": "rss-de64fa15b21d",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "authors": "TechCrunch AI",
+      "abstract": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "date": "2026-11-23",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "huang",
+        "testify",
+        "jensen",
+        "scheduled",
+        "next",
+        "week",
+        "senate",
+        "following"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:52.431001+00:00"
+    },
+    {
+      "id": "rss-1a16deef2f70",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "authors": "TechCrunch AI",
+      "abstract": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "date": "2026-11-23",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "amazon",
+        "decart",
+        "optimization",
+        "snaps",
+        "tech",
+        "prepares",
+        "sell",
+        "trainium"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:52.431075+00:00"
+    },
+    {
+      "id": "rss-3b14d93f7763",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "authors": "TechCrunch AI",
+      "abstract": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+      "date": "2026-11-23",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "huang",
+        "jensen",
+        "woods",
+        "tech",
+        "leaders",
+        "should",
+        "clear-eyed",
+        "about"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:52.431141+00:00"
+    },
+    {
+      "id": "rss-7a5d44cc021e",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "authors": "TechCrunch AI",
+      "abstract": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+      "date": "2026-11-23",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "them",
+        "trump",
+        "reportedly",
+        "called",
+        "nvidia",
+        "board",
+        "meeting",
+        "advocate"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:52.431215+00:00"
+    },
+    {
+      "id": "rss-4117b604b3f8",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "authors": "TechCrunch AI",
+      "abstract": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "date": "2026-11-23",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "huang",
+        "return",
+        "nvidia",
+        "trump",
+        "endorses",
+        "jensen",
+        "says",
+        "evidence"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:52.431289+00:00"
+    },
+    {
+      "id": "rss-fdb86d60175f",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "authors": "TechCrunch AI",
+      "abstract": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "date": "2026-11-23",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "sierra",
+        "doubles",
+        "valuation",
+        "within",
+        "months",
+        "demand",
+        "takes",
+        "enterprise"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:52.431365+00:00"
+    },
+    {
+      "id": "rss-e85eda8df5d6",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "authors": "TechCrunch AI",
+      "abstract": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "date": "2026-11-23",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "nvidia",
+        "reverses",
+        "course",
+        "brings",
+        "jensen",
+        "huang",
+        "back",
+        "stunning"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:52.431439+00:00"
     },
     {
       "id": "rss-92a7bb1afda7",
@@ -484,7 +899,39 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.509251+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.431504+00:00"
+    },
+    {
+      "id": "rss-b32ac07624da",
+      "discipline": "cs",
+      "type": "news",
+      "title": "Many languages, one common neural code",
+      "authors": "MIT News AI",
+      "abstract": "Analyzing speakers of 21 languages, an MIT study using multilingual AI finds the human brain may represent meaning in much the same way.",
+      "date": "2026-11-23",
+      "year": 2026,
+      "journal": "MIT News AI",
+      "source": "MIT News AI",
+      "sourceApi": "RSS",
+      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "languages",
+        "many",
+        "common",
+        "neural",
+        "code",
+        "analyzing",
+        "speakers",
+        "multilingual"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:52.560364+00:00"
     },
     {
       "id": "rss-0b0fc91a6fe7",
@@ -516,423 +963,71 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.566041+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.560486+00:00"
     },
     {
-      "id": "rss-75482ef83990",
-      "discipline": "cs",
+      "id": "rss-8f43ebd24f86",
+      "discipline": "geo",
       "type": "news",
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "authors": "TechCrunch AI",
-      "abstract": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "date": "2026-11-22",
+      "title": "ProTechnology Innovation Showcase: From the surface of the sun to the depths of the ocean\" – Use Cases in the Display and Communication of Complex NOAA Scientific Data",
+      "authors": "NOAA News",
+      "abstract": "ProTechnology Innovation Showcase: From the surface of the sun to the depths of the ocean\" – Use Cases in the Display and Communication of Complex NOAA Scientific Data November 23, 2026 A very successful ProTechnology Innovation Showcase was held on November 18, 2026, featuring “Use Cases in the Display and Communication of Complex NOAA Scientific Data”. We had over 200 attendees and featured presentations from six different ProTech Prime vendors and their teams. Please find a copy of their presentations here offsite link . We plan to hold future ProTechnology Innovation Showcases regularly, covering a variety of topics. For the latest updates, please visit our news and events page: news and events page . We value your input! If you have suggestions for a topic for our next event or wish to provide feedback on this gathering, please share your thoughts by completing this Google form:...",
+      "date": "2026-11-23",
       "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
+      "journal": "NOAA News",
+      "source": "NOAA News",
       "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "url": "https://www.noaa.gov/acquisition-grants/protech/news/protechnology-innovation-showcase-from-surface-of-sun-to-depths-of-ocean-use-cases-in-display-and",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "limit",
-        "development",
-        "speed",
-        "openai",
-        "chief",
-        "scientist",
-        "thoughts",
-        "establish"
+        "protechnology",
+        "innovation",
+        "showcase",
+        "cases",
+        "display",
+        "communication",
+        "complex",
+        "noaa"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.509503+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.871591+00:00"
     },
     {
-      "id": "rss-8994fb55df0f",
-      "discipline": "cs",
+      "id": "rss-1be0c8be1e90",
+      "discipline": "geo",
       "type": "news",
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "authors": "TechCrunch AI",
-      "abstract": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
-      "date": "2026-11-22",
+      "title": "Move over, turkey: Add some seafood dishes to your Thanksgiving table",
+      "authors": "NOAA News",
+      "abstract": "Move over, turkey: Add some seafood dishes to your Thanksgiving table Perhaps some baked oysters and other easy seafood dishes can become part of your Thanksgiving tradition? (Image credit: Heather Soulen/NOAA Fisheries) Download Image November 23, 2026 Fisheries sustainable seafood fish holidays 0 Off",
+      "date": "2026-11-23",
       "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
+      "journal": "NOAA News",
+      "source": "NOAA News",
       "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "url": "https://www.noaa.gov/stories/move-over-turkey-weve-got-seafood-dishes-to-add-to-your-thanksgiving-table",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "centers",
-        "center",
-        "tech",
-        "backlash",
-        "journalist",
-        "paris",
-        "marx",
-        "unpacks"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.509656+00:00"
-    },
-    {
-      "id": "rss-47801ca6cf9f",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "authors": "TechCrunch AI",
-      "abstract": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-      "date": "2026-11-21",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "signal",
-        "screenshots",
-        "restricts",
-        "mobile",
-        "confronts",
-        "existential",
-        "threat",
-        "surveillance"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.509823+00:00"
-    },
-    {
-      "id": "rss-1bbbe9039b86",
-      "discipline": "cs",
-      "type": "news",
-      "title": "A tale of two Nvidias",
-      "authors": "TechCrunch AI",
-      "abstract": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-      "date": "2026-11-21",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "tale",
-        "nvidias",
-        "very",
-        "different",
-        "pictures",
-        "nvidia",
-        "company",
-        "latest"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.509984+00:00"
-    },
-    {
-      "id": "rss-6da6210085dd",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "authors": "TechCrunch AI",
-      "abstract": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "date": "2026-11-21",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "agents",
-        "that",
-        "live",
+        "seafood",
+        "some",
+        "dishes",
         "your",
-        "text",
-        "messages",
-        "here",
-        "created"
+        "thanksgiving",
+        "move",
+        "over",
+        "turkey"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.510155+00:00"
-    },
-    {
-      "id": "rss-e1b4f23fd942",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "authors": "TechCrunch AI",
-      "abstract": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-      "date": "2026-11-21",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "face",
-        "this",
-        "microdrama",
-        "startup",
-        "hollywood",
-        "trend",
-        "selling",
-        "version"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.510338+00:00"
-    },
-    {
-      "id": "rss-863c9f8b875a",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "authors": "TechCrunch AI",
-      "abstract": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-      "date": "2026-11-20",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "fusion",
-        "startup",
-        "daniel",
-        "researcher",
-        "power",
-        "here",
-        "what",
-        "building"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.510531+00:00"
-    },
-    {
-      "id": "rss-45c3a9fca5a8",
-      "discipline": "cs",
-      "type": "news",
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "authors": "TechCrunch AI",
-      "abstract": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-      "date": "2026-11-20",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "solution",
-        "human",
-        "claimed",
-        "year-old",
-        "riemann",
-        "hypothesis",
-        "mathematicians",
-        "having"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.510702+00:00"
-    },
-    {
-      "id": "rss-ad74b1be1b5f",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Chips can survive the space environment — can their financing?",
-      "authors": "TechCrunch AI",
-      "abstract": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-      "date": "2026-11-20",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "space",
-        "their",
-        "chips",
-        "survive",
-        "environment",
-        "financing",
-        "lenders",
-        "want"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.510860+00:00"
-    },
-    {
-      "id": "rss-2053eb2c4e8e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "authors": "TechCrunch AI",
-      "abstract": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
-      "date": "2026-11-20",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "fallout",
-        "nvidia",
-        "jensen",
-        "huang",
-        "will",
-        "scandal",
-        "continues",
-        "midst"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.511075+00:00"
-    },
-    {
-      "id": "rss-a00b564e9ced",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "authors": "TechCrunch AI",
-      "abstract": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "date": "2026-11-20",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ai-powered",
-        "gadgets",
-        "your",
-        "that",
-        "could",
-        "make",
-        "home",
-        "office"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.511220+00:00"
-    },
-    {
-      "id": "rss-e33840ba0a35",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "authors": "TechCrunch AI",
-      "abstract": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "date": "2026-11-20",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "that",
-        "apple",
-        "developing",
-        "agent",
-        "runs",
-        "your",
-        "iphone",
-        "maker"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.511387+00:00"
-    },
-    {
-      "id": "rss-6c9461e5705a",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "authors": "TechCrunch AI",
-      "abstract": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "date": "2026-11-20",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "anthropic",
-        "founders",
-        "nearly",
-        "cashed",
-        "record-breaking",
-        "upgraded",
-        "share",
-        "price"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.511556+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.871711+00:00"
     },
     {
       "id": "rss-221852fdc1d5",
@@ -964,7 +1059,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.566237+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.560579+00:00"
     },
     {
       "id": "rss-919b9e2571a0",
@@ -996,7 +1091,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.566448+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.560651+00:00"
     },
     {
       "id": "rss-ed058fad0abe",
@@ -1028,7 +1123,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.566627+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.560726+00:00"
     },
     {
       "id": "rss-14aaaf5d0ed3",
@@ -1060,7 +1155,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.952549+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.871820+00:00"
     },
     {
       "id": "rss-38f03c05cd46",
@@ -1092,7 +1187,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.566806+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.560805+00:00"
     },
     {
       "id": "rss-3a9a5bd5a16e",
@@ -1124,7 +1219,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.566976+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.560881+00:00"
     },
     {
       "id": "rss-d64bb8f2ab80",
@@ -1156,7 +1251,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.567129+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.560951+00:00"
     },
     {
       "id": "rss-ba4aafa8c0e1",
@@ -1188,7 +1283,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.567283+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.561021+00:00"
     },
     {
       "id": "openalex-b11d43e8145b",
@@ -1220,7 +1315,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.785838+00:00"
+      "_retrievedAt": "2026-11-23T23:48:47.542802+00:00"
     },
     {
       "id": "rss-d75f12a13840",
@@ -1252,7 +1347,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.567483+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.561086+00:00"
     },
     {
       "id": "rss-226d0308c9bb",
@@ -1284,7 +1379,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.567652+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.561157+00:00"
     },
     {
       "id": "rss-a3318adbd022",
@@ -1316,7 +1411,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.567804+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.561222+00:00"
     },
     {
       "id": "rss-319b5da90ee2",
@@ -1348,7 +1443,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.567956+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.561290+00:00"
     },
     {
       "id": "rss-12f687e690a2",
@@ -1380,7 +1475,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.568118+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.561362+00:00"
     },
     {
       "id": "rss-00819e71329f",
@@ -1412,7 +1507,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.952755+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.871898+00:00"
     },
     {
       "id": "rss-52c6da3b3f36",
@@ -1444,39 +1539,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.952963+00:00"
-    },
-    {
-      "id": "rss-fc6b82df8ecb",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
-      "authors": "MIT News AI",
-      "abstract": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations.",
-      "date": "2026-11-12",
-      "year": 2026,
-      "journal": "MIT News AI",
-      "source": "MIT News AI",
-      "sourceApi": "RSS",
-      "url": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "three",
-        "lincoln",
-        "laboratory",
-        "technologies",
-        "receive",
-        "awards",
-        "secure",
-        "operating"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.568279+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.871990+00:00"
     },
     {
       "id": "openalex-2f8ba3b4c4c1",
@@ -1508,7 +1571,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:50.540616+00:00"
+      "_retrievedAt": "2026-11-23T23:48:48.088509+00:00"
     },
     {
       "id": "rss-ee3b71fee41a",
@@ -1540,7 +1603,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.953428+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.872142+00:00"
     },
     {
       "id": "rss-948f337f76fa",
@@ -1572,7 +1635,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.953753+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.872255+00:00"
     },
     {
       "id": "openalex-0b9047ccb233",
@@ -1600,43 +1663,11 @@
         "Information and Cyber Security"
       ],
       "readTime": "2 min",
-      "citedBy": 508,
+      "citedBy": 510,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:48.388378+00:00"
-    },
-    {
-      "id": "openalex-e52cfab1b8d8",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "A Survey on LLM-Based Code Generation for Low-Resource and Domain-Specific Programming Languages",
-      "authors": "Sathvik Joel, Jie JW Wu, Fatemeh H. Fard",
-      "abstract": "Large Language Models (LLMs) have shown remarkable capabilities in code generation for popular programming languages. However, their performance in Low-Resource Programming Languages (LRPLs) and Domain-Specific Languages (DSLs) remains a critical challenge. This gap affects millions of developers—with Rust alone having 3.5 million users—who are currently unable to fully leverage LLM capabilities. LRPLs and DSLs face unique challenges, including severe data scarcity and, for DSLs, highly specialized syntax and semantics that are poorly represented in general-purpose datasets. Addressing these challenges is crucial as LRPLs and DSLs significantly enhance development efficiency in specialized domains and applications, including financial and scientific works. While several surveys on LLMs for software engineering and code exist, none comprehensively address the challenges and opportuniti...",
-      "date": "2026-11-04",
-      "year": 2026,
-      "journal": "ACM Transactions on Software Engineering and Methodology",
-      "source": "ACM Transactions on Software Engineering and Methodology",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3770084",
-      "doi": "10.1145/3770084",
-      "pdfUrl": "https://dl.acm.org/doi/pdf/10.1145/3770084",
-      "keywords": [
-        "Computer science",
-        "Code generation",
-        "Programming language",
-        "Software engineering",
-        "Data science",
-        "Software Engineering Research",
-        "Topic Modeling",
-        "Teaching and Learning Programming"
-      ],
-      "readTime": "2 min",
-      "citedBy": 210,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:48.391444+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.301114+00:00"
     },
     {
       "id": "openalex-1460ec1614d2",
@@ -1668,7 +1699,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.309566+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.955816+00:00"
     },
     {
       "id": "rss-36da62e14d67",
@@ -1700,7 +1731,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.954465+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.872590+00:00"
     },
     {
       "id": "rss-0301f8db1aca",
@@ -1732,7 +1763,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.954666+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.872678+00:00"
     },
     {
       "id": "rss-5116d0089903",
@@ -1764,7 +1795,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.954855+00:00"
+      "_retrievedAt": "2026-11-23T23:48:52.872763+00:00"
     },
     {
       "id": "openalex-b76d52d91fce",
@@ -1796,39 +1827,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.309162+00:00"
-    },
-    {
-      "id": "rss-e8ad5f5a7f57",
-      "discipline": "geo",
-      "type": "news",
-      "title": "NOAA, NASA release measurements of 2026 ozone hole",
-      "authors": "NOAA News",
-      "abstract": "NOAA, NASA release measurements of 2026 ozone hole While weather caused a greater loss of ozone this year, long-term recovery still on track November 4, 2026 NOAA Corps LT Michael Doneghey, the South Pole observatory station lead, holds a weather balloon while NOAA Station Technician Luke Longren carries a package containing an ozonesonde — an airborne instrument that measures ozone levels — just prior to launch on October 18, 2026. (Image credit: Tommy Jensen/Amentum. With permission.) Atypical weather conditions caused the Antarctic ozone hole to grow to an unusually large size in 2026, NOAA and NASA scientists reported today, though they said the protective ozone layer is still on track to recover by later this century. Fueled by a powerful polar vortex, the 2026 ozone hole became the seventh-largest in 48 years of monitoring, based on NOAA and NASA analysis of the seasonal mean ar...",
-      "date": "2026-11-03",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/news-release/noaa-nasa-release-measurements-of-2026-ozone-hole",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "ozone",
-        "noaa",
-        "nasa",
-        "hole",
-        "weather",
-        "release",
-        "measurements",
-        "while"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.955480+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.955617+00:00"
     },
     {
       "id": "openalex-11b5190cd445",
@@ -1860,7 +1859,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:50.538254+00:00"
+      "_retrievedAt": "2026-11-23T23:48:48.087331+00:00"
     },
     {
       "id": "openalex-b9713b9a252a",
@@ -1892,7 +1891,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.308299+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.955180+00:00"
     },
     {
       "id": "openalex-818836e119b0",
@@ -1924,38 +1923,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:50.539939+00:00"
-    },
-    {
-      "id": "rss-8ccff313a082",
-      "discipline": "geo",
-      "type": "news",
-      "title": "Kirby Struhar",
-      "authors": "NOAA News",
-      "abstract": "Senior Advisor Across NOAA NOAA leadership",
-      "date": "2026-10-29",
-      "year": 2026,
-      "journal": "NOAA News",
-      "source": "NOAA News",
-      "sourceApi": "RSS",
-      "url": "https://www.noaa.gov/our-people/leadership/kirby-struhar",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "noaa",
-        "kirby",
-        "struhar",
-        "senior",
-        "advisor",
-        "across",
-        "leadership"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:54.955622+00:00"
+      "_retrievedAt": "2026-11-23T23:48:48.088146+00:00"
     },
     {
       "id": "openalex-cb3cbda06d84",
@@ -1983,11 +1951,11 @@
         "Explainable Artificial Intelligence (XAI)"
       ],
       "readTime": "1 min",
-      "citedBy": 313,
+      "citedBy": 314,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:48.389725+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.302134+00:00"
     },
     {
       "id": "openalex-167b6533ff80",
@@ -2019,7 +1987,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.306993+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.954526+00:00"
     },
     {
       "id": "openalex-5ab5668168ae",
@@ -2051,7 +2019,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:50.539155+00:00"
+      "_retrievedAt": "2026-11-23T23:48:48.087730+00:00"
     },
     {
       "id": "openalex-8824f3740ac6",
@@ -2083,7 +2051,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.785094+00:00"
+      "_retrievedAt": "2026-11-23T23:48:47.542389+00:00"
+    },
+    {
+      "id": "openalex-c9e25d56c4a1",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Tracking recent extremes and interannual variability of global fire emissions using a near-real-time extension to the Global Fire Emissions Database",
+      "authors": "Yang Chen, Guido R. van der Werf, M. Mu, Dave van Wees, Joanne V. Hall, Louis Giglio",
+      "abstract": "The Global Fire Emissions Database (GFED) is widely used to quantify spatiotemporal variability and long-term trends in burned area and fire emissions, supporting assessments of fire impacts on ecosystems and atmospheric composition. GFED has historically relied on observations from the Moderate Resolution Imaging Spectroradiometer (MODIS), but orbital drift and planned sensor decommissioning pose challenges for maintaining record continuity and near-real-time (NRT) monitoring. Here we present the GFED5 near-real-time extension (GFED5NRT), a global fire emissions dataset that enables daily NRT analyses using active fire observations from the Visible Infrared Imaging Radiometer Suite (VIIRS). GFED5NRT uses biome- and region-specific lookup tables of effective fire area and fuel consumption, derived from VIIRS observations and standard GFED5 datasets, to estimate burned area and emissio...",
+      "date": "2026-10-15",
+      "year": 2026,
+      "journal": "Earth system science data",
+      "source": "Earth system science data",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.5194/essd-18-7535-2026",
+      "doi": "10.5194/essd-18-7535-2026",
+      "pdfUrl": "https://essd.copernicus.org/articles/18/7535/2026/essd-18-7535-2026.pdf",
+      "keywords": [
+        "Visible Infrared Imaging Radiometer Suite",
+        "Environmental science",
+        "Moderate-resolution imaging spectroradiometer",
+        "Meteorology",
+        "Remote sensing",
+        "Fire effects on ecosystems",
+        "Atmospheric aerosols and clouds",
+        "Atmospheric chemistry and aerosols"
+      ],
+      "readTime": "1 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:48.088698+00:00"
     },
     {
       "id": "openalex-c2a093804030",
@@ -2115,7 +2115,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.786650+00:00"
+      "_retrievedAt": "2026-11-23T23:48:47.543278+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -2147,7 +2147,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:48.390704+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.302942+00:00"
     },
     {
       "id": "openalex-9ede209118a4",
@@ -2179,7 +2179,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.787649+00:00"
+      "_retrievedAt": "2026-11-23T23:48:47.544035+00:00"
     },
     {
       "id": "openalex-c40eb4a2963d",
@@ -2211,7 +2211,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:50.535970+00:00"
+      "_retrievedAt": "2026-11-23T23:48:48.086347+00:00"
     },
     {
       "id": "openalex-84e3fa65288d",
@@ -2239,11 +2239,11 @@
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 1062,
+      "citedBy": 1067,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:48.387561+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.300498+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -2275,7 +2275,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.787290+00:00"
+      "_retrievedAt": "2026-11-23T23:48:47.543671+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -2307,39 +2307,167 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:50.537338+00:00"
+      "_retrievedAt": "2026-11-23T23:48:48.087109+00:00"
     },
     {
-      "id": "openalex-f5dc3633b103",
+      "id": "openalex-498f632ef884",
       "discipline": "cs",
       "type": "paper",
-      "title": "Mathematical discovery and exploration can be done at scale",
-      "authors": "Bogdan Georgiev, Javier Gómez-Serrano, Terence Tao, Adam Zsolt Wagner",
-      "abstract": "AlphaEvolve, introduced in A. Novikov et al . [“AlphaEvolve: A coding agent for scientific and algorithmic discovery” (Tech. Rep., Google DeepMind, 2025).], is a generic evolutionary coding agent that combines large language models (LLMs) with automated evaluation in a loop that proposes, tests, and refines algorithmic solutions. Here we showcase AlphaEvolve as a tool for autonomously discovering novel mathematical constructions and making progress on long-standing open problems. On 67 problems spanning mathematical analysis, combinatorics, geometry, and number theory, the system rediscovered the best known solutions in most cases and improved on them in several. In some instances, it also generalized results for finitely many input values into a formula valid for all inputs. Furthermore, we combine this methodology with Deep Think [Google DeepMind, Advanced Version of Gemini with Dee...",
-      "date": "2026-09-30",
+      "title": "Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models",
+      "authors": "Siyan Zhao, Zhihui Xie, Mengchen Liu, Jing Huang, Guan Pang, Feiyu Chen",
+      "abstract": "Knowledge distillation improves large language model (LLM) reasoning by compressing the knowledge of a teacher LLM to train smaller LLMs. On-policy distillation advances this approach by having the student sample its own trajectories while a teacher LLM provides dense token-level supervision, addressing the distribution mismatch between training and inference in off-policy distillation methods. However, on-policy distillation typically requires a separate, often larger, teacher LLM and does not explicitly leverage ground-truth solutions available in reasoning datasets. Inspired by the intuition that a sufficiently capable LLM can rationalize external privileged reasoning traces and teach its weaker self, we introduce On-Policy Self-Distillation (OPSD), a learning algorithm where a single LLM acts as both teacher and student with different contexts. The teacher policy conditions on pri...",
+      "date": "2026-09-29",
       "year": 2026,
-      "journal": "Proceedings of the National Academy of Sciences",
-      "source": "Proceedings of the National Academy of Sciences",
+      "journal": "International Conference on Machine Learning",
+      "source": "International Conference on Machine Learning",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1073/pnas.2536158123",
-      "doi": "10.1073/pnas.2536158123",
-      "pdfUrl": "https://doi.org/10.1073/pnas.2536158123",
+      "url": "https://proceedings.mlr.press/v306/zhao26be.html",
+      "doi": "10.48550/arxiv.2601.18734",
+      "pdfUrl": "https://arxiv.org/pdf/2601.18734",
       "keywords": [
+        "Leverage (statistics)",
         "Computer science",
-        "Olympiad",
-        "Coding (social sciences)",
-        "Mathematical structure",
-        "Complement (music)",
-        "Evolutionary Algorithms and Applications",
-        "Artificial Intelligence Applications",
-        "Mathematics, Computing, and Information Processing"
+        "Distillation",
+        "Inference",
+        "Artificial intelligence",
+        "Topic Modeling",
+        "Natural Language Processing Techniques",
+        "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 166,
+      "citedBy": 724,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:48.392394+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.300700+00:00"
+    },
+    {
+      "id": "openalex-b66f3320b823",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Reinforcement Learning via Self-Distillation",
+      "authors": "Jonas Hübotter, Frederike Lübeck, Lejs Behric, Anton Baumann, Marco Bagatella, Daniel Marta",
+      "abstract": "Large language models are increasingly post-trained with reinforcement learning in verifiable domains such as code and math. Yet, current methods for reinforcement learning with verifiable rewards (RLVR) learn only from a scalar outcome reward per attempt, creating a severe credit-assignment bottleneck. Many verifiable environments actually provide rich textual feedback, such as runtime errors or judge evaluations, that explain why an attempt failed. We formalize this setting as reinforcement learning with rich feedback and introduce Self-Distillation Policy Optimization (SDPO), which converts tokenized feedback into a dense learning signal without any external teacher or explicit reward model. SDPO treats the current model conditioned on feedback as a self-teacher and distills its feedback-informed next-token predictions back into the policy. In this way, SDPO leverages the model's a...",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "International Conference on Machine Learning",
+      "source": "International Conference on Machine Learning",
+      "sourceApi": "OpenAlex",
+      "url": "https://proceedings.mlr.press/v306/hubotter26a.html",
+      "doi": "10.48550/arxiv.2601.20802",
+      "pdfUrl": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/hubotter26a/hubotter26a.pdf",
+      "keywords": [
+        "Reinforcement learning",
+        "Verifiable secret sharing",
+        "Computer science",
+        "Machine learning",
+        "Artificial intelligence",
+        "Reinforcement Learning in Robotics",
+        "Topic Modeling",
+        "Software Engineering Research"
+      ],
+      "readTime": "1 min",
+      "citedBy": 473,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:46.301287+00:00"
+    },
+    {
+      "id": "openalex-7b34ae166f70",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Self-Distillation Enables Continual Learning",
+      "authors": "Idan Shenfeld, Mehul Damani, Jonas Hübotter, Pulkit Agrawal",
+      "abstract": "Continual learning, enabling models to acquire new skills and knowledge without degrading existing capabilities, remains a fundamental challenge for foundation models. While on-policy reinforcement learning can reduce forgetting, it requires explicit reward functions that are often unavailable. Learning from expert demonstrations, the primary alternative, is dominated by supervised fine-tuning (SFT), which is inherently off-policy. We introduce Self-Distillation Fine-Tuning (SDFT), a simple method that enables on-policy learning directly from demonstrations. SDFT leverages in-context learning by using a demonstration-conditioned model as its own teacher, generating on-policy training signals that preserve prior capabilities while acquiring new skills. Across skill learning and knowledge acquisition tasks, SDFT consistently outperforms SFT, achieving higher new-task accuracy while subs...",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "International Conference on Machine Learning",
+      "source": "International Conference on Machine Learning",
+      "sourceApi": "OpenAlex",
+      "url": "https://proceedings.mlr.press/v306/shenfeld26a.html",
+      "doi": "10.48550/arxiv.2601.19897",
+      "pdfUrl": "https://arxiv.org/pdf/2601.19897",
+      "keywords": [
+        "Computer science",
+        "Reinforcement learning",
+        "Artificial intelligence",
+        "Path (computing)",
+        "Machine learning",
+        "Domain Adaptation and Few-Shot Learning",
+        "Reinforcement Learning in Robotics",
+        "Topic Modeling"
+      ],
+      "readTime": "1 min",
+      "citedBy": 345,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:46.301987+00:00"
+    },
+    {
+      "id": "openalex-e0ef974b405d",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "Chain-of-Thought Reasoning In The Wild Is Not Always Faithful",
+      "authors": "Iván Arcuschin, Jett Janiak, Robert Krzyzanowski, Senthooran Rajamanoharan, Neel Nanda, Arthur Conmy",
+      "abstract": "Recent studies indicate that when faced with explicit biases in prompts, models often omit mentioning these biases in their Chain-of-Thought (CoT) output, revealing that verbalized reasoning can give an incorrect picture of how models arrive at conclusions (unfaithfulness). In this work, we show that unfaithful CoT also occurs on naturally worded, non-adversarial prompts without adding artificial biases or editing model outputs. We find that when separately presented with the questions \"Is X bigger than Y?\" and \"Is Y bigger than X?\", models sometimes produce superficially coherent arguments to justify systematically answering Yes to both or No to both, despite the contradiction. We present preliminary evidence that this is due to models' implicit biases towards Yes or No, labeling this Implicit Post-Hoc Rationalization. Our results reveal rates up to 13% for production models, and whi...",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "International Conference on Machine Learning",
+      "source": "International Conference on Machine Learning",
+      "sourceApi": "OpenAlex",
+      "url": "https://proceedings.mlr.press/v306/arcuschin26b.html",
+      "doi": "10.48550/arxiv.2503.08679",
+      "pdfUrl": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/arcuschin26b/arcuschin26b.pdf",
+      "keywords": [
+        "Rationalization (economics)",
+        "Cognitive psychology",
+        "Epistemology",
+        "Cognitive science",
+        "Artificial intelligence",
+        "Explainable Artificial Intelligence (XAI)",
+        "Topic Modeling",
+        "Ethics and Social Impacts of AI"
+      ],
+      "readTime": "1 min",
+      "citedBy": 305,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:46.302300+00:00"
+    },
+    {
+      "id": "openalex-61f534b0474a",
+      "discipline": "cs",
+      "type": "paper",
+      "title": "TabICLv2: A better, faster, scalable, and open tabular foundation model",
+      "authors": "Jingang Qu, David Holzmüller, Gael P. Varoquaux, Marine Le Morvan",
+      "abstract": "Tabular foundation models, such as TabPFNv2 and TabICL, have recently dethroned gradient-boosted trees at the top of predictive benchmarks, demonstrating the value of in-context learning for tabular data. We introduce TabICLv2, a new state-of-the-art foundation model for regression and classification built on three pillars: (1) a novel synthetic data generation engine designed for high pretraining diversity; (2) various architectural innovations, including a new scalable softmax in attention improving generalization to larger datasets without prohibitive long-sequence pretraining; and (3) optimized pretraining protocols, notably replacing AdamW with the Muon optimizer. On the TabArena and TALENT benchmarks, TabICLv2 without any tuning surpasses the performance of the current state of the art, RealTabPFN-2.5 (hyperparameter-tuned, ensembled, and fine-tuned on real data). With only mode...",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "International Conference on Machine Learning",
+      "source": "International Conference on Machine Learning",
+      "sourceApi": "OpenAlex",
+      "url": "https://proceedings.mlr.press/v306/qu26a.html",
+      "doi": "10.48550/arxiv.2602.11139",
+      "pdfUrl": "https://arxiv.org/pdf/2602.11139",
+      "keywords": [
+        "Softmax function",
+        "Computer science",
+        "Artificial intelligence",
+        "Code (set theory)",
+        "Commit",
+        "Machine Learning and Data Classification",
+        "Domain Adaptation and Few-Shot Learning",
+        "Neural Networks and Applications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 245,
+      "qualityScore": 84.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:46.302753+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2371,7 +2499,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:50.535264+00:00"
+      "_retrievedAt": "2026-11-23T23:48:48.085822+00:00"
+    },
+    {
+      "id": "openalex-6a1f2ec1945a",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting",
+      "authors": "Tao Han, Wen, Zhibin, Zhenghao Chen, Wanghan Xu, Guo, Song, Lei Bai",
+      "abstract": "The development of Time-Series Forecasting (TSF) models is often constrained by the lack of comprehensive datasets, especially in Global Station Weather Forecasting (GSWF), where existing datasets are small, temporally short, and spatially sparse. To address this, we introduce WEATHER-5K, a large-scale observational weather dataset that better reflects real-world conditions, supporting improved model training and evaluation. While recent TSF methods perform well on benchmarks, they lag behind operational Numerical Weather Prediction systems in capturing complex weather dynamics and extreme events. We propose PhysicsFormer, a physics-informed forecasting model combining a dynamic core with a Transformer residual to predict future weather states. Physical consistency is enforced via pressure-wind alignment and energy-aware smoothness losses, ensuring plausible dynamics while capturing c...",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "International Conference on Machine Learning",
+      "source": "International Conference on Machine Learning",
+      "sourceApi": "OpenAlex",
+      "url": "https://proceedings.mlr.press/v306/han26v.html",
+      "doi": "10.48550/arxiv.2406.14399",
+      "pdfUrl": "https://arxiv.org/pdf/2406.14399",
+      "keywords": [
+        "Benchmark (surveying)",
+        "Scale (ratio)",
+        "Meteorology",
+        "Time series",
+        "Series (stratigraphy)",
+        "Meteorological Phenomena and Simulations",
+        "Model Reduction and Neural Networks",
+        "Traffic Prediction and Management Techniques"
+      ],
+      "readTime": "1 min",
+      "citedBy": 27,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-23T23:48:48.086193+00:00"
     },
     {
       "id": "openalex-4017ee65ef38",
@@ -2399,11 +2559,11 @@
         "Research, Science, and Academia"
       ],
       "readTime": "1 min",
-      "citedBy": 119,
+      "citedBy": 121,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.305279+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.953634+00:00"
     },
     {
       "id": "openalex-181683777d7b",
@@ -2435,71 +2595,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.779129+00:00"
-    },
-    {
-      "id": "openalex-648d6d3d6e7b",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Concept-based Explainable Artificial Intelligence: A Survey",
-      "authors": "Eleonora Poeta, Gabriele Ciravegna, Eliana Pastor, Tania Cerquitelli, Elena Baralis",
-      "abstract": "The field of explainable artificial intelligence emerged in response to the growing need for more transparent and reliable models. However, using raw features to provide explanations has been discussed in several works lately, advocating for more user-understandable explanations. To address this issue, a wide range of articles proposing Concept-based eXplainable Artificial Intelligence (C-XAI) methods have been published in recent years. Nevertheless, a unified categorization and precise field definition are still missing. This article fills the gap by offering a thorough review of C-XAI approaches. We identify and define different concepts and explanation types. We propose a taxonomy comprising nine categories and guidelines for selecting a suitable category based on the application context. Additionally, we discuss common evaluation strategies including metrics, human evaluations, a...",
-      "date": "2026-09-26",
-      "year": 2026,
-      "journal": "ACM Computing Surveys",
-      "source": "ACM Computing Surveys",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1145/3774643",
-      "doi": "10.1145/3774643",
-      "pdfUrl": "https://dl.acm.org/doi/pdf/10.1145/3774643",
-      "keywords": [
-        "Computer science",
-        "Categorization",
-        "Taxonomy (biology)",
-        "Field (mathematics)",
-        "Domain (mathematical analysis)",
-        "Explainable Artificial Intelligence (XAI)",
-        "Software Testing and Debugging Techniques",
-        "Ethics and Social Impacts of AI"
-      ],
-      "readTime": "1 min",
-      "citedBy": 182,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:48.392018+00:00"
-    },
-    {
-      "id": "openalex-9a39b97a87a9",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Aristotle: IMO-level Automated Theorem Proving",
-      "authors": "Tudor Achim, Alex J. Best, Alberto Bietti, Kevin Der, Mathïs Fédérico, Sergei Gukov",
-      "abstract": "We introduce Aristotle, an AI system that combines formal verification with informal reasoning, achieving gold-medal-equivalent performance on the 2025 International Mathematical Olympiad problems. Aristotle integrates three main components: a Lean proof search system, an informal reasoning system that generates and formalizes lemmas, and a dedicated geometry solver. Our system demonstrates state-of-the-art performance with favorable scaling properties for automated theorem proving.",
-      "date": "2026-09-25",
-      "year": 2026,
-      "journal": "SuperIntelligence - Robotics - Safety & Alignment",
-      "source": "SuperIntelligence - Robotics - Safety & Alignment",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.70777/si.v3i3.18745",
-      "doi": "10.70777/si.v3i3.18745",
-      "pdfUrl": "https://doi.org/10.70777/si.v3i3.18745",
-      "keywords": [
-        "Automated theorem proving",
-        "Computer science",
-        "Automated reasoning",
-        "Olympiad",
-        "Automated proof checking",
-        "Logic, programming, and type systems",
-        "Formal Methods in Verification",
-        "Mathematics, Computing, and Information Processing"
-      ],
-      "readTime": "1 min",
-      "citedBy": 159,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:48.392602+00:00"
+      "_retrievedAt": "2026-11-23T23:48:47.538375+00:00"
     },
     {
       "id": "openalex-88c8bbfa038c",
@@ -2531,39 +2627,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.784802+00:00"
-    },
-    {
-      "id": "openalex-3dd652be759c",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "Calibrated Decisions at Scale: Converting Police Crash Narratives into Probabilistic Crash Variables with a System One Model (Jev)",
-      "authors": "Amir Rafe, Subasish Das",
-      "abstract": "Crash datasets that carry an investigator narrative hold information the coded fields omit. Coding those narratives at scale has been blocked by three obstacles. Frontier large language models are costly at that scale, their generated text cannot be verified, and no rule says how much output a human must check. This paper formulates narrative coding as gated, typed decisions answered by Jev, a System One model that returns probabilities over analyst-defined options and generates no text. A screen covered 499,500 Texas narratives and 195,857 were coded with a 27-question schema. Cost is governed by schema size rather than narrative length. The probabilities are audited against coded fields and against 2,416 blinded human judgments drawn under a stated sampling design. Two frontier large language models are benchmarked on the same records. Against human labels the typed model attains an...",
-      "date": "2026-09-21",
-      "year": 2026,
-      "journal": "arXiv (Cornell University)",
-      "source": "arXiv (Cornell University)",
-      "sourceApi": "OpenAlex",
-      "url": "https://arxiv.org/abs/2609.24052",
-      "doi": "10.48550/arxiv.2609.24052",
-      "pdfUrl": "https://arxiv.org/pdf/2609.24052",
-      "keywords": [
-        "Narrative",
-        "Crash",
-        "Computer science",
-        "Language model",
-        "Probabilistic logic",
-        "Traffic and Road Safety",
-        "Artificial Intelligence in Law",
-        "Computational and Text Analysis Methods"
-      ],
-      "readTime": "1 min",
-      "citedBy": 15,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.787983+00:00"
+      "_retrievedAt": "2026-11-23T23:48:47.542211+00:00"
     },
     {
       "id": "openalex-4b0e33566f22",
@@ -2595,7 +2659,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.785701+00:00"
+      "_retrievedAt": "2026-11-23T23:48:47.542727+00:00"
     },
     {
       "id": "openalex-cd41132c9d18",
@@ -2623,11 +2687,11 @@
         "Academic Writing and Publishing"
       ],
       "readTime": "1 min",
-      "citedBy": 87,
+      "citedBy": 88,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.305699+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.953859+00:00"
     },
     {
       "id": "openalex-014e44b613fc",
@@ -2659,7 +2723,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:50.535639+00:00"
+      "_retrievedAt": "2026-11-23T23:48:48.086019+00:00"
     },
     {
       "id": "openalex-4eeff6704837",
@@ -2691,7 +2755,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:50.540283+00:00"
+      "_retrievedAt": "2026-11-23T23:48:48.088333+00:00"
     },
     {
       "id": "openalex-8391e68a705c",
@@ -2723,39 +2787,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.786111+00:00"
-    },
-    {
-      "id": "openalex-554ee5013027",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "Generalized covariate field (GCF): spatial-pattern and neighbourhood-distribution feature expansion improves geospatial prediction",
-      "authors": "Yongze Song",
-      "abstract": "Spatial prediction forms the basis for decision-making in Earth and environmental sciences, yet prediction accuracy is constrained by spatial heterogeneity and sparse and uneven sampling. Existing methods commonly respond by increasing algorithmic complexity while underusing the spatial information embedded in the covariates themselves. This study develops the generalized covariate field (GCF) to expand the covariate space by deriving two families of spatial features without increasing model complexity. First, spatial pattern features characterize local spatial structure, including spatial dependence, heterogeneity, geocomplexity, multiscale variation and local outlyingness, and are transferable across space. Second, neighbourhood distribution features summarize covariates through multiscale operators with geoscientific meaning. The resulting high-dimensional features are then selecte...",
-      "date": "2026-09-10",
-      "year": 2026,
-      "journal": "International Journal of Geographical Information Science",
-      "source": "International Journal of Geographical Information Science",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1080/13658816.2026.2729719",
-      "doi": "10.1080/13658816.2026.2729719",
-      "pdfUrl": "https://www.tandfonline.com/doi/pdf/10.1080/13658816.2026.2729719?needAccess=true",
-      "keywords": [
-        "Field (mathematics)",
-        "Covariate",
-        "Feature (linguistics)",
-        "Computer science",
-        "Geospatial analysis",
-        "Soil Geostatistics and Mapping",
-        "Spatial and Panel Data Analysis",
-        "Species Distribution and Climate Change"
-      ],
-      "readTime": "1 min",
-      "citedBy": 8,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:50.540955+00:00"
+      "_retrievedAt": "2026-11-23T23:48:47.542968+00:00"
     },
     {
       "id": "openalex-bb23e4ef92cf",
@@ -2787,7 +2819,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.307301+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.954681+00:00"
     },
     {
       "id": "openalex-cd9c5bfb977c",
@@ -2819,39 +2851,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:50.536784+00:00"
-    },
-    {
-      "id": "openalex-3d0d090d179c",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "ABCFlux v2: Arctic–boreal CO 2 and CH 4 monthly flux observations and ancillary information across terrestrial and freshwater ecosystems",
-      "authors": "Anna‐Maria Virkkala, Isabel K. Wargowsky, Judith Vogt, McKenzie A. Kuhn, Simran Madaan, Tiffany Windholz",
-      "abstract": "Measurements of surface-atmosphere carbon dioxide (CO 2 ) and methane (CH 4 ) fluxes have been relatively sparse across the Arctic tundra and boreal biomes, causing significant uncertainties in carbon budget estimates from the region. While the availability of Arctic-boreal carbon flux data has increased substantially over the past decade, the data have remained spread across different repositories, scientific articles, and unpublished sources, making it difficult to leverage. Here we present a new dataset of monthly Arctic-boreal carbon fluxes (ABCFlux v2) across terrestrial (wetlands and uplands) and freshwater (lakes and rivers) ecosystems compiled from previous syntheses including the Arctic-boreal CO 2 flux database (ABCFlux v1), the Boreal-Arctic Wetland and Lake Methane Dataset (BAWLD-CH4), and the Global River Methane Database (GRiMeDB). In addition, we consider data from gene...",
-      "date": "2026-09-03",
-      "year": 2026,
-      "journal": "Earth system science data",
-      "source": "Earth system science data",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.5194/essd-18-6357-2026",
-      "doi": "10.5194/essd-18-6357-2026",
-      "pdfUrl": "https://essd.copernicus.org/articles/18/6357/2026/essd-18-6357-2026.pdf",
-      "keywords": [
-        "Eddy covariance",
-        "Environmental science",
-        "Flux (metallurgy)",
-        "Tundra",
-        "Ecosystem",
-        "Climate change and permafrost",
-        "Atmospheric and Environmental Gas Dynamics",
-        "Peatlands and Wetlands Ecology"
-      ],
-      "readTime": "2 min",
-      "citedBy": 8,
-      "qualityScore": 76.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:50.541545+00:00"
+      "_retrievedAt": "2026-11-23T23:48:48.086686+00:00"
     },
     {
       "id": "openalex-7d5ef3fc71a6",
@@ -2879,11 +2879,11 @@
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 360,
+      "citedBy": 362,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:48.389081+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.301671+00:00"
     },
     {
       "id": "openalex-518b9bf6cea9",
@@ -2911,11 +2911,11 @@
         "Probability and Statistical Research"
       ],
       "readTime": "1 min",
-      "citedBy": 238,
+      "citedBy": 239,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:48.390934+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.303056+00:00"
     },
     {
       "id": "openalex-021b339d4b20",
@@ -2947,7 +2947,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:50.536421+00:00"
+      "_retrievedAt": "2026-11-23T23:48:48.086536+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -2979,7 +2979,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:50.538734+00:00"
+      "_retrievedAt": "2026-11-23T23:48:48.087553+00:00"
     },
     {
       "id": "openalex-be864332263f",
@@ -3011,7 +3011,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.779572+00:00"
+      "_retrievedAt": "2026-11-23T23:48:47.538666+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -3043,7 +3043,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.305986+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.954007+00:00"
     },
     {
       "id": "openalex-693e4ce4acb8",
@@ -3071,11 +3071,11 @@
         "Cardiovascular and exercise physiology"
       ],
       "readTime": "19 min",
-      "citedBy": 44,
+      "citedBy": 45,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.784120+00:00"
+      "_retrievedAt": "2026-11-23T23:48:47.541807+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -3107,7 +3107,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.309885+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.955979+00:00"
     },
     {
       "id": "openalex-6e7aa9ad6862",
@@ -3135,11 +3135,11 @@
         "Robot Manipulation and Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 400,
+      "citedBy": 404,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:48.388721+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.301485+00:00"
     },
     {
       "id": "openalex-514dbfd7d5d8",
@@ -3171,7 +3171,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.308608+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.955326+00:00"
     },
     {
       "id": "openalex-26237de6c6dd",
@@ -3203,39 +3203,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.306612+00:00"
-    },
-    {
-      "id": "openalex-6a5a22694e49",
-      "discipline": "cs",
-      "type": "paper",
-      "title": "Electricity demand and grid impacts of AI data centers: Challenges and prospects",
-      "authors": "Xin Chen, Xiaoyang Wang, Ana Colacelli, Matt Lee, Le Xie",
-      "abstract": "The rapid growth of artificial intelligence (AI) is driving an unprecedented increase in the electricity demand of AI data centers, raising emerging challenges for electric power grids. Understanding the characteristics of AI data center loads and their interactions with the grid is therefore critical for ensuring both reliable power system operation and sustainable AI development. This paper provides a comprehensive review and vision of this evolving landscape. Specifically, this paper (i) presents an overview of AI data center infrastructure and its key components, (ii) examines the key characteristics and patterns of electricity demand across the stages of model preparation, training, fine-tuning, and inference, (iii) analyzes the critical challenges that AI data center loads pose to power systems across three interrelated timescales, including long-term planning and interconnectio...",
-      "date": "2026-08-17",
-      "year": 2026,
-      "journal": "Nexus",
-      "source": "Nexus",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.1016/j.ynexs.2026.100162",
-      "doi": "10.1016/j.ynexs.2026.100162",
-      "pdfUrl": "https://doi.org/10.1016/j.ynexs.2026.100162",
-      "keywords": [
-        "Electricity",
-        "Key (lock)",
-        "Computer science",
-        "Electric power system",
-        "Electricity system",
-        "Smart Grid Energy Management",
-        "Energy Efficiency in Computing",
-        "Smart Grid and Power Systems"
-      ],
-      "readTime": "1 min",
-      "citedBy": 183,
-      "qualityScore": 84.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:48.391740+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.954319+00:00"
     },
     {
       "id": "openalex-506180faa30c",
@@ -3267,7 +3235,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.307646+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.954850+00:00"
     },
     {
       "id": "openalex-5d6d48b88b97",
@@ -3299,7 +3267,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.308884+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.955475+00:00"
     },
     {
       "id": "openalex-50c318e007c8",
@@ -3327,11 +3295,11 @@
         "Robotic Locomotion and Control"
       ],
       "readTime": "1 min",
-      "citedBy": 345,
+      "citedBy": 349,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:48.389435+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.301844+00:00"
     },
     {
       "id": "openalex-df09ae142fc6",
@@ -3363,7 +3331,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.310205+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.956141+00:00"
     },
     {
       "id": "openalex-9848aacf7bb1",
@@ -3395,11 +3363,11 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.787000+00:00"
+      "_retrievedAt": "2026-11-23T23:48:47.543497+00:00"
     },
     {
       "id": "openalex-8f980c3bafcc",
-      "discipline": "geo",
+      "discipline": "clinical",
       "type": "paper",
       "title": "AI for science: Progress, challenges, and perspectives",
       "authors": "Yongjun Xu, Zezhi Shao, Xin Liu, Yuquan Li, Zhulin An, Chenguang Fu",
@@ -3423,11 +3391,11 @@
         "Artificial Intelligence in Healthcare and Education"
       ],
       "readTime": "1 min",
-      "citedBy": 15,
+      "citedBy": 16,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:50.537745+00:00"
+      "_retrievedAt": "2026-11-23T23:48:47.543845+00:00"
     },
     {
       "id": "openalex-838b1babffe0",
@@ -3459,7 +3427,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:48.390003+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.302453+00:00"
     },
     {
       "id": "openalex-23e74f3e558d",
@@ -3491,7 +3459,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.786444+00:00"
+      "_retrievedAt": "2026-11-23T23:48:47.543155+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -3523,7 +3491,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.306284+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.954158+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -3555,7 +3523,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:49.308018+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.955033+00:00"
     },
     {
       "id": "openalex-7d24a7f15d87",
@@ -3587,7 +3555,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:50.539515+00:00"
+      "_retrievedAt": "2026-11-23T23:48:48.087909+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -3619,7 +3587,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:48.390306+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.302607+00:00"
     },
     {
       "id": "openalex-26e8fbfaec61",
@@ -3647,11 +3615,11 @@
         "Advanced Neural Network Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 520,
+      "citedBy": 531,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-23T07:28:48.387919+00:00"
+      "_retrievedAt": "2026-11-23T23:48:46.300878+00:00"
     }
   ]
 }
