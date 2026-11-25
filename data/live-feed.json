@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:24:05.728410+00:00",
+  "generatedAt": "2026-11-25T21:37:58.672309+00:00",
   "total": 114,
   "sources": [
     "RSS",
@@ -7,188 +7,476 @@
   ],
   "papers": [
     {
-      "id": "rss-969db16ba1b9",
+      "id": "rss-cba5adfe7776",
       "discipline": "clinical",
       "type": "news",
-      "title": "Early-stage breast cancer gains first newly approved hormone therapy in more than 20 years",
+      "title": "RSV shots safe for older adults, alone or in combo, analysis finds",
       "authors": "Medical Xpress",
-      "abstract": "For the first time in more than two decades, the FDA has approved a new hormone therapy for early-stage breast cancer, marking a monumental shift in how the most common form of the disease is treated.",
+      "abstract": "Multiple clinical trials have found that respiratory syncytial virus (RSV) vaccines are safe in adults. Now, a new study in people age 60 and older shows it's also safe to receive an RSV shot plus another vaccine in the same week.",
       "date": "2026-11-25",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-early-stage-breast-cancer-gains.html",
+      "url": "https://medicalxpress.com/news/2026-11-rsv-shots-safe-older-adults.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "early-stage",
-        "breast",
-        "cancer",
-        "first",
-        "approved",
-        "hormone",
-        "therapy",
-        "more"
+        "safe",
+        "older",
+        "adults",
+        "shots",
+        "alone",
+        "combo",
+        "finds",
+        "multiple"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.000875+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.030016+00:00"
     },
     {
-      "id": "rss-4433f609c9d4",
+      "id": "rss-d2273cd12b99",
       "discipline": "clinical",
       "type": "news",
-      "title": "A doctor's take on the US losing measles elimination status",
+      "title": "Study suggests BMI alone may miss obesity-related dementia risk",
       "authors": "Medical Xpress",
-      "abstract": "For many physicians of my generation, measles was a disease we rarely—or never—saw in practice. That was a sign of how well vaccination and public health efforts had worked.",
+      "abstract": "A newer way of defining obesity that looks beyond body mass index (BMI) may identify more older adults with an increased risk of dementia than BMI alone, according to a study published Nov. 25, 2026, in Neurology.",
       "date": "2026-11-25",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-doctor-measles-status.html",
+      "url": "https://medicalxpress.com/news/2026-11-bmi-obesity-dementia.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "measles",
-        "doctor",
-        "take",
-        "losing",
-        "elimination",
-        "status",
-        "many",
-        "physicians"
+        "alone",
+        "dementia",
+        "risk",
+        "suggests",
+        "miss",
+        "obesity-related",
+        "newer",
+        "defining"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.001068+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.030201+00:00"
     },
     {
-      "id": "rss-021e8fef3cfa",
+      "id": "rss-2fb42bf53456",
       "discipline": "clinical",
       "type": "news",
-      "title": "Drones could soon fly blood, defibrillators and medicine to patients",
+      "title": "Same oncogenic mutation, different outcomes: Why some blood vessels develop malformations while others remain resistant",
       "authors": "Medical Xpress",
-      "abstract": "Paramedics in one Florida county may soon be able to call in a drone to bring blood to a patient who's bleeding heavily.",
+      "abstract": "Why do certain cancer-associated mutations cause malformations in some blood vessels while leaving others largely unaffected? The answer lies in the identity and developmental stage of endothelial cells, the cells lining the inside of blood vessels.",
       "date": "2026-11-25",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-drones-fly-blood-defibrillators-medicine.html",
+      "url": "https://medicalxpress.com/news/2026-11-oncogenic-mutation-outcomes-blood-vessels.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "soon",
         "blood",
-        "drones",
+        "vessels",
+        "some",
+        "malformations",
+        "while",
+        "others",
+        "cells",
+        "same"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-25T21:37:58.030386+00:00"
+    },
+    {
+      "id": "rss-0575dd21d31f",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Creatine is popular with bodybuilders—could it help older adults stay independent?",
+      "authors": "Medical Xpress",
+      "abstract": "Climbing stairs or getting out of a chair can become harder with age, partly because muscle mass and strength tend to decline.",
+      "date": "2026-11-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-creatine-popular-bodybuilders-older-adults.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "creatine",
+        "popular",
+        "bodybuilders",
         "could",
-        "defibrillators",
-        "medicine",
-        "patients",
-        "paramedics"
+        "help",
+        "older",
+        "adults",
+        "stay"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.001218+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.030545+00:00"
     },
     {
-      "id": "rss-3eb24e640b26",
+      "id": "rss-0f70d708cce2",
       "discipline": "clinical",
       "type": "news",
-      "title": "Disrupting a developing brain circuit in adolescence may have lasting social effects",
+      "title": "Date-rape drug GHB disappears within hours, but molecular trace could reveal use two days later",
       "authors": "Medical Xpress",
-      "abstract": "Adolescence is often described as a turbulent period of life marked by growing independence, changing social relationships and unpredictable shifts in behavior. According to researchers, tweens' and teens' behavioral changes reflect a brain that is still actively developing, yet scientists know surprisingly little about the neural mechanisms that shape social behavior during this critical stage of life.",
+      "abstract": "GHB has long posed a major challenge for the criminal justice system. The substance is eliminated from the body so quickly that proving cases of drugging and drug-facilitated rape can be extremely difficult. Now, researchers at Aarhus University have made a crucial discovery.",
       "date": "2026-11-25",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-disrupting-brain-circuit-adolescence-social.html",
+      "url": "https://medicalxpress.com/news/2026-11-date-rape-drug-ghb-hours.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "social",
-        "developing",
-        "brain",
-        "adolescence",
-        "life",
-        "behavior",
-        "that",
-        "disrupting"
+        "date-rape",
+        "drug",
+        "disappears",
+        "within",
+        "hours",
+        "molecular",
+        "trace",
+        "could"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.001404+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.030713+00:00"
     },
     {
-      "id": "rss-8d73d42c3e78",
+      "id": "rss-55d112f9a1fa",
       "discipline": "clinical",
       "type": "news",
-      "title": "England shows widest socioeconomic gap in frailty among 31 countries",
+      "title": "Early-life stress may leave lasting traces in the brain that increase risk of chronic pain",
       "authors": "Medical Xpress",
-      "abstract": "Older adults from disadvantaged socioeconomic backgrounds experience greater levels of frailty, with England showing the biggest gap between socioeconomic groups among the 31 countries studied.",
+      "abstract": "Researchers from the Heidelberg Faculty of Medicine of Heidelberg University and the Central Institute of Mental Health (ZI) in Mannheim have identified a neural mechanism in female mice through which early-life stress may increase vulnerability to chronic pain and anxiety disorders. The findings have been published in the journal Science.",
       "date": "2026-11-25",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-england-widest-socioeconomic-gap-frailty.html",
+      "url": "https://medicalxpress.com/news/2026-11-early-life-stress-brain-chronic.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "socioeconomic",
-        "england",
-        "frailty",
-        "among",
-        "countries",
+        "early-life",
+        "stress",
+        "increase",
+        "chronic",
+        "pain",
+        "heidelberg",
+        "have",
+        "leave"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-25T21:37:58.030891+00:00"
+    },
+    {
+      "id": "rss-ff1d85b9e1b5",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "AI could identify psoriasis and assess its severity from a single photo",
+      "authors": "Medical Xpress",
+      "abstract": "Widely available artificial intelligence models could not only recognize psoriasis from a single photo but also assess its severity, according to an international study by researchers at Semmelweis University. The study, published in Frontiers in Medicine, found that ChatGPT-5 identified the skin condition and correctly assessed its severity with nearly 100% accuracy. However, the researchers caution that, despite the promising results, artificial intelligence cannot replace dermatologists, and anyone experiencing symptoms should seek professional medical advice.",
+      "date": "2026-11-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-ai-psoriasis-severity-photo.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "severity",
+        "could",
+        "psoriasis",
+        "assess",
+        "single",
+        "photo",
+        "artificial",
+        "intelligence"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-25T21:37:58.031090+00:00"
+    },
+    {
+      "id": "rss-f6ff1668a625",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Alzheimer's drug targets tau protein in promising clinical trial",
+      "authors": "Medical Xpress",
+      "abstract": "An experimental Alzheimer's drug that reduces the production of a protein called tau has slowed the decline in memory and thinking skills by up to 54% in a clinical trial.",
+      "date": "2026-11-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-alzheimer-drug-tau-protein-clinical.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "alzheimer",
+        "drug",
+        "protein",
+        "clinical",
+        "trial",
+        "targets",
+        "promising",
+        "experimental"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-25T21:37:58.031245+00:00"
+    },
+    {
+      "id": "rss-01583a263806",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Smoking injures the placenta early in pregnancy, study shows",
+      "authors": "Medical Xpress",
+      "abstract": "It is well known that women who smoke during pregnancy put their unborn babies at risk of being born prematurely or with low birth weight. Tobacco smoke can also injure a growing baby's organs.",
+      "date": "2026-11-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-placenta-early-pregnancy.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "pregnancy",
+        "smoke",
+        "smoking",
+        "injures",
+        "placenta",
+        "early",
         "shows",
-        "widest",
-        "older"
+        "well"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.001595+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.031401+00:00"
     },
     {
-      "id": "rss-6c7599cfde05",
+      "id": "rss-5b61d92b9306",
       "discipline": "clinical",
       "type": "news",
-      "title": "Prior authorization limits help expand opioid addiction treatment where approvals were a frequent roadblock, study finds",
+      "title": "How appreciating nature can make life feel more meaningful",
       "authors": "Medical Xpress",
-      "abstract": "State laws limiting prior authorization requirements for opioid use disorder medications were associated with increased buprenorphine use in Medicaid, but only in states where those requirements were frequent barriers to access, according to a new study led by University of Michigan researchers.",
+      "abstract": "Spending time outdoors can influence how a person feels, but researchers at Texas A&M University wanted to understand why.",
       "date": "2026-11-25",
       "year": 2026,
       "journal": "Medical Xpress",
       "source": "Medical Xpress",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-prior-authorization-limits-opioid-addiction.html",
+      "url": "https://medicalxpress.com/news/2026-11-nature-life-meaningful.html",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
+        "appreciating",
+        "nature",
+        "make",
+        "life",
+        "feel",
+        "more",
+        "meaningful",
+        "spending"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-25T21:37:58.031545+00:00"
+    },
+    {
+      "id": "rss-e30e4f566dd9",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Teenage girls more in tune with their bodies tend to be happier with how they look",
+      "authors": "Medical Xpress",
+      "abstract": "Teenage girls who are better at recognizing signals from inside their bodies tend to be happier with how they look, according to new research.",
+      "date": "2026-11-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-teenage-girls-tune-bodies-tend.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "teenage",
+        "girls",
+        "their",
+        "bodies",
+        "tend",
+        "happier",
+        "they",
+        "look"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-25T21:37:58.031689+00:00"
+    },
+    {
+      "id": "rss-6f219925cb10",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Rare sugar d-sorbose may help control allergic and autoimmune diseases",
+      "authors": "Medical Xpress",
+      "abstract": "Rare sugars are naturally occurring monosaccharides that are scarce in nature and are not readily used by the body as energy sources. Some have physiological effects beyond sweetness, raising interest in their potential health applications. One such sugar, d-sorbose, is a structural relative of d-fructose, but its effects on immune cells have remained unclear. Regulatory T cells (Tregs), identified by the Foxp3 protein, help restrain excessive immune responses and maintain immune balance. Whether a rare sugar can promote these cells has been little explored.",
+      "date": "2026-11-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-rare-sugar-d-sorbose-allergic.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "rare",
+        "sugar",
+        "immune",
+        "cells",
+        "d-sorbose",
+        "help",
+        "have",
+        "effects"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-25T21:37:58.031894+00:00"
+    },
+    {
+      "id": "rss-12e9dc5bd1da",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Patients in Indian clinic were well served by standard WHO-recommended HIV treatment, study finds",
+      "authors": "Medical Xpress",
+      "abstract": "A McGill-led study of HIV patients in Pune, India, who received the tenofovir, lamivudine and dolutegravir (TLD) drug regimen found no improvement in outcomes for those who received versions of the treatment tailored to their personal characteristics.",
+      "date": "2026-11-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-patients-indian-clinic-standard-hiv.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "patients",
+        "treatment",
+        "received",
+        "indian",
+        "clinic",
         "were",
-        "prior",
-        "authorization",
-        "opioid",
-        "where",
-        "frequent",
-        "requirements",
+        "well",
+        "served"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-25T21:37:58.032048+00:00"
+    },
+    {
+      "id": "rss-f8c93d147d4c",
+      "discipline": "clinical",
+      "type": "news",
+      "title": "Brain organoids in space reveal new clues to Alzheimer's disease",
+      "authors": "Medical Xpress",
+      "abstract": "Researchers at the University of California San Diego have found that spaceflight alters biological processes associated with Alzheimer's disease in different ways depending on genetic background. The study, published on Nov. 25, 2026, in Science Advances, suggests space could reveal changes in brain cells that are difficult to detect on Earth.",
+      "date": "2026-11-25",
+      "year": 2026,
+      "journal": "Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceApi": "RSS",
+      "url": "https://medicalxpress.com/news/2026-11-brain-organoids-space-reveal-clues.html",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "brain",
+        "space",
+        "reveal",
+        "alzheimer",
+        "disease",
+        "that",
+        "organoids",
+        "clues"
+      ],
+      "readTime": "1 min",
+      "citedBy": 0,
+      "qualityScore": 78.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-25T21:37:58.032227+00:00"
+    },
+    {
+      "id": "rss-7ae288618b0f",
+      "discipline": "cs",
+      "type": "news",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "authors": "TechCrunch AI",
+      "abstract": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "date": "2026-11-25",
+      "year": 2026,
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "sourceApi": "RSS",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "doi": "",
+      "pdfUrl": "",
+      "keywords": [
+        "openai",
+        "chatgpt",
+        "chat",
+        "work",
+        "says",
+        "heavy",
+        "users",
         "limits"
       ],
       "readTime": "1 min",
@@ -196,263 +484,231 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.001774+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.108297+00:00"
     },
     {
-      "id": "rss-50af4485b115",
-      "discipline": "clinical",
+      "id": "rss-41f98a0fcf85",
+      "discipline": "cs",
       "type": "news",
-      "title": "FDA approves bezuclastinib in combination with sunitinib as new second-line therapy for patients with GIST",
-      "authors": "Medical Xpress",
-      "abstract": "The U.S. Food and Drug Administration (FDA) has approved a combination of bezuclastinib plus sunitinib as second-line therapy after first-line treatment with imatinib for adults with advanced gastrointestinal stromal tumors (GIST) based on evidence from the phase 3 PEAK study led by Dana-Farber Cancer Institute showing that the combination outperformed standard therapy with sunitinib alone.",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "authors": "TechCrunch AI",
+      "abstract": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
       "date": "2026-11-25",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-fda-bezuclastinib-combination-sunitinib-line.html",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "combination",
-        "sunitinib",
-        "therapy",
-        "bezuclastinib",
-        "second-line",
-        "gist",
-        "approves",
-        "patients"
+        "nvidia",
+        "conduct",
+        "jensen",
+        "huang",
+        "broke",
+        "code",
+        "employees",
+        "forget"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.001943+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.108463+00:00"
     },
     {
-      "id": "rss-e2c9e9cabf94",
-      "discipline": "clinical",
+      "id": "rss-2963bd215a19",
+      "discipline": "cs",
       "type": "news",
-      "title": "Reducing or quitting smoking linked to lower risk for developing psoriasis",
-      "authors": "Medical Xpress",
-      "abstract": "Smoking reduction is associated with a reduced risk for developing psoriasis, including psoriasis vulgaris (PsV) and palmoplantar pustulosis (PPP), according to a research letter published online Nov. 18 in JAMA Dermatology.",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "authors": "TechCrunch AI",
+      "abstract": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
       "date": "2026-11-25",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-linked-psoriasis.html",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "psoriasis",
-        "smoking",
-        "risk",
-        "developing",
-        "reducing",
-        "quitting",
-        "linked",
-        "lower"
+        "anthropic",
+        "dario",
+        "amodei",
+        "accusations",
+        "surrendering",
+        "human",
+        "calls",
+        "control"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.002084+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.108603+00:00"
     },
     {
-      "id": "rss-eb726537a0db",
-      "discipline": "clinical",
+      "id": "rss-30524168351b",
+      "discipline": "cs",
       "type": "news",
-      "title": "Inflammatory bowel disease linked to increased risk for cirrhosis",
-      "authors": "Medical Xpress",
-      "abstract": "Inflammatory bowel disease (IBD), especially ulcerative colitis, is associated with an increased risk for cirrhosis diagnosis, according to a study recently published in Sage Open Chronic Diseases.",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "authors": "TechCrunch AI",
+      "abstract": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
       "date": "2026-11-25",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-inflammatory-bowel-disease-linked-cirrhosis.html",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "inflammatory",
-        "bowel",
-        "disease",
-        "increased",
-        "risk",
-        "cirrhosis",
-        "linked",
-        "especially"
+        "york",
+        "want",
+        "your",
+        "this",
+        "christmas",
+        "banned",
+        "chatbot",
+        "toys"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.002222+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.108722+00:00"
     },
     {
-      "id": "rss-81eb286dc078",
-      "discipline": "clinical",
+      "id": "rss-2bc2686cbeba",
+      "discipline": "cs",
       "type": "news",
-      "title": "FDA approves Nelkarmi for ALK-positive non-small cell lung cancer",
-      "authors": "Medical Xpress",
-      "abstract": "The U.S. Food and Drug Administration has granted approval to Nelkarmi (neladalkib), a kinase inhibitor, for adults with locally advanced or metastatic anaplastic lymphoma kinase (ALK)-positive non-small cell lung cancer (NSCLC) who were previously treated. The approval was granted to Nuvalent and GSK.",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "authors": "TechCrunch AI",
+      "abstract": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
       "date": "2026-11-25",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-fda-nelkarmi-alk-positive-small.html",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "nelkarmi",
-        "non-small",
-        "cell",
-        "lung",
-        "cancer",
-        "granted",
-        "approval",
-        "kinase"
+        "character",
+        "state",
+        "million",
+        "plan",
+        "auction",
+        "users",
+        "private",
+        "chats"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.002373+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.108845+00:00"
     },
     {
-      "id": "rss-bb6ea97c93f0",
-      "discipline": "clinical",
+      "id": "rss-dd65f3c0311b",
+      "discipline": "cs",
       "type": "news",
-      "title": "Common patterns of b/tsDMARD use identified in rheumatoid arthritis",
-      "authors": "Medical Xpress",
-      "abstract": "Common patterns of biologic and targeted synthetic disease-modifying antirheumatic drug (b/tsDMARD) use are seen among patients with rheumatoid arthritis (RA), and these patterns are associated with underlying genetic associations, according to a study published online Nov. 20 in Arthritis & Rheumatology.",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "authors": "TechCrunch AI",
+      "abstract": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]",
       "date": "2026-11-25",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-common-patterns-btsdmard-rheumatoid-arthritis.html",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "patterns",
-        "arthritis",
-        "common",
-        "tsdmard",
-        "rheumatoid",
-        "identified",
-        "biologic",
-        "targeted"
+        "that",
+        "neoclouds",
+        "more",
+        "centers",
+        "becoming",
+        "harder",
+        "build",
+        "feeling"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.002525+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.109014+00:00"
     },
     {
-      "id": "rss-032caaf87d0f",
-      "discipline": "clinical",
+      "id": "rss-c025d44341ed",
+      "discipline": "cs",
       "type": "news",
-      "title": "How methylmercury impairs forebrain inhibitory circuits and induces abnormal behavior in mice",
-      "authors": "Medical Xpress",
-      "abstract": "Global efforts have sought to reduce mercury pollution, but methylmercury (MeHg) remains a persistent environmental hazard that bioaccumulates in aquatic food chains. Humans are exposed to MeHg primarily through contaminated seafood. Minamata disease, officially recognized in Japan in 1956, demonstrated the devastating neurological consequences of MeHg poisoning. Since then, researchers have investigated its neurotoxic effects, including sensory, motor and psychiatric symptoms. Despite clinical reports of behavioral disturbances in people affected by MeHg poisoning, the neural circuits underlying these abnormalities remain poorly understood.",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "authors": "TechCrunch AI",
+      "abstract": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
       "date": "2026-11-25",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-methylmercury-impairs-forebrain-inhibitory-circuits.html",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "mehg",
-        "methylmercury",
-        "circuits",
-        "have",
-        "poisoning",
-        "impairs",
-        "forebrain",
-        "inhibitory"
+        "amazon",
+        "meta",
+        "blockade",
+        "muse",
+        "reportedly",
+        "talks",
+        "lift",
+        "agent"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.002779+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.109117+00:00"
     },
     {
-      "id": "rss-dd8d349aa2b1",
-      "discipline": "clinical",
+      "id": "rss-7656693acbc4",
+      "discipline": "cs",
       "type": "news",
-      "title": "HIV viral control is necessary but not sufficient for healthy aging",
-      "authors": "Medical Xpress",
-      "abstract": "Individuals with HIV show signs of faster biological aging compared with people without HIV. In other words, indicators of bodily functions that can be measured in the blood appear more like those of an older individual than those of someone the same age.",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "authors": "TechCrunch AI",
+      "abstract": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
       "date": "2026-11-25",
       "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
+      "journal": "TechCrunch AI",
+      "source": "TechCrunch AI",
       "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-hiv-viral-sufficient-healthy-aging.html",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
       "doi": "",
       "pdfUrl": "",
       "keywords": [
-        "aging",
-        "those",
-        "viral",
-        "control",
-        "necessary",
-        "sufficient",
-        "healthy",
-        "individuals"
+        "megaspeed",
+        "huang",
+        "nvidia",
+        "about",
+        "questions",
+        "jensen",
+        "will",
+        "still"
       ],
       "readTime": "1 min",
       "citedBy": 0,
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.002933+00:00"
-    },
-    {
-      "id": "rss-53ac9d186037",
-      "discipline": "clinical",
-      "type": "news",
-      "title": "Doctors report less burnout in practices they rate as efficient, even during long workweeks",
-      "authors": "Medical Xpress",
-      "abstract": "When it comes to physician burnout, how you spend your working hours may matter more than how many hours you work.",
-      "date": "2026-11-25",
-      "year": 2026,
-      "journal": "Medical Xpress",
-      "source": "Medical Xpress",
-      "sourceApi": "RSS",
-      "url": "https://medicalxpress.com/news/2026-11-doctors-burnout-efficient-workweeks.html",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "burnout",
-        "hours",
-        "doctors",
-        "report",
-        "less",
-        "practices",
-        "they",
-        "rate"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.003066+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.109266+00:00"
     },
     {
       "id": "rss-267ad8bc96ad",
@@ -484,7 +740,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.064279+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.109439+00:00"
     },
     {
       "id": "rss-f68996a7c83b",
@@ -516,7 +772,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.064428+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.109542+00:00"
     },
     {
       "id": "rss-8658d5cd83de",
@@ -548,7 +804,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.064546+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.109652+00:00"
     },
     {
       "id": "rss-9bcf14c04d2e",
@@ -580,7 +836,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.064681+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.109762+00:00"
     },
     {
       "id": "rss-2f3df1d2bd19",
@@ -612,7 +868,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.064785+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.109862+00:00"
     },
     {
       "id": "rss-df14ece3e921",
@@ -644,231 +900,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.064884+00:00"
-    },
-    {
-      "id": "rss-ed4aa4f23c6f",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "authors": "TechCrunch AI",
-      "abstract": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
-      "date": "2026-11-24",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "anthropic",
-        "shares",
-        "fall",
-        "below",
-        "price",
-        "worrying",
-        "sign",
-        "startups"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.064977+00:00"
-    },
-    {
-      "id": "rss-0e828c1b105c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "authors": "TechCrunch AI",
-      "abstract": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-      "date": "2026-11-24",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "security",
-        "warns",
-        "ai-driven",
-        "cyberattacks",
-        "exposing",
-        "years",
-        "weak",
-        "british"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.065075+00:00"
-    },
-    {
-      "id": "rss-50f0d72d36d2",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "authors": "TechCrunch AI",
-      "abstract": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-      "date": "2026-11-24",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "muse",
-        "instagram",
-        "meta",
-        "brings",
-        "assistant",
-        "directly",
-        "integration",
-        "gets"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.065172+00:00"
-    },
-    {
-      "id": "rss-3eb10bfb056c",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-      "authors": "TechCrunch AI",
-      "abstract": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
-      "date": "2026-11-24",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "tidal",
-        "remove",
-        "millions",
-        "ai-generated",
-        "tracks",
-        "slop",
-        "inundates",
-        "music"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.065267+00:00"
-    },
-    {
-      "id": "rss-5fac738785c6",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-      "authors": "TechCrunch AI",
-      "abstract": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
-      "date": "2026-11-24",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "crusoe",
-        "solar",
-        "power",
-        "centers",
-        "investor",
-        "betting",
-        "batteries",
-        "future"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.065366+00:00"
-    },
-    {
-      "id": "rss-e43f582ee4b9",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-      "authors": "TechCrunch AI",
-      "abstract": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
-      "date": "2026-11-24",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "pinterest",
-        "content",
-        "their",
-        "teens",
-        "will",
-        "parents",
-        "limit",
-        "ai-generated"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.065462+00:00"
-    },
-    {
-      "id": "rss-ec798dd9962e",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-      "authors": "TechCrunch AI",
-      "abstract": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-      "date": "2026-11-24",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "amazon",
-        "decart",
-        "acquisition",
-        "software",
-        "narrow",
-        "silicon",
-        "nvidia",
-        "decision"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.065571+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.109963+00:00"
     },
     {
       "id": "rss-18f6fe74a977",
@@ -900,7 +932,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.160050+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.286967+00:00"
     },
     {
       "id": "rss-3344ce7de3e7",
@@ -932,7 +964,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.536933+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.471092+00:00"
     },
     {
       "id": "rss-62726e3dbe05",
@@ -964,39 +996,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.537738+00:00"
-    },
-    {
-      "id": "rss-329e61420d23",
-      "discipline": "cs",
-      "type": "news",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "authors": "TechCrunch AI",
-      "abstract": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "date": "2026-11-23",
-      "year": 2026,
-      "journal": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "sourceApi": "RSS",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "doi": "",
-      "pdfUrl": "",
-      "keywords": [
-        "anthropic",
-        "letting",
-        "agents",
-        "code",
-        "launches",
-        "claude",
-        "ship",
-        "review"
-      ],
-      "readTime": "1 min",
-      "citedBy": 0,
-      "qualityScore": 78.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.065685+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.471959+00:00"
     },
     {
       "id": "rss-b32ac07624da",
@@ -1028,7 +1028,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.160180+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.287105+00:00"
     },
     {
       "id": "rss-0b0fc91a6fe7",
@@ -1060,7 +1060,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.160305+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.287263+00:00"
     },
     {
       "id": "rss-8f43ebd24f86",
@@ -1092,7 +1092,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.538094+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.472305+00:00"
     },
     {
       "id": "rss-1be0c8be1e90",
@@ -1124,7 +1124,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.538266+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.472464+00:00"
     },
     {
       "id": "rss-221852fdc1d5",
@@ -1156,7 +1156,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.160430+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.287407+00:00"
     },
     {
       "id": "rss-919b9e2571a0",
@@ -1188,7 +1188,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.160536+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.287516+00:00"
     },
     {
       "id": "rss-ed058fad0abe",
@@ -1220,7 +1220,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.160683+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.287626+00:00"
     },
     {
       "id": "rss-14aaaf5d0ed3",
@@ -1252,7 +1252,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.538417+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.472615+00:00"
     },
     {
       "id": "rss-38f03c05cd46",
@@ -1284,7 +1284,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.160803+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.287742+00:00"
     },
     {
       "id": "rss-3a9a5bd5a16e",
@@ -1316,7 +1316,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.160916+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.287857+00:00"
     },
     {
       "id": "rss-d64bb8f2ab80",
@@ -1348,7 +1348,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.161019+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.287961+00:00"
     },
     {
       "id": "rss-ba4aafa8c0e1",
@@ -1380,7 +1380,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.161118+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.288065+00:00"
     },
     {
       "id": "openalex-b11d43e8145b",
@@ -1408,11 +1408,11 @@
         "sobre"
       ],
       "readTime": "1 min",
-      "citedBy": 22,
+      "citedBy": 17,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.720914+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.088254+00:00"
     },
     {
       "id": "rss-d75f12a13840",
@@ -1444,7 +1444,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.161213+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.288163+00:00"
     },
     {
       "id": "rss-226d0308c9bb",
@@ -1476,7 +1476,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.161320+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.288284+00:00"
     },
     {
       "id": "rss-a3318adbd022",
@@ -1508,7 +1508,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.161417+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.288414+00:00"
     },
     {
       "id": "rss-319b5da90ee2",
@@ -1540,7 +1540,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.161516+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.288523+00:00"
     },
     {
       "id": "rss-00819e71329f",
@@ -1572,7 +1572,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.538528+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.472726+00:00"
     },
     {
       "id": "rss-52c6da3b3f36",
@@ -1604,7 +1604,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.538677+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.472853+00:00"
     },
     {
       "id": "openalex-2f8ba3b4c4c1",
@@ -1636,7 +1636,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:59.474460+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.759897+00:00"
     },
     {
       "id": "rss-ee3b71fee41a",
@@ -1668,7 +1668,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.538896+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.473063+00:00"
     },
     {
       "id": "rss-948f337f76fa",
@@ -1700,7 +1700,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.539054+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.473232+00:00"
     },
     {
       "id": "openalex-0b9047ccb233",
@@ -1728,11 +1728,11 @@
         "Information and Cyber Security"
       ],
       "readTime": "2 min",
-      "citedBy": 512,
+      "citedBy": 507,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:57.505283+00:00"
+      "_retrievedAt": "2026-11-25T21:37:51.792047+00:00"
     },
     {
       "id": "openalex-1460ec1614d2",
@@ -1740,7 +1740,7 @@
       "type": "paper",
       "title": "Decoding the regulatory programs governing glioblastoma plasticity",
       "authors": "Manu Saraswat, Laura Rueda-Gensini, Elisa Heinzelmann, Tannia Gracia, Fani Memi, Grant de Jong",
-      "abstract": "Glioblastoma is incurable and resistant to therapy despite genomic stability under treatment 1–8 , suggesting that non-genetic cellular plasticity is a central driver of progression. Whether such plasticity reflects stochastic state switching or is governed by predictable gene regulation has remained unclear 9–13 . Here we introduce scDORI (single-cell deep multi-omic regulatory inference)—a deep-learning framework that infers enhancer-driven gene-regulatory networks at single-cell resolution—and apply it to single-nucleus multiome profiles of more than one million cells from primary glioblastomas. Integrating computational inference with systematic perturbation screens across patient-derived models, we show that a structured regulatory program with an asymmetric interplay of activators and repressors governs cellular plasticity in glioblastoma. The resulting transition landscape is h...",
+      "abstract": "Glioblastoma is incurable and resistant to therapy despite genomic stability under treatment1-8, suggesting that non-genetic cellular plasticity is a central driver of progression. Whether such plasticity reflects stochastic state switching or is governed by predictable gene regulation has remained unclear9-13. Here we introduce scDORI (single-cell deep multi-omic regulatory inference)-a deep-learning framework that infers enhancer-driven gene-regulatory networks at single-cell resolution-and apply it to single-nucleus multiome profiles of more than one million cells from primary glioblastomas. Integrating computational inference with systematic perturbation screens across patient-derived models, we show that a structured regulatory program with an asymmetric interplay of activators and repressors governs cellular plasticity in glioblastoma. The resulting transition landscape is hiera...",
       "date": "2026-11-04",
       "year": 2026,
       "journal": "Nature",
@@ -1764,7 +1764,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.087888+00:00"
+      "_retrievedAt": "2026-11-25T21:37:52.393091+00:00"
     },
     {
       "id": "rss-36da62e14d67",
@@ -1796,7 +1796,7 @@
       "qualityScore": 78.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:24:05.539521+00:00"
+      "_retrievedAt": "2026-11-25T21:37:58.473698+00:00"
     },
     {
       "id": "openalex-b76d52d91fce",
@@ -1828,7 +1828,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.087364+00:00"
+      "_retrievedAt": "2026-11-25T21:37:52.392134+00:00"
     },
     {
       "id": "openalex-11b5190cd445",
@@ -1860,7 +1860,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:59.472936+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.758075+00:00"
     },
     {
       "id": "openalex-b9713b9a252a",
@@ -1888,11 +1888,11 @@
         "Sphingolipid Metabolism and Signaling"
       ],
       "readTime": "1 min",
-      "citedBy": 26,
+      "citedBy": 21,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.086955+00:00"
+      "_retrievedAt": "2026-11-25T21:37:52.392610+00:00"
     },
     {
       "id": "openalex-818836e119b0",
@@ -1924,7 +1924,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:59.473991+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.759150+00:00"
     },
     {
       "id": "openalex-cb3cbda06d84",
@@ -1952,11 +1952,11 @@
         "Explainable Artificial Intelligence (XAI)"
       ],
       "readTime": "1 min",
-      "citedBy": 310,
+      "citedBy": 298,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:57.506762+00:00"
+      "_retrievedAt": "2026-11-25T21:37:51.793525+00:00"
     },
     {
       "id": "openalex-167b6533ff80",
@@ -1964,7 +1964,7 @@
       "type": "paper",
       "title": "Rare and common genetic variants shape single-cell immune gene expression",
       "authors": "Anna S. E. Cuomo, Eleanor Spenceley, Hope A. Tanudisastro, Blake Bowen, Albert Henry, Hao Lawrence Huang",
-      "abstract": "Understanding the genetic basis of gene expression can shed light on the regulatory mechanisms underlying complex traits and diseases. Single cell-resolved measures of RNA levels and single-cell expression quantitative trait loci (sc-eQTLs) have revealed genetic regulation that drives sub-tissue cell states and types across diverse human tissues. Here, we describe the first phase of TenK10K, the largest-to-date dataset of matched whole-genome sequencing (WGS) and single-cell RNA-sequencing (scRNA-seq). We leverage scRNA-seq data from over 5 million cells across 28 immune cell types, and matched WGS, from 1,925 individuals, which provides power to detect associations between rare and low-frequency genetic variants that have largely been uncharacterised in their impact on cell-specific gene expression. We map the effects of both common and rare variants in a cell type-specific manner us...",
+      "abstract": "Understanding the genetic basis of gene expression can shed light on the regulatory mechanisms underlying complex traits and diseases1,2. Single-cell-resolved measures of RNA levels and single-cell expression quantitative trait loci have revealed genetic regulation that drives cell states and types across diverse tissues3. Here we describe phase 1 of TenK10K, which leverages single-cell RNA sequencing data from more than 5 million cells across 28 immune cell types, along with matched whole-genome sequencing data from 1,925 individuals. This provides power to detect associations for rare and low-frequency genetic variants that have largely been uncharacterized in their impact on cell-specific gene expression. We map the effects of both common and rare variants in a cell-type-specific manner using a recent method that increases power by modelling single cells directly rather than aggreg...",
       "date": "2026-10-28",
       "year": 2026,
       "journal": "Nature",
@@ -1988,7 +1988,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.085991+00:00"
+      "_retrievedAt": "2026-11-25T21:37:52.391176+00:00"
     },
     {
       "id": "openalex-b6a1a7e57956",
@@ -2020,7 +2020,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.720362+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.087010+00:00"
     },
     {
       "id": "openalex-5ab5668168ae",
@@ -2052,7 +2052,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:59.473444+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.758602+00:00"
     },
     {
       "id": "openalex-8824f3740ac6",
@@ -2084,7 +2084,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.720593+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.087233+00:00"
     },
     {
       "id": "openalex-c9e25d56c4a1",
@@ -2112,43 +2112,11 @@
         "Atmospheric chemistry and aerosols"
       ],
       "readTime": "1 min",
-      "citedBy": 8,
+      "citedBy": 9,
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:59.474715+00:00"
-    },
-    {
-      "id": "openalex-c2a093804030",
-      "discipline": "clinical",
-      "type": "paper",
-      "title": "International Journal of Complementary & Alternative Medicine",
-      "authors": "OpenAlex indexed authors",
-      "abstract": "There is a growing demand for integrative and complementary therapies for various health conditions, while the mechanisms and biological pathways for some of these therapies are poorly explored.In particular, bioelectric, biomagnetic and anthropogenic fields interact with biological structures such as tissues, cells and DNA.It is suggested that these interactions may create an integrated system of internal communication, with the potential to promote therapeutic benefits.The theoretical model Biofield-Tissue Tensegrity Matrix (BTTM) is presented by combining concepts from physics, biology and medicine to serve as a possible theoretical basis for energy therapies.",
-      "date": "2026-10-13",
-      "year": 2026,
-      "journal": "International Journal of Complementary & Alternative Medicine",
-      "source": "International Journal of Complementary & Alternative Medicine",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.15406/ijcam",
-      "doi": "10.15406/ijcam",
-      "pdfUrl": "https://medcraveonline.com/IJCAM/IJCAM-18-00731.pdf",
-      "keywords": [
-        "Library science",
-        "Medicine",
-        "Computer science",
-        "Biofield Effects and Biophysics",
-        "Electromagnetic Fields and Biological Effects",
-        "Complementary and Alternative Medicine Studies",
-        "therapies",
-        "complementary"
-      ],
-      "readTime": "1 min",
-      "citedBy": 18,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.721738+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.759421+00:00"
     },
     {
       "id": "openalex-e93dd4d183a9",
@@ -2176,11 +2144,11 @@
         "Natural Language Processing Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 239,
+      "citedBy": 240,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:57.508410+00:00"
+      "_retrievedAt": "2026-11-25T21:37:51.794900+00:00"
     },
     {
       "id": "openalex-c40eb4a2963d",
@@ -2212,7 +2180,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:59.471679+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.757002+00:00"
     },
     {
       "id": "openalex-84e3fa65288d",
@@ -2240,11 +2208,11 @@
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 1075,
+      "citedBy": 1078,
       "qualityScore": 88.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:57.504661+00:00"
+      "_retrievedAt": "2026-11-25T21:37:51.791133+00:00"
     },
     {
       "id": "openalex-7a98c2b5c551",
@@ -2276,7 +2244,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.722217+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.088705+00:00"
     },
     {
       "id": "openalex-6922debe8e46",
@@ -2308,7 +2276,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:59.472643+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.757780+00:00"
     },
     {
       "id": "openalex-498f632ef884",
@@ -2336,11 +2304,11 @@
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 724,
+      "citedBy": 741,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:57.504939+00:00"
+      "_retrievedAt": "2026-11-25T21:37:51.791441+00:00"
     },
     {
       "id": "openalex-b66f3320b823",
@@ -2368,11 +2336,11 @@
         "Software Engineering Research"
       ],
       "readTime": "1 min",
-      "citedBy": 475,
+      "citedBy": 514,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:57.505530+00:00"
+      "_retrievedAt": "2026-11-25T21:37:51.791701+00:00"
     },
     {
       "id": "openalex-7b34ae166f70",
@@ -2400,11 +2368,11 @@
         "Topic Modeling"
       ],
       "readTime": "1 min",
-      "citedBy": 348,
+      "citedBy": 370,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:57.506533+00:00"
+      "_retrievedAt": "2026-11-25T21:37:51.792539+00:00"
     },
     {
       "id": "openalex-e0ef974b405d",
@@ -2432,11 +2400,11 @@
         "Ethics and Social Impacts of AI"
       ],
       "readTime": "1 min",
-      "citedBy": 307,
+      "citedBy": 327,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:57.507008+00:00"
+      "_retrievedAt": "2026-11-25T21:37:51.793305+00:00"
     },
     {
       "id": "openalex-61f534b0474a",
@@ -2464,11 +2432,11 @@
         "Neural Networks and Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 247,
+      "citedBy": 256,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:57.507970+00:00"
+      "_retrievedAt": "2026-11-25T21:37:51.793946+00:00"
     },
     {
       "id": "openalex-1331590492a4",
@@ -2496,11 +2464,11 @@
         "AI and Big Data Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 49,
+      "citedBy": 47,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:59.470997+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.756308+00:00"
     },
     {
       "id": "openalex-6a1f2ec1945a",
@@ -2528,11 +2496,43 @@
         "Traffic Prediction and Management Techniques"
       ],
       "readTime": "1 min",
-      "citedBy": 27,
+      "citedBy": 30,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:59.471465+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.756553+00:00"
+    },
+    {
+      "id": "openalex-be9ca80f43dd",
+      "discipline": "geo",
+      "type": "paper",
+      "title": "Unlocking Zero-Shot Geospatial Reasoning via Indirect Rewards",
+      "authors": "Chenhui Xu, Fuxun Yu, Michael J. Bianco, Jacob A. Kovarskiy, Raphael Tang, Qi Zhang",
+      "abstract": "Training robust reasoning vision-language models (VLMs) in rare domains (such as geospatial) is fundamentally constrained by supervision scarcity. While raw geospatial imagery is abundant, the amount of task-direct supervision falls far behind that of common domains. In this work, we validate an important conclusion: indirect verifiable rewards, derived from seemingly unrelated metadata, are sufficient to induce sophisticated and generalizable geospatial reasoning across a wide range of downstream tasks (25+). We present Geo-R1 as one empirical instantiation of this paradigm. Rather than relying on limited task-specific annotations (i.e., direct rewards), Geo-R1 utilizes scalable, verifiable indirect proxy rewards based on cross-view alignment with metadata (geolocation information) to drive reinforcement learning at scale. Such indirect rewards successfully motivate the model to disc...",
+      "date": "2026-09-29",
+      "year": 2026,
+      "journal": "International Conference on Machine Learning",
+      "source": "International Conference on Machine Learning",
+      "sourceApi": "OpenAlex",
+      "url": "https://proceedings.mlr.press/v306/xu26ca.html",
+      "doi": "10.48550/arxiv.2510.00072",
+      "pdfUrl": "https://arxiv.org/pdf/2510.00072",
+      "keywords": [
+        "Geospatial analysis",
+        "Computer science",
+        "Artificial intelligence",
+        "Reinforcement learning",
+        "Domain (mathematical analysis)",
+        "Multimodal Machine Learning Applications",
+        "Domain Adaptation and Few-Shot Learning",
+        "Advanced Neural Network Applications"
+      ],
+      "readTime": "1 min",
+      "citedBy": 8,
+      "qualityScore": 76.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-25T21:37:53.760170+00:00"
     },
     {
       "id": "openalex-4017ee65ef38",
@@ -2564,7 +2564,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.084706+00:00"
+      "_retrievedAt": "2026-11-25T21:37:52.389938+00:00"
     },
     {
       "id": "openalex-181683777d7b",
@@ -2592,11 +2592,11 @@
         "Electronic Health Records Systems"
       ],
       "readTime": "3 min",
-      "citedBy": 76,
+      "citedBy": 75,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.715604+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.078599+00:00"
     },
     {
       "id": "openalex-88c8bbfa038c",
@@ -2628,7 +2628,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.720123+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.086544+00:00"
     },
     {
       "id": "openalex-4b0e33566f22",
@@ -2656,11 +2656,11 @@
         "Biomedical Text Mining and Ontologies"
       ],
       "readTime": "1 min",
-      "citedBy": 23,
+      "citedBy": 29,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.720817+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.086766+00:00"
     },
     {
       "id": "openalex-cd41132c9d18",
@@ -2668,7 +2668,7 @@
       "type": "paper",
       "title": "Reimagining research papers as interactive and reliable AI agents",
       "authors": "Jiacheng Miao, Joe R. Davis, Yaohui Zhang, Jonathan K. Pritchard, James Zou",
-      "abstract": "Here we introduce Paper2Agent, an automated framework that converts research papers into artificial intelligence (AI) agents. Paper2Agent transforms research output from passive artefacts into active systems that accelerate use and discovery. Conventional research papers require readers to understand and adapt the paper’s code, data and methods to their work, creating barriers to dissemination and reuse. Paper2Agent addresses this challenge by converting a paper into an AI agent that functions as a virtual corresponding author, exposing its manuscript, supplementary materials, datasets, code and workflows as active, agent-native knowledge rather than static text. It analyses the paper and codebase using multiple agents to construct a model context protocol (MCP) server, then generates and runs tests to refine and increase robustness of the MCP. These paper MCPs can be connected to a c...",
+      "abstract": "Here we introduce Paper2Agent, an automated framework that converts research papers into artificial intelligence (AI) agents. Paper2Agent transforms research output from passive artefacts into active systems that accelerate use and discovery. Conventional research papers require readers to understand and adapt the paper's code, data and methods to their work, creating barriers to dissemination and reuse. Paper2Agent addresses this challenge by converting a paper into an AI agent that functions as a virtual corresponding author, exposing its manuscript, supplementary materials, datasets, code and workflows as active, agent-native knowledge rather than static text. It analyses the paper and codebase using multiple agents to construct a model context protocol (MCP) server, then generates and runs tests to refine and increase robustness of the MCP. These paper MCPs can be connected to a c...",
       "date": "2026-09-16",
       "year": 2026,
       "journal": "Nature",
@@ -2688,11 +2688,11 @@
         "Academic Writing and Publishing"
       ],
       "readTime": "1 min",
-      "citedBy": 88,
+      "citedBy": 89,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.085013+00:00"
+      "_retrievedAt": "2026-11-25T21:37:52.390235+00:00"
     },
     {
       "id": "openalex-014e44b613fc",
@@ -2724,7 +2724,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:59.471244+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.756797+00:00"
     },
     {
       "id": "openalex-4eeff6704837",
@@ -2756,7 +2756,7 @@
       "qualityScore": 76.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:59.474240+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.759672+00:00"
     },
     {
       "id": "openalex-8391e68a705c",
@@ -2788,7 +2788,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.721575+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.087941+00:00"
     },
     {
       "id": "openalex-bb23e4ef92cf",
@@ -2820,39 +2820,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.086224+00:00"
-    },
-    {
-      "id": "openalex-cd9c5bfb977c",
-      "discipline": "geo",
-      "type": "paper",
-      "title": "MERCATOR",
-      "authors": "Guillaume Bailly, Thomas Louche",
-      "abstract": "The advancement of predictive models by Machine Learning Algorithms (ML) associated with environmental data enables the improvement of models of environmental fragility, which are essential tools for decision-making.This study aimed to derive a prediction of environmental fragility by testing ML associated with environmental covariates in the state of Minas Gerais.We use physical-environmental variables (soil, geology, climate, relief) with a weight of fragility for the attributes and calculation of the average to obtain a model of Potential Environmental Fragility (PEF).Subsequently, we extracted the PEF values to a 4,800-point grid, which was used to generate a new prediction by ML called PEFML.This prediction was based on testing five algorithms and a set of 105 environmental covariates.The results indicated that the best-performing PEFML prediction was the Random Forest model (R2...",
-      "date": "2026-09-04",
-      "year": 2026,
-      "journal": "OpenAlex",
-      "source": "OpenAlex",
-      "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.4215/rm0000.0000.0000",
-      "doi": "10.4215/rm0000.0000.0000",
-      "pdfUrl": "http://www.mercator.ufc.br/mercator/article/view/e21034/1503",
-      "keywords": [
-        "Mercator projection",
-        "Geography",
-        "Cartography",
-        "Soil Geostatistics and Mapping",
-        "Geography and Environmental Studies",
-        "Soil and Land Suitability Analysis",
-        "environmental",
-        "fragility"
-      ],
-      "readTime": "1 min",
-      "citedBy": 20,
-      "qualityScore": 80.0,
-      "verified": true,
-      "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:59.472088+00:00"
+      "_retrievedAt": "2026-11-25T21:37:52.391417+00:00"
     },
     {
       "id": "openalex-7d5ef3fc71a6",
@@ -2884,7 +2852,7 @@
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:57.506076+00:00"
+      "_retrievedAt": "2026-11-25T21:37:51.792812+00:00"
     },
     {
       "id": "openalex-ee7054085a86",
@@ -2892,7 +2860,7 @@
       "type": "paper",
       "title": "VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning",
       "authors": "Guanxing Lu, Wenkai Guo, Chubin Zhang, Yuheng Zhou, Haonan Jiang, Zifeng Gao",
-      "abstract": "Recent high-capacity vision-language-action (VLA) models have demonstrated impressive performance on a range of robotic manipulation tasks by imitating human demonstrations. However, exploiting offline data with limited visited states will cause execution failure in out-of-distribution scenarios. Intuitively, an exploration-based method that improves on online collected data at test time could address this limitation. We present VLA-RL, an algorithmic and systematic framework that leverages online reinforcement learning (RL) to improve pretrained auto-regressive VLAs in downstream tasks. Within a unified perspective, we first introduce a trajectory-level RL formulation for auto-regressive VLA training, which models general robotic manipulation trajectory as multi-modal multi-turn conversation. To address the challenge of sparse rewards, we fine-tune a pretrained vision-language model...",
+      "abstract": "Recent high-capacity vision-language-action (VLA) models perform well on robotic manipulation by imitating human demonstrations, yet limited state coverage in offline data still causes failures in out-of-distribution scenarios. An exploration-based approach that improves from online data at test time can address this gap. We present VLA-RL, a systematic framework that leverages online reinforcement learning (RL) to improve pretrained auto-regressive VLAs on downstream tasks. Within a unified perspective, we cast robotic manipulation trajectories as multi-modal, multi-turn conversations to make RL optimization compatible with auto-regressive VLAs. To handle sparse rewards, we fine-tune a pretrained vision-language model as a robotic process reward model trained with pseudo reward labels from automatically extracted task segments. To scale up, we identify practical strategies that impro...",
       "date": "2026-09-01",
       "year": 2026,
       "journal": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
@@ -2912,11 +2880,11 @@
         "Multimodal Machine Learning Applications"
       ],
       "readTime": "1 min",
-      "citedBy": 248,
+      "citedBy": 252,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:57.507745+00:00"
+      "_retrievedAt": "2026-11-25T21:37:51.794174+00:00"
     },
     {
       "id": "openalex-518b9bf6cea9",
@@ -2944,43 +2912,43 @@
         "Probability and Statistical Research"
       ],
       "readTime": "1 min",
-      "citedBy": 243,
+      "citedBy": 244,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:57.508142+00:00"
+      "_retrievedAt": "2026-11-25T21:37:51.794622+00:00"
     },
     {
-      "id": "openalex-beb74fbd6dd4",
+      "id": "openalex-ca255fd3798b",
       "discipline": "clinical",
       "type": "paper",
-      "title": "Concerted changes in the pediatric single-cell intestinal ecosystem before and after anti-TNF blockade",
-      "authors": "Hengqi Betty Zheng, Benjamin A. Doran, Kyle Kimler, Alison Yu, Victor Tkachev, Veronika Niederlová",
-      "abstract": "Crohn’s disease is an inflammatory bowel disease (IBD) commonly treated through anti-TNF blockade. However, most patients still relapse and inevitably progress. Comprehensive single-cell RNA-sequencing (scRNA-seq) atlases have largely sampled patients with established treatment-refractory IBD, limiting our understanding of which cell types, subsets, and states at diagnosis anticipate disease severity and response to treatment. Here, through combining clinical, flow cytometry, histology, and scRNA-seq methods, we profile diagnostic human biopsies from the terminal ileum of treatment-naive pediatric patients with Crohn’s disease (pediCD; n = 14), matched repeat biopsies (pediCD-treated; n = 8) and from non-inflamed pediatric controls with functional gastrointestinal disorders (FGIDs; n = 13). To resolve and annotate epithelial, stromal, and immune cell states among the 201,883 baseline...",
+      "title": "Real-world treatment patterns and clinical outcomes in patients with emerging estrogen receptor 1 (ESR1)-mutated ER+ metastatic breast cancer in the U.S., 2018-2024",
+      "authors": "Jane Lowe Meisel, Clara Chen, Ayush Kris, Meng Ru, Timothy Pham, James Roose",
+      "abstract": "PURPOSE: Clinical studies have highlighted the potential utility of monitoring for Estrogen receptor alpha 1 (ESR1) mutation (m) (ESR1m) emergence during first-line therapy (1L) for metastatic breast cancer (mBC). However, less is known about the real-world practice for patients with emergent ESR1m before progression and their outcomes. This study aimed to characterize real-world treatment patterns among patients with mBC who underwent ESR1m mutation testing during first-line (1L) therapy, and to evaluate the association between ESR1m detection during 1L and clinical outcomes. METHODS: This retrospective, observational cohort study used the US-based, deidentified Flatiron Health Research Database and included patients diagnosed with ER+/human epidermal growth factor receptor 2-negative (HER2-) metastatic BC between 2018 and June 2024. rwOS and rwPFS were estimated using the Kaplan-Mei...",
       "date": "2026-09-01",
       "year": 2026,
-      "journal": "eLife",
-      "source": "eLife",
+      "journal": "Breast Cancer Research and Treatment",
+      "source": "Breast Cancer Research and Treatment",
       "sourceApi": "OpenAlex",
-      "url": "https://doi.org/10.7554/elife.91792.3",
-      "doi": "10.7554/elife.91792.3",
-      "pdfUrl": "https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvOTE3OTIvZWxpZmUtOTE3OTItdjEucGRmP2Nhbm9uaWNhbFVyaT1odHRwczovL2VsaWZlc2NpZW5jZXMub3JnL2FydGljbGVzLzkxNzky/elife-91792-v1.pdf?_hash=II34hMBTDNRTFE0vknwR88YH1aYn1wWZHHOBSIa37N0%3D",
+      "url": "https://doi.org/10.1007/s10549-026-08061-w",
+      "doi": "10.1007/s10549-026-08061-w",
+      "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s10549-026-08061-w.pdf",
       "keywords": [
-        "Irritable bowel syndrome",
-        "Flow cytometry",
-        "Disease",
-        "Paneth cell",
-        "Cell",
-        "Inflammatory Bowel Disease",
-        "Single-cell and spatial transcriptomics",
-        "Gut microbiota and health"
+        "Metastatic breast cancer",
+        "Medicine",
+        "Oncology",
+        "Estrogen receptor alpha",
+        "Internal medicine",
+        "Advanced Breast Cancer Therapies",
+        "Breast Cancer Treatment Studies",
+        "Prostate Cancer Treatment and Research"
       ],
       "readTime": "1 min",
-      "citedBy": 16,
+      "citedBy": 21,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.722527+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.087506+00:00"
     },
     {
       "id": "openalex-021b339d4b20",
@@ -3012,7 +2980,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:59.471893+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.757223+00:00"
     },
     {
       "id": "openalex-11499c8e3175",
@@ -3044,7 +3012,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:59.473202+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.758354+00:00"
     },
     {
       "id": "openalex-be864332263f",
@@ -3076,7 +3044,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.715931+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.086020+00:00"
     },
     {
       "id": "openalex-76c84c6076eb",
@@ -3084,7 +3052,7 @@
       "type": "paper",
       "title": "Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits",
       "authors": "Ronghui Zhu, Emma Dann, Jun Yan, Justine Reyes Retana, Ryunosuke Goto, Reese C Guitche",
-      "abstract": "Gene regulatory networks encode the fundamental logic of cellular functions, but systematic network mapping remains challenging, especially in cell states relevant to human biology and disease. Here, we perturbed all expressed genes across 22 million primary human CD4 + T cells from four donors and developed a probe-based perturb-seq platform to measure the transcriptome effects in cells at rest and after stimulation. These data allowed us to map genes regulating immune pathways, including previously uncharacterized regulators of cytokine production. Importantly, active regulators and the gene programs they control changed dramatically across stimulation conditions. Perturbation signatures enabled us to model T cell states observed in population-scale transcriptomic atlases, nominating regulators of T cell polarization and of age-related phenotypes. Finally, we leveraged perturb-seq t...",
+      "abstract": "Gene regulatory networks encode the fundamental logic of cellular functions, but systematic network mapping remains challenging, especially in cell states relevant to human biology and disease. Here, we perturbed all expressed genes across 22 million primary human CD4+ T cells from four donors and developed a probe-based perturb-seq platform to measure the transcriptome effects in cells at rest and after stimulation. These data allowed us to map genes regulating immune pathways, including previously uncharacterized regulators of cytokine production. Importantly, active regulators and the gene programs they control changed dramatically across stimulation conditions. Perturbation signatures enabled us to model T cell states observed in population-scale transcriptomic atlases, nominating regulators of T cell polarization and of age-related phenotypes. Finally, we leveraged perturb-seq to...",
       "date": "2026-08-28",
       "year": 2026,
       "journal": "Cell",
@@ -3108,7 +3076,39 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.085227+00:00"
+      "_retrievedAt": "2026-11-25T21:37:52.390454+00:00"
+    },
+    {
+      "id": "openalex-a3a6db878676",
+      "discipline": "clinical",
+      "type": "paper",
+      "title": "Fifth Universal Definition of Myocardial Infarction (2026)",
+      "authors": "Nicholas L. Mills, Laura Kristin Newby, Sarah J. Zaman, Wael A. Almahmeed, Chiara Bucciarelli‐Ducci, Monica M Colvin",
+      "abstract": "1. Executive summary 4 2. Context 4 3. Objective 5 4. What is new 5 5. Definition of myocardial infarction 5 6. Acute and chronic myocardial injury 7 6.1. Acute myocardial injury 8 6.2. Chronic myocardial injury 8 7. Classification of myocardial infarction 9 7.1. Approaches to the classification of myocardial infarction 9 7.1.1. Classification based on aetiology 9 7.1.2. Classification based on the electrocardiogram 10 7.2. Clinical classification of myocardial infarction 10 7.2.1. Primary myocardial infarction 10 7.2.2. Secondary myocardial infarction 13 7.2.3. Procedure-related myocardial infarction 16 8. Diagnosis of myocardial infarction following sudden death 19 9. Silent or unrecognized myocardial infarction 20 10. Unstable angina 20 11. Myocardial injury with non-obstructive coronary arteries 21 12. Symptoms of myocardial infarction 21 13. The electrocardiogram 21 14. Cardiac b...",
+      "date": "2026-08-28",
+      "year": 2026,
+      "journal": "Journal of the American College of Cardiology",
+      "source": "Journal of the American College of Cardiology",
+      "sourceApi": "OpenAlex",
+      "url": "https://doi.org/10.1016/j.jacc.2026.07.025",
+      "doi": "10.1016/j.jacc.2026.07.025",
+      "pdfUrl": "https://academic.oup.com/eurheartj/advance-article-pdf/doi/10.1093/eurheartj/ehag101/70792021/ehag101.pdf",
+      "keywords": [
+        "Medicine",
+        "Myocardial infarction",
+        "Cardiology",
+        "Internal medicine",
+        "Task force",
+        "Acute Myocardial Infarction Research",
+        "Cardiac Imaging and Diagnostics",
+        "Cardiac Ischemia and Reperfusion"
+      ],
+      "readTime": "21 min",
+      "citedBy": 61,
+      "qualityScore": 80.0,
+      "verified": true,
+      "_live": true,
+      "_retrievedAt": "2026-11-25T21:37:53.082995+00:00"
     },
     {
       "id": "openalex-693e4ce4acb8",
@@ -3136,11 +3136,11 @@
         "Cardiovascular and exercise physiology"
       ],
       "readTime": "19 min",
-      "citedBy": 49,
+      "citedBy": 57,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.719606+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.085675+00:00"
     },
     {
       "id": "openalex-772b7b4bc42c",
@@ -3168,11 +3168,11 @@
         "Tryptophan and brain disorders"
       ],
       "readTime": "1 min",
-      "citedBy": 18,
+      "citedBy": 17,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.088129+00:00"
+      "_retrievedAt": "2026-11-25T21:37:52.393614+00:00"
     },
     {
       "id": "openalex-6e7aa9ad6862",
@@ -3200,11 +3200,11 @@
         "Robot Manipulation and Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 405,
+      "citedBy": 417,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:57.505798+00:00"
+      "_retrievedAt": "2026-11-25T21:37:51.792323+00:00"
     },
     {
       "id": "openalex-514dbfd7d5d8",
@@ -3232,11 +3232,11 @@
         "Cancer Genomics and Diagnostics"
       ],
       "readTime": "1 min",
-      "citedBy": 21,
+      "citedBy": 20,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.087573+00:00"
+      "_retrievedAt": "2026-11-25T21:37:52.392829+00:00"
     },
     {
       "id": "openalex-26237de6c6dd",
@@ -3268,7 +3268,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.085698+00:00"
+      "_retrievedAt": "2026-11-25T21:37:52.390685+00:00"
     },
     {
       "id": "openalex-506180faa30c",
@@ -3296,11 +3296,11 @@
         "Genetically Modified Organisms Research"
       ],
       "readTime": "1 min",
-      "citedBy": 35,
+      "citedBy": 36,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.086471+00:00"
+      "_retrievedAt": "2026-11-25T21:37:52.391660+00:00"
     },
     {
       "id": "openalex-5d6d48b88b97",
@@ -3328,11 +3328,11 @@
         "Olfactory and Sensory Function Studies"
       ],
       "readTime": "1 min",
-      "citedBy": 23,
+      "citedBy": 22,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.087160+00:00"
+      "_retrievedAt": "2026-11-25T21:37:52.392373+00:00"
     },
     {
       "id": "openalex-50c318e007c8",
@@ -3360,11 +3360,11 @@
         "Robotic Locomotion and Control"
       ],
       "readTime": "1 min",
-      "citedBy": 351,
+      "citedBy": 356,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:57.506333+00:00"
+      "_retrievedAt": "2026-11-25T21:37:51.793060+00:00"
     },
     {
       "id": "openalex-df09ae142fc6",
@@ -3372,7 +3372,7 @@
       "type": "paper",
       "title": "A tumour-derived organoid biobank maps cancer gene dependencies",
       "authors": "Carmen Herranz‐Ors, Shriram G. Bhosle, A. E. Beck, James G. R. Gilbert, Gabriele Picco, Jose Espejo Valle-Inclán",
-      "abstract": "Cancer cell lines remain foundational for research and drug discovery, yet they incompletely capture tumour diversity, lack linked patient context, and have undergone adaptation to culture. Tumour organoids are three-dimensional cultures derived from patient tissue that offer a powerful complement to cell lines 1 . Here we derived and characterized 256 clinically annotated tumour organoids directly from colorectal, oesophageal, ovarian, pancreatic and gastric cancers as renewable, genetically stable models. Extensive characterization of each model and matched patient tumour samples included whole-genome and transcriptome sequencing, and genome-wide CRISPR–Cas9 screens across 162 organoids mapped gene dependencies. Integrative analyses revealed genomic and clinical markers of dependency across common and rare subtypes, identified organoid-specific essential genes, and revealed targetab...",
+      "abstract": "Cancer cell lines remain foundational for research and drug discovery, yet they incompletely capture tumour diversity, lack linked patient context, and have undergone adaptation to culture. Tumour organoids are three-dimensional cultures derived from patient tissue that offer a powerful complement to cell lines1. Here we derived and characterized 256 clinically annotated tumour organoids directly from colorectal, oesophageal, ovarian, pancreatic and gastric cancers as renewable, genetically stable models. Extensive characterization of each model and matched patient tumour samples included whole-genome and transcriptome sequencing, and genome-wide CRISPR-Cas9 screens across 162 organoids mapped gene dependencies. Integrative analyses revealed genomic and clinical markers of dependency across common and rare subtypes, identified organoid-specific essential genes, and revealed targetable...",
       "date": "2026-08-05",
       "year": 2026,
       "journal": "Nature",
@@ -3396,7 +3396,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.088366+00:00"
+      "_retrievedAt": "2026-11-25T21:37:52.393342+00:00"
     },
     {
       "id": "openalex-9848aacf7bb1",
@@ -3404,7 +3404,7 @@
       "type": "paper",
       "title": "A compendium of next-generation patient-derived models for diverse cancers",
       "authors": "Dina ElHarouni, Mushriq Al‐Jazrawe, Seongmin Choi, Merve Dede, Toshinori Hinoue, Sean A. Misek",
-      "abstract": "The development of new therapeutics and the validation of pathogenetic cancer mechanisms require representative laboratory models 1,2 . However, existing collections represent only a fraction of the diversity observed in human cancer 2–4 . Recent technologies have enabled efficient in vitro model derivation (for example, tumour organoids) 5 . However, whether these maintain essential properties of patient tumours during long-term expansion has not been systematically investigated. Here we present results of a large-scale international programme—the Human Cancer Models Initiative—which involved the generation of a resource of 665 next-generation models from 2,780 donors with 25 cancer types and integrated tumour–model whole genome, exome, methylome and transcriptome analyses. The resource provides 522 models with comprehensive clinical data, 153 models of rare cancers and 71 models fro...",
+      "abstract": "The development of new therapeutics and the validation of pathogenetic cancer mechanisms require representative laboratory models1,2. However, existing collections represent only a fraction of the diversity observed in human cancer2-4. Recent technologies have enabled efficient in vitro model derivation (for example, tumour organoids)5. However, whether these maintain essential properties of patient tumours during long-term expansion has not been systematically investigated. Here we present results of a large-scale international programme-the Human Cancer Models Initiative-which involved the generation of a resource of 665 next-generation models from 2,780 donors with 25 cancer types and integrated tumour-model whole genome, exome, methylome and transcriptome analyses. The resource provides 522 models with comprehensive clinical data, 153 models of rare cancers and 71 models from part...",
       "date": "2026-08-05",
       "year": 2026,
       "journal": "Nature",
@@ -3428,7 +3428,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.722004+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.088491+00:00"
     },
     {
       "id": "openalex-8f980c3bafcc",
@@ -3460,7 +3460,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:59.472310+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.757451+00:00"
     },
     {
       "id": "openalex-838b1babffe0",
@@ -3488,11 +3488,11 @@
         "Domain Adaptation and Few-Shot Learning"
       ],
       "readTime": "1 min",
-      "citedBy": 252,
+      "citedBy": 263,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:57.507217+00:00"
+      "_retrievedAt": "2026-11-25T21:37:51.793731+00:00"
     },
     {
       "id": "openalex-23e74f3e558d",
@@ -3524,7 +3524,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.721369+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.087740+00:00"
     },
     {
       "id": "openalex-22d15dc3d4da",
@@ -3552,11 +3552,11 @@
         "Genetic Associations and Epidemiology"
       ],
       "readTime": "1 min",
-      "citedBy": 46,
+      "citedBy": 45,
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.085451+00:00"
+      "_retrievedAt": "2026-11-25T21:37:52.390916+00:00"
     },
     {
       "id": "openalex-64bfea83b2bd",
@@ -3588,7 +3588,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:58.086749+00:00"
+      "_retrievedAt": "2026-11-25T21:37:52.391925+00:00"
     },
     {
       "id": "openalex-7d24a7f15d87",
@@ -3620,7 +3620,7 @@
       "qualityScore": 80.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:59.473685+00:00"
+      "_retrievedAt": "2026-11-25T21:37:53.758838+00:00"
     },
     {
       "id": "openalex-d12f8c68ebf5",
@@ -3648,11 +3648,11 @@
         "Topic Modeling"
       ],
       "readTime": "1 min",
-      "citedBy": 251,
+      "citedBy": 245,
       "qualityScore": 84.0,
       "verified": true,
       "_live": true,
-      "_retrievedAt": "2026-11-25T08:23:57.507446+00:00"
+      "_retrievedAt": "2026-11-25T21:37:51.794444+00:00"
     }
   ]
 }
